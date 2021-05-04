@@ -1,5 +1,7 @@
 # cacheUrl: https://GITHUB_USERNAME.github.io/REPO_NAME/cache.json
 sources:
+  - href: https://us-cert.cisa.gov/ncas/alerts.xml
+  - href: https://us-cert.cisa.gov/ncas/current-activity.xml
   - href: https://nvd.nist.gov/feeds/xml/cve/misc/nvd-rss-analyzed.xml
   - href: https://www.fireeye.com/blog/threat-research/_jcr_content.feed
   - href: https://securityreport.com/rss
