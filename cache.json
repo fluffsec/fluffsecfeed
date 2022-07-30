@@ -14,16 +14,6 @@
           "wordCount": 3240,
           "title": "AA22-187A: North Korean State-Sponsored Cyber Actors Use Maui Ransomware to Target the Healthcare and Public Health Sector",
           "imageUrl": null
-        },
-        {
-          "id": "17761 at https://us-cert.cisa.gov",
-          "author": "CISA",
-          "description": "Original release date: June 30, 2022 | Last revised: July 1, 2022\nSummary\nActions to take today to mitigate cyber threats from ransomware:\nknown exploited vulnerabilities.\nNote: this joint Cybersecurity Advisory (CSA) is part of an ongoing #StopRansomware effort to publish advisories for network defenders that detail various ransomware variants and ransomware threat actors. These #StopRansomware advisories include recently and historically observed tactics, techniques, and procedures (TTPs) and indicators of compromise (IOCs) to help organizations protect against ransomware. Visit stopransomware.gov to see all #StopRansomware advisories and to learn more about other ransomware threats and no-cost resources.\nThe Federal Bureau of Investigation (FBI), the Cybersecurity and Infrastructure Sec…",
-          "link": "https://us-cert.cisa.gov/ncas/alerts/aa22-181a",
-          "publishedOn": "2022-06-30T17:00:00.000Z",
-          "wordCount": 2533,
-          "title": "AA22-181A: #StopRansomware: MedusaLocker",
-          "imageUrl": null
         }
       ]
     },
@@ -304,16 +294,6 @@
           "wordCount": 1984,
           "title": "Google Patches Actively Exploited Chrome Bug",
           "imageUrl": "https://media.kasperskycontenthub.com/wp-content/uploads/sites/103/2022/03/25091849/chrome_bug.png"
-        },
-        {
-          "id": "https://kasperskycontenthub.com/threatpost-global/?p=180113",
-          "author": "Elizabeth Montalbano",
-          "description": "Devices from Cisco, Netgear and others at risk from the multi-stage malware, which has been active since April 2020 and shows the work of a sophisticated threat actor.",
-          "link": "https://threatpost.com/zuorat-soho-routers/180113/",
-          "publishedOn": "2022-06-30T17:20:30.000Z",
-          "wordCount": 2321,
-          "title": "ZuoRAT Can Take Over Widely Used SOHO Routers",
-          "imageUrl": "https://media.kasperskycontenthub.com/wp-content/uploads/sites/103/2021/03/02102431/ObliqueRAT-.jpg"
         }
       ]
     },
@@ -1908,16 +1888,6 @@
           "wordCount": 5667,
           "title": "Vulnerability Spotlight: Adobe Acrobat DC use-after-free issues could lead to arbitrary code execution",
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-iVL4eWUSTOwP2IGBZTP6DoCE8ft-T01eCdPwsFXJO5ArJiMDmYEfieOCe6xAHxZdP44gUt09TiKYTEmQ7lPB6wWhtyglRsAQRUh65TZGSfnwnWLsFz00c6H3X8BvitQEqyKYhfinVAfZNq4MAbYby5GlLZSfrbTcGCn4DXY16UyvdMj5oYH2WCXF/w1200-h630-p-k-no-nu/vuln%20spotlight.jpg"
-        },
-        {
-          "id": "https://blog.talosintelligence.com/2022/06/vuln-spotlight-robustel-cell-router.html",
-          "author": null,
-          "description": "Francesco Benvenuto of Cisco Talos discovered these vulnerabilities. Blog by Jon Munshaw. \nCisco Talos recently discovered four vulnerabilities in the Robustel R1510 industrial cellular router. \nThe R1510 is a portable router that shares 2G, 3G and 4G wireless internet access. It comes with several advanced software features for users like the ability to connect to a VPN, cloud data management and smart reboot.\nThere are three command injection vulnerabilities that exist in this device, as well as a data removal vulnerability that could allow an attacker to arbitrarily remove files from the device.\nAn attacker could trigger the command injection issues — TALOS-2022-1570 (CVE-2022-32585), TALOS-2022-1572 (CVE-2022-33312 - CVE-2022-33314) and TALOS-2022-1573 (CVE-2022-33325 - CVE-2022-33329) by sending a specific series of requests to the targeted device. If successful, the attacker could gain the ability to execute remote code. \n\nA similar series of requests could also give an attacker the ability to manipulate a specific function to delete arbitrary files, as outlined in TALOS-2022-1571 (CVE-2022-28127).\nCisco Talos worked with Robustel to ensure that these issues are resolved and an update is available for affected customers, all in adherence to Cisco’s vulnerability disclosure policy. \n\n\nUsers are encouraged to update these affected products as soon as possible: Robustel R1510, version 3.3.0. Talos tested and confirmed this version of the router could be exploited by these vulnerabilities. \n\n\nThe following Snort rules will detect exploitation attempts against this vulnerability: 60007 - 60034. Additional rules may be released in the future and current rules are subject to change, pending additional vulnerability information. For the most current rule information, please refer to your Firepower Management Center or Snort.org.",
-          "link": "https://blog.talosintelligence.com/2022/06/vuln-spotlight-robustel-cell-router.html",
-          "publishedOn": "2022-06-30T17:40:00.002Z",
-          "wordCount": 5659,
-          "title": "Vulnerability Spotlight: Command injection vulnerabilities in Robustel cellular router",
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4PRZGN2J1CZchVRn4GcV-ewVpYOgx8ZNy-B2E2Mstr1kA-e99SZBZR_X5hXdaulVP6w-GIN6OV-gCrxDqxKGF045kWUr7SQ7aSoCxRbc_DRHmYLoA6qCzUNqubGt-6XCMQhAMcGlU3UFosIgs5R-eZ0L3BaHQ4FmOj7jFFsyNGrHAnEOvUbUvOaJK/w1200-h630-p-k-no-nu/vuln%20spotlight.jpg"
         }
       ]
     },
@@ -2144,6 +2114,28 @@
       "feedUrl": "https://thehackernews.com/feeds/posts/default",
       "siteUrl": "https://thehackernews.com/",
       "articles": [
+        {
+          "id": "tag:blogger.com,1999:blog-4802841478634147276.post-356107816827825018",
+          "author": "noreply@blogger.com (Ravie Lakshmanan)",
+          "description": "A threat actor operating with interests aligned with North Korea has been deploying a malicious extension on Chromium-based web browsers that's capable of stealing email content from Gmail and AOL.\nCybersecurity firm Volexity attributed the malware to an activity cluster it calls SharpTongue, which is said to share overlaps with an adversarial collective publicly referred to under the name",
+          "link": "https://thehackernews.com/2022/07/north-korean-hackers-using-malicious.html",
+          "publishedOn": "2022-07-30T04:20:43.972Z",
+          "wordCount": null,
+          "title": "North Korean Hackers Using Malicious Browser Extension to Spy on Email Accounts",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "tag:blogger.com,1999:blog-4802841478634147276.post-1657079912804334292",
+          "author": "noreply@blogger.com (Ravie Lakshmanan)",
+          "description": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added the recently disclosed Atlassian security flaw to its Known Exploited Vulnerabilities Catalog, based on evidence of active exploitation.\nThe vulnerability, tracked as CVE-2022-26138, concerns the use of hard-coded credentials when the Questions For Confluence app is enabled in Confluence Server and Data Center",
+          "link": "https://thehackernews.com/2022/07/cisa-warns-of-atlassian-confluence-hard.html",
+          "publishedOn": "2022-07-30T04:01:25.120Z",
+          "wordCount": null,
+          "title": "CISA Warns of Atlassian Confluence Hard-Coded Credential Bug Exploited in Attacks",
+          "itunes": {},
+          "imageUrl": null
+        },
         {
           "id": "tag:blogger.com,1999:blog-4802841478634147276.post-3636237590014702315",
           "author": "noreply@blogger.com (Ravie Lakshmanan)",
