@@ -2,10 +2,93 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-08-01T13:49:52.682Z</updated>
+    <updated>2022-08-01T19:18:33.930Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Credential Canaries Create Minefield for Attackers]]></title>
+        <id>https://www.darkreading.com/emerging-tech/credential-canaries-create-minefield-for-attackers</id>
+        <link href="https://www.darkreading.com/emerging-tech/credential-canaries-create-minefield-for-attackers"/>
+        <updated>2022-08-01T18:57:23.000Z</updated>
+        <summary type="html"><![CDATA[Canary tokens — also known as honey tokens — force attackers to second-guess their potential good fortune when they come across user and application secrets.]]></summary>
+        <author>
+            <name>Robert Lemos, Contributing Writer, Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chromium Browsers Allow Data Exfiltration via Bookmark Syncing]]></title>
+        <id>https://www.darkreading.com/cloud/chromium-browsers-data-exfiltration-bookmark-syncing</id>
+        <link href="https://www.darkreading.com/cloud/chromium-browsers-data-exfiltration-bookmark-syncing"/>
+        <updated>2022-08-01T17:42:46.000Z</updated>
+        <summary type="html"><![CDATA["Bruggling" emerges as a novel technique for pilfering data out from a compromised environment — or for sneaking in malicious code and attack tools.]]></summary>
+        <author>
+            <name>Jai Vijayan, Contributing Writer, Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Name That Edge Toon: Up a Tree]]></title>
+        <id>https://www.darkreading.com/edge-articles/name-that-edge-toon-up-a-tree</id>
+        <link href="https://www.darkreading.com/edge-articles/name-that-edge-toon-up-a-tree"/>
+        <updated>2022-08-01T16:41:05.000Z</updated>
+        <summary type="html"><![CDATA[Come up with a clever caption, and our panel of experts will reward the winner with a $25 Amazon gift card.]]></summary>
+        <author>
+            <name>John Klossner, Cartoonist</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vulnerability Spotlight: How misusing properly serialized data opened TCL LinkHub Mesh Wi-Fi system to 17 vulnerabilities]]></title>
+        <id>https://blog.talosintelligence.com/2022/08/vulnerability-spotlight-how-misusing.html</id>
+        <link href="https://blog.talosintelligence.com/2022/08/vulnerability-spotlight-how-misusing.html"/>
+        <updated>2022-08-01T16:18:00.002Z</updated>
+        <summary type="html"><![CDATA[By Carl Hurd. 
+The TCL LinkHub Mesh Wi-Fi system is a multi-device Wi-Fi system that allows users to expand access to their network over a large physical area. What makes the LInkHub system unique is the lack of a network interface to manage the devices individually or in the mesh. Instead, a phone application is the only method to interact with these devices. This is noteworthy because, in theory, it significantly reduces the common attack surface on most small office/home office (SOHO) routers, as it moves the entire HTTP/S code base from the product. This means, in theory, fewer issues with integration or hacked-together scripts to trigger various functions within the device. One of the issues with this approach though is that its functionality still needs to reside somewhere for the us…]]></summary>
+        <author>
+            <name>Cisco Talos Intelligence Group - Comprehensive Threat Intelligence</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Live Demo] Ridiculously Easy Security Awareness Training and Phishing]]></title>
+        <id>https://blog.knowbe4.com/live-demo-security-awareness-training-and-phishing</id>
+        <link href="https://blog.knowbe4.com/live-demo-security-awareness-training-and-phishing"/>
+        <updated>2022-08-01T15:16:09.000Z</updated>
+        <summary type="html"><![CDATA[Old-school awareness training does not hack it anymore. Your email filters have an average 7-10% failure rate; you need a strong human firewall as your last line of defense.]]></summary>
+        <author>
+            <name>Stu Sjouwerman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Researchers Discover Nearly 3,200 Mobile Apps Leaking Twitter API Keys]]></title>
+        <id>tag:blogger.com,1999:blog-4802841478634147276.post-767016245283976229</id>
+        <link href="https://thehackernews.com/2022/08/researchers-discover-nearly-3200-mobile.html"/>
+        <updated>2022-08-01T14:09:45.936Z</updated>
+        <summary type="html"><![CDATA[Researchers have uncovered a list of 3,207 apps, some of which can be utilized to gain unauthorized access to Twitter accounts.
+The takeover is made possible, thanks to a leak of legitimate Consumer Key and Consumer Secret information, respectively, Singapore-based cybersecurity firm CloudSEK said in a report exclusively shared with The Hacker News.
+"Out of 3,207, 230 apps are leaking all four]]></summary>
+        <author>
+            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Two Key Ways Development Teams Can Increase Their Security Maturity]]></title>
+        <id>tag:blogger.com,1999:blog-4802841478634147276.post-7716716100793511137</id>
+        <link href="https://thehackernews.com/2022/08/two-key-ways-development-teams-can.html"/>
+        <updated>2022-08-01T14:05:14.046Z</updated>
+        <summary type="html"><![CDATA[Now more than ever, organizations need to enable their development teams to build and grow their security skills. Today organizations face a threat landscape where individuals, well-financed syndicates, and state actors are actively trying to exploit errors in software. Yet, according to recent global research, 67% of developers that were interviewed said they were still shipping code they knew]]></summary>
+        <author>
+            <name>noreply@blogger.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[For Big Tech, Neutrality Is Not an Option — and Never Really Was]]></title>
+        <id>https://www.darkreading.com/operations/for-big-tech-neutrality-is-not-an-option-and-never-really-was</id>
+        <link href="https://www.darkreading.com/operations/for-big-tech-neutrality-is-not-an-option-and-never-really-was"/>
+        <updated>2022-08-01T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Tech companies play a vital role in global communication, which has profound effects on how politics, policies, and human rights issues play out.]]></summary>
+        <author>
+            <name>Francis Dinha, CEO &amp; Co-Founder, OpenVPN</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Securing Your Move to the Hybrid Cloud]]></title>
         <id>https://kasperskycontenthub.com/threatpost-global/?p=180335</id>

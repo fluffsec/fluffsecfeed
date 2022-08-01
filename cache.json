@@ -314,6 +314,66 @@
       "siteUrl": "https://www.darkreading.com",
       "articles": [
         {
+          "id": "https://www.darkreading.com/emerging-tech/credential-canaries-create-minefield-for-attackers",
+          "author": "Robert Lemos, Contributing Writer, Dark Reading",
+          "description": "Canary tokens — also known as honey tokens — force attackers to second-guess their potential good fortune when they come across user and application secrets.",
+          "link": "https://www.darkreading.com/emerging-tech/credential-canaries-create-minefield-for-attackers",
+          "publishedOn": "2022-08-01T18:57:23.000Z",
+          "wordCount": 13677,
+          "title": "Credential Canaries Create Minefield for Attackers",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt58481326324d6911/60b1e9a55d34de550780a990/Robert-Lemos.png",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt58481326324d6911/60b1e9a55d34de550780a990/Robert-Lemos.png"
+        },
+        {
+          "id": "https://www.darkreading.com/cloud/chromium-browsers-data-exfiltration-bookmark-syncing",
+          "author": "Jai Vijayan, Contributing Writer, Dark Reading",
+          "description": "\"Bruggling\" emerges as a novel technique for pilfering data out from a compromised environment — or for sneaking in malicious code and attack tools.",
+          "link": "https://www.darkreading.com/cloud/chromium-browsers-data-exfiltration-bookmark-syncing",
+          "publishedOn": "2022-08-01T17:42:46.000Z",
+          "wordCount": 14422,
+          "title": "Chromium Browsers Allow Data Exfiltration via Bookmark Syncing",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt02d79fb9a44a4258/60b1e9dd2a25046b35110696/Jai-Vijayan.jpeg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt02d79fb9a44a4258/60b1e9dd2a25046b35110696/Jai-Vijayan.jpeg"
+        },
+        {
+          "id": "https://www.darkreading.com/edge-articles/name-that-edge-toon-up-a-tree",
+          "author": "John Klossner, Cartoonist",
+          "description": "Come up with a clever caption, and our panel of experts will reward the winner with a $25 Amazon gift card.",
+          "link": "https://www.darkreading.com/edge-articles/name-that-edge-toon-up-a-tree",
+          "publishedOn": "2022-08-01T16:41:05.000Z",
+          "wordCount": 10841,
+          "title": "Name That Edge Toon: Up a Tree",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltf97d71984b60d7ed/60b1e88b5d34de550780a96e/Klossner_iwk_photo.gif",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltf97d71984b60d7ed/60b1e88b5d34de550780a96e/Klossner_iwk_photo.gif"
+        },
+        {
+          "id": "https://www.darkreading.com/operations/for-big-tech-neutrality-is-not-an-option-and-never-really-was",
+          "author": "Francis Dinha, CEO & Co-Founder, OpenVPN",
+          "description": "Tech companies play a vital role in global communication, which has profound effects on how politics, policies, and human rights issues play out.",
+          "link": "https://www.darkreading.com/operations/for-big-tech-neutrality-is-not-an-option-and-never-really-was",
+          "publishedOn": "2022-08-01T14:00:00.000Z",
+          "wordCount": 13693,
+          "title": "For Big Tech, Neutrality Is Not an Option — and Never Really Was",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt2479d31665ada140/62d717f13ca0260eb3c97f95/FD.jpg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt2479d31665ada140/62d717f13ca0260eb3c97f95/FD.jpg"
+        },
+        {
           "id": "https://www.darkreading.com/dr-tech/aws-focuses-on-identity-access-management-at-re-inforce",
           "author": "Jeffrey Schwartz, Contributing Writer",
           "description": "Identity and access management was front and center at AWS re:inforce this week.",
@@ -1861,6 +1921,16 @@
       "siteUrl": "https://blog.talosintelligence.com/search/label/vulnerabilities",
       "articles": [
         {
+          "id": "https://blog.talosintelligence.com/2022/08/vulnerability-spotlight-how-misusing.html",
+          "author": null,
+          "description": "By Carl Hurd. \nThe TCL LinkHub Mesh Wi-Fi system is a multi-device Wi-Fi system that allows users to expand access to their network over a large physical area. What makes the LInkHub system unique is the lack of a network interface to manage the devices individually or in the mesh. Instead, a phone application is the only method to interact with these devices. This is noteworthy because, in theory, it significantly reduces the common attack surface on most small office/home office (SOHO) routers, as it moves the entire HTTP/S code base from the product. This means, in theory, fewer issues with integration or hacked-together scripts to trigger various functions within the device. One of the issues with this approach though is that its functionality still needs to reside somewhere for the us…",
+          "link": "https://blog.talosintelligence.com/2022/08/vulnerability-spotlight-how-misusing.html",
+          "publishedOn": "2022-08-01T16:18:00.002Z",
+          "wordCount": 6309,
+          "title": "Vulnerability Spotlight: How misusing properly serialized data opened TCL LinkHub Mesh Wi-Fi system to 17 vulnerabilities",
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDgrC9KSSkrZlGwWQIWPBecDX3v6kJn_d22lteS6JSx0fLaoin7i0rjFAKpvHne1_hXb-lyngMfD0skduBXM5Hzn4JMIdccNP3LEQyLhefhlXTGtxhQ3dYOvRaq_8bnXhN6mL858u8si-8NdeSJGDNmp35hhHKfuoJvqoJsC-O7sa0qH8AiNtKkEEe/w1200-h630-p-k-no-nu/vuln%20spotlight.jpg"
+        },
+        {
           "id": "https://blog.talosintelligence.com/2022/07/vulnerability-spotlight-how-code-re-use.html",
           "author": null,
           "description": "By Francesco Benvenuto. \nRecently, I was performing some research on a wireless router and noticed the following piece of code: \n\nThis unescape function will revert the URL encoded bytes to its original form. But something specifically caught my attention: There was no size check for the performed operations and the function assumes that after a ‘%’ there are always two bytes. So, what would happen if after ‘%’, only one character existed? The answer is that the s+3, in the strcpy, will access after the end of the string. So, it could lead to memory corruption. \nThen, I tried to exploit this bug on the router in question. But based on how the URL string was managed in that device, it was not possible. But it had the potential to crash other web servers that used this piece of code. That fu…",
@@ -1999,6 +2069,16 @@
       "siteUrl": "https://blog.knowbe4.com",
       "articles": [
         {
+          "id": "https://blog.knowbe4.com/live-demo-security-awareness-training-and-phishing",
+          "author": "Stu Sjouwerman",
+          "description": "Old-school awareness training does not hack it anymore. Your email filters have an average 7-10% failure rate; you need a strong human firewall as your last line of defense.",
+          "link": "https://blog.knowbe4.com/live-demo-security-awareness-training-and-phishing",
+          "publishedOn": "2022-08-01T15:16:09.000Z",
+          "wordCount": 1854,
+          "title": "[Live Demo] Ridiculously Easy Security Awareness Training and Phishing",
+          "imageUrl": "https://blog.knowbe4.com/hubfs/Social%20Image%20Repository/Live%20Demos/KMSAT-Demo-SM-2021-2.jpg#keepProtocol"
+        },
+        {
           "id": "https://blog.knowbe4.com/a-widespread-multistage-investment-scam",
           "author": "Stu Sjouwerman",
           "description": "A complex and ambitious investment scam has used more than 10,000 domains to induce speculators to give up not just funds, but personal information as well. Researchers at security firm Group-IB describe the campaign as one that proceeds through several distinct stages. It begins with ads placed in social media, or with pages displayed in compromised Facebook or YouTube accounts.",
@@ -2135,6 +2215,28 @@
       "feedUrl": "https://thehackernews.com/feeds/posts/default",
       "siteUrl": "https://thehackernews.com/",
       "articles": [
+        {
+          "id": "tag:blogger.com,1999:blog-4802841478634147276.post-767016245283976229",
+          "author": "noreply@blogger.com (Ravie Lakshmanan)",
+          "description": "Researchers have uncovered a list of 3,207 apps, some of which can be utilized to gain unauthorized access to Twitter accounts.\nThe takeover is made possible, thanks to a leak of legitimate Consumer Key and Consumer Secret information, respectively, Singapore-based cybersecurity firm CloudSEK said in a report exclusively shared with The Hacker News.\n\"Out of 3,207, 230 apps are leaking all four",
+          "link": "https://thehackernews.com/2022/08/researchers-discover-nearly-3200-mobile.html",
+          "publishedOn": "2022-08-01T14:09:45.936Z",
+          "wordCount": null,
+          "title": "Researchers Discover Nearly 3,200 Mobile Apps Leaking Twitter API Keys",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "tag:blogger.com,1999:blog-4802841478634147276.post-7716716100793511137",
+          "author": "noreply@blogger.com (The Hacker News)",
+          "description": "Now more than ever, organizations need to enable their development teams to build and grow their security skills. Today organizations face a threat landscape where individuals, well-financed syndicates, and state actors are actively trying to exploit errors in software. Yet, according to recent global research, 67% of developers that were interviewed said they were still shipping code they knew",
+          "link": "https://thehackernews.com/2022/08/two-key-ways-development-teams-can.html",
+          "publishedOn": "2022-08-01T14:05:14.046Z",
+          "wordCount": null,
+          "title": "Two Key Ways Development Teams Can Increase Their Security Maturity",
+          "itunes": {},
+          "imageUrl": null
+        },
         {
           "id": "tag:blogger.com,1999:blog-4802841478634147276.post-2206789217564065274",
           "author": "noreply@blogger.com (Ravie Lakshmanan)",
