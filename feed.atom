@@ -2,10 +2,74 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-08-02T07:24:22.976Z</updated>
+    <updated>2022-08-02T13:45:23.501Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[CyberheistNews Vol 12 #31 [Heads Up] Crafty Microsoft USB Scam Shows the Importance of Security Awareness Training]]></title>
+        <id>https://blog.knowbe4.com/cyberheistnews-vol-12-31-heads-up-crafty-microsoft-usb-scam-shows-the-importance-of-security-awareness-training</id>
+        <link href="https://blog.knowbe4.com/cyberheistnews-vol-12-31-heads-up-crafty-microsoft-usb-scam-shows-the-importance-of-security-awareness-training"/>
+        <updated>2022-08-02T13:38:15.000Z</updated>
+        <summary type="html"><![CDATA[CyberheistNews Vol 12 #31 [Heads Up] Crafty Microsoft USB Scam Shows the Importance of Security Awareness Training]]></summary>
+        <author>
+            <name>Stu Sjouwerman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cyber Insurance Expected to Continue to Rise as Sophistication and Cost of Ransomware Attacks Increase]]></title>
+        <id>https://blog.knowbe4.com/cyber-insurance-expected-to-continue-to-rise-as-sophistication-and-cost-of-ransomware-attacks-increase</id>
+        <link href="https://blog.knowbe4.com/cyber-insurance-expected-to-continue-to-rise-as-sophistication-and-cost-of-ransomware-attacks-increase"/>
+        <updated>2022-08-02T13:07:39.000Z</updated>
+        <summary type="html"><![CDATA[New data about the state of cyber insurance shows that given the current loss ratios by insurers – and the reasons behind those losses – will result in higher premiums for the foreseeable future.]]></summary>
+        <author>
+            <name>Stu Sjouwerman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Experian Customer “Impersonation” Account Takeover Uncovered by KrebsOnSecurity]]></title>
+        <id>https://blog.knowbe4.com/experian-customer-impersonation-account-takeover-uncovered-by-krebsonsecurity</id>
+        <link href="https://blog.knowbe4.com/experian-customer-impersonation-account-takeover-uncovered-by-krebsonsecurity"/>
+        <updated>2022-08-02T13:07:35.000Z</updated>
+        <summary type="html"><![CDATA[After a few notifications of a potential problem with Experian by his readership, Brian Krebs and team checked out Experian’s account signup process and found some disturbing news.]]></summary>
+        <author>
+            <name>Stu Sjouwerman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New 'ParseThru' Parameter Smuggling Vulnerability Affects Golang-based Applications]]></title>
+        <id>tag:blogger.com,1999:blog-4802841478634147276.post-2640778599302498629</id>
+        <link href="https://thehackernews.com/2022/08/new-parsethru-parameter-smuggling.html"/>
+        <updated>2022-08-02T12:05:19.919Z</updated>
+        <summary type="html"><![CDATA[Security researchers have discovered a new vulnerability called ParseThru affecting Golang-based applications that could be abused to gain unauthorized access to cloud-based applications.
+"The newly discovered vulnerability allows a threat actor to bypass validations under certain conditions, as a result of the use of unsafe URL parsing methods built in the language," Israeli cybersecurity firm]]></summary>
+        <author>
+            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is ransomware and how can you defend your business from it?]]></title>
+        <id>tag:blogger.com,1999:blog-4802841478634147276.post-170786089995789313</id>
+        <link href="https://thehackernews.com/2022/08/what-is-ransomware-how-to-defend-your.html"/>
+        <updated>2022-08-02T11:25:05.649Z</updated>
+        <summary type="html"><![CDATA[Ransomware is a kind of malware used by cybercriminals to stop users from accessing their systems or files; the cybercriminals then threaten to leak, destroy or withhold sensitive information unless a ransom is paid.
+Ransomware attacks can target either the data held on computer systems (known as locker ransomware) or devices (crypto-ransomware). In both instances, once a ransom is paid, threat]]></summary>
+        <author>
+            <name>noreply@blogger.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LockBit Ransomware Abuses Windows Defender to Deploy Cobalt Strike Payload]]></title>
+        <id>tag:blogger.com,1999:blog-4802841478634147276.post-6325931217584980108</id>
+        <link href="https://thehackernews.com/2022/08/lockbit-ransomware-abuses-windows.html"/>
+        <updated>2022-08-02T08:07:34.219Z</updated>
+        <summary type="html"><![CDATA[A threat actor associated with the LockBit 3.0 ransomware-as-a-service (RaaS) operation has been observed abusing the Windows Defender command-line tool to decrypt and load Cobalt Strike payloads. 
+According to a report published by SentinelOne last week, the incident occurred after obtaining initial access via the Log4Shell vulnerability against an unpatched VMware Horizon Server.
+"Once initial]]></summary>
+        <author>
+            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[DoJ: Foreign Adversaries Breach US Federal Court Records]]></title>
         <id>https://www.darkreading.com/attacks-breaches/doj-foreign-adversaries-breach-us-federal-court-records</id>
