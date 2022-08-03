@@ -2,10 +2,158 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-08-03T13:45:16.773Z</updated>
+    <updated>2022-08-03T19:19:21.463Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Vulnerability Spotlight: Vulnerabilities in Alyac antivirus program could stop virus scanning, cause code execution]]></title>
+        <id>https://blog.talosintelligence.com/2022/05/vuln-spotlight-alyac-est.html</id>
+        <link href="https://blog.talosintelligence.com/2022/05/vuln-spotlight-alyac-est.html"/>
+        <updated>2022-08-03T18:46:00.002Z</updated>
+        <summary type="html"><![CDATA[Jaewon Min of Cisco Talos discovered these vulnerabilities. Blog by Jon Munshaw. 
+Update (Aug. 3, 2022): Talos disclosed two new vulnerabilities in the Alyac antivirus software and added their details to this post.
+Cisco Talos recently discovered out-of-bounds read and buffer overflow vulnerabilities in ESTsecurity Corp.’s Alyac antivirus software that could cause a denial-of-service condition or arbitrary code execution. Alyac is an antivirus software developed for Microsoft Windows machines. 
+TALOS-2022-1452 (CVE-2022-21147) is a vulnerability that exists in a specific Alyac module that, eventually, leads to a crash of Alyac’s scanning process, which effectively neutralizes the antivirus scan. If successful, an attacker could trigger this vulnerability to stop the program from scanning for malware, which would be crucial in a potential attack scenario. 
+TALOS-2022-1527 (CVE-2022-32543) and TALOS-2022-1533 (CVE-2022-29886) are heap-based buffer overflow vulnerabilities that an attacker could exploit to execute arbitrary code on the targeted machine. The adversary would have to convince a user to open a specially crafted OLE file to trigger this condition.
+
+Cisco Talos worked with ESTsecurity to ensure that these issues are resolved and an update is available for affected customers, all in adherence to Cisco’s vulnerability disclosure policy. 
+
+
+Users are encouraged to update these affected products as soon as possible: ESTsoft Alyac, versions 2.5.7.7 and 2.5.8.544. Talos tested and confirmed ESTsoft Alyac, version 2.5.7.7, is affected by TALOS-2022-1452. Version 2.5.8.544 is vulnerable to TALOS-2022-1533 and TALOS-2022-1527.
+
+
+The following Snort rules will detect exploitation attempts against these vulnerabilities: 59014, 59015, and 60035 - 60042. Additional rules may be released in the future and current rules are subject to change, pending additional vulnerability information. For the most current rule information, please refer to your Cisco Secure Firewall Management Center or Snort.org.]]></summary>
+        <author>
+            <name>Cisco Talos Intelligence Group - Comprehensive Threat Intelligence</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cyberattackers Drain Nearly $6M From Solana Crypto Wallets]]></title>
+        <id>https://www.darkreading.com/cloud/cyberattackers-drain-6m-solana-crypto-wallets</id>
+        <link href="https://www.darkreading.com/cloud/cyberattackers-drain-6m-solana-crypto-wallets"/>
+        <updated>2022-08-03T17:42:11.000Z</updated>
+        <summary type="html"><![CDATA[So far, the ongoing attack has impacted nearly 8,000 Solana hot wallets.]]></summary>
+        <author>
+            <name>Dark Reading Staff, Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Single-Core CPU Cracked Post-Quantum Encryption Candidate Algorithm in Just an Hour]]></title>
+        <id>tag:blogger.com,1999:blog-4802841478634147276.post-754771862655875762</id>
+        <link href="https://thehackernews.com/2022/08/single-core-cpu-cracked-post-quantum.html"/>
+        <updated>2022-08-03T17:01:11.109Z</updated>
+        <summary type="html"><![CDATA[A late-stage candidate encryption algorithm that was meant to withstand decryption by powerful quantum computers in the future has been trivially cracked by using a computer running Intel Xeon CPU in an hour's time.
+The algorithm in question is SIKE — short for Supersingular Isogeny Key Encapsulation — which made it to the fourth round of the Post-Quantum Cryptography (PQC) standardization]]></summary>
+        <author>
+            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Zero-Day Defense: Tips for Defusing the Threat]]></title>
+        <id>https://www.darkreading.com/attacks-breaches/zero-day-defense-tips-for-defusing-the-threat</id>
+        <link href="https://www.darkreading.com/attacks-breaches/zero-day-defense-tips-for-defusing-the-threat"/>
+        <updated>2022-08-03T17:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Because they leave so little time to patch and defuse, zero-day threats require a proactive, multilayered approach based on zero trust.]]></summary>
+        <author>
+            <name>Ryan Barnett, Principal Security Researcher, Akamai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ShiftLeft Appoints Prevention-First, Cybersecurity Visionary and AI/ML Pioneer Stuart McClure as CEO]]></title>
+        <id>https://www.darkreading.com/application-security/shiftleft-appoints-prevention-first-cybersecurity-visionary-and-ai-ml-pioneer-stuart-mcclure-as-ceo</id>
+        <link href="https://www.darkreading.com/application-security/shiftleft-appoints-prevention-first-cybersecurity-visionary-and-ai-ml-pioneer-stuart-mcclure-as-ceo"/>
+        <updated>2022-08-03T15:38:05.000Z</updated>
+        <summary type="html"><![CDATA[Serial entrepreneur, cybersecurity leader, and industry veteran joins ShiftLeft to drive growth and AI/ML innovation globally.]]></summary>
+        <author>
+            <name>Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Druva Introduces the Data Resiliency Guarantee of up to $10 Million]]></title>
+        <id>https://www.darkreading.com/risk/druva-introduces-the-data-resiliency-guarantee-of-up-to-10-million</id>
+        <link href="https://www.darkreading.com/risk/druva-introduces-the-data-resiliency-guarantee-of-up-to-10-million"/>
+        <updated>2022-08-03T15:33:00.000Z</updated>
+        <summary type="html"><![CDATA[The new program offers robust protection across all five data risk categories: cyber, human, application, operation, and environmental.]]></summary>
+        <author>
+            <name>Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[On-Demand Webinar: New 2022 Phishing By Industry Benchmarking Report: How Does Your Organization Measure Up]]></title>
+        <id>https://blog.knowbe4.com/2022-phishing-by-industry-benchmarking-webinar</id>
+        <link href="https://blog.knowbe4.com/2022-phishing-by-industry-benchmarking-webinar"/>
+        <updated>2022-08-03T15:28:49.000Z</updated>
+        <summary type="html"><![CDATA[As a security leader, you have a lot on your plate. Even as you increase your budget for sophisticated security software, your exposure to cybercrime keeps going up. IT security seems to be a race between effective technology and ever evolving attack strategies from the threat actors. However, there’s an often-overlooked security layer that can significantly reduce your organization’s attack surface: New-school security awareness training.]]></summary>
+        <author>
+            <name>Stu Sjouwerman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[VMWare Urges Users to Patch Critical Authentication Bypass Bug]]></title>
+        <id>https://kasperskycontenthub.com/threatpost-global/?p=180346</id>
+        <link href="https://threatpost.com/vmware-patch-critical-bug/180346/"/>
+        <updated>2022-08-03T15:23:16.000Z</updated>
+        <summary type="html"><![CDATA[Vulnerability—for which a proof-of-concept is forthcoming—is one of a string of flaws the company fixed that could lead to an attack chain.]]></summary>
+        <author>
+            <name>Elizabeth Montalbano</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CompTIA CEO Outlines Initiative to Create the Pre-eminent Destination to Start, Build and ‘Supercharge’ a Tech Career]]></title>
+        <id>https://www.darkreading.com/careers-and-people/comptia-ceo-outlines-initiative-to-create-the-pre-eminent-destination-to-start-build-and-supercharge-a-tech-career</id>
+        <link href="https://www.darkreading.com/careers-and-people/comptia-ceo-outlines-initiative-to-create-the-pre-eminent-destination-to-start-build-and-supercharge-a-tech-career"/>
+        <updated>2022-08-03T15:21:40.000Z</updated>
+        <summary type="html"><![CDATA[Todd Thibodeaux uses ChannelCon 2022 state of the industry remarks to unveil CompTIA’s Project Agora; invites broad industry participation in the effort to fight for tech talent.]]></summary>
+        <author>
+            <name>Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[VMware Releases Security Updates]]></title>
+        <id>17842 at https://us-cert.cisa.gov</id>
+        <link href="https://us-cert.cisa.gov/ncas/current-activity/2022/08/03/vmware-releases-security-updates-0"/>
+        <updated>2022-08-03T15:16:31.000Z</updated>
+        <summary type="html"><![CDATA[Original release date: August 3, 2022
+VMware has released security updates to address multiple vulnerabilities in VMware’s Workspace ONE Access, Access Connector, Identity Manager, Identity Manager Connector, and vRealize Automation. A remote attacker could exploit some of these vulnerabilities to take control of an affected system. 
+CISA encourages users and administrators to review VMware Security Advisory VMSA-2022-0021 and apply the necessary updates. 
+
+ 
+This product is provided subject to this Notification and this Privacy & Use policy.]]></summary>
+        <author>
+            <name>CISA</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Netskope Acquires Infiot, Will Deliver Fully Integrated, Single-Vendor SASE Platform]]></title>
+        <id>https://www.darkreading.com/cloud/netskope-acquires-infiot-will-deliver-fully-integrated-single-vendor-sase-platform</id>
+        <link href="https://www.darkreading.com/cloud/netskope-acquires-infiot-will-deliver-fully-integrated-single-vendor-sase-platform"/>
+        <updated>2022-08-03T14:16:54.000Z</updated>
+        <summary type="html"><![CDATA[Converged SASE platform provides AI-driven Zero trust security and simplified, optimized connectivity to any network location or device, including IoT.]]></summary>
+        <author>
+            <name>Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[5 Ways Chess Can Inspire Strategic Cybersecurity Thinking]]></title>
+        <id>https://www.darkreading.com/careers-and-people/5-ways-chess-can-inspire-strategic-cybersecurity-thinking</id>
+        <link href="https://www.darkreading.com/careers-and-people/5-ways-chess-can-inspire-strategic-cybersecurity-thinking"/>
+        <updated>2022-08-03T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Rising interest in chess may feed the next generation of cybersecurity experts.]]></summary>
+        <author>
+            <name>Miki Shifman, CTO and Co-Founder, Cylus</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[American Express, Snapchat Open-Redirect Vulnerabilities Exploited in Phishing Scheme]]></title>
+        <id>https://www.darkreading.com/cloud/american-express-snapchat-open-redirect-vulnerabilities-exploited-phishing</id>
+        <link href="https://www.darkreading.com/cloud/american-express-snapchat-open-redirect-vulnerabilities-exploited-phishing"/>
+        <updated>2022-08-03T13:52:16.000Z</updated>
+        <summary type="html"><![CDATA[Phishing operators are taking advantage of security bugs in the Amex and Snapchat websites (the latter is unpatched) to steer victims to phishing pages looking to harvest Google and Microsoft logins.]]></summary>
+        <author>
+            <name>Nathan Eddy, Contributing Writer, Dark Reading</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Labor Market Social Engineering: Supply-Side and Demand-Side]]></title>
         <id>https://blog.knowbe4.com/labor-market-social-engineering-supply-side-and-demand-side</id>

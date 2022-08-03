@@ -23,6 +23,16 @@
       "siteUrl": "https://us-cert.cisa.gov/",
       "articles": [
         {
+          "id": "17842 at https://us-cert.cisa.gov",
+          "author": "CISA",
+          "description": "Original release date: August 3, 2022\nVMware has released security updates to address multiple vulnerabilities in VMware’s Workspace ONE Access, Access Connector, Identity Manager, Identity Manager Connector, and vRealize Automation. A remote attacker could exploit some of these vulnerabilities to take control of an affected system. \nCISA encourages users and administrators to review VMware Security Advisory VMSA-2022-0021 and apply the necessary updates. \n\n \nThis product is provided subject to this Notification and this Privacy & Use policy.",
+          "link": "https://us-cert.cisa.gov/ncas/current-activity/2022/08/03/vmware-releases-security-updates-0",
+          "publishedOn": "2022-08-03T15:16:31.000Z",
+          "wordCount": 1075,
+          "title": "VMware Releases Security Updates",
+          "imageUrl": null
+        },
+        {
           "id": "17837 at https://us-cert.cisa.gov",
           "author": "CISA",
           "description": "Original release date: July 29, 2022\nCISA has added one new vulnerability to its Known Exploited Vulnerabilities Catalog, based on evidence of active exploitation. These types of vulnerabilities are a frequent attack vector for malicious cyber actors and pose significant risk to the federal enterprise. Note: To view the newly added vulnerabilities in the catalog, click on the arrow in the \"Date Added to Catalog\" column, which will sort by descending dates.\nBinding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the Known Exploited Vulnerabilities Catalog as a living list of known CVEs that carry significant risk to the federal enterprise. BOD 22-01 requires FCEB agencies to remediate identified vulnerabilities by the due date to protect FCEB networks against active threats. See the BOD 22-01 Fact Sheet for more information.\nAlthough BOD 22-01 only applies to FCEB agencies, CISA strongly urges all organizations to reduce their exposure to cyberattacks by prioritizing timely remediation of Catalog vulnerabilities as part of their vulnerability management practice. CISA will continue to add vulnerabilities to the Catalog that meet the specified criteria.\nThis product is provided subject to this Notification and this Privacy & Use policy.",
@@ -267,6 +277,16 @@
       "siteUrl": "https://threatpost.com",
       "articles": [
         {
+          "id": "https://kasperskycontenthub.com/threatpost-global/?p=180346",
+          "author": "Elizabeth Montalbano",
+          "description": "Vulnerability—for which a proof-of-concept is forthcoming—is one of a string of flaws the company fixed that could lead to an attack chain.",
+          "link": "https://threatpost.com/vmware-patch-critical-bug/180346/",
+          "publishedOn": "2022-08-03T15:23:16.000Z",
+          "wordCount": 2162,
+          "title": "VMWare Urges Users to Patch Critical Authentication Bypass Bug",
+          "imageUrl": "https://media.kasperskycontenthub.com/wp-content/uploads/sites/103/2016/11/06232507/vmware-patch.jpg"
+        },
+        {
           "id": "https://kasperskycontenthub.com/threatpost-global/?p=180342",
           "author": "Elizabeth Montalbano",
           "description": "DMARC analysis by Proofpoint shows that institutions in the U.S. have among some of the poorest protections to prevent domain spoofing and lack protections to block fraudulent emails.",
@@ -333,6 +353,106 @@
       "feedUrl": "https://www.darkreading.com/rss.xml",
       "siteUrl": "https://www.darkreading.com",
       "articles": [
+        {
+          "id": "https://www.darkreading.com/cloud/cyberattackers-drain-6m-solana-crypto-wallets",
+          "author": "Dark Reading Staff, Dark Reading",
+          "description": "So far, the ongoing attack has impacted nearly 8,000 Solana hot wallets.",
+          "link": "https://www.darkreading.com/cloud/cyberattackers-drain-6m-solana-crypto-wallets",
+          "publishedOn": "2022-08-03T17:42:11.000Z",
+          "wordCount": 11008,
+          "title": "Cyberattackers Drain Nearly $6M From Solana Crypto Wallets",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blte161b23f0fd3a84b/60b1ea374e7eb868c4c6a293/dr_staff_125x125.jpg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blte161b23f0fd3a84b/60b1ea374e7eb868c4c6a293/dr_staff_125x125.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/attacks-breaches/zero-day-defense-tips-for-defusing-the-threat",
+          "author": "Ryan Barnett, Principal Security Researcher, Akamai",
+          "description": "Because they leave so little time to patch and defuse, zero-day threats require a proactive, multilayered approach based on zero trust.",
+          "link": "https://www.darkreading.com/attacks-breaches/zero-day-defense-tips-for-defusing-the-threat",
+          "publishedOn": "2022-08-03T17:00:00.000Z",
+          "wordCount": 13798,
+          "title": "Zero-Day Defense: Tips for Defusing the Threat",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt8a22a99621e2da1b/62cdc3e3a8afdd74d90c6e0a/ryan_barnett_headshot_copy.png",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt8a22a99621e2da1b/62cdc3e3a8afdd74d90c6e0a/ryan_barnett_headshot_copy.png"
+        },
+        {
+          "id": "https://www.darkreading.com/application-security/shiftleft-appoints-prevention-first-cybersecurity-visionary-and-ai-ml-pioneer-stuart-mcclure-as-ceo",
+          "author": null,
+          "description": "Serial entrepreneur, cybersecurity leader, and industry veteran joins ShiftLeft to drive growth and AI/ML innovation globally.",
+          "link": "https://www.darkreading.com/application-security/shiftleft-appoints-prevention-first-cybersecurity-visionary-and-ai-ml-pioneer-stuart-mcclure-as-ceo",
+          "publishedOn": "2022-08-03T15:38:05.000Z",
+          "wordCount": 12816,
+          "title": "ShiftLeft Appoints Prevention-First, Cybersecurity Visionary and AI/ML Pioneer Stuart McClure as CEO",
+          "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/risk/druva-introduces-the-data-resiliency-guarantee-of-up-to-10-million",
+          "author": null,
+          "description": "The new program offers robust protection across all five data risk categories: cyber, human, application, operation, and environmental.",
+          "link": "https://www.darkreading.com/risk/druva-introduces-the-data-resiliency-guarantee-of-up-to-10-million",
+          "publishedOn": "2022-08-03T15:33:00.000Z",
+          "wordCount": 14471,
+          "title": "Druva Introduces the Data Resiliency Guarantee of up to $10 Million",
+          "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/careers-and-people/comptia-ceo-outlines-initiative-to-create-the-pre-eminent-destination-to-start-build-and-supercharge-a-tech-career",
+          "author": null,
+          "description": "Todd Thibodeaux uses ChannelCon 2022 state of the industry remarks to unveil CompTIA’s Project Agora; invites broad industry participation in the effort to fight for tech talent.",
+          "link": "https://www.darkreading.com/careers-and-people/comptia-ceo-outlines-initiative-to-create-the-pre-eminent-destination-to-start-build-and-supercharge-a-tech-career",
+          "publishedOn": "2022-08-03T15:21:40.000Z",
+          "wordCount": 12336,
+          "title": "CompTIA CEO Outlines Initiative to Create the Pre-eminent Destination to Start, Build and ‘Supercharge’ a Tech Career",
+          "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/cloud/netskope-acquires-infiot-will-deliver-fully-integrated-single-vendor-sase-platform",
+          "author": null,
+          "description": "Converged SASE platform provides AI-driven Zero trust security and simplified, optimized connectivity to any network location or device, including IoT.",
+          "link": "https://www.darkreading.com/cloud/netskope-acquires-infiot-will-deliver-fully-integrated-single-vendor-sase-platform",
+          "publishedOn": "2022-08-03T14:16:54.000Z",
+          "wordCount": 15744,
+          "title": "Netskope Acquires Infiot, Will Deliver Fully Integrated, Single-Vendor SASE Platform",
+          "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/careers-and-people/5-ways-chess-can-inspire-strategic-cybersecurity-thinking",
+          "author": "Miki Shifman, CTO and Co-Founder, Cylus",
+          "description": "Rising interest in chess may feed the next generation of cybersecurity experts.",
+          "link": "https://www.darkreading.com/careers-and-people/5-ways-chess-can-inspire-strategic-cybersecurity-thinking",
+          "publishedOn": "2022-08-03T14:00:00.000Z",
+          "wordCount": 13460,
+          "title": "5 Ways Chess Can Inspire Strategic Cybersecurity Thinking",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt9789e0e269c2acb4/62e436b24ec9fe660e8042f1/2020-12-Miki-Headshot-final-1.JPG",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt9789e0e269c2acb4/62e436b24ec9fe660e8042f1/2020-12-Miki-Headshot-final-1.JPG"
+        },
+        {
+          "id": "https://www.darkreading.com/cloud/american-express-snapchat-open-redirect-vulnerabilities-exploited-phishing",
+          "author": "Nathan Eddy, Contributing Writer, Dark Reading",
+          "description": "Phishing operators are taking advantage of security bugs in the Amex and Snapchat websites (the latter is unpatched) to steer victims to phishing pages looking to harvest Google and Microsoft logins.",
+          "link": "https://www.darkreading.com/cloud/american-express-snapchat-open-redirect-vulnerabilities-exploited-phishing",
+          "publishedOn": "2022-08-03T13:52:16.000Z",
+          "wordCount": 12301,
+          "title": "American Express, Snapchat Open-Redirect Vulnerabilities Exploited in Phishing Scheme",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltf8b5a94afa71c53a/628e3799daa31875dc0c9fc0/NathanEddyHeadshot.PNG",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltf8b5a94afa71c53a/628e3799daa31875dc0c9fc0/NathanEddyHeadshot.PNG"
+        },
         {
           "id": "https://www.darkreading.com/endpoint/thousands-of-mobile-apps-leaking-twitter-api-keys",
           "author": "Jai Vijayan, Contributing Writer, Dark Reading",
@@ -2161,6 +2281,16 @@
       "siteUrl": "https://blog.talosintelligence.com/search/label/vulnerabilities",
       "articles": [
         {
+          "id": "https://blog.talosintelligence.com/2022/05/vuln-spotlight-alyac-est.html",
+          "author": null,
+          "description": "Jaewon Min of Cisco Talos discovered these vulnerabilities. Blog by Jon Munshaw. \nUpdate (Aug. 3, 2022): Talos disclosed two new vulnerabilities in the Alyac antivirus software and added their details to this post.\nCisco Talos recently discovered out-of-bounds read and buffer overflow vulnerabilities in ESTsecurity Corp.’s Alyac antivirus software that could cause a denial-of-service condition or arbitrary code execution. Alyac is an antivirus software developed for Microsoft Windows machines. \nTALOS-2022-1452 (CVE-2022-21147) is a vulnerability that exists in a specific Alyac module that, eventually, leads to a crash of Alyac’s scanning process, which effectively neutralizes the antivirus scan. If successful, an attacker could trigger this vulnerability to stop the program from scanning for malware, which would be crucial in a potential attack scenario. \nTALOS-2022-1527 (CVE-2022-32543) and TALOS-2022-1533 (CVE-2022-29886) are heap-based buffer overflow vulnerabilities that an attacker could exploit to execute arbitrary code on the targeted machine. The adversary would have to convince a user to open a specially crafted OLE file to trigger this condition.\n\nCisco Talos worked with ESTsecurity to ensure that these issues are resolved and an update is available for affected customers, all in adherence to Cisco’s vulnerability disclosure policy. \n\n\nUsers are encouraged to update these affected products as soon as possible: ESTsoft Alyac, versions 2.5.7.7 and 2.5.8.544. Talos tested and confirmed ESTsoft Alyac, version 2.5.7.7, is affected by TALOS-2022-1452. Version 2.5.8.544 is vulnerable to TALOS-2022-1533 and TALOS-2022-1527.\n\n\nThe following Snort rules will detect exploitation attempts against these vulnerabilities: 59014, 59015, and 60035 - 60042. Additional rules may be released in the future and current rules are subject to change, pending additional vulnerability information. For the most current rule information, please refer to your Cisco Secure Firewall Management Center or Snort.org.",
+          "link": "https://blog.talosintelligence.com/2022/05/vuln-spotlight-alyac-est.html",
+          "publishedOn": "2022-08-03T18:46:00.002Z",
+          "wordCount": 5608,
+          "title": "Vulnerability Spotlight: Vulnerabilities in Alyac antivirus program could stop virus scanning, cause code execution",
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjXH34NR1xeQXo83HvuwWqehHwA6m8dKVIL4awbIbuvDqr60MY2kmCJc9LRMmg6FpVZN7AA4i-86RZri7QVQYcftXu9KdIFxn4nqhwx4aaKy-9goT14vwbuSlj2jbRzIU2tbh54tf9Nekk72N-t4mFInwUl9kAU4CyixaN9aVUSx9GPABPt1DcjXYs4/w1200-h630-p-k-no-nu/vuln%20spotlight.jpg"
+        },
+        {
           "id": "https://blog.talosintelligence.com/2022/08/vulnerability-spotlight-how-misusing.html",
           "author": null,
           "description": "By Carl Hurd. \nThe TCL LinkHub Mesh Wi-Fi system is a multi-device Wi-Fi system that allows users to expand access to their network over a large physical area. What makes the LInkHub system unique is the lack of a network interface to manage the devices individually or in the mesh. Instead, a phone application is the only method to interact with these devices. This is noteworthy because, in theory, it significantly reduces the common attack surface on most small office/home office (SOHO) routers, as it moves the entire HTTP/S code base from the product. This means, in theory, fewer issues with integration or hacked-together scripts to trigger various functions within the device. One of the issues with this approach though is that its functionality still needs to reside somewhere for the us…",
@@ -2308,6 +2438,16 @@
       "feedUrl": "https://blog.knowbe4.com/rss.xml",
       "siteUrl": "https://blog.knowbe4.com",
       "articles": [
+        {
+          "id": "https://blog.knowbe4.com/2022-phishing-by-industry-benchmarking-webinar",
+          "author": "Stu Sjouwerman",
+          "description": "As a security leader, you have a lot on your plate. Even as you increase your budget for sophisticated security software, your exposure to cybercrime keeps going up. IT security seems to be a race between effective technology and ever evolving attack strategies from the threat actors. However, there’s an often-overlooked security layer that can significantly reduce your organization’s attack surface: New-school security awareness training.",
+          "link": "https://blog.knowbe4.com/2022-phishing-by-industry-benchmarking-webinar",
+          "publishedOn": "2022-08-03T15:28:49.000Z",
+          "wordCount": 1886,
+          "title": "On-Demand Webinar: New 2022 Phishing By Industry Benchmarking Report: How Does Your Organization Measure Up",
+          "imageUrl": "https://blog.knowbe4.com/hubfs/PIB2022-SOCIAL-ONDEMAND.jpg#keepProtocol"
+        },
         {
           "id": "https://blog.knowbe4.com/labor-market-social-engineering-supply-side-and-demand-side",
           "author": "Stu Sjouwerman",
@@ -2515,6 +2655,17 @@
       "feedUrl": "https://thehackernews.com/feeds/posts/default",
       "siteUrl": "https://thehackernews.com/",
       "articles": [
+        {
+          "id": "tag:blogger.com,1999:blog-4802841478634147276.post-754771862655875762",
+          "author": "noreply@blogger.com (Ravie Lakshmanan)",
+          "description": "A late-stage candidate encryption algorithm that was meant to withstand decryption by powerful quantum computers in the future has been trivially cracked by using a computer running Intel Xeon CPU in an hour's time.\nThe algorithm in question is SIKE — short for Supersingular Isogeny Key Encapsulation — which made it to the fourth round of the Post-Quantum Cryptography (PQC) standardization",
+          "link": "https://thehackernews.com/2022/08/single-core-cpu-cracked-post-quantum.html",
+          "publishedOn": "2022-08-03T17:01:11.109Z",
+          "wordCount": null,
+          "title": "Single-Core CPU Cracked Post-Quantum Encryption Candidate Algorithm in Just an Hour",
+          "itunes": {},
+          "imageUrl": null
+        },
         {
           "id": "tag:blogger.com,1999:blog-4802841478634147276.post-1835752372760943731",
           "author": "noreply@blogger.com (Ravie Lakshmanan)",
