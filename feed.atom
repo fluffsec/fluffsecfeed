@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-08-04T03:05:59.275Z</updated>
+    <updated>2022-08-04T07:21:56.141Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Cisco Business Routers Found Vulnerable to Critical Remote Hacking Flaws]]></title>
+        <id>tag:blogger.com,1999:blog-4802841478634147276.post-3081742026568892649</id>
+        <link href="https://thehackernews.com/2022/08/cisco-business-routers-found-vulnerable.html"/>
+        <updated>2022-08-04T05:11:25.400Z</updated>
+        <summary type="html"><![CDATA[Cisco on Wednesday rolled out patches to address eight security vulnerabilities, three of which could be weaponized by an unauthenticated attacker to gain remote code execution (RCE) or cause a denial-of-service (DoS) condition on affected devices.
+The most critical of the flaws impact Cisco Small Business RV160, RV260, RV340, and RV345 Series routers. Tracked as CVE-2022-20842 (CVSS score: 9.8)]]></summary>
+        <author>
+            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[New Startup Footprint Tackles Identity Verification]]></title>
         <id>https://www.darkreading.com/dr-tech/new-startup-footprint-tackles-identity-verification</id>
