@@ -154,18 +154,7 @@
       "title": "Critical Infrastructure – Threatpost",
       "feedUrl": "https://threatpost.com/category/critical-infrastructure/feed/",
       "siteUrl": "https://threatpost.com",
-      "articles": [
-        {
-          "id": "https://kasperskycontenthub.com/threatpost-global/?p=180122",
-          "author": "Nate Nelson",
-          "description": "Iran's steel manufacturing industry is victim to ongoing cyberattacks that previously impacted the country's rail system.",
-          "link": "https://threatpost.com/cyberattack-iran-campaign/180122/",
-          "publishedOn": "2022-07-05T12:35:09.000Z",
-          "wordCount": 1971,
-          "title": "Latest Cyberattack Against Iran Part of Ongoing Campaign",
-          "imageUrl": "https://media.kasperskycontenthub.com/wp-content/uploads/sites/103/2018/05/02101455/industrial_controls2.png"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Cloud Security – Threatpost",
@@ -258,16 +247,6 @@
           "wordCount": 2104,
           "title": "‘Callback’ Phishing Campaign Impersonates Security Firms",
           "imageUrl": "https://media.kasperskycontenthub.com/wp-content/uploads/sites/103/2019/02/14094016/mobile-security.jpeg"
-        },
-        {
-          "id": "https://kasperskycontenthub.com/threatpost-global/?p=180118",
-          "author": "Elizabeth Montalbano",
-          "description": "The heap buffer overflow issue in the browser’s WebRTC engine could allow attackers to execute arbitrary code.",
-          "link": "https://threatpost.com/actively-exploited-chrome-bug/180118/",
-          "publishedOn": "2022-07-05T11:54:21.000Z",
-          "wordCount": 1984,
-          "title": "Google Patches Actively Exploited Chrome Bug",
-          "imageUrl": "https://media.kasperskycontenthub.com/wp-content/uploads/sites/103/2022/03/25091849/chrome_bug.png"
         }
       ]
     },
@@ -335,16 +314,6 @@
           "wordCount": 2747,
           "title": "Hack Allows Drone Takeover Via ‘ExpressLRS’ Protocol",
           "imageUrl": "https://media.kasperskycontenthub.com/wp-content/uploads/sites/103/2018/11/08090557/DJI-Drone.jpg"
-        },
-        {
-          "id": "https://kasperskycontenthub.com/threatpost-global/?p=180118",
-          "author": "Elizabeth Montalbano",
-          "description": "The heap buffer overflow issue in the browser’s WebRTC engine could allow attackers to execute arbitrary code.",
-          "link": "https://threatpost.com/actively-exploited-chrome-bug/180118/",
-          "publishedOn": "2022-07-05T11:54:21.000Z",
-          "wordCount": 1984,
-          "title": "Google Patches Actively Exploited Chrome Bug",
-          "imageUrl": "https://media.kasperskycontenthub.com/wp-content/uploads/sites/103/2022/03/25091849/chrome_bug.png"
         }
       ]
     },
@@ -353,6 +322,66 @@
       "feedUrl": "https://www.darkreading.com/rss.xml",
       "siteUrl": "https://www.darkreading.com",
       "articles": [
+        {
+          "id": "https://www.darkreading.com/dr-tech/new-startup-footprint-tackles-identity-verification",
+          "author": "Dark Reading Staff, Dark Reading",
+          "description": "Early-stage startup Footprint's goal is to provide tools that change how enterprises verify, authentication, authorize, and secure identity.",
+          "link": "https://www.darkreading.com/dr-tech/new-startup-footprint-tackles-identity-verification",
+          "publishedOn": "2022-08-03T23:50:36.000Z",
+          "wordCount": 11820,
+          "title": "New Startup Footprint Tackles Identity Verification",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blte161b23f0fd3a84b/60b1ea374e7eb868c4c6a293/dr_staff_125x125.jpg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blte161b23f0fd3a84b/60b1ea374e7eb868c4c6a293/dr_staff_125x125.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/risk/teams-harm-reduction-better-cybersecurity-outcomes",
+          "author": "Tara Seals, Managing Editor, News, Dark Reading",
+          "description": "Copado's Kyle Tobener will discuss a three-pronged plan at Black Hat USA for addressing human weaknesses in cybersecurity with this medical concept — from phishing to shadow IT.",
+          "link": "https://www.darkreading.com/risk/teams-harm-reduction-better-cybersecurity-outcomes",
+          "publishedOn": "2022-08-03T21:25:43.000Z",
+          "wordCount": 14763,
+          "title": "How IT Teams Can Use 'Harm Reduction' for Better Cybersecurity Outcomes",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltea67136f81f32eca/626a9eb4726e3315b16b3c64/Tara-Seals-Headshot2.jpg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltea67136f81f32eca/626a9eb4726e3315b16b3c64/Tara-Seals-Headshot2.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/endpoint/critical-rce-bug-draytek-routers-smbs-zero-click-attacks",
+          "author": "Tara Seals, Managing Editor, News, Dark Reading",
+          "description": "SMBs should patch CVE-2022-32548 now to avoid a host of horrors, including complete network compromise, ransomware, state-sponsored attacks, and more.",
+          "link": "https://www.darkreading.com/endpoint/critical-rce-bug-draytek-routers-smbs-zero-click-attacks",
+          "publishedOn": "2022-08-03T20:23:45.000Z",
+          "wordCount": 14712,
+          "title": "Critical RCE Bug in DrayTek Routers Opens SMBs to Zero-Click Attacks",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltea67136f81f32eca/626a9eb4726e3315b16b3c64/Tara-Seals-Headshot2.jpg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltea67136f81f32eca/626a9eb4726e3315b16b3c64/Tara-Seals-Headshot2.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/threat-intelligence/school-kid-uploads-ransomware-scripts-to-pypi-repository-as-fun-research-project",
+          "author": "Jai Vijayan, Contributing Writer, Dark Reading",
+          "description": "The malware packages had names that were common typosquats of a legitimate widely used Python library. One was downloaded hundreds of times.",
+          "link": "https://www.darkreading.com/threat-intelligence/school-kid-uploads-ransomware-scripts-to-pypi-repository-as-fun-research-project",
+          "publishedOn": "2022-08-03T19:57:48.000Z",
+          "wordCount": 13392,
+          "title": "School Kid Uploads Ransomware Scripts to PyPI Repository as 'Fun' Project",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt02d79fb9a44a4258/60b1e9dd2a25046b35110696/Jai-Vijayan.jpeg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt02d79fb9a44a4258/60b1e9dd2a25046b35110696/Jai-Vijayan.jpeg"
+        },
         {
           "id": "https://www.darkreading.com/cloud/cyberattackers-drain-6m-solana-crypto-wallets",
           "author": "Dark Reading Staff, Dark Reading",

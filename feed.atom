@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-08-03T19:19:21.463Z</updated>
+    <updated>2022-08-04T03:05:59.275Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[New Startup Footprint Tackles Identity Verification]]></title>
+        <id>https://www.darkreading.com/dr-tech/new-startup-footprint-tackles-identity-verification</id>
+        <link href="https://www.darkreading.com/dr-tech/new-startup-footprint-tackles-identity-verification"/>
+        <updated>2022-08-03T23:50:36.000Z</updated>
+        <summary type="html"><![CDATA[Early-stage startup Footprint's goal is to provide tools that change how enterprises verify, authentication, authorize, and secure identity.]]></summary>
+        <author>
+            <name>Dark Reading Staff, Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How IT Teams Can Use 'Harm Reduction' for Better Cybersecurity Outcomes]]></title>
+        <id>https://www.darkreading.com/risk/teams-harm-reduction-better-cybersecurity-outcomes</id>
+        <link href="https://www.darkreading.com/risk/teams-harm-reduction-better-cybersecurity-outcomes"/>
+        <updated>2022-08-03T21:25:43.000Z</updated>
+        <summary type="html"><![CDATA[Copado's Kyle Tobener will discuss a three-pronged plan at Black Hat USA for addressing human weaknesses in cybersecurity with this medical concept — from phishing to shadow IT.]]></summary>
+        <author>
+            <name>Tara Seals, Managing Editor, News, Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Critical RCE Bug in DrayTek Routers Opens SMBs to Zero-Click Attacks]]></title>
+        <id>https://www.darkreading.com/endpoint/critical-rce-bug-draytek-routers-smbs-zero-click-attacks</id>
+        <link href="https://www.darkreading.com/endpoint/critical-rce-bug-draytek-routers-smbs-zero-click-attacks"/>
+        <updated>2022-08-03T20:23:45.000Z</updated>
+        <summary type="html"><![CDATA[SMBs should patch CVE-2022-32548 now to avoid a host of horrors, including complete network compromise, ransomware, state-sponsored attacks, and more.]]></summary>
+        <author>
+            <name>Tara Seals, Managing Editor, News, Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[School Kid Uploads Ransomware Scripts to PyPI Repository as 'Fun' Project]]></title>
+        <id>https://www.darkreading.com/threat-intelligence/school-kid-uploads-ransomware-scripts-to-pypi-repository-as-fun-research-project</id>
+        <link href="https://www.darkreading.com/threat-intelligence/school-kid-uploads-ransomware-scripts-to-pypi-repository-as-fun-research-project"/>
+        <updated>2022-08-03T19:57:48.000Z</updated>
+        <summary type="html"><![CDATA[The malware packages had names that were common typosquats of a legitimate widely used Python library. One was downloaded hundreds of times.]]></summary>
+        <author>
+            <name>Jai Vijayan, Contributing Writer, Dark Reading</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Vulnerability Spotlight: Vulnerabilities in Alyac antivirus program could stop virus scanning, cause code execution]]></title>
         <id>https://blog.talosintelligence.com/2022/05/vuln-spotlight-alyac-est.html</id>
@@ -2620,36 +2660,6 @@ The Federal Bureau of Investigation (FBI), Cybersecurity and Infrastructure Secu
 This joint CSA provides information—including tactics, techniques, and procedures (TTPs) and indicators of compromise (IOCs)—on Maui ransomware obtained from FBI incident response activities and industry analysis of a Maui sample. The FBI, CISA, and Treasury urge HPH Sector organizations as well as other critical infrastructur…]]></summary>
         <author>
             <name>CISA</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Latest Cyberattack Against Iran Part of Ongoing Campaign]]></title>
-        <id>https://kasperskycontenthub.com/threatpost-global/?p=180122</id>
-        <link href="https://threatpost.com/cyberattack-iran-campaign/180122/"/>
-        <updated>2022-07-05T12:35:09.000Z</updated>
-        <summary type="html"><![CDATA[Iran's steel manufacturing industry is victim to ongoing cyberattacks that previously impacted the country's rail system.]]></summary>
-        <author>
-            <name>Nate Nelson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google Patches Actively Exploited Chrome Bug]]></title>
-        <id>https://kasperskycontenthub.com/threatpost-global/?p=180118</id>
-        <link href="https://threatpost.com/actively-exploited-chrome-bug/180118/"/>
-        <updated>2022-07-05T11:54:21.000Z</updated>
-        <summary type="html"><![CDATA[The heap buffer overflow issue in the browser’s WebRTC engine could allow attackers to execute arbitrary code.]]></summary>
-        <author>
-            <name>Elizabeth Montalbano</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google Patches Actively Exploited Chrome Bug]]></title>
-        <id>https://kasperskycontenthub.com/threatpost-global/?p=180118</id>
-        <link href="https://threatpost.com/actively-exploited-chrome-bug/180118/"/>
-        <updated>2022-07-05T11:54:21.000Z</updated>
-        <summary type="html"><![CDATA[The heap buffer overflow issue in the browser’s WebRTC engine could allow attackers to execute arbitrary code.]]></summary>
-        <author>
-            <name>Elizabeth Montalbano</name>
         </author>
     </entry>
 </feed>
