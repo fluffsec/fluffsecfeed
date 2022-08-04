@@ -6,6 +6,16 @@
       "siteUrl": "https://us-cert.cisa.gov/",
       "articles": [
         {
+          "id": "17843 at https://us-cert.cisa.gov",
+          "author": "CISA",
+          "description": "Original release date: August 4, 2022\nSummary\nImmediate Actions You Can Take Now to Protect Against Malware:\nknown exploited vulnerabilities.\nThis joint Cybersecurity Advisory (CSA) was coauthored by the Cybersecurity and Infrastructure Security Agency (CISA) and the Australian Cyber Security Centre (ACSC). This advisory provides details on the top malware strains observed in 2021. Malware, short for “malicious software,” can compromise a system by performing an unauthorized function or process. Malicious cyber actors often use malware to covertly compromise and then gain access to a computer or mobile device. Some examples of malware include viruses, worms, Trojans, ransomware, spyware, and rootkits.[1]\nIn 2021, the top malware strains included remote access Trojans (RATs), banking Trojan…",
+          "link": "https://us-cert.cisa.gov/ncas/alerts/aa22-216a",
+          "publishedOn": "2022-08-04T18:10:05.000Z",
+          "wordCount": 5218,
+          "title": "AA22-216A: 2021 Top Malware Strains",
+          "imageUrl": null
+        },
+        {
           "id": "17768 at https://us-cert.cisa.gov",
           "author": "CISA",
           "description": "Original release date: July 6, 2022 | Last revised: July 7, 2022\nSummary\nThe Federal Bureau of Investigation (FBI), Cybersecurity and Infrastructure Security Agency (CISA), and the Department of the Treasury (Treasury) are releasing this joint Cybersecurity Advisory (CSA) to provide information on Maui ransomware, which has been used by North Korean state-sponsored cyber actors since at least May 2021 to target Healthcare and Public Health (HPH) Sector organizations.\nThis joint CSA provides information—including tactics, techniques, and procedures (TTPs) and indicators of compromise (IOCs)—on Maui ransomware obtained from FBI incident response activities and industry analysis of a Maui sample. The FBI, CISA, and Treasury urge HPH Sector organizations as well as other critical infrastructur…",
@@ -23,6 +33,26 @@
       "siteUrl": "https://us-cert.cisa.gov/",
       "articles": [
         {
+          "id": "17846 at https://us-cert.cisa.gov",
+          "author": "CISA",
+          "description": "Original release date: August 4, 2022\nCisco has released security updates to address vulnerabilities in Cisco Small Business RV160, RV260, RV340, and RV345 Series Routers. A remote attacker could exploit some of these vulnerabilities to take control of an affected system. For updates addressing lower severity vulnerabilities, see the Cisco Security Advisories page. \ncisco-sa-sb-mult-vuln-CbVp4SUR and apply the necessary updates.\n\nThis product is provided subject to this Notification and this Privacy & Use policy.",
+          "link": "https://us-cert.cisa.gov/ncas/current-activity/2022/08/04/cisco-releases-security-updates-rv-series-routers",
+          "publishedOn": "2022-08-04T13:21:14.000Z",
+          "wordCount": 1086,
+          "title": "Cisco Releases Security Updates for RV Series Routers",
+          "imageUrl": null
+        },
+        {
+          "id": "17844 at https://us-cert.cisa.gov",
+          "author": "CISA",
+          "description": "Original release date: August 4, 2022\nF5 has released security updates to address vulnerabilities in multiple products. A privileged attacker could exploit some of these vulnerabilities to take control of an affected system. \nCISA encourages users and administrators to review the F5 security advisories and apply the necessary updates.\nThis product is provided subject to this Notification and this Privacy & Use policy.",
+          "link": "https://us-cert.cisa.gov/ncas/current-activity/2022/08/04/f5-releases-security-updates",
+          "publishedOn": "2022-08-04T11:44:53.000Z",
+          "wordCount": 1055,
+          "title": "F5 Releases Security Updates",
+          "imageUrl": null
+        },
+        {
           "id": "17842 at https://us-cert.cisa.gov",
           "author": "CISA",
           "description": "Original release date: August 3, 2022\nVMware has released security updates to address multiple vulnerabilities in VMware’s Workspace ONE Access, Access Connector, Identity Manager, Identity Manager Connector, and vRealize Automation. A remote attacker could exploit some of these vulnerabilities to take control of an affected system. \nCISA encourages users and administrators to review VMware Security Advisory VMSA-2022-0021 and apply the necessary updates. \n\n \nThis product is provided subject to this Notification and this Privacy & Use policy.",
@@ -30,6 +60,16 @@
           "publishedOn": "2022-08-03T15:16:31.000Z",
           "wordCount": 1075,
           "title": "VMware Releases Security Updates",
+          "imageUrl": null
+        },
+        {
+          "id": "17840 at https://us-cert.cisa.gov",
+          "author": "CISA",
+          "description": "Original release date: August 2, 2022 | Last revised: August 4, 2022\nCISA and the Australian Cyber Security Centre (ACSC) have published a joint Cybersecurity Advisory on the top malware strains observed in 2021. Malicious cyber actors often use malware to covertly compromise and then gain access to a computer or mobile device. As malicious cyber actors have been using most of these top malware strains for more than five years, organizations have opportunities to better prepare, identify, and mitigate attacks from these strains.  \nCISA and ACSC encourage organizations to apply the recommendations in the Mitigations sections of the joint CSA. These mitigations include prioritizing patching all systems with known exploited vulnerabilities, enforcing multifactor authentication (MFA), securing remote desktop protocol (RDP) and other risky services, making offline backups of your data, and providing end-user awareness and training about social engineering and phishing. The appendix contains detection signatures organizations can employ in defending their networks. For more information on preventing malicious cyber actors from using 2021 top malware strains to exploit vulnerabilities, see:\n•    CISA’s Known Exploited Vulnerabilities Catalog \nCISA’s Cyber Hygiene Services\nCISA’s Choosing and Protecting Passwords\nACSC’s Implementing Multi-Factor Authentication\n \nThis product is provided subject to this Notification and this Privacy & Use policy.",
+          "link": "https://us-cert.cisa.gov/ncas/current-activity/2022/08/02/cisa-and-acsc-release-top-2021-malware-strains",
+          "publishedOn": "2022-08-02T15:36:26.000Z",
+          "wordCount": 1212,
+          "title": "CISA and ACSC Release Top 2021 Malware Strains",
           "imageUrl": null
         },
         {
@@ -322,6 +362,96 @@
       "feedUrl": "https://www.darkreading.com/rss.xml",
       "siteUrl": "https://www.darkreading.com",
       "articles": [
+        {
+          "id": "https://www.darkreading.com/endpoint/high-severity-bug-kaspersky-vpn-client-pc-takeover",
+          "author": "Tara Seals, Managing Editor, News, Dark Reading",
+          "description": "The CVE-2022-27535 local privilege-escalation security vulnerability in the security software threatens remote and work-from-home users.",
+          "link": "https://www.darkreading.com/endpoint/high-severity-bug-kaspersky-vpn-client-pc-takeover",
+          "publishedOn": "2022-08-04T18:35:41.000Z",
+          "wordCount": 11776,
+          "title": "High-Severity Bug in Kaspersky VPN Client Opens Door to PC Takeover",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltea67136f81f32eca/626a9eb4726e3315b16b3c64/Tara-Seals-Headshot2.jpg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltea67136f81f32eca/626a9eb4726e3315b16b3c64/Tara-Seals-Headshot2.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/perimeter/how-email-security-is-evolving",
+          "author": null,
+          "description": "Securing email communication has never been more critical for organizations, and it has never been more challenging to do so. Attack volumes have increased and become more sophisticated.",
+          "link": "https://www.darkreading.com/perimeter/how-email-security-is-evolving",
+          "publishedOn": "2022-08-04T18:05:45.000Z",
+          "wordCount": 13977,
+          "title": "How Email Security Is Evolving",
+          "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/risk/massive-china-disinformation-campaign-pr-firm",
+          "author": "Nathan Eddy, Contributing Writer, Dark Reading",
+          "description": "A global network of inauthentic news sites present themselves as independent news outlets, offering content favoring China's government and articles critical of the US.",
+          "link": "https://www.darkreading.com/risk/massive-china-disinformation-campaign-pr-firm",
+          "publishedOn": "2022-08-04T15:16:48.000Z",
+          "wordCount": 12951,
+          "title": "Massive China-Linked Disinformation Campaign Taps PR Firm for Help",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltf8b5a94afa71c53a/628e3799daa31875dc0c9fc0/NathanEddyHeadshot.PNG",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltf8b5a94afa71c53a/628e3799daa31875dc0c9fc0/NathanEddyHeadshot.PNG"
+        },
+        {
+          "id": "https://www.darkreading.com/application-security/phylum-releases-a-free-community-edition-to-make-software-supply-chain-security-more-accessible",
+          "author": null,
+          "description": "Users can identify risks across five domains, work on multiple projects, and take advantage of exclusive community benefits.",
+          "link": "https://www.darkreading.com/application-security/phylum-releases-a-free-community-edition-to-make-software-supply-chain-security-more-accessible",
+          "publishedOn": "2022-08-04T14:50:20.000Z",
+          "wordCount": 12605,
+          "title": "Phylum Releases a Free Community Edition to Make Software Supply Chain Security More Accessible",
+          "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/vulnerabilities-threats/the-myth-of-protection-online-and-what-comes-next",
+          "author": "Steve Ryan, Founder & CEO, Trinity Cyber",
+          "description": "It's a myth that consuming and processing alerts qualifies as security. Today's technology allows better detection and prevention, rather than accepting the low bar for protection set by ingrained incident response reactions.",
+          "link": "https://www.darkreading.com/vulnerabilities-threats/the-myth-of-protection-online-and-what-comes-next",
+          "publishedOn": "2022-08-04T14:00:00.000Z",
+          "wordCount": 13700,
+          "title": "The Myth of Protection Online — and What Comes Next",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt9b27140735300ebc/622f5ac4003d1c6582335487/SteveRyanHeadshot.PNG",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt9b27140735300ebc/622f5ac4003d1c6582335487/SteveRyanHeadshot.PNG"
+        },
+        {
+          "id": "https://www.darkreading.com/application-security/deep-instinct-pioneers-deep-learning-malware-prevention-to-protect-mission-critical-business-applications-at-scale",
+          "author": null,
+          "description": "Agentless approach meets the attacker earlier to protect financial services and other large enterprises from an underserved attack vector.",
+          "link": "https://www.darkreading.com/application-security/deep-instinct-pioneers-deep-learning-malware-prevention-to-protect-mission-critical-business-applications-at-scale",
+          "publishedOn": "2022-08-04T13:26:14.000Z",
+          "wordCount": 13300,
+          "title": "Deep Instinct Pioneers Deep-Learning Malware Prevention to Protect Mission-Critical Business Applications at Scale",
+          "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/vulnerabilities-threats/35k-malicious-code-insertions-in-github-attack-bug-bounty",
+          "author": "Robert Lemos, Contributing Writer, Dark Reading",
+          "description": "In the last month, \"Pl0xP\" cloned several GitHub repositories, adding malicious code to the forks that would attempt to infect developer systems and steal sensitive files that included software keys.",
+          "link": "https://www.darkreading.com/vulnerabilities-threats/35k-malicious-code-insertions-in-github-attack-bug-bounty",
+          "publishedOn": "2022-08-04T13:21:07.000Z",
+          "wordCount": 14870,
+          "title": "35K Malicious Code Insertions in GitHub: Attack or Bug-Bounty Effort?",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt58481326324d6911/60b1e9a55d34de550780a990/Robert-Lemos.png",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt58481326324d6911/60b1e9a55d34de550780a990/Robert-Lemos.png"
+        },
         {
           "id": "https://www.darkreading.com/endpoint/ping-identity-to-go-public-acquisition",
           "author": "Dark Reading Staff, Dark Reading",
@@ -2483,6 +2613,36 @@
       "siteUrl": "https://blog.knowbe4.com",
       "articles": [
         {
+          "id": "https://blog.knowbe4.com/linkedin-continues-its-reign-as-the-most-impersonated-brand-in-phishing-attacks",
+          "author": "Stu Sjouwerman",
+          "description": "As cybercriminals look for novel and effective ways to gain entrance to a victim network, LinkedIn is proving to be fruitful enough to keep the attention of phishing scammers.",
+          "link": "https://blog.knowbe4.com/linkedin-continues-its-reign-as-the-most-impersonated-brand-in-phishing-attacks",
+          "publishedOn": "2022-08-04T17:09:44.000Z",
+          "wordCount": 2153,
+          "title": "LinkedIn Continues its Reign as the Most-Impersonated Brand in Phishing Attacks",
+          "imageUrl": "https://blog.knowbe4.com/hubfs/LinkedIn%20Most%20Impersonated%20Brand%20in%20Phishing.jpg#keepProtocol"
+        },
+        {
+          "id": "https://blog.knowbe4.com/ransomware-attack-downtime-costs-alone-in-the-u.s.-rise-to-nearly-160-billion",
+          "author": "Stu Sjouwerman",
+          "description": "New data based on tracked, publicly-confirmed ransomware attacks shows that downtime – and the associated cost – is increasing at an alarming rate as nearly half of attacks see a ransom paid.",
+          "link": "https://blog.knowbe4.com/ransomware-attack-downtime-costs-alone-in-the-u.s.-rise-to-nearly-160-billion",
+          "publishedOn": "2022-08-04T17:09:40.000Z",
+          "wordCount": 2207,
+          "title": "Ransomware Attack Downtime Costs in the U.S. Rise to Nearly $160 Billion",
+          "imageUrl": "https://blog.knowbe4.com/hubfs/Ransomware%20Attack%20Downtime%20Costs.jpg#keepProtocol"
+        },
+        {
+          "id": "https://blog.knowbe4.com/open-redirects-exploited-for-phishing",
+          "author": "Stu Sjouwerman",
+          "description": "Attackers are exploiting open redirects to distribute links to credential-harvesting sites, according to Roger Kay at INKY. The attackers are exploiting vulnerable American Express and Snapchat domains to launch the attacks. American Express has since fixed the vulnerability, but Snapchat’s domain remains unpatched.",
+          "link": "https://blog.knowbe4.com/open-redirects-exploited-for-phishing",
+          "publishedOn": "2022-08-04T15:21:34.000Z",
+          "wordCount": 2176,
+          "title": "Open Redirects Exploited for Phishing",
+          "imageUrl": "https://blog.knowbe4.com/hubfs/Open%20Redirects%20Exploited%20for%20Phishing.jpg#keepProtocol"
+        },
+        {
           "id": "https://blog.knowbe4.com/knowbe4-wins-multiple-summer-2022-best-of-awards-from-trustradius",
           "author": "Stu Sjouwerman",
           "description": "KnowBe4 is proud to be recognized by TrustRadius with the Summer Best of Awards in three categories for the Security Awareness Training software category.",
@@ -2709,6 +2869,28 @@
       "feedUrl": "https://thehackernews.com/feeds/posts/default",
       "siteUrl": "https://thehackernews.com/",
       "articles": [
+        {
+          "id": "tag:blogger.com,1999:blog-4802841478634147276.post-6054630231690278652",
+          "author": "noreply@blogger.com (The Hacker News)",
+          "description": "Imagine this: a company-wide lockout to the company CRM, like Salesforce, because the organization's external admin attempts to disable MFA for themselves. They don't think to consult with the security team and don't consider the security implications, only the ease which they need for their team to use their login. \nThis CRM, however, defines MFA as a top-tier security setting; for example,",
+          "link": "https://thehackernews.com/2022/08/who-has-control-saas-app-admin-paradox.html",
+          "publishedOn": "2022-08-04T15:50:10.579Z",
+          "wordCount": null,
+          "title": "Who Has Control: The SaaS App Admin Paradox",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "tag:blogger.com,1999:blog-4802841478634147276.post-1762482089100699945",
+          "author": "noreply@blogger.com (Ravie Lakshmanan)",
+          "description": "As many as 29 different router models from DrayTek have been identified as affected by a new critical, unauthenticated, remote code execution vulnerability that, if successfully exploited, could lead to full compromise of the device and unauthorized access to the broader network.\n\"The attack can be performed without user interaction if the management interface of the device has been configured",
+          "link": "https://thehackernews.com/2022/08/critical-rce-bug-could-let-hackers.html",
+          "publishedOn": "2022-08-04T13:10:59.626Z",
+          "wordCount": null,
+          "title": "Critical RCE Bug Could Let Hackers Remotely Take Over DrayTek Vigor Routers",
+          "itunes": {},
+          "imageUrl": null
+        },
         {
           "id": "tag:blogger.com,1999:blog-4802841478634147276.post-6273595063188687046",
           "author": "noreply@blogger.com (Ravie Lakshmanan)",

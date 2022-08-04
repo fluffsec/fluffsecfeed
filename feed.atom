@@ -2,10 +2,150 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-08-04T13:43:48.788Z</updated>
+    <updated>2022-08-04T19:20:28.034Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[High-Severity Bug in Kaspersky VPN Client Opens Door to PC Takeover]]></title>
+        <id>https://www.darkreading.com/endpoint/high-severity-bug-kaspersky-vpn-client-pc-takeover</id>
+        <link href="https://www.darkreading.com/endpoint/high-severity-bug-kaspersky-vpn-client-pc-takeover"/>
+        <updated>2022-08-04T18:35:41.000Z</updated>
+        <summary type="html"><![CDATA[The CVE-2022-27535 local privilege-escalation security vulnerability in the security software threatens remote and work-from-home users.]]></summary>
+        <author>
+            <name>Tara Seals, Managing Editor, News, Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AA22-216A: 2021 Top Malware Strains]]></title>
+        <id>17843 at https://us-cert.cisa.gov</id>
+        <link href="https://us-cert.cisa.gov/ncas/alerts/aa22-216a"/>
+        <updated>2022-08-04T18:10:05.000Z</updated>
+        <summary type="html"><![CDATA[Original release date: August 4, 2022
+Summary
+Immediate Actions You Can Take Now to Protect Against Malware:
+known exploited vulnerabilities.
+This joint Cybersecurity Advisory (CSA) was coauthored by the Cybersecurity and Infrastructure Security Agency (CISA) and the Australian Cyber Security Centre (ACSC). This advisory provides details on the top malware strains observed in 2021. Malware, short for “malicious software,” can compromise a system by performing an unauthorized function or process. Malicious cyber actors often use malware to covertly compromise and then gain access to a computer or mobile device. Some examples of malware include viruses, worms, Trojans, ransomware, spyware, and rootkits.[1]
+In 2021, the top malware strains included remote access Trojans (RATs), banking Trojan…]]></summary>
+        <author>
+            <name>CISA</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Email Security Is Evolving]]></title>
+        <id>https://www.darkreading.com/perimeter/how-email-security-is-evolving</id>
+        <link href="https://www.darkreading.com/perimeter/how-email-security-is-evolving"/>
+        <updated>2022-08-04T18:05:45.000Z</updated>
+        <summary type="html"><![CDATA[Securing email communication has never been more critical for organizations, and it has never been more challenging to do so. Attack volumes have increased and become more sophisticated.]]></summary>
+        <author>
+            <name>Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LinkedIn Continues its Reign as the Most-Impersonated Brand in Phishing Attacks]]></title>
+        <id>https://blog.knowbe4.com/linkedin-continues-its-reign-as-the-most-impersonated-brand-in-phishing-attacks</id>
+        <link href="https://blog.knowbe4.com/linkedin-continues-its-reign-as-the-most-impersonated-brand-in-phishing-attacks"/>
+        <updated>2022-08-04T17:09:44.000Z</updated>
+        <summary type="html"><![CDATA[As cybercriminals look for novel and effective ways to gain entrance to a victim network, LinkedIn is proving to be fruitful enough to keep the attention of phishing scammers.]]></summary>
+        <author>
+            <name>Stu Sjouwerman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ransomware Attack Downtime Costs in the U.S. Rise to Nearly $160 Billion]]></title>
+        <id>https://blog.knowbe4.com/ransomware-attack-downtime-costs-alone-in-the-u.s.-rise-to-nearly-160-billion</id>
+        <link href="https://blog.knowbe4.com/ransomware-attack-downtime-costs-alone-in-the-u.s.-rise-to-nearly-160-billion"/>
+        <updated>2022-08-04T17:09:40.000Z</updated>
+        <summary type="html"><![CDATA[New data based on tracked, publicly-confirmed ransomware attacks shows that downtime – and the associated cost – is increasing at an alarming rate as nearly half of attacks see a ransom paid.]]></summary>
+        <author>
+            <name>Stu Sjouwerman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Who Has Control: The SaaS App Admin Paradox]]></title>
+        <id>tag:blogger.com,1999:blog-4802841478634147276.post-6054630231690278652</id>
+        <link href="https://thehackernews.com/2022/08/who-has-control-saas-app-admin-paradox.html"/>
+        <updated>2022-08-04T15:50:10.579Z</updated>
+        <summary type="html"><![CDATA[Imagine this: a company-wide lockout to the company CRM, like Salesforce, because the organization's external admin attempts to disable MFA for themselves. They don't think to consult with the security team and don't consider the security implications, only the ease which they need for their team to use their login. 
+This CRM, however, defines MFA as a top-tier security setting; for example,]]></summary>
+        <author>
+            <name>noreply@blogger.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Open Redirects Exploited for Phishing]]></title>
+        <id>https://blog.knowbe4.com/open-redirects-exploited-for-phishing</id>
+        <link href="https://blog.knowbe4.com/open-redirects-exploited-for-phishing"/>
+        <updated>2022-08-04T15:21:34.000Z</updated>
+        <summary type="html"><![CDATA[Attackers are exploiting open redirects to distribute links to credential-harvesting sites, according to Roger Kay at INKY. The attackers are exploiting vulnerable American Express and Snapchat domains to launch the attacks. American Express has since fixed the vulnerability, but Snapchat’s domain remains unpatched.]]></summary>
+        <author>
+            <name>Stu Sjouwerman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Massive China-Linked Disinformation Campaign Taps PR Firm for Help]]></title>
+        <id>https://www.darkreading.com/risk/massive-china-disinformation-campaign-pr-firm</id>
+        <link href="https://www.darkreading.com/risk/massive-china-disinformation-campaign-pr-firm"/>
+        <updated>2022-08-04T15:16:48.000Z</updated>
+        <summary type="html"><![CDATA[A global network of inauthentic news sites present themselves as independent news outlets, offering content favoring China's government and articles critical of the US.]]></summary>
+        <author>
+            <name>Nathan Eddy, Contributing Writer, Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Phylum Releases a Free Community Edition to Make Software Supply Chain Security More Accessible]]></title>
+        <id>https://www.darkreading.com/application-security/phylum-releases-a-free-community-edition-to-make-software-supply-chain-security-more-accessible</id>
+        <link href="https://www.darkreading.com/application-security/phylum-releases-a-free-community-edition-to-make-software-supply-chain-security-more-accessible"/>
+        <updated>2022-08-04T14:50:20.000Z</updated>
+        <summary type="html"><![CDATA[Users can identify risks across five domains, work on multiple projects, and take advantage of exclusive community benefits.]]></summary>
+        <author>
+            <name>Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Myth of Protection Online — and What Comes Next]]></title>
+        <id>https://www.darkreading.com/vulnerabilities-threats/the-myth-of-protection-online-and-what-comes-next</id>
+        <link href="https://www.darkreading.com/vulnerabilities-threats/the-myth-of-protection-online-and-what-comes-next"/>
+        <updated>2022-08-04T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[It's a myth that consuming and processing alerts qualifies as security. Today's technology allows better detection and prevention, rather than accepting the low bar for protection set by ingrained incident response reactions.]]></summary>
+        <author>
+            <name>Steve Ryan, Founder &amp; CEO, Trinity Cyber</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Deep Instinct Pioneers Deep-Learning Malware Prevention to Protect Mission-Critical Business Applications at Scale]]></title>
+        <id>https://www.darkreading.com/application-security/deep-instinct-pioneers-deep-learning-malware-prevention-to-protect-mission-critical-business-applications-at-scale</id>
+        <link href="https://www.darkreading.com/application-security/deep-instinct-pioneers-deep-learning-malware-prevention-to-protect-mission-critical-business-applications-at-scale"/>
+        <updated>2022-08-04T13:26:14.000Z</updated>
+        <summary type="html"><![CDATA[Agentless approach meets the attacker earlier to protect financial services and other large enterprises from an underserved attack vector.]]></summary>
+        <author>
+            <name>Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cisco Releases Security Updates for RV Series Routers]]></title>
+        <id>17846 at https://us-cert.cisa.gov</id>
+        <link href="https://us-cert.cisa.gov/ncas/current-activity/2022/08/04/cisco-releases-security-updates-rv-series-routers"/>
+        <updated>2022-08-04T13:21:14.000Z</updated>
+        <summary type="html"><![CDATA[Original release date: August 4, 2022
+Cisco has released security updates to address vulnerabilities in Cisco Small Business RV160, RV260, RV340, and RV345 Series Routers. A remote attacker could exploit some of these vulnerabilities to take control of an affected system. For updates addressing lower severity vulnerabilities, see the Cisco Security Advisories page. 
+cisco-sa-sb-mult-vuln-CbVp4SUR and apply the necessary updates.
+
+This product is provided subject to this Notification and this Privacy & Use policy.]]></summary>
+        <author>
+            <name>CISA</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[35K Malicious Code Insertions in GitHub: Attack or Bug-Bounty Effort?]]></title>
+        <id>https://www.darkreading.com/vulnerabilities-threats/35k-malicious-code-insertions-in-github-attack-bug-bounty</id>
+        <link href="https://www.darkreading.com/vulnerabilities-threats/35k-malicious-code-insertions-in-github-attack-bug-bounty"/>
+        <updated>2022-08-04T13:21:07.000Z</updated>
+        <summary type="html"><![CDATA[In the last month, "Pl0xP" cloned several GitHub repositories, adding malicious code to the forks that would attempt to infect developer systems and steal sensitive files that included software keys.]]></summary>
+        <author>
+            <name>Robert Lemos, Contributing Writer, Dark Reading</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ping Identity to Go Private After $2.8B Acquisition]]></title>
         <id>https://www.darkreading.com/endpoint/ping-identity-to-go-public-acquisition</id>
@@ -17,6 +157,17 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Critical RCE Bug Could Let Hackers Remotely Take Over DrayTek Vigor Routers]]></title>
+        <id>tag:blogger.com,1999:blog-4802841478634147276.post-1762482089100699945</id>
+        <link href="https://thehackernews.com/2022/08/critical-rce-bug-could-let-hackers.html"/>
+        <updated>2022-08-04T13:10:59.626Z</updated>
+        <summary type="html"><![CDATA[As many as 29 different router models from DrayTek have been identified as affected by a new critical, unauthenticated, remote code execution vulnerability that, if successfully exploited, could lead to full compromise of the device and unauthorized access to the broader network.
+"The attack can be performed without user interaction if the management interface of the device has been configured]]></summary>
+        <author>
+            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[New Woody RAT Malware Being Used to Target Russian Organizations]]></title>
         <id>tag:blogger.com,1999:blog-4802841478634147276.post-6273595063188687046</id>
         <link href="https://thehackernews.com/2022/08/new-woody-rat-malware-being-used-to.html"/>
@@ -25,6 +176,19 @@
 The advanced custom backdoor is said to be delivered via either of two methods: archive files and Microsoft Office documents leveraging the now-patched "Follina" support diagnostic tool vulnerability (CVE-2022-30190)]]></summary>
         <author>
             <name>noreply@blogger.com (Ravie Lakshmanan)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[F5 Releases Security Updates]]></title>
+        <id>17844 at https://us-cert.cisa.gov</id>
+        <link href="https://us-cert.cisa.gov/ncas/current-activity/2022/08/04/f5-releases-security-updates"/>
+        <updated>2022-08-04T11:44:53.000Z</updated>
+        <summary type="html"><![CDATA[Original release date: August 4, 2022
+F5 has released security updates to address vulnerabilities in multiple products. A privileged attacker could exploit some of these vulnerabilities to take control of an affected system. 
+CISA encourages users and administrators to review the F5 security advisories and apply the necessary updates.
+This product is provided subject to this Notification and this Privacy & Use policy.]]></summary>
+        <author>
+            <name>CISA</name>
         </author>
     </entry>
     <entry>
@@ -464,6 +628,24 @@ The issues tracked from CVE-2022-31656 through CVE-2022-31665 (CVSS scores: 4.7 
         <summary type="html"><![CDATA[Attackers are turning to stolen credentials and posing as trusted applications to socially engineer victims, according to Google study of malware submitted to VirusTotal.]]></summary>
         <author>
             <name>Nathan Eddy, Contributing Writer, Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CISA and ACSC Release Top 2021 Malware Strains]]></title>
+        <id>17840 at https://us-cert.cisa.gov</id>
+        <link href="https://us-cert.cisa.gov/ncas/current-activity/2022/08/02/cisa-and-acsc-release-top-2021-malware-strains"/>
+        <updated>2022-08-02T15:36:26.000Z</updated>
+        <summary type="html"><![CDATA[Original release date: August 2, 2022 | Last revised: August 4, 2022
+CISA and the Australian Cyber Security Centre (ACSC) have published a joint Cybersecurity Advisory on the top malware strains observed in 2021. Malicious cyber actors often use malware to covertly compromise and then gain access to a computer or mobile device. As malicious cyber actors have been using most of these top malware strains for more than five years, organizations have opportunities to better prepare, identify, and mitigate attacks from these strains.  
+CISA and ACSC encourage organizations to apply the recommendations in the Mitigations sections of the joint CSA. These mitigations include prioritizing patching all systems with known exploited vulnerabilities, enforcing multifactor authentication (MFA), securing remote desktop protocol (RDP) and other risky services, making offline backups of your data, and providing end-user awareness and training about social engineering and phishing. The appendix contains detection signatures organizations can employ in defending their networks. For more information on preventing malicious cyber actors from using 2021 top malware strains to exploit vulnerabilities, see:
+•    CISA’s Known Exploited Vulnerabilities Catalog 
+CISA’s Cyber Hygiene Services
+CISA’s Choosing and Protecting Passwords
+ACSC’s Implementing Multi-Factor Authentication
+ 
+This product is provided subject to this Notification and this Privacy & Use policy.]]></summary>
+        <author>
+            <name>CISA</name>
         </author>
     </entry>
     <entry>
