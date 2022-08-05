@@ -2,10 +2,54 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-08-04T19:20:28.034Z</updated>
+    <updated>2022-08-05T03:17:10.273Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Cyberattackers Increasingly Target Cloud IAM as a Weak Link]]></title>
+        <id>https://www.darkreading.com/cloud/cyberattackers-increasingly-target-cloud-iam-as-a-weak-link</id>
+        <link href="https://www.darkreading.com/cloud/cyberattackers-increasingly-target-cloud-iam-as-a-weak-link"/>
+        <updated>2022-08-04T21:43:41.000Z</updated>
+        <summary type="html"><![CDATA[At Black Hat USA, Igal Gofman plans to address how machine identities in the cloud and the explosion of SaaS apps are creating risks for IAM, amid escalating attention from attackers.]]></summary>
+        <author>
+            <name>Tara Seals, Managing Editor, News, Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CISA Adds One Known Exploited Vulnerability to Catalog]]></title>
+        <id>17848 at https://us-cert.cisa.gov</id>
+        <link href="https://us-cert.cisa.gov/ncas/current-activity/2022/08/04/cisa-adds-one-known-exploited-vulnerability-catalog"/>
+        <updated>2022-08-04T21:28:38.000Z</updated>
+        <summary type="html"><![CDATA[Original release date: August 4, 2022
+CISA has added one new vulnerability to its Known Exploited Vulnerabilities Catalog, based on evidence of active exploitation. These types of vulnerabilities are a frequent attack vector for malicious cyber actors and pose significant risk to the federal enterprise. Note: to view the newly added vulnerabilities in the catalog, click on the arrow in the "Date Added to Catalog" column, which will sort by descending dates. 
+Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the Known Exploited Vulnerabilities Catalog as a living list of known CVEs that carry significant risk to the federal enterprise. BOD 22-01 requires FCEB agencies to remediate identified vulnerabilities by the due date to protect FCEB networks against active threats. See the BOD 22-01 Fact Sheet for more information.
+Although BOD 22-01 only applies to FCEB agencies, CISA strongly urges all organizations to reduce their exposure to cyberattacks by prioritizing timely remediation of Catalog vulnerabilities as part of their vulnerability management practice. CISA will continue to add vulnerabilities to the Catalog that meet the specified criteria.
+This product is provided subject to this Notification and this Privacy & Use policy.]]></summary>
+        <author>
+            <name>CISA</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon, IBM Move Swiftly on Post-Quantum Cryptographic Algorithms Selected by NIST]]></title>
+        <id>https://www.darkreading.com/dr-tech/amazon-ibm-move-swiftly-on-post-quantum-cryptographic-algorithms-selected-by-nist</id>
+        <link href="https://www.darkreading.com/dr-tech/amazon-ibm-move-swiftly-on-post-quantum-cryptographic-algorithms-selected-by-nist"/>
+        <updated>2022-08-04T21:03:16.000Z</updated>
+        <summary type="html"><![CDATA[A month after the algorithms were revealed, some companies have already begun incorporating the future standards into their products and services.]]></summary>
+        <author>
+            <name>Jeffrey Schwartz, Contributing Writer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Time to Patch VMware Products Against a Critical New Vulnerability]]></title>
+        <id>https://www.darkreading.com/endpoint/vmware-patch-critical-vulnerability</id>
+        <link href="https://www.darkreading.com/endpoint/vmware-patch-critical-vulnerability"/>
+        <updated>2022-08-04T20:36:33.000Z</updated>
+        <summary type="html"><![CDATA[A dangerous VMware authentication-bypass bug could give threat actors administrative access over virtual machines.]]></summary>
+        <author>
+            <name>Dark Reading Staff, Dark Reading</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[High-Severity Bug in Kaspersky VPN Client Opens Door to PC Takeover]]></title>
         <id>https://www.darkreading.com/endpoint/high-severity-bug-kaspersky-vpn-client-pc-takeover</id>
@@ -2894,19 +2938,6 @@ The following Snort rules will detect exploitation attempts against this vulnera
         <summary type="html"><![CDATA[A radio control system for drones is vulnerable to remote takeover, thanks to a weakness in the mechanism that binds transmitter and receiver.]]></summary>
         <author>
             <name>Nate Nelson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AA22-187A: North Korean State-Sponsored Cyber Actors Use Maui Ransomware to Target the Healthcare and Public Health Sector]]></title>
-        <id>17768 at https://us-cert.cisa.gov</id>
-        <link href="https://us-cert.cisa.gov/ncas/alerts/aa22-187a"/>
-        <updated>2022-07-06T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Original release date: July 6, 2022 | Last revised: July 7, 2022
-Summary
-The Federal Bureau of Investigation (FBI), Cybersecurity and Infrastructure Security Agency (CISA), and the Department of the Treasury (Treasury) are releasing this joint Cybersecurity Advisory (CSA) to provide information on Maui ransomware, which has been used by North Korean state-sponsored cyber actors since at least May 2021 to target Healthcare and Public Health (HPH) Sector organizations.
-This joint CSA provides information—including tactics, techniques, and procedures (TTPs) and indicators of compromise (IOCs)—on Maui ransomware obtained from FBI incident response activities and industry analysis of a Maui sample. The FBI, CISA, and Treasury urge HPH Sector organizations as well as other critical infrastructur…]]></summary>
-        <author>
-            <name>CISA</name>
         </author>
     </entry>
 </feed>
