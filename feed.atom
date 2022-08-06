@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-08-05T19:19:55.138Z</updated>
+    <updated>2022-08-06T02:59:46.472Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
@@ -3084,16 +3084,6 @@ The following Snort rules will detect exploitation attempts against this vulnera
         <summary type="html"><![CDATA[Victims instructed to make a phone call that will direct them to a link for downloading malware.]]></summary>
         <author>
             <name>Elizabeth Montalbano</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hack Allows Drone Takeover Via ‘ExpressLRS’ Protocol]]></title>
-        <id>https://kasperskycontenthub.com/threatpost-global/?p=180133</id>
-        <link href="https://threatpost.com/drone-hack-expresslrs-hijacked/180133/"/>
-        <updated>2022-07-07T11:31:31.000Z</updated>
-        <summary type="html"><![CDATA[A radio control system for drones is vulnerable to remote takeover, thanks to a weakness in the mechanism that binds transmitter and receiver.]]></summary>
-        <author>
-            <name>Nate Nelson</name>
         </author>
     </entry>
 </feed>
