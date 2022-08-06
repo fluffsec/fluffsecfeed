@@ -2,10 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-08-06T07:21:24.327Z</updated>
+    <updated>2022-08-06T13:30:56.651Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Hackers Exploit Twitter Vulnerability to Exposes 5.4 Million Accounts]]></title>
+        <id>tag:blogger.com,1999:blog-4802841478634147276.post-8673992991966787112</id>
+        <link href="https://thehackernews.com/2022/08/hackers-exploit-twitter-vulnerability.html"/>
+        <updated>2022-08-06T09:10:14.808Z</updated>
+        <summary type="html"><![CDATA[Twitter on Friday revealed that a now-patched zero-day bug was used to link phone numbers and emails to user accounts on the social media platform.
+"As a result of the vulnerability, if someone submitted an email address or phone number to Twitter's systems, Twitter's systems would tell the person what Twitter account the submitted email addresses or phone number was associated with, if any,"]]></summary>
+        <author>
+            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Slack Resets Passwords After a Bug Exposed Hashed Passwords for Some Users]]></title>
+        <id>tag:blogger.com,1999:blog-4802841478634147276.post-641256523294218077</id>
+        <link href="https://thehackernews.com/2022/08/slack-resets-passwords-after-bug.html"/>
+        <updated>2022-08-06T08:44:06.752Z</updated>
+        <summary type="html"><![CDATA[Slack said it took the step of resetting passwords for about 0.5% of its users after a flaw exposed salted password hashes when creating or revoking shared invitation links for workspaces.
+"When a user performed either of these actions, Slack transmitted a hashed version of their password to other workspace members," the enterprise communication and collaboration platform said in an alert on 4th]]></summary>
+        <author>
+            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What Worries Security Teams About the Cloud?]]></title>
         <id>https://www.darkreading.com/edge-threat-monitor/what-worries-security-teams-about-the-cloud-</id>
