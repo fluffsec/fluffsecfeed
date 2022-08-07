@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-08-07T03:05:07.520Z</updated>
+    <updated>2022-08-07T07:21:49.713Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[New IoT RapperBot Malware Targeting Linux Servers via SSH Brute-Forcing Attack]]></title>
+        <id>tag:blogger.com,1999:blog-4802841478634147276.post-6753546577505305219</id>
+        <link href="https://thehackernews.com/2022/08/new-iot-rapperbot-malware-targeting.html"/>
+        <updated>2022-08-07T04:29:52.633Z</updated>
+        <summary type="html"><![CDATA[A new IoT botnet malware dubbed RapperBot has been observed rapidly evolving its capabilities since it was first discovered in mid-June 2022.
+"This family borrows heavily from the original Mirai source code, but what separates it from other IoT malware families is its built-in capability to brute force credentials and gain access to SSH servers instead of Telnet as implemented in Mirai,"]]></summary>
+        <author>
+            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hackers Exploit Twitter Vulnerability to Exposes 5.4 Million Accounts]]></title>
         <id>tag:blogger.com,1999:blog-4802841478634147276.post-8673992991966787112</id>
