@@ -55,6 +55,16 @@
         {
           "id": "17842 at https://us-cert.cisa.gov",
           "author": "CISA",
+          "description": "Original release date: August 3, 2022 | Last revised: August 9, 2022\nVMware has released security updates to address multiple vulnerabilities in VMware’s Workspace ONE Access, Access Connector, Identity Manager, Identity Manager Connector, and vRealize Automation. A remote attacker could exploit some of these vulnerabilities to take control of an affected system. \nUpdated August 8, 2022: According to VMware, \"VMware has confirmed malicious code that can exploit CVE-2022-31656 and CVE-2022-31659 in impacted products is publicly available.\"\nCISA encourages users and administrators to review VMware Security Advisory VMSA-2022-0021 and apply the necessary updates. \n\n \nThis product is provided subject to this Notification and this Privacy & Use policy.",
+          "link": "https://us-cert.cisa.gov/ncas/current-activity/2022/08/03/vmware-releases-security-updates",
+          "publishedOn": "2022-08-03T15:16:31.000Z",
+          "wordCount": 1098,
+          "title": "VMware Releases Security Updates",
+          "imageUrl": null
+        },
+        {
+          "id": "17842 at https://us-cert.cisa.gov",
+          "author": "CISA",
           "description": "Original release date: August 3, 2022\nVMware has released security updates to address multiple vulnerabilities in VMware’s Workspace ONE Access, Access Connector, Identity Manager, Identity Manager Connector, and vRealize Automation. A remote attacker could exploit some of these vulnerabilities to take control of an affected system. \nCISA encourages users and administrators to review VMware Security Advisory VMSA-2022-0021 and apply the necessary updates. \n\n \nThis product is provided subject to this Notification and this Privacy & Use policy.",
           "link": "https://us-cert.cisa.gov/ncas/current-activity/2022/08/03/vmware-releases-security-updates-0",
           "publishedOn": "2022-08-03T15:16:31.000Z",
@@ -382,6 +392,136 @@
       "feedUrl": "https://www.darkreading.com/rss.xml",
       "siteUrl": "https://www.darkreading.com",
       "articles": [
+        {
+          "id": "https://www.darkreading.com/careers-and-people/cybrary-unveils-next-generation-interactive-hands-on-training-experience-to-upskill-cybersecurity-professionals",
+          "author": null,
+          "description": "New SOC Analyst Assessment delivers threat-informed training in a live lab environment to help cybersecurity professionals defend their organizations against the latest adversarial tactics and techniques.",
+          "link": "https://www.darkreading.com/careers-and-people/cybrary-unveils-next-generation-interactive-hands-on-training-experience-to-upskill-cybersecurity-professionals",
+          "publishedOn": "2022-08-09T17:16:19.000Z",
+          "wordCount": 13459,
+          "title": "Cybrary Unveils Next-Generation Interactive, Hands-On Training Experience to Upskill Cybersecurity Professionals",
+          "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/risk/researchers-debut-rce-vector-common-google-api-tool",
+          "author": "Nathan Eddy, Contributing Writer, Dark Reading",
+          "description": "The finding exposes the danger of older, unpatched bugs, which plague at least 4.5 million devices.",
+          "link": "https://www.darkreading.com/risk/researchers-debut-rce-vector-common-google-api-tool",
+          "publishedOn": "2022-08-09T17:12:16.000Z",
+          "wordCount": 14585,
+          "title": "Researchers Debut Fresh RCE Vector for Common Google API Tool",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltf8b5a94afa71c53a/628e3799daa31875dc0c9fc0/NathanEddyHeadshot.PNG",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltf8b5a94afa71c53a/628e3799daa31875dc0c9fc0/NathanEddyHeadshot.PNG"
+        },
+        {
+          "id": "https://www.darkreading.com/operations/abusing-kerberos-for-local-privilege-escalation",
+          "author": "Ericka Chickowski, Contributing Writer, Dark Reading",
+          "description": "Upcoming Black Hat USA presentation will examine the implications of Kerberos weaknesses for security on the local machine.",
+          "link": "https://www.darkreading.com/operations/abusing-kerberos-for-local-privilege-escalation",
+          "publishedOn": "2022-08-09T17:04:18.000Z",
+          "wordCount": 12550,
+          "title": "Abusing Kerberos for Local Privilege Escalation",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt1fa01ab14787f501/60b1e9a77f791568be5e0dbb/ErickaChick_125x125.jpeg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt1fa01ab14787f501/60b1e9a77f791568be5e0dbb/ErickaChick_125x125.jpeg"
+        },
+        {
+          "id": "https://www.darkreading.com/iot/domino-s-takes-a-methodical-approach-to-iot",
+          "author": "Deral Heiland, Principal Security Researcher (IoT), Rapid7",
+          "description": "The success of Domino's Flex IoT project can be attributed in large part to the security best practices it followed.",
+          "link": "https://www.darkreading.com/iot/domino-s-takes-a-methodical-approach-to-iot",
+          "publishedOn": "2022-08-09T17:00:00.000Z",
+          "wordCount": 13540,
+          "title": "Domino's Takes a Methodical Approach to IoT",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltf3470f73c4a297c7/62f1803406f888156e69d145/Deral_Heiland_Rapid7.jpeg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltf3470f73c4a297c7/62f1803406f888156e69d145/Deral_Heiland_Rapid7.jpeg"
+        },
+        {
+          "id": "https://www.darkreading.com/threat-intelligence/russia-ukraine-conflict-holds-cyberwar-lessons",
+          "author": "Robert Lemos, Contributing Writer, Dark Reading",
+          "description": "Initial attacks used damaging wiper malware and targeted infrastructure, but the most enduring impacts will likely be from disinformation, researchers say. At Black Hat USA, SentinelOne's Juan Andres Guerrero-Saade and Tom Hegel will discuss.",
+          "link": "https://www.darkreading.com/threat-intelligence/russia-ukraine-conflict-holds-cyberwar-lessons",
+          "publishedOn": "2022-08-09T16:43:50.000Z",
+          "wordCount": 13946,
+          "title": "Russia-Ukraine Conflict Holds Cyberwar Lessons",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt58481326324d6911/60b1e9a55d34de550780a990/Robert-Lemos.png",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt58481326324d6911/60b1e9a55d34de550780a990/Robert-Lemos.png"
+        },
+        {
+          "id": "https://www.darkreading.com/risk/us-oil-and-gas-sector-at-risk-of-a-cyberbreach-according-to-breachbits-study",
+          "author": null,
+          "description": "Study offers a cyber \"state of the industry\" analysis from a hacker's perspective to help companies anticipate attacks.",
+          "link": "https://www.darkreading.com/risk/us-oil-and-gas-sector-at-risk-of-a-cyberbreach-according-to-breachbits-study",
+          "publishedOn": "2022-08-09T16:22:48.000Z",
+          "wordCount": 12243,
+          "title": "US Oil and Gas Sector at Risk of a Cyberbreach, According to BreachBits Study",
+          "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/attacks-breaches/netscout-arbor-insight-leverages-patented-asi-technology-to-enhance-security-and-operational-awareness-for-network-operators-of-any-scale",
+          "author": null,
+          "description": "Extends all aspects of the Arbor Sightline solution with unique, real-time multidimensional DDoS and traffic analytics capabilities.",
+          "link": "https://www.darkreading.com/attacks-breaches/netscout-arbor-insight-leverages-patented-asi-technology-to-enhance-security-and-operational-awareness-for-network-operators-of-any-scale",
+          "publishedOn": "2022-08-09T16:12:19.000Z",
+          "wordCount": 12612,
+          "title": "Netscout Arbor Insight Leverages Patented ASI Technology to Enhance Security and Operational Awareness for Network Operators of Any Scale",
+          "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/cloud/lacework-updates-threat-detection-to-uncover-more-malicious-activity-and-speed-investigation-at-scale",
+          "author": null,
+          "description": "New time series model and enhanced alerting experience make it easy for organizations to address more threats in the cloud while enabling faster investigations.",
+          "link": "https://www.darkreading.com/cloud/lacework-updates-threat-detection-to-uncover-more-malicious-activity-and-speed-investigation-at-scale",
+          "publishedOn": "2022-08-09T15:26:02.000Z",
+          "wordCount": 14487,
+          "title": "Lacework Updates Threat Detection To Uncover More Malicious Activity and Speed Investigation at Scale",
+          "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/edge/don-t-take-the-cyber-safety-review-board-s-log4j-report-at-face-value",
+          "author": "Matt Chiodi, Chief Trust Officer, Cerby",
+          "description": "Given the lack of reporting requirements, the findings are more like assumptions. Here's what organizations can do to minimize exposure.",
+          "link": "https://www.darkreading.com/edge/don-t-take-the-cyber-safety-review-board-s-log4j-report-at-face-value",
+          "publishedOn": "2022-08-09T14:50:12.000Z",
+          "wordCount": 13908,
+          "title": "Don't Take the Cyber Safety Review Board's Log4j Report at Face Value",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt272aa996b91c8dac/62edafe06b0f326989460a4b/Matt_Chiodi_Cerby-sq.jpg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt272aa996b91c8dac/62edafe06b0f326989460a4b/Matt_Chiodi_Cerby-sq.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/attacks-breaches/human-threat-hunters-are-essential-to-thwarting-zero-day-attacks",
+          "author": "A.N. Ananth, President, Netsurion",
+          "description": "Machine-learning algorithms alone may miss signs of a successful attack on your organization.",
+          "link": "https://www.darkreading.com/attacks-breaches/human-threat-hunters-are-essential-to-thwarting-zero-day-attacks",
+          "publishedOn": "2022-08-09T14:00:00.000Z",
+          "wordCount": 13270,
+          "title": "Human Threat Hunters Are Essential to Thwarting Zero-Day Attacks",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltef94096bacb39468/60d4481ea7307e39e4d4b94c/A.N.Ananth.png",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltef94096bacb39468/60d4481ea7307e39e4d4b94c/A.N.Ananth.png"
+        },
         {
           "id": "https://www.darkreading.com/application-security/10-malicious-packages-slither-pypi-registry",
           "author": "Jai Vijayan, Contributing Writer, Dark Reading",
@@ -2819,6 +2959,16 @@
       "siteUrl": "https://msrc-blog.microsoft.com",
       "articles": [
         {
+          "id": "https://msrc-blog.microsoft.com/?p=14505",
+          "author": "msrc",
+          "description": "Sharing information through the Security Update Guide (SUG) is an important part of our ongoing effort to help customers manage security risks and keep systems protected. In January 2022 we introduced Phase One of a new way for customers to receive email notifications about new Microsoft product security content using any email address, not just …\n  Security Update Guide Notification System News: Create your profile now Read More »",
+          "link": "https://msrc-blog.microsoft.com/2022/08/09/security-update-guide-notification-system-news-create-your-profile-now/",
+          "publishedOn": "2022-08-09T17:20:21.000Z",
+          "wordCount": 2284,
+          "title": "Security Update Guide Notification System News: Create your profile now",
+          "imageUrl": null
+        },
+        {
           "id": "https://msrc-blog.microsoft.com/?p=14495",
           "author": "msrc",
           "description": "The Microsoft Researcher Recognition Program offers public thanks and recognition to security researchers who help protect our customers through discovering and sharing security vulnerabilities under Coordinated Vulnerability Disclosure.  Today, we are excited to recognize this year’s top 100 Most Valuable Researchers (MVRs) based on the total number of points earned for each valid report. Congratulations …\n  Congratulations to the MSRC 2022 Most Valuable Researchers! Read More »",
@@ -2912,6 +3062,26 @@
       "feedUrl": "https://blog.knowbe4.com/rss.xml",
       "siteUrl": "https://blog.knowbe4.com",
       "articles": [
+        {
+          "id": "https://blog.knowbe4.com/new-phishing-campaign-is-now-targeting-coinbase-users",
+          "author": "Stu Sjouwerman",
+          "description": "If you're a Coinbase user, you are most likely the next target of a new phishing campaign. Cybercriminals have managed to infiltrate two-factor authentication and deploying other social engineering strategies with the crypto currency exchange platform.",
+          "link": "https://blog.knowbe4.com/new-phishing-campaign-is-now-targeting-coinbase-users",
+          "publishedOn": "2022-08-09T18:31:06.000Z",
+          "wordCount": 2003,
+          "title": "New Phishing Campaign is Now Targeting Coinbase Users",
+          "imageUrl": "https://blog.knowbe4.com/hubfs/Coinbase%20Phishing%20Campaign.jpg#keepProtocol"
+        },
+        {
+          "id": "https://blog.knowbe4.com/hacking-the-hacker-assessing-and-addressing-your-organizations-cyber-defense-weaknesses",
+          "author": "Stu Sjouwerman",
+          "description": "Cybercriminals are out there, watching and waiting for the perfect opportunity. They are gathering information about your organization and users, devising the perfect plan to infiltrate your defenses.",
+          "link": "https://blog.knowbe4.com/hacking-the-hacker-assessing-and-addressing-your-organizations-cyber-defense-weaknesses",
+          "publishedOn": "2022-08-09T15:07:28.000Z",
+          "wordCount": 1909,
+          "title": "Hacking the Hacker: Assessing and Addressing Your Organization’s Cyber Defense Weaknesses",
+          "imageUrl": "https://blog.knowbe4.com/hubfs/HackingTheHacker-SOCIAL-LIVE-ET.jpg#keepProtocol"
+        },
         {
           "id": "https://blog.knowbe4.com/cash-app-scams-strikes-again-with-new-types-of-attacks",
           "author": "Stu Sjouwerman",
@@ -3229,6 +3399,17 @@
       "feedUrl": "https://thehackernews.com/feeds/posts/default",
       "siteUrl": "https://thehackernews.com/",
       "articles": [
+        {
+          "id": "tag:blogger.com,1999:blog-4802841478634147276.post-2541251573444024347",
+          "author": "noreply@blogger.com (Ravie Lakshmanan)",
+          "description": "Customer engagement platform Twilio on Monday disclosed that a \"sophisticated\" threat actor gained \"unauthorized access\" using an SMS-based phishing campaign aimed at its staff to gain information on a \"limited number\" of accounts.\nThe social-engineering attack was bent on stealing employee credentials, the company said, calling the as-yet-unidentified adversary \"well-organized\" and \"methodical",
+          "link": "https://thehackernews.com/2022/08/twilio-suffers-data-breach-after.html",
+          "publishedOn": "2022-08-09T14:24:25.793Z",
+          "wordCount": null,
+          "title": "Twilio Suffers Data Breach After Employees Fall Victim to SMS Phishing Attack",
+          "itunes": {},
+          "imageUrl": null
+        },
         {
           "id": "tag:blogger.com,1999:blog-4802841478634147276.post-2654021538106134537",
           "author": "noreply@blogger.com (Ravie Lakshmanan)",
