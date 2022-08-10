@@ -23,6 +23,46 @@
       "siteUrl": "https://us-cert.cisa.gov/",
       "articles": [
         {
+          "id": "17860 at https://us-cert.cisa.gov",
+          "author": "CISA",
+          "description": "Original release date: August 9, 2022\nMicrosoft has released updates to address multiple vulnerabilities in Microsoft software. An attacker can exploit some of these vulnerabilities to take control of an affected system.\nCISA encourages users and administrators to review Microsoft’s August 2022 Security Update Guide and Deployment Information and apply the necessary updates.\nThis product is provided subject to this Notification and this Privacy & Use policy.",
+          "link": "https://us-cert.cisa.gov/ncas/current-activity/2022/08/09/microsoft-releases-august-2022-security-updates",
+          "publishedOn": "2022-08-09T22:26:00.000Z",
+          "wordCount": 1065,
+          "title": "Microsoft Releases August 2022 Security Updates",
+          "imageUrl": null
+        },
+        {
+          "id": "17859 at https://us-cert.cisa.gov",
+          "author": "CISA",
+          "description": "Original release date: August 9, 2022\nAdobe has released security updates to address vulnerabilities in multiple products. An attacker could exploit some of these vulnerabilities to take control of an affected system.\nCISA encourages users and administrators to review the following Adobe Security Bulletins and apply the necessary updates.\nAdobe Commerce APSB22-38\nAcrobat and Reader APSB22-39\nIllustrator APSB22-41\nFrameMaker APSB22-42\nPremiere Elements APSB22-43\nThis product is provided subject to this Notification and this Privacy & Use policy.",
+          "link": "https://us-cert.cisa.gov/ncas/current-activity/2022/08/09/adobe-releases-security-updates-multiple-products",
+          "publishedOn": "2022-08-09T21:33:39.000Z",
+          "wordCount": 1078,
+          "title": "Adobe Releases Security Updates for Multiple Products",
+          "imageUrl": null
+        },
+        {
+          "id": "17858 at https://us-cert.cisa.gov",
+          "author": "CISA",
+          "description": "Original release date: August 9, 2022\nVMware has released security updates to address multiple vulnerabilities in vRealize Operations. A remote attacker could exploit some of these vulnerabilities to take control of an affected system.\nCISA encourages users and administrators to review VMware Security Advisory VMSA-2022-0022 and apply the necessary updates.\nThis product is provided subject to this Notification and this Privacy & Use policy.",
+          "link": "https://us-cert.cisa.gov/ncas/current-activity/2022/08/09/vmware-releases-security-updates",
+          "publishedOn": "2022-08-09T21:28:43.000Z",
+          "wordCount": 1056,
+          "title": "VMware Releases Security Updates",
+          "imageUrl": null
+        },
+        {
+          "id": "17857 at https://us-cert.cisa.gov",
+          "author": "CISA",
+          "description": "Original release date: August 9, 2022\nCISA has added two new vulnerabilities to its Known Exploited Vulnerabilities Catalog, based on evidence of active exploitation. These types of vulnerabilities are a frequent attack vector for malicious cyber actors and pose significant risk to the federal enterprise. Note: to view the newly added vulnerabilities in the catalog, click on the arrow in the \"Date Added to Catalog\" column, which will sort by descending dates.    \nBinding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the Known Exploited Vulnerabilities Catalog as a living list of known CVEs that carry significant risk to the federal enterprise. BOD 22-01 requires FCEB agencies to remediate identified vulnerabilities by the due date to protect FCEB networks against active threats. See the BOD 22-01 Fact Sheet for more information.    \nAlthough BOD 22-01 only applies to FCEB agencies, CISA strongly urges all organizations to reduce their exposure to cyberattacks by prioritizing timely remediation of Catalog vulnerabilities as part of their vulnerability management practice. CISA will continue to add vulnerabilities to the Catalog that meet the specified criteria. \nThis product is provided subject to this Notification and this Privacy & Use policy.",
+          "link": "https://us-cert.cisa.gov/ncas/current-activity/2022/08/09/cisa-adds-two-known-exploited-vulnerabilities-catalog",
+          "publishedOn": "2022-08-09T18:43:27.000Z",
+          "wordCount": 1200,
+          "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
+          "imageUrl": null
+        },
+        {
           "id": "17848 at https://us-cert.cisa.gov",
           "author": "CISA",
           "description": "Original release date: August 4, 2022\nCISA has added one new vulnerability to its Known Exploited Vulnerabilities Catalog, based on evidence of active exploitation. These types of vulnerabilities are a frequent attack vector for malicious cyber actors and pose significant risk to the federal enterprise. Note: to view the newly added vulnerabilities in the catalog, click on the arrow in the \"Date Added to Catalog\" column, which will sort by descending dates. \nBinding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the Known Exploited Vulnerabilities Catalog as a living list of known CVEs that carry significant risk to the federal enterprise. BOD 22-01 requires FCEB agencies to remediate identified vulnerabilities by the due date to protect FCEB networks against active threats. See the BOD 22-01 Fact Sheet for more information.\nAlthough BOD 22-01 only applies to FCEB agencies, CISA strongly urges all organizations to reduce their exposure to cyberattacks by prioritizing timely remediation of Catalog vulnerabilities as part of their vulnerability management practice. CISA will continue to add vulnerabilities to the Catalog that meet the specified criteria.\nThis product is provided subject to this Notification and this Privacy & Use policy.",
@@ -392,6 +432,36 @@
       "feedUrl": "https://www.darkreading.com/rss.xml",
       "siteUrl": "https://www.darkreading.com",
       "articles": [
+        {
+          "id": "https://www.darkreading.com/vulnerabilities-threats/microsoft-patches-zero-day-actively-exploited-in-the-wild",
+          "author": "Robert Lemos, Contributing Writer, Dark Reading",
+          "description": "The computing giant issued a massive Patch Tuesday update, including a pair of remote execution flaws in the Microsoft Support Diagnostic Tool (MSDT) after attackers used one of the vulnerabilities in a zero-day exploit.",
+          "link": "https://www.darkreading.com/vulnerabilities-threats/microsoft-patches-zero-day-actively-exploited-in-the-wild",
+          "publishedOn": "2022-08-09T20:25:07.000Z",
+          "wordCount": 13526,
+          "title": "Microsoft Patches Zero-Day Actively Exploited in the Wild",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt58481326324d6911/60b1e9a55d34de550780a990/Robert-Lemos.png",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt58481326324d6911/60b1e9a55d34de550780a990/Robert-Lemos.png"
+        },
+        {
+          "id": "https://www.darkreading.com/dr-tech/halo-security-emerges-from-stealth-with-full-attack-surface-management-platform",
+          "author": "Dark Reading Staff, Dark Reading",
+          "description": "The latest startup to enter the attack surface management space also has a free scanning service to audit the contents of any website.",
+          "link": "https://www.darkreading.com/dr-tech/halo-security-emerges-from-stealth-with-full-attack-surface-management-platform",
+          "publishedOn": "2022-08-09T20:23:25.000Z",
+          "wordCount": 11720,
+          "title": "Halo Security Emerges From Stealth With Full Attack Surface Management Platform",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blte161b23f0fd3a84b/60b1ea374e7eb868c4c6a293/dr_staff_125x125.jpg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blte161b23f0fd3a84b/60b1ea374e7eb868c4c6a293/dr_staff_125x125.jpg"
+        },
         {
           "id": "https://www.darkreading.com/careers-and-people/cybrary-unveils-next-generation-interactive-hands-on-training-experience-to-upskill-cybersecurity-professionals",
           "author": null,
@@ -2864,6 +2934,16 @@
       "feedUrl": "https://blog.talosintelligence.com/feeds/posts/default/-/vulnerabilities",
       "siteUrl": "https://blog.talosintelligence.com/search/label/vulnerabilities",
       "articles": [
+        {
+          "id": "https://blog.talosintelligence.com/2022/08/microsoft-patch-tuesday-for-august-2022.html",
+          "author": null,
+          "description": "By Jon Munshaw and Vanja Svajcer.\nMicrosoft released its monthly security update Tuesday, disclosing more than 120 vulnerabilities across its line of products and software, the most in a single Patch Tuesday in four months.  \nThis batch of updates also includes a fix for a new vulnerability in the Microsoft Windows Support Diagnostic Tool (MSDT) that’s actively being exploited in the wild, according to Microsoft. MSDT was already the target of the so-called “Follina” zero-day vulnerability in June.  \nIn all, August’s Patch Tuesday includes 15 critical vulnerabilities and a single low- and moderate-severity issue. The remainder is classified as “important.” \nTwo of the important vulnerabilities CVE-2022-35743 and CVE-2022-34713 are remote code execution vulnerabilities in MSDT. However, onl…",
+          "link": "https://blog.talosintelligence.com/2022/08/microsoft-patch-tuesday-for-august-2022.html",
+          "publishedOn": "2022-08-09T20:44:00.002Z",
+          "wordCount": 5940,
+          "title": "Microsoft Patch Tuesday for August 2022 — Snort rules and prominent vulnerabilities",
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIxoLWRMhadA-_KYScFgU4r2bphbJQie1KMf5HidfCLhMK1eYN333LxM5v_EiExr0ojMt17sBFFPh4XhavE7u02EWHwd-vEkfU45UgMTDaBEdUUf9mR6_ZRuaGkrOXoRMEBSmlFYTE1F8n0wrdRBy8pN7IFwoy1K7YHKYUTnGyiWeAxLeWfSTa2rCc/w1200-h630-p-k-no-nu/patch%20tuesday.jpg"
+        },
         {
           "id": "https://blog.talosintelligence.com/2022/05/vuln-spotlight-alyac-est.html",
           "author": null,
