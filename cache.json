@@ -23,6 +23,26 @@
       "siteUrl": "https://us-cert.cisa.gov/",
       "articles": [
         {
+          "id": "17849 at https://us-cert.cisa.gov",
+          "author": "CISA",
+          "description": "Original release date: August 10, 2022\nPalo Alto Networks has released a security update to address a vulnerability in PAN-OS firewall configurations. A remote attacker could exploit this vulnerability to conduct a reflected denial-of service.\nCISA encourages users and administrators to review the Palo Alto Networks Security Advisory CVE-2022-0028 and apply the necessary updates or workarounds. \n \n\n \nThis product is provided subject to this Notification and this Privacy & Use policy.",
+          "link": "https://us-cert.cisa.gov/ncas/current-activity/2022/08/10/palo-alto-networks-releases-security-update-pan-os",
+          "publishedOn": "2022-08-10T16:00:00.000Z",
+          "wordCount": 1074,
+          "title": "Palo Alto Networks Releases Security Update for PAN-OS",
+          "imageUrl": null
+        },
+        {
+          "id": "17863 at https://us-cert.cisa.gov",
+          "author": "CISA",
+          "description": "Original release date: August 10, 2022\nCISA—through the Joint Cyber Defense Collaborative (JCDC)—has released a toolkit of free cybersecurity resources for the election community. The toolkit aims to help state and local government officials, election officials, and vendors enhance the cybersecurity and cyber resilience of U.S. election infrastructure. The toolkit resources, which come from CISA, JCDC members, and others across the cybersecurity community, focus on assessing risk and protecting election infrastructure assets commonly targeted by phishing, ransomware, and distributed denial-of-service (DDoS) attacks.\nCISA strongly encourages election community stakeholders to use the Cybersecurity Toolkit to Protect Elections to strengthen the cybersecurity and cyber resilience of U.S. election infrastructure. \nThis product is provided subject to this Notification and this Privacy & Use policy.",
+          "link": "https://us-cert.cisa.gov/ncas/current-activity/2022/08/10/cisa-releases-cybersecurity-toolkit-protect-us-elections",
+          "publishedOn": "2022-08-10T14:29:31.000Z",
+          "wordCount": 1125,
+          "title": "CISA Releases Cybersecurity Toolkit to Protect U.S. Elections",
+          "imageUrl": null
+        },
+        {
           "id": "17860 at https://us-cert.cisa.gov",
           "author": "CISA",
           "description": "Original release date: August 9, 2022\nMicrosoft has released updates to address multiple vulnerabilities in Microsoft software. An attacker can exploit some of these vulnerabilities to take control of an affected system.\nCISA encourages users and administrators to review Microsoft’s August 2022 Security Update Guide and Deployment Information and apply the necessary updates.\nThis product is provided subject to this Notification and this Privacy & Use policy.",
@@ -442,6 +462,86 @@
       "feedUrl": "https://www.darkreading.com/rss.xml",
       "siteUrl": "https://www.darkreading.com",
       "articles": [
+        {
+          "id": "https://www.darkreading.com/attacks-breaches/rethinking-software-in-the-organizational-hierarchy",
+          "author": "Pieter Danhieux, CEO, Chairman, & Co-Founder, Secure Code Warrior",
+          "description": "Least privilege is a good defense normally applied only to users. What if we limited apps' access to other apps and network resources based on their roles and responsibilities?",
+          "link": "https://www.darkreading.com/attacks-breaches/rethinking-software-in-the-organizational-hierarchy",
+          "publishedOn": "2022-08-10T19:05:17.000Z",
+          "wordCount": 13764,
+          "title": "Rethinking Software in the Organizational Hierarchy",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltd605ec6658857380/60d444bb90ef0d39a2f41bc4/Pieter-Danhieux.png",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltd605ec6658857380/60d444bb90ef0d39a2f41bc4/Pieter-Danhieux.png"
+        },
+        {
+          "id": "https://www.darkreading.com/cloud/mimecast-announces-mimecast-x1-platform-providing-customers-with-email-and-collaboration-security",
+          "author": null,
+          "description": "Platform engineered to let organizations mitigate risk and manage complexities.",
+          "link": "https://www.darkreading.com/cloud/mimecast-announces-mimecast-x1-platform-providing-customers-with-email-and-collaboration-security",
+          "publishedOn": "2022-08-10T16:39:23.000Z",
+          "wordCount": 13748,
+          "title": "Mimecast Announces Mimecast X1™ Platform Providing Customers With Email and Collaboration Security",
+          "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/threat-intelligence/opswat-presents-new-malware-analysis-capabilities-for-operational-technology-at-black-hat-usa-2022",
+          "author": null,
+          "description": "Product enhancements to offer full IT and OT threat intelligence services for OPSWAT customers.",
+          "link": "https://www.darkreading.com/threat-intelligence/opswat-presents-new-malware-analysis-capabilities-for-operational-technology-at-black-hat-usa-2022",
+          "publishedOn": "2022-08-10T15:47:13.000Z",
+          "wordCount": 12013,
+          "title": "OPSWAT Presents New Malware Analysis Capabilities for Operational Technology at Black Hat USA 2022",
+          "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/attacks-breaches/bugcrowd-taps-top-hackers-for-live-hacking-event-with-indeed-at-2022-black-hat-conference",
+          "author": null,
+          "description": ".",
+          "link": "https://www.darkreading.com/attacks-breaches/bugcrowd-taps-top-hackers-for-live-hacking-event-with-indeed-at-2022-black-hat-conference",
+          "publishedOn": "2022-08-10T15:23:42.000Z",
+          "wordCount": 12342,
+          "title": "Bugcrowd Taps Top Hackers for Live Hacking Event with Indeed at 2022 Black Hat Conference",
+          "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/cloud/deepfence-threatmapper-1-4-unveils-open-source-threat-graph-to-visualize-cloud-native-threat-landscape",
+          "author": null,
+          "description": "New release also includes enterprise-grade cloud security posture management (CSPM) and YARA-based malware scanning capabilities.",
+          "link": "https://www.darkreading.com/cloud/deepfence-threatmapper-1-4-unveils-open-source-threat-graph-to-visualize-cloud-native-threat-landscape",
+          "publishedOn": "2022-08-10T14:46:53.000Z",
+          "wordCount": 13377,
+          "title": "Deepfence ThreatMapper 1.4 Unveils Open Source Threat Graph to Visualize Cloud-Native Threat Landscape",
+          "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/risk/compliance-certifications-worth-the-effort-",
+          "author": "Shmulik Yehezkel, Chief Critical Cyber Operations Officer & CISO, CYE",
+          "description": "Because demonstrating compliance with industry regulations can be cumbersome and expensive, it's important to ensure they're also absolutely essential.",
+          "link": "https://www.darkreading.com/risk/compliance-certifications-worth-the-effort-",
+          "publishedOn": "2022-08-10T14:00:00.000Z",
+          "wordCount": 13803,
+          "title": "Compliance Certifications: Worth the Effort?",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltba222522d4817446/61acd44667f7b65c33606e91/Shmulik_Yehezkel.png",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltba222522d4817446/61acd44667f7b65c33606e91/Shmulik_Yehezkel.png"
+        },
+        {
+          "id": "https://www.darkreading.com/endpoint/zero-trust-xdr-the-new-architecture-of-defense",
+          "author": null,
+          "description": "Zero trust and XDR are complementary and both are necessary in today's modern IT environment. In this article, we discuss the intersection of zero trust and XDR.",
+          "link": "https://www.darkreading.com/endpoint/zero-trust-xdr-the-new-architecture-of-defense",
+          "publishedOn": "2022-08-10T14:00:00.000Z",
+          "wordCount": 13675,
+          "title": "Zero Trust & XDR: The New Architecture of Defense",
+          "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
+        },
         {
           "id": "https://www.darkreading.com/attacks-breaches/untitledflow-security-launches-next-gen-data-security-platform-following-10-million-seed-round",
           "author": null,
@@ -3193,6 +3293,16 @@
       "siteUrl": "https://blog.knowbe4.com",
       "articles": [
         {
+          "id": "https://blog.knowbe4.com/the-top-8-most-common-types-of-dns-records",
+          "author": "Stu Sjouwerman",
+          "description": "This article is a good technical overview of DNS that can help you prevent spoofing. This is a cross-post from the EasyDMARC blog, a new KnowBe4 Ventures portfolio company.",
+          "link": "https://blog.knowbe4.com/the-top-8-most-common-types-of-dns-records",
+          "publishedOn": "2022-08-10T13:46:07.000Z",
+          "wordCount": 3305,
+          "title": "The Top 8 Most Common Types of DNS Records",
+          "imageUrl": "https://blog.knowbe4.com/hubfs/easydmarc-logo.png#keepProtocol"
+        },
+        {
           "id": "https://blog.knowbe4.com/dprk-operators-impersonate-coinbase",
           "author": "Stu Sjouwerman",
           "description": "North Korea’s Lazarus Group is running a new phishing campaign targeting Coinbase accounts, BleepingComputer reports. The threat actors are posing as Coinbase and targeting people with phony job offers for “Engineering Manager, Product Security.” The phishing emails contain an executable concealed inside the bait of a malicious PDF file.",
@@ -3539,6 +3649,28 @@
       "feedUrl": "https://thehackernews.com/feeds/posts/default",
       "siteUrl": "https://thehackernews.com/",
       "articles": [
+        {
+          "id": "tag:blogger.com,1999:blog-4802841478634147276.post-2705394519165645962",
+          "author": "noreply@blogger.com (Ravie Lakshmanan)",
+          "description": "A former Twitter employee has been pronounced guilty for his role in digging up private information pertaining to certain Twitter users and turning over that data to Saudi Arabia.\nAhmad Abouammo, 44, was convicted by a jury after a two-week trial in San Francisco federal court, Bloomberg reported Tuesday. He faces up to 20 years in prison when sentenced.\nThe verdict comes nearly three years",
+          "link": "https://thehackernews.com/2022/08/former-twitter-employee-found-guilty-of.html",
+          "publishedOn": "2022-08-10T15:12:02.852Z",
+          "wordCount": null,
+          "title": "Former Twitter Employee Found Guilty of Spying for Saudi Arabia",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "tag:blogger.com,1999:blog-4802841478634147276.post-3362971891466959437",
+          "author": "noreply@blogger.com (Ravie Lakshmanan)",
+          "description": "The first ever incident possibly involving the ransomware family known as Maui occurred on April 15, 2021, aimed at an unnamed Japanese housing company.\nThe disclosure from Kaspersky arrives a month after U.S. cybersecurity and intelligence agencies issued an advisory about the use of the ransomware strain by North Korean government-backed hackers to target the healthcare sector since at least",
+          "link": "https://thehackernews.com/2022/08/experts-uncover-details-on-maui.html",
+          "publishedOn": "2022-08-10T13:05:01.121Z",
+          "wordCount": null,
+          "title": "Experts Uncover Details on Maui Ransomware Attack by North Korean Hackers",
+          "itunes": {},
+          "imageUrl": null
+        },
         {
           "id": "tag:blogger.com,1999:blog-4802841478634147276.post-5896848214559948771",
           "author": "noreply@blogger.com (Ravie Lakshmanan)",
