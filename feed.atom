@@ -2,10 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-08-10T02:45:39.999Z</updated>
+    <updated>2022-08-10T07:22:28.937Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[CISA Issues Warning on Active Exploitation of UnRAR Software for Linux Systems]]></title>
+        <id>tag:blogger.com,1999:blog-4802841478634147276.post-1133260965669626309</id>
+        <link href="https://thehackernews.com/2022/08/cisa-issues-warning-on-active.html"/>
+        <updated>2022-08-10T06:59:19.418Z</updated>
+        <summary type="html"><![CDATA[The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added a recently disclosed security flaw in the UnRAR utility to its Known Exploited Vulnerabilities Catalog, based on evidence of active exploitation.
+Tracked as CVE-2022-30333 (CVSS score: 7.5), the issue concerns a path traversal vulnerability in the Unix versions of UnRAR that can be triggered upon extracting a]]></summary>
+        <author>
+            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Issues Patches for 121 Flaws, Including Zero-Day Under Active Attack]]></title>
+        <id>tag:blogger.com,1999:blog-4802841478634147276.post-6228528487194535779</id>
+        <link href="https://thehackernews.com/2022/08/microsoft-issues-patches-for-121-flaws.html"/>
+        <updated>2022-08-10T06:12:13.035Z</updated>
+        <summary type="html"><![CDATA[As many as 121 new security flaws were patched by Microsoft as part of its Patch Tuesday updates for the month of August, which also includes a fix for a Support Diagnostic Tool vulnerability that the company said is being actively exploited in the wild.
+Of the 121 bugs, 17 are rated Critical, 102 are rated Important, one is rated Moderate, and one is rated Low in severity. Two of the issues]]></summary>
+        <author>
+            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Microsoft Releases August 2022 Security Updates]]></title>
         <id>17860 at https://us-cert.cisa.gov</id>
@@ -48,6 +70,16 @@ CISA encourages users and administrators to review VMware Security Advisory VMSA
 This product is provided subject to this Notification and this Privacy & Use policy.]]></summary>
         <author>
             <name>CISA</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Software Development Pipelines Offer Cybercriminals 'Free-Range' Access to Cloud, On-Prem]]></title>
+        <id>https://www.darkreading.com/application-security/software-development-pipelines-cybercriminals-free-range-access-cloud-on-prem</id>
+        <link href="https://www.darkreading.com/application-security/software-development-pipelines-cybercriminals-free-range-access-cloud-on-prem"/>
+        <updated>2022-08-09T20:52:54.000Z</updated>
+        <summary type="html"><![CDATA[A Q&A with NCC Group's Viktor Gazdag ahead of a Black Hat USA session on CI/CD pipeline risks reveals a scary, and expanding, campaign vector for software supply chain attacks and RCE.]]></summary>
+        <author>
+            <name>Tara Seals, Managing Editor, News, Dark Reading</name>
         </author>
     </entry>
     <entry>

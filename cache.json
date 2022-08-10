@@ -433,6 +433,21 @@
       "siteUrl": "https://www.darkreading.com",
       "articles": [
         {
+          "id": "https://www.darkreading.com/application-security/software-development-pipelines-cybercriminals-free-range-access-cloud-on-prem",
+          "author": "Tara Seals, Managing Editor, News, Dark Reading",
+          "description": "A Q&A with NCC Group's Viktor Gazdag ahead of a Black Hat USA session on CI/CD pipeline risks reveals a scary, and expanding, campaign vector for software supply chain attacks and RCE.",
+          "link": "https://www.darkreading.com/application-security/software-development-pipelines-cybercriminals-free-range-access-cloud-on-prem",
+          "publishedOn": "2022-08-09T20:52:54.000Z",
+          "wordCount": 16331,
+          "title": "Software Development Pipelines Offer Cybercriminals 'Free-Range' Access to Cloud, On-Prem",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltea67136f81f32eca/626a9eb4726e3315b16b3c64/Tara-Seals-Headshot2.jpg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltea67136f81f32eca/626a9eb4726e3315b16b3c64/Tara-Seals-Headshot2.jpg"
+        },
+        {
           "id": "https://www.darkreading.com/vulnerabilities-threats/microsoft-patches-zero-day-actively-exploited-in-the-wild",
           "author": "Robert Lemos, Contributing Writer, Dark Reading",
           "description": "The computing giant issued a massive Patch Tuesday update, including a pair of remote execution flaws in the Microsoft Support Diagnostic Tool (MSDT) after attackers used one of the vulnerabilities in a zero-day exploit.",
@@ -3479,6 +3494,28 @@
       "feedUrl": "https://thehackernews.com/feeds/posts/default",
       "siteUrl": "https://thehackernews.com/",
       "articles": [
+        {
+          "id": "tag:blogger.com,1999:blog-4802841478634147276.post-1133260965669626309",
+          "author": "noreply@blogger.com (Ravie Lakshmanan)",
+          "description": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added a recently disclosed security flaw in the UnRAR utility to its Known Exploited Vulnerabilities Catalog, based on evidence of active exploitation.\nTracked as CVE-2022-30333 (CVSS score: 7.5), the issue concerns a path traversal vulnerability in the Unix versions of UnRAR that can be triggered upon extracting a",
+          "link": "https://thehackernews.com/2022/08/cisa-issues-warning-on-active.html",
+          "publishedOn": "2022-08-10T06:59:19.418Z",
+          "wordCount": null,
+          "title": "CISA Issues Warning on Active Exploitation of UnRAR Software for Linux Systems",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "tag:blogger.com,1999:blog-4802841478634147276.post-6228528487194535779",
+          "author": "noreply@blogger.com (Ravie Lakshmanan)",
+          "description": "As many as 121 new security flaws were patched by Microsoft as part of its Patch Tuesday updates for the month of August, which also includes a fix for a Support Diagnostic Tool vulnerability that the company said is being actively exploited in the wild.\nOf the 121 bugs, 17 are rated Critical, 102 are rated Important, one is rated Moderate, and one is rated Low in severity. Two of the issues",
+          "link": "https://thehackernews.com/2022/08/microsoft-issues-patches-for-121-flaws.html",
+          "publishedOn": "2022-08-10T06:12:13.035Z",
+          "wordCount": null,
+          "title": "Microsoft Issues Patches for 121 Flaws, Including Zero-Day Under Active Attack",
+          "itunes": {},
+          "imageUrl": null
+        },
         {
           "id": "tag:blogger.com,1999:blog-4802841478634147276.post-2541251573444024347",
           "author": "noreply@blogger.com (Ravie Lakshmanan)",
