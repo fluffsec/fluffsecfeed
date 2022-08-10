@@ -366,6 +366,16 @@
       "siteUrl": "https://threatpost.com",
       "articles": [
         {
+          "id": "https://kasperskycontenthub.com/threatpost-global/?p=180378",
+          "author": "Threatpost",
+          "description": "August Patch Tuesday tackles 121 CVEs, 17 critical bugs and one zero-day bug exploited in the wild.",
+          "link": "https://threatpost.com/microsoft-patches-dogwalk-zero-day-and-17-critical-flaws/180378/",
+          "publishedOn": "2022-08-10T12:48:05.000Z",
+          "wordCount": 2080,
+          "title": "Microsoft Patches ‘Dogwalk’ Zero-Day and 17 Critical Flaws",
+          "imageUrl": "https://media.kasperskycontenthub.com/wp-content/uploads/sites/103/2017/05/06224854/Microsoft-patch-tuesday-end.jpg"
+        },
+        {
           "id": "https://kasperskycontenthub.com/threatpost-global/?p=180354",
           "author": "Elizabeth Montalbano",
           "description": "Separate phishing campaigns targeting thousands of victims impersonate FedEx and Microsoft, among others, to trick victims.",
@@ -432,6 +442,31 @@
       "feedUrl": "https://www.darkreading.com/rss.xml",
       "siteUrl": "https://www.darkreading.com",
       "articles": [
+        {
+          "id": "https://www.darkreading.com/attacks-breaches/untitledflow-security-launches-next-gen-data-security-platform-following-10-million-seed-round",
+          "author": null,
+          "description": "First-of-its-kind solution discovers and protects both data at rest and in motion.",
+          "link": "https://www.darkreading.com/attacks-breaches/untitledflow-security-launches-next-gen-data-security-platform-following-10-million-seed-round",
+          "publishedOn": "2022-08-10T13:06:40.000Z",
+          "wordCount": 12360,
+          "title": "UntitledFlow Security Launches Next-Gen Data Security Platform Following $10 Million Seed Round",
+          "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/edge-articles/looking-back-at-25-years-of-black-hat",
+          "author": "Andrada Fiscutean, Contributing Writer, Dark Reading",
+          "description": "The Black Hat USA conference's silver jubilee is an opportunity to remember its defining moments, the impact it has made on the security community, and its legacy.",
+          "link": "https://www.darkreading.com/edge-articles/looking-back-at-25-years-of-black-hat",
+          "publishedOn": "2022-08-10T12:56:16.000Z",
+          "wordCount": 17251,
+          "title": "Looking Back at 25 Years of Black Hat",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltd0e79fcb89fbb7c6/618316f9df6311623a20dbbe/Andrada-Fiscutean.jpg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltd0e79fcb89fbb7c6/618316f9df6311623a20dbbe/Andrada-Fiscutean.jpg"
+        },
         {
           "id": "https://www.darkreading.com/application-security/software-development-pipelines-cybercriminals-free-range-access-cloud-on-prem",
           "author": "Tara Seals, Managing Editor, News, Dark Reading",
@@ -3158,6 +3193,16 @@
       "siteUrl": "https://blog.knowbe4.com",
       "articles": [
         {
+          "id": "https://blog.knowbe4.com/dprk-operators-impersonate-coinbase",
+          "author": "Stu Sjouwerman",
+          "description": "North Korea’s Lazarus Group is running a new phishing campaign targeting Coinbase accounts, BleepingComputer reports. The threat actors are posing as Coinbase and targeting people with phony job offers for “Engineering Manager, Product Security.” The phishing emails contain an executable concealed inside the bait of a malicious PDF file.",
+          "link": "https://blog.knowbe4.com/dprk-operators-impersonate-coinbase",
+          "publishedOn": "2022-08-10T12:44:55.000Z",
+          "wordCount": 2130,
+          "title": "DPRK Operators Impersonate CoinBase",
+          "imageUrl": "https://blog.knowbe4.com/hubfs/DPRK%20Operators%20Impersonate%20Coinbase.jpg#keepProtocol"
+        },
+        {
           "id": "https://blog.knowbe4.com/new-phishing-campaign-is-now-targeting-coinbase-users",
           "author": "Stu Sjouwerman",
           "description": "If you're a Coinbase user, you are most likely the next target of a new phishing campaign. Cybercriminals have managed to infiltrate two-factor authentication and deploying other social engineering strategies with the crypto currency exchange platform.",
@@ -3494,6 +3539,28 @@
       "feedUrl": "https://thehackernews.com/feeds/posts/default",
       "siteUrl": "https://thehackernews.com/",
       "articles": [
+        {
+          "id": "tag:blogger.com,1999:blog-4802841478634147276.post-5896848214559948771",
+          "author": "noreply@blogger.com (Ravie Lakshmanan)",
+          "description": "Web infrastructure company Cloudflare on Tuesday disclosed at least 76 employees and their family members received text messages on their personal and work phones bearing similar characteristics as that of the sophisticated phishing attack against Twilio.\nThe attack, which transpired around the same time Twilio was targeted, came from four phone numbers associated with T-Mobile-issued SIM cards",
+          "link": "https://thehackernews.com/2022/08/hackers-behind-twilio-breach-also_10.html",
+          "publishedOn": "2022-08-10T12:35:51.962Z",
+          "wordCount": null,
+          "title": "Hackers Behind Twilio Breach Also Targeted Cloudflare Employees",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "tag:blogger.com,1999:blog-4802841478634147276.post-5319299512822329753",
+          "author": "noreply@blogger.com (The Hacker News)",
+          "description": "Today's web has made hackers' tasks remarkably easy. For the most part, hackers don't even have to hide in the dark recesses of the web to take advantage of people any longer; they can be found right in plain sight on social media sites or forums, professionally advertised with their websites, and may even approach you anonymously through such channels as Twitter.\nCybercrime has entered a new",
+          "link": "https://thehackernews.com/2022/08/the-business-of-hackers-for-hire-threat.html",
+          "publishedOn": "2022-08-10T10:20:32.525Z",
+          "wordCount": null,
+          "title": "The Business of Hackers-for-Hire Threat Actors",
+          "itunes": {},
+          "imageUrl": null
+        },
         {
           "id": "tag:blogger.com,1999:blog-4802841478634147276.post-1133260965669626309",
           "author": "noreply@blogger.com (Ravie Lakshmanan)",
