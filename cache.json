@@ -6,6 +6,16 @@
       "siteUrl": "https://us-cert.cisa.gov/",
       "articles": [
         {
+          "id": "17864 at https://us-cert.cisa.gov",
+          "author": "CISA",
+          "description": "Original release date: August 11, 2022\nSummary\nActions to take today to mitigate cyber threats from ransomware:\nknown exploited vulnerabilities.\nNote: this joint Cybersecurity Advisory (CSA) is part of an ongoing #StopRansomware effort to publish advisories for network defenders that detail various ransomware variants and ransomware threat actors. These #StopRansomware advisories include recently and historically observed tactics, techniques, and procedures (TTPs) and indicators of compromise (IOCs) to help organizations protect against ransomware. Visit stopransomware.gov to see all #StopRansomware advisories and to learn more about other ransomware threats and no-cost resources.\nThe Federal Bureau of Investigation (FBI) and the Cybersecurity and Infrastructure Security Agency (CISA) are …",
+          "link": "https://us-cert.cisa.gov/ncas/alerts/aa22-223a",
+          "publishedOn": "2022-08-11T16:00:00.000Z",
+          "wordCount": 2625,
+          "title": "AA22-223A: #StopRansomware: Zeppelin Ransomware",
+          "imageUrl": null
+        },
+        {
           "id": "17843 at https://us-cert.cisa.gov",
           "author": "CISA",
           "description": "Original release date: August 4, 2022\nSummary\nImmediate Actions You Can Take Now to Protect Against Malware:\nknown exploited vulnerabilities.\nThis joint Cybersecurity Advisory (CSA) was coauthored by the Cybersecurity and Infrastructure Security Agency (CISA) and the Australian Cyber Security Centre (ACSC). This advisory provides details on the top malware strains observed in 2021. Malware, short for “malicious software,” can compromise a system by performing an unauthorized function or process. Malicious cyber actors often use malware to covertly compromise and then gain access to a computer or mobile device. Some examples of malware include viruses, worms, Trojans, ransomware, spyware, and rootkits.[1]\nIn 2021, the top malware strains included remote access Trojans (RATs), banking Trojan…",
@@ -22,6 +32,36 @@
       "feedUrl": "https://us-cert.cisa.gov/ncas/current-activity.xml",
       "siteUrl": "https://us-cert.cisa.gov/",
       "articles": [
+        {
+          "id": "17877 at https://us-cert.cisa.gov",
+          "author": "CISA",
+          "description": "Original release date: August 11, 2022\nCISA has added two new vulnerabilities to its Known Exploited Vulnerabilities Catalog, based on evidence of active exploitation. These types of vulnerabilities are a frequent attack vector for malicious cyber actors and pose significant risk to the federal enterprise. Note: to view the newly added vulnerabilities in the catalog, click on the arrow in the \"Date Added to Catalog\" column, which will sort by descending dates. \nBinding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the Known Exploited Vulnerabilities Catalog as a living list of known CVEs that carry significant risk to the federal enterprise. BOD 22-01 requires FCEB agencies to remediate identified vulnerabilities by the due date to protect FCEB networks against active threats. See the BOD 22-01 Fact Sheet for more information. \nAlthough BOD 22-01 only applies to FCEB agencies, CISA strongly urges all organizations to reduce their exposure to cyberattacks by prioritizing timely remediation of Catalog vulnerabilities as part of their vulnerability management practice. CISA will continue to add vulnerabilities to the Catalog that meet the specified criteria. \nThis product is provided subject to this Notification and this Privacy & Use policy.",
+          "link": "https://us-cert.cisa.gov/ncas/current-activity/2022/08/11/cisa-adds-two-known-exploited-vulnerabilities-catalog",
+          "publishedOn": "2022-08-11T16:33:26.000Z",
+          "wordCount": 1200,
+          "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
+          "imageUrl": null
+        },
+        {
+          "id": "17876 at https://us-cert.cisa.gov",
+          "author": "CISA",
+          "description": "Original release date: August 11, 2022\nCisco has released a security update to address a vulnerability affecting Cisco Adaptive Security Appliance Software and Firepower Threat Defense Software. This vulnerability could allow a remote attacker to obtain sensitive information. For updates addressing lower severity vulnerabilities, see the Cisco Security Advisories page.\nCISA encourages users and administrators to review the following Cisco advisory and apply the necessary updates:\ncisco-sa-asaftd-rsa-key-leak-Ms7UEfZz\nThis product is provided subject to this Notification and this Privacy & Use policy.",
+          "link": "https://us-cert.cisa.gov/ncas/current-activity/2022/08/11/cisco-releases-security-update-multiple-products",
+          "publishedOn": "2022-08-11T16:03:33.000Z",
+          "wordCount": 1098,
+          "title": "Cisco Releases Security Update for Multiple Products",
+          "imageUrl": null
+        },
+        {
+          "id": "17871 at https://us-cert.cisa.gov",
+          "author": "CISA",
+          "description": "Original release date: August 11, 2022\nCISA and the Federal Bureau of Investigation (FBI) have released a joint Cybersecurity Advisory (CSA), #StopRansomware: Zeppelin Ransomware, to provide information on Zeppelin Ransomware. Actors use Zeppelin Ransomware, a ransomware-as-a-service (RaaS), against a wide range of businesses and critical infrastructure organizations to encrypt victims’ files for financial gain.\nCISA encourages organizations to review #StopRansomware: Zeppelin Ransomware for more information. Additionally, see StopRansomware.gov for guidance on ransomware protection, detection, and response. \n \nThis product is provided subject to this Notification and this Privacy & Use policy.",
+          "link": "https://us-cert.cisa.gov/ncas/current-activity/2022/08/11/stopransomware-zeppelin-ransomware",
+          "publishedOn": "2022-08-11T14:03:16.000Z",
+          "wordCount": 1079,
+          "title": "#StopRansomware: Zeppelin Ransomware",
+          "imageUrl": null
+        },
         {
           "id": "17849 at https://us-cert.cisa.gov",
           "author": "CISA",
@@ -452,6 +492,81 @@
       "feedUrl": "https://www.darkreading.com/rss.xml",
       "siteUrl": "https://www.darkreading.com",
       "articles": [
+        {
+          "id": "https://www.darkreading.com/risk/cyber-insurance-fail-businesses-lack-ransomware-coverage",
+          "author": "Nathan Eddy, Contributing Writer, Dark Reading",
+          "description": "Even among businesses with cyber insurance, they lack coverage for basic costs of many cyberattacks, according to a BlackBerry survey.",
+          "link": "https://www.darkreading.com/risk/cyber-insurance-fail-businesses-lack-ransomware-coverage",
+          "publishedOn": "2022-08-11T17:31:33.000Z",
+          "wordCount": 12761,
+          "title": "Cyber-Insurance Fail: Most Businesses Lack Ransomware Coverage",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltf8b5a94afa71c53a/628e3799daa31875dc0c9fc0/NathanEddyHeadshot.PNG",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltf8b5a94afa71c53a/628e3799daa31875dc0c9fc0/NathanEddyHeadshot.PNG"
+        },
+        {
+          "id": "https://www.darkreading.com/application-security/four-flaws-other-weaknesses-undermine-cisco-asa-firewalls",
+          "author": "Robert Lemos, Contributing Writer, Dark Reading",
+          "description": "More than 1 million instances of firewalls running Cisco Adaptive Security Appliance (ASA) software have four vulnerabilities that undermine its security, a researcher finds.",
+          "link": "https://www.darkreading.com/application-security/four-flaws-other-weaknesses-undermine-cisco-asa-firewalls",
+          "publishedOn": "2022-08-11T17:20:00.000Z",
+          "wordCount": 13173,
+          "title": "4 Flaws, Other Weaknesses Undermine Cisco ASA Firewalls",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt58481326324d6911/60b1e9a55d34de550780a990/Robert-Lemos.png",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt58481326324d6911/60b1e9a55d34de550780a990/Robert-Lemos.png"
+        },
+        {
+          "id": "https://www.darkreading.com/threat-intelligence/new-cross-industry-group-launches-open-cybersecurity-framework",
+          "author": "Jeffrey Schwartz, Contributing Writer",
+          "description": "18 companies led by Amazon and Splunk announced the OCSF framework, to provide a standard way for sharing threat detection telemetry among different monitoring tools and applications.",
+          "link": "https://www.darkreading.com/threat-intelligence/new-cross-industry-group-launches-open-cybersecurity-framework",
+          "publishedOn": "2022-08-11T16:21:18.000Z",
+          "wordCount": 13796,
+          "title": "New Cross-Industry Group Launches Open Cybersecurity Framework",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blta28fcad87ff558b7/627c0108726e3315b16b464c/Jeff_Schwartz_headshot-sq.png",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blta28fcad87ff558b7/627c0108726e3315b16b464c/Jeff_Schwartz_headshot-sq.png"
+        },
+        {
+          "id": "https://www.darkreading.com/attacks-breaches/cisco-confirms-data-breach-hacked-files-leaked",
+          "author": "Robert Lemos, Contributing Writer, Dark Reading",
+          "description": "Ransomware gang gained access to the company's VPN in May by convincing an employee to accept a multifactor authentication (MFA) push notification.",
+          "link": "https://www.darkreading.com/attacks-breaches/cisco-confirms-data-breach-hacked-files-leaked",
+          "publishedOn": "2022-08-11T15:55:17.000Z",
+          "wordCount": 13300,
+          "title": "Cisco Confirms Data Breach, Hacked Files Leaked",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt58481326324d6911/60b1e9a55d34de550780a990/Robert-Lemos.png",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt58481326324d6911/60b1e9a55d34de550780a990/Robert-Lemos.png"
+        },
+        {
+          "id": "https://www.darkreading.com/iot/the-time-is-now-for-iot-security-standards",
+          "author": "Jan Bondoc, Vice President of Information Technology, ioXt LLC",
+          "description": "Industry standards would provide predictable and understandable IoT security frameworks.",
+          "link": "https://www.darkreading.com/iot/the-time-is-now-for-iot-security-standards",
+          "publishedOn": "2022-08-11T14:00:00.000Z",
+          "wordCount": 13816,
+          "title": "The Time Is Now for IoT Security Standards",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltddcee955c9631de2/62f4f6c2c180ff0ed5b3db2a/Jan_Bondoc_2.jpg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltddcee955c9631de2/62f4f6c2c180ff0ed5b3db2a/Jan_Bondoc_2.jpg"
+        },
         {
           "id": "https://www.darkreading.com/dr-tech/new-open-source-tools-launched-for-adversary-simulation",
           "author": "Dark Reading Staff, Dark Reading",
@@ -3239,6 +3354,16 @@
       "siteUrl": "https://msrc-blog.microsoft.com",
       "articles": [
         {
+          "id": "https://msrc-blog.microsoft.com/?p=14579",
+          "author": "msrc",
+          "description": "The Microsoft Bug Bounty Programs and partnerships with the global security research community are important parts of Microsoft’s holistic approach to defending customers against security threats. Our bounty programs incentivize security research in high-impact areas to stay ahead of the ever-changing security landscapes, emerging technology, and new threats. Security Researchers help us secure millions of …\n  Microsoft Bug Bounty Programs Year in Review: $13.7M in Rewards Read More »",
+          "link": "https://msrc-blog.microsoft.com/2022/08/11/microsoft-bug-bounty-programs-year-in-review-13-7-in-rewards/",
+          "publishedOn": "2022-08-11T16:00:00.000Z",
+          "wordCount": 1832,
+          "title": "Microsoft Bug Bounty Programs Year in Review: $13.7M in Rewards",
+          "imageUrl": null
+        },
+        {
           "id": "https://msrc-blog.microsoft.com/?p=14505",
           "author": "msrc",
           "description": "Sharing information through the Security Update Guide (SUG) is an important part of our ongoing effort to help customers manage security risks and keep systems protected. In January 2022 we introduced Phase One of a new way for customers to receive email notifications about new Microsoft product security content using any email address, not just …\n  Security Update Guide Notification System News: Create your profile now Read More »",
@@ -3739,6 +3864,28 @@
       "feedUrl": "https://thehackernews.com/feeds/posts/default",
       "siteUrl": "https://thehackernews.com/",
       "articles": [
+        {
+          "id": "tag:blogger.com,1999:blog-4802841478634147276.post-2318578777119620235",
+          "author": "noreply@blogger.com (Ravie Lakshmanan)",
+          "description": "Three different offshoots of the notorious Conti cybercrime cartel have resorted to the technique of call-back phishing as an initial access vector to breach targeted networks.\n\"Three autonomous threat groups have since adopted and independently developed their own targeted phishing tactics derived from the call back phishing methodology,\" cybersecurity firm AdvIntel said in a Wednesday report.",
+          "link": "https://thehackernews.com/2022/08/conti-cybercrime-cartel-using-bazarcall.html",
+          "publishedOn": "2022-08-11T17:52:44.186Z",
+          "wordCount": null,
+          "title": "Conti Cybercrime Cartel Using 'BazarCall' Phishing Attacks as Initial Attack Vector",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "tag:blogger.com,1999:blog-4802841478634147276.post-6745356834397526985",
+          "author": "noreply@blogger.com (Ravie Lakshmanan)",
+          "description": "Networking equipment major Cisco on Wednesday confirmed it was the victim of a cyberattack on May 24, 2022 after the attackers got hold of an employee's personal Google account that contained passwords synced from their web browser.\n\"Initial access to the Cisco VPN was achieved via the successful compromise of a Cisco employee's personal Google account,\" Cisco Talos said in a detailed write-up.",
+          "link": "https://thehackernews.com/2022/08/cisco-confirms-its-been-hacked-by.html",
+          "publishedOn": "2022-08-11T16:11:00.485Z",
+          "wordCount": null,
+          "title": "Cisco Confirms It's Been Hacked by Yanluowang Ransomware Gang",
+          "itunes": {},
+          "imageUrl": null
+        },
         {
           "id": "tag:blogger.com,1999:blog-4802841478634147276.post-5216789070221297938",
           "author": "noreply@blogger.com (The Hacker News)",
