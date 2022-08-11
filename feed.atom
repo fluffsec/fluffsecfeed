@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-08-10T19:19:49.231Z</updated>
+    <updated>2022-08-11T03:01:18.453Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Multiple Vulnerabilities Discovered in Device42 Asset Management Appliance]]></title>
+        <id>https://www.darkreading.com/vulnerabilities-threats/multiple-vulnerabilities-discovered-in-device42-asset-management-appliance</id>
+        <link href="https://www.darkreading.com/vulnerabilities-threats/multiple-vulnerabilities-discovered-in-device42-asset-management-appliance"/>
+        <updated>2022-08-10T22:02:37.000Z</updated>
+        <summary type="html"><![CDATA[Four serious security issues on the popular appliance could be exploited by hackers with any level of access within the host network, Bitdefender researchers say.]]></summary>
+        <author>
+            <name>Nathan Eddy, Contributing Writer, Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Many ZTNA, MFA Tools Offer Little Protection Against Cookie Session Hijacking Attacks]]></title>
+        <id>https://www.darkreading.com/identity-and-access-management/many-ztna-mfa-tools-offer-little-protection-against-cookie-session-hijacking-attacks</id>
+        <link href="https://www.darkreading.com/identity-and-access-management/many-ztna-mfa-tools-offer-little-protection-against-cookie-session-hijacking-attacks"/>
+        <updated>2022-08-10T19:35:57.000Z</updated>
+        <summary type="html"><![CDATA[Many of the technologies and services that organizations are using to isolate Internet traffic from the internal network lack session validation mechanisms, security startup says.]]></summary>
+        <author>
+            <name>Jai Vijayan, Contributing Writer, Dark Reading</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Rethinking Software in the Organizational Hierarchy]]></title>
         <id>https://www.darkreading.com/attacks-breaches/rethinking-software-in-the-organizational-hierarchy</id>
@@ -3835,16 +3855,6 @@ The following Snort rules will detect exploitation attempts against this vulnera
   Microsoft Mitigates Azure Site Recovery Vulnerabilities Read More »]]></summary>
         <author>
             <name>msrc</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘Callback’ Phishing Campaign Impersonates Security Firms]]></title>
-        <id>https://kasperskycontenthub.com/threatpost-global/?p=180182</id>
-        <link href="https://threatpost.com/callback-phishing-security-firms/180182/"/>
-        <updated>2022-07-12T11:43:11.000Z</updated>
-        <summary type="html"><![CDATA[Victims instructed to make a phone call that will direct them to a link for downloading malware.]]></summary>
-        <author>
-            <name>Elizabeth Montalbano</name>
         </author>
     </entry>
 </feed>

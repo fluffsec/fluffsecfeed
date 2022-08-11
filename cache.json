@@ -367,16 +367,6 @@
           "wordCount": 2479,
           "title": "Large-Scale Phishing Campaign Bypasses MFA",
           "imageUrl": "https://media.kasperskycontenthub.com/wp-content/uploads/sites/103/2021/02/11095955/Business-Email-Compromise.jpg"
-        },
-        {
-          "id": "https://kasperskycontenthub.com/threatpost-global/?p=180182",
-          "author": "Elizabeth Montalbano",
-          "description": "Victims instructed to make a phone call that will direct them to a link for downloading malware.",
-          "link": "https://threatpost.com/callback-phishing-security-firms/180182/",
-          "publishedOn": "2022-07-12T11:43:11.000Z",
-          "wordCount": 2104,
-          "title": "‘Callback’ Phishing Campaign Impersonates Security Firms",
-          "imageUrl": "https://media.kasperskycontenthub.com/wp-content/uploads/sites/103/2019/02/14094016/mobile-security.jpeg"
         }
       ]
     },
@@ -462,6 +452,36 @@
       "feedUrl": "https://www.darkreading.com/rss.xml",
       "siteUrl": "https://www.darkreading.com",
       "articles": [
+        {
+          "id": "https://www.darkreading.com/vulnerabilities-threats/multiple-vulnerabilities-discovered-in-device42-asset-management-appliance",
+          "author": "Nathan Eddy, Contributing Writer, Dark Reading",
+          "description": "Four serious security issues on the popular appliance could be exploited by hackers with any level of access within the host network, Bitdefender researchers say.",
+          "link": "https://www.darkreading.com/vulnerabilities-threats/multiple-vulnerabilities-discovered-in-device42-asset-management-appliance",
+          "publishedOn": "2022-08-10T22:02:37.000Z",
+          "wordCount": 12604,
+          "title": "Multiple Vulnerabilities Discovered in Device42 Asset Management Appliance",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltf8b5a94afa71c53a/628e3799daa31875dc0c9fc0/NathanEddyHeadshot.PNG",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltf8b5a94afa71c53a/628e3799daa31875dc0c9fc0/NathanEddyHeadshot.PNG"
+        },
+        {
+          "id": "https://www.darkreading.com/identity-and-access-management/many-ztna-mfa-tools-offer-little-protection-against-cookie-session-hijacking-attacks",
+          "author": "Jai Vijayan, Contributing Writer, Dark Reading",
+          "description": "Many of the technologies and services that organizations are using to isolate Internet traffic from the internal network lack session validation mechanisms, security startup says.",
+          "link": "https://www.darkreading.com/identity-and-access-management/many-ztna-mfa-tools-offer-little-protection-against-cookie-session-hijacking-attacks",
+          "publishedOn": "2022-08-10T19:35:57.000Z",
+          "wordCount": 13406,
+          "title": "Many ZTNA, MFA Tools Offer Little Protection Against Cookie Session Hijacking Attacks",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt02d79fb9a44a4258/60b1e9dd2a25046b35110696/Jai-Vijayan.jpeg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt02d79fb9a44a4258/60b1e9dd2a25046b35110696/Jai-Vijayan.jpeg"
+        },
         {
           "id": "https://www.darkreading.com/attacks-breaches/rethinking-software-in-the-organizational-hierarchy",
           "author": "Pieter Danhieux, CEO, Chairman, & Co-Founder, Secure Code Warrior",
