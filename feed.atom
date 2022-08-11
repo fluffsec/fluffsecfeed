@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-08-11T03:01:18.453Z</updated>
+    <updated>2022-08-11T07:23:59.053Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[GitHub Dependabot Now Alerts Developers On Vulnerable GitHub Actions]]></title>
+        <id>tag:blogger.com,1999:blog-4802841478634147276.post-4744925233195894872</id>
+        <link href="https://thehackernews.com/2022/08/github-dependabot-now-alerts-developers.html"/>
+        <updated>2022-08-11T06:07:07.451Z</updated>
+        <summary type="html"><![CDATA[Cloud-based code hosting platform GitHub has announced that it will now start sending Dependabot alerts for vulnerable GitHub Actions to help developers fix security issues in CI/CD workflows.
+"When a security vulnerability is reported in an action, our team of security researchers will create an advisory to document the vulnerability, which will trigger an alert to impacted repositories,"]]></summary>
+        <author>
+            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Multiple Vulnerabilities Discovered in Device42 Asset Management Appliance]]></title>
         <id>https://www.darkreading.com/vulnerabilities-threats/multiple-vulnerabilities-discovered-in-device42-asset-management-appliance</id>
@@ -3844,17 +3855,6 @@ The following Snort rules will detect exploitation attempts against this vulnera
         <summary type="html"><![CDATA[Attackers used adversary-in-the-middle attacks to steal passwords, hijack sign-in sessions and skip authentication and then use victim mailboxes to launch BEC attacks against other targets.]]></summary>
         <author>
             <name>Elizabeth Montalbano</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft Mitigates Azure Site Recovery Vulnerabilities]]></title>
-        <id>https://msrc-blog.microsoft.com/?p=14395</id>
-        <link href="https://msrc-blog.microsoft.com/2022/07/12/microsoft-mitigates-azure-site-recovery-vulnerabilities/"/>
-        <updated>2022-07-12T17:49:37.000Z</updated>
-        <summary type="html"><![CDATA[Summary: Microsoft recently mitigated a set of vulnerabilities in Azure Site Recovery (ASR) and released fixes today, July 12, as part of our regular Update Tuesday cycle. These vulnerabilities affect all ASR on-premises customers using a VMware/Physical to Azure scenario and are fixed in the latest ASR 9.49 release. We recommend customers update to the …
-  Microsoft Mitigates Azure Site Recovery Vulnerabilities Read More »]]></summary>
-        <author>
-            <name>msrc</name>
         </author>
     </entry>
 </feed>

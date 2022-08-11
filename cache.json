@@ -3277,16 +3277,6 @@
           "wordCount": 2857,
           "title": "All Hands-on Deck: A Whole-of-Society Approach for Cybersecurity",
           "imageUrl": null
-        },
-        {
-          "id": "https://msrc-blog.microsoft.com/?p=14395",
-          "author": "msrc",
-          "description": "Summary: Microsoft recently mitigated a set of vulnerabilities in Azure Site Recovery (ASR) and released fixes today, July 12, as part of our regular Update Tuesday cycle. These vulnerabilities affect all ASR on-premises customers using a VMware/Physical to Azure scenario and are fixed in the latest ASR 9.49 release. We recommend customers update to the …\n  Microsoft Mitigates Azure Site Recovery Vulnerabilities Read More »",
-          "link": "https://msrc-blog.microsoft.com/2022/07/12/microsoft-mitigates-azure-site-recovery-vulnerabilities/",
-          "publishedOn": "2022-07-12T17:49:37.000Z",
-          "wordCount": 1858,
-          "title": "Microsoft Mitigates Azure Site Recovery Vulnerabilities",
-          "imageUrl": null
         }
       ]
     },
@@ -3669,6 +3659,17 @@
       "feedUrl": "https://thehackernews.com/feeds/posts/default",
       "siteUrl": "https://thehackernews.com/",
       "articles": [
+        {
+          "id": "tag:blogger.com,1999:blog-4802841478634147276.post-4744925233195894872",
+          "author": "noreply@blogger.com (Ravie Lakshmanan)",
+          "description": "Cloud-based code hosting platform GitHub has announced that it will now start sending Dependabot alerts for vulnerable GitHub Actions to help developers fix security issues in CI/CD workflows.\n\"When a security vulnerability is reported in an action, our team of security researchers will create an advisory to document the vulnerability, which will trigger an alert to impacted repositories,\"",
+          "link": "https://thehackernews.com/2022/08/github-dependabot-now-alerts-developers.html",
+          "publishedOn": "2022-08-11T06:07:07.451Z",
+          "wordCount": null,
+          "title": "GitHub Dependabot Now Alerts Developers On Vulnerable GitHub Actions",
+          "itunes": {},
+          "imageUrl": null
+        },
         {
           "id": "tag:blogger.com,1999:blog-4802841478634147276.post-2705394519165645962",
           "author": "noreply@blogger.com (Ravie Lakshmanan)",
