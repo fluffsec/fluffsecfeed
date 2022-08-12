@@ -397,16 +397,6 @@
           "wordCount": 2065,
           "title": "Authentication Risks Discovered in Okta Platform",
           "imageUrl": "https://media.kasperskycontenthub.com/wp-content/uploads/sites/103/2019/05/23160149/identity-access-and-management.jpg"
-        },
-        {
-          "id": "https://kasperskycontenthub.com/threatpost-global/?p=180212",
-          "author": "Elizabeth Montalbano",
-          "description": "Attackers used adversary-in-the-middle attacks to steal passwords, hijack sign-in sessions and skip authentication and then use victim mailboxes to launch BEC attacks against other targets.",
-          "link": "https://threatpost.com/large-scale-hishing-bypasses-mfa/180212/",
-          "publishedOn": "2022-07-13T11:45:26.000Z",
-          "wordCount": 2479,
-          "title": "Large-Scale Phishing Campaign Bypasses MFA",
-          "imageUrl": "https://media.kasperskycontenthub.com/wp-content/uploads/sites/103/2021/02/11095955/Business-Email-Compromise.jpg"
         }
       ]
     },
@@ -492,6 +482,66 @@
       "feedUrl": "https://www.darkreading.com/rss.xml",
       "siteUrl": "https://www.darkreading.com",
       "articles": [
+        {
+          "id": "https://www.darkreading.com/application-security/microsoft-zero-day-customers-security-exec",
+          "author": "Jai Vijayan, Contributing Writer, Dark Reading",
+          "description": "The head of Microsoft's Security Response Center defends keeping its initial vulnerability disclosures sparse — it is, she says, to protect customers.",
+          "link": "https://www.darkreading.com/application-security/microsoft-zero-day-customers-security-exec",
+          "publishedOn": "2022-08-11T23:54:33.000Z",
+          "wordCount": 13017,
+          "title": "Microsoft: We Don't Want to Zero-Day Our Customers",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt02d79fb9a44a4258/60b1e9dd2a25046b35110696/Jai-Vijayan.jpeg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt02d79fb9a44a4258/60b1e9dd2a25046b35110696/Jai-Vijayan.jpeg"
+        },
+        {
+          "id": "https://www.darkreading.com/risk/krebs-taiwan-geopolitical-headwinds-loom-large",
+          "author": "Tara Seals, Managing Editor, News, Dark Reading",
+          "description": "During a keynote at Black Hat 2022, former CISA director Chris Krebs outlined the biggest risk areas for the public and private sectors for the next few years.",
+          "link": "https://www.darkreading.com/risk/krebs-taiwan-geopolitical-headwinds-loom-large",
+          "publishedOn": "2022-08-11T23:38:32.000Z",
+          "wordCount": 16234,
+          "title": "Krebs: Taiwan, Geopolitical Headwinds Loom Large",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltea67136f81f32eca/626a9eb4726e3315b16b3c64/Tara-Seals-Headshot2.jpg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltea67136f81f32eca/626a9eb4726e3315b16b3c64/Tara-Seals-Headshot2.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/risk/colonial-pipeline-critical-infrastructure-operators-blind-cyber-risks",
+          "author": "Jeffrey Schwartz, Contributing Writer",
+          "description": "In her keynote address at Black Hat USA 2022, Kim Zetter gives a scathing rebuke of Colonial Pipeline for not foreseeing the attack.",
+          "link": "https://www.darkreading.com/risk/colonial-pipeline-critical-infrastructure-operators-blind-cyber-risks",
+          "publishedOn": "2022-08-11T22:54:13.000Z",
+          "wordCount": 13932,
+          "title": "After Colonial Pipeline, Critical Infrastructure Operators Remain Blind to Cyber-Risks",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blta28fcad87ff558b7/627c0108726e3315b16b464c/Jeff_Schwartz_headshot-sq.png",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blta28fcad87ff558b7/627c0108726e3315b16b464c/Jeff_Schwartz_headshot-sq.png"
+        },
+        {
+          "id": "https://www.darkreading.com/risk/supply-chain-security-startup-phylum-wins-the-first-black-hat-innovation-spotlight",
+          "author": "Karen Spiegelman, Features Editor",
+          "description": "Up-and-coming companies shoot their shot in a new feature introduced at the 25th annual cybersecurity conference.",
+          "link": "https://www.darkreading.com/risk/supply-chain-security-startup-phylum-wins-the-first-black-hat-innovation-spotlight",
+          "publishedOn": "2022-08-11T18:00:00.000Z",
+          "wordCount": 13104,
+          "title": "Supply-Chain Security Startup Phylum Wins the First Black Hat Innovation Spotlight",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt05b5a13cf2fb2868/62473b097c2d1d030cd47dff/pink-headshot.jpg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt05b5a13cf2fb2868/62473b097c2d1d030cd47dff/pink-headshot.jpg"
+        },
         {
           "id": "https://www.darkreading.com/risk/cyber-insurance-fail-businesses-lack-ransomware-coverage",
           "author": "Nathan Eddy, Contributing Writer, Dark Reading",
@@ -3421,16 +3471,6 @@
           "publishedOn": "2022-07-18T13:40:00.000Z",
           "wordCount": 1826,
           "title": "Mitigation for Azure Storage SDK Client-Side Encryption Padding Oracle Vulnerability",
-          "imageUrl": null
-        },
-        {
-          "id": "https://msrc-blog.microsoft.com/?p=14404",
-          "author": "Abhilasha Bhargav-Spantzel",
-          "description": "The morning of June 9th, I was driving over the Golden Gate Bridge into San Francisco with my family. While crossing the bridge my children shared some facts about this modern engineering marvel. Each day, approx. 100,000 vehicles travel over the bridge deck, which weighs a staggering 150,000 tons, and is suspended by 250 pairs …\n  All Hands-on Deck: A Whole-of-Society Approach for Cybersecurity Read More »",
-          "link": "https://msrc-blog.microsoft.com/2022/07/13/all-hands-on-deck-a-whole-of-society-approach-for-cybersecurity/",
-          "publishedOn": "2022-07-13T14:35:02.000Z",
-          "wordCount": 2857,
-          "title": "All Hands-on Deck: A Whole-of-Society Approach for Cybersecurity",
           "imageUrl": null
         }
       ]

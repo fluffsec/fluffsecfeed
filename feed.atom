@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-08-11T19:17:51.026Z</updated>
+    <updated>2022-08-12T03:08:23.424Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Microsoft: We Don't Want to Zero-Day Our Customers]]></title>
+        <id>https://www.darkreading.com/application-security/microsoft-zero-day-customers-security-exec</id>
+        <link href="https://www.darkreading.com/application-security/microsoft-zero-day-customers-security-exec"/>
+        <updated>2022-08-11T23:54:33.000Z</updated>
+        <summary type="html"><![CDATA[The head of Microsoft's Security Response Center defends keeping its initial vulnerability disclosures sparse — it is, she says, to protect customers.]]></summary>
+        <author>
+            <name>Jai Vijayan, Contributing Writer, Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Krebs: Taiwan, Geopolitical Headwinds Loom Large]]></title>
+        <id>https://www.darkreading.com/risk/krebs-taiwan-geopolitical-headwinds-loom-large</id>
+        <link href="https://www.darkreading.com/risk/krebs-taiwan-geopolitical-headwinds-loom-large"/>
+        <updated>2022-08-11T23:38:32.000Z</updated>
+        <summary type="html"><![CDATA[During a keynote at Black Hat 2022, former CISA director Chris Krebs outlined the biggest risk areas for the public and private sectors for the next few years.]]></summary>
+        <author>
+            <name>Tara Seals, Managing Editor, News, Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[After Colonial Pipeline, Critical Infrastructure Operators Remain Blind to Cyber-Risks]]></title>
+        <id>https://www.darkreading.com/risk/colonial-pipeline-critical-infrastructure-operators-blind-cyber-risks</id>
+        <link href="https://www.darkreading.com/risk/colonial-pipeline-critical-infrastructure-operators-blind-cyber-risks"/>
+        <updated>2022-08-11T22:54:13.000Z</updated>
+        <summary type="html"><![CDATA[In her keynote address at Black Hat USA 2022, Kim Zetter gives a scathing rebuke of Colonial Pipeline for not foreseeing the attack.]]></summary>
+        <author>
+            <name>Jeffrey Schwartz, Contributing Writer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Supply-Chain Security Startup Phylum Wins the First Black Hat Innovation Spotlight]]></title>
+        <id>https://www.darkreading.com/risk/supply-chain-security-startup-phylum-wins-the-first-black-hat-innovation-spotlight</id>
+        <link href="https://www.darkreading.com/risk/supply-chain-security-startup-phylum-wins-the-first-black-hat-innovation-spotlight"/>
+        <updated>2022-08-11T18:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Up-and-coming companies shoot their shot in a new feature introduced at the 25th annual cybersecurity conference.]]></summary>
+        <author>
+            <name>Karen Spiegelman, Features Editor</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Conti Cybercrime Cartel Using 'BazarCall' Phishing Attacks as Initial Attack Vector]]></title>
         <id>tag:blogger.com,1999:blog-4802841478634147276.post-2318578777119620235</id>
@@ -4076,27 +4116,6 @@ Users are advised to update the following software, which is tested and confirme
 The following Snort rules will detect exploitation attempts against this vulnerability: 59644, 59645, 59942 and 59943. Additional rules may be released in the future and current rules are subject to change, pending additional vulnerability information. For the most current rule information, please refer to your Cisco Secure Firewall management center or Snort.org.]]></summary>
         <author>
             <name>Cisco Talos Intelligence Group - Comprehensive Threat Intelligence</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[All Hands-on Deck: A Whole-of-Society Approach for Cybersecurity]]></title>
-        <id>https://msrc-blog.microsoft.com/?p=14404</id>
-        <link href="https://msrc-blog.microsoft.com/2022/07/13/all-hands-on-deck-a-whole-of-society-approach-for-cybersecurity/"/>
-        <updated>2022-07-13T14:35:02.000Z</updated>
-        <summary type="html"><![CDATA[The morning of June 9th, I was driving over the Golden Gate Bridge into San Francisco with my family. While crossing the bridge my children shared some facts about this modern engineering marvel. Each day, approx. 100,000 vehicles travel over the bridge deck, which weighs a staggering 150,000 tons, and is suspended by 250 pairs …
-  All Hands-on Deck: A Whole-of-Society Approach for Cybersecurity Read More »]]></summary>
-        <author>
-            <name>Abhilasha Bhargav-Spantzel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Large-Scale Phishing Campaign Bypasses MFA]]></title>
-        <id>https://kasperskycontenthub.com/threatpost-global/?p=180212</id>
-        <link href="https://threatpost.com/large-scale-hishing-bypasses-mfa/180212/"/>
-        <updated>2022-07-13T11:45:26.000Z</updated>
-        <summary type="html"><![CDATA[Attackers used adversary-in-the-middle attacks to steal passwords, hijack sign-in sessions and skip authentication and then use victim mailboxes to launch BEC attacks against other targets.]]></summary>
-        <author>
-            <name>Elizabeth Montalbano</name>
         </author>
     </entry>
 </feed>
