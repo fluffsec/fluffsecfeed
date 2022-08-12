@@ -3358,16 +3358,6 @@
           "wordCount": 5632,
           "title": "Vulnerability Spotlight: Use-after-free condition in Google Chrome WebGPU",
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9z_61YbC_t1en_hnbPGN6GErPypdHccNHbwncGFN7Qm9HfEKAfXpR69UYAm39NDv2Wet751H-CIg2efTxEBMssMODtw5HWQTvUQwJUr-25oj5PnZerWWWqj5Q_IvWXG185IaGG5AnPZuqnIIS_E-SUV5HVKLmtSnuSPcShx6AVNmtP41TX0j7P3PB/w1200-h630-p-k-no-nu/vuln%20spotlight.jpg"
-        },
-        {
-          "id": "https://blog.talosintelligence.com/2022/07/vulnerability-spotlight-adobe-acrobat.html",
-          "author": null,
-          "description": "Aleksandar Nikolic of Cisco Talos discovered these vulnerabilities. Blog by Jon Munshaw. \nCisco Talos recently discovered two use-after-free vulnerabilities in Adobe Acrobat Reader DC that could allow an attacker to eventually gain the ability to execute arbitrary code.  \nAcrobat is one of the most popular PDF reader software options available currently. It includes the ability to read and process JavaScript to give PDFs greater interactivity and customization options for users. This vulnerability exists in the way Acrobat Reader processes JavaScript.  \n\nTALOS-2022-1516 (CVE-2022-34221) is a type confusion vulnerability that is triggered if the user opens a PDF with specially crafted, malicious JavaScript embedded. Object misuse can cause memory corruption, which can lead to arbitrary code execution. TALOS-2022-1525 (CVE-2022-34230) can trigger the reuse of a freed object, which can ultimately result in arbitrary code execution, as well.\n\nCisco Talos worked with Adobe to ensure that these issues are resolved and an update is available for affected customers, all in adherence to Cisco’s vulnerability disclosure policy. \n\n\nUsers are advised to update the following software, which is tested and confirmed to be affected by these vulnerabilities: Adobe Acrobat Reader, version 2022.001.20085.  \n\n\nThe following Snort rules will detect exploitation attempts against this vulnerability: 59644, 59645, 59942 and 59943. Additional rules may be released in the future and current rules are subject to change, pending additional vulnerability information. For the most current rule information, please refer to your Cisco Secure Firewall management center or Snort.org.",
-          "link": "https://blog.talosintelligence.com/2022/07/vulnerability-spotlight-adobe-acrobat.html",
-          "publishedOn": "2022-07-13T15:49:00.003Z",
-          "wordCount": 5667,
-          "title": "Vulnerability Spotlight: Adobe Acrobat DC use-after-free issues could lead to arbitrary code execution",
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-iVL4eWUSTOwP2IGBZTP6DoCE8ft-T01eCdPwsFXJO5ArJiMDmYEfieOCe6xAHxZdP44gUt09TiKYTEmQ7lPB6wWhtyglRsAQRUh65TZGSfnwnWLsFz00c6H3X8BvitQEqyKYhfinVAfZNq4MAbYby5GlLZSfrbTcGCn4DXY16UyvdMj5oYH2WCXF/w1200-h630-p-k-no-nu/vuln%20spotlight.jpg"
         }
       ]
     },
@@ -3904,6 +3894,17 @@
       "feedUrl": "https://thehackernews.com/feeds/posts/default",
       "siteUrl": "https://thehackernews.com/",
       "articles": [
+        {
+          "id": "tag:blogger.com,1999:blog-4802841478634147276.post-458793934696353624",
+          "author": "noreply@blogger.com (Ravie Lakshmanan)",
+          "description": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday added two flaws to its Known Exploited Vulnerabilities Catalog, citing evidence of active exploitation.\nThe two high-severity issues relate to weaknesses in Zimbra Collaboration, both of which could be chained to achieve unauthenticated remote code execution on affected email servers -\n\nCVE-2022-27925 (CVSS score: 7.2)",
+          "link": "https://thehackernews.com/2022/08/researchers-warn-of-ongoing-mass.html",
+          "publishedOn": "2022-08-12T06:14:20.652Z",
+          "wordCount": null,
+          "title": "Researchers Warn of Ongoing Mass Exploitation of Zimbra RCE Vulnerability",
+          "itunes": {},
+          "imageUrl": null
+        },
         {
           "id": "tag:blogger.com,1999:blog-4802841478634147276.post-2318578777119620235",
           "author": "noreply@blogger.com (Ravie Lakshmanan)",

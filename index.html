@@ -22,6 +22,54 @@
             data-action="toggle-accordions"
             title="Click to toggle the day, Ctrl + click to toggle all."
           >
+            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2022-08-12 datetime="2022-08-12T06:14:20.652Z">2022-08-12</time>
+            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2022-08-12 datetime="2022-08-12T06:14:20.652Z"></time>
+          </button>
+        </h2>
+        <ul class="sources card">
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >The Hacker News</button>
+                  <a class="source-heading__link" href="https://thehackernews.com/">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="tag:blogger.com,1999:blog-4802841478634147276.post-458793934696353624"
+                        open
+                      >
+                        <summary class="article-expander__title">Researchers Warn of Ongoing Mass Exploitation of Zimbra RCE Vulnerability</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://thehackernews.com/2022/08/researchers-warn-of-ongoing-mass.html">
+                          <div class="article-summary-box-inner media-object">
+                            <span class="media-object__text">
+                              <span>The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday added two flaws to its Known Exploited Vulnerabilities Catalog, citing evidence of active exploitation.
+The two high-severity issues relate to weaknesses in Zimbra Collaboration, both of which could be chained to achieve unauthenticated remote code execution on affected email servers -
+
+CVE-2022-27925 (CVSS score: 7.2)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+        </ul>
+      </section>
+      <section class="daily-content js-toggle-accordions-scope">
+        <h2 class="daily-heading">
+          <button
+            class="daily-heading-toggle"
+            data-action="toggle-accordions"
+            title="Click to toggle the day, Ctrl + click to toggle all."
+          >
             <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2022-08-11 datetime="2022-08-11T23:54:33.000Z">2022-08-11</time>
             <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2022-08-11 datetime="2022-08-11T23:54:33.000Z"></time>
           </button>
@@ -9353,58 +9401,12 @@ The following Snort rules will detect exploitation attempts against this vulnera
                 </section>
               </section>
             </li>
-            <li class="card__section">
-              <section class="js-toggle-accordions-scope">
-                <h3 class="source-heading">
-                  <button
-                    class="source-heading__name"
-                    data-action="toggle-accordions"
-                    title="Click to toggle the source, Ctrl + click to toggle all."
-                  >Cisco Talos Intelligence Group - Comprehensive Threat Intelligence</button>
-                  <a class="source-heading__link" href="https://blog.talosintelligence.com/search/label/vulnerabilities">Open</a>
-                </h3>
-                <section class="articles-per-source">
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://blog.talosintelligence.com/2022/07/vulnerability-spotlight-adobe-acrobat.html"
-                        open
-                      >
-                        <summary class="article-expander__title">Vulnerability Spotlight: Adobe Acrobat DC use-after-free issues could lead to arbitrary code execution</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://blog.talosintelligence.com/2022/07/vulnerability-spotlight-adobe-acrobat.html">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-iVL4eWUSTOwP2IGBZTP6DoCE8ft-T01eCdPwsFXJO5ArJiMDmYEfieOCe6xAHxZdP44gUt09TiKYTEmQ7lPB6wWhtyglRsAQRUh65TZGSfnwnWLsFz00c6H3X8BvitQEqyKYhfinVAfZNq4MAbYby5GlLZSfrbTcGCn4DXY16UyvdMj5oYH2WCXF/w1200-h630-p-k-no-nu/vuln%20spotlight.jpg" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>Aleksandar Nikolic of Cisco Talos discovered these vulnerabilities. Blog by Jon Munshaw. 
-Cisco Talos recently discovered two use-after-free vulnerabilities in Adobe Acrobat Reader DC that could allow an attacker to eventually gain the ability to execute arbitrary code.  
-Acrobat is one of the most popular PDF reader software options available currently. It includes the ability to read and process JavaScript to give PDFs greater interactivity and customization options for users. This vulnerability exists in the way Acrobat Reader processes JavaScript.  
-
-TALOS-2022-1516 (CVE-2022-34221) is a type confusion vulnerability that is triggered if the user opens a PDF with specially crafted, malicious JavaScript embedded. Object misuse can cause memory corruption, which can lead to arbitrary code execution. TALOS-2022-1525 (CVE-2022-34230) can trigger the reuse of a freed object, which can ultimately result in arbitrary code execution, as well.
-
-Cisco Talos worked with Adobe to ensure that these issues are resolved and an update is available for affected customers, all in adherence to Cisco’s vulnerability disclosure policy. 
-
-
-Users are advised to update the following software, which is tested and confirmed to be affected by these vulnerabilities: Adobe Acrobat Reader, version 2022.001.20085.  
-
-
-The following Snort rules will detect exploitation attempts against this vulnerability: 59644, 59645, 59942 and 59943. Additional rules may be released in the future and current rules are subject to change, pending additional vulnerability information. For the most current rule information, please refer to your Cisco Secure Firewall management center or Snort.org.</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;19
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                </section>
-              </section>
-            </li>
         </ul>
       </section>
 
     <footer>
-      <a class="footer-link" href="https://github.com/fluffsec/fluffsecfeed/actions/runs/2844195097">
-        <time id="build-timestamp" datetime="2022-08-12T03:08:23.392Z">2022-08-12T03:08:23.392Z</time>
+      <a class="footer-link" href="https://github.com/fluffsec/fluffsecfeed/actions/runs/2845142852">
+        <time id="build-timestamp" datetime="2022-08-12T07:22:42.016Z">2022-08-12T07:22:42.016Z</time>
       </a>
       <a class="footer-link" href="https://github.com/osmoscraft/osmosfeed">osmosfeed 1.15.1</a>
     </footer>
