@@ -2,10 +2,73 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-08-12T07:22:42.060Z</updated>
+    <updated>2022-08-12T13:45:51.839Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[U.S. Government Warns of Increased Texting Scams as Mobile Attacks are Up 100%]]></title>
+        <id>https://blog.knowbe4.com/u.s.-government-warns-of-increased-texting-scams-as-mobile-attacks-are-up-100</id>
+        <link href="https://blog.knowbe4.com/u.s.-government-warns-of-increased-texting-scams-as-mobile-attacks-are-up-100"/>
+        <updated>2022-08-12T12:47:48.000Z</updated>
+        <summary type="html"><![CDATA[Cyberattacks via SMS messaging are on the rise, and are having such an impact, the Federal Communications Commission has released an advisory on Robotext phishing attacks (or smishing).]]></summary>
+        <author>
+            <name>Stu Sjouwerman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Massive Network of Over 10,000 Fake Investment Sites Targets Europe]]></title>
+        <id>https://blog.knowbe4.com/massive-network-of-over-10000-fake-investment-sites-targets-europe</id>
+        <link href="https://blog.knowbe4.com/massive-network-of-over-10000-fake-investment-sites-targets-europe"/>
+        <updated>2022-08-12T12:47:44.000Z</updated>
+        <summary type="html"><![CDATA[Using a mix of compromised social media accounts, social engineering, call center agents, and some convincing websites, this latest scam seeks to get victims to repeatedly “invest”.]]></summary>
+        <author>
+            <name>Stu Sjouwerman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[U.S. Government Offers $10 Million Reward for Information on Conti Ransomware Gang]]></title>
+        <id>tag:blogger.com,1999:blog-4802841478634147276.post-1261963925967864250</id>
+        <link href="https://thehackernews.com/2022/08/us-government-offers-10-million-reward.html"/>
+        <updated>2022-08-12T10:41:33.201Z</updated>
+        <summary type="html"><![CDATA[The U.S. State Department on Thursday announced a $10 million reward for information related to five individuals associated with the Conti ransomware group.
+The reward offer, first reported by WIRED, is also notable for the fact that it marks the first time the face of a Conti associate, known as "Target," has been unmasked. The four other associates have been referred to as "Tramp," "Dandis," "]]></summary>
+        <author>
+            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Facebook Testing Default End-to-End Encryption and Encrypted Backup in Messenger]]></title>
+        <id>tag:blogger.com,1999:blog-4802841478634147276.post-4048061893197538365</id>
+        <link href="https://thehackernews.com/2022/08/facebook-testing-default-end-to-end.html"/>
+        <updated>2022-08-12T09:09:09.835Z</updated>
+        <summary type="html"><![CDATA[Social media company Meta said it will begin testing end-to-end encryption (E2EE) on its Messenger platform this week for select users as the default option, as the company continues to slowly add security layers to its various chat services.
+"If you're in the test group, some of your most frequent chats may be automatically end-to-end encrypted, which means you won't have to opt in to the]]></summary>
+        <author>
+            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cisco Patches High-Severity Vulnerability Affecting ASA and Firepower Solutions]]></title>
+        <id>tag:blogger.com,1999:blog-4802841478634147276.post-7317773155624376875</id>
+        <link href="https://thehackernews.com/2022/08/cisco-patches-high-severity.html"/>
+        <updated>2022-08-12T08:48:31.520Z</updated>
+        <summary type="html"><![CDATA[Cisco on Wednesday released patches to contain multiple flaws in its software that could be abused to leak sensitive information on susceptible appliances.
+The issue, assigned the identifier CVE-2022-20866 (CVSS score: 7.4), has been described as a "logic error" when handling RSA keys on devices running Cisco Adaptive Security Appliance (ASA) Software and Cisco Firepower Threat Defense (FTD)]]></summary>
+        <author>
+            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fast and Secure VPN on a Budget? Private Internet Access VPN Has You Covered]]></title>
+        <id>tag:blogger.com,1999:blog-4802841478634147276.post-2962482550309082817</id>
+        <link href="https://thehackernews.com/2022/08/fast-and-secure-vpn-on-budget-private.html"/>
+        <updated>2022-08-12T08:36:31.045Z</updated>
+        <summary type="html"><![CDATA[Back when the internet consisted of a handful of computers networked together across a few research institutions, nobody could have imagined that it would one day form the backbone of a new digital way of life. And that probably explains why none of the researchers who thought up its core technologies — things like packet switching and TCP/IP — gave much consideration to the need to secure the]]></summary>
+        <author>
+            <name>noreply@blogger.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Researchers Warn of Ongoing Mass Exploitation of Zimbra RCE Vulnerability]]></title>
         <id>tag:blogger.com,1999:blog-4802841478634147276.post-458793934696353624</id>
@@ -4077,36 +4140,6 @@ The following Snort rules will detect exploitation attempts against this vulnera
         <summary type="html"><![CDATA[Phishing retained its place as the top root cause of data compromises, according to new data from the Identity Theft Resource Center (ITRC).]]></summary>
         <author>
             <name>Nathan Eddy, Contributing Writer, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Researchers Devise New Speculative Execution Attacks Against Some Intel, AMD CPUs]]></title>
-        <id>https://www.darkreading.com/attacks-breaches/researchers-devise-new-speculative-execution-attacks-against-some-intel-amd-cpus</id>
-        <link href="https://www.darkreading.com/attacks-breaches/researchers-devise-new-speculative-execution-attacks-against-some-intel-amd-cpus"/>
-        <updated>2022-07-13T22:55:00.000Z</updated>
-        <summary type="html"><![CDATA["Retbleed" bypasses a commonly used mechanism for protecting against a certain kind of side-channel attack.]]></summary>
-        <author>
-            <name>Jai Vijayan, Contributing Writer, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CyberRatings.org Issues AAA Rating on Forcepoint's Cloud Network Firewall]]></title>
-        <id>https://www.darkreading.com/cloud/cyberratings-org-issues-aaa-rating-on-forcepoint-s-cloud-network-firewall</id>
-        <link href="https://www.darkreading.com/cloud/cyberratings-org-issues-aaa-rating-on-forcepoint-s-cloud-network-firewall"/>
-        <updated>2022-07-13T21:23:00.000Z</updated>
-        <summary type="html"><![CDATA[Forcepoint's test results are second in a series of publications on this new technology.]]></summary>
-        <author>
-            <name>Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Report: Financial Institutions Overly Complacent About Current Authentication Methods]]></title>
-        <id>https://www.darkreading.com/attacks-breaches/report-financial-institutions-overly-complacent-about-current-authentication-methods</id>
-        <link href="https://www.darkreading.com/attacks-breaches/report-financial-institutions-overly-complacent-about-current-authentication-methods"/>
-        <updated>2022-07-13T21:09:34.000Z</updated>
-        <summary type="html"><![CDATA[New research report finds most financial organizations have experienced a breach due to an authentication weakness, yet only a third took action]]></summary>
-        <author>
-            <name>Dark Reading</name>
         </author>
     </entry>
 </feed>
