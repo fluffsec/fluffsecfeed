@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-08-12T13:45:51.839Z</updated>
+    <updated>2022-08-12T19:19:08.688Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Feds: Zeppelin Ransomware Resurfaces with New Compromise, Encryption Tactics]]></title>
+        <id>https://kasperskycontenthub.com/threatpost-global/?p=180405</id>
+        <link href="https://threatpost.com/zeppelin-ransomware-resurfaces/180405/"/>
+        <updated>2022-08-12T18:20:38.000Z</updated>
+        <summary type="html"><![CDATA[The CISA has seen a resurgence of the malware targeting a range of verticals and critical infrastructure organizations by exploiting RDP, firewall vulnerabilities.]]></summary>
+        <author>
+            <name>Elizabeth Montalbano</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Novel Ransomware Comes to the Sophisticated SOVA Android Banking Trojan]]></title>
+        <id>https://www.darkreading.com/endpoint/ransomware-sova-android-banking-trojan</id>
+        <link href="https://www.darkreading.com/endpoint/ransomware-sova-android-banking-trojan"/>
+        <updated>2022-08-12T14:58:10.000Z</updated>
+        <summary type="html"><![CDATA[Unusually, SOVA, which targets US users, now allows lateral movement for deeper data access. Version 5 adds an encryption capability.]]></summary>
+        <author>
+            <name>Nathan Eddy, Contributing Writer, Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Clear Security Obstacles and Achieve Cloud Nirvana]]></title>
+        <id>https://www.darkreading.com/cloud/how-to-clear-security-obstacles-and-achieve-cloud-nirvana</id>
+        <link href="https://www.darkreading.com/cloud/how-to-clear-security-obstacles-and-achieve-cloud-nirvana"/>
+        <updated>2022-08-12T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Back-end complexity of cloud computing means there's plenty of potential for security problems. Here's how to get a better handle on SaaS application security.]]></summary>
+        <author>
+            <name>Arvin Bansal, Senior Director, Cyber, Governance, and Risk, AmerisourceBergen</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[U.S. Government Warns of Increased Texting Scams as Mobile Attacks are Up 100%]]></title>
         <id>https://blog.knowbe4.com/u.s.-government-warns-of-increased-texting-scams-as-mobile-attacks-are-up-100</id>
@@ -24,6 +54,17 @@
         <summary type="html"><![CDATA[Using a mix of compromised social media accounts, social engineering, call center agents, and some convincing websites, this latest scam seeks to get victims to repeatedly “invest”.]]></summary>
         <author>
             <name>Stu Sjouwerman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Xiaomi Phones with MediaTek Chips Found Vulnerable to Forged Payments]]></title>
+        <id>tag:blogger.com,1999:blog-4802841478634147276.post-1365159775398025078</id>
+        <link href="https://thehackernews.com/2022/08/xiaomi-phones-with-mediatek-chips-found.html"/>
+        <updated>2022-08-12T12:20:11.932Z</updated>
+        <summary type="html"><![CDATA[Security flaws have been identified in Xiaomi Redmi Note 9T and Redmi Note 11 models, which could be exploited to disable the mobile payment mechanism and even forge transactions via a rogue Android app installed on the devices.
+Check Point said it found the flaws in devices powered by MediaTek chipsets during a security analysis of the Chinese handset maker's "Kinibi" Trusted Execution]]></summary>
+        <author>
+            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
         </author>
     </entry>
     <entry>

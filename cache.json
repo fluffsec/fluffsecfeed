@@ -406,6 +406,16 @@
       "siteUrl": "https://threatpost.com",
       "articles": [
         {
+          "id": "https://kasperskycontenthub.com/threatpost-global/?p=180405",
+          "author": "Elizabeth Montalbano",
+          "description": "The CISA has seen a resurgence of the malware targeting a range of verticals and critical infrastructure organizations by exploiting RDP, firewall vulnerabilities.",
+          "link": "https://threatpost.com/zeppelin-ransomware-resurfaces/180405/",
+          "publishedOn": "2022-08-12T18:20:38.000Z",
+          "wordCount": 1989,
+          "title": "Feds: Zeppelin Ransomware Resurfaces with New Compromise, Encryption Tactics",
+          "imageUrl": "https://media.kasperskycontenthub.com/wp-content/uploads/sites/103/2020/09/09162237/zeppelin-e1599682968641.jpg"
+        },
+        {
           "id": "https://kasperskycontenthub.com/threatpost-global/?p=180378",
           "author": "Threatpost",
           "description": "August Patch Tuesday tackles 121 CVEs, 17 critical bugs and one zero-day bug exploited in the wild.",
@@ -482,6 +492,36 @@
       "feedUrl": "https://www.darkreading.com/rss.xml",
       "siteUrl": "https://www.darkreading.com",
       "articles": [
+        {
+          "id": "https://www.darkreading.com/endpoint/ransomware-sova-android-banking-trojan",
+          "author": "Nathan Eddy, Contributing Writer, Dark Reading",
+          "description": "Unusually, SOVA, which targets US users, now allows lateral movement for deeper data access. Version 5 adds an encryption capability.",
+          "link": "https://www.darkreading.com/endpoint/ransomware-sova-android-banking-trojan",
+          "publishedOn": "2022-08-12T14:58:10.000Z",
+          "wordCount": 13221,
+          "title": "Novel Ransomware Comes to the Sophisticated SOVA Android Banking Trojan",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltf8b5a94afa71c53a/628e3799daa31875dc0c9fc0/NathanEddyHeadshot.PNG",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltf8b5a94afa71c53a/628e3799daa31875dc0c9fc0/NathanEddyHeadshot.PNG"
+        },
+        {
+          "id": "https://www.darkreading.com/cloud/how-to-clear-security-obstacles-and-achieve-cloud-nirvana",
+          "author": "Arvin Bansal, Senior Director, Cyber, Governance, and Risk, AmerisourceBergen",
+          "description": "Back-end complexity of cloud computing means there's plenty of potential for security problems. Here's how to get a better handle on SaaS application security.",
+          "link": "https://www.darkreading.com/cloud/how-to-clear-security-obstacles-and-achieve-cloud-nirvana",
+          "publishedOn": "2022-08-12T14:00:00.000Z",
+          "wordCount": 13804,
+          "title": "How to Clear Security Obstacles and Achieve Cloud Nirvana",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltf2af3ebe0a04f7dd/62e176c56b0f32698945f318/Arvin_B.png",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltf2af3ebe0a04f7dd/62e176c56b0f32698945f318/Arvin_B.png"
+        },
         {
           "id": "https://www.darkreading.com/application-security/microsoft-zero-day-customers-security-exec",
           "author": "Jai Vijayan, Contributing Writer, Dark Reading",
@@ -3879,6 +3919,17 @@
       "feedUrl": "https://thehackernews.com/feeds/posts/default",
       "siteUrl": "https://thehackernews.com/",
       "articles": [
+        {
+          "id": "tag:blogger.com,1999:blog-4802841478634147276.post-1365159775398025078",
+          "author": "noreply@blogger.com (Ravie Lakshmanan)",
+          "description": "Security flaws have been identified in Xiaomi Redmi Note 9T and Redmi Note 11 models, which could be exploited to disable the mobile payment mechanism and even forge transactions via a rogue Android app installed on the devices.\nCheck Point said it found the flaws in devices powered by MediaTek chipsets during a security analysis of the Chinese handset maker's \"Kinibi\" Trusted Execution",
+          "link": "https://thehackernews.com/2022/08/xiaomi-phones-with-mediatek-chips-found.html",
+          "publishedOn": "2022-08-12T12:20:11.932Z",
+          "wordCount": null,
+          "title": "Xiaomi Phones with MediaTek Chips Found Vulnerable to Forged Payments",
+          "itunes": {},
+          "imageUrl": null
+        },
         {
           "id": "tag:blogger.com,1999:blog-4802841478634147276.post-1261963925967864250",
           "author": "noreply@blogger.com (Ravie Lakshmanan)",
