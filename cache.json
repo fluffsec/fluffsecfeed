@@ -3805,6 +3805,17 @@
       "siteUrl": "https://thehackernews.com/",
       "articles": [
         {
+          "id": "tag:blogger.com,1999:blog-4802841478634147276.post-1450433069081128184",
+          "author": "noreply@blogger.com (Ravie Lakshmanan)",
+          "description": "A pair of reports from cybersecurity firms SEKOIA and Trend Micro sheds light on a new campaign undertaken by a Chinese threat actor named Lucky Mouse that involves leveraging a trojanized version of a cross-platform messaging app to backdoor systems.\nInfection chains leverage a chat application called MiMi, with its installer files compromised to download and install HyperBro samples for the",
+          "link": "https://thehackernews.com/2022/08/chinese-hackers-backdoored-mimi-chat.html",
+          "publishedOn": "2022-08-13T12:41:16.702Z",
+          "wordCount": null,
+          "title": "Chinese Hackers Backdoored MiMi Chat App to Target Windows, Linux, macOS Users",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
           "id": "tag:blogger.com,1999:blog-4802841478634147276.post-7528758786209741104",
           "author": "noreply@blogger.com (Ravie Lakshmanan)",
           "description": "A security feature bypass vulnerability has been uncovered in three signed third-party Unified Extensible Firmware Interface (UEFI) boot loaders that allow bypass of the UEFI Secure Boot feature.\n\"These vulnerabilities can be exploited by mounting the EFI System Partition and replacing the existing bootloader with the vulnerable one, or modifying a UEFI variable to load the vulnerable loader",

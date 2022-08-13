@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-08-13T13:32:08.879Z</updated>
+    <updated>2022-08-13T19:18:35.271Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Chinese Hackers Backdoored MiMi Chat App to Target Windows, Linux, macOS Users]]></title>
+        <id>tag:blogger.com,1999:blog-4802841478634147276.post-1450433069081128184</id>
+        <link href="https://thehackernews.com/2022/08/chinese-hackers-backdoored-mimi-chat.html"/>
+        <updated>2022-08-13T12:41:16.702Z</updated>
+        <summary type="html"><![CDATA[A pair of reports from cybersecurity firms SEKOIA and Trend Micro sheds light on a new campaign undertaken by a Chinese threat actor named Lucky Mouse that involves leveraging a trojanized version of a cross-platform messaging app to backdoor systems.
+Infection chains leverage a chat application called MiMi, with its installer files compromised to download and install HyperBro samples for the]]></summary>
+        <author>
+            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Patch Madness: Vendor Bug Advisories Are Broken, So Broken]]></title>
         <id>https://www.darkreading.com/risk/patch-madness-vendor-bug-advisories-broken</id>
