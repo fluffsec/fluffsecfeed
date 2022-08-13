@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-08-12T19:19:08.688Z</updated>
+    <updated>2022-08-13T02:59:48.884Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Patch Madness: Vendor Bug Advisories Are Broken, So Broken]]></title>
+        <id>https://www.darkreading.com/risk/patch-madness-vendor-bug-advisories-broken</id>
+        <link href="https://www.darkreading.com/risk/patch-madness-vendor-bug-advisories-broken"/>
+        <updated>2022-08-12T20:18:21.000Z</updated>
+        <summary type="html"><![CDATA[Duston Childs and Brian Gorenc of ZDI take the opportunity at Black Hat USA to break down the many vulnerability disclosure issues making patch prioritization a nightmare scenario for many orgs.]]></summary>
+        <author>
+            <name>Tara Seals, Managing Editor, News, Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Researchers Uncover UEFI Secure Boot Bypass in 3 Microsoft Signed Boot Loaders]]></title>
+        <id>tag:blogger.com,1999:blog-4802841478634147276.post-7528758786209741104</id>
+        <link href="https://thehackernews.com/2022/08/researchers-uncover-uefi-secure-boot.html"/>
+        <updated>2022-08-12T20:02:30.378Z</updated>
+        <summary type="html"><![CDATA[A security feature bypass vulnerability has been uncovered in three signed third-party Unified Extensible Firmware Interface (UEFI) boot loaders that allow bypass of the UEFI Secure Boot feature.
+"These vulnerabilities can be exploited by mounting the EFI System Partition and replacing the existing bootloader with the vulnerable one, or modifying a UEFI variable to load the vulnerable loader]]></summary>
+        <author>
+            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Feds: Zeppelin Ransomware Resurfaces with New Compromise, Encryption Tactics]]></title>
         <id>https://kasperskycontenthub.com/threatpost-global/?p=180405</id>
@@ -14,6 +35,16 @@
         <summary type="html"><![CDATA[The CISA has seen a resurgence of the malware targeting a range of verticals and critical infrastructure organizations by exploiting RDP, firewall vulnerabilities.]]></summary>
         <author>
             <name>Elizabeth Montalbano</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Software Supply Chain Chalks Up a Security Win With New Crypto Effort]]></title>
+        <id>https://www.darkreading.com/application-security/software-supply-chain-chalks-up-security-win-with-crypto-effort</id>
+        <link href="https://www.darkreading.com/application-security/software-supply-chain-chalks-up-security-win-with-crypto-effort"/>
+        <updated>2022-08-12T16:53:57.000Z</updated>
+        <summary type="html"><![CDATA[GitHub, the owner of the Node Package Manager (npm), proposes cryptographically linking source code and JavaScript packages in an effort to shore up supply chain security.]]></summary>
+        <author>
+            <name>Robert Lemos, Contributing Writer, Dark Reading</name>
         </author>
     </entry>
     <entry>
@@ -4122,65 +4153,6 @@ The following Snort rules will detect exploitation attempts against this vulnera
         <summary type="html"><![CDATA[Professional Finance Company (PFC) was hit in February 2022 by a ransomware attack.]]></summary>
         <author>
             <name>Dark Reading Staff, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Is Cryptocurrency's Crash Causing Headaches for Ransomware Gangs?]]></title>
-        <id>https://www.darkreading.com/threat-intelligence/is-cryptocurrency-s-crash-causing-headaches-for-ransomware-gangs-</id>
-        <link href="https://www.darkreading.com/threat-intelligence/is-cryptocurrency-s-crash-causing-headaches-for-ransomware-gangs-"/>
-        <updated>2022-07-14T14:50:20.000Z</updated>
-        <summary type="html"><![CDATA[Bitcoin is down more than 70% from its highs late last year, causing disruptions for cybercriminals and the underground exchanges that fuel the dark markets.]]></summary>
-        <author>
-            <name>Robert Lemos, Contributing Writer, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vulnerability Spotlight: Use-after-free condition in Google Chrome WebGPU]]></title>
-        <id>https://blog.talosintelligence.com/2022/07/chrome-web-gpu-useafterfree.html</id>
-        <link href="https://blog.talosintelligence.com/2022/07/chrome-web-gpu-useafterfree.html"/>
-        <updated>2022-07-14T14:22:00.003Z</updated>
-        <summary type="html"><![CDATA[Piotr Bania of Cisco Talos discovered this vulnerability. Blog by Jon Munshaw. 
-Cisco Talos recently discovered an exploitable use-after-free vulnerability in Google Chrome’s WebGPU standard.  
-Google Chrome is a cross-platform web browser — and Chromium is the open-source version of the browser that both Google and other software developers use as the basis to build their browsers, as well. This specific vulnerability exists in WebGPU, which is a JavaScript API for processing accelerated 3-D graphics and other functions in the browser. 
-TALOS-2022-1508 (CVE-2022-2399) occurs if the user opens a specially crafted web page in Chrome. That page could trigger a use-after-free condition in the application, which an attacker could then use to manipulate the browser in additional ways.  
-
-Cisco Talos worked with Google to ensure that this issue is resolved and an update is available for affected customers, all in adherence to Cisco’s vulnerability disclosure policy. 
-Users are encouraged to update these affected products as soon as possible: Google Chrome, version 102.0.4956.0 (64-bit) and 99.0.4844.82 (64-bit). Talos tested and confirmed these versions of Chrome could be exploited by this vulnerability. 
-
-
-The following Snort rules will detect exploitation attempts against this vulnerability: 59448 and 59449. Additional rules may be released in the future and current rules are subject to change, pending additional vulnerability information. For the most current rule information, please refer to your Firepower Management Center or Snort.org.]]></summary>
-        <author>
-            <name>Cisco Talos Intelligence Group - Comprehensive Threat Intelligence</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Virtual CISOs Are the Best Defense Against Accelerating Cyber-Risks]]></title>
-        <id>https://www.darkreading.com/careers-and-people/virtual-cisos-are-the-best-defense-against-accelerating-cyber-risks</id>
-        <link href="https://www.darkreading.com/careers-and-people/virtual-cisos-are-the-best-defense-against-accelerating-cyber-risks"/>
-        <updated>2022-07-14T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A poor, permanent hire can be a very expensive error, whereas a mis-hire on a virtual CISO can be rapidly corrected.]]></summary>
-        <author>
-            <name>Jim Tiller, Global CISO, Nash Squared and Harvey Nash USA</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Next Generation of Threat Detection Will Require Both Human and Machine Expertise]]></title>
-        <id>https://www.darkreading.com/the-cyber-future/the-next-generation-of-threat-detection-will-require-both-human-and-machine-expertise</id>
-        <link href="https://www.darkreading.com/the-cyber-future/the-next-generation-of-threat-detection-will-require-both-human-and-machine-expertise"/>
-        <updated>2022-07-14T13:33:18.000Z</updated>
-        <summary type="html"><![CDATA[To be truly effective, threat detection and response need to combine the strengths of people and technology.]]></summary>
-        <author>
-            <name>Kumar Saurabh, CEO and Co-Founder, LogicHub</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Data Breaches Linked to Ransomware Declined in Q2 2022]]></title>
-        <id>https://www.darkreading.com/attacks-breaches/data-breaches-linked-to-ransomware-declined-in-q2-2022</id>
-        <link href="https://www.darkreading.com/attacks-breaches/data-breaches-linked-to-ransomware-declined-in-q2-2022"/>
-        <updated>2022-07-14T13:31:46.000Z</updated>
-        <summary type="html"><![CDATA[Phishing retained its place as the top root cause of data compromises, according to new data from the Identity Theft Resource Center (ITRC).]]></summary>
-        <author>
-            <name>Nathan Eddy, Contributing Writer, Dark Reading</name>
         </author>
     </entry>
 </feed>
