@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-08-15T03:28:53.581Z</updated>
+    <updated>2022-08-15T07:22:26.631Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Newly Uncovered PyPI Package Drops Fileless Cryptominer to Linux Systems]]></title>
+        <id>tag:blogger.com,1999:blog-4802841478634147276.post-7890642155216277673</id>
+        <link href="https://thehackernews.com/2022/08/newly-uncovered-pypi-package-drops.html"/>
+        <updated>2022-08-15T06:37:10.972Z</updated>
+        <summary type="html"><![CDATA[A now-removed rogue package pushed to the official third-party software repository for Python has been found to deploy cryptominers on Linux systems.
+The module, named "secretslib" and downloaded 93 times prior to its deletion, was released to the Python Package Index (PyPI) on August 6, 2022 and is described as "secrets matching and verification made easy."
+
+"On a closer]]></summary>
+        <author>
+            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Tornado Cash Developer Arrested After U.S. Sanctions the Cryptocurrency Mixer]]></title>
         <id>tag:blogger.com,1999:blog-4802841478634147276.post-359960050532813369</id>
