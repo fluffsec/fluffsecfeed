@@ -406,6 +406,16 @@
       "siteUrl": "https://threatpost.com",
       "articles": [
         {
+          "id": "https://kasperskycontenthub.com/threatpost-global/?p=180416",
+          "author": "Nate Nelson",
+          "description": "Mobile transactions could’ve been disabled, created and signed by attackers.",
+          "link": "https://threatpost.com/xiaomi-phones-found-vulnerable-to-payment-forgery/180416/",
+          "publishedOn": "2022-08-16T12:26:27.000Z",
+          "wordCount": 2381,
+          "title": "Xiaomi Phone Bug Allowed Payment Forgery",
+          "imageUrl": "https://media.kasperskycontenthub.com/wp-content/uploads/sites/103/2019/04/04130521/Xiaomi-control-gaurd-phone.jpg"
+        },
+        {
           "id": "https://kasperskycontenthub.com/threatpost-global/?p=180409",
           "author": "Threatpost",
           "description": "‘Summer Camp’ for hackers features a compromised satellite, a homecoming for hackers and cyberwarfare warnings.",
@@ -3373,6 +3383,16 @@
       "siteUrl": "https://blog.knowbe4.com",
       "articles": [
         {
+          "id": "https://blog.knowbe4.com/cyberheistnews-vol-12-33-eye-opener-recent-cisco-hack-by-ransomware-group-started-because-of-a-phishing-attack",
+          "author": "Stu Sjouwerman",
+          "description": "CyberheistNews Vol 12 #33 [Eye Opener] Recent Cisco Hack by Ransomware Group Started Because of a Phishing Attack",
+          "link": "https://blog.knowbe4.com/cyberheistnews-vol-12-33-eye-opener-recent-cisco-hack-by-ransomware-group-started-because-of-a-phishing-attack",
+          "publishedOn": "2022-08-16T13:34:25.000Z",
+          "wordCount": 4558,
+          "title": "CyberheistNews Vol 12 #33 [Eye Opener] Recent Cisco Hack by Ransomware Group Started Because of a Phishing Attack",
+          "imageUrl": "https://blog.knowbe4.com/hubfs/CHN-Social.jpg#keepProtocol"
+        },
+        {
           "id": "https://blog.knowbe4.com/initial-access-broker-phishing",
           "author": "Stu Sjouwerman",
           "description": "Cisco has disclosed a security incident that occurred as a result of sophisticated voice phishing attacks that targeted employees, according to researchers at Cisco Talos. The researchers believe the attack was carried out by an initial access broker with the intent of selling access to the compromised accounts to other threat actors.",
@@ -3809,6 +3829,50 @@
       "feedUrl": "https://thehackernews.com/feeds/posts/default",
       "siteUrl": "https://thehackernews.com/",
       "articles": [
+        {
+          "id": "tag:blogger.com,1999:blog-4802841478634147276.post-6975678503136797600",
+          "author": "noreply@blogger.com (The Hacker News)",
+          "description": "UTM (Unified threat management) is thought to be an all-in-one solution for cybersecurity. In general, it is a versatile software or hardware firewall solution integrated with IPS (Intrusion Prevention System) and other security services. A universal gateway allows the user to manage network security with one comprehensive solution, which makes the task much easier. In addition, compared to a",
+          "link": "https://thehackernews.com/2022/08/unified-threat-management-all-in-one.html",
+          "publishedOn": "2022-08-16T11:04:09.505Z",
+          "wordCount": null,
+          "title": "Unified Threat Management: The All-in-One Cybersecurity Solution",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "tag:blogger.com,1999:blog-4802841478634147276.post-105552387163050754",
+          "author": "noreply@blogger.com (Ravie Lakshmanan)",
+          "description": "Cybersecurity researchers have elaborated a novel attack technique that weaponizes programmable logic controllers (PLCs) to gain an initial foothold in engineering workstations and subsequently invade the operational technology (OT) networks.\nDubbed \"Evil PLC\" attack by industrial security firm Claroty, the issue impacts engineering workstation software from Rockwell Automation, Schneider",
+          "link": "https://thehackernews.com/2022/08/new-evil-plc-attack-weaponizes-plcs-to.html",
+          "publishedOn": "2022-08-16T10:57:11.911Z",
+          "wordCount": null,
+          "title": "New Evil PLC Attack Weaponizes PLCs to Breach OT and Enterprise Networks",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "tag:blogger.com,1999:blog-4802841478634147276.post-9177510291507448961",
+          "author": "noreply@blogger.com (Ravie Lakshmanan)",
+          "description": "Microsoft on Monday revealed it took steps to disrupt phishing operations undertaken by a \"highly persistent threat actor\" whose objectives align closely with Russian state interests.\nThe company is tracking the espionage-oriented activity cluster under its chemical element-themed moniker SEABORGIUM, which it said overlaps with a hacking group also known as Callisto, COLDRIVER, and TA446.\n\"",
+          "link": "https://thehackernews.com/2022/08/microsoft-warns-about-phishing-attacks.html",
+          "publishedOn": "2022-08-16T09:35:04.880Z",
+          "wordCount": null,
+          "title": "Microsoft Warns About Phishing Attacks by Russia-linked Hackers",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "tag:blogger.com,1999:blog-4802841478634147276.post-2972407472788545719",
+          "author": "noreply@blogger.com (Ravie Lakshmanan)",
+          "description": "Russian state-sponsored actors are continuing to strike Ukrainian entities with information-stealing malware as part of what's suspected to be an espionage operation.\nSymantec, a division of Broadcom Software, attributed the malicious campaign to a threat actor tracked Shuckworm, also known as Actinium, Armageddon, Gamaredon, Primitive Bear, and Trident Ursa. The findings have been corroborated",
+          "link": "https://thehackernews.com/2022/08/russian-state-hackers-continue-to.html",
+          "publishedOn": "2022-08-16T06:36:41.807Z",
+          "wordCount": null,
+          "title": "Russian State Hackers Continue to Attack Ukrainian Entities with Infostealer Malware",
+          "itunes": {},
+          "imageUrl": null
+        },
         {
           "id": "tag:blogger.com,1999:blog-4802841478634147276.post-6655338379302455558",
           "author": "noreply@blogger.com (Ravie Lakshmanan)",
