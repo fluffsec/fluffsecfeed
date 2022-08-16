@@ -6,6 +6,16 @@
       "siteUrl": "https://us-cert.cisa.gov/",
       "articles": [
         {
+          "id": "17891 at https://us-cert.cisa.gov",
+          "author": "CISA",
+          "description": "Original release date: August 16, 2022\nSummary\nActions for ZCS administrators to take today to mitigate malicious cyber activity:\nknown exploited vulnerabilities.\nThe Cybersecurity and Infrastructure Security Agency (CISA) and the Multi-State Information Sharing & Analysis Center (MS-ISAC) are publishing this joint Cybersecurity Advisory (CSA) in response to active exploitation of multiple Common Vulnerabilities and Exposures (CVEs) against Zimbra Collaboration Suite (ZCS), an enterprise cloud-hosted collaboration software and email platform. CVEs currently being exploited against ZCS include: \nCVE-2022-24682 \nCVE-2022-27924 \nCVE-2022-27925 chained with CVE-2022-37042 \nCVE-2022-30333\nCyber threat actors may be targeting unpatched ZCS instances in both government and private sector networks…",
+          "link": "https://us-cert.cisa.gov/ncas/alerts/aa22-228a",
+          "publishedOn": "2022-08-16T15:38:42.000Z",
+          "wordCount": 2274,
+          "title": "AA22-228A: Threat Actors Exploiting Multiple CVEs Against Zimbra Collaboration Suite",
+          "imageUrl": null
+        },
+        {
           "id": "17864 at https://us-cert.cisa.gov",
           "author": "CISA",
           "description": "Original release date: August 11, 2022\nSummary\nActions to take today to mitigate cyber threats from ransomware:\nknown exploited vulnerabilities.\nNote: this joint Cybersecurity Advisory (CSA) is part of an ongoing #StopRansomware effort to publish advisories for network defenders that detail various ransomware variants and ransomware threat actors. These #StopRansomware advisories include recently and historically observed tactics, techniques, and procedures (TTPs) and indicators of compromise (IOCs) to help organizations protect against ransomware. Visit stopransomware.gov to see all #StopRansomware advisories and to learn more about other ransomware threats and no-cost resources.\nThe Federal Bureau of Investigation (FBI) and the Cybersecurity and Infrastructure Security Agency (CISA) are …",
@@ -32,6 +42,16 @@
       "feedUrl": "https://us-cert.cisa.gov/ncas/current-activity.xml",
       "siteUrl": "https://us-cert.cisa.gov/",
       "articles": [
+        {
+          "id": "17890 at https://us-cert.cisa.gov",
+          "author": "CISA",
+          "description": "Original release date: August 16, 2022\nCISA and the Multi-State Information Sharing & Analysis Center (MS-ISAC) have released a joint Cybersecurity Advisory (CSA) in response to active exploitation of multiple vulnerabilities against Zimbra Collaboration Suite (ZCS), an enterprise cloud-hosted collaboration software and email platform. \nCISA and MS-ISAC encourage users and administrators review Threat Actors Exploiting Multiple CVEs Against Zimbra Collaboration Suite for more information and apply the recommended mitigations.\nThis product is provided subject to this Notification and this Privacy & Use policy.",
+          "link": "https://us-cert.cisa.gov/ncas/current-activity/2022/08/16/threat-actors-exploiting-multiple-vulnerabilities-against-zimbra",
+          "publishedOn": "2022-08-16T15:10:57.000Z",
+          "wordCount": 1082,
+          "title": "Threat Actors Exploiting Multiple Vulnerabilities Against Zimbra Collaboration Suite",
+          "imageUrl": null
+        },
         {
           "id": "17877 at https://us-cert.cisa.gov",
           "author": "CISA",
@@ -304,7 +324,18 @@
       "title": "Critical Infrastructure – Threatpost",
       "feedUrl": "https://threatpost.com/category/critical-infrastructure/feed/",
       "siteUrl": "https://threatpost.com",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://kasperskycontenthub.com/threatpost-global/?p=180422",
+          "author": "Elizabeth Montalbano",
+          "description": "The incident disrupted corporate IT systems at one company while attackers misidentified the victim in a post on its website that leaked stolen data.",
+          "link": "https://threatpost.com/water-supplier-hit-clop-ransomware/180422/",
+          "publishedOn": "2022-08-16T14:30:01.000Z",
+          "wordCount": 2128,
+          "title": "U.K. Water Supplier Hit with Clop Ransomware Attack",
+          "imageUrl": "https://media.kasperskycontenthub.com/wp-content/uploads/sites/103/2021/02/12085948/water-treatment-plant-hack.jpg"
+        }
+      ]
     },
     {
       "title": "Cloud Security – Threatpost",
@@ -512,6 +543,91 @@
       "feedUrl": "https://www.darkreading.com/rss.xml",
       "siteUrl": "https://www.darkreading.com",
       "articles": [
+        {
+          "id": "https://www.darkreading.com/attacks-breaches/clop-ransomware-gang-breaches-water-utility",
+          "author": "Becky Bracken, Editor, Dark Reading",
+          "description": "South Staffordshire in the UK has acknowledged it was targeted in a cyberattack, but Clop ransomware appears to be shaking down the wrong water company.",
+          "link": "https://www.darkreading.com/attacks-breaches/clop-ransomware-gang-breaches-water-utility",
+          "publishedOn": "2022-08-16T19:08:11.000Z",
+          "wordCount": 11524,
+          "title": "Clop Ransomware Gang Breaches Water Utility, Just Not the Right One",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt8e7bd143d726930b/627271268681151716941064/BeckyB.jpg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt8e7bd143d726930b/627271268681151716941064/BeckyB.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/remote-workforce/name-that-toon-vicious-circle",
+          "author": "John Klossner, Cartoonist",
+          "description": "Feeling creative? Submit your caption and our panel of experts will reward the winner with a $25 Amazon gift card.",
+          "link": "https://www.darkreading.com/remote-workforce/name-that-toon-vicious-circle",
+          "publishedOn": "2022-08-16T17:00:00.000Z",
+          "wordCount": 10644,
+          "title": "Name That Toon: Vicious Circle",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltf97d71984b60d7ed/60b1e88b5d34de550780a96e/Klossner_iwk_photo.gif",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltf97d71984b60d7ed/60b1e88b5d34de550780a96e/Klossner_iwk_photo.gif"
+        },
+        {
+          "id": "https://www.darkreading.com/attacks-breaches/plunge-value-cryptocurrency-crimes-decline-2022",
+          "author": "Robert Lemos, Contributing Writer, Dark Reading",
+          "description": "Cybercrime has been funded with cryptocurrency, but the valuation of various digital currencies has dropped by more than two-thirds and cybercriminals are feeling the pinch.",
+          "link": "https://www.darkreading.com/attacks-breaches/plunge-value-cryptocurrency-crimes-decline-2022",
+          "publishedOn": "2022-08-16T14:49:26.000Z",
+          "wordCount": 13266,
+          "title": "With Plunge in Value, Cryptocurrency Crimes Decline in 2022",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt58481326324d6911/60b1e9a55d34de550780a990/Robert-Lemos.png",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt58481326324d6911/60b1e9a55d34de550780a990/Robert-Lemos.png"
+        },
+        {
+          "id": "https://www.darkreading.com/remote-workforce/windows-vulnerability-could-crack-dc-server-credentials-open",
+          "author": "Nathan Eddy, Contributing Writer, Dark Reading",
+          "description": "The security flaw tracked as CVE-2022-30216 could allow attackers to perform server spoofing or trigger authentication coercion on the victim.",
+          "link": "https://www.darkreading.com/remote-workforce/windows-vulnerability-could-crack-dc-server-credentials-open",
+          "publishedOn": "2022-08-16T14:39:57.000Z",
+          "wordCount": 13238,
+          "title": "Windows Vulnerability Could Crack DC Server Credentials Open",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltf8b5a94afa71c53a/628e3799daa31875dc0c9fc0/NathanEddyHeadshot.PNG",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltf8b5a94afa71c53a/628e3799daa31875dc0c9fc0/NathanEddyHeadshot.PNG"
+        },
+        {
+          "id": "https://www.darkreading.com/threat-intelligence/lessons-from-the-cybersecurity-trenches",
+          "author": "Danika Nilson, Cyber Threat Hunter, Forescout Frontline, Forescout",
+          "description": "Threat hunting not only serves the greater good by helping keep users safe, it rewards practitioners with the thrill of the hunt and solving of complex problems. Tap into your background and learn to follow your instincts.",
+          "link": "https://www.darkreading.com/threat-intelligence/lessons-from-the-cybersecurity-trenches",
+          "publishedOn": "2022-08-16T14:00:00.000Z",
+          "wordCount": 13372,
+          "title": "Lessons From the Cybersecurity Trenches",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt519cc17b20831410/62fa7f54dfd4400f7c5499c0/Danika_Nilson_Headshot.jpg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt519cc17b20831410/62fa7f54dfd4400f7c5499c0/Danika_Nilson_Headshot.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/vulnerabilities-threats/sept-7-9-ukraine-election-ai-cybercrime-5g-among-topics-explored-by-125-speakers-at-13th-billington-cybersecurity-summit",
+          "author": null,
+          "description": "Heads of CIA and CISA headline event at DC Convention Center.",
+          "link": "https://www.darkreading.com/vulnerabilities-threats/sept-7-9-ukraine-election-ai-cybercrime-5g-among-topics-explored-by-125-speakers-at-13th-billington-cybersecurity-summit",
+          "publishedOn": "2022-08-16T13:39:55.000Z",
+          "wordCount": 11466,
+          "title": "SEPT. 7-9: Ukraine, Election, AI, Cybercrime, 5G Among Topics Explored by 125+ Speakers at 13th Billington Cybersecurity Summit",
+          "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
+        },
         {
           "id": "https://www.darkreading.com/threat-intelligence/def-con-30-hackers-come-home-to-vibrant-community",
           "author": "Becky Bracken, Editor, Dark Reading",
@@ -3205,6 +3321,26 @@
       "siteUrl": "https://blog.talosintelligence.com/search/label/vulnerabilities",
       "articles": [
         {
+          "id": "https://blog.talosintelligence.com/2022/08/vuln-spotlight-wwbn-avideo-stream.html",
+          "author": null,
+          "description": "Claudio Bozzato of Cisco Talos discovered these vulnerabilities. Blog by Jon Munshaw. \nCisco Talos recently discovered multiple vulnerabilities in the WWBN AVideo web application that could allow an attacker to carry out a wide range of malicious actions, including command injection and authentication bypass. \nAVideo is an open-source web application that allows users to build a video streaming and sharing platform. Anyone who joins the community can host videos on-demand, launch a live stream or encode different video formats.  \nTALOS-2022-1542 (CVE-2022-32777 - CVE-2022-32778), TALOS-2022-1549 (CVE-2022-32761) and TALOS-2022-1550 (CVE-2022-28710) are information disclosure vulnerabilities that are triggered if an adversary sends the targeted instance a specially crafted HTTP packet. TALO…",
+          "link": "https://blog.talosintelligence.com/2022/08/vuln-spotlight-wwbn-avideo-stream.html",
+          "publishedOn": "2022-08-16T15:54:00.003Z",
+          "wordCount": 5772,
+          "title": "Vulnerability Spotlight: Vulnerabilities in WWBN AVideo web app could lead to command injection, authentication bypass",
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpGgwuKosjMC_Pgmjrz9z73jyWcn_xiXE0OrdYk9HMaCHZHCy3qP6u6NshBcrK5eXyvpV8aow4q266lxrtNnYaZvcsbqeDI8EZAhr_LZ-pHWD7lWlAIH_129M8ORoMmVGR9D8gIfHWz-std3FK5iGIOgafh-ugolmx6y-QDq62LDY7iTuVdEujYvDa/w1200-h630-p-k-no-nu/vuln%20spotlight.jpg"
+        },
+        {
+          "id": "https://blog.talosintelligence.com/2022/08/vuln-spotlight-hdf5-library.html",
+          "author": null,
+          "description": "Dave McDaniel of Cisco Talos discovered these vulnerabilities. Blog by Jon Munshaw. \nCisco Talos recently discovered three vulnerabilities in a library that works with the HDF5 file format that could allow an attacker to execute remote code on a targeted device. \nThese issues arise in the libhdf5 gif2h5 tool that’s normally used to convert a GIF file to the HDF5 format, commonly used to store large amounts of numerical data. An attacker could exploit these vulnerabilities by tricking a user into opening a specially crafted, malicious file. \nTALOS-2022-1485 (CVE-2022-25972) and TALOS-2022-1486 (CVE-2022-25942) are out-of-bounds write vulnerabilities in the gif2h5 tool that trigger a specific crash, opening the door for code execution from the adversary. TALOS-2022-1487 (CVE-2022-26061) works similarly but is a heap-based buffer overflow vulnerability. \n\nCisco Talos is disclosing these vulnerabilities despite no official fix from HDF5 in adherence to the 90-day deadline outlined in Cisco’s vulnerability disclosure policy. \n\n\nUsers are encouraged to update these affected products as soon as possible: HDF5 Group libhdf5, version 1.10.4. Talos tested and confirmed these versions of the library could be exploited by these vulnerabilities. \nThe following Snort rules will detect exploitation attempts against this vulnerability: 59296, 59297, 59300, 59301, 59303 and 59304. Additional rules may be released in the future and current rules are subject to change, pending additional vulnerability information. For the most current rule information, please refer to your Firepower Management Center or Snort.org.",
+          "link": "https://blog.talosintelligence.com/2022/08/vuln-spotlight-hdf5-library.html",
+          "publishedOn": "2022-08-16T14:03:00.002Z",
+          "wordCount": 5661,
+          "title": "Vulnerability Spotlight: Three vulnerabilities in HDF5 file format could lead to remote code execution",
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEijf2b-rBwyFBEHSe3xrOXd4aUCWFsm0xCtGr3kMVjLKGPRII8Vx3ezKJq9u4pv36pJ9XY5wP-IACN9MMf76Y2K2GGq6ZFciuKnE3LCQrmDz53BPX8y9ueblJtkEQebAa6MrqunoNI3u9vrpNDMo97HIesLLI4002zYNj79gAmmaBlQVwAMsYvn4MQf/w1200-h630-p-k-no-nu/vuln%20spotlight.jpg"
+        },
+        {
           "id": "https://blog.talosintelligence.com/2022/08/microsoft-patch-tuesday-for-august-2022.html",
           "author": null,
           "description": "By Jon Munshaw and Vanja Svajcer.\nMicrosoft released its monthly security update Tuesday, disclosing more than 120 vulnerabilities across its line of products and software, the most in a single Patch Tuesday in four months.  \nThis batch of updates also includes a fix for a new vulnerability in the Microsoft Windows Support Diagnostic Tool (MSDT) that’s actively being exploited in the wild, according to Microsoft. MSDT was already the target of the so-called “Follina” zero-day vulnerability in June.  \nIn all, August’s Patch Tuesday includes 15 critical vulnerabilities and a single low- and moderate-severity issue. The remainder is classified as “important.” \nTwo of the important vulnerabilities CVE-2022-35743 and CVE-2022-34713 are remote code execution vulnerabilities in MSDT. However, onl…",
@@ -3382,6 +3518,16 @@
       "feedUrl": "https://blog.knowbe4.com/rss.xml",
       "siteUrl": "https://blog.knowbe4.com",
       "articles": [
+        {
+          "id": "https://blog.knowbe4.com/children-of-conti-go-phishing",
+          "author": "Stu Sjouwerman",
+          "description": "Researchers at AdvIntel warn that three more ransomware groups have begun using the BazarCall spear phishing technique invented by the Ryuk gang (a threat group that subsequently rebranded as Conti). BazarCall callback phishing allows threat actors to craft much more targeted social engineering attacks designed for specific victims. The researchers outline the four stages of this technique:",
+          "link": "https://blog.knowbe4.com/children-of-conti-go-phishing",
+          "publishedOn": "2022-08-16T15:57:46.000Z",
+          "wordCount": 2225,
+          "title": "Children of Conti go Phishing",
+          "imageUrl": "https://blog.knowbe4.com/hubfs/Children%20of%20Conti%20go%20Phishing.jpg#keepProtocol"
+        },
         {
           "id": "https://blog.knowbe4.com/cyberheistnews-vol-12-33-eye-opener-recent-cisco-hack-by-ransomware-group-started-because-of-a-phishing-attack",
           "author": "Stu Sjouwerman",
@@ -3829,6 +3975,17 @@
       "feedUrl": "https://thehackernews.com/feeds/posts/default",
       "siteUrl": "https://thehackernews.com/",
       "articles": [
+        {
+          "id": "tag:blogger.com,1999:blog-4802841478634147276.post-8686050813908416488",
+          "author": "noreply@blogger.com (Ravie Lakshmanan)",
+          "description": "A group of researchers has revealed details of a new vulnerability affecting Intel CPUs that enables attackers to obtain encryption keys and other secret information from the processors.\nDubbed ÆPIC Leak, the weakness is the first-of-its-kind to architecturally disclose sensitive data in a manner that's akin to an \"uninitialized memory read in the CPU itself.\"\n\"In contrast to transient execution",
+          "link": "https://thehackernews.com/2022/08/pic-and-squip-vulnerabilities-found-in.html",
+          "publishedOn": "2022-08-16T14:58:22.811Z",
+          "wordCount": null,
+          "title": "ÆPIC and SQUIP Vulnerabilities Found in Intel and AMD Processors",
+          "itunes": {},
+          "imageUrl": null
+        },
         {
           "id": "tag:blogger.com,1999:blog-4802841478634147276.post-6975678503136797600",
           "author": "noreply@blogger.com (The Hacker News)",
