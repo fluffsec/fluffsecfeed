@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-08-16T19:19:14.318Z</updated>
+    <updated>2022-08-17T03:31:47.478Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Rolls Out Tamper Protection for Macs]]></title>
+        <id>https://www.darkreading.com/dr-tech/microsoft-rolls-out-tamper-protection-for-macs</id>
+        <link href="https://www.darkreading.com/dr-tech/microsoft-rolls-out-tamper-protection-for-macs"/>
+        <updated>2022-08-17T00:14:37.000Z</updated>
+        <summary type="html"><![CDATA[The tamper protection feature detects attempts to modify files and processes for Microsoft Defender for Endpoints on macOS.]]></summary>
+        <author>
+            <name>Dark Reading Staff, Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Disrupts Russian Group's Multiyear Cyber-Espionage Campaign]]></title>
+        <id>https://www.darkreading.com/threat-intelligence/microsoft-disrupts-russian-group-cyberespionage-campaign</id>
+        <link href="https://www.darkreading.com/threat-intelligence/microsoft-disrupts-russian-group-cyberespionage-campaign"/>
+        <updated>2022-08-16T19:54:24.000Z</updated>
+        <summary type="html"><![CDATA["Seaborgium" is a highly persistent threat actor that has been targeting organizations and individuals of likely interest to the Russian government since at least 2017, company says.]]></summary>
+        <author>
+            <name>Jai Vijayan, Contributing Writer, Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[More Super Targeted Spear Phishing Ahead]]></title>
+        <id>https://blog.knowbe4.com/more-super-targeted-spear-phishing-ahead</id>
+        <link href="https://blog.knowbe4.com/more-super-targeted-spear-phishing-ahead"/>
+        <updated>2022-08-16T19:42:05.000Z</updated>
+        <summary type="html"><![CDATA[Hardly a day goes by without a news alert about the latest HUGE data breach. It’s so commonplace today that it rarely rates showing at the top of the news. In a newspaper, the announcement of the latest breach may be on the third page. We’ve become numb to them. And that’s a big problem.]]></summary>
+        <author>
+            <name>Roger Grimes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DEF CON: A Woman's First Experience]]></title>
+        <id>https://www.darkreading.com/omdia/def-con-a-woman-s-first-experience</id>
+        <link href="https://www.darkreading.com/omdia/def-con-a-woman-s-first-experience"/>
+        <updated>2022-08-16T19:33:55.000Z</updated>
+        <summary type="html"><![CDATA[Omdia Senior Analyst Hollie Hennessy goes over her first experience of DEF CON as a woman in cybersecurity.]]></summary>
+        <author>
+            <name>Hollie Hennessy, Senior Analyst, IoT Cybersecurity, Omdia</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Clop Ransomware Gang Breaches Water Utility, Just Not the Right One]]></title>
         <id>https://www.darkreading.com/attacks-breaches/clop-ransomware-gang-breaches-water-utility</id>
@@ -14,6 +54,16 @@
         <summary type="html"><![CDATA[South Staffordshire in the UK has acknowledged it was targeted in a cyberattack, but Clop ransomware appears to be shaking down the wrong water company.]]></summary>
         <author>
             <name>Becky Bracken, Editor, Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Whack-a-Mole: More Malicious PyPI Packages Spring Up Targeting Discord, Roblox]]></title>
+        <id>https://www.darkreading.com/application-security/whack-a-mole-malicious-pypi-packages-target-discord-roblox</id>
+        <link href="https://www.darkreading.com/application-security/whack-a-mole-malicious-pypi-packages-target-discord-roblox"/>
+        <updated>2022-08-16T18:51:56.000Z</updated>
+        <summary type="html"><![CDATA[Just as one crop of malware-laced software packages is taken down from the popular Python code repository, a new host arrives, looking to steal a raft of data.]]></summary>
+        <author>
+            <name>Dark Reading Staff, Dark Reading</name>
         </author>
     </entry>
     <entry>
@@ -4350,47 +4400,6 @@ The following Snort rules will detect exploitation attempts against this vulnera
         <summary type="html"><![CDATA[Telecom and business services see the highest level of attacks, but the two most common ransomware families, which continue to be LockBit and Conti, are seen less often.]]></summary>
         <author>
             <name>Robert Lemos, Contributing Writer, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Building Guardrails for Autonomic Security]]></title>
-        <id>https://www.darkreading.com/operations/building-guardrails-for-autonomic-security</id>
-        <link href="https://www.darkreading.com/operations/building-guardrails-for-autonomic-security"/>
-        <updated>2022-07-18T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[AI's potential for automating security has promise, but there are miles to go in establishing decision-making boundaries.]]></summary>
-        <author>
-            <name>Sounil Yu, CISO and Head of Research, JupiterOne</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Watch Out for User Impersonation in Low-Code/No-Code Apps]]></title>
-        <id>https://www.darkreading.com/edge-articles/watch-out-for-user-impersonation-in-low-code-no-code-apps</id>
-        <link href="https://www.darkreading.com/edge-articles/watch-out-for-user-impersonation-in-low-code-no-code-apps"/>
-        <updated>2022-07-18T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[How a well-meaning employee could unwittingly share their identity with other users, causing a whole range of problems across IT, security, and the business.]]></summary>
-        <author>
-            <name>Michael Bargury, CTO &amp; Co-Founder, Zenity</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mitigation for Azure Storage SDK Client-Side Encryption Padding Oracle Vulnerability]]></title>
-        <id>https://msrc-blog.microsoft.com/?p=14435</id>
-        <link href="https://msrc-blog.microsoft.com/2022/07/18/mitigation-for-azure-storage-sdk-client-side-encryption-padding-oracle-vulnerability/"/>
-        <updated>2022-07-18T13:40:00.000Z</updated>
-        <summary type="html"><![CDATA[Summary: Google informed Microsoft under Coordinated Vulnerability Disclosure (CVD) of a padding oracle vulnerability that may affect customers using Azure Storage SDK (for Python, .NET, Java) client-side encryption (CVE-2022-30187). To mitigate this vulnerability, we released a new General Availability (GA) version of the Azure Storage SDK client-side encryption feature (v2) on July 12, 2022. Microsoft …
-  Mitigation for Azure Storage SDK Client-Side Encryption Padding Oracle Vulnerability Read More »]]></summary>
-        <author>
-            <name>msrc</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CISA Urges Patch of Exploited Windows 11 Bug by Aug. 2]]></title>
-        <id>https://kasperskycontenthub.com/threatpost-global/?p=180235</id>
-        <link href="https://threatpost.com/cisa-urges-patch-11-bug/180235/"/>
-        <updated>2022-07-18T12:19:26.000Z</updated>
-        <summary type="html"><![CDATA[Feds urge U.S. agencies to patch a Microsoft July Patch Tuesday 2022 bug that is being exploited in the wild by August 2.]]></summary>
-        <author>
-            <name>Threatpost</name>
         </author>
     </entry>
 </feed>

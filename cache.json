@@ -525,16 +525,6 @@
           "wordCount": 2235,
           "title": "IoT Botnets Fuels DDoS Attacks – Are You Prepared?",
           "imageUrl": "https://media.kasperskycontenthub.com/wp-content/uploads/sites/103/2022/07/25090220/IoT-Botnets-Fuels-DDoS-Attacks-Are-You-Prepared.png"
-        },
-        {
-          "id": "https://kasperskycontenthub.com/threatpost-global/?p=180235",
-          "author": "Threatpost",
-          "description": "Feds urge U.S. agencies to patch a Microsoft July Patch Tuesday 2022 bug that is being exploited in the wild by August 2.",
-          "link": "https://threatpost.com/cisa-urges-patch-11-bug/180235/",
-          "publishedOn": "2022-07-18T12:19:26.000Z",
-          "wordCount": 1991,
-          "title": "CISA Urges Patch of Exploited Windows 11 Bug by Aug. 2",
-          "imageUrl": "https://media.kasperskycontenthub.com/wp-content/uploads/sites/103/2022/07/18080631/windows-11.png"
         }
       ]
     },
@@ -543,6 +533,51 @@
       "feedUrl": "https://www.darkreading.com/rss.xml",
       "siteUrl": "https://www.darkreading.com",
       "articles": [
+        {
+          "id": "https://www.darkreading.com/dr-tech/microsoft-rolls-out-tamper-protection-for-macs",
+          "author": "Dark Reading Staff, Dark Reading",
+          "description": "The tamper protection feature detects attempts to modify files and processes for Microsoft Defender for Endpoints on macOS.",
+          "link": "https://www.darkreading.com/dr-tech/microsoft-rolls-out-tamper-protection-for-macs",
+          "publishedOn": "2022-08-17T00:14:37.000Z",
+          "wordCount": 11343,
+          "title": "Microsoft Rolls Out Tamper Protection for Macs",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blte161b23f0fd3a84b/60b1ea374e7eb868c4c6a293/dr_staff_125x125.jpg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blte161b23f0fd3a84b/60b1ea374e7eb868c4c6a293/dr_staff_125x125.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/threat-intelligence/microsoft-disrupts-russian-group-cyberespionage-campaign",
+          "author": "Jai Vijayan, Contributing Writer, Dark Reading",
+          "description": "\"Seaborgium\" is a highly persistent threat actor that has been targeting organizations and individuals of likely interest to the Russian government since at least 2017, company says.",
+          "link": "https://www.darkreading.com/threat-intelligence/microsoft-disrupts-russian-group-cyberespionage-campaign",
+          "publishedOn": "2022-08-16T19:54:24.000Z",
+          "wordCount": 13968,
+          "title": "Microsoft Disrupts Russian Group's Multiyear Cyber-Espionage Campaign",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt02d79fb9a44a4258/60b1e9dd2a25046b35110696/Jai-Vijayan.jpeg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt02d79fb9a44a4258/60b1e9dd2a25046b35110696/Jai-Vijayan.jpeg"
+        },
+        {
+          "id": "https://www.darkreading.com/omdia/def-con-a-woman-s-first-experience",
+          "author": "Hollie Hennessy, Senior Analyst, IoT Cybersecurity, Omdia",
+          "description": "Omdia Senior Analyst Hollie Hennessy goes over her first experience of DEF CON as a woman in cybersecurity.",
+          "link": "https://www.darkreading.com/omdia/def-con-a-woman-s-first-experience",
+          "publishedOn": "2022-08-16T19:33:55.000Z",
+          "wordCount": 12180,
+          "title": "DEF CON: A Woman's First Experience",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blte837b0455573455e/61042af4da22395e2cc8bbbf/Hollie-Hennessy.png",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blte837b0455573455e/61042af4da22395e2cc8bbbf/Hollie-Hennessy.png"
+        },
         {
           "id": "https://www.darkreading.com/attacks-breaches/clop-ransomware-gang-breaches-water-utility",
           "author": "Becky Bracken, Editor, Dark Reading",
@@ -557,6 +592,21 @@
             "length": "0"
           },
           "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt8e7bd143d726930b/627271268681151716941064/BeckyB.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/application-security/whack-a-mole-malicious-pypi-packages-target-discord-roblox",
+          "author": "Dark Reading Staff, Dark Reading",
+          "description": "Just as one crop of malware-laced software packages is taken down from the popular Python code repository, a new host arrives, looking to steal a raft of data.",
+          "link": "https://www.darkreading.com/application-security/whack-a-mole-malicious-pypi-packages-target-discord-roblox",
+          "publishedOn": "2022-08-16T18:51:56.000Z",
+          "wordCount": 11864,
+          "title": "Whack-a-Mole: More Malicious PyPI Packages Spring Up Targeting Discord, Roblox",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blte161b23f0fd3a84b/60b1ea374e7eb868c4c6a293/dr_staff_125x125.jpg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blte161b23f0fd3a84b/60b1ea374e7eb868c4c6a293/dr_staff_125x125.jpg"
         },
         {
           "id": "https://www.darkreading.com/remote-workforce/name-that-toon-vicious-circle",
@@ -3282,36 +3332,6 @@
             "length": "0"
           },
           "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt58481326324d6911/60b1e9a55d34de550780a990/Robert-Lemos.png"
-        },
-        {
-          "id": "https://www.darkreading.com/operations/building-guardrails-for-autonomic-security",
-          "author": "Sounil Yu, CISO and Head of Research, JupiterOne",
-          "description": "AI's potential for automating security has promise, but there are miles to go in establishing decision-making boundaries.",
-          "link": "https://www.darkreading.com/operations/building-guardrails-for-autonomic-security",
-          "publishedOn": "2022-07-18T14:00:00.000Z",
-          "wordCount": 14235,
-          "title": "Building Guardrails for Autonomic Security",
-          "enclosure": {
-            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt8792189f9e7c3bac/613be2ed3e560748ba74b42f/SOUNIL_YU.png",
-            "type": "image/*",
-            "length": "0"
-          },
-          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt8792189f9e7c3bac/613be2ed3e560748ba74b42f/SOUNIL_YU.png"
-        },
-        {
-          "id": "https://www.darkreading.com/edge-articles/watch-out-for-user-impersonation-in-low-code-no-code-apps",
-          "author": "Michael Bargury, CTO & Co-Founder, Zenity",
-          "description": "How a well-meaning employee could unwittingly share their identity with other users, causing a whole range of problems across IT, security, and the business.",
-          "link": "https://www.darkreading.com/edge-articles/watch-out-for-user-impersonation-in-low-code-no-code-apps",
-          "publishedOn": "2022-07-18T14:00:00.000Z",
-          "wordCount": 16794,
-          "title": "Watch Out for User Impersonation in Low-Code/No-Code Apps",
-          "enclosure": {
-            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt88c0ce1b9ac54b6e/6197abd85da8f858d58cdb06/Michael_Bargury_zenity.jpg",
-            "type": "image/*",
-            "length": "0"
-          },
-          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt88c0ce1b9ac54b6e/6197abd85da8f858d58cdb06/Michael_Bargury_zenity.jpg"
         }
       ]
     },
@@ -3483,16 +3503,6 @@
           "wordCount": 1639,
           "title": "Congratulations to the Top MSRC 2022 Q2 Security Researchers!",
           "imageUrl": null
-        },
-        {
-          "id": "https://msrc-blog.microsoft.com/?p=14435",
-          "author": "msrc",
-          "description": "Summary: Google informed Microsoft under Coordinated Vulnerability Disclosure (CVD) of a padding oracle vulnerability that may affect customers using Azure Storage SDK (for Python, .NET, Java) client-side encryption (CVE-2022-30187). To mitigate this vulnerability, we released a new General Availability (GA) version of the Azure Storage SDK client-side encryption feature (v2) on July 12, 2022. Microsoft …\n  Mitigation for Azure Storage SDK Client-Side Encryption Padding Oracle Vulnerability Read More »",
-          "link": "https://msrc-blog.microsoft.com/2022/07/18/mitigation-for-azure-storage-sdk-client-side-encryption-padding-oracle-vulnerability/",
-          "publishedOn": "2022-07-18T13:40:00.000Z",
-          "wordCount": 1826,
-          "title": "Mitigation for Azure Storage SDK Client-Side Encryption Padding Oracle Vulnerability",
-          "imageUrl": null
         }
       ]
     },
@@ -3518,6 +3528,16 @@
       "feedUrl": "https://blog.knowbe4.com/rss.xml",
       "siteUrl": "https://blog.knowbe4.com",
       "articles": [
+        {
+          "id": "https://blog.knowbe4.com/more-super-targeted-spear-phishing-ahead",
+          "author": "Roger Grimes",
+          "description": "Hardly a day goes by without a news alert about the latest HUGE data breach. It’s so commonplace today that it rarely rates showing at the top of the news. In a newspaper, the announcement of the latest breach may be on the third page. We’ve become numb to them. And that’s a big problem.",
+          "link": "https://blog.knowbe4.com/more-super-targeted-spear-phishing-ahead",
+          "publishedOn": "2022-08-16T19:42:05.000Z",
+          "wordCount": 2907,
+          "title": "More Super Targeted Spear Phishing Ahead",
+          "imageUrl": "https://blog.knowbe4.com/hubfs/RogerMasterClass-FeatureImage%20%281%29.jpg#keepProtocol"
+        },
         {
           "id": "https://blog.knowbe4.com/children-of-conti-go-phishing",
           "author": "Stu Sjouwerman",
