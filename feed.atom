@@ -2,10 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-08-17T03:31:47.478Z</updated>
+    <updated>2022-08-17T07:22:11.804Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[North Korea Hackers Spotted Targeting Job Seekers with macOS Malware]]></title>
+        <id>tag:blogger.com,1999:blog-4802841478634147276.post-3696828945443912464</id>
+        <link href="https://thehackernews.com/2022/08/north-korea-hackers-spotted-targeting.html"/>
+        <updated>2022-08-17T06:20:26.976Z</updated>
+        <summary type="html"><![CDATA[The North Korea-backed Lazarus Group has been observed targeting job seekers with malware capable of executing on Apple Macs with Intel and M1 chipsets.
+Slovak cybersecurity firm ESET linked it to a campaign dubbed "Operation In(ter)ception" that was first disclosed in June 2020 and involved using social engineering tactics to trick employees working in the aerospace and military sectors into]]></summary>
+        <author>
+            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RubyGems Makes Multi-Factor Authentication Mandatory for Top Package Maintainers]]></title>
+        <id>tag:blogger.com,1999:blog-4802841478634147276.post-2630907740516685708</id>
+        <link href="https://thehackernews.com/2022/08/rubygems-makes-multi-factor.html"/>
+        <updated>2022-08-17T04:46:23.011Z</updated>
+        <summary type="html"><![CDATA[RubyGems, the official package manager for the Ruby programming language, has become the latest platform to mandate multi-factor authentication (MFA) for popular package maintainers, following the footsteps of NPM and PyPI.
+To that end, owners of gems with over 180 million total downloads are mandated to turn on MFA effective August 15, 2022.
+
+"Users in this category who do not]]></summary>
+        <author>
+            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Microsoft Rolls Out Tamper Protection for Macs]]></title>
         <id>https://www.darkreading.com/dr-tech/microsoft-rolls-out-tamper-protection-for-macs</id>
@@ -4361,45 +4385,6 @@ The following Snort rules will detect exploitation attempts against this vulnera
         <summary type="html"><![CDATA[Law enforcement estimates campaign has already bilked cryptocurrency investors out of $42.7 million.]]></summary>
         <author>
             <name>Dark Reading Staff, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WordPress Page Builder Plug-in  Under Attack, Can't Be Patched]]></title>
-        <id>https://www.darkreading.com/application-security/wordpress-page-builder-addons-under-attack-cant-be-patched</id>
-        <link href="https://www.darkreading.com/application-security/wordpress-page-builder-addons-under-attack-cant-be-patched"/>
-        <updated>2022-07-18T17:55:01.000Z</updated>
-        <summary type="html"><![CDATA[An ongoing campaign is actively targeting the vulnerability in the Kaswara Modern WPBakery Page Builder Addon, which is still installed on up to 8,000 sites, security analysts warn.]]></summary>
-        <author>
-            <name>Dark Reading Staff, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Name That Toon: Modern-Day Fable]]></title>
-        <id>https://www.darkreading.com/application-security/name-that-toon-modern-day-fable</id>
-        <link href="https://www.darkreading.com/application-security/name-that-toon-modern-day-fable"/>
-        <updated>2022-07-18T17:10:00.000Z</updated>
-        <summary type="html"><![CDATA[Feeling creative? Submit your caption and our panel of experts will reward the winner with a $25 Amazon gift card.]]></summary>
-        <author>
-            <name>John Klossner, Cartoonist</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SA45038 - CVE-2022-23852 - Expat (aka libexpat) before 2.4.4 has a signed integer overflow in XML_GetBuffer, for configurations with a nonzero XML_CONTEXT_BYTES]]></title>
-        <id>CVE-2022-23852-Expat-aka-libexpat-before-2-4-4-has-a-signed-integer-overflow-in-XML-GetBuffer-for-configurations-with-a-nonzero-XML-CONTEXT-BYTES</id>
-        <link href="https://kb.pulsesecure.net/articles/Pulse_Security_Advisories/CVE-2022-23852-Expat-aka-libexpat-before-2-4-4-has-a-signed-integer-overflow-in-XML-GetBuffer-for-configurations-with-a-nonzero-XML-CONTEXT-BYTES"/>
-        <updated>2022-07-18T16:13:36.000Z</updated>
-        <author>
-            <name>Public KB</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ransomware Attempts Flag as Payments Also Decline]]></title>
-        <id>https://www.darkreading.com/threat-intelligence/ransomware-attempts-flag-as-payments-also-decline</id>
-        <link href="https://www.darkreading.com/threat-intelligence/ransomware-attempts-flag-as-payments-also-decline"/>
-        <updated>2022-07-18T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Telecom and business services see the highest level of attacks, but the two most common ransomware families, which continue to be LockBit and Conti, are seen less often.]]></summary>
-        <author>
-            <name>Robert Lemos, Contributing Writer, Dark Reading</name>
         </author>
     </entry>
 </feed>
