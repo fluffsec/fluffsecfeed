@@ -2,10 +2,66 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-08-17T07:22:11.804Z</updated>
+    <updated>2022-08-17T13:53:42.110Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Social Engineering for Espionage and Influence]]></title>
+        <id>https://blog.knowbe4.com/social-engineering-for-espionage-and-influence</id>
+        <link href="https://blog.knowbe4.com/social-engineering-for-espionage-and-influence"/>
+        <updated>2022-08-17T13:20:19.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft has disrupted operations carried out by a Russian government-aligned threat actor tracked as “SEABORGIUM.” The threat actor uses phishing and credential harvesting to conduct espionage and information operations. SEABORGIUM typically focuses on organizations in Western countries, although it began targeting some Ukrainian organizations shortly before Russia invaded Ukraine.]]></summary>
+        <author>
+            <name>Stu Sjouwerman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New Google Chrome Zero-Day Vulnerability Being Exploited in the Wild]]></title>
+        <id>tag:blogger.com,1999:blog-4802841478634147276.post-2162105957628129517</id>
+        <link href="https://thehackernews.com/2022/08/new-google-chrome-zero-day.html"/>
+        <updated>2022-08-17T12:02:28.456Z</updated>
+        <summary type="html"><![CDATA[Google on Tuesday rolled out patches for Chrome browser for desktops to contain an actively exploited high-severity zero-day flaw in the wild.
+Tracked as CVE-2022-2856, the issue has been described as a case of insufficient validation of untrusted input in Intents. Security researchers Ashley Shen and Christian Resell of Google Threat Analysis Group have been credited with reporting the flaw on]]></summary>
+        <author>
+            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Researchers Link Multi-Year Mass Credential Theft Campaign to Chinese Hackers]]></title>
+        <id>tag:blogger.com,1999:blog-4802841478634147276.post-2531620921651152778</id>
+        <link href="https://thehackernews.com/2022/08/researchers-link-multi-year-mass.html"/>
+        <updated>2022-08-17T11:52:29.295Z</updated>
+        <summary type="html"><![CDATA[A Chinese state-sponsored threat activity group named RedAlpha has been attributed to a multi-year mass credential theft campaign aimed at global humanitarian, think tank, and government organizations.
+"In this activity, RedAlpha very likely sought to gain access to email accounts and other online communications of targeted individuals and organizations," Recorded Future disclosed in a new]]></summary>
+        <author>
+            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lean Security 101: 3 Tips for Building Your Framework]]></title>
+        <id>tag:blogger.com,1999:blog-4802841478634147276.post-4377980449776691144</id>
+        <link href="https://thehackernews.com/2022/08/lean-security-101-3-tips-for-building.html"/>
+        <updated>2022-08-17T10:50:14.716Z</updated>
+        <summary type="html"><![CDATA[Cobalt, Lazarus, MageCart, Evil, Revil — cybercrime syndicates spring up so fast it's hard to keep track. Until…they infiltrate your system. But you know what's even more overwhelming than rampant cybercrime?
+Building your organization's security framework. 
+CIS, NIST, PCI DSS, HIPAA, HITrust, and the list goes on. Even if you had the resources to implement every relevant industry standard and]]></summary>
+        <author>
+            <name>noreply@blogger.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Malicious Browser Extensions Targeted Over a Million Users So Far This Year]]></title>
+        <id>tag:blogger.com,1999:blog-4802841478634147276.post-4610286552353099011</id>
+        <link href="https://thehackernews.com/2022/08/malicious-browser-extensions-targeted.html"/>
+        <updated>2022-08-17T08:44:47.043Z</updated>
+        <summary type="html"><![CDATA[More than 1.31 million users attempted to install malicious or unwanted web browser extensions at least once, new findings from cybersecurity firm Kaspersky show.
+"From January 2020 to June 2022, more than 4.3 million unique users were attacked by adware hiding in browser extensions, which is approximately 70% of all users affected by malicious and unwanted add-ons," the company said.
+As many as]]></summary>
+        <author>
+            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[North Korea Hackers Spotted Targeting Job Seekers with macOS Malware]]></title>
         <id>tag:blogger.com,1999:blog-4802841478634147276.post-3696828945443912464</id>
@@ -497,6 +553,15 @@ Infection chains leverage a chat application called MiMi, with its installer fil
         <summary type="html"><![CDATA[Back-end complexity of cloud computing means there's plenty of potential for security problems. Here's how to get a better handle on SaaS application security.]]></summary>
         <author>
             <name>Arvin Bansal, Senior Director, Cyber, Governance, and Risk, AmerisourceBergen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SA45038 - CVE-2022-23852 - Expat (aka libexpat) before 2.4.4 has a signed integer overflow in XML_GetBuffer, for configurations with a nonzero XML_CONTEXT_BYTES]]></title>
+        <id>CVE-2022-23852-Expat-aka-libexpat-before-2-4-4-has-a-signed-integer-overflow-in-XML-GetBuffer-for-configurations-with-a-nonzero-XML-CONTEXT-BYTES</id>
+        <link href="https://kb.pulsesecure.net/articles/Pulse_Security_Advisories/CVE-2022-23852-Expat-aka-libexpat-before-2-4-4-has-a-signed-integer-overflow-in-XML-GetBuffer-for-configurations-with-a-nonzero-XML-CONTEXT-BYTES"/>
+        <updated>2022-08-12T13:29:37.000Z</updated>
+        <author>
+            <name>Public KB</name>
         </author>
     </entry>
     <entry>
@@ -4355,36 +4420,6 @@ Talos tested and confirmed Accusoft ImageGear, version 19.10, is affected by thi
 The following Snort rules will detect exploitation attempts against this vulnerability: 60228 and 60229. Additional rules may be released in the future and current rules are subject to change, pending additional vulnerability information. For the most current rule information, please refer to your Cisco Secure Firewall Management Center or Snort.org.]]></summary>
         <author>
             <name>Cisco Talos Intelligence Group - Comprehensive Threat Intelligence</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Trojanized Password Crackers Targeting Industrial Systems]]></title>
-        <id>https://www.darkreading.com/attacks-breaches/attackers-targeting-industrial-systems-with-trojanized-password-crackers</id>
-        <link href="https://www.darkreading.com/attacks-breaches/attackers-targeting-industrial-systems-with-trojanized-password-crackers"/>
-        <updated>2022-07-18T22:32:02.000Z</updated>
-        <summary type="html"><![CDATA[Tools purporting to help organizations recover lost passwords for PLCs are really droppers for malware targeting industrial control systems, vendor says.]]></summary>
-        <author>
-            <name>Jai Vijayan, Contributing Writer, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Retbleed Fixed in Linux Kernel, Patch Delayed]]></title>
-        <id>https://www.darkreading.com/application-security/retbleed-fixed-in-linux-kernel-patch-delayed</id>
-        <link href="https://www.darkreading.com/application-security/retbleed-fixed-in-linux-kernel-patch-delayed"/>
-        <updated>2022-07-18T22:10:35.000Z</updated>
-        <summary type="html"><![CDATA[Linus Torvalds says Retbleed has been addressed in the Linux kernel, but code complexity means the release will be delayed by a week to give more time for testing.]]></summary>
-        <author>
-            <name>Nathan Eddy, Contributing Writer, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FBI: Beware of Scam Cryptocurrency Investment Apps]]></title>
-        <id>https://www.darkreading.com/threat-intelligence/fbi-beware-of-scam-crypto-investment-apps</id>
-        <link href="https://www.darkreading.com/threat-intelligence/fbi-beware-of-scam-crypto-investment-apps"/>
-        <updated>2022-07-18T20:54:47.000Z</updated>
-        <summary type="html"><![CDATA[Law enforcement estimates campaign has already bilked cryptocurrency investors out of $42.7 million.]]></summary>
-        <author>
-            <name>Dark Reading Staff, Dark Reading</name>
         </author>
     </entry>
 </feed>
