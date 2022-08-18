@@ -2,10 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-08-18T03:32:07.769Z</updated>
+    <updated>2022-08-18T07:22:33.895Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Apple Releases Security Updates to Patch Two New Zero-Day Vulnerabilities]]></title>
+        <id>tag:blogger.com,1999:blog-4802841478634147276.post-6169061863161246028</id>
+        <link href="https://thehackernews.com/2022/08/apple-releases-security-updates-to.html"/>
+        <updated>2022-08-18T04:08:45.157Z</updated>
+        <summary type="html"><![CDATA[Apple on Wednesday released security updates for iOS, iPadOS, and macOS platforms to remediate two zero-day vulnerabilities previously exploited by threat actors to compromise its devices.
+The list of issues is below -
+
+CVE-2022-32893 - An out-of-bounds issue in WebKit which could lead to the execution of arbitrary code by processing a specially crafted web content
+CVE-2022-32894 - An]]></summary>
+        <author>
+            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Google Chrome Zero-Day Found Exploited in the Wild]]></title>
         <id>https://www.darkreading.com/application-security/google-chrome-zero-day-exploited-wild</id>
@@ -4377,81 +4391,6 @@ This product is provided subject to this Notification and this Privacy & Use pol
         <summary type="html"><![CDATA[The gang's members have moved into different criminal activities, and could regroup once law-enforcement attention has simmered down a bit, researchers say.]]></summary>
         <author>
             <name>Jai Vijayan, Contributing Writer, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Startup Aims to Secure AI, Machine Learning Development]]></title>
-        <id>https://www.darkreading.com/emerging-tech/startup-aims-to-secure-ai-machine-learning-development</id>
-        <link href="https://www.darkreading.com/emerging-tech/startup-aims-to-secure-ai-machine-learning-development"/>
-        <updated>2022-07-19T19:11:37.000Z</updated>
-        <summary type="html"><![CDATA[With security experts warning against attacks on machine learning models and data, startup HiddenLayer aims to protect the neural networks powering AI-augmented products.]]></summary>
-        <author>
-            <name>Robert Lemos, Contributing Writer, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Okta Exposes Passwords in Clear Text for Possible Theft]]></title>
-        <id>https://www.darkreading.com/application-security/okta-exposes-passwords-clear-text-theft</id>
-        <link href="https://www.darkreading.com/application-security/okta-exposes-passwords-clear-text-theft"/>
-        <updated>2022-07-19T17:32:40.000Z</updated>
-        <summary type="html"><![CDATA[Researchers say Okta could allow attackers to easily exfiltrate passwords, impersonate other users, and alter logs to cover their tracks.]]></summary>
-        <author>
-            <name>Dark Reading Staff, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Will Your Cyber-Insurance Premiums Protect You in Times of War?]]></title>
-        <id>https://www.darkreading.com/attacks-breaches/will-your-cyber-insurance-premiums-protect-you-in-times-of-war-</id>
-        <link href="https://www.darkreading.com/attacks-breaches/will-your-cyber-insurance-premiums-protect-you-in-times-of-war-"/>
-        <updated>2022-07-19T17:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Multiple cyber-insurance carriers have adopted act-of-war exclusions due to global political instability and are seeking to stretch the definition of war to deny coverage.]]></summary>
-        <author>
-            <name>Shimrit Tzur-David, CTO &amp; Co-founder, Secret Double Octopus</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Huntress Acquires Curricula for $22M to Disrupt Security Training Market, Elevate Cyber Readiness for SMB Employees]]></title>
-        <id>https://www.darkreading.com/operations/huntress-acquires-curricula-for-22m-to-disrupt-security-training-market-elevate-cyber-readiness-for-smb-employees</id>
-        <link href="https://www.darkreading.com/operations/huntress-acquires-curricula-for-22m-to-disrupt-security-training-market-elevate-cyber-readiness-for-smb-employees"/>
-        <updated>2022-07-19T16:35:16.000Z</updated>
-        <summary type="html"><![CDATA[The Curricula platform uses behavioral science with a simplified approach to train and educate users — and marks another step forward in Huntress’ mission to secure the 99%.]]></summary>
-        <author>
-            <name>Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Congratulations to the Top MSRC 2022 Q2 Security Researchers!]]></title>
-        <id>https://msrc-blog.microsoft.com/?p=14448</id>
-        <link href="https://msrc-blog.microsoft.com/2022/07/19/congratulations-to-the-top-msrc-2022-q2-security-researchers/"/>
-        <updated>2022-07-19T16:15:00.000Z</updated>
-        <summary type="html"><![CDATA[Congratulations to all the researchers recognized in this quarter’s Microsoft Researcher Recognition Program leaderboard! Thank you to everyone for your hard work and continued partnership to secure customers. The top three researchers of the 2022 Q2 Security Researcher Leaderboard are: Yuki Chen, Zhiyi Zhang, and William Söderberg! Check out the full list of researchers recognized …
-  Congratulations to the Top MSRC 2022 Q2 Security Researchers! Read More »]]></summary>
-        <author>
-            <name>msrc</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CISA released Security Advisory on MiCODUS MV720 Global Positioning System (GPS) Tracker]]></title>
-        <id>17811 at https://us-cert.cisa.gov</id>
-        <link href="https://us-cert.cisa.gov/ncas/current-activity/2022/07/19/cisa-released-security-advisory-micodus-mv720-global-positioning"/>
-        <updated>2022-07-19T15:49:09.000Z</updated>
-        <summary type="html"><![CDATA[Original release date: July 19, 2022
-CISA has released an Industrial Controls Systems Advisory (ICSA) detailing six vulnerabilities that were discovered in MiCODUS MV720 Global Positioning System Tracker. Successful exploitation of these vulnerabilities may allow a remote actor to exploit access and gain control the global positioning system tracker. These vulnerabilities could impact access to a vehicle fuel supply, vehicle control, or allow locational surveillance of vehicles in which the device is installed.
-CISA encourages users and technicians to review ICS Advisory ICSA-22-200-01: MiCODUS MV720 GPS Tracker for technical details and mitigations and the Bitsight Report: Critical Vulnerabilities in Widely Used Vehicle GPS Tracker for additional information. 
- 
-This product is provided subject to this Notification and this Privacy & Use policy.]]></summary>
-        <author>
-            <name>CISA</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Authentication Risks Discovered in Okta Platform]]></title>
-        <id>https://kasperskycontenthub.com/threatpost-global/?p=180249</id>
-        <link href="https://threatpost.com/risks-okta-sso/180249/"/>
-        <updated>2022-07-19T15:33:01.000Z</updated>
-        <summary type="html"><![CDATA[Four newly discovered attack paths could lead to PII exposure, account takeover, even organizational data destruction.]]></summary>
-        <author>
-            <name>Nate Nelson</name>
         </author>
     </entry>
 </feed>
