@@ -2,10 +2,178 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-08-18T13:48:19.431Z</updated>
+    <updated>2022-08-18T19:19:44.487Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[CISA releases 5 Industrial Control Systems Advisories]]></title>
+        <id>17893 at https://us-cert.cisa.gov</id>
+        <link href="https://us-cert.cisa.gov/ncas/current-activity/2022/08/18/cisa-releases-5-industrial-control-systems-advisories"/>
+        <updated>2022-08-19T03:30:05.000Z</updated>
+        <summary type="html"><![CDATA[Original release date: August 18, 2022
+CISA has released 5 Industrial Control Systems (ICS) advisories on August 18, 2022. These advisories provide timely information about current security issues, vulnerabilities, and exploits surrounding ICS.
+CISA encourages users and administrators to review the newly released ICS advisories for technical details and mitigations:
+ICSA-22-172-01 Mitsubishi Electric MELSEC iQ-R, Q, and L Series CPU Module and MELIPC Series (Update A)
+ICSA-22-167-14 Siemens OpenSSL Affected Industrial Products (Update B)
+ICSA-22-221-01 Mitsubishi Electric Multiple Factory Automation Products (Update A)
+ICSA-21-131-03 Siemens Linux Based Products (Update J)
+ICSA-21-194-07 Siemens Industrial Products LLDP (Update D)
+This product is provided subject to this Notification and this Privacy & Use policy.]]></summary>
+        <author>
+            <name>CISA</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cisco Releases Security Update for Cisco Secure Web Appliance]]></title>
+        <id>17894 at https://us-cert.cisa.gov</id>
+        <link href="https://us-cert.cisa.gov/ncas/current-activity/2022/08/18/cisco-releases-security-update-cisco-secure-web-appliance"/>
+        <updated>2022-08-19T01:13:55.000Z</updated>
+        <summary type="html"><![CDATA[Original release date: August 18, 2022
+Cisco has released security updates to address vulnerabilities in Cisco Secure Web Appliance. A remote attacker could exploit some of these vulnerabilities to take control of an affected system. For updates addressing lower severity vulnerabilities, see the Cisco Security Advisories page. 
+Cisco Secure Web Appliance Privilege Escalation Vulnerability and apply the necessary updates.
+This product is provided subject to this Notification and this Privacy & Use policy.]]></summary>
+        <author>
+            <name>CISA</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[China's APT41 Embraces Baffling Approach for Dropping Cobalt Strike Payload]]></title>
+        <id>https://www.darkreading.com/remote-workforce/china-apt41-baffling-approach-cobalt-strike-payload</id>
+        <link href="https://www.darkreading.com/remote-workforce/china-apt41-baffling-approach-cobalt-strike-payload"/>
+        <updated>2022-08-18T18:34:08.000Z</updated>
+        <summary type="html"><![CDATA[The state-sponsored threat actor has switched up its tactics, also adding an automated SQL-injection tool to its bag of tricks for initial access.]]></summary>
+        <author>
+            <name>Jai Vijayan, Contributing Writer, Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mac Attack: North Korea's Lazarus APT Targets Apple's M1 Chip]]></title>
+        <id>https://www.darkreading.com/endpoint/mac-attack-north-korea-lazarus-apt-apple-m1-chip</id>
+        <link href="https://www.darkreading.com/endpoint/mac-attack-north-korea-lazarus-apt-apple-m1-chip"/>
+        <updated>2022-08-18T18:23:04.000Z</updated>
+        <summary type="html"><![CDATA[Lazarus continues to expand an aggressive, ongoing spy campaign, using fake Coinbase job openings to lure in victims.]]></summary>
+        <author>
+            <name>Jeffrey Schwartz, Contributing Writer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[5 Russia-Linked Groups Target Ukraine in Cyberwar]]></title>
+        <id>https://www.darkreading.com/attacks-breaches/five-russia-linked-groups-target-ukraine-in-cyberwar</id>
+        <link href="https://www.darkreading.com/attacks-breaches/five-russia-linked-groups-target-ukraine-in-cyberwar"/>
+        <updated>2022-08-18T17:17:25.000Z</updated>
+        <summary type="html"><![CDATA[Information on the attributed cyberattacks conducted since the beginning of the Russia-Ukraine war shows that a handful of groups conducted more than two dozen attacks.]]></summary>
+        <author>
+            <name>Robert Lemos, Contributing Writer, Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Researchers Detail Evasive DarkTortilla Crypter Used to Deliver Malware]]></title>
+        <id>tag:blogger.com,1999:blog-4802841478634147276.post-5707392716888616606</id>
+        <link href="https://thehackernews.com/2022/08/researchers-detail-evasive-darktortilla.html"/>
+        <updated>2022-08-18T17:11:07.176Z</updated>
+        <summary type="html"><![CDATA[A .NET-based evasive crypter named DarkTortilla has been used by threat actors to distribute a broad array of commodity malware as well as targeted payloads like Cobalt Strike and Metasploit, likely since 2015.
+"It can also deliver 'add-on packages' such as additional malicious payloads, benign decoy documents, and executables," cybersecurity firm Secureworks said in a Wednesday report. "It]]></summary>
+        <author>
+            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[China-backed APT41 Hackers Targeted 13 Organisations Worldwide Last Year]]></title>
+        <id>tag:blogger.com,1999:blog-4802841478634147276.post-1484121026397926127</id>
+        <link href="https://thehackernews.com/2022/08/china-backed-apt41-hackers-targeted-13.html"/>
+        <updated>2022-08-18T16:45:54.665Z</updated>
+        <summary type="html"><![CDATA[The Chinese advanced persistent threat (APT) actor tracked as Winnti (aka APT41) has targeted at least 13 organizations geographically spanning across the U.S, Taiwan, India, Vietnam, and China against the backdrop of four different campaigns in 2021.
+"The targeted industries included the public sector, manufacturing, healthcare, logistics, hospitality, education, as well as the media and]]></summary>
+        <author>
+            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Piggybacking: Social Engineering for Physical Access]]></title>
+        <id>https://blog.knowbe4.com/piggybacking-social-engineering-for-physical-access</id>
+        <link href="https://blog.knowbe4.com/piggybacking-social-engineering-for-physical-access"/>
+        <updated>2022-08-18T15:37:37.000Z</updated>
+        <summary type="html"><![CDATA[Tailgating or piggybacking is an old but effective social engineering technique to gain physical access to restricted areas, according to Rahul Awati at TechTarget. Tailgating is when a bad actor simply follows an employee through a door that requires authentication.]]></summary>
+        <author>
+            <name>Stu Sjouwerman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple Releases Security Updates for Multiple Products]]></title>
+        <id>17896 at https://us-cert.cisa.gov</id>
+        <link href="https://us-cert.cisa.gov/ncas/current-activity/2022/08/18/apple-releases-security-updates-multiple-products"/>
+        <updated>2022-08-18T15:26:31.000Z</updated>
+        <summary type="html"><![CDATA[Original release date: August 18, 2022
+Apple has released security updates to address vulnerabilities in macOS Monterey, iOS and iPadOS. An attacker could exploit one of these vulnerabilities to take control of an affected device.
+CISA encourages users and administrators to review the Apple security updates page for the following products and apply the necessary updates as soon as possible:
+MacOS Monterey 12.5.1
+iOS 15.6.1 and iPadOS 15.6.1
+This product is provided subject to this Notification and this Privacy & Use policy.]]></summary>
+        <author>
+            <name>CISA</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Which Security Bugs Will Be Exploited? Researchers Create an ML Model to Find Out]]></title>
+        <id>https://www.darkreading.com/application-security/security-bugs-exploited-model-machine-learning</id>
+        <link href="https://www.darkreading.com/application-security/security-bugs-exploited-model-machine-learning"/>
+        <updated>2022-08-18T14:42:38.000Z</updated>
+        <summary type="html"><![CDATA[How critical is that vulnerability? University researchers are improving predictions of which software flaws will end up with an exploit, a boon for prioritizing patches and estimating risk.]]></summary>
+        <author>
+            <name>Robert Lemos, Contributing Writer, Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Summertime Blues: TA558 Ramps Up Attacks on Hospitality, Travel Sectors]]></title>
+        <id>https://www.darkreading.com/remote-workforce/summertime-blues-ta558-ramps-attacks-hospitality-travel</id>
+        <link href="https://www.darkreading.com/remote-workforce/summertime-blues-ta558-ramps-attacks-hospitality-travel"/>
+        <updated>2022-08-18T14:38:22.000Z</updated>
+        <summary type="html"><![CDATA[The cybercriminal crew has used 15 malware families to target travel and hospitality companies globally, constantly changing tactics over the course of its four-year history.]]></summary>
+        <author>
+            <name>Nathan Eddy, Contributing Writer, Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google Patches Chrome’s Fifth Zero-Day of the Year]]></title>
+        <id>https://kasperskycontenthub.com/threatpost-global/?p=180432</id>
+        <link href="https://threatpost.com/google-patches-chromes-fifth-zero-day-of-the-year/180432/"/>
+        <updated>2022-08-18T14:31:38.000Z</updated>
+        <summary type="html"><![CDATA[An insufficient validation input flaw, one of 11 patched in an update this week, could allow for arbitrary code execution and is under active attack.]]></summary>
+        <author>
+            <name>Elizabeth Montalbano</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google Patches Chrome’s Fifth Zero-Day of the Year]]></title>
+        <id>https://kasperskycontenthub.com/threatpost-global/?p=180432</id>
+        <link href="https://threatpost.com/google-patches-chromes-fifth-zero-day-of-the-year/180432/"/>
+        <updated>2022-08-18T14:31:38.000Z</updated>
+        <summary type="html"><![CDATA[An insufficient validation input flaw, one of 11 patched in an update this week, could allow for arbitrary code execution and is under active attack.]]></summary>
+        <author>
+            <name>Elizabeth Montalbano</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Upskill Tech Staff to Meet Cybersecurity Needs]]></title>
+        <id>https://www.darkreading.com/careers-and-people/how-to-upskill-tech-staff-to-meet-cybersecurity-needs</id>
+        <link href="https://www.darkreading.com/careers-and-people/how-to-upskill-tech-staff-to-meet-cybersecurity-needs"/>
+        <updated>2022-08-18T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Cybersecurity is the largest current tech skills gap; closing it requires a concerted effort to upskill existing staff.]]></summary>
+        <author>
+            <name>Aaron Rosenmund, Director of Security Research and Curriculum, Pluralsight</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenSSF Announces 13 New Members Committed to Strengthening the Security of the Open Source Software Supply Chain]]></title>
+        <id>https://www.darkreading.com/application-security/openssf-announces-13-new-members-committed-to-strengthening-the-security-of-the-open-source-software-supply-chain</id>
+        <link href="https://www.darkreading.com/application-security/openssf-announces-13-new-members-committed-to-strengthening-the-security-of-the-open-source-software-supply-chain"/>
+        <updated>2022-08-18T13:42:55.000Z</updated>
+        <summary type="html"><![CDATA[Hosts next OpenSSF Day in Dublin.]]></summary>
+        <author>
+            <name>Dark Reading</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[One-Third of Organizations Experience Ransomware Attacks At Least Weekly]]></title>
         <id>https://blog.knowbe4.com/one-third-of-organizations-experience-ransomware-attacks-at-least-weekly</id>

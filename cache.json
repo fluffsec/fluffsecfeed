@@ -43,6 +43,36 @@
       "siteUrl": "https://us-cert.cisa.gov/",
       "articles": [
         {
+          "id": "17893 at https://us-cert.cisa.gov",
+          "author": "CISA",
+          "description": "Original release date: August 18, 2022\nCISA has released 5 Industrial Control Systems (ICS) advisories on August 18, 2022. These advisories provide timely information about current security issues, vulnerabilities, and exploits surrounding ICS.\nCISA encourages users and administrators to review the newly released ICS advisories for technical details and mitigations:\nICSA-22-172-01 Mitsubishi Electric MELSEC iQ-R, Q, and L Series CPU Module and MELIPC Series (Update A)\nICSA-22-167-14 Siemens OpenSSL Affected Industrial Products (Update B)\nICSA-22-221-01 Mitsubishi Electric Multiple Factory Automation Products (Update A)\nICSA-21-131-03 Siemens Linux Based Products (Update J)\nICSA-21-194-07 Siemens Industrial Products LLDP (Update D)\nThis product is provided subject to this Notification and this Privacy & Use policy.",
+          "link": "https://us-cert.cisa.gov/ncas/current-activity/2022/08/18/cisa-releases-5-industrial-control-systems-advisories",
+          "publishedOn": "2022-08-19T03:30:05.000Z",
+          "wordCount": 1104,
+          "title": "CISA releases 5 Industrial Control Systems Advisories",
+          "imageUrl": null
+        },
+        {
+          "id": "17894 at https://us-cert.cisa.gov",
+          "author": "CISA",
+          "description": "Original release date: August 18, 2022\nCisco has released security updates to address vulnerabilities in Cisco Secure Web Appliance. A remote attacker could exploit some of these vulnerabilities to take control of an affected system. For updates addressing lower severity vulnerabilities, see the Cisco Security Advisories page. \nCisco Secure Web Appliance Privilege Escalation Vulnerability and apply the necessary updates.\nThis product is provided subject to this Notification and this Privacy & Use policy.",
+          "link": "https://us-cert.cisa.gov/ncas/current-activity/2022/08/18/cisco-releases-security-update-cisco-secure-web-appliance",
+          "publishedOn": "2022-08-19T01:13:55.000Z",
+          "wordCount": 1081,
+          "title": "Cisco Releases Security Update for Cisco Secure Web Appliance",
+          "imageUrl": null
+        },
+        {
+          "id": "17896 at https://us-cert.cisa.gov",
+          "author": "CISA",
+          "description": "Original release date: August 18, 2022\nApple has released security updates to address vulnerabilities in macOS Monterey, iOS and iPadOS. An attacker could exploit one of these vulnerabilities to take control of an affected device.\nCISA encourages users and administrators to review the Apple security updates page for the following products and apply the necessary updates as soon as possible:\nMacOS Monterey 12.5.1\niOS 15.6.1 and iPadOS 15.6.1\nThis product is provided subject to this Notification and this Privacy & Use policy.",
+          "link": "https://us-cert.cisa.gov/ncas/current-activity/2022/08/18/apple-releases-security-updates-multiple-products",
+          "publishedOn": "2022-08-18T15:26:31.000Z",
+          "wordCount": 1075,
+          "title": "Apple Releases Security Updates for Multiple Products",
+          "imageUrl": null
+        },
+        {
           "id": "17890 at https://us-cert.cisa.gov",
           "author": "CISA",
           "description": "Original release date: August 16, 2022\nCISA and the Multi-State Information Sharing & Analysis Center (MS-ISAC) have released a joint Cybersecurity Advisory (CSA) in response to active exploitation of multiple vulnerabilities against Zimbra Collaboration Suite (ZCS), an enterprise cloud-hosted collaboration software and email platform. \nCISA and MS-ISAC encourage users and administrators review Threat Actors Exploiting Multiple CVEs Against Zimbra Collaboration Suite for more information and apply the recommended mitigations.\nThis product is provided subject to this Notification and this Privacy & Use policy.",
@@ -350,6 +380,16 @@
       "siteUrl": "https://threatpost.com",
       "articles": [
         {
+          "id": "https://kasperskycontenthub.com/threatpost-global/?p=180432",
+          "author": "Elizabeth Montalbano",
+          "description": "An insufficient validation input flaw, one of 11 patched in an update this week, could allow for arbitrary code execution and is under active attack.",
+          "link": "https://threatpost.com/google-patches-chromes-fifth-zero-day-of-the-year/180432/",
+          "publishedOn": "2022-08-18T14:31:38.000Z",
+          "wordCount": 2083,
+          "title": "Google Patches Chrome’s Fifth Zero-Day of the Year",
+          "imageUrl": "https://media.kasperskycontenthub.com/wp-content/uploads/sites/103/2019/07/31115247/chrome_patch.jpg"
+        },
+        {
           "id": "https://kasperskycontenthub.com/threatpost-global/?p=180356",
           "author": "Elizabeth Montalbano",
           "description": "Attackers are spoofing the widely used cryptocurrency exchange to trick users into logging in so they can steal their credentials and eventually their funds.",
@@ -416,6 +456,16 @@
       "feedUrl": "https://threatpost.com/category/vulnerabilities/feed/",
       "siteUrl": "https://threatpost.com",
       "articles": [
+        {
+          "id": "https://kasperskycontenthub.com/threatpost-global/?p=180432",
+          "author": "Elizabeth Montalbano",
+          "description": "An insufficient validation input flaw, one of 11 patched in an update this week, could allow for arbitrary code execution and is under active attack.",
+          "link": "https://threatpost.com/google-patches-chromes-fifth-zero-day-of-the-year/180432/",
+          "publishedOn": "2022-08-18T14:31:38.000Z",
+          "wordCount": 2083,
+          "title": "Google Patches Chrome’s Fifth Zero-Day of the Year",
+          "imageUrl": "https://media.kasperskycontenthub.com/wp-content/uploads/sites/103/2019/07/31115247/chrome_patch.jpg"
+        },
         {
           "id": "https://kasperskycontenthub.com/threatpost-global/?p=180416",
           "author": "Nate Nelson",
@@ -513,6 +563,106 @@
       "feedUrl": "https://www.darkreading.com/rss.xml",
       "siteUrl": "https://www.darkreading.com",
       "articles": [
+        {
+          "id": "https://www.darkreading.com/remote-workforce/china-apt41-baffling-approach-cobalt-strike-payload",
+          "author": "Jai Vijayan, Contributing Writer, Dark Reading",
+          "description": "The state-sponsored threat actor has switched up its tactics, also adding an automated SQL-injection tool to its bag of tricks for initial access.",
+          "link": "https://www.darkreading.com/remote-workforce/china-apt41-baffling-approach-cobalt-strike-payload",
+          "publishedOn": "2022-08-18T18:34:08.000Z",
+          "wordCount": 12015,
+          "title": "China's APT41 Embraces Baffling Approach for Dropping Cobalt Strike Payload",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt02d79fb9a44a4258/60b1e9dd2a25046b35110696/Jai-Vijayan.jpeg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt02d79fb9a44a4258/60b1e9dd2a25046b35110696/Jai-Vijayan.jpeg"
+        },
+        {
+          "id": "https://www.darkreading.com/endpoint/mac-attack-north-korea-lazarus-apt-apple-m1-chip",
+          "author": "Jeffrey Schwartz, Contributing Writer",
+          "description": "Lazarus continues to expand an aggressive, ongoing spy campaign, using fake Coinbase job openings to lure in victims.",
+          "link": "https://www.darkreading.com/endpoint/mac-attack-north-korea-lazarus-apt-apple-m1-chip",
+          "publishedOn": "2022-08-18T18:23:04.000Z",
+          "wordCount": 11291,
+          "title": "Mac Attack: North Korea's Lazarus APT Targets Apple's M1 Chip",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blta28fcad87ff558b7/627c0108726e3315b16b464c/Jeff_Schwartz_headshot-sq.png",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blta28fcad87ff558b7/627c0108726e3315b16b464c/Jeff_Schwartz_headshot-sq.png"
+        },
+        {
+          "id": "https://www.darkreading.com/attacks-breaches/five-russia-linked-groups-target-ukraine-in-cyberwar",
+          "author": "Robert Lemos, Contributing Writer, Dark Reading",
+          "description": "Information on the attributed cyberattacks conducted since the beginning of the Russia-Ukraine war shows that a handful of groups conducted more than two dozen attacks.",
+          "link": "https://www.darkreading.com/attacks-breaches/five-russia-linked-groups-target-ukraine-in-cyberwar",
+          "publishedOn": "2022-08-18T17:17:25.000Z",
+          "wordCount": 11793,
+          "title": "5 Russia-Linked Groups Target Ukraine in Cyberwar",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt58481326324d6911/60b1e9a55d34de550780a990/Robert-Lemos.png",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt58481326324d6911/60b1e9a55d34de550780a990/Robert-Lemos.png"
+        },
+        {
+          "id": "https://www.darkreading.com/application-security/security-bugs-exploited-model-machine-learning",
+          "author": "Robert Lemos, Contributing Writer, Dark Reading",
+          "description": "How critical is that vulnerability? University researchers are improving predictions of which software flaws will end up with an exploit, a boon for prioritizing patches and estimating risk.",
+          "link": "https://www.darkreading.com/application-security/security-bugs-exploited-model-machine-learning",
+          "publishedOn": "2022-08-18T14:42:38.000Z",
+          "wordCount": 11971,
+          "title": "Which Security Bugs Will Be Exploited? Researchers Create an ML Model to Find Out",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt58481326324d6911/60b1e9a55d34de550780a990/Robert-Lemos.png",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt58481326324d6911/60b1e9a55d34de550780a990/Robert-Lemos.png"
+        },
+        {
+          "id": "https://www.darkreading.com/remote-workforce/summertime-blues-ta558-ramps-attacks-hospitality-travel",
+          "author": "Nathan Eddy, Contributing Writer, Dark Reading",
+          "description": "The cybercriminal crew has used 15 malware families to target travel and hospitality companies globally, constantly changing tactics over the course of its four-year history.",
+          "link": "https://www.darkreading.com/remote-workforce/summertime-blues-ta558-ramps-attacks-hospitality-travel",
+          "publishedOn": "2022-08-18T14:38:22.000Z",
+          "wordCount": 11007,
+          "title": "Summertime Blues: TA558 Ramps Up Attacks on Hospitality, Travel Sectors",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltf8b5a94afa71c53a/628e3799daa31875dc0c9fc0/NathanEddyHeadshot.PNG",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltf8b5a94afa71c53a/628e3799daa31875dc0c9fc0/NathanEddyHeadshot.PNG"
+        },
+        {
+          "id": "https://www.darkreading.com/careers-and-people/how-to-upskill-tech-staff-to-meet-cybersecurity-needs",
+          "author": "Aaron Rosenmund, Director of Security Research and Curriculum, Pluralsight",
+          "description": "Cybersecurity is the largest current tech skills gap; closing it requires a concerted effort to upskill existing staff.",
+          "link": "https://www.darkreading.com/careers-and-people/how-to-upskill-tech-staff-to-meet-cybersecurity-needs",
+          "publishedOn": "2022-08-18T14:00:00.000Z",
+          "wordCount": 11010,
+          "title": "How to Upskill Tech Staff to Meet Cybersecurity Needs",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltcc5a865362a2ee7c/62fcfe191e7f7e482bfb7a80/Pluralsight_Aaron_Rosenmund.png",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltcc5a865362a2ee7c/62fcfe191e7f7e482bfb7a80/Pluralsight_Aaron_Rosenmund.png"
+        },
+        {
+          "id": "https://www.darkreading.com/application-security/openssf-announces-13-new-members-committed-to-strengthening-the-security-of-the-open-source-software-supply-chain",
+          "author": null,
+          "description": "Hosts next OpenSSF Day in Dublin.",
+          "link": "https://www.darkreading.com/application-security/openssf-announces-13-new-members-committed-to-strengthening-the-security-of-the-open-source-software-supply-chain",
+          "publishedOn": "2022-08-18T13:42:55.000Z",
+          "wordCount": 14974,
+          "title": "OpenSSF Announces 13 New Members Committed to Strengthening the Security of the Open Source Software Supply Chain",
+          "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
+        },
         {
           "id": "https://www.darkreading.com/dr-tech/google-cloud-adds-curated-detection-to-chronicle",
           "author": "Dark Reading Staff, Dark Reading",
@@ -3374,6 +3524,16 @@
       "siteUrl": "https://blog.knowbe4.com",
       "articles": [
         {
+          "id": "https://blog.knowbe4.com/piggybacking-social-engineering-for-physical-access",
+          "author": "Stu Sjouwerman",
+          "description": "Tailgating or piggybacking is an old but effective social engineering technique to gain physical access to restricted areas, according to Rahul Awati at TechTarget. Tailgating is when a bad actor simply follows an employee through a door that requires authentication.",
+          "link": "https://blog.knowbe4.com/piggybacking-social-engineering-for-physical-access",
+          "publishedOn": "2022-08-18T15:37:37.000Z",
+          "wordCount": 2166,
+          "title": "Piggybacking: Social Engineering for Physical Access",
+          "imageUrl": "https://blog.knowbe4.com/hubfs/Social%20Engineering%20for%20Physical%20Access.jpg#keepProtocol"
+        },
+        {
           "id": "https://blog.knowbe4.com/one-third-of-organizations-experience-ransomware-attacks-at-least-weekly",
           "author": "Stu Sjouwerman",
           "description": "New data shows attempted ransomware attacks are occurring far more frequently while a lack of confidence is found in security measures and solutions to stop ransomware attacks.",
@@ -3890,6 +4050,28 @@
       "feedUrl": "https://thehackernews.com/feeds/posts/default",
       "siteUrl": "https://thehackernews.com/",
       "articles": [
+        {
+          "id": "tag:blogger.com,1999:blog-4802841478634147276.post-5707392716888616606",
+          "author": "noreply@blogger.com (Ravie Lakshmanan)",
+          "description": "A .NET-based evasive crypter named DarkTortilla has been used by threat actors to distribute a broad array of commodity malware as well as targeted payloads like Cobalt Strike and Metasploit, likely since 2015.\n\"It can also deliver 'add-on packages' such as additional malicious payloads, benign decoy documents, and executables,\" cybersecurity firm Secureworks said in a Wednesday report. \"It",
+          "link": "https://thehackernews.com/2022/08/researchers-detail-evasive-darktortilla.html",
+          "publishedOn": "2022-08-18T17:11:07.176Z",
+          "wordCount": null,
+          "title": "Researchers Detail Evasive DarkTortilla Crypter Used to Deliver Malware",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "tag:blogger.com,1999:blog-4802841478634147276.post-1484121026397926127",
+          "author": "noreply@blogger.com (Ravie Lakshmanan)",
+          "description": "The Chinese advanced persistent threat (APT) actor tracked as Winnti (aka APT41) has targeted at least 13 organizations geographically spanning across the U.S, Taiwan, India, Vietnam, and China against the backdrop of four different campaigns in 2021.\n\"The targeted industries included the public sector, manufacturing, healthcare, logistics, hospitality, education, as well as the media and",
+          "link": "https://thehackernews.com/2022/08/china-backed-apt41-hackers-targeted-13.html",
+          "publishedOn": "2022-08-18T16:45:54.665Z",
+          "wordCount": null,
+          "title": "China-backed APT41 Hackers Targeted 13 Organisations Worldwide Last Year",
+          "itunes": {},
+          "imageUrl": null
+        },
         {
           "id": "tag:blogger.com,1999:blog-4802841478634147276.post-589011363729364666",
           "author": "noreply@blogger.com (The Hacker News)",
