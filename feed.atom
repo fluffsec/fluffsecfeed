@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-08-17T19:19:35.973Z</updated>
+    <updated>2022-08-18T03:32:07.769Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
@@ -4452,75 +4452,6 @@ This product is provided subject to this Notification and this Privacy & Use pol
         <summary type="html"><![CDATA[Four newly discovered attack paths could lead to PII exposure, account takeover, even organizational data destruction.]]></summary>
         <author>
             <name>Nate Nelson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Unpatched GPS Tracker Security Bugs Threaten 1.5M Vehicles With Disruption]]></title>
-        <id>https://www.darkreading.com/iot/unpatched-gps-tracker-security-bugs-disruption</id>
-        <link href="https://www.darkreading.com/iot/unpatched-gps-tracker-security-bugs-disruption"/>
-        <updated>2022-07-19T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A GPS device from MiCODUS has six security bugs that could allow attackers to monitor 1.5 million vehicles that use the tracker, or even remotely disable vehicles.]]></summary>
-        <author>
-            <name>Robert Lemos, Contributing Writer, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GhangorCloud Announces CAPE, a Next Generation Unified Compliance and Data Privacy Enforcement Solution]]></title>
-        <id>https://www.darkreading.com/risk/ghangorcloud-announces-cape-tm-a-next-generation-unified-compliance-and-data-privacy-enforcement-solution</id>
-        <link href="https://www.darkreading.com/risk/ghangorcloud-announces-cape-tm-a-next-generation-unified-compliance-and-data-privacy-enforcement-solution"/>
-        <updated>2022-07-19T14:41:08.000Z</updated>
-        <summary type="html"><![CDATA[New CAPE platform delivers patented intelligent automation and enforcement of consumer data privacy mandates at lowest total cost of ownership.]]></summary>
-        <author>
-            <name>Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Enso Security Leads Industry Mission to Bring Control to Chaos With Community-Driven AppSec Map]]></title>
-        <id>https://www.darkreading.com/attacks-breaches/enso-security-leads-industry-mission-to-bring-control-to-chaos-with-community-driven-appsec-map</id>
-        <link href="https://www.darkreading.com/attacks-breaches/enso-security-leads-industry-mission-to-bring-control-to-chaos-with-community-driven-appsec-map"/>
-        <updated>2022-07-19T14:34:51.000Z</updated>
-        <summary type="html"><![CDATA[Builds personalization, posture scoring and enhanced market intelligence into interactive map of the application security ecosystem.]]></summary>
-        <author>
-            <name>Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Protecting Against Kubernetes-Borne Ransomware]]></title>
-        <id>https://www.darkreading.com/attacks-breaches/protecting-against-kubernetes-borne-ransomware</id>
-        <link href="https://www.darkreading.com/attacks-breaches/protecting-against-kubernetes-borne-ransomware"/>
-        <updated>2022-07-19T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The conventional wisdom that virtual container environments were somehow immune from malware and hackers has been upended.]]></summary>
-        <author>
-            <name>Sonya Duffin, Ransomware and Data Protection Expert, Veritas Technologies</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Software Supply Chain Concerns Reach C-Suite]]></title>
-        <id>https://www.darkreading.com/application-security/software-supply-chain-concerns-reach-c-suite</id>
-        <link href="https://www.darkreading.com/application-security/software-supply-chain-concerns-reach-c-suite"/>
-        <updated>2022-07-19T13:33:27.000Z</updated>
-        <summary type="html"><![CDATA[Major supply chain attacks have had a significant impact on software security awareness and decision-making, with more investment planned for monitoring attack surfaces.]]></summary>
-        <author>
-            <name>Nathan Eddy, Contributing Writer, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vulnerability Spotlight: Issue in Accusoft ImageGear could lead to memory corruption, code execution]]></title>
-        <id>https://blog.talosintelligence.com/2022/07/accusoft-vuln-spotlight-.html</id>
-        <link href="https://blog.talosintelligence.com/2022/07/accusoft-vuln-spotlight-.html"/>
-        <updated>2022-07-19T12:45:00.005Z</updated>
-        <summary type="html"><![CDATA[Emmanuel Tacheau of Cisco Talos discovered these vulnerabilities. Blog by Jon Munshaw. 
-Cisco Talos recently discovered a use-after-free vulnerability in Accusoft ImageGear's PSD header processing function. 
-The ImageGear library is a document-imaging developer toolkit that allows users to create, edit, annotate and convert various images. It supports more than 100 file formats such as DICOM, PDF and Microsoft Office. 
-This vulnerability, TALOS-2022-1526 (CVE-2022-29465) could allow an attacker to cause a use-after-free condition by tricking the targeted user into opening a malformed .psd file in the application. The vulnerability leads to out-of-bounds heap writes, which causes memory corruption and, possibly, code execution. 
-In adherence to Cisco’s vulnerability disclosure policy, Accusoft patched this issue and released an update for ImageGear.
-
-Talos tested and confirmed Accusoft ImageGear, version 19.10, is affected by this vulnerability. 
-
-
-The following Snort rules will detect exploitation attempts against this vulnerability: 60228 and 60229. Additional rules may be released in the future and current rules are subject to change, pending additional vulnerability information. For the most current rule information, please refer to your Cisco Secure Firewall Management Center or Snort.org.]]></summary>
-        <author>
-            <name>Cisco Talos Intelligence Group - Comprehensive Threat Intelligence</name>
         </author>
     </entry>
 </feed>
