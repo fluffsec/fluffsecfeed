@@ -2,10 +2,72 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-08-18T07:22:33.895Z</updated>
+    <updated>2022-08-18T13:48:19.431Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[One-Third of Organizations Experience Ransomware Attacks At Least Weekly]]></title>
+        <id>https://blog.knowbe4.com/one-third-of-organizations-experience-ransomware-attacks-at-least-weekly</id>
+        <link href="https://blog.knowbe4.com/one-third-of-organizations-experience-ransomware-attacks-at-least-weekly"/>
+        <updated>2022-08-18T12:17:10.000Z</updated>
+        <summary type="html"><![CDATA[New data shows attempted ransomware attacks are occurring far more frequently while a lack of confidence is found in security measures and solutions to stop ransomware attacks.]]></summary>
+        <author>
+            <name>Stu Sjouwerman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Impersonation Phishing Attacks Increase as Credentials Take the Lead as the Primary Target]]></title>
+        <id>https://blog.knowbe4.com/impersonation-phishing-attacks-increase-as-credentials-take-the-lead-as-the-primary-target</id>
+        <link href="https://blog.knowbe4.com/impersonation-phishing-attacks-increase-as-credentials-take-the-lead-as-the-primary-target"/>
+        <updated>2022-08-18T12:16:56.000Z</updated>
+        <summary type="html"><![CDATA[New data shows an upswell of email-based cyberattacks, with over 256 brands being impersonated, as social media, Microsoft, shipping, and ecommerce brands top the list.]]></summary>
+        <author>
+            <name>Stu Sjouwerman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hybrid Vishing Attacks Increase 625% in Q2]]></title>
+        <id>https://blog.knowbe4.com/hybrid-vishing-attacks-increase-625-in-q2</id>
+        <link href="https://blog.knowbe4.com/hybrid-vishing-attacks-increase-625-in-q2"/>
+        <updated>2022-08-18T12:16:42.000Z</updated>
+        <summary type="html"><![CDATA[Reaching a six-quarter high in Q2, hybrid vishing attacks have increased six times that of the hybrid-vishing attacks experienced in Q1 2021.]]></summary>
+        <author>
+            <name>Stu Sjouwerman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Organizations Holding Cyber Insurance Policies May Get Stuck with the Bill in a Phishing Loss]]></title>
+        <id>https://blog.knowbe4.com/organizations-holding-cyber-insurance-policies-may-get-stuck-with-the-bill-in-a-phishing-loss</id>
+        <link href="https://blog.knowbe4.com/organizations-holding-cyber-insurance-policies-may-get-stuck-with-the-bill-in-a-phishing-loss"/>
+        <updated>2022-08-18T12:16:28.000Z</updated>
+        <summary type="html"><![CDATA[Plenty of new anecdotal and legal case-based stories are demonstrating that just because your organization has a policy doesn’t mean it’s actually going to pay out after an attack.]]></summary>
+        <author>
+            <name>Stu Sjouwerman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Penetration Testing or Vulnerability Scanning? What's the Difference?]]></title>
+        <id>tag:blogger.com,1999:blog-4802841478634147276.post-589011363729364666</id>
+        <link href="https://thehackernews.com/2022/08/penetration-testing-or-vulnerability.html"/>
+        <updated>2022-08-18T09:26:20.951Z</updated>
+        <summary type="html"><![CDATA[Pentesting and vulnerability scanning are often confused for the same service. The problem is, business owners often use one when they really need the other. Let's dive in and explain the differences.
+People frequently confuse penetration testing and vulnerability scanning, and it's easy to see why. Both look for weaknesses in your IT infrastructure by exploring your systems in the same way an]]></summary>
+        <author>
+            <name>noreply@blogger.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hackers Using Bumblebee Loader to Compromise Active Directory Services]]></title>
+        <id>tag:blogger.com,1999:blog-4802841478634147276.post-2488352088016639371</id>
+        <link href="https://thehackernews.com/2022/08/hackers-using-bumblebee-loader-to.html"/>
+        <updated>2022-08-18T09:20:52.378Z</updated>
+        <summary type="html"><![CDATA[The malware loader known as Bumblebee is being increasingly co-opted by threat actors associated with BazarLoader, TrickBot, and IcedID in their campaigns to breach target networks for post-exploitation activities.
+"Bumblebee operators conduct intensive reconnaissance activities and redirect the output of executed commands to files for exfiltration," Cybereason researchers Meroujan Antonyan and]]></summary>
+        <author>
+            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Apple Releases Security Updates to Patch Two New Zero-Day Vulnerabilities]]></title>
         <id>tag:blogger.com,1999:blog-4802841478634147276.post-6169061863161246028</id>
@@ -18,6 +80,16 @@ CVE-2022-32893 - An out-of-bounds issue in WebKit which could lead to the execu
 CVE-2022-32894 - An]]></summary>
         <author>
             <name>noreply@blogger.com (Ravie Lakshmanan)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google Cloud Adds Curated Detection to Chronicle]]></title>
+        <id>https://www.darkreading.com/dr-tech/google-cloud-adds-curated-detection-to-chronicle</id>
+        <link href="https://www.darkreading.com/dr-tech/google-cloud-adds-curated-detection-to-chronicle"/>
+        <updated>2022-08-18T01:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The curated detection feature for Chronicle SecOps Suite provides security teams with actionable insights on cloud threats and Windows-based attacks from Google Cloud Threat Intelligence Team.]]></summary>
+        <author>
+            <name>Dark Reading Staff, Dark Reading</name>
         </author>
     </entry>
     <entry>
@@ -4361,36 +4433,6 @@ This product is provided subject to this Notification and this Privacy & Use pol
         <summary type="html"><![CDATA[300 restaurants and at least 50,000 payment cards compromised by two separate campaigns against MenuDrive, Harbortouch and InTouchPOS services.]]></summary>
         <author>
             <name>Elizabeth Montalbano</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tackling the Cybersecurity Workforce Challenge With Apprentices]]></title>
-        <id>https://www.darkreading.com/edge-articles/tackling-the-cybersecurity-workforce-challenge-with-apprentices</id>
-        <link href="https://www.darkreading.com/edge-articles/tackling-the-cybersecurity-workforce-challenge-with-apprentices"/>
-        <updated>2022-07-20T00:51:45.000Z</updated>
-        <summary type="html"><![CDATA[One of the announcements out of the National Cyber Workforce and Education Summit on July 19 was the 120-day Cybersecurity Apprenticeship Sprint.]]></summary>
-        <author>
-            <name>Fahmida Y. Rashid, Managing Editor, Features, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ongoing Magecart Campaign Targets Online Ordering at Local Restaurants]]></title>
-        <id>https://www.darkreading.com/application-security/magecart-online-ordering-local-restaurants</id>
-        <link href="https://www.darkreading.com/application-security/magecart-online-ordering-local-restaurants"/>
-        <updated>2022-07-19T20:42:57.000Z</updated>
-        <summary type="html"><![CDATA[More than 311 local eateries have been breached through online ordering platforms MenuDrive, Harbortouch, and InTouchPOS, impacting 50K records — and counting.]]></summary>
-        <author>
-            <name>Dark Reading Staff, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Post-Breakup, Conti Ransomware Members Remain Dangerous]]></title>
-        <id>https://www.darkreading.com/attacks-breaches/breakup-conti-ransomware-members-dangerous</id>
-        <link href="https://www.darkreading.com/attacks-breaches/breakup-conti-ransomware-members-dangerous"/>
-        <updated>2022-07-19T19:24:43.000Z</updated>
-        <summary type="html"><![CDATA[The gang's members have moved into different criminal activities, and could regroup once law-enforcement attention has simmered down a bit, researchers say.]]></summary>
-        <author>
-            <name>Jai Vijayan, Contributing Writer, Dark Reading</name>
         </author>
     </entry>
 </feed>
