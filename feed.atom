@@ -2,10 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-08-19T07:23:26.961Z</updated>
+    <updated>2022-08-19T13:45:00.070Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[[Whoa] Ransomware Strains Almost Double in Six Months from 5,400 to 10,666]]></title>
+        <id>https://blog.knowbe4.com/whoa-ransomware-strains-almost-double-in-six-months-from-5400-to-10666</id>
+        <link href="https://blog.knowbe4.com/whoa-ransomware-strains-almost-double-in-six-months-from-5400-to-10666"/>
+        <updated>2022-08-19T12:57:35.000Z</updated>
+        <summary type="html"><![CDATA[A recent report from FortiGuard Labs saw ransomware variants double in total so far compared to 2021, and the year is not over yet.]]></summary>
+        <author>
+            <name>Stu Sjouwerman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google Cloud Blocks Record DDoS attack of 46 Million Requests Per Second]]></title>
+        <id>tag:blogger.com,1999:blog-4802841478634147276.post-4534998370176192637</id>
+        <link href="https://thehackernews.com/2022/08/google-cloud-blocks-record-ddos-attack.html"/>
+        <updated>2022-08-19T10:15:07.015Z</updated>
+        <summary type="html"><![CDATA[Google's cloud division on Thursday disclosed it mitigated a series of HTTPS distributed denial-of-service (DDoS) attacks which peaked at 46 million requests per second (RPS), making it the largest such recorded to date.
+The attack, which occurred on June 1, targeting an unnamed Google Cloud Armor customer, is 76% larger than the 26 million RPS DDoS attack repealed by Cloudflare earlier this]]></summary>
+        <author>
+            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New Amazon Ring Vulnerability Could Have Exposed All Your Camera Recordings]]></title>
+        <id>tag:blogger.com,1999:blog-4802841478634147276.post-4866310360385468893</id>
+        <link href="https://thehackernews.com/2022/08/new-amazon-ring-vulnerability-could.html"/>
+        <updated>2022-08-19T08:23:06.150Z</updated>
+        <summary type="html"><![CDATA[Retail giant Amazon patched a high-severity security issue in its Ring app for Android in May that could have enabled a rogue application installed on a user's device to access sensitive information and camera recordings.
+The Ring app for Android has over 10 million downloads and enables users to monitor video feeds from smart home devices such as video doorbells, security cameras, and alarm]]></summary>
+        <author>
+            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CISA releases 5 Industrial Control Systems Advisories]]></title>
         <id>17893 at https://us-cert.cisa.gov</id>
@@ -4511,36 +4543,6 @@ This product is provided subject to this Notification and this Privacy & Use pol
         <summary type="html"><![CDATA[The cyber campaign, aimed at siphoning funds, uses an improved version of the malware, which can adjust infection paths based on recognized antivirus software.]]></summary>
         <author>
             <name>Nathan Eddy, Contributing Writer, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cybersecurity Professionals Push Their Organizations Toward Vendor Consolidation and Product Integration]]></title>
-        <id>https://www.darkreading.com/cloud/cybersecurity-professionals-push-their-organizations-toward-vendor-consolidation-and-product-integration</id>
-        <link href="https://www.darkreading.com/cloud/cybersecurity-professionals-push-their-organizations-toward-vendor-consolidation-and-product-integration"/>
-        <updated>2022-07-20T22:03:59.000Z</updated>
-        <summary type="html"><![CDATA[New global study from ESG and ISSA reveals nearly half of organizations are consolidating or plan on consolidating the number of vendors they do business with]]></summary>
-        <author>
-            <name>Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lax Security Fuels Massive 8220 Gang Botnet Army Surge]]></title>
-        <id>https://www.darkreading.com/application-security/lax-security-fuels-cloud-botnet-army-surge</id>
-        <link href="https://www.darkreading.com/application-security/lax-security-fuels-cloud-botnet-army-surge"/>
-        <updated>2022-07-20T19:46:17.000Z</updated>
-        <summary type="html"><![CDATA[The threat group 8220 Gang's cryptocurrency miner and botnet reach has exploded to 30,000 global hosts, a notable increase over the past month, researchers say.]]></summary>
-        <author>
-            <name>Dark Reading Staff, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['AIG' Threat Group Launches With Unique Business Model]]></title>
-        <id>https://www.darkreading.com/threat-intelligence/aig-threat-group-launches-unique-business-model</id>
-        <link href="https://www.darkreading.com/threat-intelligence/aig-threat-group-launches-unique-business-model"/>
-        <updated>2022-07-20T19:40:45.000Z</updated>
-        <summary type="html"><![CDATA[The rapidly growing Atlas Intelligence Group relies on cyber-mercenaries to carry out its missions.]]></summary>
-        <author>
-            <name>Jai Vijayan, Contributing Writer, Dark Reading</name>
         </author>
     </entry>
 </feed>
