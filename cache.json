@@ -63,6 +63,16 @@
           "imageUrl": null
         },
         {
+          "id": "17897 at https://us-cert.cisa.gov",
+          "author": "CISA",
+          "description": "Original release date: August 18, 2022\nCISA has added seven new vulnerabilities to its Known Exploited Vulnerabilities Catalog, based on evidence of active exploitation. These types of vulnerabilities are a frequent attack vector for malicious cyber actors and pose significant risk to the federal enterprise. Note: to view the newly added vulnerabilities in the catalog, click on the arrow in the “Date Added to Catalog” column, which will sort by descending dates. \nBinding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the Known Exploited Vulnerabilities Catalog as a living list of known CVEs that carry significant risk to the federal enterprise. BOD 22-01 requires FCEB agencies to remediate identified vulnerabilities by the due date to protect FCEB networks against active threats. See the BOD 22-01 Fact Sheet for more information. \nCatalog vulnerabilities as part of their vulnerability management practice. CISA will continue to add vulnerabilities to the Catalog that meet the specified criteria.\nThis product is provided subject to this Notification and this Privacy & Use policy.",
+          "link": "https://us-cert.cisa.gov/ncas/current-activity/2022/08/18/cisa-adds-seven-known-exploited-vulnerabilities-catalog",
+          "publishedOn": "2022-08-18T19:08:24.000Z",
+          "wordCount": 1192,
+          "title": "CISA Adds Seven Known Exploited Vulnerabilities to Catalog",
+          "imageUrl": null
+        },
+        {
           "id": "17896 at https://us-cert.cisa.gov",
           "author": "CISA",
           "description": "Original release date: August 18, 2022\nApple has released security updates to address vulnerabilities in macOS Monterey, iOS and iPadOS. An attacker could exploit one of these vulnerabilities to take control of an affected device.\nCISA encourages users and administrators to review the Apple security updates page for the following products and apply the necessary updates as soon as possible:\nMacOS Monterey 12.5.1\niOS 15.6.1 and iPadOS 15.6.1\nThis product is provided subject to this Notification and this Privacy & Use policy.",
@@ -438,16 +448,6 @@
           "wordCount": 2235,
           "title": "IoT Botnets Fuels DDoS Attacks – Are You Prepared?",
           "imageUrl": "https://media.kasperskycontenthub.com/wp-content/uploads/sites/103/2022/07/25090220/IoT-Botnets-Fuels-DDoS-Attacks-Are-You-Prepared.png"
-        },
-        {
-          "id": "https://kasperskycontenthub.com/threatpost-global/?p=180254",
-          "author": "Elizabeth Montalbano",
-          "description": "300 restaurants and at least 50,000 payment cards compromised by two separate campaigns against MenuDrive, Harbortouch and InTouchPOS services.",
-          "link": "https://threatpost.com/magecart-restaurant-ordering-systems/180254/",
-          "publishedOn": "2022-07-20T12:14:47.000Z",
-          "wordCount": 2092,
-          "title": "Magecart Serves Up Card Skimmers on Restaurant-Ordering Systems",
-          "imageUrl": "https://media.kasperskycontenthub.com/wp-content/uploads/sites/103/2019/12/22134736/Magecart.jpg"
         }
       ]
     },
@@ -563,6 +563,16 @@
       "feedUrl": "https://www.darkreading.com/rss.xml",
       "siteUrl": "https://www.darkreading.com",
       "articles": [
+        {
+          "id": "https://www.darkreading.com/operations/easing-the-cyber-skills-crisis-with-staff-augmentation",
+          "author": null,
+          "description": "Filling cybersecurity roles can be costly, slow, and chancy. More firms are working with third-party service providers to quickly procure needed expertise.",
+          "link": "https://www.darkreading.com/operations/easing-the-cyber-skills-crisis-with-staff-augmentation",
+          "publishedOn": "2022-08-18T21:28:13.000Z",
+          "wordCount": 12565,
+          "title": "Easing the Cyber-Skills Crisis With Staff Augmentation",
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blte23d97322a1005f9/62feafa58f5a073098c4024c/DO_NOT_REUSE--SPONSOR_PAID-cbi-sponsored-post-staff-augmentation-2022-1200pxw.jpg"
+        },
         {
           "id": "https://www.darkreading.com/remote-workforce/china-apt41-baffling-approach-cobalt-strike-payload",
           "author": "Jai Vijayan, Contributing Writer, Dark Reading",
@@ -3317,36 +3327,6 @@
             "length": "0"
           },
           "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt645d346887d44bc4/62d71fffa5edb60e8e2d61bb/RichardMarcusHeadshot.jpeg"
-        },
-        {
-          "id": "https://www.darkreading.com/threat-intelligence/chaotic-lapsus-quiet-threat-persists",
-          "author": "Nathan Eddy, Contributing Writer, Dark Reading",
-          "description": "The LAPSUS$ group emerged with a big splash at the end of 2021, targeting companies, including Okta, with a \"reckless and disruptive\" approach to hacking.",
-          "link": "https://www.darkreading.com/threat-intelligence/chaotic-lapsus-quiet-threat-persists",
-          "publishedOn": "2022-07-20T15:05:49.000Z",
-          "wordCount": 14189,
-          "title": "Chaotic LAPSUS$ Group Goes Quiet, but Threat Likely Persists",
-          "enclosure": {
-            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltf8b5a94afa71c53a/628e3799daa31875dc0c9fc0/NathanEddyHeadshot.PNG",
-            "type": "image/*",
-            "length": "0"
-          },
-          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltf8b5a94afa71c53a/628e3799daa31875dc0c9fc0/NathanEddyHeadshot.PNG"
-        },
-        {
-          "id": "https://www.darkreading.com/vulnerabilities-threats/how-to-mitigate-the-risk-of-karakurt-data-extortion-group-s-tactics-techniques-and-procedures",
-          "author": "Scott Bledsoe, CEO, Theon Technology",
-          "description": "The group has become the new face of ransomware, taking advantage of vulnerabilities and poor encryption.",
-          "link": "https://www.darkreading.com/vulnerabilities-threats/how-to-mitigate-the-risk-of-karakurt-data-extortion-group-s-tactics-techniques-and-procedures",
-          "publishedOn": "2022-07-20T14:00:00.000Z",
-          "wordCount": 13039,
-          "title": "How to Mitigate the Risk of Karakurt Data Extortion Group's Tactics, Techniques, and Procedures",
-          "enclosure": {
-            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt4dbc057473d8b581/62d6fb82af11000f82e41a53/ScottBledsoe.png",
-            "type": "image/*",
-            "length": "0"
-          },
-          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt4dbc057473d8b581/62d6fb82af11000f82e41a53/ScottBledsoe.png"
         }
       ]
     },

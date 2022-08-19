@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-08-18T19:19:44.487Z</updated>
+    <updated>2022-08-19T03:22:30.957Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
@@ -32,6 +32,30 @@ This product is provided subject to this Notification and this Privacy & Use pol
         <summary type="html"><![CDATA[Original release date: August 18, 2022
 Cisco has released security updates to address vulnerabilities in Cisco Secure Web Appliance. A remote attacker could exploit some of these vulnerabilities to take control of an affected system. For updates addressing lower severity vulnerabilities, see the Cisco Security Advisories page. 
 Cisco Secure Web Appliance Privilege Escalation Vulnerability and apply the necessary updates.
+This product is provided subject to this Notification and this Privacy & Use policy.]]></summary>
+        <author>
+            <name>CISA</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Easing the Cyber-Skills Crisis With Staff Augmentation]]></title>
+        <id>https://www.darkreading.com/operations/easing-the-cyber-skills-crisis-with-staff-augmentation</id>
+        <link href="https://www.darkreading.com/operations/easing-the-cyber-skills-crisis-with-staff-augmentation"/>
+        <updated>2022-08-18T21:28:13.000Z</updated>
+        <summary type="html"><![CDATA[Filling cybersecurity roles can be costly, slow, and chancy. More firms are working with third-party service providers to quickly procure needed expertise.]]></summary>
+        <author>
+            <name>Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CISA Adds Seven Known Exploited Vulnerabilities to Catalog]]></title>
+        <id>17897 at https://us-cert.cisa.gov</id>
+        <link href="https://us-cert.cisa.gov/ncas/current-activity/2022/08/18/cisa-adds-seven-known-exploited-vulnerabilities-catalog"/>
+        <updated>2022-08-18T19:08:24.000Z</updated>
+        <summary type="html"><![CDATA[Original release date: August 18, 2022
+CISA has added seven new vulnerabilities to its Known Exploited Vulnerabilities Catalog, based on evidence of active exploitation. These types of vulnerabilities are a frequent attack vector for malicious cyber actors and pose significant risk to the federal enterprise. Note: to view the newly added vulnerabilities in the catalog, click on the arrow in the “Date Added to Catalog” column, which will sort by descending dates. 
+Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the Known Exploited Vulnerabilities Catalog as a living list of known CVEs that carry significant risk to the federal enterprise. BOD 22-01 requires FCEB agencies to remediate identified vulnerabilities by the due date to protect FCEB networks against active threats. See the BOD 22-01 Fact Sheet for more information. 
+Catalog vulnerabilities as part of their vulnerability management practice. CISA will continue to add vulnerabilities to the Catalog that meet the specified criteria.
 This product is provided subject to this Notification and this Privacy & Use policy.]]></summary>
         <author>
             <name>CISA</name>
@@ -4571,36 +4595,6 @@ This product is provided subject to this Notification and this Privacy & Use pol
         <summary type="html"><![CDATA[Security pros' experience with transparency and evaluating third-party partners positions them to act as key environmental, social, and governance advisers.]]></summary>
         <author>
             <name>Richard Marcus, Head of Information Security, AuditBoard</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chaotic LAPSUS$ Group Goes Quiet, but Threat Likely Persists]]></title>
-        <id>https://www.darkreading.com/threat-intelligence/chaotic-lapsus-quiet-threat-persists</id>
-        <link href="https://www.darkreading.com/threat-intelligence/chaotic-lapsus-quiet-threat-persists"/>
-        <updated>2022-07-20T15:05:49.000Z</updated>
-        <summary type="html"><![CDATA[The LAPSUS$ group emerged with a big splash at the end of 2021, targeting companies, including Okta, with a "reckless and disruptive" approach to hacking.]]></summary>
-        <author>
-            <name>Nathan Eddy, Contributing Writer, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Mitigate the Risk of Karakurt Data Extortion Group's Tactics, Techniques, and Procedures]]></title>
-        <id>https://www.darkreading.com/vulnerabilities-threats/how-to-mitigate-the-risk-of-karakurt-data-extortion-group-s-tactics-techniques-and-procedures</id>
-        <link href="https://www.darkreading.com/vulnerabilities-threats/how-to-mitigate-the-risk-of-karakurt-data-extortion-group-s-tactics-techniques-and-procedures"/>
-        <updated>2022-07-20T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The group has become the new face of ransomware, taking advantage of vulnerabilities and poor encryption.]]></summary>
-        <author>
-            <name>Scott Bledsoe, CEO, Theon Technology</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Magecart Serves Up Card Skimmers on Restaurant-Ordering Systems]]></title>
-        <id>https://kasperskycontenthub.com/threatpost-global/?p=180254</id>
-        <link href="https://threatpost.com/magecart-restaurant-ordering-systems/180254/"/>
-        <updated>2022-07-20T12:14:47.000Z</updated>
-        <summary type="html"><![CDATA[300 restaurants and at least 50,000 payment cards compromised by two separate campaigns against MenuDrive, Harbortouch and InTouchPOS services.]]></summary>
-        <author>
-            <name>Elizabeth Montalbano</name>
         </author>
     </entry>
 </feed>
