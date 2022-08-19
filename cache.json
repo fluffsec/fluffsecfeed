@@ -447,6 +447,16 @@
       "siteUrl": "https://threatpost.com",
       "articles": [
         {
+          "id": "https://kasperskycontenthub.com/threatpost-global/?p=180448",
+          "author": "Elizabeth Montalbano",
+          "description": "Separate fixes to macOS and iOS patch respective flaws in the kernel and WebKit that can allow threat actors to take over devices and are under attack.",
+          "link": "https://threatpost.com/iphone-users-urged-to-update-to-patch-2-zero-days-under-attack/180448/",
+          "publishedOn": "2022-08-19T15:25:56.000Z",
+          "wordCount": 2003,
+          "title": "iPhone Users Urged to Update to Patch 2 Zero-Days",
+          "imageUrl": "https://media.kasperskycontenthub.com/wp-content/uploads/sites/103/2022/08/19112256/always-update-safari-on-iphone-featured.jpg"
+        },
+        {
           "id": "https://kasperskycontenthub.com/threatpost-global/?p=180432",
           "author": "Elizabeth Montalbano",
           "description": "An insufficient validation input flaw, one of 11 patched in an update this week, could allow for arbitrary code execution and is under active attack.",
@@ -553,6 +563,51 @@
       "feedUrl": "https://www.darkreading.com/rss.xml",
       "siteUrl": "https://www.darkreading.com",
       "articles": [
+        {
+          "id": "https://www.darkreading.com/remote-workforce/state-sponsored-apts-dangle-job-opps-lure-spy-victims",
+          "author": "Jeffrey Schwartz, Contributing Writer",
+          "description": "APTs continue to exploit the dynamic job market and the persistent phenomenon of remote working, as explored by PwC at Black Hat USA.",
+          "link": "https://www.darkreading.com/remote-workforce/state-sponsored-apts-dangle-job-opps-lure-spy-victims",
+          "publishedOn": "2022-08-19T19:03:43.000Z",
+          "wordCount": 11512,
+          "title": "State-Sponsored APTs Dangle Job Opps to Lure In Spy Victims",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blta28fcad87ff558b7/627c0108726e3315b16b464c/Jeff_Schwartz_headshot-sq.png",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blta28fcad87ff558b7/627c0108726e3315b16b464c/Jeff_Schwartz_headshot-sq.png"
+        },
+        {
+          "id": "https://www.darkreading.com/threat-intelligence/blackbyte-ransomware-gang-returns-twitter-presence-tiered-pricing",
+          "author": "Nathan Eddy, Contributing Writer, Dark Reading",
+          "description": "Version 2.0 of the ransomware group's operation borrows extortion tactics from the LockBit 3.0 group.",
+          "link": "https://www.darkreading.com/threat-intelligence/blackbyte-ransomware-gang-returns-twitter-presence-tiered-pricing",
+          "publishedOn": "2022-08-19T17:17:05.000Z",
+          "wordCount": 11839,
+          "title": "BlackByte Ransomware Gang Returns With Twitter Presence, Tiered Pricing",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltf8b5a94afa71c53a/628e3799daa31875dc0c9fc0/NathanEddyHeadshot.PNG",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltf8b5a94afa71c53a/628e3799daa31875dc0c9fc0/NathanEddyHeadshot.PNG"
+        },
+        {
+          "id": "https://www.darkreading.com/vulnerabilities-threats/cyber-resiliency-isn-t-just-about-technology-it-s-about-people",
+          "author": "Heather Gantt-Evans, Chief Information Security Officer, SailPoint",
+          "description": "To lessen burnout and prioritize staff resiliency, put people in a position to succeed with staffwide cybersecurity training to help ease the burden on IT and security personnel.",
+          "link": "https://www.darkreading.com/vulnerabilities-threats/cyber-resiliency-isn-t-just-about-technology-it-s-about-people",
+          "publishedOn": "2022-08-19T14:00:00.000Z",
+          "wordCount": 12180,
+          "title": "Cyber Resiliency Isn't Just About Technology, It's About People",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt4f2d59a0fb13077f/62fd4dfad9bb133be4f51c99/Heather-Gant-Evans-GrayChair-9547Edit_(2).jpg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt4f2d59a0fb13077f/62fd4dfad9bb133be4f51c99/Heather-Gant-Evans-GrayChair-9547Edit_(2).jpg"
+        },
         {
           "id": "https://www.darkreading.com/operations/easing-the-cyber-skills-crisis-with-staff-augmentation",
           "author": null,
@@ -3940,6 +3995,28 @@
       "feedUrl": "https://thehackernews.com/feeds/posts/default",
       "siteUrl": "https://thehackernews.com/",
       "articles": [
+        {
+          "id": "tag:blogger.com,1999:blog-4802841478634147276.post-7122369336875851560",
+          "author": "noreply@blogger.com (Ravie Lakshmanan)",
+          "description": "The Donot Team threat actor has updated its Jaca Windows malware toolkit with improved capabilities, including a revamped stealer module designed to plunder information from Google Chrome and Mozilla Firefox browsers.\nThe improvements also include a new infection chain that incorporates previously undocumented components to the modular framework, Morphisec researchers Hido Cohen and Arnold",
+          "link": "https://thehackernews.com/2022/08/donot-team-hackers-updated-its-malware.html",
+          "publishedOn": "2022-08-19T14:04:21.457Z",
+          "wordCount": null,
+          "title": "DoNot Team Hackers Updated its Malware Toolkit with Improved Capabilities",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "tag:blogger.com,1999:blog-4802841478634147276.post-600770608541675428",
+          "author": "noreply@blogger.com (Ravie Lakshmanan)",
+          "description": "A financially motivated cybercrime group has been linked to an ongoing wave of attacks aimed at hospitality, hotel, and travel organizations in Latin America with the goal of installing malware on compromised systems.\nEnterprise security firm Proofpoint, which is tracking the group under the name TA558 dating all the way back to April 2018, called it a \"small crime threat actor.\"\n\"Since 2018,",
+          "link": "https://thehackernews.com/2022/08/cybercrime-group-ta558-targeting.html",
+          "publishedOn": "2022-08-19T13:35:28.956Z",
+          "wordCount": null,
+          "title": "Cybercrime Group TA558 Targeting Hospitality, Hotel, and Travel Organizations",
+          "itunes": {},
+          "imageUrl": null
+        },
         {
           "id": "tag:blogger.com,1999:blog-4802841478634147276.post-4534998370176192637",
           "author": "noreply@blogger.com (Ravie Lakshmanan)",
