@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-08-19T19:18:55.045Z</updated>
+    <updated>2022-08-20T03:12:48.118Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[PIXM: Stopping Targeted Phishing Attacks With 'Computer Vision']]></title>
+        <id>https://www.darkreading.com/attacks-breaches/pixm-stopping-targeted-phishing-attacks-with-computer-vision-</id>
+        <link href="https://www.darkreading.com/attacks-breaches/pixm-stopping-targeted-phishing-attacks-with-computer-vision-"/>
+        <updated>2022-08-20T01:06:53.000Z</updated>
+        <summary type="html"><![CDATA[Chris Cleveland, founder of PIXM, talks about phishers’ evasive maneuvers and how organizations can tap Computer Vision to keep email and its users safe.]]></summary>
+        <author>
+            <name>Terry Sweeney, Contributing Editor</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Intel Adds New Circuit to Chips to Ward Off Motherboard Exploits]]></title>
+        <id>https://www.darkreading.com/dr-tech/intel-adds-new-circuit-to-chips-to-ward-off-motherboard-exploits</id>
+        <link href="https://www.darkreading.com/dr-tech/intel-adds-new-circuit-to-chips-to-ward-off-motherboard-exploits"/>
+        <updated>2022-08-20T00:11:12.000Z</updated>
+        <summary type="html"><![CDATA[The countermeasure, which compares the time and voltage at which circuits are activated, is being implemented in 12th Gen Intel Core processors.]]></summary>
+        <author>
+            <name>Agam Shah, Contributing Writer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Patch Now: 2 Apple Zero-Days Exploited in Wild]]></title>
+        <id>https://www.darkreading.com/vulnerabilities-threats/patch-apple-zero-days-exploited</id>
+        <link href="https://www.darkreading.com/vulnerabilities-threats/patch-apple-zero-days-exploited"/>
+        <updated>2022-08-19T21:19:28.000Z</updated>
+        <summary type="html"><![CDATA[The fact that the flaws enable remote code execution, exist across all major Apple OS technologies, and are being actively exploited heightens the need for a quick response.]]></summary>
+        <author>
+            <name>Jai Vijayan, Contributing Writer, Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cybersecurity Solutions Must Evolve, Says Netography CEO]]></title>
+        <id>https://www.darkreading.com/cloud/cybersecurity-solutions-must-evolve-says-netography-ceo</id>
+        <link href="https://www.darkreading.com/cloud/cybersecurity-solutions-must-evolve-says-netography-ceo"/>
+        <updated>2022-08-19T19:31:29.000Z</updated>
+        <summary type="html"><![CDATA[Just as cyber criminals change tactics and strategy for more effectiveness, so must infosec pros and their organizations, according to Martin Roesch of Netography.]]></summary>
+        <author>
+            <name>Terry Sweeney, Contributing Editor</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[State-Sponsored APTs Dangle Job Opps to Lure In Spy Victims]]></title>
         <id>https://www.darkreading.com/remote-workforce/state-sponsored-apts-dangle-job-opps-lure-spy-victims</id>
@@ -4586,26 +4626,6 @@ This product is provided subject to this Notification and this Privacy & Use pol
         <summary type="html"><![CDATA[A study of the unregulated dark markets shows that the vast majority of malware, exploits, and attacker tools sell for less than $10, giving would-be criminals a fast entry point.]]></summary>
         <author>
             <name>Robert Lemos, Contributing Writer, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Kronos Ransomware Attack: What You Need to Know So Your Business Isn't Next]]></title>
-        <id>https://www.darkreading.com/vulnerabilities-threats/the-kronos-ransomware-attack-what-you-need-to-know-so-your-business-isn-t-next</id>
-        <link href="https://www.darkreading.com/vulnerabilities-threats/the-kronos-ransomware-attack-what-you-need-to-know-so-your-business-isn-t-next"/>
-        <updated>2022-07-21T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Identify your business's security posture and head off ransomware attacks with third-party risk management and vendor security assessments.]]></summary>
-        <author>
-            <name>Mike Wilkes, Chief Information Security Officer, SecurityScorecard</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cybercrime Group TA4563 Targets DeFi Market With Evolving Evilnum Backdoor]]></title>
-        <id>https://www.darkreading.com/application-security/cybercrime-ta4563-defi-market-evilnum</id>
-        <link href="https://www.darkreading.com/application-security/cybercrime-ta4563-defi-market-evilnum"/>
-        <updated>2022-07-21T13:27:50.000Z</updated>
-        <summary type="html"><![CDATA[The cyber campaign, aimed at siphoning funds, uses an improved version of the malware, which can adjust infection paths based on recognized antivirus software.]]></summary>
-        <author>
-            <name>Nathan Eddy, Contributing Writer, Dark Reading</name>
         </author>
     </entry>
 </feed>
