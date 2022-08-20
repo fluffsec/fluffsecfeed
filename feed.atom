@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-08-20T07:22:00.544Z</updated>
+    <updated>2022-08-20T13:32:42.679Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The HEAT Is On, Says Menlo Security]]></title>
+        <id>https://www.darkreading.com/attacks-breaches/the-heat-is-on-says-menlo-security</id>
+        <link href="https://www.darkreading.com/attacks-breaches/the-heat-is-on-says-menlo-security"/>
+        <updated>2022-08-20T13:31:29.000Z</updated>
+        <summary type="html"><![CDATA[Neko Papez, senior manager, cybersecurity strategy for Menlo Security, helps customers understand if they’re vulnerable to highly evasive adaptive threats (HEAT).]]></summary>
+        <author>
+            <name>Terry Sweeney, Contributing Editor</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[PIXM: Stopping Targeted Phishing Attacks With 'Computer Vision']]></title>
         <id>https://www.darkreading.com/attacks-breaches/pixm-stopping-targeted-phishing-attacks-with-computer-vision-</id>
@@ -4536,16 +4546,6 @@ This product is provided subject to this Notification and this Privacy & Use pol
         <summary type="html"><![CDATA[Understanding the limitations of firewalls is important to protecting the organization from evolving threats.]]></summary>
         <author>
             <name>Pat McGarry, Chief Technology Officer, ThreatBlockr</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mysterious, Cloud-Enabled macOS Spyware Blows Onto the Scene]]></title>
-        <id>https://www.darkreading.com/threat-intelligence/mysterious-cloud-enabled-macos-spyware</id>
-        <link href="https://www.darkreading.com/threat-intelligence/mysterious-cloud-enabled-macos-spyware"/>
-        <updated>2022-07-21T20:25:24.000Z</updated>
-        <summary type="html"><![CDATA[The CloudMensis spyware, which can lift reams of sensitive information from Apple machines, is the first Mac malware observed to exclusively rely on cloud storage for C2 activities.]]></summary>
-        <author>
-            <name>Tara Seals, Managing Editor, News, Dark Reading</name>
         </author>
     </entry>
 </feed>
