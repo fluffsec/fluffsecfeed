@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-08-20T03:12:48.118Z</updated>
+    <updated>2022-08-20T07:22:00.544Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
@@ -4546,86 +4546,6 @@ This product is provided subject to this Notification and this Privacy & Use pol
         <summary type="html"><![CDATA[The CloudMensis spyware, which can lift reams of sensitive information from Apple machines, is the first Mac malware observed to exclusively rely on cloud storage for C2 activities.]]></summary>
         <author>
             <name>Tara Seals, Managing Editor, News, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Oracle Critical Patch Update Addresses 349 Flaws]]></title>
-        <id>https://fieldeffect.com/?post_type=threats&amp;p=6500</id>
-        <link href="https://fieldeffect.com/threats/oracle-critical-patch-update-addresses-349-flaws/"/>
-        <updated>2022-07-21T18:54:45.000Z</updated>
-        <summary type="html"><![CDATA[On 19 July 2022, Oracle issued a Critical Patch Update fixing 349 vulnerabilities; many of these can be used for remote execution of code without authentication. We recommend applying the latest updates as soon as possible. Details The Critical Patch Update (CPU) addresses vulnerabilities in multiple Oracle product families and their third-party components; 64 of these were […]
-The post Oracle Critical Patch Update Addresses 349 Flaws appeared first on Field Effect Software Inc.]]></summary>
-        <author>
-            <name>Elena Lapina</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Equitable Digital Identity Verification Requires Moving Past Flawed Legacy Systems]]></title>
-        <id>https://www.darkreading.com/edge-articles/equitable-digital-identity-verification-requires-moving-past-flawed-legacy-systems</id>
-        <link href="https://www.darkreading.com/edge-articles/equitable-digital-identity-verification-requires-moving-past-flawed-legacy-systems"/>
-        <updated>2022-07-21T18:35:00.000Z</updated>
-        <summary type="html"><![CDATA[Data science can be used to improve access to government assistance while reducing fraud.]]></summary>
-        <author>
-            <name>Jordan Burris, Senior Director of Product Market Strategy for the Public Sector, Socure</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google Becomes First Cloud Operator to Join Healthcare ISAC]]></title>
-        <id>https://www.darkreading.com/application-security/google-cloud-join-healthcare-isac</id>
-        <link href="https://www.darkreading.com/application-security/google-cloud-join-healthcare-isac"/>
-        <updated>2022-07-21T17:57:01.000Z</updated>
-        <summary type="html"><![CDATA[Google Cloud pledges experts and other resources to Health Information Sharing and Analysis Center, a community of healthcare infrastructure operators and owners.]]></summary>
-        <author>
-            <name>Dark Reading Staff, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google Releases Security Updates for Chrome]]></title>
-        <id>17817 at https://us-cert.cisa.gov</id>
-        <link href="https://us-cert.cisa.gov/ncas/current-activity/2022/07/21/google-releases-security-updates-chrome"/>
-        <updated>2022-07-21T16:52:25.000Z</updated>
-        <summary type="html"><![CDATA[Original release date: July 21, 2022
-Google has released Chrome version 103.0.5060.134  for Windows, Mac, and Linux. This version addresses vulnerabilities that an attacker could exploit to take control of an affected system.  
-CISA encourages users and administrators to review the Chrome Release Note and apply the necessary updates. 
-This product is provided subject to this Notification and this Privacy & Use policy.]]></summary>
-        <author>
-            <name>CISA</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Drupal Releases Security Update]]></title>
-        <id>17816 at https://us-cert.cisa.gov</id>
-        <link href="https://us-cert.cisa.gov/ncas/current-activity/2022/07/21/drupal-releases-security-update"/>
-        <updated>2022-07-21T16:48:43.000Z</updated>
-        <summary type="html"><![CDATA[Original release date: July 21, 2022
-Drupal has released security updates to address vulnerabilities affecting Drupal 9.3 and 9.4. An attacker could exploit some of these vulnerabilities to take control of an affected system.  
-CISA encourages users and administrators to review Drupal security advisory SA-CORE-2022-015 and apply the necessary update.  
-This product is provided subject to this Notification and this Privacy & Use policy.]]></summary>
-        <author>
-            <name>CISA</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CNMF Discloses Malware in Ukraine]]></title>
-        <id>17815 at https://us-cert.cisa.gov</id>
-        <link href="https://us-cert.cisa.gov/ncas/current-activity/2022/07/21/cnmf-discloses-malware-ukraine"/>
-        <updated>2022-07-21T16:40:54.000Z</updated>
-        <summary type="html"><![CDATA[Original release date: July 21, 2022
-U.S. Cyber Command’s Cyber National Mission Force (CNMF), in close coordination with the Security Service of Ukraine, has released a list of indicators of compromise (IOCs) of malware seen in Ukraine. According to CNMF, “Ukrainian partners are actively sharing malicious activity they find with us to bolster collective cyber security, just as we are sharing with them.” 
-CISA encourages users and administrators to review U.S. Cyber Command’s press release, Cyber National Mission Force discloses IOCs from Ukrainian networks, as well as their VirusTotal and GitHub pages for more information. See Mandiant’s report, Evacuation and Humanitarian Documents used to Spear Phish Ukrainian Entities, for additional information.  
-This product is provided subject to this Notification and this Privacy & Use policy.]]></summary>
-        <author>
-            <name>CISA</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Market Is Teeming: Bargains on Dark Web Give Novice Cybercriminals a Quick Start]]></title>
-        <id>https://www.darkreading.com/threat-intelligence/market-bargains-dark-web-novice-cybercriminals-quick-start</id>
-        <link href="https://www.darkreading.com/threat-intelligence/market-bargains-dark-web-novice-cybercriminals-quick-start"/>
-        <updated>2022-07-21T16:30:00.000Z</updated>
-        <summary type="html"><![CDATA[A study of the unregulated dark markets shows that the vast majority of malware, exploits, and attacker tools sell for less than $10, giving would-be criminals a fast entry point.]]></summary>
-        <author>
-            <name>Robert Lemos, Contributing Writer, Dark Reading</name>
         </author>
     </entry>
 </feed>
