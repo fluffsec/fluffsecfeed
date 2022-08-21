@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-08-21T03:17:59.829Z</updated>
+    <updated>2022-08-21T07:22:06.031Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
@@ -4478,68 +4478,6 @@ The trio of breaches has led to the theft of more than 50,000 payment card recor
         <summary type="html"><![CDATA[A hardcoded password associated with the Questions for Confluence app has been publicly released, which will likely lead to exploit attempts that give cyberattackers access to all Confluence content.]]></summary>
         <author>
             <name>Jai Vijayan, Contributing Writer, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SonicWall Issues Patch for Critical Bug Affecting its Analytics and GMS Products]]></title>
-        <id>tag:blogger.com,1999:blog-4802841478634147276.post-2297642232426241877</id>
-        <link href="https://thehackernews.com/2022/07/sonicwall-issues-patch-for-critical-bug.html"/>
-        <updated>2022-07-22T18:39:32.193Z</updated>
-        <summary type="html"><![CDATA[Network security company SonicWall on Friday rolled out fixes to mitigate a critical SQL injection (SQLi) vulnerability affecting its Analytics On-Prem and Global Management System (GMS) products.
-The vulnerability, tracked as CVE-2022-22280, is rated 9.4 for severity on the CVSS scoring system and stems from what the company describes is an "improper neutralization of special elements" used in]]></summary>
-        <author>
-            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft Resumes Blocking Office VBA Macros by Default After 'Temporary Pause']]></title>
-        <id>tag:blogger.com,1999:blog-4802841478634147276.post-2891165774815019434</id>
-        <link href="https://thehackernews.com/2022/07/microsoft-resumes-blocking-office-vba.html"/>
-        <updated>2022-07-22T18:27:30.282Z</updated>
-        <summary type="html"><![CDATA[Microsoft has officially resumed blocking Visual Basic for Applications (VBA) macros by default across Office apps, weeks after temporarily announcing plans to roll back the change.
-"Based on our review of customer feedback, we've made updates to both our end user and our IT admin documentation to make clearer what options you have for different scenarios," the company said in an update on July]]></summary>
-        <author>
-            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google Chrome Zero-Day Weaponized to Spy on Journalists]]></title>
-        <id>https://www.darkreading.com/attacks-breaches/google-chrome-0-day-weaponized-to-spy-on-journalists</id>
-        <link href="https://www.darkreading.com/attacks-breaches/google-chrome-0-day-weaponized-to-spy-on-journalists"/>
-        <updated>2022-07-22T18:02:01.000Z</updated>
-        <summary type="html"><![CDATA[Candiru attackers breached a news agency employee website to target journalists with DevilsTongue spyware, researchers say.]]></summary>
-        <author>
-            <name>Becky Bracken, Editor, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Snowballing Ransomware Variants Highlight Growing Threat to VMware ESXi Environments]]></title>
-        <id>https://www.darkreading.com/attacks-breaches/snowballing-ransomware-variants-highlight-growing-threat-to-vmware-esxi-environments</id>
-        <link href="https://www.darkreading.com/attacks-breaches/snowballing-ransomware-variants-highlight-growing-threat-to-vmware-esxi-environments"/>
-        <updated>2022-07-22T16:43:09.000Z</updated>
-        <summary type="html"><![CDATA[Luna, Black Basta add to rapidly growing list of malware tools targeted at virtual machines deployed on VMware's bare-metal hypervisor technology.]]></summary>
-        <author>
-            <name>Jai Vijayan, Contributing Writer, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Phishing Bonanza: Social-Engineering Savvy Skyrockets as Malicious Actors Cash In]]></title>
-        <id>https://www.darkreading.com/attacks-breaches/phishing-bonanza-social-engineering-skyrockets-malicious-actors-cash-in</id>
-        <link href="https://www.darkreading.com/attacks-breaches/phishing-bonanza-social-engineering-skyrockets-malicious-actors-cash-in"/>
-        <updated>2022-07-22T15:46:10.000Z</updated>
-        <summary type="html"><![CDATA[The ever-evolving threat from phishing is growing more sophisticated as attackers design high-pressure situations and leverage ever-more-convincing social engineering tactics to increase their success rates.]]></summary>
-        <author>
-            <name>Nathan Eddy, Contributing Writer, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Thales Expands Cybersecurity Portfolio With OneWelcome Acquisition]]></title>
-        <id>https://www.darkreading.com/omdia/thales-expands-cybersecurity-portfolio-with-onewelcome-acquisition</id>
-        <link href="https://www.darkreading.com/omdia/thales-expands-cybersecurity-portfolio-with-onewelcome-acquisition"/>
-        <updated>2022-07-22T15:28:22.000Z</updated>
-        <summary type="html"><![CDATA[With more staff working remotely, identity, authentication, and access have never been more important.]]></summary>
-        <author>
-            <name>Don Tait, Senior Analyst, Omdia</name>
         </author>
     </entry>
 </feed>
