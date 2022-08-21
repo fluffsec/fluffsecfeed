@@ -271,36 +271,6 @@
           "wordCount": 1084,
           "title": "Samba Releases Security Updates",
           "imageUrl": null
-        },
-        {
-          "id": "17825 at https://us-cert.cisa.gov",
-          "author": "CISA",
-          "description": "Original release date: July 22, 2022\nApple has released security updates to address vulnerabilities in multiple products. These updates address vulnerabilities attackers could exploit to take control of affected systems.\nCISA encourages users and administrators to review the Apple security updates and apply necessary releases.\nThis product is provided subject to this Notification and this Privacy & Use policy.",
-          "link": "https://us-cert.cisa.gov/ncas/current-activity/2022/07/22/apple-releases-security-updates-multiple-products",
-          "publishedOn": "2022-07-22T14:59:02.000Z",
-          "wordCount": 1067,
-          "title": "Apple Releases Security Updates for Multiple Products",
-          "imageUrl": null
-        },
-        {
-          "id": "17824 at https://us-cert.cisa.gov",
-          "author": "CISA",
-          "description": "Original release date: July 22, 2022\nCisco has released security updates to address vulnerabilities in multiple products. Some of these vulnerabilities could allow a remote attacker to execute take control of an affected system. For updates addressing lower severity vulnerabilities, see the Cisco Security Advisories page. \nCISA encourages users and administrators to review the Cisco advisories and apply the necessary updates.\nThis product is provided subject to this Notification and this Privacy & Use policy.",
-          "link": "https://us-cert.cisa.gov/ncas/current-activity/2022/07/22/cisco-releases-security-updates-multiple-products",
-          "publishedOn": "2022-07-22T14:48:28.000Z",
-          "wordCount": 1083,
-          "title": "Cisco Releases Security Updates for Multiple Products",
-          "imageUrl": null
-        },
-        {
-          "id": "17823 at https://us-cert.cisa.gov",
-          "author": "CISA",
-          "description": "Original release date: July 22, 2022\nAtlassian has released a security advisory to address a vulnerability (CVE-2022-26138) affecting Questions for Confluence App. An attacker could exploit this vulnerability to obtain sensitive information. Atlassian reports that the vulnerability is likely to be exploited in the wild.\nCISA encourages users and administrators to review Atlassian’s security advisory, Questions For Confluence Security Advisory 2022-07-20, and apply the necessary updates immediately. \nThis product is provided subject to this Notification and this Privacy & Use policy.",
-          "link": "https://us-cert.cisa.gov/ncas/current-activity/2022/07/22/atlassian-releases-security-advisory-questions-confluence-app-cve",
-          "publishedOn": "2022-07-22T14:39:50.000Z",
-          "wordCount": 1098,
-          "title": "Atlassian Releases Security Advisory for Questions for Confluence App, CVE-2022-26138",
-          "imageUrl": null
         }
       ]
     },
@@ -533,6 +503,21 @@
       "feedUrl": "https://www.darkreading.com/rss.xml",
       "siteUrl": "https://www.darkreading.com",
       "articles": [
+        {
+          "id": "https://www.darkreading.com/vulnerabilities-threats/deepsurface-adds-risk-based-approach-to-vulnerability-management",
+          "author": "Terry Sweeney, Contributing Editor",
+          "description": "DeepSurface’s Tim Morgan explains how network complexity and cloud computing have contributed to the challenge, and how automation can help.",
+          "link": "https://www.darkreading.com/vulnerabilities-threats/deepsurface-adds-risk-based-approach-to-vulnerability-management",
+          "publishedOn": "2022-08-20T19:28:29.000Z",
+          "wordCount": 8873,
+          "title": "DeepSurface Adds Risk-Based Approach to Vulnerability Management",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt73a307a92ef52195/60d43224467112384c711548/terry-sweeney.png",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt73a307a92ef52195/60d43224467112384c711548/terry-sweeney.png"
+        },
         {
           "id": "https://www.darkreading.com/attacks-breaches/the-heat-is-on-says-menlo-security",
           "author": "Terry Sweeney, Contributing Editor",
@@ -3222,21 +3207,6 @@
             "length": "0"
           },
           "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt62cab7382fbc3f7d/60d4475fa7307e39e4d4b784/Don-Tait.png"
-        },
-        {
-          "id": "https://www.darkreading.com/vulnerabilities-threats/what-firewalls-can-and-can-t-accomplish",
-          "author": "Pat McGarry, Chief Technology Officer, ThreatBlockr",
-          "description": "Understanding the limitations of firewalls is important to protecting the organization from evolving threats.",
-          "link": "https://www.darkreading.com/vulnerabilities-threats/what-firewalls-can-and-can-t-accomplish",
-          "publishedOn": "2022-07-22T14:00:00.000Z",
-          "wordCount": 12774,
-          "title": "What Firewalls Can — and Can't — Accomplish",
-          "enclosure": {
-            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt225dd57176088190/62d1bf48c37282791b4d54d0/ThreatBlockr_-_Pat_McGarry_(1).jpeg",
-            "type": "image/*",
-            "length": "0"
-          },
-          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt225dd57176088190/62d1bf48c37282791b4d54d0/ThreatBlockr_-_Pat_McGarry_(1).jpeg"
         }
       ]
     },

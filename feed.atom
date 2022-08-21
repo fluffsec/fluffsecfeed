@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-08-20T19:18:45.895Z</updated>
+    <updated>2022-08-21T03:17:59.829Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[DeepSurface Adds Risk-Based Approach to Vulnerability Management]]></title>
+        <id>https://www.darkreading.com/vulnerabilities-threats/deepsurface-adds-risk-based-approach-to-vulnerability-management</id>
+        <link href="https://www.darkreading.com/vulnerabilities-threats/deepsurface-adds-risk-based-approach-to-vulnerability-management"/>
+        <updated>2022-08-20T19:28:29.000Z</updated>
+        <summary type="html"><![CDATA[DeepSurface’s Tim Morgan explains how network complexity and cloud computing have contributed to the challenge, and how automation can help.]]></summary>
+        <author>
+            <name>Terry Sweeney, Contributing Editor</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[New Grandoreiro Banking Malware Campaign Targeting Spanish Manufacturers]]></title>
         <id>tag:blogger.com,1999:blog-4802841478634147276.post-5835936457638630395</id>
@@ -4530,55 +4540,6 @@ The vulnerability, tracked as CVE-2022-22280, is rated 9.4 for severity on the 
         <summary type="html"><![CDATA[With more staff working remotely, identity, authentication, and access have never been more important.]]></summary>
         <author>
             <name>Don Tait, Senior Analyst, Omdia</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Apple Releases Security Updates for Multiple Products]]></title>
-        <id>17825 at https://us-cert.cisa.gov</id>
-        <link href="https://us-cert.cisa.gov/ncas/current-activity/2022/07/22/apple-releases-security-updates-multiple-products"/>
-        <updated>2022-07-22T14:59:02.000Z</updated>
-        <summary type="html"><![CDATA[Original release date: July 22, 2022
-Apple has released security updates to address vulnerabilities in multiple products. These updates address vulnerabilities attackers could exploit to take control of affected systems.
-CISA encourages users and administrators to review the Apple security updates and apply necessary releases.
-This product is provided subject to this Notification and this Privacy & Use policy.]]></summary>
-        <author>
-            <name>CISA</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cisco Releases Security Updates for Multiple Products]]></title>
-        <id>17824 at https://us-cert.cisa.gov</id>
-        <link href="https://us-cert.cisa.gov/ncas/current-activity/2022/07/22/cisco-releases-security-updates-multiple-products"/>
-        <updated>2022-07-22T14:48:28.000Z</updated>
-        <summary type="html"><![CDATA[Original release date: July 22, 2022
-Cisco has released security updates to address vulnerabilities in multiple products. Some of these vulnerabilities could allow a remote attacker to execute take control of an affected system. For updates addressing lower severity vulnerabilities, see the Cisco Security Advisories page. 
-CISA encourages users and administrators to review the Cisco advisories and apply the necessary updates.
-This product is provided subject to this Notification and this Privacy & Use policy.]]></summary>
-        <author>
-            <name>CISA</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Atlassian Releases Security Advisory for Questions for Confluence App, CVE-2022-26138]]></title>
-        <id>17823 at https://us-cert.cisa.gov</id>
-        <link href="https://us-cert.cisa.gov/ncas/current-activity/2022/07/22/atlassian-releases-security-advisory-questions-confluence-app-cve"/>
-        <updated>2022-07-22T14:39:50.000Z</updated>
-        <summary type="html"><![CDATA[Original release date: July 22, 2022
-Atlassian has released a security advisory to address a vulnerability (CVE-2022-26138) affecting Questions for Confluence App. An attacker could exploit this vulnerability to obtain sensitive information. Atlassian reports that the vulnerability is likely to be exploited in the wild.
-CISA encourages users and administrators to review Atlassian’s security advisory, Questions For Confluence Security Advisory 2022-07-20, and apply the necessary updates immediately. 
-This product is provided subject to this Notification and this Privacy & Use policy.]]></summary>
-        <author>
-            <name>CISA</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What Firewalls Can — and Can't — Accomplish]]></title>
-        <id>https://www.darkreading.com/vulnerabilities-threats/what-firewalls-can-and-can-t-accomplish</id>
-        <link href="https://www.darkreading.com/vulnerabilities-threats/what-firewalls-can-and-can-t-accomplish"/>
-        <updated>2022-07-22T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Understanding the limitations of firewalls is important to protecting the organization from evolving threats.]]></summary>
-        <author>
-            <name>Pat McGarry, Chief Technology Officer, ThreatBlockr</name>
         </author>
     </entry>
 </feed>
