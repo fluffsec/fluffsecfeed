@@ -504,6 +504,36 @@
       "siteUrl": "https://www.darkreading.com",
       "articles": [
         {
+          "id": "https://www.darkreading.com/risk/how-qualys-reduces-risk-and-enables-tool-consolidation",
+          "author": "Terry Sweeney, Contributing Editor",
+          "description": "Sumedh Thakar, CEO of Qualys, explains how moving to a cloud-based asset management platform can simplify their strategies and improve overall security.",
+          "link": "https://www.darkreading.com/risk/how-qualys-reduces-risk-and-enables-tool-consolidation",
+          "publishedOn": "2022-08-22T13:30:00.000Z",
+          "wordCount": 8909,
+          "title": "How Qualys Reduces Risk and Enables Tool Consolidation",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt73a307a92ef52195/60d43224467112384c711548/terry-sweeney.png",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt73a307a92ef52195/60d43224467112384c711548/terry-sweeney.png"
+        },
+        {
+          "id": "https://www.darkreading.com/edge-articles/expiring-root-certificates-threaten-iot-in-the-enterprise",
+          "author": "Julianne Pepitone, Contributing Writer",
+          "description": "What happens when businesses' smart devices break? CSOs have things to fix beyond security holes.",
+          "link": "https://www.darkreading.com/edge-articles/expiring-root-certificates-threaten-iot-in-the-enterprise",
+          "publishedOn": "2022-08-22T12:00:00.000Z",
+          "wordCount": 13046,
+          "title": "Expiring Root Certificates Threaten IoT in the Enterprise",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltf7b90df7beef6296/6272a0f9a2ba2e13583be055/julianne-pepitone.jpg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltf7b90df7beef6296/6272a0f9a2ba2e13583be055/julianne-pepitone.jpg"
+        },
+        {
           "id": "https://www.darkreading.com/risk/mimecast-mitigating-risk-across-a-complex-threat-landscape",
           "author": "Terry Sweeney, Contributing Editor",
           "description": "Garret O’Hara of Mimecast discusses how companies can bolster security of their Microsoft 365 and Google Workspace environments, since cloud services often add complexity.",
@@ -592,6 +622,21 @@
             "length": "0"
           },
           "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt3b296baaaaccbc2a/61bbb7b4ac124d4b2e71583a/WriterDefault_vladwel_Adobe.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/edge/nist-weighs-in-on-ai-risk",
+          "author": "Edge Editors, Dark Reading",
+          "description": "NIST is developing the AI Risk Management Framework and a companion playbook to help organizations navigate algorithmic bias and risk.",
+          "link": "https://www.darkreading.com/edge/nist-weighs-in-on-ai-risk",
+          "publishedOn": "2022-08-20T00:00:00.000Z",
+          "wordCount": 10092,
+          "title": "NIST Weighs in on AI Risk",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltbeb30fde8ec73a32/60d4432c2446e93b5b5a0e0c/Edge-Editors.png",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltbeb30fde8ec73a32/60d4432c2446e93b5b5a0e0c/Edge-Editors.png"
         },
         {
           "id": "https://www.darkreading.com/vulnerabilities-threats/patch-apple-zero-days-exploited",
@@ -3290,13 +3335,44 @@
       "title": "Threats Archive - Field Effect Software Inc",
       "feedUrl": "https://fieldeffect.com/feed/?post_type=threats",
       "siteUrl": "https://fieldeffect.com/threats/",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://fieldeffect.com/?post_type=threats&p=6532",
+          "author": "Elena Lapina",
+          "description": "On 17 August, Apple issued an emergency security update for vulnerabilities affecting multiple devices, noting that they are already being exploited by threat actors. We recommend applying the latest updates as soon as possible.  Details  Apple released advisories on two critical vulnerabilities fixed as part of the August emergency updates. The flaws are as follows:  […]\nThe post Apple Issues August 2022 Out-of-band Security Update appeared first on Field Effect Software Inc.",
+          "link": "https://fieldeffect.com/threats/apple-issues-august-2022-out-of-band-security-update/",
+          "publishedOn": "2022-08-22T13:05:23.000Z",
+          "wordCount": 523,
+          "title": "Apple Issues August 2022 Out-of-band Security Update",
+          "imageUrl": "https://fieldeffect.com/wp-content/uploads/2020/05/Untitled-design-9.png"
+        }
+      ]
     },
     {
       "title": "KnowBe4 Security Awareness Training Blog",
       "feedUrl": "https://blog.knowbe4.com/rss.xml",
       "siteUrl": "https://blog.knowbe4.com",
       "articles": [
+        {
+          "id": "https://blog.knowbe4.com/on-this-carousell-ride-the-crooks-take-the-brass-ring",
+          "author": "Stu Sjouwerman",
+          "description": "In a variation on a recently seen theme in which scammers pose as buyers on e-commerce platforms, victims in Singapore are being taken in by people offering to buy goods from them.",
+          "link": "https://blog.knowbe4.com/on-this-carousell-ride-the-crooks-take-the-brass-ring",
+          "publishedOn": "2022-08-22T13:14:37.000Z",
+          "wordCount": 2032,
+          "title": "On this Carousell Ride, the Crooks Take the Brass Ring.",
+          "imageUrl": "https://blog.knowbe4.com/hubfs/Crooks%20Take%20the%20Brass%20Ring.jpg#keepProtocol"
+        },
+        {
+          "id": "https://blog.knowbe4.com/cybersecurity-awareness-month-2022-free-resource-kit",
+          "author": "Stu Sjouwerman",
+          "description": "Cybersecurity Awareness Month is right around the corner, and we’ve got you covered! Your complimentary resource kit for 2022 is now available.",
+          "link": "https://blog.knowbe4.com/cybersecurity-awareness-month-2022-free-resource-kit",
+          "publishedOn": "2022-08-22T11:30:00.000Z",
+          "wordCount": 2014,
+          "title": "[FREE RESOURCE KIT] Cybersecurity Awareness Month 2022 Now Available",
+          "imageUrl": "https://blog.knowbe4.com/hubfs/Cybersecurity%20Awareness%20Month%20Resource%20Kit%20KnowBe4.jpg#keepProtocol"
+        },
         {
           "id": "https://blog.knowbe4.com/whoa-ransomware-strains-almost-double-in-six-months-from-5400-to-10666",
           "author": "Stu Sjouwerman",
@@ -3834,6 +3910,28 @@
       "feedUrl": "https://thehackernews.com/feeds/posts/default",
       "siteUrl": "https://thehackernews.com/",
       "articles": [
+        {
+          "id": "tag:blogger.com,1999:blog-4802841478634147276.post-294821989794507638",
+          "author": "noreply@blogger.com (The Hacker News)",
+          "description": "Atlanta-based cyber risk intelligence company, Cyble discovered a new Remote Access Trojan (RAT) malware. What makes this particular RAT malware distinct enough to be named after the comic creation of Sacha Baron Cohen?\nRAT malware typically helps cybercriminals gain complete control of a victim's system, permitting them to access network resources, files, and power to toggle the mouse and",
+          "link": "https://thehackernews.com/2022/08/meet-borat-rat-new-unique-triple-threat.html",
+          "publishedOn": "2022-08-22T12:32:00.000Z",
+          "wordCount": null,
+          "title": "Meet Borat RAT, a New Unique Triple Threat",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "tag:blogger.com,1999:blog-4802841478634147276.post-8611034182749801619",
+          "author": "noreply@blogger.com (Ravie Lakshmanan)",
+          "description": "Researchers have disclosed multiple vulnerabilities impacting Ultra-wideband (UWB) Real-time Locating Systems (RTLS), enabling threat actors to launch adversary-in-the-middle (AitM) attacks and tamper with location data.\n\"The zero-days found specifically pose a security risk for workers in industrial environments,\" cybersecurity firm Nozomi Networks disclosed in a technical write-up last week. \"",
+          "link": "https://thehackernews.com/2022/08/rtls-systems-found-vulnerable-to-mitm.html",
+          "publishedOn": "2022-08-22T09:19:00.000Z",
+          "wordCount": null,
+          "title": "RTLS Systems Found Vulnerable to MiTM Attacks and Location Tampering",
+          "itunes": {},
+          "imageUrl": null
+        },
         {
           "id": "tag:blogger.com,1999:blog-4802841478634147276.post-4898443476731995733",
           "author": "noreply@blogger.com (Ravie Lakshmanan)",
