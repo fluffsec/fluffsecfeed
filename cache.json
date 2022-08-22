@@ -43,6 +43,26 @@
       "siteUrl": "https://us-cert.cisa.gov/",
       "articles": [
         {
+          "id": "17900 at https://us-cert.cisa.gov",
+          "author": "CISA",
+          "description": "Original release date: August 22, 2022\nCISA and the Multi-State Information Sharing & Analysis Center (MS-ISAC) have updated joint Cybersecurity Advisory AA22-228A: Threat Actors Exploiting Multiple CVEs Against Zimbra Collaboration Suite, originally released August 16, 2022. The advisory has been updated to include additional detection signatures.\nCISA encourages organizations to review the latest update to AA22-228A and apply the recommended mitigations.\nThis product is provided subject to this Notification and this Privacy & Use policy.",
+          "link": "https://us-cert.cisa.gov/ncas/current-activity/2022/08/22/cisa-updates-advisory-threat-actors-exploiting-multiple-cves",
+          "publishedOn": "2022-08-22T14:59:20.000Z",
+          "wordCount": 1068,
+          "title": "CISA Updates Advisory on Threat Actors Exploiting Multiple CVEs Against Zimbra Collaboration Suite",
+          "imageUrl": null
+        },
+        {
+          "id": "17901 at https://us-cert.cisa.gov",
+          "author": "CISA",
+          "description": "Original release date: August 22, 2022\nCISA has added a new vulnerability to its Known Exploited Vulnerabilities Catalog, based on evidence of active exploitation. These types of vulnerabilities are a frequent attack vector for malicious cyber actors and pose significant risk to the federal enterprise. Note: to view the newly added vulnerabilities in the catalog, click on the arrow in the \"Date Added to Catalog\" column, which will sort by descending dates.    \nBinding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the Known Exploited Vulnerabilities Catalog as a living list of known CVEs that carry significant risk to the federal enterprise. BOD 22-01 requires FCEB agencies to remediate identified vulnerabilities by the due date to protect FCEB networks against active threats. See the BOD 22-01 Fact Sheet for more information.     \nAlthough BOD 22-01 only applies to FCEB agencies, CISA strongly urges all organizations to reduce their exposure to cyberattacks by prioritizing timely remediation of Catalog vulnerabilities as part of their vulnerability management practice. CISA will continue to add vulnerabilities to the Catalog that meet the specified criteria.    \nThis product is provided subject to this Notification and this Privacy & Use policy.",
+          "link": "https://us-cert.cisa.gov/ncas/current-activity/2022/08/22/cisa-adds-one-known-exploited-vulnerabilities-catalog",
+          "publishedOn": "2022-08-22T14:51:30.000Z",
+          "wordCount": 1174,
+          "title": "CISA Adds One Known Exploited Vulnerabilities to Catalog",
+          "imageUrl": null
+        },
+        {
           "id": "17893 at https://us-cert.cisa.gov",
           "author": "CISA",
           "description": "Original release date: August 18, 2022\nCISA has released 5 Industrial Control Systems (ICS) advisories on August 18, 2022. These advisories provide timely information about current security issues, vulnerabilities, and exploits surrounding ICS.\nCISA encourages users and administrators to review the newly released ICS advisories for technical details and mitigations:\nICSA-22-172-01 Mitsubishi Electric MELSEC iQ-R, Q, and L Series CPU Module and MELIPC Series (Update A)\nICSA-22-167-14 Siemens OpenSSL Affected Industrial Products (Update B)\nICSA-22-221-01 Mitsubishi Electric Multiple Factory Automation Products (Update A)\nICSA-21-131-03 Siemens Linux Based Products (Update J)\nICSA-21-194-07 Siemens Industrial Products LLDP (Update D)\nThis product is provided subject to this Notification and this Privacy & Use policy.",
@@ -320,6 +340,16 @@
       "siteUrl": "https://threatpost.com",
       "articles": [
         {
+          "id": "https://kasperskycontenthub.com/threatpost-global/?p=180462",
+          "author": "Nate Nelson",
+          "description": "Fake travel reservations are exacting more pain from the travel weary, already dealing with the misery of canceled flights and overbooked hotels.",
+          "link": "https://threatpost.com/reservation-links-prey-on-travelers/180462/",
+          "publishedOn": "2022-08-22T13:59:06.000Z",
+          "wordCount": 2080,
+          "title": "Fake Reservation Links Prey on Weary Travelers",
+          "imageUrl": "https://media.kasperskycontenthub.com/wp-content/uploads/sites/103/2018/05/02171204/traveling-1.jpg"
+        },
+        {
           "id": "https://kasperskycontenthub.com/threatpost-global/?p=180432",
           "author": "Elizabeth Montalbano",
           "description": "An insufficient validation input flaw, one of 11 patched in an update this week, could allow for arbitrary code execution and is under active attack.",
@@ -503,6 +533,111 @@
       "feedUrl": "https://www.darkreading.com/rss.xml",
       "siteUrl": "https://www.darkreading.com",
       "articles": [
+        {
+          "id": "https://www.darkreading.com/endpoint/inquest-adding-file-detection-and-response-to-the-security-arsenal",
+          "author": "Terry Sweeney, Contributing Editor",
+          "description": "InQuest’s Pedram Amini takes a deep dive into file detection and response as a way to prevent file-borne attacks.",
+          "link": "https://www.darkreading.com/endpoint/inquest-adding-file-detection-and-response-to-the-security-arsenal",
+          "publishedOn": "2022-08-22T18:31:29.000Z",
+          "wordCount": 9137,
+          "title": "InQuest: Adding File Detection and Response to the Security Arsenal",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt73a307a92ef52195/60d43224467112384c711548/terry-sweeney.png",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt73a307a92ef52195/60d43224467112384c711548/terry-sweeney.png"
+        },
+        {
+          "id": "https://www.darkreading.com/application-security/secureworks-how-to-distinguish-hype-from-reality-with-ai-in-secops",
+          "author": "Terry Sweeney, Contributing Editor",
+          "description": "Secureworks’ Nash Borges describes how his team has applied AI and ML to threat detection.",
+          "link": "https://www.darkreading.com/application-security/secureworks-how-to-distinguish-hype-from-reality-with-ai-in-secops",
+          "publishedOn": "2022-08-22T17:31:29.000Z",
+          "wordCount": 8933,
+          "title": "Secureworks: How To Distinguish Hype From Reality With AI in SecOps",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt73a307a92ef52195/60d43224467112384c711548/terry-sweeney.png",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt73a307a92ef52195/60d43224467112384c711548/terry-sweeney.png"
+        },
+        {
+          "id": "https://www.darkreading.com/cloud/new-bianlian-ransomware-variant-on-the-rise",
+          "author": "Elizabeth Montalbano, Contributor, Dark Reading",
+          "description": "Novel ransomware was created with the Go open source programming language, demonstrating how malware authors increasingly are opting to employ the flexible coding language.",
+          "link": "https://www.darkreading.com/cloud/new-bianlian-ransomware-variant-on-the-rise",
+          "publishedOn": "2022-08-22T16:32:52.000Z",
+          "wordCount": 11125,
+          "title": "New 'BianLian' Ransomware Variant on the Rise",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltbfd004d139d42d70/6303bca6236c2476a257760e/ElizabethMontalbano.jpg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltbfd004d139d42d70/6303bca6236c2476a257760e/ElizabethMontalbano.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/endpoint/tanium-taking-a-deeper-cut-at-converged-endpoint-management",
+          "author": "Terry Sweeney, Contributing Editor",
+          "description": "Tanium’s Chris Hollenbeck explains how converged endpoint management helps overcome obstacles to endpoint visibility.",
+          "link": "https://www.darkreading.com/endpoint/tanium-taking-a-deeper-cut-at-converged-endpoint-management",
+          "publishedOn": "2022-08-22T16:31:29.000Z",
+          "wordCount": 8990,
+          "title": "Tanium: Taking A Deeper Cut At Converged Endpoint Management",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt73a307a92ef52195/60d43224467112384c711548/terry-sweeney.png",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt73a307a92ef52195/60d43224467112384c711548/terry-sweeney.png"
+        },
+        {
+          "id": "https://www.darkreading.com/cloud/pentera-helps-enterprises-reduce-their-security-exposure",
+          "author": "Terry Sweeney, Contributing Editor",
+          "description": "Pentera’s Omer Zucker outlines exposure management’s biggest challenges in closing security gaps.",
+          "link": "https://www.darkreading.com/cloud/pentera-helps-enterprises-reduce-their-security-exposure",
+          "publishedOn": "2022-08-22T15:31:29.000Z",
+          "wordCount": 9076,
+          "title": "Pentera Helps Enterprises Reduce Their Security Exposure",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt73a307a92ef52195/60d43224467112384c711548/terry-sweeney.png",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt73a307a92ef52195/60d43224467112384c711548/terry-sweeney.png"
+        },
+        {
+          "id": "https://www.darkreading.com/threat-intelligence/cisco-all-intelligence-is-not-created-equal",
+          "author": "Terry Sweeney, Contributing Editor",
+          "description": "Threat intel has changed over the years and that’s changed how customers use it, says Matt Olney, director of Talos threat intelligence and interdiction at Cisco.",
+          "link": "https://www.darkreading.com/threat-intelligence/cisco-all-intelligence-is-not-created-equal",
+          "publishedOn": "2022-08-22T14:31:29.000Z",
+          "wordCount": 9197,
+          "title": "Cisco: All Intelligence is Not Created Equal",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt73a307a92ef52195/60d43224467112384c711548/terry-sweeney.png",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt73a307a92ef52195/60d43224467112384c711548/terry-sweeney.png"
+        },
+        {
+          "id": "https://www.darkreading.com/operations/identity-security-pain-points-and-what-can-be-done",
+          "author": "Clayton Donley, Vice President and General Manager, Identity Management Security Division, Broadcom",
+          "description": "Replacing passwords is not as easy as people think, but there is hope.",
+          "link": "https://www.darkreading.com/operations/identity-security-pain-points-and-what-can-be-done",
+          "publishedOn": "2022-08-22T14:00:00.000Z",
+          "wordCount": 11901,
+          "title": "Identity Security Pain Points and What Can Be Done",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt0956d618f27ce5d6/62ffdce4cf56ce495e554ecf/Clayton_Donley_Broadcom.jpeg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt0956d618f27ce5d6/62ffdce4cf56ce495e554ecf/Clayton_Donley_Broadcom.jpeg"
+        },
         {
           "id": "https://www.darkreading.com/risk/how-qualys-reduces-risk-and-enables-tool-consolidation",
           "author": "Terry Sweeney, Contributing Editor",
@@ -3910,6 +4045,28 @@
       "feedUrl": "https://thehackernews.com/feeds/posts/default",
       "siteUrl": "https://thehackernews.com/",
       "articles": [
+        {
+          "id": "tag:blogger.com,1999:blog-4802841478634147276.post-790755140858462973",
+          "author": "noreply@blogger.com (Ravie Lakshmanan)",
+          "description": "Budget Android device models that are counterfeit versions associated with popular smartphone brands are harboring multiple trojans designed to target WhatsApp and WhatsApp Business messaging apps.\nThe trojans, which Doctor Web first came across in July 2022, were discovered in the system partition of at least four different smartphones: P48pro, radmi note 8, Note30u, and Mate40, was \n\"These",
+          "link": "https://thehackernews.com/2022/08/researchers-find-counterfeit-phones.html",
+          "publishedOn": "2022-08-22T14:28:00.000Z",
+          "wordCount": null,
+          "title": "Researchers Find Counterfeit Phones with Backdoor to Hack WhatsApp Accounts",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "tag:blogger.com,1999:blog-4802841478634147276.post-3129621064278273775",
+          "author": "noreply@blogger.com (Ravie Lakshmanan)",
+          "description": "Details of an eight-year-old security vulnerability in the Linux kernel have emerged that the researchers say is \"as nasty as Dirty Pipe.\"\nDubbed DirtyCred by a group of academics from Northwestern University, the security weakness exploits a previously unknown flaw (CVE-2022-2588) to escalate privileges to the maximum level.\n\"DirtyCred is a kernel exploitation concept that swaps unprivileged",
+          "link": "https://thehackernews.com/2022/08/as-nasty-as-dirty-pipe-8-year-old-linux.html",
+          "publishedOn": "2022-08-22T13:05:00.000Z",
+          "wordCount": null,
+          "title": "\"As Nasty as Dirty Pipe\" — 8 Year Old Linux Kernel Vulnerability Uncovered",
+          "itunes": {},
+          "imageUrl": null
+        },
         {
           "id": "tag:blogger.com,1999:blog-4802841478634147276.post-294821989794507638",
           "author": "noreply@blogger.com (The Hacker News)",

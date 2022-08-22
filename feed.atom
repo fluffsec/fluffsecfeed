@@ -2,10 +2,129 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-08-22T13:45:32.533Z</updated>
+    <updated>2022-08-22T19:20:00.474Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[InQuest: Adding File Detection and Response to the Security Arsenal]]></title>
+        <id>https://www.darkreading.com/endpoint/inquest-adding-file-detection-and-response-to-the-security-arsenal</id>
+        <link href="https://www.darkreading.com/endpoint/inquest-adding-file-detection-and-response-to-the-security-arsenal"/>
+        <updated>2022-08-22T18:31:29.000Z</updated>
+        <summary type="html"><![CDATA[InQuest’s Pedram Amini takes a deep dive into file detection and response as a way to prevent file-borne attacks.]]></summary>
+        <author>
+            <name>Terry Sweeney, Contributing Editor</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Secureworks: How To Distinguish Hype From Reality With AI in SecOps]]></title>
+        <id>https://www.darkreading.com/application-security/secureworks-how-to-distinguish-hype-from-reality-with-ai-in-secops</id>
+        <link href="https://www.darkreading.com/application-security/secureworks-how-to-distinguish-hype-from-reality-with-ai-in-secops"/>
+        <updated>2022-08-22T17:31:29.000Z</updated>
+        <summary type="html"><![CDATA[Secureworks’ Nash Borges describes how his team has applied AI and ML to threat detection.]]></summary>
+        <author>
+            <name>Terry Sweeney, Contributing Editor</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New 'BianLian' Ransomware Variant on the Rise]]></title>
+        <id>https://www.darkreading.com/cloud/new-bianlian-ransomware-variant-on-the-rise</id>
+        <link href="https://www.darkreading.com/cloud/new-bianlian-ransomware-variant-on-the-rise"/>
+        <updated>2022-08-22T16:32:52.000Z</updated>
+        <summary type="html"><![CDATA[Novel ransomware was created with the Go open source programming language, demonstrating how malware authors increasingly are opting to employ the flexible coding language.]]></summary>
+        <author>
+            <name>Elizabeth Montalbano, Contributor, Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tanium: Taking A Deeper Cut At Converged Endpoint Management]]></title>
+        <id>https://www.darkreading.com/endpoint/tanium-taking-a-deeper-cut-at-converged-endpoint-management</id>
+        <link href="https://www.darkreading.com/endpoint/tanium-taking-a-deeper-cut-at-converged-endpoint-management"/>
+        <updated>2022-08-22T16:31:29.000Z</updated>
+        <summary type="html"><![CDATA[Tanium’s Chris Hollenbeck explains how converged endpoint management helps overcome obstacles to endpoint visibility.]]></summary>
+        <author>
+            <name>Terry Sweeney, Contributing Editor</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pentera Helps Enterprises Reduce Their Security Exposure]]></title>
+        <id>https://www.darkreading.com/cloud/pentera-helps-enterprises-reduce-their-security-exposure</id>
+        <link href="https://www.darkreading.com/cloud/pentera-helps-enterprises-reduce-their-security-exposure"/>
+        <updated>2022-08-22T15:31:29.000Z</updated>
+        <summary type="html"><![CDATA[Pentera’s Omer Zucker outlines exposure management’s biggest challenges in closing security gaps.]]></summary>
+        <author>
+            <name>Terry Sweeney, Contributing Editor</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CISA Updates Advisory on Threat Actors Exploiting Multiple CVEs Against Zimbra Collaboration Suite]]></title>
+        <id>17900 at https://us-cert.cisa.gov</id>
+        <link href="https://us-cert.cisa.gov/ncas/current-activity/2022/08/22/cisa-updates-advisory-threat-actors-exploiting-multiple-cves"/>
+        <updated>2022-08-22T14:59:20.000Z</updated>
+        <summary type="html"><![CDATA[Original release date: August 22, 2022
+CISA and the Multi-State Information Sharing & Analysis Center (MS-ISAC) have updated joint Cybersecurity Advisory AA22-228A: Threat Actors Exploiting Multiple CVEs Against Zimbra Collaboration Suite, originally released August 16, 2022. The advisory has been updated to include additional detection signatures.
+CISA encourages organizations to review the latest update to AA22-228A and apply the recommended mitigations.
+This product is provided subject to this Notification and this Privacy & Use policy.]]></summary>
+        <author>
+            <name>CISA</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CISA Adds One Known Exploited Vulnerabilities to Catalog]]></title>
+        <id>17901 at https://us-cert.cisa.gov</id>
+        <link href="https://us-cert.cisa.gov/ncas/current-activity/2022/08/22/cisa-adds-one-known-exploited-vulnerabilities-catalog"/>
+        <updated>2022-08-22T14:51:30.000Z</updated>
+        <summary type="html"><![CDATA[Original release date: August 22, 2022
+CISA has added a new vulnerability to its Known Exploited Vulnerabilities Catalog, based on evidence of active exploitation. These types of vulnerabilities are a frequent attack vector for malicious cyber actors and pose significant risk to the federal enterprise. Note: to view the newly added vulnerabilities in the catalog, click on the arrow in the "Date Added to Catalog" column, which will sort by descending dates.    
+Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the Known Exploited Vulnerabilities Catalog as a living list of known CVEs that carry significant risk to the federal enterprise. BOD 22-01 requires FCEB agencies to remediate identified vulnerabilities by the due date to protect FCEB networks against active threats. See the BOD 22-01 Fact Sheet for more information.     
+Although BOD 22-01 only applies to FCEB agencies, CISA strongly urges all organizations to reduce their exposure to cyberattacks by prioritizing timely remediation of Catalog vulnerabilities as part of their vulnerability management practice. CISA will continue to add vulnerabilities to the Catalog that meet the specified criteria.    
+This product is provided subject to this Notification and this Privacy & Use policy.]]></summary>
+        <author>
+            <name>CISA</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cisco: All Intelligence is Not Created Equal]]></title>
+        <id>https://www.darkreading.com/threat-intelligence/cisco-all-intelligence-is-not-created-equal</id>
+        <link href="https://www.darkreading.com/threat-intelligence/cisco-all-intelligence-is-not-created-equal"/>
+        <updated>2022-08-22T14:31:29.000Z</updated>
+        <summary type="html"><![CDATA[Threat intel has changed over the years and that’s changed how customers use it, says Matt Olney, director of Talos threat intelligence and interdiction at Cisco.]]></summary>
+        <author>
+            <name>Terry Sweeney, Contributing Editor</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Researchers Find Counterfeit Phones with Backdoor to Hack WhatsApp Accounts]]></title>
+        <id>tag:blogger.com,1999:blog-4802841478634147276.post-790755140858462973</id>
+        <link href="https://thehackernews.com/2022/08/researchers-find-counterfeit-phones.html"/>
+        <updated>2022-08-22T14:28:00.000Z</updated>
+        <summary type="html"><![CDATA[Budget Android device models that are counterfeit versions associated with popular smartphone brands are harboring multiple trojans designed to target WhatsApp and WhatsApp Business messaging apps.
+The trojans, which Doctor Web first came across in July 2022, were discovered in the system partition of at least four different smartphones: P48pro, radmi note 8, Note30u, and Mate40, was 
+"These]]></summary>
+        <author>
+            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Identity Security Pain Points and What Can Be Done]]></title>
+        <id>https://www.darkreading.com/operations/identity-security-pain-points-and-what-can-be-done</id>
+        <link href="https://www.darkreading.com/operations/identity-security-pain-points-and-what-can-be-done"/>
+        <updated>2022-08-22T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Replacing passwords is not as easy as people think, but there is hope.]]></summary>
+        <author>
+            <name>Clayton Donley, Vice President and General Manager, Identity Management Security Division, Broadcom</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fake Reservation Links Prey on Weary Travelers]]></title>
+        <id>https://kasperskycontenthub.com/threatpost-global/?p=180462</id>
+        <link href="https://threatpost.com/reservation-links-prey-on-travelers/180462/"/>
+        <updated>2022-08-22T13:59:06.000Z</updated>
+        <summary type="html"><![CDATA[Fake travel reservations are exacting more pain from the travel weary, already dealing with the misery of canceled flights and overbooked hotels.]]></summary>
+        <author>
+            <name>Nate Nelson</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How Qualys Reduces Risk and Enables Tool Consolidation]]></title>
         <id>https://www.darkreading.com/risk/how-qualys-reduces-risk-and-enables-tool-consolidation</id>
@@ -35,6 +154,18 @@
 The post Apple Issues August 2022 Out-of-band Security Update appeared first on Field Effect Software Inc.]]></summary>
         <author>
             <name>Elena Lapina</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["As Nasty as Dirty Pipe" — 8 Year Old Linux Kernel Vulnerability Uncovered]]></title>
+        <id>tag:blogger.com,1999:blog-4802841478634147276.post-3129621064278273775</id>
+        <link href="https://thehackernews.com/2022/08/as-nasty-as-dirty-pipe-8-year-old-linux.html"/>
+        <updated>2022-08-22T13:05:00.000Z</updated>
+        <summary type="html"><![CDATA[Details of an eight-year-old security vulnerability in the Linux kernel have emerged that the researchers say is "as nasty as Dirty Pipe."
+Dubbed DirtyCred by a group of academics from Northwestern University, the security weakness exploits a previously unknown flaw (CVE-2022-2588) to escalate privileges to the maximum level.
+"DirtyCred is a kernel exploitation concept that swaps unprivileged]]></summary>
+        <author>
+            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
         </author>
     </entry>
     <entry>
