@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-08-23T03:39:20.070Z</updated>
+    <updated>2022-08-23T07:27:08.781Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[New Air-Gap Attack Uses MEMS Gyroscope Ultrasonic Covert Channel to Leak Data]]></title>
+        <id>tag:blogger.com,1999:blog-4802841478634147276.post-4090466111333094456</id>
+        <link href="https://thehackernews.com/2022/08/new-air-gap-attack-uses-mems-gyroscope.html"/>
+        <updated>2022-08-23T04:23:00.000Z</updated>
+        <summary type="html"><![CDATA[A novel data exfiltration technique has been found to leverage a covert ultrasonic channel to leak sensitive information from isolated, air-gapped computers to a nearby smartphone that doesn't even require a microphone to pick up the sound waves.
+Dubbed GAIROSCOPE, the adversarial model is the latest addition to a long list of acoustic, electromagnetic, optical, and thermal approaches devised by]]></summary>
+        <author>
+            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CISA Warns of Active Exploitation of Palo Alto Networks' PAN-OS Vulnerability]]></title>
         <id>tag:blogger.com,1999:blog-4802841478634147276.post-8766958436561479746</id>
