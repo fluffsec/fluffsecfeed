@@ -43,6 +43,16 @@
       "siteUrl": "https://us-cert.cisa.gov/",
       "articles": [
         {
+          "id": "17902 at https://us-cert.cisa.gov",
+          "author": "CISA",
+          "description": "Original release date: August 22, 2022 | Last revised: August 23, 2022\nCISA has released 7 Industrial Control Systems (ICS) advisories on August 23, 2022. These advisories provide timely information about current security issues, vulnerabilities, and exploits surrounding ICS.\nCISA encourages users and administrators to review the newly released ICS advisories for technical details and mitigations:\nICSA-22-235-01 ARC Informatique PcVue\nICSA-22-235-02 Delta Industrial Automation DIALink\nICSA-22-235-03 myScada Pro\nICSA-22-235-05 Measuresoft ScadaPro Server\nICSA-22-235-06 Measuresoft ScadaPro Server and Client\nICSA-22-235-07 Hitachi Energy RTU500\nICSA-22-153-02 Illumina Local Run Manager (Update A)\nThis product is provided subject to this Notification and this Privacy & Use policy.",
+          "link": "https://us-cert.cisa.gov/ncas/current-activity/2022/08/22/cisa-releases-7-industrial-control-systems-advisories",
+          "publishedOn": "2022-08-22T15:00:00.000Z",
+          "wordCount": 1078,
+          "title": "CISA releases 7 Industrial Control Systems Advisories",
+          "imageUrl": null
+        },
+        {
           "id": "17900 at https://us-cert.cisa.gov",
           "author": "CISA",
           "description": "Original release date: August 22, 2022\nCISA and the Multi-State Information Sharing & Analysis Center (MS-ISAC) have updated joint Cybersecurity Advisory AA22-228A: Threat Actors Exploiting Multiple CVEs Against Zimbra Collaboration Suite, originally released August 16, 2022. The advisory has been updated to include additional detection signatures.\nCISA encourages organizations to review the latest update to AA22-228A and apply the recommended mitigations.\nThis product is provided subject to this Notification and this Privacy & Use policy.",
@@ -553,6 +563,96 @@
       "feedUrl": "https://www.darkreading.com/rss.xml",
       "siteUrl": "https://www.darkreading.com",
       "articles": [
+        {
+          "id": "https://www.darkreading.com/cloud/mudge-blows-whistle-alleged-twitter-security-nightmare",
+          "author": "Tara Seals, Managing Editor, News, Dark Reading",
+          "description": "Lawmakers and cybersecurity insiders are reacting to a bombshell report from former Twitter security head Mudge Zatko, alleging reckless security lapses that could be exploited by foreign adversaries.",
+          "link": "https://www.darkreading.com/cloud/mudge-blows-whistle-alleged-twitter-security-nightmare",
+          "publishedOn": "2022-08-23T17:44:14.000Z",
+          "wordCount": 13638,
+          "title": "Mudge Blows Whistle on Alleged Twitter Security Nightmare",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltea67136f81f32eca/626a9eb4726e3315b16b3c64/Tara-Seals-Headshot2.jpg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltea67136f81f32eca/626a9eb4726e3315b16b3c64/Tara-Seals-Headshot2.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/risk/proofpoint-introduces-a-smarter-way-to-stay-compliant-with-new-intelligent-compliance-platform",
+          "author": null,
+          "description": "Integrated solution offers enterprises modern regulatory compliance safeguards while simplifying corporate legal protection practices.",
+          "link": "https://www.darkreading.com/risk/proofpoint-introduces-a-smarter-way-to-stay-compliant-with-new-intelligent-compliance-platform",
+          "publishedOn": "2022-08-23T17:04:29.000Z",
+          "wordCount": 12513,
+          "title": "Proofpoint Introduces a Smarter Way to Stay Compliant with New Intelligent Compliance Platform",
+          "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/cloud/facing-the-new-security-challenges-that-come-with-cloud",
+          "author": "Joseph Carson, Chief Security Scientist, Advisory CISO, Delinea",
+          "description": "Organizations relying on multicloud or hybrid-cloud environments without ﻿a true understanding of their security vulnerabilities do so at their peril.",
+          "link": "https://www.darkreading.com/cloud/facing-the-new-security-challenges-that-come-with-cloud",
+          "publishedOn": "2022-08-23T17:00:00.000Z",
+          "wordCount": 11424,
+          "title": "Facing the New Security Challenges That Come With Cloud",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blted2f555e493aef7b/62eb11d34ec9fe660e804f65/J_Carson.png",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blted2f555e493aef7b/62eb11d34ec9fe660e804f65/J_Carson.png"
+        },
+        {
+          "id": "https://www.darkreading.com/vulnerabilities-threats/secure-code-warrior-spotlights-the-importance-of-developer-security-skills-with-2nd-annual-devlympics-competition",
+          "author": null,
+          "description": "The global secure coding competition will be held In October, during Cybersecurity Awareness Month.",
+          "link": "https://www.darkreading.com/vulnerabilities-threats/secure-code-warrior-spotlights-the-importance-of-developer-security-skills-with-2nd-annual-devlympics-competition",
+          "publishedOn": "2022-08-23T16:50:56.000Z",
+          "wordCount": 11073,
+          "title": "Secure Code Warrior Spotlights the Importance of Developer Security Skills with 2nd Annual Devlympics Competition",
+          "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/application-security/one-third-pypi-packages-mistakenly-flagged-malicious",
+          "author": "Robert Lemos, Contributing Writer, Dark Reading",
+          "description": "The scans used by the Python Package Index (PyPI) to find malware fail to catch 41% of bad packages, while creating plentiful false positives.",
+          "link": "https://www.darkreading.com/application-security/one-third-pypi-packages-mistakenly-flagged-malicious",
+          "publishedOn": "2022-08-23T16:15:00.000Z",
+          "wordCount": 12699,
+          "title": "One-Third of Popular PyPI Packages Mistakenly Flagged as Malicious",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt58481326324d6911/60b1e9a55d34de550780a990/Robert-Lemos.png",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt58481326324d6911/60b1e9a55d34de550780a990/Robert-Lemos.png"
+        },
+        {
+          "id": "https://www.darkreading.com/risk/coalfire-federal-among-first-authorized-to-conduct-cmmc-assessments",
+          "author": null,
+          "description": "Company fortifies its ability to help organizations prepare and obtain CMMC certification.",
+          "link": "https://www.darkreading.com/risk/coalfire-federal-among-first-authorized-to-conduct-cmmc-assessments",
+          "publishedOn": "2022-08-23T15:30:21.000Z",
+          "wordCount": 10556,
+          "title": "Coalfire Federal Among First Authorized to Conduct CMMC Assessments",
+          "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/attacks-breaches/apathy-is-your-company-s-biggest-cybersecurity-vulnerability-here-s-how-to-combat-it",
+          "author": "Kim Burton, Head of Trust and Compliance, Tessian",
+          "description": "Make security training more engaging to build a strong cybersecurity culture. Here are four steps security and IT leaders can take to avoid the security disconnect.",
+          "link": "https://www.darkreading.com/attacks-breaches/apathy-is-your-company-s-biggest-cybersecurity-vulnerability-here-s-how-to-combat-it",
+          "publishedOn": "2022-08-23T14:00:00.000Z",
+          "wordCount": 13265,
+          "title": "Apathy Is Your Company's Biggest Cybersecurity Vulnerability — Here's How to Combat It",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltd17e0ca81427ebc8/6302591e82bc3e486fd8f76a/[Marketing][Summit][2021-11]_Kim-Burton.png",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltd17e0ca81427ebc8/6302591e82bc3e486fd8f76a/[Marketing][Summit][2021-11]_Kim-Burton.png"
+        },
         {
           "id": "https://www.darkreading.com/edge/meta-takes-offensive-posture-with-privacy-red-team",
           "author": "Jeffrey Schwartz, Contributing Writer, Dark Reading",
@@ -3604,6 +3704,16 @@
       "siteUrl": "https://blog.knowbe4.com",
       "articles": [
         {
+          "id": "https://blog.knowbe4.com/vishing-is-a-rising-threat-to-the-enterprise",
+          "author": "Stu Sjouwerman",
+          "description": "Most of us are all too familiar with vishing, the scam voice calls that offer to erase your credit card debt, to extend your automobile warranty, to get you to donate to that worthy cause you’ve probably never heard of, to qualify for insurance you never knew you could qualify for, and so one. They’re a tiresome version of the old snake-oil come-on to a con game, and everyone would like to think they’re immune.",
+          "link": "https://blog.knowbe4.com/vishing-is-a-rising-threat-to-the-enterprise",
+          "publishedOn": "2022-08-23T14:05:48.000Z",
+          "wordCount": 2367,
+          "title": "Vishing is a Rising Threat to the Enterprise",
+          "imageUrl": "https://blog.knowbe4.com/hubfs/Vishing%20is%20Rising%20Threat.jpg#keepProtocol"
+        },
+        {
           "id": "https://blog.knowbe4.com/cyberheistnews-vol-12-34-eye-opener-the-cisco-hack-was-caused-by-initial-access-broker-phishing",
           "author": "Stu Sjouwerman",
           "description": "CyberheistNews Vol 12 #34 [Eye Opener] The Cisco Hack Was Caused by Initial Access Broker Phishing",
@@ -4170,6 +4280,28 @@
       "feedUrl": "https://thehackernews.com/feeds/posts/default",
       "siteUrl": "https://thehackernews.com/",
       "articles": [
+        {
+          "id": "tag:blogger.com,1999:blog-4802841478634147276.post-883097128771958443",
+          "author": "noreply@blogger.com (Ravie Lakshmanan)",
+          "description": "The Iranian government-backed actor known as Charming Kitten has added a new tool to its malware arsenal that allows it to retrieve user data from Gmail, Yahoo!, and Microsoft Outlook accounts.\nDubbed HYPERSCRAPE by Google Threat Analysis Group (TAG), the actively in-development malicious software is said to have been used against less than two dozen accounts in Iran, with the oldest known",
+          "link": "https://thehackernews.com/2022/08/google-uncovers-tool-used-by-iranian.html",
+          "publishedOn": "2022-08-23T14:50:00.000Z",
+          "wordCount": null,
+          "title": "Google Uncovers Tool Used by Iranian Hackers to Steal Data from Email Accounts",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "tag:blogger.com,1999:blog-4802841478634147276.post-5504740729615812287",
+          "author": "noreply@blogger.com (Ravie Lakshmanan)",
+          "description": "The operators of the XCSSET macOS malware have upped the stakes by making iterative improvements that add support for macOS Monterey by upgrading its source code components to Python 3.\n\"The malware authors have changed from hiding the primary executable in a fake Xcode.app in the initial versions in 2020 to a fake Mail.app in 2021 and now to a fake Notes.app in 2022,\" SentinelOne researchers",
+          "link": "https://thehackernews.com/2022/08/xcsset-malware-updates-with-python-3-to.html",
+          "publishedOn": "2022-08-23T13:46:00.000Z",
+          "wordCount": null,
+          "title": "XCSSET Malware Updates with Python 3 to Target macOS Monterey Users",
+          "itunes": {},
+          "imageUrl": null
+        },
         {
           "id": "tag:blogger.com,1999:blog-4802841478634147276.post-7138908104158815662",
           "author": "noreply@blogger.com (The Hacker News)",
