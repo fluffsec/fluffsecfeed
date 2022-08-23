@@ -2,10 +2,61 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-08-22T19:20:00.474Z</updated>
+    <updated>2022-08-23T03:39:20.070Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[CISA Warns of Active Exploitation of Palo Alto Networks' PAN-OS Vulnerability]]></title>
+        <id>tag:blogger.com,1999:blog-4802841478634147276.post-8766958436561479746</id>
+        <link href="https://thehackernews.com/2022/08/cisa-warns-of-active-exploitation-of.html"/>
+        <updated>2022-08-23T03:03:00.000Z</updated>
+        <summary type="html"><![CDATA[The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added a security flaw impacting Palo Alto Networks PAN-OS to its Known Exploited Vulnerabilities Catalog, based on evidence of active exploitation.
+The high-severity vulnerability, tracked as CVE-2022-0028 (CVSS score: 8.6), is a URL filtering policy misconfiguration that could allow an unauthenticated, remote attacker to]]></summary>
+        <author>
+            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fake DDoS Protection Alerts Distribute Dangerous RAT]]></title>
+        <id>https://www.darkreading.com/attacks-breaches/threat-actors-using-fake-ddos-protection-alerts-to-distribute-dangerous-rat</id>
+        <link href="https://www.darkreading.com/attacks-breaches/threat-actors-using-fake-ddos-protection-alerts-to-distribute-dangerous-rat"/>
+        <updated>2022-08-22T22:07:52.000Z</updated>
+        <summary type="html"><![CDATA[Security vendor Sucuri says adversaries are injecting malicious JavaScript into numerous WordPress websites that triggers phony bot-related checks.]]></summary>
+        <author>
+            <name>Jai Vijayan, Contributing Writer, Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Metasploit Creator Renames His Startup and IT Discovery Tool Rumble to 'runZero']]></title>
+        <id>https://www.darkreading.com/operations/hd-moore-s-startup-and-it-discovery-tool-rumble-renamed-runzero</id>
+        <link href="https://www.darkreading.com/operations/hd-moore-s-startup-and-it-discovery-tool-rumble-renamed-runzero"/>
+        <updated>2022-08-22T20:30:34.000Z</updated>
+        <summary type="html"><![CDATA[HD Moore's company has rebranded its IT, IoT, and OT asset discovery tool as the platform rapidly evolves.]]></summary>
+        <author>
+            <name>Dark Reading Staff, Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[For Penetration Security Testing, Alternative Cloud Offers Something Others Don't]]></title>
+        <id>https://www.darkreading.com/cloud/for-penetration-security-testing-alternative-cloud-offers-something-others-don-t</id>
+        <link href="https://www.darkreading.com/cloud/for-penetration-security-testing-alternative-cloud-offers-something-others-don-t"/>
+        <updated>2022-08-22T20:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Alternative cloud providers offer streamlined capabilities for penetration testing, including more accessible tools, easy deployment, and affordable pricing.]]></summary>
+        <author>
+            <name>Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sophos Identifies Potential Tag-Team Ransomware Activity]]></title>
+        <id>https://www.darkreading.com/attacks-breaches/sophos-identifies-potential-tag-team-ransomware-activity</id>
+        <link href="https://www.darkreading.com/attacks-breaches/sophos-identifies-potential-tag-team-ransomware-activity"/>
+        <updated>2022-08-22T19:31:29.000Z</updated>
+        <summary type="html"><![CDATA[Company research indicates ransomware gangs may be working in concert to orchestrate multiple attacks, explains Sophos’ John Shier.]]></summary>
+        <author>
+            <name>Terry Sweeney, Contributing Editor</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[InQuest: Adding File Detection and Response to the Security Arsenal]]></title>
         <id>https://www.darkreading.com/endpoint/inquest-adding-file-detection-and-response-to-the-security-arsenal</id>
