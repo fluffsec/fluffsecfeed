@@ -2,10 +2,73 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-08-24T07:22:31.347Z</updated>
+    <updated>2022-08-24T13:41:12.886Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Report: Financial Institutions Are Overwhelmed When Facing Growing Firmware Security and Supply Chain Threats]]></title>
+        <id>https://www.darkreading.com/attacks-breaches/report-financial-institutions-are-overwhelmed-when-facing-growing-firmware-security-and-supply-chain-threats</id>
+        <link href="https://www.darkreading.com/attacks-breaches/report-financial-institutions-are-overwhelmed-when-facing-growing-firmware-security-and-supply-chain-threats"/>
+        <updated>2022-08-24T13:10:36.000Z</updated>
+        <summary type="html"><![CDATA[New research report reveals financial organizations are failing to act despite majority experiencing a firmware-related breach.]]></summary>
+        <author>
+            <name>Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[BUDGET AMMO] Companies Are Ditching Cybersecurity Insurance as Premiums Rise, Coverage Shrinks]]></title>
+        <id>https://blog.knowbe4.com/budget-ammo-companies-are-ditching-cybersecurity-insurance-as-premiums-rise-coverage-shrinks</id>
+        <link href="https://blog.knowbe4.com/budget-ammo-companies-are-ditching-cybersecurity-insurance-as-premiums-rise-coverage-shrinks"/>
+        <updated>2022-08-24T12:45:22.000Z</updated>
+        <summary type="html"><![CDATA[As the CEO of a public InfoSec company I have a variety of news sources. One of these is called '"The Information" which covers in-depth tech stories usually earlier than anywhere else.  Reporter Aaron Holmes just published an article that is an eye opener for sure. You saw the title and are reading this, so I think you agree. Here is s short extract and I recommend you reading the whole article, link is below. It's great budget ammo for security awareness training.]]></summary>
+        <author>
+            <name>Stu Sjouwerman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Teach Two Things to Decrease Phishing Attack Success]]></title>
+        <id>https://blog.knowbe4.com/teach-two-things-to-decrease-phishing-attack-success</id>
+        <link href="https://blog.knowbe4.com/teach-two-things-to-decrease-phishing-attack-success"/>
+        <updated>2022-08-24T12:25:03.000Z</updated>
+        <summary type="html"><![CDATA[We know everyone is busy. Everyone already has too much on their plate and is trying to learn as much as they can every day.]]></summary>
+        <author>
+            <name>Roger Grimes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hackers Using Fake DDoS Protection Pages to Distribute Malware]]></title>
+        <id>tag:blogger.com,1999:blog-4802841478634147276.post-1261922996019124629</id>
+        <link href="https://thehackernews.com/2022/08/hackers-using-fake-ddos-protection.html"/>
+        <updated>2022-08-24T12:12:00.000Z</updated>
+        <summary type="html"><![CDATA[WordPress sites are being hacked to display fraudulent Cloudflare DDoS protection pages that lead to the delivery of malware such as NetSupport RAT and Raccoon Stealer.
+"A recent surge in JavaScript injections targeting WordPress sites has resulted in fake DDoS prevent prompts which lead victims to download remote access trojan malware," Sucuri's Ben Martin said in a write-up published last week]]></summary>
+        <author>
+            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Researchers Warn of AiTM Attack Targeting Google G-Suite Enterprise Users]]></title>
+        <id>tag:blogger.com,1999:blog-4802841478634147276.post-1436461387047772780</id>
+        <link href="https://thehackernews.com/2022/08/researchers-warn-of-aitm-attack.html"/>
+        <updated>2022-08-24T09:29:00.000Z</updated>
+        <summary type="html"><![CDATA[The threat actors behind a large-scale adversary-in-the-middle (AiTM) phishing campaign targeting enterprise users of Microsoft email services have also set their sights on Google Workspace users.
+"This campaign specifically targeted chief executives and other senior members of various organizations which use [Google Workspace]," Zscaler researchers Sudeep Singh and Jagadeeswar Ramanukolanu]]></summary>
+        <author>
+            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GitLab Issues Patch for Critical Flaw in its Community and Enterprise Software]]></title>
+        <id>tag:blogger.com,1999:blog-4802841478634147276.post-2139626727665054383</id>
+        <link href="https://thehackernews.com/2022/08/gitlab-issues-patch-for-critical-flaw.html"/>
+        <updated>2022-08-24T06:21:00.000Z</updated>
+        <summary type="html"><![CDATA[DevOps platform GitLab this week issued patches to address a critical security flaw in its software that could lead to arbitrary code execution on affected systems.
+Tracked as CVE-2022-2884, the issue is rated 9.9 on the CVSS vulnerability scoring system and impacts all versions of GitLab Community Edition (CE) and Enterprise Edition (EE) starting from 11.3.4 before 15.1.5, 15.2 before 15.2.3,]]></summary>
+        <author>
+            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[DevSecOps Gains Traction — but Security Still Lags]]></title>
         <id>https://www.darkreading.com/vulnerabilities-threats/devsecops-gains-traction----but-security-still-lags</id>
@@ -4881,36 +4944,6 @@ No fewer than 70,000 Android devices are said to have been infected as part of t
 Attack chains involving Roaming]]></summary>
         <author>
             <name>noreply@blogger.com (Ravie Lakshmanan)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OpenFHE Brings New Encryption Tools to Developers]]></title>
-        <id>https://www.darkreading.com/dr-tech/openfhe-brings-new-encryption-tools-to-developers</id>
-        <link href="https://www.darkreading.com/dr-tech/openfhe-brings-new-encryption-tools-to-developers"/>
-        <updated>2022-07-26T01:16:27.000Z</updated>
-        <summary type="html"><![CDATA[The open source fully homomorphic encryption library from Duality Technologies is intended to help developers build their own FHE-enabled applications.]]></summary>
-        <author>
-            <name>Dark Reading Staff, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rare 'CosmicStrand' UEFI Rootkit Swings into Cybercrime Orbit]]></title>
-        <id>https://www.darkreading.com/endpoint/rare-cosmicstrand-uefi-rootkit-cybercrime-orbit</id>
-        <link href="https://www.darkreading.com/endpoint/rare-cosmicstrand-uefi-rootkit-cybercrime-orbit"/>
-        <updated>2022-07-25T20:35:41.000Z</updated>
-        <summary type="html"><![CDATA[The firmware threat offers ultimate stealth and persistence — and may be distributed via tainted firmware components in a supply chain play, researchers theorize.]]></summary>
-        <author>
-            <name>Tara Seals, Managing Editor, News, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Supercharged Version of Amadey Infostealer & Malware Dropper Bypasses AVs]]></title>
-        <id>https://www.darkreading.com/attacks-breaches/supercharged-version-amadey-infostealer-malware-dropper-bypass-av</id>
-        <link href="https://www.darkreading.com/attacks-breaches/supercharged-version-amadey-infostealer-malware-dropper-bypass-av"/>
-        <updated>2022-07-25T19:47:15.000Z</updated>
-        <summary type="html"><![CDATA[Several threat actors used Amadey Bot previously to steal information and distribute malware such as the GandCrab ransomware and the FlawedAmmy RAT.]]></summary>
-        <author>
-            <name>Jai Vijayan, Contributing Writer, Dark Reading</name>
         </author>
     </entry>
 </feed>
