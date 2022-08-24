@@ -2,10 +2,43 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-08-23T19:19:45.102Z</updated>
+    <updated>2022-08-24T03:39:45.659Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[DevSecOps Gains Traction — but Security Still Lags]]></title>
+        <id>https://www.darkreading.com/vulnerabilities-threats/devsecops-gains-traction----but-security-still-lags</id>
+        <link href="https://www.darkreading.com/vulnerabilities-threats/devsecops-gains-traction----but-security-still-lags"/>
+        <updated>2022-08-23T21:08:10.000Z</updated>
+        <summary type="html"><![CDATA[Almost half of teams develop and deploy software using a DevSecOps approach, but security remains the top area of investment, a survey finds.]]></summary>
+        <author>
+            <name>Robert Lemos, Contributing Writer, Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Thoma Bravo Buying Spree Highlights Hot Investor Interest in IAM Market]]></title>
+        <id>https://www.darkreading.com/operations/thoma-bravo-buying-spree-investor-interest-iam-market</id>
+        <link href="https://www.darkreading.com/operations/thoma-bravo-buying-spree-investor-interest-iam-market"/>
+        <updated>2022-08-23T20:00:00.000Z</updated>
+        <summary type="html"><![CDATA[M&A activity in the identity and access management (IAM) space has continued at a steady clip so far this year.]]></summary>
+        <author>
+            <name>Jai Vijayan, Contributing Writer, Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[VMware Releases Security Update]]></title>
+        <id>17912 at https://us-cert.cisa.gov</id>
+        <link href="https://us-cert.cisa.gov/ncas/current-activity/2022/08/23/vmware-releases-security-update"/>
+        <updated>2022-08-23T18:57:54.000Z</updated>
+        <summary type="html"><![CDATA[Original release date: August 23, 2022
+VMware has released a security update to address a vulnerability in Tools. A remote attacker could likely exploit the vulnerability to take control of an affected system.
+CISA encourages users and administrators to review VMware Security Advisory VMSA-2022-0024 and apply the necessary update.
+This product is provided subject to this Notification and this Privacy & Use policy.]]></summary>
+        <author>
+            <name>CISA</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Mudge Blows Whistle on Alleged Twitter Security Nightmare]]></title>
         <id>https://www.darkreading.com/cloud/mudge-blows-whistle-alleged-twitter-security-nightmare</id>
@@ -4908,58 +4941,6 @@ Attack chains involving Roaming]]></summary>
         <summary type="html"><![CDATA[In the latest iteration, Qakbot operators are using DLL sideloading to deliver malware, a technique that places legitimate and malicious files together in a common directory to avoid detection.]]></summary>
         <author>
             <name>Dark Reading Staff, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Aqua Launches Out-of-the-Box Runtime Security with Advanced Protection against the Most Sophisticated Threats]]></title>
-        <id>https://www.darkreading.com/attacks-breaches/aqua-launches-out-of-the-box-runtime-security-with-advanced-protection-against-the-most-sophisticated-threats</id>
-        <link href="https://www.darkreading.com/attacks-breaches/aqua-launches-out-of-the-box-runtime-security-with-advanced-protection-against-the-most-sophisticated-threats"/>
-        <updated>2022-07-25T15:20:44.000Z</updated>
-        <summary type="html"><![CDATA[Security professionals can now achieve real-time protection for their workloads in minutes.]]></summary>
-        <author>
-            <name>Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Getting Ahead of Supply Chain Attacks]]></title>
-        <id>https://www.darkreading.com/attacks-breaches/getting-ahead-of-supply-chain-attacks</id>
-        <link href="https://www.darkreading.com/attacks-breaches/getting-ahead-of-supply-chain-attacks"/>
-        <updated>2022-07-25T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Attackers are willing to replicate entire networks, purchase domains, and persist for months, not to mention spend significantly to make these campaigns successful.]]></summary>
-        <author>
-            <name>Wesley Mullins, CTO, Deepwatch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Critical Filewave MDM Vulnerabilities Allow Attackers Full Mobile Device Control]]></title>
-        <id>https://www.darkreading.com/vulnerabilities-threats/critical-filewave-mdm-vulnerabilities-attackers-mobile-device-control</id>
-        <link href="https://www.darkreading.com/vulnerabilities-threats/critical-filewave-mdm-vulnerabilities-attackers-mobile-device-control"/>
-        <updated>2022-07-25T13:33:25.000Z</updated>
-        <summary type="html"><![CDATA[Two previously unknown critical vulnerabilities within FileWave’s multiplatform MDM system could grant malicious actors access to the platform's most privileged user account.]]></summary>
-        <author>
-            <name>Nathan Eddy, Contributing Writer, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Magecart Hacks Food Ordering Systems to Steal Payment Data from Over 300 Restaurants]]></title>
-        <id>tag:blogger.com,1999:blog-4802841478634147276.post-9041981165604755055</id>
-        <link href="https://thehackernews.com/2022/07/magecart-hacks-online-food-ordering.html"/>
-        <updated>2022-07-25T09:13:38.317Z</updated>
-        <summary type="html"><![CDATA[Three restaurant ordering platforms MenuDrive, Harbortouch, and InTouchPOS were the target of two Magecart skimming campaigns that resulted in the compromise of at least 311 restaurants.
-The trio of breaches has led to the theft of more than 50,000 payment card records from these infected restaurants and posted for sale on the dark web.
-"The online ordering platforms MenuDrive and Harbortouch]]></summary>
-        <author>
-            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Racoon Stealer is Back — How to Protect Your Organization]]></title>
-        <id>tag:blogger.com,1999:blog-4802841478634147276.post-1034877945616757810</id>
-        <link href="https://thehackernews.com/2022/07/racoon-stealer-is-back-how-to-protect.html"/>
-        <updated>2022-07-25T08:52:13.242Z</updated>
-        <summary type="html"><![CDATA[The Racoon Stealer malware as a service platform gained notoriety several years ago for its ability to extract data that is stored within a Web browser. This data initially included passwords and cookies, which sometimes allow a recognized device to be authenticated without a password being entered. Racoon Stealer was also designed to steal auto-fill data, which can include a vast trove of]]></summary>
-        <author>
-            <name>noreply@blogger.com (The Hacker News)</name>
         </author>
     </entry>
 </feed>
