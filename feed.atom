@@ -2,10 +2,136 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-08-24T13:41:12.886Z</updated>
+    <updated>2022-08-24T19:20:04.175Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Ransomware Gang Demands $10M in Attack on French Hospital]]></title>
+        <id>https://www.darkreading.com/vulnerabilities-threats/ransomware-gang-demands-10m-attack-french-hospital</id>
+        <link href="https://www.darkreading.com/vulnerabilities-threats/ransomware-gang-demands-10m-attack-french-hospital"/>
+        <updated>2022-08-24T18:01:50.000Z</updated>
+        <summary type="html"><![CDATA[Center Hospitalier Sud Francilien (CHSF), a hospital outside of Paris, has redirected incoming patients to other medical facilities in the wake of a ransomware attack that began on Aug. 21.]]></summary>
+        <author>
+            <name>Dark Reading Staff, Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Crypto Miners Using Tox P2P Messenger as Command and Control Server]]></title>
+        <id>tag:blogger.com,1999:blog-4802841478634147276.post-3270427633342443747</id>
+        <link href="https://thehackernews.com/2022/08/crypto-miners-using-tox-p2p-messenger.html"/>
+        <updated>2022-08-24T17:59:00.000Z</updated>
+        <summary type="html"><![CDATA[Threat actors have begun to use the Tox peer-to-peer instant messaging service as a command-and-control method, marking a shift from its earlier role as a contact method for ransomware negotiations.
+The findings from Uptycs, which analyzed an Executable and Linkable Format (ELF) artifact ("72client") that functions as a bot and can run scripts on the compromised host using the Tox protocol.
+Tox]]></summary>
+        <author>
+            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[VMware LPE Bug Allows Cyberattackers to Feast on Virtual Machine Data]]></title>
+        <id>https://www.darkreading.com/cloud/vmware-lpe-bug-cyberattackers-virtual-machine-data</id>
+        <link href="https://www.darkreading.com/cloud/vmware-lpe-bug-cyberattackers-virtual-machine-data"/>
+        <updated>2022-08-24T17:33:27.000Z</updated>
+        <summary type="html"><![CDATA[An insider threat or remote attacker with initial access could exploit CVE-2022-31676 to steal sensitive data and scoop up user credentials for follow-on attacks.]]></summary>
+        <author>
+            <name>Tara Seals, Managing Editor, News, Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Preparing Critical Infrastructure for Post-Quantum Cryptography]]></title>
+        <id>17913 at https://us-cert.cisa.gov</id>
+        <link href="https://us-cert.cisa.gov/ncas/current-activity/2022/08/24/preparing-critical-infrastructure-post-quantum-cryptography"/>
+        <updated>2022-08-24T17:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Original release date: August 24, 2022
+CISA has released CISA Insights: Preparing Critical Infrastructure for Post-Quantum Cryptography, which outlines the actions that critical infrastructure stakeholders should take now to prepare for their future migration to the post-quantum cryptographic standard that the National Institute of Standards and Technology (NIST) will publish in 2024.  
+CISA strongly urges critical infrastructure stakeholders follow the recommendations in the Insights now to ensure a smooth migration to the post-quantum cryptography standard. 
+This product is provided subject to this Notification and this Privacy & Use policy.]]></summary>
+        <author>
+            <name>CISA</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New Zero-Trust Maturity Data: Charting Your Own Organization]]></title>
+        <id>https://www.darkreading.com/cloud/new-zero-trust-maturity-data-charting-your-own-organization</id>
+        <link href="https://www.darkreading.com/cloud/new-zero-trust-maturity-data-charting-your-own-organization"/>
+        <updated>2022-08-24T17:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Every organization is on a zero-trust journey. Learn about how critical identity is to your security evolution, and how your organization can move forward.]]></summary>
+        <author>
+            <name>Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Air-Gapped Devices Can Send Covert Morse Signals via Network Card LEDs]]></title>
+        <id>tag:blogger.com,1999:blog-4802841478634147276.post-196597124375945302</id>
+        <link href="https://thehackernews.com/2022/08/air-gapped-devices-can-send-covert.html"/>
+        <updated>2022-08-24T15:36:00.000Z</updated>
+        <summary type="html"><![CDATA[A security researcher who has a long line of work demonstrating novel data exfiltration methods from air-gapped systems has come up with yet another technique that involves sending Morse code signals via LEDs on network interface cards (NICs).
+The approach, codenamed ETHERLED, comes from Dr. Mordechai Guri, the head of R&D in the Cyber Security Research Center in the Ben Gurion University of the]]></summary>
+        <author>
+            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Unusual Microsoft 365 Phishing Campaign Spoofs eFax Via Compromised Dynamics Voice Account]]></title>
+        <id>https://www.darkreading.com/cloud/unusual-microsoft-365-phishing-efax-compromised-dynamic-voice-account</id>
+        <link href="https://www.darkreading.com/cloud/unusual-microsoft-365-phishing-efax-compromised-dynamic-voice-account"/>
+        <updated>2022-08-24T15:30:01.000Z</updated>
+        <summary type="html"><![CDATA[In a widespread campaign, threat actors use a compromised Dynamics 365 Customer Voice business account and a link posing as a survey to steal Microsoft 365 credentials.]]></summary>
+        <author>
+            <name>Elizabeth Montalbano, Contributor, Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dueling Clauses, or, not all Fraud is the Same]]></title>
+        <id>https://blog.knowbe4.com/dueling-clauses-or-not-all-fraud-is-the-same</id>
+        <link href="https://blog.knowbe4.com/dueling-clauses-or-not-all-fraud-is-the-same"/>
+        <updated>2022-08-24T14:47:04.000Z</updated>
+        <summary type="html"><![CDATA[There are, famously, three things you can do with risk: accept it, mitigate it, or transfer it. And you transfer risk by buying insurance against it.]]></summary>
+        <author>
+            <name>Stu Sjouwerman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nearly 3 Years Later, SolarWinds CISO Shares 3 Lessons From the Infamous Attack]]></title>
+        <id>https://www.darkreading.com/edge-articles/3-years-later-solarwinds-ciso-shares-3-lessons-from-the-infamous-attack</id>
+        <link href="https://www.darkreading.com/edge-articles/3-years-later-solarwinds-ciso-shares-3-lessons-from-the-infamous-attack"/>
+        <updated>2022-08-24T14:40:00.000Z</updated>
+        <summary type="html"><![CDATA[SolarWinds CISO Tim Brown explains how organizations can prepare for eventualities like the nation-state attack on his company’s software.]]></summary>
+        <author>
+            <name>Kolawole Samuel Adebayo, Contributing Writer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Acronis' Midyear Cyberthreats Report Finds Ransomware Is the No. 1 Threat to Organizations, Projects Damages to Exceed $30 Billion by 2023]]></title>
+        <id>https://www.darkreading.com/attacks-breaches/acronis-midyear-cyberthreats-report-finds-ransomware-is-the-no-1-threat-to-organizations-projects-damages-to-exceed-30-billion-by-2023</id>
+        <link href="https://www.darkreading.com/attacks-breaches/acronis-midyear-cyberthreats-report-finds-ransomware-is-the-no-1-threat-to-organizations-projects-damages-to-exceed-30-billion-by-2023"/>
+        <updated>2022-08-24T14:38:30.000Z</updated>
+        <summary type="html"><![CDATA[Increasing complexity in IT continues to lead to breaches and compromises, highlighting the need for more holistic approaches to cyber protection.]]></summary>
+        <author>
+            <name>Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Empathy Is the Key to Better Threat Modeling]]></title>
+        <id>https://www.darkreading.com/vulnerabilities-threats/why-empathy-is-the-key-to-better-threat-modeling</id>
+        <link href="https://www.darkreading.com/vulnerabilities-threats/why-empathy-is-the-key-to-better-threat-modeling"/>
+        <updated>2022-08-24T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Avoid the disconnect between seeing the value in threat modeling and actually doing it with coaching, collaboration, and integration. Key to making it "everybody's thing" is communication between security and development teams.]]></summary>
+        <author>
+            <name>Altaz Valani, Director of Insights Research, Security Compass</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CyberRatings.org Announces New Web Browser Test Results for 2022]]></title>
+        <id>https://www.darkreading.com/vulnerabilities-threats/cyberratings-org-announces-new-web-browser-test-results-for-2022</id>
+        <link href="https://www.darkreading.com/vulnerabilities-threats/cyberratings-org-announces-new-web-browser-test-results-for-2022"/>
+        <updated>2022-08-24T13:46:20.000Z</updated>
+        <summary type="html"><![CDATA[Three of the world's leading browsers were measured for phishing and malware protection, with time to block and protection over time as key metrics in test scores.]]></summary>
+        <author>
+            <name>Dark Reading</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Report: Financial Institutions Are Overwhelmed When Facing Growing Firmware Security and Supply Chain Threats]]></title>
         <id>https://www.darkreading.com/attacks-breaches/report-financial-institutions-are-overwhelmed-when-facing-growing-firmware-security-and-supply-chain-threats</id>
@@ -14,6 +140,16 @@
         <summary type="html"><![CDATA[New research report reveals financial organizations are failing to act despite majority experiencing a firmware-related breach.]]></summary>
         <author>
             <name>Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Guide: How Service Providers can Deliver vCISO Services at Scale]]></title>
+        <id>tag:blogger.com,1999:blog-4802841478634147276.post-6180949680534661997</id>
+        <link href="https://thehackernews.com/2022/08/guide-how-service-providers-can-deliver.html"/>
+        <updated>2022-08-24T12:58:00.000Z</updated>
+        <summary type="html"><![CDATA[From ransomware to breaches, from noncompliance penalties to reputational damage – cyberthreats pose an existential risk to any business. But for SMEs and SMBs, the danger is compounded. These companies realize they need an in-house Chief Information Security Officer (CISO) – someone who can assess risks and vulnerabilities, create and execute a comprehensive cybersecurity plan, ensure]]></summary>
+        <author>
+            <name>noreply@blogger.com (The Hacker News)</name>
         </author>
     </entry>
     <entry>
@@ -140,6 +276,19 @@ This product is provided subject to this Notification and this Privacy & Use pol
         <summary type="html"><![CDATA[The global secure coding competition will be held In October, during Cybersecurity Awareness Month.]]></summary>
         <author>
             <name>Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mozilla Releases Security Updates for Firefox, Firefox ESR, and Thunderbird]]></title>
+        <id>17911 at https://us-cert.cisa.gov</id>
+        <link href="https://us-cert.cisa.gov/ncas/current-activity/2022/08/23/mozilla-releases-security-updates-firefox-firefox-esr-and"/>
+        <updated>2022-08-23T16:33:02.000Z</updated>
+        <summary type="html"><![CDATA[Original release date: August 23, 2022 | Last revised: August 24, 2022
+Mozilla has released security updates to address vulnerabilities in Firefox, Firefox ESR, and Thunderbird. An attacker could exploit some of these vulnerabilities to take control of an affected system. 
+CISA encourages users and administrators to review the Mozilla security advisories for Firefox 104, Firefox ESR 91.13, Firefox ESR 102.2 and Thunderbird 91.13, Thunderbird 102.2 and apply the necessary updates.
+This product is provided subject to this Notification and this Privacy & Use policy.]]></summary>
+        <author>
+            <name>CISA</name>
         </author>
     </entry>
     <entry>
@@ -4919,29 +5068,6 @@ PrestaShop is]]></summary>
         <updated>2022-07-26T10:12:33.871Z</updated>
         <summary type="html"><![CDATA[FileWave's mobile device management (MDM) system has been found vulnerable to two critical security flaws that could be leveraged to carry out remote attacks and seize control of a fleet of devices connected to it.
 "The vulnerabilities are remotely exploitable and enable an attacker to bypass authentication mechanisms and gain full control over the MDM platform and its managed devices," Claroty]]></summary>
-        <author>
-            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Experts Uncover New 'CosmicStrand' UEFI Firmware Rootkit Used by Chinese Hackers]]></title>
-        <id>tag:blogger.com,1999:blog-4802841478634147276.post-5372934004426975352</id>
-        <link href="https://thehackernews.com/2022/07/experts-uncover-new-cosmicstrand-uefi.html"/>
-        <updated>2022-07-26T02:59:46.106Z</updated>
-        <summary type="html"><![CDATA[An unknown Chinese-speaking threat actor has been attributed to a new kind of sophisticated Unified Extensible Firmware Interface (UEFI) firmware rootkit called CosmicStrand.
-"The rootkit is located in the firmware images of Gigabyte or ASUS motherboards, and we noticed that all these images are related to designs using the H81 chipset," Kaspersky researchers said in a new report published today]]></summary>
-        <author>
-            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Roaming Mantis Financial Hackers Targeting Android and iPhone Users in France]]></title>
-        <id>tag:blogger.com,1999:blog-4802841478634147276.post-8239508243729692194</id>
-        <link href="https://thehackernews.com/2022/07/roaming-mantis-financial-hackers.html"/>
-        <updated>2022-07-26T02:58:12.608Z</updated>
-        <summary type="html"><![CDATA[The mobile threat campaign tracked as Roaming Mantis has been linked to a new wave of compromises directed against French mobile phone users, months after it expanded its targeting to include European countries.
-No fewer than 70,000 Android devices are said to have been infected as part of the active malware operation, Sekoia said in a report published last week.
-Attack chains involving Roaming]]></summary>
         <author>
             <name>noreply@blogger.com (Ravie Lakshmanan)</name>
         </author>

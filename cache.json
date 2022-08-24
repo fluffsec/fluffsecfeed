@@ -43,6 +43,16 @@
       "siteUrl": "https://us-cert.cisa.gov/",
       "articles": [
         {
+          "id": "17913 at https://us-cert.cisa.gov",
+          "author": "CISA",
+          "description": "Original release date: August 24, 2022\nCISA has released CISA Insights: Preparing Critical Infrastructure for Post-Quantum Cryptography, which outlines the actions that critical infrastructure stakeholders should take now to prepare for their future migration to the post-quantum cryptographic standard that the National Institute of Standards and Technology (NIST) will publish in 2024.  \nCISA strongly urges critical infrastructure stakeholders follow the recommendations in the Insights now to ensure a smooth migration to the post-quantum cryptography standard. \nThis product is provided subject to this Notification and this Privacy & Use policy.",
+          "link": "https://us-cert.cisa.gov/ncas/current-activity/2022/08/24/preparing-critical-infrastructure-post-quantum-cryptography",
+          "publishedOn": "2022-08-24T17:00:00.000Z",
+          "wordCount": 1061,
+          "title": "Preparing Critical Infrastructure for Post-Quantum Cryptography",
+          "imageUrl": null
+        },
+        {
           "id": "17912 at https://us-cert.cisa.gov",
           "author": "CISA",
           "description": "Original release date: August 23, 2022\nVMware has released a security update to address a vulnerability in Tools. A remote attacker could likely exploit the vulnerability to take control of an affected system.\nCISA encourages users and administrators to review VMware Security Advisory VMSA-2022-0024 and apply the necessary update.\nThis product is provided subject to this Notification and this Privacy & Use policy.",
@@ -50,6 +60,16 @@
           "publishedOn": "2022-08-23T18:57:54.000Z",
           "wordCount": 1029,
           "title": "VMware Releases Security Update",
+          "imageUrl": null
+        },
+        {
+          "id": "17911 at https://us-cert.cisa.gov",
+          "author": "CISA",
+          "description": "Original release date: August 23, 2022 | Last revised: August 24, 2022\nMozilla has released security updates to address vulnerabilities in Firefox, Firefox ESR, and Thunderbird. An attacker could exploit some of these vulnerabilities to take control of an affected system. \nCISA encourages users and administrators to review the Mozilla security advisories for Firefox 104, Firefox ESR 91.13, Firefox ESR 102.2 and Thunderbird 91.13, Thunderbird 102.2 and apply the necessary updates.\nThis product is provided subject to this Notification and this Privacy & Use policy.",
+          "link": "https://us-cert.cisa.gov/ncas/current-activity/2022/08/23/mozilla-releases-security-updates-firefox-firefox-esr-and",
+          "publishedOn": "2022-08-23T16:33:02.000Z",
+          "wordCount": 1069,
+          "title": "Mozilla Releases Security Updates for Firefox, Firefox ESR, and Thunderbird",
           "imageUrl": null
         },
         {
@@ -573,6 +593,111 @@
       "feedUrl": "https://www.darkreading.com/rss.xml",
       "siteUrl": "https://www.darkreading.com",
       "articles": [
+        {
+          "id": "https://www.darkreading.com/vulnerabilities-threats/ransomware-gang-demands-10m-attack-french-hospital",
+          "author": "Dark Reading Staff, Dark Reading",
+          "description": "Center Hospitalier Sud Francilien (CHSF), a hospital outside of Paris, has redirected incoming patients to other medical facilities in the wake of a ransomware attack that began on Aug. 21.",
+          "link": "https://www.darkreading.com/vulnerabilities-threats/ransomware-gang-demands-10m-attack-french-hospital",
+          "publishedOn": "2022-08-24T18:01:50.000Z",
+          "wordCount": 10351,
+          "title": "Ransomware Gang Demands $10M in Attack on French Hospital",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blte161b23f0fd3a84b/60b1ea374e7eb868c4c6a293/dr_staff_125x125.jpg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blte161b23f0fd3a84b/60b1ea374e7eb868c4c6a293/dr_staff_125x125.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/cloud/vmware-lpe-bug-cyberattackers-virtual-machine-data",
+          "author": "Tara Seals, Managing Editor, News, Dark Reading",
+          "description": "An insider threat or remote attacker with initial access could exploit CVE-2022-31676 to steal sensitive data and scoop up user credentials for follow-on attacks.",
+          "link": "https://www.darkreading.com/cloud/vmware-lpe-bug-cyberattackers-virtual-machine-data",
+          "publishedOn": "2022-08-24T17:33:27.000Z",
+          "wordCount": 11688,
+          "title": "VMware LPE Bug Allows Cyberattackers to Feast on Virtual Machine Data",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltea67136f81f32eca/626a9eb4726e3315b16b3c64/Tara-Seals-Headshot2.jpg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltea67136f81f32eca/626a9eb4726e3315b16b3c64/Tara-Seals-Headshot2.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/cloud/new-zero-trust-maturity-data-charting-your-own-organization",
+          "author": null,
+          "description": "Every organization is on a zero-trust journey. Learn about how critical identity is to your security evolution, and how your organization can move forward.",
+          "link": "https://www.darkreading.com/cloud/new-zero-trust-maturity-data-charting-your-own-organization",
+          "publishedOn": "2022-08-24T17:00:00.000Z",
+          "wordCount": 13406,
+          "title": "New Zero-Trust Maturity Data: Charting Your Own Organization",
+          "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/cloud/unusual-microsoft-365-phishing-efax-compromised-dynamic-voice-account",
+          "author": "Elizabeth Montalbano, Contributor, Dark Reading",
+          "description": "In a widespread campaign, threat actors use a compromised Dynamics 365 Customer Voice business account and a link posing as a survey to steal Microsoft 365 credentials.",
+          "link": "https://www.darkreading.com/cloud/unusual-microsoft-365-phishing-efax-compromised-dynamic-voice-account",
+          "publishedOn": "2022-08-24T15:30:01.000Z",
+          "wordCount": 13468,
+          "title": "Unusual Microsoft 365 Phishing Campaign Spoofs eFax Via Compromised Dynamics Voice Account",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltbfd004d139d42d70/6303bca6236c2476a257760e/ElizabethMontalbano.jpg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltbfd004d139d42d70/6303bca6236c2476a257760e/ElizabethMontalbano.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/edge-articles/3-years-later-solarwinds-ciso-shares-3-lessons-from-the-infamous-attack",
+          "author": "Kolawole Samuel Adebayo, Contributing Writer",
+          "description": "SolarWinds CISO Tim Brown explains how organizations can prepare for eventualities like the nation-state attack on his company’s software.",
+          "link": "https://www.darkreading.com/edge-articles/3-years-later-solarwinds-ciso-shares-3-lessons-from-the-infamous-attack",
+          "publishedOn": "2022-08-24T14:40:00.000Z",
+          "wordCount": 13973,
+          "title": "Nearly 3 Years Later, SolarWinds CISO Shares 3 Lessons From the Infamous Attack",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt0e633cacbfbbf0c2/6305337a9b7ae964b1821d09/kolawole-samuel-adebayo.jpg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt0e633cacbfbbf0c2/6305337a9b7ae964b1821d09/kolawole-samuel-adebayo.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/attacks-breaches/acronis-midyear-cyberthreats-report-finds-ransomware-is-the-no-1-threat-to-organizations-projects-damages-to-exceed-30-billion-by-2023",
+          "author": null,
+          "description": "Increasing complexity in IT continues to lead to breaches and compromises, highlighting the need for more holistic approaches to cyber protection.",
+          "link": "https://www.darkreading.com/attacks-breaches/acronis-midyear-cyberthreats-report-finds-ransomware-is-the-no-1-threat-to-organizations-projects-damages-to-exceed-30-billion-by-2023",
+          "publishedOn": "2022-08-24T14:38:30.000Z",
+          "wordCount": 13834,
+          "title": "Acronis' Midyear Cyberthreats Report Finds Ransomware Is the No. 1 Threat to Organizations, Projects Damages to Exceed $30 Billion by 2023",
+          "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/vulnerabilities-threats/why-empathy-is-the-key-to-better-threat-modeling",
+          "author": "Altaz Valani, Director of Insights Research, Security Compass",
+          "description": "Avoid the disconnect between seeing the value in threat modeling and actually doing it with coaching, collaboration, and integration. Key to making it \"everybody's thing\" is communication between security and development teams.",
+          "link": "https://www.darkreading.com/vulnerabilities-threats/why-empathy-is-the-key-to-better-threat-modeling",
+          "publishedOn": "2022-08-24T14:00:00.000Z",
+          "wordCount": 13332,
+          "title": "Why Empathy Is the Key to Better Threat Modeling",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt0ec969875d022e49/60d4498490ef0d39a2f42639/Altaz-Valani.png",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt0ec969875d022e49/60d4498490ef0d39a2f42639/Altaz-Valani.png"
+        },
+        {
+          "id": "https://www.darkreading.com/vulnerabilities-threats/cyberratings-org-announces-new-web-browser-test-results-for-2022",
+          "author": null,
+          "description": "Three of the world's leading browsers were measured for phishing and malware protection, with time to block and protection over time as key metrics in test scores.",
+          "link": "https://www.darkreading.com/vulnerabilities-threats/cyberratings-org-announces-new-web-browser-test-results-for-2022",
+          "publishedOn": "2022-08-24T13:46:20.000Z",
+          "wordCount": 11485,
+          "title": "CyberRatings.org Announces New Web Browser Test Results for 2022",
+          "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
+        },
         {
           "id": "https://www.darkreading.com/attacks-breaches/report-financial-institutions-are-overwhelmed-when-facing-growing-firmware-security-and-supply-chain-threats",
           "author": null,
@@ -3624,6 +3749,16 @@
       "siteUrl": "https://blog.knowbe4.com",
       "articles": [
         {
+          "id": "https://blog.knowbe4.com/dueling-clauses-or-not-all-fraud-is-the-same",
+          "author": "Stu Sjouwerman",
+          "description": "There are, famously, three things you can do with risk: accept it, mitigate it, or transfer it. And you transfer risk by buying insurance against it.",
+          "link": "https://blog.knowbe4.com/dueling-clauses-or-not-all-fraud-is-the-same",
+          "publishedOn": "2022-08-24T14:47:04.000Z",
+          "wordCount": 2203,
+          "title": "Dueling Clauses, or, not all Fraud is the Same",
+          "imageUrl": "https://blog.knowbe4.com/hubfs/Not%20All%20Fraud%20is%20the%20Same.jpg#keepProtocol"
+        },
+        {
           "id": "https://blog.knowbe4.com/budget-ammo-companies-are-ditching-cybersecurity-insurance-as-premiums-rise-coverage-shrinks",
           "author": "Stu Sjouwerman",
           "description": "As the CEO of a public InfoSec company I have a variety of news sources. One of these is called '\"The Information\" which covers in-depth tech stories usually earlier than anywhere else.  Reporter Aaron Holmes just published an article that is an eye opener for sure. You saw the title and are reading this, so I think you agree. Here is s short extract and I recommend you reading the whole article, link is below. It's great budget ammo for security awareness training.",
@@ -4220,6 +4355,39 @@
       "feedUrl": "https://thehackernews.com/feeds/posts/default",
       "siteUrl": "https://thehackernews.com/",
       "articles": [
+        {
+          "id": "tag:blogger.com,1999:blog-4802841478634147276.post-3270427633342443747",
+          "author": "noreply@blogger.com (Ravie Lakshmanan)",
+          "description": "Threat actors have begun to use the Tox peer-to-peer instant messaging service as a command-and-control method, marking a shift from its earlier role as a contact method for ransomware negotiations.\nThe findings from Uptycs, which analyzed an Executable and Linkable Format (ELF) artifact (\"72client\") that functions as a bot and can run scripts on the compromised host using the Tox protocol.\nTox",
+          "link": "https://thehackernews.com/2022/08/crypto-miners-using-tox-p2p-messenger.html",
+          "publishedOn": "2022-08-24T17:59:00.000Z",
+          "wordCount": null,
+          "title": "Crypto Miners Using Tox P2P Messenger as Command and Control Server",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "tag:blogger.com,1999:blog-4802841478634147276.post-196597124375945302",
+          "author": "noreply@blogger.com (Ravie Lakshmanan)",
+          "description": "A security researcher who has a long line of work demonstrating novel data exfiltration methods from air-gapped systems has come up with yet another technique that involves sending Morse code signals via LEDs on network interface cards (NICs).\nThe approach, codenamed ETHERLED, comes from Dr. Mordechai Guri, the head of R&D in the Cyber Security Research Center in the Ben Gurion University of the",
+          "link": "https://thehackernews.com/2022/08/air-gapped-devices-can-send-covert.html",
+          "publishedOn": "2022-08-24T15:36:00.000Z",
+          "wordCount": null,
+          "title": "Air-Gapped Devices Can Send Covert Morse Signals via Network Card LEDs",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "tag:blogger.com,1999:blog-4802841478634147276.post-6180949680534661997",
+          "author": "noreply@blogger.com (The Hacker News)",
+          "description": "From ransomware to breaches, from noncompliance penalties to reputational damage – cyberthreats pose an existential risk to any business. But for SMEs and SMBs, the danger is compounded. These companies realize they need an in-house Chief Information Security Officer (CISO) – someone who can assess risks and vulnerabilities, create and execute a comprehensive cybersecurity plan, ensure",
+          "link": "https://thehackernews.com/2022/08/guide-how-service-providers-can-deliver.html",
+          "publishedOn": "2022-08-24T12:58:00.000Z",
+          "wordCount": null,
+          "title": "Guide: How Service Providers can Deliver vCISO Services at Scale",
+          "itunes": {},
+          "imageUrl": null
+        },
         {
           "id": "tag:blogger.com,1999:blog-4802841478634147276.post-1261922996019124629",
           "author": "noreply@blogger.com (Ravie Lakshmanan)",
@@ -5603,28 +5771,6 @@
           "publishedOn": "2022-07-26T10:12:33.871Z",
           "wordCount": null,
           "title": "Critical FileWave MDM Flaws Open Organization-Managed Devices to Remote Hackers",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "tag:blogger.com,1999:blog-4802841478634147276.post-5372934004426975352",
-          "author": "noreply@blogger.com (Ravie Lakshmanan)",
-          "description": "An unknown Chinese-speaking threat actor has been attributed to a new kind of sophisticated Unified Extensible Firmware Interface (UEFI) firmware rootkit called CosmicStrand.\n\"The rootkit is located in the firmware images of Gigabyte or ASUS motherboards, and we noticed that all these images are related to designs using the H81 chipset,\" Kaspersky researchers said in a new report published today",
-          "link": "https://thehackernews.com/2022/07/experts-uncover-new-cosmicstrand-uefi.html",
-          "publishedOn": "2022-07-26T02:59:46.106Z",
-          "wordCount": null,
-          "title": "Experts Uncover New 'CosmicStrand' UEFI Firmware Rootkit Used by Chinese Hackers",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "tag:blogger.com,1999:blog-4802841478634147276.post-8239508243729692194",
-          "author": "noreply@blogger.com (Ravie Lakshmanan)",
-          "description": "The mobile threat campaign tracked as Roaming Mantis has been linked to a new wave of compromises directed against French mobile phone users, months after it expanded its targeting to include European countries.\nNo fewer than 70,000 Android devices are said to have been infected as part of the active malware operation, Sekoia said in a report published last week.\nAttack chains involving Roaming",
-          "link": "https://thehackernews.com/2022/07/roaming-mantis-financial-hackers.html",
-          "publishedOn": "2022-07-26T02:58:12.608Z",
-          "wordCount": null,
-          "title": "Roaming Mantis Financial Hackers Targeting Android and iPhone Users in France",
           "itunes": {},
           "imageUrl": null
         }
