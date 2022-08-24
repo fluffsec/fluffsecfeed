@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-08-24T03:39:45.659Z</updated>
+    <updated>2022-08-24T07:22:31.347Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
@@ -4911,36 +4911,6 @@ Attack chains involving Roaming]]></summary>
         <summary type="html"><![CDATA[Several threat actors used Amadey Bot previously to steal information and distribute malware such as the GandCrab ransomware and the FlawedAmmy RAT.]]></summary>
         <author>
             <name>Jai Vijayan, Contributing Writer, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[T-Mobile Pitches $4-Per-Customer Settlement for Data Leak Impacting 80M People]]></title>
-        <id>https://www.darkreading.com/application-security/t-mobile-pitches-4-per-customer-settlement-for-data-leak</id>
-        <link href="https://www.darkreading.com/application-security/t-mobile-pitches-4-per-customer-settlement-for-data-leak"/>
-        <updated>2022-07-25T19:10:02.000Z</updated>
-        <summary type="html"><![CDATA[After leaking 80 million US customer data records in a cyberattack last summer, T-Mobile offers to settle a wide-ranging class action suit for just $350 million.]]></summary>
-        <author>
-            <name>Dark Reading Staff, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why Layer 8 Is Great]]></title>
-        <id>https://www.darkreading.com/edge-articles/why-layer-8-is-great</id>
-        <link href="https://www.darkreading.com/edge-articles/why-layer-8-is-great"/>
-        <updated>2022-07-25T18:36:40.000Z</updated>
-        <summary type="html"><![CDATA[To help discern legitimate traffic from fraud, it helps to understand user intent as shown through their behavior.]]></summary>
-        <author>
-            <name>Joshua Goldfarb, Fraud Solutions Architect - EMEA and APCJ, F5</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Qakbot Is Back With a New Trick: DLL Sideloading]]></title>
-        <id>https://www.darkreading.com/attacks-breaches/qakbot-back-new-trick-dll-sideloading</id>
-        <link href="https://www.darkreading.com/attacks-breaches/qakbot-back-new-trick-dll-sideloading"/>
-        <updated>2022-07-25T16:54:02.000Z</updated>
-        <summary type="html"><![CDATA[In the latest iteration, Qakbot operators are using DLL sideloading to deliver malware, a technique that places legitimate and malicious files together in a common directory to avoid detection.]]></summary>
-        <author>
-            <name>Dark Reading Staff, Dark Reading</name>
         </author>
     </entry>
 </feed>
