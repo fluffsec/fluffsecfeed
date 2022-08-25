@@ -448,16 +448,6 @@
           "wordCount": 2112,
           "title": "Threat Actors Pivot Around Microsoft’s Macro-Blocking in Office",
           "imageUrl": "https://media.kasperskycontenthub.com/wp-content/uploads/sites/103/2022/07/28132103/sl-abstract-office-document.jpg"
-        },
-        {
-          "id": "https://kasperskycontenthub.com/threatpost-global/?p=180273",
-          "author": "Sponsored Content",
-          "description": "The increased proliferation of IoT devices paved the way for the rise of IoT botnets that amplifies DDoS attacks today. This is a dangerous warning that the possibility of a sophisticated DDoS attack and a prolonged service outage will prevent businesses from growing.",
-          "link": "https://threatpost.com/ddos-attacks-prepared/180273/",
-          "publishedOn": "2022-07-26T12:38:21.000Z",
-          "wordCount": 2235,
-          "title": "IoT Botnets Fuels DDoS Attacks – Are You Prepared?",
-          "imageUrl": "https://media.kasperskycontenthub.com/wp-content/uploads/sites/103/2022/07/25090220/IoT-Botnets-Fuels-DDoS-Attacks-Are-You-Prepared.png"
         }
       ]
     },
@@ -575,16 +565,6 @@
           "wordCount": 2112,
           "title": "Malicious Npm Packages Tapped Again to Target Discord Users",
           "imageUrl": "https://media.kasperskycontenthub.com/wp-content/uploads/sites/103/2021/07/23172148/discord-game-social.jpg"
-        },
-        {
-          "id": "https://kasperskycontenthub.com/threatpost-global/?p=180273",
-          "author": "Sponsored Content",
-          "description": "The increased proliferation of IoT devices paved the way for the rise of IoT botnets that amplifies DDoS attacks today. This is a dangerous warning that the possibility of a sophisticated DDoS attack and a prolonged service outage will prevent businesses from growing.",
-          "link": "https://threatpost.com/ddos-attacks-prepared/180273/",
-          "publishedOn": "2022-07-26T12:38:21.000Z",
-          "wordCount": 2235,
-          "title": "IoT Botnets Fuels DDoS Attacks – Are You Prepared?",
-          "imageUrl": "https://media.kasperskycontenthub.com/wp-content/uploads/sites/103/2022/07/25090220/IoT-Botnets-Fuels-DDoS-Attacks-Are-You-Prepared.png"
         }
       ]
     },
@@ -593,6 +573,36 @@
       "feedUrl": "https://www.darkreading.com/rss.xml",
       "siteUrl": "https://www.darkreading.com",
       "articles": [
+        {
+          "id": "https://www.darkreading.com/vulnerabilities-threats/cisa-palo-alto-firewall-bug-active-exploit",
+          "author": "Tara Seals, Managing Editor, News, Dark Reading",
+          "description": "The bug tracked as CVE-2022-0028 allows attackers to hijack firewalls without authentication, in order to mount DDoS hits on their targets of choice.",
+          "link": "https://www.darkreading.com/vulnerabilities-threats/cisa-palo-alto-firewall-bug-active-exploit",
+          "publishedOn": "2022-08-24T19:59:35.000Z",
+          "wordCount": 12939,
+          "title": "CISA: Just-Disclosed Palo Alto Networks Firewall Bug Under Active Exploit",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltea67136f81f32eca/626a9eb4726e3315b16b3c64/Tara-Seals-Headshot2.jpg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltea67136f81f32eca/626a9eb4726e3315b16b3c64/Tara-Seals-Headshot2.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/threat-intelligence/efficient-magicweb-malware-subverts-ad-fs-authentication-microsoft",
+          "author": "Dark Reading Staff, Dark Reading",
+          "description": "The Russia-backed Nobelium APT has pioneered a post-exploitation tool allowing attackers to authenticate as any user.",
+          "link": "https://www.darkreading.com/threat-intelligence/efficient-magicweb-malware-subverts-ad-fs-authentication-microsoft",
+          "publishedOn": "2022-08-24T19:29:23.000Z",
+          "wordCount": 10389,
+          "title": "Efficient 'MagicWeb' Malware Subverts AD FS Authentication, Microsoft Warns",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blte161b23f0fd3a84b/60b1ea374e7eb868c4c6a293/dr_staff_125x125.jpg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blte161b23f0fd3a84b/60b1ea374e7eb868c4c6a293/dr_staff_125x125.jpg"
+        },
         {
           "id": "https://www.darkreading.com/vulnerabilities-threats/ransomware-gang-demands-10m-attack-french-hospital",
           "author": "Dark Reading Staff, Dark Reading",
@@ -3547,31 +3557,6 @@
             "length": "0"
           },
           "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltf8b5a94afa71c53a/628e3799daa31875dc0c9fc0/NathanEddyHeadshot.PNG"
-        },
-        {
-          "id": "https://www.darkreading.com/vulnerabilities-threats/the-beautiful-lies-of-machine-learning-in-security",
-          "author": "Anna Belak, Director of Thought Leadership, Sysdig",
-          "description": "Machine learning should be considered an extension of — not a replacement for — existing security methods, systems, and teams.",
-          "link": "https://www.darkreading.com/vulnerabilities-threats/the-beautiful-lies-of-machine-learning-in-security",
-          "publishedOn": "2022-07-26T14:00:00.000Z",
-          "wordCount": 14661,
-          "title": "The Beautiful Lies of Machine Learning in Security",
-          "enclosure": {
-            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltce3cc1d0aad14af2/620aa9e0a910435cbc7553b2/Anna_Belak.png",
-            "type": "image/*",
-            "length": "0"
-          },
-          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltce3cc1d0aad14af2/620aa9e0a910435cbc7553b2/Anna_Belak.png"
-        },
-        {
-          "id": "https://www.darkreading.com/operations/siemens-energy-takes-next-step-to-protect-critical-infrastructure",
-          "author": null,
-          "description": "Company joins AWS Partner Network to provide customers with industrial cybersecurity solution to ensure reliable electricity and fuel supplies.",
-          "link": "https://www.darkreading.com/operations/siemens-energy-takes-next-step-to-protect-critical-infrastructure",
-          "publishedOn": "2022-07-26T13:27:50.000Z",
-          "wordCount": 12553,
-          "title": "Siemens Energy Takes Next Step to Protect Critical Infrastructure",
-          "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
         }
       ]
     },
@@ -4337,16 +4322,6 @@
           "wordCount": 2144,
           "title": "New Report Reveals that Ransomware and Business Email Compromise Attacks Cause Nearly 70% of Cyber Incidents",
           "imageUrl": "https://blog.knowbe4.com/hubfs/AI%20Cyberattacks.jpg#keepProtocol"
-        },
-        {
-          "id": "https://blog.knowbe4.com/beware-microsoft-and-facebook-are-the-most-abused-brands-for-phishing-attempts",
-          "author": "Stu Sjouwerman",
-          "description": "We all know that big brands can be exploited by bad actors in order to execute successful phishing attacks. Now a new study is showing phishing attacks leveraging big brands Microsoft and Facebook as the top abused brands.",
-          "link": "https://blog.knowbe4.com/beware-microsoft-and-facebook-are-the-most-abused-brands-for-phishing-attempts",
-          "publishedOn": "2022-07-26T15:39:59.000Z",
-          "wordCount": 2040,
-          "title": "[BEWARE] Microsoft and Facebook are the Most Abused Brands for Phishing Attempts",
-          "imageUrl": "https://blog.knowbe4.com/hubfs/phishing-website.jpg#keepProtocol"
         }
       ]
     },
@@ -5738,39 +5713,6 @@
           "publishedOn": "2022-07-26T16:16:45.040Z",
           "wordCount": null,
           "title": "Experts Find Similarities Between New LockBit 3.0 and BlackMatter Ransomware",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "tag:blogger.com,1999:blog-4802841478634147276.post-550039964870809907",
-          "author": "noreply@blogger.com (Ravie Lakshmanan)",
-          "description": "Microsoft is now taking steps to prevent Remote Desktop Protocol (RDP) brute-force attacks as part of the latest builds for the Windows 11 operating system in an attempt to raise the security baseline to meet the evolving threat landscape.\nTo that end, the default policy for Windows 11 builds – particularly, Insider Preview builds 22528.1000 and newer – will automatically lock accounts for 10",
-          "link": "https://thehackernews.com/2022/07/microsoft-adds-default-protection.html",
-          "publishedOn": "2022-07-26T11:50:27.718Z",
-          "wordCount": null,
-          "title": "Microsoft Adds Default Protection Against RDP Brute-Force Attacks in Windows 11",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "tag:blogger.com,1999:blog-4802841478634147276.post-2582996623465099477",
-          "author": "noreply@blogger.com (Ravie Lakshmanan)",
-          "description": "Malicious actors are exploiting a previously unknown security flaw in the open source PrestaShop e-commerce platform to inject malicious skimmer code designed to swipe sensitive information.\n\"Attackers have found a way to use a security vulnerability to carry out arbitrary code execution in servers running PrestaShop websites,\" the company noted in an advisory published on July 22.\nPrestaShop is",
-          "link": "https://thehackernews.com/2022/07/hackers-exploit-prestashop-zero-day-to.html",
-          "publishedOn": "2022-07-26T11:50:06.277Z",
-          "wordCount": null,
-          "title": "Hackers Exploit PrestaShop Zero-Day to Steal Payment Data from Online Stores",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "tag:blogger.com,1999:blog-4802841478634147276.post-6147719882988217900",
-          "author": "noreply@blogger.com (Ravie Lakshmanan)",
-          "description": "FileWave's mobile device management (MDM) system has been found vulnerable to two critical security flaws that could be leveraged to carry out remote attacks and seize control of a fleet of devices connected to it.\n\"The vulnerabilities are remotely exploitable and enable an attacker to bypass authentication mechanisms and gain full control over the MDM platform and its managed devices,\" Claroty",
-          "link": "https://thehackernews.com/2022/07/critical-filewave-mdm-flaws-open.html",
-          "publishedOn": "2022-07-26T10:12:33.871Z",
-          "wordCount": null,
-          "title": "Critical FileWave MDM Flaws Open Organization-Managed Devices to Remote Hackers",
           "itunes": {},
           "imageUrl": null
         }

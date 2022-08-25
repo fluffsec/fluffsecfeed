@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-08-24T19:20:04.175Z</updated>
+    <updated>2022-08-25T03:41:39.193Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[CISA: Just-Disclosed Palo Alto Networks Firewall Bug Under Active Exploit]]></title>
+        <id>https://www.darkreading.com/vulnerabilities-threats/cisa-palo-alto-firewall-bug-active-exploit</id>
+        <link href="https://www.darkreading.com/vulnerabilities-threats/cisa-palo-alto-firewall-bug-active-exploit"/>
+        <updated>2022-08-24T19:59:35.000Z</updated>
+        <summary type="html"><![CDATA[The bug tracked as CVE-2022-0028 allows attackers to hijack firewalls without authentication, in order to mount DDoS hits on their targets of choice.]]></summary>
+        <author>
+            <name>Tara Seals, Managing Editor, News, Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Efficient 'MagicWeb' Malware Subverts AD FS Authentication, Microsoft Warns]]></title>
+        <id>https://www.darkreading.com/threat-intelligence/efficient-magicweb-malware-subverts-ad-fs-authentication-microsoft</id>
+        <link href="https://www.darkreading.com/threat-intelligence/efficient-magicweb-malware-subverts-ad-fs-authentication-microsoft"/>
+        <updated>2022-08-24T19:29:23.000Z</updated>
+        <summary type="html"><![CDATA[The Russia-backed Nobelium APT has pioneered a post-exploitation tool allowing attackers to authenticate as any user.]]></summary>
+        <author>
+            <name>Dark Reading Staff, Dark Reading</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ransomware Gang Demands $10M in Attack on French Hospital]]></title>
         <id>https://www.darkreading.com/vulnerabilities-threats/ransomware-gang-demands-10m-attack-french-hospital</id>
@@ -4984,90 +5004,6 @@ Amadey, a]]></summary>
         <updated>2022-07-26T16:16:45.040Z</updated>
         <summary type="html"><![CDATA[Cybersecurity researchers have reiterated similarities between the latest iteration of the LockBit ransomware and BlackMatter, a rebranded variant of the DarkSide ransomware strain that closed shop in November 2021.
 The new version of LockBit, called LockBit 3.0 aka LockBit Black, was released in June 2022, launching a brand new leak site and what's the very first ransomware bug bounty program,]]></summary>
-        <author>
-            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[BEWARE] Microsoft and Facebook are the Most Abused Brands for Phishing Attempts]]></title>
-        <id>https://blog.knowbe4.com/beware-microsoft-and-facebook-are-the-most-abused-brands-for-phishing-attempts</id>
-        <link href="https://blog.knowbe4.com/beware-microsoft-and-facebook-are-the-most-abused-brands-for-phishing-attempts"/>
-        <updated>2022-07-26T15:39:59.000Z</updated>
-        <summary type="html"><![CDATA[We all know that big brands can be exploited by bad actors in order to execute successful phishing attacks. Now a new study is showing phishing attacks leveraging big brands Microsoft and Facebook as the top abused brands.]]></summary>
-        <author>
-            <name>Stu Sjouwerman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Beautiful Lies of Machine Learning in Security]]></title>
-        <id>https://www.darkreading.com/vulnerabilities-threats/the-beautiful-lies-of-machine-learning-in-security</id>
-        <link href="https://www.darkreading.com/vulnerabilities-threats/the-beautiful-lies-of-machine-learning-in-security"/>
-        <updated>2022-07-26T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Machine learning should be considered an extension of — not a replacement for — existing security methods, systems, and teams.]]></summary>
-        <author>
-            <name>Anna Belak, Director of Thought Leadership, Sysdig</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Siemens Energy Takes Next Step to Protect Critical Infrastructure]]></title>
-        <id>https://www.darkreading.com/operations/siemens-energy-takes-next-step-to-protect-critical-infrastructure</id>
-        <link href="https://www.darkreading.com/operations/siemens-energy-takes-next-step-to-protect-critical-infrastructure"/>
-        <updated>2022-07-26T13:27:50.000Z</updated>
-        <summary type="html"><![CDATA[Company joins AWS Partner Network to provide customers with industrial cybersecurity solution to ensure reliable electricity and fuel supplies.]]></summary>
-        <author>
-            <name>Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[IoT Botnets Fuels DDoS Attacks – Are You Prepared?]]></title>
-        <id>https://kasperskycontenthub.com/threatpost-global/?p=180273</id>
-        <link href="https://threatpost.com/ddos-attacks-prepared/180273/"/>
-        <updated>2022-07-26T12:38:21.000Z</updated>
-        <summary type="html"><![CDATA[The increased proliferation of IoT devices paved the way for the rise of IoT botnets that amplifies DDoS attacks today. This is a dangerous warning that the possibility of a sophisticated DDoS attack and a prolonged service outage will prevent businesses from growing.]]></summary>
-        <author>
-            <name>Sponsored Content</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[IoT Botnets Fuels DDoS Attacks – Are You Prepared?]]></title>
-        <id>https://kasperskycontenthub.com/threatpost-global/?p=180273</id>
-        <link href="https://threatpost.com/ddos-attacks-prepared/180273/"/>
-        <updated>2022-07-26T12:38:21.000Z</updated>
-        <summary type="html"><![CDATA[The increased proliferation of IoT devices paved the way for the rise of IoT botnets that amplifies DDoS attacks today. This is a dangerous warning that the possibility of a sophisticated DDoS attack and a prolonged service outage will prevent businesses from growing.]]></summary>
-        <author>
-            <name>Sponsored Content</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft Adds Default Protection Against RDP Brute-Force Attacks in Windows 11]]></title>
-        <id>tag:blogger.com,1999:blog-4802841478634147276.post-550039964870809907</id>
-        <link href="https://thehackernews.com/2022/07/microsoft-adds-default-protection.html"/>
-        <updated>2022-07-26T11:50:27.718Z</updated>
-        <summary type="html"><![CDATA[Microsoft is now taking steps to prevent Remote Desktop Protocol (RDP) brute-force attacks as part of the latest builds for the Windows 11 operating system in an attempt to raise the security baseline to meet the evolving threat landscape.
-To that end, the default policy for Windows 11 builds – particularly, Insider Preview builds 22528.1000 and newer – will automatically lock accounts for 10]]></summary>
-        <author>
-            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hackers Exploit PrestaShop Zero-Day to Steal Payment Data from Online Stores]]></title>
-        <id>tag:blogger.com,1999:blog-4802841478634147276.post-2582996623465099477</id>
-        <link href="https://thehackernews.com/2022/07/hackers-exploit-prestashop-zero-day-to.html"/>
-        <updated>2022-07-26T11:50:06.277Z</updated>
-        <summary type="html"><![CDATA[Malicious actors are exploiting a previously unknown security flaw in the open source PrestaShop e-commerce platform to inject malicious skimmer code designed to swipe sensitive information.
-"Attackers have found a way to use a security vulnerability to carry out arbitrary code execution in servers running PrestaShop websites," the company noted in an advisory published on July 22.
-PrestaShop is]]></summary>
-        <author>
-            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Critical FileWave MDM Flaws Open Organization-Managed Devices to Remote Hackers]]></title>
-        <id>tag:blogger.com,1999:blog-4802841478634147276.post-6147719882988217900</id>
-        <link href="https://thehackernews.com/2022/07/critical-filewave-mdm-flaws-open.html"/>
-        <updated>2022-07-26T10:12:33.871Z</updated>
-        <summary type="html"><![CDATA[FileWave's mobile device management (MDM) system has been found vulnerable to two critical security flaws that could be leveraged to carry out remote attacks and seize control of a fleet of devices connected to it.
-"The vulnerabilities are remotely exploitable and enable an attacker to bypass authentication mechanisms and gain full control over the MDM platform and its managed devices," Claroty]]></summary>
         <author>
             <name>noreply@blogger.com (Ravie Lakshmanan)</name>
         </author>
