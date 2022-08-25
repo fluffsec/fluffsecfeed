@@ -3517,46 +3517,6 @@
             "length": "0"
           },
           "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt8e7bd143d726930b/627271268681151716941064/BeckyB.jpg"
-        },
-        {
-          "id": "https://www.darkreading.com/attacks-breaches/flying-blind-in-security-operations",
-          "author": null,
-          "description": "Too many organizations are STILL getting breached. Every day across large and small organizations, intrusions and breaches happen.",
-          "link": "https://www.darkreading.com/attacks-breaches/flying-blind-in-security-operations",
-          "publishedOn": "2022-07-26T17:46:47.000Z",
-          "wordCount": 14065,
-          "title": "Flying Blind in Security Operations",
-          "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
-        },
-        {
-          "id": "https://www.darkreading.com/risk/how-risk-based-vulnerability-management-has-made-security-easier",
-          "author": "Ed Bellis, Co-Founder and CTO, Kenna Security, now a part of Cisco",
-          "description": "Trying to remediate everything was never a winning strategy. RBVM is an approach that gets organizations better results with less effort.",
-          "link": "https://www.darkreading.com/risk/how-risk-based-vulnerability-management-has-made-security-easier",
-          "publishedOn": "2022-07-26T17:00:00.000Z",
-          "wordCount": 14194,
-          "title": "How Risk-Based Vulnerability Management Has Made Security Easier",
-          "enclosure": {
-            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltd7375cac383d25a2/619c2500c134f57da7cb0ff4/ed-bellis-cisco.jpg",
-            "type": "image/*",
-            "length": "0"
-          },
-          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltd7375cac383d25a2/619c2500c134f57da7cb0ff4/ed-bellis-cisco.jpg"
-        },
-        {
-          "id": "https://www.darkreading.com/application-security/ducktail-spearphishing-linkedin-hijack-facebook-business-accounts",
-          "author": "Nathan Eddy, Contributing Writer, Dark Reading",
-          "description": "Ducktail targets marketing and HR professionals through LinkedIn to hijack Facebook accounts and run malvertising schemes.",
-          "link": "https://www.darkreading.com/application-security/ducktail-spearphishing-linkedin-hijack-facebook-business-accounts",
-          "publishedOn": "2022-07-26T16:28:42.000Z",
-          "wordCount": 13584,
-          "title": "Ducktail Spear-Phishing Campaign Uses LinkedIn to Hijack Facebook Business Accounts",
-          "enclosure": {
-            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltf8b5a94afa71c53a/628e3799daa31875dc0c9fc0/NathanEddyHeadshot.PNG",
-            "type": "image/*",
-            "length": "0"
-          },
-          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltf8b5a94afa71c53a/628e3799daa31875dc0c9fc0/NathanEddyHeadshot.PNG"
         }
       ]
     },
@@ -4330,6 +4290,17 @@
       "feedUrl": "https://thehackernews.com/feeds/posts/default",
       "siteUrl": "https://thehackernews.com/",
       "articles": [
+        {
+          "id": "tag:blogger.com,1999:blog-4802841478634147276.post-5497107437712622788",
+          "author": "noreply@blogger.com (Ravie Lakshmanan)",
+          "description": "The Python Package Index, PyPI, on Wednesday sounded the alarm about an ongoing phishing campaign that aims to steal developer credentials and inject malicious updates to legitimate packages.\n\"This is the first known phishing attack against PyPI,\" the maintainers of the official third-party software repository said in a series of tweets.\nThe social engineering attack entails sending",
+          "link": "https://thehackernews.com/2022/08/pypi-repository-warns-python-project.html",
+          "publishedOn": "2022-08-25T04:45:00.000Z",
+          "wordCount": null,
+          "title": "PyPI Repository Warns Python Project Maintainers About Ongoing Phishing Attacks",
+          "itunes": {},
+          "imageUrl": null
+        },
         {
           "id": "tag:blogger.com,1999:blog-4802841478634147276.post-3270427633342443747",
           "author": "noreply@blogger.com (Ravie Lakshmanan)",
@@ -5702,17 +5673,6 @@
           "publishedOn": "2022-07-27T06:36:38.597Z",
           "wordCount": null,
           "title": "SmokeLoader Infecting Targeted Systems with Amadey Info-Stealing Malware",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "tag:blogger.com,1999:blog-4802841478634147276.post-9124630298261290725",
-          "author": "noreply@blogger.com (Ravie Lakshmanan)",
-          "description": "Cybersecurity researchers have reiterated similarities between the latest iteration of the LockBit ransomware and BlackMatter, a rebranded variant of the DarkSide ransomware strain that closed shop in November 2021.\nThe new version of LockBit, called LockBit 3.0 aka LockBit Black, was released in June 2022, launching a brand new leak site and what's the very first ransomware bug bounty program,",
-          "link": "https://thehackernews.com/2022/07/experts-find-similarities-between.html",
-          "publishedOn": "2022-07-26T16:16:45.040Z",
-          "wordCount": null,
-          "title": "Experts Find Similarities Between New LockBit 3.0 and BlackMatter Ransomware",
           "itunes": {},
           "imageUrl": null
         }

@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-08-25T03:41:39.193Z</updated>
+    <updated>2022-08-25T07:28:14.286Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[PyPI Repository Warns Python Project Maintainers About Ongoing Phishing Attacks]]></title>
+        <id>tag:blogger.com,1999:blog-4802841478634147276.post-5497107437712622788</id>
+        <link href="https://thehackernews.com/2022/08/pypi-repository-warns-python-project.html"/>
+        <updated>2022-08-25T04:45:00.000Z</updated>
+        <summary type="html"><![CDATA[The Python Package Index, PyPI, on Wednesday sounded the alarm about an ongoing phishing campaign that aims to steal developer credentials and inject malicious updates to legitimate packages.
+"This is the first known phishing attack against PyPI," the maintainers of the official third-party software repository said in a series of tweets.
+The social engineering attack entails sending]]></summary>
+        <author>
+            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CISA: Just-Disclosed Palo Alto Networks Firewall Bug Under Active Exploit]]></title>
         <id>https://www.darkreading.com/vulnerabilities-threats/cisa-palo-alto-firewall-bug-active-exploit</id>
@@ -4965,47 +4977,6 @@ Amadey, a]]></summary>
         <summary type="html"><![CDATA[Attackers are easily turning popular messaging apps and their associated services — like bots, cloud infrastructure, and CDNs — against users, researchers warn.]]></summary>
         <author>
             <name>Becky Bracken, Editor, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Flying Blind in Security Operations]]></title>
-        <id>https://www.darkreading.com/attacks-breaches/flying-blind-in-security-operations</id>
-        <link href="https://www.darkreading.com/attacks-breaches/flying-blind-in-security-operations"/>
-        <updated>2022-07-26T17:46:47.000Z</updated>
-        <summary type="html"><![CDATA[Too many organizations are STILL getting breached. Every day across large and small organizations, intrusions and breaches happen.]]></summary>
-        <author>
-            <name>Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Risk-Based Vulnerability Management Has Made Security Easier]]></title>
-        <id>https://www.darkreading.com/risk/how-risk-based-vulnerability-management-has-made-security-easier</id>
-        <link href="https://www.darkreading.com/risk/how-risk-based-vulnerability-management-has-made-security-easier"/>
-        <updated>2022-07-26T17:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Trying to remediate everything was never a winning strategy. RBVM is an approach that gets organizations better results with less effort.]]></summary>
-        <author>
-            <name>Ed Bellis, Co-Founder and CTO, Kenna Security, now a part of Cisco</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ducktail Spear-Phishing Campaign Uses LinkedIn to Hijack Facebook Business Accounts]]></title>
-        <id>https://www.darkreading.com/application-security/ducktail-spearphishing-linkedin-hijack-facebook-business-accounts</id>
-        <link href="https://www.darkreading.com/application-security/ducktail-spearphishing-linkedin-hijack-facebook-business-accounts"/>
-        <updated>2022-07-26T16:28:42.000Z</updated>
-        <summary type="html"><![CDATA[Ducktail targets marketing and HR professionals through LinkedIn to hijack Facebook accounts and run malvertising schemes.]]></summary>
-        <author>
-            <name>Nathan Eddy, Contributing Writer, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Experts Find Similarities Between New LockBit 3.0 and BlackMatter Ransomware]]></title>
-        <id>tag:blogger.com,1999:blog-4802841478634147276.post-9124630298261290725</id>
-        <link href="https://thehackernews.com/2022/07/experts-find-similarities-between.html"/>
-        <updated>2022-07-26T16:16:45.040Z</updated>
-        <summary type="html"><![CDATA[Cybersecurity researchers have reiterated similarities between the latest iteration of the LockBit ransomware and BlackMatter, a rebranded variant of the DarkSide ransomware strain that closed shop in November 2021.
-The new version of LockBit, called LockBit 3.0 aka LockBit Black, was released in June 2022, launching a brand new leak site and what's the very first ransomware bug bounty program,]]></summary>
-        <author>
-            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
         </author>
     </entry>
 </feed>
