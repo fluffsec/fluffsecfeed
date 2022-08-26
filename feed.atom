@@ -2,10 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-08-26T07:27:15.171Z</updated>
+    <updated>2022-08-26T13:41:29.630Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Endpoint Protection / Antivirus Products Tested for Malware Protection]]></title>
+        <id>https://www.darkreading.com/endpoint/endpoint-protection-antivirus-products-tested-for-malware-protection</id>
+        <link href="https://www.darkreading.com/endpoint/endpoint-protection-antivirus-products-tested-for-malware-protection"/>
+        <updated>2022-08-26T13:18:17.000Z</updated>
+        <summary type="html"><![CDATA[Six out of the eight products achieved an "A" rating or higher for blocking malware attacks. Reports are provided to the community for free.]]></summary>
+        <author>
+            <name>Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Capital One Joins Open Source Security Foundation]]></title>
+        <id>https://www.darkreading.com/application-security/capital-one-joins-open-source-security-foundation</id>
+        <link href="https://www.darkreading.com/application-security/capital-one-joins-open-source-security-foundation"/>
+        <updated>2022-08-26T13:02:52.000Z</updated>
+        <summary type="html"><![CDATA[OpenSSF welcomes Capital One as a premier member affirming its commitment to strengthening the open source software supply chain.]]></summary>
+        <author>
+            <name>Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Researchers warn of darkverse emerging from the metaverse]]></title>
+        <id>https://blog.knowbe4.com/researchers-warn-of-darkverse-emerging-from-the-metaverse</id>
+        <link href="https://blog.knowbe4.com/researchers-warn-of-darkverse-emerging-from-the-metaverse"/>
+        <updated>2022-08-26T12:03:03.000Z</updated>
+        <summary type="html"><![CDATA[ARN just reported: "The metaverse is seen by many companies as a great business opportunity and for new ways of working. Security provider Trend Micro, however, warns in a recent research report that cyber criminals could misuse the technology for their own purposes.]]></summary>
+        <author>
+            <name>Stu Sjouwerman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hackers Breach LastPass Developer System to Steal Source Code]]></title>
+        <id>tag:blogger.com,1999:blog-4802841478634147276.post-4943661221671082867</id>
+        <link href="https://thehackernews.com/2022/08/hackers-breach-lastpass-developer.html"/>
+        <updated>2022-08-26T09:10:00.000Z</updated>
+        <summary type="html"><![CDATA[Password management service LastPass confirmed a security incident that resulted in the theft of certain source code and technical information.
+The security breach is said to have occurred two weeks ago, targeting its development environment. No customer data or encrypted passwords were accessed.
+
+“An unauthorized party gained access to portions of the LastPass development]]></summary>
+        <author>
+            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Cybercrime Groups Increasingly Adopting Sliver Command-and-Control Framework]]></title>
         <id>tag:blogger.com,1999:blog-4802841478634147276.post-2412842647476493331</id>
@@ -4952,56 +4995,6 @@ Customers]]></summary>
 Tracked as CVE-2022-26305, the issue has been described as a case of improper certificate validation when checking whether a macro is signed by a trusted author, leading to the execution of]]></summary>
         <author>
             <name>noreply@blogger.com (Ravie Lakshmanan)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[When Human Security Meets PerimeterX]]></title>
-        <id>https://www.darkreading.com/dr-tech/when-human-security-meets-perimeterx</id>
-        <link href="https://www.darkreading.com/dr-tech/when-human-security-meets-perimeterx"/>
-        <updated>2022-07-28T00:44:02.000Z</updated>
-        <summary type="html"><![CDATA[Dark Reading's analysis suggests that the merger between Human Security and PerimeterX will bring modern defense strategies to disrupt cybercrime and fraud.]]></summary>
-        <author>
-            <name>Jonathan Care, Contributing Writer, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OneTouchPoint, Inc. Provides Notice of Data Privacy Event]]></title>
-        <id>https://www.darkreading.com/attacks-breaches/onetouchpoint-inc-provides-notice-of-data-privacy-event</id>
-        <link href="https://www.darkreading.com/attacks-breaches/onetouchpoint-inc-provides-notice-of-data-privacy-event"/>
-        <updated>2022-07-27T23:31:55.000Z</updated>
-        <summary type="html"><![CDATA[.]]></summary>
-        <author>
-            <name>Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Overcoming the Fail-to-Challenge Vulnerability With a Friendly Face]]></title>
-        <id>https://www.darkreading.com/edge-articles/overcoming-the-fail-to-challenge-vulnerability-with-a-friendly-face</id>
-        <link href="https://www.darkreading.com/edge-articles/overcoming-the-fail-to-challenge-vulnerability-with-a-friendly-face"/>
-        <updated>2022-07-27T23:10:52.000Z</updated>
-        <summary type="html"><![CDATA[Ahead of their Black Hat USA talk in August, Simon Pavitt and Stephen Dewsnip explain the value of helping people practice cyber defense via a "malicious floorwalker" exercise.]]></summary>
-        <author>
-            <name>Karen Spiegelman, Features Editor</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Samba Releases Security Updates]]></title>
-        <id>17833 at https://us-cert.cisa.gov</id>
-        <link href="https://us-cert.cisa.gov/ncas/current-activity/2022/07/27/samba-releases-security-updates"/>
-        <updated>2022-07-27T20:11:30.000Z</updated>
-        <summary type="html"><![CDATA[Original release date: July 27, 2022 | Last revised: July 28, 2022
-The Samba Team has released security updates to address vulnerabilities in multiple versions of Samba. An attacker could exploit one of these vulnerabilities to take control of an affected system. 
-CISA encourages users and administrators to review the following Samba Security Announcements and apply the necessary updates and workarounds. 
-•    CVE-2022-2031  
-CVE-2022-32742
-CVE-2022-32744
-CVE-2022-32745
-CVE-2022-32746
-
- 
-This product is provided subject to this Notification and this Privacy & Use policy.]]></summary>
-        <author>
-            <name>CISA</name>
         </author>
     </entry>
 </feed>
