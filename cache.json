@@ -477,6 +477,16 @@
       "siteUrl": "https://threatpost.com",
       "articles": [
         {
+          "id": "https://kasperskycontenthub.com/threatpost-global/?p=180481",
+          "author": "Nate Nelson",
+          "description": "Lockbit is by far this summer’s most prolific ransomware group, trailed by two offshoots of the Conti group.",
+          "link": "https://threatpost.com/ransomware-attacks-are-on-the-rise/180481/",
+          "publishedOn": "2022-08-26T16:44:27.000Z",
+          "wordCount": 1761,
+          "title": "Ransomware Attacks are on the Rise",
+          "imageUrl": "https://media.kasperskycontenthub.com/wp-content/uploads/sites/103/2019/12/24125329/Ransomware_700_420.png"
+        },
+        {
           "id": "https://kasperskycontenthub.com/threatpost-global/?p=180478",
           "author": "Nate Nelson",
           "description": "Tens of thousands of cameras have failed to patch a critical, 11-month-old CVE, leaving thousands of organizations exposed.",
@@ -603,6 +613,66 @@
       "feedUrl": "https://www.darkreading.com/rss.xml",
       "siteUrl": "https://www.darkreading.com",
       "articles": [
+        {
+          "id": "https://www.darkreading.com/cloud/lastpass-data-breach-source-code-stolen",
+          "author": "Tara Seals, Managing Editor, News, Dark Reading",
+          "description": "Researchers warned that cyberattackers will be probing the code for weaknesses to exploit later.",
+          "link": "https://www.darkreading.com/cloud/lastpass-data-breach-source-code-stolen",
+          "publishedOn": "2022-08-26T17:37:45.000Z",
+          "wordCount": 8790,
+          "title": "LastPass Suffers Data Breach, Source Code Stolen",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltea67136f81f32eca/626a9eb4726e3315b16b3c64/Tara-Seals-Headshot2.jpg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltea67136f81f32eca/626a9eb4726e3315b16b3c64/Tara-Seals-Headshot2.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/vulnerabilities-threats/-sliver-cobalt-strike-alternative-malicious-c2",
+          "author": "Jai Vijayan, Contributing Writer, Dark Reading",
+          "description": "Microsoft and others say they have observed nation-state actors, ransomware purveyors, and assorted cybercriminals pivoting to an open source attack-emulation tool in recent campaigns.",
+          "link": "https://www.darkreading.com/vulnerabilities-threats/-sliver-cobalt-strike-alternative-malicious-c2",
+          "publishedOn": "2022-08-26T15:45:25.000Z",
+          "wordCount": 11616,
+          "title": "'Sliver' Emerges as Cobalt Strike Alternative for Malicious C2",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt02d79fb9a44a4258/60b1e9dd2a25046b35110696/Jai-Vijayan.jpeg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt02d79fb9a44a4258/60b1e9dd2a25046b35110696/Jai-Vijayan.jpeg"
+        },
+        {
+          "id": "https://www.darkreading.com/dr-tech/-no-party-data-architectures-promise-more-control-better-security",
+          "author": "Robert Lemos, Contributing Writer, Dark Reading",
+          "description": "Consumers gain control of their data while companies build better relationships with their customers — but third-party ad-tech firms will likely continue to stand in the way.",
+          "link": "https://www.darkreading.com/dr-tech/-no-party-data-architectures-promise-more-control-better-security",
+          "publishedOn": "2022-08-26T14:05:18.000Z",
+          "wordCount": 12558,
+          "title": "'No-Party' Data Architectures Promise More Control, Better Security",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt58481326324d6911/60b1e9a55d34de550780a990/Robert-Lemos.png",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt58481326324d6911/60b1e9a55d34de550780a990/Robert-Lemos.png"
+        },
+        {
+          "id": "https://www.darkreading.com/application-security/how-devsecops-empowers-citizen-developers",
+          "author": "Daniel Riedel, Senior Vice President, Strategic Services, Copado",
+          "description": "DevSecOps can help overcome inheritance mentality, especially in low- and no-code environments.",
+          "link": "https://www.darkreading.com/application-security/how-devsecops-empowers-citizen-developers",
+          "publishedOn": "2022-08-26T14:00:00.000Z",
+          "wordCount": 11434,
+          "title": "How DevSecOps Empowers Citizen Developers",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltaef796bf60379df2/6286f338ef83f961a70e3d09/D_Riedel.png",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltaef796bf60379df2/6286f338ef83f961a70e3d09/D_Riedel.png"
+        },
         {
           "id": "https://www.darkreading.com/endpoint/endpoint-protection-antivirus-products-tested-for-malware-protection",
           "author": null,
@@ -5647,17 +5717,6 @@
           "publishedOn": "2022-07-28T10:56:39.887Z",
           "wordCount": null,
           "title": "New Ducktail Infostealer Malware Targeting Facebook Business and Ad Accounts",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "tag:blogger.com,1999:blog-4802841478634147276.post-1211581427129802840",
-          "author": "noreply@blogger.com (Ravie Lakshmanan)",
-          "description": "The team behind LibreOffice has released security updates to fix three security flaws in the productivity software, one of which could be exploited to achieve arbitrary code execution on affected systems.\nTracked as CVE-2022-26305, the issue has been described as a case of improper certificate validation when checking whether a macro is signed by a trusted author, leading to the execution of",
-          "link": "https://thehackernews.com/2022/07/libreoffice-releases-software-security.html",
-          "publishedOn": "2022-07-28T06:42:06.885Z",
-          "wordCount": null,
-          "title": "LibreOffice Releases Software Update to Patch 3 New Vulnerabilities",
           "itunes": {},
           "imageUrl": null
         }
