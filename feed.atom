@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-08-26T03:49:03.310Z</updated>
+    <updated>2022-08-26T07:27:15.171Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Cybercrime Groups Increasingly Adopting Sliver Command-and-Control Framework]]></title>
+        <id>tag:blogger.com,1999:blog-4802841478634147276.post-2412842647476493331</id>
+        <link href="https://thehackernews.com/2022/08/cybercrime-groups-increasingly-adopting.html"/>
+        <updated>2022-08-26T06:52:00.000Z</updated>
+        <summary type="html"><![CDATA[Nation-state threat actors are increasingly adopting and integrating the Sliver command-and-control (C2) framework in their intrusion campaigns as a replacement for Cobalt Strike.
+“Given Cobalt Strike’s popularity as an attack tool, defenses against it have also improved over time,” Microsoft security experts said. “Sliver thus presents an attractive alternative for actors looking for a]]></summary>
+        <author>
+            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Twilio Hackers Scarf 10K Okta Credentials in Sprawling Supply Chain Attack]]></title>
         <id>https://www.darkreading.com/remote-workforce/twilio-hackers-okta-credentials-sprawling-supply-chain-attack</id>
@@ -4991,80 +5002,6 @@ CVE-2022-32746
 This product is provided subject to this Notification and this Privacy & Use policy.]]></summary>
         <author>
             <name>CISA</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Multiple Windows, Adobe Zero-Days Anchor Knotweed Commercial Spyware]]></title>
-        <id>https://www.darkreading.com/endpoint/windows-adobe-zero-days-knotweed-commercial-spyware</id>
-        <link href="https://www.darkreading.com/endpoint/windows-adobe-zero-days-knotweed-commercial-spyware"/>
-        <updated>2022-07-27T18:49:47.000Z</updated>
-        <summary type="html"><![CDATA[Microsoft flagged the company's Subzero tool set as on offer to unscrupulous governments and shady business interests.]]></summary>
-        <author>
-            <name>Tara Seals, Managing Editor, News, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[US Offers $10M Double-Reward for North Korea Cyberattacker Info]]></title>
-        <id>https://www.darkreading.com/endpoint/us-10m-double-reward-north-korea-cyberattacker-info</id>
-        <link href="https://www.darkreading.com/endpoint/us-10m-double-reward-north-korea-cyberattacker-info"/>
-        <updated>2022-07-27T17:42:03.000Z</updated>
-        <summary type="html"><![CDATA[North Korean state-sponsored actors, who help economically prop up Kim Jong Un's dictatorship, continue to pummel US infrastructure.]]></summary>
-        <author>
-            <name>Becky Bracken, Editor, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Average Data Breach Costs Soar to $4.4M in 2022]]></title>
-        <id>https://www.darkreading.com/risk/most-companies-pass-on-breach-costs-to-customers</id>
-        <link href="https://www.darkreading.com/risk/most-companies-pass-on-breach-costs-to-customers"/>
-        <updated>2022-07-27T17:21:51.000Z</updated>
-        <summary type="html"><![CDATA[Call it a "cyber tax": Those costs are usually passed on to consumers, not investors, as compromised businesses raise prices for goods and services.]]></summary>
-        <author>
-            <name>Robert Lemos, Contributing Writer, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Is Your Home or Small Business Built on Secure Foundations? Think Again…]]></title>
-        <id>https://www.darkreading.com/physical-security/is-your-home-or-small-business-built-on-secure-foundations-think-again-</id>
-        <link href="https://www.darkreading.com/physical-security/is-your-home-or-small-business-built-on-secure-foundations-think-again-"/>
-        <updated>2022-07-27T17:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Did you know that the standard router relied upon in homes and by thousands of small businesses is the most frequently attacked IoT device? James Willison, Project and Engagement Manager, IoT Security Foundation, explores the issue and reveals an ongoing initiative from the foundation that is designed to better secure the devices.]]></summary>
-        <author>
-            <name>IFSEC Global, Staff</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vulnerability Spotlight: How a code re-use issue led to vulnerabilities across multiple products]]></title>
-        <id>https://blog.talosintelligence.com/2022/07/vulnerability-spotlight-how-code-re-use.html</id>
-        <link href="https://blog.talosintelligence.com/2022/07/vulnerability-spotlight-how-code-re-use.html"/>
-        <updated>2022-07-27T16:22:00.001Z</updated>
-        <summary type="html"><![CDATA[By Francesco Benvenuto. 
-Recently, I was performing some research on a wireless router and noticed the following piece of code: 
-
-This unescape function will revert the URL encoded bytes to its original form. But something specifically caught my attention: There was no size check for the performed operations and the function assumes that after a ‘%’ there are always two bytes. So, what would happen if after ‘%’, only one character existed? The answer is that the s+3, in the strcpy, will access after the end of the string. So, it could lead to memory corruption. 
-Then, I tried to exploit this bug on the router in question. But based on how the URL string was managed in that device, it was not possible. But it had the potential to crash other web servers that used this piece of code. That fu…]]></summary>
-        <author>
-            <name>Cisco Talos Intelligence Group - Comprehensive Threat Intelligence</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[KnowBe4 Top-Clicked Phishing Email Subjects for Q2 2022 [INFOGRAPHIC]]]></title>
-        <id>https://blog.knowbe4.com/top-clicked-phishing-emails-q2-2022-infographic</id>
-        <link href="https://blog.knowbe4.com/top-clicked-phishing-emails-q2-2022-infographic"/>
-        <updated>2022-07-27T16:16:19.000Z</updated>
-        <summary type="html"><![CDATA[KnowBe4's latest quarterly report on top-clicked phishing email subjects is here. We analyze 'in the wild' attacks reported via our Phish Alert Button, top subjects globally clicked on in phishing tests, and top attack vector types.]]></summary>
-        <author>
-            <name>Stu Sjouwerman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[First Cohort Graduates from PSM Cyber Stars Program at Liverpool FC]]></title>
-        <id>https://www.darkreading.com/careers-and-people/first-cohort-graduates-from-psm-cyber-stars-program-at-liverpool-fc</id>
-        <link href="https://www.darkreading.com/careers-and-people/first-cohort-graduates-from-psm-cyber-stars-program-at-liverpool-fc"/>
-        <updated>2022-07-27T16:10:39.000Z</updated>
-        <summary type="html"><![CDATA[New careers in IT open up for former footballers.]]></summary>
-        <author>
-            <name>Dark Reading</name>
         </author>
     </entry>
 </feed>
