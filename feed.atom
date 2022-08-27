@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-08-26T19:19:38.734Z</updated>
+    <updated>2022-08-27T03:32:48.382Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Critical Vulnerability Discovered in Atlassian Bitbucket Server and Data Center]]></title>
+        <id>tag:blogger.com,1999:blog-4802841478634147276.post-8799400567224782030</id>
+        <link href="https://thehackernews.com/2022/08/critical-vulnerability-discovered-in.html"/>
+        <updated>2022-08-26T19:39:00.000Z</updated>
+        <summary type="html"><![CDATA[Atlassian has rolled out fixes for a critical security flaw in Bitbucket Server and Data Center that could lead to the execution of malicious code on vulnerable installations.
+Tracked as CVE-2022-36804 (CVSS score: 9.9), the issue has been characterized as a command injection vulnerability in multiple endpoints that could be exploited via specially crafted HTTP requests.
+
+“An]]></summary>
+        <author>
+            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[LastPass Suffers Data Breach, Source Code Stolen]]></title>
         <id>https://www.darkreading.com/cloud/lastpass-data-breach-source-code-stolen</id>
@@ -4925,115 +4938,6 @@ The company, which Microsoft describes as a private-sector offensive actor (PSOA
 "The most consistent feedback we've received is the need for more time to evaluate and test the new Privacy Sandbox technologies before deprecating third-party cookies in Chrome," Anthony Chavez, vice president of Privacy Sandbox, said.]]></summary>
         <author>
             <name>noreply@blogger.com (Ravie Lakshmanan)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CISA Releases Log4Shell-Related MAR]]></title>
-        <id>17836 at https://us-cert.cisa.gov</id>
-        <link href="https://us-cert.cisa.gov/ncas/current-activity/2022/07/28/cisa-releases-log4shell-related-mar-0"/>
-        <updated>2022-07-28T14:46:29.000Z</updated>
-        <summary type="html"><![CDATA[Original release date: July 28, 2022
-From May through June 2022, CISA responded to an organization that was compromised by an exploitation of an unpatched and unmitigated Log4Shell vulnerability in a VMware Horizon server. CISA analyzed five malware samples obtained from the organization’s network and released a Malware Analysis Report of the findings.
-Users and administrators are encouraged to review MAR 10386789-1.v1 for more information. For more information on Log4Shell, see:
-Joint Cybersecurity Advisory (CSA) Malicious Cyber Actors Continue to Exploit Log4Shell in VMware Horizon Systems,
-CISA’s Apache Log4j Vulnerability Guidance webpage,
-Joint CSA Mitigating Log4Shell and Other Log4j-Related Vulnerabilities, and
-CISA’s database of known vulnerable services on the CISA GitHub page.
-This product is provided subject to this Notification and this Privacy & Use policy.]]></summary>
-        <author>
-            <name>CISA</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What Women Should Know Before Joining the Cybersecurity Industry]]></title>
-        <id>https://www.darkreading.com/careers-and-people/what-women-should-know-before-joining-the-cybersecurity-industry</id>
-        <link href="https://www.darkreading.com/careers-and-people/what-women-should-know-before-joining-the-cybersecurity-industry"/>
-        <updated>2022-07-28T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Three observations about our industry that might help demystify security for women entrants.]]></summary>
-        <author>
-            <name>Karin Ophir Zimet, VP, People &amp; Ops, Torq</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft 365 Users are Once Again the Target of Phishing Scams using Fake Voice Mail Messages]]></title>
-        <id>https://blog.knowbe4.com/microsoft-365-users-are-once-again-the-target-of-phishing-scams-using-fake-voice-mail-messages</id>
-        <link href="https://blog.knowbe4.com/microsoft-365-users-are-once-again-the-target-of-phishing-scams-using-fake-voice-mail-messages"/>
-        <updated>2022-07-28T13:04:04.000Z</updated>
-        <summary type="html"><![CDATA[Using a simple email containing a voice mail attachment, an ingenious phishing attack captures credentials while keeping track of the domains being attacked.]]></summary>
-        <author>
-            <name>Stu Sjouwerman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hackers Use Free Email Accounts from QuickBooks to Launch Spoofed Phishing Attacks]]></title>
-        <id>https://blog.knowbe4.com/hackers-use-free-email-accounts-from-quickbooks-to-launch-spoofed-phishing-attacks</id>
-        <link href="https://blog.knowbe4.com/hackers-use-free-email-accounts-from-quickbooks-to-launch-spoofed-phishing-attacks"/>
-        <updated>2022-07-28T13:04:00.000Z</updated>
-        <summary type="html"><![CDATA[A new attack uses one brand email domain to increase the chances of reaching an Inbox, while spoofing another brand to trick users into transitioning to a vishing attack.]]></summary>
-        <author>
-            <name>Stu Sjouwerman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Spear Phishing Campaign Targets Facebook Business Accounts]]></title>
-        <id>https://blog.knowbe4.com/spear-phishing-campaign-targets-facebook-business-accounts</id>
-        <link href="https://blog.knowbe4.com/spear-phishing-campaign-targets-facebook-business-accounts"/>
-        <updated>2022-07-28T13:03:57.000Z</updated>
-        <summary type="html"><![CDATA[Researchers at WithSecure have discovered a spear phishing campaign targeting employees who have access to Facebook Business accounts. The attackers are targeting specific employees, and then sending malware through LinkedIn messages.]]></summary>
-        <author>
-            <name>Stu Sjouwerman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[1,000s of Phishing Attacks Blast Off From InterPlanetary File System]]></title>
-        <id>https://www.darkreading.com/risk/1000s-phishing-attacks-launch-interplanetary-file-system</id>
-        <link href="https://www.darkreading.com/risk/1000s-phishing-attacks-launch-interplanetary-file-system"/>
-        <updated>2022-07-28T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The peer-to-peer network IPFS offers an ingenious base for cyberattacks and is seeing a stratospheric increase in malicious hosting.]]></summary>
-        <author>
-            <name>Nathan Eddy, Contributing Writer, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[IBM: Phishing is the Most Common Way to Gain Access to Victim Networks]]></title>
-        <id>https://blog.knowbe4.com/ibm-phishing-is-the-most-common-way-to-gain-access-to-victim-networks</id>
-        <link href="https://blog.knowbe4.com/ibm-phishing-is-the-most-common-way-to-gain-access-to-victim-networks"/>
-        <updated>2022-07-28T12:55:52.000Z</updated>
-        <summary type="html"><![CDATA[New research from IBM shows four reasons why phishing attacks are still effective and remains the primary attack vector in 41% of cyberattacks.]]></summary>
-        <author>
-            <name>Stu Sjouwerman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Top MSSP CEOs Share 7 Must-Do Tips for Higher MSSP Revenue and Margin]]></title>
-        <id>tag:blogger.com,1999:blog-4802841478634147276.post-7694134648739077799</id>
-        <link href="https://thehackernews.com/2022/07/top-mssp-ceos-share-7-must-do-tips-for.html"/>
-        <updated>2022-07-28T11:11:03.297Z</updated>
-        <summary type="html"><![CDATA[MSSPs must find ways to balance the need to please existing customers, add new ones, and deliver high-margin services against their internal budget constraints and the need to maintain high employee morale.In an environment where there are thousands of potential alerts each day and cyberattacks are growing rapidly in frequency and sophistication, this isn’t an easy balance to maintain.
-Customers]]></summary>
-        <author>
-            <name>noreply@blogger.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Ducktail Infostealer Malware Targeting Facebook Business and Ad Accounts]]></title>
-        <id>tag:blogger.com,1999:blog-4802841478634147276.post-1234838757475555764</id>
-        <link href="https://thehackernews.com/2022/07/new-ducktail-infostealer-malware.html"/>
-        <updated>2022-07-28T10:56:39.887Z</updated>
-        <summary type="html"><![CDATA[Facebook business and advertising accounts are at the receiving end of an ongoing campaign dubbed Ducktail designed to seize control as part of a financially driven cybercriminal operation. 
-"The threat actor targets individuals and employees that may have access to a Facebook Business account with an information-stealer malware," Finnish cybersecurity company WithSecure (formerly F-Secure]]></summary>
-        <author>
-            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[In a Post-Macro World, Container Files Emerge as Malware-Delivery Replacement]]></title>
-        <id>https://www.darkreading.com/endpoint/post-macro-world-container-files-distribute-malware-replacement</id>
-        <link href="https://www.darkreading.com/endpoint/post-macro-world-container-files-distribute-malware-replacement"/>
-        <updated>2022-07-28T09:00:00.000Z</updated>
-        <summary type="html"><![CDATA[With Microsoft disabling Office macros by default, threat actors are increasingly using ISO, RAR, LNK, and similar files to deliver malware because they can get around Windows protections.]]></summary>
-        <author>
-            <name>Jai Vijayan, Contributing Writer, Dark Reading</name>
         </author>
     </entry>
 </feed>
