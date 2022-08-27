@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-08-27T03:32:48.382Z</updated>
+    <updated>2022-08-27T07:22:09.242Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Iranian Hackers Exploiting Unpatched Log4j 2 Bugs to Target Israeli Organizations]]></title>
+        <id>tag:blogger.com,1999:blog-4802841478634147276.post-2618401351707545092</id>
+        <link href="https://thehackernews.com/2022/08/iranian-hackers-exploiting-unpatched.html"/>
+        <updated>2022-08-27T03:23:00.000Z</updated>
+        <summary type="html"><![CDATA[Iranian state-sponsored actors are leaving no stone unturned to exploit unpatched systems running Log4j to target Israeli entities, indicating the vulnerability’s long tail for remediation.
+Microsoft attributed the latest set of activities to the umbrella threat group tracked as MuddyWater (aka Cobalt Ulster, Mercury, Seedworm, or Static Kitten), which is linked to the Iranian intelligence]]></summary>
+        <author>
+            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Critical Vulnerability Discovered in Atlassian Bitbucket Server and Data Center]]></title>
         <id>tag:blogger.com,1999:blog-4802841478634147276.post-8799400567224782030</id>
@@ -4854,88 +4865,6 @@ The bug in question is CVE-2022-26138, which concerns the use of a hard-coded p
         <updated>2022-07-29T02:58:07.644Z</updated>
         <summary type="html"><![CDATA[A cyber mercenary that "ostensibly sells general security and information analysis services to commercial customers" used several Windows and Adobe zero-day exploits in limited and highly-targeted attacks against European and Central American entities.
 The company, which Microsoft describes as a private-sector offensive actor (PSOA), is an Austria-based outfit called DSIRF that's linked to the]]></summary>
-        <author>
-            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Patch Now: Atlassian Confluence Bug Under Active Exploit]]></title>
-        <id>https://www.darkreading.com/cloud/patch-now-atlassian-confluence-bug-active-exploit</id>
-        <link href="https://www.darkreading.com/cloud/patch-now-atlassian-confluence-bug-active-exploit"/>
-        <updated>2022-07-28T18:22:00.000Z</updated>
-        <summary type="html"><![CDATA[Attackers almost immediately leapt on a just-disclosed bug, CVE-2022-26138, affecting Atlassian Confluence, which allows remote, unauthenticated actors unfettered access to Confluence data.]]></summary>
-        <author>
-            <name>Tara Seals, Managing Editor, News, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Threat Actors Pivot Around Microsoft’s Macro-Blocking in Office]]></title>
-        <id>https://kasperskycontenthub.com/threatpost-global/?p=180319</id>
-        <link href="https://threatpost.com/threat-pivot-microsofts-macro/180319/"/>
-        <updated>2022-07-28T17:24:17.000Z</updated>
-        <summary type="html"><![CDATA[Cybercriminals turn to container files and other tactics to get around the company’s attempt to thwart a popular way to deliver malicious phishing payloads.]]></summary>
-        <author>
-            <name>Elizabeth Montalbano</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What the White House's Cybersecurity Workforce Plan Should Look Like]]></title>
-        <id>https://www.darkreading.com/careers-and-people/what-the-white-house-s-cybersecurity-workforce-plan-should-look-like</id>
-        <link href="https://www.darkreading.com/careers-and-people/what-the-white-house-s-cybersecurity-workforce-plan-should-look-like"/>
-        <updated>2022-07-28T17:00:00.000Z</updated>
-        <summary type="html"><![CDATA[By embracing cybersecurity as a critical part of our national security and education strategy, and working together to invest in opportunities for all, we can create a safer, more secure world.]]></summary>
-        <author>
-            <name>Nick Schneider, CEO and President, Arctic Wolf</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Anatomy of a Cloud-Service Security Update]]></title>
-        <id>https://msrc-blog.microsoft.com/?p=14470</id>
-        <link href="https://msrc-blog.microsoft.com/2022/07/28/anatomy-of-a-cloud-service-security-update/"/>
-        <updated>2022-07-28T17:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Our security teams around the world focus on identifying and mitigating security issues as soon as possible while minimizing customer disruption. One of the challenges of a traditional security update is ensuring customers apply the protections promptly. We recently discussed the work that goes into these updates in The Anatomy of a Security update.  Cloud …
-  Anatomy of a Cloud-Service Security Update Read More »]]></summary>
-        <author>
-            <name>Aanchal Gupta</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[APT-Like Phishing Threat Mirrors Landing Pages]]></title>
-        <id>https://www.darkreading.com/endpoint/apt-phishing-mirrors-landing-pages-credential-harvesting</id>
-        <link href="https://www.darkreading.com/endpoint/apt-phishing-mirrors-landing-pages-credential-harvesting"/>
-        <updated>2022-07-28T16:41:06.000Z</updated>
-        <summary type="html"><![CDATA[By dynamically mirroring an organization’s login page, threat actors are propagating legitimate-looking phishing attacks that encourage victims to offer up access to the corporate crown jewels.]]></summary>
-        <author>
-            <name>Nathan Eddy, Contributing Writer, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Phishing-Based Data Breaches Take 295 Days to Contain and Breach Costs Soar to $4.91 Million]]></title>
-        <id>https://blog.knowbe4.com/phishing-based-data-breaches-take-295-days-to-contain-as-data-breaches-soar-to-4.91-million</id>
-        <link href="https://blog.knowbe4.com/phishing-based-data-breaches-take-295-days-to-contain-as-data-breaches-soar-to-4.91-million"/>
-        <updated>2022-07-28T16:33:36.000Z</updated>
-        <summary type="html"><![CDATA[Fresh data on data breach costs from IBM show phishing, business email compromise, and stolen credentials take the longest to identify and contain.]]></summary>
-        <author>
-            <name>Stu Sjouwerman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Beware of Sophisticated Malicious USB Keys]]></title>
-        <id>https://blog.knowbe4.com/beware-of-sophisticated-malicious-usb-keys</id>
-        <link href="https://blog.knowbe4.com/beware-of-sophisticated-malicious-usb-keys"/>
-        <updated>2022-07-28T16:33:33.000Z</updated>
-        <summary type="html"><![CDATA[Malicious USB keys have always been a problem. There is almost no professional penetration testing team that does not drop a handful of USB keys outside of any targeted organization and see success from employees plugging them in and opening boobytrapped documents or running malicious executables.]]></summary>
-        <author>
-            <name>Roger Grimes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google Delays Blocking 3rd-Party Cookies in Chrome Browser Until 2024]]></title>
-        <id>tag:blogger.com,1999:blog-4802841478634147276.post-3627496762699990117</id>
-        <link href="https://thehackernews.com/2022/07/google-delays-blocking-3rd-party.html"/>
-        <updated>2022-07-28T16:16:39.681Z</updated>
-        <summary type="html"><![CDATA[Google on Wednesday said it's once again delaying its plans to turn off third-party cookies in the Chrome web browser from late 2023 to the second half of 2024.
-"The most consistent feedback we've received is the need for more time to evaluate and test the new Privacy Sandbox technologies before deprecating third-party cookies in Chrome," Anthony Chavez, vice president of Privacy Sandbox, said.]]></summary>
         <author>
             <name>noreply@blogger.com (Ravie Lakshmanan)</name>
         </author>
