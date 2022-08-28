@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-08-28T03:30:33.573Z</updated>
+    <updated>2022-08-28T07:22:05.453Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
@@ -4663,60 +4663,6 @@ The vulnerability, tracked as CVE-2022-26138, concerns the use of hard-coded cr
         <summary type="html"><![CDATA[Dark Reading's digest of other "don't-miss" stories of the week — including a Microsoft alert connecting disparate cybercrime activity together, and an explosion of Luca Stealer variants after an unusual Dark Web move.]]></summary>
         <author>
             <name>Tara Seals, Managing Editor, News, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why Bug-Bounty Programs Are Failing Everyone]]></title>
-        <id>https://www.darkreading.com/black-hat/why-bug-bounty-programs-failing-everyone</id>
-        <link href="https://www.darkreading.com/black-hat/why-bug-bounty-programs-failing-everyone"/>
-        <updated>2022-07-29T18:33:45.000Z</updated>
-        <summary type="html"><![CDATA[In a Black Hat USA talk, Katie Moussouris will discuss why bug-bounty programs are failing in their goals, and what needs to happen next to use bounties in a way that improves security outcomes.]]></summary>
-        <author>
-            <name>Ericka Chickowski, Contributing Writer, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Security Teams Overwhelmed With Bugs, Bitten by Patch Prioritization]]></title>
-        <id>https://www.darkreading.com/application-security/security-teams-overwhelmed-bugs-patch-prioritization</id>
-        <link href="https://www.darkreading.com/application-security/security-teams-overwhelmed-bugs-patch-prioritization"/>
-        <updated>2022-07-29T16:56:27.000Z</updated>
-        <summary type="html"><![CDATA[The first half of the year saw more than 11,800 reported security vulnerabilities, but figuring out which ones to patch first remains a thankless job for IT teams.]]></summary>
-        <author>
-            <name>Robert Lemos, Contributing Writer, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon Adds Malware Detection to GuardDuty TDR Service]]></title>
-        <id>https://www.darkreading.com/dr-tech/amazon-adds-malware-detection-to-guardduty-tdr-service</id>
-        <link href="https://www.darkreading.com/dr-tech/amazon-adds-malware-detection-to-guardduty-tdr-service"/>
-        <updated>2022-07-29T16:55:15.000Z</updated>
-        <summary type="html"><![CDATA[The new GuardDuty Malware Protection and Amazon Detective were among 10 products and services unveiled at AWS re:Inforce in Boston this week.]]></summary>
-        <author>
-            <name>Jeffrey Schwartz, Contributing Writer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CISA Adds One Known Exploited Vulnerability to Catalog]]></title>
-        <id>17837 at https://us-cert.cisa.gov</id>
-        <link href="https://us-cert.cisa.gov/ncas/current-activity/2022/07/29/cisa-adds-one-known-exploited-vulnerability-catalog"/>
-        <updated>2022-07-29T15:57:29.000Z</updated>
-        <summary type="html"><![CDATA[Original release date: July 29, 2022
-CISA has added one new vulnerability to its Known Exploited Vulnerabilities Catalog, based on evidence of active exploitation. These types of vulnerabilities are a frequent attack vector for malicious cyber actors and pose significant risk to the federal enterprise. Note: To view the newly added vulnerabilities in the catalog, click on the arrow in the "Date Added to Catalog" column, which will sort by descending dates.
-Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the Known Exploited Vulnerabilities Catalog as a living list of known CVEs that carry significant risk to the federal enterprise. BOD 22-01 requires FCEB agencies to remediate identified vulnerabilities by the due date to protect FCEB networks against active threats. See the BOD 22-01 Fact Sheet for more information.
-Although BOD 22-01 only applies to FCEB agencies, CISA strongly urges all organizations to reduce their exposure to cyberattacks by prioritizing timely remediation of Catalog vulnerabilities as part of their vulnerability management practice. CISA will continue to add vulnerabilities to the Catalog that meet the specified criteria.
-This product is provided subject to this Notification and this Privacy & Use policy.]]></summary>
-        <author>
-            <name>CISA</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Big Questions Remain Around Massive Shanghai Police Data Breach]]></title>
-        <id>https://www.darkreading.com/cloud/questions-massive-shanghai-police-data-breach</id>
-        <link href="https://www.darkreading.com/cloud/questions-massive-shanghai-police-data-breach"/>
-        <updated>2022-07-29T15:43:19.000Z</updated>
-        <summary type="html"><![CDATA[Why was PII belonging to nearly 1 billion people housed in a single, open database? Why didn't anyone notice it was downloaded?]]></summary>
-        <author>
-            <name>Jai Vijayan, Contributing Writer, Dark Reading</name>
         </author>
     </entry>
 </feed>

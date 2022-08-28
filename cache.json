@@ -331,16 +331,6 @@
           "wordCount": 1212,
           "title": "CISA and ACSC Release Top 2021 Malware Strains",
           "imageUrl": null
-        },
-        {
-          "id": "17837 at https://us-cert.cisa.gov",
-          "author": "CISA",
-          "description": "Original release date: July 29, 2022\nCISA has added one new vulnerability to its Known Exploited Vulnerabilities Catalog, based on evidence of active exploitation. These types of vulnerabilities are a frequent attack vector for malicious cyber actors and pose significant risk to the federal enterprise. Note: To view the newly added vulnerabilities in the catalog, click on the arrow in the \"Date Added to Catalog\" column, which will sort by descending dates.\nBinding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the Known Exploited Vulnerabilities Catalog as a living list of known CVEs that carry significant risk to the federal enterprise. BOD 22-01 requires FCEB agencies to remediate identified vulnerabilities by the due date to protect FCEB networks against active threats. See the BOD 22-01 Fact Sheet for more information.\nAlthough BOD 22-01 only applies to FCEB agencies, CISA strongly urges all organizations to reduce their exposure to cyberattacks by prioritizing timely remediation of Catalog vulnerabilities as part of their vulnerability management practice. CISA will continue to add vulnerabilities to the Catalog that meet the specified criteria.\nThis product is provided subject to this Notification and this Privacy & Use policy.",
-          "link": "https://us-cert.cisa.gov/ncas/current-activity/2022/07/29/cisa-adds-one-known-exploited-vulnerability-catalog",
-          "publishedOn": "2022-07-29T15:57:29.000Z",
-          "wordCount": 1207,
-          "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-          "imageUrl": null
         }
       ]
     },
@@ -3332,66 +3322,6 @@
             "length": "0"
           },
           "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltea67136f81f32eca/626a9eb4726e3315b16b3c64/Tara-Seals-Headshot2.jpg"
-        },
-        {
-          "id": "https://www.darkreading.com/black-hat/why-bug-bounty-programs-failing-everyone",
-          "author": "Ericka Chickowski, Contributing Writer, Dark Reading",
-          "description": "In a Black Hat USA talk, Katie Moussouris will discuss why bug-bounty programs are failing in their goals, and what needs to happen next to use bounties in a way that improves security outcomes.",
-          "link": "https://www.darkreading.com/black-hat/why-bug-bounty-programs-failing-everyone",
-          "publishedOn": "2022-07-29T18:33:45.000Z",
-          "wordCount": 13030,
-          "title": "Why Bug-Bounty Programs Are Failing Everyone",
-          "enclosure": {
-            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt1fa01ab14787f501/60b1e9a77f791568be5e0dbb/ErickaChick_125x125.jpeg",
-            "type": "image/*",
-            "length": "0"
-          },
-          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt1fa01ab14787f501/60b1e9a77f791568be5e0dbb/ErickaChick_125x125.jpeg"
-        },
-        {
-          "id": "https://www.darkreading.com/application-security/security-teams-overwhelmed-bugs-patch-prioritization",
-          "author": "Robert Lemos, Contributing Writer, Dark Reading",
-          "description": "The first half of the year saw more than 11,800 reported security vulnerabilities, but figuring out which ones to patch first remains a thankless job for IT teams.",
-          "link": "https://www.darkreading.com/application-security/security-teams-overwhelmed-bugs-patch-prioritization",
-          "publishedOn": "2022-07-29T16:56:27.000Z",
-          "wordCount": 12902,
-          "title": "Security Teams Overwhelmed With Bugs, Bitten by Patch Prioritization",
-          "enclosure": {
-            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt58481326324d6911/60b1e9a55d34de550780a990/Robert-Lemos.png",
-            "type": "image/*",
-            "length": "0"
-          },
-          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt58481326324d6911/60b1e9a55d34de550780a990/Robert-Lemos.png"
-        },
-        {
-          "id": "https://www.darkreading.com/dr-tech/amazon-adds-malware-detection-to-guardduty-tdr-service",
-          "author": "Jeffrey Schwartz, Contributing Writer",
-          "description": "The new GuardDuty Malware Protection and Amazon Detective were among 10 products and services unveiled at AWS re:Inforce in Boston this week.",
-          "link": "https://www.darkreading.com/dr-tech/amazon-adds-malware-detection-to-guardduty-tdr-service",
-          "publishedOn": "2022-07-29T16:55:15.000Z",
-          "wordCount": 12695,
-          "title": "Amazon Adds Malware Detection to GuardDuty TDR Service",
-          "enclosure": {
-            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blta28fcad87ff558b7/627c0108726e3315b16b464c/Jeff_Schwartz_headshot-sq.png",
-            "type": "image/*",
-            "length": "0"
-          },
-          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blta28fcad87ff558b7/627c0108726e3315b16b464c/Jeff_Schwartz_headshot-sq.png"
-        },
-        {
-          "id": "https://www.darkreading.com/cloud/questions-massive-shanghai-police-data-breach",
-          "author": "Jai Vijayan, Contributing Writer, Dark Reading",
-          "description": "Why was PII belonging to nearly 1 billion people housed in a single, open database? Why didn't anyone notice it was downloaded?",
-          "link": "https://www.darkreading.com/cloud/questions-massive-shanghai-police-data-breach",
-          "publishedOn": "2022-07-29T15:43:19.000Z",
-          "wordCount": 13723,
-          "title": "Big Questions Remain Around Massive Shanghai Police Data Breach",
-          "enclosure": {
-            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt02d79fb9a44a4258/60b1e9dd2a25046b35110696/Jai-Vijayan.jpeg",
-            "type": "image/*",
-            "length": "0"
-          },
-          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt02d79fb9a44a4258/60b1e9dd2a25046b35110696/Jai-Vijayan.jpeg"
         }
       ]
     },
