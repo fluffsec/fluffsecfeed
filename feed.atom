@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-08-27T19:18:58.977Z</updated>
+    <updated>2022-08-28T03:30:33.573Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
@@ -4717,101 +4717,6 @@ This product is provided subject to this Notification and this Privacy & Use pol
         <summary type="html"><![CDATA[Why was PII belonging to nearly 1 billion people housed in a single, open database? Why didn't anyone notice it was downloaded?]]></summary>
         <author>
             <name>Jai Vijayan, Contributing Writer, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Malicious Npm Packages Tapped Again to Target Discord Users]]></title>
-        <id>https://kasperskycontenthub.com/threatpost-global/?p=180327</id>
-        <link href="https://threatpost.com/malicious-npm-discord/180327/"/>
-        <updated>2022-07-29T15:07:58.000Z</updated>
-        <summary type="html"><![CDATA[Recent LofyLife campaign steals tokens and infects client files to monitor various user actions, such as log-ins, password changes and payment methods.]]></summary>
-        <author>
-            <name>Elizabeth Montalbano</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Malicious npm Packages Scarf Up Discord Tokens, Credit Card Info]]></title>
-        <id>https://www.darkreading.com/risk/malicious-npm-packages-discord-tokens-credit-card</id>
-        <link href="https://www.darkreading.com/risk/malicious-npm-packages-discord-tokens-credit-card"/>
-        <updated>2022-07-29T14:06:33.000Z</updated>
-        <summary type="html"><![CDATA[The campaign uses four malicious packages to spread "Volt Stealer" and "Lofy Stealer" malware in the open source npm software package repository.]]></summary>
-        <author>
-            <name>Nathan Eddy, Contributing Writer, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[3 Tips for Creating a Security Culture]]></title>
-        <id>https://www.darkreading.com/careers-and-people/3-tips-for-overcoming-challenges-to-creating-a-security-culture</id>
-        <link href="https://www.darkreading.com/careers-and-people/3-tips-for-overcoming-challenges-to-creating-a-security-culture"/>
-        <updated>2022-07-29T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Trying to get the whole organization on board with better cybersecurity is much tougher than it may sound.]]></summary>
-        <author>
-            <name>Mark Lambert, Vice President of Product, Armorcode</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Over a Dozen Android Apps on Google Play Store Caught Dropping Banking Malware]]></title>
-        <id>tag:blogger.com,1999:blog-4802841478634147276.post-3636237590014702315</id>
-        <link href="https://thehackernews.com/2022/07/over-dozen-android-apps-on-google-play.html"/>
-        <updated>2022-07-29T13:25:15.764Z</updated>
-        <summary type="html"><![CDATA[A malicious campaign leveraged seemingly innocuous Android dropper apps on the Google Play Store to compromise users' devices with banking malware.
-These 17 dropper apps, collectively dubbed DawDropper by Trend Micro, masqueraded as productivity and utility apps such as document scanners, QR code readers, VPN services, and call recorders, among others. All these apps in question have been]]></summary>
-        <author>
-            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Researchers Warns of Increase in Phishing Attacks Using Decentralized IPFS Network]]></title>
-        <id>tag:blogger.com,1999:blog-4802841478634147276.post-8381520124406938203</id>
-        <link href="https://thehackernews.com/2022/07/researchers-warns-of-increase-in.html"/>
-        <updated>2022-07-29T13:07:02.742Z</updated>
-        <summary type="html"><![CDATA[The decentralized file system solution known as IPFS is becoming the new "hotbed" for hosting phishing sites, researchers have warned.
-Cybersecurity firm Trustwave SpiderLabs, which disclosed specifics of the attack campaigns, said it identified no less than 3,000 emails containing IPFS phishing URLs as an attack vector in the last three months.
-IPFS, short for InterPlanetary File System, is a]]></summary>
-        <author>
-            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Happy 23rd Annual SysAdmin Day from KnowBe4!]]></title>
-        <id>https://blog.knowbe4.com/happy-23rd-annual-sysadmin-day-from-knowbe4</id>
-        <link href="https://blog.knowbe4.com/happy-23rd-annual-sysadmin-day-from-knowbe4"/>
-        <updated>2022-07-29T11:30:00.000Z</updated>
-        <summary type="html"><![CDATA[It's been 23 years of celebrating all of our fellow System Administrators! Your hard work on daily maintenance of your company's day-to-day computer operations definitely deserves kudos.]]></summary>
-        <author>
-            <name>Stu Sjouwerman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Combat the Biggest Security Risks Posed by Machine Identities]]></title>
-        <id>tag:blogger.com,1999:blog-4802841478634147276.post-2115706251070278906</id>
-        <link href="https://thehackernews.com/2022/07/how-to-combat-biggest-security-risks_29.html"/>
-        <updated>2022-07-29T11:15:17.944Z</updated>
-        <summary type="html"><![CDATA[The rise of DevOps culture in enterprises has accelerated product delivery timelines. Automation undoubtedly has its advantages. However, containerization and the rise of cloud software development are exposing organizations to a sprawling new attack surface.
-Machine identities vastly outnumber human ones in enterprises these days. Indeed, the rise of machine identities is creating cybersecurity]]></summary>
-        <author>
-            <name>noreply@blogger.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Your KnowBe4 Fresh Content Updates from July 2022]]></title>
-        <id>https://blog.knowbe4.com/your-knowbe4-fresh-content-updates-from-july-2022</id>
-        <link href="https://blog.knowbe4.com/your-knowbe4-fresh-content-updates-from-july-2022"/>
-        <updated>2022-07-29T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Check out the thirteen new pieces of training content added in July, alongside the always fresh content update highlights and new features.]]></summary>
-        <author>
-            <name>Stu Sjouwerman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dahua IP Camera Vulnerability Could Let Attackers Take Full Control Over Devices]]></title>
-        <id>tag:blogger.com,1999:blog-4802841478634147276.post-3399076208071864595</id>
-        <link href="https://thehackernews.com/2022/07/dahua-ip-camera-vulnerability-could-let.html"/>
-        <updated>2022-07-29T10:49:50.744Z</updated>
-        <summary type="html"><![CDATA[Details have been shared about a security vulnerability in Dahua's Open Network Video Interface Forum (ONVIF) standard implementation, which, when exploited, can lead to seizing control of IP cameras. 
-Tracked as CVE-2022-30563 (CVSS score: 7.4), the "vulnerability could be abused by attackers to compromise network cameras by sniffing a previous unencrypted ONVIF interaction and replaying the]]></summary>
-        <author>
-            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
         </author>
     </entry>
 </feed>
