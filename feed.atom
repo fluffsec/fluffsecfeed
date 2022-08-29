@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-08-29T03:41:12.979Z</updated>
+    <updated>2022-08-29T07:29:03.701Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Microsoft 365 Empowers Business Users to Shoot Themselves in the Foot]]></title>
+        <id>https://www.darkreading.com/edge-articles</id>
+        <link href="https://www.darkreading.com/edge-articles"/>
+        <updated>2022-08-29T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Citizen development allows users to design creative solutions for immediate problems, but it requires training and oversight to avoid security holes.]]></summary>
+        <author>
+            <name>Michael Bargury, CTO &amp; Co-Founder, Zenity</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CISA Adds 10 New Known Actively Exploited Vulnerabilities to its Catalog]]></title>
+        <id>tag:blogger.com,1999:blog-4802841478634147276.post-4777578342682451877</id>
+        <link href="https://thehackernews.com/2022/08/cisa-adds-10-new-known-actively.html"/>
+        <updated>2022-08-29T04:23:00.000Z</updated>
+        <summary type="html"><![CDATA[The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added 10 new actively exploited vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, including a high-severity security flaw affecting industrial automation software from Delta Electronics.
+The issue, tracked as CVE-2021-38406 (CVSS score: 7.8), impacts DOPSoft 2 versions 2.00.07 and prior. A successful]]></summary>
+        <author>
+            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Iranian Hackers Exploiting Unpatched Log4j 2 Bugs to Target Israeli Organizations]]></title>
         <id>tag:blogger.com,1999:blog-4802841478634147276.post-2618401351707545092</id>
@@ -4587,18 +4608,6 @@ Jacob Wayne John Keen, who currently resides at Frankston, Melbourne, is said to
 The findings]]></summary>
         <author>
             <name>noreply@blogger.com (Ravie Lakshmanan)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stop Putting Your Accounts At Risk, and Start Using a Password Manager]]></title>
-        <id>tag:blogger.com,1999:blog-4802841478634147276.post-6003660466505173327</id>
-        <link href="https://thehackernews.com/2022/07/stop-putting-your-accounts-at-risk-and.html"/>
-        <updated>2022-07-30T17:20:07.093Z</updated>
-        <summary type="html"><![CDATA[Image via Keeper
-Right Now, Get 30% Off Keeper, the Most Trusted Name in Password Management.
-In one way or another, almost every aspect of our lives is online, so it’s no surprise that hackers target everything from email accounts to banks to smart home devices, looking for vulnerabilities to exploit. One of the easiest exploits is cracking a weak password. That’s why using a strong, unique]]></summary>
-        <author>
-            <name>noreply@blogger.com (The Hacker News)</name>
         </author>
     </entry>
 </feed>
