@@ -2,10 +2,92 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-08-30T13:48:33.555Z</updated>
+    <updated>2022-08-30T19:20:04.033Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Chinese Hackers Target Energy Sector in Australia, South China Sea]]></title>
+        <id>https://www.darkreading.com/vulnerabilities-threats/chinese-hackers-target-energy-sector-australia-south-china-sea</id>
+        <link href="https://www.darkreading.com/vulnerabilities-threats/chinese-hackers-target-energy-sector-australia-south-china-sea"/>
+        <updated>2022-08-30T17:34:37.000Z</updated>
+        <summary type="html"><![CDATA[The phishing campaign deploying a ScanBox reconnaissance framework has targeted the Australian government and companies maintaining wind turbines in the South China Sea.]]></summary>
+        <author>
+            <name>Nathan Eddy, Contributing Writer, Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Security Culture: An OT Survival Story]]></title>
+        <id>https://www.darkreading.com/operations/security-culture-an-ot-survival-story</id>
+        <link href="https://www.darkreading.com/operations/security-culture-an-ot-survival-story"/>
+        <updated>2022-08-30T17:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The relationship between information technology and operational technology will need top-down support if a holistic security culture is to truly thrive.]]></summary>
+        <author>
+            <name>Edward Liebig, Global Director of Cyber-Ecosystem, Hexagon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[KREBS ON SECURITY] How 1-Time Passcodes Became a Corporate Liability]]></title>
+        <id>https://blog.knowbe4.com/krebs-on-security-how-1-time-passcodes-became-a-corporate-liability</id>
+        <link href="https://blog.knowbe4.com/krebs-on-security-how-1-time-passcodes-became-a-corporate-liability"/>
+        <updated>2022-08-30T15:45:43.000Z</updated>
+        <summary type="html"><![CDATA[[The following article is at it appears at Krebs on Security here.]
+ 
+Phishers are enjoying remarkable success using text messages to steal remote access credentials and one-time passcodes from employees at some of the world’s largest technology companies and customer support firms. A recent spate of SMS phishing attacks from one cybercriminal group has spawned a flurry of breach disclosures from affected companies, which are all struggling to combat the same lingering security threat: The ability of scammers to interact directly with employees through their mobile devices.]]></summary>
+        <author>
+            <name>Stu Sjouwerman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cohesity Research Reveals that Reliance on Legacy Technology Is Undermining How Organizations Respond to Ransomware]]></title>
+        <id>https://www.darkreading.com/attacks-breaches/cohesity-research-reveals-that-reliance-on-legacy-technology-is-undermining-how-organizations-respond-to-ransomware</id>
+        <link href="https://www.darkreading.com/attacks-breaches/cohesity-research-reveals-that-reliance-on-legacy-technology-is-undermining-how-organizations-respond-to-ransomware"/>
+        <updated>2022-08-30T15:04:28.000Z</updated>
+        <summary type="html"><![CDATA[Nearly half of respondents say their company relies on outdated backup and recovery infrastructure — in some cases dating back to the 1990s, before today's sophisticated cyberattacks.]]></summary>
+        <author>
+            <name>Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Extent of Social Engineering]]></title>
+        <id>https://blog.knowbe4.com/the-extent-of-social-engineering</id>
+        <link href="https://blog.knowbe4.com/the-extent-of-social-engineering"/>
+        <updated>2022-08-30T14:25:14.000Z</updated>
+        <summary type="html"><![CDATA[Researchers at NordVPN have published the results of a survey that found that 84% of Americans have experienced some form of social engineering, although only 54% have heard of the term “social engineering.” 85% percent of the respondents said they were aware of the term “phishing,” and 36% said they had fallen victim to a phishing email.]]></summary>
+        <author>
+            <name>Stu Sjouwerman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Phishing Campaign Targets PyPI Users to Distribute Malicious Code]]></title>
+        <id>https://www.darkreading.com/cloud/phishing-campaign-targets-pypi-users-to-distribute-malicious-code</id>
+        <link href="https://www.darkreading.com/cloud/phishing-campaign-targets-pypi-users-to-distribute-malicious-code"/>
+        <updated>2022-08-30T14:16:23.000Z</updated>
+        <summary type="html"><![CDATA[The first-of-its-kind campaign threatens to remove code packages if developers don’t submit their code to a "validation" process.]]></summary>
+        <author>
+            <name>Elizabeth Montalbano, Contributor, Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Building a Strong SOC Starts With People]]></title>
+        <id>https://www.darkreading.com/attacks-breaches/building-a-strong-soc-starts-with-people</id>
+        <link href="https://www.darkreading.com/attacks-breaches/building-a-strong-soc-starts-with-people"/>
+        <updated>2022-08-30T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A people-first approach reduces fatigue and burnout, and it empowers employees to seek out development opportunities, which helps retention.]]></summary>
+        <author>
+            <name>Neil Weitzel, SOC Manager, ThreatX</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google Expands Bug Bounties to Its Open Source Projects]]></title>
+        <id>https://www.darkreading.com/vulnerabilities-threats/google-expands-bug-bounties-to-its-open-source-projects</id>
+        <link href="https://www.darkreading.com/vulnerabilities-threats/google-expands-bug-bounties-to-its-open-source-projects"/>
+        <updated>2022-08-30T13:33:35.000Z</updated>
+        <summary type="html"><![CDATA[The search engine giant's Vulnerability Rewards Program now covers any Google open source software projects — with a focus on critical software such as Go and Angular.]]></summary>
+        <author>
+            <name>Robert Lemos, Contributing Writer, Dark Reading</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CyberheistNews Vol 12 #35 [Heads Up] Check This Highly Sophisticated LinkedIn Job Offer Scam]]></title>
         <id>https://blog.knowbe4.com/cyberheistnews-vol-12-35-heads-up-check-this-highly-sophisticated-linkedin-job-offer-scam</id>
@@ -24,6 +106,28 @@
         <summary type="html"><![CDATA[US cybersecurity services firm expands services in Latin America.]]></summary>
         <author>
             <name>Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hackers Use ModernLoader to Infect Systems with Stealers and Cryptominers]]></title>
+        <id>tag:blogger.com,1999:blog-4802841478634147276.post-3641890904071295682</id>
+        <link href="https://thehackernews.com/2022/08/hackers-use-modernloader-to-infect.html"/>
+        <updated>2022-08-30T12:55:00.000Z</updated>
+        <summary type="html"><![CDATA[As many as three disparate but related campaigns between March and Jun 2022 have been found to deliver a variety of malware, including ModernLoader, RedLine Stealer, and cryptocurrency miners onto compromised systems.
+"The actors use PowerShell, .NET assemblies, and HTA and VBS files to spread across a targeted network, eventually dropping other pieces of malware, such as the SystemBC trojan and]]></summary>
+        <author>
+            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hands-on Review: Stellar Cyber Security Operations Platform for MSSPs]]></title>
+        <id>tag:blogger.com,1999:blog-4802841478634147276.post-6498269990151149475</id>
+        <link href="https://thehackernews.com/2022/08/hands-on-review-stellar-cyber-security.html"/>
+        <updated>2022-08-30T12:30:00.000Z</updated>
+        <summary type="html"><![CDATA[As threat complexity increases and the boundaries of an organization have all but disappeared, security teams are more challenged than ever to deliver consistent security outcomes. One company aiming to help security teams meet this challenge is Stellar Cyber. 
+Stellar Cyber claims to address the needs of MSSPs by providing capabilities typically found in NG-SIEM, NDR, and SOAR products in their]]></summary>
+        <author>
+            <name>noreply@blogger.com (The Hacker News)</name>
         </author>
     </entry>
     <entry>
@@ -80,6 +184,31 @@ The complaint alleges that the U.S. company amasses a "wealth of information" 
         <summary type="html"><![CDATA[Documents appear to show that Israeli spyware company Intellexa sold a full suite of services around a zero-day affecting both Android and iOS ecosystems.]]></summary>
         <author>
             <name>Dark Reading Staff, Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CISA Releases 12 Industrial Control Systems Advisories]]></title>
+        <id>17922 at https://us-cert.cisa.gov</id>
+        <link href="https://us-cert.cisa.gov/ncas/current-activity/2022/08/29/cisa-releases-12-industrial-control-systems-advisories"/>
+        <updated>2022-08-29T17:59:23.000Z</updated>
+        <summary type="html"><![CDATA[Original release date: August 29, 2022 | Last revised: August 30, 2022
+CISA has released 12 Industrial Control Systems (ICS) advisories on August 30, 2022. These advisories provides timely information about current security issues, vulnerabilities, and exploits surrounding ICS.  
+CISA encourages users and administrators to review the newly released ICS advisories for technical details and mitigations:  
+ICSA-22-242-01 Hitachi Energy FCP 
+ICSA-22-242-02 Hitachi Energy GWS 
+ICSA-22-242-03 Hitachi Energy MSM 
+ICSA-22-242-04 Hitachi Energy RTU500 series 
+ICSA-22-242-05 Fuji Electric D300win 
+ICSA-22-242-06 Honeywell ControlEdge 
+ICSA-22-242-07 Honeywell Experion LX 
+ICSA-22-242-08 Honeywell Trend Controls 
+ICSA-22-242-09 Omron CX-Programmer 
+ICSA-22-242-10 PTC Kepware KEPServerEX
+ICSA-22-242-11 Sensormatic Electronics iSTAR 
+ICSA-22-221-01 Mitsubishi Electric Multiple Factory Automation Products (Update B) 
+This product is provided subject to this Notification and this Privacy & Use policy.]]></summary>
+        <author>
+            <name>CISA</name>
         </author>
     </entry>
     <entry>
@@ -4745,30 +4874,6 @@ The takeover is made possible, thanks to a leak of legitimate Consumer Key and C
         <summary type="html"><![CDATA[A complex and ambitious investment scam has used more than 10,000 domains to induce speculators to give up not just funds, but personal information as well. Researchers at security firm Group-IB describe the campaign as one that proceeds through several distinct stages. It begins with ads placed in social media, or with pages displayed in compromised Facebook or YouTube accounts.]]></summary>
         <author>
             <name>Stu Sjouwerman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Australian Hacker Charged with Creating, Selling Spyware to Cyber Criminals]]></title>
-        <id>tag:blogger.com,1999:blog-4802841478634147276.post-2206789217564065274</id>
-        <link href="https://thehackernews.com/2022/07/australian-hacker-charged-with-creating.html"/>
-        <updated>2022-08-01T06:31:03.139Z</updated>
-        <summary type="html"><![CDATA[A 24-year-old Australian national has been charged for his purported role in the creation and sale of spyware for use by domestic violence perpetrators and child sex offenders.
-Jacob Wayne John Keen, who currently resides at Frankston, Melbourne, is said to have created the remote access trojan (RAT) when he was 15, in addition to working as the administrator for the tool from 2013 until its]]></summary>
-        <author>
-            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gootkit Loader Resurfaces with Updated Tactic to Compromise Targeted Computers]]></title>
-        <id>tag:blogger.com,1999:blog-4802841478634147276.post-3835892266038628283</id>
-        <link href="https://thehackernews.com/2022/07/gootkit-loader-resurfaces-with-updated.html"/>
-        <updated>2022-08-01T04:51:16.445Z</updated>
-        <summary type="html"><![CDATA[The operators of the Gootkit access-as-a-service (AaaS) malware have resurfaced with updated techniques to compromise unsuspecting victims.
-"In the past, Gootkit used freeware installers to mask malicious files; now it uses legal documents to trick users into downloading these files," Trend Micro researchers Buddy Tancio and Jed Valderama said in a write-up last week.
-
-The findings]]></summary>
-        <author>
-            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
         </author>
     </entry>
 </feed>
