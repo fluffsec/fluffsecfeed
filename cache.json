@@ -3446,66 +3446,6 @@
             "length": "0"
           },
           "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blte161b23f0fd3a84b/60b1ea374e7eb868c4c6a293/dr_staff_125x125.jpg"
-        },
-        {
-          "id": "https://www.darkreading.com/risk/european-energy-supplier-encevo-breached-in-attack",
-          "author": "Dark Reading Staff, Dark Reading",
-          "description": "Customers across several European countries are urged to update credentials in the wake of the attack that affected a gas-pipeline operator and power company.",
-          "link": "https://www.darkreading.com/risk/european-energy-supplier-encevo-breached-in-attack",
-          "publishedOn": "2022-08-01T19:36:53.000Z",
-          "wordCount": 11287,
-          "title": "Ransomware Hit on European Pipeline & Energy Supplier Encevo Linked to BlackCat",
-          "enclosure": {
-            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blte161b23f0fd3a84b/60b1ea374e7eb868c4c6a293/dr_staff_125x125.jpg",
-            "type": "image/*",
-            "length": "0"
-          },
-          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blte161b23f0fd3a84b/60b1ea374e7eb868c4c6a293/dr_staff_125x125.jpg"
-        },
-        {
-          "id": "https://www.darkreading.com/emerging-tech/credential-canaries-create-minefield-for-attackers",
-          "author": "Robert Lemos, Contributing Writer, Dark Reading",
-          "description": "Canary tokens — also known as honey tokens — force attackers to second-guess their potential good fortune when they come across user and application secrets.",
-          "link": "https://www.darkreading.com/emerging-tech/credential-canaries-create-minefield-for-attackers",
-          "publishedOn": "2022-08-01T18:57:23.000Z",
-          "wordCount": 13677,
-          "title": "Credential Canaries Create Minefield for Attackers",
-          "enclosure": {
-            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt58481326324d6911/60b1e9a55d34de550780a990/Robert-Lemos.png",
-            "type": "image/*",
-            "length": "0"
-          },
-          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt58481326324d6911/60b1e9a55d34de550780a990/Robert-Lemos.png"
-        },
-        {
-          "id": "https://www.darkreading.com/cloud/chromium-browsers-data-exfiltration-bookmark-syncing",
-          "author": "Jai Vijayan, Contributing Writer, Dark Reading",
-          "description": "\"Bruggling\" emerges as a novel technique for pilfering data out from a compromised environment — or for sneaking in malicious code and attack tools.",
-          "link": "https://www.darkreading.com/cloud/chromium-browsers-data-exfiltration-bookmark-syncing",
-          "publishedOn": "2022-08-01T17:42:46.000Z",
-          "wordCount": 14422,
-          "title": "Chromium Browsers Allow Data Exfiltration via Bookmark Syncing",
-          "enclosure": {
-            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt02d79fb9a44a4258/60b1e9dd2a25046b35110696/Jai-Vijayan.jpeg",
-            "type": "image/*",
-            "length": "0"
-          },
-          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt02d79fb9a44a4258/60b1e9dd2a25046b35110696/Jai-Vijayan.jpeg"
-        },
-        {
-          "id": "https://www.darkreading.com/edge-articles/name-that-edge-toon-up-a-tree",
-          "author": "John Klossner, Cartoonist",
-          "description": "Come up with a clever caption, and our panel of experts will reward the winner with a $25 Amazon gift card.",
-          "link": "https://www.darkreading.com/edge-articles/name-that-edge-toon-up-a-tree",
-          "publishedOn": "2022-08-01T16:41:05.000Z",
-          "wordCount": 10841,
-          "title": "Name That Edge Toon: Up a Tree",
-          "enclosure": {
-            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltf97d71984b60d7ed/60b1e88b5d34de550780a96e/Klossner_iwk_photo.gif",
-            "type": "image/*",
-            "length": "0"
-          },
-          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltf97d71984b60d7ed/60b1e88b5d34de550780a96e/Klossner_iwk_photo.gif"
         }
       ]
     },
@@ -3553,16 +3493,6 @@
           "wordCount": 5608,
           "title": "Vulnerability Spotlight: Vulnerabilities in Alyac antivirus program could stop virus scanning, cause code execution",
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjXH34NR1xeQXo83HvuwWqehHwA6m8dKVIL4awbIbuvDqr60MY2kmCJc9LRMmg6FpVZN7AA4i-86RZri7QVQYcftXu9KdIFxn4nqhwx4aaKy-9goT14vwbuSlj2jbRzIU2tbh54tf9Nekk72N-t4mFInwUl9kAU4CyixaN9aVUSx9GPABPt1DcjXYs4/w1200-h630-p-k-no-nu/vuln%20spotlight.jpg"
-        },
-        {
-          "id": "https://blog.talosintelligence.com/2022/08/vulnerability-spotlight-how-misusing.html",
-          "author": null,
-          "description": "By Carl Hurd. \nThe TCL LinkHub Mesh Wi-Fi system is a multi-device Wi-Fi system that allows users to expand access to their network over a large physical area. What makes the LInkHub system unique is the lack of a network interface to manage the devices individually or in the mesh. Instead, a phone application is the only method to interact with these devices. This is noteworthy because, in theory, it significantly reduces the common attack surface on most small office/home office (SOHO) routers, as it moves the entire HTTP/S code base from the product. This means, in theory, fewer issues with integration or hacked-together scripts to trigger various functions within the device. One of the issues with this approach though is that its functionality still needs to reside somewhere for the us…",
-          "link": "https://blog.talosintelligence.com/2022/08/vulnerability-spotlight-how-misusing.html",
-          "publishedOn": "2022-08-01T16:18:00.002Z",
-          "wordCount": 6309,
-          "title": "Vulnerability Spotlight: How misusing properly serialized data opened TCL LinkHub Mesh Wi-Fi system to 17 vulnerabilities",
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDgrC9KSSkrZlGwWQIWPBecDX3v6kJn_d22lteS6JSx0fLaoin7i0rjFAKpvHne1_hXb-lyngMfD0skduBXM5Hzn4JMIdccNP3LEQyLhefhlXTGtxhQ3dYOvRaq_8bnXhN6mL858u8si-8NdeSJGDNmp35hhHKfuoJvqoJsC-O7sa0qH8AiNtKkEEe/w1200-h630-p-k-no-nu/vuln%20spotlight.jpg"
         }
       ]
     },
@@ -3691,6 +3621,16 @@
           "wordCount": 4647,
           "title": "CyberheistNews Vol 12 #35 [Heads Up] Check This Highly Sophisticated LinkedIn Job Offer Scam",
           "imageUrl": "https://blog.knowbe4.com/hubfs/CHN-Social.jpg#keepProtocol"
+        },
+        {
+          "id": "https://blog.knowbe4.com/live-demo-security-awareness-training-and-phishing",
+          "author": "Stu Sjouwerman",
+          "description": "Old-school awareness training does not hack it anymore. Your email filters have an average 7-10% failure rate; you need a strong human firewall as your last line of defense.",
+          "link": "https://blog.knowbe4.com/live-demo-security-awareness-training-and-phishing",
+          "publishedOn": "2022-08-29T13:54:50.000Z",
+          "wordCount": 1863,
+          "title": "[Live Demo] Ridiculously Easy Security Awareness Training and Phishing",
+          "imageUrl": "https://blog.knowbe4.com/hubfs/Social%20Image%20Repository/Live%20Demos/KMSAT-Demo-SM-2021-2.jpg#keepProtocol"
         },
         {
           "id": "https://blog.knowbe4.com/researchers-warn-of-darkverse-emerging-from-the-metaverse",
