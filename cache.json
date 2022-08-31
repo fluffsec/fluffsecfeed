@@ -573,6 +573,76 @@
       "siteUrl": "https://www.darkreading.com",
       "articles": [
         {
+          "id": "https://www.darkreading.com/vulnerabilities-threats/james-webb-telescope-images-loaded-with-malware-are-evading-edr",
+          "author": "Dark Reading Staff, Dark Reading",
+          "description": "New Golang cyberattacks use deep space images and a new obfuscator to target systems — undetected.",
+          "link": "https://www.darkreading.com/vulnerabilities-threats/james-webb-telescope-images-loaded-with-malware-are-evading-edr",
+          "publishedOn": "2022-08-31T18:00:00.000Z",
+          "wordCount": 8999,
+          "title": "James Webb Telescope Images Loaded With Malware Are Evading EDR",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blte161b23f0fd3a84b/60b1ea374e7eb868c4c6a293/dr_staff_125x125.jpg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blte161b23f0fd3a84b/60b1ea374e7eb868c4c6a293/dr_staff_125x125.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/omdia/opentext-goes-all-in-on-cybersecurity-size-and-scale-with-micro-focus-purchase",
+          "author": "Curtis Franklin, Senior Analyst, Omdia",
+          "description": "OpenText makes a $6 billion bet that bigger is better in security and that cybersecurity platform plays are the future.",
+          "link": "https://www.darkreading.com/omdia/opentext-goes-all-in-on-cybersecurity-size-and-scale-with-micro-focus-purchase",
+          "publishedOn": "2022-08-31T17:00:00.000Z",
+          "wordCount": 10912,
+          "title": "OpenText Goes All-in on Cybersecurity Size and Scale With Micro Focus Purchase",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt16a69cd3b14cbd2b/61816cfa8a0585636d7149c3/CurtFranklin.PNG",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt16a69cd3b14cbd2b/61816cfa8a0585636d7149c3/CurtFranklin.PNG"
+        },
+        {
+          "id": "https://www.darkreading.com/careers-and-people/-isc-opens-global-enrollment-for-1-million-certified-in-cybersecurity-initiative",
+          "author": null,
+          "description": "(ISC)² pledges to expand and diversify the cybersecurity workforce by providing free \"(ISC)² Certified in Cybersecurity\" education and exams to 1 million people worldwide.",
+          "link": "https://www.darkreading.com/careers-and-people/-isc-opens-global-enrollment-for-1-million-certified-in-cybersecurity-initiative",
+          "publishedOn": "2022-08-31T16:41:05.000Z",
+          "wordCount": 11403,
+          "title": "(ISC)² Opens Global Enrollment for '1 Million Certified in Cybersecurity' Initiative",
+          "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/vulnerabilities-threats/tiktok-android-bug-allows-single-click-account-hijack",
+          "author": "Elizabeth Montalbano, Contributor, Dark Reading",
+          "description": "A security vulnerability (CVE-2022-28799) in one of TikTok for Android's deeplinks could affect billions of users, Microsoft warns.",
+          "link": "https://www.darkreading.com/vulnerabilities-threats/tiktok-android-bug-allows-single-click-account-hijack",
+          "publishedOn": "2022-08-31T16:00:00.000Z",
+          "wordCount": 10975,
+          "title": "TikTok for Android Bug Allows Single-Click Account Hijack",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltbfd004d139d42d70/6303bca6236c2476a257760e/ElizabethMontalbano.jpg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltbfd004d139d42d70/6303bca6236c2476a257760e/ElizabethMontalbano.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/cloud/the-inevitability-of-cloud-breaches-tales-of-real-world-cloud-attacks-",
+          "author": "Ofer Maor, CTO and Co-Founder, Mitiga",
+          "description": "While cloud breaches are going to happen, that doesn't mean we can't do anything about them. By better understanding cloud attacks, organizations can better prepare for them. (First of two parts.)",
+          "link": "https://www.darkreading.com/cloud/the-inevitability-of-cloud-breaches-tales-of-real-world-cloud-attacks-",
+          "publishedOn": "2022-08-31T14:00:00.000Z",
+          "wordCount": 11811,
+          "title": "The Inevitability of Cloud Breaches: Tales of Real-World Cloud Attacks",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt5a6780d08e29d9f6/6295427c8cb26d5d74d057c6/Ofer_Maor_310x310px.png",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt5a6780d08e29d9f6/6295427c8cb26d5d74d057c6/Ofer_Maor_310x310px.png"
+        },
+        {
           "id": "https://www.darkreading.com/endpoint/secureauth-announces-general-availability-of-arculix-its-next-gen-passwordless-continuous-authentication-platform",
           "author": null,
           "description": "Next-gen platform delivers adaptive and robust, continuous authentication with identity orchestration and a frictionless user experience.",
@@ -3587,6 +3657,16 @@
       "feedUrl": "https://blog.knowbe4.com/rss.xml",
       "siteUrl": "https://blog.knowbe4.com",
       "articles": [
+        {
+          "id": "https://blog.knowbe4.com/so-your-mfa-is-phishable-what-to-do-next",
+          "author": "Roger Grimes",
+          "description": "We’ve written a lot about multi-factor authentication (MFA) not being the Holy Grail to prevent phishing attacks, including here:",
+          "link": "https://blog.knowbe4.com/so-your-mfa-is-phishable-what-to-do-next",
+          "publishedOn": "2022-08-31T13:54:49.000Z",
+          "wordCount": 2485,
+          "title": "So, Your MFA is Phishable, What To Do Next",
+          "imageUrl": "https://blog.knowbe4.com/hubfs/Social%20Image%20Repository/Evangelist%20Blog%20Social%20Graphics/Evangelists-Roger%20Grimes.jpg#keepProtocol"
+        },
         {
           "id": "https://blog.knowbe4.com/phishing-attacks-leveraging-legitimate-saas-platforms-soars-1100",
           "author": "Stu Sjouwerman",
