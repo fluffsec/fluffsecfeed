@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-08-31T19:21:11.377Z</updated>
+    <updated>2022-09-01T03:39:22.682Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Closing the Security Gap Opened by the Rise of No-Code Tools]]></title>
+        <id>https://www.darkreading.com/dr-tech/closing-the-security-gap-opened-by-the-rise-of-no-code-tools</id>
+        <link href="https://www.darkreading.com/dr-tech/closing-the-security-gap-opened-by-the-rise-of-no-code-tools"/>
+        <updated>2022-08-31T23:20:23.000Z</updated>
+        <summary type="html"><![CDATA[No-code startups such as Mine PrivacyOps say they offer best of both worlds — quick development and compliance with privacy laws.]]></summary>
+        <author>
+            <name>Kolawole Samuel Adebayo, Contributing Writer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google Fixes 24 Vulnerabilities With New Chrome Update]]></title>
+        <id>https://www.darkreading.com/vulnerabilities-threats/google-fixes-24-browser-vulnerabilities-with-chrome-105-version</id>
+        <link href="https://www.darkreading.com/vulnerabilities-threats/google-fixes-24-browser-vulnerabilities-with-chrome-105-version"/>
+        <updated>2022-08-31T20:10:59.000Z</updated>
+        <summary type="html"><![CDATA[But one issue that lets websites overwrite content on a user's system clipboard appears unfixed in the new Version 105 of Chrome.]]></summary>
+        <author>
+            <name>Jai Vijayan, Contributing Writer, Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Crypto-Crooks Spread Trojanized Google Translate App in Watering-Hole Attack]]></title>
+        <id>https://www.darkreading.com/vulnerabilities-threats/crypto-crooks-trojanized-google-translate-app-watering-hole-attack</id>
+        <link href="https://www.darkreading.com/vulnerabilities-threats/crypto-crooks-trojanized-google-translate-app-watering-hole-attack"/>
+        <updated>2022-08-31T20:09:09.000Z</updated>
+        <summary type="html"><![CDATA[The ongoing campaign is spreading worldwide, using the lure of a fully functional Google Translate application for desktops that has helped the threat stay undetected for months.]]></summary>
+        <author>
+            <name>Tara Seals, Managing Editor, News, Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Pros and Cons of Managed Firewalls]]></title>
+        <id>https://www.darkreading.com/attacks-breaches/the-pros-and-cons-of-managed-firewalls</id>
+        <link href="https://www.darkreading.com/attacks-breaches/the-pros-and-cons-of-managed-firewalls"/>
+        <updated>2022-08-31T18:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Managed firewalls are increasingly popular. This post examines the strengths and weaknesses of managed firewalls to help your team decide on the right approach.]]></summary>
+        <author>
+            <name>Dark Reading</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[James Webb Telescope Images Loaded With Malware Are Evading EDR]]></title>
         <id>https://www.darkreading.com/vulnerabilities-threats/james-webb-telescope-images-loaded-with-malware-are-evading-edr</id>
@@ -4825,139 +4865,6 @@ The issues tracked from CVE-2022-31656 through CVE-2022-31665 (CVSS scores: 4.7 
         <summary type="html"><![CDATA[Attackers are turning to stolen credentials and posing as trusted applications to socially engineer victims, according to Google study of malware submitted to VirusTotal.]]></summary>
         <author>
             <name>Nathan Eddy, Contributing Writer, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CISA and ACSC Release Top 2021 Malware Strains]]></title>
-        <id>17840 at https://us-cert.cisa.gov</id>
-        <link href="https://us-cert.cisa.gov/ncas/current-activity/2022/08/02/cisa-and-acsc-release-top-2021-malware-strains"/>
-        <updated>2022-08-02T15:36:26.000Z</updated>
-        <summary type="html"><![CDATA[Original release date: August 2, 2022 | Last revised: August 4, 2022
-CISA and the Australian Cyber Security Centre (ACSC) have published a joint Cybersecurity Advisory on the top malware strains observed in 2021. Malicious cyber actors often use malware to covertly compromise and then gain access to a computer or mobile device. As malicious cyber actors have been using most of these top malware strains for more than five years, organizations have opportunities to better prepare, identify, and mitigate attacks from these strains.  
-CISA and ACSC encourage organizations to apply the recommendations in the Mitigations sections of the joint CSA. These mitigations include prioritizing patching all systems with known exploited vulnerabilities, enforcing multifactor authentication (MFA), securing remote desktop protocol (RDP) and other risky services, making offline backups of your data, and providing end-user awareness and training about social engineering and phishing. The appendix contains detection signatures organizations can employ in defending their networks. For more information on preventing malicious cyber actors from using 2021 top malware strains to exploit vulnerabilities, see:
-•    CISA’s Known Exploited Vulnerabilities Catalog 
-CISA’s Cyber Hygiene Services
-CISA’s Choosing and Protecting Passwords
-ACSC’s Implementing Multi-Factor Authentication
- 
-This product is provided subject to this Notification and this Privacy & Use policy.]]></summary>
-        <author>
-            <name>CISA</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Incognia Mobile App Study Reveals Low Detection of Location Spoofing in Dating Apps]]></title>
-        <id>https://www.darkreading.com/vulnerabilities-threats/incognia-mobile-app-study-reveals-low-detection-of-location-spoofing-in-dating-apps</id>
-        <link href="https://www.darkreading.com/vulnerabilities-threats/incognia-mobile-app-study-reveals-low-detection-of-location-spoofing-in-dating-apps"/>
-        <updated>2022-08-02T15:24:02.000Z</updated>
-        <summary type="html"><![CDATA[With over 323 million users of dating apps worldwide, study finds location spoofing is a threat to user trust and safety.]]></summary>
-        <author>
-            <name>Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BlackCloak Bolsters Malware Protection With QR Code Scanner and Malicious Calendar Detection Features]]></title>
-        <id>https://www.darkreading.com/mobile/blackcloak-bolsters-malware-protection-with-qr-code-scanner-and-malicious-calendar-detection-features</id>
-        <link href="https://www.darkreading.com/mobile/blackcloak-bolsters-malware-protection-with-qr-code-scanner-and-malicious-calendar-detection-features"/>
-        <updated>2022-08-02T14:50:20.000Z</updated>
-        <summary type="html"><![CDATA[In conjunction with Black Hat 2022, pioneer of digital executive protection also announces new security innovations and SOC 2 Type II certification.]]></summary>
-        <author>
-            <name>Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cybrary Lands $25 Million in New Funding Round]]></title>
-        <id>https://www.darkreading.com/careers-and-people/cybrary-lands-25-million-in-new-funding-round</id>
-        <link href="https://www.darkreading.com/careers-and-people/cybrary-lands-25-million-in-new-funding-round"/>
-        <updated>2022-08-02T14:50:20.000Z</updated>
-        <summary type="html"><![CDATA[Series C investment from BuildGroup and Gula Tech Adventures, along with appointment of Kevin Mandia to the board of directors, will propel a new chapter of company growth.]]></summary>
-        <author>
-            <name>Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[5 Steps to Becoming Secure by Design in the Face of Evolving Cyber Threats]]></title>
-        <id>https://www.darkreading.com/vulnerabilities-threats/5-steps-to-becoming-secure-by-design-in-the-face-of-evolving-cyber-threats</id>
-        <link href="https://www.darkreading.com/vulnerabilities-threats/5-steps-to-becoming-secure-by-design-in-the-face-of-evolving-cyber-threats"/>
-        <updated>2022-08-02T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[From adopting zero-trust security models to dynamic environments to operating under an "assumed breach" mentality, here are ways IT departments can reduce vulnerabilities as they move deliberately to become more secure.]]></summary>
-        <author>
-            <name>Sudhakar Ramakrishna, CEO, SolarWinds</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CREST Defensible Penetration Test Released]]></title>
-        <id>https://www.darkreading.com/vulnerabilities-threats/crest-defensible-penetration-test-released</id>
-        <link href="https://www.darkreading.com/vulnerabilities-threats/crest-defensible-penetration-test-released"/>
-        <updated>2022-08-02T13:53:09.000Z</updated>
-        <summary type="html"><![CDATA[CREST provides commercially defensible scoping, delivery, and sign-off
-recommendations for penetration tests.]]></summary>
-        <author>
-            <name>Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CyberheistNews Vol 12 #31 [Heads Up] Crafty Microsoft USB Scam Shows the Importance of Security Awareness Training]]></title>
-        <id>https://blog.knowbe4.com/cyberheistnews-vol-12-31-heads-up-crafty-microsoft-usb-scam-shows-the-importance-of-security-awareness-training</id>
-        <link href="https://blog.knowbe4.com/cyberheistnews-vol-12-31-heads-up-crafty-microsoft-usb-scam-shows-the-importance-of-security-awareness-training"/>
-        <updated>2022-08-02T13:38:15.000Z</updated>
-        <summary type="html"><![CDATA[CyberheistNews Vol 12 #31 [Heads Up] Crafty Microsoft USB Scam Shows the Importance of Security Awareness Training]]></summary>
-        <author>
-            <name>Stu Sjouwerman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cyber Insurance Expected to Continue to Rise as Sophistication and Cost of Ransomware Attacks Increase]]></title>
-        <id>https://blog.knowbe4.com/cyber-insurance-expected-to-continue-to-rise-as-sophistication-and-cost-of-ransomware-attacks-increase</id>
-        <link href="https://blog.knowbe4.com/cyber-insurance-expected-to-continue-to-rise-as-sophistication-and-cost-of-ransomware-attacks-increase"/>
-        <updated>2022-08-02T13:07:39.000Z</updated>
-        <summary type="html"><![CDATA[New data about the state of cyber insurance shows that given the current loss ratios by insurers – and the reasons behind those losses – will result in higher premiums for the foreseeable future.]]></summary>
-        <author>
-            <name>Stu Sjouwerman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Experian Customer “Impersonation” Account Takeover Uncovered by KrebsOnSecurity]]></title>
-        <id>https://blog.knowbe4.com/experian-customer-impersonation-account-takeover-uncovered-by-krebsonsecurity</id>
-        <link href="https://blog.knowbe4.com/experian-customer-impersonation-account-takeover-uncovered-by-krebsonsecurity"/>
-        <updated>2022-08-02T13:07:35.000Z</updated>
-        <summary type="html"><![CDATA[After a few notifications of a potential problem with Experian by his readership, Brian Krebs and team checked out Experian’s account signup process and found some disturbing news.]]></summary>
-        <author>
-            <name>Stu Sjouwerman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New 'ParseThru' Parameter Smuggling Vulnerability Affects Golang-based Applications]]></title>
-        <id>tag:blogger.com,1999:blog-4802841478634147276.post-2640778599302498629</id>
-        <link href="https://thehackernews.com/2022/08/new-parsethru-parameter-smuggling.html"/>
-        <updated>2022-08-02T12:05:19.919Z</updated>
-        <summary type="html"><![CDATA[Security researchers have discovered a new vulnerability called ParseThru affecting Golang-based applications that could be abused to gain unauthorized access to cloud-based applications.
-"The newly discovered vulnerability allows a threat actor to bypass validations under certain conditions, as a result of the use of unsafe URL parsing methods built in the language," Israeli cybersecurity firm]]></summary>
-        <author>
-            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is ransomware and how can you defend your business from it?]]></title>
-        <id>tag:blogger.com,1999:blog-4802841478634147276.post-170786089995789313</id>
-        <link href="https://thehackernews.com/2022/08/what-is-ransomware-how-to-defend-your.html"/>
-        <updated>2022-08-02T11:25:05.649Z</updated>
-        <summary type="html"><![CDATA[Ransomware is a kind of malware used by cybercriminals to stop users from accessing their systems or files; the cybercriminals then threaten to leak, destroy or withhold sensitive information unless a ransom is paid.
-Ransomware attacks can target either the data held on computer systems (known as locker ransomware) or devices (crypto-ransomware). In both instances, once a ransom is paid, threat]]></summary>
-        <author>
-            <name>noreply@blogger.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LockBit Ransomware Abuses Windows Defender to Deploy Cobalt Strike Payload]]></title>
-        <id>tag:blogger.com,1999:blog-4802841478634147276.post-6325931217584980108</id>
-        <link href="https://thehackernews.com/2022/08/lockbit-ransomware-abuses-windows.html"/>
-        <updated>2022-08-02T08:07:34.219Z</updated>
-        <summary type="html"><![CDATA[A threat actor associated with the LockBit 3.0 ransomware-as-a-service (RaaS) operation has been observed abusing the Windows Defender command-line tool to decrypt and load Cobalt Strike payloads. 
-According to a report published by SentinelOne last week, the incident occurred after obtaining initial access via the Log4Shell vulnerability against an unpatched VMware Horizon Server.
-"Once initial]]></summary>
-        <author>
-            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
         </author>
     </entry>
 </feed>

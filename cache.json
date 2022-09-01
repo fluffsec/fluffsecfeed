@@ -331,16 +331,6 @@
           "wordCount": 1075,
           "title": "VMware Releases Security Updates",
           "imageUrl": null
-        },
-        {
-          "id": "17840 at https://us-cert.cisa.gov",
-          "author": "CISA",
-          "description": "Original release date: August 2, 2022 | Last revised: August 4, 2022\nCISA and the Australian Cyber Security Centre (ACSC) have published a joint Cybersecurity Advisory on the top malware strains observed in 2021. Malicious cyber actors often use malware to covertly compromise and then gain access to a computer or mobile device. As malicious cyber actors have been using most of these top malware strains for more than five years, organizations have opportunities to better prepare, identify, and mitigate attacks from these strains.  \nCISA and ACSC encourage organizations to apply the recommendations in the Mitigations sections of the joint CSA. These mitigations include prioritizing patching all systems with known exploited vulnerabilities, enforcing multifactor authentication (MFA), securing remote desktop protocol (RDP) and other risky services, making offline backups of your data, and providing end-user awareness and training about social engineering and phishing. The appendix contains detection signatures organizations can employ in defending their networks. For more information on preventing malicious cyber actors from using 2021 top malware strains to exploit vulnerabilities, see:\n•    CISA’s Known Exploited Vulnerabilities Catalog \nCISA’s Cyber Hygiene Services\nCISA’s Choosing and Protecting Passwords\nACSC’s Implementing Multi-Factor Authentication\n \nThis product is provided subject to this Notification and this Privacy & Use policy.",
-          "link": "https://us-cert.cisa.gov/ncas/current-activity/2022/08/02/cisa-and-acsc-release-top-2021-malware-strains",
-          "publishedOn": "2022-08-02T15:36:26.000Z",
-          "wordCount": 1212,
-          "title": "CISA and ACSC Release Top 2021 Malware Strains",
-          "imageUrl": null
         }
       ]
     },
@@ -572,6 +562,61 @@
       "feedUrl": "https://www.darkreading.com/rss.xml",
       "siteUrl": "https://www.darkreading.com",
       "articles": [
+        {
+          "id": "https://www.darkreading.com/dr-tech/closing-the-security-gap-opened-by-the-rise-of-no-code-tools",
+          "author": "Kolawole Samuel Adebayo, Contributing Writer",
+          "description": "No-code startups such as Mine PrivacyOps say they offer best of both worlds — quick development and compliance with privacy laws.",
+          "link": "https://www.darkreading.com/dr-tech/closing-the-security-gap-opened-by-the-rise-of-no-code-tools",
+          "publishedOn": "2022-08-31T23:20:23.000Z",
+          "wordCount": 10278,
+          "title": "Closing the Security Gap Opened by the Rise of No-Code Tools",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt0e633cacbfbbf0c2/6305337a9b7ae964b1821d09/kolawole-samuel-adebayo.jpg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt0e633cacbfbbf0c2/6305337a9b7ae964b1821d09/kolawole-samuel-adebayo.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/vulnerabilities-threats/google-fixes-24-browser-vulnerabilities-with-chrome-105-version",
+          "author": "Jai Vijayan, Contributing Writer, Dark Reading",
+          "description": "But one issue that lets websites overwrite content on a user's system clipboard appears unfixed in the new Version 105 of Chrome.",
+          "link": "https://www.darkreading.com/vulnerabilities-threats/google-fixes-24-browser-vulnerabilities-with-chrome-105-version",
+          "publishedOn": "2022-08-31T20:10:59.000Z",
+          "wordCount": 12016,
+          "title": "Google Fixes 24 Vulnerabilities With New Chrome Update",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt02d79fb9a44a4258/60b1e9dd2a25046b35110696/Jai-Vijayan.jpeg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt02d79fb9a44a4258/60b1e9dd2a25046b35110696/Jai-Vijayan.jpeg"
+        },
+        {
+          "id": "https://www.darkreading.com/vulnerabilities-threats/crypto-crooks-trojanized-google-translate-app-watering-hole-attack",
+          "author": "Tara Seals, Managing Editor, News, Dark Reading",
+          "description": "The ongoing campaign is spreading worldwide, using the lure of a fully functional Google Translate application for desktops that has helped the threat stay undetected for months.",
+          "link": "https://www.darkreading.com/vulnerabilities-threats/crypto-crooks-trojanized-google-translate-app-watering-hole-attack",
+          "publishedOn": "2022-08-31T20:09:09.000Z",
+          "wordCount": 11964,
+          "title": "Crypto-Crooks Spread Trojanized Google Translate App in Watering-Hole Attack",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltea67136f81f32eca/626a9eb4726e3315b16b3c64/Tara-Seals-Headshot2.jpg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltea67136f81f32eca/626a9eb4726e3315b16b3c64/Tara-Seals-Headshot2.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/attacks-breaches/the-pros-and-cons-of-managed-firewalls",
+          "author": null,
+          "description": "Managed firewalls are increasingly popular. This post examines the strengths and weaknesses of managed firewalls to help your team decide on the right approach.",
+          "link": "https://www.darkreading.com/attacks-breaches/the-pros-and-cons-of-managed-firewalls",
+          "publishedOn": "2022-08-31T18:00:00.000Z",
+          "wordCount": 11519,
+          "title": "The Pros and Cons of Managed Firewalls",
+          "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
+        },
         {
           "id": "https://www.darkreading.com/vulnerabilities-threats/james-webb-telescope-images-loaded-with-malware-are-evading-edr",
           "author": "Dark Reading Staff, Dark Reading",
@@ -3456,61 +3501,6 @@
             "length": "0"
           },
           "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltf8b5a94afa71c53a/628e3799daa31875dc0c9fc0/NathanEddyHeadshot.PNG"
-        },
-        {
-          "id": "https://www.darkreading.com/vulnerabilities-threats/incognia-mobile-app-study-reveals-low-detection-of-location-spoofing-in-dating-apps",
-          "author": null,
-          "description": "With over 323 million users of dating apps worldwide, study finds location spoofing is a threat to user trust and safety.",
-          "link": "https://www.darkreading.com/vulnerabilities-threats/incognia-mobile-app-study-reveals-low-detection-of-location-spoofing-in-dating-apps",
-          "publishedOn": "2022-08-02T15:24:02.000Z",
-          "wordCount": 12960,
-          "title": "Incognia Mobile App Study Reveals Low Detection of Location Spoofing in Dating Apps",
-          "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
-        },
-        {
-          "id": "https://www.darkreading.com/mobile/blackcloak-bolsters-malware-protection-with-qr-code-scanner-and-malicious-calendar-detection-features",
-          "author": null,
-          "description": "In conjunction with Black Hat 2022, pioneer of digital executive protection also announces new security innovations and SOC 2 Type II certification.",
-          "link": "https://www.darkreading.com/mobile/blackcloak-bolsters-malware-protection-with-qr-code-scanner-and-malicious-calendar-detection-features",
-          "publishedOn": "2022-08-02T14:50:20.000Z",
-          "wordCount": 12670,
-          "title": "BlackCloak Bolsters Malware Protection With QR Code Scanner and Malicious Calendar Detection Features",
-          "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
-        },
-        {
-          "id": "https://www.darkreading.com/careers-and-people/cybrary-lands-25-million-in-new-funding-round",
-          "author": null,
-          "description": "Series C investment from BuildGroup and Gula Tech Adventures, along with appointment of Kevin Mandia to the board of directors, will propel a new chapter of company growth.",
-          "link": "https://www.darkreading.com/careers-and-people/cybrary-lands-25-million-in-new-funding-round",
-          "publishedOn": "2022-08-02T14:50:20.000Z",
-          "wordCount": 13480,
-          "title": "Cybrary Lands $25 Million in New Funding Round",
-          "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
-        },
-        {
-          "id": "https://www.darkreading.com/vulnerabilities-threats/5-steps-to-becoming-secure-by-design-in-the-face-of-evolving-cyber-threats",
-          "author": "Sudhakar Ramakrishna, CEO, SolarWinds",
-          "description": "From adopting zero-trust security models to dynamic environments to operating under an \"assumed breach\" mentality, here are ways IT departments can reduce vulnerabilities as they move deliberately to become more secure.",
-          "link": "https://www.darkreading.com/vulnerabilities-threats/5-steps-to-becoming-secure-by-design-in-the-face-of-evolving-cyber-threats",
-          "publishedOn": "2022-08-02T14:00:00.000Z",
-          "wordCount": 14535,
-          "title": "5 Steps to Becoming Secure by Design in the Face of Evolving Cyber Threats",
-          "enclosure": {
-            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blte371dfe14abb5459/62e30343d59c9f64d3a81e83/Sudhakar_Ramakrishna_headshot.jpeg",
-            "type": "image/*",
-            "length": "0"
-          },
-          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blte371dfe14abb5459/62e30343d59c9f64d3a81e83/Sudhakar_Ramakrishna_headshot.jpeg"
-        },
-        {
-          "id": "https://www.darkreading.com/vulnerabilities-threats/crest-defensible-penetration-test-released",
-          "author": null,
-          "description": "CREST provides commercially defensible scoping, delivery, and sign-off\nrecommendations for penetration tests.",
-          "link": "https://www.darkreading.com/vulnerabilities-threats/crest-defensible-penetration-test-released",
-          "publishedOn": "2022-08-02T13:53:09.000Z",
-          "wordCount": 12199,
-          "title": "CREST Defensible Penetration Test Released",
-          "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
         }
       ]
     },
@@ -4246,36 +4236,6 @@
           "wordCount": 2520,
           "title": "Security and Gender: The Gaps Are Not Where You Expect",
           "imageUrl": "https://blog.knowbe4.com/hubfs/Misconceptions%20about%20Cybersecurity.jpg#keepProtocol"
-        },
-        {
-          "id": "https://blog.knowbe4.com/cyberheistnews-vol-12-31-heads-up-crafty-microsoft-usb-scam-shows-the-importance-of-security-awareness-training",
-          "author": "Stu Sjouwerman",
-          "description": "CyberheistNews Vol 12 #31 [Heads Up] Crafty Microsoft USB Scam Shows the Importance of Security Awareness Training",
-          "link": "https://blog.knowbe4.com/cyberheistnews-vol-12-31-heads-up-crafty-microsoft-usb-scam-shows-the-importance-of-security-awareness-training",
-          "publishedOn": "2022-08-02T13:38:15.000Z",
-          "wordCount": 4091,
-          "title": "CyberheistNews Vol 12 #31 [Heads Up] Crafty Microsoft USB Scam Shows the Importance of Security Awareness Training",
-          "imageUrl": "https://blog.knowbe4.com/hubfs/CHN-Social.jpg#keepProtocol"
-        },
-        {
-          "id": "https://blog.knowbe4.com/cyber-insurance-expected-to-continue-to-rise-as-sophistication-and-cost-of-ransomware-attacks-increase",
-          "author": "Stu Sjouwerman",
-          "description": "New data about the state of cyber insurance shows that given the current loss ratios by insurers – and the reasons behind those losses – will result in higher premiums for the foreseeable future.",
-          "link": "https://blog.knowbe4.com/cyber-insurance-expected-to-continue-to-rise-as-sophistication-and-cost-of-ransomware-attacks-increase",
-          "publishedOn": "2022-08-02T13:07:39.000Z",
-          "wordCount": 2112,
-          "title": "Cyber Insurance Expected to Continue to Rise as Sophistication and Cost of Ransomware Attacks Increase",
-          "imageUrl": "https://blog.knowbe4.com/hubfs/Cyber%20Insurance%20Increase%20Due%20to%20Ransomware.jpg#keepProtocol"
-        },
-        {
-          "id": "https://blog.knowbe4.com/experian-customer-impersonation-account-takeover-uncovered-by-krebsonsecurity",
-          "author": "Stu Sjouwerman",
-          "description": "After a few notifications of a potential problem with Experian by his readership, Brian Krebs and team checked out Experian’s account signup process and found some disturbing news.",
-          "link": "https://blog.knowbe4.com/experian-customer-impersonation-account-takeover-uncovered-by-krebsonsecurity",
-          "publishedOn": "2022-08-02T13:07:35.000Z",
-          "wordCount": 2124,
-          "title": "Experian Customer “Impersonation” Account Takeover Uncovered by KrebsOnSecurity",
-          "imageUrl": "https://blog.knowbe4.com/hubfs/Experian%20Customer%20Impersonation%20Account.jpg#keepProtocol"
         }
       ]
     },
@@ -5590,39 +5550,6 @@
           "publishedOn": "2022-08-02T16:03:45.104Z",
           "wordCount": null,
           "title": "Chinese Hackers Using New Manjusaka Hacking Framework Similar to Cobalt Strike",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "tag:blogger.com,1999:blog-4802841478634147276.post-2640778599302498629",
-          "author": "noreply@blogger.com (Ravie Lakshmanan)",
-          "description": "Security researchers have discovered a new vulnerability called ParseThru affecting Golang-based applications that could be abused to gain unauthorized access to cloud-based applications.\n\"The newly discovered vulnerability allows a threat actor to bypass validations under certain conditions, as a result of the use of unsafe URL parsing methods built in the language,\" Israeli cybersecurity firm",
-          "link": "https://thehackernews.com/2022/08/new-parsethru-parameter-smuggling.html",
-          "publishedOn": "2022-08-02T12:05:19.919Z",
-          "wordCount": null,
-          "title": "New 'ParseThru' Parameter Smuggling Vulnerability Affects Golang-based Applications",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "tag:blogger.com,1999:blog-4802841478634147276.post-170786089995789313",
-          "author": "noreply@blogger.com (The Hacker News)",
-          "description": "Ransomware is a kind of malware used by cybercriminals to stop users from accessing their systems or files; the cybercriminals then threaten to leak, destroy or withhold sensitive information unless a ransom is paid.\nRansomware attacks can target either the data held on computer systems (known as locker ransomware) or devices (crypto-ransomware). In both instances, once a ransom is paid, threat",
-          "link": "https://thehackernews.com/2022/08/what-is-ransomware-how-to-defend-your.html",
-          "publishedOn": "2022-08-02T11:25:05.649Z",
-          "wordCount": null,
-          "title": "What is ransomware and how can you defend your business from it?",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "tag:blogger.com,1999:blog-4802841478634147276.post-6325931217584980108",
-          "author": "noreply@blogger.com (Ravie Lakshmanan)",
-          "description": "A threat actor associated with the LockBit 3.0 ransomware-as-a-service (RaaS) operation has been observed abusing the Windows Defender command-line tool to decrypt and load Cobalt Strike payloads. \nAccording to a report published by SentinelOne last week, the incident occurred after obtaining initial access via the Log4Shell vulnerability against an unpatched VMware Horizon Server.\n\"Once initial",
-          "link": "https://thehackernews.com/2022/08/lockbit-ransomware-abuses-windows.html",
-          "publishedOn": "2022-08-02T08:07:34.219Z",
-          "wordCount": null,
-          "title": "LockBit Ransomware Abuses Windows Defender to Deploy Cobalt Strike Payload",
           "itunes": {},
           "imageUrl": null
         }
