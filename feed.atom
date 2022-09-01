@@ -2,10 +2,85 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-09-01T13:41:34.633Z</updated>
+    <updated>2022-09-01T19:19:53.264Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Code-Injection Bugs Bite Google, Apache Open Source GitHub Projects]]></title>
+        <id>https://www.darkreading.com/vulnerabilities-threats/code-injection-bugs-google-apache-open-source-github-projects</id>
+        <link href="https://www.darkreading.com/vulnerabilities-threats/code-injection-bugs-google-apache-open-source-github-projects"/>
+        <updated>2022-09-01T16:52:30.000Z</updated>
+        <summary type="html"><![CDATA[The insecurities exist in CI/CD pipelines and can be used by attackers to subvert modern development and roll out malicious code at deployment.]]></summary>
+        <author>
+            <name>Ericka Chickowski, Contributing Writer, Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple Releases Security Updates for Multiple Products]]></title>
+        <id>17939 at https://us-cert.cisa.gov</id>
+        <link href="https://us-cert.cisa.gov/ncas/current-activity/2022/09/01/apple-releases-security-updates-multiple-products"/>
+        <updated>2022-09-01T15:40:28.000Z</updated>
+        <summary type="html"><![CDATA[Original release date: September 1, 2022
+Apple has released security updates to address a vulnerability (CVE-2022-32893) in iPhone 5s, iPhone 6, iPhone 6 Plus, iPad Air, iPad mini 2, iPad mini 3, and iPod touch (6th generation). Exploitation of this vulnerability could allow an attacker to take control of affected device.
+CISA encourages users and administrators to review Apple’s advisory HT213428 and apply necessary updates.
+This product is provided subject to this Notification and this Privacy & Use policy.]]></summary>
+        <author>
+            <name>CISA</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vulnerability Fixed in Azure Synapse Spark]]></title>
+        <id>https://msrc-blog.microsoft.com/?p=14611</id>
+        <link href="https://msrc-blog.microsoft.com/2022/09/01/vulnerability-fixed-in-azure-synapse-spark/"/>
+        <updated>2022-09-01T15:00:11.000Z</updated>
+        <summary type="html"><![CDATA[Summary: Microsoft takes a proactive approach to continually probe our defenses, hunt for vulnerabilities, and seek new, innovative ways to protect our customers. Security researchers are an important part of this effort, and our collaborative partnership is critical in a world where cybersecurity attacks continue to grow in number and sophistication.  We value the role …
+  Vulnerability Fixed in Azure Synapse Spark Read More »]]></summary>
+        <author>
+            <name>msrc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple Quietly Releases Another Patch for Zero-Day RCE Bug]]></title>
+        <id>https://www.darkreading.com/vulnerabilities-threats/apple-patch-zero-day-rce-bug</id>
+        <link href="https://www.darkreading.com/vulnerabilities-threats/apple-patch-zero-day-rce-bug"/>
+        <updated>2022-09-01T14:45:27.000Z</updated>
+        <summary type="html"><![CDATA[Apple continues a staged update process to address a WebKit vulnerability that allows attackers to craft malicious Web content to load malware on affected devices.]]></summary>
+        <author>
+            <name>Elizabeth Montalbano, Contributor, Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[(ISC)(2) Launches 'Certified in Cybersecurity' Entry-Level Certification to Address Global Workforce Gap]]></title>
+        <id>https://www.darkreading.com/careers-and-people/-isc-2-launches-certified-in-cybersecurity-entry-level-certification-to-address-global-workforce-gap</id>
+        <link href="https://www.darkreading.com/careers-and-people/-isc-2-launches-certified-in-cybersecurity-entry-level-certification-to-address-global-workforce-gap"/>
+        <updated>2022-09-01T14:18:21.000Z</updated>
+        <summary type="html"><![CDATA[After a rigorous pilot program, the association's newest certification is officially operational. More than 1,500 pilot participants who passed the exam are on the path to full certification.]]></summary>
+        <author>
+            <name>Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stop Worrying About Passwords Forever]]></title>
+        <id>tag:blogger.com,1999:blog-4802841478634147276.post-6104117454954643573</id>
+        <link href="https://thehackernews.com/2022/09/stop-worrying-about-passwords-forever.html"/>
+        <updated>2022-09-01T14:05:00.000Z</updated>
+        <summary type="html"><![CDATA[So far 2022 confirms that passwords are not dead yet. Neither will they be anytime soon. Even though Microsoft and Apple are championing passwordless authentication methods, most applications and websites will not remove this option for a very long time.
+Think about it, internal apps that you do not want to integrate with third-party identity providers, government services, legacy applications,]]></summary>
+        <author>
+            <name>noreply@blogger.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Real-World Cloud Attacks: The True Tasks of Cloud Ransomware Mitigation]]></title>
+        <id>https://www.darkreading.com/cloud/real-world-cloud-attacks-true-tasks-of-cloud-ransomware-mitigation</id>
+        <link href="https://www.darkreading.com/cloud/real-world-cloud-attacks-true-tasks-of-cloud-ransomware-mitigation"/>
+        <updated>2022-09-01T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Cloud breaches are inevitable — and so is cloud ransomware. (Second of two parts.)]]></summary>
+        <author>
+            <name>Ofer Maor, CTO and Co-Founder, Mitiga</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Researchers Detail Emerging Cross-Platform BianLian Ransomware Attacks]]></title>
         <id>tag:blogger.com,1999:blog-4802841478634147276.post-1252193411312672815</id>
@@ -92,6 +167,21 @@ The tech]]></summary>
         <summary type="html"><![CDATA[The ongoing campaign is spreading worldwide, using the lure of a fully functional Google Translate application for desktops that has helped the threat stay undetected for months.]]></summary>
         <author>
             <name>Tara Seals, Managing Editor, News, Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CISA releases two Industrial Control Systems Advisories]]></title>
+        <id>17934 at https://us-cert.cisa.gov</id>
+        <link href="https://us-cert.cisa.gov/ncas/current-activity/2022/08/31/cisa-releases-two-industrial-control-systems-advisories"/>
+        <updated>2022-08-31T18:02:45.000Z</updated>
+        <summary type="html"><![CDATA[Original release date: August 31, 2022 | Last revised: September 1, 2022
+CISA has released two Industrial Control Systems (ICS) advisories on September 01, 2022. These advisories provide timely information about current security issues, vulnerabilities, and exploits surrounding ICS. 
+CISA encourages users and administrators to review the newly released ICS advisories for technical details and mitigations: 
+ICSMA-22-244-01 Contec CMS8000
+ICSA-22-244-01 Delta Electronics DOPSoft
+This product is provided subject to this Notification and this Privacy & Use policy.]]></summary>
+        <author>
+            <name>CISA</name>
         </author>
     </entry>
     <entry>
@@ -4769,17 +4859,6 @@ The result? Heavier workloads, unfilled positions, and]]></summary>
         <updated>2022-08-03T09:03:35.115Z</updated>
         <summary type="html"><![CDATA[A new, large-scale phishing campaign has been observed using adversary-in-the-middle (AitM) techniques to get around security protections and compromise enterprise email accounts.
 "It uses an adversary-in-the-middle (AitM) attack technique capable of bypassing multi-factor authentication," Zscaler researchers Sudeep Singh and Jagadeeswar Ramanukolanu said in a Tuesday report. "The campaign is]]></summary>
-        <author>
-            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[VMware Releases Patches for Several New Flaws Affecting Multiple Products]]></title>
-        <id>tag:blogger.com,1999:blog-4802841478634147276.post-868155627775515841</id>
-        <link href="https://thehackernews.com/2022/08/vmware-releases-patches-for-several-new.html"/>
-        <updated>2022-08-03T04:49:51.482Z</updated>
-        <summary type="html"><![CDATA[Virtualization services provider VMware on Tuesday shipped updates to address 10 security flaws affecting multiple products that could be abused by unauthenticated attackers to perform malicious actions.
-The issues tracked from CVE-2022-31656 through CVE-2022-31665 (CVSS scores: 4.7 - 9.8) affect the VMware Workspace ONE Access, Workspace ONE Access Connector, Identity Manager, Identity Manager]]></summary>
         <author>
             <name>noreply@blogger.com (Ravie Lakshmanan)</name>
         </author>
