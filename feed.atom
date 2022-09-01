@@ -2,10 +2,55 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-09-01T07:25:46.979Z</updated>
+    <updated>2022-09-01T13:41:34.633Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Researchers Detail Emerging Cross-Platform BianLian Ransomware Attacks]]></title>
+        <id>tag:blogger.com,1999:blog-4802841478634147276.post-1252193411312672815</id>
+        <link href="https://thehackernews.com/2022/09/researchers-detail-emerging-cross.html"/>
+        <updated>2022-09-01T12:55:00.000Z</updated>
+        <summary type="html"><![CDATA[The operators of the emerging cross-platform BianLian ransomware have increased their command-and-control (C2) infrastructure this month, a development that alludes to an increase in the group's operational tempo.
+BianLian, written in the Go programming language, was first discovered in mid-July 2022 and has claimed 15 victim organizations as of September 1, cybersecurity firm [redacted] said in]]></summary>
+        <author>
+            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Over 1,800 Android and iOS Apps Found Leaking Hard-Coded AWS Credentials]]></title>
+        <id>tag:blogger.com,1999:blog-4802841478634147276.post-6356452656399230592</id>
+        <link href="https://thehackernews.com/2022/09/over-1800-android-and-ios-apps-found.html"/>
+        <updated>2022-09-01T10:19:00.000Z</updated>
+        <summary type="html"><![CDATA[Researchers have identified 1,859 apps across Android and iOS containing hard-coded Amazon Web Services (AWS) credentials, posing a major security risk.
+"Over three-quarters (77%) of the apps contained valid AWS access tokens allowing access to private AWS cloud services," Symantec's Threat Hunter team, a part of Broadcom Software, said in a report shared with The Hacker News.
+Interestingly, a]]></summary>
+        <author>
+            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Infra Used in Cisco Hack Also Targeted Workforce Management Solution]]></title>
+        <id>tag:blogger.com,1999:blog-4802841478634147276.post-8597480206516655548</id>
+        <link href="https://thehackernews.com/2022/09/infra-used-in-cisco-hack-also-targeted.html"/>
+        <updated>2022-09-01T10:03:00.000Z</updated>
+        <summary type="html"><![CDATA[The attack infrastructure used to target Cisco in the May 2022 incident was also employed against an attempted compromise of an unnamed workforce management solutions holding company a month earlier in April 2022.
+Cybersecurity firm Sentire, which disclosed the findings, raised the possibility that the intrusions could be the work of a criminal actor known as mx1r, who is said to be a member of]]></summary>
+        <author>
+            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Discover Severe ‘One-Click’ Exploit for TikTok Android App]]></title>
+        <id>tag:blogger.com,1999:blog-4802841478634147276.post-753852516240848430</id>
+        <link href="https://thehackernews.com/2022/09/microsoft-discover-severe-one-click.html"/>
+        <updated>2022-09-01T07:13:00.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft on Wednesday disclosed details of a now-patched "high severity vulnerability" in the TikTok app for Android that could let attackers take over accounts when victims clicked on a malicious link.
+"Attackers could have leveraged the vulnerability to hijack an account without users' awareness if a targeted user simply clicked a specially crafted link," Dimitrios Valsamaras of the Microsoft]]></summary>
+        <author>
+            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Apple Releases iOS Update for Older iPhones to Fix Actively Exploited Vulnerability]]></title>
         <id>tag:blogger.com,1999:blog-4802841478634147276.post-8710210464455632152</id>
@@ -4737,86 +4782,6 @@ The result? Heavier workloads, unfilled positions, and]]></summary>
 The issues tracked from CVE-2022-31656 through CVE-2022-31665 (CVSS scores: 4.7 - 9.8) affect the VMware Workspace ONE Access, Workspace ONE Access Connector, Identity Manager, Identity Manager]]></summary>
         <author>
             <name>noreply@blogger.com (Ravie Lakshmanan)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Universities Put Email Users at Cyber Risk]]></title>
-        <id>https://kasperskycontenthub.com/threatpost-global/?p=180342</id>
-        <link href="https://threatpost.com/universities-email-cyber-risk/180342/"/>
-        <updated>2022-08-02T23:02:12.000Z</updated>
-        <summary type="html"><![CDATA[DMARC analysis by Proofpoint shows that institutions in the U.S. have among some of the poorest protections to prevent domain spoofing and lack protections to block fraudulent emails.]]></summary>
-        <author>
-            <name>Elizabeth Montalbano</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Universities Put Email Users at Cyber Risk]]></title>
-        <id>https://kasperskycontenthub.com/threatpost-global/?p=180342</id>
-        <link href="https://threatpost.com/universities-email-cyber-risk/180342/"/>
-        <updated>2022-08-02T23:02:12.000Z</updated>
-        <summary type="html"><![CDATA[DMARC analysis by Proofpoint shows that institutions in the U.S. have among some of the poorest protections to prevent domain spoofing and lack protections to block fraudulent emails.]]></summary>
-        <author>
-            <name>Elizabeth Montalbano</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Thousands of Mobile Apps Leaking Twitter API Keys]]></title>
-        <id>https://www.darkreading.com/endpoint/thousands-of-mobile-apps-leaking-twitter-api-keys</id>
-        <link href="https://www.darkreading.com/endpoint/thousands-of-mobile-apps-leaking-twitter-api-keys"/>
-        <updated>2022-08-02T22:05:24.000Z</updated>
-        <summary type="html"><![CDATA[New finding comes amid report of overall surge in threats targeting mobile and IoT devices over the past year.]]></summary>
-        <author>
-            <name>Jai Vijayan, Contributing Writer, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Large Language AI Models Have Real Security Benefits]]></title>
-        <id>https://www.darkreading.com/dr-tech/large-language-ai-models-have-real-security-benefits</id>
-        <link href="https://www.darkreading.com/dr-tech/large-language-ai-models-have-real-security-benefits"/>
-        <updated>2022-08-02T22:03:15.000Z</updated>
-        <summary type="html"><![CDATA[Complex neural networks, including GPT-3, can deliver useful cybersecurity capabilities such as explaining malware and quickly classifying websites, researchers find.]]></summary>
-        <author>
-            <name>Robert Lemos, Contributing Writer, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Massive New Phishing Campaign Targets Microsoft Email Service Users]]></title>
-        <id>https://www.darkreading.com/attacks-breaches/massive-new-phishing-campaign-targeting-microsoft-email-users</id>
-        <link href="https://www.darkreading.com/attacks-breaches/massive-new-phishing-campaign-targeting-microsoft-email-users"/>
-        <updated>2022-08-02T21:04:50.000Z</updated>
-        <summary type="html"><![CDATA[The campaign uses adversary-in-the-middle techniques to bypass multifactor authentication, evade detection.]]></summary>
-        <author>
-            <name>Dark Reading Staff, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[From Babuk Source Code to Darkside Custom Listings — Exposing a Thriving Ransomware Marketplace on the Dark Web]]></title>
-        <id>https://www.darkreading.com/attacks-breaches/from-babuk-source-code-to-darkside-custom-listings-exposing-a-thriving-ransomware-marketplace-on-the-dark-web</id>
-        <link href="https://www.darkreading.com/attacks-breaches/from-babuk-source-code-to-darkside-custom-listings-exposing-a-thriving-ransomware-marketplace-on-the-dark-web"/>
-        <updated>2022-08-02T20:30:17.000Z</updated>
-        <summary type="html"><![CDATA[Venafi investigation of 35 million Dark Web URLs shows macro-enabled ransomware widely available at bargain prices.]]></summary>
-        <author>
-            <name>Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Manufacturing Sector in 2022 Is More Vulnerable to Account Compromise and Supply Chain Attacks in the Cloud than Other Verticals]]></title>
-        <id>https://www.darkreading.com/cloud/manufacturing-sector-in-2022-is-more-vulnerable-to-account-compromise-and-supply-chain-attacks-in-the-cloud-than-other-verticals</id>
-        <link href="https://www.darkreading.com/cloud/manufacturing-sector-in-2022-is-more-vulnerable-to-account-compromise-and-supply-chain-attacks-in-the-cloud-than-other-verticals"/>
-        <updated>2022-08-02T20:04:29.000Z</updated>
-        <summary type="html"><![CDATA[Netwrix study reveals that manufacturing organizations experienced these types of attacks more often than any other industry surveyed.]]></summary>
-        <author>
-            <name>Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Axis Raises the Bar With Modern-Day ZTNA Service that Boasts Hyper-Intelligence, Simplicity, and 350 Global Edges]]></title>
-        <id>https://www.darkreading.com/cloud/axis-raises-the-bar-with-modern-day-ztna-service-that-boasts-hyper-intelligence-simplicity-and-350-global-edges</id>
-        <link href="https://www.darkreading.com/cloud/axis-raises-the-bar-with-modern-day-ztna-service-that-boasts-hyper-intelligence-simplicity-and-350-global-edges"/>
-        <updated>2022-08-02T19:31:09.000Z</updated>
-        <summary type="html"><![CDATA[Launches industry’s first ZTNA migration tool and ZTNA buyback program, setting the stage for migration away from ZTNA 1.0.]]></summary>
-        <author>
-            <name>Dark Reading</name>
         </author>
     </entry>
 </feed>
