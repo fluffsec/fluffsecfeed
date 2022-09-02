@@ -2,10 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-09-02T07:28:53.534Z</updated>
+    <updated>2022-09-02T13:43:48.568Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Ragnar Locker Brags About TAP Air Portugal Breach]]></title>
+        <id>https://www.darkreading.com/attacks-breaches/ragnar-locker-brags-tap-air-portugal-data</id>
+        <link href="https://www.darkreading.com/attacks-breaches/ragnar-locker-brags-tap-air-portugal-data"/>
+        <updated>2022-09-02T13:25:31.000Z</updated>
+        <summary type="html"><![CDATA[TAP assures its customers that it stopped data theft in a recent cyberattack, but the Ragnar Locker ransomware group says it made off with user info.]]></summary>
+        <author>
+            <name>Dark Reading Staff, Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fraud Warning from DHS OIG]]></title>
+        <id>https://blog.knowbe4.com/fraud-warning-from-dhs-oig</id>
+        <link href="https://blog.knowbe4.com/fraud-warning-from-dhs-oig"/>
+        <updated>2022-09-02T12:45:00.000Z</updated>
+        <summary type="html"><![CDATA[The Department of Homeland Security’s Office of the Inspector General (DHS OIG) has issued an alert to warn that scammers are posing as DHS employees.]]></summary>
+        <author>
+            <name>Stu Sjouwerman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Your KnowBe4 Fresh Content Updates from August 2022]]></title>
+        <id>https://blog.knowbe4.com/your-knowbe4-fresh-content-updates-from-august-2022</id>
+        <link href="https://blog.knowbe4.com/your-knowbe4-fresh-content-updates-from-august-2022"/>
+        <updated>2022-09-02T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Check out the 50 new pieces of training content added in August, alongside the always fresh content update highlights and new features.]]></summary>
+        <author>
+            <name>Stu Sjouwerman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New Evidence Links Raspberry Robin Malware to Dridex and Russian Evil Corp Hackers]]></title>
+        <id>tag:blogger.com,1999:blog-4802841478634147276.post-6226105782679928502</id>
+        <link href="https://thehackernews.com/2022/09/new-evidence-links-raspberry-robin.html"/>
+        <updated>2022-09-02T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Researchers have identified functional similarities between a malicious component used in the Raspberry Robin infection chain and a Dridex malware loader, further strengthening the operators' connections to the Russia-based Evil Corp group.
+The findings suggest that "Evil Corp is likely using Raspberry Robin infrastructure to carry out its attacks," IBM Security X-Force researcher Kevin Henson]]></summary>
+        <author>
+            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Google Chrome Bug Lets Sites Silently Overwrite System Clipboard Content]]></title>
         <id>tag:blogger.com,1999:blog-4802841478634147276.post-3996551876684684782</id>
@@ -16,6 +57,16 @@ The clipboard poisoning attack is said to have been accidentally introduced in C
 While the]]></summary>
         <author>
             <name>noreply@blogger.com (Ravie Lakshmanan)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ghost Data Increases Enterprise Business Risk]]></title>
+        <id>https://www.darkreading.com/edge-threat-monitor/ghost-data-increases-enterprise-business-risk</id>
+        <link href="https://www.darkreading.com/edge-threat-monitor/ghost-data-increases-enterprise-business-risk"/>
+        <updated>2022-09-02T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[IT has to get its hands around cloud data sprawl. Another area of focus should be on ghost data, as it expands the organization's cloud attack surface.]]></summary>
+        <author>
+            <name>Edge Editors, Dark Reading</name>
         </author>
     </entry>
     <entry>
@@ -4654,46 +4705,6 @@ The attack, which transpired over a seven-day-period during the end of May, has 
 The most critical of the flaws impact Cisco Small Business RV160, RV260, RV340, and RV345 Series routers. Tracked as CVE-2022-20842 (CVSS score: 9.8)]]></summary>
         <author>
             <name>noreply@blogger.com (Ravie Lakshmanan)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Startup Footprint Tackles Identity Verification]]></title>
-        <id>https://www.darkreading.com/dr-tech/new-startup-footprint-tackles-identity-verification</id>
-        <link href="https://www.darkreading.com/dr-tech/new-startup-footprint-tackles-identity-verification"/>
-        <updated>2022-08-03T23:50:36.000Z</updated>
-        <summary type="html"><![CDATA[Early-stage startup Footprint's goal is to provide tools that change how enterprises verify, authentication, authorize, and secure identity.]]></summary>
-        <author>
-            <name>Dark Reading Staff, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How IT Teams Can Use 'Harm Reduction' for Better Cybersecurity Outcomes]]></title>
-        <id>https://www.darkreading.com/risk/teams-harm-reduction-better-cybersecurity-outcomes</id>
-        <link href="https://www.darkreading.com/risk/teams-harm-reduction-better-cybersecurity-outcomes"/>
-        <updated>2022-08-03T21:25:43.000Z</updated>
-        <summary type="html"><![CDATA[Copado's Kyle Tobener will discuss a three-pronged plan at Black Hat USA for addressing human weaknesses in cybersecurity with this medical concept — from phishing to shadow IT.]]></summary>
-        <author>
-            <name>Tara Seals, Managing Editor, News, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Critical RCE Bug in DrayTek Routers Opens SMBs to Zero-Click Attacks]]></title>
-        <id>https://www.darkreading.com/endpoint/critical-rce-bug-draytek-routers-smbs-zero-click-attacks</id>
-        <link href="https://www.darkreading.com/endpoint/critical-rce-bug-draytek-routers-smbs-zero-click-attacks"/>
-        <updated>2022-08-03T20:23:45.000Z</updated>
-        <summary type="html"><![CDATA[SMBs should patch CVE-2022-32548 now to avoid a host of horrors, including complete network compromise, ransomware, state-sponsored attacks, and more.]]></summary>
-        <author>
-            <name>Tara Seals, Managing Editor, News, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[School Kid Uploads Ransomware Scripts to PyPI Repository as 'Fun' Project]]></title>
-        <id>https://www.darkreading.com/threat-intelligence/school-kid-uploads-ransomware-scripts-to-pypi-repository-as-fun-research-project</id>
-        <link href="https://www.darkreading.com/threat-intelligence/school-kid-uploads-ransomware-scripts-to-pypi-repository-as-fun-research-project"/>
-        <updated>2022-08-03T19:57:48.000Z</updated>
-        <summary type="html"><![CDATA[The malware packages had names that were common typosquats of a legitimate widely used Python library. One was downloaded hundreds of times.]]></summary>
-        <author>
-            <name>Jai Vijayan, Contributing Writer, Dark Reading</name>
         </author>
     </entry>
 </feed>
