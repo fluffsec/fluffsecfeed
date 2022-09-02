@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-09-01T19:19:53.264Z</updated>
+    <updated>2022-09-02T03:44:36.852Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Neopets Hackers Had Network Access for 18 Months]]></title>
+        <id>https://www.darkreading.com/attacks-breaches/neopets-hackers-network-access-18-months</id>
+        <link href="https://www.darkreading.com/attacks-breaches/neopets-hackers-network-access-18-months"/>
+        <updated>2022-09-01T20:36:00.000Z</updated>
+        <summary type="html"><![CDATA[Neopets has confirmed that its IT systems were compromised from January 2021 through July 2022, exposing 69 million user accounts and source code.]]></summary>
+        <author>
+            <name>Dark Reading Staff, Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Threat Actor Phishing PyPI Users Identified]]></title>
+        <id>https://www.darkreading.com/application-security/researchers-identify-threat-actor-behind-recent-phishing-attack-targeting-pypi-users</id>
+        <link href="https://www.darkreading.com/application-security/researchers-identify-threat-actor-behind-recent-phishing-attack-targeting-pypi-users"/>
+        <updated>2022-09-01T20:35:00.000Z</updated>
+        <summary type="html"><![CDATA["JuiceLedger" has escalated a campaign to distribute its information stealer by now going after developers who published code on the widely used Python code repository.]]></summary>
+        <author>
+            <name>Jai Vijayan, Contributing Writer, Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Skyrocketing IoT Bug Disclosures Put Pressure on Security Teams]]></title>
+        <id>https://www.darkreading.com/iot/iot-bug-disclosure-security-teams</id>
+        <link href="https://www.darkreading.com/iot/iot-bug-disclosure-security-teams"/>
+        <updated>2022-09-01T19:49:52.000Z</updated>
+        <summary type="html"><![CDATA[The expanding Internet of Things ecosystem is seeing a startling rate of vulnerability disclosures, leaving companies with a greater need for visibility into and patching of IoT devices.]]></summary>
+        <author>
+            <name>Robert Lemos, Contributing Writer, Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New Guidelines Spell Out How to Test IoT Security Products]]></title>
+        <id>https://www.darkreading.com/dr-tech/new-guidelines-spell-out-how-to-test-iot-security-products</id>
+        <link href="https://www.darkreading.com/dr-tech/new-guidelines-spell-out-how-to-test-iot-security-products"/>
+        <updated>2022-09-01T19:49:07.000Z</updated>
+        <summary type="html"><![CDATA[The proposed AMTSO guidelines offer a roadmap for comprehensive testing of IoT security products.]]></summary>
+        <author>
+            <name>Nathan Eddy, Contributing Writer, Dark Reading</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Code-Injection Bugs Bite Google, Apache Open Source GitHub Projects]]></title>
         <id>https://www.darkreading.com/vulnerabilities-threats/code-injection-bugs-google-apache-open-source-github-projects</id>
@@ -4695,172 +4735,6 @@ The algorithm in question is SIKE — short for Supersingular Isogeny Key Encaps
         <summary type="html"><![CDATA[Because they leave so little time to patch and defuse, zero-day threats require a proactive, multilayered approach based on zero trust.]]></summary>
         <author>
             <name>Ryan Barnett, Principal Security Researcher, Akamai</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ShiftLeft Appoints Prevention-First, Cybersecurity Visionary and AI/ML Pioneer Stuart McClure as CEO]]></title>
-        <id>https://www.darkreading.com/application-security/shiftleft-appoints-prevention-first-cybersecurity-visionary-and-ai-ml-pioneer-stuart-mcclure-as-ceo</id>
-        <link href="https://www.darkreading.com/application-security/shiftleft-appoints-prevention-first-cybersecurity-visionary-and-ai-ml-pioneer-stuart-mcclure-as-ceo"/>
-        <updated>2022-08-03T15:38:05.000Z</updated>
-        <summary type="html"><![CDATA[Serial entrepreneur, cybersecurity leader, and industry veteran joins ShiftLeft to drive growth and AI/ML innovation globally.]]></summary>
-        <author>
-            <name>Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Druva Introduces the Data Resiliency Guarantee of up to $10 Million]]></title>
-        <id>https://www.darkreading.com/risk/druva-introduces-the-data-resiliency-guarantee-of-up-to-10-million</id>
-        <link href="https://www.darkreading.com/risk/druva-introduces-the-data-resiliency-guarantee-of-up-to-10-million"/>
-        <updated>2022-08-03T15:33:00.000Z</updated>
-        <summary type="html"><![CDATA[The new program offers robust protection across all five data risk categories: cyber, human, application, operation, and environmental.]]></summary>
-        <author>
-            <name>Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[On-Demand Webinar: New 2022 Phishing By Industry Benchmarking Report: How Does Your Organization Measure Up]]></title>
-        <id>https://blog.knowbe4.com/2022-phishing-by-industry-benchmarking-webinar</id>
-        <link href="https://blog.knowbe4.com/2022-phishing-by-industry-benchmarking-webinar"/>
-        <updated>2022-08-03T15:28:49.000Z</updated>
-        <summary type="html"><![CDATA[As a security leader, you have a lot on your plate. Even as you increase your budget for sophisticated security software, your exposure to cybercrime keeps going up. IT security seems to be a race between effective technology and ever evolving attack strategies from the threat actors. However, there’s an often-overlooked security layer that can significantly reduce your organization’s attack surface: New-school security awareness training.]]></summary>
-        <author>
-            <name>Stu Sjouwerman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[VMWare Urges Users to Patch Critical Authentication Bypass Bug]]></title>
-        <id>https://kasperskycontenthub.com/threatpost-global/?p=180346</id>
-        <link href="https://threatpost.com/vmware-patch-critical-bug/180346/"/>
-        <updated>2022-08-03T15:23:16.000Z</updated>
-        <summary type="html"><![CDATA[Vulnerability—for which a proof-of-concept is forthcoming—is one of a string of flaws the company fixed that could lead to an attack chain.]]></summary>
-        <author>
-            <name>Elizabeth Montalbano</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CompTIA CEO Outlines Initiative to Create the Pre-eminent Destination to Start, Build and ‘Supercharge’ a Tech Career]]></title>
-        <id>https://www.darkreading.com/careers-and-people/comptia-ceo-outlines-initiative-to-create-the-pre-eminent-destination-to-start-build-and-supercharge-a-tech-career</id>
-        <link href="https://www.darkreading.com/careers-and-people/comptia-ceo-outlines-initiative-to-create-the-pre-eminent-destination-to-start-build-and-supercharge-a-tech-career"/>
-        <updated>2022-08-03T15:21:40.000Z</updated>
-        <summary type="html"><![CDATA[Todd Thibodeaux uses ChannelCon 2022 state of the industry remarks to unveil CompTIA’s Project Agora; invites broad industry participation in the effort to fight for tech talent.]]></summary>
-        <author>
-            <name>Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[VMware Releases Security Updates]]></title>
-        <id>17842 at https://us-cert.cisa.gov</id>
-        <link href="https://us-cert.cisa.gov/ncas/current-activity/2022/08/03/vmware-releases-security-updates"/>
-        <updated>2022-08-03T15:16:31.000Z</updated>
-        <summary type="html"><![CDATA[Original release date: August 3, 2022 | Last revised: August 9, 2022
-VMware has released security updates to address multiple vulnerabilities in VMware’s Workspace ONE Access, Access Connector, Identity Manager, Identity Manager Connector, and vRealize Automation. A remote attacker could exploit some of these vulnerabilities to take control of an affected system. 
-Updated August 8, 2022: According to VMware, "VMware has confirmed malicious code that can exploit CVE-2022-31656 and CVE-2022-31659 in impacted products is publicly available."
-CISA encourages users and administrators to review VMware Security Advisory VMSA-2022-0021 and apply the necessary updates. 
-
- 
-This product is provided subject to this Notification and this Privacy & Use policy.]]></summary>
-        <author>
-            <name>CISA</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[VMware Releases Security Updates]]></title>
-        <id>17842 at https://us-cert.cisa.gov</id>
-        <link href="https://us-cert.cisa.gov/ncas/current-activity/2022/08/03/vmware-releases-security-updates-0"/>
-        <updated>2022-08-03T15:16:31.000Z</updated>
-        <summary type="html"><![CDATA[Original release date: August 3, 2022
-VMware has released security updates to address multiple vulnerabilities in VMware’s Workspace ONE Access, Access Connector, Identity Manager, Identity Manager Connector, and vRealize Automation. A remote attacker could exploit some of these vulnerabilities to take control of an affected system. 
-CISA encourages users and administrators to review VMware Security Advisory VMSA-2022-0021 and apply the necessary updates. 
-
- 
-This product is provided subject to this Notification and this Privacy & Use policy.]]></summary>
-        <author>
-            <name>CISA</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Netskope Acquires Infiot, Will Deliver Fully Integrated, Single-Vendor SASE Platform]]></title>
-        <id>https://www.darkreading.com/cloud/netskope-acquires-infiot-will-deliver-fully-integrated-single-vendor-sase-platform</id>
-        <link href="https://www.darkreading.com/cloud/netskope-acquires-infiot-will-deliver-fully-integrated-single-vendor-sase-platform"/>
-        <updated>2022-08-03T14:16:54.000Z</updated>
-        <summary type="html"><![CDATA[Converged SASE platform provides AI-driven Zero trust security and simplified, optimized connectivity to any network location or device, including IoT.]]></summary>
-        <author>
-            <name>Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[5 Ways Chess Can Inspire Strategic Cybersecurity Thinking]]></title>
-        <id>https://www.darkreading.com/careers-and-people/5-ways-chess-can-inspire-strategic-cybersecurity-thinking</id>
-        <link href="https://www.darkreading.com/careers-and-people/5-ways-chess-can-inspire-strategic-cybersecurity-thinking"/>
-        <updated>2022-08-03T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Rising interest in chess may feed the next generation of cybersecurity experts.]]></summary>
-        <author>
-            <name>Miki Shifman, CTO and Co-Founder, Cylus</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[American Express, Snapchat Open-Redirect Vulnerabilities Exploited in Phishing Scheme]]></title>
-        <id>https://www.darkreading.com/cloud/american-express-snapchat-open-redirect-vulnerabilities-exploited-phishing</id>
-        <link href="https://www.darkreading.com/cloud/american-express-snapchat-open-redirect-vulnerabilities-exploited-phishing"/>
-        <updated>2022-08-03T13:52:16.000Z</updated>
-        <summary type="html"><![CDATA[Phishing operators are taking advantage of security bugs in the Amex and Snapchat websites (the latter is unpatched) to steer victims to phishing pages looking to harvest Google and Microsoft logins.]]></summary>
-        <author>
-            <name>Nathan Eddy, Contributing Writer, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Labor Market Social Engineering: Supply-Side and Demand-Side]]></title>
-        <id>https://blog.knowbe4.com/labor-market-social-engineering-supply-side-and-demand-side</id>
-        <link href="https://blog.knowbe4.com/labor-market-social-engineering-supply-side-and-demand-side"/>
-        <updated>2022-08-03T12:50:05.000Z</updated>
-        <summary type="html"><![CDATA[We’re accustomed to social engineering being used for credential theft and business email compromise. We’re also accustomed to hearing about the increase in remote work during the pandemic, and how that has expanded organizations’ attack surface.]]></summary>
-        <author>
-            <name>Stu Sjouwerman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Data Breach Extortion Attack Begins with a Fake Duolingo or MasterClass Subscription Scam]]></title>
-        <id>https://blog.knowbe4.com/new-data-breach-extortion-attack-begins-with-a-fake-duolingo-or-masterclass-subscription-scam</id>
-        <link href="https://blog.knowbe4.com/new-data-breach-extortion-attack-begins-with-a-fake-duolingo-or-masterclass-subscription-scam"/>
-        <updated>2022-08-03T12:50:01.000Z</updated>
-        <summary type="html"><![CDATA[The cybercriminal gang, dubbed ‘Luna Moth’ uses a sophisticated mix of phishing, vishing, remote support sessions, and remote access trojans to gain control of victim endpoints.]]></summary>
-        <author>
-            <name>Stu Sjouwerman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[VirusTotal Reveals Most Impersonated Software in Malware Attacks]]></title>
-        <id>tag:blogger.com,1999:blog-4802841478634147276.post-1835752372760943731</id>
-        <link href="https://thehackernews.com/2022/08/virustotal-reveals-most-impersonated.html"/>
-        <updated>2022-08-03T12:36:55.831Z</updated>
-        <summary type="html"><![CDATA[Threat actors are increasingly mimicking legitimate applications like Skype, Adobe Reader, and VLC Player as a means to abuse trust relationships and increase the likelihood of a successful social engineering attack.
-Other most impersonated legitimate apps by icon include 7-Zip, TeamViewer, CCleaner, Microsoft Edge, Steam, Zoom, and WhatsApp, an analysis from VirusTotal has revealed.
-"One of the]]></summary>
-        <author>
-            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[On-Demand Webinar: New CISO Survey Reveals Top Challenges for Small Cyber Security Teams]]></title>
-        <id>tag:blogger.com,1999:blog-4802841478634147276.post-8047985041763007295</id>
-        <link href="https://thehackernews.com/2022/08/on-demand-webinar-new-ciso-survey.html"/>
-        <updated>2022-08-03T12:13:12.632Z</updated>
-        <summary type="html"><![CDATA[The only threat more persistent to organizations than cyber criminals? The cyber security skills crisis. 
-Nearly 60% of enterprises can’t find the staff to protect their data (and reputations!) from new and emerging breeds of cyber-attacks, reports the Information Systems Security Association (ISSA) in its 5th annual global industry study. 
-The result? Heavier workloads, unfilled positions, and]]></summary>
-        <author>
-            <name>noreply@blogger.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Researchers Warns of Large-Scale AiTM Attacks Targeting Enterprise Users]]></title>
-        <id>tag:blogger.com,1999:blog-4802841478634147276.post-1294765518214243565</id>
-        <link href="https://thehackernews.com/2022/08/researchers-warns-of-large-scale-aitm.html"/>
-        <updated>2022-08-03T09:03:35.115Z</updated>
-        <summary type="html"><![CDATA[A new, large-scale phishing campaign has been observed using adversary-in-the-middle (AitM) techniques to get around security protections and compromise enterprise email accounts.
-"It uses an adversary-in-the-middle (AitM) attack technique capable of bypassing multi-factor authentication," Zscaler researchers Sudeep Singh and Jagadeeswar Ramanukolanu said in a Tuesday report. "The campaign is]]></summary>
-        <author>
-            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
         </author>
     </entry>
 </feed>

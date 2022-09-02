@@ -331,26 +331,6 @@
           "wordCount": 1055,
           "title": "F5 Releases Security Updates",
           "imageUrl": null
-        },
-        {
-          "id": "17842 at https://us-cert.cisa.gov",
-          "author": "CISA",
-          "description": "Original release date: August 3, 2022 | Last revised: August 9, 2022\nVMware has released security updates to address multiple vulnerabilities in VMware’s Workspace ONE Access, Access Connector, Identity Manager, Identity Manager Connector, and vRealize Automation. A remote attacker could exploit some of these vulnerabilities to take control of an affected system. \nUpdated August 8, 2022: According to VMware, \"VMware has confirmed malicious code that can exploit CVE-2022-31656 and CVE-2022-31659 in impacted products is publicly available.\"\nCISA encourages users and administrators to review VMware Security Advisory VMSA-2022-0021 and apply the necessary updates. \n\n \nThis product is provided subject to this Notification and this Privacy & Use policy.",
-          "link": "https://us-cert.cisa.gov/ncas/current-activity/2022/08/03/vmware-releases-security-updates",
-          "publishedOn": "2022-08-03T15:16:31.000Z",
-          "wordCount": 1098,
-          "title": "VMware Releases Security Updates",
-          "imageUrl": null
-        },
-        {
-          "id": "17842 at https://us-cert.cisa.gov",
-          "author": "CISA",
-          "description": "Original release date: August 3, 2022\nVMware has released security updates to address multiple vulnerabilities in VMware’s Workspace ONE Access, Access Connector, Identity Manager, Identity Manager Connector, and vRealize Automation. A remote attacker could exploit some of these vulnerabilities to take control of an affected system. \nCISA encourages users and administrators to review VMware Security Advisory VMSA-2022-0021 and apply the necessary updates. \n\n \nThis product is provided subject to this Notification and this Privacy & Use policy.",
-          "link": "https://us-cert.cisa.gov/ncas/current-activity/2022/08/03/vmware-releases-security-updates-0",
-          "publishedOn": "2022-08-03T15:16:31.000Z",
-          "wordCount": 1075,
-          "title": "VMware Releases Security Updates",
-          "imageUrl": null
         }
       ]
     },
@@ -544,16 +524,6 @@
           "wordCount": 2202,
           "title": "Open Redirect Flaw Snags Amex, Snapchat User Data",
           "imageUrl": "https://media.kasperskycontenthub.com/wp-content/uploads/sites/103/2020/07/06100249/email-3249062_1280.png"
-        },
-        {
-          "id": "https://kasperskycontenthub.com/threatpost-global/?p=180346",
-          "author": "Elizabeth Montalbano",
-          "description": "Vulnerability—for which a proof-of-concept is forthcoming—is one of a string of flaws the company fixed that could lead to an attack chain.",
-          "link": "https://threatpost.com/vmware-patch-critical-bug/180346/",
-          "publishedOn": "2022-08-03T15:23:16.000Z",
-          "wordCount": 2162,
-          "title": "VMWare Urges Users to Patch Critical Authentication Bypass Bug",
-          "imageUrl": "https://media.kasperskycontenthub.com/wp-content/uploads/sites/103/2016/11/06232507/vmware-patch.jpg"
         }
       ]
     },
@@ -562,6 +532,66 @@
       "feedUrl": "https://www.darkreading.com/rss.xml",
       "siteUrl": "https://www.darkreading.com",
       "articles": [
+        {
+          "id": "https://www.darkreading.com/attacks-breaches/neopets-hackers-network-access-18-months",
+          "author": "Dark Reading Staff, Dark Reading",
+          "description": "Neopets has confirmed that its IT systems were compromised from January 2021 through July 2022, exposing 69 million user accounts and source code.",
+          "link": "https://www.darkreading.com/attacks-breaches/neopets-hackers-network-access-18-months",
+          "publishedOn": "2022-09-01T20:36:00.000Z",
+          "wordCount": 9241,
+          "title": "Neopets Hackers Had Network Access for 18 Months",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blte161b23f0fd3a84b/60b1ea374e7eb868c4c6a293/dr_staff_125x125.jpg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blte161b23f0fd3a84b/60b1ea374e7eb868c4c6a293/dr_staff_125x125.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/application-security/researchers-identify-threat-actor-behind-recent-phishing-attack-targeting-pypi-users",
+          "author": "Jai Vijayan, Contributing Writer, Dark Reading",
+          "description": "\"JuiceLedger\" has escalated a campaign to distribute its information stealer by now going after developers who published code on the widely used Python code repository.",
+          "link": "https://www.darkreading.com/application-security/researchers-identify-threat-actor-behind-recent-phishing-attack-targeting-pypi-users",
+          "publishedOn": "2022-09-01T20:35:00.000Z",
+          "wordCount": 11851,
+          "title": "Threat Actor Phishing PyPI Users Identified",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt02d79fb9a44a4258/60b1e9dd2a25046b35110696/Jai-Vijayan.jpeg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt02d79fb9a44a4258/60b1e9dd2a25046b35110696/Jai-Vijayan.jpeg"
+        },
+        {
+          "id": "https://www.darkreading.com/iot/iot-bug-disclosure-security-teams",
+          "author": "Robert Lemos, Contributing Writer, Dark Reading",
+          "description": "The expanding Internet of Things ecosystem is seeing a startling rate of vulnerability disclosures, leaving companies with a greater need for visibility into and patching of IoT devices.",
+          "link": "https://www.darkreading.com/iot/iot-bug-disclosure-security-teams",
+          "publishedOn": "2022-09-01T19:49:52.000Z",
+          "wordCount": 12465,
+          "title": "Skyrocketing IoT Bug Disclosures Put Pressure on Security Teams",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt58481326324d6911/60b1e9a55d34de550780a990/Robert-Lemos.png",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt58481326324d6911/60b1e9a55d34de550780a990/Robert-Lemos.png"
+        },
+        {
+          "id": "https://www.darkreading.com/dr-tech/new-guidelines-spell-out-how-to-test-iot-security-products",
+          "author": "Nathan Eddy, Contributing Writer, Dark Reading",
+          "description": "The proposed AMTSO guidelines offer a roadmap for comprehensive testing of IoT security products.",
+          "link": "https://www.darkreading.com/dr-tech/new-guidelines-spell-out-how-to-test-iot-security-products",
+          "publishedOn": "2022-09-01T19:49:07.000Z",
+          "wordCount": 11120,
+          "title": "New Guidelines Spell Out How to Test IoT Security Products",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltf8b5a94afa71c53a/628e3799daa31875dc0c9fc0/NathanEddyHeadshot.PNG",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltf8b5a94afa71c53a/628e3799daa31875dc0c9fc0/NathanEddyHeadshot.PNG"
+        },
         {
           "id": "https://www.darkreading.com/vulnerabilities-threats/code-injection-bugs-google-apache-open-source-github-projects",
           "author": "Ericka Chickowski, Contributing Writer, Dark Reading",
@@ -3351,76 +3381,6 @@
             "length": "0"
           },
           "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt8a22a99621e2da1b/62cdc3e3a8afdd74d90c6e0a/ryan_barnett_headshot_copy.png"
-        },
-        {
-          "id": "https://www.darkreading.com/application-security/shiftleft-appoints-prevention-first-cybersecurity-visionary-and-ai-ml-pioneer-stuart-mcclure-as-ceo",
-          "author": null,
-          "description": "Serial entrepreneur, cybersecurity leader, and industry veteran joins ShiftLeft to drive growth and AI/ML innovation globally.",
-          "link": "https://www.darkreading.com/application-security/shiftleft-appoints-prevention-first-cybersecurity-visionary-and-ai-ml-pioneer-stuart-mcclure-as-ceo",
-          "publishedOn": "2022-08-03T15:38:05.000Z",
-          "wordCount": 12816,
-          "title": "ShiftLeft Appoints Prevention-First, Cybersecurity Visionary and AI/ML Pioneer Stuart McClure as CEO",
-          "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
-        },
-        {
-          "id": "https://www.darkreading.com/risk/druva-introduces-the-data-resiliency-guarantee-of-up-to-10-million",
-          "author": null,
-          "description": "The new program offers robust protection across all five data risk categories: cyber, human, application, operation, and environmental.",
-          "link": "https://www.darkreading.com/risk/druva-introduces-the-data-resiliency-guarantee-of-up-to-10-million",
-          "publishedOn": "2022-08-03T15:33:00.000Z",
-          "wordCount": 14471,
-          "title": "Druva Introduces the Data Resiliency Guarantee of up to $10 Million",
-          "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
-        },
-        {
-          "id": "https://www.darkreading.com/careers-and-people/comptia-ceo-outlines-initiative-to-create-the-pre-eminent-destination-to-start-build-and-supercharge-a-tech-career",
-          "author": null,
-          "description": "Todd Thibodeaux uses ChannelCon 2022 state of the industry remarks to unveil CompTIA’s Project Agora; invites broad industry participation in the effort to fight for tech talent.",
-          "link": "https://www.darkreading.com/careers-and-people/comptia-ceo-outlines-initiative-to-create-the-pre-eminent-destination-to-start-build-and-supercharge-a-tech-career",
-          "publishedOn": "2022-08-03T15:21:40.000Z",
-          "wordCount": 12336,
-          "title": "CompTIA CEO Outlines Initiative to Create the Pre-eminent Destination to Start, Build and ‘Supercharge’ a Tech Career",
-          "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
-        },
-        {
-          "id": "https://www.darkreading.com/cloud/netskope-acquires-infiot-will-deliver-fully-integrated-single-vendor-sase-platform",
-          "author": null,
-          "description": "Converged SASE platform provides AI-driven Zero trust security and simplified, optimized connectivity to any network location or device, including IoT.",
-          "link": "https://www.darkreading.com/cloud/netskope-acquires-infiot-will-deliver-fully-integrated-single-vendor-sase-platform",
-          "publishedOn": "2022-08-03T14:16:54.000Z",
-          "wordCount": 15744,
-          "title": "Netskope Acquires Infiot, Will Deliver Fully Integrated, Single-Vendor SASE Platform",
-          "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
-        },
-        {
-          "id": "https://www.darkreading.com/careers-and-people/5-ways-chess-can-inspire-strategic-cybersecurity-thinking",
-          "author": "Miki Shifman, CTO and Co-Founder, Cylus",
-          "description": "Rising interest in chess may feed the next generation of cybersecurity experts.",
-          "link": "https://www.darkreading.com/careers-and-people/5-ways-chess-can-inspire-strategic-cybersecurity-thinking",
-          "publishedOn": "2022-08-03T14:00:00.000Z",
-          "wordCount": 13460,
-          "title": "5 Ways Chess Can Inspire Strategic Cybersecurity Thinking",
-          "enclosure": {
-            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt9789e0e269c2acb4/62e436b24ec9fe660e8042f1/2020-12-Miki-Headshot-final-1.JPG",
-            "type": "image/*",
-            "length": "0"
-          },
-          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt9789e0e269c2acb4/62e436b24ec9fe660e8042f1/2020-12-Miki-Headshot-final-1.JPG"
-        },
-        {
-          "id": "https://www.darkreading.com/cloud/american-express-snapchat-open-redirect-vulnerabilities-exploited-phishing",
-          "author": "Nathan Eddy, Contributing Writer, Dark Reading",
-          "description": "Phishing operators are taking advantage of security bugs in the Amex and Snapchat websites (the latter is unpatched) to steer victims to phishing pages looking to harvest Google and Microsoft logins.",
-          "link": "https://www.darkreading.com/cloud/american-express-snapchat-open-redirect-vulnerabilities-exploited-phishing",
-          "publishedOn": "2022-08-03T13:52:16.000Z",
-          "wordCount": 12301,
-          "title": "American Express, Snapchat Open-Redirect Vulnerabilities Exploited in Phishing Scheme",
-          "enclosure": {
-            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltf8b5a94afa71c53a/628e3799daa31875dc0c9fc0/NathanEddyHeadshot.PNG",
-            "type": "image/*",
-            "length": "0"
-          },
-          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltf8b5a94afa71c53a/628e3799daa31875dc0c9fc0/NathanEddyHeadshot.PNG"
         }
       ]
     },
@@ -4126,36 +4086,6 @@
           "wordCount": 1991,
           "title": "KnowBe4 Wins Multiple Summer 2022 \"Best of\" Awards From TrustRadius",
           "imageUrl": "https://blog.knowbe4.com/hubfs/TrustRadius%202022%20Summer%20Best%20Of%20Awards.jpg#keepProtocol"
-        },
-        {
-          "id": "https://blog.knowbe4.com/2022-phishing-by-industry-benchmarking-webinar",
-          "author": "Stu Sjouwerman",
-          "description": "As a security leader, you have a lot on your plate. Even as you increase your budget for sophisticated security software, your exposure to cybercrime keeps going up. IT security seems to be a race between effective technology and ever evolving attack strategies from the threat actors. However, there’s an often-overlooked security layer that can significantly reduce your organization’s attack surface: New-school security awareness training.",
-          "link": "https://blog.knowbe4.com/2022-phishing-by-industry-benchmarking-webinar",
-          "publishedOn": "2022-08-03T15:28:49.000Z",
-          "wordCount": 1886,
-          "title": "On-Demand Webinar: New 2022 Phishing By Industry Benchmarking Report: How Does Your Organization Measure Up",
-          "imageUrl": "https://blog.knowbe4.com/hubfs/PIB2022-SOCIAL-ONDEMAND.jpg#keepProtocol"
-        },
-        {
-          "id": "https://blog.knowbe4.com/labor-market-social-engineering-supply-side-and-demand-side",
-          "author": "Stu Sjouwerman",
-          "description": "We’re accustomed to social engineering being used for credential theft and business email compromise. We’re also accustomed to hearing about the increase in remote work during the pandemic, and how that has expanded organizations’ attack surface.",
-          "link": "https://blog.knowbe4.com/labor-market-social-engineering-supply-side-and-demand-side",
-          "publishedOn": "2022-08-03T12:50:05.000Z",
-          "wordCount": 2236,
-          "title": "Labor Market Social Engineering: Supply-Side and Demand-Side",
-          "imageUrl": "https://blog.knowbe4.com/hubfs/Labor%20Market%20Social%20Engineering.jpg#keepProtocol"
-        },
-        {
-          "id": "https://blog.knowbe4.com/new-data-breach-extortion-attack-begins-with-a-fake-duolingo-or-masterclass-subscription-scam",
-          "author": "Stu Sjouwerman",
-          "description": "The cybercriminal gang, dubbed ‘Luna Moth’ uses a sophisticated mix of phishing, vishing, remote support sessions, and remote access trojans to gain control of victim endpoints.",
-          "link": "https://blog.knowbe4.com/new-data-breach-extortion-attack-begins-with-a-fake-duolingo-or-masterclass-subscription-scam",
-          "publishedOn": "2022-08-03T12:50:01.000Z",
-          "wordCount": 2143,
-          "title": "New Data Breach Extortion Attack Begins with a Fake Duolingo or MasterClass Subscription Scam",
-          "imageUrl": "https://blog.knowbe4.com/hubfs/New%20Data%20Breach%20Extortion.jpg#keepProtocol"
         }
       ]
     },
@@ -5481,39 +5411,6 @@
           "publishedOn": "2022-08-03T17:01:11.109Z",
           "wordCount": null,
           "title": "Single-Core CPU Cracked Post-Quantum Encryption Candidate Algorithm in Just an Hour",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "tag:blogger.com,1999:blog-4802841478634147276.post-1835752372760943731",
-          "author": "noreply@blogger.com (Ravie Lakshmanan)",
-          "description": "Threat actors are increasingly mimicking legitimate applications like Skype, Adobe Reader, and VLC Player as a means to abuse trust relationships and increase the likelihood of a successful social engineering attack.\nOther most impersonated legitimate apps by icon include 7-Zip, TeamViewer, CCleaner, Microsoft Edge, Steam, Zoom, and WhatsApp, an analysis from VirusTotal has revealed.\n\"One of the",
-          "link": "https://thehackernews.com/2022/08/virustotal-reveals-most-impersonated.html",
-          "publishedOn": "2022-08-03T12:36:55.831Z",
-          "wordCount": null,
-          "title": "VirusTotal Reveals Most Impersonated Software in Malware Attacks",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "tag:blogger.com,1999:blog-4802841478634147276.post-8047985041763007295",
-          "author": "noreply@blogger.com (The Hacker News)",
-          "description": "The only threat more persistent to organizations than cyber criminals? The cyber security skills crisis. \nNearly 60% of enterprises can’t find the staff to protect their data (and reputations!) from new and emerging breeds of cyber-attacks, reports the Information Systems Security Association (ISSA) in its 5th annual global industry study. \nThe result? Heavier workloads, unfilled positions, and",
-          "link": "https://thehackernews.com/2022/08/on-demand-webinar-new-ciso-survey.html",
-          "publishedOn": "2022-08-03T12:13:12.632Z",
-          "wordCount": null,
-          "title": "On-Demand Webinar: New CISO Survey Reveals Top Challenges for Small Cyber Security Teams",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "tag:blogger.com,1999:blog-4802841478634147276.post-1294765518214243565",
-          "author": "noreply@blogger.com (Ravie Lakshmanan)",
-          "description": "A new, large-scale phishing campaign has been observed using adversary-in-the-middle (AitM) techniques to get around security protections and compromise enterprise email accounts.\n\"It uses an adversary-in-the-middle (AitM) attack technique capable of bypassing multi-factor authentication,\" Zscaler researchers Sudeep Singh and Jagadeeswar Ramanukolanu said in a Tuesday report. \"The campaign is",
-          "link": "https://thehackernews.com/2022/08/researchers-warns-of-large-scale-aitm.html",
-          "publishedOn": "2022-08-03T09:03:35.115Z",
-          "wordCount": null,
-          "title": "Researchers Warns of Large-Scale AiTM Attacks Targeting Enterprise Users",
           "itunes": {},
           "imageUrl": null
         }
