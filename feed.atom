@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-09-02T03:44:36.852Z</updated>
+    <updated>2022-09-02T07:28:53.534Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Google Chrome Bug Lets Sites Silently Overwrite System Clipboard Content]]></title>
+        <id>tag:blogger.com,1999:blog-4802841478634147276.post-3996551876684684782</id>
+        <link href="https://thehackernews.com/2022/09/google-chrome-bug-lets-sites-silently.html"/>
+        <updated>2022-09-02T05:55:00.000Z</updated>
+        <summary type="html"><![CDATA[A "major" security issue in the Google Chrome web browser, as well as Chromium-based alternatives, could allow malicious web pages to automatically overwrite clipboard content without requiring any user consent or interaction by simply visiting them.
+The clipboard poisoning attack is said to have been accidentally introduced in Chrome version 104, according to developer Jeff Johnson.
+While the]]></summary>
+        <author>
+            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Neopets Hackers Had Network Access for 18 Months]]></title>
         <id>https://www.darkreading.com/attacks-breaches/neopets-hackers-network-access-18-months</id>
@@ -4682,59 +4694,6 @@ The most critical of the flaws impact Cisco Small Business RV160, RV260, RV340, 
         <summary type="html"><![CDATA[The malware packages had names that were common typosquats of a legitimate widely used Python library. One was downloaded hundreds of times.]]></summary>
         <author>
             <name>Jai Vijayan, Contributing Writer, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vulnerability Spotlight: Vulnerabilities in Alyac antivirus program could stop virus scanning, cause code execution]]></title>
-        <id>https://blog.talosintelligence.com/2022/05/vuln-spotlight-alyac-est.html</id>
-        <link href="https://blog.talosintelligence.com/2022/05/vuln-spotlight-alyac-est.html"/>
-        <updated>2022-08-03T18:46:00.002Z</updated>
-        <summary type="html"><![CDATA[Jaewon Min of Cisco Talos discovered these vulnerabilities. Blog by Jon Munshaw. 
-Update (Aug. 3, 2022): Talos disclosed two new vulnerabilities in the Alyac antivirus software and added their details to this post.
-Cisco Talos recently discovered out-of-bounds read and buffer overflow vulnerabilities in ESTsecurity Corp.’s Alyac antivirus software that could cause a denial-of-service condition or arbitrary code execution. Alyac is an antivirus software developed for Microsoft Windows machines. 
-TALOS-2022-1452 (CVE-2022-21147) is a vulnerability that exists in a specific Alyac module that, eventually, leads to a crash of Alyac’s scanning process, which effectively neutralizes the antivirus scan. If successful, an attacker could trigger this vulnerability to stop the program from scanning for malware, which would be crucial in a potential attack scenario. 
-TALOS-2022-1527 (CVE-2022-32543) and TALOS-2022-1533 (CVE-2022-29886) are heap-based buffer overflow vulnerabilities that an attacker could exploit to execute arbitrary code on the targeted machine. The adversary would have to convince a user to open a specially crafted OLE file to trigger this condition.
-
-Cisco Talos worked with ESTsecurity to ensure that these issues are resolved and an update is available for affected customers, all in adherence to Cisco’s vulnerability disclosure policy. 
-
-
-Users are encouraged to update these affected products as soon as possible: ESTsoft Alyac, versions 2.5.7.7 and 2.5.8.544. Talos tested and confirmed ESTsoft Alyac, version 2.5.7.7, is affected by TALOS-2022-1452. Version 2.5.8.544 is vulnerable to TALOS-2022-1533 and TALOS-2022-1527.
-
-
-The following Snort rules will detect exploitation attempts against these vulnerabilities: 59014, 59015, and 60035 - 60042. Additional rules may be released in the future and current rules are subject to change, pending additional vulnerability information. For the most current rule information, please refer to your Cisco Secure Firewall Management Center or Snort.org.]]></summary>
-        <author>
-            <name>Cisco Talos Intelligence Group - Comprehensive Threat Intelligence</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cyberattackers Drain Nearly $6M From Solana Crypto Wallets]]></title>
-        <id>https://www.darkreading.com/cloud/cyberattackers-drain-6m-solana-crypto-wallets</id>
-        <link href="https://www.darkreading.com/cloud/cyberattackers-drain-6m-solana-crypto-wallets"/>
-        <updated>2022-08-03T17:42:11.000Z</updated>
-        <summary type="html"><![CDATA[So far, the ongoing attack has impacted nearly 8,000 Solana hot wallets.]]></summary>
-        <author>
-            <name>Dark Reading Staff, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Single-Core CPU Cracked Post-Quantum Encryption Candidate Algorithm in Just an Hour]]></title>
-        <id>tag:blogger.com,1999:blog-4802841478634147276.post-754771862655875762</id>
-        <link href="https://thehackernews.com/2022/08/single-core-cpu-cracked-post-quantum.html"/>
-        <updated>2022-08-03T17:01:11.109Z</updated>
-        <summary type="html"><![CDATA[A late-stage candidate encryption algorithm that was meant to withstand decryption by powerful quantum computers in the future has been trivially cracked by using a computer running Intel Xeon CPU in an hour's time.
-The algorithm in question is SIKE — short for Supersingular Isogeny Key Encapsulation — which made it to the fourth round of the Post-Quantum Cryptography (PQC) standardization]]></summary>
-        <author>
-            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Zero-Day Defense: Tips for Defusing the Threat]]></title>
-        <id>https://www.darkreading.com/attacks-breaches/zero-day-defense-tips-for-defusing-the-threat</id>
-        <link href="https://www.darkreading.com/attacks-breaches/zero-day-defense-tips-for-defusing-the-threat"/>
-        <updated>2022-08-03T17:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Because they leave so little time to patch and defuse, zero-day threats require a proactive, multilayered approach based on zero trust.]]></summary>
-        <author>
-            <name>Ryan Barnett, Principal Security Researcher, Akamai</name>
         </author>
     </entry>
 </feed>
