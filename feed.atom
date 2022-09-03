@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-09-02T19:19:00.205Z</updated>
+    <updated>2022-09-03T03:32:57.544Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
@@ -24,6 +24,16 @@
         <summary type="html"><![CDATA[The operators of the emerging cross-platform ransomware BianLian increased their command and control infrastructure this month, indicating an acceleration in their operational pace.]]></summary>
         <author>
             <name>Nathan Eddy, Contributing Writer, Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[4 Scenarios for the Digital World of 2040]]></title>
+        <id>https://www.darkreading.com/the-cyber-future/4-scenarios-for-the-digital-world-of-2040</id>
+        <link href="https://www.darkreading.com/the-cyber-future/4-scenarios-for-the-digital-world-of-2040"/>
+        <updated>2022-09-02T17:44:45.000Z</updated>
+        <summary type="html"><![CDATA[Our digital future depends on the choices we make today. We need to invest in cybersecurity technologies and skills so that humanity can control its future.]]></summary>
+        <author>
+            <name>Laurent Célérier, Executive VP of Technology &amp; Marketing at Orange Cyberdefense</name>
         </author>
     </entry>
     <entry>
@@ -4672,158 +4682,6 @@ In 2021, the top malware strains included remote access Trojans (RATs), banking 
 This CRM, however, defines MFA as a top-tier security setting; for example,]]></summary>
         <author>
             <name>noreply@blogger.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Open Redirects Exploited for Phishing]]></title>
-        <id>https://blog.knowbe4.com/open-redirects-exploited-for-phishing</id>
-        <link href="https://blog.knowbe4.com/open-redirects-exploited-for-phishing"/>
-        <updated>2022-08-04T15:21:34.000Z</updated>
-        <summary type="html"><![CDATA[Attackers are exploiting open redirects to distribute links to credential-harvesting sites, according to Roger Kay at INKY. The attackers are exploiting vulnerable American Express and Snapchat domains to launch the attacks. American Express has since fixed the vulnerability, but Snapchat’s domain remains unpatched.]]></summary>
-        <author>
-            <name>Stu Sjouwerman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Massive China-Linked Disinformation Campaign Taps PR Firm for Help]]></title>
-        <id>https://www.darkreading.com/risk/massive-china-disinformation-campaign-pr-firm</id>
-        <link href="https://www.darkreading.com/risk/massive-china-disinformation-campaign-pr-firm"/>
-        <updated>2022-08-04T15:16:48.000Z</updated>
-        <summary type="html"><![CDATA[A global network of inauthentic news sites present themselves as independent news outlets, offering content favoring China's government and articles critical of the US.]]></summary>
-        <author>
-            <name>Nathan Eddy, Contributing Writer, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Phylum Releases a Free Community Edition to Make Software Supply Chain Security More Accessible]]></title>
-        <id>https://www.darkreading.com/application-security/phylum-releases-a-free-community-edition-to-make-software-supply-chain-security-more-accessible</id>
-        <link href="https://www.darkreading.com/application-security/phylum-releases-a-free-community-edition-to-make-software-supply-chain-security-more-accessible"/>
-        <updated>2022-08-04T14:50:20.000Z</updated>
-        <summary type="html"><![CDATA[Users can identify risks across five domains, work on multiple projects, and take advantage of exclusive community benefits.]]></summary>
-        <author>
-            <name>Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Myth of Protection Online — and What Comes Next]]></title>
-        <id>https://www.darkreading.com/vulnerabilities-threats/the-myth-of-protection-online-and-what-comes-next</id>
-        <link href="https://www.darkreading.com/vulnerabilities-threats/the-myth-of-protection-online-and-what-comes-next"/>
-        <updated>2022-08-04T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[It's a myth that consuming and processing alerts qualifies as security. Today's technology allows better detection and prevention, rather than accepting the low bar for protection set by ingrained incident response reactions.]]></summary>
-        <author>
-            <name>Steve Ryan, Founder &amp; CEO, Trinity Cyber</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Deep Instinct Pioneers Deep-Learning Malware Prevention to Protect Mission-Critical Business Applications at Scale]]></title>
-        <id>https://www.darkreading.com/application-security/deep-instinct-pioneers-deep-learning-malware-prevention-to-protect-mission-critical-business-applications-at-scale</id>
-        <link href="https://www.darkreading.com/application-security/deep-instinct-pioneers-deep-learning-malware-prevention-to-protect-mission-critical-business-applications-at-scale"/>
-        <updated>2022-08-04T13:26:14.000Z</updated>
-        <summary type="html"><![CDATA[Agentless approach meets the attacker earlier to protect financial services and other large enterprises from an underserved attack vector.]]></summary>
-        <author>
-            <name>Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cisco Releases Security Updates for RV Series Routers]]></title>
-        <id>17846 at https://us-cert.cisa.gov</id>
-        <link href="https://us-cert.cisa.gov/ncas/current-activity/2022/08/04/cisco-releases-security-updates-rv-series-routers"/>
-        <updated>2022-08-04T13:21:14.000Z</updated>
-        <summary type="html"><![CDATA[Original release date: August 4, 2022
-Cisco has released security updates to address vulnerabilities in Cisco Small Business RV160, RV260, RV340, and RV345 Series Routers. A remote attacker could exploit some of these vulnerabilities to take control of an affected system. For updates addressing lower severity vulnerabilities, see the Cisco Security Advisories page. 
-cisco-sa-sb-mult-vuln-CbVp4SUR and apply the necessary updates.
-
-This product is provided subject to this Notification and this Privacy & Use policy.]]></summary>
-        <author>
-            <name>CISA</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[35K Malicious Code Insertions in GitHub: Attack or Bug-Bounty Effort?]]></title>
-        <id>https://www.darkreading.com/vulnerabilities-threats/35k-malicious-code-insertions-in-github-attack-bug-bounty</id>
-        <link href="https://www.darkreading.com/vulnerabilities-threats/35k-malicious-code-insertions-in-github-attack-bug-bounty"/>
-        <updated>2022-08-04T13:21:07.000Z</updated>
-        <summary type="html"><![CDATA[In the last month, "Pl0xP" cloned several GitHub repositories, adding malicious code to the forks that would attempt to infect developer systems and steal sensitive files that included software keys.]]></summary>
-        <author>
-            <name>Robert Lemos, Contributing Writer, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ping Identity to Go Private After $2.8B Acquisition]]></title>
-        <id>https://www.darkreading.com/endpoint/ping-identity-to-go-public-acquisition</id>
-        <link href="https://www.darkreading.com/endpoint/ping-identity-to-go-public-acquisition"/>
-        <updated>2022-08-04T13:17:19.000Z</updated>
-        <summary type="html"><![CDATA[The identity-services company is being acquired by Thoma Bravo software investment for cash, before being delisted.]]></summary>
-        <author>
-            <name>Dark Reading Staff, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Critical RCE Bug Could Let Hackers Remotely Take Over DrayTek Vigor Routers]]></title>
-        <id>tag:blogger.com,1999:blog-4802841478634147276.post-1762482089100699945</id>
-        <link href="https://thehackernews.com/2022/08/critical-rce-bug-could-let-hackers.html"/>
-        <updated>2022-08-04T13:10:59.626Z</updated>
-        <summary type="html"><![CDATA[As many as 29 different router models from DrayTek have been identified as affected by a new critical, unauthenticated, remote code execution vulnerability that, if successfully exploited, could lead to full compromise of the device and unauthorized access to the broader network.
-"The attack can be performed without user interaction if the management interface of the device has been configured]]></summary>
-        <author>
-            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Woody RAT Malware Being Used to Target Russian Organizations]]></title>
-        <id>tag:blogger.com,1999:blog-4802841478634147276.post-6273595063188687046</id>
-        <link href="https://thehackernews.com/2022/08/new-woody-rat-malware-being-used-to.html"/>
-        <updated>2022-08-04T12:55:40.090Z</updated>
-        <summary type="html"><![CDATA[An unknown threat actor has been targeting Russian entities with a newly discovered remote access trojan called Woody RAT for at least a year as part of a spear-phishing campaign.
-The advanced custom backdoor is said to be delivered via either of two methods: archive files and Microsoft Office documents leveraging the now-patched "Follina" support diagnostic tool vulnerability (CVE-2022-30190)]]></summary>
-        <author>
-            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[F5 Releases Security Updates]]></title>
-        <id>17844 at https://us-cert.cisa.gov</id>
-        <link href="https://us-cert.cisa.gov/ncas/current-activity/2022/08/04/f5-releases-security-updates"/>
-        <updated>2022-08-04T11:44:53.000Z</updated>
-        <summary type="html"><![CDATA[Original release date: August 4, 2022
-F5 has released security updates to address vulnerabilities in multiple products. A privileged attacker could exploit some of these vulnerabilities to take control of an affected system. 
-CISA encourages users and administrators to review the F5 security advisories and apply the necessary updates.
-This product is provided subject to this Notification and this Privacy & Use policy.]]></summary>
-        <author>
-            <name>CISA</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[KnowBe4 Wins Multiple Summer 2022 "Best of" Awards From TrustRadius]]></title>
-        <id>https://blog.knowbe4.com/knowbe4-wins-multiple-summer-2022-best-of-awards-from-trustradius</id>
-        <link href="https://blog.knowbe4.com/knowbe4-wins-multiple-summer-2022-best-of-awards-from-trustradius"/>
-        <updated>2022-08-04T11:30:00.000Z</updated>
-        <summary type="html"><![CDATA[KnowBe4 is proud to be recognized by TrustRadius with the Summer Best of Awards in three categories for the Security Awareness Training software category.]]></summary>
-        <author>
-            <name>Stu Sjouwerman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Three Common Mistakes That May Sabotage Your Security Training]]></title>
-        <id>tag:blogger.com,1999:blog-4802841478634147276.post-1366682569617480816</id>
-        <link href="https://thehackernews.com/2022/08/three-common-mistakes-that-may-sabotage.html"/>
-        <updated>2022-08-04T10:37:07.795Z</updated>
-        <summary type="html"><![CDATA[Phishing incidents are on the rise. A report from IBM shows that phishing was the most popular attack vector in 2021, resulting in one in five employees falling victim to phishing hacking techniques.
-The Need for Security Awareness Training 
-Although technical solutions protect against phishing threats, no solution is 100% effective. Consequently, companies have no choice but to involve their]]></summary>
-        <author>
-            <name>noreply@blogger.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hackers Exploited Atlassian Confluence Bug to Deploy Ljl Backdoor for Espionage]]></title>
-        <id>tag:blogger.com,1999:blog-4802841478634147276.post-78825967950418576</id>
-        <link href="https://thehackernews.com/2022/08/hackers-exploited-atlassian-confluence.html"/>
-        <updated>2022-08-04T10:24:10.616Z</updated>
-        <summary type="html"><![CDATA[A threat actor is said to have "highly likely" exploited a security flaw in an outdated Atlassian Confluence server to deploy a never-before-seen backdoor against an unnamed organization in the research and technical services sector.
-The attack, which transpired over a seven-day-period during the end of May, has been attributed to a threat activity cluster tracked by cybersecurity firm Deepwatch]]></summary>
-        <author>
-            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
         </author>
     </entry>
 </feed>
