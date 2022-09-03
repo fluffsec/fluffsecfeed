@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-09-03T13:34:49.988Z</updated>
+    <updated>2022-09-03T19:20:40.755Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
@@ -4584,17 +4584,6 @@ The August 1 advisory comes courtesy of DHS' Federal Emergency Management Agency
         <updated>2022-08-05T09:26:31.000Z</updated>
         <author>
             <name>Public KB</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CISA Adds Zimbra Email Vulnerability to its Exploited Vulnerabilities Catalog]]></title>
-        <id>tag:blogger.com,1999:blog-4802841478634147276.post-8622166786581971574</id>
-        <link href="https://thehackernews.com/2022/08/cisa-adds-zimbra-email-vulnerability-to.html"/>
-        <updated>2022-08-05T05:54:43.506Z</updated>
-        <summary type="html"><![CDATA[The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday added a recently disclosed high-severity vulnerability in the Zimbra email suite to its Known Exploited Vulnerabilities Catalog, citing evidence of active exploitation.
-The issue in question is CVE-2022-27924 (CVSS score: 7.5), a command injection flaw in the platform that could lead to the execution of arbitrary]]></summary>
-        <author>
-            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
         </author>
     </entry>
 </feed>
