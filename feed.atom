@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-09-04T19:19:40.590Z</updated>
+    <updated>2022-09-05T03:47:48.535Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
@@ -4415,28 +4415,6 @@ The first set of activities is what the company described as "persistent and wel
         <updated>2022-08-07T04:29:52.633Z</updated>
         <summary type="html"><![CDATA[A new IoT botnet malware dubbed RapperBot has been observed rapidly evolving its capabilities since it was first discovered in mid-June 2022.
 "This family borrows heavily from the original Mirai source code, but what separates it from other IoT malware families is its built-in capability to brute force credentials and gain access to SSH servers instead of Telnet as implemented in Mirai,"]]></summary>
-        <author>
-            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hackers Exploit Twitter Vulnerability to Exposes 5.4 Million Accounts]]></title>
-        <id>tag:blogger.com,1999:blog-4802841478634147276.post-8673992991966787112</id>
-        <link href="https://thehackernews.com/2022/08/hackers-exploit-twitter-vulnerability.html"/>
-        <updated>2022-08-06T09:10:14.808Z</updated>
-        <summary type="html"><![CDATA[Twitter on Friday revealed that a now-patched zero-day bug was used to link phone numbers and emails to user accounts on the social media platform.
-"As a result of the vulnerability, if someone submitted an email address or phone number to Twitter's systems, Twitter's systems would tell the person what Twitter account the submitted email addresses or phone number was associated with, if any,"]]></summary>
-        <author>
-            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Slack Resets Passwords After a Bug Exposed Hashed Passwords for Some Users]]></title>
-        <id>tag:blogger.com,1999:blog-4802841478634147276.post-641256523294218077</id>
-        <link href="https://thehackernews.com/2022/08/slack-resets-passwords-after-bug.html"/>
-        <updated>2022-08-06T08:44:06.752Z</updated>
-        <summary type="html"><![CDATA[Slack said it took the step of resetting passwords for about 0.5% of its users after a flaw exposed salted password hashes when creating or revoking shared invitation links for workspaces.
-"When a user performed either of these actions, Slack transmitted a hashed version of their password to other workspace members," the enterprise communication and collaboration platform said in an alert on 4th]]></summary>
         <author>
             <name>noreply@blogger.com (Ravie Lakshmanan)</name>
         </author>
