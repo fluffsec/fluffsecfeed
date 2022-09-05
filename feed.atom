@@ -2,10 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-09-05T07:37:09.381Z</updated>
+    <updated>2022-09-05T13:49:14.542Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Ransomware Attackers Abuse Genshin Impact Anti-Cheat System to Disable Antivirus]]></title>
+        <id>tag:blogger.com,1999:blog-4802841478634147276.post-6475586823076097263</id>
+        <link href="https://thehackernews.com/2022/09/ransomware-attackers-abuse-genshin.html"/>
+        <updated>2022-09-05T12:26:00.000Z</updated>
+        <summary type="html"><![CDATA[A vulnerable anti-cheat driver for the Genshin Impact video game has been leveraged by a cybercrime actor to disable antivirus programs to facilitate the deployment of ransomware, according to findings from Trend Micro.
+The ransomware infection, which was triggered in the last week of July 2022, banked on the fact that the driver in question ("mhyprot2.sys") is signed with a valid certificate,]]></summary>
+        <author>
+            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fake Antivirus and Cleaner Apps Caught Installing SharkBot Android Banking Trojan]]></title>
+        <id>tag:blogger.com,1999:blog-4802841478634147276.post-5504270225275619660</id>
+        <link href="https://thehackernews.com/2022/09/fake-antivirus-and-cleaner-apps-caught.html"/>
+        <updated>2022-09-05T07:10:00.000Z</updated>
+        <summary type="html"><![CDATA[The notorious Android banking trojan known as SharkBot has once again made an appearance on the Google Play Store by masquerading as antivirus and cleaner apps.
+"This new dropper doesn't rely on Accessibility permissions to automatically perform the installation of the dropper Sharkbot malware," NCC Group's Fox-IT said in a report. "Instead, this new version asks the victim to install the]]></summary>
+        <author>
+            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Instagram Phishing: Scammers Exploit Instagram Verification Program]]></title>
         <id>https://blog.knowbe4.com/instagram-phishing-scammers-exploit-instagram-verification-program</id>
