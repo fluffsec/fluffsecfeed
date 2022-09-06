@@ -493,6 +493,36 @@
       "siteUrl": "https://www.darkreading.com",
       "articles": [
         {
+          "id": "https://www.darkreading.com/application-security/defenders-prepared-cyberattacks-linux-cloud-migration",
+          "author": "Jai Vijayan, Contributing Writer, Dark Reading",
+          "description": "Ransomware in particular poses a major threat, but security vendors say there has been an increase in Linux-targeted cryptojacking, malware, and vulnerability exploits as well, and defenders need to be ready.",
+          "link": "https://www.darkreading.com/application-security/defenders-prepared-cyberattacks-linux-cloud-migration",
+          "publishedOn": "2022-09-06T13:00:00.000Z",
+          "wordCount": 12369,
+          "title": "Defenders Be Prepared: Cyberattacks Surge Against Linux Amid Cloud Migration",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt02d79fb9a44a4258/60b1e9dd2a25046b35110696/Jai-Vijayan.jpeg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt02d79fb9a44a4258/60b1e9dd2a25046b35110696/Jai-Vijayan.jpeg"
+        },
+        {
+          "id": "https://www.darkreading.com/cloud/3-critical-steps-for-reducing-cloud-risk",
+          "author": "Randy Armknecht, Managing Director, Protiviti",
+          "description": "Having a better understanding of how clouds are built, connected, and managed helps organizations mitigate risks and reduce attack surfaces.",
+          "link": "https://www.darkreading.com/cloud/3-critical-steps-for-reducing-cloud-risk",
+          "publishedOn": "2022-09-05T14:00:00.000Z",
+          "wordCount": 12168,
+          "title": "3 Critical Steps for Reducing Cloud Risk",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltf37a40297741cba4/630664cd183c906143bfa3e4/Randy_Armknecht_copy.png",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltf37a40297741cba4/630664cd183c906143bfa3e4/Randy_Armknecht_copy.png"
+        },
+        {
           "id": "https://www.darkreading.com/attacks-breaches/supply-chain-security-guidance-feds-npm-solarwinds",
           "author": "Dark Reading Staff, Dark Reading",
           "description": "The US government and the Open Source Security Foundation have released guidance to shore up software supply chain security, and now it's up to developers to act.",
@@ -3179,6 +3209,16 @@
       "siteUrl": "https://msrc-blog.microsoft.com",
       "articles": [
         {
+          "id": "https://msrc-blog.microsoft.com/?p=14635",
+          "author": "Saar Amar",
+          "description": "The Portmeirion project is a collaboration between Microsoft Research Cambridge, Microsoft Security Response Center, and Azure Silicon Engineering & Solutions. Over the past year, we have been exploring how to scale the key ideas from CHERI down to tiny cores on the scale of the cheapest microcontrollers. These cores are very different from the desktop …\n  What’s the smallest variety of CHERI? Read More »",
+          "link": "https://msrc-blog.microsoft.com/2022/09/06/whats-the-smallest-variety-of-cheri/",
+          "publishedOn": "2022-09-06T08:09:36.000Z",
+          "wordCount": 5793,
+          "title": "What’s the smallest variety of CHERI?",
+          "imageUrl": null
+        },
+        {
           "id": "https://msrc-blog.microsoft.com/?p=14611",
           "author": "msrc",
           "description": "Summary: Microsoft takes a proactive approach to continually probe our defenses, hunt for vulnerabilities, and seek new, innovative ways to protect our customers. Security researchers are an important part of this effort, and our collaborative partnership is critical in a world where cybersecurity attacks continue to grow in number and sophistication.  We value the role …\n  Vulnerability Fixed in Azure Synapse Spark Read More »",
@@ -3799,6 +3839,83 @@
       "feedUrl": "https://thehackernews.com/feeds/posts/default",
       "siteUrl": "https://thehackernews.com/",
       "articles": [
+        {
+          "id": "tag:blogger.com,1999:blog-4802841478634147276.post-7372769399049044662",
+          "author": "noreply@blogger.com (Ravie Lakshmanan)",
+          "description": "Cybersecurity researchers have offered insight into a previously undocumented software control panel used by a financially motivated threat group known as TA505.\n\"The group frequently changes its malware attack strategies in response to global cybercrime trends,\" Swiss cybersecurity firm PRODAFT said in a report shared with The Hacker News. \"It opportunistically adopts new technologies in order",
+          "link": "https://thehackernews.com/2022/09/ta505-hackers-using-teslagun-panel-to.html",
+          "publishedOn": "2022-09-06T09:57:00.000Z",
+          "wordCount": null,
+          "title": "TA505 Hackers Using TeslaGun Panel to Manage ServHelper Backdoor Attacks",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "tag:blogger.com,1999:blog-4802841478634147276.post-4632311882465213810",
+          "author": "noreply@blogger.com (The Hacker News)",
+          "description": "SecDevOps is, just like DevOps, a transformational change that organizations undergo at some point during their lifetime. Just like many other big changes, SecDevOps is commonly adopted after a reality check of some kind: a big damaging cybersecurity incident, for example.\nA major security breach or, say, consistent problems in achieving development goals signals to organizations that the",
+          "link": "https://thehackernews.com/2022/09/integrating-live-patching-in-secdevops.html",
+          "publishedOn": "2022-09-06T08:57:00.000Z",
+          "wordCount": null,
+          "title": "Integrating Live Patching in SecDevOps Workflows",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "tag:blogger.com,1999:blog-4802841478634147276.post-3254467382554913617",
+          "author": "noreply@blogger.com (Ravie Lakshmanan)",
+          "description": "A new phishing-as-a-service (PhaaS) toolkit dubbed EvilProxy is being advertised on the criminal underground as a means for threat actors to bypass two-factor authentication (2FA) protections employed against online services.\n\"EvilProxy actors are using reverse proxy and cookie injection methods to bypass 2FA authentication – proxifying victim's session,\" Resecurity researchers said in a Monday",
+          "link": "https://thehackernews.com/2022/09/new-evilproxy-phishing-service-allowing.html",
+          "publishedOn": "2022-09-06T06:47:00.000Z",
+          "wordCount": null,
+          "title": "New EvilProxy Phishing Service Allowing Cybercriminals to Bypass 2-Factor Security",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "tag:blogger.com,1999:blog-4802841478634147276.post-5463353012337935946",
+          "author": "noreply@blogger.com (Ravie Lakshmanan)",
+          "description": "A previously undocumented strain of Android spyware with extensive information gathering capabilities has been found disguised as a book likely designed to target the Uyghur community in China.\nThe malware comes under the guise of a book titled \"The China Freedom Trap,\" a biography written by the exiled Uyghur leader Dolkun Isa.\n\n\"In light of the ongoing conflict between the",
+          "link": "https://thehackernews.com/2022/09/researchers-find-new-android-spyware.html",
+          "publishedOn": "2022-09-06T05:18:00.000Z",
+          "wordCount": null,
+          "title": "Researchers Find New Android Spyware Campaign Targeting Uyghur Community",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "tag:blogger.com,1999:blog-4802841478634147276.post-7000429601484600185",
+          "author": "noreply@blogger.com (Ravie Lakshmanan)",
+          "description": "QNAP has issued a new advisory urging users of its network-attached storage (NAS) devices to upgrade to the latest version of Photo Station following yet another wave of DeadBolt ransomware attacks in the wild by exploiting a zero-day flaw in the software.\nThe Taiwanese company said it detected the attacks on September 3 and that \"the campaign appears to target QNAP NAS devices running Photo",
+          "link": "https://thehackernews.com/2022/09/qnap-warns-of-new-deadbolt-ransomware.html",
+          "publishedOn": "2022-09-06T03:11:00.000Z",
+          "wordCount": null,
+          "title": "QNAP Warns of New DeadBolt Ransomware Attacks Exploiting Photo Station Flaw",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "tag:blogger.com,1999:blog-4802841478634147276.post-5655250046323486888",
+          "author": "noreply@blogger.com (Ravie Lakshmanan)",
+          "description": "Popular short-form social video service TikTok denied reports that it was breached by a hacking group, after it claimed to have gained access to an insecure cloud server.\n\"TikTok prioritizes the privacy and security of our users' data,\" the ByteDance-owned company told The Hacker News. \"Our security team investigated these claims and found no evidence of a security breach.\"\nThe denial follows",
+          "link": "https://thehackernews.com/2022/09/tiktok-denies-data-breach-reportedly.html",
+          "publishedOn": "2022-09-05T14:59:00.000Z",
+          "wordCount": null,
+          "title": "TikTok Denies Data Breach Reportedly Exposing Over 2 Billion Users' Information",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "tag:blogger.com,1999:blog-4802841478634147276.post-8033637948401524156",
+          "author": "noreply@blogger.com (The Hacker News)",
+          "description": "Not all security teams are born equal. Each organization has a different objective.\nIn cybersecurity, adopting a proactive approach is not just a buzzword. It actually is what makes the difference between staying behind attackers and getting ahead of them. And the solutions to do that do exist!\nMost attacks succeed by taking advantage of common failures in their target's systems. Whether new or",
+          "link": "https://thehackernews.com/2022/09/what-is-your-security-team-profile.html",
+          "publishedOn": "2022-09-05T14:29:00.000Z",
+          "wordCount": null,
+          "title": "What Is Your Security Team Profile? Prevention, Detection, or Risk Management",
+          "itunes": {},
+          "imageUrl": null
+        },
         {
           "id": "tag:blogger.com,1999:blog-4802841478634147276.post-6475586823076097263",
           "author": "noreply@blogger.com (Ravie Lakshmanan)",
