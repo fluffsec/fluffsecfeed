@@ -2,10 +2,33 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-09-07T03:51:06.193Z</updated>
+    <updated>2022-09-07T07:45:24.957Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Mirai Variant MooBot Botnet Exploiting D-Link Router Vulnerabilities]]></title>
+        <id>tag:blogger.com,1999:blog-4802841478634147276.post-1959766734622041286</id>
+        <link href="https://thehackernews.com/2022/09/mirai-variant-moobot-botnet-exploiting.html"/>
+        <updated>2022-09-07T06:57:00.000Z</updated>
+        <summary type="html"><![CDATA[A variant of the Mirai botnet known as MooBot is co-opting vulnerable D-Link devices into an army of denial-of-service bots by taking advantage of multiple exploits.
+"If the devices are compromised, they will be fully controlled by attackers, who could utilize those devices to conduct further attacks such as distributed denial-of-service (DDoS) attacks," Palo Alto Networks Unit 42 said in a]]></summary>
+        <author>
+            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Critical RCE Vulnerability Affects Zyxel NAS Devices — Firmware Patch Released]]></title>
+        <id>tag:blogger.com,1999:blog-4802841478634147276.post-2334830920612280255</id>
+        <link href="https://thehackernews.com/2022/09/critical-rce-vulnerability-affects.html"/>
+        <updated>2022-09-07T05:28:00.000Z</updated>
+        <summary type="html"><![CDATA[Networking equipment maker Zyxel has released patches for a critical security flaw impacting its network-attached storage (NAS) devices.
+Tracked as CVE-2022-34747 (CVSS score: 9.8), the issue relates to a "format string vulnerability" affecting NAS326, NAS540, and NAS542 models. Zyxel credited researcher Shaposhnikov Ilya for reporting the flaw.
+"A format string vulnerability was found in a]]></summary>
+        <author>
+            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Mysterious 'Worok' Group Launches Spy Effort With Obfuscated Code, Private Tools]]></title>
         <id>https://www.darkreading.com/attacks-breaches/mysterious-worok-spy-obfuscated-code-private-tools</id>
@@ -4560,47 +4583,6 @@ The packages "install info-stealers that enable attackers to steal developer's p
 Russian cybersecurity firm Kaspersky attributed the attacks "with a high degree of confidence" to a China-linked threat actor tracked by Proofpoint]]></summary>
         <author>
             <name>noreply@blogger.com (Ravie Lakshmanan)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Twilio hacked by phishing campaign targeting internet companies]]></title>
-        <id>https://blog.knowbe4.com/twilio-hacked-by-phishing-campaign-targeting-internet-companies</id>
-        <link href="https://blog.knowbe4.com/twilio-hacked-by-phishing-campaign-targeting-internet-companies"/>
-        <updated>2022-08-08T19:38:47.000Z</updated>
-        <summary type="html"><![CDATA[Communications giant Twilio has confirmed hackers accessed customer data after successfully tricking employees into handing over their corporate login credentials.]]></summary>
-        <author>
-            <name>Stu Sjouwerman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[10 Malicious Code Packages Slither into PyPI Registry]]></title>
-        <id>https://www.darkreading.com/application-security/10-malicious-packages-slither-pypi-registry</id>
-        <link href="https://www.darkreading.com/application-security/10-malicious-packages-slither-pypi-registry"/>
-        <updated>2022-08-08T19:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The discovery adds to the growing list of recent incidents where threat actors have used public code repositories to distribute malware in software supply chain attacks.]]></summary>
-        <author>
-            <name>Jai Vijayan, Contributing Writer, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WSJ: "Cyber Insurance Prices Soar"]]></title>
-        <id>https://blog.knowbe4.com/wsj-cyber-insurance-prices-soar</id>
-        <link href="https://blog.knowbe4.com/wsj-cyber-insurance-prices-soar"/>
-        <updated>2022-08-08T17:51:46.000Z</updated>
-        <summary type="html"><![CDATA[The WSJ reported Aug 8, 2020: It is becoming more expensive and difficult for companies to get or renew cyber insurance. The price of U.S. cyber insurance policies increased by 79% from a year earlier. Insurers have made it harder to get or keep a policy, too.]]></summary>
-        <author>
-            <name>Stu Sjouwerman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Congratulations to the MSRC 2022 Most Valuable Researchers!]]></title>
-        <id>https://msrc-blog.microsoft.com/?p=14495</id>
-        <link href="https://msrc-blog.microsoft.com/2022/08/08/congratulations-to-the-msrc-2022-most-valuable-researchers/"/>
-        <updated>2022-08-08T17:30:00.000Z</updated>
-        <summary type="html"><![CDATA[The Microsoft Researcher Recognition Program offers public thanks and recognition to security researchers who help protect our customers through discovering and sharing security vulnerabilities under Coordinated Vulnerability Disclosure.  Today, we are excited to recognize this year’s top 100 Most Valuable Researchers (MVRs) based on the total number of points earned for each valid report. Congratulations …
-  Congratulations to the MSRC 2022 Most Valuable Researchers! Read More »]]></summary>
-        <author>
-            <name>msrc</name>
         </author>
     </entry>
 </feed>

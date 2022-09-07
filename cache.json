@@ -3226,21 +3226,6 @@
             "length": "0"
           },
           "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltef94096bacb39468/60d4481ea7307e39e4d4b94c/A.N.Ananth.png"
-        },
-        {
-          "id": "https://www.darkreading.com/application-security/10-malicious-packages-slither-pypi-registry",
-          "author": "Jai Vijayan, Contributing Writer, Dark Reading",
-          "description": "The discovery adds to the growing list of recent incidents where threat actors have used public code repositories to distribute malware in software supply chain attacks.",
-          "link": "https://www.darkreading.com/application-security/10-malicious-packages-slither-pypi-registry",
-          "publishedOn": "2022-08-08T19:00:00.000Z",
-          "wordCount": 13198,
-          "title": "10 Malicious Code Packages Slither into PyPI Registry",
-          "enclosure": {
-            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt02d79fb9a44a4258/60b1e9dd2a25046b35110696/Jai-Vijayan.jpeg",
-            "type": "image/*",
-            "length": "0"
-          },
-          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt02d79fb9a44a4258/60b1e9dd2a25046b35110696/Jai-Vijayan.jpeg"
         }
       ]
     },
@@ -3341,16 +3326,6 @@
           "publishedOn": "2022-08-09T17:20:21.000Z",
           "wordCount": 2284,
           "title": "Security Update Guide Notification System News: Create your profile now",
-          "imageUrl": null
-        },
-        {
-          "id": "https://msrc-blog.microsoft.com/?p=14495",
-          "author": "msrc",
-          "description": "The Microsoft Researcher Recognition Program offers public thanks and recognition to security researchers who help protect our customers through discovering and sharing security vulnerabilities under Coordinated Vulnerability Disclosure.  Today, we are excited to recognize this year’s top 100 Most Valuable Researchers (MVRs) based on the total number of points earned for each valid report. Congratulations …\n  Congratulations to the MSRC 2022 Most Valuable Researchers! Read More »",
-          "link": "https://msrc-blog.microsoft.com/2022/08/08/congratulations-to-the-msrc-2022-most-valuable-researchers/",
-          "publishedOn": "2022-08-08T17:30:00.000Z",
-          "wordCount": 1787,
-          "title": "Congratulations to the MSRC 2022 Most Valuable Researchers!",
           "imageUrl": null
         }
       ]
@@ -3916,26 +3891,6 @@
           "wordCount": 1945,
           "title": "New Research Shows Social Engineering and Phishing are the Top Threats",
           "imageUrl": "https://blog.knowbe4.com/hubfs/businessman%20hand%20working%20with%20modern%20technology%20digital%20tablet%20computer%20and%20graphics%20layer%20effect%20as%20business%20strategy%20concept-1.jpeg#keepProtocol"
-        },
-        {
-          "id": "https://blog.knowbe4.com/twilio-hacked-by-phishing-campaign-targeting-internet-companies",
-          "author": "Stu Sjouwerman",
-          "description": "Communications giant Twilio has confirmed hackers accessed customer data after successfully tricking employees into handing over their corporate login credentials.",
-          "link": "https://blog.knowbe4.com/twilio-hacked-by-phishing-campaign-targeting-internet-companies",
-          "publishedOn": "2022-08-08T19:38:47.000Z",
-          "wordCount": 1952,
-          "title": "Twilio hacked by phishing campaign targeting internet companies",
-          "imageUrl": "https://blog.knowbe4.com/hubfs/Spear%20Phishing%20Campaign%20Targets.jpg#keepProtocol"
-        },
-        {
-          "id": "https://blog.knowbe4.com/wsj-cyber-insurance-prices-soar",
-          "author": "Stu Sjouwerman",
-          "description": "The WSJ reported Aug 8, 2020: It is becoming more expensive and difficult for companies to get or renew cyber insurance. The price of U.S. cyber insurance policies increased by 79% from a year earlier. Insurers have made it harder to get or keep a policy, too.",
-          "link": "https://blog.knowbe4.com/wsj-cyber-insurance-prices-soar",
-          "publishedOn": "2022-08-08T17:51:46.000Z",
-          "wordCount": 1763,
-          "title": "WSJ: \"Cyber Insurance Prices Soar\"",
-          "imageUrl": "https://blog.knowbe4.com/hubfs/iStock-1195413927.jpg#keepProtocol"
         }
       ]
     },
@@ -3944,6 +3899,28 @@
       "feedUrl": "https://thehackernews.com/feeds/posts/default",
       "siteUrl": "https://thehackernews.com/",
       "articles": [
+        {
+          "id": "tag:blogger.com,1999:blog-4802841478634147276.post-1959766734622041286",
+          "author": "noreply@blogger.com (Ravie Lakshmanan)",
+          "description": "A variant of the Mirai botnet known as MooBot is co-opting vulnerable D-Link devices into an army of denial-of-service bots by taking advantage of multiple exploits.\n\"If the devices are compromised, they will be fully controlled by attackers, who could utilize those devices to conduct further attacks such as distributed denial-of-service (DDoS) attacks,\" Palo Alto Networks Unit 42 said in a",
+          "link": "https://thehackernews.com/2022/09/mirai-variant-moobot-botnet-exploiting.html",
+          "publishedOn": "2022-09-07T06:57:00.000Z",
+          "wordCount": null,
+          "title": "Mirai Variant MooBot Botnet Exploiting D-Link Router Vulnerabilities",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "tag:blogger.com,1999:blog-4802841478634147276.post-2334830920612280255",
+          "author": "noreply@blogger.com (Ravie Lakshmanan)",
+          "description": "Networking equipment maker Zyxel has released patches for a critical security flaw impacting its network-attached storage (NAS) devices.\nTracked as CVE-2022-34747 (CVSS score: 9.8), the issue relates to a \"format string vulnerability\" affecting NAS326, NAS540, and NAS542 models. Zyxel credited researcher Shaposhnikov Ilya for reporting the flaw.\n\"A format string vulnerability was found in a",
+          "link": "https://thehackernews.com/2022/09/critical-rce-vulnerability-affects.html",
+          "publishedOn": "2022-09-07T05:28:00.000Z",
+          "wordCount": null,
+          "title": "Critical RCE Vulnerability Affects Zyxel NAS Devices — Firmware Patch Released",
+          "itunes": {},
+          "imageUrl": null
+        },
         {
           "id": "tag:blogger.com,1999:blog-4802841478634147276.post-6241559108984808509",
           "author": "noreply@blogger.com (Ravie Lakshmanan)",
