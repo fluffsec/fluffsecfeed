@@ -407,16 +407,6 @@
           "wordCount": 2083,
           "title": "Google Patches Chrome’s Fifth Zero-Day of the Year",
           "imageUrl": "https://media.kasperskycontenthub.com/wp-content/uploads/sites/103/2019/07/31115247/chrome_patch.jpg"
-        },
-        {
-          "id": "https://kasperskycontenthub.com/threatpost-global/?p=180356",
-          "author": "Elizabeth Montalbano",
-          "description": "Attackers are spoofing the widely used cryptocurrency exchange to trick users into logging in so they can steal their credentials and eventually their funds.",
-          "link": "https://threatpost.com/phishers-2fa-coinbase/180356/",
-          "publishedOn": "2022-08-08T15:26:17.000Z",
-          "wordCount": 2252,
-          "title": "Phishers Swim Around 2FA in Coinbase Account Heists",
-          "imageUrl": "https://media.kasperskycontenthub.com/wp-content/uploads/sites/103/2019/01/11104331/2FA_two-factor-authentication.jpg"
         }
       ]
     },
@@ -522,6 +512,66 @@
       "feedUrl": "https://www.darkreading.com/rss.xml",
       "siteUrl": "https://www.darkreading.com",
       "articles": [
+        {
+          "id": "https://www.darkreading.com/attacks-breaches/mysterious-worok-spy-obfuscated-code-private-tools",
+          "author": "Robert Lemos, Contributing Writer, Dark Reading",
+          "description": "The threat actor — whose techniques and procedures do not match known groups — has created custom attack tools, including a program that hides scripts in .PNG images.",
+          "link": "https://www.darkreading.com/attacks-breaches/mysterious-worok-spy-obfuscated-code-private-tools",
+          "publishedOn": "2022-09-06T20:44:34.000Z",
+          "wordCount": 11214,
+          "title": "Mysterious 'Worok' Group Launches Spy Effort With Obfuscated Code, Private Tools",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt58481326324d6911/60b1e9a55d34de550780a990/Robert-Lemos.png",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt58481326324d6911/60b1e9a55d34de550780a990/Robert-Lemos.png"
+        },
+        {
+          "id": "https://www.darkreading.com/operations/teslagun-blast-new-wave-backdoor-cyberattacks",
+          "author": "Ericka Chickowski, Contributing Writer, Dark Reading",
+          "description": "What under-the-hood details of newly discovered attack control panel tells us about how the Evil Corp threat group manages its ServHelper backdoor malware campaigns.",
+          "link": "https://www.darkreading.com/operations/teslagun-blast-new-wave-backdoor-cyberattacks",
+          "publishedOn": "2022-09-06T20:16:44.000Z",
+          "wordCount": 11767,
+          "title": "TeslaGun Primed to Blast a New Wave of Backdoor Cyberattacks",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt1fa01ab14787f501/60b1e9a77f791568be5e0dbb/ErickaChick_125x125.jpeg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt1fa01ab14787f501/60b1e9a77f791568be5e0dbb/ErickaChick_125x125.jpeg"
+        },
+        {
+          "id": "https://www.darkreading.com/attacks-breaches/la-unified-ransomware-cisa-warns-back-to-school-attacks",
+          "author": "Dark Reading Staff, Dark Reading",
+          "description": "Hours after Los Angeles Unified School District hit with ransomware attack, CISA issued an alert that threat actors are actively targeting the education sector.",
+          "link": "https://www.darkreading.com/attacks-breaches/la-unified-ransomware-cisa-warns-back-to-school-attacks",
+          "publishedOn": "2022-09-06T19:51:08.000Z",
+          "wordCount": 9716,
+          "title": "As LA Unified Battles Ransomware, CISA Warns About Back-to-School Attacks",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blte161b23f0fd3a84b/60b1ea374e7eb868c4c6a293/dr_staff_125x125.jpg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blte161b23f0fd3a84b/60b1ea374e7eb868c4c6a293/dr_staff_125x125.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/edge-articles/name-that-edge-toon-mime-s-the-word",
+          "author": "John Klossner, Cartoonist",
+          "description": "Come up with a clever caption, and our panel of experts will reward the winner with a $25 Amazon gift card.",
+          "link": "https://www.darkreading.com/edge-articles/name-that-edge-toon-mime-s-the-word",
+          "publishedOn": "2022-09-06T19:37:38.000Z",
+          "wordCount": 8871,
+          "title": "Name That Edge Toon: Mime's the Word",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltf97d71984b60d7ed/60b1e88b5d34de550780a96e/Klossner_iwk_photo.gif",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltf97d71984b60d7ed/60b1e88b5d34de550780a96e/Klossner_iwk_photo.gif"
+        },
         {
           "id": "https://www.darkreading.com/careers-and-people/internet-security-encryption-pioneer-peter-eckersley-passes",
           "author": "Dark Reading Staff, Dark Reading",
@@ -3191,76 +3241,6 @@
             "length": "0"
           },
           "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt02d79fb9a44a4258/60b1e9dd2a25046b35110696/Jai-Vijayan.jpeg"
-        },
-        {
-          "id": "https://www.darkreading.com/risk/deepfakes-grow-sophistication-cyberattacks-rise-ukraine-war",
-          "author": "Nathan Eddy, Contributing Writer, Dark Reading",
-          "description": "A rising tide of threats — from API exploits to deepfakes to extortionary ransomware attacks — is threatening to overwhelm IT security teams.",
-          "link": "https://www.darkreading.com/risk/deepfakes-grow-sophistication-cyberattacks-rise-ukraine-war",
-          "publishedOn": "2022-08-08T15:28:59.000Z",
-          "wordCount": 13125,
-          "title": "Deepfakes Grow in Sophistication, Cyberattacks Rise Following Ukraine War",
-          "enclosure": {
-            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltf8b5a94afa71c53a/628e3799daa31875dc0c9fc0/NathanEddyHeadshot.PNG",
-            "type": "image/*",
-            "length": "0"
-          },
-          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltf8b5a94afa71c53a/628e3799daa31875dc0c9fc0/NathanEddyHeadshot.PNG"
-        },
-        {
-          "id": "https://www.darkreading.com/operations/hyas-infosec-announces-general-availability-of-cybersecurity-solution-for-production-environments",
-          "author": null,
-          "description": "HYAS Confront provides total visibility into your production environment, giving you insight into potential issues like cyber threats before they become problems.",
-          "link": "https://www.darkreading.com/operations/hyas-infosec-announces-general-availability-of-cybersecurity-solution-for-production-environments",
-          "publishedOn": "2022-08-08T14:27:43.000Z",
-          "wordCount": 13092,
-          "title": "HYAS Infosec Announces General Availability of Cybersecurity Solution for Production Environments",
-          "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
-        },
-        {
-          "id": "https://www.darkreading.com/dr-tech/we-have-the-tech-to-scale-up-open-source-vulnerability-fixes-now-it-s-time-to-leverage-it",
-          "author": "Ericka Chickowski, Contributing Writer, Dark Reading",
-          "description": "Q&A with Jonathan Leitschuh, inaugural HUMAN Dan Kaminsky Fellow, in advance of his upcoming Black Hat USA presentation.",
-          "link": "https://www.darkreading.com/dr-tech/we-have-the-tech-to-scale-up-open-source-vulnerability-fixes-now-it-s-time-to-leverage-it",
-          "publishedOn": "2022-08-08T14:20:00.000Z",
-          "wordCount": 16891,
-          "title": "We Have the Tech to Scale Up Open Source Vulnerability Fixes — Now It's Time to Leverage It",
-          "enclosure": {
-            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt1fa01ab14787f501/60b1e9a77f791568be5e0dbb/ErickaChick_125x125.jpeg",
-            "type": "image/*",
-            "length": "0"
-          },
-          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt1fa01ab14787f501/60b1e9a77f791568be5e0dbb/ErickaChick_125x125.jpeg"
-        },
-        {
-          "id": "https://www.darkreading.com/edge-articles/what-adjustable-dumbbells-can-teach-us-about-risk-management",
-          "author": "Joshua Goldfarb, Fraud Solutions Architect - EMEA and APCJ, F5",
-          "description": "A new workout leads to five smart lessons about the importance of converging security and fraud into a unified risk function.",
-          "link": "https://www.darkreading.com/edge-articles/what-adjustable-dumbbells-can-teach-us-about-risk-management",
-          "publishedOn": "2022-08-08T14:07:37.000Z",
-          "wordCount": 14011,
-          "title": "What Adjustable Dumbbells Can Teach Us About Risk Management",
-          "enclosure": {
-            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blte566b6aacec0a3ec/60d4347890ef0d39a2f3f97e/Joshua-Goldfarb2.png",
-            "type": "image/*",
-            "length": "0"
-          },
-          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blte566b6aacec0a3ec/60d4347890ef0d39a2f3f97e/Joshua-Goldfarb2.png"
-        },
-        {
-          "id": "https://www.darkreading.com/vulnerabilities-threats/pipeline-operators-are-headed-in-the-right-direction-with-or-without-tsa-s-updated-security-directives",
-          "author": "Duncan Greatwood, CEO, Xage",
-          "description": "A worsening threat landscape, increased digitization, and the long-term positive effects of modern security strategies are pushing critical infrastructure operators to do better.",
-          "link": "https://www.darkreading.com/vulnerabilities-threats/pipeline-operators-are-headed-in-the-right-direction-with-or-without-tsa-s-updated-security-directives",
-          "publishedOn": "2022-08-08T14:00:00.000Z",
-          "wordCount": 14030,
-          "title": "Pipeline Operators Are Headed in the Right Direction, With or Without TSA's Updated Security Directives",
-          "enclosure": {
-            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt54afacf6811bcd55/62ec22e9e49d4a6983cc484b/Duncan_Greatwood.jpeg",
-            "type": "image/*",
-            "length": "0"
-          },
-          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt54afacf6811bcd55/62ec22e9e49d4a6983cc484b/Duncan_Greatwood.jpeg"
         }
       ]
     },
@@ -3371,16 +3351,6 @@
           "publishedOn": "2022-08-08T17:30:00.000Z",
           "wordCount": 1787,
           "title": "Congratulations to the MSRC 2022 Most Valuable Researchers!",
-          "imageUrl": null
-        },
-        {
-          "id": "https://msrc-blog.microsoft.com/?p=14521",
-          "author": "msrc",
-          "description": "We are excited to announce that Microsoft Office will begin publishing Office symbols for Windows via the Microsoft Public Symbol Server on August 9th 2022. The publication of Office symbols is a part of our continuing investment to improve security and performance for customers and partners. Key Advantages for customers, partners, and Microsoft Security: Empowering …\n  Microsoft Office to publish symbols starting August 2022 Read More »",
-          "link": "https://msrc-blog.microsoft.com/2022/08/08/microsoft-office-to-publish-symbols-starting-august-2022/",
-          "publishedOn": "2022-08-08T09:30:00.000Z",
-          "wordCount": 1874,
-          "title": "Microsoft Office to publish symbols starting August 2022",
           "imageUrl": null
         }
       ]
@@ -3966,16 +3936,6 @@
           "wordCount": 1763,
           "title": "WSJ: \"Cyber Insurance Prices Soar\"",
           "imageUrl": "https://blog.knowbe4.com/hubfs/iStock-1195413927.jpg#keepProtocol"
-        },
-        {
-          "id": "https://blog.knowbe4.com/cybercriminals-go-to-college-with-new-phishing-attacks",
-          "author": "Stu Sjouwerman",
-          "description": "The summer is winding up, and the traditional academic year is approaching. And amid the welcomes from the deans of students, the activities coordinators, the academic advisors and so on, the new crop of undergraduates can also expect to be greeted by phishing scams. Inevitably these will all find expression online. The Better Business Bureau is offering some advice for students to think about before they depart for campus and the new academic year.",
-          "link": "https://blog.knowbe4.com/cybercriminals-go-to-college-with-new-phishing-attacks",
-          "publishedOn": "2022-08-08T13:23:42.000Z",
-          "wordCount": 2229,
-          "title": "Cybercriminals Go to College with New Phishing Attacks",
-          "imageUrl": "https://blog.knowbe4.com/hubfs/Cybercriminals%20College%20Phishing%20Attack.jpg#keepProtocol"
         }
       ]
     },
@@ -3984,6 +3944,17 @@
       "feedUrl": "https://thehackernews.com/feeds/posts/default",
       "siteUrl": "https://thehackernews.com/",
       "articles": [
+        {
+          "id": "tag:blogger.com,1999:blog-4802841478634147276.post-6241559108984808509",
+          "author": "noreply@blogger.com (Ravie Lakshmanan)",
+          "description": "High-profile companies and local governments located primarily in Asia are the subjects of targeted attacks by a previously undocumented espionage group dubbed Worok that has been active since late 2020.\n\"Worok's toolset includes a C++ loader CLRLoad, a PowerShell backdoor PowHeartBeat, and a C# loader PNGLoad that uses steganography to extract hidden malicious payloads from PNG files,\" ESET",
+          "link": "https://thehackernews.com/2022/09/worok-hackers-target-high-profile-asian.html",
+          "publishedOn": "2022-09-06T12:29:00.000Z",
+          "wordCount": null,
+          "title": "Worok Hackers Target High-Profile Asian Companies and Governments",
+          "itunes": {},
+          "imageUrl": null
+        },
         {
           "id": "tag:blogger.com,1999:blog-4802841478634147276.post-7372769399049044662",
           "author": "noreply@blogger.com (Ravie Lakshmanan)",
@@ -5279,39 +5250,6 @@
           "publishedOn": "2022-08-09T11:32:03.212Z",
           "wordCount": null,
           "title": "Chinese Hackers Targeted Dozens of Industrial Enterprises and Public Institutions",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "tag:blogger.com,1999:blog-4802841478634147276.post-8937025182953737944",
-          "author": "noreply@blogger.com (Ravie Lakshmanan)",
-          "description": "A new botnet named Orchard has been observed using Bitcoin creator Satoshi Nakamoto's account transaction information to generate domain names to conceal its command-and-control (C2) infrastructure.\n\"Because of the uncertainty of Bitcoin transactions, this technique is more unpredictable than using the common time-generated [domain generation algorithms], and thus more difficult to defend",
-          "link": "https://thehackernews.com/2022/08/new-orchard-botnet-uses-bitcoin.html",
-          "publishedOn": "2022-08-08T13:55:44.882Z",
-          "wordCount": null,
-          "title": "New Orchard Botnet Uses Bitcoin Founder’s Account Info to Generate Malicious Domains",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "tag:blogger.com,1999:blog-4802841478634147276.post-5161372462329967467",
-          "author": "noreply@blogger.com (The Hacker News)",
-          "description": "A few days ago, a friend and I were having a rather engaging conversation that sparked my excitement. We were discussing my prospects of becoming a red teamer as a natural career progression. The reason I got stirred up is not that I want to change either my job or my position, as I am a happy camper being part of Cymulate's blue team.\nWhat upset me was that my friend could not grasp the idea",
-          "link": "https://thehackernews.com/2022/08/the-benefits-of-building-mature-and.html",
-          "publishedOn": "2022-08-08T13:43:02.218Z",
-          "wordCount": null,
-          "title": "The Benefits of Building a Mature and Diverse Blue Team",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "tag:blogger.com,1999:blog-4802841478634147276.post-1872755771587657696",
-          "author": "noreply@blogger.com (Ravie Lakshmanan)",
-          "description": "A sophisticated scam-as-a-service operation dubbed Classiscam has now infiltrated into Singapore, more than 1.5 years after expanding to Europe.\n\"Scammers posing as legitimate buyers approach sellers with the request to purchase goods from their listings and the ultimate aim of stealing payment data,\" Group-IB said in a report shared with The Hacker News.\nThe cybersecurity firm called the",
-          "link": "https://thehackernews.com/2022/08/researchers-uncover-classiscam-scam-as.html",
-          "publishedOn": "2022-08-08T13:37:54.033Z",
-          "wordCount": null,
-          "title": "Researchers Uncover Classiscam Scam-as-a-Service Operations in Singapore",
           "itunes": {},
           "imageUrl": null
         }
