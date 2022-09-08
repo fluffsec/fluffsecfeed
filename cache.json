@@ -43,6 +43,26 @@
       "siteUrl": "https://us-cert.cisa.gov/",
       "articles": [
         {
+          "id": "17950 at https://us-cert.cisa.gov",
+          "author": "CISA",
+          "description": "Original release date: September 8, 2022\nCISA released four Industrial Control Systems (ICS) advisories on September 08, 2022. These advisories provide timely information about current security issues, vulnerabilities, and exploits surrounding ICS.\nCISA encourages users and administrators to review the newly released ICS advisories for technical details and mitigations:\nICSA-22-251-01 MZ Automation GmbH libIEC61850\nICSMA-22-251-01 Baxter Sigma Spectrum Infusion Pumps\nICSMA-21-152-01 Hillrom Medical Device Management (Update B)\nICSA-22-242-10 PTC Kepware KEPServerEX (Update A)\nThis product is provided subject to this Notification and this Privacy & Use policy.",
+          "link": "https://us-cert.cisa.gov/ncas/current-activity/2022/09/08/cisa-releases-four-industrial-control-systems-advisories",
+          "publishedOn": "2022-09-08T17:00:00.000Z",
+          "wordCount": 1080,
+          "title": "CISA Releases Four Industrial Control Systems Advisories",
+          "imageUrl": null
+        },
+        {
+          "id": "17952 at https://us-cert.cisa.gov",
+          "author": "CISA",
+          "description": "Original release date: September 8, 2022\nCISA has added twelve new vulnerabilities to its Known Exploited Vulnerabilities Catalog, based on evidence of active exploitation. These types of vulnerabilities are a frequent attack vector for malicious cyber actors and pose significant risk to the federal enterprise. Note: to view the newly added vulnerabilities in the catalog, click on the arrow in the \"Date Added to Catalog\" column, which will sort by descending dates.\nBinding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the Known Exploited Vulnerabilities Catalog as a living list of known CVEs that carry significant risk to the federal enterprise. BOD 22-01 requires FCEB agencies to remediate identified vulnerabilities by the due date to protect FCEB networks against active threats. See the BOD 22-01 Fact Sheet for more information.\nAlthough BOD 22-01 only applies to FCEB agencies, CISA strongly urges all organizations to reduce their exposure to cyberattacks by prioritizing timely remediation of Catalog vulnerabilities as part of their vulnerability management practice. CISA will continue to add vulnerabilities to the Catalog that meet the specified criteria.\nThis product is provided subject to this Notification and this Privacy & Use policy.",
+          "link": "https://us-cert.cisa.gov/ncas/current-activity/2022/09/08/cisa-adds-twelve-known-exploited-vulnerabilities-catalog",
+          "publishedOn": "2022-09-08T12:25:32.000Z",
+          "wordCount": 1192,
+          "title": "CISA Adds Twelve Known Exploited Vulnerabilities to Catalog",
+          "imageUrl": null
+        },
+        {
           "id": "17940 at https://us-cert.cisa.gov",
           "author": "CISA",
           "description": "Original release date: September 6, 2022\nCISA has released five Industrial Control Systems (ICS) advisories on September 06, 2022. These advisories provide timely information about current security issues, vulnerabilities, and exploits surrounding ICS.\nCISA encourages users and administrators to review the newly released ICS advisories for technical details and mitigations:\nICSA-22-249-01 Triangle Microworks Library\nICSA-22-249-02 AVEVA Edge 2020 R2 SP12020 R2\nICSA-22-249-03 Cognex 3D-A1000 Dimensioning System\nICSA-22-249-04 Hitachi Energy TXpert Hub CoreTec 4\nICSA-21-252-02 Delta Electronics DOPSoft 2 (Update A)\nThis product is provided subject to this Notification and this Privacy & Use policy.",
@@ -472,6 +492,106 @@
       "feedUrl": "https://www.darkreading.com/rss.xml",
       "siteUrl": "https://www.darkreading.com",
       "articles": [
+        {
+          "id": "https://www.darkreading.com/threat-intelligence/darktrace-shares-plunge-after-thoma-bravo-acquisition",
+          "author": "Jai Vijayan, Contributing Writer, Dark Reading",
+          "description": "No agreement could be reached on terms of a firm offer, the provider of AI-based cybersecurity products says.",
+          "link": "https://www.darkreading.com/threat-intelligence/darktrace-shares-plunge-after-thoma-bravo-acquisition",
+          "publishedOn": "2022-09-08T19:19:24.000Z",
+          "wordCount": 11061,
+          "title": "Darktrace Shares Plunge After Thoma Bravo Acquisition Falls Apart",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt02d79fb9a44a4258/60b1e9dd2a25046b35110696/Jai-Vijayan.jpeg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt02d79fb9a44a4258/60b1e9dd2a25046b35110696/Jai-Vijayan.jpeg"
+        },
+        {
+          "id": "https://www.darkreading.com/dr-tech/a-pragmatic-response-to-the-quantum-threat",
+          "author": "Duncan Jones, Head of Quantum Cybersecurity, Quantinuum",
+          "description": "You certainly don't need to panic, but you do need to form a plan to prepare for the post-quantum reality.",
+          "link": "https://www.darkreading.com/dr-tech/a-pragmatic-response-to-the-quantum-threat",
+          "publishedOn": "2022-09-08T17:22:52.000Z",
+          "wordCount": 12251,
+          "title": "A Pragmatic Response to the Quantum Threat",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt7672324b2b665da0/6318fd05391e4953cc99f206/Duncan_Jones_image-sq.jpg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt7672324b2b665da0/6318fd05391e4953cc99f206/Duncan_Jones_image-sq.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/vulnerabilities-threats/5-keys-to-better-key-management",
+          "author": "Johannes Lintzen, Managing Director, Cryptomathic",
+          "description": "From analyzing your company's risk profile to knowing where keys are stored and who can access them, prioritize key clean-up and management. Make compliance an outcome and develop a risk management strategy.",
+          "link": "https://www.darkreading.com/vulnerabilities-threats/5-keys-to-better-key-management",
+          "publishedOn": "2022-09-08T17:00:00.000Z",
+          "wordCount": 11318,
+          "title": "5 Keys to Better Key Management",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blte0d650d4b4fbada1/6314e9eefc0b1963dcef2968/Jo16_(2).png",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blte0d650d4b4fbada1/6314e9eefc0b1963dcef2968/Jo16_(2).png"
+        },
+        {
+          "id": "https://www.darkreading.com/application-security/meta-appeal-400m-fine-mishandling-instagram-teen-data",
+          "author": "Dark Reading Staff, Dark Reading",
+          "description": "Instagram and Facebook parent company Meta was slapped with the fine for exposing the personal data of minors.",
+          "link": "https://www.darkreading.com/application-security/meta-appeal-400m-fine-mishandling-instagram-teen-data",
+          "publishedOn": "2022-09-08T15:53:08.000Z",
+          "wordCount": 8698,
+          "title": "Meta to Appeal $400M GDPR Fine for Mishandling Teen Data in Instagram",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blte161b23f0fd3a84b/60b1ea374e7eb868c4c6a293/dr_staff_125x125.jpg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blte161b23f0fd3a84b/60b1ea374e7eb868c4c6a293/dr_staff_125x125.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/vulnerabilities-threats/vulnerability-exploits-phishing-top-attack-vector-initial-compromise",
+          "author": "Jai Vijayan, Contributing Writer, Dark Reading",
+          "description": "A slew of Microsoft Exchange vulnerabilities (including ProxyLogon) fueled a surge in attacks targeting software flaws in 2021, but the trend has continued this year.",
+          "link": "https://www.darkreading.com/vulnerabilities-threats/vulnerability-exploits-phishing-top-attack-vector-initial-compromise",
+          "publishedOn": "2022-09-08T15:20:00.000Z",
+          "wordCount": 12440,
+          "title": "Vulnerability Exploits, Not Phishing, Are the Top Cyberattack Vector for Initial Compromise",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt02d79fb9a44a4258/60b1e9dd2a25046b35110696/Jai-Vijayan.jpeg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt02d79fb9a44a4258/60b1e9dd2a25046b35110696/Jai-Vijayan.jpeg"
+        },
+        {
+          "id": "https://www.darkreading.com/threat-intelligence/former-conti-ransomware-members-join-initial-access-broker-ukraine",
+          "author": "Elizabeth Montalbano, Contributor, Dark Reading",
+          "description": "The initial access broker (IAB) for ransomware gangs known as UAC-0098 has targeted Ukrainian organizations in five separate phishing campaigns spanning April to August.",
+          "link": "https://www.darkreading.com/threat-intelligence/former-conti-ransomware-members-join-initial-access-broker-ukraine",
+          "publishedOn": "2022-09-08T14:39:48.000Z",
+          "wordCount": 12155,
+          "title": "Former Conti Ransomware Members Join Initial Access Broker Group Targeting Ukraine",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltbfd004d139d42d70/6303bca6236c2476a257760e/ElizabethMontalbano.jpg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltbfd004d139d42d70/6303bca6236c2476a257760e/ElizabethMontalbano.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/risk/saas-alerts-secures-22m-investment-from-insight-partners-to-scale-saas-security-monitoring-and-response-platform",
+          "author": null,
+          "description": "Investment to fuel growth and market presence as demand grows for SaaS' next-generation security tools for managed service providers.",
+          "link": "https://www.darkreading.com/risk/saas-alerts-secures-22m-investment-from-insight-partners-to-scale-saas-security-monitoring-and-response-platform",
+          "publishedOn": "2022-09-08T13:44:28.000Z",
+          "wordCount": 10572,
+          "title": "SaaS Alerts Secures $22M Investment from Insight Partners to Scale SaaS Security Monitoring and Response Platform",
+          "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
+        },
         {
           "id": "https://www.darkreading.com/dr-tech/pentesting-evolves-for-the-devsecops-world",
           "author": "Nathan Eddy, Contributing Writer, Dark Reading",
@@ -3248,6 +3368,16 @@
       "siteUrl": "https://blog.knowbe4.com",
       "articles": [
         {
+          "id": "https://blog.knowbe4.com/give-employees-know-how-tough-conversations-new-compliance-plus-training",
+          "author": "Stu Sjouwerman",
+          "description": "We’re thrilled to announce a brand new microlearning, TV-like production quality series of compliance content now available in the Compliance Plus library.",
+          "link": "https://blog.knowbe4.com/give-employees-know-how-tough-conversations-new-compliance-plus-training",
+          "publishedOn": "2022-09-08T15:51:00.000Z",
+          "wordCount": 2110,
+          "title": "[New Training] Give Your Employees the Know-How to Have the Tough Conversations with New Compliance Plus Training",
+          "imageUrl": "https://blog.knowbe4.com/hubfs/Perspectives-Compliance-Plus-Training-Content.png#keepProtocol"
+        },
+        {
           "id": "https://blog.knowbe4.com/new-phishing-as-a-service-platform",
           "author": "Stu Sjouwerman",
           "description": "Researchers at Resecurity have discovered a new Phishing-as-a-Service (PhaaS) platform called “EvilProxy” that’s being offered on the dark web. EvilProxy is designed to target accounts on a variety of platforms, including Apple, Facebook, GoDaddy, GitHub, Google, Dropbox, Instagram, Microsoft, Twitter, Yahoo, Yandex.",
@@ -3794,6 +3924,17 @@
       "feedUrl": "https://thehackernews.com/feeds/posts/default",
       "siteUrl": "https://thehackernews.com/",
       "articles": [
+        {
+          "id": "tag:blogger.com,1999:blog-4802841478634147276.post-3012839106016291601",
+          "author": "noreply@blogger.com (Ravie Lakshmanan)",
+          "description": "Multiple security vulnerabilities have been disclosed in Baxter's internet-connected infusion pumps used by healthcare professionals in clinical environments to dispense medication to patients.\n\"Successful exploitation of these vulnerabilities could result in access to sensitive data and alteration of system configuration,\" the U.S. Cybersecurity and Infrastructure Security Agency (CISA) said in",
+          "link": "https://thehackernews.com/2022/09/new-vulnerabilities-reported-in-baxters.html",
+          "publishedOn": "2022-09-08T17:55:00.000Z",
+          "wordCount": null,
+          "title": "New Vulnerabilities Reported in Baxter's Internet-Connected Infusion Pumps",
+          "itunes": {},
+          "imageUrl": null
+        },
         {
           "id": "tag:blogger.com,1999:blog-4802841478634147276.post-2158398491346083330",
           "author": "noreply@blogger.com (Ravie Lakshmanan)",
@@ -5166,28 +5307,6 @@
           "publishedOn": "2022-08-10T10:20:32.525Z",
           "wordCount": null,
           "title": "The Business of Hackers-for-Hire Threat Actors",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "tag:blogger.com,1999:blog-4802841478634147276.post-1133260965669626309",
-          "author": "noreply@blogger.com (Ravie Lakshmanan)",
-          "description": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added a recently disclosed security flaw in the UnRAR utility to its Known Exploited Vulnerabilities Catalog, based on evidence of active exploitation.\nTracked as CVE-2022-30333 (CVSS score: 7.5), the issue concerns a path traversal vulnerability in the Unix versions of UnRAR that can be triggered upon extracting a",
-          "link": "https://thehackernews.com/2022/08/cisa-issues-warning-on-active.html",
-          "publishedOn": "2022-08-10T06:59:19.418Z",
-          "wordCount": null,
-          "title": "CISA Issues Warning on Active Exploitation of UnRAR Software for Linux Systems",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "tag:blogger.com,1999:blog-4802841478634147276.post-6228528487194535779",
-          "author": "noreply@blogger.com (Ravie Lakshmanan)",
-          "description": "As many as 121 new security flaws were patched by Microsoft as part of its Patch Tuesday updates for the month of August, which also includes a fix for a Support Diagnostic Tool vulnerability that the company said is being actively exploited in the wild.\nOf the 121 bugs, 17 are rated Critical, 102 are rated Important, one is rated Moderate, and one is rated Low in severity. Two of the issues",
-          "link": "https://thehackernews.com/2022/08/microsoft-issues-patches-for-121-flaws.html",
-          "publishedOn": "2022-08-10T06:12:13.035Z",
-          "wordCount": null,
-          "title": "Microsoft Issues Patches for 121 Flaws, Including Zero-Day Under Active Attack",
           "itunes": {},
           "imageUrl": null
         }
