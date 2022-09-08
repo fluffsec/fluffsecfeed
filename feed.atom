@@ -2,10 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-09-08T03:40:11.791Z</updated>
+    <updated>2022-09-08T07:37:01.470Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Warns of Ransomware Attacks by Iranian Phosphorus Hacker Group]]></title>
+        <id>tag:blogger.com,1999:blog-4802841478634147276.post-5566687390532543456</id>
+        <link href="https://thehackernews.com/2022/09/microsoft-warns-of-ransomware-attacks.html"/>
+        <updated>2022-09-08T05:38:00.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft's threat intelligence division on Wednesday assessed that a subgroup of the Iranian threat actor tracked as Phosphorus is conducting ransomware attacks as a "form of moonlighting" for personal gain.
+The tech giant, which is monitoring the activity cluster under the moniker DEV-0270 (aka Nemesis Kitten), said it's operated by a company that functions under the public aliases Secnerd and]]></summary>
+        <author>
+            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cisco Releases Security Patches for New Vulnerabilities Impacting Multiple Products]]></title>
+        <id>tag:blogger.com,1999:blog-4802841478634147276.post-8229165452396302540</id>
+        <link href="https://thehackernews.com/2022/09/cisco-releases-security-patches-for-new.html"/>
+        <updated>2022-09-08T03:48:00.000Z</updated>
+        <summary type="html"><![CDATA[Cisco on Wednesday rolled out patches to address three security flaws affecting its products, including a high-severity weakness disclosed in NVIDIA Data Plane Development Kit (MLNX_DPDK) late last month.
+Tracked as CVE-2022-28199 (CVSS score: 8.6), the vulnerability stems from a lack of proper error handling in DPDK's network stack, enabling a remote adversary to trigger a denial-of-service (]]></summary>
+        <author>
+            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Pentesting Evolves for the DevSecOps World]]></title>
         <id>https://www.darkreading.com/dr-tech/pentesting-evolves-for-the-devsecops-world</id>
@@ -4619,111 +4641,6 @@ Two of the important vulnerabilities CVE-2022-35743 and CVE-2022-34713 are remot
         <summary type="html"><![CDATA[The latest startup to enter the attack surface management space also has a free scanning service to audit the contents of any website.]]></summary>
         <author>
             <name>Dark Reading Staff, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CISA Adds Two Known Exploited Vulnerabilities to Catalog]]></title>
-        <id>17857 at https://us-cert.cisa.gov</id>
-        <link href="https://us-cert.cisa.gov/ncas/current-activity/2022/08/09/cisa-adds-two-known-exploited-vulnerabilities-catalog"/>
-        <updated>2022-08-09T18:43:27.000Z</updated>
-        <summary type="html"><![CDATA[Original release date: August 9, 2022
-CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities Catalog, based on evidence of active exploitation. These types of vulnerabilities are a frequent attack vector for malicious cyber actors and pose significant risk to the federal enterprise. Note: to view the newly added vulnerabilities in the catalog, click on the arrow in the "Date Added to Catalog" column, which will sort by descending dates.    
-Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the Known Exploited Vulnerabilities Catalog as a living list of known CVEs that carry significant risk to the federal enterprise. BOD 22-01 requires FCEB agencies to remediate identified vulnerabilities by the due date to protect FCEB networks against active threats. See the BOD 22-01 Fact Sheet for more information.    
-Although BOD 22-01 only applies to FCEB agencies, CISA strongly urges all organizations to reduce their exposure to cyberattacks by prioritizing timely remediation of Catalog vulnerabilities as part of their vulnerability management practice. CISA will continue to add vulnerabilities to the Catalog that meet the specified criteria. 
-This product is provided subject to this Notification and this Privacy & Use policy.]]></summary>
-        <author>
-            <name>CISA</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Phishing Campaign is Now Targeting Coinbase Users]]></title>
-        <id>https://blog.knowbe4.com/new-phishing-campaign-is-now-targeting-coinbase-users</id>
-        <link href="https://blog.knowbe4.com/new-phishing-campaign-is-now-targeting-coinbase-users"/>
-        <updated>2022-08-09T18:31:06.000Z</updated>
-        <summary type="html"><![CDATA[If you're a Coinbase user, you are most likely the next target of a new phishing campaign. Cybercriminals have managed to infiltrate two-factor authentication and deploying other social engineering strategies with the crypto currency exchange platform.]]></summary>
-        <author>
-            <name>Stu Sjouwerman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Security Update Guide Notification System News: Create your profile now]]></title>
-        <id>https://msrc-blog.microsoft.com/?p=14505</id>
-        <link href="https://msrc-blog.microsoft.com/2022/08/09/security-update-guide-notification-system-news-create-your-profile-now/"/>
-        <updated>2022-08-09T17:20:21.000Z</updated>
-        <summary type="html"><![CDATA[Sharing information through the Security Update Guide (SUG) is an important part of our ongoing effort to help customers manage security risks and keep systems protected. In January 2022 we introduced Phase One of a new way for customers to receive email notifications about new Microsoft product security content using any email address, not just …
-  Security Update Guide Notification System News: Create your profile now Read More »]]></summary>
-        <author>
-            <name>msrc</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cybrary Unveils Next-Generation Interactive, Hands-On Training Experience to Upskill Cybersecurity Professionals]]></title>
-        <id>https://www.darkreading.com/careers-and-people/cybrary-unveils-next-generation-interactive-hands-on-training-experience-to-upskill-cybersecurity-professionals</id>
-        <link href="https://www.darkreading.com/careers-and-people/cybrary-unveils-next-generation-interactive-hands-on-training-experience-to-upskill-cybersecurity-professionals"/>
-        <updated>2022-08-09T17:16:19.000Z</updated>
-        <summary type="html"><![CDATA[New SOC Analyst Assessment delivers threat-informed training in a live lab environment to help cybersecurity professionals defend their organizations against the latest adversarial tactics and techniques.]]></summary>
-        <author>
-            <name>Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Researchers Debut Fresh RCE Vector for Common Google API Tool]]></title>
-        <id>https://www.darkreading.com/risk/researchers-debut-rce-vector-common-google-api-tool</id>
-        <link href="https://www.darkreading.com/risk/researchers-debut-rce-vector-common-google-api-tool"/>
-        <updated>2022-08-09T17:12:16.000Z</updated>
-        <summary type="html"><![CDATA[The finding exposes the danger of older, unpatched bugs, which plague at least 4.5 million devices.]]></summary>
-        <author>
-            <name>Nathan Eddy, Contributing Writer, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Abusing Kerberos for Local Privilege Escalation]]></title>
-        <id>https://www.darkreading.com/operations/abusing-kerberos-for-local-privilege-escalation</id>
-        <link href="https://www.darkreading.com/operations/abusing-kerberos-for-local-privilege-escalation"/>
-        <updated>2022-08-09T17:04:18.000Z</updated>
-        <summary type="html"><![CDATA[Upcoming Black Hat USA presentation will examine the implications of Kerberos weaknesses for security on the local machine.]]></summary>
-        <author>
-            <name>Ericka Chickowski, Contributing Writer, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Domino's Takes a Methodical Approach to IoT]]></title>
-        <id>https://www.darkreading.com/iot/domino-s-takes-a-methodical-approach-to-iot</id>
-        <link href="https://www.darkreading.com/iot/domino-s-takes-a-methodical-approach-to-iot"/>
-        <updated>2022-08-09T17:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The success of Domino's Flex IoT project can be attributed in large part to the security best practices it followed.]]></summary>
-        <author>
-            <name>Deral Heiland, Principal Security Researcher (IoT), Rapid7</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Russia-Ukraine Conflict Holds Cyberwar Lessons]]></title>
-        <id>https://www.darkreading.com/threat-intelligence/russia-ukraine-conflict-holds-cyberwar-lessons</id>
-        <link href="https://www.darkreading.com/threat-intelligence/russia-ukraine-conflict-holds-cyberwar-lessons"/>
-        <updated>2022-08-09T16:43:50.000Z</updated>
-        <summary type="html"><![CDATA[Initial attacks used damaging wiper malware and targeted infrastructure, but the most enduring impacts will likely be from disinformation, researchers say. At Black Hat USA, SentinelOne's Juan Andres Guerrero-Saade and Tom Hegel will discuss.]]></summary>
-        <author>
-            <name>Robert Lemos, Contributing Writer, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[US Oil and Gas Sector at Risk of a Cyberbreach, According to BreachBits Study]]></title>
-        <id>https://www.darkreading.com/risk/us-oil-and-gas-sector-at-risk-of-a-cyberbreach-according-to-breachbits-study</id>
-        <link href="https://www.darkreading.com/risk/us-oil-and-gas-sector-at-risk-of-a-cyberbreach-according-to-breachbits-study"/>
-        <updated>2022-08-09T16:22:48.000Z</updated>
-        <summary type="html"><![CDATA[Study offers a cyber "state of the industry" analysis from a hacker's perspective to help companies anticipate attacks.]]></summary>
-        <author>
-            <name>Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Netscout Arbor Insight Leverages Patented ASI Technology to Enhance Security and Operational Awareness for Network Operators of Any Scale]]></title>
-        <id>https://www.darkreading.com/attacks-breaches/netscout-arbor-insight-leverages-patented-asi-technology-to-enhance-security-and-operational-awareness-for-network-operators-of-any-scale</id>
-        <link href="https://www.darkreading.com/attacks-breaches/netscout-arbor-insight-leverages-patented-asi-technology-to-enhance-security-and-operational-awareness-for-network-operators-of-any-scale"/>
-        <updated>2022-08-09T16:12:19.000Z</updated>
-        <summary type="html"><![CDATA[Extends all aspects of the Arbor Sightline solution with unique, real-time multidimensional DDoS and traffic analytics capabilities.]]></summary>
-        <author>
-            <name>Dark Reading</name>
         </author>
     </entry>
 </feed>

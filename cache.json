@@ -331,16 +331,6 @@
           "wordCount": 1056,
           "title": "VMware Releases Security Updates",
           "imageUrl": null
-        },
-        {
-          "id": "17857 at https://us-cert.cisa.gov",
-          "author": "CISA",
-          "description": "Original release date: August 9, 2022\nCISA has added two new vulnerabilities to its Known Exploited Vulnerabilities Catalog, based on evidence of active exploitation. These types of vulnerabilities are a frequent attack vector for malicious cyber actors and pose significant risk to the federal enterprise. Note: to view the newly added vulnerabilities in the catalog, click on the arrow in the \"Date Added to Catalog\" column, which will sort by descending dates.    \nBinding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the Known Exploited Vulnerabilities Catalog as a living list of known CVEs that carry significant risk to the federal enterprise. BOD 22-01 requires FCEB agencies to remediate identified vulnerabilities by the due date to protect FCEB networks against active threats. See the BOD 22-01 Fact Sheet for more information.    \nAlthough BOD 22-01 only applies to FCEB agencies, CISA strongly urges all organizations to reduce their exposure to cyberattacks by prioritizing timely remediation of Catalog vulnerabilities as part of their vulnerability management practice. CISA will continue to add vulnerabilities to the Catalog that meet the specified criteria. \nThis product is provided subject to this Notification and this Privacy & Use policy.",
-          "link": "https://us-cert.cisa.gov/ncas/current-activity/2022/08/09/cisa-adds-two-known-exploited-vulnerabilities-catalog",
-          "publishedOn": "2022-08-09T18:43:27.000Z",
-          "wordCount": 1200,
-          "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
-          "imageUrl": null
         }
       ]
     },
@@ -3216,96 +3206,6 @@
             "length": "0"
           },
           "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blte161b23f0fd3a84b/60b1ea374e7eb868c4c6a293/dr_staff_125x125.jpg"
-        },
-        {
-          "id": "https://www.darkreading.com/careers-and-people/cybrary-unveils-next-generation-interactive-hands-on-training-experience-to-upskill-cybersecurity-professionals",
-          "author": null,
-          "description": "New SOC Analyst Assessment delivers threat-informed training in a live lab environment to help cybersecurity professionals defend their organizations against the latest adversarial tactics and techniques.",
-          "link": "https://www.darkreading.com/careers-and-people/cybrary-unveils-next-generation-interactive-hands-on-training-experience-to-upskill-cybersecurity-professionals",
-          "publishedOn": "2022-08-09T17:16:19.000Z",
-          "wordCount": 13459,
-          "title": "Cybrary Unveils Next-Generation Interactive, Hands-On Training Experience to Upskill Cybersecurity Professionals",
-          "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
-        },
-        {
-          "id": "https://www.darkreading.com/risk/researchers-debut-rce-vector-common-google-api-tool",
-          "author": "Nathan Eddy, Contributing Writer, Dark Reading",
-          "description": "The finding exposes the danger of older, unpatched bugs, which plague at least 4.5 million devices.",
-          "link": "https://www.darkreading.com/risk/researchers-debut-rce-vector-common-google-api-tool",
-          "publishedOn": "2022-08-09T17:12:16.000Z",
-          "wordCount": 14585,
-          "title": "Researchers Debut Fresh RCE Vector for Common Google API Tool",
-          "enclosure": {
-            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltf8b5a94afa71c53a/628e3799daa31875dc0c9fc0/NathanEddyHeadshot.PNG",
-            "type": "image/*",
-            "length": "0"
-          },
-          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltf8b5a94afa71c53a/628e3799daa31875dc0c9fc0/NathanEddyHeadshot.PNG"
-        },
-        {
-          "id": "https://www.darkreading.com/operations/abusing-kerberos-for-local-privilege-escalation",
-          "author": "Ericka Chickowski, Contributing Writer, Dark Reading",
-          "description": "Upcoming Black Hat USA presentation will examine the implications of Kerberos weaknesses for security on the local machine.",
-          "link": "https://www.darkreading.com/operations/abusing-kerberos-for-local-privilege-escalation",
-          "publishedOn": "2022-08-09T17:04:18.000Z",
-          "wordCount": 12550,
-          "title": "Abusing Kerberos for Local Privilege Escalation",
-          "enclosure": {
-            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt1fa01ab14787f501/60b1e9a77f791568be5e0dbb/ErickaChick_125x125.jpeg",
-            "type": "image/*",
-            "length": "0"
-          },
-          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt1fa01ab14787f501/60b1e9a77f791568be5e0dbb/ErickaChick_125x125.jpeg"
-        },
-        {
-          "id": "https://www.darkreading.com/iot/domino-s-takes-a-methodical-approach-to-iot",
-          "author": "Deral Heiland, Principal Security Researcher (IoT), Rapid7",
-          "description": "The success of Domino's Flex IoT project can be attributed in large part to the security best practices it followed.",
-          "link": "https://www.darkreading.com/iot/domino-s-takes-a-methodical-approach-to-iot",
-          "publishedOn": "2022-08-09T17:00:00.000Z",
-          "wordCount": 13540,
-          "title": "Domino's Takes a Methodical Approach to IoT",
-          "enclosure": {
-            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltf3470f73c4a297c7/62f1803406f888156e69d145/Deral_Heiland_Rapid7.jpeg",
-            "type": "image/*",
-            "length": "0"
-          },
-          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltf3470f73c4a297c7/62f1803406f888156e69d145/Deral_Heiland_Rapid7.jpeg"
-        },
-        {
-          "id": "https://www.darkreading.com/threat-intelligence/russia-ukraine-conflict-holds-cyberwar-lessons",
-          "author": "Robert Lemos, Contributing Writer, Dark Reading",
-          "description": "Initial attacks used damaging wiper malware and targeted infrastructure, but the most enduring impacts will likely be from disinformation, researchers say. At Black Hat USA, SentinelOne's Juan Andres Guerrero-Saade and Tom Hegel will discuss.",
-          "link": "https://www.darkreading.com/threat-intelligence/russia-ukraine-conflict-holds-cyberwar-lessons",
-          "publishedOn": "2022-08-09T16:43:50.000Z",
-          "wordCount": 13946,
-          "title": "Russia-Ukraine Conflict Holds Cyberwar Lessons",
-          "enclosure": {
-            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt58481326324d6911/60b1e9a55d34de550780a990/Robert-Lemos.png",
-            "type": "image/*",
-            "length": "0"
-          },
-          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt58481326324d6911/60b1e9a55d34de550780a990/Robert-Lemos.png"
-        },
-        {
-          "id": "https://www.darkreading.com/risk/us-oil-and-gas-sector-at-risk-of-a-cyberbreach-according-to-breachbits-study",
-          "author": null,
-          "description": "Study offers a cyber \"state of the industry\" analysis from a hacker's perspective to help companies anticipate attacks.",
-          "link": "https://www.darkreading.com/risk/us-oil-and-gas-sector-at-risk-of-a-cyberbreach-according-to-breachbits-study",
-          "publishedOn": "2022-08-09T16:22:48.000Z",
-          "wordCount": 12243,
-          "title": "US Oil and Gas Sector at Risk of a Cyberbreach, According to BreachBits Study",
-          "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
-        },
-        {
-          "id": "https://www.darkreading.com/attacks-breaches/netscout-arbor-insight-leverages-patented-asi-technology-to-enhance-security-and-operational-awareness-for-network-operators-of-any-scale",
-          "author": null,
-          "description": "Extends all aspects of the Arbor Sightline solution with unique, real-time multidimensional DDoS and traffic analytics capabilities.",
-          "link": "https://www.darkreading.com/attacks-breaches/netscout-arbor-insight-leverages-patented-asi-technology-to-enhance-security-and-operational-awareness-for-network-operators-of-any-scale",
-          "publishedOn": "2022-08-09T16:12:19.000Z",
-          "wordCount": 12612,
-          "title": "Netscout Arbor Insight Leverages Patented ASI Technology to Enhance Security and Operational Awareness for Network Operators of Any Scale",
-          "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
         }
       ]
     },
@@ -3406,16 +3306,6 @@
           "publishedOn": "2022-08-11T16:00:00.000Z",
           "wordCount": 1832,
           "title": "Microsoft Bug Bounty Programs Year in Review: $13.7M in Rewards",
-          "imageUrl": null
-        },
-        {
-          "id": "https://msrc-blog.microsoft.com/?p=14505",
-          "author": "msrc",
-          "description": "Sharing information through the Security Update Guide (SUG) is an important part of our ongoing effort to help customers manage security risks and keep systems protected. In January 2022 we introduced Phase One of a new way for customers to receive email notifications about new Microsoft product security content using any email address, not just …\n  Security Update Guide Notification System News: Create your profile now Read More »",
-          "link": "https://msrc-blog.microsoft.com/2022/08/09/security-update-guide-notification-system-news-create-your-profile-now/",
-          "publishedOn": "2022-08-09T17:20:21.000Z",
-          "wordCount": 2284,
-          "title": "Security Update Guide Notification System News: Create your profile now",
           "imageUrl": null
         }
       ]
@@ -3971,16 +3861,6 @@
           "wordCount": 2130,
           "title": "DPRK Operators Impersonate CoinBase",
           "imageUrl": "https://blog.knowbe4.com/hubfs/DPRK%20Operators%20Impersonate%20Coinbase.jpg#keepProtocol"
-        },
-        {
-          "id": "https://blog.knowbe4.com/new-phishing-campaign-is-now-targeting-coinbase-users",
-          "author": "Stu Sjouwerman",
-          "description": "If you're a Coinbase user, you are most likely the next target of a new phishing campaign. Cybercriminals have managed to infiltrate two-factor authentication and deploying other social engineering strategies with the crypto currency exchange platform.",
-          "link": "https://blog.knowbe4.com/new-phishing-campaign-is-now-targeting-coinbase-users",
-          "publishedOn": "2022-08-09T18:31:06.000Z",
-          "wordCount": 2003,
-          "title": "New Phishing Campaign is Now Targeting Coinbase Users",
-          "imageUrl": "https://blog.knowbe4.com/hubfs/Coinbase%20Phishing%20Campaign.jpg#keepProtocol"
         }
       ]
     },
@@ -3989,6 +3869,28 @@
       "feedUrl": "https://thehackernews.com/feeds/posts/default",
       "siteUrl": "https://thehackernews.com/",
       "articles": [
+        {
+          "id": "tag:blogger.com,1999:blog-4802841478634147276.post-5566687390532543456",
+          "author": "noreply@blogger.com (Ravie Lakshmanan)",
+          "description": "Microsoft's threat intelligence division on Wednesday assessed that a subgroup of the Iranian threat actor tracked as Phosphorus is conducting ransomware attacks as a \"form of moonlighting\" for personal gain.\nThe tech giant, which is monitoring the activity cluster under the moniker DEV-0270 (aka Nemesis Kitten), said it's operated by a company that functions under the public aliases Secnerd and",
+          "link": "https://thehackernews.com/2022/09/microsoft-warns-of-ransomware-attacks.html",
+          "publishedOn": "2022-09-08T05:38:00.000Z",
+          "wordCount": null,
+          "title": "Microsoft Warns of Ransomware Attacks by Iranian Phosphorus Hacker Group",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "tag:blogger.com,1999:blog-4802841478634147276.post-8229165452396302540",
+          "author": "noreply@blogger.com (Ravie Lakshmanan)",
+          "description": "Cisco on Wednesday rolled out patches to address three security flaws affecting its products, including a high-severity weakness disclosed in NVIDIA Data Plane Development Kit (MLNX_DPDK) late last month.\nTracked as CVE-2022-28199 (CVSS score: 8.6), the vulnerability stems from a lack of proper error handling in DPDK's network stack, enabling a remote adversary to trigger a denial-of-service (",
+          "link": "https://thehackernews.com/2022/09/cisco-releases-security-patches-for-new.html",
+          "publishedOn": "2022-09-08T03:48:00.000Z",
+          "wordCount": null,
+          "title": "Cisco Releases Security Patches for New Vulnerabilities Impacting Multiple Products",
+          "itunes": {},
+          "imageUrl": null
+        },
         {
           "id": "tag:blogger.com,1999:blog-4802841478634147276.post-598541947084998668",
           "author": "noreply@blogger.com (Ravie Lakshmanan)",
