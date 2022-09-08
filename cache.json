@@ -513,6 +513,36 @@
       "siteUrl": "https://www.darkreading.com",
       "articles": [
         {
+          "id": "https://www.darkreading.com/dr-tech/pentesting-evolves-for-the-devsecops-world",
+          "author": "Nathan Eddy, Contributing Writer, Dark Reading",
+          "description": "Penetration testing not only serves to triage and validate other defect discovery activities, it informs risk management activities, such as threat modeling and secure design.",
+          "link": "https://www.darkreading.com/dr-tech/pentesting-evolves-for-the-devsecops-world",
+          "publishedOn": "2022-09-07T21:50:17.000Z",
+          "wordCount": 13253,
+          "title": "Pentesting Evolves for the DevSecOps World",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltf8b5a94afa71c53a/628e3799daa31875dc0c9fc0/NathanEddyHeadshot.PNG",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltf8b5a94afa71c53a/628e3799daa31875dc0c9fc0/NathanEddyHeadshot.PNG"
+        },
+        {
+          "id": "https://www.darkreading.com/attacks-breaches/holiday-inn-owner-intercontinental-breach-trend",
+          "author": "Becky Bracken, Editor, Dark Reading",
+          "description": "After a high-profile 2017 breach and a Holiday Inn ransomware hit earlier this year, IHG confirms that its booking channels and applications have been disrupted in yet another cyberattack.",
+          "link": "https://www.darkreading.com/attacks-breaches/holiday-inn-owner-intercontinental-breach-trend",
+          "publishedOn": "2022-09-07T19:30:50.000Z",
+          "wordCount": 9791,
+          "title": "Holiday Inn Owner InterContinental Has a Breach Trend",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt8e7bd143d726930b/627271268681151716941064/BeckyB.jpg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt8e7bd143d726930b/627271268681151716941064/BeckyB.jpg"
+        },
+        {
           "id": "https://www.darkreading.com/attacks-breaches/fighting-ransomware-takes-an-army-our-public-private-sector-soldiers-join-forces",
           "author": "Marc Rogers, Senior Director of Cybersecurity, Okta",
           "description": "Continued collaboration will help win the fight as cybersecurity remains a national priority. International and public-private cooperation is helping stem the damage from ransomware threats and cyberattacks.",
@@ -586,6 +616,21 @@
             "length": "0"
           },
           "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltd9e6c0fc053186dc/61ad01a539b865681b0dc014/Tim_Ball.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/vulnerabilities-threats/everything-you-need-to-know-about-blackcat-alphav-",
+          "author": "Aaron Sandeen, CEO & Co-Founder, Cyber Security Works",
+          "description": "A relative newcomer to the ransomware scene, the BlackCat group quickly gained notoriety and may be associated with other APT groups like Conti and DarkSide.",
+          "link": "https://www.darkreading.com/vulnerabilities-threats/everything-you-need-to-know-about-blackcat-alphav-",
+          "publishedOn": "2022-09-07T07:00:00.000Z",
+          "wordCount": 11567,
+          "title": "Everything You Need To Know About BlackCat (AlphaV)",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt207a89fee76630be/6319284a443e8155087ee39f/Aaron_Sandeen_copy.png",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt207a89fee76630be/6319284a443e8155087ee39f/Aaron_Sandeen_copy.png"
         },
         {
           "id": "https://www.darkreading.com/attacks-breaches/mysterious-worok-spy-obfuscated-code-private-tools",
@@ -3261,46 +3306,6 @@
           "wordCount": 12612,
           "title": "Netscout Arbor Insight Leverages Patented ASI Technology to Enhance Security and Operational Awareness for Network Operators of Any Scale",
           "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
-        },
-        {
-          "id": "https://www.darkreading.com/cloud/lacework-updates-threat-detection-to-uncover-more-malicious-activity-and-speed-investigation-at-scale",
-          "author": null,
-          "description": "New time series model and enhanced alerting experience make it easy for organizations to address more threats in the cloud while enabling faster investigations.",
-          "link": "https://www.darkreading.com/cloud/lacework-updates-threat-detection-to-uncover-more-malicious-activity-and-speed-investigation-at-scale",
-          "publishedOn": "2022-08-09T15:26:02.000Z",
-          "wordCount": 14487,
-          "title": "Lacework Updates Threat Detection To Uncover More Malicious Activity and Speed Investigation at Scale",
-          "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
-        },
-        {
-          "id": "https://www.darkreading.com/edge/don-t-take-the-cyber-safety-review-board-s-log4j-report-at-face-value",
-          "author": "Matt Chiodi, Chief Trust Officer, Cerby",
-          "description": "Given the lack of reporting requirements, the findings are more like assumptions. Here's what organizations can do to minimize exposure.",
-          "link": "https://www.darkreading.com/edge/don-t-take-the-cyber-safety-review-board-s-log4j-report-at-face-value",
-          "publishedOn": "2022-08-09T14:50:12.000Z",
-          "wordCount": 13908,
-          "title": "Don't Take the Cyber Safety Review Board's Log4j Report at Face Value",
-          "enclosure": {
-            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt272aa996b91c8dac/62edafe06b0f326989460a4b/Matt_Chiodi_Cerby-sq.jpg",
-            "type": "image/*",
-            "length": "0"
-          },
-          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt272aa996b91c8dac/62edafe06b0f326989460a4b/Matt_Chiodi_Cerby-sq.jpg"
-        },
-        {
-          "id": "https://www.darkreading.com/attacks-breaches/human-threat-hunters-are-essential-to-thwarting-zero-day-attacks",
-          "author": "A.N. Ananth, President, Netsurion",
-          "description": "Machine-learning algorithms alone may miss signs of a successful attack on your organization.",
-          "link": "https://www.darkreading.com/attacks-breaches/human-threat-hunters-are-essential-to-thwarting-zero-day-attacks",
-          "publishedOn": "2022-08-09T14:00:00.000Z",
-          "wordCount": 13270,
-          "title": "Human Threat Hunters Are Essential to Thwarting Zero-Day Attacks",
-          "enclosure": {
-            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltef94096bacb39468/60d4481ea7307e39e4d4b94c/A.N.Ananth.png",
-            "type": "image/*",
-            "length": "0"
-          },
-          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltef94096bacb39468/60d4481ea7307e39e4d4b94c/A.N.Ananth.png"
         }
       ]
     },
@@ -3363,6 +3368,16 @@
       "feedUrl": "https://msrc-blog.microsoft.com/feed/",
       "siteUrl": "https://msrc-blog.microsoft.com",
       "articles": [
+        {
+          "id": "https://msrc-blog.microsoft.com/?p=14642",
+          "author": "Stephanie Calabrese",
+          "description": "When I grow up I want to be? Dancer or a veterinarian Happiest memories: Tearing up the dance floor at weddings and playing soccer in the streets of Lima, Peru Previous Job roles: Mopped floors for McDonalds, packed boxes at an Avon warehouse, Manager at Olive Garden, Beer taster/server and then dove into tech and …\n  Curious, Innovative, Creative, Community Driven: Meet Cyb3rWard0g, Roberto Rodriquez Read More »",
+          "link": "https://msrc-blog.microsoft.com/2022/09/07/curious-innovative-creative-community-driven-meet-cyb3rward0g-roberto-rodriquez/",
+          "publishedOn": "2022-09-07T20:56:09.000Z",
+          "wordCount": 2647,
+          "title": "Curious, Innovative, Creative, Community Driven: Meet Cyb3rWard0g, Roberto Rodriquez",
+          "imageUrl": null
+        },
         {
           "id": "https://msrc-blog.microsoft.com/?p=14635",
           "author": "Saar Amar",
@@ -3966,46 +3981,6 @@
           "wordCount": 2003,
           "title": "New Phishing Campaign is Now Targeting Coinbase Users",
           "imageUrl": "https://blog.knowbe4.com/hubfs/Coinbase%20Phishing%20Campaign.jpg#keepProtocol"
-        },
-        {
-          "id": "https://blog.knowbe4.com/hacking-the-hacker-assessing-and-addressing-your-organizations-cyber-defense-weaknesses",
-          "author": "Stu Sjouwerman",
-          "description": "Cybercriminals are out there, watching and waiting for the perfect opportunity. They are gathering information about your organization and users, devising the perfect plan to infiltrate your defenses.",
-          "link": "https://blog.knowbe4.com/hacking-the-hacker-assessing-and-addressing-your-organizations-cyber-defense-weaknesses",
-          "publishedOn": "2022-08-09T15:07:28.000Z",
-          "wordCount": 1909,
-          "title": "Hacking the Hacker: Assessing and Addressing Your Organization’s Cyber Defense Weaknesses",
-          "imageUrl": "https://blog.knowbe4.com/hubfs/HackingTheHacker-SOCIAL-LIVE-ET.jpg#keepProtocol"
-        },
-        {
-          "id": "https://blog.knowbe4.com/cash-app-scams-strikes-again-with-new-types-of-attacks",
-          "author": "Stu Sjouwerman",
-          "description": "TradeArabia has published a report about common scams on CashApp, explaining that scammers frequently take advantage of CashApp promotions, like the weekly money giveaway, “Super Cash App Friday.” The scammers will impersonate CashApp and message users over social media, telling them that they’ve won the money. The scammers will then request a transfer fee from the victim.",
-          "link": "https://blog.knowbe4.com/cash-app-scams-strikes-again-with-new-types-of-attacks",
-          "publishedOn": "2022-08-09T13:31:42.000Z",
-          "wordCount": 2190,
-          "title": "Cash App Scams Strikes Again With New Types of Attacks",
-          "imageUrl": "https://blog.knowbe4.com/hubfs/Depositphotos_333984692_S.jpg#keepProtocol"
-        },
-        {
-          "id": "https://blog.knowbe4.com/cyberheistnews-vol-12-32-heads-up-watch-out-for-this-widespread-multistage-investment-scam",
-          "author": "Stu Sjouwerman",
-          "description": "CyberheistNews Vol 12 #32 [Heads Up] Watch Out For This Widespread, Multistage Investment Scam",
-          "link": "https://blog.knowbe4.com/cyberheistnews-vol-12-32-heads-up-watch-out-for-this-widespread-multistage-investment-scam",
-          "publishedOn": "2022-08-09T13:27:25.000Z",
-          "wordCount": 4958,
-          "title": "CyberheistNews Vol 12 #32 [Heads Up] Watch Out For This Widespread, Multistage Investment Scam",
-          "imageUrl": "https://blog.knowbe4.com/hubfs/CHN-Social.jpg#keepProtocol"
-        },
-        {
-          "id": "https://blog.knowbe4.com/new-research-shows-social-engineering-and-phishing-are-the-top-threats",
-          "author": "Stu Sjouwerman",
-          "description": "According to the CS Hub Mid-Year Market Report 2022, new findings shows that 75% of survey respondents believe that social engineering and phishing attacks are the top threat vector to cybersecurity within their organization.",
-          "link": "https://blog.knowbe4.com/new-research-shows-social-engineering-and-phishing-are-the-top-threats",
-          "publishedOn": "2022-08-09T12:56:10.000Z",
-          "wordCount": 1945,
-          "title": "New Research Shows Social Engineering and Phishing are the Top Threats",
-          "imageUrl": "https://blog.knowbe4.com/hubfs/businessman%20hand%20working%20with%20modern%20technology%20digital%20tablet%20computer%20and%20graphics%20layer%20effect%20as%20business%20strategy%20concept-1.jpeg#keepProtocol"
         }
       ]
     },
@@ -5342,61 +5317,6 @@
           "publishedOn": "2022-08-10T06:12:13.035Z",
           "wordCount": null,
           "title": "Microsoft Issues Patches for 121 Flaws, Including Zero-Day Under Active Attack",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "tag:blogger.com,1999:blog-4802841478634147276.post-2541251573444024347",
-          "author": "noreply@blogger.com (Ravie Lakshmanan)",
-          "description": "Customer engagement platform Twilio on Monday disclosed that a \"sophisticated\" threat actor gained \"unauthorized access\" using an SMS-based phishing campaign aimed at its staff to gain information on a \"limited number\" of accounts.\nThe social-engineering attack was bent on stealing employee credentials, the company said, calling the as-yet-unidentified adversary \"well-organized\" and \"methodical",
-          "link": "https://thehackernews.com/2022/08/twilio-suffers-data-breach-after.html",
-          "publishedOn": "2022-08-09T14:24:25.793Z",
-          "wordCount": null,
-          "title": "Twilio Suffers Data Breach After Employees Fall Victim to SMS Phishing Attack",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "tag:blogger.com,1999:blog-4802841478634147276.post-2654021538106134537",
-          "author": "noreply@blogger.com (Ravie Lakshmanan)",
-          "description": "The U.S. Treasury Department on Monday placed sanctions against crypto mixing service Tornado Cash, citing its use by the North Korea-backed Lazarus Group in the high-profile hacks of Ethereum bridges to launder and cash out the ill-gotten money.\nTornado Cash, which allows users to move cryptocurrency assets between accounts by obfuscating their origin and destination, is estimated to have been",
-          "link": "https://thehackernews.com/2022/08/us-sanctions-virtual-currency-mixer.html",
-          "publishedOn": "2022-08-09T12:32:48.888Z",
-          "wordCount": null,
-          "title": "U.S. Sanctions Virtual Currency Mixer Tornado Cash for Alleged Use in Laundering",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "tag:blogger.com,1999:blog-4802841478634147276.post-5329295303289379890",
-          "author": "noreply@blogger.com (The Hacker News)",
-          "description": "TL;DR: As weird as it might sound, seeing a few false positives reported by a security scanner is probably a good sign and certainly better than seeing none. Let's explain why.\nIntroduction\nFalse positives have made a somewhat unexpected appearance in our lives in recent years. I am, of course, referring to the COVID-19 pandemic, which required massive testing campaigns in order to control the",
-          "link": "https://thehackernews.com/2022/08/the-truth-about-false-positives-in.html",
-          "publishedOn": "2022-08-09T12:18:40.828Z",
-          "wordCount": null,
-          "title": "The Truth About False Positives in Security",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "tag:blogger.com,1999:blog-4802841478634147276.post-7439661831186480238",
-          "author": "noreply@blogger.com (Ravie Lakshmanan)",
-          "description": "In what's yet another instance of malicious packages creeping into public code repositories, 10 modules have been removed from the Python Package Index (PyPI) for their ability to harvest critical data points such as passwords and Api tokens.\nThe packages \"install info-stealers that enable attackers to steal developer's private data and personal credentials,\" Israeli cybersecurity firm Check",
-          "link": "https://thehackernews.com/2022/08/10-credential-stealing-python-libraries.html",
-          "publishedOn": "2022-08-09T11:48:10.165Z",
-          "wordCount": null,
-          "title": "10 Credential Stealing Python Libraries Found on PyPI Repository",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "tag:blogger.com,1999:blog-4802841478634147276.post-8022053087161015565",
-          "author": "noreply@blogger.com (Ravie Lakshmanan)",
-          "description": "Over a dozen military-industrial complex enterprises and public institutions in Afghanistan and Europe have come under a wave of targeted attacks since January 2022 to steal confidential data by simultaneously making use of six different backdoors.\nRussian cybersecurity firm Kaspersky attributed the attacks \"with a high degree of confidence\" to a China-linked threat actor tracked by Proofpoint",
-          "link": "https://thehackernews.com/2022/08/chinese-hackers-targeted-dozens-of.html",
-          "publishedOn": "2022-08-09T11:32:03.212Z",
-          "wordCount": null,
-          "title": "Chinese Hackers Targeted Dozens of Industrial Enterprises and Public Institutions",
           "itunes": {},
           "imageUrl": null
         }
