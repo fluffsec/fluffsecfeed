@@ -53,6 +53,16 @@
           "imageUrl": null
         },
         {
+          "id": "17955 at https://us-cert.cisa.gov",
+          "author": "CISA",
+          "description": "Original release date: September 8, 2022 | Last revised: September 9, 2022\nCisco has released security updates to address vulnerabilities in multiple Cisco products. A remote attacker could exploit some of these vulnerabilities to take control of an affected system. For updates addressing lower severity vulnerabilities, see the Cisco Security Advisories page. \nCISA encourages users and administrators to review the following advisories and apply the necessary updates:\n•    Cisco SD-WAN vManage Software Unauthenticated Access to Messaging Services cisco-sa-vmanage-msg-serv-AqTup7vs \n•    Vulnerability in NVIDIA Data Plane Development Kit Affecting Cisco Products: August 2022 cisco-sa-mlx5-jbPCrqD8\nThis product is provided subject to this Notification and this Privacy & Use policy.",
+          "link": "https://us-cert.cisa.gov/ncas/current-activity/2022/09/08/cisco-releases-security-updates-multiple-products",
+          "publishedOn": "2022-09-08T16:25:31.000Z",
+          "wordCount": 1099,
+          "title": "Cisco Releases Security Updates for Multiple Products",
+          "imageUrl": null
+        },
+        {
           "id": "17952 at https://us-cert.cisa.gov",
           "author": "CISA",
           "description": "Original release date: September 8, 2022\nCISA has added twelve new vulnerabilities to its Known Exploited Vulnerabilities Catalog, based on evidence of active exploitation. These types of vulnerabilities are a frequent attack vector for malicious cyber actors and pose significant risk to the federal enterprise. Note: to view the newly added vulnerabilities in the catalog, click on the arrow in the \"Date Added to Catalog\" column, which will sort by descending dates.\nBinding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the Known Exploited Vulnerabilities Catalog as a living list of known CVEs that carry significant risk to the federal enterprise. BOD 22-01 requires FCEB agencies to remediate identified vulnerabilities by the due date to protect FCEB networks against active threats. See the BOD 22-01 Fact Sheet for more information.\nAlthough BOD 22-01 only applies to FCEB agencies, CISA strongly urges all organizations to reduce their exposure to cyberattacks by prioritizing timely remediation of Catalog vulnerabilities as part of their vulnerability management practice. CISA will continue to add vulnerabilities to the Catalog that meet the specified criteria.\nThis product is provided subject to this Notification and this Privacy & Use policy.",
@@ -462,6 +472,81 @@
       "feedUrl": "https://www.darkreading.com/rss.xml",
       "siteUrl": "https://www.darkreading.com",
       "articles": [
+        {
+          "id": "https://www.darkreading.com/attacks-breaches/attackers-exploit-zero-day-wordpress-plugin-vulnerability-backupbuddy",
+          "author": "Jai Vijayan, Contributing Writer, Dark Reading",
+          "description": "The critical flaw in BackupBuddy is one of thousands of security issues reported in recent years in products that WordPress sites use to extend functionality.",
+          "link": "https://www.darkreading.com/attacks-breaches/attackers-exploit-zero-day-wordpress-plugin-vulnerability-backupbuddy",
+          "publishedOn": "2022-09-09T17:56:48.000Z",
+          "wordCount": 12130,
+          "title": "Attackers Exploit Zero-Day WordPress Plug-in Vulnerability in BackupBuddy",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt02d79fb9a44a4258/60b1e9dd2a25046b35110696/Jai-Vijayan.jpeg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt02d79fb9a44a4258/60b1e9dd2a25046b35110696/Jai-Vijayan.jpeg"
+        },
+        {
+          "id": "https://www.darkreading.com/vulnerabilities-threats/us-sanctions-iran-apt-cyberattack-activity",
+          "author": "Tara Seals, Managing Editor, News, Dark Reading",
+          "description": "The Treasury Department links the MuddyWater APT and APT39 to Iran's intelligence apparatus, which is now blocked from doing business with US entities.",
+          "link": "https://www.darkreading.com/vulnerabilities-threats/us-sanctions-iran-apt-cyberattack-activity",
+          "publishedOn": "2022-09-09T16:48:02.000Z",
+          "wordCount": 11185,
+          "title": "US Sanctions Iran Over APT Cyberattack Activity",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltea67136f81f32eca/626a9eb4726e3315b16b3c64/Tara-Seals-Headshot2.jpg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltea67136f81f32eca/626a9eb4726e3315b16b3c64/Tara-Seals-Headshot2.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/cloud/microsoft-cloud-providers-ban-basic-authentication",
+          "author": "Robert Lemos, Contributing Writer, Dark Reading",
+          "description": "Microsoft moves ahead with a plan to sunset basic authentication, and other providers are moving — or have moved — to requiring more secure authentication as well. Is your company ready?",
+          "link": "https://www.darkreading.com/cloud/microsoft-cloud-providers-ban-basic-authentication",
+          "publishedOn": "2022-09-09T14:29:16.000Z",
+          "wordCount": 12771,
+          "title": "Microsoft, Cloud Providers Move to Ban Basic Authentication",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt58481326324d6911/60b1e9a55d34de550780a990/Robert-Lemos.png",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt58481326324d6911/60b1e9a55d34de550780a990/Robert-Lemos.png"
+        },
+        {
+          "id": "https://www.darkreading.com/threat-intelligence/lockbit-alphv-ransomware-gang-leak-sites-ddos-attacks",
+          "author": "Nathan Eddy, Contributing Writer, Dark Reading",
+          "description": "A sweeping effort to prevent a raft of targeted cybercrime groups from posting ransomware victims'  data publicly is hampering their operations, causing outages.",
+          "link": "https://www.darkreading.com/threat-intelligence/lockbit-alphv-ransomware-gang-leak-sites-ddos-attacks",
+          "publishedOn": "2022-09-09T14:22:58.000Z",
+          "wordCount": 12270,
+          "title": "LockBit, ALPHV & Other Ransomware Gang Leak Sites Hit by DDoS Attacks",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltf8b5a94afa71c53a/628e3799daa31875dc0c9fc0/NathanEddyHeadshot.PNG",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltf8b5a94afa71c53a/628e3799daa31875dc0c9fc0/NathanEddyHeadshot.PNG"
+        },
+        {
+          "id": "https://www.darkreading.com/attacks-breaches/why-ports-are-at-risk-of-cyberattacks",
+          "author": "Aviv Grafi, CTO and Co-Founder, Votiro",
+          "description": "More docked ships bring a new challenge. The longer a ship is docked, the more vulnerable the port is to a cyberattack.",
+          "link": "https://www.darkreading.com/attacks-breaches/why-ports-are-at-risk-of-cyberattacks",
+          "publishedOn": "2022-09-09T14:00:00.000Z",
+          "wordCount": 12658,
+          "title": "Why Ports Are at Risk of Cyberattacks",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt86d65dd7c19c67e5/6308d27f1004b759387c452b/Aviv_Grafi_Photo.JPG",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt86d65dd7c19c67e5/6308d27f1004b759387c452b/Aviv_Grafi_Photo.JPG"
+        },
         {
           "id": "https://www.darkreading.com/threat-intelligence/darktrace-shares-plunge-after-thoma-bravo-acquisition",
           "author": "Jai Vijayan, Contributing Writer, Dark Reading",
@@ -3740,6 +3825,28 @@
       "siteUrl": "https://thehackernews.com/",
       "articles": [
         {
+          "id": "tag:blogger.com,1999:blog-4802841478634147276.post-6376853108344418536",
+          "author": "noreply@blogger.com (The Hacker News)",
+          "description": "Security threats are always a concern when it comes to APIs. API security can be compared to driving a car. You must be cautious and review everything closely before releasing it into the world. By failing to do so, you're putting yourself and others at risk.\nAPI attacks are more dangerous than other breaches. Facebook had a 50M user account affected by an API breach, and an API data breach on",
+          "link": "https://thehackernews.com/2022/09/6-top-api-security-risks-favored.html",
+          "publishedOn": "2022-09-09T13:30:00.000Z",
+          "wordCount": null,
+          "title": "6 Top API Security Risks! Favored Targets for Attackers If Left Unmanaged",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "tag:blogger.com,1999:blog-4802841478634147276.post-4263484525467010408",
+          "author": "noreply@blogger.com (Ravie Lakshmanan)",
+          "description": "More than $30 million worth of cryptocurrency plundered by the North Korea-linked Lazarus Group from online video game Axie Infinity has been recovered, marking the first time digital assets stolen by the threat actor have been seized.\n\"The seizures represent approximately 10% of the total funds stolen from Axie Infinity (accounting for price differences between time stolen and seized), and",
+          "link": "https://thehackernews.com/2022/09/us-seizes-cryptocurrency-worth-30.html",
+          "publishedOn": "2022-09-09T11:36:00.000Z",
+          "wordCount": null,
+          "title": "U.S. Seizes Cryptocurrency Worth $30 Million Stolen by North Korean Hackers",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
           "id": "tag:blogger.com,1999:blog-4802841478634147276.post-5457489298570464015",
           "author": "noreply@blogger.com (Ravie Lakshmanan)",
           "description": "A zero-day flaw in a WordPress plugin called BackupBuddy is being actively exploited, WordPress security company Wordfence has disclosed.\n\"This vulnerability makes it possible for unauthenticated users to download arbitrary files from the affected site which can include sensitive information,\" it said.\nBackupBuddy allows users to back up their entire WordPress installation from within the",
@@ -5078,17 +5185,6 @@
           "publishedOn": "2022-08-11T09:23:14.762Z",
           "wordCount": null,
           "title": "Critical Flaws Disclosed in Device42 IT Asset Management Software",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "tag:blogger.com,1999:blog-4802841478634147276.post-4744925233195894872",
-          "author": "noreply@blogger.com (Ravie Lakshmanan)",
-          "description": "Cloud-based code hosting platform GitHub has announced that it will now start sending Dependabot alerts for vulnerable GitHub Actions to help developers fix security issues in CI/CD workflows.\n\"When a security vulnerability is reported in an action, our team of security researchers will create an advisory to document the vulnerability, which will trigger an alert to impacted repositories,\"",
-          "link": "https://thehackernews.com/2022/08/github-dependabot-now-alerts-developers.html",
-          "publishedOn": "2022-08-11T06:07:07.451Z",
-          "wordCount": null,
-          "title": "GitHub Dependabot Now Alerts Developers On Vulnerable GitHub Actions",
           "itunes": {},
           "imageUrl": null
         }
