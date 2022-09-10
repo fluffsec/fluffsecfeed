@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-09-10T13:37:47.961Z</updated>
+    <updated>2022-09-10T19:20:31.605Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
@@ -4348,19 +4348,6 @@ The issue, assigned the identifier CVE-2022-20866 (CVSS score: 7.4), has been 
         <summary type="html"><![CDATA[Back when the internet consisted of a handful of computers networked together across a few research institutions, nobody could have imagined that it would one day form the backbone of a new digital way of life. And that probably explains why none of the researchers who thought up its core technologies — things like packet switching and TCP/IP — gave much consideration to the need to secure the]]></summary>
         <author>
             <name>noreply@blogger.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Researchers Warn of Ongoing Mass Exploitation of Zimbra RCE Vulnerability]]></title>
-        <id>tag:blogger.com,1999:blog-4802841478634147276.post-458793934696353624</id>
-        <link href="https://thehackernews.com/2022/08/researchers-warn-of-ongoing-mass.html"/>
-        <updated>2022-08-12T06:14:20.652Z</updated>
-        <summary type="html"><![CDATA[The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday added two flaws to its Known Exploited Vulnerabilities Catalog, citing evidence of active exploitation.
-The two high-severity issues relate to weaknesses in Zimbra Collaboration, both of which could be chained to achieve unauthenticated remote code execution on affected email servers -
-
-CVE-2022-27925 (CVSS score: 7.2)]]></summary>
-        <author>
-            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
         </author>
     </entry>
 </feed>
