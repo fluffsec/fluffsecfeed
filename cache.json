@@ -301,16 +301,6 @@
           "wordCount": 1098,
           "title": "Cisco Releases Security Update for Multiple Products",
           "imageUrl": null
-        },
-        {
-          "id": "17871 at https://us-cert.cisa.gov",
-          "author": "CISA",
-          "description": "Original release date: August 11, 2022\nCISA and the Federal Bureau of Investigation (FBI) have released a joint Cybersecurity Advisory (CSA), #StopRansomware: Zeppelin Ransomware, to provide information on Zeppelin Ransomware. Actors use Zeppelin Ransomware, a ransomware-as-a-service (RaaS), against a wide range of businesses and critical infrastructure organizations to encrypt victims’ files for financial gain.\nCISA encourages organizations to review #StopRansomware: Zeppelin Ransomware for more information. Additionally, see StopRansomware.gov for guidance on ransomware protection, detection, and response. \n \nThis product is provided subject to this Notification and this Privacy & Use policy.",
-          "link": "https://us-cert.cisa.gov/ncas/current-activity/2022/08/11/stopransomware-zeppelin-ransomware",
-          "publishedOn": "2022-08-11T14:03:16.000Z",
-          "wordCount": 1079,
-          "title": "#StopRansomware: Zeppelin Ransomware",
-          "imageUrl": null
         }
       ]
     },
@@ -472,6 +462,36 @@
       "feedUrl": "https://www.darkreading.com/rss.xml",
       "siteUrl": "https://www.darkreading.com",
       "articles": [
+        {
+          "id": "https://www.darkreading.com/edge-articles/zane-lackey-technology-is-the-easy-bit-",
+          "author": "Carlo Massimo, Freelance Writer",
+          "description": "Security Pro File: The DevOps evangelist and angel investor shares his expertise with the next generation of startups. If you're lucky, maybe he'll even share his Lagavulin.",
+          "link": "https://www.darkreading.com/edge-articles/zane-lackey-technology-is-the-easy-bit-",
+          "publishedOn": "2022-09-09T20:18:37.000Z",
+          "wordCount": 14962,
+          "title": "Zane Lackey: 'Technology Is the Easy Bit'",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltbc7048cc05505c98/60d5102f6cc4af30ee8dc2b1/CarloMassimo.png",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltbc7048cc05505c98/60d5102f6cc4af30ee8dc2b1/CarloMassimo.png"
+        },
+        {
+          "id": "https://www.darkreading.com/vulnerabilities-threats/monti-conti-ransomware-recycled-code",
+          "author": "Dark Reading Staff, Dark Reading",
+          "description": "A new group, Monti, appears to have used leaked Conti code, TTPs, and infrastructure approaches to launch its own ransomware campaign.",
+          "link": "https://www.darkreading.com/vulnerabilities-threats/monti-conti-ransomware-recycled-code",
+          "publishedOn": "2022-09-09T19:00:00.000Z",
+          "wordCount": 9947,
+          "title": "Monti, the New Conti: Ransomware Gang Uses Recycled Code",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blte161b23f0fd3a84b/60b1ea374e7eb868c4c6a293/dr_staff_125x125.jpg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blte161b23f0fd3a84b/60b1ea374e7eb868c4c6a293/dr_staff_125x125.jpg"
+        },
         {
           "id": "https://www.darkreading.com/attacks-breaches/attackers-exploit-zero-day-wordpress-plugin-vulnerability-backupbuddy",
           "author": "Jai Vijayan, Contributing Writer, Dark Reading",
@@ -3126,21 +3146,6 @@
             "length": "0"
           },
           "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt58481326324d6911/60b1e9a55d34de550780a990/Robert-Lemos.png"
-        },
-        {
-          "id": "https://www.darkreading.com/iot/the-time-is-now-for-iot-security-standards",
-          "author": "Jan Bondoc, Vice President of Information Technology, ioXt LLC",
-          "description": "Industry standards would provide predictable and understandable IoT security frameworks.",
-          "link": "https://www.darkreading.com/iot/the-time-is-now-for-iot-security-standards",
-          "publishedOn": "2022-08-11T14:00:00.000Z",
-          "wordCount": 13816,
-          "title": "The Time Is Now for IoT Security Standards",
-          "enclosure": {
-            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltddcee955c9631de2/62f4f6c2c180ff0ed5b3db2a/Jan_Bondoc_2.jpg",
-            "type": "image/*",
-            "length": "0"
-          },
-          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltddcee955c9631de2/62f4f6c2c180ff0ed5b3db2a/Jan_Bondoc_2.jpg"
         }
       ]
     },
@@ -3766,56 +3771,6 @@
           "wordCount": 2167,
           "title": "Massive Network of Over 10,000 Fake Investment Sites Targets Europe",
           "imageUrl": "https://blog.knowbe4.com/hubfs/social-suggested-images/cybersecurity-2.jpg#keepProtocol"
-        },
-        {
-          "id": "https://blog.knowbe4.com/phishing-as-a-service-platform-robin-banks-helps-cybercriminals-target-customers-of-financial-institutions",
-          "author": "Stu Sjouwerman",
-          "description": "Initial Access Brokers (IABs) are one of the new breeds of cybercrime services. But this newest PhaaS platform makes it easy for anyone to target banks for as little as $50 monthly.",
-          "link": "https://blog.knowbe4.com/phishing-as-a-service-platform-robin-banks-helps-cybercriminals-target-customers-of-financial-institutions",
-          "publishedOn": "2022-08-11T13:29:14.000Z",
-          "wordCount": 2160,
-          "title": "Phishing-as-a-Service Platform “Robin Banks” Helps Cybercriminals Target Customers of Financial Institutions",
-          "imageUrl": "https://blog.knowbe4.com/hubfs/Phishing%20as%20a%20Service%20Platform%20Financial%20Institutions.jpg#keepProtocol"
-        },
-        {
-          "id": "https://blog.knowbe4.com/92-of-organizations-have-experienced-a-security-incident-as-a-result-of-an-email-borne-threat",
-          "author": "Stu Sjouwerman",
-          "description": "New data shows that not only are email-borne threats increasing, but that current integrated cloud email security solutions do little to detect and stop advanced email-based threats.",
-          "link": "https://blog.knowbe4.com/92-of-organizations-have-experienced-a-security-incident-as-a-result-of-an-email-borne-threat",
-          "publishedOn": "2022-08-11T13:29:08.000Z",
-          "wordCount": 2207,
-          "title": "92% of Organizations Have Experienced a Security Incident as a Result of an Email-Borne Threat",
-          "imageUrl": "https://blog.knowbe4.com/hubfs/Security%20Incident%20Based%20on%20Email%20Threats.jpg#keepProtocol"
-        },
-        {
-          "id": "https://blog.knowbe4.com/new-paypal-phishing-scam-uses-legitimate-invoices-to-reach-victim-inboxes",
-          "author": "Stu Sjouwerman",
-          "description": "Newer phishing scams are looking for ways to make legitimate websites do the work of delivering malicious messages to unsuspecting victims – this new scam achieves it perfectly.",
-          "link": "https://blog.knowbe4.com/new-paypal-phishing-scam-uses-legitimate-invoices-to-reach-victim-inboxes",
-          "publishedOn": "2022-08-11T13:29:02.000Z",
-          "wordCount": 2137,
-          "title": "New Paypal Phishing Scam Uses “Legitimate” Invoices to Reach Victim Inboxes",
-          "imageUrl": "https://blog.knowbe4.com/hubfs/PayPal%20Phishing%20Campaign.jpg#keepProtocol"
-        },
-        {
-          "id": "https://blog.knowbe4.com/solidbit-ransomware-targets-league-of-legends-players",
-          "author": "Stu Sjouwerman",
-          "description": "Researchers at Trend Micro warn that a SolidBit ransomware variant is being distributed via fraudulent software targeting video game players and social media users. The malware is being packaged with a fake League of Legends account checker and an Instagram follower bot. These tools have been posted on GitHub to trick users into installing them.",
-          "link": "https://blog.knowbe4.com/solidbit-ransomware-targets-league-of-legends-players",
-          "publishedOn": "2022-08-11T13:28:56.000Z",
-          "wordCount": 2143,
-          "title": "SolidBit Ransomware Targets League of Legends Players",
-          "imageUrl": "https://blog.knowbe4.com/hubfs/SolidBit%20Ransomware%20Targeting%20League%20Players.jpg#keepProtocol"
-        },
-        {
-          "id": "https://blog.knowbe4.com/recent-cisco-hack-by-ransomware-group-started-because-of-a-phishing-attack",
-          "author": "Stu Sjouwerman",
-          "description": "In a recent article by Forbes, Cisco confirmed that they were hacked by a ransomware group as the group of cybercriminals published a partial list of files that were claimed to be exfiltrated.",
-          "link": "https://blog.knowbe4.com/recent-cisco-hack-by-ransomware-group-started-because-of-a-phishing-attack",
-          "publishedOn": "2022-08-11T12:59:06.000Z",
-          "wordCount": 2051,
-          "title": "Recent Cisco Hack by Ransomware Group Started Because of a Phishing Attack",
-          "imageUrl": "https://blog.knowbe4.com/hubfs/Recent%20Cisco%20Hack.jpg#keepProtocol"
         }
       ]
     },
@@ -5152,39 +5107,6 @@
           "publishedOn": "2022-08-11T16:11:00.485Z",
           "wordCount": null,
           "title": "Cisco Confirms It's Been Hacked by Yanluowang Ransomware Gang",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "tag:blogger.com,1999:blog-4802841478634147276.post-5216789070221297938",
-          "author": "noreply@blogger.com (The Hacker News)",
-          "description": "Password security is only as strong as the password itself. Unfortunately, we are often reminded of the danger of weak, reused, and compromised passwords with major cybersecurity breaches that start with stolen credentials. For example, in May 2022, the popular wedding planning site, Zola, was the victim of a significant cybersecurity breach where hackers used an attack known as credential",
-          "link": "https://thehackernews.com/2022/08/what-zola-hack-can-teach-us-about.html",
-          "publishedOn": "2022-08-11T10:24:07.369Z",
-          "wordCount": null,
-          "title": "What the Zola Hack Can Teach Us About Password Security",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "tag:blogger.com,1999:blog-4802841478634147276.post-8894491245139488734",
-          "author": "noreply@blogger.com (Ravie Lakshmanan)",
-          "description": "Threat actors associated with the Cuba ransomware have been linked to previously undocumented tactics, techniques and procedures (TTPs), including a new remote access trojan called ROMCOM RAT on compromised systems.\nThe new findings come from Palo Alto Networks' Unit 42 threat intelligence team, which is tracking the double extortion ransomware group under the constellation-themed moniker",
-          "link": "https://thehackernews.com/2022/08/hackers-behind-cuba-ransomware-attacks.html",
-          "publishedOn": "2022-08-11T10:21:44.076Z",
-          "wordCount": null,
-          "title": "Hackers Behind Cuba Ransomware Attacks Using New RAT Malware",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "tag:blogger.com,1999:blog-4802841478634147276.post-5314333394128116707",
-          "author": "noreply@blogger.com (Ravie Lakshmanan)",
-          "description": "Cybersecurity researchers have disclosed multiple severe security vulnerabilities asset management platform Device42 that, if successfully exploited, could enable a malicious actor to seize control of affected systems.\n\"By exploiting these issues, an attacker could impersonate other users, obtain admin-level access in the application (by leaking session with an LFI) or obtain full access to the",
-          "link": "https://thehackernews.com/2022/08/critical-flaws-disclosed-in-device42-it.html",
-          "publishedOn": "2022-08-11T09:23:14.762Z",
-          "wordCount": null,
-          "title": "Critical Flaws Disclosed in Device42 IT Asset Management Software",
           "itunes": {},
           "imageUrl": null
         }
