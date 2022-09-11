@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-09-11T07:23:57.967Z</updated>
+    <updated>2022-09-11T13:38:23.273Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
@@ -4203,37 +4203,6 @@ The 29-year-old individual is "suspected of involvement in concealing criminal f
         <updated>2022-08-13T12:41:16.702Z</updated>
         <summary type="html"><![CDATA[A pair of reports from cybersecurity firms SEKOIA and Trend Micro sheds light on a new campaign undertaken by a Chinese threat actor named Lucky Mouse that involves leveraging a trojanized version of a cross-platform messaging app to backdoor systems.
 Infection chains leverage a chat application called MiMi, with its installer files compromised to download and install HyperBro samples for the]]></summary>
-        <author>
-            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cybercriminals Weaponizing Ransomware Data for BEC Attacks]]></title>
-        <id>https://www.darkreading.com/edge-threat-monitor/cybercriminals-weaponizing-ransomware-data-for-bec-attacks</id>
-        <link href="https://www.darkreading.com/edge-threat-monitor/cybercriminals-weaponizing-ransomware-data-for-bec-attacks"/>
-        <updated>2022-08-12T22:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Attacked once, victimized multiple times: Data marketplaces are making it easier for threat actors to find and use data exfiltrated during ransomware attacks in follow-up attacks.]]></summary>
-        <author>
-            <name>Edge Editors, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Patch Madness: Vendor Bug Advisories Are Broken, So Broken]]></title>
-        <id>https://www.darkreading.com/risk/patch-madness-vendor-bug-advisories-broken</id>
-        <link href="https://www.darkreading.com/risk/patch-madness-vendor-bug-advisories-broken"/>
-        <updated>2022-08-12T20:18:21.000Z</updated>
-        <summary type="html"><![CDATA[Duston Childs and Brian Gorenc of ZDI take the opportunity at Black Hat USA to break down the many vulnerability disclosure issues making patch prioritization a nightmare scenario for many orgs.]]></summary>
-        <author>
-            <name>Tara Seals, Managing Editor, News, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Researchers Uncover UEFI Secure Boot Bypass in 3 Microsoft Signed Boot Loaders]]></title>
-        <id>tag:blogger.com,1999:blog-4802841478634147276.post-7528758786209741104</id>
-        <link href="https://thehackernews.com/2022/08/researchers-uncover-uefi-secure-boot.html"/>
-        <updated>2022-08-12T20:02:30.378Z</updated>
-        <summary type="html"><![CDATA[A security feature bypass vulnerability has been uncovered in three signed third-party Unified Extensible Firmware Interface (UEFI) boot loaders that allow bypass of the UEFI Secure Boot feature.
-"These vulnerabilities can be exploited by mounting the EFI System Partition and replacing the existing bootloader with the vulnerable one, or modifying a UEFI variable to load the vulnerable loader]]></summary>
         <author>
             <name>noreply@blogger.com (Ravie Lakshmanan)</name>
         </author>
