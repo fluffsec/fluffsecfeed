@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-09-11T03:39:32.532Z</updated>
+    <updated>2022-09-11T07:23:57.967Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Iranian APT42 Launched Over 30 Espionage Attacks Against Activists and Dissidents]]></title>
+        <id>tag:blogger.com,1999:blog-4802841478634147276.post-418131438731389431</id>
+        <link href="https://thehackernews.com/2022/09/iranian-apt42-launched-over-30.html"/>
+        <updated>2022-09-11T04:21:00.000Z</updated>
+        <summary type="html"><![CDATA[A state-sponsored advanced persistent threat (APT) actor newly christened APT42 (formerly UNC788) has been attributed to over 30 confirmed espionage attacks against individuals and organizations of strategic interest to the Iranian government at least since 2015.
+Cybersecurity firm Mandiant said the group operates as the intelligence gathering arm of Iran's Islamic Revolutionary Guard Corps (]]></summary>
+        <author>
+            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[U.S. Imposes New Sanctions on Iran Over Cyberattack on Albania]]></title>
         <id>tag:blogger.com,1999:blog-4802841478634147276.post-1726196288048041518</id>
@@ -4225,26 +4236,6 @@ Infection chains leverage a chat application called MiMi, with its installer fil
 "These vulnerabilities can be exploited by mounting the EFI System Partition and replacing the existing bootloader with the vulnerable one, or modifying a UEFI variable to load the vulnerable loader]]></summary>
         <author>
             <name>noreply@blogger.com (Ravie Lakshmanan)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Feds: Zeppelin Ransomware Resurfaces with New Compromise, Encryption Tactics]]></title>
-        <id>https://kasperskycontenthub.com/threatpost-global/?p=180405</id>
-        <link href="https://threatpost.com/zeppelin-ransomware-resurfaces/180405/"/>
-        <updated>2022-08-12T18:20:38.000Z</updated>
-        <summary type="html"><![CDATA[The CISA has seen a resurgence of the malware targeting a range of verticals and critical infrastructure organizations by exploiting RDP, firewall vulnerabilities.]]></summary>
-        <author>
-            <name>Elizabeth Montalbano</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Software Supply Chain Chalks Up a Security Win With New Crypto Effort]]></title>
-        <id>https://www.darkreading.com/application-security/software-supply-chain-chalks-up-security-win-with-crypto-effort</id>
-        <link href="https://www.darkreading.com/application-security/software-supply-chain-chalks-up-security-win-with-crypto-effort"/>
-        <updated>2022-08-12T16:53:57.000Z</updated>
-        <summary type="html"><![CDATA[GitHub, the owner of the Node Package Manager (npm), proposes cryptographically linking source code and JavaScript packages in an effort to shore up supply chain security.]]></summary>
-        <author>
-            <name>Robert Lemos, Contributing Writer, Dark Reading</name>
         </author>
     </entry>
 </feed>
