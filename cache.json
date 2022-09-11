@@ -2966,36 +2966,6 @@
             "length": "0"
           },
           "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt58481326324d6911/60b1e9a55d34de550780a990/Robert-Lemos.png"
-        },
-        {
-          "id": "https://www.darkreading.com/endpoint/ransomware-sova-android-banking-trojan",
-          "author": "Nathan Eddy, Contributing Writer, Dark Reading",
-          "description": "Unusually, SOVA, which targets US users, now allows lateral movement for deeper data access. Version 5 adds an encryption capability.",
-          "link": "https://www.darkreading.com/endpoint/ransomware-sova-android-banking-trojan",
-          "publishedOn": "2022-08-12T14:58:10.000Z",
-          "wordCount": 13221,
-          "title": "Novel Ransomware Comes to the Sophisticated SOVA Android Banking Trojan",
-          "enclosure": {
-            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltf8b5a94afa71c53a/628e3799daa31875dc0c9fc0/NathanEddyHeadshot.PNG",
-            "type": "image/*",
-            "length": "0"
-          },
-          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltf8b5a94afa71c53a/628e3799daa31875dc0c9fc0/NathanEddyHeadshot.PNG"
-        },
-        {
-          "id": "https://www.darkreading.com/cloud/how-to-clear-security-obstacles-and-achieve-cloud-nirvana",
-          "author": "Arvin Bansal, Senior Director, Cyber, Governance, and Risk, AmerisourceBergen",
-          "description": "Back-end complexity of cloud computing means there's plenty of potential for security problems. Here's how to get a better handle on SaaS application security.",
-          "link": "https://www.darkreading.com/cloud/how-to-clear-security-obstacles-and-achieve-cloud-nirvana",
-          "publishedOn": "2022-08-12T14:00:00.000Z",
-          "wordCount": 13804,
-          "title": "How to Clear Security Obstacles and Achieve Cloud Nirvana",
-          "enclosure": {
-            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltf2af3ebe0a04f7dd/62e176c56b0f32698945f318/Arvin_B.png",
-            "type": "image/*",
-            "length": "0"
-          },
-          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltf2af3ebe0a04f7dd/62e176c56b0f32698945f318/Arvin_B.png"
         }
       ]
     },
@@ -3030,18 +3000,7 @@
       "title": "Public KB",
       "feedUrl": "https://kb.pulsesecure.net/pkb_RSS?q=Pulse_Security_Advisories__kav;10",
       "siteUrl": "https://kb.pulsesecure.net/?q=Pulse_Security_Advisories__kav%3B10&l=en_US",
-      "articles": [
-        {
-          "id": "CVE-2022-23852-Expat-aka-libexpat-before-2-4-4-has-a-signed-integer-overflow-in-XML-GetBuffer-for-configurations-with-a-nonzero-XML-CONTEXT-BYTES",
-          "author": null,
-          "description": "",
-          "link": "https://kb.pulsesecure.net/articles/Pulse_Security_Advisories/CVE-2022-23852-Expat-aka-libexpat-before-2-4-4-has-a-signed-integer-overflow-in-XML-GetBuffer-for-configurations-with-a-nonzero-XML-CONTEXT-BYTES",
-          "publishedOn": "2022-08-12T13:29:37.000Z",
-          "wordCount": 3671,
-          "title": "SA45038 - CVE-2022-23852 - Expat (aka libexpat) before 2.4.4 has a signed integer overflow in XML_GetBuffer, for configurations with a nonzero XML_CONTEXT_BYTES",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Microsoft Security Response Center",
@@ -3591,26 +3550,6 @@
           "wordCount": 2214,
           "title": "Initial Access Broker Phishing",
           "imageUrl": "https://blog.knowbe4.com/hubfs/Initial%20Access%20Broker%20Phishing.jpg#keepProtocol"
-        },
-        {
-          "id": "https://blog.knowbe4.com/u.s.-government-warns-of-increased-texting-scams-as-mobile-attacks-are-up-100",
-          "author": "Stu Sjouwerman",
-          "description": "Cyberattacks via SMS messaging are on the rise, and are having such an impact, the Federal Communications Commission has released an advisory on Robotext phishing attacks (or smishing).",
-          "link": "https://blog.knowbe4.com/u.s.-government-warns-of-increased-texting-scams-as-mobile-attacks-are-up-100",
-          "publishedOn": "2022-08-12T12:47:48.000Z",
-          "wordCount": 2121,
-          "title": "U.S. Government Warns of Increased Texting Scams as Mobile Attacks are Up 100%",
-          "imageUrl": "https://blog.knowbe4.com/hubfs/Stock%20images/Closeup%20of%20hands%20of%20young%20man%20in%20checkered%20shirt%20using%20mobile%20phone%20while%20his%20partners%20arguing.jpeg#keepProtocol"
-        },
-        {
-          "id": "https://blog.knowbe4.com/massive-network-of-over-10000-fake-investment-sites-targets-europe",
-          "author": "Stu Sjouwerman",
-          "description": "Using a mix of compromised social media accounts, social engineering, call center agents, and some convincing websites, this latest scam seeks to get victims to repeatedly “invest”.",
-          "link": "https://blog.knowbe4.com/massive-network-of-over-10000-fake-investment-sites-targets-europe",
-          "publishedOn": "2022-08-12T12:47:44.000Z",
-          "wordCount": 2167,
-          "title": "Massive Network of Over 10,000 Fake Investment Sites Targets Europe",
-          "imageUrl": "https://blog.knowbe4.com/hubfs/social-suggested-images/cybersecurity-2.jpg#keepProtocol"
         }
       ]
     },
@@ -4870,61 +4809,6 @@
           "publishedOn": "2022-08-12T20:02:30.378Z",
           "wordCount": null,
           "title": "Researchers Uncover UEFI Secure Boot Bypass in 3 Microsoft Signed Boot Loaders",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "tag:blogger.com,1999:blog-4802841478634147276.post-1365159775398025078",
-          "author": "noreply@blogger.com (Ravie Lakshmanan)",
-          "description": "Security flaws have been identified in Xiaomi Redmi Note 9T and Redmi Note 11 models, which could be exploited to disable the mobile payment mechanism and even forge transactions via a rogue Android app installed on the devices.\nCheck Point said it found the flaws in devices powered by MediaTek chipsets during a security analysis of the Chinese handset maker's \"Kinibi\" Trusted Execution",
-          "link": "https://thehackernews.com/2022/08/xiaomi-phones-with-mediatek-chips-found.html",
-          "publishedOn": "2022-08-12T12:20:11.932Z",
-          "wordCount": null,
-          "title": "Xiaomi Phones with MediaTek Chips Found Vulnerable to Forged Payments",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "tag:blogger.com,1999:blog-4802841478634147276.post-1261963925967864250",
-          "author": "noreply@blogger.com (Ravie Lakshmanan)",
-          "description": "The U.S. State Department on Thursday announced a $10 million reward for information related to five individuals associated with the Conti ransomware group.\nThe reward offer, first reported by WIRED, is also notable for the fact that it marks the first time the face of a Conti associate, known as \"Target,\" has been unmasked. The four other associates have been referred to as \"Tramp,\" \"Dandis,\" \"",
-          "link": "https://thehackernews.com/2022/08/us-government-offers-10-million-reward.html",
-          "publishedOn": "2022-08-12T10:41:33.201Z",
-          "wordCount": null,
-          "title": "U.S. Government Offers $10 Million Reward for Information on Conti Ransomware Gang",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "tag:blogger.com,1999:blog-4802841478634147276.post-4048061893197538365",
-          "author": "noreply@blogger.com (Ravie Lakshmanan)",
-          "description": "Social media company Meta said it will begin testing end-to-end encryption (E2EE) on its Messenger platform this week for select users as the default option, as the company continues to slowly add security layers to its various chat services.\n\"If you're in the test group, some of your most frequent chats may be automatically end-to-end encrypted, which means you won't have to opt in to the",
-          "link": "https://thehackernews.com/2022/08/facebook-testing-default-end-to-end.html",
-          "publishedOn": "2022-08-12T09:09:09.835Z",
-          "wordCount": null,
-          "title": "Facebook Testing Default End-to-End Encryption and Encrypted Backup in Messenger",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "tag:blogger.com,1999:blog-4802841478634147276.post-7317773155624376875",
-          "author": "noreply@blogger.com (Ravie Lakshmanan)",
-          "description": "Cisco on Wednesday released patches to contain multiple flaws in its software that could be abused to leak sensitive information on susceptible appliances.\nThe issue, assigned the identifier CVE-2022-20866 (CVSS score: 7.4), has been described as a \"logic error\" when handling RSA keys on devices running Cisco Adaptive Security Appliance (ASA) Software and Cisco Firepower Threat Defense (FTD)",
-          "link": "https://thehackernews.com/2022/08/cisco-patches-high-severity.html",
-          "publishedOn": "2022-08-12T08:48:31.520Z",
-          "wordCount": null,
-          "title": "Cisco Patches High-Severity Vulnerability Affecting ASA and Firepower Solutions",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "tag:blogger.com,1999:blog-4802841478634147276.post-2962482550309082817",
-          "author": "noreply@blogger.com (The Hacker News)",
-          "description": "Back when the internet consisted of a handful of computers networked together across a few research institutions, nobody could have imagined that it would one day form the backbone of a new digital way of life. And that probably explains why none of the researchers who thought up its core technologies — things like packet switching and TCP/IP — gave much consideration to the need to secure the",
-          "link": "https://thehackernews.com/2022/08/fast-and-secure-vpn-on-budget-private.html",
-          "publishedOn": "2022-08-12T08:36:31.045Z",
-          "wordCount": null,
-          "title": "Fast and Secure VPN on a Budget? Private Internet Access VPN Has You Covered",
           "itunes": {},
           "imageUrl": null
         }
