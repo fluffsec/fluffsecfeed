@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-09-12T07:43:19.634Z</updated>
+    <updated>2022-09-12T13:53:07.645Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Gaming-Related Phishing Trends]]></title>
+        <id>https://blog.knowbe4.com/gaming-related-phishing-trends</id>
+        <link href="https://blog.knowbe4.com/gaming-related-phishing-trends"/>
+        <updated>2022-09-12T13:37:39.000Z</updated>
+        <summary type="html"><![CDATA[Researchers at Kaspersky have found that the vast majority of gaming-related malware lures are targeted at Minecraft players. Roblox came in at a distant second, and the researchers note that both of these games are frequently played by children, “who have much less knowledge of cybersecurity due to a lack of experience.”]]></summary>
+        <author>
+            <name>Stu Sjouwerman</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Report Highlights Prevalence of Software Supply Chain Risks]]></title>
         <id>https://www.darkreading.com/application-security/report-highlights-prevalence-of-software-supply-chain-risks</id>
@@ -14,6 +24,39 @@
         <summary type="html"><![CDATA[Multiclient research report shows organizations are significantly increasing efforts to secure their supply chains in response to software supply chain attacks.]]></summary>
         <author>
             <name>Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hacktivist Group GhostSec Compromises 55 Berghof PLCs Across Israel]]></title>
+        <id>tag:blogger.com,1999:blog-4802841478634147276.post-4233800993076824354</id>
+        <link href="https://thehackernews.com/2022/09/palestinian-hacktivist-group-ghostsec.html"/>
+        <updated>2022-09-12T11:18:00.000Z</updated>
+        <summary type="html"><![CDATA[A hacktivist collective called GhostSec has claimed credit for compromising as many as 55 Berghof programmable logic controllers (PLCs) used by Israeli organizations as part of a "Free Palestine" campaign.
+Industrial cybersecurity firm OTORIO, which dug deeper into the incident, said the breach was made possible owing to the fact that the PLCs were accessible through the Internet and were]]></summary>
+        <author>
+            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Vulnerability Scanning is Critical for SOC 2]]></title>
+        <id>tag:blogger.com,1999:blog-4802841478634147276.post-670541127335065473</id>
+        <link href="https://thehackernews.com/2022/09/why-vulnerability-scanning-is-critical.html"/>
+        <updated>2022-09-12T11:04:00.000Z</updated>
+        <summary type="html"><![CDATA[SOC 2 may be a voluntary standard, but for today's security-conscious business, it's a minimal requirement when considering a SaaS provider. Compliance can be a long and complicated process, but a scanner like Intruder makes it easy to tick the vulnerability management box.
+Security is critical for all organisations, including those that outsource key business operations to third parties like]]></summary>
+        <author>
+            <name>noreply@blogger.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[High-Severity Firmware Security Flaws Left Unpatched in HP Enterprise Devices]]></title>
+        <id>tag:blogger.com,1999:blog-4802841478634147276.post-8950011501899265963</id>
+        <link href="https://thehackernews.com/2022/09/high-severity-firmware-security-flaws.html"/>
+        <updated>2022-09-12T07:06:00.000Z</updated>
+        <summary type="html"><![CDATA[A number of firmware security flaws uncovered in HP's business-oriented high-end notebooks continue to be left unpatched in some devices even months after public disclosure.
+Binarly, which first revealed details of the issues at the Black Hat USA conference in mid-August 2022, said the vulnerabilities "can't be detected by firmware integrity monitoring systems due to limitations of the Trusted]]></summary>
+        <author>
+            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
         </author>
     </entry>
     <entry>
