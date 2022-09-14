@@ -453,6 +453,21 @@
       "siteUrl": "https://www.darkreading.com",
       "articles": [
         {
+          "id": "https://www.darkreading.com/cloud/teamtnt-docker-containers-malicious-cloud-images",
+          "author": "Jai Vijayan, Contributing Writer, Dark Reading",
+          "description": "Honeypot activity exposed two credentials that the threat actor is using to host and distribute malicious container images, security vendor says.",
+          "link": "https://www.darkreading.com/cloud/teamtnt-docker-containers-malicious-cloud-images",
+          "publishedOn": "2022-09-14T13:00:00.000Z",
+          "wordCount": 10858,
+          "title": "TeamTNT Hits 150K Docker Containers via Malicious Cloud Images",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt02d79fb9a44a4258/60b1e9dd2a25046b35110696/Jai-Vijayan.jpeg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt02d79fb9a44a4258/60b1e9dd2a25046b35110696/Jai-Vijayan.jpeg"
+        },
+        {
           "id": "https://www.darkreading.com/edge-articles/key-takeaways-from-the-twitter-whistleblower-s-testimony",
           "author": "Edge Editors, Dark Reading",
           "description": "Twitter did not know what data it had nor who had access to it, Peiter \"Mudge\" Zatko told Congressional lawmakers during a Senate panel hearing.",
@@ -3166,21 +3181,6 @@
           "wordCount": 11466,
           "title": "SEPT. 7-9: Ukraine, Election, AI, Cybercrime, 5G Among Topics Explored by 125+ Speakers at 13th Billington Cybersecurity Summit",
           "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
-        },
-        {
-          "id": "https://www.darkreading.com/threat-intelligence/def-con-30-hackers-come-home-to-vibrant-community",
-          "author": "Becky Bracken, Editor, Dark Reading",
-          "description": "After 30 years and a brief pandemic hiatus, DEF CON returns with \"Hacker Homecoming,\" an event that put the humans behind cybersecurity first.",
-          "link": "https://www.darkreading.com/threat-intelligence/def-con-30-hackers-come-home-to-vibrant-community",
-          "publishedOn": "2022-08-15T21:28:15.000Z",
-          "wordCount": 13989,
-          "title": "DEF CON 30: Hackers Come Home to Vibrant Community",
-          "enclosure": {
-            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt8e7bd143d726930b/627271268681151716941064/BeckyB.jpg",
-            "type": "image/*",
-            "length": "0"
-          },
-          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt8e7bd143d726930b/627271268681151716941064/BeckyB.jpg"
         }
       ]
     },
@@ -3833,6 +3833,39 @@
       "feedUrl": "https://thehackernews.com/feeds/posts/default",
       "siteUrl": "https://thehackernews.com/",
       "articles": [
+        {
+          "id": "tag:blogger.com,1999:blog-4802841478634147276.post-5718087235922080208",
+          "author": "noreply@blogger.com (Ravie Lakshmanan)",
+          "description": "A Linux variant of a backdoor known as SideWalk was used to target a Hong Kong university in February 2021, underscoring the cross-platform abilities of the implant. \nSlovak cybersecurity firm ESET, which detected the malware in the university's network, attributed the backdoor to a nation-state actor dubbed SparklingGoblin. The unnamed university is said to have been already targeted by the",
+          "link": "https://thehackernews.com/2022/09/sparklinggoblin-apt-hackers-using-new.html",
+          "publishedOn": "2022-09-14T10:20:00.000Z",
+          "wordCount": null,
+          "title": "SparklingGoblin APT Hackers Using New Linux Variant of SideWalk Backdoor",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "tag:blogger.com,1999:blog-4802841478634147276.post-8988961500197313952",
+          "author": "noreply@blogger.com (The Hacker News)",
+          "description": "According to the 2022 Malwarebytes Threat review, 40M Windows business computers' threats were detected in 2021. And malware analysis is necessary to combat and avoid this kind of attack. In this article, we will break down the goal of malicious programs' investigation and how to do malware analysis with a sandbox. \nWhat is malware analysis? \nMalware analysis is a process of studying a malicious",
+          "link": "https://thehackernews.com/2022/09/how-to-do-malware-analysis.html",
+          "publishedOn": "2022-09-14T10:10:00.000Z",
+          "wordCount": null,
+          "title": "How to Do Malware Analysis?",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "tag:blogger.com,1999:blog-4802841478634147276.post-5315331418062913963",
+          "author": "noreply@blogger.com (Ravie Lakshmanan)",
+          "description": "Palo Alto Networks Unit 42 has detailed the inner workings of a malware called OriginLogger, which has been touted as a successor to the widely used information stealer and remote access trojan (RAT) known as Agent Tesla.\nA .NET based keylogger and remote access, Agent Tesla has had a long-standing presence in the threat landscape, allowing malicious actors to gain remote access to targeted",
+          "link": "https://thehackernews.com/2022/09/researchers-detail-originlogger-rat.html",
+          "publishedOn": "2022-09-14T08:51:00.000Z",
+          "wordCount": null,
+          "title": "Researchers Detail OriginLogger RAT — Successor to Agent Tesla Malware",
+          "itunes": {},
+          "imageUrl": null
+        },
         {
           "id": "tag:blogger.com,1999:blog-4802841478634147276.post-8127425728101256444",
           "author": "noreply@blogger.com (Ravie Lakshmanan)",
