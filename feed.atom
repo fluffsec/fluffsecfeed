@@ -2,10 +2,128 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-09-14T13:57:00.814Z</updated>
+    <updated>2022-09-14T19:22:43.843Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Use SSH Keys and 1Password to Sign Git Commits]]></title>
+        <id>https://www.darkreading.com/dr-tech/how-to-use-ssh-keys-and-1password-to-sign-git-commits</id>
+        <link href="https://www.darkreading.com/dr-tech/how-to-use-ssh-keys-and-1password-to-sign-git-commits"/>
+        <updated>2022-09-14T18:39:00.000Z</updated>
+        <summary type="html"><![CDATA[This Tech Tip walks through the steps to set up signed commits with SSH keys stored in 1Password.]]></summary>
+        <author>
+            <name>Nathan Eddy, Contributing Writer, Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cisco Attempt Attributed to Lapsus$ Group]]></title>
+        <id>https://blog.knowbe4.com/cisco-attempt-attributed-to-lapsus-group</id>
+        <link href="https://blog.knowbe4.com/cisco-attempt-attributed-to-lapsus-group"/>
+        <updated>2022-09-14T16:40:18.000Z</updated>
+        <summary type="html"><![CDATA[Security researchers at Cisco Talos have issued an update on the cyberattack Cisco sustained earlier this year. The attack began with a phishing attack against a Cisco employee, which led to the attackers stealing data and attempting to extort the company with the threat of releasing the stolen information.]]></summary>
+        <author>
+            <name>Stu Sjouwerman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Unconventional Security Awareness Advice]]></title>
+        <id>https://blog.knowbe4.com/unconventional-security-awareness-advice</id>
+        <link href="https://blog.knowbe4.com/unconventional-security-awareness-advice"/>
+        <updated>2022-09-14T16:37:41.000Z</updated>
+        <summary type="html"><![CDATA[October is Cybersecurity Awareness Month, and you are undoubtedly being bombarded with some fantastic advice on how to stay cyber safe.]]></summary>
+        <author>
+            <name>Javvad Malik</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SparklingGoblin Updates Linux Version of SideWalk Backdoor in Ongoing Cyber Campaign]]></title>
+        <id>https://www.darkreading.com/attacks-breaches/sparklinggoblin-updates-linux-version-of-sidewalk-backdoor-cyber-campaign</id>
+        <link href="https://www.darkreading.com/attacks-breaches/sparklinggoblin-updates-linux-version-of-sidewalk-backdoor-cyber-campaign"/>
+        <updated>2022-09-14T16:15:34.000Z</updated>
+        <summary type="html"><![CDATA[Researchers link the APT to an attack on a Hong Kong university, which compromised multiple key servers using advanced Linux malware.]]></summary>
+        <author>
+            <name>Elizabeth Montalbano, Contributor, Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CISA Adds Two Known Exploited Vulnerabilities to Catalog]]></title>
+        <id>17971 at https://us-cert.cisa.gov</id>
+        <link href="https://us-cert.cisa.gov/ncas/current-activity/2022/09/14/cisa-adds-two-known-exploited-vulnerabilities-catalog"/>
+        <updated>2022-09-14T15:12:45.000Z</updated>
+        <summary type="html"><![CDATA[Original release date: September 14, 2022
+CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities Catalog, based on evidence of active exploitation. These types of vulnerabilities are a frequent attack vector for malicious cyber actors and pose significant risk to the federal enterprise. Note: to view the newly added vulnerabilities in the catalog, click on the arrow in the “Date Added to Catalog” column, which will sort by descending dates.
+Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the Known Exploited Vulnerabilities Catalog as a living list of known CVEs that carry significant risk to the federal enterprise. BOD 22-01 requires FCEB agencies to remediate identified vulnerabilities by the due date to protect FCEB networks against active threats. See the BOD 22-01 Fact Sheet for more information.
+Although BOD 22-01 only applies to FCEB agencies, CISA strongly urges all organizations to reduce their exposure to cyberattacks by prioritizing timely remediation of Catalog vulnerabilities as part of their vulnerability management practice. CISA will continue to add vulnerabilities to the Catalog that meet the specified criteria.
+This product is provided subject to this Notification and this Privacy & Use policy.]]></summary>
+        <author>
+            <name>CISA</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AA22-257A: Iranian Islamic Revolutionary Guard Corps-Affiliated Cyber Actors Exploiting Vulnerabilities for Data Extortion and Disk Encryption for Ransom Operations]]></title>
+        <id>17966 at https://us-cert.cisa.gov</id>
+        <link href="https://us-cert.cisa.gov/ncas/alerts/aa22-257a"/>
+        <updated>2022-09-14T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Original release date: September 14, 2022
+Summary
+Actions to take today to protect against ransom operations:
+known exploited vulnerabilities.
+This joint Cybersecurity Advisory (CSA) is the result of an analytic effort among the Federal Bureau of Investigation (FBI), the Cybersecurity and Infrastructure Security Agency (CISA), the National Security Agency (NSA), U.S. Cyber Command (USCC) - Cyber National Mission Force (CNMF), the Department of the Treasury (Treasury), the Australian Cyber Security Centre (ACSC), the Canadian Centre for Cyber Security (CCCS), and the United Kingdom’s National Cyber Security Centre (NCSC) to highlight continued malicious cyber activity by advanced persistent threat (APT) actors that the authoring agencies assess are affiliated with the Iranian Government’s I…]]></summary>
+        <author>
+            <name>CISA</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Iranian Islamic Revolutionary Guard Corps Affiliated Cyber Actors Exploiting Vulnerabilities for Data Extortion and Disk Encryption for Ransom Operations]]></title>
+        <id>17970 at https://us-cert.cisa.gov</id>
+        <link href="https://us-cert.cisa.gov/ncas/current-activity/2022/09/14/iranian-islamic-revolutionary-guard-corps-affiliated-cyber-actors"/>
+        <updated>2022-09-14T14:33:50.000Z</updated>
+        <summary type="html"><![CDATA[Original release date: September 14, 2022
+CISA, Federal Bureau of Investigation (FBI), National Security Agency (NSA), U.S. Cyber Command (USCC) - Cyber National Mission Force (CNMF), Department of the Treasury, Australian Cyber Security Centre (ACSC), Canadian Centre for Cyber Security (CCCS), and United Kingdom’s National Cyber Security Centre (NCSC) have released a joint Cybersecurity Advisory (CSA), Iranian Islamic Revolutionary Guard Corps Affiliated Cyber Actors Exploiting Vulnerabilities for Data Extortion and Disk Encryption for Ransom Operations. This advisory updates previous joint reporting from November 2021, to highlight continued malicious cyber activity by advanced persistent threat (APT) actors that the authoring agencies now assess are associated with the Iranian Islamic Revolutionary Guard Corps (IRGC).
+The authoring agencies urge network defenders to examine their current cybersecurity posture and apply the recommended mitigations in this joint CSA, which include:
+Patch all systems and prioritize remediating known exploited vulnerabilities.
+Enforce multifactor authentication (MFA).
+Secure Remote Desktop Protocol (RDP) and other risky services.
+Make offline backups of your data.
+See Iranian Islamic Revolutionary Guard Corps Affiliated Cyber Actors Exploiting Vulnerabilities for Data Extortion and Disk Encryption for Ransom Operations and joint CSA Iranian Government-Sponsored APT Cyber Actors Exploiting Microsoft Exchange and Fortinet Vulnerabilities in Furtherance of Malicious Activities for information on these Iranian government-sponsored APT actors’ tactics and techniques, indicators of compromise, and recommended mitigations. Additionally, review StopRansomware.gov for more guidance on ransomware protection, detection, and response.
+For more information on state-sponsored Iranian malicious cyber activity, see CISA’s Iran Cyber Threat Overview and Advisories webpage.
+This product is provided subject to this Notification and this Privacy & Use policy.]]></summary>
+        <author>
+            <name>CISA</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lorenz Ransomware Exploit Mitel VoIP Systems to Breach Business Networks]]></title>
+        <id>tag:blogger.com,1999:blog-4802841478634147276.post-1662652119248039636</id>
+        <link href="https://thehackernews.com/2022/09/lorenz-ransomware-exploit-mitel-voip.html"/>
+        <updated>2022-09-14T14:04:00.000Z</updated>
+        <summary type="html"><![CDATA[The operators behind the Lornenz ransomware operation have been observed exploiting a now-patched critical security flaw in Mitel MiVoice Connect to obtain a foothold into target environments for follow-on malicious activities.
+"Initial malicious activity originated from a Mitel appliance sitting on the network perimeter," researchers from cybersecurity firm Arctic Wolf said in a report]]></summary>
+        <author>
+            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cyberattacks Are Now Increasingly Hands-On, Break Out More Quickly]]></title>
+        <id>https://www.darkreading.com/threat-intelligence/attacks-increasingly-hands-on-break-out-more-quickly</id>
+        <link href="https://www.darkreading.com/threat-intelligence/attacks-increasingly-hands-on-break-out-more-quickly"/>
+        <updated>2022-09-14T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Interactive intrusion campaigns jumped nearly 50%, while the breakout time between initial access and lateral movement shrank to less than 90 minutes, putting pressure on defenders to react quickly.]]></summary>
+        <author>
+            <name>Robert Lemos, Contributing Writer, Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[To Ease the Cybersecurity Worker Shortage, Broaden the Candidate Pipeline]]></title>
+        <id>https://www.darkreading.com/careers-and-people/to-ease-the-cybersecurity-worker-shortage-broaden-the-candidate-pipeline</id>
+        <link href="https://www.darkreading.com/careers-and-people/to-ease-the-cybersecurity-worker-shortage-broaden-the-candidate-pipeline"/>
+        <updated>2022-09-14T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[With enough passion, intelligence, and effort, anyone can be a successful cybersecurity professional, regardless of education or background.]]></summary>
+        <author>
+            <name>Joshua Scott, Head of Information Security and IT, Postman</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[TeamTNT Hits 150K Docker Containers via Malicious Cloud Images]]></title>
         <id>https://www.darkreading.com/cloud/teamtnt-docker-containers-malicious-cloud-images</id>
@@ -4569,28 +4687,6 @@ Dubbed "Evil PLC" attack by industrial security firm Claroty, the issue impacts 
         <summary type="html"><![CDATA[Microsoft on Monday revealed it took steps to disrupt phishing operations undertaken by a "highly persistent threat actor" whose objectives align closely with Russian state interests.
 The company is tracking the espionage-oriented activity cluster under its chemical element-themed moniker SEABORGIUM, which it said overlaps with a hacking group also known as Callisto, COLDRIVER, and TA446.
 "]]></summary>
-        <author>
-            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Russian State Hackers Continue to Attack Ukrainian Entities with Infostealer Malware]]></title>
-        <id>tag:blogger.com,1999:blog-4802841478634147276.post-2972407472788545719</id>
-        <link href="https://thehackernews.com/2022/08/russian-state-hackers-continue-to.html"/>
-        <updated>2022-08-16T06:36:41.807Z</updated>
-        <summary type="html"><![CDATA[Russian state-sponsored actors are continuing to strike Ukrainian entities with information-stealing malware as part of what's suspected to be an espionage operation.
-Symantec, a division of Broadcom Software, attributed the malicious campaign to a threat actor tracked Shuckworm, also known as Actinium, Armageddon, Gamaredon, Primitive Bear, and Trident Ursa. The findings have been corroborated]]></summary>
-        <author>
-            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nearly 1,900 Signal Messenger Accounts Potentially Compromised in Twilio Hack]]></title>
-        <id>tag:blogger.com,1999:blog-4802841478634147276.post-6655338379302455558</id>
-        <link href="https://thehackernews.com/2022/08/nearly-1900-signal-messenger-accounts.html"/>
-        <updated>2022-08-16T05:42:11.753Z</updated>
-        <summary type="html"><![CDATA[Popular end-to-end encrypted messaging service Signal on Monday disclosed the cyberattack aimed at Twilio earlier this month may have exposed the phone numbers of roughly 1,900 users.
-"For about 1,900 users, an attacker could have attempted to re-register their number to another device or learned that their number was registered to Signal," the company said. "All users can rest assured that]]></summary>
         <author>
             <name>noreply@blogger.com (Ravie Lakshmanan)</name>
         </author>

@@ -6,6 +6,16 @@
       "siteUrl": "https://us-cert.cisa.gov/",
       "articles": [
         {
+          "id": "17966 at https://us-cert.cisa.gov",
+          "author": "CISA",
+          "description": "Original release date: September 14, 2022\nSummary\nActions to take today to protect against ransom operations:\nknown exploited vulnerabilities.\nThis joint Cybersecurity Advisory (CSA) is the result of an analytic effort among the Federal Bureau of Investigation (FBI), the Cybersecurity and Infrastructure Security Agency (CISA), the National Security Agency (NSA), U.S. Cyber Command (USCC) - Cyber National Mission Force (CNMF), the Department of the Treasury (Treasury), the Australian Cyber Security Centre (ACSC), the Canadian Centre for Cyber Security (CCCS), and the United Kingdom’s National Cyber Security Centre (NCSC) to highlight continued malicious cyber activity by advanced persistent threat (APT) actors that the authoring agencies assess are affiliated with the Iranian Government’s I…",
+          "link": "https://us-cert.cisa.gov/ncas/alerts/aa22-257a",
+          "publishedOn": "2022-09-14T15:00:00.000Z",
+          "wordCount": 4400,
+          "title": "AA22-257A: Iranian Islamic Revolutionary Guard Corps-Affiliated Cyber Actors Exploiting Vulnerabilities for Data Extortion and Disk Encryption for Ransom Operations",
+          "imageUrl": null
+        },
+        {
           "id": "17941 at https://us-cert.cisa.gov",
           "author": "CISA",
           "description": "Original release date: September 6, 2022\nSummary\nActions to take today to mitigate cyber threats from ransomware:\nknown exploited vulnerabilities.\nNote: This joint Cybersecurity Advisory (CSA) is part of an ongoing #StopRansomware effort to publish advisories for network defenders that detail various ransomware variants and ransomware threat actors. These #StopRansomware advisories include recently and historically observed tactics, techniques, and procedures (TTPs) and indicators of compromise (IOCs) to help organizations protect against ransomware. Visit stopransomware.gov to see all #StopRansomware advisories and to learn more about other ransomware threats and no-cost resources.\nThe Federal Bureau of Investigation (FBI), the Cybersecurity and Infrastructure Security Agency (CISA), and …",
@@ -32,6 +42,26 @@
       "feedUrl": "https://us-cert.cisa.gov/ncas/current-activity.xml",
       "siteUrl": "https://us-cert.cisa.gov/",
       "articles": [
+        {
+          "id": "17971 at https://us-cert.cisa.gov",
+          "author": "CISA",
+          "description": "Original release date: September 14, 2022\nCISA has added two new vulnerabilities to its Known Exploited Vulnerabilities Catalog, based on evidence of active exploitation. These types of vulnerabilities are a frequent attack vector for malicious cyber actors and pose significant risk to the federal enterprise. Note: to view the newly added vulnerabilities in the catalog, click on the arrow in the “Date Added to Catalog” column, which will sort by descending dates.\nBinding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the Known Exploited Vulnerabilities Catalog as a living list of known CVEs that carry significant risk to the federal enterprise. BOD 22-01 requires FCEB agencies to remediate identified vulnerabilities by the due date to protect FCEB networks against active threats. See the BOD 22-01 Fact Sheet for more information.\nAlthough BOD 22-01 only applies to FCEB agencies, CISA strongly urges all organizations to reduce their exposure to cyberattacks by prioritizing timely remediation of Catalog vulnerabilities as part of their vulnerability management practice. CISA will continue to add vulnerabilities to the Catalog that meet the specified criteria.\nThis product is provided subject to this Notification and this Privacy & Use policy.",
+          "link": "https://us-cert.cisa.gov/ncas/current-activity/2022/09/14/cisa-adds-two-known-exploited-vulnerabilities-catalog",
+          "publishedOn": "2022-09-14T15:12:45.000Z",
+          "wordCount": 1207,
+          "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
+          "imageUrl": null
+        },
+        {
+          "id": "17970 at https://us-cert.cisa.gov",
+          "author": "CISA",
+          "description": "Original release date: September 14, 2022\nCISA, Federal Bureau of Investigation (FBI), National Security Agency (NSA), U.S. Cyber Command (USCC) - Cyber National Mission Force (CNMF), Department of the Treasury, Australian Cyber Security Centre (ACSC), Canadian Centre for Cyber Security (CCCS), and United Kingdom’s National Cyber Security Centre (NCSC) have released a joint Cybersecurity Advisory (CSA), Iranian Islamic Revolutionary Guard Corps Affiliated Cyber Actors Exploiting Vulnerabilities for Data Extortion and Disk Encryption for Ransom Operations. This advisory updates previous joint reporting from November 2021, to highlight continued malicious cyber activity by advanced persistent threat (APT) actors that the authoring agencies now assess are associated with the Iranian Islamic Revolutionary Guard Corps (IRGC).\nThe authoring agencies urge network defenders to examine their current cybersecurity posture and apply the recommended mitigations in this joint CSA, which include:\nPatch all systems and prioritize remediating known exploited vulnerabilities.\nEnforce multifactor authentication (MFA).\nSecure Remote Desktop Protocol (RDP) and other risky services.\nMake offline backups of your data.\nSee Iranian Islamic Revolutionary Guard Corps Affiliated Cyber Actors Exploiting Vulnerabilities for Data Extortion and Disk Encryption for Ransom Operations and joint CSA Iranian Government-Sponsored APT Cyber Actors Exploiting Microsoft Exchange and Fortinet Vulnerabilities in Furtherance of Malicious Activities for information on these Iranian government-sponsored APT actors’ tactics and techniques, indicators of compromise, and recommended mitigations. Additionally, review StopRansomware.gov for more guidance on ransomware protection, detection, and response.\nFor more information on state-sponsored Iranian malicious cyber activity, see CISA’s Iran Cyber Threat Overview and Advisories webpage.\nThis product is provided subject to this Notification and this Privacy & Use policy.",
+          "link": "https://us-cert.cisa.gov/ncas/current-activity/2022/09/14/iranian-islamic-revolutionary-guard-corps-affiliated-cyber-actors",
+          "publishedOn": "2022-09-14T14:33:50.000Z",
+          "wordCount": 1307,
+          "title": "Iranian Islamic Revolutionary Guard Corps Affiliated Cyber Actors Exploiting Vulnerabilities for Data Extortion and Disk Encryption for Ransom Operations",
+          "imageUrl": null
+        },
         {
           "id": "17968 at https://us-cert.cisa.gov",
           "author": "CISA",
@@ -452,6 +482,66 @@
       "feedUrl": "https://www.darkreading.com/rss.xml",
       "siteUrl": "https://www.darkreading.com",
       "articles": [
+        {
+          "id": "https://www.darkreading.com/dr-tech/how-to-use-ssh-keys-and-1password-to-sign-git-commits",
+          "author": "Nathan Eddy, Contributing Writer, Dark Reading",
+          "description": "This Tech Tip walks through the steps to set up signed commits with SSH keys stored in 1Password.",
+          "link": "https://www.darkreading.com/dr-tech/how-to-use-ssh-keys-and-1password-to-sign-git-commits",
+          "publishedOn": "2022-09-14T18:39:00.000Z",
+          "wordCount": 11068,
+          "title": "How to Use SSH Keys and 1Password to Sign Git Commits",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltf8b5a94afa71c53a/628e3799daa31875dc0c9fc0/NathanEddyHeadshot.PNG",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltf8b5a94afa71c53a/628e3799daa31875dc0c9fc0/NathanEddyHeadshot.PNG"
+        },
+        {
+          "id": "https://www.darkreading.com/attacks-breaches/sparklinggoblin-updates-linux-version-of-sidewalk-backdoor-cyber-campaign",
+          "author": "Elizabeth Montalbano, Contributor, Dark Reading",
+          "description": "Researchers link the APT to an attack on a Hong Kong university, which compromised multiple key servers using advanced Linux malware.",
+          "link": "https://www.darkreading.com/attacks-breaches/sparklinggoblin-updates-linux-version-of-sidewalk-backdoor-cyber-campaign",
+          "publishedOn": "2022-09-14T16:15:34.000Z",
+          "wordCount": 13028,
+          "title": "SparklingGoblin Updates Linux Version of SideWalk Backdoor in Ongoing Cyber Campaign",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltbfd004d139d42d70/6303bca6236c2476a257760e/ElizabethMontalbano.jpg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltbfd004d139d42d70/6303bca6236c2476a257760e/ElizabethMontalbano.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/threat-intelligence/attacks-increasingly-hands-on-break-out-more-quickly",
+          "author": "Robert Lemos, Contributing Writer, Dark Reading",
+          "description": "Interactive intrusion campaigns jumped nearly 50%, while the breakout time between initial access and lateral movement shrank to less than 90 minutes, putting pressure on defenders to react quickly.",
+          "link": "https://www.darkreading.com/threat-intelligence/attacks-increasingly-hands-on-break-out-more-quickly",
+          "publishedOn": "2022-09-14T14:00:00.000Z",
+          "wordCount": 11960,
+          "title": "Cyberattacks Are Now Increasingly Hands-On, Break Out More Quickly",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt58481326324d6911/60b1e9a55d34de550780a990/Robert-Lemos.png",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt58481326324d6911/60b1e9a55d34de550780a990/Robert-Lemos.png"
+        },
+        {
+          "id": "https://www.darkreading.com/careers-and-people/to-ease-the-cybersecurity-worker-shortage-broaden-the-candidate-pipeline",
+          "author": "Joshua Scott, Head of Information Security and IT, Postman",
+          "description": "With enough passion, intelligence, and effort, anyone can be a successful cybersecurity professional, regardless of education or background.",
+          "link": "https://www.darkreading.com/careers-and-people/to-ease-the-cybersecurity-worker-shortage-broaden-the-candidate-pipeline",
+          "publishedOn": "2022-09-14T14:00:00.000Z",
+          "wordCount": 11955,
+          "title": "To Ease the Cybersecurity Worker Shortage, Broaden the Candidate Pipeline",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt2714acb0087fe06f/6308fd1930299902e9c52fc8/Joshua_Scott_Headshot_copy.png",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt2714acb0087fe06f/6308fd1930299902e9c52fc8/Joshua_Scott_Headshot_copy.png"
+        },
         {
           "id": "https://www.darkreading.com/cloud/teamtnt-docker-containers-malicious-cloud-images",
           "author": "Jai Vijayan, Contributing Writer, Dark Reading",
@@ -3277,6 +3367,26 @@
       "siteUrl": "https://blog.knowbe4.com",
       "articles": [
         {
+          "id": "https://blog.knowbe4.com/cisco-attempt-attributed-to-lapsus-group",
+          "author": "Stu Sjouwerman",
+          "description": "Security researchers at Cisco Talos have issued an update on the cyberattack Cisco sustained earlier this year. The attack began with a phishing attack against a Cisco employee, which led to the attackers stealing data and attempting to extort the company with the threat of releasing the stolen information.",
+          "link": "https://blog.knowbe4.com/cisco-attempt-attributed-to-lapsus-group",
+          "publishedOn": "2022-09-14T16:40:18.000Z",
+          "wordCount": 2244,
+          "title": "Cisco Attempt Attributed to Lapsus$ Group",
+          "imageUrl": "https://blog.knowbe4.com/hubfs/Cybercriminal%20Group.jpg#keepProtocol"
+        },
+        {
+          "id": "https://blog.knowbe4.com/unconventional-security-awareness-advice",
+          "author": "Javvad Malik",
+          "description": "October is Cybersecurity Awareness Month, and you are undoubtedly being bombarded with some fantastic advice on how to stay cyber safe.",
+          "link": "https://blog.knowbe4.com/unconventional-security-awareness-advice",
+          "publishedOn": "2022-09-14T16:37:41.000Z",
+          "wordCount": 2880,
+          "title": "Unconventional Security Awareness Advice",
+          "imageUrl": "https://blog.knowbe4.com/hubfs/Social%20Image%20Repository/Evangelist%20Blog%20Social%20Graphics/Evangelists-Javvad%20Malik.jpg#keepProtocol"
+        },
+        {
           "id": "https://blog.knowbe4.com/heads-up-online-scams-on-queen-elizabeths-death-is-here",
           "author": "Stu Sjouwerman",
           "description": "The Sun just reported that experts are sending a warning about online scams in relation to Queen Elizabeth's passing.",
@@ -3833,6 +3943,17 @@
       "feedUrl": "https://thehackernews.com/feeds/posts/default",
       "siteUrl": "https://thehackernews.com/",
       "articles": [
+        {
+          "id": "tag:blogger.com,1999:blog-4802841478634147276.post-1662652119248039636",
+          "author": "noreply@blogger.com (Ravie Lakshmanan)",
+          "description": "The operators behind the Lornenz ransomware operation have been observed exploiting a now-patched critical security flaw in Mitel MiVoice Connect to obtain a foothold into target environments for follow-on malicious activities.\n\"Initial malicious activity originated from a Mitel appliance sitting on the network perimeter,\" researchers from cybersecurity firm Arctic Wolf said in a report",
+          "link": "https://thehackernews.com/2022/09/lorenz-ransomware-exploit-mitel-voip.html",
+          "publishedOn": "2022-09-14T14:04:00.000Z",
+          "wordCount": null,
+          "title": "Lorenz Ransomware Exploit Mitel VoIP Systems to Breach Business Networks",
+          "itunes": {},
+          "imageUrl": null
+        },
         {
           "id": "tag:blogger.com,1999:blog-4802841478634147276.post-5718087235922080208",
           "author": "noreply@blogger.com (Ravie Lakshmanan)",
@@ -5150,28 +5271,6 @@
           "publishedOn": "2022-08-16T09:35:04.880Z",
           "wordCount": null,
           "title": "Microsoft Warns About Phishing Attacks by Russia-linked Hackers",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "tag:blogger.com,1999:blog-4802841478634147276.post-2972407472788545719",
-          "author": "noreply@blogger.com (Ravie Lakshmanan)",
-          "description": "Russian state-sponsored actors are continuing to strike Ukrainian entities with information-stealing malware as part of what's suspected to be an espionage operation.\nSymantec, a division of Broadcom Software, attributed the malicious campaign to a threat actor tracked Shuckworm, also known as Actinium, Armageddon, Gamaredon, Primitive Bear, and Trident Ursa. The findings have been corroborated",
-          "link": "https://thehackernews.com/2022/08/russian-state-hackers-continue-to.html",
-          "publishedOn": "2022-08-16T06:36:41.807Z",
-          "wordCount": null,
-          "title": "Russian State Hackers Continue to Attack Ukrainian Entities with Infostealer Malware",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "tag:blogger.com,1999:blog-4802841478634147276.post-6655338379302455558",
-          "author": "noreply@blogger.com (Ravie Lakshmanan)",
-          "description": "Popular end-to-end encrypted messaging service Signal on Monday disclosed the cyberattack aimed at Twilio earlier this month may have exposed the phone numbers of roughly 1,900 users.\n\"For about 1,900 users, an attacker could have attempted to re-register their number to another device or learned that their number was registered to Signal,\" the company said. \"All users can rest assured that",
-          "link": "https://thehackernews.com/2022/08/nearly-1900-signal-messenger-accounts.html",
-          "publishedOn": "2022-08-16T05:42:11.753Z",
-          "wordCount": null,
-          "title": "Nearly 1,900 Signal Messenger Accounts Potentially Compromised in Twilio Hack",
           "itunes": {},
           "imageUrl": null
         }
