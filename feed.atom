@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-09-14T03:44:43.523Z</updated>
+    <updated>2022-09-14T07:38:08.077Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Microsoft's Latest Security Update Fixes 64 New Flaws, Including a Zero-Day]]></title>
+        <id>tag:blogger.com,1999:blog-4802841478634147276.post-8127425728101256444</id>
+        <link href="https://thehackernews.com/2022/09/microsofts-latest-security-update-fixes.html"/>
+        <updated>2022-09-14T04:42:00.000Z</updated>
+        <summary type="html"><![CDATA[Tech giant Microsoft on Tuesday shipped fixes to quash 64 new security flaws across its software lineup, including one zero-day flaw that has been actively exploited in real-world attacks.
+Of the 64 bugs, five are rated Critical, 57 are rated Important, one is rated Moderate, and one is rated Low in severity. The patches are in addition to 16 vulnerabilities that Microsoft addressed in its]]></summary>
+        <author>
+            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Over 280,000 WordPress Sites Attacked Using WPGateway Plugin Zero-Day Vulnerability]]></title>
         <id>tag:blogger.com,1999:blog-4802841478634147276.post-7676094394259436646</id>
@@ -4548,37 +4559,6 @@ Symantec, a division of Broadcom Software, attributed the malicious campaign t
         <summary type="html"><![CDATA[After 30 years and a brief pandemic hiatus, DEF CON returns with "Hacker Homecoming," an event that put the humans behind cybersecurity first.]]></summary>
         <author>
             <name>Becky Bracken, Editor, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Most Q2 Attacks Targeted Old Microsoft Vulnerabilities]]></title>
-        <id>https://www.darkreading.com/attacks-breaches/most-attacks-in-q2-targeted-old-microsoft-vulnerabilities</id>
-        <link href="https://www.darkreading.com/attacks-breaches/most-attacks-in-q2-targeted-old-microsoft-vulnerabilities"/>
-        <updated>2022-08-15T18:56:45.000Z</updated>
-        <summary type="html"><![CDATA[The most heavily targeted flaw last quarter was a remote code execution vulnerability in Microsoft Office that was disclosed and patched four years ago.]]></summary>
-        <author>
-            <name>Jai Vijayan, Contributing Writer, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Transitioning From VPNs to Zero-Trust Access Requires Shoring Up Third-Party Risk Management]]></title>
-        <id>https://www.darkreading.com/dr-tech/transitioning-from-vpns-to-zero-trust-access-requires-shoring-p-third-party-risk-management</id>
-        <link href="https://www.darkreading.com/dr-tech/transitioning-from-vpns-to-zero-trust-access-requires-shoring-p-third-party-risk-management"/>
-        <updated>2022-08-15T18:35:07.000Z</updated>
-        <summary type="html"><![CDATA[ZTNA brings only marginal benefits unless you ensure that the third parties you authorize are not already compromised.]]></summary>
-        <author>
-            <name>Stephen Lawton, Contributing Writer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Credential Theft Is (Still) A Top Attack Method]]></title>
-        <id>tag:blogger.com,1999:blog-4802841478634147276.post-2076803524197876387</id>
-        <link href="https://thehackernews.com/2022/08/credential-theft-is-still-top-attack.html"/>
-        <updated>2022-08-15T16:27:31.847Z</updated>
-        <summary type="html"><![CDATA[Credential theft is clearly still a problem. Even after years of warnings, changing password requirements, and multiple forms of authentication, password stealing remains a top attack method used by cyber criminals.
-The latest report from the Ponemon Institute shares that 54% of security incidents were caused by credential theft, followed by ransomware and DDoS attacks. 59% of organizations]]></summary>
-        <author>
-            <name>noreply@blogger.com (The Hacker News)</name>
         </author>
     </entry>
 </feed>
