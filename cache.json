@@ -33,6 +33,26 @@
       "siteUrl": "https://us-cert.cisa.gov/",
       "articles": [
         {
+          "id": "17968 at https://us-cert.cisa.gov",
+          "author": "CISA",
+          "description": "Original release date: September 13, 2022\nAdobe has released security updates to address vulnerabilities in multiple products. An attacker could exploit some of these vulnerabilities to take control of an affected system.\nCISA encourages users and administrators to review the following Adobe Security Bulletins and apply the necessary updates.\nExperience Manager APSB22-40\nBridge APSB22-49\nInDesign APSB22-50\nPhotoshop APSB22-52\nInCopy APSB22-53\nAnimate APSB22-54\nIllustrator APSB22-55\nThis product is provided subject to this Notification and this Privacy & Use policy.",
+          "link": "https://us-cert.cisa.gov/ncas/current-activity/2022/09/13/adobe-releases-security-updates-multiple-products",
+          "publishedOn": "2022-09-13T23:08:06.000Z",
+          "wordCount": 1071,
+          "title": "Adobe Releases Security Updates for Multiple Products",
+          "imageUrl": null
+        },
+        {
+          "id": "17967 at https://us-cert.cisa.gov",
+          "author": "CISA",
+          "description": "Original release date: September 13, 2022\nMicrosoft has released updates to address multiple vulnerabilities in Microsoft software. An attacker can exploit some of these vulnerabilities to take control of an affected system.\nCISA encourages users and administrators to review Microsoft’s September 2022 Security Update Guide and Deployment Information and apply the necessary updates.\nThis product is provided subject to this Notification and this Privacy & Use policy.",
+          "link": "https://us-cert.cisa.gov/ncas/current-activity/2022/09/13/microsoft-releases-september-2022-security-updates",
+          "publishedOn": "2022-09-13T20:30:50.000Z",
+          "wordCount": 1057,
+          "title": "Microsoft Releases September 2022 Security Updates",
+          "imageUrl": null
+        },
+        {
           "id": "17959 at https://us-cert.cisa.gov",
           "author": "CISA",
           "description": "Original release date: September 13, 2022\nCISA released five Industrial Control Systems (ICS) advisories on September 13, 2022. These advisories provide timely information about current security issues, vulnerabilities, and exploits surrounding ICS.\nCISA encourages users and administrators to review the newly released ICS advisories for technical details and mitigations:\nICSA-22-256-01 Hitachi Energy TXpert Hub CoreTec 4 Sudo Vulnerability\nICSA-22-256-02 Honeywell SoftMaster\nICSA-22-256-03 Delta Industrial Automation DIAEnergie\nICSA-22-256-04 Kingspan TMS300 CS\nICSA-20-324-02 Paradox IP150 (Update A)\nThis product is provided subject to this Notification and this Privacy & Use policy.",
@@ -424,16 +444,6 @@
           "wordCount": 2381,
           "title": "Xiaomi Phone Bug Allowed Payment Forgery",
           "imageUrl": "https://media.kasperskycontenthub.com/wp-content/uploads/sites/103/2019/04/04130521/Xiaomi-control-gaurd-phone.jpg"
-        },
-        {
-          "id": "https://kasperskycontenthub.com/threatpost-global/?p=180409",
-          "author": "Threatpost",
-          "description": "‘Summer Camp’ for hackers features a compromised satellite, a homecoming for hackers and cyberwarfare warnings.",
-          "link": "https://threatpost.com/black-hat-and-def-con-roundup/180409/",
-          "publishedOn": "2022-08-15T13:56:58.000Z",
-          "wordCount": 2143,
-          "title": "Black Hat and DEF CON Roundup",
-          "imageUrl": "https://media.kasperskycontenthub.com/wp-content/uploads/sites/103/2018/08/06171906/vegas.jpeg"
         }
       ]
     },
@@ -442,6 +452,96 @@
       "feedUrl": "https://www.darkreading.com/rss.xml",
       "siteUrl": "https://www.darkreading.com",
       "articles": [
+        {
+          "id": "https://www.darkreading.com/edge-articles/key-takeaways-from-the-twitter-whistleblower-s-testimony",
+          "author": "Edge Editors, Dark Reading",
+          "description": "Twitter did not know what data it had nor who had access to it, Peiter \"Mudge\" Zatko told Congressional lawmakers during a Senate panel hearing.",
+          "link": "https://www.darkreading.com/edge-articles/key-takeaways-from-the-twitter-whistleblower-s-testimony",
+          "publishedOn": "2022-09-14T00:59:31.000Z",
+          "wordCount": 10475,
+          "title": "Key Takeaways From the Twitter Whistleblower's Testimony",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltbeb30fde8ec73a32/60d4432c2446e93b5b5a0e0c/Edge-Editors.png",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltbeb30fde8ec73a32/60d4432c2446e93b5b5a0e0c/Edge-Editors.png"
+        },
+        {
+          "id": "https://www.darkreading.com/dr-tech/bishopfox-releases-cloud-enumeration-tool-cloudfox",
+          "author": "Dark Reading Staff, Dark Reading",
+          "description": "CloudFox is a command-line tool to help penetration testers understand unknown cloud environments.",
+          "link": "https://www.darkreading.com/dr-tech/bishopfox-releases-cloud-enumeration-tool-cloudfox",
+          "publishedOn": "2022-09-13T22:34:00.000Z",
+          "wordCount": 9947,
+          "title": "Bishop Fox Releases Cloud Enumeration Tool CloudFox",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blte161b23f0fd3a84b/60b1ea374e7eb868c4c6a293/dr_staff_125x125.jpg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blte161b23f0fd3a84b/60b1ea374e7eb868c4c6a293/dr_staff_125x125.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/vulnerabilities-threats/microsoft-quashes-actively-exploited-zero-day-wormable-critical-bugs",
+          "author": "Tara Seals, Managing Editor, News, Dark Reading",
+          "description": "In Microsoft's lightest Patch Tuesday update of the year so far, several security vulnerabilities stand out as must-patch, researchers warn.",
+          "link": "https://www.darkreading.com/vulnerabilities-threats/microsoft-quashes-actively-exploited-zero-day-wormable-critical-bugs",
+          "publishedOn": "2022-09-13T21:17:03.000Z",
+          "wordCount": 12464,
+          "title": "Microsoft Quashes Actively Exploited Zero-Day, Wormable Critical Bugs",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltea67136f81f32eca/626a9eb4726e3315b16b3c64/Tara-Seals-Headshot2.jpg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltea67136f81f32eca/626a9eb4726e3315b16b3c64/Tara-Seals-Headshot2.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/attacks-breaches/u-haul-customer-contract-search-tool-compromised",
+          "author": "Becky Bracken, Editor, Dark Reading",
+          "description": "Password compromise led to unauthorized access to a customer contract search tool over a five-month window, according to the company.",
+          "link": "https://www.darkreading.com/attacks-breaches/u-haul-customer-contract-search-tool-compromised",
+          "publishedOn": "2022-09-13T19:50:24.000Z",
+          "wordCount": 9281,
+          "title": "U-Haul Customer Contract Search Tool Compromised",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt8e7bd143d726930b/627271268681151716941064/BeckyB.jpg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt8e7bd143d726930b/627271268681151716941064/BeckyB.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/attacks-breaches/shadowpad-threat-actor-dll-sideloading-espionage",
+          "author": "Jai Vijayan, Contributing Writer, Dark Reading",
+          "description": "Cyber spies are using legitimate apps for DLL sideloading, deploying an updated range of malware, including the new \"Logdatter\" info-stealer.",
+          "link": "https://www.darkreading.com/attacks-breaches/shadowpad-threat-actor-dll-sideloading-espionage",
+          "publishedOn": "2022-09-13T19:43:44.000Z",
+          "wordCount": 11366,
+          "title": "ShadowPad Threat Actors Return With Fresh Government Strikes, Updated Tools",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt02d79fb9a44a4258/60b1e9dd2a25046b35110696/Jai-Vijayan.jpeg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt02d79fb9a44a4258/60b1e9dd2a25046b35110696/Jai-Vijayan.jpeg"
+        },
+        {
+          "id": "https://www.darkreading.com/attacks-breaches/cyberattackers-abuse-facebook-ad-manager-credential-harvesting-campaign",
+          "author": "Ericka Chickowski, Contributing Writer, Dark Reading",
+          "description": "Facebook lead-generation forms are being repurposed to collect passwords and credit card information from unsuspecting Facebook advertisers.",
+          "link": "https://www.darkreading.com/attacks-breaches/cyberattackers-abuse-facebook-ad-manager-credential-harvesting-campaign",
+          "publishedOn": "2022-09-13T19:26:53.000Z",
+          "wordCount": 10167,
+          "title": "Cyberattackers Abuse Facebook Ad Manager in Savvy Credential-Harvesting Campaign",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt1fa01ab14787f501/60b1e9a77f791568be5e0dbb/ErickaChick_125x125.jpeg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt1fa01ab14787f501/60b1e9a77f791568be5e0dbb/ErickaChick_125x125.jpeg"
+        },
         {
           "id": "https://www.darkreading.com/attacks-breaches/name-that-toon-shiver-me-timbers-",
           "author": "John Klossner, Cartoonist",
@@ -3111,21 +3211,6 @@
             "length": "0"
           },
           "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltd3941643ea87865b/628d1dcaef83f961a70e4205/stephen-lawton.png"
-        },
-        {
-          "id": "https://www.darkreading.com/attacks-breaches/how-and-why-to-apply-osint-to-protect-the-enterprise",
-          "author": "Etay Maor, Sr. Director Security Strategy at Cato Networks",
-          "description": "Here's how to flip the tide and tap open source intelligence to protect your users.",
-          "link": "https://www.darkreading.com/attacks-breaches/how-and-why-to-apply-osint-to-protect-the-enterprise",
-          "publishedOn": "2022-08-15T14:00:00.000Z",
-          "wordCount": 13688,
-          "title": "How and Why to Apply OSINT to Protect the Enterprise",
-          "enclosure": {
-            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt73ba9ff86c55cc77/60b1e7552a25046b3511063e/EtayMaor.jpg",
-            "type": "image/*",
-            "length": "0"
-          },
-          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt73ba9ff86c55cc77/60b1e7552a25046b3511063e/EtayMaor.jpg"
         }
       ]
     },
@@ -3221,6 +3306,16 @@
       "feedUrl": "https://blog.knowbe4.com/rss.xml",
       "siteUrl": "https://blog.knowbe4.com",
       "articles": [
+        {
+          "id": "https://blog.knowbe4.com/heads-up-online-scams-on-queen-elizabeths-death-is-here",
+          "author": "Stu Sjouwerman",
+          "description": "The Sun just reported that experts are sending a warning about online scams in relation to Queen Elizabeth's passing.",
+          "link": "https://blog.knowbe4.com/heads-up-online-scams-on-queen-elizabeths-death-is-here",
+          "publishedOn": "2022-09-13T20:34:58.000Z",
+          "wordCount": 2025,
+          "title": "[HEADS UP] Online Scams on Queen Elizabeth's Death is Here",
+          "imageUrl": "https://blog.knowbe4.com/hubfs/Queen%20Elizabeth%20Scams.jpg#keepProtocol"
+        },
         {
           "id": "https://blog.knowbe4.com/scammer-continues-phishing-from-prison",
           "author": "Stu Sjouwerman",
@@ -3760,16 +3855,6 @@
           "wordCount": 4558,
           "title": "CyberheistNews Vol 12 #33 [Eye Opener] Recent Cisco Hack by Ransomware Group Started Because of a Phishing Attack",
           "imageUrl": "https://blog.knowbe4.com/hubfs/CHN-Social.jpg#keepProtocol"
-        },
-        {
-          "id": "https://blog.knowbe4.com/initial-access-broker-phishing",
-          "author": "Stu Sjouwerman",
-          "description": "Cisco has disclosed a security incident that occurred as a result of sophisticated voice phishing attacks that targeted employees, according to researchers at Cisco Talos. The researchers believe the attack was carried out by an initial access broker with the intent of selling access to the compromised accounts to other threat actors.",
-          "link": "https://blog.knowbe4.com/initial-access-broker-phishing",
-          "publishedOn": "2022-08-15T13:07:30.000Z",
-          "wordCount": 2214,
-          "title": "Initial Access Broker Phishing",
-          "imageUrl": "https://blog.knowbe4.com/hubfs/Initial%20Access%20Broker%20Phishing.jpg#keepProtocol"
         }
       ]
     },
@@ -3778,6 +3863,17 @@
       "feedUrl": "https://thehackernews.com/feeds/posts/default",
       "siteUrl": "https://thehackernews.com/",
       "articles": [
+        {
+          "id": "tag:blogger.com,1999:blog-4802841478634147276.post-7676094394259436646",
+          "author": "noreply@blogger.com (Ravie Lakshmanan)",
+          "description": "A zero-day flaw in the latest version of a WordPress premium plugin known as WPGateway is being actively exploited in the wild, potentially allowing malicious actors to completely take over affected sites.\nTracked as CVE-2022-3180 (CVSS score: 9.8), the issue is being weaponized to add a malicious administrator user to sites running the WPGateway plugin, WordPress security company Wordfence",
+          "link": "https://thehackernews.com/2022/09/over-280000-wordpress-sites-attacked.html",
+          "publishedOn": "2022-09-14T01:51:00.000Z",
+          "wordCount": null,
+          "title": "Over 280,000 WordPress Sites Attacked Using WPGateway Plugin Zero-Day Vulnerability",
+          "itunes": {},
+          "imageUrl": null
+        },
         {
           "id": "tag:blogger.com,1999:blog-4802841478634147276.post-1838677031764420587",
           "author": "noreply@blogger.com (The Hacker News)",
@@ -5073,17 +5169,6 @@
           "publishedOn": "2022-08-15T16:27:31.847Z",
           "wordCount": null,
           "title": "Credential Theft Is (Still) A Top Attack Method",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "tag:blogger.com,1999:blog-4802841478634147276.post-8611874409784137222",
-          "author": "noreply@blogger.com (Ravie Lakshmanan)",
-          "description": "The SOVA Android banking trojan is continuing to be actively developed with upgraded capabilities to target no less than 200 mobile applications, including banking apps and crypto exchanges and wallets, up from 90 apps when it started out.\nThat's according to the latest findings from Italian cybersecurity firm Cleafy, which found newer versions of the malware sporting functionality to intercept",
-          "link": "https://thehackernews.com/2022/08/sova-android-banking-trojan-returns-new.html",
-          "publishedOn": "2022-08-15T11:54:52.067Z",
-          "wordCount": null,
-          "title": "SOVA Android Banking Trojan Returns With New Capabilities and Targets",
           "itunes": {},
           "imageUrl": null
         }
