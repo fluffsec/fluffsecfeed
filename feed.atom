@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-09-14T19:22:43.843Z</updated>
+    <updated>2022-09-15T03:51:55.526Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[White House Guidance Recommends SBOMs for Federal Agencies]]></title>
+        <id>https://www.darkreading.com/application-security/white-house-guidance-recommends-sboms-federal-agencies</id>
+        <link href="https://www.darkreading.com/application-security/white-house-guidance-recommends-sboms-federal-agencies"/>
+        <updated>2022-09-14T20:00:00.000Z</updated>
+        <summary type="html"><![CDATA[New executive order stops short of mandating NIST's guidelines, but recommends SBOMs for federal agencies across government.]]></summary>
+        <author>
+            <name>Dark Reading Staff, Dark Reading</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Use SSH Keys and 1Password to Sign Git Commits]]></title>
         <id>https://www.darkreading.com/dr-tech/how-to-use-ssh-keys-and-1password-to-sign-git-commits</id>
@@ -4523,172 +4533,6 @@ AVideo is an open-source web application that allows users to build a video stre
 TALOS-2022-1542 (CVE-2022-32777 - CVE-2022-32778), TALOS-2022-1549 (CVE-2022-32761) and TALOS-2022-1550 (CVE-2022-28710) are information disclosure vulnerabilities that are triggered if an adversary sends the targeted instance a specially crafted HTTP packet. TALO…]]></summary>
         <author>
             <name>Cisco Talos Intelligence Group - Comprehensive Threat Intelligence</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AA22-228A: Threat Actors Exploiting Multiple CVEs Against Zimbra Collaboration Suite]]></title>
-        <id>17891 at https://us-cert.cisa.gov</id>
-        <link href="https://us-cert.cisa.gov/ncas/alerts/aa22-228a"/>
-        <updated>2022-08-16T15:38:42.000Z</updated>
-        <summary type="html"><![CDATA[Original release date: August 16, 2022
-Summary
-Actions for ZCS administrators to take today to mitigate malicious cyber activity:
-known exploited vulnerabilities.
-The Cybersecurity and Infrastructure Security Agency (CISA) and the Multi-State Information Sharing & Analysis Center (MS-ISAC) are publishing this joint Cybersecurity Advisory (CSA) in response to active exploitation of multiple Common Vulnerabilities and Exposures (CVEs) against Zimbra Collaboration Suite (ZCS), an enterprise cloud-hosted collaboration software and email platform. CVEs currently being exploited against ZCS include: 
-CVE-2022-24682 
-CVE-2022-27924 
-CVE-2022-27925 chained with CVE-2022-37042 
-CVE-2022-30333
-Cyber threat actors may be targeting unpatched ZCS instances in both government and private sector networks…]]></summary>
-        <author>
-            <name>CISA</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Threat Actors Exploiting Multiple Vulnerabilities Against Zimbra Collaboration Suite]]></title>
-        <id>17890 at https://us-cert.cisa.gov</id>
-        <link href="https://us-cert.cisa.gov/ncas/current-activity/2022/08/16/threat-actors-exploiting-multiple-vulnerabilities-against-zimbra"/>
-        <updated>2022-08-16T15:10:57.000Z</updated>
-        <summary type="html"><![CDATA[Original release date: August 16, 2022
-CISA and the Multi-State Information Sharing & Analysis Center (MS-ISAC) have released a joint Cybersecurity Advisory (CSA) in response to active exploitation of multiple vulnerabilities against Zimbra Collaboration Suite (ZCS), an enterprise cloud-hosted collaboration software and email platform. 
-CISA and MS-ISAC encourage users and administrators review Threat Actors Exploiting Multiple CVEs Against Zimbra Collaboration Suite for more information and apply the recommended mitigations.
-This product is provided subject to this Notification and this Privacy & Use policy.]]></summary>
-        <author>
-            <name>CISA</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ÆPIC and SQUIP Vulnerabilities Found in Intel and AMD Processors]]></title>
-        <id>tag:blogger.com,1999:blog-4802841478634147276.post-8686050813908416488</id>
-        <link href="https://thehackernews.com/2022/08/pic-and-squip-vulnerabilities-found-in.html"/>
-        <updated>2022-08-16T14:58:22.811Z</updated>
-        <summary type="html"><![CDATA[A group of researchers has revealed details of a new vulnerability affecting Intel CPUs that enables attackers to obtain encryption keys and other secret information from the processors.
-Dubbed ÆPIC Leak, the weakness is the first-of-its-kind to architecturally disclose sensitive data in a manner that's akin to an "uninitialized memory read in the CPU itself."
-"In contrast to transient execution]]></summary>
-        <author>
-            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[With Plunge in Value, Cryptocurrency Crimes Decline in 2022]]></title>
-        <id>https://www.darkreading.com/attacks-breaches/plunge-value-cryptocurrency-crimes-decline-2022</id>
-        <link href="https://www.darkreading.com/attacks-breaches/plunge-value-cryptocurrency-crimes-decline-2022"/>
-        <updated>2022-08-16T14:49:26.000Z</updated>
-        <summary type="html"><![CDATA[Cybercrime has been funded with cryptocurrency, but the valuation of various digital currencies has dropped by more than two-thirds and cybercriminals are feeling the pinch.]]></summary>
-        <author>
-            <name>Robert Lemos, Contributing Writer, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Windows Vulnerability Could Crack DC Server Credentials Open]]></title>
-        <id>https://www.darkreading.com/remote-workforce/windows-vulnerability-could-crack-dc-server-credentials-open</id>
-        <link href="https://www.darkreading.com/remote-workforce/windows-vulnerability-could-crack-dc-server-credentials-open"/>
-        <updated>2022-08-16T14:39:57.000Z</updated>
-        <summary type="html"><![CDATA[The security flaw tracked as CVE-2022-30216 could allow attackers to perform server spoofing or trigger authentication coercion on the victim.]]></summary>
-        <author>
-            <name>Nathan Eddy, Contributing Writer, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[U.K. Water Supplier Hit with Clop Ransomware Attack]]></title>
-        <id>https://kasperskycontenthub.com/threatpost-global/?p=180422</id>
-        <link href="https://threatpost.com/water-supplier-hit-clop-ransomware/180422/"/>
-        <updated>2022-08-16T14:30:01.000Z</updated>
-        <summary type="html"><![CDATA[The incident disrupted corporate IT systems at one company while attackers misidentified the victim in a post on its website that leaked stolen data.]]></summary>
-        <author>
-            <name>Elizabeth Montalbano</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vulnerability Spotlight: Three vulnerabilities in HDF5 file format could lead to remote code execution]]></title>
-        <id>https://blog.talosintelligence.com/2022/08/vuln-spotlight-hdf5-library.html</id>
-        <link href="https://blog.talosintelligence.com/2022/08/vuln-spotlight-hdf5-library.html"/>
-        <updated>2022-08-16T14:03:00.002Z</updated>
-        <summary type="html"><![CDATA[Dave McDaniel of Cisco Talos discovered these vulnerabilities. Blog by Jon Munshaw. 
-Cisco Talos recently discovered three vulnerabilities in a library that works with the HDF5 file format that could allow an attacker to execute remote code on a targeted device. 
-These issues arise in the libhdf5 gif2h5 tool that’s normally used to convert a GIF file to the HDF5 format, commonly used to store large amounts of numerical data. An attacker could exploit these vulnerabilities by tricking a user into opening a specially crafted, malicious file. 
-TALOS-2022-1485 (CVE-2022-25972) and TALOS-2022-1486 (CVE-2022-25942) are out-of-bounds write vulnerabilities in the gif2h5 tool that trigger a specific crash, opening the door for code execution from the adversary. TALOS-2022-1487 (CVE-2022-26061) works similarly but is a heap-based buffer overflow vulnerability. 
-
-Cisco Talos is disclosing these vulnerabilities despite no official fix from HDF5 in adherence to the 90-day deadline outlined in Cisco’s vulnerability disclosure policy. 
-
-
-Users are encouraged to update these affected products as soon as possible: HDF5 Group libhdf5, version 1.10.4. Talos tested and confirmed these versions of the library could be exploited by these vulnerabilities. 
-The following Snort rules will detect exploitation attempts against this vulnerability: 59296, 59297, 59300, 59301, 59303 and 59304. Additional rules may be released in the future and current rules are subject to change, pending additional vulnerability information. For the most current rule information, please refer to your Firepower Management Center or Snort.org.]]></summary>
-        <author>
-            <name>Cisco Talos Intelligence Group - Comprehensive Threat Intelligence</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lessons From the Cybersecurity Trenches]]></title>
-        <id>https://www.darkreading.com/threat-intelligence/lessons-from-the-cybersecurity-trenches</id>
-        <link href="https://www.darkreading.com/threat-intelligence/lessons-from-the-cybersecurity-trenches"/>
-        <updated>2022-08-16T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Threat hunting not only serves the greater good by helping keep users safe, it rewards practitioners with the thrill of the hunt and solving of complex problems. Tap into your background and learn to follow your instincts.]]></summary>
-        <author>
-            <name>Danika Nilson, Cyber Threat Hunter, Forescout Frontline, Forescout</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SEPT. 7-9: Ukraine, Election, AI, Cybercrime, 5G Among Topics Explored by 125+ Speakers at 13th Billington Cybersecurity Summit]]></title>
-        <id>https://www.darkreading.com/vulnerabilities-threats/sept-7-9-ukraine-election-ai-cybercrime-5g-among-topics-explored-by-125-speakers-at-13th-billington-cybersecurity-summit</id>
-        <link href="https://www.darkreading.com/vulnerabilities-threats/sept-7-9-ukraine-election-ai-cybercrime-5g-among-topics-explored-by-125-speakers-at-13th-billington-cybersecurity-summit"/>
-        <updated>2022-08-16T13:39:55.000Z</updated>
-        <summary type="html"><![CDATA[Heads of CIA and CISA headline event at DC Convention Center.]]></summary>
-        <author>
-            <name>Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CyberheistNews Vol 12 #33 [Eye Opener] Recent Cisco Hack by Ransomware Group Started Because of a Phishing Attack]]></title>
-        <id>https://blog.knowbe4.com/cyberheistnews-vol-12-33-eye-opener-recent-cisco-hack-by-ransomware-group-started-because-of-a-phishing-attack</id>
-        <link href="https://blog.knowbe4.com/cyberheistnews-vol-12-33-eye-opener-recent-cisco-hack-by-ransomware-group-started-because-of-a-phishing-attack"/>
-        <updated>2022-08-16T13:34:25.000Z</updated>
-        <summary type="html"><![CDATA[CyberheistNews Vol 12 #33 [Eye Opener] Recent Cisco Hack by Ransomware Group Started Because of a Phishing Attack]]></summary>
-        <author>
-            <name>Stu Sjouwerman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Xiaomi Phone Bug Allowed Payment Forgery]]></title>
-        <id>https://kasperskycontenthub.com/threatpost-global/?p=180416</id>
-        <link href="https://threatpost.com/xiaomi-phones-found-vulnerable-to-payment-forgery/180416/"/>
-        <updated>2022-08-16T12:26:27.000Z</updated>
-        <summary type="html"><![CDATA[Mobile transactions could’ve been disabled, created and signed by attackers.]]></summary>
-        <author>
-            <name>Nate Nelson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Unified Threat Management: The All-in-One Cybersecurity Solution]]></title>
-        <id>tag:blogger.com,1999:blog-4802841478634147276.post-6975678503136797600</id>
-        <link href="https://thehackernews.com/2022/08/unified-threat-management-all-in-one.html"/>
-        <updated>2022-08-16T11:04:09.505Z</updated>
-        <summary type="html"><![CDATA[UTM (Unified threat management) is thought to be an all-in-one solution for cybersecurity. In general, it is a versatile software or hardware firewall solution integrated with IPS (Intrusion Prevention System) and other security services. A universal gateway allows the user to manage network security with one comprehensive solution, which makes the task much easier. In addition, compared to a]]></summary>
-        <author>
-            <name>noreply@blogger.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Evil PLC Attack Weaponizes PLCs to Breach OT and Enterprise Networks]]></title>
-        <id>tag:blogger.com,1999:blog-4802841478634147276.post-105552387163050754</id>
-        <link href="https://thehackernews.com/2022/08/new-evil-plc-attack-weaponizes-plcs-to.html"/>
-        <updated>2022-08-16T10:57:11.911Z</updated>
-        <summary type="html"><![CDATA[Cybersecurity researchers have elaborated a novel attack technique that weaponizes programmable logic controllers (PLCs) to gain an initial foothold in engineering workstations and subsequently invade the operational technology (OT) networks.
-Dubbed "Evil PLC" attack by industrial security firm Claroty, the issue impacts engineering workstation software from Rockwell Automation, Schneider]]></summary>
-        <author>
-            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft Warns About Phishing Attacks by Russia-linked Hackers]]></title>
-        <id>tag:blogger.com,1999:blog-4802841478634147276.post-9177510291507448961</id>
-        <link href="https://thehackernews.com/2022/08/microsoft-warns-about-phishing-attacks.html"/>
-        <updated>2022-08-16T09:35:04.880Z</updated>
-        <summary type="html"><![CDATA[Microsoft on Monday revealed it took steps to disrupt phishing operations undertaken by a "highly persistent threat actor" whose objectives align closely with Russian state interests.
-The company is tracking the espionage-oriented activity cluster under its chemical element-themed moniker SEABORGIUM, which it said overlaps with a hacking group also known as Callisto, COLDRIVER, and TA446.
-"]]></summary>
-        <author>
-            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
         </author>
     </entry>
 </feed>
