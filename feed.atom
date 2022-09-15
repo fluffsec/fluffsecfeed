@@ -2,10 +2,73 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-09-15T07:35:12.217Z</updated>
+    <updated>2022-09-15T13:55:27.685Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Fortanix Raises $90M in Series C Funding Led by Goldman Sachs Asset Management to Accelerate Leadership in the Data Security Market]]></title>
+        <id>https://www.darkreading.com/cloud/fortanix-raises-90m-in-series-c-funding-led-by-goldman-sachs-asset-management-to-accelerate-leadership-in-the-data-security-market</id>
+        <link href="https://www.darkreading.com/cloud/fortanix-raises-90m-in-series-c-funding-led-by-goldman-sachs-asset-management-to-accelerate-leadership-in-the-data-security-market"/>
+        <updated>2022-09-15T13:21:50.000Z</updated>
+        <summary type="html"><![CDATA[Oversubscribed round validates company's data-first approach to solving cloud security and privacy issues for global businesses thwarting data breaches and ransomwar]]></summary>
+        <author>
+            <name>Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Token-Mining Weakness in Microsoft Teams Makes for Perfect Phish]]></title>
+        <id>https://www.darkreading.com/vulnerabilities-threats/token-mining-weakness-microsoft-teams-perfect-phish</id>
+        <link href="https://www.darkreading.com/vulnerabilities-threats/token-mining-weakness-microsoft-teams-perfect-phish"/>
+        <updated>2022-09-15T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Access tokens for other Teams users can be recovered, allowing attackers to move from a single compromise to the ability to impersonate critical employees, but Microsoft isn't planning to patch.]]></summary>
+        <author>
+            <name>Robert Lemos, Contributing Writer, Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Russian Gamaredon Hackers Target Ukrainian Government Using Info-Stealing Malware]]></title>
+        <id>tag:blogger.com,1999:blog-4802841478634147276.post-3657759422201967556</id>
+        <link href="https://thehackernews.com/2022/09/russian-gamaredon-hackers-target.html"/>
+        <updated>2022-09-15T12:25:00.000Z</updated>
+        <summary type="html"><![CDATA[An ongoing espionage campaign operated by the Russia-linked Gamaredon group is targeting employees of Ukrainian government, defense, and law enforcement agencies with a piece of custom-made information stealing malware.
+"The adversary is using phishing documents containing lures related to the Russian invasion of Ukraine," Cisco Talos researchers Asheer Malhotra and Guilherme Venere said in a]]></summary>
+        <author>
+            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[MSP News] Manage Your Multiple KnowBe4 Accounts Faster with Managed Training and Phishing Rolled Into One]]></title>
+        <id>https://blog.knowbe4.com/knowbe4-msp-managed-training-and-phishing</id>
+        <link href="https://blog.knowbe4.com/knowbe4-msp-managed-training-and-phishing"/>
+        <updated>2022-09-15T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[You wanted the ability to manage both phishing and training campaigns across multiple KnowBe4 accounts, and we listened!]]></summary>
+        <author>
+            <name>Stu Sjouwerman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[5 Ways to Mitigate Your New Insider Threats in the Great Resignation]]></title>
+        <id>tag:blogger.com,1999:blog-4802841478634147276.post-7402318116978520617</id>
+        <link href="https://thehackernews.com/2022/09/5-ways-to-mitigate-your-new-insider.html"/>
+        <updated>2022-09-15T11:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Companies are in the midst of an employee "turnover tsunami" with no signs of a slowdown. According to Fortune Magazine, 40% of the U.S. is considering quitting their jobs. This trend – coined the great resignation - creates instability in organizations. High employee turnover increases security risks, and companies are more vulnerable to attacks from human factors worldwide. 
+At Davos 2022,]]></summary>
+        <author>
+            <name>noreply@blogger.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Webworm Hackers Using Modified RATs in Latest Cyber Espionage Attacks]]></title>
+        <id>tag:blogger.com,1999:blog-4802841478634147276.post-2795820528145161533</id>
+        <link href="https://thehackernews.com/2022/09/webworm-hackers-using-modified-rats-in.html"/>
+        <updated>2022-09-15T10:14:00.000Z</updated>
+        <summary type="html"><![CDATA[A threat actor tracked under the moniker Webworm has been linked to bespoke Windows-based remote access trojans, some of which are said to be in pre-deployment or testing phases.
+"The group has developed customized versions of three older remote access trojans (RATs), including Trochilus RAT, Gh0st RAT, and 9002 RAT," the Symantec Threat Hunter team, part of Broadcom Software, said in a report]]></summary>
+        <author>
+            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[U.S. Charges 3 Iranian Hackers and Sanctions Several Others Over Ransomware Attacks]]></title>
         <id>tag:blogger.com,1999:blog-4802841478634147276.post-4403791439207029918</id>
@@ -4451,36 +4514,6 @@ To that end, owners of gems with over 180 million total downloads are mandated t
 "Users in this category who do not]]></summary>
         <author>
             <name>noreply@blogger.com (Ravie Lakshmanan)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft Rolls Out Tamper Protection for Macs]]></title>
-        <id>https://www.darkreading.com/dr-tech/microsoft-rolls-out-tamper-protection-for-macs</id>
-        <link href="https://www.darkreading.com/dr-tech/microsoft-rolls-out-tamper-protection-for-macs"/>
-        <updated>2022-08-17T00:14:37.000Z</updated>
-        <summary type="html"><![CDATA[The tamper protection feature detects attempts to modify files and processes for Microsoft Defender for Endpoints on macOS.]]></summary>
-        <author>
-            <name>Dark Reading Staff, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft Disrupts Russian Group's Multiyear Cyber-Espionage Campaign]]></title>
-        <id>https://www.darkreading.com/threat-intelligence/microsoft-disrupts-russian-group-cyberespionage-campaign</id>
-        <link href="https://www.darkreading.com/threat-intelligence/microsoft-disrupts-russian-group-cyberespionage-campaign"/>
-        <updated>2022-08-16T19:54:24.000Z</updated>
-        <summary type="html"><![CDATA["Seaborgium" is a highly persistent threat actor that has been targeting organizations and individuals of likely interest to the Russian government since at least 2017, company says.]]></summary>
-        <author>
-            <name>Jai Vijayan, Contributing Writer, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[More Super Targeted Spear Phishing Ahead]]></title>
-        <id>https://blog.knowbe4.com/more-super-targeted-spear-phishing-ahead</id>
-        <link href="https://blog.knowbe4.com/more-super-targeted-spear-phishing-ahead"/>
-        <updated>2022-08-16T19:42:05.000Z</updated>
-        <summary type="html"><![CDATA[Hardly a day goes by without a news alert about the latest HUGE data breach. It’s so commonplace today that it rarely rates showing at the top of the news. In a newspaper, the announcement of the latest breach may be on the third page. We’ve become numb to them. And that’s a big problem.]]></summary>
-        <author>
-            <name>Roger Grimes</name>
         </author>
     </entry>
 </feed>
