@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-09-16T07:33:35.389Z</updated>
+    <updated>2022-09-16T13:56:04.767Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Uber security breach 'looks bad', caused by social engineering]]></title>
+        <id>https://blog.knowbe4.com/uber-security-breach-looks-bad-caused-by-social-engineering</id>
+        <link href="https://blog.knowbe4.com/uber-security-breach-looks-bad-caused-by-social-engineering"/>
+        <updated>2022-09-16T12:36:02.000Z</updated>
+        <summary type="html"><![CDATA[iIt was all over the news, but ZDNet's Eileen Yu was one of the first. -- "Hacker is believed to have breached Uber's entire network in a social engineering attack, which one security vendor says is more extensive than the company's 2016 global data breach and access logs potentially altered."]]></summary>
+        <author>
+            <name>Stu Sjouwerman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hackers Targeting WebLogic Servers and Docker APIs for Mining Cryptocurrencies]]></title>
+        <id>tag:blogger.com,1999:blog-4802841478634147276.post-4398393062362246188</id>
+        <link href="https://thehackernews.com/2022/09/hackers-targeting-weblogic-servers-and.html"/>
+        <updated>2022-09-16T10:58:00.000Z</updated>
+        <summary type="html"><![CDATA[Malicious actors such as Kinsing are taking advantage of both recently disclosed and older security flaws in Oracle WebLogic Server to deliver cryptocurrency-mining malware.
+Cybersecurity company Trend Micro said it found the financially-motivated group leveraging the vulnerability to drop Python scripts with capabilities to disable operating system (OS) security features such as]]></summary>
+        <author>
+            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Uber Says It's Investigating a Potential Breach of Its Computer Systems]]></title>
         <id>tag:blogger.com,1999:blog-4802841478634147276.post-3009794060884451710</id>
@@ -4500,16 +4521,6 @@ CVE-2022-32893 - An out-of-bounds issue in WebKit which could lead to the execu
 CVE-2022-32894 - An]]></summary>
         <author>
             <name>noreply@blogger.com (Ravie Lakshmanan)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google Cloud Adds Curated Detection to Chronicle]]></title>
-        <id>https://www.darkreading.com/dr-tech/google-cloud-adds-curated-detection-to-chronicle</id>
-        <link href="https://www.darkreading.com/dr-tech/google-cloud-adds-curated-detection-to-chronicle"/>
-        <updated>2022-08-18T01:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The curated detection feature for Chronicle SecOps Suite provides security teams with actionable insights on cloud threats and Windows-based attacks from Google Cloud Threat Intelligence Team.]]></summary>
-        <author>
-            <name>Dark Reading Staff, Dark Reading</name>
         </author>
     </entry>
 </feed>
