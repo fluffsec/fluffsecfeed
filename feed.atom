@@ -2,10 +2,64 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-09-15T19:21:55.838Z</updated>
+    <updated>2022-09-16T03:54:36.300Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Uber Says It's Investigating a Potential Breach of Its Computer Systems]]></title>
+        <id>tag:blogger.com,1999:blog-4802841478634147276.post-3009794060884451710</id>
+        <link href="https://thehackernews.com/2022/09/uber-says-its-investigating-potential.html"/>
+        <updated>2022-09-16T03:08:00.000Z</updated>
+        <summary type="html"><![CDATA[Ride hailing giant Uber disclosed Thursday it's responding to a cybersecurity incident involving a breach of its network and that it's in touch with law enforcement authorities.
+The New York Times first reported the incident.
+
+The hack is said to have forced the company to take its internal communications and engineering systems offline as it investigated the extent of the breach.]]></summary>
+        <author>
+            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft’s September 2022 Updates Include 63 Fixes and One Actively Exploited Flaw]]></title>
+        <id>https://fieldeffect.com/?post_type=threats&amp;p=6571</id>
+        <link href="https://fieldeffect.com/threats/microsofts-september-2022-updates-include-63-fixes-and-one-actively-exploited-flaw/"/>
+        <updated>2022-09-15T20:46:43.000Z</updated>
+        <summary type="html"><![CDATA[On 13 September 2022, Microsoft released updates to address 63 vulnerabilities; five were classified as ‘Critical’, two have been publicly disclosed, one of which is being actively exploited. We recommend applying the latest updates as soon as possible. Details Microsoft noted that threat actors are exploiting a publicly disclosed vulnerability tracked as CVE-2022-37969. This vulnerability […]
+The post Microsoft’s September 2022 Updates Include 63 Fixes and One Actively Exploited Flaw appeared first on Field Effect Software Inc.]]></summary>
+        <author>
+            <name>Elena Lapina</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Note to Security Vendors — Companies Are Picking Favorites]]></title>
+        <id>https://www.darkreading.com/dr-tech/note-to-security-vendors-companies-are-picking-favorites</id>
+        <link href="https://www.darkreading.com/dr-tech/note-to-security-vendors-companies-are-picking-favorites"/>
+        <updated>2022-09-15T20:31:16.000Z</updated>
+        <summary type="html"><![CDATA[A stunning three-quarters of companies are looking to consolidate their security products this year, up from 29% in 2020, suggesting fiercer competition between cybersecurity vendors.]]></summary>
+        <author>
+            <name>Robert Lemos, Contributing Writer, Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Malware on Pirated Content Sites a Major WFH Risk for Enterprises]]></title>
+        <id>https://www.darkreading.com/threat-intelligence/malware-pirated-content-sites-major-wfh-risk-enterprises</id>
+        <link href="https://www.darkreading.com/threat-intelligence/malware-pirated-content-sites-major-wfh-risk-enterprises"/>
+        <updated>2022-09-15T19:37:01.000Z</updated>
+        <summary type="html"><![CDATA[Malware-laced ads are hauling in tens of millions of dollars in revenue for operators of pirated-content sites — posing a real risk to enterprises from remote employees.]]></summary>
+        <author>
+            <name>Jai Vijayan, Contributing Writer, Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Will the Cloud End the Endpoint?]]></title>
+        <id>https://www.darkreading.com/cloud/will-the-cloud-end-the-endpoint-</id>
+        <link href="https://www.darkreading.com/cloud/will-the-cloud-end-the-endpoint-"/>
+        <updated>2022-09-15T19:00:00.000Z</updated>
+        <summary type="html"><![CDATA[When an organization fully embraces the cloud, traditional endpoints become disposable. Organizations must adapt their security strategy for this reality.]]></summary>
+        <author>
+            <name>Dark Reading</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Popular IoT Cameras Need Patching to Fend Off Catastrophic Attacks]]></title>
         <id>https://www.darkreading.com/attacks-breaches/popular-iot-cameras-patching-catastrophic-attacks</id>
@@ -35,6 +89,20 @@ ICSA-21-222-05 Siemens Industrial Products Intel CPUs (Update F)
 ICSA-22-167-14 Siemens OpenSSL Affected Industrial Products (Update C)
 ICSA-18-226-02 Siemens OpenSSL Vulnerability in Industrial Products (Update F)
 ICSA-22-223-07 Siemens SCALANCE (Update A)
+This product is provided subject to this Notification and this Privacy & Use policy.]]></summary>
+        <author>
+            <name>CISA</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CISA Adds Six Known Exploited Vulnerabilities to Catalog]]></title>
+        <id>17979 at https://us-cert.cisa.gov</id>
+        <link href="https://us-cert.cisa.gov/ncas/current-activity/2022/09/15/cisa-adds-six-known-exploited-vulnerabilities-catalog"/>
+        <updated>2022-09-15T16:41:05.000Z</updated>
+        <summary type="html"><![CDATA[Original release date: September 15, 2022
+CISA has added six new vulnerabilities to its Known Exploited Vulnerabilities Catalog, based on evidence of active exploitation. These types of vulnerabilities are a frequent attack vector for malicious cyber actors and pose significant risk to the federal enterprise. Note: to view the newly added vulnerabilities in the catalog, click on the arrow in the "Date Added to Catalog" column, which will sort by descending dates. 
+Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the Known Exploited Vulnerabilities Catalog as a living list of known CVEs that carry significant risk to the federal enterprise. BOD 22-01 requires FCEB agencies to remediate identified vulnerabilities by the due date to protect FCEB networks against active threats. See the BOD 22-01 Fact Sheet for more information.  
+Although BOD 22-01 only applies to FCEB agencies, CISA strongly urges all organizations to reduce their exposure to cyberattacks by prioritizing timely remediation of Catalog vulnerabilities as part of their vulnerability management practice. CISA will continue to add vulnerabilities to the Catalog that meet the specified criteria.
 This product is provided subject to this Notification and this Privacy & Use policy.]]></summary>
         <author>
             <name>CISA</name>
@@ -4492,113 +4560,6 @@ CVE-2022-32894 - An]]></summary>
         <summary type="html"><![CDATA[The state-sponsored group particularly targets organizations working on behalf of the Uyghurs, Tibet, and Taiwan, looking to gather intel that could lead to human-rights abuses, researchers say.]]></summary>
         <author>
             <name>Tara Seals, Managing Editor, News, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Thoma Bravo Closes $6.9B Acquisition of Identity-Security Vendor SailPoint]]></title>
-        <id>https://www.darkreading.com/edge/thoma-bravo-closes-acquisition-identity-security-vendor-sailpoint</id>
-        <link href="https://www.darkreading.com/edge/thoma-bravo-closes-acquisition-identity-security-vendor-sailpoint"/>
-        <updated>2022-08-17T15:35:39.000Z</updated>
-        <summary type="html"><![CDATA[All-cash transaction deal that was first announced in April means SailPoint is no longer a publicly traded company.]]></summary>
-        <author>
-            <name>Dark Reading Staff, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ThreatX Raises $30 Million in Series B Funding to Accelerate Growth in Global API Protection Market]]></title>
-        <id>https://www.darkreading.com/application-security/threatx-raises-30-million-in-series-b-funding-to-accelerate-growth-in-global-api-protection-market</id>
-        <link href="https://www.darkreading.com/application-security/threatx-raises-30-million-in-series-b-funding-to-accelerate-growth-in-global-api-protection-market"/>
-        <updated>2022-08-17T15:10:07.000Z</updated>
-        <summary type="html"><![CDATA[Funds will support product development and market expansion for ThreatX, which delivers real-time protection for APIs and Web apps against complex botnets, DDoS, and multimode attacks.]]></summary>
-        <author>
-            <name>Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AuditBoard Launches Third-Party Risk Management Solution, Empowering Enterprises to Tackle IT Vendor Risk at Scale]]></title>
-        <id>https://www.darkreading.com/cloud/auditboard-launches-third-party-risk-management-solution-empowering-enterprises-to-tackle-it-vendor-risk-at-scale</id>
-        <link href="https://www.darkreading.com/cloud/auditboard-launches-third-party-risk-management-solution-empowering-enterprises-to-tackle-it-vendor-risk-at-scale"/>
-        <updated>2022-08-17T15:00:39.000Z</updated>
-        <summary type="html"><![CDATA[Solution streamlines the assessment, monitoring, and remediation of third-party risk for information security, compliance, and risk teams.]]></summary>
-        <author>
-            <name>Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[7 Smart Ways to Secure Your E-Commerce Site]]></title>
-        <id>https://www.darkreading.com/application-security/7-smart-ways-to-secure-your-ecommerce-site</id>
-        <link href="https://www.darkreading.com/application-security/7-smart-ways-to-secure-your-ecommerce-site"/>
-        <updated>2022-08-17T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Especially if your e-commerce and CMS platforms are integrated, you risk multiple potential sources of intrusion, and the integration points themselves may be vulnerable to attack.]]></summary>
-        <author>
-            <name>Sebastian Gierlinger, VP of Developer Experience, Storyblok</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cybercriminals Developing BugDrop Malware to Bypass Android Security Features]]></title>
-        <id>tag:blogger.com,1999:blog-4802841478634147276.post-8495793374551270064</id>
-        <link href="https://thehackernews.com/2022/08/cybercriminals-developing-bugdrop.html"/>
-        <updated>2022-08-17T13:59:58.919Z</updated>
-        <summary type="html"><![CDATA[In a sign that malicious actors continue to find ways to work around Google Play Store security protections, researchers have spotted a previously undocumented Android dropper trojan that's currently in development.
-"This new malware tries to abuse devices using a novel technique, not seen before in Android malware, to spread the extremely dangerous Xenomorph banking trojan, allowing criminals]]></summary>
-        <author>
-            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Social Engineering for Espionage and Influence]]></title>
-        <id>https://blog.knowbe4.com/social-engineering-for-espionage-and-influence</id>
-        <link href="https://blog.knowbe4.com/social-engineering-for-espionage-and-influence"/>
-        <updated>2022-08-17T13:20:19.000Z</updated>
-        <summary type="html"><![CDATA[Microsoft has disrupted operations carried out by a Russian government-aligned threat actor tracked as “SEABORGIUM.” The threat actor uses phishing and credential harvesting to conduct espionage and information operations. SEABORGIUM typically focuses on organizations in Western countries, although it began targeting some Ukrainian organizations shortly before Russia invaded Ukraine.]]></summary>
-        <author>
-            <name>Stu Sjouwerman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Google Chrome Zero-Day Vulnerability Being Exploited in the Wild]]></title>
-        <id>tag:blogger.com,1999:blog-4802841478634147276.post-2162105957628129517</id>
-        <link href="https://thehackernews.com/2022/08/new-google-chrome-zero-day.html"/>
-        <updated>2022-08-17T12:02:28.456Z</updated>
-        <summary type="html"><![CDATA[Google on Tuesday rolled out patches for Chrome browser for desktops to contain an actively exploited high-severity zero-day flaw in the wild.
-Tracked as CVE-2022-2856, the issue has been described as a case of insufficient validation of untrusted input in Intents. Security researchers Ashley Shen and Christian Resell of Google Threat Analysis Group have been credited with reporting the flaw on]]></summary>
-        <author>
-            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Researchers Link Multi-Year Mass Credential Theft Campaign to Chinese Hackers]]></title>
-        <id>tag:blogger.com,1999:blog-4802841478634147276.post-2531620921651152778</id>
-        <link href="https://thehackernews.com/2022/08/researchers-link-multi-year-mass.html"/>
-        <updated>2022-08-17T11:52:29.295Z</updated>
-        <summary type="html"><![CDATA[A Chinese state-sponsored threat activity group named RedAlpha has been attributed to a multi-year mass credential theft campaign aimed at global humanitarian, think tank, and government organizations.
-"In this activity, RedAlpha very likely sought to gain access to email accounts and other online communications of targeted individuals and organizations," Recorded Future disclosed in a new]]></summary>
-        <author>
-            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lean Security 101: 3 Tips for Building Your Framework]]></title>
-        <id>tag:blogger.com,1999:blog-4802841478634147276.post-4377980449776691144</id>
-        <link href="https://thehackernews.com/2022/08/lean-security-101-3-tips-for-building.html"/>
-        <updated>2022-08-17T10:50:14.716Z</updated>
-        <summary type="html"><![CDATA[Cobalt, Lazarus, MageCart, Evil, Revil — cybercrime syndicates spring up so fast it's hard to keep track. Until…they infiltrate your system. But you know what's even more overwhelming than rampant cybercrime?
-Building your organization's security framework. 
-CIS, NIST, PCI DSS, HIPAA, HITrust, and the list goes on. Even if you had the resources to implement every relevant industry standard and]]></summary>
-        <author>
-            <name>noreply@blogger.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Malicious Browser Extensions Targeted Over a Million Users So Far This Year]]></title>
-        <id>tag:blogger.com,1999:blog-4802841478634147276.post-4610286552353099011</id>
-        <link href="https://thehackernews.com/2022/08/malicious-browser-extensions-targeted.html"/>
-        <updated>2022-08-17T08:44:47.043Z</updated>
-        <summary type="html"><![CDATA[More than 1.31 million users attempted to install malicious or unwanted web browser extensions at least once, new findings from cybersecurity firm Kaspersky show.
-"From January 2020 to June 2022, more than 4.3 million unique users were attacked by adware hiding in browser extensions, which is approximately 70% of all users affected by malicious and unwanted add-ons," the company said.
-As many as]]></summary>
-        <author>
-            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
         </author>
     </entry>
 </feed>
