@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-09-17T07:24:39.802Z</updated>
+    <updated>2022-09-17T13:38:37.030Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Uber Claims No Sensitive Data Exposed in Latest Breach… But There's More to This]]></title>
+        <id>tag:blogger.com,1999:blog-4802841478634147276.post-2086338951962070137</id>
+        <link href="https://thehackernews.com/2022/09/uber-claims-no-sensitive-data-exposed.html"/>
+        <updated>2022-09-17T08:53:00.000Z</updated>
+        <summary type="html"><![CDATA[Uber, in an update, said there is "no evidence" that users' private information was compromised in a breach of its internal computer systems that was discovered late Thursday.
+"We have no evidence that the incident involved access to sensitive user data (like trip history)," the company said. "All of our services including Uber, Uber Eats, Uber Freight, and the Uber Driver app are operational."]]></summary>
+        <author>
+            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hackers Had Access to LastPass's Development Systems for Four Days]]></title>
         <id>tag:blogger.com,1999:blog-4802841478634147276.post-754076421008578678</id>
@@ -4406,29 +4417,6 @@ ICSA-21-194-07 Siemens Industrial Products LLDP (Update D)
 This product is provided subject to this Notification and this Privacy & Use policy.]]></summary>
         <author>
             <name>CISA</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cisco Releases Security Update for Cisco Secure Web Appliance]]></title>
-        <id>17894 at https://us-cert.cisa.gov</id>
-        <link href="https://us-cert.cisa.gov/ncas/current-activity/2022/08/18/cisco-releases-security-update-cisco-secure-web-appliance"/>
-        <updated>2022-08-19T01:13:55.000Z</updated>
-        <summary type="html"><![CDATA[Original release date: August 18, 2022
-Cisco has released security updates to address vulnerabilities in Cisco Secure Web Appliance. A remote attacker could exploit some of these vulnerabilities to take control of an affected system. For updates addressing lower severity vulnerabilities, see the Cisco Security Advisories page. 
-Cisco Secure Web Appliance Privilege Escalation Vulnerability and apply the necessary updates.
-This product is provided subject to this Notification and this Privacy & Use policy.]]></summary>
-        <author>
-            <name>CISA</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Easing the Cyber-Skills Crisis With Staff Augmentation]]></title>
-        <id>https://www.darkreading.com/operations/easing-the-cyber-skills-crisis-with-staff-augmentation</id>
-        <link href="https://www.darkreading.com/operations/easing-the-cyber-skills-crisis-with-staff-augmentation"/>
-        <updated>2022-08-18T21:28:13.000Z</updated>
-        <summary type="html"><![CDATA[Filling cybersecurity roles can be costly, slow, and chancy. More firms are working with third-party service providers to quickly procure needed expertise.]]></summary>
-        <author>
-            <name>Dark Reading</name>
         </author>
     </entry>
 </feed>
