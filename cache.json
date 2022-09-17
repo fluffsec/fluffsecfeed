@@ -341,16 +341,6 @@
           "wordCount": 1192,
           "title": "CISA Adds Seven Known Exploited Vulnerabilities to Catalog",
           "imageUrl": null
-        },
-        {
-          "id": "17896 at https://us-cert.cisa.gov",
-          "author": "CISA",
-          "description": "Original release date: August 18, 2022\nApple has released security updates to address vulnerabilities in macOS Monterey, iOS and iPadOS. An attacker could exploit one of these vulnerabilities to take control of an affected device.\nCISA encourages users and administrators to review the Apple security updates page for the following products and apply the necessary updates as soon as possible:\nMacOS Monterey 12.5.1\niOS 15.6.1 and iPadOS 15.6.1\nThis product is provided subject to this Notification and this Privacy & Use policy.",
-          "link": "https://us-cert.cisa.gov/ncas/current-activity/2022/08/18/apple-releases-security-updates-multiple-products",
-          "publishedOn": "2022-08-18T15:26:31.000Z",
-          "wordCount": 1075,
-          "title": "Apple Releases Security Updates for Multiple Products",
-          "imageUrl": null
         }
       ]
     },
@@ -396,16 +386,6 @@
           "wordCount": 2080,
           "title": "Fake Reservation Links Prey on Weary Travelers",
           "imageUrl": "https://media.kasperskycontenthub.com/wp-content/uploads/sites/103/2018/05/02171204/traveling-1.jpg"
-        },
-        {
-          "id": "https://kasperskycontenthub.com/threatpost-global/?p=180432",
-          "author": "Elizabeth Montalbano",
-          "description": "An insufficient validation input flaw, one of 11 patched in an update this week, could allow for arbitrary code execution and is under active attack.",
-          "link": "https://threatpost.com/google-patches-chromes-fifth-zero-day-of-the-year/180432/",
-          "publishedOn": "2022-08-18T14:31:38.000Z",
-          "wordCount": 2083,
-          "title": "Google Patches Chrome’s Fifth Zero-Day of the Year",
-          "imageUrl": "https://media.kasperskycontenthub.com/wp-content/uploads/sites/103/2019/07/31115247/chrome_patch.jpg"
         }
       ]
     },
@@ -453,16 +433,6 @@
           "wordCount": 2003,
           "title": "iPhone Users Urged to Update to Patch 2 Zero-Days",
           "imageUrl": "https://media.kasperskycontenthub.com/wp-content/uploads/sites/103/2022/08/19112256/always-update-safari-on-iphone-featured.jpg"
-        },
-        {
-          "id": "https://kasperskycontenthub.com/threatpost-global/?p=180432",
-          "author": "Elizabeth Montalbano",
-          "description": "An insufficient validation input flaw, one of 11 patched in an update this week, could allow for arbitrary code execution and is under active attack.",
-          "link": "https://threatpost.com/google-patches-chromes-fifth-zero-day-of-the-year/180432/",
-          "publishedOn": "2022-08-18T14:31:38.000Z",
-          "wordCount": 2083,
-          "title": "Google Patches Chrome’s Fifth Zero-Day of the Year",
-          "imageUrl": "https://media.kasperskycontenthub.com/wp-content/uploads/sites/103/2019/07/31115247/chrome_patch.jpg"
         }
       ]
     },
@@ -471,6 +441,36 @@
       "feedUrl": "https://www.darkreading.com/rss.xml",
       "siteUrl": "https://www.darkreading.com",
       "articles": [
+        {
+          "id": "https://www.darkreading.com/attacks-breaches/attacker-apparently-didnt-breach-single-system-pwn-uber",
+          "author": "Jai Vijayan, Contributing Writer, Dark Reading",
+          "description": "Alleged teen hacker claims he found an admin password in a network share inside Uber that allowed complete access to ride-sharing giant's AWS, Windows, Google Cloud, VMware, and other environments.",
+          "link": "https://www.darkreading.com/attacks-breaches/attacker-apparently-didnt-breach-single-system-pwn-uber",
+          "publishedOn": "2022-09-16T20:37:57.000Z",
+          "wordCount": 14175,
+          "title": "Attacker Apparently Didn't Have to Breach a Single System to Pwn Uber",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt02d79fb9a44a4258/60b1e9dd2a25046b35110696/Jai-Vijayan.jpeg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt02d79fb9a44a4258/60b1e9dd2a25046b35110696/Jai-Vijayan.jpeg"
+        },
+        {
+          "id": "https://www.darkreading.com/edge-articles/tackling-financial-fraud-with-machine-learning",
+          "author": "Tatiana Walk-Morris, Contributing Writer",
+          "description": "Financial services firms need to learn how — and when — to put machine learning to use.",
+          "link": "https://www.darkreading.com/edge-articles/tackling-financial-fraud-with-machine-learning",
+          "publishedOn": "2022-09-16T20:00:00.000Z",
+          "wordCount": 12984,
+          "title": "Tackling Financial Fraud With Machine Learning",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt3b296baaaaccbc2a/61bbb7b4ac124d4b2e71583a/WriterDefault_vladwel_Adobe.jpg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt3b296baaaaccbc2a/61bbb7b4ac124d4b2e71583a/WriterDefault_vladwel_Adobe.jpg"
+        },
         {
           "id": "https://www.darkreading.com/attacks-breaches/real-estate-phish-1000s-credentials-escalating-cyber-risk",
           "author": "Tara Seals, Managing Editor, News, Dark Reading",
@@ -3160,61 +3160,6 @@
             "length": "0"
           },
           "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt58481326324d6911/60b1e9a55d34de550780a990/Robert-Lemos.png"
-        },
-        {
-          "id": "https://www.darkreading.com/application-security/security-bugs-exploited-model-machine-learning",
-          "author": "Robert Lemos, Contributing Writer, Dark Reading",
-          "description": "How critical is that vulnerability? University researchers are improving predictions of which software flaws will end up with an exploit, a boon for prioritizing patches and estimating risk.",
-          "link": "https://www.darkreading.com/application-security/security-bugs-exploited-model-machine-learning",
-          "publishedOn": "2022-08-18T14:42:38.000Z",
-          "wordCount": 11971,
-          "title": "Which Security Bugs Will Be Exploited? Researchers Create an ML Model to Find Out",
-          "enclosure": {
-            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt58481326324d6911/60b1e9a55d34de550780a990/Robert-Lemos.png",
-            "type": "image/*",
-            "length": "0"
-          },
-          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt58481326324d6911/60b1e9a55d34de550780a990/Robert-Lemos.png"
-        },
-        {
-          "id": "https://www.darkreading.com/remote-workforce/summertime-blues-ta558-ramps-attacks-hospitality-travel",
-          "author": "Nathan Eddy, Contributing Writer, Dark Reading",
-          "description": "The cybercriminal crew has used 15 malware families to target travel and hospitality companies globally, constantly changing tactics over the course of its four-year history.",
-          "link": "https://www.darkreading.com/remote-workforce/summertime-blues-ta558-ramps-attacks-hospitality-travel",
-          "publishedOn": "2022-08-18T14:38:22.000Z",
-          "wordCount": 11007,
-          "title": "Summertime Blues: TA558 Ramps Up Attacks on Hospitality, Travel Sectors",
-          "enclosure": {
-            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltf8b5a94afa71c53a/628e3799daa31875dc0c9fc0/NathanEddyHeadshot.PNG",
-            "type": "image/*",
-            "length": "0"
-          },
-          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltf8b5a94afa71c53a/628e3799daa31875dc0c9fc0/NathanEddyHeadshot.PNG"
-        },
-        {
-          "id": "https://www.darkreading.com/careers-and-people/how-to-upskill-tech-staff-to-meet-cybersecurity-needs",
-          "author": "Aaron Rosenmund, Director of Security Research and Curriculum, Pluralsight",
-          "description": "Cybersecurity is the largest current tech skills gap; closing it requires a concerted effort to upskill existing staff.",
-          "link": "https://www.darkreading.com/careers-and-people/how-to-upskill-tech-staff-to-meet-cybersecurity-needs",
-          "publishedOn": "2022-08-18T14:00:00.000Z",
-          "wordCount": 11010,
-          "title": "How to Upskill Tech Staff to Meet Cybersecurity Needs",
-          "enclosure": {
-            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltcc5a865362a2ee7c/62fcfe191e7f7e482bfb7a80/Pluralsight_Aaron_Rosenmund.png",
-            "type": "image/*",
-            "length": "0"
-          },
-          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltcc5a865362a2ee7c/62fcfe191e7f7e482bfb7a80/Pluralsight_Aaron_Rosenmund.png"
-        },
-        {
-          "id": "https://www.darkreading.com/application-security/openssf-announces-13-new-members-committed-to-strengthening-the-security-of-the-open-source-software-supply-chain",
-          "author": null,
-          "description": "Hosts next OpenSSF Day in Dublin.",
-          "link": "https://www.darkreading.com/application-security/openssf-announces-13-new-members-committed-to-strengthening-the-security-of-the-open-source-software-supply-chain",
-          "publishedOn": "2022-08-18T13:42:55.000Z",
-          "wordCount": 14974,
-          "title": "OpenSSF Announces 13 New Members Committed to Strengthening the Security of the Open Source Software Supply Chain",
-          "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
         }
       ]
     },
@@ -3828,46 +3773,6 @@
           "wordCount": 2166,
           "title": "Piggybacking: Social Engineering for Physical Access",
           "imageUrl": "https://blog.knowbe4.com/hubfs/Social%20Engineering%20for%20Physical%20Access.jpg#keepProtocol"
-        },
-        {
-          "id": "https://blog.knowbe4.com/one-third-of-organizations-experience-ransomware-attacks-at-least-weekly",
-          "author": "Stu Sjouwerman",
-          "description": "New data shows attempted ransomware attacks are occurring far more frequently while a lack of confidence is found in security measures and solutions to stop ransomware attacks.",
-          "link": "https://blog.knowbe4.com/one-third-of-organizations-experience-ransomware-attacks-at-least-weekly",
-          "publishedOn": "2022-08-18T12:17:10.000Z",
-          "wordCount": 2089,
-          "title": "One-Third of Organizations Experience Ransomware Attacks At Least Weekly",
-          "imageUrl": "https://blog.knowbe4.com/hubfs/One-Third%20Experience%20Ransomware%20Attacks%20Weekly.jpg#keepProtocol"
-        },
-        {
-          "id": "https://blog.knowbe4.com/impersonation-phishing-attacks-increase-as-credentials-take-the-lead-as-the-primary-target",
-          "author": "Stu Sjouwerman",
-          "description": "New data shows an upswell of email-based cyberattacks, with over 256 brands being impersonated, as social media, Microsoft, shipping, and ecommerce brands top the list.",
-          "link": "https://blog.knowbe4.com/impersonation-phishing-attacks-increase-as-credentials-take-the-lead-as-the-primary-target",
-          "publishedOn": "2022-08-18T12:16:56.000Z",
-          "wordCount": 2176,
-          "title": "Impersonation Phishing Attacks Increase as Credentials Take the Lead as the Primary Target",
-          "imageUrl": "https://blog.knowbe4.com/hubfs/Impersonation%20Phishing%20Attacks.jpg#keepProtocol"
-        },
-        {
-          "id": "https://blog.knowbe4.com/hybrid-vishing-attacks-increase-625-in-q2",
-          "author": "Stu Sjouwerman",
-          "description": "Reaching a six-quarter high in Q2, hybrid vishing attacks have increased six times that of the hybrid-vishing attacks experienced in Q1 2021.",
-          "link": "https://blog.knowbe4.com/hybrid-vishing-attacks-increase-625-in-q2",
-          "publishedOn": "2022-08-18T12:16:42.000Z",
-          "wordCount": 2060,
-          "title": "Hybrid Vishing Attacks Increase 625% in Q2",
-          "imageUrl": "https://blog.knowbe4.com/hubfs/Hybrid%20Vishing%20Attacks.jpg#keepProtocol"
-        },
-        {
-          "id": "https://blog.knowbe4.com/organizations-holding-cyber-insurance-policies-may-get-stuck-with-the-bill-in-a-phishing-loss",
-          "author": "Stu Sjouwerman",
-          "description": "Plenty of new anecdotal and legal case-based stories are demonstrating that just because your organization has a policy doesn’t mean it’s actually going to pay out after an attack.",
-          "link": "https://blog.knowbe4.com/organizations-holding-cyber-insurance-policies-may-get-stuck-with-the-bill-in-a-phishing-loss",
-          "publishedOn": "2022-08-18T12:16:28.000Z",
-          "wordCount": 2175,
-          "title": "Organizations Holding Cyber Insurance Policies May Get Stuck with the Bill in a Phishing Loss",
-          "imageUrl": "https://blog.knowbe4.com/hubfs/Cyber%20Insurance%20Policies.jpg#keepProtocol"
         }
       ]
     },
@@ -5160,28 +5065,6 @@
           "publishedOn": "2022-08-18T16:45:54.665Z",
           "wordCount": null,
           "title": "China-backed APT41 Hackers Targeted 13 Organisations Worldwide Last Year",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "tag:blogger.com,1999:blog-4802841478634147276.post-589011363729364666",
-          "author": "noreply@blogger.com (The Hacker News)",
-          "description": "Pentesting and vulnerability scanning are often confused for the same service. The problem is, business owners often use one when they really need the other. Let's dive in and explain the differences.\nPeople frequently confuse penetration testing and vulnerability scanning, and it's easy to see why. Both look for weaknesses in your IT infrastructure by exploring your systems in the same way an",
-          "link": "https://thehackernews.com/2022/08/penetration-testing-or-vulnerability.html",
-          "publishedOn": "2022-08-18T09:26:20.951Z",
-          "wordCount": null,
-          "title": "Penetration Testing or Vulnerability Scanning? What's the Difference?",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "tag:blogger.com,1999:blog-4802841478634147276.post-2488352088016639371",
-          "author": "noreply@blogger.com (Ravie Lakshmanan)",
-          "description": "The malware loader known as Bumblebee is being increasingly co-opted by threat actors associated with BazarLoader, TrickBot, and IcedID in their campaigns to breach target networks for post-exploitation activities.\n\"Bumblebee operators conduct intensive reconnaissance activities and redirect the output of executed commands to files for exfiltration,\" Cybereason researchers Meroujan Antonyan and",
-          "link": "https://thehackernews.com/2022/08/hackers-using-bumblebee-loader-to.html",
-          "publishedOn": "2022-08-18T09:20:52.378Z",
-          "wordCount": null,
-          "title": "Hackers Using Bumblebee Loader to Compromise Active Directory Services",
           "itunes": {},
           "imageUrl": null
         }
