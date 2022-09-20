@@ -402,6 +402,21 @@
       "siteUrl": "https://www.darkreading.com",
       "articles": [
         {
+          "id": "https://www.darkreading.com/dr-tech/crowdstrike-investment-spotlights-api-security",
+          "author": "Dark Reading Staff, Dark Reading",
+          "description": "The investment in Salt Security underscores the fact that attacks targeting APIs are increasing.",
+          "link": "https://www.darkreading.com/dr-tech/crowdstrike-investment-spotlights-api-security",
+          "publishedOn": "2022-09-20T00:00:00.000Z",
+          "wordCount": 10301,
+          "title": "CrowdStrike Investment Spotlights API Security",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blte161b23f0fd3a84b/60b1ea374e7eb868c4c6a293/dr_staff_125x125.jpg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blte161b23f0fd3a84b/60b1ea374e7eb868c4c6a293/dr_staff_125x125.jpg"
+        },
+        {
           "id": "https://www.darkreading.com/attacks-breaches/uber-breach-external-contractor-mfa-bombing-attack",
           "author": "Jai Vijayan, Contributing Writer, Dark Reading",
           "description": "The ride-sharing giant says a member of the notorious Lapsus$ hacking group started the attack by compromising an external contractor's credentials, as researchers parse the incident for takeaways.",
@@ -3055,6 +3070,16 @@
       "siteUrl": "https://blog.knowbe4.com",
       "articles": [
         {
+          "id": "https://blog.knowbe4.com/cyberheistnews-vol-12-38-heads-up-new-uber-security-breach-looks-bad-caused-by-social-engineering",
+          "author": "Stu Sjouwerman",
+          "description": "CyberheistNews Vol 12 #38 [HEADS UP] New Uber Security Breach 'Looks Bad', Caused by Social Engineering",
+          "link": "https://blog.knowbe4.com/cyberheistnews-vol-12-38-heads-up-new-uber-security-breach-looks-bad-caused-by-social-engineering",
+          "publishedOn": "2022-09-20T13:30:00.000Z",
+          "wordCount": 4524,
+          "title": "CyberheistNews Vol 12 #38 [HEADS UP] New Uber Security Breach 'Looks Bad', Caused by Social Engineering",
+          "imageUrl": "https://blog.knowbe4.com/hubfs/CHN-Social.jpg#keepProtocol"
+        },
+        {
           "id": "https://blog.knowbe4.com/social-engineering-targets-healthcare-payment-processors",
           "author": "Stu Sjouwerman",
           "description": "The US Federal Bureau of Investigation (FBI) has issued an alert warning of an increase in phishing and other social engineering attacks against healthcare payment processors.",
@@ -3581,6 +3606,28 @@
       "feedUrl": "https://thehackernews.com/feeds/posts/default",
       "siteUrl": "https://thehackernews.com/",
       "articles": [
+        {
+          "id": "tag:blogger.com,1999:blog-4802841478634147276.post-1309720496399157864",
+          "author": "noreply@blogger.com (Ravie Lakshmanan)",
+          "description": "A threat cluster linked to the Russian nation-state actor tracked as Sandworm has continued its targeting of Ukraine with commodity malware by masquerading as telecom providers, new findings show.\nRecorded Future said it discovered new infrastructure belonging to UAC-0113 that mimics operators like Datagroup and EuroTransTelecom to deliver payloads such as Colibri loader and Warzone RAT.\nThe",
+          "link": "https://thehackernews.com/2022/09/russian-sandworm-hackers-impersonate.html",
+          "publishedOn": "2022-09-20T12:56:00.000Z",
+          "wordCount": null,
+          "title": "Russian Sandworm Hackers Impersonate Ukrainian Telecoms to Distribute Malware",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "tag:blogger.com,1999:blog-4802841478634147276.post-5638543614193090715",
+          "author": "noreply@blogger.com (Ravie Lakshmanan)",
+          "description": "Uber on Monday disclosed more details related to the security incident that happened last week, pinning the attack on a threat actor it believes is affiliated to the notorious LAPSUS$ hacking group.\n\"This group typically uses similar techniques to target technology companies, and in 2022 alone has breached Microsoft, Cisco, Samsung, NVIDIA, and Okta, among others,\" the San Francisco-based",
+          "link": "https://thehackernews.com/2022/09/uber-blames-lapsus-hacking-group-for.html",
+          "publishedOn": "2022-09-20T09:21:00.000Z",
+          "wordCount": null,
+          "title": "Uber Blames LAPSUS$ Hacking Group for Recent Security Breach",
+          "itunes": {},
+          "imageUrl": null
+        },
         {
           "id": "tag:blogger.com,1999:blog-4802841478634147276.post-1638264392797253882",
           "author": "noreply@blogger.com (Ravie Lakshmanan)",
