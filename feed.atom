@@ -2,10 +2,151 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-09-20T13:58:20.244Z</updated>
+    <updated>2022-09-20T19:24:05.368Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[2-Step Email Attack Uses Powtoon Video to Execute Payload]]></title>
+        <id>https://www.darkreading.com/attacks-breaches/email-attack-powtoon-video-execute-payload</id>
+        <link href="https://www.darkreading.com/attacks-breaches/email-attack-powtoon-video-execute-payload"/>
+        <updated>2022-09-20T19:14:05.000Z</updated>
+        <summary type="html"><![CDATA[The  attack uses hijacked Egress branding and the legit Powtoon video platform to steal user credentials.]]></summary>
+        <author>
+            <name>Dark Reading Staff, Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Beware of Phish: American Airlines, Revolut Data Breaches Expose Customer Info]]></title>
+        <id>https://www.darkreading.com/attacks-breaches/phish-american-airlines-revolut-data-breaches-expose-customer-data</id>
+        <link href="https://www.darkreading.com/attacks-breaches/phish-american-airlines-revolut-data-breaches-expose-customer-data"/>
+        <updated>2022-09-20T19:00:45.000Z</updated>
+        <summary type="html"><![CDATA[The airline and the fintech giant both fell to successful phishing attacks against employees.]]></summary>
+        <author>
+            <name>Tara Seals, Managing Editor, News, Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cast AI Introduces Cloud Security Insights for Kubernetes]]></title>
+        <id>https://www.darkreading.com/dr-tech/cast-ai-introduces-cloud-security-insights-for-kubernetes</id>
+        <link href="https://www.darkreading.com/dr-tech/cast-ai-introduces-cloud-security-insights-for-kubernetes"/>
+        <updated>2022-09-20T18:20:52.000Z</updated>
+        <summary type="html"><![CDATA[The release augments the company's Kubernetes management platform with free, user-friendly insight on security postures, along with cost monitoring and observability.]]></summary>
+        <author>
+            <name>Nathan Eddy, Contributing Writer, Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Spell-Checking in Google Chrome, Microsoft Edge Browsers Leaks Passwords]]></title>
+        <id>https://www.darkreading.com/application-security/spellchecking-google-chrome-microsoft-edge-browsers-leaks-passwords</id>
+        <link href="https://www.darkreading.com/application-security/spellchecking-google-chrome-microsoft-edge-browsers-leaks-passwords"/>
+        <updated>2022-09-20T17:37:16.000Z</updated>
+        <summary type="html"><![CDATA[It's called "spell-jacking": Both browsers have spell-check features that send data to Microsoft and Google when users fill out forms for websites or Web services.]]></summary>
+        <author>
+            <name>Elizabeth Montalbano, Contributor, Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Defense-in-Depth Updates for Azure Identity SDK and Azure Key Vault SDK plus Best Practice Implementation Guidance]]></title>
+        <id>https://msrc-blog.microsoft.com/?p=14682</id>
+        <link href="https://msrc-blog.microsoft.com/2022/09/20/defense-in-depth-updates-for-azure-identity-sdk-and-azure-key-vault-sdk-plus-best-practice-implementation-guidance/"/>
+        <updated>2022-09-20T17:17:00.000Z</updated>
+        <summary type="html"><![CDATA[Summary Today, Microsoft released a new version of the Azure Key Vault Software Development Kit (SDK) and Azure Identity SDK that includes defense-in-depth feature improvements. We also published best practice guidance to help protect applications and services that allow externally controlled input into the Azure Key Vault client URI for processing. While most applications using …
+  Defense-in-Depth Updates for Azure Identity SDK and Azure Key Vault SDK plus Best Practice Implementation Guidance Read More »]]></summary>
+        <author>
+            <name>msrc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Survey Shows CISOs Losing Confidence in Ability to Stop Ransomware Attacks]]></title>
+        <id>https://www.darkreading.com/application-security/survey-cisos-losing-confidence-stop-ransomware-attacks</id>
+        <link href="https://www.darkreading.com/application-security/survey-cisos-losing-confidence-stop-ransomware-attacks"/>
+        <updated>2022-09-20T17:16:29.000Z</updated>
+        <summary type="html"><![CDATA[Despite an 86% surge in budget resources to defend against ransomware, 90% of orgs were impacted by attacks last year, a survey reveals.]]></summary>
+        <author>
+            <name>Dark Reading Staff, Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Dodge New Ransomware Tactics]]></title>
+        <id>https://www.darkreading.com/attacks-breaches/how-to-dodge-new-ransomware-tactics</id>
+        <link href="https://www.darkreading.com/attacks-breaches/how-to-dodge-new-ransomware-tactics"/>
+        <updated>2022-09-20T17:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The evolving tactics increase the threat of ransomware operators, but there are steps organizations can take to protect themselves.]]></summary>
+        <author>
+            <name>Oliver Rochford, Director of Applied Research, Securonix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[No Enterprise Push for Quantum Without Regulatory Push]]></title>
+        <id>https://www.darkreading.com/edge-threat-monitor/no-enterprise-push-for-quantum-without-regulatory-push</id>
+        <link href="https://www.darkreading.com/edge-threat-monitor/no-enterprise-push-for-quantum-without-regulatory-push"/>
+        <updated>2022-09-20T16:44:32.000Z</updated>
+        <summary type="html"><![CDATA[What's it going to take to prod organizations to implement a post-quantum security plan? Legislative pressure.]]></summary>
+        <author>
+            <name>Edge Editors, Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New Kaspersky EDR Optimum Further Simplifies Protection Against Evasive Threats]]></title>
+        <id>https://www.darkreading.com/operations/new-kaspersky-edr-optimum-further-simplifies-protection-against-evasive-threats</id>
+        <link href="https://www.darkreading.com/operations/new-kaspersky-edr-optimum-further-simplifies-protection-against-evasive-threats"/>
+        <updated>2022-09-20T14:59:23.000Z</updated>
+        <summary type="html"><![CDATA[.]]></summary>
+        <author>
+            <name>Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ThreatQuotient Enhances Data-Driven Automation Capabilities With New ThreatQ TDR Orchestrator Features]]></title>
+        <id>https://www.darkreading.com/operations/threatquotient-enhances-data-driven-automation-capabilities-with-new-threatq-tdr-orchestrator-features</id>
+        <link href="https://www.darkreading.com/operations/threatquotient-enhances-data-driven-automation-capabilities-with-new-threatq-tdr-orchestrator-features"/>
+        <updated>2022-09-20T14:52:32.000Z</updated>
+        <summary type="html"><![CDATA[Focused on bringing ease of use to IT security automation, ThreatQ TDR Orchestrator addresses industry needs for simpler implementation and more efficient operations.]]></summary>
+        <author>
+            <name>Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SASE Bucks Economic Uncertainty With Over 30% Growth in 2Q 2022, According to Dell'Oro Group]]></title>
+        <id>https://www.darkreading.com/perimeter/sase-bucks-economic-uncertainty-with-over-30-growth-in-2q-2022-according-to-dell-oro-group</id>
+        <link href="https://www.darkreading.com/perimeter/sase-bucks-economic-uncertainty-with-over-30-growth-in-2q-2022-according-to-dell-oro-group"/>
+        <updated>2022-09-20T14:46:38.000Z</updated>
+        <summary type="html"><![CDATA[Overall SASE Spend on Pace to Top $6 Billion in 2022.]]></summary>
+        <author>
+            <name>Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Invicti Security and ESG Report on How Companies are Shifting for Higher Quality, Secure Application Code]]></title>
+        <id>https://www.darkreading.com/application-security/invicti-security-and-esg-report-on-how-companies-are-shifting-for-higher-quality-secure-application-code</id>
+        <link href="https://www.darkreading.com/application-security/invicti-security-and-esg-report-on-how-companies-are-shifting-for-higher-quality-secure-application-code"/>
+        <updated>2022-09-20T14:34:51.000Z</updated>
+        <summary type="html"><![CDATA[The balance of deploying secure applications vs. time to market continues to be the biggest risk to organizations.]]></summary>
+        <author>
+            <name>Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Byos Releases Free Assessment Tool to Provide Companies With Tailored Network Security Recommendations]]></title>
+        <id>https://www.darkreading.com/perimeter/byos-releases-free-assessment-tool-to-provide-companies-with-tailored-network-security-recommendations</id>
+        <link href="https://www.darkreading.com/perimeter/byos-releases-free-assessment-tool-to-provide-companies-with-tailored-network-security-recommendations"/>
+        <updated>2022-09-20T14:24:25.000Z</updated>
+        <summary type="html"><![CDATA[Assessment tool instantly generates a detailed report breaking down a company’s current network security maturity and recommended next steps.]]></summary>
+        <author>
+            <name>Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Water Sector Will Benefit From Call for Cyber Hardening of Critical Infrastructure]]></title>
+        <id>https://www.darkreading.com/attacks-breaches/water-sector-will-benefit-from-call-for-cyber-hardening-of-critical-infrastructure</id>
+        <link href="https://www.darkreading.com/attacks-breaches/water-sector-will-benefit-from-call-for-cyber-hardening-of-critical-infrastructure"/>
+        <updated>2022-09-20T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A call for federal agency "review and assessment" of cyber-safety plans at water treatment plants should better protect customers and move the industry forward.]]></summary>
+        <author>
+            <name>Duncan Greatwood, CEO, Xage</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CyberheistNews Vol 12 #38 [HEADS UP] New Uber Security Breach 'Looks Bad', Caused by Social Engineering]]></title>
         <id>https://blog.knowbe4.com/cyberheistnews-vol-12-38-heads-up-new-uber-security-breach-looks-bad-caused-by-social-engineering</id>
@@ -67,6 +208,27 @@ The]]></summary>
         <summary type="html"><![CDATA[The Take-Two Interactive subsidiary acknowledges an attack on its systems, where an attacker downloaded "early development footage for the next Grand Theft Auto" and other assets.]]></summary>
         <author>
             <name>Robert Lemos, Contributing Writer, Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CISA Releases Eight industrial Control Systems Advisories]]></title>
+        <id>17983 at https://us-cert.cisa.gov</id>
+        <link href="https://us-cert.cisa.gov/ncas/current-activity/2022/09/19/cisa-releases-eight-industrial-control-systems-advisories"/>
+        <updated>2022-09-19T18:44:12.000Z</updated>
+        <summary type="html"><![CDATA[Original release date: September 19, 2022 | Last revised: September 20, 2022
+CISA has released eight (8) Industrial Control Systems (ICS) advisories on September 20, 2022. These advisories provide timely information about current security issues, vulnerabilities, and exploits surrounding ICS.
+CISA encourages users and administrators to review the newly released ICS advisories for technical details and mitigations:
+•    ICSA-22-263-01 Hitachi Energy PROMOD IV
+Hitachi Energy AFF660/665 Series
+Medtronic NGP 600 Series Insulin Pumps
+Dataprobe iBoot-PDU
+Host Engineering Communications Module]
+AutomationDirect DirectLOGIC with Ethernet (Update A)
+AutomationDirect DirectLOGIC with Serial Communication (Update A)
+MiCODUS MV720 GPS tracker (Update A)
+This product is provided subject to this Notification and this Privacy & Use policy.]]></summary>
+        <author>
+            <name>CISA</name>
         </author>
     </entry>
     <entry>
@@ -4336,17 +4498,6 @@ RAT malware typically helps cybercriminals gain complete control of a victim's s
         <updated>2022-08-22T09:19:00.000Z</updated>
         <summary type="html"><![CDATA[Researchers have disclosed multiple vulnerabilities impacting Ultra-wideband (UWB) Real-time Locating Systems (RTLS), enabling threat actors to launch adversary-in-the-middle (AitM) attacks and tamper with location data.
 "The zero-days found specifically pose a security risk for workers in industrial environments," cybersecurity firm Nozomi Networks disclosed in a technical write-up last week. "]]></summary>
-        <author>
-            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hackers Stole Crypto from Bitcoin ATMs by Exploiting Zero-Day Vulnerability]]></title>
-        <id>tag:blogger.com,1999:blog-4802841478634147276.post-4898443476731995733</id>
-        <link href="https://thehackernews.com/2022/08/hackers-stole-crypto-from-bitcoin-atms.html"/>
-        <updated>2022-08-22T05:54:00.000Z</updated>
-        <summary type="html"><![CDATA[Bitcoin ATM manufacturer General Bytes confirmed that it was a victim of a cyberattack that exploited a previously unknown flaw in its software to plunder cryptocurrency from its users.
-"The attacker was able to create an admin user remotely via CAS administrative interface via a URL call on the page that is used for the default installation on the server and creating the first administration]]></summary>
         <author>
             <name>noreply@blogger.com (Ravie Lakshmanan)</name>
         </author>
