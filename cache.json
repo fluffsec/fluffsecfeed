@@ -291,36 +291,6 @@
           "wordCount": 1069,
           "title": "Mozilla Releases Security Updates for Firefox, Firefox ESR, and Thunderbird",
           "imageUrl": null
-        },
-        {
-          "id": "17902 at https://us-cert.cisa.gov",
-          "author": "CISA",
-          "description": "Original release date: August 22, 2022 | Last revised: August 23, 2022\nCISA has released 7 Industrial Control Systems (ICS) advisories on August 23, 2022. These advisories provide timely information about current security issues, vulnerabilities, and exploits surrounding ICS.\nCISA encourages users and administrators to review the newly released ICS advisories for technical details and mitigations:\nICSA-22-235-01 ARC Informatique PcVue\nICSA-22-235-02 Delta Industrial Automation DIALink\nICSA-22-235-03 myScada Pro\nICSA-22-235-05 Measuresoft ScadaPro Server\nICSA-22-235-06 Measuresoft ScadaPro Server and Client\nICSA-22-235-07 Hitachi Energy RTU500\nICSA-22-153-02 Illumina Local Run Manager (Update A)\nThis product is provided subject to this Notification and this Privacy & Use policy.",
-          "link": "https://us-cert.cisa.gov/ncas/current-activity/2022/08/22/cisa-releases-7-industrial-control-systems-advisories",
-          "publishedOn": "2022-08-22T15:00:00.000Z",
-          "wordCount": 1078,
-          "title": "CISA releases 7 Industrial Control Systems Advisories",
-          "imageUrl": null
-        },
-        {
-          "id": "17900 at https://us-cert.cisa.gov",
-          "author": "CISA",
-          "description": "Original release date: August 22, 2022\nCISA and the Multi-State Information Sharing & Analysis Center (MS-ISAC) have updated joint Cybersecurity Advisory AA22-228A: Threat Actors Exploiting Multiple CVEs Against Zimbra Collaboration Suite, originally released August 16, 2022. The advisory has been updated to include additional detection signatures.\nCISA encourages organizations to review the latest update to AA22-228A and apply the recommended mitigations.\nThis product is provided subject to this Notification and this Privacy & Use policy.",
-          "link": "https://us-cert.cisa.gov/ncas/current-activity/2022/08/22/cisa-updates-advisory-threat-actors-exploiting-multiple-cves",
-          "publishedOn": "2022-08-22T14:59:20.000Z",
-          "wordCount": 1068,
-          "title": "CISA Updates Advisory on Threat Actors Exploiting Multiple CVEs Against Zimbra Collaboration Suite",
-          "imageUrl": null
-        },
-        {
-          "id": "17901 at https://us-cert.cisa.gov",
-          "author": "CISA",
-          "description": "Original release date: August 22, 2022\nCISA has added a new vulnerability to its Known Exploited Vulnerabilities Catalog, based on evidence of active exploitation. These types of vulnerabilities are a frequent attack vector for malicious cyber actors and pose significant risk to the federal enterprise. Note: to view the newly added vulnerabilities in the catalog, click on the arrow in the \"Date Added to Catalog\" column, which will sort by descending dates.    \nBinding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the Known Exploited Vulnerabilities Catalog as a living list of known CVEs that carry significant risk to the federal enterprise. BOD 22-01 requires FCEB agencies to remediate identified vulnerabilities by the due date to protect FCEB networks against active threats. See the BOD 22-01 Fact Sheet for more information.     \nAlthough BOD 22-01 only applies to FCEB agencies, CISA strongly urges all organizations to reduce their exposure to cyberattacks by prioritizing timely remediation of Catalog vulnerabilities as part of their vulnerability management practice. CISA will continue to add vulnerabilities to the Catalog that meet the specified criteria.    \nThis product is provided subject to this Notification and this Privacy & Use policy.",
-          "link": "https://us-cert.cisa.gov/ncas/current-activity/2022/08/22/cisa-adds-one-known-exploited-vulnerabilities-catalog",
-          "publishedOn": "2022-08-22T14:51:30.000Z",
-          "wordCount": 1174,
-          "title": "CISA Adds One Known Exploited Vulnerabilities to Catalog",
-          "imageUrl": null
         }
       ]
     },
@@ -356,16 +326,6 @@
           "wordCount": 2075,
           "title": "Firewall Bug Under Active Attack Triggers CISA Warning",
           "imageUrl": "https://media.kasperskycontenthub.com/wp-content/uploads/sites/103/2018/11/02102344/ddos-protection-title-e1653560961632.jpg"
-        },
-        {
-          "id": "https://kasperskycontenthub.com/threatpost-global/?p=180462",
-          "author": "Nate Nelson",
-          "description": "Fake travel reservations are exacting more pain from the travel weary, already dealing with the misery of canceled flights and overbooked hotels.",
-          "link": "https://threatpost.com/reservation-links-prey-on-travelers/180462/",
-          "publishedOn": "2022-08-22T13:59:06.000Z",
-          "wordCount": 2080,
-          "title": "Fake Reservation Links Prey on Weary Travelers",
-          "imageUrl": "https://media.kasperskycontenthub.com/wp-content/uploads/sites/103/2018/05/02171204/traveling-1.jpg"
         }
       ]
     },
@@ -411,6 +371,36 @@
       "feedUrl": "https://www.darkreading.com/rss.xml",
       "siteUrl": "https://www.darkreading.com",
       "articles": [
+        {
+          "id": "https://www.darkreading.com/emerging-tech/microsoft-brings-zero-trust-to-hardware-in-windows-11",
+          "author": "Karen Spiegelman, Features Editor",
+          "description": "A stacked combination of hardware and software protects the next version of Windows against the latest generation of firmware threats.",
+          "link": "https://www.darkreading.com/emerging-tech/microsoft-brings-zero-trust-to-hardware-in-windows-11",
+          "publishedOn": "2022-09-21T03:33:20.000Z",
+          "wordCount": 14495,
+          "title": "Microsoft Brings Zero Trust to Hardware in Windows 11",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt05b5a13cf2fb2868/62473b097c2d1d030cd47dff/pink-headshot.jpg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt05b5a13cf2fb2868/62473b097c2d1d030cd47dff/pink-headshot.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/attacks-breaches/chromeloader-malware-prevalent-more-dangerous-cyber-threat",
+          "author": "Jai Vijayan, Contributing Writer, Dark Reading",
+          "description": "Microsoft and VMware are warning that the malware, which first surfaced as a browser-hijacking credential stealer, is now being used to drop ransomware, steal data, and crash systems at enterprises.",
+          "link": "https://www.darkreading.com/attacks-breaches/chromeloader-malware-prevalent-more-dangerous-cyber-threat",
+          "publishedOn": "2022-09-20T20:33:17.000Z",
+          "wordCount": 14050,
+          "title": "ChromeLoader Malware Evolves into Prevalent, More Dangerous Cyber Threat",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt02d79fb9a44a4258/60b1e9dd2a25046b35110696/Jai-Vijayan.jpeg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt02d79fb9a44a4258/60b1e9dd2a25046b35110696/Jai-Vijayan.jpeg"
+        },
         {
           "id": "https://www.darkreading.com/attacks-breaches/email-attack-powtoon-video-execute-payload",
           "author": "Dark Reading Staff, Dark Reading",
@@ -3090,81 +3080,6 @@
             "length": "0"
           },
           "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt73a307a92ef52195/60d43224467112384c711548/terry-sweeney.png"
-        },
-        {
-          "id": "https://www.darkreading.com/cloud/pentera-helps-enterprises-reduce-their-security-exposure",
-          "author": "Terry Sweeney, Contributing Editor",
-          "description": "Pentera’s Omer Zucker outlines exposure management’s biggest challenges in closing security gaps.",
-          "link": "https://www.darkreading.com/cloud/pentera-helps-enterprises-reduce-their-security-exposure",
-          "publishedOn": "2022-08-22T15:31:29.000Z",
-          "wordCount": 9076,
-          "title": "Pentera Helps Enterprises Reduce Their Security Exposure",
-          "enclosure": {
-            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt73a307a92ef52195/60d43224467112384c711548/terry-sweeney.png",
-            "type": "image/*",
-            "length": "0"
-          },
-          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt73a307a92ef52195/60d43224467112384c711548/terry-sweeney.png"
-        },
-        {
-          "id": "https://www.darkreading.com/threat-intelligence/cisco-all-intelligence-is-not-created-equal",
-          "author": "Terry Sweeney, Contributing Editor",
-          "description": "Threat intel has changed over the years and that’s changed how customers use it, says Matt Olney, director of Talos threat intelligence and interdiction at Cisco.",
-          "link": "https://www.darkreading.com/threat-intelligence/cisco-all-intelligence-is-not-created-equal",
-          "publishedOn": "2022-08-22T14:31:29.000Z",
-          "wordCount": 9197,
-          "title": "Cisco: All Intelligence is Not Created Equal",
-          "enclosure": {
-            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt73a307a92ef52195/60d43224467112384c711548/terry-sweeney.png",
-            "type": "image/*",
-            "length": "0"
-          },
-          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt73a307a92ef52195/60d43224467112384c711548/terry-sweeney.png"
-        },
-        {
-          "id": "https://www.darkreading.com/operations/identity-security-pain-points-and-what-can-be-done",
-          "author": "Clayton Donley, Vice President and General Manager, Identity Management Security Division, Broadcom",
-          "description": "Replacing passwords is not as easy as people think, but there is hope.",
-          "link": "https://www.darkreading.com/operations/identity-security-pain-points-and-what-can-be-done",
-          "publishedOn": "2022-08-22T14:00:00.000Z",
-          "wordCount": 11901,
-          "title": "Identity Security Pain Points and What Can Be Done",
-          "enclosure": {
-            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt0956d618f27ce5d6/62ffdce4cf56ce495e554ecf/Clayton_Donley_Broadcom.jpeg",
-            "type": "image/*",
-            "length": "0"
-          },
-          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt0956d618f27ce5d6/62ffdce4cf56ce495e554ecf/Clayton_Donley_Broadcom.jpeg"
-        },
-        {
-          "id": "https://www.darkreading.com/risk/how-qualys-reduces-risk-and-enables-tool-consolidation",
-          "author": "Terry Sweeney, Contributing Editor",
-          "description": "Sumedh Thakar, CEO of Qualys, explains how moving to a cloud-based asset management platform can simplify their strategies and improve overall security.",
-          "link": "https://www.darkreading.com/risk/how-qualys-reduces-risk-and-enables-tool-consolidation",
-          "publishedOn": "2022-08-22T13:30:00.000Z",
-          "wordCount": 8909,
-          "title": "How Qualys Reduces Risk and Enables Tool Consolidation",
-          "enclosure": {
-            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt73a307a92ef52195/60d43224467112384c711548/terry-sweeney.png",
-            "type": "image/*",
-            "length": "0"
-          },
-          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt73a307a92ef52195/60d43224467112384c711548/terry-sweeney.png"
-        },
-        {
-          "id": "https://www.darkreading.com/edge-articles/expiring-root-certificates-threaten-iot-in-the-enterprise",
-          "author": "Julianne Pepitone, Contributing Writer",
-          "description": "What happens when businesses' smart devices break? CSOs have things to fix beyond security holes.",
-          "link": "https://www.darkreading.com/edge-articles/expiring-root-certificates-threaten-iot-in-the-enterprise",
-          "publishedOn": "2022-08-22T12:00:00.000Z",
-          "wordCount": 13046,
-          "title": "Expiring Root Certificates Threaten IoT in the Enterprise",
-          "enclosure": {
-            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltf7b90df7beef6296/6272a0f9a2ba2e13583be055/julianne-pepitone.jpg",
-            "type": "image/*",
-            "length": "0"
-          },
-          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltf7b90df7beef6296/6272a0f9a2ba2e13583be055/julianne-pepitone.jpg"
         }
       ]
     },
@@ -3240,16 +3155,6 @@
           "publishedOn": "2022-09-15T20:46:43.000Z",
           "wordCount": 807,
           "title": "Microsoft’s September 2022 Updates Include 63 Fixes and One Actively Exploited Flaw",
-          "imageUrl": "https://fieldeffect.com/wp-content/uploads/2020/05/Untitled-design-9.png"
-        },
-        {
-          "id": "https://fieldeffect.com/?post_type=threats&p=6532",
-          "author": "Elena Lapina",
-          "description": "On 17 August, Apple issued an emergency security update for vulnerabilities affecting multiple devices, noting that they are already being exploited by threat actors. We recommend applying the latest updates as soon as possible.  Details  Apple released advisories on two critical vulnerabilities fixed as part of the August emergency updates. The flaws are as follows:  […]\nThe post Apple Issues August 2022 Out-of-band Security Update appeared first on Field Effect Software Inc.",
-          "link": "https://fieldeffect.com/threats/apple-issues-august-2022-out-of-band-security-update/",
-          "publishedOn": "2022-08-22T13:05:23.000Z",
-          "wordCount": 523,
-          "title": "Apple Issues August 2022 Out-of-band Security Update",
           "imageUrl": "https://fieldeffect.com/wp-content/uploads/2020/05/Untitled-design-9.png"
         }
       ]
@@ -3768,26 +3673,6 @@
           "wordCount": 4826,
           "title": "CyberheistNews Vol 12 #34 [Eye Opener] The Cisco Hack Was Caused by Initial Access Broker Phishing",
           "imageUrl": "https://blog.knowbe4.com/hubfs/CHN-Social.jpg#keepProtocol"
-        },
-        {
-          "id": "https://blog.knowbe4.com/on-this-carousell-ride-the-crooks-take-the-brass-ring",
-          "author": "Stu Sjouwerman",
-          "description": "In a variation on a recently seen theme in which scammers pose as buyers on e-commerce platforms, victims in Singapore are being taken in by people offering to buy goods from them.",
-          "link": "https://blog.knowbe4.com/on-this-carousell-ride-the-crooks-take-the-brass-ring",
-          "publishedOn": "2022-08-22T13:14:37.000Z",
-          "wordCount": 2032,
-          "title": "On this Carousell Ride, the Crooks Take the Brass Ring.",
-          "imageUrl": "https://blog.knowbe4.com/hubfs/Crooks%20Take%20the%20Brass%20Ring.jpg#keepProtocol"
-        },
-        {
-          "id": "https://blog.knowbe4.com/cybersecurity-awareness-month-2022-free-resource-kit",
-          "author": "Stu Sjouwerman",
-          "description": "Cybersecurity Awareness Month is right around the corner, and we’ve got you covered! Your complimentary resource kit for 2022 is now available.",
-          "link": "https://blog.knowbe4.com/cybersecurity-awareness-month-2022-free-resource-kit",
-          "publishedOn": "2022-08-22T11:30:00.000Z",
-          "wordCount": 2014,
-          "title": "[FREE RESOURCE KIT] Cybersecurity Awareness Month 2022 Now Available",
-          "imageUrl": "https://blog.knowbe4.com/hubfs/Cybersecurity%20Awareness%20Month%20Resource%20Kit%20KnowBe4.jpg#keepProtocol"
         }
       ]
     },
@@ -5025,50 +4910,6 @@
           "publishedOn": "2022-08-23T03:03:00.000Z",
           "wordCount": null,
           "title": "CISA Warns of Active Exploitation of Palo Alto Networks' PAN-OS Vulnerability",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "tag:blogger.com,1999:blog-4802841478634147276.post-790755140858462973",
-          "author": "noreply@blogger.com (Ravie Lakshmanan)",
-          "description": "Budget Android device models that are counterfeit versions associated with popular smartphone brands are harboring multiple trojans designed to target WhatsApp and WhatsApp Business messaging apps.\nThe trojans, which Doctor Web first came across in July 2022, were discovered in the system partition of at least four different smartphones: P48pro, radmi note 8, Note30u, and Mate40, was \n\"These",
-          "link": "https://thehackernews.com/2022/08/researchers-find-counterfeit-phones.html",
-          "publishedOn": "2022-08-22T14:28:00.000Z",
-          "wordCount": null,
-          "title": "Researchers Find Counterfeit Phones with Backdoor to Hack WhatsApp Accounts",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "tag:blogger.com,1999:blog-4802841478634147276.post-3129621064278273775",
-          "author": "noreply@blogger.com (Ravie Lakshmanan)",
-          "description": "Details of an eight-year-old security vulnerability in the Linux kernel have emerged that the researchers say is \"as nasty as Dirty Pipe.\"\nDubbed DirtyCred by a group of academics from Northwestern University, the security weakness exploits a previously unknown flaw (CVE-2022-2588) to escalate privileges to the maximum level.\n\"DirtyCred is a kernel exploitation concept that swaps unprivileged",
-          "link": "https://thehackernews.com/2022/08/as-nasty-as-dirty-pipe-8-year-old-linux.html",
-          "publishedOn": "2022-08-22T13:05:00.000Z",
-          "wordCount": null,
-          "title": "\"As Nasty as Dirty Pipe\" — 8 Year Old Linux Kernel Vulnerability Uncovered",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "tag:blogger.com,1999:blog-4802841478634147276.post-294821989794507638",
-          "author": "noreply@blogger.com (The Hacker News)",
-          "description": "Atlanta-based cyber risk intelligence company, Cyble discovered a new Remote Access Trojan (RAT) malware. What makes this particular RAT malware distinct enough to be named after the comic creation of Sacha Baron Cohen?\nRAT malware typically helps cybercriminals gain complete control of a victim's system, permitting them to access network resources, files, and power to toggle the mouse and",
-          "link": "https://thehackernews.com/2022/08/meet-borat-rat-new-unique-triple-threat.html",
-          "publishedOn": "2022-08-22T12:32:00.000Z",
-          "wordCount": null,
-          "title": "Meet Borat RAT, a New Unique Triple Threat",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "tag:blogger.com,1999:blog-4802841478634147276.post-8611034182749801619",
-          "author": "noreply@blogger.com (Ravie Lakshmanan)",
-          "description": "Researchers have disclosed multiple vulnerabilities impacting Ultra-wideband (UWB) Real-time Locating Systems (RTLS), enabling threat actors to launch adversary-in-the-middle (AitM) attacks and tamper with location data.\n\"The zero-days found specifically pose a security risk for workers in industrial environments,\" cybersecurity firm Nozomi Networks disclosed in a technical write-up last week. \"",
-          "link": "https://thehackernews.com/2022/08/rtls-systems-found-vulnerable-to-mitm.html",
-          "publishedOn": "2022-08-22T09:19:00.000Z",
-          "wordCount": null,
-          "title": "RTLS Systems Found Vulnerable to MiTM Attacks and Location Tampering",
           "itunes": {},
           "imageUrl": null
         }
