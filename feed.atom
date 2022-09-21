@@ -2,10 +2,33 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-09-21T03:53:43.470Z</updated>
+    <updated>2022-09-21T07:47:14.157Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Record DDoS Attack with 25.3 Billion Requests Abused HTTP/2 Multiplexing]]></title>
+        <id>tag:blogger.com,1999:blog-4802841478634147276.post-6468690859370128059</id>
+        <link href="https://thehackernews.com/2022/09/record-ddos-attack-with-253-billion.html"/>
+        <updated>2022-09-21T06:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Cybersecurity company Imperva has disclosed that it mitigated a distributed denial-of-service (DDoS) attack with a total of over 25.3 billion requests on June 27, 2022.
+The "strong attack," which targeted an unnamed Chinese telecommunications company, is said to have lasted for four hours and peaked at 3.9 million requests per second (RPS).
+"Attackers used HTTP/2 multiplexing, or combining]]></summary>
+        <author>
+            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Critical Remote Hack Flaws Found in Dataprobe's Power Distribution Units]]></title>
+        <id>tag:blogger.com,1999:blog-4802841478634147276.post-3037449909723875818</id>
+        <link href="https://thehackernews.com/2022/09/critical-remote-hack-flaws-found-in.html"/>
+        <updated>2022-09-21T05:24:00.000Z</updated>
+        <summary type="html"><![CDATA[The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday released an industrial control systems (ICS) advisory warning of seven security flaws in Dataprobe's iBoot-PDU power distribution unit product, mostly used in industrial environments and data centers.
+"Successful exploitation of these vulnerabilities could lead to unauthenticated remote code execution on the Dataprobe]]></summary>
+        <author>
+            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Microsoft Brings Zero Trust to Hardware in Windows 11]]></title>
         <id>https://www.darkreading.com/emerging-tech/microsoft-brings-zero-trust-to-hardware-in-windows-11</id>
@@ -4286,56 +4309,6 @@ The high-severity vulnerability, tracked as CVE-2022-0028 (CVSS score: 8.6), i
         <summary type="html"><![CDATA[Alternative cloud providers offer streamlined capabilities for penetration testing, including more accessible tools, easy deployment, and affordable pricing.]]></summary>
         <author>
             <name>Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sophos Identifies Potential Tag-Team Ransomware Activity]]></title>
-        <id>https://www.darkreading.com/attacks-breaches/sophos-identifies-potential-tag-team-ransomware-activity</id>
-        <link href="https://www.darkreading.com/attacks-breaches/sophos-identifies-potential-tag-team-ransomware-activity"/>
-        <updated>2022-08-22T19:31:29.000Z</updated>
-        <summary type="html"><![CDATA[Company research indicates ransomware gangs may be working in concert to orchestrate multiple attacks, explains Sophos’ John Shier.]]></summary>
-        <author>
-            <name>Terry Sweeney, Contributing Editor</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[InQuest: Adding File Detection and Response to the Security Arsenal]]></title>
-        <id>https://www.darkreading.com/endpoint/inquest-adding-file-detection-and-response-to-the-security-arsenal</id>
-        <link href="https://www.darkreading.com/endpoint/inquest-adding-file-detection-and-response-to-the-security-arsenal"/>
-        <updated>2022-08-22T18:31:29.000Z</updated>
-        <summary type="html"><![CDATA[InQuest’s Pedram Amini takes a deep dive into file detection and response as a way to prevent file-borne attacks.]]></summary>
-        <author>
-            <name>Terry Sweeney, Contributing Editor</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Secureworks: How To Distinguish Hype From Reality With AI in SecOps]]></title>
-        <id>https://www.darkreading.com/application-security/secureworks-how-to-distinguish-hype-from-reality-with-ai-in-secops</id>
-        <link href="https://www.darkreading.com/application-security/secureworks-how-to-distinguish-hype-from-reality-with-ai-in-secops"/>
-        <updated>2022-08-22T17:31:29.000Z</updated>
-        <summary type="html"><![CDATA[Secureworks’ Nash Borges describes how his team has applied AI and ML to threat detection.]]></summary>
-        <author>
-            <name>Terry Sweeney, Contributing Editor</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New 'BianLian' Ransomware Variant on the Rise]]></title>
-        <id>https://www.darkreading.com/cloud/new-bianlian-ransomware-variant-on-the-rise</id>
-        <link href="https://www.darkreading.com/cloud/new-bianlian-ransomware-variant-on-the-rise"/>
-        <updated>2022-08-22T16:32:52.000Z</updated>
-        <summary type="html"><![CDATA[Novel ransomware was created with the Go open source programming language, demonstrating how malware authors increasingly are opting to employ the flexible coding language.]]></summary>
-        <author>
-            <name>Elizabeth Montalbano, Contributor, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tanium: Taking A Deeper Cut At Converged Endpoint Management]]></title>
-        <id>https://www.darkreading.com/endpoint/tanium-taking-a-deeper-cut-at-converged-endpoint-management</id>
-        <link href="https://www.darkreading.com/endpoint/tanium-taking-a-deeper-cut-at-converged-endpoint-management"/>
-        <updated>2022-08-22T16:31:29.000Z</updated>
-        <summary type="html"><![CDATA[Tanium’s Chris Hollenbeck explains how converged endpoint management helps overcome obstacles to endpoint visibility.]]></summary>
-        <author>
-            <name>Terry Sweeney, Contributing Editor</name>
         </author>
     </entry>
 </feed>
