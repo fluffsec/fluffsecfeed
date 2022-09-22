@@ -6,6 +6,16 @@
       "siteUrl": "https://us-cert.cisa.gov/",
       "articles": [
         {
+          "id": "17997 at https://us-cert.cisa.gov",
+          "author": "CISA",
+          "description": "Original release date: September 22, 2022\nSummary\nTraditional approaches to securing OT/ICS do not adequately address current threats. \nOperational technology/industrial control system (OT/ICS) assets that operate, control, and monitor day-to-day critical infrastructure and industrial processes continue to be an attractive target for malicious cyber actors. These cyber actors, including advanced persistent threat (APT) groups, target OT/ICS assets to achieve political gains, economic advantages, or destructive effects. Because OT/ICS systems manage physical operational processes, cyber actors’ operations could result in physical consequences, including loss of life, property damage, and disruption of National Critical Functions.\nOT/ICS devices and designs are publicly available, often inco…",
+          "link": "https://us-cert.cisa.gov/ncas/alerts/aa22-265a",
+          "publishedOn": "2022-09-22T12:55:58.000Z",
+          "wordCount": 4452,
+          "title": "AA22-265A: Control System Defense: Know the Opponent",
+          "imageUrl": null
+        },
+        {
           "id": "17991 at https://us-cert.cisa.gov",
           "author": "CISA",
           "description": "Original release date: September 21, 2022\nSummary\nThe Federal Bureau of Investigation (FBI) and the Cybersecurity and Infrastructure Security Agency (CISA) are releasing this joint Cybersecurity Advisory to provide information on recent cyber operations against the Government of Albania in July and September. This advisory provides a timeline of activity observed, from initial access to execution of encryption and wiper attacks. Additional information concerning files used by the actors during their exploitation of and cyber attack against the victim organization is provided in Appendices A and B.\nIn July 2022, Iranian state cyber actors—identifying as “HomeLand Justice”—launched a destructive cyber attack against the Government of Albania which rendered websites and services unavailable. …",
@@ -42,6 +52,36 @@
       "feedUrl": "https://us-cert.cisa.gov/ncas/current-activity.xml",
       "siteUrl": "https://us-cert.cisa.gov/",
       "articles": [
+        {
+          "id": "17996 at https://us-cert.cisa.gov",
+          "author": "CISA",
+          "description": "Original release date: September 22, 2022\nCISA and the National Security Agency (NSA) have published a joint cybersecurity advisory about control system defense for operational technology (OT) and industrial control systems (ICSs). Control System Defense: Know the Opponent is intended to provide critical infrastructure owners and operators with an understanding of the tactics, techniques, and procedures (TTPs) used by malicious cyber actors. This advisory builds on NSA and CISA 2021 guidance provided to stop malicious ICS activity against connect OT, and 2020 guidance to reduce OT exposure.\nCISA and NSA encourage critical infrastructure owners and operations to review the advisory, [Control System Defense: Know the Opponent], and apply the recommended mitigations and actions. For more information on CISA’s resources and efforts to improve ICS cybersecurity, visit CISA’s role in industrial control systems webpage.\nThis product is provided subject to this Notification and this Privacy & Use policy.",
+          "link": "https://us-cert.cisa.gov/ncas/current-activity/2022/09/22/cisa-and-nsa-publish-joint-cybersecurity-advisory-control-system",
+          "publishedOn": "2022-09-22T14:59:00.000Z",
+          "wordCount": 984,
+          "title": "CISA and NSA Publish Joint Cybersecurity Advisory on Control System Defense",
+          "imageUrl": null
+        },
+        {
+          "id": "18000 at https://us-cert.cisa.gov",
+          "author": "CISA",
+          "description": "Original release date: September 22, 2022\nThe Internet Systems Consortium (ISC) has released security advisories that address vulnerabilities affecting multiple versions of the ISC’s Berkeley Internet Name Domain (BIND) 9. A remote attacker could exploit these vulnerabilities to potentially cause denial-of-service conditions. For advisories addressing lower severity vulnerabilities, see the BIND 9 Security Vulnerability Matrix. \nCVE-2022-2906, CVE-2022-3080, CVE-2022-38177, and CVE-2022-38178 and apply the necessary mitigations.\nThis product is provided subject to this Notification and this Privacy & Use policy.",
+          "link": "https://us-cert.cisa.gov/ncas/current-activity/2022/09/22/isc-releases-security-advisories-multiple-versions-bind-9",
+          "publishedOn": "2022-09-22T14:30:29.000Z",
+          "wordCount": 924,
+          "title": "ISC Releases Security Advisories for Multiple Versions of BIND 9",
+          "imageUrl": null
+        },
+        {
+          "id": "17992 at https://us-cert.cisa.gov",
+          "author": "CISA",
+          "description": "Original release date: September 22, 2022\nCISA has released three Industrial Control Systems (ICS) advisories on September 22, 2022. These advisories provide timely information about current security issues, vulnerabilities, and exploits surrounding ICS.\nCISA encourages users and administrators to review the newly released ICS advisory for technical details and mitigations:\nICSA-22-265-01 Measuresoft ScadaPro Server\nICSA-20-212-02 Mitsubishi Electric Factory Automation Engineering Software (Update D)\nICSA-20-245-01 Mitsubishi Electric Multiple Products (Update E)\nThis product is provided subject to this Notification and this Privacy & Use policy.",
+          "link": "https://us-cert.cisa.gov/ncas/current-activity/2022/09/22/cisa-releases-three-industrial-control-systems-advisories",
+          "publishedOn": "2022-09-22T13:00:00.000Z",
+          "wordCount": 909,
+          "title": "CISA Releases Three Industrial Control Systems Advisories",
+          "imageUrl": null
+        },
         {
           "id": "17994 at https://us-cert.cisa.gov",
           "author": "CISA",
@@ -371,6 +411,46 @@
       "siteUrl": "https://www.darkreading.com",
       "articles": [
         {
+          "id": "https://www.darkreading.com/application-security/malicious-npm-package-poses-tailwind-tool",
+          "author": "Elizabeth Montalbano, Contributor, Dark Reading",
+          "description": "Branded as a components library for two popular open source resources, Material Tailwind instead loads a Windows .exe that can run PowerShell scripts.",
+          "link": "https://www.darkreading.com/application-security/malicious-npm-package-poses-tailwind-tool",
+          "publishedOn": "2022-09-22T18:31:41.000Z",
+          "wordCount": 15074,
+          "title": "Malicious npm Package Poses as Tailwind Tool",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltbfd004d139d42d70/6303bca6236c2476a257760e/ElizabethMontalbano.jpg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltbfd004d139d42d70/6303bca6236c2476a257760e/ElizabethMontalbano.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/operations/allurity-acquires-spanish-multinational-aiuken-cybersecurity",
+          "author": null,
+          "description": ".",
+          "link": "https://www.darkreading.com/operations/allurity-acquires-spanish-multinational-aiuken-cybersecurity",
+          "publishedOn": "2022-09-22T14:15:55.000Z",
+          "wordCount": 12999,
+          "title": "Allurity Acquires Spanish Multinational Aiuken Cybersecurity",
+          "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/vulnerabilities-threats/twitter-s-whistleblower-allegations-are-a-cautionary-tale-for-all-businesses",
+          "author": "Stephen Manley, Chief Technology Officer, Druva",
+          "description": "Businesses need to turn privacy and security into an advantage. Store less data, and live up to customer expectations that their information is protected. Take small steps, be transparent about data management, and chose partners carefully.",
+          "link": "https://www.darkreading.com/vulnerabilities-threats/twitter-s-whistleblower-allegations-are-a-cautionary-tale-for-all-businesses",
+          "publishedOn": "2022-09-22T14:00:00.000Z",
+          "wordCount": 14930,
+          "title": "Twitter's Whistleblower Allegations Are a Cautionary Tale for All Businesses",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blta0303a5af3fdba62/6324eb07ad808074367e184f/Stephen_Manley_CTO_Druva_headshot_(1).jpg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blta0303a5af3fdba62/6324eb07ad808074367e184f/Stephen_Manley_CTO_Druva_headshot_(1).jpg"
+        },
+        {
           "id": "https://www.darkreading.com/application-security/stackhawk-launches-deeper-api-security-test-coverage-to-improve-the-security-of-apis",
           "author": null,
           "description": "Expansion of test coverage includes custom scan discovery, custom test scripts and custom test data for REST APIs, enabling developers to leave no paths untouched.",
@@ -494,6 +574,21 @@
             "length": "0"
           },
           "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt55e47146784b1ad1/63274842b5182b3b6d9d3918/Richard_Melick_Zimperium.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/edge/cyber-insurers-clamp-down-on-clients-self-attestation-of-security-controls",
+          "author": "Stephen Lawton, Contributing Writer",
+          "description": "After one company suffered a breach that could have been headed off by the MFA it claimed to have, insurers are looking to confirm claimed cybersecurity measures.",
+          "link": "https://www.darkreading.com/edge/cyber-insurers-clamp-down-on-clients-self-attestation-of-security-controls",
+          "publishedOn": "2022-09-21T16:18:23.000Z",
+          "wordCount": 15030,
+          "title": "Cyber Insurers Clamp Down on Clients' Self-Attestation of Security Controls",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltd3941643ea87865b/628d1dcaef83f961a70e4205/stephen-lawton.png",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltd3941643ea87865b/628d1dcaef83f961a70e4205/stephen-lawton.png"
         },
         {
           "id": "https://www.darkreading.com/application-security/15-year-old-python-flaw-software-worldwide",
@@ -3571,6 +3666,28 @@
       "siteUrl": "https://thehackernews.com/",
       "articles": [
         {
+          "id": "tag:blogger.com,1999:blog-4802841478634147276.post-688893318691856219",
+          "author": "noreply@blogger.com (Ravie Lakshmanan)",
+          "description": "A new wave of a mobile surveillance campaign has been observed targeting the Uyghur community as part of a long-standing spyware operation active since at least 2015, cybersecurity researchers disclosed Thursday.\nThe intrusions, originally attributed to a threat actor named Scarlet Mimic back in January 2016, is said to have encompassed 20 different variants of the Android malware, which were",
+          "link": "https://thehackernews.com/2022/09/researchers-uncover-years-long-mobile.html",
+          "publishedOn": "2022-09-22T17:03:00.000Z",
+          "wordCount": null,
+          "title": "Researchers Uncover Years-Long Mobile Spyware Campaign Targeting Uyghurs",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "tag:blogger.com,1999:blog-4802841478634147276.post-3988423734118384502",
+          "author": "noreply@blogger.com (Ravie Lakshmanan)",
+          "description": "A malicious NPM package has been found masquerading as the legitimate software library for Material Tailwind, once again indicating attempts on the part of threat actors to distribute malicious code in open source software repositories.\nMaterial Tailwind is a CSS-based framework advertised by its maintainers as an \"easy to use components library for Tailwind CSS and Material Design.\"\n\"The",
+          "link": "https://thehackernews.com/2022/09/malicious-npm-package-caught-mimicking.html",
+          "publishedOn": "2022-09-22T15:01:00.000Z",
+          "wordCount": null,
+          "title": "Malicious NPM Package Caught Mimicking Material Tailwind CSS Package",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
           "id": "tag:blogger.com,1999:blog-4802841478634147276.post-964493491044838143",
           "author": "noreply@blogger.com (The Hacker News)",
           "description": "Last month Tech Crunch reported that payment terminal manufacturer Wiseasy had been hacked. Although Wiseasy might not be well known in North America, their Android-based payment terminals are widely used in the Asia Pacific region and hackers managed to steal passwords for 140,000 payment terminals.\nHow Did the Wiseasy Hack Happen?\nWiseasy employees use a cloud-based dashboard for remotely",
@@ -4843,17 +4960,6 @@
           "publishedOn": "2022-08-24T09:29:00.000Z",
           "wordCount": null,
           "title": "Researchers Warn of AiTM Attack Targeting Google G-Suite Enterprise Users",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "tag:blogger.com,1999:blog-4802841478634147276.post-2139626727665054383",
-          "author": "noreply@blogger.com (Ravie Lakshmanan)",
-          "description": "DevOps platform GitLab this week issued patches to address a critical security flaw in its software that could lead to arbitrary code execution on affected systems.\nTracked as CVE-2022-2884, the issue is rated 9.9 on the CVSS vulnerability scoring system and impacts all versions of GitLab Community Edition (CE) and Enterprise Edition (EE) starting from 11.3.4 before 15.1.5, 15.2 before 15.2.3,",
-          "link": "https://thehackernews.com/2022/08/gitlab-issues-patch-for-critical-flaw.html",
-          "publishedOn": "2022-08-24T06:21:00.000Z",
-          "wordCount": null,
-          "title": "GitLab Issues Patch for Critical Flaw in its Community and Enterprise Software",
           "itunes": {},
           "imageUrl": null
         }

@@ -2,10 +2,89 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-09-22T13:55:21.280Z</updated>
+    <updated>2022-09-22T19:23:03.650Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Malicious npm Package Poses as Tailwind Tool]]></title>
+        <id>https://www.darkreading.com/application-security/malicious-npm-package-poses-tailwind-tool</id>
+        <link href="https://www.darkreading.com/application-security/malicious-npm-package-poses-tailwind-tool"/>
+        <updated>2022-09-22T18:31:41.000Z</updated>
+        <summary type="html"><![CDATA[Branded as a components library for two popular open source resources, Material Tailwind instead loads a Windows .exe that can run PowerShell scripts.]]></summary>
+        <author>
+            <name>Elizabeth Montalbano, Contributor, Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Researchers Uncover Years-Long Mobile Spyware Campaign Targeting Uyghurs]]></title>
+        <id>tag:blogger.com,1999:blog-4802841478634147276.post-688893318691856219</id>
+        <link href="https://thehackernews.com/2022/09/researchers-uncover-years-long-mobile.html"/>
+        <updated>2022-09-22T17:03:00.000Z</updated>
+        <summary type="html"><![CDATA[A new wave of a mobile surveillance campaign has been observed targeting the Uyghur community as part of a long-standing spyware operation active since at least 2015, cybersecurity researchers disclosed Thursday.
+The intrusions, originally attributed to a threat actor named Scarlet Mimic back in January 2016, is said to have encompassed 20 different variants of the Android malware, which were]]></summary>
+        <author>
+            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Malicious NPM Package Caught Mimicking Material Tailwind CSS Package]]></title>
+        <id>tag:blogger.com,1999:blog-4802841478634147276.post-3988423734118384502</id>
+        <link href="https://thehackernews.com/2022/09/malicious-npm-package-caught-mimicking.html"/>
+        <updated>2022-09-22T15:01:00.000Z</updated>
+        <summary type="html"><![CDATA[A malicious NPM package has been found masquerading as the legitimate software library for Material Tailwind, once again indicating attempts on the part of threat actors to distribute malicious code in open source software repositories.
+Material Tailwind is a CSS-based framework advertised by its maintainers as an "easy to use components library for Tailwind CSS and Material Design."
+"The]]></summary>
+        <author>
+            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CISA and NSA Publish Joint Cybersecurity Advisory on Control System Defense]]></title>
+        <id>17996 at https://us-cert.cisa.gov</id>
+        <link href="https://us-cert.cisa.gov/ncas/current-activity/2022/09/22/cisa-and-nsa-publish-joint-cybersecurity-advisory-control-system"/>
+        <updated>2022-09-22T14:59:00.000Z</updated>
+        <summary type="html"><![CDATA[Original release date: September 22, 2022
+CISA and the National Security Agency (NSA) have published a joint cybersecurity advisory about control system defense for operational technology (OT) and industrial control systems (ICSs). Control System Defense: Know the Opponent is intended to provide critical infrastructure owners and operators with an understanding of the tactics, techniques, and procedures (TTPs) used by malicious cyber actors. This advisory builds on NSA and CISA 2021 guidance provided to stop malicious ICS activity against connect OT, and 2020 guidance to reduce OT exposure.
+CISA and NSA encourage critical infrastructure owners and operations to review the advisory, [Control System Defense: Know the Opponent], and apply the recommended mitigations and actions. For more information on CISA’s resources and efforts to improve ICS cybersecurity, visit CISA’s role in industrial control systems webpage.
+This product is provided subject to this Notification and this Privacy & Use policy.]]></summary>
+        <author>
+            <name>CISA</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ISC Releases Security Advisories for Multiple Versions of BIND 9]]></title>
+        <id>18000 at https://us-cert.cisa.gov</id>
+        <link href="https://us-cert.cisa.gov/ncas/current-activity/2022/09/22/isc-releases-security-advisories-multiple-versions-bind-9"/>
+        <updated>2022-09-22T14:30:29.000Z</updated>
+        <summary type="html"><![CDATA[Original release date: September 22, 2022
+The Internet Systems Consortium (ISC) has released security advisories that address vulnerabilities affecting multiple versions of the ISC’s Berkeley Internet Name Domain (BIND) 9. A remote attacker could exploit these vulnerabilities to potentially cause denial-of-service conditions. For advisories addressing lower severity vulnerabilities, see the BIND 9 Security Vulnerability Matrix. 
+CVE-2022-2906, CVE-2022-3080, CVE-2022-38177, and CVE-2022-38178 and apply the necessary mitigations.
+This product is provided subject to this Notification and this Privacy & Use policy.]]></summary>
+        <author>
+            <name>CISA</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Allurity Acquires Spanish Multinational Aiuken Cybersecurity]]></title>
+        <id>https://www.darkreading.com/operations/allurity-acquires-spanish-multinational-aiuken-cybersecurity</id>
+        <link href="https://www.darkreading.com/operations/allurity-acquires-spanish-multinational-aiuken-cybersecurity"/>
+        <updated>2022-09-22T14:15:55.000Z</updated>
+        <summary type="html"><![CDATA[.]]></summary>
+        <author>
+            <name>Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Twitter's Whistleblower Allegations Are a Cautionary Tale for All Businesses]]></title>
+        <id>https://www.darkreading.com/vulnerabilities-threats/twitter-s-whistleblower-allegations-are-a-cautionary-tale-for-all-businesses</id>
+        <link href="https://www.darkreading.com/vulnerabilities-threats/twitter-s-whistleblower-allegations-are-a-cautionary-tale-for-all-businesses"/>
+        <updated>2022-09-22T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Businesses need to turn privacy and security into an advantage. Store less data, and live up to customer expectations that their information is protected. Take small steps, be transparent about data management, and chose partners carefully.]]></summary>
+        <author>
+            <name>Stephen Manley, Chief Technology Officer, Druva</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[StackHawk Launches Deeper API Security Test Coverage to Improve the Security of APIs]]></title>
         <id>https://www.darkreading.com/application-security/stackhawk-launches-deeper-api-security-test-coverage-to-improve-the-security-of-apis</id>
@@ -36,6 +115,36 @@ How Did the Wiseasy Hack Happen?
 Wiseasy employees use a cloud-based dashboard for remotely]]></summary>
         <author>
             <name>noreply@blogger.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CISA Releases Three Industrial Control Systems Advisories]]></title>
+        <id>17992 at https://us-cert.cisa.gov</id>
+        <link href="https://us-cert.cisa.gov/ncas/current-activity/2022/09/22/cisa-releases-three-industrial-control-systems-advisories"/>
+        <updated>2022-09-22T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Original release date: September 22, 2022
+CISA has released three Industrial Control Systems (ICS) advisories on September 22, 2022. These advisories provide timely information about current security issues, vulnerabilities, and exploits surrounding ICS.
+CISA encourages users and administrators to review the newly released ICS advisory for technical details and mitigations:
+ICSA-22-265-01 Measuresoft ScadaPro Server
+ICSA-20-212-02 Mitsubishi Electric Factory Automation Engineering Software (Update D)
+ICSA-20-245-01 Mitsubishi Electric Multiple Products (Update E)
+This product is provided subject to this Notification and this Privacy & Use policy.]]></summary>
+        <author>
+            <name>CISA</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AA22-265A: Control System Defense: Know the Opponent]]></title>
+        <id>17997 at https://us-cert.cisa.gov</id>
+        <link href="https://us-cert.cisa.gov/ncas/alerts/aa22-265a"/>
+        <updated>2022-09-22T12:55:58.000Z</updated>
+        <summary type="html"><![CDATA[Original release date: September 22, 2022
+Summary
+Traditional approaches to securing OT/ICS do not adequately address current threats. 
+Operational technology/industrial control system (OT/ICS) assets that operate, control, and monitor day-to-day critical infrastructure and industrial processes continue to be an attractive target for malicious cyber actors. These cyber actors, including advanced persistent threat (APT) groups, target OT/ICS assets to achieve political gains, economic advantages, or destructive effects. Because OT/ICS systems manage physical operational processes, cyber actors’ operations could result in physical consequences, including loss of life, property damage, and disruption of National Critical Functions.
+OT/ICS devices and designs are publicly available, often inco…]]></summary>
+        <author>
+            <name>CISA</name>
         </author>
     </entry>
     <entry>
@@ -189,6 +298,16 @@ In July 2022, Iranian state cyber actors—identifying as “HomeLand Justice”
         <summary type="html"><![CDATA[Attacks against mobile phones and tablets are increasing, and a WannaCry-level attack could be on the horizon.]]></summary>
         <author>
             <name>Richard Melick, Director of Mobile Threat Intelligence, Zimperium</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cyber Insurers Clamp Down on Clients' Self-Attestation of Security Controls]]></title>
+        <id>https://www.darkreading.com/edge/cyber-insurers-clamp-down-on-clients-self-attestation-of-security-controls</id>
+        <link href="https://www.darkreading.com/edge/cyber-insurers-clamp-down-on-clients-self-attestation-of-security-controls"/>
+        <updated>2022-09-21T16:18:23.000Z</updated>
+        <summary type="html"><![CDATA[After one company suffered a breach that could have been headed off by the MFA it claimed to have, insurers are looking to confirm claimed cybersecurity measures.]]></summary>
+        <author>
+            <name>Stephen Lawton, Contributing Writer</name>
         </author>
     </entry>
     <entry>
@@ -4308,17 +4427,6 @@ The approach, codenamed ETHERLED, comes from Dr. Mordechai Guri, the head of R&
         <updated>2022-08-24T09:29:00.000Z</updated>
         <summary type="html"><![CDATA[The threat actors behind a large-scale adversary-in-the-middle (AiTM) phishing campaign targeting enterprise users of Microsoft email services have also set their sights on Google Workspace users.
 "This campaign specifically targeted chief executives and other senior members of various organizations which use [Google Workspace]," Zscaler researchers Sudeep Singh and Jagadeeswar Ramanukolanu]]></summary>
-        <author>
-            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GitLab Issues Patch for Critical Flaw in its Community and Enterprise Software]]></title>
-        <id>tag:blogger.com,1999:blog-4802841478634147276.post-2139626727665054383</id>
-        <link href="https://thehackernews.com/2022/08/gitlab-issues-patch-for-critical-flaw.html"/>
-        <updated>2022-08-24T06:21:00.000Z</updated>
-        <summary type="html"><![CDATA[DevOps platform GitLab this week issued patches to address a critical security flaw in its software that could lead to arbitrary code execution on affected systems.
-Tracked as CVE-2022-2884, the issue is rated 9.9 on the CVSS vulnerability scoring system and impacts all versions of GitLab Community Edition (CE) and Enterprise Edition (EE) starting from 11.3.4 before 15.1.5, 15.2 before 15.2.3,]]></summary>
         <author>
             <name>noreply@blogger.com (Ravie Lakshmanan)</name>
         </author>
