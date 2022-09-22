@@ -311,26 +311,6 @@
           "wordCount": 1061,
           "title": "Preparing Critical Infrastructure for Post-Quantum Cryptography",
           "imageUrl": null
-        },
-        {
-          "id": "17912 at https://us-cert.cisa.gov",
-          "author": "CISA",
-          "description": "Original release date: August 23, 2022\nVMware has released a security update to address a vulnerability in Tools. A remote attacker could likely exploit the vulnerability to take control of an affected system.\nCISA encourages users and administrators to review VMware Security Advisory VMSA-2022-0024 and apply the necessary update.\nThis product is provided subject to this Notification and this Privacy & Use policy.",
-          "link": "https://us-cert.cisa.gov/ncas/current-activity/2022/08/23/vmware-releases-security-update",
-          "publishedOn": "2022-08-23T18:57:54.000Z",
-          "wordCount": 1029,
-          "title": "VMware Releases Security Update",
-          "imageUrl": null
-        },
-        {
-          "id": "17911 at https://us-cert.cisa.gov",
-          "author": "CISA",
-          "description": "Original release date: August 23, 2022 | Last revised: August 24, 2022\nMozilla has released security updates to address vulnerabilities in Firefox, Firefox ESR, and Thunderbird. An attacker could exploit some of these vulnerabilities to take control of an affected system. \nCISA encourages users and administrators to review the Mozilla security advisories for Firefox 104, Firefox ESR 91.13, Firefox ESR 102.2 and Thunderbird 91.13, Thunderbird 102.2 and apply the necessary updates.\nThis product is provided subject to this Notification and this Privacy & Use policy.",
-          "link": "https://us-cert.cisa.gov/ncas/current-activity/2022/08/23/mozilla-releases-security-updates-firefox-firefox-esr-and",
-          "publishedOn": "2022-08-23T16:33:02.000Z",
-          "wordCount": 1069,
-          "title": "Mozilla Releases Security Updates for Firefox, Firefox ESR, and Thunderbird",
-          "imageUrl": null
         }
       ]
     },
@@ -2989,71 +2969,6 @@
             "length": "0"
           },
           "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt02d79fb9a44a4258/60b1e9dd2a25046b35110696/Jai-Vijayan.jpeg"
-        },
-        {
-          "id": "https://www.darkreading.com/cloud/mudge-blows-whistle-alleged-twitter-security-nightmare",
-          "author": "Tara Seals, Managing Editor, News, Dark Reading",
-          "description": "Lawmakers and cybersecurity insiders are reacting to a bombshell report from former Twitter security head Mudge Zatko, alleging reckless security lapses that could be exploited by foreign adversaries.",
-          "link": "https://www.darkreading.com/cloud/mudge-blows-whistle-alleged-twitter-security-nightmare",
-          "publishedOn": "2022-08-23T17:44:14.000Z",
-          "wordCount": 13638,
-          "title": "Mudge Blows Whistle on Alleged Twitter Security Nightmare",
-          "enclosure": {
-            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltea67136f81f32eca/626a9eb4726e3315b16b3c64/Tara-Seals-Headshot2.jpg",
-            "type": "image/*",
-            "length": "0"
-          },
-          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltea67136f81f32eca/626a9eb4726e3315b16b3c64/Tara-Seals-Headshot2.jpg"
-        },
-        {
-          "id": "https://www.darkreading.com/risk/proofpoint-introduces-a-smarter-way-to-stay-compliant-with-new-intelligent-compliance-platform",
-          "author": null,
-          "description": "Integrated solution offers enterprises modern regulatory compliance safeguards while simplifying corporate legal protection practices.",
-          "link": "https://www.darkreading.com/risk/proofpoint-introduces-a-smarter-way-to-stay-compliant-with-new-intelligent-compliance-platform",
-          "publishedOn": "2022-08-23T17:04:29.000Z",
-          "wordCount": 12513,
-          "title": "Proofpoint Introduces a Smarter Way to Stay Compliant with New Intelligent Compliance Platform",
-          "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
-        },
-        {
-          "id": "https://www.darkreading.com/cloud/facing-the-new-security-challenges-that-come-with-cloud",
-          "author": "Joseph Carson, Chief Security Scientist, Advisory CISO, Delinea",
-          "description": "Organizations relying on multicloud or hybrid-cloud environments without ﻿a true understanding of their security vulnerabilities do so at their peril.",
-          "link": "https://www.darkreading.com/cloud/facing-the-new-security-challenges-that-come-with-cloud",
-          "publishedOn": "2022-08-23T17:00:00.000Z",
-          "wordCount": 11424,
-          "title": "Facing the New Security Challenges That Come With Cloud",
-          "enclosure": {
-            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blted2f555e493aef7b/62eb11d34ec9fe660e804f65/J_Carson.png",
-            "type": "image/*",
-            "length": "0"
-          },
-          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blted2f555e493aef7b/62eb11d34ec9fe660e804f65/J_Carson.png"
-        },
-        {
-          "id": "https://www.darkreading.com/vulnerabilities-threats/secure-code-warrior-spotlights-the-importance-of-developer-security-skills-with-2nd-annual-devlympics-competition",
-          "author": null,
-          "description": "The global secure coding competition will be held In October, during Cybersecurity Awareness Month.",
-          "link": "https://www.darkreading.com/vulnerabilities-threats/secure-code-warrior-spotlights-the-importance-of-developer-security-skills-with-2nd-annual-devlympics-competition",
-          "publishedOn": "2022-08-23T16:50:56.000Z",
-          "wordCount": 11073,
-          "title": "Secure Code Warrior Spotlights the Importance of Developer Security Skills with 2nd Annual Devlympics Competition",
-          "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
-        },
-        {
-          "id": "https://www.darkreading.com/application-security/one-third-pypi-packages-mistakenly-flagged-malicious",
-          "author": "Robert Lemos, Contributing Writer, Dark Reading",
-          "description": "The scans used by the Python Package Index (PyPI) to find malware fail to catch 41% of bad packages, while creating plentiful false positives.",
-          "link": "https://www.darkreading.com/application-security/one-third-pypi-packages-mistakenly-flagged-malicious",
-          "publishedOn": "2022-08-23T16:15:00.000Z",
-          "wordCount": 12699,
-          "title": "One-Third of Popular PyPI Packages Mistakenly Flagged as Malicious",
-          "enclosure": {
-            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt58481326324d6911/60b1e9a55d34de550780a990/Robert-Lemos.png",
-            "type": "image/*",
-            "length": "0"
-          },
-          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt58481326324d6911/60b1e9a55d34de550780a990/Robert-Lemos.png"
         }
       ]
     },
@@ -3665,6 +3580,17 @@
       "feedUrl": "https://thehackernews.com/feeds/posts/default",
       "siteUrl": "https://thehackernews.com/",
       "articles": [
+        {
+          "id": "tag:blogger.com,1999:blog-4802841478634147276.post-5652026601737093339",
+          "author": "noreply@blogger.com (Ravie Lakshmanan)",
+          "description": "A now-patched critical security flaw affecting Atlassian Confluence Server that came to light a few months ago is being actively exploited for illicit cryptocurrency mining on unpatched installations.\n\"If left unremedied and successfully exploited, this vulnerability could be used for multiple and more malicious attacks, such as a complete domain takeover of the infrastructure and the deployment",
+          "link": "https://thehackernews.com/2022/09/hackers-targeting-unpatched-atlassian.html",
+          "publishedOn": "2022-09-22T06:17:00.000Z",
+          "wordCount": null,
+          "title": "Hackers Targeting Unpatched Atlassian Confluence Servers to Deploy Crypto Miners",
+          "itunes": {},
+          "imageUrl": null
+        },
         {
           "id": "tag:blogger.com,1999:blog-4802841478634147276.post-5126074990907837547",
           "author": "noreply@blogger.com (Ravie Lakshmanan)",

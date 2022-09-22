@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-09-22T03:44:05.772Z</updated>
+    <updated>2022-09-22T07:39:51.407Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Hackers Targeting Unpatched Atlassian Confluence Servers to Deploy Crypto Miners]]></title>
+        <id>tag:blogger.com,1999:blog-4802841478634147276.post-5652026601737093339</id>
+        <link href="https://thehackernews.com/2022/09/hackers-targeting-unpatched-atlassian.html"/>
+        <updated>2022-09-22T06:17:00.000Z</updated>
+        <summary type="html"><![CDATA[A now-patched critical security flaw affecting Atlassian Confluence Server that came to light a few months ago is being actively exploited for illicit cryptocurrency mining on unpatched installations.
+"If left unremedied and successfully exploited, this vulnerability could be used for multiple and more malicious attacks, such as a complete domain takeover of the infrastructure and the deployment]]></summary>
+        <author>
+            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Wintermute DeFi Platform Offers Hacker a Cut in $160M Crypto-Heist]]></title>
         <id>https://www.darkreading.com/application-security/wintermute-defi-platform-offers-hacker-a-cut-in-160m-crypto-heist</id>
@@ -4275,82 +4286,6 @@ Tracked as CVE-2022-2884, the issue is rated 9.9 on the CVSS vulnerability scor
         <summary type="html"><![CDATA[M&A activity in the identity and access management (IAM) space has continued at a steady clip so far this year.]]></summary>
         <author>
             <name>Jai Vijayan, Contributing Writer, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[VMware Releases Security Update]]></title>
-        <id>17912 at https://us-cert.cisa.gov</id>
-        <link href="https://us-cert.cisa.gov/ncas/current-activity/2022/08/23/vmware-releases-security-update"/>
-        <updated>2022-08-23T18:57:54.000Z</updated>
-        <summary type="html"><![CDATA[Original release date: August 23, 2022
-VMware has released a security update to address a vulnerability in Tools. A remote attacker could likely exploit the vulnerability to take control of an affected system.
-CISA encourages users and administrators to review VMware Security Advisory VMSA-2022-0024 and apply the necessary update.
-This product is provided subject to this Notification and this Privacy & Use policy.]]></summary>
-        <author>
-            <name>CISA</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mudge Blows Whistle on Alleged Twitter Security Nightmare]]></title>
-        <id>https://www.darkreading.com/cloud/mudge-blows-whistle-alleged-twitter-security-nightmare</id>
-        <link href="https://www.darkreading.com/cloud/mudge-blows-whistle-alleged-twitter-security-nightmare"/>
-        <updated>2022-08-23T17:44:14.000Z</updated>
-        <summary type="html"><![CDATA[Lawmakers and cybersecurity insiders are reacting to a bombshell report from former Twitter security head Mudge Zatko, alleging reckless security lapses that could be exploited by foreign adversaries.]]></summary>
-        <author>
-            <name>Tara Seals, Managing Editor, News, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Proofpoint Introduces a Smarter Way to Stay Compliant with New Intelligent Compliance Platform]]></title>
-        <id>https://www.darkreading.com/risk/proofpoint-introduces-a-smarter-way-to-stay-compliant-with-new-intelligent-compliance-platform</id>
-        <link href="https://www.darkreading.com/risk/proofpoint-introduces-a-smarter-way-to-stay-compliant-with-new-intelligent-compliance-platform"/>
-        <updated>2022-08-23T17:04:29.000Z</updated>
-        <summary type="html"><![CDATA[Integrated solution offers enterprises modern regulatory compliance safeguards while simplifying corporate legal protection practices.]]></summary>
-        <author>
-            <name>Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Facing the New Security Challenges That Come With Cloud]]></title>
-        <id>https://www.darkreading.com/cloud/facing-the-new-security-challenges-that-come-with-cloud</id>
-        <link href="https://www.darkreading.com/cloud/facing-the-new-security-challenges-that-come-with-cloud"/>
-        <updated>2022-08-23T17:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Organizations relying on multicloud or hybrid-cloud environments without ﻿a true understanding of their security vulnerabilities do so at their peril.]]></summary>
-        <author>
-            <name>Joseph Carson, Chief Security Scientist, Advisory CISO, Delinea</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Secure Code Warrior Spotlights the Importance of Developer Security Skills with 2nd Annual Devlympics Competition]]></title>
-        <id>https://www.darkreading.com/vulnerabilities-threats/secure-code-warrior-spotlights-the-importance-of-developer-security-skills-with-2nd-annual-devlympics-competition</id>
-        <link href="https://www.darkreading.com/vulnerabilities-threats/secure-code-warrior-spotlights-the-importance-of-developer-security-skills-with-2nd-annual-devlympics-competition"/>
-        <updated>2022-08-23T16:50:56.000Z</updated>
-        <summary type="html"><![CDATA[The global secure coding competition will be held In October, during Cybersecurity Awareness Month.]]></summary>
-        <author>
-            <name>Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mozilla Releases Security Updates for Firefox, Firefox ESR, and Thunderbird]]></title>
-        <id>17911 at https://us-cert.cisa.gov</id>
-        <link href="https://us-cert.cisa.gov/ncas/current-activity/2022/08/23/mozilla-releases-security-updates-firefox-firefox-esr-and"/>
-        <updated>2022-08-23T16:33:02.000Z</updated>
-        <summary type="html"><![CDATA[Original release date: August 23, 2022 | Last revised: August 24, 2022
-Mozilla has released security updates to address vulnerabilities in Firefox, Firefox ESR, and Thunderbird. An attacker could exploit some of these vulnerabilities to take control of an affected system. 
-CISA encourages users and administrators to review the Mozilla security advisories for Firefox 104, Firefox ESR 91.13, Firefox ESR 102.2 and Thunderbird 91.13, Thunderbird 102.2 and apply the necessary updates.
-This product is provided subject to this Notification and this Privacy & Use policy.]]></summary>
-        <author>
-            <name>CISA</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[One-Third of Popular PyPI Packages Mistakenly Flagged as Malicious]]></title>
-        <id>https://www.darkreading.com/application-security/one-third-pypi-packages-mistakenly-flagged-malicious</id>
-        <link href="https://www.darkreading.com/application-security/one-third-pypi-packages-mistakenly-flagged-malicious"/>
-        <updated>2022-08-23T16:15:00.000Z</updated>
-        <summary type="html"><![CDATA[The scans used by the Python Package Index (PyPI) to find malware fail to catch 41% of bad packages, while creating plentiful false positives.]]></summary>
-        <author>
-            <name>Robert Lemos, Contributing Writer, Dark Reading</name>
         </author>
     </entry>
 </feed>
