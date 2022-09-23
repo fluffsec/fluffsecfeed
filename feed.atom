@@ -2,10 +2,72 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-09-23T13:56:50.892Z</updated>
+    <updated>2022-09-23T19:24:05.485Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[CISA: Zoho ManageEngine RCE Bug Is Under Active Exploit]]></title>
+        <id>https://www.darkreading.com/attacks-breaches/cisa-zoho-manageengine-rce-bug-under-active-exploit</id>
+        <link href="https://www.darkreading.com/attacks-breaches/cisa-zoho-manageengine-rce-bug-under-active-exploit"/>
+        <updated>2022-09-23T18:11:24.000Z</updated>
+        <summary type="html"><![CDATA[The bug allows unauthenticated code execution on the company's firewall products, and CISA says it poses "significant risk" to federal government.]]></summary>
+        <author>
+            <name>Dark Reading Staff, Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Retail is in Trouble: 77% Of Retail Organizations Have Been Hit by Ransomware]]></title>
+        <id>https://blog.knowbe4.com/77-percent-of-retail-organizations-hit-by-ransomware</id>
+        <link href="https://blog.knowbe4.com/77-percent-of-retail-organizations-hit-by-ransomware"/>
+        <updated>2022-09-23T17:58:17.000Z</updated>
+        <summary type="html"><![CDATA[With Retail seeing and feeling the impact of more ransomware attacks than nearly every other industry, a new report focuses in on what the repercussions look like for this sector… and it’s not good.]]></summary>
+        <author>
+            <name>Stu Sjouwerman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“Browser-in-the-Browser” Phishing Technique Spotted in New Steam Account Attack]]></title>
+        <id>https://blog.knowbe4.com/browser-in-the-browser-phishing-steam-account-attack</id>
+        <link href="https://blog.knowbe4.com/browser-in-the-browser-phishing-steam-account-attack"/>
+        <updated>2022-09-23T17:58:10.000Z</updated>
+        <summary type="html"><![CDATA[Luring victims using a realistic- and legitimate-looking fake browser window to steal Steam accounts, this new type of social engineering may be a sign of things to come.]]></summary>
+        <author>
+            <name>Stu Sjouwerman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cyberattackers Compromise Microsoft Exchange Servers via Malicious OAuth Apps]]></title>
+        <id>https://www.darkreading.com/application-security/cyberattackers-compromise-microsoft-exchange-servers-malicious-oauth-apps</id>
+        <link href="https://www.darkreading.com/application-security/cyberattackers-compromise-microsoft-exchange-servers-malicious-oauth-apps"/>
+        <updated>2022-09-23T15:22:53.000Z</updated>
+        <summary type="html"><![CDATA[Cybercriminals took control of enterprise Exchange Servers to spread large amounts of spam aimed at signing people up for bogus subscriptions.]]></summary>
+        <author>
+            <name>Nathan Eddy, Contributing Writer, Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Europe Is Using Regulations to Harden Medical Devices Against Attack]]></title>
+        <id>https://www.darkreading.com/edge-articles/how-europe-is-using-regulations-to-harden-medical-devices-against-attack</id>
+        <link href="https://www.darkreading.com/edge-articles/how-europe-is-using-regulations-to-harden-medical-devices-against-attack"/>
+        <updated>2022-09-23T15:05:23.000Z</updated>
+        <summary type="html"><![CDATA[Manufacturers need to document a medical device's intended use and operational environment, as well as plan for misuse, such as a cyberattack.]]></summary>
+        <author>
+            <name>Axel Wirth, Chief Security Strategist, MedCrypt</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hackers Using Fake CircleCI Notifications to Hack GitHub Accounts]]></title>
+        <id>tag:blogger.com,1999:blog-4802841478634147276.post-8639059811083944882</id>
+        <link href="https://thehackernews.com/2022/09/hackers-using-fake-circleci.html"/>
+        <updated>2022-09-23T14:04:00.000Z</updated>
+        <summary type="html"><![CDATA[GitHub has put out an advisory detailing what may be an ongoing phishing campaign targeting its users to steal credentials and two-factor authentication (2FA) codes by impersonating the CircleCI DevOps platform.
+The Microsoft-owned code hosting service said it learned of the attack on September 16, 2022, adding the campaign impacted "many victim organizations."
+The fraudulent messages claim to]]></summary>
+        <author>
+            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Neglecting Open Source Developers Puts the Internet at Risk]]></title>
         <id>https://www.darkreading.com/attacks-breaches/neglecting-open-source-developers-puts-the-internet-at-risk</id>
@@ -4389,18 +4451,6 @@ This product is provided subject to this Notification and this Privacy & Use pol
         <updated>2022-08-25T10:25:00.000Z</updated>
         <summary type="html"><![CDATA[The North Korean nation-state group Kimusky has been linked to a new set of malicious activities directed against political and diplomatic entities located in its southern counterpart in early 2022.
 Russian cybersecurity firm Kaspersky codenamed the cluster GoldDragon, with the infection chains leading to the deployment of Windows malware designed to file lists, user keystrokes, and stored web]]></summary>
-        <author>
-            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PyPI Repository Warns Python Project Maintainers About Ongoing Phishing Attacks]]></title>
-        <id>tag:blogger.com,1999:blog-4802841478634147276.post-5497107437712622788</id>
-        <link href="https://thehackernews.com/2022/08/pypi-repository-warns-python-project.html"/>
-        <updated>2022-08-25T04:45:00.000Z</updated>
-        <summary type="html"><![CDATA[The Python Package Index, PyPI, on Wednesday sounded the alarm about an ongoing phishing campaign that aims to steal developer credentials and inject malicious updates to legitimate packages.
-"This is the first known phishing attack against PyPI," the maintainers of the official third-party software repository said in a series of tweets.
-The social engineering attack entails sending]]></summary>
         <author>
             <name>noreply@blogger.com (Ravie Lakshmanan)</name>
         </author>
