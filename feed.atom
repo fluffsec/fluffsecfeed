@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-09-23T03:49:02.385Z</updated>
+    <updated>2022-09-23T07:41:16.849Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
@@ -4295,71 +4295,6 @@ The social engineering attack entails sending]]></summary>
         <summary type="html"><![CDATA[The bug tracked as CVE-2022-0028 allows attackers to hijack firewalls without authentication, in order to mount DDoS hits on their targets of choice.]]></summary>
         <author>
             <name>Tara Seals, Managing Editor, News, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Efficient 'MagicWeb' Malware Subverts AD FS Authentication, Microsoft Warns]]></title>
-        <id>https://www.darkreading.com/threat-intelligence/efficient-magicweb-malware-subverts-ad-fs-authentication-microsoft</id>
-        <link href="https://www.darkreading.com/threat-intelligence/efficient-magicweb-malware-subverts-ad-fs-authentication-microsoft"/>
-        <updated>2022-08-24T19:29:23.000Z</updated>
-        <summary type="html"><![CDATA[The Russia-backed Nobelium APT has pioneered a post-exploitation tool allowing attackers to authenticate as any user.]]></summary>
-        <author>
-            <name>Dark Reading Staff, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ransomware Gang Demands $10M in Attack on French Hospital]]></title>
-        <id>https://www.darkreading.com/vulnerabilities-threats/ransomware-gang-demands-10m-attack-french-hospital</id>
-        <link href="https://www.darkreading.com/vulnerabilities-threats/ransomware-gang-demands-10m-attack-french-hospital"/>
-        <updated>2022-08-24T18:01:50.000Z</updated>
-        <summary type="html"><![CDATA[Center Hospitalier Sud Francilien (CHSF), a hospital outside of Paris, has redirected incoming patients to other medical facilities in the wake of a ransomware attack that began on Aug. 21.]]></summary>
-        <author>
-            <name>Dark Reading Staff, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Crypto Miners Using Tox P2P Messenger as Command and Control Server]]></title>
-        <id>tag:blogger.com,1999:blog-4802841478634147276.post-3270427633342443747</id>
-        <link href="https://thehackernews.com/2022/08/crypto-miners-using-tox-p2p-messenger.html"/>
-        <updated>2022-08-24T17:59:00.000Z</updated>
-        <summary type="html"><![CDATA[Threat actors have begun to use the Tox peer-to-peer instant messaging service as a command-and-control method, marking a shift from its earlier role as a contact method for ransomware negotiations.
-The findings from Uptycs, which analyzed an Executable and Linkable Format (ELF) artifact ("72client") that functions as a bot and can run scripts on the compromised host using the Tox protocol.
-Tox]]></summary>
-        <author>
-            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[VMware LPE Bug Allows Cyberattackers to Feast on Virtual Machine Data]]></title>
-        <id>https://www.darkreading.com/cloud/vmware-lpe-bug-cyberattackers-virtual-machine-data</id>
-        <link href="https://www.darkreading.com/cloud/vmware-lpe-bug-cyberattackers-virtual-machine-data"/>
-        <updated>2022-08-24T17:33:27.000Z</updated>
-        <summary type="html"><![CDATA[An insider threat or remote attacker with initial access could exploit CVE-2022-31676 to steal sensitive data and scoop up user credentials for follow-on attacks.]]></summary>
-        <author>
-            <name>Tara Seals, Managing Editor, News, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Preparing Critical Infrastructure for Post-Quantum Cryptography]]></title>
-        <id>17913 at https://us-cert.cisa.gov</id>
-        <link href="https://us-cert.cisa.gov/ncas/current-activity/2022/08/24/preparing-critical-infrastructure-post-quantum-cryptography"/>
-        <updated>2022-08-24T17:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Original release date: August 24, 2022
-CISA has released CISA Insights: Preparing Critical Infrastructure for Post-Quantum Cryptography, which outlines the actions that critical infrastructure stakeholders should take now to prepare for their future migration to the post-quantum cryptographic standard that the National Institute of Standards and Technology (NIST) will publish in 2024.  
-CISA strongly urges critical infrastructure stakeholders follow the recommendations in the Insights now to ensure a smooth migration to the post-quantum cryptography standard. 
-This product is provided subject to this Notification and this Privacy & Use policy.]]></summary>
-        <author>
-            <name>CISA</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Zero-Trust Maturity Data: Charting Your Own Organization]]></title>
-        <id>https://www.darkreading.com/cloud/new-zero-trust-maturity-data-charting-your-own-organization</id>
-        <link href="https://www.darkreading.com/cloud/new-zero-trust-maturity-data-charting-your-own-organization"/>
-        <updated>2022-08-24T17:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Every organization is on a zero-trust journey. Learn about how critical identity is to your security evolution, and how your organization can move forward.]]></summary>
-        <author>
-            <name>Dark Reading</name>
         </author>
     </entry>
 </feed>
