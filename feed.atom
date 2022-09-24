@@ -2,10 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-09-23T19:24:05.485Z</updated>
+    <updated>2022-09-24T03:46:39.587Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[App Developers Increasingly Targeted via Slack, DevOps Tools]]></title>
+        <id>https://www.darkreading.com/cloud/app-developers-increasingly-targeted-slack-devops-tools</id>
+        <link href="https://www.darkreading.com/cloud/app-developers-increasingly-targeted-slack-devops-tools"/>
+        <updated>2022-09-23T20:19:01.000Z</updated>
+        <summary type="html"><![CDATA[Slack, Docker, Kubernetes, and other applications that allow developers to collaborate have become the latest vector for software supply chain attacks.]]></summary>
+        <author>
+            <name>Robert Lemos, Contributing Writer, Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Malicious Apps With Millions of Downloads Found in Apple App Store, Google Play]]></title>
+        <id>https://www.darkreading.com/attacks-breaches/malicious-apps-millions-downloads-apple-google-app-stores</id>
+        <link href="https://www.darkreading.com/attacks-breaches/malicious-apps-millions-downloads-apple-google-app-stores"/>
+        <updated>2022-09-23T20:04:00.000Z</updated>
+        <summary type="html"><![CDATA[The ongoing ad fraud campaign can be traced back to 2019, but recently expanded into the iOS ecosystem, researchers say.]]></summary>
+        <author>
+            <name>Becky Bracken, Editor, Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CISA Has Added One Known Exploited Vulnerability to Catalog]]></title>
+        <id>18001 at https://us-cert.cisa.gov</id>
+        <link href="https://us-cert.cisa.gov/ncas/current-activity/2022/09/23/cisa-has-added-one-known-exploited-vulnerability-catalog"/>
+        <updated>2022-09-23T18:38:24.000Z</updated>
+        <summary type="html"><![CDATA[Original release date: September 23, 2022
+CISA has added one new vulnerability to its Known Exploited Vulnerabilities Catalog, based on evidence of active exploitation. These types of vulnerabilities are a frequent attack vector for malicious cyber actors and pose significant risk to the federal enterprise. Note: To view the newly added vulnerabilities in the catalog, click on the arrow in the "Date Added to Catalog" column, which will sort by descending dates.
+Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the Known Exploited Vulnerabilities Catalog as a living list of known CVEs that carry significant risk to the federal enterprise. BOD 22-01 requires FCEB agencies to remediate identified vulnerabilities by the due date to protect FCEB networks against active threats. See the BOD 22-01 Fact Sheet for more information.
+Although BOD 22-01 only applies to FCEB agencies, CISA strongly urges all organizations to reduce their exposure to cyberattacks by prioritizing timely remediation of Catalog vulnerabilities as part of their vulnerability management practice. CISA will continue to add vulnerabilities to the Catalog that meet the specified criteria.
+This product is provided subject to this Notification and this Privacy & Use policy.]]></summary>
+        <author>
+            <name>CISA</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CISA: Zoho ManageEngine RCE Bug Is Under Active Exploit]]></title>
         <id>https://www.darkreading.com/attacks-breaches/cisa-zoho-manageengine-rce-bug-under-active-exploit</id>
@@ -4207,252 +4241,6 @@ The security breach is said to have occurred two weeks ago, targeting its develo
         <summary type="html"><![CDATA[Online Security autonomously blocks malicious URLs, extensions, ad trackers, and pop-ups 24/7, protecting consumers from complex and rapidly evolving cyber threats online.]]></summary>
         <author>
             <name>Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[More Bang for the Buck: Cross-Platform Ransomware Is the Next Problem]]></title>
-        <id>https://www.darkreading.com/threat-intelligence/cross-platform-ransomware-spikes-problem</id>
-        <link href="https://www.darkreading.com/threat-intelligence/cross-platform-ransomware-spikes-problem"/>
-        <updated>2022-08-25T15:13:42.000Z</updated>
-        <summary type="html"><![CDATA[As cryptocurrency valuations make strikes less lucrative, ransomware gangs like the new RedAlert and Monster groups are modifying their tools to attack across platforms.]]></summary>
-        <author>
-            <name>Robert Lemos, Contributing Writer, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Wyden Renews Call to Encrypt Twitter DMs, Secure Americans' Data From Unfriendly Foreign Governments]]></title>
-        <id>https://www.darkreading.com/risk/wyden-renews-call-to-encrypt-twitter-dms-secure-americans-data-from-unfriendly-foreign-governments</id>
-        <link href="https://www.darkreading.com/risk/wyden-renews-call-to-encrypt-twitter-dms-secure-americans-data-from-unfriendly-foreign-governments"/>
-        <updated>2022-08-25T15:00:42.000Z</updated>
-        <summary type="html"><![CDATA[Following whistleblower complaint, Oregon senator renews commitment to passing bipartisan legislation to address the national security risks.]]></summary>
-        <author>
-            <name>Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Senior-Level Women Leaders in Cybersecurity Form New Nonprofit]]></title>
-        <id>https://www.darkreading.com/remote-workforce/senior-level-women-leaders-cybersecurity-nonprofit</id>
-        <link href="https://www.darkreading.com/remote-workforce/senior-level-women-leaders-cybersecurity-nonprofit"/>
-        <updated>2022-08-25T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The Forte Group, which gained momentum as an informal organization during the pandemic, will offer career development and advocacy for women execs in cybersecurity as well as newcomers.]]></summary>
-        <author>
-            <name>Kelly Jackson Higgins, Editor-in-Chief, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Okta Hackers Behind Twilio and Cloudflare Breach Hit Over 130 Organizations]]></title>
-        <id>tag:blogger.com,1999:blog-4802841478634147276.post-2711977282024748696</id>
-        <link href="https://thehackernews.com/2022/08/okta-hackers-behind-twilio-and.html"/>
-        <updated>2022-08-25T14:49:00.000Z</updated>
-        <summary type="html"><![CDATA[The threat actor behind the attacks on Twilio and Cloudflare earlier this month has been linked to a broader phishing campaign aimed at 136 organizations that resulted in a cumulative compromise of 9,931 accounts.
-The activity has been condemned 0ktapus by Group-IB because the initial goal of the attacks was to "obtain Okta identity credentials and two-factor authentication (2FA) codes from]]></summary>
-        <author>
-            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cyberstarts Closes $60M in Seed Fund III]]></title>
-        <id>https://www.darkreading.com/cloud/cyberstarts-closes-60m-in-seed-fund-iii</id>
-        <link href="https://www.darkreading.com/cloud/cyberstarts-closes-60m-in-seed-fund-iii"/>
-        <updated>2022-08-25T14:39:12.000Z</updated>
-        <summary type="html"><![CDATA[Venture firm hires former Splunk CEO to spearhead new GTM advisory board and help portfolio companies scale up.]]></summary>
-        <author>
-            <name>Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cisco Releases Security Updates for Multiple Products]]></title>
-        <id>17916 at https://us-cert.cisa.gov</id>
-        <link href="https://us-cert.cisa.gov/ncas/current-activity/2022/08/25/cisco-releases-security-updates-multiple-products"/>
-        <updated>2022-08-25T14:30:02.000Z</updated>
-        <summary type="html"><![CDATA[Original release date: August 25, 2022
-Cisco has released security updates for vulnerabilities affecting ACI Multi-Site Orchestrator, FXOS, and NX-OS software. A remote attacker could exploit some of these vulnerabilities to take control of an affected system. For updates addressing lower severity vulnerabilities, see the Cisco Security Advisories page.
-CISA encourages users and administrators to review the advisories for ACI Multi-Site Orchestrator, FXOS, and NX-OS and apply the necessary updates.
-This product is provided subject to this Notification and this Privacy & Use policy.]]></summary>
-        <author>
-            <name>CISA</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The (Nation) State of Cyber: 64% of Businesses Suspect They've Been Targeted or Impacted by Nation-State Attacks]]></title>
-        <id>https://www.darkreading.com/attacks-breaches/the-nation-state-of-cyber-64-of-businesses-suspect-they-ve-been-targeted-or-impacted-by-nation-state-attacks</id>
-        <link href="https://www.darkreading.com/attacks-breaches/the-nation-state-of-cyber-64-of-businesses-suspect-they-ve-been-targeted-or-impacted-by-nation-state-attacks"/>
-        <updated>2022-08-25T14:19:46.000Z</updated>
-        <summary type="html"><![CDATA[According to new Venafi research, two-thirds of organizations have changed cyber strategy in response to war in Ukraine.]]></summary>
-        <author>
-            <name>Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What You Need to Know About the Psychology Behind Cyber Resilience]]></title>
-        <id>https://www.darkreading.com/vulnerabilities-threats/what-you-need-to-know-about-the-psychology-behind-cyber-resilience</id>
-        <link href="https://www.darkreading.com/vulnerabilities-threats/what-you-need-to-know-about-the-psychology-behind-cyber-resilience"/>
-        <updated>2022-08-25T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Understanding how and why people respond to cyber threats is key to building cyber-workforce resilience.]]></summary>
-        <author>
-            <name>Bec McKeown, Director of Human Science, Immersive Labs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Penetration Testing Market Worth $2.7B By 2027: MarketsandMarkets(TM) Report]]></title>
-        <id>https://www.darkreading.com/vulnerabilities-threats/penetration-testing-market-worth-2-7b-by-2027-marketsandmarkets-tm-report</id>
-        <link href="https://www.darkreading.com/vulnerabilities-threats/penetration-testing-market-worth-2-7b-by-2027-marketsandmarkets-tm-report"/>
-        <updated>2022-08-25T13:56:23.000Z</updated>
-        <summary type="html"><![CDATA[Increase driven by increasingly sophisticated cyberattacks as well as increase in mobile-based business-critical applications, according to report.]]></summary>
-        <author>
-            <name>Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CISA releases 1 Industrial Control Systems Advisory]]></title>
-        <id>17919 at https://us-cert.cisa.gov</id>
-        <link href="https://us-cert.cisa.gov/ncas/current-activity/2022/08/25/cisa-releases-1-industrial-control-systems-advisory"/>
-        <updated>2022-08-25T13:38:34.000Z</updated>
-        <summary type="html"><![CDATA[Original release date: August 25, 2022
-CISA has released 1 Industrial Control Systems (ICS) advisory on August 25, 2022. This advisory provides timely information about current security issues, vulnerabilities, and exploits surrounding ICS.
-CISA encourages users and administrators to review the newly released ICS advisory for technical details and mitigations:
-•    ICSA-22-237-01 FATEK Automation FvDesigner
-This product is provided subject to this Notification and this Privacy & Use policy.]]></summary>
-        <author>
-            <name>CISA</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft Uncovers New Post-Compromise Malware Used by Nobelium Hackers]]></title>
-        <id>tag:blogger.com,1999:blog-4802841478634147276.post-1124602435810528645</id>
-        <link href="https://thehackernews.com/2022/08/microsoft-uncovers-new-post-compromise.html"/>
-        <updated>2022-08-25T13:24:00.000Z</updated>
-        <summary type="html"><![CDATA[The threat actor behind the SolarWinds supply chain attack has been linked to yet another "highly targeted" post-exploitation malware that could be used to maintain persistent access to compromised environments.
-Dubbed MagicWeb by Microsoft's threat intelligence teams, the development reiterates Nobelium's commitment to developing and maintaining purpose-built capabilities.
-Nobelium is the tech]]></summary>
-        <author>
-            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[U.S. Government Spending Billions on Cybersecurity]]></title>
-        <id>tag:blogger.com,1999:blog-4802841478634147276.post-533017463725837433</id>
-        <link href="https://thehackernews.com/2022/08/us-government-spending-billions-on.html"/>
-        <updated>2022-08-25T13:24:00.000Z</updated>
-        <summary type="html"><![CDATA[In recent months, the House of Representatives has been hard at work drafting various spending bills for the 2023 fiscal year. While these bills provide funding for a vast array of government programs and agencies, there was one thing that really stands out. Collectively, the bills that are making their way through the house allocate a staggering $15.6 billion to cybersecurity spending.
-As you]]></summary>
-        <author>
-            <name>noreply@blogger.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CISA Adds Ten Known Exploited Vulnerabilities to Catalog]]></title>
-        <id>17918 at https://us-cert.cisa.gov</id>
-        <link href="https://us-cert.cisa.gov/ncas/current-activity/2022/08/25/cisa-adds-ten-known-exploited-vulnerabilities-catalog"/>
-        <updated>2022-08-25T13:14:35.000Z</updated>
-        <summary type="html"><![CDATA[Original release date: August 25, 2022
-CISA has added ten new vulnerabilities to its Known Exploited Vulnerabilities Catalog, based on evidence of active exploitation. These types of vulnerabilities are a frequent attack vector for malicious cyber actors and pose significant risk to the federal enterprise. Note: to view the newly added vulnerabilities in the catalog, click on the arrow in the "Date Added to Catalog" column, which will sort by descending dates.      
-Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the Known Exploited Vulnerabilities Catalog as a living list of known CVEs that carry significant risk to the federal enterprise. BOD 22-01 requires FCEB agencies to remediate identified vulnerabilities by the due date to protect FCEB networks against active threats. See the BOD 22-01 Fact Sheet for more information.     
-Although BOD 22-01 only applies to FCEB agencies, CISA strongly urges all organizations to reduce their exposure to cyberattacks by prioritizing timely remediation of Catalog vulnerabilities as part of their vulnerability management practice. CISA will continue to add vulnerabilities to the Catalog that meet the specified criteria.
-This product is provided subject to this Notification and this Privacy & Use policy.]]></summary>
-        <author>
-            <name>CISA</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[State-Based Cyberattacks to be Excluded from Lloyd’s of London Cyber Insurance Policies]]></title>
-        <id>https://blog.knowbe4.com/state-based-cyberattacks-to-be-excluded-from-lloyds-of-london-cyber-insurance-policies</id>
-        <link href="https://blog.knowbe4.com/state-based-cyberattacks-to-be-excluded-from-lloyds-of-london-cyber-insurance-policies"/>
-        <updated>2022-08-25T13:14:31.000Z</updated>
-        <summary type="html"><![CDATA[As cyber insurers evolve their understanding of the cyber attack landscape, who’s responsible, and what’s at stake, a logical next step is taken by Lloyd’s to better isolate what is covered and what isn’t.]]></summary>
-        <author>
-            <name>Stu Sjouwerman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Crypto Collapse Will Only Add Fuel to the Cyberattack Fire]]></title>
-        <id>https://blog.knowbe4.com/the-crypto-collapse-will-only-add-fuel-to-the-cyberattack-fire</id>
-        <link href="https://blog.knowbe4.com/the-crypto-collapse-will-only-add-fuel-to-the-cyberattack-fire"/>
-        <updated>2022-08-25T13:14:22.000Z</updated>
-        <summary type="html"><![CDATA[Despite the crypto market’s loss of over $1 trillion in value since the beginning of the year, the value of the digital currency isn’t what makes it a popular choice for cybercriminals.]]></summary>
-        <author>
-            <name>Stu Sjouwerman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BlackByte Ransomware Gang Comes Back to Life with a New Extortion Strategy]]></title>
-        <id>https://blog.knowbe4.com/blackbyte-ransomware-gang-come-back-to-life-with-a-new-extortion-strategy</id>
-        <link href="https://blog.knowbe4.com/blackbyte-ransomware-gang-come-back-to-life-with-a-new-extortion-strategy"/>
-        <updated>2022-08-25T13:14:14.000Z</updated>
-        <summary type="html"><![CDATA[First debuted in July 2021, this ransomware gang that engages in their own attacks and offers a RWaaS model, has come back into the limelight offering victims several extortion payment options.]]></summary>
-        <author>
-            <name>Stu Sjouwerman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Phishing Remains the Initial Infection Vector in 78% of Attacks Against OT-Heavy Industries]]></title>
-        <id>https://blog.knowbe4.com/phishing-remains-the-initial-infection-vector-in-78-of-attacks-against-ot-heavy-industries</id>
-        <link href="https://blog.knowbe4.com/phishing-remains-the-initial-infection-vector-in-78-of-attacks-against-ot-heavy-industries"/>
-        <updated>2022-08-25T13:14:05.000Z</updated>
-        <summary type="html"><![CDATA[Companies heavily reliant on operational technology (OT) to function are just as much a target as businesses relying in traditional IT and are facing some of the same challenges to stop attacks.]]></summary>
-        <author>
-            <name>Stu Sjouwerman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Report: Deepfakes Used in Scams]]></title>
-        <id>https://blog.knowbe4.com/report-deepfakes-used-in-scams</id>
-        <link href="https://blog.knowbe4.com/report-deepfakes-used-in-scams"/>
-        <updated>2022-08-25T13:13:56.000Z</updated>
-        <summary type="html"><![CDATA[Scammers created a deepfake video of Patrick Hillmann, Chief Communications Officer at cryptocurrency exchange Binance, in order to scam people. Hillmann explained in a blog post that he became aware of the scam after receiving messages from people he had never met, thanking him for meeting with them over Zoom.]]></summary>
-        <author>
-            <name>Stu Sjouwerman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Optiv's Annual $40K Scholarship for Black, African-American-Identifying STEM Students Now Open for Applicants]]></title>
-        <id>https://www.darkreading.com/careers-and-people/optiv-s-annual-40k-scholarship-for-black-african-american-identifying-stem-students-now-open-for-applicants</id>
-        <link href="https://www.darkreading.com/careers-and-people/optiv-s-annual-40k-scholarship-for-black-african-american-identifying-stem-students-now-open-for-applicants"/>
-        <updated>2022-08-25T13:03:36.000Z</updated>
-        <summary type="html"><![CDATA[Optiv's Black Employee Network offers the scholarship, paid out over 4 years, for students seeking a career in the cybersecurity/information security industry.]]></summary>
-        <author>
-            <name>Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Exterro FTK Update Accelerates Mobile Digital Forensics]]></title>
-        <id>https://www.darkreading.com/dr-tech/new-exterro-ftk-update-accelerates-mobile-digital-forensics</id>
-        <link href="https://www.darkreading.com/dr-tech/new-exterro-ftk-update-accelerates-mobile-digital-forensics"/>
-        <updated>2022-08-25T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The FTK 7.6 portfolio promises better integration with other security and network resources, as well as unified analysis of mobile and computer evidence.]]></summary>
-        <author>
-            <name>Dark Reading Staff, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Thousands of Organizations Remain at Risk From Critical Zero-Click IP Camera Bug]]></title>
-        <id>https://www.darkreading.com/vulnerability-management/thousands-organizations-risk-critical-ip-camera-bug</id>
-        <link href="https://www.darkreading.com/vulnerability-management/thousands-organizations-risk-critical-ip-camera-bug"/>
-        <updated>2022-08-25T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The US Cybersecurity and Infrastructure Security Agency had wanted federal agencies to implement the fix for the RCE flaw in Hikvision cameras by Jan. 24, 2022.]]></summary>
-        <author>
-            <name>Jai Vijayan, Contributing Writer, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[HEADS UP] Highly Sophisticated Job Offer Scam]]></title>
-        <id>https://blog.knowbe4.com/heads-up-highly-sophisticated-job-offer-scam</id>
-        <link href="https://blog.knowbe4.com/heads-up-highly-sophisticated-job-offer-scam"/>
-        <updated>2022-08-25T12:55:44.000Z</updated>
-        <summary type="html"><![CDATA[If you've been approached by recruiters on LinkedIn for a potential job opportunity, you may want to pay attention to this recent scam.]]></summary>
-        <author>
-            <name>Stu Sjouwerman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Researchers Uncover Kimusky Infra Targeting South Korean Politicians and Diplomats]]></title>
-        <id>tag:blogger.com,1999:blog-4802841478634147276.post-5811258167949072619</id>
-        <link href="https://thehackernews.com/2022/08/researchers-uncover-kimusky-infra.html"/>
-        <updated>2022-08-25T10:25:00.000Z</updated>
-        <summary type="html"><![CDATA[The North Korean nation-state group Kimusky has been linked to a new set of malicious activities directed against political and diplomatic entities located in its southern counterpart in early 2022.
-Russian cybersecurity firm Kaspersky codenamed the cluster GoldDragon, with the infection chains leading to the deployment of Windows malware designed to file lists, user keystrokes, and stored web]]></summary>
-        <author>
-            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
         </author>
     </entry>
 </feed>
