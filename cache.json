@@ -372,16 +372,6 @@
           "wordCount": 1761,
           "title": "Ransomware Attacks are on the Rise",
           "imageUrl": "https://media.kasperskycontenthub.com/wp-content/uploads/sites/103/2019/12/24125329/Ransomware_700_420.png"
-        },
-        {
-          "id": "https://kasperskycontenthub.com/threatpost-global/?p=180478",
-          "author": "Nate Nelson",
-          "description": "Tens of thousands of cameras have failed to patch a critical, 11-month-old CVE, leaving thousands of organizations exposed.",
-          "link": "https://threatpost.com/cybercriminals-are-selling-access-to-chinese-surveillance-cameras/180478/",
-          "publishedOn": "2022-08-25T18:47:15.000Z",
-          "wordCount": 1900,
-          "title": "Cybercriminals Are Selling Access to Chinese Surveillance Cameras",
-          "imageUrl": "https://media.kasperskycontenthub.com/wp-content/uploads/sites/103/2020/11/19110609/iot.jpg"
         }
       ]
     },
@@ -2934,31 +2924,6 @@
           "wordCount": 10436,
           "title": "Capital One Joins Open Source Security Foundation",
           "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
-        },
-        {
-          "id": "https://www.darkreading.com/remote-workforce/twilio-hackers-okta-credentials-sprawling-supply-chain-attack",
-          "author": "Tara Seals, Managing Editor, News, Dark Reading",
-          "description": "The \"0ktapus\" cyberattackers set up a well-planned spear-phishing effort that affected at least 130 orgs beyond Twilio and Cloudflare, including Digital Ocean and Mailchimp.",
-          "link": "https://www.darkreading.com/remote-workforce/twilio-hackers-okta-credentials-sprawling-supply-chain-attack",
-          "publishedOn": "2022-08-25T18:55:21.000Z",
-          "wordCount": 9985,
-          "title": "Twilio Hackers Scarf 10K Okta Credentials in Sprawling Supply Chain Attack",
-          "enclosure": {
-            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltea67136f81f32eca/626a9eb4726e3315b16b3c64/Tara-Seals-Headshot2.jpg",
-            "type": "image/*",
-            "length": "0"
-          },
-          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltea67136f81f32eca/626a9eb4726e3315b16b3c64/Tara-Seals-Headshot2.jpg"
-        },
-        {
-          "id": "https://www.darkreading.com/endpoint/reasonlabs-launches-free-online-security-tool-to-power-secure-web-experience-for-millions-of-global-users",
-          "author": null,
-          "description": "Online Security autonomously blocks malicious URLs, extensions, ad trackers, and pop-ups 24/7, protecting consumers from complex and rapidly evolving cyber threats online.",
-          "link": "https://www.darkreading.com/endpoint/reasonlabs-launches-free-online-security-tool-to-power-secure-web-experience-for-millions-of-global-users",
-          "publishedOn": "2022-08-25T16:09:19.000Z",
-          "wordCount": 9850,
-          "title": "ReasonLabs Launches Free Online Security Tool to Power Secure Web Experience for Millions of Global Users",
-          "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
         }
       ]
     },
@@ -3520,6 +3485,28 @@
       "feedUrl": "https://thehackernews.com/feeds/posts/default",
       "siteUrl": "https://thehackernews.com/",
       "articles": [
+        {
+          "id": "tag:blogger.com,1999:blog-4802841478634147276.post-2832708208668873434",
+          "author": "noreply@blogger.com (Ravie Lakshmanan)",
+          "description": "The City of London Police on Friday revealed that it has arrested a 17-year-old teenager from Oxfordshire on suspicion of hacking.\n\"On the evening of Thursday 22 September 2022, the City of London Police arrested a 17-year-old in Oxfordshire on suspicion of hacking,\" the agency said, adding \"he remains in police custody.\"\nThe department said the arrest was made as part of an investigation in",
+          "link": "https://thehackernews.com/2022/09/london-police-arrested-17-year-old.html",
+          "publishedOn": "2022-09-24T06:37:00.000Z",
+          "wordCount": null,
+          "title": "London Police Arrested 17-Year-Old Hacker Suspected of Uber and GTA 6 Breaches",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "tag:blogger.com,1999:blog-4802841478634147276.post-6210356670442554865",
+          "author": "noreply@blogger.com (Ravie Lakshmanan)",
+          "description": "Security software company Sophos has warned of cyberattacks targeting a recently addressed critical vulnerability in its firewall product.\nThe issue, tracked as CVE-2022-3236 (CVSS score: 9.8), impacts Sophos Firewall v19.0 MR1 (19.0.1) and older and concerns a code injection vulnerability in the User Portal and Webadmin components that could result in remote code execution.\nThe company said it",
+          "link": "https://thehackernews.com/2022/09/hackers-actively-exploiting-new-sophos.html",
+          "publishedOn": "2022-09-24T05:03:00.000Z",
+          "wordCount": null,
+          "title": "Hackers Actively Exploiting New Sophos Firewall RCE Vulnerability",
+          "itunes": {},
+          "imageUrl": null
+        },
         {
           "id": "tag:blogger.com,1999:blog-4802841478634147276.post-8639059811083944882",
           "author": "noreply@blogger.com (Ravie Lakshmanan)",

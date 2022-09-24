@@ -2,10 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-09-24T03:46:39.587Z</updated>
+    <updated>2022-09-24T07:25:31.876Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[London Police Arrested 17-Year-Old Hacker Suspected of Uber and GTA 6 Breaches]]></title>
+        <id>tag:blogger.com,1999:blog-4802841478634147276.post-2832708208668873434</id>
+        <link href="https://thehackernews.com/2022/09/london-police-arrested-17-year-old.html"/>
+        <updated>2022-09-24T06:37:00.000Z</updated>
+        <summary type="html"><![CDATA[The City of London Police on Friday revealed that it has arrested a 17-year-old teenager from Oxfordshire on suspicion of hacking.
+"On the evening of Thursday 22 September 2022, the City of London Police arrested a 17-year-old in Oxfordshire on suspicion of hacking," the agency said, adding "he remains in police custody."
+The department said the arrest was made as part of an investigation in]]></summary>
+        <author>
+            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hackers Actively Exploiting New Sophos Firewall RCE Vulnerability]]></title>
+        <id>tag:blogger.com,1999:blog-4802841478634147276.post-6210356670442554865</id>
+        <link href="https://thehackernews.com/2022/09/hackers-actively-exploiting-new-sophos.html"/>
+        <updated>2022-09-24T05:03:00.000Z</updated>
+        <summary type="html"><![CDATA[Security software company Sophos has warned of cyberattacks targeting a recently addressed critical vulnerability in its firewall product.
+The issue, tracked as CVE-2022-3236 (CVSS score: 9.8), impacts Sophos Firewall v19.0 MR1 (19.0.1) and older and concerns a code injection vulnerability in the User Portal and Webadmin components that could result in remote code execution.
+The company said it]]></summary>
+        <author>
+            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[App Developers Increasingly Targeted via Slack, DevOps Tools]]></title>
         <id>https://www.darkreading.com/cloud/app-developers-increasingly-targeted-slack-devops-tools</id>
@@ -4211,36 +4235,6 @@ The security breach is said to have occurred two weeks ago, targeting its develo
 “Given Cobalt Strike’s popularity as an attack tool, defenses against it have also improved over time,” Microsoft security experts said. “Sliver thus presents an attractive alternative for actors looking for a]]></summary>
         <author>
             <name>noreply@blogger.com (Ravie Lakshmanan)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Twilio Hackers Scarf 10K Okta Credentials in Sprawling Supply Chain Attack]]></title>
-        <id>https://www.darkreading.com/remote-workforce/twilio-hackers-okta-credentials-sprawling-supply-chain-attack</id>
-        <link href="https://www.darkreading.com/remote-workforce/twilio-hackers-okta-credentials-sprawling-supply-chain-attack"/>
-        <updated>2022-08-25T18:55:21.000Z</updated>
-        <summary type="html"><![CDATA[The "0ktapus" cyberattackers set up a well-planned spear-phishing effort that affected at least 130 orgs beyond Twilio and Cloudflare, including Digital Ocean and Mailchimp.]]></summary>
-        <author>
-            <name>Tara Seals, Managing Editor, News, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cybercriminals Are Selling Access to Chinese Surveillance Cameras]]></title>
-        <id>https://kasperskycontenthub.com/threatpost-global/?p=180478</id>
-        <link href="https://threatpost.com/cybercriminals-are-selling-access-to-chinese-surveillance-cameras/180478/"/>
-        <updated>2022-08-25T18:47:15.000Z</updated>
-        <summary type="html"><![CDATA[Tens of thousands of cameras have failed to patch a critical, 11-month-old CVE, leaving thousands of organizations exposed.]]></summary>
-        <author>
-            <name>Nate Nelson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ReasonLabs Launches Free Online Security Tool to Power Secure Web Experience for Millions of Global Users]]></title>
-        <id>https://www.darkreading.com/endpoint/reasonlabs-launches-free-online-security-tool-to-power-secure-web-experience-for-millions-of-global-users</id>
-        <link href="https://www.darkreading.com/endpoint/reasonlabs-launches-free-online-security-tool-to-power-secure-web-experience-for-millions-of-global-users"/>
-        <updated>2022-08-25T16:09:19.000Z</updated>
-        <summary type="html"><![CDATA[Online Security autonomously blocks malicious URLs, extensions, ad trackers, and pop-ups 24/7, protecting consumers from complex and rapidly evolving cyber threats online.]]></summary>
-        <author>
-            <name>Dark Reading</name>
         </author>
     </entry>
 </feed>
