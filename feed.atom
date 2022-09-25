@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-09-25T07:25:13.675Z</updated>
+    <updated>2022-09-25T13:40:03.164Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
@@ -4116,19 +4116,6 @@ The issue, tracked as CVE-2021-38406 (CVSS score: 7.8), impacts DOPSoft 2 vers
         <updated>2022-08-27T03:23:00.000Z</updated>
         <summary type="html"><![CDATA[Iranian state-sponsored actors are leaving no stone unturned to exploit unpatched systems running Log4j to target Israeli entities, indicating the vulnerability’s long tail for remediation.
 Microsoft attributed the latest set of activities to the umbrella threat group tracked as MuddyWater (aka Cobalt Ulster, Mercury, Seedworm, or Static Kitten), which is linked to the Iranian intelligence]]></summary>
-        <author>
-            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Critical Vulnerability Discovered in Atlassian Bitbucket Server and Data Center]]></title>
-        <id>tag:blogger.com,1999:blog-4802841478634147276.post-8799400567224782030</id>
-        <link href="https://thehackernews.com/2022/08/critical-vulnerability-discovered-in.html"/>
-        <updated>2022-08-26T19:39:00.000Z</updated>
-        <summary type="html"><![CDATA[Atlassian has rolled out fixes for a critical security flaw in Bitbucket Server and Data Center that could lead to the execution of malicious code on vulnerable installations.
-Tracked as CVE-2022-36804 (CVSS score: 9.9), the issue has been characterized as a command injection vulnerability in multiple endpoints that could be exploited via specially crafted HTTP requests.
-
-“An]]></summary>
         <author>
             <name>noreply@blogger.com (Ravie Lakshmanan)</name>
         </author>
