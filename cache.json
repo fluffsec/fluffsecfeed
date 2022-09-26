@@ -370,6 +370,31 @@
       "siteUrl": "https://www.darkreading.com",
       "articles": [
         {
+          "id": "https://www.darkreading.com/attacks-breaches/samsung-fails-consumers-in-preventable-back-to-back-data-breaches-according-to-federal-lawsuit",
+          "author": null,
+          "description": "Company unnecessarily collected consumers' personal data and failed to safeguard it, suit alleges, leading to two back-to-back data breaches.",
+          "link": "https://www.darkreading.com/attacks-breaches/samsung-fails-consumers-in-preventable-back-to-back-data-breaches-according-to-federal-lawsuit",
+          "publishedOn": "2022-09-26T14:45:27.000Z",
+          "wordCount": 11971,
+          "title": "Samsung Fails Consumers in Preventable Back-to-Back Data Breaches, According to Federal Lawsuit",
+          "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/edge-articles/we-re-thinking-about-saas-the-wrong-way",
+          "author": "Michael Bargury, CTO & Co-Founder, Zenity",
+          "description": "Many enterprise applications are built outside of IT, but we still treat the platforms they're built with as point solutions.",
+          "link": "https://www.darkreading.com/edge-articles/we-re-thinking-about-saas-the-wrong-way",
+          "publishedOn": "2022-09-26T13:38:06.000Z",
+          "wordCount": 14700,
+          "title": "We're Thinking About SaaS the Wrong Way",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt88c0ce1b9ac54b6e/6197abd85da8f858d58cdb06/Michael_Bargury_zenity.jpg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt88c0ce1b9ac54b6e/6197abd85da8f858d58cdb06/Michael_Bargury_zenity.jpg"
+        },
+        {
           "id": "https://www.darkreading.com/cloud/app-developers-increasingly-targeted-slack-devops-tools",
           "author": "Robert Lemos, Contributing Writer, Dark Reading",
           "description": "Slack, Docker, Kubernetes, and other applications that allow developers to collaborate have become the latest vector for software supply chain attacks.",
@@ -2918,6 +2943,16 @@
       "siteUrl": "https://blog.knowbe4.com",
       "articles": [
         {
+          "id": "https://blog.knowbe4.com/you-need-aggressive-cybersecurity-training",
+          "author": "Stu Sjouwerman",
+          "description": "According to nearly every study conducted over the last decade, social engineering is involved in the vast majority of cyber attacks. The figures range from about 30% to 90% of all hacking and malware attacks. There is no other root exploitation cause that organizations can focus on mitigating that would decrease cybersecurity risk more.",
+          "link": "https://blog.knowbe4.com/you-need-aggressive-cybersecurity-training",
+          "publishedOn": "2022-09-26T12:00:00.000Z",
+          "wordCount": 2397,
+          "title": "You Need Aggressive Cyber Training, Not \"So, So\" Training",
+          "imageUrl": "https://blog.knowbe4.com/hubfs/Social%20Image%20Repository/Evangelist%20Blog%20Social%20Graphics/Evangelists-Roger%20Grimes.jpg#keepProtocol"
+        },
+        {
           "id": "https://blog.knowbe4.com/77-percent-of-retail-organizations-hit-by-ransomware",
           "author": "Stu Sjouwerman",
           "description": "With Retail seeing and feeling the impact of more ransomware attacks than nearly every other industry, a new report focuses in on what the repercussions look like for this sector… and it’s not good.",
@@ -3384,6 +3419,50 @@
       "feedUrl": "https://thehackernews.com/feeds/posts/default",
       "siteUrl": "https://thehackernews.com/",
       "articles": [
+        {
+          "id": "tag:blogger.com,1999:blog-4802841478634147276.post-5365205050017483344",
+          "author": "noreply@blogger.com (Ravie Lakshmanan)",
+          "description": "A China-aligned advanced persistent threat actor known as TA413 weaponized recently disclosed flaws in Sophos Firewall and Microsoft Office to deploy a never-before-seen backdoor called LOWZERO as part of an espionage campaign aimed at Tibetan entities.\nTargets primarily consisted of organizations associated with the Tibetan community, including enterprises associated with the Tibetan",
+          "link": "https://thehackernews.com/2022/09/chinese-espionage-hackers-target.html",
+          "publishedOn": "2022-09-26T12:14:00.000Z",
+          "wordCount": null,
+          "title": "Chinese Espionage Hackers Target Tibetans Using New LOWZERO Backdoor",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "tag:blogger.com,1999:blog-4802841478634147276.post-131228686982753169",
+          "author": "noreply@blogger.com (Ravie Lakshmanan)",
+          "description": "The BlackCat ransomware crew has been spotted fine-tuning their malware arsenal to fly under the radar and expand their reach.\n\"Among some of the more notable developments has been the use of a new version of the Exmatter data exfiltration tool, and the use of Eamfo, information-stealing malware that is designed to steal credentials stored by Veeam backup software,\" researchers from Symantec",
+          "link": "https://thehackernews.com/2022/09/blackcat-ransomware-attackers-spotted.html",
+          "publishedOn": "2022-09-26T10:33:00.000Z",
+          "wordCount": null,
+          "title": "BlackCat Ransomware Attackers Spotted Fine-Tuning Their Malware Arsenal",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "tag:blogger.com,1999:blog-4802841478634147276.post-7683453040426267802",
+          "author": "noreply@blogger.com (The Hacker News)",
+          "description": "Cybersecurity today matters so much because of everyone's dependence on technology, from collaboration, communication and collecting data to e-commerce and entertainment. Every organisation that needs to deliver services to their customers and employees must protect their IT 'network' - all the apps and connected devices from laptops and desktops to servers and smartphones.\nWhile traditionally,",
+          "link": "https://thehackernews.com/2022/09/5-network-security-threats-and-how-to.html",
+          "publishedOn": "2022-09-26T10:30:00.000Z",
+          "wordCount": null,
+          "title": "5 Network Security Threats And How To Protect Yourself",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "tag:blogger.com,1999:blog-4802841478634147276.post-6708351452950226229",
+          "author": "noreply@blogger.com (Ravie Lakshmanan)",
+          "description": "Wearable technology company Fitbit has announced a new clause that requires users to switch to a Google account \"sometime\" in 2023.\n\"In 2023, we plan to launch Google accounts on Fitbit, which will enable use of Fitbit with a Google account,\" the Google-owned fitness devices maker said.\n\nThe switch will not go live for all users in 2023. Rather, support for Fitbit accounts is",
+          "link": "https://thehackernews.com/2022/09/google-to-make-account-login-mandatory.html",
+          "publishedOn": "2022-09-26T09:47:00.000Z",
+          "wordCount": null,
+          "title": "Google to Make Account Login Mandatory for New Fitbit Users in 2023",
+          "itunes": {},
+          "imageUrl": null
+        },
         {
           "id": "tag:blogger.com,1999:blog-4802841478634147276.post-7867901706824541452",
           "author": "noreply@blogger.com (Ravie Lakshmanan)",
