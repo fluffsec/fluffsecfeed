@@ -53,6 +53,16 @@
       "siteUrl": "https://us-cert.cisa.gov/",
       "articles": [
         {
+          "id": "18004 at https://us-cert.cisa.gov",
+          "author": "CISA",
+          "description": "Original release date: September 26, 2022 | Last revised: September 27, 2022\nCISA has released three (3) Industrial Control Systems (ICS) advisories on September 27th, 2022. These advisories provide timely information about current security issues, vulnerabilities, and exploits surrounding ICS.\nCISA encourages users and administrators to review the newly released ICS advisories for technical details and mitigations:\n•    ICSA-22-270-01 Hitachi Energy AFS\nHitachi Energy APM Edge\nRockwell Automation ThinManager ThinServer\nThis product is provided subject to this Notification and this Privacy & Use policy.",
+          "link": "https://us-cert.cisa.gov/ncas/current-activity/2022/09/26/cisa-releases-three-industrial-control-systems-advisories",
+          "publishedOn": "2022-09-26T18:16:03.000Z",
+          "wordCount": 914,
+          "title": "CISA Releases Three Industrial Control Systems Advisories",
+          "imageUrl": null
+        },
+        {
           "id": "18001 at https://us-cert.cisa.gov",
           "author": "CISA",
           "description": "Original release date: September 23, 2022\nCISA has added one new vulnerability to its Known Exploited Vulnerabilities Catalog, based on evidence of active exploitation. These types of vulnerabilities are a frequent attack vector for malicious cyber actors and pose significant risk to the federal enterprise. Note: To view the newly added vulnerabilities in the catalog, click on the arrow in the \"Date Added to Catalog\" column, which will sort by descending dates.\nBinding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the Known Exploited Vulnerabilities Catalog as a living list of known CVEs that carry significant risk to the federal enterprise. BOD 22-01 requires FCEB agencies to remediate identified vulnerabilities by the due date to protect FCEB networks against active threats. See the BOD 22-01 Fact Sheet for more information.\nAlthough BOD 22-01 only applies to FCEB agencies, CISA strongly urges all organizations to reduce their exposure to cyberattacks by prioritizing timely remediation of Catalog vulnerabilities as part of their vulnerability management practice. CISA will continue to add vulnerabilities to the Catalog that meet the specified criteria.\nThis product is provided subject to this Notification and this Privacy & Use policy.",
@@ -370,6 +380,71 @@
       "siteUrl": "https://www.darkreading.com",
       "articles": [
         {
+          "id": "https://www.darkreading.com/cloud/microsoft-passwordless-sign-on-azure-virtual-desktop",
+          "author": "Dark Reading Staff, Dark Reading",
+          "description": "Azure says cloud-native single sign-on with a passwordless option is most-requested new AVD feature in the product's history.",
+          "link": "https://www.darkreading.com/cloud/microsoft-passwordless-sign-on-azure-virtual-desktop",
+          "publishedOn": "2022-09-27T19:04:15.000Z",
+          "wordCount": 9640,
+          "title": "Microsoft Rolls Out Passwordless Sign-on for Azure Virtual Desktop",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blte161b23f0fd3a84b/60b1ea374e7eb868c4c6a293/dr_staff_125x125.jpg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blte161b23f0fd3a84b/60b1ea374e7eb868c4c6a293/dr_staff_125x125.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/dr-tech/lessons-from-the-github-cybersecurity-breach-protecting-the-most-sensitive-data",
+          "author": "Veroljub Mihajlovic, Senior Director of Product at Flosum",
+          "description": "This Tech Tip outlines three steps security teams should take to protect the information stored in Salesforce.",
+          "link": "https://www.darkreading.com/dr-tech/lessons-from-the-github-cybersecurity-breach-protecting-the-most-sensitive-data",
+          "publishedOn": "2022-09-27T17:00:00.000Z",
+          "wordCount": 10258,
+          "title": "Lessons from the GitHub Cybersecurity Breach: Protecting the Most Sensitive Data",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt8be716a7602b36f3/633325cf34a4715fa9081421/Veroljub_Mihajlovic-sq.jpg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt8be716a7602b36f3/633325cf34a4715fa9081421/Veroljub_Mihajlovic-sq.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/attacks-breaches/4-data-security-best-practices-you-should-know",
+          "author": "Ben Herzberg, Chief Scientist, Satori",
+          "description": "There are numerous strategies to lessen the possibility and effects of a cyberattack, but doing so takes careful planning and targeted action.",
+          "link": "https://www.darkreading.com/attacks-breaches/4-data-security-best-practices-you-should-know",
+          "publishedOn": "2022-09-27T17:00:00.000Z",
+          "wordCount": 13106,
+          "title": "4 Data Security Best Practices You Should Know",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltbae3827f88ba5dda/6331bdcadd64fa598c7644d3/Herzberg.jpg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltbae3827f88ba5dda/6331bdcadd64fa598c7644d3/Herzberg.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/threat-intelligence/adversaries-continue-cyberattacks-with-greater-precision-and-innovative-attack-methods-according-to-netscout-report",
+          "author": null,
+          "description": "TCP-based, DNS water-torture, and carpet-bombing attacks dominate the DDoS threat landscape, while Ireland, India, Taiwan, and Finland are battered by DDoS attacks resulting from the Russia/Ukraine war.",
+          "link": "https://www.darkreading.com/threat-intelligence/adversaries-continue-cyberattacks-with-greater-precision-and-innovative-attack-methods-according-to-netscout-report",
+          "publishedOn": "2022-09-27T15:05:03.000Z",
+          "wordCount": 12086,
+          "title": "Adversaries Continue Cyberattacks with Greater Precision and Innovative Attack Methods According to NETSCOUT Report",
+          "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/perimeter/netography-upgrades-platform-to-provide-scalable-continuous-network-security-and-visibility",
+          "author": null,
+          "description": "Netography Fusion® gives security and cloud operations teams visibility and control of network traffic and context across users, applications, data, and devices.",
+          "link": "https://www.darkreading.com/perimeter/netography-upgrades-platform-to-provide-scalable-continuous-network-security-and-visibility",
+          "publishedOn": "2022-09-27T14:47:55.000Z",
+          "wordCount": 12471,
+          "title": "Netography Upgrades Platform to Provide Scalable, Continuous Network Security and Visibility",
+          "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
+        },
+        {
           "id": "https://www.darkreading.com/attacks-breaches/7-metrics-to-measure-the-effectiveness-of-your-security-operations",
           "author": "Andrew Hollister, CSO, LogRhythm; VP, LogRhythm Labs",
           "description": "SOC metrics will allow stakeholders to track the current state of a program and how it's supporting  business objectives.",
@@ -385,6 +460,31 @@
           "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt2e7f1e27b34e68f2/6329ef64316f606da74bf28b/Andrew_Hollister.png"
         },
         {
+          "id": "https://www.darkreading.com/cloud/iac-scanning-a-fantastic-overlooked-learning-opportunity",
+          "author": null,
+          "description": "Infrastructure as code can help teams build more consistently in the cloud. But who owns it? Are teams getting the insights they need from your IaC security tool?",
+          "link": "https://www.darkreading.com/cloud/iac-scanning-a-fantastic-overlooked-learning-opportunity",
+          "publishedOn": "2022-09-27T13:54:59.000Z",
+          "wordCount": 12835,
+          "title": "IaC Scanning: A Fantastic, Overlooked Learning Opportunity",
+          "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/threat-intelligence/blackcat-alphv-gang-wiper-functionality-ransomware-tactic",
+          "author": "Elizabeth Montalbano, Contributor, Dark Reading",
+          "description": "Using its \"Exmatter\" tool to corrupt rather than encrypt files signals a new direction for financially motivated cybercrime activity, researchers say.",
+          "link": "https://www.darkreading.com/threat-intelligence/blackcat-alphv-gang-wiper-functionality-ransomware-tactic",
+          "publishedOn": "2022-09-27T13:51:25.000Z",
+          "wordCount": 13092,
+          "title": "BlackCat/ALPHV Gang Adds Wiper Functionality as Ransomware Tactic",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltbfd004d139d42d70/6303bca6236c2476a257760e/ElizabethMontalbano.jpg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltbfd004d139d42d70/6303bca6236c2476a257760e/ElizabethMontalbano.jpg"
+        },
+        {
           "id": "https://www.darkreading.com/threat-intelligence/organizations-finding-the-need-for-new-approaches-on-the-cybersecurity-front-comptia-research-reveals",
           "author": null,
           "description": "Settling for \"satisfactory\" level of readiness may underestimate growing levels of risk.",
@@ -393,6 +493,21 @@
           "wordCount": 12059,
           "title": "Organizations Finding the Need For New Approaches On the Cybersecurity Front, CompTIA Research Reveals",
           "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/dr-tech/mitre-rolls-out-fight-to-protect-5g-networks",
+          "author": "Dark Reading Staff, Dark Reading",
+          "description": "MITRE's new FiGHT framework describes adversary tactics and techniques used against 5G systems and networks.",
+          "link": "https://www.darkreading.com/dr-tech/mitre-rolls-out-fight-to-protect-5g-networks",
+          "publishedOn": "2022-09-27T12:00:00.000Z",
+          "wordCount": 10585,
+          "title": "MITRE Rolls Out FiGHT to Protect 5G Networks",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blte161b23f0fd3a84b/60b1ea374e7eb868c4c6a293/dr_staff_125x125.jpg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blte161b23f0fd3a84b/60b1ea374e7eb868c4c6a293/dr_staff_125x125.jpg"
         },
         {
           "id": "https://www.darkreading.com/attacks-breaches/fake-sites-siphon-millions-dollars-3-year-scam",
@@ -3611,6 +3726,17 @@
       "siteUrl": "https://thehackernews.com/",
       "articles": [
         {
+          "id": "tag:blogger.com,1999:blog-4802841478634147276.post-643973625586636622",
+          "author": "noreply@blogger.com (Ravie Lakshmanan)",
+          "description": "The Ukrainian government on Monday warned of \"massive cyberattacks\" by Russia targeting critical infrastructure facilities located in the country and that of its allies.\nThe attacks are said to be targeting the energy sector, the Main Directorate of Intelligence of the Ministry of Defense of Ukraine (GUR) said.\n\"By the cyberattacks, the enemy will try to increase the effect of missile strikes on",
+          "link": "https://thehackernews.com/2022/09/ukraine-says-russia-planning-massive.html",
+          "publishedOn": "2022-09-27T13:54:00.000Z",
+          "wordCount": null,
+          "title": "Ukraine Says Russia Planning Massive Cyberattacks on its Critical Infrastructures",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
           "id": "tag:blogger.com,1999:blog-4802841478634147276.post-1693581833346204347",
           "author": "noreply@blogger.com (Ravie Lakshmanan)",
           "description": "Cybercriminals are continuing to prey on users searching for cracked software by directing them to fraudulent websites hosting weaponized installers that deploy malware called NullMixer on compromised systems.\n\"When a user extracts and executes NullMixer, it drops a number of malware files to the compromised machine,\" cybersecurity firm Kaspersky said in a Monday report. \"It drops a wide variety",
@@ -4949,28 +5075,6 @@
           "publishedOn": "2022-08-29T10:06:00.000Z",
           "wordCount": null,
           "title": "A CISO's Ultimate Security Validation Checklist",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "tag:blogger.com,1999:blog-4802841478634147276.post-3016465765509094489",
-          "author": "noreply@blogger.com (Ravie Lakshmanan)",
-          "description": "Twilio, which earlier this month became a sophisticated phishing attack, disclosed last week that the threat actors also managed to gain access to the accounts of 93 individual users of its Authy two-factor authentication (2FA) service.\nThe communication tools company said the unauthorized access made it possible for the adversary to register additional devices to those accounts. It has since",
-          "link": "https://thehackernews.com/2022/08/twilio-breach-also-compromised-authy.html",
-          "publishedOn": "2022-08-29T07:07:00.000Z",
-          "wordCount": null,
-          "title": "Twilio Breach Also Compromised Authy Two-Factor Accounts of Some Users",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "tag:blogger.com,1999:blog-4802841478634147276.post-4777578342682451877",
-          "author": "noreply@blogger.com (Ravie Lakshmanan)",
-          "description": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added 10 new actively exploited vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, including a high-severity security flaw affecting industrial automation software from Delta Electronics.\nThe issue, tracked as CVE-2021-38406 (CVSS score: 7.8), impacts DOPSoft 2 versions 2.00.07 and prior. A successful",
-          "link": "https://thehackernews.com/2022/08/cisa-adds-10-new-known-actively.html",
-          "publishedOn": "2022-08-29T04:23:00.000Z",
-          "wordCount": null,
-          "title": "CISA Adds 10 New Known Actively Exploited Vulnerabilities to its Catalog",
           "itunes": {},
           "imageUrl": null
         }
