@@ -370,6 +370,21 @@
       "siteUrl": "https://www.darkreading.com",
       "articles": [
         {
+          "id": "https://www.darkreading.com/application-security/recession-jitters-ma-dominates-robust-cybersecurity-market",
+          "author": "Jai Vijayan, Contributing Writer, Dark Reading",
+          "description": "Funding has been somewhat lower than last year, but investment remains healthy, analysts say, amid thirst for cloud security in particular.",
+          "link": "https://www.darkreading.com/application-security/recession-jitters-ma-dominates-robust-cybersecurity-market",
+          "publishedOn": "2022-09-26T20:30:52.000Z",
+          "wordCount": 14188,
+          "title": "Despite Recession Jitters, M&A Dominates a Robust Cybersecurity Market",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt02d79fb9a44a4258/60b1e9dd2a25046b35110696/Jai-Vijayan.jpeg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt02d79fb9a44a4258/60b1e9dd2a25046b35110696/Jai-Vijayan.jpeg"
+        },
+        {
           "id": "https://www.darkreading.com/attacks-breaches/russia-planning-cyberattacks-ukraine-energy-sector",
           "author": "Becky Bracken, Editor, Dark Reading",
           "description": "Ukraine military intelligence says Russia is planning cyberattacks on the country's energy sector, as well as against allies including Poland and the Baltic states.",
@@ -2926,7 +2941,18 @@
       "title": "Public KB",
       "feedUrl": "https://kb.pulsesecure.net/pkb_RSS?q=Pulse_Security_Advisories__kav;10",
       "siteUrl": "https://kb.pulsesecure.net/?q=Pulse_Security_Advisories__kav%3B10&l=en_US",
-      "articles": []
+      "articles": [
+        {
+          "id": "Client-Side-Desync-Attack",
+          "author": null,
+          "description": "",
+          "link": "https://kb.pulsesecure.net/articles/Pulse_Security_Advisories/Client-Side-Desync-Attack",
+          "publishedOn": "2022-09-26T22:42:45.000Z",
+          "wordCount": 3401,
+          "title": "SA45476 - Client Side Desync Attack",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "Microsoft Security Response Center",
