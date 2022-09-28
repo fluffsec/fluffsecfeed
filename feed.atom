@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-09-28T14:00:10.348Z</updated>
+    <updated>2022-09-28T19:26:46.236Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The Countdown to DORA]]></title>
+        <id>https://www.darkreading.com/risk/the-countdown-to-dora</id>
+        <link href="https://www.darkreading.com/risk/the-countdown-to-dora"/>
+        <updated>2022-09-28T17:00:00.000Z</updated>
+        <summary type="html"><![CDATA[With provisional agreement reached on the Digital Operational Resilience Act, the clock is now ticking for banks and information and communications technology (ICT) services companies with European operations. Here's what you need to know.]]></summary>
+        <author>
+            <name>Ilias Chantzos, Global Privacy Officer and Head of EMEA Government Affairs, Broadcom</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chaos Malware Resurfaces With All-New DDoS & Cryptomining Modules]]></title>
+        <id>https://www.darkreading.com/attacks-breaches/chaos-malware-resurfaces-go-based-ddos-cryptomining-threat</id>
+        <link href="https://www.darkreading.com/attacks-breaches/chaos-malware-resurfaces-go-based-ddos-cryptomining-threat"/>
+        <updated>2022-09-28T16:12:09.000Z</updated>
+        <summary type="html"><![CDATA[The previously identified ransomware builder has veered in an entirely new direction, targeting consumers and business of all sizes by exploiting known CVEs through brute-forced and/or stolen SSH keys.]]></summary>
+        <author>
+            <name>Elizabeth Montalbano, Contributor, Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Illumio Introduces New Solution to Stop Endpoint Ransomware from Spreading Across the Hybrid Attack Surface]]></title>
+        <id>https://www.darkreading.com/remote-workforce/illumio-introduces-new-solution-to-stop-endpoint-ransomware-from-spreading-across-the-hybrid-attack-surface</id>
+        <link href="https://www.darkreading.com/remote-workforce/illumio-introduces-new-solution-to-stop-endpoint-ransomware-from-spreading-across-the-hybrid-attack-surface"/>
+        <updated>2022-09-28T14:23:35.000Z</updated>
+        <summary type="html"><![CDATA[Illumio Endpoint extends zero trust segmentation to see risk and set policy across macOS and Windows devices.]]></summary>
+        <author>
+            <name>Dark Reading</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Jamf Announces Intent to Acquire ZecOps, to Provide a Market-Leading Security Solution for Mobile Devices as Targeted Attacks Continue to Grow]]></title>
         <id>https://www.darkreading.com/mobile/jamf-announces-intent-to-acquire-zecops-to-provide-a-market-leading-security-solution-for-mobile-devices-as-targeted-attacks-continue-to-grow</id>
@@ -17,6 +47,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[When Will Cybersecurity Get Its Bloomberg Terminal?]]></title>
+        <id>https://www.darkreading.com/dr-tech/when-will-cybersecurity-get-its-bloomberg-terminal-</id>
+        <link href="https://www.darkreading.com/dr-tech/when-will-cybersecurity-get-its-bloomberg-terminal-"/>
+        <updated>2022-09-28T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The "single pane of glass" that gathers and correlates all the information security professionals need doesn't exist, so it's up to us to create it.]]></summary>
+        <author>
+            <name>Yotam Segev, Co-Founder and CEO, Cyera</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Time to Change Our Flawed Approach to Security Awareness]]></title>
         <id>https://www.darkreading.com/vulnerabilities-threats/time-to-change-our-flawed-approach-to-security-awareness</id>
         <link href="https://www.darkreading.com/vulnerabilities-threats/time-to-change-our-flawed-approach-to-security-awareness"/>
@@ -24,6 +64,17 @@
         <summary type="html"><![CDATA[Defend against phishing attacks with more than user training. Measure users' suspicion levels along with cognitive and behavioral factors, then build a risk index and use the information to better protect those who are most vulnerable.]]></summary>
         <author>
             <name>Arun Vishwanath, Technologist</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Researchers Warn of New Go-based Malware Targeting Windows and Linux Systems]]></title>
+        <id>tag:blogger.com,1999:blog-4802841478634147276.post-2179638891591659670</id>
+        <link href="https://thehackernews.com/2022/09/researchers-warn-of-new-go-based.html"/>
+        <updated>2022-09-28T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A new, multi-functional Go-based malware dubbed Chaos has been rapidly growing in volume in recent months to ensnare a wide range of Windows, Linux, small office/home office (SOHO) routers, and enterprise servers into its botnet.
+"Chaos functionality includes the ability to enumerate the host environment, run remote shell commands, load additional modules, automatically propagate through]]></summary>
+        <author>
+            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
         </author>
     </entry>
     <entry>
@@ -172,6 +223,22 @@ The issue impacts the WhatsApp and]]></summary>
         <summary type="html"><![CDATA[Azure says cloud-native single sign-on with a passwordless option is most-requested new AVD feature in the product's history.]]></summary>
         <author>
             <name>Dark Reading Staff, Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CISA Releases Three Industrial Control Systems Advisories]]></title>
+        <id>18004 at https://us-cert.cisa.gov</id>
+        <link href="https://us-cert.cisa.gov/ncas/current-activity/2022/09/27/cisa-releases-three-industrial-control-systems-advisories"/>
+        <updated>2022-09-27T18:16:03.000Z</updated>
+        <summary type="html"><![CDATA[Original release date: September 27, 2022 | Last revised: September 28, 2022
+CISA has released three (3) Industrial Control Systems (ICS) advisories on September 27th, 2022. These advisories provide timely information about current security issues, vulnerabilities, and exploits surrounding ICS.
+CISA encourages users and administrators to review the newly released ICS advisories for technical details and mitigations:
+•    ICSA-22-270-01 Hitachi Energy AFS
+Hitachi Energy APM Edge
+Rockwell Automation ThinManager ThinServer
+This product is provided subject to this Notification and this Privacy & Use policy.]]></summary>
+        <author>
+            <name>CISA</name>
         </author>
     </entry>
     <entry>
@@ -4504,42 +4571,6 @@ Phishers are enjoying remarkable success using text messages to steal remote acc
 Stellar Cyber claims to address the needs of MSSPs by providing capabilities typically found in NG-SIEM, NDR, and SOAR products in their]]></summary>
         <author>
             <name>noreply@blogger.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[India's Newest Airline Akasa Air Found Leaking Passengers' Personal Information]]></title>
-        <id>tag:blogger.com,1999:blog-4802841478634147276.post-3578841386146581777</id>
-        <link href="https://thehackernews.com/2022/08/indias-newest-airline-akasa-air-suffers.html"/>
-        <updated>2022-08-30T07:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Akasa Air, India's newest commercial airline, exposed the personal data belonging to its customers that the company blamed on a technical configuration error.
-According to security researcher Ashutosh Barot, the issue is rooted in the account registration process, leading to the exposure of details such as names, gender, email addresses, and phone numbers.
-The bug was identified on August 7,]]></summary>
-        <author>
-            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FBI Warns Investors to Take Precautions with Decentralized Financial Platforms]]></title>
-        <id>tag:blogger.com,1999:blog-4802841478634147276.post-4240605752398065204</id>
-        <link href="https://thehackernews.com/2022/08/fbi-warns-investors-to-take-precautions.html"/>
-        <updated>2022-08-30T06:12:00.000Z</updated>
-        <summary type="html"><![CDATA[The U.S. Federal Bureau of Investigation (FBI) on Monday warned of cyber criminals increasingly exploiting flaws in decentralized finance (DeFi) platforms to plunder cryptocurrency.
-"The FBI has observed cyber criminals exploiting vulnerabilities in the smart contracts governing DeFi platforms to steal investors' cryptocurrency," the agency said in a notification.
-Attackers are said to have used]]></summary>
-        <author>
-            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FTC Sues Data Broker Over Selling Location Data for Hundreds of Millions of Phones]]></title>
-        <id>tag:blogger.com,1999:blog-4802841478634147276.post-1368166899166219663</id>
-        <link href="https://thehackernews.com/2022/08/ftc-sues-data-broker-over-selling.html"/>
-        <updated>2022-08-30T03:35:00.000Z</updated>
-        <summary type="html"><![CDATA[The U.S. Federal Trade Commission (FTC) on Monday said it filed a lawsuit against Kochava, a location data broker, for collecting and selling precise geolocation data gathered from consumers' mobile devices.
-The complaint alleges that the U.S. company amasses a "wealth of information" about users by purchasing data from other data brokers to sell to its own clients.
-"Kochava then sells]]></summary>
-        <author>
-            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
         </author>
     </entry>
 </feed>

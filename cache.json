@@ -53,6 +53,16 @@
       "siteUrl": "https://us-cert.cisa.gov/",
       "articles": [
         {
+          "id": "18004 at https://us-cert.cisa.gov",
+          "author": "CISA",
+          "description": "Original release date: September 27, 2022 | Last revised: September 28, 2022\nCISA has released three (3) Industrial Control Systems (ICS) advisories on September 27th, 2022. These advisories provide timely information about current security issues, vulnerabilities, and exploits surrounding ICS.\nCISA encourages users and administrators to review the newly released ICS advisories for technical details and mitigations:\n•    ICSA-22-270-01 Hitachi Energy AFS\nHitachi Energy APM Edge\nRockwell Automation ThinManager ThinServer\nThis product is provided subject to this Notification and this Privacy & Use policy.",
+          "link": "https://us-cert.cisa.gov/ncas/current-activity/2022/09/27/cisa-releases-three-industrial-control-systems-advisories",
+          "publishedOn": "2022-09-27T18:16:03.000Z",
+          "wordCount": 914,
+          "title": "CISA Releases Three Industrial Control Systems Advisories",
+          "imageUrl": null
+        },
+        {
           "id": "18008 at https://us-cert.cisa.gov",
           "author": "CISA",
           "description": "Original release date: September 27, 2022\nCISA and the Multi-State Information Sharing & Analysis Center (MS-ISAC) has updated joint Cybersecurity Advisory AA22-228A: Threat Actors Exploiting Multiple CVEs Against Zimbra Collaboration Suite, originally released August 16, 2022. The advisory has been updated to include additional Malware Analysis Reports and indicators of compromise.\nCISA encourages organizations to review the latest update to AA22-228A and apply the recommended mitigations.\nThis product is provided subject to this Notification and this Privacy & Use policy.",
@@ -380,6 +390,46 @@
       "siteUrl": "https://www.darkreading.com",
       "articles": [
         {
+          "id": "https://www.darkreading.com/risk/the-countdown-to-dora",
+          "author": "Ilias Chantzos, Global Privacy Officer and Head of EMEA Government Affairs, Broadcom",
+          "description": "With provisional agreement reached on the Digital Operational Resilience Act, the clock is now ticking for banks and information and communications technology (ICT) services companies with European operations. Here's what you need to know.",
+          "link": "https://www.darkreading.com/risk/the-countdown-to-dora",
+          "publishedOn": "2022-09-28T17:00:00.000Z",
+          "wordCount": 13727,
+          "title": "The Countdown to DORA",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blte107c47641e7dad1/621ce7b4fcf3a2107981fcbc/Ilias-Headshot_310.png",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blte107c47641e7dad1/621ce7b4fcf3a2107981fcbc/Ilias-Headshot_310.png"
+        },
+        {
+          "id": "https://www.darkreading.com/attacks-breaches/chaos-malware-resurfaces-go-based-ddos-cryptomining-threat",
+          "author": "Elizabeth Montalbano, Contributor, Dark Reading",
+          "description": "The previously identified ransomware builder has veered in an entirely new direction, targeting consumers and business of all sizes by exploiting known CVEs through brute-forced and/or stolen SSH keys.",
+          "link": "https://www.darkreading.com/attacks-breaches/chaos-malware-resurfaces-go-based-ddos-cryptomining-threat",
+          "publishedOn": "2022-09-28T16:12:09.000Z",
+          "wordCount": 13975,
+          "title": "Chaos Malware Resurfaces With All-New DDoS & Cryptomining Modules",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltbfd004d139d42d70/6303bca6236c2476a257760e/ElizabethMontalbano.jpg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltbfd004d139d42d70/6303bca6236c2476a257760e/ElizabethMontalbano.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/remote-workforce/illumio-introduces-new-solution-to-stop-endpoint-ransomware-from-spreading-across-the-hybrid-attack-surface",
+          "author": null,
+          "description": "Illumio Endpoint extends zero trust segmentation to see risk and set policy across macOS and Windows devices.",
+          "link": "https://www.darkreading.com/remote-workforce/illumio-introduces-new-solution-to-stop-endpoint-ransomware-from-spreading-across-the-hybrid-attack-surface",
+          "publishedOn": "2022-09-28T14:23:35.000Z",
+          "wordCount": 12367,
+          "title": "Illumio Introduces New Solution to Stop Endpoint Ransomware from Spreading Across the Hybrid Attack Surface",
+          "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
+        },
+        {
           "id": "https://www.darkreading.com/mobile/jamf-announces-intent-to-acquire-zecops-to-provide-a-market-leading-security-solution-for-mobile-devices-as-targeted-attacks-continue-to-grow",
           "author": null,
           "description": "ZecOps extends Jamf's mobile security capabilities by adding advanced detections and incident response.",
@@ -388,6 +438,21 @@
           "wordCount": 14818,
           "title": "Jamf Announces Intent to Acquire ZecOps, to Provide a Market-Leading Security Solution for Mobile Devices as Targeted Attacks Continue to Grow",
           "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/dr-tech/when-will-cybersecurity-get-its-bloomberg-terminal-",
+          "author": "Yotam Segev, Co-Founder and CEO, Cyera",
+          "description": "The \"single pane of glass\" that gathers and correlates all the information security professionals need doesn't exist, so it's up to us to create it.",
+          "link": "https://www.darkreading.com/dr-tech/when-will-cybersecurity-get-its-bloomberg-terminal-",
+          "publishedOn": "2022-09-28T14:00:00.000Z",
+          "wordCount": 12853,
+          "title": "When Will Cybersecurity Get Its Bloomberg Terminal?",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt1713d3ab304ec8a9/6333503b1abcd15f468a4069/Yotam_Segev.jpeg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt1713d3ab304ec8a9/6333503b1abcd15f468a4069/Yotam_Segev.jpeg"
         },
         {
           "id": "https://www.darkreading.com/vulnerabilities-threats/time-to-change-our-flawed-approach-to-security-awareness",
@@ -3736,6 +3801,17 @@
       "siteUrl": "https://thehackernews.com/",
       "articles": [
         {
+          "id": "tag:blogger.com,1999:blog-4802841478634147276.post-2179638891591659670",
+          "author": "noreply@blogger.com (Ravie Lakshmanan)",
+          "description": "A new, multi-functional Go-based malware dubbed Chaos has been rapidly growing in volume in recent months to ensnare a wide range of Windows, Linux, small office/home office (SOHO) routers, and enterprise servers into its botnet.\n\"Chaos functionality includes the ability to enumerate the host environment, run remote shell commands, load additional modules, automatically propagate through",
+          "link": "https://thehackernews.com/2022/09/researchers-warn-of-new-go-based.html",
+          "publishedOn": "2022-09-28T14:00:00.000Z",
+          "wordCount": null,
+          "title": "Researchers Warn of New Go-based Malware Targeting Windows and Linux Systems",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
           "id": "tag:blogger.com,1999:blog-4802841478634147276.post-2451948881826333928",
           "author": "noreply@blogger.com (Ravie Lakshmanan)",
           "description": "A recently discovered malware builder called Quantum Builder is being used to deliver the Agent Tesla remote access trojan (RAT).\n\"This campaign features enhancements and a shift toward LNK (Windows shortcut) files when compared to similar attacks in the past,\" Zscaler ThreatLabz researchers Niraj Shivtarkar and Avinash Kumar said in a Tuesday write-up.\n\nSold on the dark web for €",
@@ -5074,39 +5150,6 @@
           "publishedOn": "2022-08-30T12:30:00.000Z",
           "wordCount": null,
           "title": "Hands-on Review: Stellar Cyber Security Operations Platform for MSSPs",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "tag:blogger.com,1999:blog-4802841478634147276.post-3578841386146581777",
-          "author": "noreply@blogger.com (Ravie Lakshmanan)",
-          "description": "Akasa Air, India's newest commercial airline, exposed the personal data belonging to its customers that the company blamed on a technical configuration error.\nAccording to security researcher Ashutosh Barot, the issue is rooted in the account registration process, leading to the exposure of details such as names, gender, email addresses, and phone numbers.\nThe bug was identified on August 7,",
-          "link": "https://thehackernews.com/2022/08/indias-newest-airline-akasa-air-suffers.html",
-          "publishedOn": "2022-08-30T07:00:00.000Z",
-          "wordCount": null,
-          "title": "India's Newest Airline Akasa Air Found Leaking Passengers' Personal Information",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "tag:blogger.com,1999:blog-4802841478634147276.post-4240605752398065204",
-          "author": "noreply@blogger.com (Ravie Lakshmanan)",
-          "description": "The U.S. Federal Bureau of Investigation (FBI) on Monday warned of cyber criminals increasingly exploiting flaws in decentralized finance (DeFi) platforms to plunder cryptocurrency.\n\"The FBI has observed cyber criminals exploiting vulnerabilities in the smart contracts governing DeFi platforms to steal investors' cryptocurrency,\" the agency said in a notification.\nAttackers are said to have used",
-          "link": "https://thehackernews.com/2022/08/fbi-warns-investors-to-take-precautions.html",
-          "publishedOn": "2022-08-30T06:12:00.000Z",
-          "wordCount": null,
-          "title": "FBI Warns Investors to Take Precautions with Decentralized Financial Platforms",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "tag:blogger.com,1999:blog-4802841478634147276.post-1368166899166219663",
-          "author": "noreply@blogger.com (Ravie Lakshmanan)",
-          "description": "The U.S. Federal Trade Commission (FTC) on Monday said it filed a lawsuit against Kochava, a location data broker, for collecting and selling precise geolocation data gathered from consumers' mobile devices.\nThe complaint alleges that the U.S. company amasses a \"wealth of information\" about users by purchasing data from other data brokers to sell to its own clients.\n\"Kochava then sells",
-          "link": "https://thehackernews.com/2022/08/ftc-sues-data-broker-over-selling.html",
-          "publishedOn": "2022-08-30T03:35:00.000Z",
-          "wordCount": null,
-          "title": "FTC Sues Data Broker Over Selling Location Data for Hundreds of Millions of Phones",
           "itunes": {},
           "imageUrl": null
         }
