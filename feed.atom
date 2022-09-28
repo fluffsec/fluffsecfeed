@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-09-28T03:44:49.799Z</updated>
+    <updated>2022-09-28T07:39:01.680Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Critical WhatsApp Bugs Could Have Let Attackers Hack Devices Remotely]]></title>
+        <id>tag:blogger.com,1999:blog-4802841478634147276.post-2377226635221371855</id>
+        <link href="https://thehackernews.com/2022/09/critical-whatsapp-bugs-could-have-let.html"/>
+        <updated>2022-09-28T05:03:00.000Z</updated>
+        <summary type="html"><![CDATA[WhatsApp has released security updates to address two flaws in its messaging app for Android and iOS that could lead to remote code execution on vulnerable devices.
+One of them concerns CVE-2022-36934 (CVSS score: 9.8), a critical integer overflow vulnerability in WhatsApp that results in the execution of arbitrary code simply by establishing a video call.
+The issue impacts the WhatsApp and]]></summary>
+        <author>
+            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Lazarus Lures Aspiring Crypto Pros With Fake Exchange Job Postings]]></title>
         <id>https://www.darkreading.com/attacks-breaches/lazarus-lures-aspiring-crypto-pros-fake-exchange-job-postings</id>
@@ -4422,63 +4434,6 @@ The complaint alleges that the U.S. company amasses a "wealth of information" 
         <summary type="html"><![CDATA[To help organizations with their plans, NIST and the Department of Homeland Security developed the Post-Quantum Cryptography Roadmap.]]></summary>
         <author>
             <name>Edge Editors, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Receipt for €8M iOS Zero-Day Sale Pops Up on Dark Web]]></title>
-        <id>https://www.darkreading.com/vulnerabilities-threats/receipt-8m-ios-zero-day-sale-dark-web</id>
-        <link href="https://www.darkreading.com/vulnerabilities-threats/receipt-8m-ios-zero-day-sale-dark-web"/>
-        <updated>2022-08-29T19:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Documents appear to show that Israeli spyware company Intellexa sold a full suite of services around a zero-day affecting both Android and iOS ecosystems.]]></summary>
-        <author>
-            <name>Dark Reading Staff, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CISA Releases 12 Industrial Control Systems Advisories]]></title>
-        <id>17922 at https://us-cert.cisa.gov</id>
-        <link href="https://us-cert.cisa.gov/ncas/current-activity/2022/08/29/cisa-releases-12-industrial-control-systems-advisories"/>
-        <updated>2022-08-29T17:59:23.000Z</updated>
-        <summary type="html"><![CDATA[Original release date: August 29, 2022 | Last revised: August 30, 2022
-CISA has released 12 Industrial Control Systems (ICS) advisories on August 30, 2022. These advisories provides timely information about current security issues, vulnerabilities, and exploits surrounding ICS.  
-CISA encourages users and administrators to review the newly released ICS advisories for technical details and mitigations:  
-ICSA-22-242-01 Hitachi Energy FCP 
-ICSA-22-242-02 Hitachi Energy GWS 
-ICSA-22-242-03 Hitachi Energy MSM 
-ICSA-22-242-04 Hitachi Energy RTU500 series 
-ICSA-22-242-05 Fuji Electric D300win 
-ICSA-22-242-06 Honeywell ControlEdge 
-ICSA-22-242-07 Honeywell Experion LX 
-ICSA-22-242-08 Honeywell Trend Controls 
-ICSA-22-242-09 Omron CX-Programmer 
-ICSA-22-242-10 PTC Kepware KEPServerEX
-ICSA-22-242-11 Sensormatic Electronics iSTAR 
-ICSA-22-221-01 Mitsubishi Electric Multiple Factory Automation Products (Update B) 
-This product is provided subject to this Notification and this Privacy & Use policy.]]></summary>
-        <author>
-            <name>CISA</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Golang-based 'Agenda Ransomware' Can Be Customized For Each Victim]]></title>
-        <id>tag:blogger.com,1999:blog-4802841478634147276.post-1071020480964973646</id>
-        <link href="https://thehackernews.com/2022/08/new-golang-based-agenda-ransomware-can.html"/>
-        <updated>2022-08-29T17:25:00.000Z</updated>
-        <summary type="html"><![CDATA[A new ransomware strain written in Golang dubbed "Agenda" has been spotted in the wild, targeting healthcare and education entities in Indonesia, Saudi Arabia, South Africa, and Thailand.
-"Agenda can reboot systems in safe mode, attempts to stop many server-specific processes and services, and has multiple modes to run," Trend Micro researchers said in an analysis last week.
-Qilin, the threat]]></summary>
-        <author>
-            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[3 Ways No-Code Developers Can Shoot Themselves in the Foot]]></title>
-        <id>https://www.darkreading.com/dr-tech/3-ways-no-code-developers-can-shoot-themselves-in-the-foot</id>
-        <link href="https://www.darkreading.com/dr-tech/3-ways-no-code-developers-can-shoot-themselves-in-the-foot"/>
-        <updated>2022-08-29T16:55:33.000Z</updated>
-        <summary type="html"><![CDATA[Low/no-code tools allow citizen developers to design creative solutions to address immediate problems, but without sufficient training and oversight, the technology can make it easy to make security mistakes.]]></summary>
-        <author>
-            <name>Michael Bargury, CTO &amp; Co-Founder, Zenity</name>
         </author>
     </entry>
 </feed>
