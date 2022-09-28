@@ -53,6 +53,16 @@
       "siteUrl": "https://us-cert.cisa.gov/",
       "articles": [
         {
+          "id": "18008 at https://us-cert.cisa.gov",
+          "author": "CISA",
+          "description": "Original release date: September 27, 2022\nCISA and the Multi-State Information Sharing & Analysis Center (MS-ISAC) has updated joint Cybersecurity Advisory AA22-228A: Threat Actors Exploiting Multiple CVEs Against Zimbra Collaboration Suite, originally released August 16, 2022. The advisory has been updated to include additional Malware Analysis Reports and indicators of compromise.\nCISA encourages organizations to review the latest update to AA22-228A and apply the recommended mitigations.\nThis product is provided subject to this Notification and this Privacy & Use policy.",
+          "link": "https://us-cert.cisa.gov/ncas/current-activity/2022/09/27/cisa-updates-advisory-threat-actors-exploiting-multiple-cves",
+          "publishedOn": "2022-09-27T14:21:08.000Z",
+          "wordCount": 924,
+          "title": "CISA Updates Advisory on Threat Actors Exploiting Multiple CVEs Against Zimbra Collaboration Suite",
+          "imageUrl": null
+        },
+        {
           "id": "18004 at https://us-cert.cisa.gov",
           "author": "CISA",
           "description": "Original release date: September 26, 2022 | Last revised: September 27, 2022\nCISA has released three (3) Industrial Control Systems (ICS) advisories on September 27th, 2022. These advisories provide timely information about current security issues, vulnerabilities, and exploits surrounding ICS.\nCISA encourages users and administrators to review the newly released ICS advisories for technical details and mitigations:\n•    ICSA-22-270-01 Hitachi Energy AFS\nHitachi Energy APM Edge\nRockwell Automation ThinManager ThinServer\nThis product is provided subject to this Notification and this Privacy & Use policy.",
@@ -379,6 +389,51 @@
       "feedUrl": "https://www.darkreading.com/rss.xml",
       "siteUrl": "https://www.darkreading.com",
       "articles": [
+        {
+          "id": "https://www.darkreading.com/attacks-breaches/lazarus-lures-aspiring-crypto-pros-fake-exchange-job-postings",
+          "author": "Becky Bracken, Editor, Dark Reading",
+          "description": "Previously observed using fake Coinbase jobs, the North Korea-sponsored APT has expanded into using Crypo.com gigs as cover to distribute malware.",
+          "link": "https://www.darkreading.com/attacks-breaches/lazarus-lures-aspiring-crypto-pros-fake-exchange-job-postings",
+          "publishedOn": "2022-09-27T21:40:00.000Z",
+          "wordCount": 10592,
+          "title": "Lazarus Lures Aspiring Crypto Pros With Fake Exchange Job Postings",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt8e7bd143d726930b/627271268681151716941064/BeckyB.jpg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt8e7bd143d726930b/627271268681151716941064/BeckyB.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/operations/sweeping-change-cyber-defenders-escalating-visibility-pressure",
+          "author": "Tara Seals, Managing Editor, News, Dark Reading",
+          "description": "Why cyber teams are now front and center for business enablement within organizations, and the significant challenges they face.",
+          "link": "https://www.darkreading.com/operations/sweeping-change-cyber-defenders-escalating-visibility-pressure",
+          "publishedOn": "2022-09-27T21:27:11.000Z",
+          "wordCount": 13327,
+          "title": "Amid Sweeping Change, Cyber Defenders Face Escalating Visibility — and Pressure",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltea67136f81f32eca/626a9eb4726e3315b16b3c64/Tara-Seals-Headshot2.jpg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltea67136f81f32eca/626a9eb4726e3315b16b3c64/Tara-Seals-Headshot2.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/attacks-breaches/fbi-helping-australian-authorities-investigate-massive-optus-data-breach-reports",
+          "author": "Jai Vijayan, Contributing Writer, Dark Reading",
+          "description": "Initial reports suggest a basic security error allowed the attacker to access the company's live customer database via an unauthenticated API.",
+          "link": "https://www.darkreading.com/attacks-breaches/fbi-helping-australian-authorities-investigate-massive-optus-data-breach-reports",
+          "publishedOn": "2022-09-27T20:27:40.000Z",
+          "wordCount": 13607,
+          "title": "FBI Helping Australian Authorities Investigate Massive Optus Data Breach: Reports",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt02d79fb9a44a4258/60b1e9dd2a25046b35110696/Jai-Vijayan.jpeg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt02d79fb9a44a4258/60b1e9dd2a25046b35110696/Jai-Vijayan.jpeg"
+        },
         {
           "id": "https://www.darkreading.com/cloud/microsoft-passwordless-sign-on-azure-virtual-desktop",
           "author": "Dark Reading Staff, Dark Reading",
@@ -3023,66 +3078,6 @@
             "length": "0"
           },
           "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt88c0ce1b9ac54b6e/6197abd85da8f858d58cdb06/Michael_Bargury_zenity.jpg"
-        },
-        {
-          "id": "https://www.darkreading.com/risk/cyber-insurance-firms-limit-payouts-risk-obsolescence",
-          "author": "Robert Lemos, Contributing Writer, Dark Reading",
-          "description": "Businesses need to re-evaluate their cyber-insurance policies as firms like Lloyd's of London continue to add restrictions, including excluding losses related to state-backed cyberattackers.",
-          "link": "https://www.darkreading.com/risk/cyber-insurance-firms-limit-payouts-risk-obsolescence",
-          "publishedOn": "2022-08-29T14:34:05.000Z",
-          "wordCount": 12561,
-          "title": "Cyber-Insurance Firms Limit Payouts, Risk Obsolescence",
-          "enclosure": {
-            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt58481326324d6911/60b1e9a55d34de550780a990/Robert-Lemos.png",
-            "type": "image/*",
-            "length": "0"
-          },
-          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt58481326324d6911/60b1e9a55d34de550780a990/Robert-Lemos.png"
-        },
-        {
-          "id": "https://www.darkreading.com/vulnerabilities-threats/nato-investigates-leak-of-data-stolen-from-missile-vendor",
-          "author": "Elizabeth Montalbano, Contributor, Dark Reading",
-          "description": "Documents allegedly belonging to an EU defense dealer include those relating to weapons used by Ukraine in its fight against Russia.",
-          "link": "https://www.darkreading.com/vulnerabilities-threats/nato-investigates-leak-of-data-stolen-from-missile-vendor",
-          "publishedOn": "2022-08-29T14:21:47.000Z",
-          "wordCount": 11249,
-          "title": "NATO Investigates Dark Web Leak of Data Stolen from Missile Vendor",
-          "enclosure": {
-            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltbfd004d139d42d70/6303bca6236c2476a257760e/ElizabethMontalbano.jpg",
-            "type": "image/*",
-            "length": "0"
-          },
-          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltbfd004d139d42d70/6303bca6236c2476a257760e/ElizabethMontalbano.jpg"
-        },
-        {
-          "id": "https://www.darkreading.com/attacks-breaches/the-3-questions-cisos-must-ask-to-protect-their-sensitive-data",
-          "author": "Asaf Kochan, Co-Founder and President, Sentra, and Former Commander of Unit 8200",
-          "description": "CISOs must adopt a new mindset to take on the moving targets in modern cybersecurity.",
-          "link": "https://www.darkreading.com/attacks-breaches/the-3-questions-cisos-must-ask-to-protect-their-sensitive-data",
-          "publishedOn": "2022-08-29T14:00:00.000Z",
-          "wordCount": 11662,
-          "title": "The 3 Questions CISOs Must Ask to Protect Their Sensitive Data",
-          "enclosure": {
-            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt75265db2c9a4387a/63091e7afd13b07e10e06662/Asaf_Kochan_Headshot.png",
-            "type": "image/*",
-            "length": "0"
-          },
-          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt75265db2c9a4387a/63091e7afd13b07e10e06662/Asaf_Kochan_Headshot.png"
-        },
-        {
-          "id": "https://www.darkreading.com/edge-articles",
-          "author": "Michael Bargury, CTO & Co-Founder, Zenity",
-          "description": "Citizen development allows users to design creative solutions for immediate problems, but it requires training and oversight to avoid security holes.",
-          "link": "https://www.darkreading.com/edge-articles",
-          "publishedOn": "2022-08-29T13:00:00.000Z",
-          "wordCount": 16594,
-          "title": "Microsoft 365 Empowers Business Users to Shoot Themselves in the Foot",
-          "enclosure": {
-            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt88c0ce1b9ac54b6e/6197abd85da8f858d58cdb06/Michael_Bargury_zenity.jpg",
-            "type": "image/*",
-            "length": "0"
-          },
-          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt88c0ce1b9ac54b6e/6197abd85da8f858d58cdb06/Michael_Bargury_zenity.jpg"
         }
       ]
     },
@@ -3707,16 +3702,6 @@
           "wordCount": 4647,
           "title": "CyberheistNews Vol 12 #35 [Heads Up] Check This Highly Sophisticated LinkedIn Job Offer Scam",
           "imageUrl": "https://blog.knowbe4.com/hubfs/CHN-Social.jpg#keepProtocol"
-        },
-        {
-          "id": "https://blog.knowbe4.com/live-demo-security-awareness-training-and-phishing",
-          "author": "Stu Sjouwerman",
-          "description": "Old-school awareness training does not hack it anymore. Your email filters have an average 7-10% failure rate; you need a strong human firewall as your last line of defense.",
-          "link": "https://blog.knowbe4.com/live-demo-security-awareness-training-and-phishing",
-          "publishedOn": "2022-08-29T13:54:50.000Z",
-          "wordCount": 1863,
-          "title": "[Live Demo] Ridiculously Easy Security Awareness Training and Phishing",
-          "imageUrl": "https://blog.knowbe4.com/hubfs/Social%20Image%20Repository/Live%20Demos/KMSAT-Demo-SM-2021-2.jpg#keepProtocol"
         }
       ]
     },
@@ -5053,28 +5038,6 @@
           "publishedOn": "2022-08-29T17:25:00.000Z",
           "wordCount": null,
           "title": "New Golang-based 'Agenda Ransomware' Can Be Customized For Each Victim",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "tag:blogger.com,1999:blog-4802841478634147276.post-637087435092663944",
-          "author": "noreply@blogger.com (Ravie Lakshmanan)",
-          "description": "A Turkish-speaking entity called Nitrokod has been attributed to an active cryptocurrency mining campaign that involves impersonating a desktop application for Google Translate to infect over 111,000 victims in 11 countries since 2019. \n\"The malicious tools can be used by anyone,\" Maya Horowitz, vice president of research at Check Point, said in a statement shared with The Hacker News. \"They can",
-          "link": "https://thehackernews.com/2022/08/nitrokod-crypto-miner-infected-over.html",
-          "publishedOn": "2022-08-29T10:15:00.000Z",
-          "wordCount": null,
-          "title": "Nitrokod Crypto Miner Infected Over 111,000 Users with Copies of Popular Software",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "tag:blogger.com,1999:blog-4802841478634147276.post-3399071774940657530",
-          "author": "noreply@blogger.com (The Hacker News)",
-          "description": "If you're heading out of the office on a well-deserved vacation, are you certain the security controls you have in place will let you rest easy while you're away? More importantly – do you have the right action plan in place for a seamless return?\nWhether you're on the way out of – or back to – the office, our Security Validation Checklist can help make sure your security posture is in good",
-          "link": "https://thehackernews.com/2022/08/a-cisos-ultimate-security-validation.html",
-          "publishedOn": "2022-08-29T10:06:00.000Z",
-          "wordCount": null,
-          "title": "A CISO's Ultimate Security Validation Checklist",
           "itunes": {},
           "imageUrl": null
         }
