@@ -53,6 +53,26 @@
       "siteUrl": "https://us-cert.cisa.gov/",
       "articles": [
         {
+          "id": "18015 at https://us-cert.cisa.gov",
+          "author": "CISA",
+          "description": "Original release date: September 29, 2022\nCISA has released six (6) Industrial Control Systems (ICS) advisories on September 29, 2022. These advisories provide timely information about current security issues, vulnerabilities, and exploits surrounding ICS. \nCISA encourages users and administrators to review the newly released ICS advisory for technical details and mitigations: \nICSA-22-272-01 Hitachi Energy MicroSCADA Pro X SYS600\nICSA-22-272-02 Hitachi Energy MicroSCADA Pro X SYS600\nICSMA-22-251-01 Baxter Sigma Spectrum Infusion Pump (Update A)  \nICSA-22-235-01 ARC Informatique PcVue (Update A)  \nICSA-22-244-01 Delta Electronics DOPSoft (Update A)  \nICSA-21-182-03 Delta Electronics DOPSoft (Update B) \nThis product is provided subject to this Notification and this Privacy & Use policy.",
+          "link": "https://us-cert.cisa.gov/ncas/current-activity/2022/09/29/cisa-releases-six-industrial-control-systems-advisories",
+          "publishedOn": "2022-09-29T16:52:49.000Z",
+          "wordCount": 931,
+          "title": "CISA Releases Six Industrial Control Systems Advisories",
+          "imageUrl": null
+        },
+        {
+          "id": "18021 at https://us-cert.cisa.gov",
+          "author": "CISA",
+          "description": "Original release date: September 29, 2022\nCISA has published its Traffic Light Protocol 2.0 User Guide and Traffic Light Protocol: Moving to Version 2.0 fact sheet in preparation for its November 1, 2022 move from Traffic Light Protocol (TLP) Version 1.0 to TLP 2.0.\nManaged by the Forum of Incident Response and Security Teams (FIRST), TLP is a system of markings that communicates information sharing permissions. According to FIRST, the purpose of TLP is \"to facilitate greater sharing of potentially sensitive information and more effective collaboration.\" Note: Unlike formal classification systems, TLP is not legally binding.\nTLP Version 2.0 brings the following key updates:\nTLP:CLEAR replaces TLP:WHITE for publicly releasable information.\nTLP:AMBER+STRICT supplements TLP:AMBER, clarifying when information may be shared with the recipient’s organization only.\nNote: CISA’s Automated Indicator Sharing (AIS) capability will not update from TLP 1.0 to TLP 2.0 until March 2023. This exception includes AIS’s use of the following open standards: the Structured Threat Information Expression (STIX™) for cyber threat indicators and defensive measures information and the Trusted Automated Exchange of Intelligence Information (TAXII™) for machine-to-machine communications.\nAs CISA prepares to implement this update, we want to inform partners of the upcoming change and encourage all network defenders to adopt TLP Version 2.0 to facilitate greater information sharing and collaboration.\nFor more information on TLP, visit FIRST’s TLP webpage at www.first.org/tlp/. On November 1, 2022, CISA will update www.cisa.gov/tlp to reflect the TLP Version 2.0 changes.\n \nThis product is provided subject to this Notification and this Privacy & Use policy.",
+          "link": "https://us-cert.cisa.gov/ncas/current-activity/2022/09/29/cisa-publishes-user-guide-prepare-nov-1-move-tlp-20",
+          "publishedOn": "2022-09-29T16:15:33.000Z",
+          "wordCount": 1097,
+          "title": "CISA Publishes User Guide to Prepare for Nov. 1 Move to TLP 2.0",
+          "imageUrl": null
+        },
+        {
           "id": "18004 at https://us-cert.cisa.gov",
           "author": "CISA",
           "description": "Original release date: September 27, 2022 | Last revised: September 28, 2022\nCISA has released three (3) Industrial Control Systems (ICS) advisories on September 27th, 2022. These advisories provide timely information about current security issues, vulnerabilities, and exploits surrounding ICS.\nCISA encourages users and administrators to review the newly released ICS advisories for technical details and mitigations:\n•    ICSA-22-270-01 Hitachi Energy AFS\nHitachi Energy APM Edge\nRockwell Automation ThinManager ThinServer\nThis product is provided subject to this Notification and this Privacy & Use policy.",
@@ -389,6 +409,76 @@
       "feedUrl": "https://www.darkreading.com/rss.xml",
       "siteUrl": "https://www.darkreading.com",
       "articles": [
+        {
+          "id": "https://www.darkreading.com/vulnerabilities-threats/why-the-us-should-help-secure-mexican-infrastructure-and-what-it-gets-in-return",
+          "author": "Daron Hartvigsen, Managing Director, StoneTurn",
+          "description": "Call it cross-border enlightened self-interest: As one of the US's premier trade partners and closest neighbors, what's bad for Mexico is bad for the US.",
+          "link": "https://www.darkreading.com/vulnerabilities-threats/why-the-us-should-help-secure-mexican-infrastructure-and-what-it-gets-in-return",
+          "publishedOn": "2022-09-29T21:44:03.000Z",
+          "wordCount": 12743,
+          "title": "Why the US Should Help Secure Mexican Infrastructure — and What It Gets in Return",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blta594e617a8ea50cb/632dc4b9dae96546b8320520/Daron_Hartvigsen.png",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blta594e617a8ea50cb/632dc4b9dae96546b8320520/Daron_Hartvigsen.png"
+        },
+        {
+          "id": "https://www.darkreading.com/edge-articles/3-reasons-why-bec-scams-work-in-real-estate-and-how-to-fight-back",
+          "author": "Kolawole Samuel Adebayo, Contributing Writer",
+          "description": "Identity verification could be the key to fighting back and building trust in an industry beset with high-stakes fraud.",
+          "link": "https://www.darkreading.com/edge-articles/3-reasons-why-bec-scams-work-in-real-estate-and-how-to-fight-back",
+          "publishedOn": "2022-09-29T18:33:01.000Z",
+          "wordCount": 13508,
+          "title": "3 Reasons Why BEC Scams Work in Real Estate",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt0e633cacbfbbf0c2/6305337a9b7ae964b1821d09/kolawole-samuel-adebayo.jpg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt0e633cacbfbbf0c2/6305337a9b7ae964b1821d09/kolawole-samuel-adebayo.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/careers-and-people/-isc-recruits-more-than-55-000-cybersecurity-candidates-in-first-30-days-of-new-programs-to-address-workforce-gap",
+          "author": null,
+          "description": "2,700 cybersecurity career pursuers have already passed the (ISC)2 Certified in Cybersecurity℠ exam, with more than 53,000 more people registered for a free course and exam.",
+          "link": "https://www.darkreading.com/careers-and-people/-isc-recruits-more-than-55-000-cybersecurity-candidates-in-first-30-days-of-new-programs-to-address-workforce-gap",
+          "publishedOn": "2022-09-29T15:01:08.000Z",
+          "wordCount": 11903,
+          "title": "(ISC)² Recruits More Than 55,000 Cybersecurity Candidates in First 30 Days of New Programs to Address Workforce Gap",
+          "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/attacks-breaches/capital-one-phish-trend-targeting-bank-brands",
+          "author": "Becky Bracken, Editor, Dark Reading",
+          "description": "Capital One lures leveraged the bank's new partnership with Authentify, showing that phishers watch the headlines, and take advantage.",
+          "link": "https://www.darkreading.com/attacks-breaches/capital-one-phish-trend-targeting-bank-brands",
+          "publishedOn": "2022-09-29T14:42:12.000Z",
+          "wordCount": 10892,
+          "title": "Capital One Phish Showcases Growing Bank-Brand Targeting Trend",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt8e7bd143d726930b/627271268681151716941064/BeckyB.jpg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt8e7bd143d726930b/627271268681151716941064/BeckyB.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/attacks-breaches/espionage-steganographic-backdoor-against-govs-stock-exchange",
+          "author": "Elizabeth Montalbano, Contributor, Dark Reading",
+          "description": "APT group Witchetty (aka LookingFrog) has exploited the ProxyShell and ProxyLogon vulnerabilities to gain initial access and deploy new custom cyber tools against government agencies and a stock exchange.",
+          "link": "https://www.darkreading.com/attacks-breaches/espionage-steganographic-backdoor-against-govs-stock-exchange",
+          "publishedOn": "2022-09-29T14:33:59.000Z",
+          "wordCount": 12770,
+          "title": "Espionage Group Wields Steganographic Backdoor Against Govs, Stock Exchange",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltbfd004d139d42d70/6303bca6236c2476a257760e/ElizabethMontalbano.jpg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltbfd004d139d42d70/6303bca6236c2476a257760e/ElizabethMontalbano.jpg"
+        },
         {
           "id": "https://www.darkreading.com/attacks-breaches/xss-flaw-prevalent-media-imaging-tool-exposes-trove-patient-data",
           "author": "Becky Bracken, Editor, Dark Reading",
@@ -3796,6 +3886,17 @@
       "siteUrl": "https://thehackernews.com/",
       "articles": [
         {
+          "id": "tag:blogger.com,1999:blog-4802841478634147276.post-7861539387887406224",
+          "author": "noreply@blogger.com (Ravie Lakshmanan)",
+          "description": "A Brazilian threat actor known as Prilex has resurfaced after a year-long operational hiatus with an advanced and complex malware to steal money by means of fraudulent transactions.\n\"The Prilex group has shown a high level of knowledge about credit and debit card transactions, and how software used for payment processing works,\" Kaspersky researchers said. \"This enables the attackers to keep",
+          "link": "https://thehackernews.com/2022/09/brazilian-prilex-hackers-resurfaced.html",
+          "publishedOn": "2022-09-29T14:15:00.000Z",
+          "wordCount": null,
+          "title": "Brazilian Prilex Hackers Resurfaced With Sophisticated Point-of-Sale Malware",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
           "id": "tag:blogger.com,1999:blog-4802841478634147276.post-2108021164318743351",
           "author": "noreply@blogger.com (Ravie Lakshmanan)",
           "description": "A new covert attack campaign singled out multiple military and weapons contractor companies with spear-phishing emails to trigger a multi-stage infection process designed to deploy an unknown payload on compromised machines.\nThe highly-targeted intrusions, dubbed STEEP#MAVERICK by Securonix, also targeted a strategic supplier to the F-35 Lightning II fighter aircraft.\n\"The attack was carried out",
@@ -5145,17 +5246,6 @@
           "publishedOn": "2022-08-31T08:50:00.000Z",
           "wordCount": null,
           "title": "Interested in Reducing Your Risk Profile? Jamf Has a Solution for That",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "tag:blogger.com,1999:blog-4802841478634147276.post-5107504876612790925",
-          "author": "noreply@blogger.com (Ravie Lakshmanan)",
-          "description": "Google on Monday introduced a new bug bounty program for its open source projects, offering payouts anywhere from $100 to $31,337 (a reference to eleet or leet) to secure the ecosystem from supply chain attacks.\nCalled the Open Source Software Vulnerability Rewards Program (OSS VRP), the offering is one of the first open source-specific vulnerability programs.\nWith the tech giant the maintainer",
-          "link": "https://thehackernews.com/2022/08/google-launches-new-open-source-bug.html",
-          "publishedOn": "2022-08-31T05:42:00.000Z",
-          "wordCount": null,
-          "title": "Google Launches New Open Source Bug Bounty to Tackle Supply Chain Attacks",
           "itunes": {},
           "imageUrl": null
         }
