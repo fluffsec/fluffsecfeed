@@ -371,16 +371,6 @@
           "wordCount": 1073,
           "title": "Apple Releases Security Updates for Multiple Products",
           "imageUrl": null
-        },
-        {
-          "id": "17934 at https://us-cert.cisa.gov",
-          "author": "CISA",
-          "description": "Original release date: August 31, 2022 | Last revised: September 1, 2022\nCISA has released two Industrial Control Systems (ICS) advisories on September 01, 2022. These advisories provide timely information about current security issues, vulnerabilities, and exploits surrounding ICS. \nCISA encourages users and administrators to review the newly released ICS advisories for technical details and mitigations: \nICSMA-22-244-01 Contec CMS8000\nICSA-22-244-01 Delta Electronics DOPSoft\nThis product is provided subject to this Notification and this Privacy & Use policy.",
-          "link": "https://us-cert.cisa.gov/ncas/current-activity/2022/08/31/cisa-releases-two-industrial-control-systems-advisories",
-          "publishedOn": "2022-08-31T18:02:45.000Z",
-          "wordCount": 1071,
-          "title": "CISA releases two Industrial Control Systems Advisories",
-          "imageUrl": null
         }
       ]
     },
@@ -3308,56 +3298,6 @@
             "length": "0"
           },
           "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltea67136f81f32eca/626a9eb4726e3315b16b3c64/Tara-Seals-Headshot2.jpg"
-        },
-        {
-          "id": "https://www.darkreading.com/attacks-breaches/the-pros-and-cons-of-managed-firewalls",
-          "author": null,
-          "description": "Managed firewalls are increasingly popular. This post examines the strengths and weaknesses of managed firewalls to help your team decide on the right approach.",
-          "link": "https://www.darkreading.com/attacks-breaches/the-pros-and-cons-of-managed-firewalls",
-          "publishedOn": "2022-08-31T18:00:00.000Z",
-          "wordCount": 11519,
-          "title": "The Pros and Cons of Managed Firewalls",
-          "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
-        },
-        {
-          "id": "https://www.darkreading.com/vulnerabilities-threats/james-webb-telescope-images-loaded-with-malware-are-evading-edr",
-          "author": "Dark Reading Staff, Dark Reading",
-          "description": "New Golang cyberattacks use deep space images and a new obfuscator to target systems — undetected.",
-          "link": "https://www.darkreading.com/vulnerabilities-threats/james-webb-telescope-images-loaded-with-malware-are-evading-edr",
-          "publishedOn": "2022-08-31T18:00:00.000Z",
-          "wordCount": 8999,
-          "title": "James Webb Telescope Images Loaded With Malware Are Evading EDR",
-          "enclosure": {
-            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blte161b23f0fd3a84b/60b1ea374e7eb868c4c6a293/dr_staff_125x125.jpg",
-            "type": "image/*",
-            "length": "0"
-          },
-          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blte161b23f0fd3a84b/60b1ea374e7eb868c4c6a293/dr_staff_125x125.jpg"
-        },
-        {
-          "id": "https://www.darkreading.com/omdia/opentext-goes-all-in-on-cybersecurity-size-and-scale-with-micro-focus-purchase",
-          "author": "Curtis Franklin, Senior Analyst, Omdia",
-          "description": "OpenText makes a $6 billion bet that bigger is better in security and that cybersecurity platform plays are the future.",
-          "link": "https://www.darkreading.com/omdia/opentext-goes-all-in-on-cybersecurity-size-and-scale-with-micro-focus-purchase",
-          "publishedOn": "2022-08-31T17:00:00.000Z",
-          "wordCount": 10912,
-          "title": "OpenText Goes All-in on Cybersecurity Size and Scale With Micro Focus Purchase",
-          "enclosure": {
-            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt16a69cd3b14cbd2b/61816cfa8a0585636d7149c3/CurtFranklin.PNG",
-            "type": "image/*",
-            "length": "0"
-          },
-          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt16a69cd3b14cbd2b/61816cfa8a0585636d7149c3/CurtFranklin.PNG"
-        },
-        {
-          "id": "https://www.darkreading.com/careers-and-people/-isc-opens-global-enrollment-for-1-million-certified-in-cybersecurity-initiative",
-          "author": null,
-          "description": "(ISC)² pledges to expand and diversify the cybersecurity workforce by providing free \"(ISC)² Certified in Cybersecurity\" education and exams to 1 million people worldwide.",
-          "link": "https://www.darkreading.com/careers-and-people/-isc-opens-global-enrollment-for-1-million-certified-in-cybersecurity-initiative",
-          "publishedOn": "2022-08-31T16:41:05.000Z",
-          "wordCount": 11403,
-          "title": "(ISC)² Opens Global Enrollment for '1 Million Certified in Cybersecurity' Initiative",
-          "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
         }
       ]
     },
@@ -3389,6 +3329,16 @@
       "feedUrl": "https://msrc-blog.microsoft.com/feed/",
       "siteUrl": "https://msrc-blog.microsoft.com",
       "articles": [
+        {
+          "id": "https://msrc-blog.microsoft.com/?p=14710",
+          "author": "msrc",
+          "description": "Summary Microsoft is investigating two reported zero-day vulnerabilities affecting Microsoft Exchange Server 2013, 2016, and 2019. The first vulnerability, identified as CVE-2022-41040, is a Server-Side Request Forgery (SSRF) vulnerability, while the second, identified as CVE-2022-41082, allows remote code execution (RCE) when PowerShell is accessible to the attacker.   At this time, Microsoft is aware of limited …\n  Customer Guidance for Reported Zero-day Vulnerabilities in Microsoft Exchange Server Read More »",
+          "link": "https://msrc-blog.microsoft.com/2022/09/29/customer-guidance-for-reported-zero-day-vulnerabilities-in-microsoft-exchange-server/",
+          "publishedOn": "2022-09-30T06:55:00.000Z",
+          "wordCount": 2098,
+          "title": "Customer Guidance for Reported Zero-day Vulnerabilities in Microsoft Exchange Server",
+          "imageUrl": null
+        },
         {
           "id": "https://msrc-blog.microsoft.com/?p=14682",
           "author": "msrc",
@@ -3960,6 +3910,17 @@
       "feedUrl": "https://thehackernews.com/feeds/posts/default",
       "siteUrl": "https://thehackernews.com/",
       "articles": [
+        {
+          "id": "tag:blogger.com,1999:blog-4802841478634147276.post-3581396058921583483",
+          "author": "noreply@blogger.com (Ravie Lakshmanan)",
+          "description": "Security researchers are warning of previously undisclosed flaws in fully patched Microsoft Exchange servers being exploited by malicious actors in real-world attacks to achieve remote code execution on affected systems.\nThat's according to Vietnamese cybersecurity company GTSC, which discovered the shortcomings as part of its security monitoring and incident response efforts in August 2022.\nThe",
+          "link": "https://thehackernews.com/2022/09/warning-new-unpatched-microsoft.html",
+          "publishedOn": "2022-09-30T04:25:00.000Z",
+          "wordCount": null,
+          "title": "WARNING: New Unpatched Microsoft Exchange Zero-Day Under Active Exploitation",
+          "itunes": {},
+          "imageUrl": null
+        },
         {
           "id": "tag:blogger.com,1999:blog-4802841478634147276.post-7861539387887406224",
           "author": "noreply@blogger.com (Ravie Lakshmanan)",

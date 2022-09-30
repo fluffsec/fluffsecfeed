@@ -2,10 +2,33 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-09-30T04:05:09.255Z</updated>
+    <updated>2022-09-30T07:47:56.126Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Customer Guidance for Reported Zero-day Vulnerabilities in Microsoft Exchange Server]]></title>
+        <id>https://msrc-blog.microsoft.com/?p=14710</id>
+        <link href="https://msrc-blog.microsoft.com/2022/09/29/customer-guidance-for-reported-zero-day-vulnerabilities-in-microsoft-exchange-server/"/>
+        <updated>2022-09-30T06:55:00.000Z</updated>
+        <summary type="html"><![CDATA[Summary Microsoft is investigating two reported zero-day vulnerabilities affecting Microsoft Exchange Server 2013, 2016, and 2019. The first vulnerability, identified as CVE-2022-41040, is a Server-Side Request Forgery (SSRF) vulnerability, while the second, identified as CVE-2022-41082, allows remote code execution (RCE) when PowerShell is accessible to the attacker.   At this time, Microsoft is aware of limited …
+  Customer Guidance for Reported Zero-day Vulnerabilities in Microsoft Exchange Server Read More »]]></summary>
+        <author>
+            <name>msrc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WARNING: New Unpatched Microsoft Exchange Zero-Day Under Active Exploitation]]></title>
+        <id>tag:blogger.com,1999:blog-4802841478634147276.post-3581396058921583483</id>
+        <link href="https://thehackernews.com/2022/09/warning-new-unpatched-microsoft.html"/>
+        <updated>2022-09-30T04:25:00.000Z</updated>
+        <summary type="html"><![CDATA[Security researchers are warning of previously undisclosed flaws in fully patched Microsoft Exchange servers being exploited by malicious actors in real-world attacks to achieve remote code execution on affected systems.
+That's according to Vietnamese cybersecurity company GTSC, which discovered the shortcomings as part of its security monitoring and incident response efforts in August 2022.
+The]]></summary>
+        <author>
+            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Cyera Survey Finds One in Three Respondents Want to Minimize Cloud Data Risk]]></title>
         <id>https://www.darkreading.com/cloud/cyera-survey-finds-one-in-three-want-to-minimize-cloud-data-risk-48-prioritize-better-governance-or-policy-management-of-cloud-data-access</id>
@@ -4646,61 +4669,6 @@ The tech]]></summary>
         <summary type="html"><![CDATA[The ongoing campaign is spreading worldwide, using the lure of a fully functional Google Translate application for desktops that has helped the threat stay undetected for months.]]></summary>
         <author>
             <name>Tara Seals, Managing Editor, News, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CISA releases two Industrial Control Systems Advisories]]></title>
-        <id>17934 at https://us-cert.cisa.gov</id>
-        <link href="https://us-cert.cisa.gov/ncas/current-activity/2022/08/31/cisa-releases-two-industrial-control-systems-advisories"/>
-        <updated>2022-08-31T18:02:45.000Z</updated>
-        <summary type="html"><![CDATA[Original release date: August 31, 2022 | Last revised: September 1, 2022
-CISA has released two Industrial Control Systems (ICS) advisories on September 01, 2022. These advisories provide timely information about current security issues, vulnerabilities, and exploits surrounding ICS. 
-CISA encourages users and administrators to review the newly released ICS advisories for technical details and mitigations: 
-ICSMA-22-244-01 Contec CMS8000
-ICSA-22-244-01 Delta Electronics DOPSoft
-This product is provided subject to this Notification and this Privacy & Use policy.]]></summary>
-        <author>
-            <name>CISA</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Pros and Cons of Managed Firewalls]]></title>
-        <id>https://www.darkreading.com/attacks-breaches/the-pros-and-cons-of-managed-firewalls</id>
-        <link href="https://www.darkreading.com/attacks-breaches/the-pros-and-cons-of-managed-firewalls"/>
-        <updated>2022-08-31T18:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Managed firewalls are increasingly popular. This post examines the strengths and weaknesses of managed firewalls to help your team decide on the right approach.]]></summary>
-        <author>
-            <name>Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[James Webb Telescope Images Loaded With Malware Are Evading EDR]]></title>
-        <id>https://www.darkreading.com/vulnerabilities-threats/james-webb-telescope-images-loaded-with-malware-are-evading-edr</id>
-        <link href="https://www.darkreading.com/vulnerabilities-threats/james-webb-telescope-images-loaded-with-malware-are-evading-edr"/>
-        <updated>2022-08-31T18:00:00.000Z</updated>
-        <summary type="html"><![CDATA[New Golang cyberattacks use deep space images and a new obfuscator to target systems — undetected.]]></summary>
-        <author>
-            <name>Dark Reading Staff, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OpenText Goes All-in on Cybersecurity Size and Scale With Micro Focus Purchase]]></title>
-        <id>https://www.darkreading.com/omdia/opentext-goes-all-in-on-cybersecurity-size-and-scale-with-micro-focus-purchase</id>
-        <link href="https://www.darkreading.com/omdia/opentext-goes-all-in-on-cybersecurity-size-and-scale-with-micro-focus-purchase"/>
-        <updated>2022-08-31T17:00:00.000Z</updated>
-        <summary type="html"><![CDATA[OpenText makes a $6 billion bet that bigger is better in security and that cybersecurity platform plays are the future.]]></summary>
-        <author>
-            <name>Curtis Franklin, Senior Analyst, Omdia</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(ISC)² Opens Global Enrollment for '1 Million Certified in Cybersecurity' Initiative]]></title>
-        <id>https://www.darkreading.com/careers-and-people/-isc-opens-global-enrollment-for-1-million-certified-in-cybersecurity-initiative</id>
-        <link href="https://www.darkreading.com/careers-and-people/-isc-opens-global-enrollment-for-1-million-certified-in-cybersecurity-initiative"/>
-        <updated>2022-08-31T16:41:05.000Z</updated>
-        <summary type="html"><![CDATA[(ISC)² pledges to expand and diversify the cybersecurity workforce by providing free "(ISC)² Certified in Cybersecurity" education and exams to 1 million people worldwide.]]></summary>
-        <author>
-            <name>Dark Reading</name>
         </author>
     </entry>
 </feed>
