@@ -2,10 +2,157 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-09-30T14:00:00.901Z</updated>
+    <updated>2022-09-30T19:27:09.110Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Cybercriminals See Allure in BEC Attacks Over Ransomware]]></title>
+        <id>https://www.darkreading.com/threat-intelligence/cybercriminals-see-allure-bec-attacks-ransomware</id>
+        <link href="https://www.darkreading.com/threat-intelligence/cybercriminals-see-allure-bec-attacks-ransomware"/>
+        <updated>2022-09-30T18:44:43.000Z</updated>
+        <summary type="html"><![CDATA[While ransomware seems stalled, business email compromise (BEC) attacks continue to make profits from the ProxyShell and Log4j vulnerabilities, nearly doubling in the latest quarter.]]></summary>
+        <author>
+            <name>Robert Lemos, Contributing Writer, Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Trojanized, Signed Comm100 Chat Installer Anchors Supply Chain Attack]]></title>
+        <id>https://www.darkreading.com/attacks-breaches/trojanized-signed-supply-chain-attack-comm100-chat-installer</id>
+        <link href="https://www.darkreading.com/attacks-breaches/trojanized-signed-supply-chain-attack-comm100-chat-installer"/>
+        <updated>2022-09-30T17:38:23.000Z</updated>
+        <summary type="html"><![CDATA[Malicious Comm100 files have been found scattered throughout North America, and across sectors including tech, healthcare, manufacturing, telecom, insurance, and others.]]></summary>
+        <author>
+            <name>Dark Reading Staff, Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Drupal Releases Security Update]]></title>
+        <id>18029 at https://us-cert.cisa.gov</id>
+        <link href="https://us-cert.cisa.gov/ncas/current-activity/2022/09/30/drupal-releases-security-update"/>
+        <updated>2022-09-30T17:01:00.000Z</updated>
+        <summary type="html"><![CDATA[Original release date: September 30, 2022
+Drupal has released a security update to address a vulnerability affecting multiple versions of Drupal. An attacker could exploit this vulnerability to access sensitive information. For advisories addressing lower severity vulnerabilities, see Drupal’s Security advisories.
+CISA encourages users and administrators to review Drupal’s security advisory SA-CORE-2022-016 and apply the necessary update.
+This product is provided subject to this Notification and this Privacy & Use policy.]]></summary>
+        <author>
+            <name>CISA</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Releases Guidance on Zero-Day Vulnerabilities in Microsoft Exchange Server]]></title>
+        <id>18028 at https://us-cert.cisa.gov</id>
+        <link href="https://us-cert.cisa.gov/ncas/current-activity/2022/09/30/microsoft-releases-guidance-zero-day-vulnerabilities-microsoft"/>
+        <updated>2022-09-30T16:25:12.000Z</updated>
+        <summary type="html"><![CDATA[Original release date: September 30, 2022
+Microsoft has released Customer Guidance for Reported Zero-day Vulnerabilities in Microsoft Exchange Server. According to the blog post, “Microsoft is aware of limited targeted attacks using the two vulnerabilities to get into users’ systems.” The two vulnerabilities are CVE-2022-41040 and CVE-2022-41082, affecting on-premises Microsoft Exchange Server 2013, 2016, and 2019. Note: Microsoft Exchange Online is not affected. 
+An attacker could exploit these vulnerabilities to take control of an affected system.
+CISA encourages users and administrators to review Microsoft’s Security Advisory and apply the necessary mitigations until patches are made available.
+This product is provided subject to this Notification and this Privacy & Use policy.]]></summary>
+        <author>
+            <name>CISA</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Confirms Pair of Blindsiding Exchange Zero-Days, No Patch Yet]]></title>
+        <id>https://www.darkreading.com/application-security/microsoft-confirms-exchange-zero-days-no-patch</id>
+        <link href="https://www.darkreading.com/application-security/microsoft-confirms-exchange-zero-days-no-patch"/>
+        <updated>2022-09-30T16:24:00.000Z</updated>
+        <summary type="html"><![CDATA[The "ProxyNotShell" security vulnerabilities can be chained for remote code execution and total takeover of corporate email platforms.]]></summary>
+        <author>
+            <name>Tara Seals, Managing Editor, News, Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cisco Releases Security Updates for Multiple Products]]></title>
+        <id>18027 at https://us-cert.cisa.gov</id>
+        <link href="https://us-cert.cisa.gov/ncas/current-activity/2022/09/30/cisco-releases-security-updates-multiple-products"/>
+        <updated>2022-09-30T16:17:30.000Z</updated>
+        <summary type="html"><![CDATA[Original release date: September 30, 2022
+Cisco has released security updates for vulnerabilities affecting multiple products. A remote attacker could exploit some of these vulnerabilities to take control of an affected system. For updates addressing high and low severity vulnerabilities, see the Cisco Security Advisories page.
+CISA encourages users and administrators to review the advisories and apply the necessary updates.
+This product is provided subject to this Notification and this Privacy & Use policy.]]></summary>
+        <author>
+            <name>CISA</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mozilla Releases Security Update for Thunderbird]]></title>
+        <id>18026 at https://us-cert.cisa.gov</id>
+        <link href="https://us-cert.cisa.gov/ncas/current-activity/2022/09/30/mozilla-releases-security-update-thunderbird"/>
+        <updated>2022-09-30T16:06:38.000Z</updated>
+        <summary type="html"><![CDATA[Original release date: September 30, 2022
+Mozilla has released a security update to address a vulnerability in Thunderbird. An attacker could exploit this vulnerability to take control of an affected system.
+CISA encourages users and administrators to review the Mozilla security advisory for Thunderbird 102.3.1 and make the necessary update.
+This product is provided subject to this Notification and this Privacy & Use policy.]]></summary>
+        <author>
+            <name>CISA</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hurricane-Related Scams]]></title>
+        <id>18025 at https://us-cert.cisa.gov</id>
+        <link href="https://us-cert.cisa.gov/ncas/current-activity/2022/09/30/hurricane-related-scams"/>
+        <updated>2022-09-30T15:49:37.000Z</updated>
+        <summary type="html"><![CDATA[Original release date: September 30, 2022
+CISA warns users to remain on alert for malicious cyber activity targeting potential disaster victims and charitable donors following a hurricane. Fraudulent emails—often containing malicious links or attachments—are common after major natural disasters. Exercise caution in handling emails with hurricane-related subject lines, attachments, or hyperlinks. In addition, be wary of social media pleas, texts, or door-to-door solicitations relating to severe weather events.
+To avoid becoming victims of malicious activity, users and administrators should review the following resources and take preventative measures.
+Staying Alert to Disaster-related Scams
+Before Giving to a Charity
+Staying Safe on Social Networking Sites
+Avoiding Social Engineering and Phishing Attacks
+Using Caution with Email Attachments
+If you believe you have been a victim of cybercrime, file a complaint with Federal Bureau of Investigation’s Internet Crime Complaint Center (IC3) at www.ic3.gov. 
+This product is provided subject to this Notification and this Privacy & Use policy.]]></summary>
+        <author>
+            <name>CISA</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SolarMarker Attack Leverages Weak WordPress Sites, Fake Chrome Browser Updates]]></title>
+        <id>https://www.darkreading.com/attacks-breaches/solarmarker-attack-wordpress-fake-chrome-browser-updates</id>
+        <link href="https://www.darkreading.com/attacks-breaches/solarmarker-attack-wordpress-fake-chrome-browser-updates"/>
+        <updated>2022-09-30T14:47:01.000Z</updated>
+        <summary type="html"><![CDATA[The SolarMarker group is exploiting a vulnerable WordPress-run website to encourage victims to download fake Chrome browser updates, part of a new tactic in its watering-hole attacks.]]></summary>
+        <author>
+            <name>Nathan Eddy, Contributing Writer, Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New Malware Families Found Targeting VMware ESXi Hypervisors]]></title>
+        <id>tag:blogger.com,1999:blog-4802841478634147276.post-5106250743569824780</id>
+        <link href="https://thehackernews.com/2022/09/new-malware-families-found-targeting.html"/>
+        <updated>2022-09-30T14:42:00.000Z</updated>
+        <summary type="html"><![CDATA[Threat actors have been found deploying never-before-seen post-compromise implants in VMware's virtualization software to seize control of infected systems and evade detection.
+Google's Mandiant threat intelligence division referred to it as a "novel malware ecosystem" that impacts VMware ESXi, Linux vCenter servers, and Windows virtual machines, allowing attackers to maintain persistent access]]></summary>
+        <author>
+            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CISA Adds Three Known Exploited Vulnerabilities to Catalog]]></title>
+        <id>18024 at https://us-cert.cisa.gov</id>
+        <link href="https://us-cert.cisa.gov/ncas/current-activity/2022/09/30/cisa-adds-three-known-exploited-vulnerabilities-catalog"/>
+        <updated>2022-09-30T14:14:05.000Z</updated>
+        <summary type="html"><![CDATA[Original release date: September 30, 2022
+CISA has added three vulnerabilities to its Known Exploited Vulnerabilities Catalog, based on evidence of active exploitation. These types of vulnerabilities are a frequent attack vector for malicious cyber actors and pose significant risk to the federal enterprise. Note: to view the newly added vulnerabilities in the catalog, click on the arrow in the "Date Added to Catalog" column, which will sort by descending dates.      
+Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the Known Exploited Vulnerabilities Catalog as a living list of known CVEs that carry significant risk to the federal enterprise. BOD 22-01 requires FCEB agencies to remediate identified vulnerabilities by the due date to protect FCEB networks against active threats. See the BOD 22-01 Fact Sheet for more information.   
+Although BOD 22-01 only applies to FCEB agencies, CISA strongly urges all organizations to reduce their exposure to cyberattacks by prioritizing timely remediation of Catalog vulnerabilities as part of their vulnerability management practice. CISA will continue to add vulnerabilities to the Catalog that meet the specified criteria.  
+This product is provided subject to this Notification and this Privacy & Use policy.]]></summary>
+        <author>
+            <name>CISA</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[With the Software Supply Chain, You Can't Secure What You Don't Measure]]></title>
+        <id>https://www.darkreading.com/vulnerabilities-threats/with-the-software-supply-chain-you-can-t-secure-what-you-don-t-measure</id>
+        <link href="https://www.darkreading.com/vulnerabilities-threats/with-the-software-supply-chain-you-can-t-secure-what-you-don-t-measure"/>
+        <updated>2022-09-30T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Reports to the National Vulnerability Database jumped in 2022, but we should pay just as much attention to the flaws that are not being reported to NVD, including those affecting the software supply chain.]]></summary>
+        <author>
+            <name>Tomislav Pericin, Chief Software Architect &amp; Co-Founder, ReversingLabs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Onyxia Raises $5M to Help Companies Proactively Manage Cybersecurity Risks Using AI]]></title>
         <id>https://www.darkreading.com/vulnerabilities-threats/onyxia-raises-5m-to-help-companies-proactively-manage-cybersecurity-risks-using-ai</id>
@@ -4700,30 +4847,6 @@ Interestingly, a]]></summary>
         <updated>2022-09-01T10:03:00.000Z</updated>
         <summary type="html"><![CDATA[The attack infrastructure used to target Cisco in the May 2022 incident was also employed against an attempted compromise of an unnamed workforce management solutions holding company a month earlier in April 2022.
 Cybersecurity firm Sentire, which disclosed the findings, raised the possibility that the intrusions could be the work of a criminal actor known as mx1r, who is said to be a member of]]></summary>
-        <author>
-            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft Discover Severe ‘One-Click’ Exploit for TikTok Android App]]></title>
-        <id>tag:blogger.com,1999:blog-4802841478634147276.post-753852516240848430</id>
-        <link href="https://thehackernews.com/2022/09/microsoft-discover-severe-one-click.html"/>
-        <updated>2022-09-01T07:13:00.000Z</updated>
-        <summary type="html"><![CDATA[Microsoft on Wednesday disclosed details of a now-patched "high severity vulnerability" in the TikTok app for Android that could let attackers take over accounts when victims clicked on a malicious link.
-"Attackers could have leveraged the vulnerability to hijack an account without users' awareness if a targeted user simply clicked a specially crafted link," Dimitrios Valsamaras of the Microsoft]]></summary>
-        <author>
-            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Apple Releases iOS Update for Older iPhones to Fix Actively Exploited Vulnerability]]></title>
-        <id>tag:blogger.com,1999:blog-4802841478634147276.post-8710210464455632152</id>
-        <link href="https://thehackernews.com/2022/09/apple-releases-ios-update-for-older.html"/>
-        <updated>2022-09-01T03:24:00.000Z</updated>
-        <summary type="html"><![CDATA[Apple on Wednesday backported security updates to older iPhones, iPads, and iPod touch devices to address a critical security flaw that has been actively exploited in the wild.
-The issue, tracked as CVE-2022-32893 (CVSS score: 8.8), is an out-of-bounds write issue affecting WebKit that could lead to arbitrary code execution when processing maliciously crafted web content.
-
-The tech]]></summary>
         <author>
             <name>noreply@blogger.com (Ravie Lakshmanan)</name>
         </author>
