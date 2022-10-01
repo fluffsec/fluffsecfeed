@@ -2,10 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-10-01T03:54:59.200Z</updated>
+    <updated>2022-10-01T07:31:16.156Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[State-Sponsored Hackers Likely Exploited MS Exchange 0-Days Against ~10 Organizations]]></title>
+        <id>tag:blogger.com,1999:blog-4802841478634147276.post-7616727065527556465</id>
+        <link href="https://thehackernews.com/2022/10/state-sponsored-hackers-likely.html"/>
+        <updated>2022-10-01T06:36:00.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft on Friday disclosed that a single activity group in August 2022 achieved initial access and breached Exchange servers by chaining the two newly disclosed zero-day flaws in a limited set of attacks aimed at less than 10 organizations globally.
+"These attacks installed the Chopper web shell to facilitate hands-on-keyboard access, which the attackers used to perform Active Directory]]></summary>
+        <author>
+            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CISA Warns of Hackers Exploiting Critical Atlassian Bitbucket Server Vulnerability]]></title>
+        <id>tag:blogger.com,1999:blog-4802841478634147276.post-197873180087423049</id>
+        <link href="https://thehackernews.com/2022/10/cisa-warns-of-hackers-exploiting.html"/>
+        <updated>2022-10-01T06:35:00.000Z</updated>
+        <summary type="html"><![CDATA[The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added a recently disclosed critical flaw impacting Atlassian's Bitbucket Server and Data Center to the Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation.
+Tracked as CVE-2022-36804, the issue relates to a command injection vulnerability that could allow malicious actors to gain arbitrary]]></summary>
+        <author>
+            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Worried About the Exchange Zero-Day? Here's What to Do]]></title>
         <id>https://www.darkreading.com/dr-tech/worried-about-the-exchange-0day-here-s-what-to-do</id>
@@ -4792,16 +4814,6 @@ While the]]></summary>
         <summary type="html"><![CDATA[The proposed AMTSO guidelines offer a roadmap for comprehensive testing of IoT security products.]]></summary>
         <author>
             <name>Nathan Eddy, Contributing Writer, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Code-Injection Bugs Bite Google, Apache Open Source GitHub Projects]]></title>
-        <id>https://www.darkreading.com/vulnerabilities-threats/code-injection-bugs-google-apache-open-source-github-projects</id>
-        <link href="https://www.darkreading.com/vulnerabilities-threats/code-injection-bugs-google-apache-open-source-github-projects"/>
-        <updated>2022-09-01T16:52:30.000Z</updated>
-        <summary type="html"><![CDATA[The insecurities exist in CI/CD pipelines and can be used by attackers to subvert modern development and roll out malicious code at deployment.]]></summary>
-        <author>
-            <name>Ericka Chickowski, Contributing Writer, Dark Reading</name>
         </author>
     </entry>
 </feed>

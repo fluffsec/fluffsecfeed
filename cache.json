@@ -3378,21 +3378,6 @@
             "length": "0"
           },
           "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltf8b5a94afa71c53a/628e3799daa31875dc0c9fc0/NathanEddyHeadshot.PNG"
-        },
-        {
-          "id": "https://www.darkreading.com/vulnerabilities-threats/code-injection-bugs-google-apache-open-source-github-projects",
-          "author": "Ericka Chickowski, Contributing Writer, Dark Reading",
-          "description": "The insecurities exist in CI/CD pipelines and can be used by attackers to subvert modern development and roll out malicious code at deployment.",
-          "link": "https://www.darkreading.com/vulnerabilities-threats/code-injection-bugs-google-apache-open-source-github-projects",
-          "publishedOn": "2022-09-01T16:52:30.000Z",
-          "wordCount": 10313,
-          "title": "Code-Injection Bugs Bite Google, Apache Open Source GitHub Projects",
-          "enclosure": {
-            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt1fa01ab14787f501/60b1e9a77f791568be5e0dbb/ErickaChick_125x125.jpeg",
-            "type": "image/*",
-            "length": "0"
-          },
-          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt1fa01ab14787f501/60b1e9a77f791568be5e0dbb/ErickaChick_125x125.jpeg"
         }
       ]
     },
@@ -4036,6 +4021,28 @@
       "feedUrl": "https://thehackernews.com/feeds/posts/default",
       "siteUrl": "https://thehackernews.com/",
       "articles": [
+        {
+          "id": "tag:blogger.com,1999:blog-4802841478634147276.post-7616727065527556465",
+          "author": "noreply@blogger.com (Ravie Lakshmanan)",
+          "description": "Microsoft on Friday disclosed that a single activity group in August 2022 achieved initial access and breached Exchange servers by chaining the two newly disclosed zero-day flaws in a limited set of attacks aimed at less than 10 organizations globally.\n\"These attacks installed the Chopper web shell to facilitate hands-on-keyboard access, which the attackers used to perform Active Directory",
+          "link": "https://thehackernews.com/2022/10/state-sponsored-hackers-likely.html",
+          "publishedOn": "2022-10-01T06:36:00.000Z",
+          "wordCount": null,
+          "title": "State-Sponsored Hackers Likely Exploited MS Exchange 0-Days Against ~10 Organizations",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "tag:blogger.com,1999:blog-4802841478634147276.post-197873180087423049",
+          "author": "noreply@blogger.com (Ravie Lakshmanan)",
+          "description": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added a recently disclosed critical flaw impacting Atlassian's Bitbucket Server and Data Center to the Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation.\nTracked as CVE-2022-36804, the issue relates to a command injection vulnerability that could allow malicious actors to gain arbitrary",
+          "link": "https://thehackernews.com/2022/10/cisa-warns-of-hackers-exploiting.html",
+          "publishedOn": "2022-10-01T06:35:00.000Z",
+          "wordCount": null,
+          "title": "CISA Warns of Hackers Exploiting Critical Atlassian Bitbucket Server Vulnerability",
+          "itunes": {},
+          "imageUrl": null
+        },
         {
           "id": "tag:blogger.com,1999:blog-4802841478634147276.post-5106250743569824780",
           "author": "noreply@blogger.com (Ravie Lakshmanan)",
