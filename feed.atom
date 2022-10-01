@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-10-01T13:48:29.827Z</updated>
+    <updated>2022-10-01T19:23:37.593Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Reshaping the Threat Landscape: Deepfake Cyberattacks Are Here]]></title>
+        <id>https://blog.knowbe4.com/reshaping-the-threat-landscape-deepfake-cyberattacks-are-here</id>
+        <link href="https://blog.knowbe4.com/reshaping-the-threat-landscape-deepfake-cyberattacks-are-here"/>
+        <updated>2022-10-01T16:43:15.000Z</updated>
+        <summary type="html"><![CDATA[Jai Vijayan, Contributing Writer at Dark Reading correctly stated: "It's time to dispel notions of deepfakes as an emergent threat. All the pieces for widespread attacks are in place and readily available to cybercriminals, even unsophisticated ones."]]></summary>
+        <author>
+            <name>Stu Sjouwerman</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Pay What You Want for This Collection of White Hat Hacking Courses]]></title>
         <id>tag:blogger.com,1999:blog-4802841478634147276.post-2590026718764543261</id>
@@ -4750,29 +4760,6 @@ According to recent studies, developers spend more time maintaining, testing and
         <updated>2022-09-02T10:21:00.000Z</updated>
         <summary type="html"><![CDATA[In another finding that could expose developers to increased risk of a supply chain attack, it has emerged that nearly one-third of the packages in PyPI, the Python Package Index, trigger automatic code execution upon downloading them.
 "A worrying feature in pip/PyPI allows code to automatically run when developers are merely downloading a package," Checkmarx researcher Yehuda Gelb said in a]]></summary>
-        <author>
-            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Evidence Links Raspberry Robin Malware to Dridex and Russian Evil Corp Hackers]]></title>
-        <id>tag:blogger.com,1999:blog-4802841478634147276.post-6226105782679928502</id>
-        <link href="https://thehackernews.com/2022/09/new-evidence-links-raspberry-robin.html"/>
-        <updated>2022-09-02T07:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Researchers have identified functional similarities between a malicious component used in the Raspberry Robin infection chain and a Dridex malware loader, further strengthening the operators' connections to the Russia-based Evil Corp group.
-The findings suggest that "Evil Corp is likely using Raspberry Robin infrastructure to carry out its attacks," IBM Security X-Force researcher Kevin Henson]]></summary>
-        <author>
-            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google Chrome Bug Lets Sites Silently Overwrite System Clipboard Content]]></title>
-        <id>tag:blogger.com,1999:blog-4802841478634147276.post-3996551876684684782</id>
-        <link href="https://thehackernews.com/2022/09/google-chrome-bug-lets-sites-silently.html"/>
-        <updated>2022-09-02T05:55:00.000Z</updated>
-        <summary type="html"><![CDATA[A "major" security issue in the Google Chrome web browser, as well as Chromium-based alternatives, could allow malicious web pages to automatically overwrite clipboard content without requiring any user consent or interaction by simply visiting them.
-The clipboard poisoning attack is said to have been accidentally introduced in Chrome version 104, according to developer Jeff Johnson.
-While the]]></summary>
         <author>
             <name>noreply@blogger.com (Ravie Lakshmanan)</name>
         </author>
