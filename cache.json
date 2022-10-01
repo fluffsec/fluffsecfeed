@@ -421,16 +421,6 @@
           "wordCount": 1148,
           "title": "CISA, NSA, and ODNI Release Part One of Guidance on Securing the Software Supply Chain",
           "imageUrl": null
-        },
-        {
-          "id": "17939 at https://us-cert.cisa.gov",
-          "author": "CISA",
-          "description": "Original release date: September 1, 2022\nApple has released security updates to address a vulnerability (CVE-2022-32893) in iPhone 5s, iPhone 6, iPhone 6 Plus, iPad Air, iPad mini 2, iPad mini 3, and iPod touch (6th generation). Exploitation of this vulnerability could allow an attacker to take control of affected device.\nCISA encourages users and administrators to review Apple’s advisory HT213428 and apply necessary updates.\nThis product is provided subject to this Notification and this Privacy & Use policy.",
-          "link": "https://us-cert.cisa.gov/ncas/current-activity/2022/09/01/apple-releases-security-updates-multiple-products",
-          "publishedOn": "2022-09-01T15:40:28.000Z",
-          "wordCount": 1073,
-          "title": "Apple Releases Security Updates for Multiple Products",
-          "imageUrl": null
         }
       ]
     },
@@ -469,6 +459,51 @@
       "feedUrl": "https://www.darkreading.com/rss.xml",
       "siteUrl": "https://www.darkreading.com",
       "articles": [
+        {
+          "id": "https://www.darkreading.com/dr-tech/worried-about-the-exchange-0day-here-s-what-to-do",
+          "author": "Dark Reading Staff, Dark Reading",
+          "description": "While organizations wait for an official patch for the two zero-day flaws in Microsoft Exchange, they should scan their networks for signs of exploitation and apply these mitigations.",
+          "link": "https://www.darkreading.com/dr-tech/worried-about-the-exchange-0day-here-s-what-to-do",
+          "publishedOn": "2022-09-30T22:14:00.000Z",
+          "wordCount": 11237,
+          "title": "Worried About the Exchange Zero-Day? Here's What to Do",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blte161b23f0fd3a84b/60b1ea374e7eb868c4c6a293/dr_staff_125x125.jpg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blte161b23f0fd3a84b/60b1ea374e7eb868c4c6a293/dr_staff_125x125.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/attacks-breaches/la-school-district-ransomware-attackers-leak-stolen-data",
+          "author": "Becky Bracken, Editor, Dark Reading",
+          "description": "Weeks after it breached the Los Angeles Unified School District, the Vice Society ransomware group is threatening to leak the stolen data, unless they get paid.",
+          "link": "https://www.darkreading.com/attacks-breaches/la-school-district-ransomware-attackers-leak-stolen-data",
+          "publishedOn": "2022-09-30T20:31:00.000Z",
+          "wordCount": 10414,
+          "title": "LA School District Ransomware Attackers Now Threaten to Leak Stolen Data",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt8e7bd143d726930b/627271268681151716941064/BeckyB.jpg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt8e7bd143d726930b/627271268681151716941064/BeckyB.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/threat-intelligence/threat-landscape-deepfake-cyberattacks-are-here",
+          "author": "Jai Vijayan, Contributing Writer, Dark Reading",
+          "description": "It's time to dispel notions of deepfakes as an emergent threat. All the pieces for widespread attacks are in place and readily available to cybercriminals, even unsophisticated ones.",
+          "link": "https://www.darkreading.com/threat-intelligence/threat-landscape-deepfake-cyberattacks-are-here",
+          "publishedOn": "2022-09-30T19:10:40.000Z",
+          "wordCount": 13539,
+          "title": "Reshaping the Threat Landscape: Deepfake Cyberattacks Are Here",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt02d79fb9a44a4258/60b1e9dd2a25046b35110696/Jai-Vijayan.jpeg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt02d79fb9a44a4258/60b1e9dd2a25046b35110696/Jai-Vijayan.jpeg"
+        },
         {
           "id": "https://www.darkreading.com/threat-intelligence/cybercriminals-see-allure-bec-attacks-ransomware",
           "author": "Robert Lemos, Contributing Writer, Dark Reading",
@@ -3358,46 +3393,6 @@
             "length": "0"
           },
           "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt1fa01ab14787f501/60b1e9a77f791568be5e0dbb/ErickaChick_125x125.jpeg"
-        },
-        {
-          "id": "https://www.darkreading.com/vulnerabilities-threats/apple-patch-zero-day-rce-bug",
-          "author": "Elizabeth Montalbano, Contributor, Dark Reading",
-          "description": "Apple continues a staged update process to address a WebKit vulnerability that allows attackers to craft malicious Web content to load malware on affected devices.",
-          "link": "https://www.darkreading.com/vulnerabilities-threats/apple-patch-zero-day-rce-bug",
-          "publishedOn": "2022-09-01T14:45:27.000Z",
-          "wordCount": 11533,
-          "title": "Apple Quietly Releases Another Patch for Zero-Day RCE Bug",
-          "enclosure": {
-            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltbfd004d139d42d70/6303bca6236c2476a257760e/ElizabethMontalbano.jpg",
-            "type": "image/*",
-            "length": "0"
-          },
-          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltbfd004d139d42d70/6303bca6236c2476a257760e/ElizabethMontalbano.jpg"
-        },
-        {
-          "id": "https://www.darkreading.com/careers-and-people/-isc-2-launches-certified-in-cybersecurity-entry-level-certification-to-address-global-workforce-gap",
-          "author": null,
-          "description": "After a rigorous pilot program, the association's newest certification is officially operational. More than 1,500 pilot participants who passed the exam are on the path to full certification.",
-          "link": "https://www.darkreading.com/careers-and-people/-isc-2-launches-certified-in-cybersecurity-entry-level-certification-to-address-global-workforce-gap",
-          "publishedOn": "2022-09-01T14:18:21.000Z",
-          "wordCount": 10682,
-          "title": "(ISC)(2) Launches 'Certified in Cybersecurity' Entry-Level Certification to Address Global Workforce Gap",
-          "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
-        },
-        {
-          "id": "https://www.darkreading.com/cloud/real-world-cloud-attacks-true-tasks-of-cloud-ransomware-mitigation",
-          "author": "Ofer Maor, CTO and Co-Founder, Mitiga",
-          "description": "Cloud breaches are inevitable — and so is cloud ransomware. (Second of two parts.)",
-          "link": "https://www.darkreading.com/cloud/real-world-cloud-attacks-true-tasks-of-cloud-ransomware-mitigation",
-          "publishedOn": "2022-09-01T14:00:00.000Z",
-          "wordCount": 11884,
-          "title": "Real-World Cloud Attacks: The True Tasks of Cloud Ransomware Mitigation",
-          "enclosure": {
-            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt5a6780d08e29d9f6/6295427c8cb26d5d74d057c6/Ofer_Maor_310x310px.png",
-            "type": "image/*",
-            "length": "0"
-          },
-          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt5a6780d08e29d9f6/6295427c8cb26d5d74d057c6/Ofer_Maor_310x310px.png"
         }
       ]
     },
@@ -3405,7 +3400,18 @@
       "title": "Cisco Talos Intelligence Group - Comprehensive Threat Intelligence",
       "feedUrl": "https://blog.talosintelligence.com/feeds/posts/default/-/vulnerabilities",
       "siteUrl": "https://blog.talosintelligence.com/search/label/vulnerabilities",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://blog.talosintelligence.com/2022/09/threat-advisory-exchange-server-vulns.html",
+          "author": null,
+          "description": "Cisco Talos has released new coverage to detect and prevent the exploitation of two recently disclosed vulnerabilities collectively referred to as \"ProxyNotShell,\" affecting Microsoft Exchange Servers 2013, 2016 and 2019. One of these vulnerabilities could allow an attacker to execute remote code on the targeted server. Limited exploitation of these vulnerabilities in the wild has been reported. CVE-2022-41040 is a Server Side Request Forgery (SSRF) vulnerability, while CVE-2022-41082 enables Remote Code Execution (RCE) when PowerShell is accessible to the attackers. \nWhile no fixes or patches are available yet, Microsoft has provided mitigations for on-premises Microsoft Exchange users on Sept. 29, 2022. Even organizations that use Exchange Online may still be affected if they run a hybri…",
+          "link": "https://blog.talosintelligence.com/2022/09/threat-advisory-exchange-server-vulns.html",
+          "publishedOn": "2022-09-30T21:16:00.001Z",
+          "wordCount": 6134,
+          "title": "Threat Advisory: Microsoft warns of actively exploited vulnerabilities in Exchange Server",
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhZr27FJwCHmC3zfL6SJZ8fGYgiTlgVMJE0jfd8Hgjf6Yt7yp4cv7Kh9jLhFSAvI663yNeb6B2CB_HFAxDjFyPfUG6nv2ft1n6GbwvhsDOEgoS_O2u8-HwGJ96MmwDQlN_ztZ2L8nlQbkkD5ZAf7acnv3wrX_Ze8wBRGCdn4uD9yxH3nNHzJn-1n8AvMQ/w1200-h630-p-k-no-nu/image1.jpg"
+        }
+      ]
     },
     {
       "title": "Public KB",
@@ -3468,16 +3474,6 @@
           "wordCount": 5793,
           "title": "What’s the smallest variety of CHERI?",
           "imageUrl": null
-        },
-        {
-          "id": "https://msrc-blog.microsoft.com/?p=14611",
-          "author": "msrc",
-          "description": "Summary: Microsoft takes a proactive approach to continually probe our defenses, hunt for vulnerabilities, and seek new, innovative ways to protect our customers. Security researchers are an important part of this effort, and our collaborative partnership is critical in a world where cybersecurity attacks continue to grow in number and sophistication.  We value the role …\n  Vulnerability Fixed in Azure Synapse Spark Read More »",
-          "link": "https://msrc-blog.microsoft.com/2022/09/01/vulnerability-fixed-in-azure-synapse-spark/",
-          "publishedOn": "2022-09-01T15:00:11.000Z",
-          "wordCount": 2021,
-          "title": "Vulnerability Fixed in Azure Synapse Spark",
-          "imageUrl": null
         }
       ]
     },
@@ -3486,6 +3482,16 @@
       "feedUrl": "https://fieldeffect.com/feed/?post_type=threats",
       "siteUrl": "https://fieldeffect.com/threats/",
       "articles": [
+        {
+          "id": "https://fieldeffect.com/?post_type=threats&p=6595",
+          "author": "Elena Lapina",
+          "description": "On 29 September 2022, Microsoft published an advisory providing a workaround for two unpatched flaws in Microsoft Exchange Server 2013, 2016, and 2019 that are being exploited in the wild in “limited targeted attacks”. We recommend following the mitigation steps below to validate whether your software or devices are affected by this vulnerability, and to […]\nThe post Threat Actors Targeting Microsoft Exchange Instances That Have No Patch Available appeared first on Field Effect Software Inc.",
+          "link": "https://fieldeffect.com/threats/threat-actors-targeting-microsoft-exchange-instances-that-have-no-patch-available/",
+          "publishedOn": "2022-09-30T20:01:57.000Z",
+          "wordCount": 707,
+          "title": "Threat Actors Targeting Microsoft Exchange Instances That Have No Patch Available",
+          "imageUrl": "https://fieldeffect.com/wp-content/uploads/2020/05/Untitled-design-9.png"
+        },
         {
           "id": "https://fieldeffect.com/?post_type=threats&p=6571",
           "author": "Elena Lapina",
@@ -5369,50 +5375,6 @@
           "publishedOn": "2022-09-02T05:55:00.000Z",
           "wordCount": null,
           "title": "Google Chrome Bug Lets Sites Silently Overwrite System Clipboard Content",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "tag:blogger.com,1999:blog-4802841478634147276.post-6104117454954643573",
-          "author": "noreply@blogger.com (The Hacker News)",
-          "description": "So far 2022 confirms that passwords are not dead yet. Neither will they be anytime soon. Even though Microsoft and Apple are championing passwordless authentication methods, most applications and websites will not remove this option for a very long time.\nThink about it, internal apps that you do not want to integrate with third-party identity providers, government services, legacy applications,",
-          "link": "https://thehackernews.com/2022/09/stop-worrying-about-passwords-forever.html",
-          "publishedOn": "2022-09-01T14:05:00.000Z",
-          "wordCount": null,
-          "title": "Stop Worrying About Passwords Forever",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "tag:blogger.com,1999:blog-4802841478634147276.post-1252193411312672815",
-          "author": "noreply@blogger.com (Ravie Lakshmanan)",
-          "description": "The operators of the emerging cross-platform BianLian ransomware have increased their command-and-control (C2) infrastructure this month, a development that alludes to an increase in the group's operational tempo.\nBianLian, written in the Go programming language, was first discovered in mid-July 2022 and has claimed 15 victim organizations as of September 1, cybersecurity firm [redacted] said in",
-          "link": "https://thehackernews.com/2022/09/researchers-detail-emerging-cross.html",
-          "publishedOn": "2022-09-01T12:55:00.000Z",
-          "wordCount": null,
-          "title": "Researchers Detail Emerging Cross-Platform BianLian Ransomware Attacks",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "tag:blogger.com,1999:blog-4802841478634147276.post-6356452656399230592",
-          "author": "noreply@blogger.com (Ravie Lakshmanan)",
-          "description": "Researchers have identified 1,859 apps across Android and iOS containing hard-coded Amazon Web Services (AWS) credentials, posing a major security risk.\n\"Over three-quarters (77%) of the apps contained valid AWS access tokens allowing access to private AWS cloud services,\" Symantec's Threat Hunter team, a part of Broadcom Software, said in a report shared with The Hacker News.\nInterestingly, a",
-          "link": "https://thehackernews.com/2022/09/over-1800-android-and-ios-apps-found.html",
-          "publishedOn": "2022-09-01T10:19:00.000Z",
-          "wordCount": null,
-          "title": "Over 1,800 Android and iOS Apps Found Leaking Hard-Coded AWS Credentials",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "tag:blogger.com,1999:blog-4802841478634147276.post-8597480206516655548",
-          "author": "noreply@blogger.com (Ravie Lakshmanan)",
-          "description": "The attack infrastructure used to target Cisco in the May 2022 incident was also employed against an attempted compromise of an unnamed workforce management solutions holding company a month earlier in April 2022.\nCybersecurity firm Sentire, which disclosed the findings, raised the possibility that the intrusions could be the work of a criminal actor known as mx1r, who is said to be a member of",
-          "link": "https://thehackernews.com/2022/09/infra-used-in-cisco-hack-also-targeted.html",
-          "publishedOn": "2022-09-01T10:03:00.000Z",
-          "wordCount": null,
-          "title": "Infra Used in Cisco Hack Also Targeted Workforce Management Solution",
           "itunes": {},
           "imageUrl": null
         }

@@ -2,10 +2,62 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-09-30T19:27:09.110Z</updated>
+    <updated>2022-10-01T03:54:59.200Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Worried About the Exchange Zero-Day? Here's What to Do]]></title>
+        <id>https://www.darkreading.com/dr-tech/worried-about-the-exchange-0day-here-s-what-to-do</id>
+        <link href="https://www.darkreading.com/dr-tech/worried-about-the-exchange-0day-here-s-what-to-do"/>
+        <updated>2022-09-30T22:14:00.000Z</updated>
+        <summary type="html"><![CDATA[While organizations wait for an official patch for the two zero-day flaws in Microsoft Exchange, they should scan their networks for signs of exploitation and apply these mitigations.]]></summary>
+        <author>
+            <name>Dark Reading Staff, Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Threat Advisory: Microsoft warns of actively exploited vulnerabilities in Exchange Server]]></title>
+        <id>https://blog.talosintelligence.com/2022/09/threat-advisory-exchange-server-vulns.html</id>
+        <link href="https://blog.talosintelligence.com/2022/09/threat-advisory-exchange-server-vulns.html"/>
+        <updated>2022-09-30T21:16:00.001Z</updated>
+        <summary type="html"><![CDATA[Cisco Talos has released new coverage to detect and prevent the exploitation of two recently disclosed vulnerabilities collectively referred to as "ProxyNotShell," affecting Microsoft Exchange Servers 2013, 2016 and 2019. One of these vulnerabilities could allow an attacker to execute remote code on the targeted server. Limited exploitation of these vulnerabilities in the wild has been reported. CVE-2022-41040 is a Server Side Request Forgery (SSRF) vulnerability, while CVE-2022-41082 enables Remote Code Execution (RCE) when PowerShell is accessible to the attackers. 
+While no fixes or patches are available yet, Microsoft has provided mitigations for on-premises Microsoft Exchange users on Sept. 29, 2022. Even organizations that use Exchange Online may still be affected if they run a hybri…]]></summary>
+        <author>
+            <name>Cisco Talos Intelligence Group - Comprehensive Threat Intelligence</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LA School District Ransomware Attackers Now Threaten to Leak Stolen Data]]></title>
+        <id>https://www.darkreading.com/attacks-breaches/la-school-district-ransomware-attackers-leak-stolen-data</id>
+        <link href="https://www.darkreading.com/attacks-breaches/la-school-district-ransomware-attackers-leak-stolen-data"/>
+        <updated>2022-09-30T20:31:00.000Z</updated>
+        <summary type="html"><![CDATA[Weeks after it breached the Los Angeles Unified School District, the Vice Society ransomware group is threatening to leak the stolen data, unless they get paid.]]></summary>
+        <author>
+            <name>Becky Bracken, Editor, Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Threat Actors Targeting Microsoft Exchange Instances That Have No Patch Available]]></title>
+        <id>https://fieldeffect.com/?post_type=threats&amp;p=6595</id>
+        <link href="https://fieldeffect.com/threats/threat-actors-targeting-microsoft-exchange-instances-that-have-no-patch-available/"/>
+        <updated>2022-09-30T20:01:57.000Z</updated>
+        <summary type="html"><![CDATA[On 29 September 2022, Microsoft published an advisory providing a workaround for two unpatched flaws in Microsoft Exchange Server 2013, 2016, and 2019 that are being exploited in the wild in “limited targeted attacks”. We recommend following the mitigation steps below to validate whether your software or devices are affected by this vulnerability, and to […]
+The post Threat Actors Targeting Microsoft Exchange Instances That Have No Patch Available appeared first on Field Effect Software Inc.]]></summary>
+        <author>
+            <name>Elena Lapina</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Reshaping the Threat Landscape: Deepfake Cyberattacks Are Here]]></title>
+        <id>https://www.darkreading.com/threat-intelligence/threat-landscape-deepfake-cyberattacks-are-here</id>
+        <link href="https://www.darkreading.com/threat-intelligence/threat-landscape-deepfake-cyberattacks-are-here"/>
+        <updated>2022-09-30T19:10:40.000Z</updated>
+        <summary type="html"><![CDATA[It's time to dispel notions of deepfakes as an emergent threat. All the pieces for widespread attacks are in place and readily available to cybercriminals, even unsophisticated ones.]]></summary>
+        <author>
+            <name>Jai Vijayan, Contributing Writer, Dark Reading</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Cybercriminals See Allure in BEC Attacks Over Ransomware]]></title>
         <id>https://www.darkreading.com/threat-intelligence/cybercriminals-see-allure-bec-attacks-ransomware</id>
@@ -4750,105 +4802,6 @@ While the]]></summary>
         <summary type="html"><![CDATA[The insecurities exist in CI/CD pipelines and can be used by attackers to subvert modern development and roll out malicious code at deployment.]]></summary>
         <author>
             <name>Ericka Chickowski, Contributing Writer, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Apple Releases Security Updates for Multiple Products]]></title>
-        <id>17939 at https://us-cert.cisa.gov</id>
-        <link href="https://us-cert.cisa.gov/ncas/current-activity/2022/09/01/apple-releases-security-updates-multiple-products"/>
-        <updated>2022-09-01T15:40:28.000Z</updated>
-        <summary type="html"><![CDATA[Original release date: September 1, 2022
-Apple has released security updates to address a vulnerability (CVE-2022-32893) in iPhone 5s, iPhone 6, iPhone 6 Plus, iPad Air, iPad mini 2, iPad mini 3, and iPod touch (6th generation). Exploitation of this vulnerability could allow an attacker to take control of affected device.
-CISA encourages users and administrators to review Apple’s advisory HT213428 and apply necessary updates.
-This product is provided subject to this Notification and this Privacy & Use policy.]]></summary>
-        <author>
-            <name>CISA</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vulnerability Fixed in Azure Synapse Spark]]></title>
-        <id>https://msrc-blog.microsoft.com/?p=14611</id>
-        <link href="https://msrc-blog.microsoft.com/2022/09/01/vulnerability-fixed-in-azure-synapse-spark/"/>
-        <updated>2022-09-01T15:00:11.000Z</updated>
-        <summary type="html"><![CDATA[Summary: Microsoft takes a proactive approach to continually probe our defenses, hunt for vulnerabilities, and seek new, innovative ways to protect our customers. Security researchers are an important part of this effort, and our collaborative partnership is critical in a world where cybersecurity attacks continue to grow in number and sophistication.  We value the role …
-  Vulnerability Fixed in Azure Synapse Spark Read More »]]></summary>
-        <author>
-            <name>msrc</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Apple Quietly Releases Another Patch for Zero-Day RCE Bug]]></title>
-        <id>https://www.darkreading.com/vulnerabilities-threats/apple-patch-zero-day-rce-bug</id>
-        <link href="https://www.darkreading.com/vulnerabilities-threats/apple-patch-zero-day-rce-bug"/>
-        <updated>2022-09-01T14:45:27.000Z</updated>
-        <summary type="html"><![CDATA[Apple continues a staged update process to address a WebKit vulnerability that allows attackers to craft malicious Web content to load malware on affected devices.]]></summary>
-        <author>
-            <name>Elizabeth Montalbano, Contributor, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(ISC)(2) Launches 'Certified in Cybersecurity' Entry-Level Certification to Address Global Workforce Gap]]></title>
-        <id>https://www.darkreading.com/careers-and-people/-isc-2-launches-certified-in-cybersecurity-entry-level-certification-to-address-global-workforce-gap</id>
-        <link href="https://www.darkreading.com/careers-and-people/-isc-2-launches-certified-in-cybersecurity-entry-level-certification-to-address-global-workforce-gap"/>
-        <updated>2022-09-01T14:18:21.000Z</updated>
-        <summary type="html"><![CDATA[After a rigorous pilot program, the association's newest certification is officially operational. More than 1,500 pilot participants who passed the exam are on the path to full certification.]]></summary>
-        <author>
-            <name>Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stop Worrying About Passwords Forever]]></title>
-        <id>tag:blogger.com,1999:blog-4802841478634147276.post-6104117454954643573</id>
-        <link href="https://thehackernews.com/2022/09/stop-worrying-about-passwords-forever.html"/>
-        <updated>2022-09-01T14:05:00.000Z</updated>
-        <summary type="html"><![CDATA[So far 2022 confirms that passwords are not dead yet. Neither will they be anytime soon. Even though Microsoft and Apple are championing passwordless authentication methods, most applications and websites will not remove this option for a very long time.
-Think about it, internal apps that you do not want to integrate with third-party identity providers, government services, legacy applications,]]></summary>
-        <author>
-            <name>noreply@blogger.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Real-World Cloud Attacks: The True Tasks of Cloud Ransomware Mitigation]]></title>
-        <id>https://www.darkreading.com/cloud/real-world-cloud-attacks-true-tasks-of-cloud-ransomware-mitigation</id>
-        <link href="https://www.darkreading.com/cloud/real-world-cloud-attacks-true-tasks-of-cloud-ransomware-mitigation"/>
-        <updated>2022-09-01T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Cloud breaches are inevitable — and so is cloud ransomware. (Second of two parts.)]]></summary>
-        <author>
-            <name>Ofer Maor, CTO and Co-Founder, Mitiga</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Researchers Detail Emerging Cross-Platform BianLian Ransomware Attacks]]></title>
-        <id>tag:blogger.com,1999:blog-4802841478634147276.post-1252193411312672815</id>
-        <link href="https://thehackernews.com/2022/09/researchers-detail-emerging-cross.html"/>
-        <updated>2022-09-01T12:55:00.000Z</updated>
-        <summary type="html"><![CDATA[The operators of the emerging cross-platform BianLian ransomware have increased their command-and-control (C2) infrastructure this month, a development that alludes to an increase in the group's operational tempo.
-BianLian, written in the Go programming language, was first discovered in mid-July 2022 and has claimed 15 victim organizations as of September 1, cybersecurity firm [redacted] said in]]></summary>
-        <author>
-            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Over 1,800 Android and iOS Apps Found Leaking Hard-Coded AWS Credentials]]></title>
-        <id>tag:blogger.com,1999:blog-4802841478634147276.post-6356452656399230592</id>
-        <link href="https://thehackernews.com/2022/09/over-1800-android-and-ios-apps-found.html"/>
-        <updated>2022-09-01T10:19:00.000Z</updated>
-        <summary type="html"><![CDATA[Researchers have identified 1,859 apps across Android and iOS containing hard-coded Amazon Web Services (AWS) credentials, posing a major security risk.
-"Over three-quarters (77%) of the apps contained valid AWS access tokens allowing access to private AWS cloud services," Symantec's Threat Hunter team, a part of Broadcom Software, said in a report shared with The Hacker News.
-Interestingly, a]]></summary>
-        <author>
-            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Infra Used in Cisco Hack Also Targeted Workforce Management Solution]]></title>
-        <id>tag:blogger.com,1999:blog-4802841478634147276.post-8597480206516655548</id>
-        <link href="https://thehackernews.com/2022/09/infra-used-in-cisco-hack-also-targeted.html"/>
-        <updated>2022-09-01T10:03:00.000Z</updated>
-        <summary type="html"><![CDATA[The attack infrastructure used to target Cisco in the May 2022 incident was also employed against an attempted compromise of an unnamed workforce management solutions holding company a month earlier in April 2022.
-Cybersecurity firm Sentire, which disclosed the findings, raised the possibility that the intrusions could be the work of a criminal actor known as mx1r, who is said to be a member of]]></summary>
-        <author>
-            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
         </author>
     </entry>
 </feed>
