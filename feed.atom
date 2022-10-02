@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-10-02T13:44:12.817Z</updated>
+    <updated>2022-10-02T19:23:38.963Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Trend Micro Reports Stolen Identities And Deepfakes]]></title>
+        <id>https://blog.knowbe4.com/trend-micro-reports-stolen-identities-and-deepfakes</id>
+        <link href="https://blog.knowbe4.com/trend-micro-reports-stolen-identities-and-deepfakes"/>
+        <updated>2022-10-02T16:30:31.000Z</updated>
+        <summary type="html"><![CDATA[Researchers at Trend Micro warn that the social engineering potential of deepfakes is becoming an increasing concern. Deepfakes have already been successfully used in attacks, and Trend Micro believes this is just the beginning. The researchers explain that every photo or video of someone on social media can be used to build deepfakes:]]></summary>
+        <author>
+            <name>Stu Sjouwerman</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Reshaping the Threat Landscape: Deepfake Cyberattacks Are Here]]></title>
         <id>https://blog.knowbe4.com/reshaping-the-threat-landscape-deepfake-cyberattacks-are-here</id>
@@ -4569,29 +4579,6 @@ The ransomware infection, which was triggered in the last week of July 2022, ban
         <summary type="html"><![CDATA[Researchers at Vade warn that an email phishing campaign is informing users that their Instagram account is eligible to receive a blue verification badge. If a user clicks the link, they’ll be taken to a spoofed Instagram login page designed to steal their credentials.]]></summary>
         <author>
             <name>Stu Sjouwerman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Samsung Admits Data Breach that Exposed Details of Some U.S. Customers]]></title>
-        <id>tag:blogger.com,1999:blog-4802841478634147276.post-5329444585548149893</id>
-        <link href="https://thehackernews.com/2022/09/samsung-admits-data-breach-that-exposed.html"/>
-        <updated>2022-09-03T04:17:00.000Z</updated>
-        <summary type="html"><![CDATA[South Korean chaebol Samsung on Friday said it experienced a cybersecurity incident that resulted in the unauthorized access of some customer information, the second time this year it has reported such a breach.
-"In late July 2022, an unauthorized third-party acquired information from some of Samsung's U.S. systems," the company disclosed in a notice. "On or around August 4, 2022, we determined]]></summary>
-        <author>
-            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google Release Urgent Chrome Update to Patch New Zero-Day Vulnerability]]></title>
-        <id>tag:blogger.com,1999:blog-4802841478634147276.post-1764200772182692275</id>
-        <link href="https://thehackernews.com/2022/09/google-release-urgent-chrome-update-to.html"/>
-        <updated>2022-09-03T03:56:00.000Z</updated>
-        <summary type="html"><![CDATA[Google on Friday shipped emergency fixes to address a security vulnerability in the Chrome web browser that it said is being actively exploited in the wild.
-The issue, assigned the identifier CVE-2022-3075, concerns a case of insufficient data validating in Mojo, which refers to a collection of runtime libraries that provide a platform-agnostic mechanism for inter-process communication (IPC).
-An]]></summary>
-        <author>
-            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
         </author>
     </entry>
 </feed>
