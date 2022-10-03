@@ -53,6 +53,16 @@
       "siteUrl": "https://us-cert.cisa.gov/",
       "articles": [
         {
+          "id": "18031 at https://us-cert.cisa.gov",
+          "author": "CISA",
+          "description": "Original release date: October 3, 2022\nCISA has issued Binding Operational Directive (BOD) 23-01: Improving Asset Visibility and Vulnerability Detection on Federal Networks, which seeks improve asset visibility and vulnerability enumeration across the federal enterprise.\nAlthough BOD 23-01 is only applicable to federal civilian executive branch (FCEB) agencies, CISA recommends all stakeholders review and incorporate the standards it sets forth. Doing so will ensure asset management and vulnerability detection practices that will strengthen their organization’s cyber resilience.\nThis product is provided subject to this Notification and this Privacy & Use policy.",
+          "link": "https://us-cert.cisa.gov/ncas/current-activity/2022/10/03/cisa-issues-binding-operational-directive-23-01-improving-asset",
+          "publishedOn": "2022-10-03T13:31:47.000Z",
+          "wordCount": 941,
+          "title": "CISA Issues Binding Operational Directive 23-01: Improving Asset Visibility and Vulnerability Detection on Federal Networks",
+          "imageUrl": null
+        },
+        {
           "id": "18029 at https://us-cert.cisa.gov",
           "author": "CISA",
           "description": "Original release date: September 30, 2022\nDrupal has released a security update to address a vulnerability affecting multiple versions of Drupal. An attacker could exploit this vulnerability to access sensitive information. For advisories addressing lower severity vulnerabilities, see Drupal’s Security advisories.\nCISA encourages users and administrators to review Drupal’s security advisory SA-CORE-2022-016 and apply the necessary update.\nThis product is provided subject to this Notification and this Privacy & Use policy.",
@@ -440,6 +450,36 @@
       "siteUrl": "https://www.darkreading.com",
       "articles": [
         {
+          "id": "https://www.darkreading.com/edge-articles/name-that-edge-toon-mumbo-dumbo",
+          "author": "John Klossner, Cartoonist",
+          "description": "Come up with a clever caption, and our panel of experts will reward the winner with a $25 Amazon gift card.",
+          "link": "https://www.darkreading.com/edge-articles/name-that-edge-toon-mumbo-dumbo",
+          "publishedOn": "2022-10-03T16:26:52.000Z",
+          "wordCount": 9204,
+          "title": "Name That Edge Toon: Mumbo Dumbo",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltf97d71984b60d7ed/60b1e88b5d34de550780a96e/Klossner_iwk_photo.gif",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltf97d71984b60d7ed/60b1e88b5d34de550780a96e/Klossner_iwk_photo.gif"
+        },
+        {
+          "id": "https://www.darkreading.com/attacks-breaches/how-aws-cisco-netflix-sap-are-approaching-cybersecurity-awareness-month",
+          "author": "CJ Moses, Chief Information Security Officer, Amazon Web Services",
+          "description": "This year's theme is \"See Yourself in Cyber,\" and these security folks are using the month to reflect on the personal factor in cybersecurity.",
+          "link": "https://www.darkreading.com/attacks-breaches/how-aws-cisco-netflix-sap-are-approaching-cybersecurity-awareness-month",
+          "publishedOn": "2022-10-03T14:00:00.000Z",
+          "wordCount": 14307,
+          "title": "How AWS, Cisco, Netflix & SAP Are Approaching Cybersecurity Awareness Month",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt977981c7d0d235a2/633707d6d517f360dff9e2fc/CJ_Moses_AWS_CISO_2022-310p.jpg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt977981c7d0d235a2/633707d6d517f360dff9e2fc/CJ_Moses_AWS_CISO_2022-310p.jpg"
+        },
+        {
           "id": "https://www.darkreading.com/dr-tech/worried-about-the-exchange-0day-here-s-what-to-do",
           "author": "Dark Reading Staff, Dark Reading",
           "description": "While organizations wait for an official patch for the two zero-day flaws in Microsoft Exchange, they should scan their networks for signs of exploitation and apply these mitigations.",
@@ -468,6 +508,21 @@
             "length": "0"
           },
           "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt8e7bd143d726930b/627271268681151716941064/BeckyB.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/microsoft/the-top-4-mistakes-in-security-programs-to-avoid",
+          "author": "Chris Kirk, Principal Cybersecurity Consultant, Microsoft",
+          "description": "Overlooking even just a single security threat can severely erode a company’s community and consumer confidence, tarnish reputation and brand, negatively impact corporate valuations, provide competitors with an advantage, and create unwanted scrutiny.",
+          "link": "https://www.darkreading.com/microsoft/the-top-4-mistakes-in-security-programs-to-avoid",
+          "publishedOn": "2022-09-30T20:00:00.000Z",
+          "wordCount": 12748,
+          "title": "The Top 4 Mistakes in Security Programs to Avoid",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt8fe4479bc32f84b4/6321f5362769d078008692a9/MS-Security_logo.png",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt8fe4479bc32f84b4/6321f5362769d078008692a9/MS-Security_logo.png"
         },
         {
           "id": "https://www.darkreading.com/threat-intelligence/threat-landscape-deepfake-cyberattacks-are-here",
@@ -3279,6 +3334,16 @@
       "feedUrl": "https://blog.knowbe4.com/rss.xml",
       "siteUrl": "https://blog.knowbe4.com",
       "articles": [
+        {
+          "id": "https://blog.knowbe4.com/heads-up-the-old-nigerian-prince-scam-resurfaces-as-russian-billionaire-fraud",
+          "author": "Stu Sjouwerman",
+          "description": "Scammers continue to get creative when it comes to current events - and this new scam is no exception.",
+          "link": "https://blog.knowbe4.com/heads-up-the-old-nigerian-prince-scam-resurfaces-as-russian-billionaire-fraud",
+          "publishedOn": "2022-10-03T17:08:42.000Z",
+          "wordCount": 2045,
+          "title": "[HEADS UP] The Old \"Nigerian Prince Scam\" resurfaces as \"Russian Billionaire Fraud\"",
+          "imageUrl": "https://blog.knowbe4.com/hubfs/Current%20Event%20Scam.jpg#keepProtocol"
+        },
         {
           "id": "https://blog.knowbe4.com/german-police-collar-alleged-phishing-cybercriminals",
           "author": "Stu Sjouwerman",
