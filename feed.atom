@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-10-04T03:13:52.853Z</updated>
+    <updated>2022-10-04T07:34:35.204Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
@@ -57,6 +57,18 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Comm100 Chat Provider Hijacked to Spread Malware in Supply Chain Attack]]></title>
+        <id>tag:blogger.com,1999:blog-4802841478634147276.post-2287106377224362411</id>
+        <link href="https://thehackernews.com/2022/10/comm100-chat-provider-hijacked-to.html"/>
+        <updated>2022-10-03T14:35:00.000Z</updated>
+        <summary type="html"><![CDATA[A threat actor likely with associations to China has been attributed to a new supply chain attack that involves the use of a trojanized installer for the Comm100 Live Chat application to distribute a JavaScript backdoor.
+Cybersecurity firm CrowdStrike said the attack made use of a signed Comm100 desktop agent app for Windows that was downloadable from the company's website.
+The scale of the]]></summary>
+        <author>
+            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[How AWS, Cisco, Netflix & SAP Are Approaching Cybersecurity Awareness Month]]></title>
         <id>https://www.darkreading.com/attacks-breaches/how-aws-cisco-netflix-sap-are-approaching-cybersecurity-awareness-month</id>
         <link href="https://www.darkreading.com/attacks-breaches/how-aws-cisco-netflix-sap-are-approaching-cybersecurity-awareness-month"/>
@@ -87,6 +99,40 @@ This product is provided subject to this Notification and this Privacy & Use pol
         <summary type="html"><![CDATA[The Bundeskriminalamt (BKA), Germany's federal criminal police, raided three homes on Thursday, September 29th, in the course of an investigation of a cyber criminal operation the BKA says netted approximately €4,000,000 from its victims by using phishing tactics. Two suspects were arrested and charged; the disposition of the third individual will depend upon the results of further investigation.]]></summary>
         <author>
             <name>Stu Sjouwerman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Researchers Link Cheerscrypt Linux-Based Ransomware to Chinese Hackers]]></title>
+        <id>tag:blogger.com,1999:blog-4802841478634147276.post-4290291613995231383</id>
+        <link href="https://thehackernews.com/2022/10/researchers-link-cheerscrypt-linux.html"/>
+        <updated>2022-10-03T12:56:00.000Z</updated>
+        <summary type="html"><![CDATA[The recently discovered Linux-Based ransomware strain known as Cheerscrypt has been attributed to a Chinese cyber espionage group known for operating short-lived ransomware schemes.
+Cybersecurity firm Sygnia attributed the attacks to a threat actor it tracks under the name Emperor Dragonfly, which is also known as Bronze Starlight (Secureworks) and DEV-0401 (Microsoft).
+"Emperor Dragonfly]]></summary>
+        <author>
+            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hackers Exploiting Dell Driver Vulnerability to Deploy Rootkit on Targeted Computers]]></title>
+        <id>tag:blogger.com,1999:blog-4802841478634147276.post-155750692129179442</id>
+        <link href="https://thehackernews.com/2022/10/hackers-exploiting-dell-driver.html"/>
+        <updated>2022-10-03T10:56:00.000Z</updated>
+        <summary type="html"><![CDATA[The North Korea-backed Lazarus Group has been observed deploying a Windows rootkit by taking advantage of an exploit in a Dell firmware driver, highlighting new tactics adopted by the state-sponsored adversary.
+The Bring Your Own Vulnerable Driver (BYOVD) attack, which took place in the autumn of 2021, is another variant of the threat actor's espionage-oriented activity called Operation In(ter)]]></summary>
+        <author>
+            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ex-NSA Employee Arrested for Trying to Sell U.S. Secrets to a Foreign Government]]></title>
+        <id>tag:blogger.com,1999:blog-4802841478634147276.post-6149307598619253057</id>
+        <link href="https://thehackernews.com/2022/10/ex-nsa-employee-arrested-for-trying-to.html"/>
+        <updated>2022-10-03T09:51:00.000Z</updated>
+        <summary type="html"><![CDATA[A former U.S. National Security Agency (NSA) employee has been arrested on charges of attempting to sell classified information to a foreign spy, who was actually an undercover agent working for the Federal Bureau of Investigation (FBI).
+Jareh Sebastian Dalke, 30, was employed at the NSA for less than a month from June 6, 2022, to July 1, 2022, serving as an Information Systems Security Designer]]></summary>
+        <author>
+            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
         </author>
     </entry>
     <entry>
@@ -4662,16 +4708,6 @@ The ransomware infection, which was triggered in the last week of July 2022, ban
 "This new dropper doesn't rely on Accessibility permissions to automatically perform the installation of the dropper Sharkbot malware," NCC Group's Fox-IT said in a report. "Instead, this new version asks the victim to install the]]></summary>
         <author>
             <name>noreply@blogger.com (Ravie Lakshmanan)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Instagram Phishing: Scammers Exploit Instagram Verification Program]]></title>
-        <id>https://blog.knowbe4.com/instagram-phishing-scammers-exploit-instagram-verification-program</id>
-        <link href="https://blog.knowbe4.com/instagram-phishing-scammers-exploit-instagram-verification-program"/>
-        <updated>2022-09-04T16:16:10.000Z</updated>
-        <summary type="html"><![CDATA[Researchers at Vade warn that an email phishing campaign is informing users that their Instagram account is eligible to receive a blue verification badge. If a user clicks the link, they’ll be taken to a spoofed Instagram login page designed to steal their credentials.]]></summary>
-        <author>
-            <name>Stu Sjouwerman</name>
         </author>
     </entry>
 </feed>
