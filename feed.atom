@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-10-05T03:12:34.188Z</updated>
+    <updated>2022-10-05T07:38:10.653Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Mitigation for Exchange Zero-Days Bypassed! Microsoft Issues New Workarounds]]></title>
+        <id>tag:blogger.com,1999:blog-4802841478634147276.post-1960821135571845025</id>
+        <link href="https://thehackernews.com/2022/10/mitigation-for-exchange-zero-days.html"/>
+        <updated>2022-10-05T05:31:00.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft has revised its mitigation measures for the newly disclosed and actively exploited zero-day flaws in Exchange Server after it was found that they could be trivially bypassed.
+The two vulnerabilities, tracked as CVE-2022-41040 and CVE-2022-41082, have been codenamed ProxyNotShell due to similarities to another set of flaws called ProxyShell, which the tech giant resolved last year.]]></summary>
+        <author>
+            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Insecurities of Cybersecurity Success]]></title>
         <id>https://www.darkreading.com/edge-articles/the-insecurities-of-cybersecurity-success</id>
@@ -329,6 +340,16 @@ Based on ProxyShell, this new zero-day abuse risk leverage a chained attack simi
 The company also said it has engaged the services of Deloitte to conduct an external forensic assessment of the attack to "understand how it]]></summary>
         <author>
             <name>noreply@blogger.com (Ravie Lakshmanan)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Growing Reliance on Cloud Brings New Security Challenges]]></title>
+        <id>https://www.darkreading.com/dr-tech/growing-reliance-on-cloud-brings-new-security-challenges</id>
+        <link href="https://www.darkreading.com/dr-tech/growing-reliance-on-cloud-brings-new-security-challenges"/>
+        <updated>2022-10-04T02:00:00.000Z</updated>
+        <summary type="html"><![CDATA[With organizations expanding their cloud operations, cloud security is imperative to protect applications and data.]]></summary>
+        <author>
+            <name>Fahmida Y. Rashid, Managing Editor, Features, Dark Reading</name>
         </author>
     </entry>
     <entry>
