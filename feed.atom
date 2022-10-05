@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-10-04T19:28:04.261Z</updated>
+    <updated>2022-10-05T03:12:34.188Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The Insecurities of Cybersecurity Success]]></title>
+        <id>https://www.darkreading.com/edge-articles/the-insecurities-of-cybersecurity-success</id>
+        <link href="https://www.darkreading.com/edge-articles/the-insecurities-of-cybersecurity-success"/>
+        <updated>2022-10-04T22:35:00.000Z</updated>
+        <summary type="html"><![CDATA[Becoming a big wheel doesn't have to cost your happiness, but grind culture makes that likely.]]></summary>
+        <author>
+            <name>Edge Editors, Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Exposure Management? Understanding the Attacker Takes Center Stage]]></title>
+        <id>https://www.darkreading.com/dr-tech/exposure-management-understanding-the-attacker-takes-center-stage</id>
+        <link href="https://www.darkreading.com/dr-tech/exposure-management-understanding-the-attacker-takes-center-stage"/>
+        <updated>2022-10-04T21:48:35.000Z</updated>
+        <summary type="html"><![CDATA[Announcing its exposure management platform, Tenable joins other companies in offering ways — such as attack surface management — to look at business networks through the eyes of attackers.]]></summary>
+        <author>
+            <name>Robert Lemos, Contributing Writer, Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Updates Mitigation for Exchange Server Zero-Days]]></title>
+        <id>https://www.darkreading.com/remote-workforce/microsoft-updates-mitigation-for-exchange-server-zero-days</id>
+        <link href="https://www.darkreading.com/remote-workforce/microsoft-updates-mitigation-for-exchange-server-zero-days"/>
+        <updated>2022-10-04T20:27:28.000Z</updated>
+        <summary type="html"><![CDATA[Researchers had discovered that Microsoft's original mitigation steps for the so-called "ProxyNotShell" flaws was easily bypassed.]]></summary>
+        <author>
+            <name>Jai Vijayan, Contributing Writer, Dark Reading</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Russian Hacker Arrested in India for Reportedly Helping Students Cheat in JEE-Main Exam]]></title>
         <id>tag:blogger.com,1999:blog-4802841478634147276.post-2469323504878668884</id>
@@ -215,6 +245,16 @@ The malicious version]]></summary>
         <summary type="html"><![CDATA[New analysis highlights just how prevalent ransomware attacks are today, how material the impacts are, whether organizations get their data back, and exactly how these attacks start.]]></summary>
         <author>
             <name>Stu Sjouwerman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Expert Insights: How to Protect Sensitive Machine-Learning Training Data Without Borking It]]></title>
+        <id>https://www.darkreading.com/risk/expert-insights-how-to-protect-sensitive-machine-learning-training-data-without-borking-it</id>
+        <link href="https://www.darkreading.com/risk/expert-insights-how-to-protect-sensitive-machine-learning-training-data-without-borking-it"/>
+        <updated>2022-10-04T13:10:00.000Z</updated>
+        <summary type="html"><![CDATA[Another element of ML security is the data used to train the machine learning system itself.]]></summary>
+        <author>
+            <name>Gary McGraw Ph.D., Co-founder Berryville Institute of Machine Learning</name>
         </author>
     </entry>
     <entry>
@@ -4935,51 +4975,6 @@ The malware comes under the guise of a book titled "The China Freedom Trap," a b
         <updated>2022-09-06T03:11:00.000Z</updated>
         <summary type="html"><![CDATA[QNAP has issued a new advisory urging users of its network-attached storage (NAS) devices to upgrade to the latest version of Photo Station following yet another wave of DeadBolt ransomware attacks in the wild by exploiting a zero-day flaw in the software.
 The Taiwanese company said it detected the attacks on September 3 and that "the campaign appears to target QNAP NAS devices running Photo]]></summary>
-        <author>
-            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TikTok Denies Data Breach Reportedly Exposing Over 2 Billion Users' Information]]></title>
-        <id>tag:blogger.com,1999:blog-4802841478634147276.post-5655250046323486888</id>
-        <link href="https://thehackernews.com/2022/09/tiktok-denies-data-breach-reportedly.html"/>
-        <updated>2022-09-05T14:59:00.000Z</updated>
-        <summary type="html"><![CDATA[Popular short-form social video service TikTok denied reports that it was breached by a hacking group, after it claimed to have gained access to an insecure cloud server.
-"TikTok prioritizes the privacy and security of our users' data," the ByteDance-owned company told The Hacker News. "Our security team investigated these claims and found no evidence of a security breach."
-The denial follows]]></summary>
-        <author>
-            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What Is Your Security Team Profile? Prevention, Detection, or Risk Management]]></title>
-        <id>tag:blogger.com,1999:blog-4802841478634147276.post-8033637948401524156</id>
-        <link href="https://thehackernews.com/2022/09/what-is-your-security-team-profile.html"/>
-        <updated>2022-09-05T14:29:00.000Z</updated>
-        <summary type="html"><![CDATA[Not all security teams are born equal. Each organization has a different objective.
-In cybersecurity, adopting a proactive approach is not just a buzzword. It actually is what makes the difference between staying behind attackers and getting ahead of them. And the solutions to do that do exist!
-Most attacks succeed by taking advantage of common failures in their target's systems. Whether new or]]></summary>
-        <author>
-            <name>noreply@blogger.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[3 Critical Steps for Reducing Cloud Risk]]></title>
-        <id>https://www.darkreading.com/cloud/3-critical-steps-for-reducing-cloud-risk</id>
-        <link href="https://www.darkreading.com/cloud/3-critical-steps-for-reducing-cloud-risk"/>
-        <updated>2022-09-05T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Having a better understanding of how clouds are built, connected, and managed helps organizations mitigate risks and reduce attack surfaces.]]></summary>
-        <author>
-            <name>Randy Armknecht, Managing Director, Protiviti</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ransomware Attackers Abuse Genshin Impact Anti-Cheat System to Disable Antivirus]]></title>
-        <id>tag:blogger.com,1999:blog-4802841478634147276.post-6475586823076097263</id>
-        <link href="https://thehackernews.com/2022/09/ransomware-attackers-abuse-genshin.html"/>
-        <updated>2022-09-05T12:26:00.000Z</updated>
-        <summary type="html"><![CDATA[A vulnerable anti-cheat driver for the Genshin Impact video game has been leveraged by a cybercrime actor to disable antivirus programs to facilitate the deployment of ransomware, according to findings from Trend Micro.
-The ransomware infection, which was triggered in the last week of July 2022, banked on the fact that the driver in question ("mhyprot2.sys") is signed with a valid certificate,]]></summary>
         <author>
             <name>noreply@blogger.com (Ravie Lakshmanan)</name>
         </author>
