@@ -63,6 +63,16 @@
       "siteUrl": "https://us-cert.cisa.gov/",
       "articles": [
         {
+          "id": "18039 at https://us-cert.cisa.gov",
+          "author": "CISA",
+          "description": "Original release date: October 5, 2022\nThe Federal Bureau of Investigation (FBI) and CISA have published a joint public service announcement that:\nAssesses malicious cyber activity aiming to compromise election infrastructure is unlikely to result in large-scale disruptions or prevent voting.\nConfirms “the FBI and CISA have no reporting to suggest cyber activity has ever prevented a registered voter from casting a ballot, compromised the integrity of any ballots cast, or affected the accuracy of voter registration information.”\nThe PSA also describes the extensive safeguards in place to protect election infrastructure and includes recommendations for protecting against election-related cyber threats.\nThis product is provided subject to this Notification and this Privacy & Use policy.",
+          "link": "https://us-cert.cisa.gov/ncas/current-activity/2022/10/05/fbi-and-cisa-publish-psa-malicious-cyber-activity-against-election",
+          "publishedOn": "2022-10-05T13:21:29.000Z",
+          "wordCount": 957,
+          "title": "FBI and CISA Publish a PSA on Malicious Cyber Activity Against Election Infrastructure",
+          "imageUrl": null
+        },
+        {
           "id": "17958 at https://us-cert.cisa.gov",
           "author": "CISA",
           "description": "Original release date: October 4, 2022\nCISA, the Federal Bureau of Investigation (FBI), and the National Security Agency (NSA) have released a joint Cybersecurity Advisory (CSA), Impacket and Exfiltration Tool Used to Steal Sensitive Information from Defense Industrial Base Organization, highlighting advanced persistent threat (APT) activity observed on a Defense Industrial Base (DIB) Sector organization’s enterprise network. ATP actors used the open-source toolkit, Impacket, to gain a foothold within the environment and data exfiltration tool, CovalentStealer, to steal the victim’s sensitive data.\nJoint Cybersecurity Advisory AA22-277A provides the APT actors tactics, techniques, and procedures (TTPs) and indicators of compromise (IOCs). CISA, FBI, and NSA recommend DIB sector and other critical infrastructure organizations implement the mitigations in this CSA to ensure they are managing and reducing the impact of APT cyber threats to their networks.\nThis product is provided subject to this Notification and this Privacy & Use policy.",
@@ -480,12 +490,77 @@
       "siteUrl": "https://www.darkreading.com",
       "articles": [
         {
+          "id": "https://www.darkreading.com/attacks-breaches/cisa-multiple-apt-groups-infiltrate-defense-organization",
+          "author": "Robert Lemos, Contributing Writer, Dark Reading",
+          "description": "Advanced attackers gained access to Microsoft Exchange services, conducted searches of email, and used an open source toolkit to collect data from the network for nearly a year.",
+          "link": "https://www.darkreading.com/attacks-breaches/cisa-multiple-apt-groups-infiltrate-defense-organization",
+          "publishedOn": "2022-10-05T19:25:32.000Z",
+          "wordCount": 13136,
+          "title": "CISA: Multiple APT Groups Infiltrate Defense Organization",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt58481326324d6911/60b1e9a55d34de550780a990/Robert-Lemos.png",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt58481326324d6911/60b1e9a55d34de550780a990/Robert-Lemos.png"
+        },
+        {
+          "id": "https://www.darkreading.com/application-security/secure-your-application-layer-secure-your-business",
+          "author": null,
+          "description": "Users and malicious actors interact with your business through the application layer. Build trust in your software by securing this first line of defense.",
+          "link": "https://www.darkreading.com/application-security/secure-your-application-layer-secure-your-business",
+          "publishedOn": "2022-10-05T18:00:00.000Z",
+          "wordCount": 13507,
+          "title": "Secure Your Application Layer, Secure Your Business",
+          "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/remote-workforce/nullmixer-multi-malware-dropper-code-bomb",
+          "author": "Dark Reading Staff, Dark Reading",
+          "description": "In one shot, Trojan dropper NullMixer installs a suite of downloaders, banking Trojans, stealers, and spyware on victims' systems.",
+          "link": "https://www.darkreading.com/remote-workforce/nullmixer-multi-malware-dropper-code-bomb",
+          "publishedOn": "2022-10-05T17:45:00.000Z",
+          "wordCount": 10992,
+          "title": "NullMixer Dropper Delivers a Multimalware Code Bomb",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blte161b23f0fd3a84b/60b1ea374e7eb868c4c6a293/dr_staff_125x125.jpg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blte161b23f0fd3a84b/60b1ea374e7eb868c4c6a293/dr_staff_125x125.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/attacks-breaches/giving-away-the-keys-to-your-backups-here-s-how-to-keep-out-hackers-",
+          "author": "John Anthony Smith, Chief Listening Officer, CEO, & Founder, Conversant Group/Fenix 24",
+          "description": "As threat actors' sophistication has grown dramatically in the last few years, organizations haven't kept up with implementing the necessary countermeasure controls.",
+          "link": "https://www.darkreading.com/attacks-breaches/giving-away-the-keys-to-your-backups-here-s-how-to-keep-out-hackers-",
+          "publishedOn": "2022-10-05T17:00:00.000Z",
+          "wordCount": 13689,
+          "title": "Giving Away the Keys to Your Backups? Here’s How to Keep Out Hackers",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt0fba2f50a85bd16c/627aab15a2ba2e13583be4dc/jas1_copy.png",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt0fba2f50a85bd16c/627aab15a2ba2e13583be4dc/jas1_copy.png"
+        },
+        {
+          "id": "https://www.darkreading.com/vulnerabilities-threats/netspi-raises-410-million-in-growth-funding-from-kkr",
+          "author": null,
+          "description": "New investment to fuel the offensive security leader's record-breaking growth and innovation pipeline.",
+          "link": "https://www.darkreading.com/vulnerabilities-threats/netspi-raises-410-million-in-growth-funding-from-kkr",
+          "publishedOn": "2022-10-05T15:12:08.000Z",
+          "wordCount": 14487,
+          "title": "NetSPI Raises $410 Million in Growth Funding from KKR",
+          "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
+        },
+        {
           "id": "https://www.darkreading.com/edge-articles/7-practical-considerations-for-effective-threat-intelligence",
           "author": "Steve Durbin, CEO, Information Security Forum",
           "description": "If your security team is considering, planning, building, or operating a threat intelligence capability, this advice can help.",
           "link": "https://www.darkreading.com/edge-articles/7-practical-considerations-for-effective-threat-intelligence",
           "publishedOn": "2022-10-05T14:00:00.000Z",
-          "wordCount": 12017,
+          "wordCount": 12954,
           "title": "7 Practical Considerations for Effective Threat Intelligence",
           "enclosure": {
             "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt664c292a414a1de5/62b3802897f4640d72f8d376/Steve_Durbin_CEO_ISF.jpg",
@@ -500,7 +575,7 @@
           "description": "Executives fear \"malicious insiders\" as top cyber threat to companies, research shows. Reasonable steps to secure and monitor systems may prevent reputational damage but are not enough.",
           "link": "https://www.darkreading.com/vulnerabilities-threats/why-don-t-cisos-trust-their-employees-",
           "publishedOn": "2022-10-05T14:00:00.000Z",
-          "wordCount": 13424,
+          "wordCount": 14463,
           "title": "Why Don't CISOs Trust Their Employees?",
           "enclosure": {
             "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltbe85df4c5fcf2300/624082deb8436f0e0510120e/Alex_Bio_Foto_Photo_2.png",
@@ -515,7 +590,7 @@
           "description": "A novel mobile malware found lurking behind a phone-spoofing app is being distributed via Telegram and a dedicated website, in a broad operation to monitor corporate victims.",
           "link": "https://www.darkreading.com/mobile/ratmilad-spyware-scurries-enterprise-android-phones",
           "publishedOn": "2022-10-05T13:01:39.000Z",
-          "wordCount": 12933,
+          "wordCount": 14043,
           "title": "RatMilad Spyware Scurries onto Enterprise Android Phones",
           "enclosure": {
             "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltbfd004d139d42d70/6303bca6236c2476a257760e/ElizabethMontalbano.jpg",
@@ -5651,39 +5726,6 @@
           "publishedOn": "2022-09-06T08:57:00.000Z",
           "wordCount": null,
           "title": "Integrating Live Patching in SecDevOps Workflows",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "tag:blogger.com,1999:blog-4802841478634147276.post-3254467382554913617",
-          "author": "noreply@blogger.com (Ravie Lakshmanan)",
-          "description": "A new phishing-as-a-service (PhaaS) toolkit dubbed EvilProxy is being advertised on the criminal underground as a means for threat actors to bypass two-factor authentication (2FA) protections employed against online services.\n\"EvilProxy actors are using reverse proxy and cookie injection methods to bypass 2FA authentication – proxifying victim's session,\" Resecurity researchers said in a Monday",
-          "link": "https://thehackernews.com/2022/09/new-evilproxy-phishing-service-allowing.html",
-          "publishedOn": "2022-09-06T06:47:00.000Z",
-          "wordCount": null,
-          "title": "New EvilProxy Phishing Service Allowing Cybercriminals to Bypass 2-Factor Security",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "tag:blogger.com,1999:blog-4802841478634147276.post-5463353012337935946",
-          "author": "noreply@blogger.com (Ravie Lakshmanan)",
-          "description": "A previously undocumented strain of Android spyware with extensive information gathering capabilities has been found disguised as a book likely designed to target the Uyghur community in China.\nThe malware comes under the guise of a book titled \"The China Freedom Trap,\" a biography written by the exiled Uyghur leader Dolkun Isa.\n\n\"In light of the ongoing conflict between the",
-          "link": "https://thehackernews.com/2022/09/researchers-find-new-android-spyware.html",
-          "publishedOn": "2022-09-06T05:18:00.000Z",
-          "wordCount": null,
-          "title": "Researchers Find New Android Spyware Campaign Targeting Uyghur Community",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "tag:blogger.com,1999:blog-4802841478634147276.post-7000429601484600185",
-          "author": "noreply@blogger.com (Ravie Lakshmanan)",
-          "description": "QNAP has issued a new advisory urging users of its network-attached storage (NAS) devices to upgrade to the latest version of Photo Station following yet another wave of DeadBolt ransomware attacks in the wild by exploiting a zero-day flaw in the software.\nThe Taiwanese company said it detected the attacks on September 3 and that \"the campaign appears to target QNAP NAS devices running Photo",
-          "link": "https://thehackernews.com/2022/09/qnap-warns-of-new-deadbolt-ransomware.html",
-          "publishedOn": "2022-09-06T03:11:00.000Z",
-          "wordCount": null,
-          "title": "QNAP Warns of New DeadBolt Ransomware Attacks Exploiting Photo Station Flaw",
           "itunes": {},
           "imageUrl": null
         }

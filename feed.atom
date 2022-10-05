@@ -2,10 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-10-05T14:21:23.596Z</updated>
+    <updated>2022-10-05T19:33:27.309Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[CISA: Multiple APT Groups Infiltrate Defense Organization]]></title>
+        <id>https://www.darkreading.com/attacks-breaches/cisa-multiple-apt-groups-infiltrate-defense-organization</id>
+        <link href="https://www.darkreading.com/attacks-breaches/cisa-multiple-apt-groups-infiltrate-defense-organization"/>
+        <updated>2022-10-05T19:25:32.000Z</updated>
+        <summary type="html"><![CDATA[Advanced attackers gained access to Microsoft Exchange services, conducted searches of email, and used an open source toolkit to collect data from the network for nearly a year.]]></summary>
+        <author>
+            <name>Robert Lemos, Contributing Writer, Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Secure Your Application Layer, Secure Your Business]]></title>
+        <id>https://www.darkreading.com/application-security/secure-your-application-layer-secure-your-business</id>
+        <link href="https://www.darkreading.com/application-security/secure-your-application-layer-secure-your-business"/>
+        <updated>2022-10-05T18:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Users and malicious actors interact with your business through the application layer. Build trust in your software by securing this first line of defense.]]></summary>
+        <author>
+            <name>Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NullMixer Dropper Delivers a Multimalware Code Bomb]]></title>
+        <id>https://www.darkreading.com/remote-workforce/nullmixer-multi-malware-dropper-code-bomb</id>
+        <link href="https://www.darkreading.com/remote-workforce/nullmixer-multi-malware-dropper-code-bomb"/>
+        <updated>2022-10-05T17:45:00.000Z</updated>
+        <summary type="html"><![CDATA[In one shot, Trojan dropper NullMixer installs a suite of downloaders, banking Trojans, stealers, and spyware on victims' systems.]]></summary>
+        <author>
+            <name>Dark Reading Staff, Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Giving Away the Keys to Your Backups? Here’s How to Keep Out Hackers]]></title>
+        <id>https://www.darkreading.com/attacks-breaches/giving-away-the-keys-to-your-backups-here-s-how-to-keep-out-hackers-</id>
+        <link href="https://www.darkreading.com/attacks-breaches/giving-away-the-keys-to-your-backups-here-s-how-to-keep-out-hackers-"/>
+        <updated>2022-10-05T17:00:00.000Z</updated>
+        <summary type="html"><![CDATA[As threat actors' sophistication has grown dramatically in the last few years, organizations haven't kept up with implementing the necessary countermeasure controls.]]></summary>
+        <author>
+            <name>John Anthony Smith, Chief Listening Officer, CEO, &amp; Founder, Conversant Group/Fenix 24</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NetSPI Raises $410 Million in Growth Funding from KKR]]></title>
+        <id>https://www.darkreading.com/vulnerabilities-threats/netspi-raises-410-million-in-growth-funding-from-kkr</id>
+        <link href="https://www.darkreading.com/vulnerabilities-threats/netspi-raises-410-million-in-growth-funding-from-kkr"/>
+        <updated>2022-10-05T15:12:08.000Z</updated>
+        <summary type="html"><![CDATA[New investment to fuel the offensive security leader's record-breaking growth and innovation pipeline.]]></summary>
+        <author>
+            <name>Dark Reading</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[7 Practical Considerations for Effective Threat Intelligence]]></title>
         <id>https://www.darkreading.com/edge-articles/7-practical-considerations-for-effective-threat-intelligence</id>
@@ -44,6 +94,21 @@
         <summary type="html"><![CDATA[The US Internal Revenue Service (IRS) has issued an alert warning of a significant rise in text message phishing scams (smishing) impersonating the IRS since the beginning of the year.]]></summary>
         <author>
             <name>Stu Sjouwerman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FBI and CISA Publish a PSA on Malicious Cyber Activity Against Election Infrastructure]]></title>
+        <id>18039 at https://us-cert.cisa.gov</id>
+        <link href="https://us-cert.cisa.gov/ncas/current-activity/2022/10/05/fbi-and-cisa-publish-psa-malicious-cyber-activity-against-election"/>
+        <updated>2022-10-05T13:21:29.000Z</updated>
+        <summary type="html"><![CDATA[Original release date: October 5, 2022
+The Federal Bureau of Investigation (FBI) and CISA have published a joint public service announcement that:
+Assesses malicious cyber activity aiming to compromise election infrastructure is unlikely to result in large-scale disruptions or prevent voting.
+Confirms “the FBI and CISA have no reporting to suggest cyber activity has ever prevented a registered voter from casting a ballot, compromised the integrity of any ballots cast, or affected the accuracy of voter registration information.”
+The PSA also describes the extensive safeguards in place to protect election infrastructure and includes recommendations for protecting against election-related cyber threats.
+This product is provided subject to this Notification and this Privacy & Use policy.]]></summary>
+        <author>
+            <name>CISA</name>
         </author>
     </entry>
     <entry>
@@ -5070,41 +5135,6 @@ A major security breach or, say, consistent problems in achieving development go
   What’s the smallest variety of CHERI? Read More »]]></summary>
         <author>
             <name>Saar Amar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New EvilProxy Phishing Service Allowing Cybercriminals to Bypass 2-Factor Security]]></title>
-        <id>tag:blogger.com,1999:blog-4802841478634147276.post-3254467382554913617</id>
-        <link href="https://thehackernews.com/2022/09/new-evilproxy-phishing-service-allowing.html"/>
-        <updated>2022-09-06T06:47:00.000Z</updated>
-        <summary type="html"><![CDATA[A new phishing-as-a-service (PhaaS) toolkit dubbed EvilProxy is being advertised on the criminal underground as a means for threat actors to bypass two-factor authentication (2FA) protections employed against online services.
-"EvilProxy actors are using reverse proxy and cookie injection methods to bypass 2FA authentication – proxifying victim's session," Resecurity researchers said in a Monday]]></summary>
-        <author>
-            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Researchers Find New Android Spyware Campaign Targeting Uyghur Community]]></title>
-        <id>tag:blogger.com,1999:blog-4802841478634147276.post-5463353012337935946</id>
-        <link href="https://thehackernews.com/2022/09/researchers-find-new-android-spyware.html"/>
-        <updated>2022-09-06T05:18:00.000Z</updated>
-        <summary type="html"><![CDATA[A previously undocumented strain of Android spyware with extensive information gathering capabilities has been found disguised as a book likely designed to target the Uyghur community in China.
-The malware comes under the guise of a book titled "The China Freedom Trap," a biography written by the exiled Uyghur leader Dolkun Isa.
-
-"In light of the ongoing conflict between the]]></summary>
-        <author>
-            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[QNAP Warns of New DeadBolt Ransomware Attacks Exploiting Photo Station Flaw]]></title>
-        <id>tag:blogger.com,1999:blog-4802841478634147276.post-7000429601484600185</id>
-        <link href="https://thehackernews.com/2022/09/qnap-warns-of-new-deadbolt-ransomware.html"/>
-        <updated>2022-09-06T03:11:00.000Z</updated>
-        <summary type="html"><![CDATA[QNAP has issued a new advisory urging users of its network-attached storage (NAS) devices to upgrade to the latest version of Photo Station following yet another wave of DeadBolt ransomware attacks in the wild by exploiting a zero-day flaw in the software.
-The Taiwanese company said it detected the attacks on September 3 and that "the campaign appears to target QNAP NAS devices running Photo]]></summary>
-        <author>
-            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
         </author>
     </entry>
 </feed>
