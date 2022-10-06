@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-10-05T19:33:27.309Z</updated>
+    <updated>2022-10-06T03:10:58.499Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Relentless Russian Cyberattacks on Ukraine Raise Important Policy Questions]]></title>
+        <id>https://www.darkreading.com/threat-intelligence/russian-cyberattacks-ukraine-raise-important-policy-questions</id>
+        <link href="https://www.darkreading.com/threat-intelligence/russian-cyberattacks-ukraine-raise-important-policy-questions"/>
+        <updated>2022-10-05T21:44:39.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft cybersecurity executive John Hewie explained cyberwar developments and what they mean for Western democratic policy going forward.]]></summary>
+        <author>
+            <name>Tara Seals, Managing Editor, News, Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ikea Smart Light System Flaw Lets Attackers Turn Bulbs on Full Blast]]></title>
+        <id>https://www.darkreading.com/application-security/ikea-smart-light-system-flaw-lets-attackers-turn-bulbs-on-full-blast</id>
+        <link href="https://www.darkreading.com/application-security/ikea-smart-light-system-flaw-lets-attackers-turn-bulbs-on-full-blast"/>
+        <updated>2022-10-05T20:00:00.000Z</updated>
+        <summary type="html"><![CDATA[With just one malformed Zigbee frame, attackers could take over certain Ikea smart lightbulbs, leaving users unable to turn the lights down.]]></summary>
+        <author>
+            <name>Dark Reading Staff, Dark Reading</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CISA: Multiple APT Groups Infiltrate Defense Organization]]></title>
         <id>https://www.darkreading.com/attacks-breaches/cisa-multiple-apt-groups-infiltrate-defense-organization</id>
@@ -5026,115 +5046,6 @@ This product is provided subject to this Notification and this Privacy & Use pol
         <summary type="html"><![CDATA[Investor participation from prior round demonstrates confidence in the company's current and future performance.]]></summary>
         <author>
             <name>Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[REvil Springs Back to Life and Hits a Fortune 500 Company]]></title>
-        <id>https://blog.knowbe4.com/revil-springs-back-to-life-and-hits-a-fortune-500-company</id>
-        <link href="https://blog.knowbe4.com/revil-springs-back-to-life-and-hits-a-fortune-500-company"/>
-        <updated>2022-09-06T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The previously-thought defunct cybercriminal gang appears to not only reopened for business but has re-established themselves as a major threat by touting 400GBs of stolen data.]]></summary>
-        <author>
-            <name>Stu Sjouwerman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Number of Phishing Attack Cases in Japan Hit an All-Time High]]></title>
-        <id>https://blog.knowbe4.com/the-number-of-phishing-attack-cases-in-japan-hit-an-all-time-high</id>
-        <link href="https://blog.knowbe4.com/the-number-of-phishing-attack-cases-in-japan-hit-an-all-time-high"/>
-        <updated>2022-09-06T14:30:00.000Z</updated>
-        <summary type="html"><![CDATA[The number of reported cases of phishing to Japan’s Council of Anti-Phishing reached over 100,000 in July, just as a notice of scams impersonating Japan’s National Tax Agency is released.]]></summary>
-        <author>
-            <name>Stu Sjouwerman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Botnets in the Age of Remote Work]]></title>
-        <id>https://www.darkreading.com/attacks-breaches/botnets-in-the-age-of-remote-work</id>
-        <link href="https://www.darkreading.com/attacks-breaches/botnets-in-the-age-of-remote-work"/>
-        <updated>2022-09-06T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Here are some strategies for protecting the business against botnets poised to take advantage of remote-work vulnerabilities.]]></summary>
-        <author>
-            <name>Ivan Shefrin, Executive Director, Comcast Business Managed Security Services</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EvilProxy Commodifies Reverse-Proxy Tactic for Phishing, Bypassing 2FA]]></title>
-        <id>https://www.darkreading.com/vulnerabilities-threats/evilproxy-commodifies-reverse-proxy-tactic-phishing-bypassing-2fa</id>
-        <link href="https://www.darkreading.com/vulnerabilities-threats/evilproxy-commodifies-reverse-proxy-tactic-phishing-bypassing-2fa"/>
-        <updated>2022-09-06T13:56:23.000Z</updated>
-        <summary type="html"><![CDATA[The phishing-as-a-service offering targets accounts from tech giants, and also has connections to PyPI phishing and the Twilio supply chain attack.]]></summary>
-        <author>
-            <name>Elizabeth Montalbano, Contributor, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AA22-249A: #StopRansomware: Vice Society]]></title>
-        <id>17941 at https://us-cert.cisa.gov</id>
-        <link href="https://us-cert.cisa.gov/ncas/alerts/aa22-249a"/>
-        <updated>2022-09-06T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Original release date: September 6, 2022
-Summary
-Actions to take today to mitigate cyber threats from ransomware:
-known exploited vulnerabilities.
-Note: This joint Cybersecurity Advisory (CSA) is part of an ongoing #StopRansomware effort to publish advisories for network defenders that detail various ransomware variants and ransomware threat actors. These #StopRansomware advisories include recently and historically observed tactics, techniques, and procedures (TTPs) and indicators of compromise (IOCs) to help organizations protect against ransomware. Visit stopransomware.gov to see all #StopRansomware advisories and to learn more about other ransomware threats and no-cost resources.
-The Federal Bureau of Investigation (FBI), the Cybersecurity and Infrastructure Security Agency (CISA), and …]]></summary>
-        <author>
-            <name>CISA</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Defenders Be Prepared: Cyberattacks Surge Against Linux Amid Cloud Migration]]></title>
-        <id>https://www.darkreading.com/application-security/defenders-prepared-cyberattacks-linux-cloud-migration</id>
-        <link href="https://www.darkreading.com/application-security/defenders-prepared-cyberattacks-linux-cloud-migration"/>
-        <updated>2022-09-06T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Ransomware in particular poses a major threat, but security vendors say there has been an increase in Linux-targeted cryptojacking, malware, and vulnerability exploits as well, and defenders need to be ready.]]></summary>
-        <author>
-            <name>Jai Vijayan, Contributing Writer, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Worok Hackers Target High-Profile Asian Companies and Governments]]></title>
-        <id>tag:blogger.com,1999:blog-4802841478634147276.post-6241559108984808509</id>
-        <link href="https://thehackernews.com/2022/09/worok-hackers-target-high-profile-asian.html"/>
-        <updated>2022-09-06T12:29:00.000Z</updated>
-        <summary type="html"><![CDATA[High-profile companies and local governments located primarily in Asia are the subjects of targeted attacks by a previously undocumented espionage group dubbed Worok that has been active since late 2020.
-"Worok's toolset includes a C++ loader CLRLoad, a PowerShell backdoor PowHeartBeat, and a C# loader PNGLoad that uses steganography to extract hidden malicious payloads from PNG files," ESET]]></summary>
-        <author>
-            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TA505 Hackers Using TeslaGun Panel to Manage ServHelper Backdoor Attacks]]></title>
-        <id>tag:blogger.com,1999:blog-4802841478634147276.post-7372769399049044662</id>
-        <link href="https://thehackernews.com/2022/09/ta505-hackers-using-teslagun-panel-to.html"/>
-        <updated>2022-09-06T09:57:00.000Z</updated>
-        <summary type="html"><![CDATA[Cybersecurity researchers have offered insight into a previously undocumented software control panel used by a financially motivated threat group known as TA505.
-"The group frequently changes its malware attack strategies in response to global cybercrime trends," Swiss cybersecurity firm PRODAFT said in a report shared with The Hacker News. "It opportunistically adopts new technologies in order]]></summary>
-        <author>
-            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Integrating Live Patching in SecDevOps Workflows]]></title>
-        <id>tag:blogger.com,1999:blog-4802841478634147276.post-4632311882465213810</id>
-        <link href="https://thehackernews.com/2022/09/integrating-live-patching-in-secdevops.html"/>
-        <updated>2022-09-06T08:57:00.000Z</updated>
-        <summary type="html"><![CDATA[SecDevOps is, just like DevOps, a transformational change that organizations undergo at some point during their lifetime. Just like many other big changes, SecDevOps is commonly adopted after a reality check of some kind: a big damaging cybersecurity incident, for example.
-A major security breach or, say, consistent problems in achieving development goals signals to organizations that the]]></summary>
-        <author>
-            <name>noreply@blogger.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What’s the smallest variety of CHERI?]]></title>
-        <id>https://msrc-blog.microsoft.com/?p=14635</id>
-        <link href="https://msrc-blog.microsoft.com/2022/09/06/whats-the-smallest-variety-of-cheri/"/>
-        <updated>2022-09-06T08:09:36.000Z</updated>
-        <summary type="html"><![CDATA[The Portmeirion project is a collaboration between Microsoft Research Cambridge, Microsoft Security Response Center, and Azure Silicon Engineering & Solutions. Over the past year, we have been exploring how to scale the key ideas from CHERI down to tiny cores on the scale of the cheapest microcontrollers. These cores are very different from the desktop …
-  What’s the smallest variety of CHERI? Read More »]]></summary>
-        <author>
-            <name>Saar Amar</name>
         </author>
     </entry>
 </feed>

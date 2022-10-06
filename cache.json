@@ -44,16 +44,6 @@
           "wordCount": 4400,
           "title": "AA22-257A: Iranian Islamic Revolutionary Guard Corps-Affiliated Cyber Actors Exploiting Vulnerabilities for Data Extortion and Disk Encryption for Ransom Operations",
           "imageUrl": null
-        },
-        {
-          "id": "17941 at https://us-cert.cisa.gov",
-          "author": "CISA",
-          "description": "Original release date: September 6, 2022\nSummary\nActions to take today to mitigate cyber threats from ransomware:\nknown exploited vulnerabilities.\nNote: This joint Cybersecurity Advisory (CSA) is part of an ongoing #StopRansomware effort to publish advisories for network defenders that detail various ransomware variants and ransomware threat actors. These #StopRansomware advisories include recently and historically observed tactics, techniques, and procedures (TTPs) and indicators of compromise (IOCs) to help organizations protect against ransomware. Visit stopransomware.gov to see all #StopRansomware advisories and to learn more about other ransomware threats and no-cost resources.\nThe Federal Bureau of Investigation (FBI), the Cybersecurity and Infrastructure Security Agency (CISA), and …",
-          "link": "https://us-cert.cisa.gov/ncas/alerts/aa22-249a",
-          "publishedOn": "2022-09-06T13:00:00.000Z",
-          "wordCount": 3323,
-          "title": "AA22-249A: #StopRansomware: Vice Society",
-          "imageUrl": null
         }
       ]
     },
@@ -489,6 +479,36 @@
       "feedUrl": "https://www.darkreading.com/rss.xml",
       "siteUrl": "https://www.darkreading.com",
       "articles": [
+        {
+          "id": "https://www.darkreading.com/threat-intelligence/russian-cyberattacks-ukraine-raise-important-policy-questions",
+          "author": "Tara Seals, Managing Editor, News, Dark Reading",
+          "description": "Microsoft cybersecurity executive John Hewie explained cyberwar developments and what they mean for Western democratic policy going forward.",
+          "link": "https://www.darkreading.com/threat-intelligence/russian-cyberattacks-ukraine-raise-important-policy-questions",
+          "publishedOn": "2022-10-05T21:44:39.000Z",
+          "wordCount": 14024,
+          "title": "Relentless Russian Cyberattacks on Ukraine Raise Important Policy Questions",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltea67136f81f32eca/626a9eb4726e3315b16b3c64/Tara-Seals-Headshot2.jpg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltea67136f81f32eca/626a9eb4726e3315b16b3c64/Tara-Seals-Headshot2.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/application-security/ikea-smart-light-system-flaw-lets-attackers-turn-bulbs-on-full-blast",
+          "author": "Dark Reading Staff, Dark Reading",
+          "description": "With just one malformed Zigbee frame, attackers could take over certain Ikea smart lightbulbs, leaving users unable to turn the lights down.",
+          "link": "https://www.darkreading.com/application-security/ikea-smart-light-system-flaw-lets-attackers-turn-bulbs-on-full-blast",
+          "publishedOn": "2022-10-05T20:00:00.000Z",
+          "wordCount": 10892,
+          "title": "Ikea Smart Light System Flaw Lets Attackers Turn Bulbs on Full Blast",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blte161b23f0fd3a84b/60b1ea374e7eb868c4c6a293/dr_staff_125x125.jpg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blte161b23f0fd3a84b/60b1ea374e7eb868c4c6a293/dr_staff_125x125.jpg"
+        },
         {
           "id": "https://www.darkreading.com/attacks-breaches/cisa-multiple-apt-groups-infiltrate-defense-organization",
           "author": "Robert Lemos, Contributing Writer, Dark Reading",
@@ -3543,51 +3563,6 @@
           "wordCount": 12005,
           "title": "Cymulate Raises $70M Series D Funding for Continuous Security Posture Testing",
           "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
-        },
-        {
-          "id": "https://www.darkreading.com/attacks-breaches/botnets-in-the-age-of-remote-work",
-          "author": "Ivan Shefrin, Executive Director, Comcast Business Managed Security Services",
-          "description": "Here are some strategies for protecting the business against botnets poised to take advantage of remote-work vulnerabilities.",
-          "link": "https://www.darkreading.com/attacks-breaches/botnets-in-the-age-of-remote-work",
-          "publishedOn": "2022-09-06T14:00:00.000Z",
-          "wordCount": 12055,
-          "title": "Botnets in the Age of Remote Work",
-          "enclosure": {
-            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt4c7c453681035f74/63125e9cf948c06df05c2f3e/Ivan_Shefrin.png",
-            "type": "image/*",
-            "length": "0"
-          },
-          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt4c7c453681035f74/63125e9cf948c06df05c2f3e/Ivan_Shefrin.png"
-        },
-        {
-          "id": "https://www.darkreading.com/vulnerabilities-threats/evilproxy-commodifies-reverse-proxy-tactic-phishing-bypassing-2fa",
-          "author": "Elizabeth Montalbano, Contributor, Dark Reading",
-          "description": "The phishing-as-a-service offering targets accounts from tech giants, and also has connections to PyPI phishing and the Twilio supply chain attack.",
-          "link": "https://www.darkreading.com/vulnerabilities-threats/evilproxy-commodifies-reverse-proxy-tactic-phishing-bypassing-2fa",
-          "publishedOn": "2022-09-06T13:56:23.000Z",
-          "wordCount": 12435,
-          "title": "EvilProxy Commodifies Reverse-Proxy Tactic for Phishing, Bypassing 2FA",
-          "enclosure": {
-            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltbfd004d139d42d70/6303bca6236c2476a257760e/ElizabethMontalbano.jpg",
-            "type": "image/*",
-            "length": "0"
-          },
-          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltbfd004d139d42d70/6303bca6236c2476a257760e/ElizabethMontalbano.jpg"
-        },
-        {
-          "id": "https://www.darkreading.com/application-security/defenders-prepared-cyberattacks-linux-cloud-migration",
-          "author": "Jai Vijayan, Contributing Writer, Dark Reading",
-          "description": "Ransomware in particular poses a major threat, but security vendors say there has been an increase in Linux-targeted cryptojacking, malware, and vulnerability exploits as well, and defenders need to be ready.",
-          "link": "https://www.darkreading.com/application-security/defenders-prepared-cyberattacks-linux-cloud-migration",
-          "publishedOn": "2022-09-06T13:00:00.000Z",
-          "wordCount": 12369,
-          "title": "Defenders Be Prepared: Cyberattacks Surge Against Linux Amid Cloud Migration",
-          "enclosure": {
-            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt02d79fb9a44a4258/60b1e9dd2a25046b35110696/Jai-Vijayan.jpeg",
-            "type": "image/*",
-            "length": "0"
-          },
-          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt02d79fb9a44a4258/60b1e9dd2a25046b35110696/Jai-Vijayan.jpeg"
         }
       ]
     },
@@ -3658,16 +3633,6 @@
           "publishedOn": "2022-09-07T20:56:09.000Z",
           "wordCount": 2647,
           "title": "Curious, Innovative, Creative, Community Driven: Meet Cyb3rWard0g, Roberto Rodriquez",
-          "imageUrl": null
-        },
-        {
-          "id": "https://msrc-blog.microsoft.com/?p=14635",
-          "author": "Saar Amar",
-          "description": "The Portmeirion project is a collaboration between Microsoft Research Cambridge, Microsoft Security Response Center, and Azure Silicon Engineering & Solutions. Over the past year, we have been exploring how to scale the key ideas from CHERI down to tiny cores on the scale of the cheapest microcontrollers. These cores are very different from the desktop …\n  What’s the smallest variety of CHERI? Read More »",
-          "link": "https://msrc-blog.microsoft.com/2022/09/06/whats-the-smallest-variety-of-cheri/",
-          "publishedOn": "2022-09-06T08:09:36.000Z",
-          "wordCount": 5793,
-          "title": "What’s the smallest variety of CHERI?",
           "imageUrl": null
         }
       ]
@@ -4293,26 +4258,6 @@
           "wordCount": 2037,
           "title": "Register for KB4-CON EMEA 2022 Now!",
           "imageUrl": "https://blog.knowbe4.com/hubfs/EMEA-2022-share-image-SM%20%281%29%20%281%29.jpg#keepProtocol"
-        },
-        {
-          "id": "https://blog.knowbe4.com/revil-springs-back-to-life-and-hits-a-fortune-500-company",
-          "author": "Stu Sjouwerman",
-          "description": "The previously-thought defunct cybercriminal gang appears to not only reopened for business but has re-established themselves as a major threat by touting 400GBs of stolen data.",
-          "link": "https://blog.knowbe4.com/revil-springs-back-to-life-and-hits-a-fortune-500-company",
-          "publishedOn": "2022-09-06T15:00:00.000Z",
-          "wordCount": 2040,
-          "title": "REvil Springs Back to Life and Hits a Fortune 500 Company",
-          "imageUrl": "https://blog.knowbe4.com/hubfs/ransomware-screen-lock.jpg#keepProtocol"
-        },
-        {
-          "id": "https://blog.knowbe4.com/the-number-of-phishing-attack-cases-in-japan-hit-an-all-time-high",
-          "author": "Stu Sjouwerman",
-          "description": "The number of reported cases of phishing to Japan’s Council of Anti-Phishing reached over 100,000 in July, just as a notice of scams impersonating Japan’s National Tax Agency is released.",
-          "link": "https://blog.knowbe4.com/the-number-of-phishing-attack-cases-in-japan-hit-an-all-time-high",
-          "publishedOn": "2022-09-06T14:30:00.000Z",
-          "wordCount": 2050,
-          "title": "The Number of Phishing Attack Cases in Japan Hit an All-Time High",
-          "imageUrl": "https://blog.knowbe4.com/hubfs/Japan-flag-binary-code-phishing.jpg#keepProtocol"
         }
       ]
     },
@@ -5693,39 +5638,6 @@
           "publishedOn": "2022-09-07T05:28:00.000Z",
           "wordCount": null,
           "title": "Critical RCE Vulnerability Affects Zyxel NAS Devices — Firmware Patch Released",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "tag:blogger.com,1999:blog-4802841478634147276.post-6241559108984808509",
-          "author": "noreply@blogger.com (Ravie Lakshmanan)",
-          "description": "High-profile companies and local governments located primarily in Asia are the subjects of targeted attacks by a previously undocumented espionage group dubbed Worok that has been active since late 2020.\n\"Worok's toolset includes a C++ loader CLRLoad, a PowerShell backdoor PowHeartBeat, and a C# loader PNGLoad that uses steganography to extract hidden malicious payloads from PNG files,\" ESET",
-          "link": "https://thehackernews.com/2022/09/worok-hackers-target-high-profile-asian.html",
-          "publishedOn": "2022-09-06T12:29:00.000Z",
-          "wordCount": null,
-          "title": "Worok Hackers Target High-Profile Asian Companies and Governments",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "tag:blogger.com,1999:blog-4802841478634147276.post-7372769399049044662",
-          "author": "noreply@blogger.com (Ravie Lakshmanan)",
-          "description": "Cybersecurity researchers have offered insight into a previously undocumented software control panel used by a financially motivated threat group known as TA505.\n\"The group frequently changes its malware attack strategies in response to global cybercrime trends,\" Swiss cybersecurity firm PRODAFT said in a report shared with The Hacker News. \"It opportunistically adopts new technologies in order",
-          "link": "https://thehackernews.com/2022/09/ta505-hackers-using-teslagun-panel-to.html",
-          "publishedOn": "2022-09-06T09:57:00.000Z",
-          "wordCount": null,
-          "title": "TA505 Hackers Using TeslaGun Panel to Manage ServHelper Backdoor Attacks",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "tag:blogger.com,1999:blog-4802841478634147276.post-4632311882465213810",
-          "author": "noreply@blogger.com (The Hacker News)",
-          "description": "SecDevOps is, just like DevOps, a transformational change that organizations undergo at some point during their lifetime. Just like many other big changes, SecDevOps is commonly adopted after a reality check of some kind: a big damaging cybersecurity incident, for example.\nA major security breach or, say, consistent problems in achieving development goals signals to organizations that the",
-          "link": "https://thehackernews.com/2022/09/integrating-live-patching-in-secdevops.html",
-          "publishedOn": "2022-09-06T08:57:00.000Z",
-          "wordCount": null,
-          "title": "Integrating Live Patching in SecDevOps Workflows",
           "itunes": {},
           "imageUrl": null
         }
