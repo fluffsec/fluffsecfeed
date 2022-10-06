@@ -6,6 +6,16 @@
       "siteUrl": "https://us-cert.cisa.gov/",
       "articles": [
         {
+          "id": "18045 at https://us-cert.cisa.gov",
+          "author": "CISA",
+          "description": "Original release date: October 6, 2022\nSummary\nThis joint Cybersecurity Advisory (CSA) provides the top Common Vulnerabilities and Exposures (CVEs) used since 2020 by People’s Republic of China (PRC) state-sponsored cyber actors as assessed by the National Security Agency (NSA), Cybersecurity and Infrastructure Security Agency (CISA), and Federal Bureau of Investigation (FBI). PRC state-sponsored cyber actors continue to exploit known vulnerabilities to actively target U.S. and allied networks as well as software and hardware companies to steal intellectual property and develop access into sensitive networks.\nThis joint CSA builds on previous NSA, CISA, and FBI reporting to inform federal and state, local, tribal and territorial (SLTT) government; critical infrastructure, including the Def…",
+          "link": "https://us-cert.cisa.gov/ncas/alerts/aa22-279a",
+          "publishedOn": "2022-10-06T17:08:51.000Z",
+          "wordCount": 3568,
+          "title": "AA22-279A: Top CVEs Actively Exploited By People’s Republic of China State-Sponsored Cyber Actors",
+          "imageUrl": null
+        },
+        {
           "id": "17956 at https://us-cert.cisa.gov",
           "author": "CISA",
           "description": "Original release date: October 4, 2022\nSummary\nActions to Help Protect Against Russian State-Sponsored Malicious Cyber Activity:\nFrom November 2021 through January 2022, the Cybersecurity and Infrastructure Security Agency (CISA) responded to advanced persistent threat (APT) activity on a Defense Industrial Base (DIB) Sector organization’s enterprise network. During incident response activities, CISA uncovered that likely multiple APT groups compromised the organization’s network, and some APT actors had long-term access to the environment. APT actors used an open-source toolkit called Impacket to gain their foothold within the environment and further compromise the network, and also used a custom data exfiltration tool, CovalentStealer, to steal the victim’s sensitive data.\nThis joint Cyb…",
@@ -52,6 +62,36 @@
       "feedUrl": "https://us-cert.cisa.gov/ncas/current-activity.xml",
       "siteUrl": "https://us-cert.cisa.gov/",
       "articles": [
+        {
+          "id": "18046 at https://us-cert.cisa.gov",
+          "author": "CISA",
+          "description": "Original release date: October 6, 2022\nCISA, the Federal Bureau of Investigation (FBI), and the National Security Agency (NSA) have released a joint Cybersecurity Advisory (CSA) providing the top Common Vulnerabilities and Exposures (CVEs) used since 2020 by People’s Republic of China (PRC) state-sponsored cyber actors. PRC state-sponsored cyber actors continue to exploit known vulnerabilities to actively target U.S. and allied networks, including software and hardware companies to illegally obtain intellectual property and develop access into sensitive networks.\nCISA, the FBI, and the NSA urge U.S. and allied governments, critical infrastructure, and private sector organizations to apply the recommendations listed in the Top CVEs Actively Exploited by People’s Republic of China State-Sponsored Cyber Actors to increase their defensive posture and reduce the threat of compromise from PRC state-sponsored malicious cyber actors.\nFor more information on PRC state-sponsored malicious cyber activity, see CISA’s China Cyber Threat Overview and Advisories webpage, the FBI’s Industry Alerts, and the NSA’s Cybersecurity Advisories & Guidance.\nThis product is provided subject to this Notification and this Privacy & Use policy.",
+          "link": "https://us-cert.cisa.gov/ncas/current-activity/2022/10/06/top-cves-actively-exploited-peoples-republic-china-state-sponsored",
+          "publishedOn": "2022-10-06T17:48:09.000Z",
+          "wordCount": 1015,
+          "title": "Top CVEs Actively Exploited by People’s Republic of China State-Sponsored Cyber Actors",
+          "imageUrl": null
+        },
+        {
+          "id": "18044 at https://us-cert.cisa.gov",
+          "author": "CISA",
+          "description": "Original release date: October 6, 2022\nCisco has released security updates to address vulnerabilities in multiple Cisco products. A remote attacker could exploit some of these vulnerabilities to take control of an affected system. For updates addressing lower severity vulnerabilities, see the Cisco Security Advisories page. \nCISA encourages users and administrators to review the following advisories and apply the necessary updates:\n•    Cisco Enterprise NFV Infrastructure Software Improper Signature Verification Vulnerability cisco-sa-NFVIS-ISV-BQrvEv2h \ncisco-sa-expressway-csrf-sqpsSfY6\nThis product is provided subject to this Notification and this Privacy & Use policy.",
+          "link": "https://us-cert.cisa.gov/ncas/current-activity/2022/10/06/cisco-releases-security-updates-multiple-products",
+          "publishedOn": "2022-10-06T14:23:24.000Z",
+          "wordCount": 924,
+          "title": "Cisco Releases Security Updates for Multiple Products",
+          "imageUrl": null
+        },
+        {
+          "id": "18040 at https://us-cert.cisa.gov",
+          "author": "CISA",
+          "description": "Original release date: October 6, 2022\nCISA released two (2) Industrial Control Systems (ICS) advisories on October 06, 2022. These advisories provide timely information about current security issues, vulnerabilities, and exploits surrounding ICS.\nCISA encourages users and administrators to review the newly released ICS advisories for technical details and mitigations:\nICSA-22-279-01 Rockwell Automation FactoryTalk VantagePoint\nICSA-22-279-02 HIWIN HRSS\nThis product is provided subject to this Notification and this Privacy & Use policy.",
+          "link": "https://us-cert.cisa.gov/ncas/current-activity/2022/10/06/cisa-releases-two-industrial-control-systems-advisories",
+          "publishedOn": "2022-10-06T14:00:00.000Z",
+          "wordCount": 898,
+          "title": "CISA Releases Two Industrial Control Systems Advisories",
+          "imageUrl": null
+        },
         {
           "id": "18039 at https://us-cert.cisa.gov",
           "author": "CISA",
@@ -459,6 +499,66 @@
       "feedUrl": "https://www.darkreading.com/rss.xml",
       "siteUrl": "https://www.darkreading.com",
       "articles": [
+        {
+          "id": "https://www.darkreading.com/remote-workforce/survey-shows-us-consumers-are-becoming-more-security-and-privacy-conscious",
+          "author": "Jai Vijayan, Contributing Writer, Dark Reading",
+          "description": "The trend, spotted by Consumer Reports, could mean good news for organizations struggling to contain remote work challenges.",
+          "link": "https://www.darkreading.com/remote-workforce/survey-shows-us-consumers-are-becoming-more-security-and-privacy-conscious",
+          "publishedOn": "2022-10-06T18:30:00.000Z",
+          "wordCount": 12549,
+          "title": "US Consumers Are Finally Becoming More Security & Privacy Conscious",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt02d79fb9a44a4258/60b1e9dd2a25046b35110696/Jai-Vijayan.jpeg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt02d79fb9a44a4258/60b1e9dd2a25046b35110696/Jai-Vijayan.jpeg"
+        },
+        {
+          "id": "https://www.darkreading.com/remote-workforce/hackers-have-it-out-for-microsoft-email-defenses",
+          "author": "Tara Seals, Managing Editor, News, Dark Reading",
+          "description": "Cybercriminals are focusing more and more on crafting special email attacks that evade Microsoft Defender and Office security.",
+          "link": "https://www.darkreading.com/remote-workforce/hackers-have-it-out-for-microsoft-email-defenses",
+          "publishedOn": "2022-10-06T15:35:12.000Z",
+          "wordCount": 10109,
+          "title": "Hackers Have It Out for Microsoft Email Defenses",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltea67136f81f32eca/626a9eb4726e3315b16b3c64/Tara-Seals-Headshot2.jpg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltea67136f81f32eca/626a9eb4726e3315b16b3c64/Tara-Seals-Headshot2.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/remote-workforce/russia-linked-cybercrime-group-hawks-combo-of-malicious-services-with-lilithbot",
+          "author": "Elizabeth Montalbano, Contributor, Dark Reading",
+          "description": "The malware-as-a-service group Eternity is selling a one-stop shop for various malware modules it's been distributing individually via a subscription model on Telegram.",
+          "link": "https://www.darkreading.com/remote-workforce/russia-linked-cybercrime-group-hawks-combo-of-malicious-services-with-lilithbot",
+          "publishedOn": "2022-10-06T15:15:20.000Z",
+          "wordCount": 11651,
+          "title": "Russia-Linked Cybercrime Group Hawks Combo of Malicious Services With LilithBot",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltbfd004d139d42d70/6303bca6236c2476a257760e/ElizabethMontalbano.jpg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltbfd004d139d42d70/6303bca6236c2476a257760e/ElizabethMontalbano.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/careers-and-people/school-is-in-session-5-lessons-for-future-cybersecurity-pros",
+          "author": "Chris Jacob, VP, Threat Intelligence Engineering at ThreatQuotient",
+          "description": "Opportunities in the field continue to grow — and show no signs of slowing down.",
+          "link": "https://www.darkreading.com/careers-and-people/school-is-in-session-5-lessons-for-future-cybersecurity-pros",
+          "publishedOn": "2022-10-06T14:00:00.000Z",
+          "wordCount": 12000,
+          "title": "School Is in Session: 5 Lessons for Future Cybersecurity Pros",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltad067d0fcc2e9ee8/6169c9273a73be248fb66a52/C_Jacob.png",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltad067d0fcc2e9ee8/6169c9273a73be248fb66a52/C_Jacob.png"
+        },
         {
           "id": "https://www.darkreading.com/vulnerabilities-threats/7-iot-devices-that-make-security-pros-cringe",
           "author": "Ericka Chickowski, Contributing Writer, Dark Reading",
@@ -3458,21 +3558,6 @@
             "length": "0"
           },
           "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltd9e6c0fc053186dc/61ad01a539b865681b0dc014/Tim_Ball.jpg"
-        },
-        {
-          "id": "https://www.darkreading.com/vulnerabilities-threats/everything-you-need-to-know-about-blackcat-alphav-",
-          "author": "Aaron Sandeen, CEO & Co-Founder, Cyber Security Works",
-          "description": "A relative newcomer to the ransomware scene, the BlackCat group quickly gained notoriety and may be associated with other APT groups like Conti and DarkSide.",
-          "link": "https://www.darkreading.com/vulnerabilities-threats/everything-you-need-to-know-about-blackcat-alphav-",
-          "publishedOn": "2022-09-07T07:00:00.000Z",
-          "wordCount": 11567,
-          "title": "Everything You Need To Know About BlackCat (AlphaV)",
-          "enclosure": {
-            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt207a89fee76630be/6319284a443e8155087ee39f/Aaron_Sandeen_copy.png",
-            "type": "image/*",
-            "length": "0"
-          },
-          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt207a89fee76630be/6319284a443e8155087ee39f/Aaron_Sandeen_copy.png"
         }
       ]
     },
@@ -3579,6 +3664,16 @@
       "feedUrl": "https://blog.knowbe4.com/rss.xml",
       "siteUrl": "https://blog.knowbe4.com",
       "articles": [
+        {
+          "id": "https://blog.knowbe4.com/knowbe4-wins-trustradius-tech-cares-award-2022",
+          "author": "Stu Sjouwerman",
+          "description": "For the third consecutive year, we received a Tech Cares Award from TrustRadius! This third annual award celebrates companies that have gone above and beyond to provide strong Corporate Social Responsibility (CSR).",
+          "link": "https://blog.knowbe4.com/knowbe4-wins-trustradius-tech-cares-award-2022",
+          "publishedOn": "2022-10-06T18:52:36.000Z",
+          "wordCount": 2038,
+          "title": "KnowBe4 Celebrates Winning a Tech Cares Award From TrustRadius 2022",
+          "imageUrl": "https://blog.knowbe4.com/hubfs/KnowBe4%20Tech%20Cares%202022.png#keepProtocol"
+        },
         {
           "id": "https://blog.knowbe4.com/cybercriminal-faces-prison-time-over-romance-scams",
           "author": "Stu Sjouwerman",
@@ -4176,6 +4271,39 @@
       "feedUrl": "https://thehackernews.com/feeds/posts/default",
       "siteUrl": "https://thehackernews.com/",
       "articles": [
+        {
+          "id": "tag:blogger.com,1999:blog-4802841478634147276.post-6589400791118026834",
+          "author": "noreply@blogger.com (Ravie Lakshmanan)",
+          "description": "The threat actor behind the malware-as-a-service (MaaS) called Eternity has been linked to new piece of malware called LilithBot.\n\"It has advanced capabilities to be used as a miner, stealer, and a clipper along with its persistence mechanisms,\" Zscaler ThreatLabz researchers Shatak Jain and Aditya Sharma said in a Wednesday report.\n\"The group has been continuously enhancing the malware, adding",
+          "link": "https://thehackernews.com/2022/10/eternity-group-hackers-offering-new.html",
+          "publishedOn": "2022-10-06T12:57:00.000Z",
+          "wordCount": null,
+          "title": "Eternity Group Hackers Offering New LilithBot Malware as a Service to Cybercriminals",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "tag:blogger.com,1999:blog-4802841478634147276.post-317145206708100084",
+          "author": "noreply@blogger.com (Ravie Lakshmanan)",
+          "description": "Security researchers have shared details about a now-addressed security flaw in Apple's macOS operating system that could be potentially exploited to run malicious applications in a manner that can bypass Apple's security measures.\nThe vulnerability, tracked as CVE-2022-32910, is rooted in the built-in Archive Utility and \"could lead to the execution of an unsigned and unnotarized application",
+          "link": "https://thehackernews.com/2022/10/details-released-for-recently-patched.html",
+          "publishedOn": "2022-10-06T12:20:00.000Z",
+          "wordCount": null,
+          "title": "Details Released for Recently Patched new macOS Archive Utility Vulnerability",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "tag:blogger.com,1999:blog-4802841478634147276.post-5717104029920257850",
+          "author": "noreply@blogger.com (The Hacker News)",
+          "description": "It's been a year since the release of The Ultimate SaaS Security Posture Management (SSPM) Checklist. If SSPM is on your radar, here's the 2023 checklist edition, which covers the critical features and capabilities when evaluating a solution.\nThe ease with which SaaS apps can be deployed and adopted today is remarkable, but it has become a double-edged sword. On the one hand, apps are quickly",
+          "link": "https://thehackernews.com/2022/10/the-ultimate-saas-security-posture.html",
+          "publishedOn": "2022-10-06T12:04:00.000Z",
+          "wordCount": null,
+          "title": "The Ultimate SaaS Security Posture Management Checklist, 2023 Edition",
+          "itunes": {},
+          "imageUrl": null
+        },
         {
           "id": "tag:blogger.com,1999:blog-4802841478634147276.post-3963853022531611514",
           "author": "noreply@blogger.com (Ravie Lakshmanan)",
@@ -5548,28 +5676,6 @@
           "publishedOn": "2022-09-07T12:00:00.000Z",
           "wordCount": null,
           "title": "4 Key Takeaways from \"XDR is the Perfect Solution for SMEs\" webinar",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "tag:blogger.com,1999:blog-4802841478634147276.post-1959766734622041286",
-          "author": "noreply@blogger.com (Ravie Lakshmanan)",
-          "description": "A variant of the Mirai botnet known as MooBot is co-opting vulnerable D-Link devices into an army of denial-of-service bots by taking advantage of multiple exploits.\n\"If the devices are compromised, they will be fully controlled by attackers, who could utilize those devices to conduct further attacks such as distributed denial-of-service (DDoS) attacks,\" Palo Alto Networks Unit 42 said in a",
-          "link": "https://thehackernews.com/2022/09/mirai-variant-moobot-botnet-exploiting.html",
-          "publishedOn": "2022-09-07T06:57:00.000Z",
-          "wordCount": null,
-          "title": "Mirai Variant MooBot Botnet Exploiting D-Link Router Vulnerabilities",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "tag:blogger.com,1999:blog-4802841478634147276.post-2334830920612280255",
-          "author": "noreply@blogger.com (Ravie Lakshmanan)",
-          "description": "Networking equipment maker Zyxel has released patches for a critical security flaw impacting its network-attached storage (NAS) devices.\nTracked as CVE-2022-34747 (CVSS score: 9.8), the issue relates to a \"format string vulnerability\" affecting NAS326, NAS540, and NAS542 models. Zyxel credited researcher Shaposhnikov Ilya for reporting the flaw.\n\"A format string vulnerability was found in a",
-          "link": "https://thehackernews.com/2022/09/critical-rce-vulnerability-affects.html",
-          "publishedOn": "2022-09-07T05:28:00.000Z",
-          "wordCount": null,
-          "title": "Critical RCE Vulnerability Affects Zyxel NAS Devices — Firmware Patch Released",
           "itunes": {},
           "imageUrl": null
         }
