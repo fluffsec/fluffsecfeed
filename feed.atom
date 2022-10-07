@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-10-06T19:30:55.544Z</updated>
+    <updated>2022-10-07T03:21:32.701Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Sharing Knowledge at 44CON]]></title>
+        <id>https://www.darkreading.com/edge-articles/sharing-knowledge-at-44con</id>
+        <link href="https://www.darkreading.com/edge-articles/sharing-knowledge-at-44con"/>
+        <updated>2022-10-07T00:11:00.000Z</updated>
+        <summary type="html"><![CDATA[The infosec conference named after the UK's calling code returned this year with a focus on building a healthy community.]]></summary>
+        <author>
+            <name>Jonathan Care, Contributing Writer, Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[macOS Archive Utility Bug Lets Malicious Apps Bypass Security Checks]]></title>
+        <id>https://www.darkreading.com/application-security/macos-archive-utility-bug-malicious-apps-bypass-security-checks</id>
+        <link href="https://www.darkreading.com/application-security/macos-archive-utility-bug-malicious-apps-bypass-security-checks"/>
+        <updated>2022-10-06T20:45:00.000Z</updated>
+        <summary type="html"><![CDATA[Exploit allows unsigned and unnotarized macOS applications to bypass Gatekeeper and other security, without notifying the user.]]></summary>
+        <author>
+            <name>Dark Reading Staff, Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Russian Hackers Shut Down US State Government Websites]]></title>
+        <id>https://www.darkreading.com/attacks-breaches/russian-hackers-shut-down-state-government-sites</id>
+        <link href="https://www.darkreading.com/attacks-breaches/russian-hackers-shut-down-state-government-sites"/>
+        <updated>2022-10-06T19:56:01.000Z</updated>
+        <summary type="html"><![CDATA[Russian-speaking cyberattackers boast they are behind disruption of Colorado, Kentucky, and Mississippi government websites.]]></summary>
+        <author>
+            <name>Dark Reading Staff, Dark Reading</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[KnowBe4 Celebrates Winning a Tech Cares Award From TrustRadius 2022]]></title>
         <id>https://blog.knowbe4.com/knowbe4-wins-trustradius-tech-cares-award-2022</id>
@@ -4919,192 +4949,6 @@ Tracked as CVE-2022-28199 (CVSS score: 8.6), the vulnerability stems from a la
         <summary type="html"><![CDATA[Everyone knows you shouldn’t click phishy links. But are your end users prepared to quickly identify the trickiest tactics bad actors use before it’s too late? Probably not.]]></summary>
         <author>
             <name>Stu Sjouwerman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Spear Phishing Campaign Targets Financial Institutions in African Countries]]></title>
-        <id>https://blog.knowbe4.com/spear-phishing-campaign-targets-financial-institutions-in-african-countries</id>
-        <link href="https://blog.knowbe4.com/spear-phishing-campaign-targets-financial-institutions-in-african-countries"/>
-        <updated>2022-09-07T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Researchers at Check Point have discovered a spear phishing campaign dubbed “DangerousSavanna” that's targeting financial entities in at least five African countries.]]></summary>
-        <author>
-            <name>Stu Sjouwerman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Some Members of Conti Group Targeting Ukraine in Financially Motivated Attacks]]></title>
-        <id>tag:blogger.com,1999:blog-4802841478634147276.post-598541947084998668</id>
-        <link href="https://thehackernews.com/2022/09/some-members-of-conti-group-targeting.html"/>
-        <updated>2022-09-07T14:42:00.000Z</updated>
-        <summary type="html"><![CDATA[Former members of the Conti cybercrime cartel have been implicated in five different campaigns targeting Ukraine from April to August 2022.
-The findings, which come from Google's Threat Analysis Group (TAG), builds upon a prior report published in July 2022, detailing the continued cyber activity aimed at the Eastern European nation amid the ongoing Russo-Ukrainian war.
-"UAC-0098 is a threat]]></summary>
-        <author>
-            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Iran-Linked APT Cozies Up to 'Enemies' in Trust-Based Spy Game]]></title>
-        <id>https://www.darkreading.com/vulnerabilities-threats/iran-linked-apt-cozies-up-enemies-trust-based-spy-game</id>
-        <link href="https://www.darkreading.com/vulnerabilities-threats/iran-linked-apt-cozies-up-enemies-trust-based-spy-game"/>
-        <updated>2022-09-07T14:37:13.000Z</updated>
-        <summary type="html"><![CDATA[APT42 is posing as a friend to people considered threats to the government, using a raft of different tools to steal relevant info and perform surveillance.]]></summary>
-        <author>
-            <name>Elizabeth Montalbano, Contributor, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Some Employees Aren't Just Leaving Companies — They're Defrauding Them]]></title>
-        <id>https://www.darkreading.com/vulnerabilities-threats/some-employees-aren-t-just-leaving-companies-they-re-defrauding-them</id>
-        <link href="https://www.darkreading.com/vulnerabilities-threats/some-employees-aren-t-just-leaving-companies-they-re-defrauding-them"/>
-        <updated>2022-09-07T14:00:01.000Z</updated>
-        <summary type="html"><![CDATA[Here are a few measures your organization can implement to minimize fraudulent behavior and losses.]]></summary>
-        <author>
-            <name>Timothy Ball, Executive Vice President, The Bonadio Group</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CyberheistNews Vol 12 #36 [Eye Opener] So, Your MFA Is Phishable, What to Do Next?]]></title>
-        <id>https://blog.knowbe4.com/cyberheistnews-vol-12-36-eye-opener-so-your-mfa-is-phishable-what-to-do-next</id>
-        <link href="https://blog.knowbe4.com/cyberheistnews-vol-12-36-eye-opener-so-your-mfa-is-phishable-what-to-do-next"/>
-        <updated>2022-09-07T13:15:00.000Z</updated>
-        <summary type="html"><![CDATA[1-Time Passcodes Are a Corporate Liability. Department of Homeland Security Fraud Warning. 
-              
- 
-              
-            
- 
-            
- 
-              
-              
- 
-               Email not displaying? | View Knowbe4 Blog 
-              
- 
-              
-            
-  
-          
- 
-          
-        
-  
-        
- 
-          
-          
- 
-            
-            
- 
-              
-              
- 
-                
-              
- 
-              
-            
-  
-          
- 
-          
-        
-   
-        
- 
-          
-          
- 
-            
-            
- 
-              
-              
- 
-               CyberheistNews Vol 12 #36  |  September 7th, 2022 
-              
- 
-              
-            
-  
-          
- 
-          
-        
-   
-        
- 
-          
-          
- 
-            
-            
- 
-              
-              
- 
-               [Eye Opener] So, Your MFA Is Phishable, What to Do Next? 
-We've written a lot about multi-factor authentication (MFA) not being the Holy Grail to prevent phishing attacks, we also have an eBook on the subject, and we have several webinars on the subject including a very recent one. (links to blog below)]]></summary>
-        <author>
-            <name>Stu Sjouwerman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Authorities Shut Down WT1SHOP Site for Selling Stolen Credentials and Credit Cards]]></title>
-        <id>tag:blogger.com,1999:blog-4802841478634147276.post-4352408707133273447</id>
-        <link href="https://thehackernews.com/2022/09/authorities-shut-down-wt1shop-site-for.html"/>
-        <updated>2022-09-07T12:56:00.000Z</updated>
-        <summary type="html"><![CDATA[An international law enforcement operation has resulted in the dismantling of WT1SHOP, an online criminal marketplace that specialized in the sales of stolen login credentials and other personal information.
-The seizure was orchestrated by Portuguese authorities, with the U.S. officials taking control of four domains used by the website: "wt1shop[.]net," "wt1store[.]cc," "wt1store[.]com," and "]]></summary>
-        <author>
-            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Stealthy Shikitega Malware Targeting Linux Systems and IoT Devices]]></title>
-        <id>tag:blogger.com,1999:blog-4802841478634147276.post-985368889159968475</id>
-        <link href="https://thehackernews.com/2022/09/new-stealthy-shikitega-malware.html"/>
-        <updated>2022-09-07T12:38:00.000Z</updated>
-        <summary type="html"><![CDATA[A new piece of stealthy Linux malware called Shikitega has been uncovered adopting a multi-stage infection chain to compromise endpoints and IoT devices and deposit additional payloads.
-"An attacker can gain full control of the system, in addition to the cryptocurrency miner that will be executed and set to persist," AT&T Alien Labs said in a new report published Tuesday.
-The findings add to a]]></summary>
-        <author>
-            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[North Korean Hackers Deploying New MagicRAT Malware in Targeted Campaigns]]></title>
-        <id>tag:blogger.com,1999:blog-4802841478634147276.post-8882154816825802414</id>
-        <link href="https://thehackernews.com/2022/09/north-korean-hackers-spotted-using-new.html"/>
-        <updated>2022-09-07T12:10:00.000Z</updated>
-        <summary type="html"><![CDATA[The prolific North Korean nation-state actor known as the Lazarus Group has been linked to a new remote access trojan called MagicRAT.
-The previously unknown piece of malware is said to have been deployed in victim networks that had been initially breached via successful exploitation of internet-facing VMware Horizon servers, Cisco Talos said in a report shared with The Hacker News.
-"While being]]></summary>
-        <author>
-            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Building a Security Culture With Behavior Design]]></title>
-        <id>https://blog.knowbe4.com/security-culture-behavior-design</id>
-        <link href="https://blog.knowbe4.com/security-culture-behavior-design"/>
-        <updated>2022-09-07T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Anyone who has run security awareness programs for a while knows that changing human behaviour is not an easy task. And that sometimes the problem with awareness is that "awareness" alone does not automatically result in secure behavior.]]></summary>
-        <author>
-            <name>Anna Collard</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[4 Key Takeaways from "XDR is the Perfect Solution for SMEs" webinar]]></title>
-        <id>tag:blogger.com,1999:blog-4802841478634147276.post-8270805342402005478</id>
-        <link href="https://thehackernews.com/2022/09/4-key-takeaways-from-xdr-is-perfect.html"/>
-        <updated>2022-09-07T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Cyberattacks on large organizations dominate news headlines. So, you may be surprised to learn that small and medium enterprises (SMEs) are actually more frequent targets of cyberattacks. Many SMEs understand this risk firsthand. 
-In a recent survey, 58% of CISOs of SMEs said that their risk of attack was higher compared to enterprises. Yet, they don't have the same resources as enterprises –]]></summary>
-        <author>
-            <name>noreply@blogger.com (The Hacker News)</name>
         </author>
     </entry>
 </feed>
