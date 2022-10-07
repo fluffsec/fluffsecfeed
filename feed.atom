@@ -2,10 +2,56 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-10-07T13:59:14.690Z</updated>
+    <updated>2022-10-07T19:26:24.896Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[State Bar of Georgia Notifies Members and Employees of Cybersecurity Incident]]></title>
+        <id>https://www.darkreading.com/attacks-breaches/state-bar-of-georgia-notifies-members-and-employees-of-cybersecurity-incident</id>
+        <link href="https://www.darkreading.com/attacks-breaches/state-bar-of-georgia-notifies-members-and-employees-of-cybersecurity-incident"/>
+        <updated>2022-10-07T16:50:32.000Z</updated>
+        <summary type="html"><![CDATA[Current and former employees and members are being offered complimentary credit monitoring and
+identity protection services as some personal information may have been accessed.]]></summary>
+        <author>
+            <name>Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Patch Now: Fortinet FortiGate & FortiProxy Contain Critical Vuln]]></title>
+        <id>https://www.darkreading.com/vulnerabilities-threats/patch-now-fortinet-fortigate-and-fortiproxy-contain-critical-vuln</id>
+        <link href="https://www.darkreading.com/vulnerabilities-threats/patch-now-fortinet-fortigate-and-fortiproxy-contain-critical-vuln"/>
+        <updated>2022-10-07T16:45:00.000Z</updated>
+        <summary type="html"><![CDATA[Fortinet issued a customer advisory urging customers to apply its update immediately.]]></summary>
+        <author>
+            <name>Dark Reading Staff, Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LofyGang Uses 100s of Malicious NPM Packages to Poison Open Source Software]]></title>
+        <id>https://www.darkreading.com/application-security/lofygang-100s-malicious-packages-poison-open-source-software</id>
+        <link href="https://www.darkreading.com/application-security/lofygang-100s-malicious-packages-poison-open-source-software"/>
+        <updated>2022-10-07T15:12:36.000Z</updated>
+        <summary type="html"><![CDATA[The group has been operating for over a year, promoting their tools in hacking forums, stealing credit card information, and using typosquatting techniques to target open source software flaws.]]></summary>
+        <author>
+            <name>Nathan Eddy, Contributing Writer, Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FBI and CISA Publish a PSA on Information Manipulation Tactics for 2022 Midterm Elections]]></title>
+        <id>18048 at https://us-cert.cisa.gov</id>
+        <link href="https://us-cert.cisa.gov/ncas/current-activity/2022/10/07/fbi-and-cisa-publish-psa-information-manipulation-tactics-2022"/>
+        <updated>2022-10-07T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Original release date: October 7, 2022
+The Federal Bureau of Investigation (FBI) and CISA have published a joint public service announcement that:
+Describes methods that foreign actors use to spread and amplify false information—including reports of alleged malicious cyber activity—in attempts to undermine trust in election infrastructure.
+Confirms “the FBI and CISA have no information suggesting any cyber activity against U.S. election infrastructure has impacted the accuracy of voter registration information, prevented a registered voter from casting a ballot, or compromised the integrity of any ballots cast.”
+The PSA also describes the extensive safeguards in place to protect election infrastructure and includes recommendations to assist the public in understanding how to find trustworthy sources of election-related information.
+This product is provided subject to this Notification and this Privacy & Use policy.]]></summary>
+        <author>
+            <name>CISA</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[We Can Save Security Teams From Crushing Workloads. Will We?]]></title>
         <id>https://www.darkreading.com/vulnerabilities-threats/we-can-save-security-teams-from-crushing-workloads-will-we-</id>
@@ -14,6 +60,17 @@
         <summary type="html"><![CDATA[Today, the processing of mountain-high stacks of alarms is considered "security." That system is failing customers and the cybersecurity workforce.]]></summary>
         <author>
             <name>Steve Ryan, Founder &amp; CEO, Trinity Cyber</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Facebook Detects 400 Android and iOS Apps Stealing Users Log-in Credentials]]></title>
+        <id>tag:blogger.com,1999:blog-4802841478634147276.post-7258061215018686094</id>
+        <link href="https://thehackernews.com/2022/10/facebook-detects-400-android-and-ios.html"/>
+        <updated>2022-10-07T13:52:00.000Z</updated>
+        <summary type="html"><![CDATA[Meta Platforms on Friday disclosed that it had identified over 400 malicious apps on Android and iOS that it said targeted online users with the goal of stealing their Facebook login information.
+"These apps were listed on the Google Play Store and Apple's App Store and disguised as photo editors, games, VPN services, business apps, and other utilities to trick people into downloading them," the]]></summary>
+        <author>
+            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
         </author>
     </entry>
     <entry>
@@ -4910,39 +4967,6 @@ Cybersecurity firm Secureworks said it identified the intrusions in June and Jul
 According to the report, Specops researchers analyzed a list of a billion passwords]]></summary>
         <author>
             <name>noreply@blogger.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hackers Repeatedly Targeting Financial Services in French-Speaking African Countries]]></title>
-        <id>tag:blogger.com,1999:blog-4802841478634147276.post-6209372552559623420</id>
-        <link href="https://thehackernews.com/2022/09/hackers-repeatedly-targeting-financial.html"/>
-        <updated>2022-09-08T06:38:00.000Z</updated>
-        <summary type="html"><![CDATA[Major financial and insurance companies located in French-speaking nations in Africa have been targeted over the past two years as part of a persistent malicious campaign codenamed DangerousSavanna.
-Countries targeted include Ivory Coast, Morocco, Cameroon, Senegal, and Togo, with the spear-phishing attacks heavily focusing on Ivory Coast in recent months, Israeli cybersecurity firm Check Point]]></summary>
-        <author>
-            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft Warns of Ransomware Attacks by Iranian Phosphorus Hacker Group]]></title>
-        <id>tag:blogger.com,1999:blog-4802841478634147276.post-5566687390532543456</id>
-        <link href="https://thehackernews.com/2022/09/microsoft-warns-of-ransomware-attacks.html"/>
-        <updated>2022-09-08T05:38:00.000Z</updated>
-        <summary type="html"><![CDATA[Microsoft's threat intelligence division on Wednesday assessed that a subgroup of the Iranian threat actor tracked as Phosphorus is conducting ransomware attacks as a "form of moonlighting" for personal gain.
-The tech giant, which is monitoring the activity cluster under the moniker DEV-0270 (aka Nemesis Kitten), said it's operated by a company that functions under the public aliases Secnerd and]]></summary>
-        <author>
-            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cisco Releases Security Patches for New Vulnerabilities Impacting Multiple Products]]></title>
-        <id>tag:blogger.com,1999:blog-4802841478634147276.post-8229165452396302540</id>
-        <link href="https://thehackernews.com/2022/09/cisco-releases-security-patches-for-new.html"/>
-        <updated>2022-09-08T03:48:00.000Z</updated>
-        <summary type="html"><![CDATA[Cisco on Wednesday rolled out patches to address three security flaws affecting its products, including a high-severity weakness disclosed in NVIDIA Data Plane Development Kit (MLNX_DPDK) late last month.
-Tracked as CVE-2022-28199 (CVSS score: 8.6), the vulnerability stems from a lack of proper error handling in DPDK's network stack, enabling a remote adversary to trigger a denial-of-service (]]></summary>
-        <author>
-            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
         </author>
     </entry>
 </feed>

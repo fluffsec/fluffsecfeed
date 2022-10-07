@@ -63,6 +63,16 @@
       "siteUrl": "https://us-cert.cisa.gov/",
       "articles": [
         {
+          "id": "18048 at https://us-cert.cisa.gov",
+          "author": "CISA",
+          "description": "Original release date: October 7, 2022\nThe Federal Bureau of Investigation (FBI) and CISA have published a joint public service announcement that:\nDescribes methods that foreign actors use to spread and amplify false information—including reports of alleged malicious cyber activity—in attempts to undermine trust in election infrastructure.\nConfirms “the FBI and CISA have no information suggesting any cyber activity against U.S. election infrastructure has impacted the accuracy of voter registration information, prevented a registered voter from casting a ballot, or compromised the integrity of any ballots cast.”\nThe PSA also describes the extensive safeguards in place to protect election infrastructure and includes recommendations to assist the public in understanding how to find trustworthy sources of election-related information.\nThis product is provided subject to this Notification and this Privacy & Use policy.",
+          "link": "https://us-cert.cisa.gov/ncas/current-activity/2022/10/07/fbi-and-cisa-publish-psa-information-manipulation-tactics-2022",
+          "publishedOn": "2022-10-07T15:00:00.000Z",
+          "wordCount": 978,
+          "title": "FBI and CISA Publish a PSA on Information Manipulation Tactics for 2022 Midterm Elections",
+          "imageUrl": null
+        },
+        {
           "id": "18046 at https://us-cert.cisa.gov",
           "author": "CISA",
           "description": "Original release date: October 6, 2022\nCISA, the Federal Bureau of Investigation (FBI), and the National Security Agency (NSA) have released a joint Cybersecurity Advisory (CSA) providing the top Common Vulnerabilities and Exposures (CVEs) used since 2020 by People’s Republic of China (PRC) state-sponsored cyber actors. PRC state-sponsored cyber actors continue to exploit known vulnerabilities to actively target U.S. and allied networks, including software and hardware companies to illegally obtain intellectual property and develop access into sensitive networks.\nCISA, the FBI, and the NSA urge U.S. and allied governments, critical infrastructure, and private sector organizations to apply the recommendations listed in the Top CVEs Actively Exploited by People’s Republic of China State-Sponsored Cyber Actors to increase their defensive posture and reduce the threat of compromise from PRC state-sponsored malicious cyber actors.\nFor more information on PRC state-sponsored malicious cyber activity, see CISA’s China Cyber Threat Overview and Advisories webpage, the FBI’s Industry Alerts, and the NSA’s Cybersecurity Advisories & Guidance.\nThis product is provided subject to this Notification and this Privacy & Use policy.",
@@ -499,6 +509,46 @@
       "feedUrl": "https://www.darkreading.com/rss.xml",
       "siteUrl": "https://www.darkreading.com",
       "articles": [
+        {
+          "id": "https://www.darkreading.com/attacks-breaches/state-bar-of-georgia-notifies-members-and-employees-of-cybersecurity-incident",
+          "author": null,
+          "description": "Current and former employees and members are being offered complimentary credit monitoring and\nidentity protection services as some personal information may have been accessed.",
+          "link": "https://www.darkreading.com/attacks-breaches/state-bar-of-georgia-notifies-members-and-employees-of-cybersecurity-incident",
+          "publishedOn": "2022-10-07T16:50:32.000Z",
+          "wordCount": 11098,
+          "title": "State Bar of Georgia Notifies Members and Employees of Cybersecurity Incident",
+          "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/vulnerabilities-threats/patch-now-fortinet-fortigate-and-fortiproxy-contain-critical-vuln",
+          "author": "Dark Reading Staff, Dark Reading",
+          "description": "Fortinet issued a customer advisory urging customers to apply its update immediately.",
+          "link": "https://www.darkreading.com/vulnerabilities-threats/patch-now-fortinet-fortigate-and-fortiproxy-contain-critical-vuln",
+          "publishedOn": "2022-10-07T16:45:00.000Z",
+          "wordCount": 9568,
+          "title": "Patch Now: Fortinet FortiGate & FortiProxy Contain Critical Vuln",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blte161b23f0fd3a84b/60b1ea374e7eb868c4c6a293/dr_staff_125x125.jpg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blte161b23f0fd3a84b/60b1ea374e7eb868c4c6a293/dr_staff_125x125.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/application-security/lofygang-100s-malicious-packages-poison-open-source-software",
+          "author": "Nathan Eddy, Contributing Writer, Dark Reading",
+          "description": "The group has been operating for over a year, promoting their tools in hacking forums, stealing credit card information, and using typosquatting techniques to target open source software flaws.",
+          "link": "https://www.darkreading.com/application-security/lofygang-100s-malicious-packages-poison-open-source-software",
+          "publishedOn": "2022-10-07T15:12:36.000Z",
+          "wordCount": 11821,
+          "title": "LofyGang Uses 100s of Malicious NPM Packages to Poison Open Source Software",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltf8b5a94afa71c53a/628e3799daa31875dc0c9fc0/NathanEddyHeadshot.PNG",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltf8b5a94afa71c53a/628e3799daa31875dc0c9fc0/NathanEddyHeadshot.PNG"
+        },
         {
           "id": "https://www.darkreading.com/vulnerabilities-threats/we-can-save-security-teams-from-crushing-workloads-will-we-",
           "author": "Steve Ryan, Founder & CEO, Trinity Cyber",
@@ -4187,6 +4237,17 @@
       "siteUrl": "https://thehackernews.com/",
       "articles": [
         {
+          "id": "tag:blogger.com,1999:blog-4802841478634147276.post-7258061215018686094",
+          "author": "noreply@blogger.com (Ravie Lakshmanan)",
+          "description": "Meta Platforms on Friday disclosed that it had identified over 400 malicious apps on Android and iOS that it said targeted online users with the goal of stealing their Facebook login information.\n\"These apps were listed on the Google Play Store and Apple's App Store and disguised as photo editors, games, VPN services, business apps, and other utilities to trick people into downloading them,\" the",
+          "link": "https://thehackernews.com/2022/10/facebook-detects-400-android-and-ios.html",
+          "publishedOn": "2022-10-07T13:52:00.000Z",
+          "wordCount": null,
+          "title": "Facebook Detects 400 Android and iOS Apps Stealing Users Log-in Credentials",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
           "id": "tag:blogger.com,1999:blog-4802841478634147276.post-1517832448649270869",
           "author": "noreply@blogger.com (The Hacker News)",
           "description": "Understanding the connection between GRC and cybersecurity\nWhen talking about cybersecurity, Governance, Risk, and Compliance (GRC) is often considered the least exciting part of business protection. However, its importance can't be ignored, and this is why. \nWhile cybersecurity focuses on the technical side of protecting systems, networks, devices, and data, GRC is the tool that will help the",
@@ -5547,39 +5608,6 @@
           "publishedOn": "2022-09-08T10:30:00.000Z",
           "wordCount": null,
           "title": "Shopify Fails to Prevent Known Breached Passwords",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "tag:blogger.com,1999:blog-4802841478634147276.post-6209372552559623420",
-          "author": "noreply@blogger.com (Ravie Lakshmanan)",
-          "description": "Major financial and insurance companies located in French-speaking nations in Africa have been targeted over the past two years as part of a persistent malicious campaign codenamed DangerousSavanna.\nCountries targeted include Ivory Coast, Morocco, Cameroon, Senegal, and Togo, with the spear-phishing attacks heavily focusing on Ivory Coast in recent months, Israeli cybersecurity firm Check Point",
-          "link": "https://thehackernews.com/2022/09/hackers-repeatedly-targeting-financial.html",
-          "publishedOn": "2022-09-08T06:38:00.000Z",
-          "wordCount": null,
-          "title": "Hackers Repeatedly Targeting Financial Services in French-Speaking African Countries",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "tag:blogger.com,1999:blog-4802841478634147276.post-5566687390532543456",
-          "author": "noreply@blogger.com (Ravie Lakshmanan)",
-          "description": "Microsoft's threat intelligence division on Wednesday assessed that a subgroup of the Iranian threat actor tracked as Phosphorus is conducting ransomware attacks as a \"form of moonlighting\" for personal gain.\nThe tech giant, which is monitoring the activity cluster under the moniker DEV-0270 (aka Nemesis Kitten), said it's operated by a company that functions under the public aliases Secnerd and",
-          "link": "https://thehackernews.com/2022/09/microsoft-warns-of-ransomware-attacks.html",
-          "publishedOn": "2022-09-08T05:38:00.000Z",
-          "wordCount": null,
-          "title": "Microsoft Warns of Ransomware Attacks by Iranian Phosphorus Hacker Group",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "tag:blogger.com,1999:blog-4802841478634147276.post-8229165452396302540",
-          "author": "noreply@blogger.com (Ravie Lakshmanan)",
-          "description": "Cisco on Wednesday rolled out patches to address three security flaws affecting its products, including a high-severity weakness disclosed in NVIDIA Data Plane Development Kit (MLNX_DPDK) late last month.\nTracked as CVE-2022-28199 (CVSS score: 8.6), the vulnerability stems from a lack of proper error handling in DPDK's network stack, enabling a remote adversary to trigger a denial-of-service (",
-          "link": "https://thehackernews.com/2022/09/cisco-releases-security-patches-for-new.html",
-          "publishedOn": "2022-09-08T03:48:00.000Z",
-          "wordCount": null,
-          "title": "Cisco Releases Security Patches for New Vulnerabilities Impacting Multiple Products",
           "itunes": {},
           "imageUrl": null
         }
