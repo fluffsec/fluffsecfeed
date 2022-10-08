@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-10-08T03:06:32.988Z</updated>
+    <updated>2022-10-08T07:27:50.628Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Issues Improved Mitigations for Unpatched Exchange Server Vulnerabilities]]></title>
+        <id>tag:blogger.com,1999:blog-4802841478634147276.post-8920062382104140566</id>
+        <link href="https://thehackernews.com/2022/10/microsoft-issues-improved-mitigations.html"/>
+        <updated>2022-10-08T05:13:00.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft on Friday disclosed it has made more improvements to the mitigation method offered as a means to prevent exploitation attempts against the newly disclosed unpatched security flaws in Exchange Server.
+To that end, the tech giant has revised the blocking rule in IIS Manager from ".*autodiscover\.json.*Powershell.*" to "(?=.*autodiscover\.json)(?=.*powershell)."
+
+The list of]]></summary>
+        <author>
+            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Credential Harvesting Is Retail Industry's Top Threat]]></title>
         <id>https://www.darkreading.com/edge-threat-monitor/credential-harvesting-is-retail-industry-s-top-threat</id>
@@ -4827,109 +4840,6 @@ BackupBuddy allows users to back up their entire WordPress installation from wit
         <summary type="html"><![CDATA[Phishing is still the No. 1 attack vector. Your users are exposed to malicious email daily. They can now report those to your Incident Response (IR) team. But how to best manage your user-reported messages?]]></summary>
         <author>
             <name>Stu Sjouwerman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Darktrace Shares Plunge After Thoma Bravo Acquisition Falls Apart]]></title>
-        <id>https://www.darkreading.com/threat-intelligence/darktrace-shares-plunge-after-thoma-bravo-acquisition</id>
-        <link href="https://www.darkreading.com/threat-intelligence/darktrace-shares-plunge-after-thoma-bravo-acquisition"/>
-        <updated>2022-09-08T19:19:24.000Z</updated>
-        <summary type="html"><![CDATA[No agreement could be reached on terms of a firm offer, the provider of AI-based cybersecurity products says.]]></summary>
-        <author>
-            <name>Jai Vijayan, Contributing Writer, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Vulnerabilities Reported in Baxter's Internet-Connected Infusion Pumps]]></title>
-        <id>tag:blogger.com,1999:blog-4802841478634147276.post-3012839106016291601</id>
-        <link href="https://thehackernews.com/2022/09/new-vulnerabilities-reported-in-baxters.html"/>
-        <updated>2022-09-08T17:55:00.000Z</updated>
-        <summary type="html"><![CDATA[Multiple security vulnerabilities have been disclosed in Baxter's internet-connected infusion pumps used by healthcare professionals in clinical environments to dispense medication to patients.
-"Successful exploitation of these vulnerabilities could result in access to sensitive data and alteration of system configuration," the U.S. Cybersecurity and Infrastructure Security Agency (CISA) said in]]></summary>
-        <author>
-            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Pragmatic Response to the Quantum Threat]]></title>
-        <id>https://www.darkreading.com/dr-tech/a-pragmatic-response-to-the-quantum-threat</id>
-        <link href="https://www.darkreading.com/dr-tech/a-pragmatic-response-to-the-quantum-threat"/>
-        <updated>2022-09-08T17:22:52.000Z</updated>
-        <summary type="html"><![CDATA[You certainly don't need to panic, but you do need to form a plan to prepare for the post-quantum reality.]]></summary>
-        <author>
-            <name>Duncan Jones, Head of Quantum Cybersecurity, Quantinuum</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CISA Releases Four Industrial Control Systems Advisories]]></title>
-        <id>17950 at https://us-cert.cisa.gov</id>
-        <link href="https://us-cert.cisa.gov/ncas/current-activity/2022/09/08/cisa-releases-four-industrial-control-systems-advisories"/>
-        <updated>2022-09-08T17:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Original release date: September 8, 2022
-CISA released four Industrial Control Systems (ICS) advisories on September 08, 2022. These advisories provide timely information about current security issues, vulnerabilities, and exploits surrounding ICS.
-CISA encourages users and administrators to review the newly released ICS advisories for technical details and mitigations:
-ICSA-22-251-01 MZ Automation GmbH libIEC61850
-ICSMA-22-251-01 Baxter Sigma Spectrum Infusion Pumps
-ICSMA-21-152-01 Hillrom Medical Device Management (Update B)
-ICSA-22-242-10 PTC Kepware KEPServerEX (Update A)
-This product is provided subject to this Notification and this Privacy & Use policy.]]></summary>
-        <author>
-            <name>CISA</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[5 Keys to Better Key Management]]></title>
-        <id>https://www.darkreading.com/vulnerabilities-threats/5-keys-to-better-key-management</id>
-        <link href="https://www.darkreading.com/vulnerabilities-threats/5-keys-to-better-key-management"/>
-        <updated>2022-09-08T17:00:00.000Z</updated>
-        <summary type="html"><![CDATA[From analyzing your company's risk profile to knowing where keys are stored and who can access them, prioritize key clean-up and management. Make compliance an outcome and develop a risk management strategy.]]></summary>
-        <author>
-            <name>Johannes Lintzen, Managing Director, Cryptomathic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cisco Releases Security Updates for Multiple Products]]></title>
-        <id>17955 at https://us-cert.cisa.gov</id>
-        <link href="https://us-cert.cisa.gov/ncas/current-activity/2022/09/08/cisco-releases-security-updates-multiple-products"/>
-        <updated>2022-09-08T16:25:31.000Z</updated>
-        <summary type="html"><![CDATA[Original release date: September 8, 2022 | Last revised: September 9, 2022
-Cisco has released security updates to address vulnerabilities in multiple Cisco products. A remote attacker could exploit some of these vulnerabilities to take control of an affected system. For updates addressing lower severity vulnerabilities, see the Cisco Security Advisories page. 
-CISA encourages users and administrators to review the following advisories and apply the necessary updates:
-•    Cisco SD-WAN vManage Software Unauthenticated Access to Messaging Services cisco-sa-vmanage-msg-serv-AqTup7vs 
-•    Vulnerability in NVIDIA Data Plane Development Kit Affecting Cisco Products: August 2022 cisco-sa-mlx5-jbPCrqD8
-This product is provided subject to this Notification and this Privacy & Use policy.]]></summary>
-        <author>
-            <name>CISA</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meta to Appeal $400M GDPR Fine for Mishandling Teen Data in Instagram]]></title>
-        <id>https://www.darkreading.com/application-security/meta-appeal-400m-fine-mishandling-instagram-teen-data</id>
-        <link href="https://www.darkreading.com/application-security/meta-appeal-400m-fine-mishandling-instagram-teen-data"/>
-        <updated>2022-09-08T15:53:08.000Z</updated>
-        <summary type="html"><![CDATA[Instagram and Facebook parent company Meta was slapped with the fine for exposing the personal data of minors.]]></summary>
-        <author>
-            <name>Dark Reading Staff, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[New Training] Give Your Employees the Know-How to Have the Tough Conversations with New Compliance Plus Training]]></title>
-        <id>https://blog.knowbe4.com/give-employees-know-how-tough-conversations-new-compliance-plus-training</id>
-        <link href="https://blog.knowbe4.com/give-employees-know-how-tough-conversations-new-compliance-plus-training"/>
-        <updated>2022-09-08T15:51:00.000Z</updated>
-        <summary type="html"><![CDATA[We’re thrilled to announce a brand new microlearning, TV-like production quality series of compliance content now available in the Compliance Plus library.]]></summary>
-        <author>
-            <name>Stu Sjouwerman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vulnerability Exploits, Not Phishing, Are the Top Cyberattack Vector for Initial Compromise]]></title>
-        <id>https://www.darkreading.com/vulnerabilities-threats/vulnerability-exploits-phishing-top-attack-vector-initial-compromise</id>
-        <link href="https://www.darkreading.com/vulnerabilities-threats/vulnerability-exploits-phishing-top-attack-vector-initial-compromise"/>
-        <updated>2022-09-08T15:20:00.000Z</updated>
-        <summary type="html"><![CDATA[A slew of Microsoft Exchange vulnerabilities (including ProxyLogon) fueled a surge in attacks targeting software flaws in 2021, but the trend has continued this year.]]></summary>
-        <author>
-            <name>Jai Vijayan, Contributing Writer, Dark Reading</name>
         </author>
     </entry>
 </feed>
