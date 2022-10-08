@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-10-08T07:27:50.628Z</updated>
+    <updated>2022-10-08T13:48:55.850Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Email Defenses Under Siege: Phishing Attacks Dramatically Improve]]></title>
+        <id>https://www.darkreading.com/remote-workforce/email-defenses-under-siege-phishing-attacks-dramatically-improve</id>
+        <link href="https://www.darkreading.com/remote-workforce/email-defenses-under-siege-phishing-attacks-dramatically-improve"/>
+        <updated>2022-10-08T13:00:44.000Z</updated>
+        <summary type="html"><![CDATA[About 1 in 5 phishing email messages reach workers' inboxes, as attackers get better at dodging Microsoft's platform defenses and defenders run into processing limitations.]]></summary>
+        <author>
+            <name>Robert Lemos, Contributing Writer, Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hackers Exploiting Unpatched RCE Flaw in Zimbra Collaboration Suite]]></title>
+        <id>tag:blogger.com,1999:blog-4802841478634147276.post-5143097002927406295</id>
+        <link href="https://thehackernews.com/2022/10/hackers-exploiting-unpatched-rce-flaw.html"/>
+        <updated>2022-10-08T07:50:00.000Z</updated>
+        <summary type="html"><![CDATA[A severe remote code execution vulnerability in Zimbra's enterprise collaboration software and email platform is being actively exploited, with no patch currently available to remediate the issue.
+The shortcoming, assigned CVE-2022-41352, carries a critical-severity rating of CVSS 9.8, providing a pathway for attackers to upload arbitrary files and carry out malicious actions on affected]]></summary>
+        <author>
+            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Microsoft Issues Improved Mitigations for Unpatched Exchange Server Vulnerabilities]]></title>
         <id>tag:blogger.com,1999:blog-4802841478634147276.post-8920062382104140566</id>
@@ -4830,16 +4851,6 @@ API attacks are more dangerous than other breaches. Facebook had a 50M user acco
 BackupBuddy allows users to back up their entire WordPress installation from within the]]></summary>
         <author>
             <name>noreply@blogger.com (Ravie Lakshmanan)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Request a Demo of KnowBe4's PhishER Platform and Get Your Free Hat!]]></title>
-        <id>https://blog.knowbe4.com/phisher-demo-get-your-free-hat</id>
-        <link href="https://blog.knowbe4.com/phisher-demo-get-your-free-hat"/>
-        <updated>2022-09-08T23:12:40.000Z</updated>
-        <summary type="html"><![CDATA[Phishing is still the No. 1 attack vector. Your users are exposed to malicious email daily. They can now report those to your Incident Response (IR) team. But how to best manage your user-reported messages?]]></summary>
-        <author>
-            <name>Stu Sjouwerman</name>
         </author>
     </entry>
 </feed>
