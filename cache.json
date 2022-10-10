@@ -480,6 +480,21 @@
       "siteUrl": "https://www.darkreading.com",
       "articles": [
         {
+          "id": "https://www.darkreading.com/careers-and-people/6-things-every-ciso-should-do-the-first-90-days-on-the-job",
+          "author": "James Turgal, VP of Cyber Risk, Strategy & Board Relations, Optiv",
+          "description": "A CISO's responsibilities have evolved immensely in recent years, so their first three months on the job should look a different today than they might have several years ago.",
+          "link": "https://www.darkreading.com/careers-and-people/6-things-every-ciso-should-do-the-first-90-days-on-the-job",
+          "publishedOn": "2022-10-10T14:00:00.000Z",
+          "wordCount": 12479,
+          "title": "6 Things Every CISO Should Do the First 90 Days on the Job",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltde3f476b295108ce/633317377661a91540ded959/James_Turgal.png",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltde3f476b295108ce/633317377661a91540ded959/James_Turgal.png"
+        },
+        {
           "id": "https://www.darkreading.com/remote-workforce/email-defenses-under-siege-phishing-attacks-dramatically-improve",
           "author": "Robert Lemos, Contributing Writer, Dark Reading",
           "description": "About 1 in 5 phishing email messages reach workers' inboxes, as attackers get better at dodging Microsoft's platform defenses and defenders run into processing limitations.",
@@ -4031,6 +4046,39 @@
       "feedUrl": "https://thehackernews.com/feeds/posts/default",
       "siteUrl": "https://thehackernews.com/",
       "articles": [
+        {
+          "id": "tag:blogger.com,1999:blog-4802841478634147276.post-3235219696641834229",
+          "author": "noreply@blogger.com (Ravie Lakshmanan)",
+          "description": "Threat actors associated with the notorious Emotet malware are continually shifting their tactics and command-and-control (C2) infrastructure to escape detection, according to new research from VMware.\nEmotet is the work of a threat actor tracked as Mummy Spider (aka TA542), emerging in June 2014 as a banking trojan before morphing into an all-purpose loader in 2016 that's capable of delivering",
+          "link": "https://thehackernews.com/2022/10/new-report-uncovers-emotets-delivery.html",
+          "publishedOn": "2022-10-10T13:10:00.000Z",
+          "wordCount": null,
+          "title": "New Report Uncovers Emotet's Delivery and Evasion Techniques Used in Recent Attacks",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "tag:blogger.com,1999:blog-4802841478634147276.post-3161240661827285172",
+          "author": "noreply@blogger.com (Ravie Lakshmanan)",
+          "description": "Chipmaker Intel has confirmed that proprietary source code related to its Alder Lake CPUs has been leaked, following its release by an unknown third-party on 4chan and GitHub last week.\nThe published content contains Unified Extensible Firmware Interface (UEFI) code for Alder Lake, the company's 12th generation processors that was originally launched in November 2021.\nIn a statement shared with",
+          "link": "https://thehackernews.com/2022/10/intel-confirms-leak-of-alder-lake-bios.html",
+          "publishedOn": "2022-10-10T09:25:00.000Z",
+          "wordCount": null,
+          "title": "Intel Confirms Leak of Alder Lake BIOS Source Code",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "tag:blogger.com,1999:blog-4802841478634147276.post-1515422887999363760",
+          "author": "noreply@blogger.com (Ravie Lakshmanan)",
+          "description": "BNB Chain, a blockchain linked to the Binance cryptocurrency exchange, disclosed an exploit on a cross-chain bridge that drained around $100 million in digital assets.\n\"There was an exploit affecting the native cross-chain bridge between BNB Beacon Chain (BEP2) and BNB Smart Chain (BEP20 or BSC), known as 'BSC Token Hub,'\" it said last week. \"The exploit was through a sophisticated forging of",
+          "link": "https://thehackernews.com/2022/10/hackers-steal-100-million.html",
+          "publishedOn": "2022-10-10T08:59:00.000Z",
+          "wordCount": null,
+          "title": "Hackers Steal $100 Million Cryptocurrency from Binance Bridge",
+          "itunes": {},
+          "imageUrl": null
+        },
         {
           "id": "tag:blogger.com,1999:blog-4802841478634147276.post-5143097002927406295",
           "author": "noreply@blogger.com (Ravie Lakshmanan)",
