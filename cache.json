@@ -480,6 +480,21 @@
       "siteUrl": "https://www.darkreading.com",
       "articles": [
         {
+          "id": "https://www.darkreading.com/remote-workforce/zimbra-rce-bug-under-active-attack",
+          "author": "Dark Reading Staff, Dark Reading",
+          "description": "A flaw in unpatched Zimbra email servers could allow attackers to obtain remote code execution by pushing malicious files past filters.",
+          "link": "https://www.darkreading.com/remote-workforce/zimbra-rce-bug-under-active-attack",
+          "publishedOn": "2022-10-10T18:17:44.000Z",
+          "wordCount": 9631,
+          "title": "Zimbra RCE Bug Under Active Attack",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blte161b23f0fd3a84b/60b1ea374e7eb868c4c6a293/dr_staff_125x125.jpg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blte161b23f0fd3a84b/60b1ea374e7eb868c4c6a293/dr_staff_125x125.jpg"
+        },
+        {
           "id": "https://www.darkreading.com/careers-and-people/6-things-every-ciso-should-do-the-first-90-days-on-the-job",
           "author": "James Turgal, VP of Cyber Risk, Strategy & Board Relations, Optiv",
           "description": "A CISO's responsibilities have evolved immensely in recent years, so their first three months on the job should look a different today than they might have several years ago.",
@@ -4047,6 +4062,17 @@
       "siteUrl": "https://thehackernews.com/",
       "articles": [
         {
+          "id": "tag:blogger.com,1999:blog-4802841478634147276.post-4014016984274077591",
+          "author": "noreply@blogger.com (Ravie Lakshmanan)",
+          "description": "A new piece of research has detailed the increasingly sophisticated nature of the malware toolset employed by an advanced persistent threat (APT) group named Earth Aughisky.\n\"Over the last decade, the group has continued to make adjustments in the tools and malware deployments on specific targets located in Taiwan and, more recently, Japan,\" Trend Micro disclosed in a technical profile last week",
+          "link": "https://thehackernews.com/2022/10/researchers-detail-malicious-tools-used.html",
+          "publishedOn": "2022-10-10T15:16:00.000Z",
+          "wordCount": null,
+          "title": "Researchers Detail Malicious Tools Used by Cyberespionage Group Earth Aughisky",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
           "id": "tag:blogger.com,1999:blog-4802841478634147276.post-3235219696641834229",
           "author": "noreply@blogger.com (Ravie Lakshmanan)",
           "description": "Threat actors associated with the notorious Emotet malware are continually shifting their tactics and command-and-control (C2) infrastructure to escape detection, according to new research from VMware.\nEmotet is the work of a threat actor tracked as Mummy Spider (aka TA542), emerging in June 2014 as a banking trojan before morphing into an all-purpose loader in 2016 that's capable of delivering",
@@ -5385,17 +5411,6 @@
           "publishedOn": "2022-09-12T07:06:00.000Z",
           "wordCount": null,
           "title": "High-Severity Firmware Security Flaws Left Unpatched in HP Enterprise Devices",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "tag:blogger.com,1999:blog-4802841478634147276.post-418131438731389431",
-          "author": "noreply@blogger.com (Ravie Lakshmanan)",
-          "description": "A state-sponsored advanced persistent threat (APT) actor newly christened APT42 (formerly UNC788) has been attributed to over 30 confirmed espionage attacks against individuals and organizations of strategic interest to the Iranian government at least since 2015.\nCybersecurity firm Mandiant said the group operates as the intelligence gathering arm of Iran's Islamic Revolutionary Guard Corps (",
-          "link": "https://thehackernews.com/2022/09/iranian-apt42-launched-over-30.html",
-          "publishedOn": "2022-09-11T04:21:00.000Z",
-          "wordCount": null,
-          "title": "Iranian APT42 Launched Over 30 Espionage Attacks Against Activists and Dissidents",
           "itunes": {},
           "imageUrl": null
         }
