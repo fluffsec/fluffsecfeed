@@ -2,10 +2,54 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-10-11T07:47:42.111Z</updated>
+    <updated>2022-10-11T14:01:01.114Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Proposed SEC Disclosure Rules Could Transform Cyber-Incident Response]]></title>
+        <id>https://www.darkreading.com/vulnerabilities-threats/proposed-sec-disclosure-rules-could-transform-cyber-incident-response</id>
+        <link href="https://www.darkreading.com/vulnerabilities-threats/proposed-sec-disclosure-rules-could-transform-cyber-incident-response"/>
+        <updated>2022-10-11T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[It's not too early for firms to start preparing for change.]]></summary>
+        <author>
+            <name>Jason Hicks, Field CISO, Coalfire</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Researchers Detail Critical RCE Flaw Reported in Popular vm2 JavaScript Sandbox]]></title>
+        <id>tag:blogger.com,1999:blog-4802841478634147276.post-3758746257100234116</id>
+        <link href="https://thehackernews.com/2022/10/researchers-detail-critical-rce-flaw.html"/>
+        <updated>2022-10-11T11:28:00.000Z</updated>
+        <summary type="html"><![CDATA[A now-patched security flaw in the vm2 JavaScript sandbox module could be abused by a remote adversary to break out of security barriers and perform arbitrary operations on the underlying machine.
+"A threat actor can bypass the sandbox protections to gain remote code execution rights on the host running the sandbox," GitHub said in an advisory published on September 28, 2022.
+
+The]]></summary>
+        <author>
+            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Latest Funding News and What it Means for Cyber Security in 2023]]></title>
+        <id>tag:blogger.com,1999:blog-4802841478634147276.post-7134172585112088271</id>
+        <link href="https://thehackernews.com/2022/10/the-latest-funding-news-and-what-it.html"/>
+        <updated>2022-10-11T11:08:00.000Z</updated>
+        <summary type="html"><![CDATA[The White House has recently announced a $1 billion cyber security grant program that is designed to help state and local governments improve their cyber defenses, especially about protecting critical infrastructure. The recent executive order stems from the $1.2 trillion infrastructure bill that was signed almost a year ago. That bill allocated $1 billion for protecting critical infrastructure]]></summary>
+        <author>
+            <name>noreply@blogger.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Researchers Warn of New Phishing-as-a-Service Being Used by Cyber Criminals]]></title>
+        <id>tag:blogger.com,1999:blog-4802841478634147276.post-5549989856553476280</id>
+        <link href="https://thehackernews.com/2022/10/researchers-warn-of-new-phishing-as.html"/>
+        <updated>2022-10-11T10:39:00.000Z</updated>
+        <summary type="html"><![CDATA[Cyber criminals are using a previously undocumented phishing-as-a-service (PhaaS) toolkit called Caffeine to effectively scale up their attacks and distribute nefarious payloads.
+"This platform has an intuitive interface and comes at a relatively low cost while providing a multitude of features and tools to its criminal clients to orchestrate and automate core elements of their phishing]]></summary>
+        <author>
+            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Fortinet Warns of Active Exploitation of Newly Discovered Critical Auth Bypass Bug]]></title>
         <id>tag:blogger.com,1999:blog-4802841478634147276.post-3729214910807817255</id>
