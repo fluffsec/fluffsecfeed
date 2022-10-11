@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-10-11T03:39:29.215Z</updated>
+    <updated>2022-10-11T07:47:42.111Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Fortinet Warns of Active Exploitation of Newly Discovered Critical Auth Bypass Bug]]></title>
+        <id>tag:blogger.com,1999:blog-4802841478634147276.post-3729214910807817255</id>
+        <link href="https://thehackernews.com/2022/10/fortinet-warns-of-active-exploitation.html"/>
+        <updated>2022-10-11T06:21:00.000Z</updated>
+        <summary type="html"><![CDATA[Fortinet on Monday revealed that the newly patched critical security vulnerability impacting its firewall and proxy products is being actively exploited in the wild.
+Tracked as CVE-2022-40684 (CVSS score: 9.6), the flaw relates to an authentication bypass in FortiOS, FortiProxy, and FortiSwitchManager that could allow a remote attacker to perform unauthorized operations on the administrative]]></summary>
+        <author>
+            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[US Airports in Cyberattack Crosshairs for Pro-Russian Group Killnet]]></title>
         <id>https://www.darkreading.com/attacks-breaches/us-airports-cyberattack-crosshairs-pro-russian-group-killnet</id>
