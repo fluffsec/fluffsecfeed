@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-10-13T03:41:49.678Z</updated>
+    <updated>2022-10-13T07:38:27.231Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Researchers Uncover Custom Backdoors and Spying Tools Used by Polonium Hackers]]></title>
+        <id>tag:blogger.com,1999:blog-4802841478634147276.post-296994435355286742</id>
+        <link href="https://thehackernews.com/2022/10/researchers-uncover-custom-backdoors.html"/>
+        <updated>2022-10-13T07:18:00.000Z</updated>
+        <summary type="html"><![CDATA[A threat actor tracked as Polonium has been linked to over a dozen highly targeted attacks aimed at Israelian entities with seven different custom backdoors since at least September 2021.
+The intrusions were aimed at organizations in various verticals, such as engineering, information technology, law, communications, branding and marketing, media, insurance, and social services, cybersecurity]]></summary>
+        <author>
+            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Thoma Bravo to Acquire ForgeRock in $2.3B Deal]]></title>
         <id>https://www.darkreading.com/application-security/thoma-bravo-acquire-forgerock</id>
@@ -5041,82 +5052,6 @@ This product is provided subject to this Notification and this Privacy & Use pol
         <summary type="html"><![CDATA[Cyber spies are using legitimate apps for DLL sideloading, deploying an updated range of malware, including the new "Logdatter" info-stealer.]]></summary>
         <author>
             <name>Jai Vijayan, Contributing Writer, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cyberattackers Abuse Facebook Ad Manager in Savvy Credential-Harvesting Campaign]]></title>
-        <id>https://www.darkreading.com/attacks-breaches/cyberattackers-abuse-facebook-ad-manager-credential-harvesting-campaign</id>
-        <link href="https://www.darkreading.com/attacks-breaches/cyberattackers-abuse-facebook-ad-manager-credential-harvesting-campaign"/>
-        <updated>2022-09-13T19:26:53.000Z</updated>
-        <summary type="html"><![CDATA[Facebook lead-generation forms are being repurposed to collect passwords and credit card information from unsuspecting Facebook advertisers.]]></summary>
-        <author>
-            <name>Ericka Chickowski, Contributing Writer, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Name That Toon: Shiver Me Timbers!]]></title>
-        <id>https://www.darkreading.com/attacks-breaches/name-that-toon-shiver-me-timbers-</id>
-        <link href="https://www.darkreading.com/attacks-breaches/name-that-toon-shiver-me-timbers-"/>
-        <updated>2022-09-13T17:15:00.000Z</updated>
-        <summary type="html"><![CDATA[Feeling creative? Submit your caption and our panel of experts will reward the winner with a $25 Amazon gift card.]]></summary>
-        <author>
-            <name>John Klossner, Cartoonist</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Opus Security Emerges from Stealth with $10M in Funding for Cloud SecOps and Remediation Processes]]></title>
-        <id>https://www.darkreading.com/cloud/opus-security-emerges-from-stealth-with-10m-in-funding-for-cloud-secops-and-remediation-processes</id>
-        <link href="https://www.darkreading.com/cloud/opus-security-emerges-from-stealth-with-10m-in-funding-for-cloud-secops-and-remediation-processes"/>
-        <updated>2022-09-13T17:02:17.000Z</updated>
-        <summary type="html"><![CDATA[Siemplify veterans introduce Cloud Security Orchestration and Remediation platform, backed by high-profile investors including YL Ventures, Tiger Global, and CEOs of CrowdStrike and CyberArk]]></summary>
-        <author>
-            <name>Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CISA Releases Five Industrial Control Systems Advisories]]></title>
-        <id>17959 at https://us-cert.cisa.gov</id>
-        <link href="https://us-cert.cisa.gov/ncas/current-activity/2022/09/13/cisa-releases-five-industrial-control-systems-advisories"/>
-        <updated>2022-09-13T17:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Original release date: September 13, 2022
-CISA released five Industrial Control Systems (ICS) advisories on September 13, 2022. These advisories provide timely information about current security issues, vulnerabilities, and exploits surrounding ICS.
-CISA encourages users and administrators to review the newly released ICS advisories for technical details and mitigations:
-ICSA-22-256-01 Hitachi Energy TXpert Hub CoreTec 4 Sudo Vulnerability
-ICSA-22-256-02 Honeywell SoftMaster
-ICSA-22-256-03 Delta Industrial Automation DIAEnergie
-ICSA-22-256-04 Kingspan TMS300 CS
-ICSA-20-324-02 Paradox IP150 (Update A)
-This product is provided subject to this Notification and this Privacy & Use policy.]]></summary>
-        <author>
-            <name>CISA</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Apple Releases Security Updates for Multiple Products]]></title>
-        <id>17964 at https://us-cert.cisa.gov</id>
-        <link href="https://us-cert.cisa.gov/ncas/current-activity/2022/09/13/apple-releases-security-updates-multiple-products"/>
-        <updated>2022-09-13T16:27:21.000Z</updated>
-        <summary type="html"><![CDATA[Original release date: September 13, 2022
-Apple has released security updates to address vulnerabilities in multiple products. An attacker could exploit some of these vulnerabilities to take control of an affected device.
-CISA encourages users and administrators to review the Apple security updates page for the following products and apply the necessary updates as soon as possible:
-Safari 16
-iOS 16
-macOS Monterey 12.6
-macOS Big Sur 11.7
-iOS 15.7 and iPadOS 15.7
-This product is provided subject to this Notification and this Privacy & Use policy.]]></summary>
-        <author>
-            <name>CISA</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Arcserve Independent Global Study Finds Businesses Still Losing Mission-Critical Company Data]]></title>
-        <id>https://www.darkreading.com/operations/arcserve-independent-global-study-finds-businesses-still-losing-mission-critical-company-data</id>
-        <link href="https://www.darkreading.com/operations/arcserve-independent-global-study-finds-businesses-still-losing-mission-critical-company-data"/>
-        <updated>2022-09-13T16:17:57.000Z</updated>
-        <summary type="html"><![CDATA[.]]></summary>
-        <author>
-            <name>Dark Reading</name>
         </author>
     </entry>
 </feed>
