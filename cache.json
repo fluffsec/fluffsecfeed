@@ -441,26 +441,6 @@
           "wordCount": 1307,
           "title": "Iranian Islamic Revolutionary Guard Corps Affiliated Cyber Actors Exploiting Vulnerabilities for Data Extortion and Disk Encryption for Ransom Operations",
           "imageUrl": null
-        },
-        {
-          "id": "17968 at https://us-cert.cisa.gov",
-          "author": "CISA",
-          "description": "Original release date: September 13, 2022\nAdobe has released security updates to address vulnerabilities in multiple products. An attacker could exploit some of these vulnerabilities to take control of an affected system.\nCISA encourages users and administrators to review the following Adobe Security Bulletins and apply the necessary updates.\nExperience Manager APSB22-40\nBridge APSB22-49\nInDesign APSB22-50\nPhotoshop APSB22-52\nInCopy APSB22-53\nAnimate APSB22-54\nIllustrator APSB22-55\nThis product is provided subject to this Notification and this Privacy & Use policy.",
-          "link": "https://us-cert.cisa.gov/ncas/current-activity/2022/09/13/adobe-releases-security-updates-multiple-products",
-          "publishedOn": "2022-09-13T23:08:06.000Z",
-          "wordCount": 1071,
-          "title": "Adobe Releases Security Updates for Multiple Products",
-          "imageUrl": null
-        },
-        {
-          "id": "17967 at https://us-cert.cisa.gov",
-          "author": "CISA",
-          "description": "Original release date: September 13, 2022\nMicrosoft has released updates to address multiple vulnerabilities in Microsoft software. An attacker can exploit some of these vulnerabilities to take control of an affected system.\nCISA encourages users and administrators to review Microsoft’s September 2022 Security Update Guide and Deployment Information and apply the necessary updates.\nThis product is provided subject to this Notification and this Privacy & Use policy.",
-          "link": "https://us-cert.cisa.gov/ncas/current-activity/2022/09/13/microsoft-releases-september-2022-security-updates",
-          "publishedOn": "2022-09-13T20:30:50.000Z",
-          "wordCount": 1057,
-          "title": "Microsoft Releases September 2022 Security Updates",
-          "imageUrl": null
         }
       ]
     },
@@ -499,6 +479,21 @@
       "feedUrl": "https://www.darkreading.com/rss.xml",
       "siteUrl": "https://www.darkreading.com",
       "articles": [
+        {
+          "id": "https://www.darkreading.com/attacks-breaches/what-the-uber-breach-verdict-means-for-cisos-in-the-us",
+          "author": "Chen Burshan, CEO, Skyhawk Security",
+          "description": "Can already beleaguered CISOs now add possible legal charges to their smorgasbord of job considerations? Disclose a breach to comply and face dismissal, or cover it up and face personal punishment.",
+          "link": "https://www.darkreading.com/attacks-breaches/what-the-uber-breach-verdict-means-for-cisos-in-the-us",
+          "publishedOn": "2022-10-13T14:00:00.000Z",
+          "wordCount": 12917,
+          "title": "What the Uber Breach Verdict Means for CISOs in the US",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt76f57c1656302bdd/63472c774f29920f751fb73a/Chen_Burshan_Hi_Res_Image.JPG",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt76f57c1656302bdd/63472c774f29920f751fb73a/Chen_Burshan_Hi_Res_Image.JPG"
+        },
         {
           "id": "https://www.darkreading.com/application-security/thoma-bravo-acquire-forgerock",
           "author": "Dark Reading Staff, Dark Reading",
@@ -3598,81 +3593,6 @@
             "length": "0"
           },
           "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt02d79fb9a44a4258/60b1e9dd2a25046b35110696/Jai-Vijayan.jpeg"
-        },
-        {
-          "id": "https://www.darkreading.com/edge-articles/key-takeaways-from-the-twitter-whistleblower-s-testimony",
-          "author": "Edge Editors, Dark Reading",
-          "description": "Twitter did not know what data it had nor who had access to it, Peiter \"Mudge\" Zatko told Congressional lawmakers during a Senate panel hearing.",
-          "link": "https://www.darkreading.com/edge-articles/key-takeaways-from-the-twitter-whistleblower-s-testimony",
-          "publishedOn": "2022-09-14T00:59:31.000Z",
-          "wordCount": 10475,
-          "title": "Key Takeaways From the Twitter Whistleblower's Testimony",
-          "enclosure": {
-            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltbeb30fde8ec73a32/60d4432c2446e93b5b5a0e0c/Edge-Editors.png",
-            "type": "image/*",
-            "length": "0"
-          },
-          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltbeb30fde8ec73a32/60d4432c2446e93b5b5a0e0c/Edge-Editors.png"
-        },
-        {
-          "id": "https://www.darkreading.com/dr-tech/bishopfox-releases-cloud-enumeration-tool-cloudfox",
-          "author": "Dark Reading Staff, Dark Reading",
-          "description": "CloudFox is a command-line tool to help penetration testers understand unknown cloud environments.",
-          "link": "https://www.darkreading.com/dr-tech/bishopfox-releases-cloud-enumeration-tool-cloudfox",
-          "publishedOn": "2022-09-13T22:34:00.000Z",
-          "wordCount": 9947,
-          "title": "Bishop Fox Releases Cloud Enumeration Tool CloudFox",
-          "enclosure": {
-            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blte161b23f0fd3a84b/60b1ea374e7eb868c4c6a293/dr_staff_125x125.jpg",
-            "type": "image/*",
-            "length": "0"
-          },
-          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blte161b23f0fd3a84b/60b1ea374e7eb868c4c6a293/dr_staff_125x125.jpg"
-        },
-        {
-          "id": "https://www.darkreading.com/vulnerabilities-threats/microsoft-quashes-actively-exploited-zero-day-wormable-critical-bugs",
-          "author": "Tara Seals, Managing Editor, News, Dark Reading",
-          "description": "In Microsoft's lightest Patch Tuesday update of the year so far, several security vulnerabilities stand out as must-patch, researchers warn.",
-          "link": "https://www.darkreading.com/vulnerabilities-threats/microsoft-quashes-actively-exploited-zero-day-wormable-critical-bugs",
-          "publishedOn": "2022-09-13T21:17:03.000Z",
-          "wordCount": 12464,
-          "title": "Microsoft Quashes Actively Exploited Zero-Day, Wormable Critical Bugs",
-          "enclosure": {
-            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltea67136f81f32eca/626a9eb4726e3315b16b3c64/Tara-Seals-Headshot2.jpg",
-            "type": "image/*",
-            "length": "0"
-          },
-          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltea67136f81f32eca/626a9eb4726e3315b16b3c64/Tara-Seals-Headshot2.jpg"
-        },
-        {
-          "id": "https://www.darkreading.com/attacks-breaches/u-haul-customer-contract-search-tool-compromised",
-          "author": "Becky Bracken, Editor, Dark Reading",
-          "description": "Password compromise led to unauthorized access to a customer contract search tool over a five-month window, according to the company.",
-          "link": "https://www.darkreading.com/attacks-breaches/u-haul-customer-contract-search-tool-compromised",
-          "publishedOn": "2022-09-13T19:50:24.000Z",
-          "wordCount": 9281,
-          "title": "U-Haul Customer Contract Search Tool Compromised",
-          "enclosure": {
-            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt8e7bd143d726930b/627271268681151716941064/BeckyB.jpg",
-            "type": "image/*",
-            "length": "0"
-          },
-          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt8e7bd143d726930b/627271268681151716941064/BeckyB.jpg"
-        },
-        {
-          "id": "https://www.darkreading.com/attacks-breaches/shadowpad-threat-actor-dll-sideloading-espionage",
-          "author": "Jai Vijayan, Contributing Writer, Dark Reading",
-          "description": "Cyber spies are using legitimate apps for DLL sideloading, deploying an updated range of malware, including the new \"Logdatter\" info-stealer.",
-          "link": "https://www.darkreading.com/attacks-breaches/shadowpad-threat-actor-dll-sideloading-espionage",
-          "publishedOn": "2022-09-13T19:43:44.000Z",
-          "wordCount": 11366,
-          "title": "ShadowPad Threat Actors Return With Fresh Government Strikes, Updated Tools",
-          "enclosure": {
-            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt02d79fb9a44a4258/60b1e9dd2a25046b35110696/Jai-Vijayan.jpeg",
-            "type": "image/*",
-            "length": "0"
-          },
-          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt02d79fb9a44a4258/60b1e9dd2a25046b35110696/Jai-Vijayan.jpeg"
         }
       ]
     },
@@ -3779,6 +3699,26 @@
       "feedUrl": "https://blog.knowbe4.com/rss.xml",
       "siteUrl": "https://blog.knowbe4.com",
       "articles": [
+        {
+          "id": "https://blog.knowbe4.com/small-business-grants-as-phishbait",
+          "author": "Stu Sjouwerman",
+          "description": "INKY has published a report on the use of small business grants as phishing lures. Scammers are impersonating the US Small Business Administration (SBA) to distribute phony grant applications hosted on Google Forms.",
+          "link": "https://blog.knowbe4.com/small-business-grants-as-phishbait",
+          "publishedOn": "2022-10-13T13:10:04.000Z",
+          "wordCount": 2145,
+          "title": "Small Business Grants as Phishbait",
+          "imageUrl": "https://blog.knowbe4.com/hubfs/Small%20Business%20Grants%20Phishbait.jpg#keepProtocol"
+        },
+        {
+          "id": "https://blog.knowbe4.com/scams-scams-everywhere",
+          "author": "Erich Kron",
+          "description": "Scammers have been around as long as history has been recorded. Think about the famous ‘Trojan Horse’ for example. A perfect scam that allowed attackers to get behind the city walls. The same is still happening, although the technology has evolved from wooden horses to digital ones. Even with the change in technology, deception, especially that which uses emotions to deceive, has not.",
+          "link": "https://blog.knowbe4.com/scams-scams-everywhere",
+          "publishedOn": "2022-10-13T12:13:09.000Z",
+          "wordCount": 2635,
+          "title": "Scams, Scams, Everywhere!",
+          "imageUrl": "https://blog.knowbe4.com/hubfs/Social%20Image%20Repository/Evangelist%20Blog%20Social%20Graphics/Evangelists-Erich%20Kron.jpg#keepProtocol"
+        },
         {
           "id": "https://blog.knowbe4.com/a-new-phishing-as-a-service-kit",
           "author": "Stu Sjouwerman",
@@ -4298,16 +4238,6 @@
           "wordCount": 2880,
           "title": "Unconventional Security Awareness Advice",
           "imageUrl": "https://blog.knowbe4.com/hubfs/Social%20Image%20Repository/Evangelist%20Blog%20Social%20Graphics/Evangelists-Javvad%20Malik.jpg#keepProtocol"
-        },
-        {
-          "id": "https://blog.knowbe4.com/heads-up-online-scams-on-queen-elizabeths-death-is-here",
-          "author": "Stu Sjouwerman",
-          "description": "The Sun just reported that experts are sending a warning about online scams in relation to Queen Elizabeth's passing.",
-          "link": "https://blog.knowbe4.com/heads-up-online-scams-on-queen-elizabeths-death-is-here",
-          "publishedOn": "2022-09-13T20:34:58.000Z",
-          "wordCount": 2025,
-          "title": "[HEADS UP] Online Scams on Queen Elizabeth's Death is Here",
-          "imageUrl": "https://blog.knowbe4.com/hubfs/Queen%20Elizabeth%20Scams.jpg#keepProtocol"
         }
       ]
     },
@@ -4316,6 +4246,61 @@
       "feedUrl": "https://thehackernews.com/feeds/posts/default",
       "siteUrl": "https://thehackernews.com/",
       "articles": [
+        {
+          "id": "tag:blogger.com,1999:blog-4802841478634147276.post-1766819288582933234",
+          "author": "noreply@blogger.com (Ravie Lakshmanan)",
+          "description": "A previously undocumented command-and-control (C2) framework dubbed Alchimist is likely being used in the wild to target Windows, macOS, and Linux systems.\n\"Alchimist C2 has a web interface written in Simplified Chinese and can generate a configured payload, establish remote sessions, deploy payload to the remote machines, capture screenshots, perform remote shellcode execution, and run",
+          "link": "https://thehackernews.com/2022/10/new-chinese-malware-attack-framework.html",
+          "publishedOn": "2022-10-13T12:17:00.000Z",
+          "wordCount": null,
+          "title": "New Chinese Malware Attack Framework Targets Windows, macOS, and Linux Systems",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "tag:blogger.com,1999:blog-4802841478634147276.post-2672857793593106042",
+          "author": "noreply@blogger.com (Ravie Lakshmanan)",
+          "description": "A novel timing attack discovered against the npm's registry API can be exploited to potentially disclose private packages used by organizations, putting developers at risk of supply chain threats.\n\"By creating a list of possible package names, threat actors can detect organizations' scoped private packages and then masquerade public packages, tricking employees and users into downloading them,\"",
+          "link": "https://thehackernews.com/2022/10/new-timing-attack-against-npm-registry.html",
+          "publishedOn": "2022-10-13T12:00:00.000Z",
+          "wordCount": null,
+          "title": "New Timing Attack Against NPM Registry API Could Expose Private Packages",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "tag:blogger.com,1999:blog-4802841478634147276.post-6835118362105718628",
+          "author": "noreply@blogger.com (The Hacker News)",
+          "description": "What is the OWASP Top 10, and – just as important – what is it not? In this review, we look at how you can make this critical risk report work for you and your organisation.\nWhat is OWASP?\nOWASP is the Open Web Application Security Project, an international non-profit organization dedicated to improving web application security. \nIt operates on the core principle that all of its materials are",
+          "link": "https://thehackernews.com/2022/10/does-owasp-top-10-still-matter.html",
+          "publishedOn": "2022-10-13T11:50:00.000Z",
+          "wordCount": null,
+          "title": "Does the OWASP Top 10 Still Matter?",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "tag:blogger.com,1999:blog-4802841478634147276.post-1944366398397581901",
+          "author": "noreply@blogger.com (Ravie Lakshmanan)",
+          "description": "An advanced persistent threat (APT) actor known as Budworm targeted a U.S.-based entity for the first time in more than six years, according to latest research.\nThe attack was aimed at an unnamed U.S. state legislature, the Symantec Threat Hunter team, part of Broadcom Software, said in a report shared with The Hacker News.\nOther \"strategically significant\" intrusions mounted over the past six",
+          "link": "https://thehackernews.com/2022/10/budworm-hackers-resurface-with-new.html",
+          "publishedOn": "2022-10-13T10:08:00.000Z",
+          "wordCount": null,
+          "title": "Budworm Hackers Resurface with New Espionage Attacks Aimed at U.S. Organization",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "tag:blogger.com,1999:blog-4802841478634147276.post-5456017743803441659",
+          "author": "noreply@blogger.com (Ravie Lakshmanan)",
+          "description": "An unofficial version of the popular WhatsApp messaging app called YoWhatsApp has been observed deploying an Android trojan known as Triada.\nThe goal of the malware is to steal the keys that \"allow the use of a WhatsApp account without the app,\" Kaspersky said in a new report. \"If the keys are stolen, a user of a malicious WhatsApp mod can lose control over their account.\"",
+          "link": "https://thehackernews.com/2022/10/modified-whatsapp-app-caught-infecting.html",
+          "publishedOn": "2022-10-13T07:39:00.000Z",
+          "wordCount": null,
+          "title": "Modified WhatsApp App Caught Infecting Android Devices with Malware",
+          "itunes": {},
+          "imageUrl": null
+        },
         {
           "id": "tag:blogger.com,1999:blog-4802841478634147276.post-296994435355286742",
           "author": "noreply@blogger.com (Ravie Lakshmanan)",
@@ -5699,17 +5684,6 @@
           "publishedOn": "2022-09-14T04:42:00.000Z",
           "wordCount": null,
           "title": "Microsoft's Latest Security Update Fixes 64 New Flaws, Including a Zero-Day",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "tag:blogger.com,1999:blog-4802841478634147276.post-7676094394259436646",
-          "author": "noreply@blogger.com (Ravie Lakshmanan)",
-          "description": "A zero-day flaw in the latest version of a WordPress premium plugin known as WPGateway is being actively exploited in the wild, potentially allowing malicious actors to completely take over affected sites.\nTracked as CVE-2022-3180 (CVSS score: 9.8), the issue is being weaponized to add a malicious administrator user to sites running the WPGateway plugin, WordPress security company Wordfence",
-          "link": "https://thehackernews.com/2022/09/over-280000-wordpress-sites-attacked.html",
-          "publishedOn": "2022-09-14T01:51:00.000Z",
-          "wordCount": null,
-          "title": "Over 280,000 WordPress Sites Attacked Using WPGateway Plugin Zero-Day Vulnerability",
           "itunes": {},
           "imageUrl": null
         }

@@ -2,10 +2,98 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-10-13T07:38:27.231Z</updated>
+    <updated>2022-10-13T14:00:36.120Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[What the Uber Breach Verdict Means for CISOs in the US]]></title>
+        <id>https://www.darkreading.com/attacks-breaches/what-the-uber-breach-verdict-means-for-cisos-in-the-us</id>
+        <link href="https://www.darkreading.com/attacks-breaches/what-the-uber-breach-verdict-means-for-cisos-in-the-us"/>
+        <updated>2022-10-13T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Can already beleaguered CISOs now add possible legal charges to their smorgasbord of job considerations? Disclose a breach to comply and face dismissal, or cover it up and face personal punishment.]]></summary>
+        <author>
+            <name>Chen Burshan, CEO, Skyhawk Security</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Small Business Grants as Phishbait]]></title>
+        <id>https://blog.knowbe4.com/small-business-grants-as-phishbait</id>
+        <link href="https://blog.knowbe4.com/small-business-grants-as-phishbait"/>
+        <updated>2022-10-13T13:10:04.000Z</updated>
+        <summary type="html"><![CDATA[INKY has published a report on the use of small business grants as phishing lures. Scammers are impersonating the US Small Business Administration (SBA) to distribute phony grant applications hosted on Google Forms.]]></summary>
+        <author>
+            <name>Stu Sjouwerman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New Chinese Malware Attack Framework Targets Windows, macOS, and Linux Systems]]></title>
+        <id>tag:blogger.com,1999:blog-4802841478634147276.post-1766819288582933234</id>
+        <link href="https://thehackernews.com/2022/10/new-chinese-malware-attack-framework.html"/>
+        <updated>2022-10-13T12:17:00.000Z</updated>
+        <summary type="html"><![CDATA[A previously undocumented command-and-control (C2) framework dubbed Alchimist is likely being used in the wild to target Windows, macOS, and Linux systems.
+"Alchimist C2 has a web interface written in Simplified Chinese and can generate a configured payload, establish remote sessions, deploy payload to the remote machines, capture screenshots, perform remote shellcode execution, and run]]></summary>
+        <author>
+            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Scams, Scams, Everywhere!]]></title>
+        <id>https://blog.knowbe4.com/scams-scams-everywhere</id>
+        <link href="https://blog.knowbe4.com/scams-scams-everywhere"/>
+        <updated>2022-10-13T12:13:09.000Z</updated>
+        <summary type="html"><![CDATA[Scammers have been around as long as history has been recorded. Think about the famous ‘Trojan Horse’ for example. A perfect scam that allowed attackers to get behind the city walls. The same is still happening, although the technology has evolved from wooden horses to digital ones. Even with the change in technology, deception, especially that which uses emotions to deceive, has not.]]></summary>
+        <author>
+            <name>Erich Kron</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New Timing Attack Against NPM Registry API Could Expose Private Packages]]></title>
+        <id>tag:blogger.com,1999:blog-4802841478634147276.post-2672857793593106042</id>
+        <link href="https://thehackernews.com/2022/10/new-timing-attack-against-npm-registry.html"/>
+        <updated>2022-10-13T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A novel timing attack discovered against the npm's registry API can be exploited to potentially disclose private packages used by organizations, putting developers at risk of supply chain threats.
+"By creating a list of possible package names, threat actors can detect organizations' scoped private packages and then masquerade public packages, tricking employees and users into downloading them,"]]></summary>
+        <author>
+            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Does the OWASP Top 10 Still Matter?]]></title>
+        <id>tag:blogger.com,1999:blog-4802841478634147276.post-6835118362105718628</id>
+        <link href="https://thehackernews.com/2022/10/does-owasp-top-10-still-matter.html"/>
+        <updated>2022-10-13T11:50:00.000Z</updated>
+        <summary type="html"><![CDATA[What is the OWASP Top 10, and – just as important – what is it not? In this review, we look at how you can make this critical risk report work for you and your organisation.
+What is OWASP?
+OWASP is the Open Web Application Security Project, an international non-profit organization dedicated to improving web application security. 
+It operates on the core principle that all of its materials are]]></summary>
+        <author>
+            <name>noreply@blogger.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Budworm Hackers Resurface with New Espionage Attacks Aimed at U.S. Organization]]></title>
+        <id>tag:blogger.com,1999:blog-4802841478634147276.post-1944366398397581901</id>
+        <link href="https://thehackernews.com/2022/10/budworm-hackers-resurface-with-new.html"/>
+        <updated>2022-10-13T10:08:00.000Z</updated>
+        <summary type="html"><![CDATA[An advanced persistent threat (APT) actor known as Budworm targeted a U.S.-based entity for the first time in more than six years, according to latest research.
+The attack was aimed at an unnamed U.S. state legislature, the Symantec Threat Hunter team, part of Broadcom Software, said in a report shared with The Hacker News.
+Other "strategically significant" intrusions mounted over the past six]]></summary>
+        <author>
+            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Modified WhatsApp App Caught Infecting Android Devices with Malware]]></title>
+        <id>tag:blogger.com,1999:blog-4802841478634147276.post-5456017743803441659</id>
+        <link href="https://thehackernews.com/2022/10/modified-whatsapp-app-caught-infecting.html"/>
+        <updated>2022-10-13T07:39:00.000Z</updated>
+        <summary type="html"><![CDATA[An unofficial version of the popular WhatsApp messaging app called YoWhatsApp has been observed deploying an Android trojan known as Triada.
+The goal of the malware is to steal the keys that "allow the use of a WhatsApp account without the app," Kaspersky said in a new report. "If the keys are stolen, a user of a malicious WhatsApp mod can lose control over their account."]]></summary>
+        <author>
+            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Researchers Uncover Custom Backdoors and Spying Tools Used by Polonium Hackers]]></title>
         <id>tag:blogger.com,1999:blog-4802841478634147276.post-296994435355286742</id>
@@ -4948,110 +5036,6 @@ A .NET based keylogger and remote access, Agent Tesla has had a long-standing pr
 Of the 64 bugs, five are rated Critical, 57 are rated Important, one is rated Moderate, and one is rated Low in severity. The patches are in addition to 16 vulnerabilities that Microsoft addressed in its]]></summary>
         <author>
             <name>noreply@blogger.com (Ravie Lakshmanan)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Over 280,000 WordPress Sites Attacked Using WPGateway Plugin Zero-Day Vulnerability]]></title>
-        <id>tag:blogger.com,1999:blog-4802841478634147276.post-7676094394259436646</id>
-        <link href="https://thehackernews.com/2022/09/over-280000-wordpress-sites-attacked.html"/>
-        <updated>2022-09-14T01:51:00.000Z</updated>
-        <summary type="html"><![CDATA[A zero-day flaw in the latest version of a WordPress premium plugin known as WPGateway is being actively exploited in the wild, potentially allowing malicious actors to completely take over affected sites.
-Tracked as CVE-2022-3180 (CVSS score: 9.8), the issue is being weaponized to add a malicious administrator user to sites running the WPGateway plugin, WordPress security company Wordfence]]></summary>
-        <author>
-            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Key Takeaways From the Twitter Whistleblower's Testimony]]></title>
-        <id>https://www.darkreading.com/edge-articles/key-takeaways-from-the-twitter-whistleblower-s-testimony</id>
-        <link href="https://www.darkreading.com/edge-articles/key-takeaways-from-the-twitter-whistleblower-s-testimony"/>
-        <updated>2022-09-14T00:59:31.000Z</updated>
-        <summary type="html"><![CDATA[Twitter did not know what data it had nor who had access to it, Peiter "Mudge" Zatko told Congressional lawmakers during a Senate panel hearing.]]></summary>
-        <author>
-            <name>Edge Editors, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Adobe Releases Security Updates for Multiple Products]]></title>
-        <id>17968 at https://us-cert.cisa.gov</id>
-        <link href="https://us-cert.cisa.gov/ncas/current-activity/2022/09/13/adobe-releases-security-updates-multiple-products"/>
-        <updated>2022-09-13T23:08:06.000Z</updated>
-        <summary type="html"><![CDATA[Original release date: September 13, 2022
-Adobe has released security updates to address vulnerabilities in multiple products. An attacker could exploit some of these vulnerabilities to take control of an affected system.
-CISA encourages users and administrators to review the following Adobe Security Bulletins and apply the necessary updates.
-Experience Manager APSB22-40
-Bridge APSB22-49
-InDesign APSB22-50
-Photoshop APSB22-52
-InCopy APSB22-53
-Animate APSB22-54
-Illustrator APSB22-55
-This product is provided subject to this Notification and this Privacy & Use policy.]]></summary>
-        <author>
-            <name>CISA</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bishop Fox Releases Cloud Enumeration Tool CloudFox]]></title>
-        <id>https://www.darkreading.com/dr-tech/bishopfox-releases-cloud-enumeration-tool-cloudfox</id>
-        <link href="https://www.darkreading.com/dr-tech/bishopfox-releases-cloud-enumeration-tool-cloudfox"/>
-        <updated>2022-09-13T22:34:00.000Z</updated>
-        <summary type="html"><![CDATA[CloudFox is a command-line tool to help penetration testers understand unknown cloud environments.]]></summary>
-        <author>
-            <name>Dark Reading Staff, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft Quashes Actively Exploited Zero-Day, Wormable Critical Bugs]]></title>
-        <id>https://www.darkreading.com/vulnerabilities-threats/microsoft-quashes-actively-exploited-zero-day-wormable-critical-bugs</id>
-        <link href="https://www.darkreading.com/vulnerabilities-threats/microsoft-quashes-actively-exploited-zero-day-wormable-critical-bugs"/>
-        <updated>2022-09-13T21:17:03.000Z</updated>
-        <summary type="html"><![CDATA[In Microsoft's lightest Patch Tuesday update of the year so far, several security vulnerabilities stand out as must-patch, researchers warn.]]></summary>
-        <author>
-            <name>Tara Seals, Managing Editor, News, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[HEADS UP] Online Scams on Queen Elizabeth's Death is Here]]></title>
-        <id>https://blog.knowbe4.com/heads-up-online-scams-on-queen-elizabeths-death-is-here</id>
-        <link href="https://blog.knowbe4.com/heads-up-online-scams-on-queen-elizabeths-death-is-here"/>
-        <updated>2022-09-13T20:34:58.000Z</updated>
-        <summary type="html"><![CDATA[The Sun just reported that experts are sending a warning about online scams in relation to Queen Elizabeth's passing.]]></summary>
-        <author>
-            <name>Stu Sjouwerman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft Releases September 2022 Security Updates]]></title>
-        <id>17967 at https://us-cert.cisa.gov</id>
-        <link href="https://us-cert.cisa.gov/ncas/current-activity/2022/09/13/microsoft-releases-september-2022-security-updates"/>
-        <updated>2022-09-13T20:30:50.000Z</updated>
-        <summary type="html"><![CDATA[Original release date: September 13, 2022
-Microsoft has released updates to address multiple vulnerabilities in Microsoft software. An attacker can exploit some of these vulnerabilities to take control of an affected system.
-CISA encourages users and administrators to review Microsoft’s September 2022 Security Update Guide and Deployment Information and apply the necessary updates.
-This product is provided subject to this Notification and this Privacy & Use policy.]]></summary>
-        <author>
-            <name>CISA</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[U-Haul Customer Contract Search Tool Compromised]]></title>
-        <id>https://www.darkreading.com/attacks-breaches/u-haul-customer-contract-search-tool-compromised</id>
-        <link href="https://www.darkreading.com/attacks-breaches/u-haul-customer-contract-search-tool-compromised"/>
-        <updated>2022-09-13T19:50:24.000Z</updated>
-        <summary type="html"><![CDATA[Password compromise led to unauthorized access to a customer contract search tool over a five-month window, according to the company.]]></summary>
-        <author>
-            <name>Becky Bracken, Editor, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ShadowPad Threat Actors Return With Fresh Government Strikes, Updated Tools]]></title>
-        <id>https://www.darkreading.com/attacks-breaches/shadowpad-threat-actor-dll-sideloading-espionage</id>
-        <link href="https://www.darkreading.com/attacks-breaches/shadowpad-threat-actor-dll-sideloading-espionage"/>
-        <updated>2022-09-13T19:43:44.000Z</updated>
-        <summary type="html"><![CDATA[Cyber spies are using legitimate apps for DLL sideloading, deploying an updated range of malware, including the new "Logdatter" info-stealer.]]></summary>
-        <author>
-            <name>Jai Vijayan, Contributing Writer, Dark Reading</name>
         </author>
     </entry>
 </feed>
