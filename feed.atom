@@ -2,10 +2,62 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-10-14T14:04:19.242Z</updated>
+    <updated>2022-10-14T19:25:38.575Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Apple's Constant Battles Against Zero-Day Exploits]]></title>
+        <id>https://www.darkreading.com/edge-articles/apple-s-constant-battles-against-zero-day-exploits</id>
+        <link href="https://www.darkreading.com/edge-articles/apple-s-constant-battles-against-zero-day-exploits"/>
+        <updated>2022-10-14T18:55:00.000Z</updated>
+        <summary type="html"><![CDATA[Such exploits sell for up to $10 million, making them the single most valuable commodity in the cybercrime underworld.]]></summary>
+        <author>
+            <name>Kolawole Samuel Adebayo, Contributing Writer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Concerns Over Fortinet Flaw Mount; PoC Released, Exploit Activity Grows]]></title>
+        <id>https://www.darkreading.com/attacks-breaches/concerns-fortinet-flaw-poc-increased-exploit-activity</id>
+        <link href="https://www.darkreading.com/attacks-breaches/concerns-fortinet-flaw-poc-increased-exploit-activity"/>
+        <updated>2022-10-14T18:29:00.000Z</updated>
+        <summary type="html"><![CDATA[The authentication bypass flaw in FortiOS, FortiProxy, and FortiSwitch Manager is easy to find and exploit, security experts say.]]></summary>
+        <author>
+            <name>Jai Vijayan, Contributing Writer, Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Researchers Reveal Detail for Windows Zero-Day Vulnerability Patched Last Month]]></title>
+        <id>tag:blogger.com,1999:blog-4802841478634147276.post-54825383714423766</id>
+        <link href="https://thehackernews.com/2022/10/researchers-reveal-detail-for-windows.html"/>
+        <updated>2022-10-14T17:34:00.000Z</updated>
+        <summary type="html"><![CDATA[Details have emerged about a now-patched security flaw in Windows Common Log File System (CLFS) that could be exploited by an attacker to gain elevated permissions on compromised machines.
+Tracked as CVE-2022-37969 (CVSS score: 7.8), the issue was addressed by Microsoft as part of its Patch Tuesday updates for September 2022, while also noting that it was being actively exploited in the wild.
+"]]></summary>
+        <author>
+            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fast Fashion Retailer Data Breach Draws $1.9M Fine]]></title>
+        <id>https://www.darkreading.com/attacks-breaches/shein-fast-fashion-retailer-data-breach-draws-1-9m-fine</id>
+        <link href="https://www.darkreading.com/attacks-breaches/shein-fast-fashion-retailer-data-breach-draws-1-9m-fine"/>
+        <updated>2022-10-14T17:00:00.000Z</updated>
+        <summary type="html"><![CDATA[New York AG fines Shein and Romwe parent company for failure to protect customer data and downplaying the 2018 compromise of 46 million shopper records.]]></summary>
+        <author>
+            <name>Dark Reading Staff, Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft 365 Message Encryption Can Leak Sensitive Info]]></title>
+        <id>https://www.darkreading.com/application-security/microsoft-365-message-encryption-can-leak-sensitive-info</id>
+        <link href="https://www.darkreading.com/application-security/microsoft-365-message-encryption-can-leak-sensitive-info"/>
+        <updated>2022-10-14T15:13:57.000Z</updated>
+        <summary type="html"><![CDATA[The default email encryption used in Microsoft Office's cloud version is leaky, which the company acknowledged but said it wouldn't fix.]]></summary>
+        <author>
+            <name>Nathan Eddy, Contributing Writer, Dark Reading</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CISA Releases RedEye: Red Team Campaign Visualization and Reporting Tool]]></title>
         <id>18074 at https://us-cert.cisa.gov</id>
@@ -20,6 +72,16 @@ This product is provided subject to this Notification and this Privacy & Use pol
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Acuity Reports Increase in Cyber Liability Insurance Claims as Cybercrime Skyrockets]]></title>
+        <id>https://www.darkreading.com/attacks-breaches/acuity-reports-increase-in-cyber-liability-insurance-claims-as-cybercrime-skyrockets</id>
+        <link href="https://www.darkreading.com/attacks-breaches/acuity-reports-increase-in-cyber-liability-insurance-claims-as-cybercrime-skyrockets"/>
+        <updated>2022-10-14T15:00:07.000Z</updated>
+        <summary type="html"><![CDATA[Acuity Insurance reports ongoing increased insurance risk for individuals and businesses.]]></summary>
+        <author>
+            <name>Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Care and Feeding of the SOC's Most Powerful Tool: Your Brain]]></title>
         <id>https://www.darkreading.com/vulnerabilities-threats/care-and-feeding-of-the-soc-s-most-powerful-tool-your-brain</id>
         <link href="https://www.darkreading.com/vulnerabilities-threats/care-and-feeding-of-the-soc-s-most-powerful-tool-your-brain"/>
@@ -27,6 +89,18 @@ This product is provided subject to this Notification and this Privacy & Use pol
         <summary type="html"><![CDATA[Once overloaded, our brains can't process information effectively, performance decreases, and even the simplest of tasks seem foreign.]]></summary>
         <author>
             <name>Danika Nilson, Cyber Threat Hunter, Forescout Frontline, Forescout</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New Chinese Cyberespionage Group Targeting IT Service Providers and Telcos]]></title>
+        <id>tag:blogger.com,1999:blog-4802841478634147276.post-996075423691974856</id>
+        <link href="https://thehackernews.com/2022/10/new-chinese-cyberespionage-group.html"/>
+        <updated>2022-10-14T13:27:00.000Z</updated>
+        <summary type="html"><![CDATA[Telecommunications and IT service providers in the Middle East and Asia are being targeted by a previously undocumented Chinese-speaking threat group dubbed WIP19.
+The espionage-related attacks are characterized by the use of a stolen digital certificate issued by a Korean company called DEEPSoft to sign malicious artifacts deployed during the infection chain to evade detection.
+"Almost all]]></summary>
+        <author>
+            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
         </author>
     </entry>
     <entry>
@@ -5227,17 +5301,6 @@ At Davos 2022,]]></summary>
         <updated>2022-09-15T10:14:00.000Z</updated>
         <summary type="html"><![CDATA[A threat actor tracked under the moniker Webworm has been linked to bespoke Windows-based remote access trojans, some of which are said to be in pre-deployment or testing phases.
 "The group has developed customized versions of three older remote access trojans (RATs), including Trochilus RAT, Gh0st RAT, and 9002 RAT," the Symantec Threat Hunter team, part of Broadcom Software, said in a report]]></summary>
-        <author>
-            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[U.S. Charges 3 Iranian Hackers and Sanctions Several Others Over Ransomware Attacks]]></title>
-        <id>tag:blogger.com,1999:blog-4802841478634147276.post-4403791439207029918</id>
-        <link href="https://thehackernews.com/2022/09/us-charges-3-iranian-hackers-and.html"/>
-        <updated>2022-09-15T06:49:00.000Z</updated>
-        <summary type="html"><![CDATA[The U.S. Treasury Department's Office of Foreign Assets Control (OFAC) on Wednesday announced sweeping sanctions against ten individuals and two entities backed by Iran's Islamic Revolutionary Guard Corps (IRGC) for their involvement in ransomware attacks at least since October 2020.
-The agency said the cyber activity mounted by the individuals is partially attributable to intrusion sets tracked]]></summary>
         <author>
             <name>noreply@blogger.com (Ravie Lakshmanan)</name>
         </author>
