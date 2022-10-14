@@ -3758,36 +3758,6 @@
             "length": "0"
           },
           "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blte161b23f0fd3a84b/60b1ea374e7eb868c4c6a293/dr_staff_125x125.jpg"
-        },
-        {
-          "id": "https://www.darkreading.com/dr-tech/how-to-use-ssh-keys-and-1password-to-sign-git-commits",
-          "author": "Nathan Eddy, Contributing Writer, Dark Reading",
-          "description": "This Tech Tip walks through the steps to set up signed commits with SSH keys stored in 1Password.",
-          "link": "https://www.darkreading.com/dr-tech/how-to-use-ssh-keys-and-1password-to-sign-git-commits",
-          "publishedOn": "2022-09-14T18:39:00.000Z",
-          "wordCount": 11068,
-          "title": "How to Use SSH Keys and 1Password to Sign Git Commits",
-          "enclosure": {
-            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltf8b5a94afa71c53a/628e3799daa31875dc0c9fc0/NathanEddyHeadshot.PNG",
-            "type": "image/*",
-            "length": "0"
-          },
-          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltf8b5a94afa71c53a/628e3799daa31875dc0c9fc0/NathanEddyHeadshot.PNG"
-        },
-        {
-          "id": "https://www.darkreading.com/attacks-breaches/sparklinggoblin-updates-linux-version-of-sidewalk-backdoor-cyber-campaign",
-          "author": "Elizabeth Montalbano, Contributor, Dark Reading",
-          "description": "Researchers link the APT to an attack on a Hong Kong university, which compromised multiple key servers using advanced Linux malware.",
-          "link": "https://www.darkreading.com/attacks-breaches/sparklinggoblin-updates-linux-version-of-sidewalk-backdoor-cyber-campaign",
-          "publishedOn": "2022-09-14T16:15:34.000Z",
-          "wordCount": 13028,
-          "title": "SparklingGoblin Updates Linux Version of SideWalk Backdoor in Ongoing Cyber Campaign",
-          "enclosure": {
-            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltbfd004d139d42d70/6303bca6236c2476a257760e/ElizabethMontalbano.jpg",
-            "type": "image/*",
-            "length": "0"
-          },
-          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltbfd004d139d42d70/6303bca6236c2476a257760e/ElizabethMontalbano.jpg"
         }
       ]
     },
@@ -4443,26 +4413,6 @@
           "wordCount": 2158,
           "title": "[MSP News] Manage Your Multiple KnowBe4 Accounts Faster with Managed Training and Phishing Rolled Into One",
           "imageUrl": "https://lh3.googleusercontent.com/mbDmz1lUfMLRhn5MTvH5APPxEZWpNQVnl5_S9pw0fmzMbFm5m8xzxgzIeCxL1Oet3ej3ZcyiuG2AVNETAasE400N9B4ICb0Ec-KvdSQfQ3u-uMesI38PLxvtXLGbz81K92Cb4w-170F0dELu6t-5ScTjh6jYJn5K6rI5lZMYQegn8o0UR6NlDNBWSQ#keepProtocol"
-        },
-        {
-          "id": "https://blog.knowbe4.com/cisco-attempt-attributed-to-lapsus-group",
-          "author": "Stu Sjouwerman",
-          "description": "Security researchers at Cisco Talos have issued an update on the cyberattack Cisco sustained earlier this year. The attack began with a phishing attack against a Cisco employee, which led to the attackers stealing data and attempting to extort the company with the threat of releasing the stolen information.",
-          "link": "https://blog.knowbe4.com/cisco-attempt-attributed-to-lapsus-group",
-          "publishedOn": "2022-09-14T16:40:18.000Z",
-          "wordCount": 2244,
-          "title": "Cisco Attempt Attributed to Lapsus$ Group",
-          "imageUrl": "https://blog.knowbe4.com/hubfs/Cybercriminal%20Group.jpg#keepProtocol"
-        },
-        {
-          "id": "https://blog.knowbe4.com/unconventional-security-awareness-advice",
-          "author": "Javvad Malik",
-          "description": "October is Cybersecurity Awareness Month, and you are undoubtedly being bombarded with some fantastic advice on how to stay cyber safe.",
-          "link": "https://blog.knowbe4.com/unconventional-security-awareness-advice",
-          "publishedOn": "2022-09-14T16:37:41.000Z",
-          "wordCount": 2880,
-          "title": "Unconventional Security Awareness Advice",
-          "imageUrl": "https://blog.knowbe4.com/hubfs/Social%20Image%20Repository/Evangelist%20Blog%20Social%20Graphics/Evangelists-Javvad%20Malik.jpg#keepProtocol"
         }
       ]
     },
@@ -4471,6 +4421,28 @@
       "feedUrl": "https://thehackernews.com/feeds/posts/default",
       "siteUrl": "https://thehackernews.com/",
       "articles": [
+        {
+          "id": "tag:blogger.com,1999:blog-4802841478634147276.post-7951973216990427055",
+          "author": "noreply@blogger.com (Ravie Lakshmanan)",
+          "description": "Web infrastructure and security company Cloudflare disclosed this week that it halted a 2.5 Tbps distributed denial-of-service (DDoS) attack launched by a Mirai botnet.\nCharacterizing it as a \"multi-vector attack consisting of UDP and TCP floods,\" researcher Omer Yoachimik said the DDoS attack targeted the Minecraft server Wynncraft in Q3 2022.\n\"The entire 2.5 Tbps attack lasted about 2 minutes,",
+          "link": "https://thehackernews.com/2022/10/mirai-botnet-hits-wynncraft-minecraft.html",
+          "publishedOn": "2022-10-14T07:14:00.000Z",
+          "wordCount": null,
+          "title": "Mirai Botnet Hits Wynncraft Minecraft Server with 2.5 Tbps DDoS Attack",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "tag:blogger.com,1999:blog-4802841478634147276.post-5755338109756776778",
+          "author": "noreply@blogger.com (Ravie Lakshmanan)",
+          "description": "A proof-of-concept (PoC) exploit code has been made available for the recently disclosed critical security flaw affecting Fortinet FortiOS, FortiProxy, and FortiSwitchManager, making it imperative that users move quickly to apply the patches.\n\"FortiOS exposes a management web portal that allows a user to configure the system,\" Horizon3.ai researcher James Horseman said. \"Additionally, a user can",
+          "link": "https://thehackernews.com/2022/10/poc-exploit-released-for-critical.html",
+          "publishedOn": "2022-10-14T03:35:00.000Z",
+          "wordCount": null,
+          "title": "PoC Exploit Released for Critical Fortinet Auth Bypass Bug Under Active Attacks",
+          "itunes": {},
+          "imageUrl": null
+        },
         {
           "id": "tag:blogger.com,1999:blog-4802841478634147276.post-1766819288582933234",
           "author": "noreply@blogger.com (Ravie Lakshmanan)",

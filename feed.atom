@@ -2,10 +2,33 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-10-14T03:52:08.959Z</updated>
+    <updated>2022-10-14T07:41:16.182Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Mirai Botnet Hits Wynncraft Minecraft Server with 2.5 Tbps DDoS Attack]]></title>
+        <id>tag:blogger.com,1999:blog-4802841478634147276.post-7951973216990427055</id>
+        <link href="https://thehackernews.com/2022/10/mirai-botnet-hits-wynncraft-minecraft.html"/>
+        <updated>2022-10-14T07:14:00.000Z</updated>
+        <summary type="html"><![CDATA[Web infrastructure and security company Cloudflare disclosed this week that it halted a 2.5 Tbps distributed denial-of-service (DDoS) attack launched by a Mirai botnet.
+Characterizing it as a "multi-vector attack consisting of UDP and TCP floods," researcher Omer Yoachimik said the DDoS attack targeted the Minecraft server Wynncraft in Q3 2022.
+"The entire 2.5 Tbps attack lasted about 2 minutes,]]></summary>
+        <author>
+            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PoC Exploit Released for Critical Fortinet Auth Bypass Bug Under Active Attacks]]></title>
+        <id>tag:blogger.com,1999:blog-4802841478634147276.post-5755338109756776778</id>
+        <link href="https://thehackernews.com/2022/10/poc-exploit-released-for-critical.html"/>
+        <updated>2022-10-14T03:35:00.000Z</updated>
+        <summary type="html"><![CDATA[A proof-of-concept (PoC) exploit code has been made available for the recently disclosed critical security flaw affecting Fortinet FortiOS, FortiProxy, and FortiSwitchManager, making it imperative that users move quickly to apply the patches.
+"FortiOS exposes a management web portal that allows a user to configure the system," Horizon3.ai researcher James Horseman said. "Additionally, a user can]]></summary>
+        <author>
+            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Juice Technology Receives ISO Certification for Charging Station Cyber Security]]></title>
         <id>https://www.darkreading.com/application-security/juice-technology-receives-iso-certification-for-charging-station-cyber-security</id>
@@ -5152,46 +5175,6 @@ The agency said the cyber activity mounted by the individuals is partially attri
         <summary type="html"><![CDATA[New executive order stops short of mandating NIST's guidelines, but recommends SBOMs for federal agencies across government.]]></summary>
         <author>
             <name>Dark Reading Staff, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use SSH Keys and 1Password to Sign Git Commits]]></title>
-        <id>https://www.darkreading.com/dr-tech/how-to-use-ssh-keys-and-1password-to-sign-git-commits</id>
-        <link href="https://www.darkreading.com/dr-tech/how-to-use-ssh-keys-and-1password-to-sign-git-commits"/>
-        <updated>2022-09-14T18:39:00.000Z</updated>
-        <summary type="html"><![CDATA[This Tech Tip walks through the steps to set up signed commits with SSH keys stored in 1Password.]]></summary>
-        <author>
-            <name>Nathan Eddy, Contributing Writer, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cisco Attempt Attributed to Lapsus$ Group]]></title>
-        <id>https://blog.knowbe4.com/cisco-attempt-attributed-to-lapsus-group</id>
-        <link href="https://blog.knowbe4.com/cisco-attempt-attributed-to-lapsus-group"/>
-        <updated>2022-09-14T16:40:18.000Z</updated>
-        <summary type="html"><![CDATA[Security researchers at Cisco Talos have issued an update on the cyberattack Cisco sustained earlier this year. The attack began with a phishing attack against a Cisco employee, which led to the attackers stealing data and attempting to extort the company with the threat of releasing the stolen information.]]></summary>
-        <author>
-            <name>Stu Sjouwerman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Unconventional Security Awareness Advice]]></title>
-        <id>https://blog.knowbe4.com/unconventional-security-awareness-advice</id>
-        <link href="https://blog.knowbe4.com/unconventional-security-awareness-advice"/>
-        <updated>2022-09-14T16:37:41.000Z</updated>
-        <summary type="html"><![CDATA[October is Cybersecurity Awareness Month, and you are undoubtedly being bombarded with some fantastic advice on how to stay cyber safe.]]></summary>
-        <author>
-            <name>Javvad Malik</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SparklingGoblin Updates Linux Version of SideWalk Backdoor in Ongoing Cyber Campaign]]></title>
-        <id>https://www.darkreading.com/attacks-breaches/sparklinggoblin-updates-linux-version-of-sidewalk-backdoor-cyber-campaign</id>
-        <link href="https://www.darkreading.com/attacks-breaches/sparklinggoblin-updates-linux-version-of-sidewalk-backdoor-cyber-campaign"/>
-        <updated>2022-09-14T16:15:34.000Z</updated>
-        <summary type="html"><![CDATA[Researchers link the APT to an attack on a Hong Kong university, which compromised multiple key servers using advanced Linux malware.]]></summary>
-        <author>
-            <name>Elizabeth Montalbano, Contributor, Dark Reading</name>
         </author>
     </entry>
 </feed>
