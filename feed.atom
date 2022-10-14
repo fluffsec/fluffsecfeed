@@ -2,10 +2,85 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-10-14T07:41:16.182Z</updated>
+    <updated>2022-10-14T14:04:19.242Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[CISA Releases RedEye: Red Team Campaign Visualization and Reporting Tool]]></title>
+        <id>18074 at https://us-cert.cisa.gov</id>
+        <link href="https://us-cert.cisa.gov/ncas/current-activity/2022/10/14/cisa-releases-redeye-red-team-campaign-visualization-and-reporting"/>
+        <updated>2022-10-14T15:02:04.000Z</updated>
+        <summary type="html"><![CDATA[Original release date: October 14, 2022
+CISA has released RedEye, an interactive open-source analytic tool to visualize and report Red Team command and control activities. RedEye allows an operator to quickly assess complex data, evaluate mitigation strategies, and enable effective decision making.
+For more information, CISA encourages users to review RedEye on GitHub and watch CISA’s RedEye tool overview video.
+This product is provided subject to this Notification and this Privacy & Use policy.]]></summary>
+        <author>
+            <name>CISA</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Care and Feeding of the SOC's Most Powerful Tool: Your Brain]]></title>
+        <id>https://www.darkreading.com/vulnerabilities-threats/care-and-feeding-of-the-soc-s-most-powerful-tool-your-brain</id>
+        <link href="https://www.darkreading.com/vulnerabilities-threats/care-and-feeding-of-the-soc-s-most-powerful-tool-your-brain"/>
+        <updated>2022-10-14T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Once overloaded, our brains can't process information effectively, performance decreases, and even the simplest of tasks seem foreign.]]></summary>
+        <author>
+            <name>Danika Nilson, Cyber Threat Hunter, Forescout Frontline, Forescout</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New Phishing Campaign Uses Office Docs to Install Cobalt Strike Beacon]]></title>
+        <id>https://blog.knowbe4.com/new-phishing-campaign-uses-office-docs-to-install-cobalt-strike-beacon</id>
+        <link href="https://blog.knowbe4.com/new-phishing-campaign-uses-office-docs-to-install-cobalt-strike-beacon"/>
+        <updated>2022-10-14T13:03:08.000Z</updated>
+        <summary type="html"><![CDATA[Under the guise of determining applicant eligibility for a U.S. federal government job, this latest phishing attack plants the seed for a future attack on the victim organization.]]></summary>
+        <author>
+            <name>Stu Sjouwerman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cyber-Zombie Apocalypse: Ransomware Gangs Continue to Come Back from the Dead]]></title>
+        <id>https://blog.knowbe4.com/cyber-zombie-apocalypse-ransomware-gangs-continue-to-come-back-from-the-dead</id>
+        <link href="https://blog.knowbe4.com/cyber-zombie-apocalypse-ransomware-gangs-continue-to-come-back-from-the-dead"/>
+        <updated>2022-10-14T13:03:02.000Z</updated>
+        <summary type="html"><![CDATA[With ransomware gangs making so much money and then dropping off the face of the earth, what’s the motivation to come back to life and potentially risk getting caught?]]></summary>
+        <author>
+            <name>Stu Sjouwerman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[German Hackers Arrested for Stealing €4 Million in 7-Month Banking Phishing Scams]]></title>
+        <id>https://blog.knowbe4.com/german-hackers-arrested-for-stealing-4-million-in-7-month-banking-phishing-scams</id>
+        <link href="https://blog.knowbe4.com/german-hackers-arrested-for-stealing-4-million-in-7-month-banking-phishing-scams"/>
+        <updated>2022-10-14T13:02:56.000Z</updated>
+        <summary type="html"><![CDATA[The recent arrest demonstrates how very small and unsophisticated a cybercriminal team can be to launch a very successful phishing campaign that takes victims for millions.]]></summary>
+        <author>
+            <name>Stu Sjouwerman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New PHP Version of Ducktail Malware Hijacking Facebook Business Accounts]]></title>
+        <id>tag:blogger.com,1999:blog-4802841478634147276.post-1695497949443885201</id>
+        <link href="https://thehackernews.com/2022/10/new-php-version-of-ducktail-malware.html"/>
+        <updated>2022-10-14T10:12:00.000Z</updated>
+        <summary type="html"><![CDATA[A PHP version of an information-stealing malware called Ducktail has been discovered in the wild being distributed in the form of cracked installers for legitimate apps and games, according to the latest findings from Zscaler.
+"Like older versions (.NetCore), the latest version (PHP) also aims to exfiltrate sensitive information related to saved browser credentials, Facebook account information,]]></summary>
+        <author>
+            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How To Build a Career as a Freelance Cybersecurity Analyst — From Scratch]]></title>
+        <id>tag:blogger.com,1999:blog-4802841478634147276.post-6561532782118390488</id>
+        <link href="https://thehackernews.com/2022/10/how-to-build-career-as-freelance.html"/>
+        <updated>2022-10-14T10:01:00.000Z</updated>
+        <summary type="html"><![CDATA[With each passing year, the cybersecurity threat landscape continues to worsen. That reality makes cybersecurity analysts some of the most sought-after technology professionals in the world. And there are nowhere near enough of them to meet the demand. At last count, there were over 3.5 million unfilled cybersecurity jobs worldwide — and that number is still growing.
+The situation means that]]></summary>
+        <author>
+            <name>noreply@blogger.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Mirai Botnet Hits Wynncraft Minecraft Server with 2.5 Tbps DDoS Attack]]></title>
         <id>tag:blogger.com,1999:blog-4802841478634147276.post-7951973216990427055</id>
@@ -5165,16 +5240,6 @@ At Davos 2022,]]></summary>
 The agency said the cyber activity mounted by the individuals is partially attributable to intrusion sets tracked]]></summary>
         <author>
             <name>noreply@blogger.com (Ravie Lakshmanan)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[White House Guidance Recommends SBOMs for Federal Agencies]]></title>
-        <id>https://www.darkreading.com/application-security/white-house-guidance-recommends-sboms-federal-agencies</id>
-        <link href="https://www.darkreading.com/application-security/white-house-guidance-recommends-sboms-federal-agencies"/>
-        <updated>2022-09-14T20:00:00.000Z</updated>
-        <summary type="html"><![CDATA[New executive order stops short of mandating NIST's guidelines, but recommends SBOMs for federal agencies across government.]]></summary>
-        <author>
-            <name>Dark Reading Staff, Dark Reading</name>
         </author>
     </entry>
 </feed>
