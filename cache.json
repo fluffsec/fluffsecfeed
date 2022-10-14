@@ -44,16 +44,6 @@
           "wordCount": 3806,
           "title": "AA22-264A: Iranian State Actors Conduct Cyber Operations Against the Government of Albania",
           "imageUrl": null
-        },
-        {
-          "id": "17966 at https://us-cert.cisa.gov",
-          "author": "CISA",
-          "description": "Original release date: September 14, 2022\nSummary\nActions to take today to protect against ransom operations:\nknown exploited vulnerabilities.\nThis joint Cybersecurity Advisory (CSA) is the result of an analytic effort among the Federal Bureau of Investigation (FBI), the Cybersecurity and Infrastructure Security Agency (CISA), the National Security Agency (NSA), U.S. Cyber Command (USCC) - Cyber National Mission Force (CNMF), the Department of the Treasury (Treasury), the Australian Cyber Security Centre (ACSC), the Canadian Centre for Cyber Security (CCCS), and the United Kingdom’s National Cyber Security Centre (NCSC) to highlight continued malicious cyber activity by advanced persistent threat (APT) actors that the authoring agencies assess are affiliated with the Iranian Government’s I…",
-          "link": "https://us-cert.cisa.gov/ncas/alerts/aa22-257a",
-          "publishedOn": "2022-09-14T15:00:00.000Z",
-          "wordCount": 4400,
-          "title": "AA22-257A: Iranian Islamic Revolutionary Guard Corps-Affiliated Cyber Actors Exploiting Vulnerabilities for Data Extortion and Disk Encryption for Ransom Operations",
-          "imageUrl": null
         }
       ]
     },
@@ -431,26 +421,6 @@
           "wordCount": 1150,
           "title": "CISA and NSA Publish Open Radio Access Network Security Considerations",
           "imageUrl": null
-        },
-        {
-          "id": "17971 at https://us-cert.cisa.gov",
-          "author": "CISA",
-          "description": "Original release date: September 14, 2022\nCISA has added two new vulnerabilities to its Known Exploited Vulnerabilities Catalog, based on evidence of active exploitation. These types of vulnerabilities are a frequent attack vector for malicious cyber actors and pose significant risk to the federal enterprise. Note: to view the newly added vulnerabilities in the catalog, click on the arrow in the “Date Added to Catalog” column, which will sort by descending dates.\nBinding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the Known Exploited Vulnerabilities Catalog as a living list of known CVEs that carry significant risk to the federal enterprise. BOD 22-01 requires FCEB agencies to remediate identified vulnerabilities by the due date to protect FCEB networks against active threats. See the BOD 22-01 Fact Sheet for more information.\nAlthough BOD 22-01 only applies to FCEB agencies, CISA strongly urges all organizations to reduce their exposure to cyberattacks by prioritizing timely remediation of Catalog vulnerabilities as part of their vulnerability management practice. CISA will continue to add vulnerabilities to the Catalog that meet the specified criteria.\nThis product is provided subject to this Notification and this Privacy & Use policy.",
-          "link": "https://us-cert.cisa.gov/ncas/current-activity/2022/09/14/cisa-adds-two-known-exploited-vulnerabilities-catalog",
-          "publishedOn": "2022-09-14T15:12:45.000Z",
-          "wordCount": 1207,
-          "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
-          "imageUrl": null
-        },
-        {
-          "id": "17970 at https://us-cert.cisa.gov",
-          "author": "CISA",
-          "description": "Original release date: September 14, 2022\nCISA, Federal Bureau of Investigation (FBI), National Security Agency (NSA), U.S. Cyber Command (USCC) - Cyber National Mission Force (CNMF), Department of the Treasury, Australian Cyber Security Centre (ACSC), Canadian Centre for Cyber Security (CCCS), and United Kingdom’s National Cyber Security Centre (NCSC) have released a joint Cybersecurity Advisory (CSA), Iranian Islamic Revolutionary Guard Corps Affiliated Cyber Actors Exploiting Vulnerabilities for Data Extortion and Disk Encryption for Ransom Operations. This advisory updates previous joint reporting from November 2021, to highlight continued malicious cyber activity by advanced persistent threat (APT) actors that the authoring agencies now assess are associated with the Iranian Islamic Revolutionary Guard Corps (IRGC).\nThe authoring agencies urge network defenders to examine their current cybersecurity posture and apply the recommended mitigations in this joint CSA, which include:\nPatch all systems and prioritize remediating known exploited vulnerabilities.\nEnforce multifactor authentication (MFA).\nSecure Remote Desktop Protocol (RDP) and other risky services.\nMake offline backups of your data.\nSee Iranian Islamic Revolutionary Guard Corps Affiliated Cyber Actors Exploiting Vulnerabilities for Data Extortion and Disk Encryption for Ransom Operations and joint CSA Iranian Government-Sponsored APT Cyber Actors Exploiting Microsoft Exchange and Fortinet Vulnerabilities in Furtherance of Malicious Activities for information on these Iranian government-sponsored APT actors’ tactics and techniques, indicators of compromise, and recommended mitigations. Additionally, review StopRansomware.gov for more guidance on ransomware protection, detection, and response.\nFor more information on state-sponsored Iranian malicious cyber activity, see CISA’s Iran Cyber Threat Overview and Advisories webpage.\nThis product is provided subject to this Notification and this Privacy & Use policy.",
-          "link": "https://us-cert.cisa.gov/ncas/current-activity/2022/09/14/iranian-islamic-revolutionary-guard-corps-affiliated-cyber-actors",
-          "publishedOn": "2022-09-14T14:33:50.000Z",
-          "wordCount": 1307,
-          "title": "Iranian Islamic Revolutionary Guard Corps Affiliated Cyber Actors Exploiting Vulnerabilities for Data Extortion and Disk Encryption for Ransom Operations",
-          "imageUrl": null
         }
       ]
     },
@@ -489,6 +459,141 @@
       "feedUrl": "https://www.darkreading.com/rss.xml",
       "siteUrl": "https://www.darkreading.com",
       "articles": [
+        {
+          "id": "https://www.darkreading.com/application-security/juice-technology-receives-iso-certification-for-charging-station-cyber-security",
+          "author": null,
+          "description": "Electric Vehicle Charging Station Leader Certified in Accordance with ISO/SAE 21434 \"Road Vehicles – Cybersecurity Engineering\".",
+          "link": "https://www.darkreading.com/application-security/juice-technology-receives-iso-certification-for-charging-station-cyber-security",
+          "publishedOn": "2022-10-14T00:10:57.000Z",
+          "wordCount": 10653,
+          "title": "Juice Technology Receives ISO Certification for Charging Station Cyber Security",
+          "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/risk/controlmap-announces-the-launch-of-the-trust-portal-creating-transparency-in-cybersecurity-compliance",
+          "author": null,
+          "description": ".",
+          "link": "https://www.darkreading.com/risk/controlmap-announces-the-launch-of-the-trust-portal-creating-transparency-in-cybersecurity-compliance",
+          "publishedOn": "2022-10-14T00:04:44.000Z",
+          "wordCount": 9991,
+          "title": "ControlMap Announces the Launch of the Trust Portal, Creating Transparency in Cybersecurity Compliance",
+          "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/attacks-breaches/quarter-of-healthcare-ransomware-victims-forced-to-halt-operations",
+          "author": null,
+          "description": "Trend Micro research reveals supply chains are key source of risk.",
+          "link": "https://www.darkreading.com/attacks-breaches/quarter-of-healthcare-ransomware-victims-forced-to-halt-operations",
+          "publishedOn": "2022-10-13T23:59:50.000Z",
+          "wordCount": 10743,
+          "title": "Quarter of Healthcare Ransomware Victims Forced to Halt Operations",
+          "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/attacks-breaches/armis-now-available-on-google-cloud-marketplace",
+          "author": null,
+          "description": "Enterprises seeking asset visibility and security enabled to simplify the procurement process of Armis.",
+          "link": "https://www.darkreading.com/attacks-breaches/armis-now-available-on-google-cloud-marketplace",
+          "publishedOn": "2022-10-13T23:54:36.000Z",
+          "wordCount": 10857,
+          "title": "Armis Now Available on Google Cloud Marketplace",
+          "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/cloud/google-cloud-advances-partnerships-with-20-plus-software-companies-focused-on-digital-sovereignty-and-cybersecurity",
+          "author": null,
+          "description": "At Next '22, Google Cloud announces updates to its trusted cloud ecosystem with new Sovereign Solutions initiative and partnerships spanning critical areas of cybersecurity.",
+          "link": "https://www.darkreading.com/cloud/google-cloud-advances-partnerships-with-20-plus-software-companies-focused-on-digital-sovereignty-and-cybersecurity",
+          "publishedOn": "2022-10-13T23:45:21.000Z",
+          "wordCount": 12550,
+          "title": "Google Cloud Advances Partnerships with 20-Plus Software Companies Focused on Digital Sovereignty and Cybersecurity",
+          "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/application-security/hsbc-and-silent-eight-expand-machine-learning-partnership",
+          "author": null,
+          "description": "Silent Eight announced an extension to its existing partnership with HSBC to tackle financial crime.",
+          "link": "https://www.darkreading.com/application-security/hsbc-and-silent-eight-expand-machine-learning-partnership",
+          "publishedOn": "2022-10-13T23:40:50.000Z",
+          "wordCount": 9940,
+          "title": "HSBC and Silent Eight Expand Machine Learning Partnership",
+          "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/attacks-breaches/nexusguard-research-shows-total-number-of-ddos-attacks-increased-during-first-half-of-2022-while-maximum-attack-size-decreased-compared-to-second-half-of-2021",
+          "author": null,
+          "description": "Nexusguard DDoS Statistical Report reveals key attack observations and analysis from the first half of 2022.",
+          "link": "https://www.darkreading.com/attacks-breaches/nexusguard-research-shows-total-number-of-ddos-attacks-increased-during-first-half-of-2022-while-maximum-attack-size-decreased-compared-to-second-half-of-2021",
+          "publishedOn": "2022-10-13T23:37:24.000Z",
+          "wordCount": 11268,
+          "title": "Nexusguard Research Shows Total Number of DDoS Attacks Increased during First Half of 2022 While Maximum Attack Size Decreased Compared to Second Half of 2021",
+          "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/application-security/resistant-ai-and-complyadvantage-launch-ai-transaction-monitoring-solution-to-combat-fraud-and-money-laundering",
+          "author": null,
+          "description": "Resistant AI and ComplyAdvantage launch AI transaction monitoring solution to combat fraud and money laundering.",
+          "link": "https://www.darkreading.com/application-security/resistant-ai-and-complyadvantage-launch-ai-transaction-monitoring-solution-to-combat-fraud-and-money-laundering",
+          "publishedOn": "2022-10-13T23:30:46.000Z",
+          "wordCount": 11499,
+          "title": "Resistant AI and ComplyAdvantage Launch AI Transaction Monitoring Solution To Combat Fraud and Money Laundering",
+          "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/threat-intelligence/newly-introduced-hackerone-assets-goes-beyond-attack-surface-management-to-close-security-gaps",
+          "author": null,
+          "description": "HackerOne Assets combines ASM with insights from security experts to protect known and unknown digital assets.",
+          "link": "https://www.darkreading.com/threat-intelligence/newly-introduced-hackerone-assets-goes-beyond-attack-surface-management-to-close-security-gaps",
+          "publishedOn": "2022-10-13T23:12:55.000Z",
+          "wordCount": 10875,
+          "title": "Newly Introduced HackerOne Assets Goes Beyond Attack Surface Management To Close Security Gaps",
+          "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/edge-articles/distrust-and-verify-why-comprehensive-network-visibility-is-required-for-mature-zero-trust-architectures",
+          "author": "Andrew Green, Senior Sales Engineer at Netscout",
+          "description": "Distrust and verify, because you can't protect what you can't see.",
+          "link": "https://www.darkreading.com/edge-articles/distrust-and-verify-why-comprehensive-network-visibility-is-required-for-mature-zero-trust-architectures",
+          "publishedOn": "2022-10-13T20:55:00.000Z",
+          "wordCount": 11890,
+          "title": "Comprehensive Network Visibility Is Imperative for Zero-Trust Maturity",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt7c25be89c3183c81/634853f2a275cc0f05db85c0/Andrew_Green_Headshot-sq.png",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt7c25be89c3183c81/634853f2a275cc0f05db85c0/Andrew_Green_Headshot-sq.png"
+        },
+        {
+          "id": "https://www.darkreading.com/application-security/novel-npm-timing-attack-allows-corporate-targeting",
+          "author": "Tara Seals, Managing Editor, News, Dark Reading",
+          "description": "A timing attack helps cyberattackers lob malicious code-bombs at corporate targets by cloning private package names.",
+          "link": "https://www.darkreading.com/application-security/novel-npm-timing-attack-allows-corporate-targeting",
+          "publishedOn": "2022-10-13T20:22:36.000Z",
+          "wordCount": 11201,
+          "title": "Novel npm Timing Attack Allows Corporate Targeting",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltea67136f81f32eca/626a9eb4726e3315b16b3c64/Tara-Seals-Headshot2.jpg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltea67136f81f32eca/626a9eb4726e3315b16b3c64/Tara-Seals-Headshot2.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/attacks-breaches/new-alchimist-attack-framework-targets-windows-mac-linux-environments",
+          "author": "Jai Vijayan, Contributing Writer, Dark Reading",
+          "description": "The comprehensive, multiplatform framework comes loaded with weapons, and it is likely another effort by a China-based threat group to develop an alternative to Cobalt Strike and Sliver.",
+          "link": "https://www.darkreading.com/attacks-breaches/new-alchimist-attack-framework-targets-windows-mac-linux-environments",
+          "publishedOn": "2022-10-13T20:00:00.000Z",
+          "wordCount": 11334,
+          "title": "Feature-Rich 'Alchimist' Cyberattack Framework Targets Windows, Mac, Linux Environments",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt02d79fb9a44a4258/60b1e9dd2a25046b35110696/Jai-Vijayan.jpeg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt02d79fb9a44a4258/60b1e9dd2a25046b35110696/Jai-Vijayan.jpeg"
+        },
         {
           "id": "https://www.darkreading.com/endpoint/tanium-benchmark-sets-new-standard-for-tracking-and-improving-security-and-operational-metrics",
           "author": null,
@@ -3683,51 +3788,6 @@
             "length": "0"
           },
           "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltbfd004d139d42d70/6303bca6236c2476a257760e/ElizabethMontalbano.jpg"
-        },
-        {
-          "id": "https://www.darkreading.com/threat-intelligence/attacks-increasingly-hands-on-break-out-more-quickly",
-          "author": "Robert Lemos, Contributing Writer, Dark Reading",
-          "description": "Interactive intrusion campaigns jumped nearly 50%, while the breakout time between initial access and lateral movement shrank to less than 90 minutes, putting pressure on defenders to react quickly.",
-          "link": "https://www.darkreading.com/threat-intelligence/attacks-increasingly-hands-on-break-out-more-quickly",
-          "publishedOn": "2022-09-14T14:00:00.000Z",
-          "wordCount": 11960,
-          "title": "Cyberattacks Are Now Increasingly Hands-On, Break Out More Quickly",
-          "enclosure": {
-            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt58481326324d6911/60b1e9a55d34de550780a990/Robert-Lemos.png",
-            "type": "image/*",
-            "length": "0"
-          },
-          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt58481326324d6911/60b1e9a55d34de550780a990/Robert-Lemos.png"
-        },
-        {
-          "id": "https://www.darkreading.com/careers-and-people/to-ease-the-cybersecurity-worker-shortage-broaden-the-candidate-pipeline",
-          "author": "Joshua Scott, Head of Information Security and IT, Postman",
-          "description": "With enough passion, intelligence, and effort, anyone can be a successful cybersecurity professional, regardless of education or background.",
-          "link": "https://www.darkreading.com/careers-and-people/to-ease-the-cybersecurity-worker-shortage-broaden-the-candidate-pipeline",
-          "publishedOn": "2022-09-14T14:00:00.000Z",
-          "wordCount": 11955,
-          "title": "To Ease the Cybersecurity Worker Shortage, Broaden the Candidate Pipeline",
-          "enclosure": {
-            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt2714acb0087fe06f/6308fd1930299902e9c52fc8/Joshua_Scott_Headshot_copy.png",
-            "type": "image/*",
-            "length": "0"
-          },
-          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt2714acb0087fe06f/6308fd1930299902e9c52fc8/Joshua_Scott_Headshot_copy.png"
-        },
-        {
-          "id": "https://www.darkreading.com/cloud/teamtnt-docker-containers-malicious-cloud-images",
-          "author": "Jai Vijayan, Contributing Writer, Dark Reading",
-          "description": "Honeypot activity exposed two credentials that the threat actor is using to host and distribute malicious container images, security vendor says.",
-          "link": "https://www.darkreading.com/cloud/teamtnt-docker-containers-malicious-cloud-images",
-          "publishedOn": "2022-09-14T13:00:00.000Z",
-          "wordCount": 10858,
-          "title": "TeamTNT Hits 150K Docker Containers via Malicious Cloud Images",
-          "enclosure": {
-            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt02d79fb9a44a4258/60b1e9dd2a25046b35110696/Jai-Vijayan.jpeg",
-            "type": "image/*",
-            "length": "0"
-          },
-          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt02d79fb9a44a4258/60b1e9dd2a25046b35110696/Jai-Vijayan.jpeg"
         }
       ]
     },
@@ -5794,50 +5854,6 @@
           "publishedOn": "2022-09-15T06:49:00.000Z",
           "wordCount": null,
           "title": "U.S. Charges 3 Iranian Hackers and Sanctions Several Others Over Ransomware Attacks",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "tag:blogger.com,1999:blog-4802841478634147276.post-1662652119248039636",
-          "author": "noreply@blogger.com (Ravie Lakshmanan)",
-          "description": "The operators behind the Lornenz ransomware operation have been observed exploiting a now-patched critical security flaw in Mitel MiVoice Connect to obtain a foothold into target environments for follow-on malicious activities.\n\"Initial malicious activity originated from a Mitel appliance sitting on the network perimeter,\" researchers from cybersecurity firm Arctic Wolf said in a report",
-          "link": "https://thehackernews.com/2022/09/lorenz-ransomware-exploit-mitel-voip.html",
-          "publishedOn": "2022-09-14T14:04:00.000Z",
-          "wordCount": null,
-          "title": "Lorenz Ransomware Exploit Mitel VoIP Systems to Breach Business Networks",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "tag:blogger.com,1999:blog-4802841478634147276.post-5718087235922080208",
-          "author": "noreply@blogger.com (Ravie Lakshmanan)",
-          "description": "A Linux variant of a backdoor known as SideWalk was used to target a Hong Kong university in February 2021, underscoring the cross-platform abilities of the implant. \nSlovak cybersecurity firm ESET, which detected the malware in the university's network, attributed the backdoor to a nation-state actor dubbed SparklingGoblin. The unnamed university is said to have been already targeted by the",
-          "link": "https://thehackernews.com/2022/09/sparklinggoblin-apt-hackers-using-new.html",
-          "publishedOn": "2022-09-14T10:20:00.000Z",
-          "wordCount": null,
-          "title": "SparklingGoblin APT Hackers Using New Linux Variant of SideWalk Backdoor",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "tag:blogger.com,1999:blog-4802841478634147276.post-8988961500197313952",
-          "author": "noreply@blogger.com (The Hacker News)",
-          "description": "According to the 2022 Malwarebytes Threat review, 40M Windows business computers' threats were detected in 2021. And malware analysis is necessary to combat and avoid this kind of attack. In this article, we will break down the goal of malicious programs' investigation and how to do malware analysis with a sandbox. \nWhat is malware analysis? \nMalware analysis is a process of studying a malicious",
-          "link": "https://thehackernews.com/2022/09/how-to-do-malware-analysis.html",
-          "publishedOn": "2022-09-14T10:10:00.000Z",
-          "wordCount": null,
-          "title": "How to Do Malware Analysis?",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "tag:blogger.com,1999:blog-4802841478634147276.post-5315331418062913963",
-          "author": "noreply@blogger.com (Ravie Lakshmanan)",
-          "description": "Palo Alto Networks Unit 42 has detailed the inner workings of a malware called OriginLogger, which has been touted as a successor to the widely used information stealer and remote access trojan (RAT) known as Agent Tesla.\nA .NET based keylogger and remote access, Agent Tesla has had a long-standing presence in the threat landscape, allowing malicious actors to gain remote access to targeted",
-          "link": "https://thehackernews.com/2022/09/researchers-detail-originlogger-rat.html",
-          "publishedOn": "2022-09-14T08:51:00.000Z",
-          "wordCount": null,
-          "title": "Researchers Detail OriginLogger RAT — Successor to Agent Tesla Malware",
           "itunes": {},
           "imageUrl": null
         }
