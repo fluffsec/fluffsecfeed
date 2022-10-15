@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-10-15T03:40:46.836Z</updated>
+    <updated>2022-10-15T07:30:24.704Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Indian Energy Company Tata Power's IT Infrastructure Hit By Cyber Attack]]></title>
+        <id>tag:blogger.com,1999:blog-4802841478634147276.post-5104486027964140940</id>
+        <link href="https://thehackernews.com/2022/10/indian-energy-company-tata-powers-it.html"/>
+        <updated>2022-10-15T04:48:00.000Z</updated>
+        <summary type="html"><![CDATA[Tata Power Company Limited, India's largest integrated power company, on Friday confirmed it was targeted by a cyberattack.
+The intrusion on IT infrastructure impacted "some of its IT systems," the company said in a filing with the National Stock Exchange (NSE) of India.
+
+It further said it has taken steps to retrieve and restore the affected machines, adding it put in place]]></summary>
+        <author>
+            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Microsoft Secures Azure Enclaves With Hardware Guards]]></title>
         <id>https://www.darkreading.com/dr-tech/microsoft-secures-azure-enclaves-with-hardware-guards</id>
@@ -5117,74 +5130,6 @@ The post Microsoft’s September 2022 Updates Include 63 Fixes and One Actively 
         <summary type="html"><![CDATA[Malware-laced ads are hauling in tens of millions of dollars in revenue for operators of pirated-content sites — posing a real risk to enterprises from remote employees.]]></summary>
         <author>
             <name>Jai Vijayan, Contributing Writer, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Will the Cloud End the Endpoint?]]></title>
-        <id>https://www.darkreading.com/cloud/will-the-cloud-end-the-endpoint-</id>
-        <link href="https://www.darkreading.com/cloud/will-the-cloud-end-the-endpoint-"/>
-        <updated>2022-09-15T19:00:00.000Z</updated>
-        <summary type="html"><![CDATA[When an organization fully embraces the cloud, traditional endpoints become disposable. Organizations must adapt their security strategy for this reality.]]></summary>
-        <author>
-            <name>Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Popular IoT Cameras Need Patching to Fend Off Catastrophic Attacks]]></title>
-        <id>https://www.darkreading.com/attacks-breaches/popular-iot-cameras-patching-catastrophic-attacks</id>
-        <link href="https://www.darkreading.com/attacks-breaches/popular-iot-cameras-patching-catastrophic-attacks"/>
-        <updated>2022-09-15T19:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Several models of EZVIZ cameras are open to total remote control by cyberattackers, and image exfiltration and decryption.]]></summary>
-        <author>
-            <name>Dark Reading Staff, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CISA Releases Eleven Industrial Control Systems Advisories]]></title>
-        <id>17972 at https://us-cert.cisa.gov</id>
-        <link href="https://us-cert.cisa.gov/ncas/current-activity/2022/09/15/cisa-releases-eleven-industrial-control-systems-advisories"/>
-        <updated>2022-09-15T18:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Original release date: September 15, 2022
-CISA has released eleven (11) Industrial Control Systems (ICS) advisories on September 15, 2022. These advisories provide timely information about current security issues, vulnerabilities, and exploits surrounding ICS.
-CISA encourages users and administrators to review the newly released ICS advisories for technical details and mitigations:
-ICSA-22-258-01 Siemens Mobility CoreShield OWG Software 
-ICSA-22-258-02 Siemens Simcenter Femap, Parasolid
-ICSA-22-258-03 Siemens RUGGEDCOM ROS
-ICSA-22-258-04 Siemens Mendix SAML Module
-ICSA-22-258-05 Siemens SINEC INS
-ICSA-19-344-03 Siemens RUGGEDCOM ROS (Update A)
-ICSA-22-195-09 Siemens Simcenter Femap and Parasolid (Update B)
-ICSA-21-222-05 Siemens Industrial Products Intel CPUs (Update F)
-ICSA-22-167-14 Siemens OpenSSL Affected Industrial Products (Update C)
-ICSA-18-226-02 Siemens OpenSSL Vulnerability in Industrial Products (Update F)
-ICSA-22-223-07 Siemens SCALANCE (Update A)
-This product is provided subject to this Notification and this Privacy & Use policy.]]></summary>
-        <author>
-            <name>CISA</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CISA Adds Six Known Exploited Vulnerabilities to Catalog]]></title>
-        <id>17979 at https://us-cert.cisa.gov</id>
-        <link href="https://us-cert.cisa.gov/ncas/current-activity/2022/09/15/cisa-adds-six-known-exploited-vulnerabilities-catalog"/>
-        <updated>2022-09-15T16:41:05.000Z</updated>
-        <summary type="html"><![CDATA[Original release date: September 15, 2022
-CISA has added six new vulnerabilities to its Known Exploited Vulnerabilities Catalog, based on evidence of active exploitation. These types of vulnerabilities are a frequent attack vector for malicious cyber actors and pose significant risk to the federal enterprise. Note: to view the newly added vulnerabilities in the catalog, click on the arrow in the "Date Added to Catalog" column, which will sort by descending dates. 
-Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the Known Exploited Vulnerabilities Catalog as a living list of known CVEs that carry significant risk to the federal enterprise. BOD 22-01 requires FCEB agencies to remediate identified vulnerabilities by the due date to protect FCEB networks against active threats. See the BOD 22-01 Fact Sheet for more information.  
-Although BOD 22-01 only applies to FCEB agencies, CISA strongly urges all organizations to reduce their exposure to cyberattacks by prioritizing timely remediation of Catalog vulnerabilities as part of their vulnerability management practice. CISA will continue to add vulnerabilities to the Catalog that meet the specified criteria.
-This product is provided subject to this Notification and this Privacy & Use policy.]]></summary>
-        <author>
-            <name>CISA</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[5 Steps to Strengthening Cyber Resilience]]></title>
-        <id>https://www.darkreading.com/microsoft/5-steps-to-strengthening-cyber-resilience</id>
-        <link href="https://www.darkreading.com/microsoft/5-steps-to-strengthening-cyber-resilience"/>
-        <updated>2022-09-15T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Organizations are thinking about their cyber resilience. Here are five steps security teams should take.]]></summary>
-        <author>
-            <name>Microsoft Security, Microsoft</name>
         </author>
     </entry>
 </feed>
