@@ -440,6 +440,91 @@
       "siteUrl": "https://www.darkreading.com",
       "articles": [
         {
+          "id": "https://www.darkreading.com/dr-tech/the-risk-of-stateful-antipatterns-in-enterprise-internet-architecture",
+          "author": "Roland Dobbins, Principal Engineer at Netscout",
+          "description": "Excessive statefulness hurts the ability to scale networks, applications, and ancillary supporting infrastructure, thus affecting an entire service delivery chain's ability to withstand a DDoS attack.",
+          "link": "https://www.darkreading.com/dr-tech/the-risk-of-stateful-antipatterns-in-enterprise-internet-architecture",
+          "publishedOn": "2022-10-17T18:30:00.000Z",
+          "wordCount": 12996,
+          "title": "The Risk of Stateful Anti-Patterns in Enterprise Internet Architecture",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltf5c8653e2b5a0d02/6349b98359df845cc0daadac/RolandDobbins-sq.jpeg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltf5c8653e2b5a0d02/6349b98359df845cc0daadac/RolandDobbins-sq.jpeg"
+        },
+        {
+          "id": "https://www.darkreading.com/endpoint/signal-to-ditch-sms-mms-messaging-on-android",
+          "author": "Dark Reading Staff, Dark Reading",
+          "description": "Main driver for the change: \"Plaintext SMS messages are inherently insecure.\"",
+          "link": "https://www.darkreading.com/endpoint/signal-to-ditch-sms-mms-messaging-on-android",
+          "publishedOn": "2022-10-17T17:54:37.000Z",
+          "wordCount": 9592,
+          "title": "Signal to Ditch SMS/MMS Messaging on Android",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blte161b23f0fd3a84b/60b1ea374e7eb868c4c6a293/dr_staff_125x125.jpg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blte161b23f0fd3a84b/60b1ea374e7eb868c4c6a293/dr_staff_125x125.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/threat-intelligence/tactics-tie-ransom-cartel-group-to-defunct-revil-ransomware",
+          "author": "Dark Reading Staff, Dark Reading",
+          "description": "Ransom Cartel ransomware-as-a-service operator blog claims to offer a new and improved version of REvil ransomware.",
+          "link": "https://www.darkreading.com/threat-intelligence/tactics-tie-ransom-cartel-group-to-defunct-revil-ransomware",
+          "publishedOn": "2022-10-17T17:40:24.000Z",
+          "wordCount": 9527,
+          "title": "Tactics Tie Ransom Cartel Group to Defunct REvil Ransomware",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blte161b23f0fd3a84b/60b1ea374e7eb868c4c6a293/dr_staff_125x125.jpg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blte161b23f0fd3a84b/60b1ea374e7eb868c4c6a293/dr_staff_125x125.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/vulnerabilities-threats/new-research-report-predicts-blockchain-and-quantum-threat-will-quickly-spread-beyond-cybercurrencies-surge-in-new-product-and-services-opportunities-to-come",
+          "author": null,
+          "description": "Research report identifies the challenges as well as the opportunities for new products and services that arise from the threat that quantum computers pose to the \"blockchain\" mechanism.",
+          "link": "https://www.darkreading.com/vulnerabilities-threats/new-research-report-predicts-blockchain-and-quantum-threat-will-quickly-spread-beyond-cybercurrencies-surge-in-new-product-and-services-opportunities-to-come",
+          "publishedOn": "2022-10-17T15:20:10.000Z",
+          "wordCount": 13660,
+          "title": "New Research Report Predicts Blockchain and Quantum Threat Will Quickly Spread Beyond Cybercurrencies; Surge in New Product and Services Opportunities to Come",
+          "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/edge-articles/what-fast-talkers-can-teach-us-about-vetting-vendors",
+          "author": "Joshua Goldfarb, Fraud Solutions Architect - EMEA and APCJ, F5",
+          "description": "Here's how to differentiate vendors that can back up their words with solutions and those that  cannot.",
+          "link": "https://www.darkreading.com/edge-articles/what-fast-talkers-can-teach-us-about-vetting-vendors",
+          "publishedOn": "2022-10-17T15:15:00.000Z",
+          "wordCount": 11329,
+          "title": "What Fast-Talkers Can Teach Us About Vetting Vendors",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blte566b6aacec0a3ec/60d4347890ef0d39a2f3f97e/Joshua-Goldfarb2.png",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blte566b6aacec0a3ec/60d4347890ef0d39a2f3f97e/Joshua-Goldfarb2.png"
+        },
+        {
+          "id": "https://www.darkreading.com/threat-intelligence/disinformation-attacks-threaten-us-midterm-elections",
+          "author": "Robert Lemos, Contributing Writer, Dark Reading",
+          "description": "Foreign nations continue to target various US public entities and private industries with cyberattacks, but the coming midterms are driving more disinformation than hacking, say experts.",
+          "link": "https://www.darkreading.com/threat-intelligence/disinformation-attacks-threaten-us-midterm-elections",
+          "publishedOn": "2022-10-17T14:30:23.000Z",
+          "wordCount": 12819,
+          "title": "Disinformation Attacks Threaten US Midterm Elections",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt58481326324d6911/60b1e9a55d34de550780a990/Robert-Lemos.png",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt58481326324d6911/60b1e9a55d34de550780a990/Robert-Lemos.png"
+        },
+        {
           "id": "https://www.darkreading.com/careers-and-people/4-stakeholders-critical-to-addressing-the-cybersecurity-workforce-gap",
           "author": "Kayne McGladrey, IEEE Senior Member, and Field CISO at Hyperproof",
           "description": "A cross-disciplinary effort of change is needed to attract new professionals in the coming decade.",
