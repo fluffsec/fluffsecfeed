@@ -440,6 +440,31 @@
       "siteUrl": "https://www.darkreading.com",
       "articles": [
         {
+          "id": "https://www.darkreading.com/careers-and-people/4-stakeholders-critical-to-addressing-the-cybersecurity-workforce-gap",
+          "author": "Kayne McGladrey, IEEE Senior Member, and Field CISO at Hyperproof",
+          "description": "A cross-disciplinary effort of change is needed to attract new professionals in the coming decade.",
+          "link": "https://www.darkreading.com/careers-and-people/4-stakeholders-critical-to-addressing-the-cybersecurity-workforce-gap",
+          "publishedOn": "2022-10-17T14:00:00.000Z",
+          "wordCount": 12204,
+          "title": "4 Stakeholders Critical to Addressing the Cybersecurity Workforce Gap",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blta10a03dd705262ba/63470ed2340204287e046e98/Kayne_McGladrey_2022.jpg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blta10a03dd705262ba/63470ed2340204287e046e98/Kayne_McGladrey_2022.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/endpoint/imprivata-expands-its-integrated-digital-identity-platform-to-defragment-identities-across-disparate-applications",
+          "author": null,
+          "description": "Offers solution to accelerate identity intelligence through simplified, yet extensive, visibility of user activity.",
+          "link": "https://www.darkreading.com/endpoint/imprivata-expands-its-integrated-digital-identity-platform-to-defragment-identities-across-disparate-applications",
+          "publishedOn": "2022-10-17T13:39:11.000Z",
+          "wordCount": 10544,
+          "title": "Imprivata Expands Its Integrated Digital Identity Platform to Defragment Identities Across Disparate Applications",
+          "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
+        },
+        {
           "id": "https://www.darkreading.com/dr-tech/microsoft-secures-azure-enclaves-with-hardware-guards",
           "author": "Agam Shah, Contributing Writer",
           "description": "Microsoft highlighted emerging confidential computing offerings for Azure during its Ignite conference.",
@@ -3695,6 +3720,16 @@
       "siteUrl": "https://blog.knowbe4.com",
       "articles": [
         {
+          "id": "https://blog.knowbe4.com/sloppy-but-dangerous-fake-ransomware",
+          "author": "Stu Sjouwerman",
+          "description": "Conventional ransomware encrypts the victims’ files and holds them hostage, unavailable to their owners, promising to provide a decryptor once the victims’ pay the ransom. In some cases being tracked by security firm Cyble, however, they offer nothing in return. The files are in fact deleted.",
+          "link": "https://blog.knowbe4.com/sloppy-but-dangerous-fake-ransomware",
+          "publishedOn": "2022-10-17T12:34:05.000Z",
+          "wordCount": 2303,
+          "title": "Sloppy but Dangerous: Fake Ransomware",
+          "imageUrl": "https://blog.knowbe4.com/hubfs/Dangerous%20Fake%20Ransomware.jpg#keepProtocol"
+        },
+        {
           "id": "https://blog.knowbe4.com/cyberattacks-are-the-biggest-risk-to-the-uk-financial-system-bank-of-england-research",
           "author": "Stu Sjouwerman",
           "description": "Cyberattacks are the biggest risk to the UK financial system, according to new research from the Bank of England.",
@@ -4221,6 +4256,61 @@
       "feedUrl": "https://thehackernews.com/feeds/posts/default",
       "siteUrl": "https://thehackernews.com/",
       "articles": [
+        {
+          "id": "tag:blogger.com,1999:blog-4802841478634147276.post-6456118928054244930",
+          "author": "noreply@blogger.com (Ravie Lakshmanan)",
+          "description": "The threat actors behind the Black Basta ransomware family have been observed using the Qakbot trojan to deploy the Brute Ratel C4 framework as a second-stage payload in recent attacks.\nThe development marks the first time the nascent adversary simulation software is being delivered via a Qakbot infection, cybersecurity firm Trend Micro said in a technical analysis released last week.\nThe",
+          "link": "https://thehackernews.com/2022/10/black-basta-ransomware-hackers.html",
+          "publishedOn": "2022-10-17T12:54:00.000Z",
+          "wordCount": null,
+          "title": "Black Basta Ransomware Hackers Infiltrates Networks via Qakbot to Deploy Brute Ratel C4",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "tag:blogger.com,1999:blog-4802841478634147276.post-6244586426893951967",
+          "author": "noreply@blogger.com (Ravie Lakshmanan)",
+          "description": "New research has disclosed what's being called a security vulnerability in Microsoft 365 that could be exploited to infer message contents due to the use of a broken cryptographic algorithm.\n\"The [Office 365 Message Encryption] messages are encrypted in insecure Electronic Codebook (ECB) mode of operation,\" Finnish cybersecurity company WithSecure said in a report published last week.\nOffice 365",
+          "link": "https://thehackernews.com/2022/10/researchers-claim-microsoft-office-365.html",
+          "publishedOn": "2022-10-17T10:33:00.000Z",
+          "wordCount": null,
+          "title": "Researchers Say Microsoft Office 365 Uses Broken Email Encryption to Secure Messages",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "tag:blogger.com,1999:blog-4802841478634147276.post-4686743232226162582",
+          "author": "noreply@blogger.com (The Hacker News)",
+          "description": "Don’t let the ongoing “crypto winter” lull you into a false sense of cybersecurity. Even as cryptocurrencies lose value — and some crypto companies file for bankruptcy — cryptojacking still poses an urgent threat to enterprises across industries, from financial services to healthcare to industry 4.0 and beyond. \nBroadly speaking, cryptojacking is defined as the unauthorized and illegitimate use",
+          "link": "https://thehackernews.com/2022/10/why-crypto-winter-is-no-excuse-to-let.html",
+          "publishedOn": "2022-10-17T10:20:00.000Z",
+          "wordCount": null,
+          "title": "Why Crypto Winter is No Excuse to Let Your Cyber Defenses Falter",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "tag:blogger.com,1999:blog-4802841478634147276.post-1705630303109467778",
+          "author": "noreply@blogger.com (Ravie Lakshmanan)",
+          "description": "A new ransomware campaign targeted the transportation and logistics sectors in Ukraine and Poland on October 11 with a previously unknown payload dubbed Prestige.\n\"The activity shares victimology with recent Russian state-aligned activity, specifically on affected geographies and countries, and overlaps with previous victims of the FoxBlade malware (also known as HermeticWiper),\" the Microsoft",
+          "link": "https://thehackernews.com/2022/10/new-prestige-ransomware-targeting.html",
+          "publishedOn": "2022-10-17T10:15:00.000Z",
+          "wordCount": null,
+          "title": "New Prestige Ransomware Targeting Polish and Ukrainian Organizations",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "tag:blogger.com,1999:blog-4802841478634147276.post-7885639167892724482",
+          "author": "noreply@blogger.com (Ravie Lakshmanan)",
+          "description": "Zimbra has released patches to contain an actively exploited security flaw in its enterprise collaboration suite that could be leveraged to upload arbitrary files to vulnerable instances.\nTracked as CVE-2022-41352 (CVSS score: 9.8), the issue affects a component of the Zimbra suite called Amavis, an open source content filter, and more specifically, the cpio utility it uses to scan and extract",
+          "link": "https://thehackernews.com/2022/10/zimbra-releases-patch-for-actively.html",
+          "publishedOn": "2022-10-17T09:50:00.000Z",
+          "wordCount": null,
+          "title": "Zimbra Releases Patch for Actively Exploited Vulnerability in its Collaboration Suite",
+          "itunes": {},
+          "imageUrl": null
+        },
         {
           "id": "tag:blogger.com,1999:blog-4802841478634147276.post-8228981407721078121",
           "author": "noreply@blogger.com (Ravie Lakshmanan)",
