@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-10-18T03:46:27.822Z</updated>
+    <updated>2022-10-18T07:45:54.095Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Critical RCE Vulnerability Discovered in Popular Cobalt Strike Hacking Software]]></title>
+        <id>tag:blogger.com,1999:blog-4802841478634147276.post-8367997901645966971</id>
+        <link href="https://thehackernews.com/2022/10/critical-rce-vulnerability-discovered.html"/>
+        <updated>2022-10-18T05:29:00.000Z</updated>
+        <summary type="html"><![CDATA[HelpSystems, the company behind the Cobalt Strike software platform, has released an out-of-band security update to address a remote code execution vulnerability that could allow an attacker to take control of targeted systems.
+Cobalt Strike is a commercial red-team framework that's mainly used for adversary simulation, but cracked versions of the software have been actively abused by ransomware]]></summary>
+        <author>
+            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Researchers Keep a Wary Eye on Critical New Vulnerability in Apache Commons Text]]></title>
         <id>https://www.darkreading.com/application-security/researchers-keep-a-wary-eye-on-critical-new-vulnerability-in-apache-commons-text</id>
