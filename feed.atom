@@ -2,10 +2,107 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-10-19T07:49:57.839Z</updated>
+    <updated>2022-10-19T14:02:42.857Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[A New Solution to the Cybersecurity Skills Gap: Building Security into Operational Teams]]></title>
+        <id>https://www.darkreading.com/careers-and-people/a-new-solution-to-the-cybersecurity-skills-gap-building-security-into-operational-teams</id>
+        <link href="https://www.darkreading.com/careers-and-people/a-new-solution-to-the-cybersecurity-skills-gap-building-security-into-operational-teams"/>
+        <updated>2022-10-19T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Why — and how — companies should consider shifting day-to-day security responsibilities out to operations teams. The move would elevate the team's level of decision-making and help address the challenge of finding professionals with security-specific credentials.]]></summary>
+        <author>
+            <name>Shamla Naidoo, Head of Cloud Strategy &amp; Innovation, Netskope</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RCS Secure Catches Its Next Big Wave]]></title>
+        <id>https://www.darkreading.com/operations/rcs-secure-catches-its-next-big-wave</id>
+        <link href="https://www.darkreading.com/operations/rcs-secure-catches-its-next-big-wave"/>
+        <updated>2022-10-19T13:37:54.000Z</updated>
+        <summary type="html"><![CDATA[Cybersecurity company RCS Secure announces round of Series A funding and name change as it rebrands to Third Wave Innovations.]]></summary>
+        <author>
+            <name>Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GitGuardian Extends Code Security Platform, Adding Infrastructure-as-Code Scanning for Security Misconfigurations]]></title>
+        <id>https://www.darkreading.com/application-security/gitguardian-extends-code-security-platform-adding-infrastructure-as-code-scanning-for-security-misconfigurations</id>
+        <link href="https://www.darkreading.com/application-security/gitguardian-extends-code-security-platform-adding-infrastructure-as-code-scanning-for-security-misconfigurations"/>
+        <updated>2022-10-19T13:15:22.000Z</updated>
+        <summary type="html"><![CDATA[The extension allows cloud security teams to protect their organization's infrastructure at the source and collaborate with developers.]]></summary>
+        <author>
+            <name>Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Awareness and guidance related to potential Service Fabric Explorer (SFX) v1 web client risk]]></title>
+        <id>https://msrc-blog.microsoft.com/?p=14990</id>
+        <link href="https://msrc-blog.microsoft.com/2022/10/19/awareness-and-guidance-related-to-potential-service-fabric-explorer-sfx-v1-web-client-risk/"/>
+        <updated>2022-10-19T13:01:00.000Z</updated>
+        <summary type="html"><![CDATA[Summary Microsoft was recently made aware of a Cross-Site Scripting (XSS) vulnerability (CVE-2022-35829), that under limited circumstances, affects older versions of Service Fabric Explorer (SFX). The current default SFX web client (SFXv2) is not vulnerable to this attack. However, customers can manually switch from the default web client (SFXv2) to an older vulnerable SFX web …
+  Awareness and guidance related to potential Service Fabric Explorer (SFX) v1 web client risk Read More »]]></summary>
+        <author>
+            <name>msrc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Scary Metaverse - Cybersecurity Risk Implications]]></title>
+        <id>https://blog.knowbe4.com/scary-metaverse</id>
+        <link href="https://blog.knowbe4.com/scary-metaverse"/>
+        <updated>2022-10-19T12:51:27.000Z</updated>
+        <summary type="html"><![CDATA[The Metaverse, while still a concept at the moment, consists of the possibilities that arise when you combine the advances and affordability in extended reality (XR) space with the decentralized nature and composability of Web3, crypto assets, decentralized finance (DeFi) and its underlying blockchain technology.]]></summary>
+        <author>
+            <name>Anna Collard</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chinese Hackers Targeting Online Casinos with GamePlayerFramework Malware]]></title>
+        <id>tag:blogger.com,1999:blog-4802841478634147276.post-3921649514569888824</id>
+        <link href="https://thehackernews.com/2022/10/chinese-hackers-targeting-online.html"/>
+        <updated>2022-10-19T12:33:00.000Z</updated>
+        <summary type="html"><![CDATA[An advanced persistent threat (APT) group of Chinese origin codenamed DiceyF has been linked to a string of attacks aimed at online casinos in Southeast Asia for years.
+Russian cybersecurity company Kaspersky said the activity aligns with another set of intrusions attributed to Earth Berberoka (aka GamblingPuppet) and DRBControl, citing tactical and targeting similarities as well as the abuse of]]></summary>
+        <author>
+            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Quick Guide for Small Cybersecurity Teams Looking to Invest in Cyber Insurance]]></title>
+        <id>tag:blogger.com,1999:blog-4802841478634147276.post-3311854700447469673</id>
+        <link href="https://thehackernews.com/2022/10/a-quick-guide-for-small-cybersecurity.html"/>
+        <updated>2022-10-19T12:30:00.000Z</updated>
+        <summary type="html"><![CDATA[In the world of insurance providers and policies, cyber insurance is a fairly new field. And many security teams are trying to wrap their heads around it. 
+What is it and do they need it? And with what time will they spend researching how to integrate cyber insurance into their strategy? 
+For small security teams, this is particularly challenging as they contend with limited resources.
+Luckily,]]></summary>
+        <author>
+            <name>noreply@blogger.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Experts Warn of Stealthy PowerShell Backdoor Disguising as Windows Update]]></title>
+        <id>tag:blogger.com,1999:blog-4802841478634147276.post-3532090865318642783</id>
+        <link href="https://thehackernews.com/2022/10/experts-warn-of-stealthy-powershell.html"/>
+        <updated>2022-10-19T10:09:00.000Z</updated>
+        <summary type="html"><![CDATA[Details have emerged about a previously undocumented and fully undetectable (FUD) PowerShell backdoor that gains its stealth by disguising itself as part of a Windows update process.
+"The covert self-developed tool and the associated C2 commands seem to be the work of a sophisticated, unknown threat actor who has targeted approximately 100 victims," Tomer Bar, director of security research at]]></summary>
+        <author>
+            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CISA Warns of Critical Flaws Affecting Industrial Appliances from Advantech and Hitachi]]></title>
+        <id>tag:blogger.com,1999:blog-4802841478634147276.post-2089242084456370455</id>
+        <link href="https://thehackernews.com/2022/10/cisa-warns-of-critical-flaws-affecting.html"/>
+        <updated>2022-10-19T08:51:00.000Z</updated>
+        <summary type="html"><![CDATA[The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday released two Industrial Control Systems (ICS) advisories pertaining to severe flaws in Advantech R-SeeNet and Hitachi Energy APM Edge appliances.
+This consists of three weaknesses in the R-SeeNet monitoring solution, successful exploitation of which "could result in an unauthorized attacker remotely deleting files on the]]></summary>
+        <author>
+            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Patching-as-a-Service Offers Benefits, Challenges]]></title>
         <id>https://www.darkreading.com/dr-tech/patching-as-a-service-offers-benefits-challenges</id>
@@ -5182,36 +5279,6 @@ The]]></summary>
 "This group typically uses similar techniques to target technology companies, and in 2022 alone has breached Microsoft, Cisco, Samsung, NVIDIA, and Okta, among others," the San Francisco-based]]></summary>
         <author>
             <name>noreply@blogger.com (Ravie Lakshmanan)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CrowdStrike Investment Spotlights API Security]]></title>
-        <id>https://www.darkreading.com/dr-tech/crowdstrike-investment-spotlights-api-security</id>
-        <link href="https://www.darkreading.com/dr-tech/crowdstrike-investment-spotlights-api-security"/>
-        <updated>2022-09-20T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The investment in Salt Security underscores the fact that attacks targeting APIs are increasing.]]></summary>
-        <author>
-            <name>Dark Reading Staff, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Uber: Lapsus$ Targeted External Contractor With MFA Bombing Attack]]></title>
-        <id>https://www.darkreading.com/attacks-breaches/uber-breach-external-contractor-mfa-bombing-attack</id>
-        <link href="https://www.darkreading.com/attacks-breaches/uber-breach-external-contractor-mfa-bombing-attack"/>
-        <updated>2022-09-19T21:24:55.000Z</updated>
-        <summary type="html"><![CDATA[The ride-sharing giant says a member of the notorious Lapsus$ hacking group started the attack by compromising an external contractor's credentials, as researchers parse the incident for takeaways.]]></summary>
-        <author>
-            <name>Jai Vijayan, Contributing Writer, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rockstar Games Confirms 'Grand Theft Auto 6' Breach]]></title>
-        <id>https://www.darkreading.com/attacks-breaches/rockstar-games-confirms-grand-theft-auto-6-breach</id>
-        <link href="https://www.darkreading.com/attacks-breaches/rockstar-games-confirms-grand-theft-auto-6-breach"/>
-        <updated>2022-09-19T21:01:00.000Z</updated>
-        <summary type="html"><![CDATA[The Take-Two Interactive subsidiary acknowledges an attack on its systems, where an attacker downloaded "early development footage for the next Grand Theft Auto" and other assets.]]></summary>
-        <author>
-            <name>Robert Lemos, Contributing Writer, Dark Reading</name>
         </author>
     </entry>
 </feed>
