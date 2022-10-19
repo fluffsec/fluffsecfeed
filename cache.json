@@ -53,6 +53,26 @@
       "siteUrl": "https://us-cert.cisa.gov/",
       "articles": [
         {
+          "id": "18080 at https://us-cert.cisa.gov",
+          "author": "CISA",
+          "description": "Original release date: October 19, 2022\nCISA and the Multi-State Information Sharing & Analysis Center (MS-ISAC) have updated joint Cybersecurity Advisory AA22-228A: Threat Actors Exploiting Multiple CVEs Against Zimbra Collaboration Suite, originally released August 16, 2022. The advisory has been updated to reference the addition of a new Malware Analysis Report, MAR-10398871.r1.v2.\nCISA encourages organizations to review the latest update to AA22-228A and apply the recommended mitigations.\nThis product is provided subject to this Notification and this Privacy & Use policy.",
+          "link": "https://us-cert.cisa.gov/ncas/current-activity/2022/10/19/cisa-updates-advisory-threat-actors-exploiting-multiple-cves",
+          "publishedOn": "2022-10-19T14:58:00.000Z",
+          "wordCount": 924,
+          "title": "CISA Updates Advisory on Threat Actors Exploiting Multiple CVEs Against Zimbra Collaboration Suite",
+          "imageUrl": null
+        },
+        {
+          "id": "18079 at https://us-cert.cisa.gov",
+          "author": "CISA",
+          "description": "Original release date: October 19, 2022\nOracle has released its Critical Patch Update for October 2022. This update addresses 366 vulnerabilities across multiple products. A remote attacker could exploit some of these vulnerabilities to take control of an affected system.\nCISA encourages users and administrators to review Oracle’s October 2022 Critical Patch Update and apply the necessary mitigations.\nThis product is provided subject to this Notification and this Privacy & Use policy.",
+          "link": "https://us-cert.cisa.gov/ncas/current-activity/2022/10/19/oracle-releases-october-2022-critical-patch-update",
+          "publishedOn": "2022-10-19T13:30:00.000Z",
+          "wordCount": 897,
+          "title": "Oracle Releases October 2022 Critical Patch Update",
+          "imageUrl": null
+        },
+        {
           "id": "18078 at https://us-cert.cisa.gov",
           "author": "CISA",
           "description": "Original release date: October 18, 2022\nCISA released two Industrial Control Systems (ICS) advisories on October 18, 2022. These advisories provide timely information about current security issues, vulnerabilities, and exploits surrounding ICS.\nCISA encourages users and administrators to review the newly released ICS advisories for technical details and mitigations:\nICSA-22-291-01 Advantech R-SeeNet\nICSA-21-336-06 Hitachi Energy APM Edge (Update A)\nThis product is provided subject to this Notification and this Privacy & Use policy.",
@@ -440,6 +460,101 @@
       "siteUrl": "https://www.darkreading.com",
       "articles": [
         {
+          "id": "https://www.darkreading.com/attacks-breaches/scammers-targeting-those-seeking-student-loan-forgiveness",
+          "author": "Dark Reading Staff, Dark Reading",
+          "description": "FBI warns that cybercriminals are stealing personal information by posing as administrators of the Student Loan Debt Relief Plan.",
+          "link": "https://www.darkreading.com/attacks-breaches/scammers-targeting-those-seeking-student-loan-forgiveness",
+          "publishedOn": "2022-10-19T18:42:00.000Z",
+          "wordCount": 9876,
+          "title": "Scammers Targeting Those Seeking Student Loan Forgiveness",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blte161b23f0fd3a84b/60b1ea374e7eb868c4c6a293/dr_staff_125x125.jpg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blte161b23f0fd3a84b/60b1ea374e7eb868c4c6a293/dr_staff_125x125.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/application-security/apache-commons-vulnerability-patch-but-dont-panic",
+          "author": "Jai Vijayan, Contributing Writer, Dark Reading",
+          "description": "Experts say CVE-2022-42899 is a serious vulnerability, but widespread exploitation is unlikely because of the specific conditions that need to exist for it to happen.",
+          "link": "https://www.darkreading.com/application-security/apache-commons-vulnerability-patch-but-dont-panic",
+          "publishedOn": "2022-10-19T17:30:00.000Z",
+          "wordCount": 12552,
+          "title": "Apache Commons Vulnerability: Patch but Don't Panic",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt02d79fb9a44a4258/60b1e9dd2a25046b35110696/Jai-Vijayan.jpeg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt02d79fb9a44a4258/60b1e9dd2a25046b35110696/Jai-Vijayan.jpeg"
+        },
+        {
+          "id": "https://www.darkreading.com/cloud/sboms-an-overhyped-concept-that-won-t-secure-your-software-supply-chain-",
+          "author": "Peter Morgan, President & Co-Founder, Phylum",
+          "description": "We need more than the incomplete snapshot SBOMs provide to have real impact.",
+          "link": "https://www.darkreading.com/cloud/sboms-an-overhyped-concept-that-won-t-secure-your-software-supply-chain-",
+          "publishedOn": "2022-10-19T17:00:00.000Z",
+          "wordCount": 12987,
+          "title": "SBOMs: An Overhyped Concept That Won't Secure Your Software Supply Chain",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltb3f8c798870daf75/634ef12cac0c7a543791551d/Pete-008.jpg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltb3f8c798870daf75/634ef12cac0c7a543791551d/Pete-008.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/cloud/zscaler-advances-enterprise-data-security-with-zero-configuration-data-protection",
+          "author": null,
+          "description": "New data-protection innovations mitigate security risks by expediting deployment cycles and simplifying operational complexity.",
+          "link": "https://www.darkreading.com/cloud/zscaler-advances-enterprise-data-security-with-zero-configuration-data-protection",
+          "publishedOn": "2022-10-19T16:16:21.000Z",
+          "wordCount": 12723,
+          "title": "Zscaler Advances Enterprise Data Security With Zero-Configuration Data Protection",
+          "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/cloud/kaspersky-launches-new-vpn-to-amplify-speed-and-convenience",
+          "author": null,
+          "description": "New version boosts VPN tunnel performance and lets users prioritize secure connection traffic for certain services.",
+          "link": "https://www.darkreading.com/cloud/kaspersky-launches-new-vpn-to-amplify-speed-and-convenience",
+          "publishedOn": "2022-10-19T15:42:15.000Z",
+          "wordCount": 11393,
+          "title": "Kaspersky Launches New VPN to Amplify Speed and Convenience",
+          "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/attacks-breaches/groupsense-delivers-new-ransomware-negotiation-training-service",
+          "author": null,
+          "description": "Training service prepares ransomware response teams for successful threat actor engagement to mitigate damage, protect brand reputation, anticipate emerging threats, and more.",
+          "link": "https://www.darkreading.com/attacks-breaches/groupsense-delivers-new-ransomware-negotiation-training-service",
+          "publishedOn": "2022-10-19T15:20:05.000Z",
+          "wordCount": 12497,
+          "title": "GroupSense Delivers New Ransomware Negotiation Training Service",
+          "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/cloud/digicert-appoints-industry-veteran-amit-sinha-as-chief-executive-officer",
+          "author": null,
+          "description": "Former Zscaler president to lead DigiCert's next stage of growth as the company accelerates its strategy, expands its product offering, and works to become the de facto standard for digital trust.",
+          "link": "https://www.darkreading.com/cloud/digicert-appoints-industry-veteran-amit-sinha-as-chief-executive-officer",
+          "publishedOn": "2022-10-19T14:51:47.000Z",
+          "wordCount": 12620,
+          "title": "DigiCert Appoints Industry Veteran Amit Sinha as Chief Executive Officer",
+          "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/risk/revelstoke-teams-up-with-breachrx-offering-users-automated-incident-response-and-compliance-solutions",
+          "author": null,
+          "description": "New partnership gives security analysts simplicity when sifting through data, thorough readouts of compliance options, and streamlined response to incidents.",
+          "link": "https://www.darkreading.com/risk/revelstoke-teams-up-with-breachrx-offering-users-automated-incident-response-and-compliance-solutions",
+          "publishedOn": "2022-10-19T14:35:11.000Z",
+          "wordCount": 11372,
+          "title": "Revelstoke Teams Up With BreachRx, Offering Users Automated Incident Response and Compliance Solutions",
+          "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
+        },
+        {
           "id": "https://www.darkreading.com/careers-and-people/a-new-solution-to-the-cybersecurity-skills-gap-building-security-into-operational-teams",
           "author": "Shamla Naidoo, Head of Cloud Strategy & Innovation, Netskope",
           "description": "Why — and how — companies should consider shifting day-to-day security responsibilities out to operations teams. The move would elevate the team's level of decision-making and help address the challenge of finding professionals with security-specific credentials.",
@@ -463,6 +578,21 @@
           "wordCount": 11445,
           "title": "RCS Secure Catches Its Next Big Wave",
           "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/threat-intelligence/china-linked-cyber-espionage-team-homes-in-on-hong-kong-government-orgs",
+          "author": "Elizabeth Montalbano, Contributor, Dark Reading",
+          "description": "The Winnti APT was spotted dropping several variants of Spyder Loader and other malware as part of the so-called Operation Cuckoobees.",
+          "link": "https://www.darkreading.com/threat-intelligence/china-linked-cyber-espionage-team-homes-in-on-hong-kong-government-orgs",
+          "publishedOn": "2022-10-19T13:31:41.000Z",
+          "wordCount": 12956,
+          "title": "China-Linked Cyber-Espionage Team Homes In on Hong Kong Government Orgs",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltbfd004d139d42d70/6303bca6236c2476a257760e/ElizabethMontalbano.jpg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltbfd004d139d42d70/6303bca6236c2476a257760e/ElizabethMontalbano.jpg"
         },
         {
           "id": "https://www.darkreading.com/application-security/gitguardian-extends-code-security-platform-adding-infrastructure-as-code-scanning-for-security-misconfigurations",
@@ -3836,6 +3966,16 @@
       "siteUrl": "https://msrc-blog.microsoft.com",
       "articles": [
         {
+          "id": "https://msrc-blog.microsoft.com/?p=15027",
+          "author": "msrc",
+          "description": "Summary  Security researchers at SOCRadar informed Microsoft on September 24, 2022, of a misconfigured Microsoft endpoint. This misconfiguration resulted in the potential for unauthenticated access to some business transaction data corresponding to interactions between Microsoft and prospective customers, such as the planning or potential implementation and provisioning of Microsoft services.     Upon being notified of …\n  Investigation Regarding Misconfigured Microsoft Storage Location Read More »",
+          "link": "https://msrc-blog.microsoft.com/2022/10/19/investigation-regarding-misconfigured-microsoft-storage-location-2/",
+          "publishedOn": "2022-10-19T14:04:00.000Z",
+          "wordCount": 1872,
+          "title": "Investigation Regarding Misconfigured Microsoft Storage Location",
+          "imageUrl": null
+        },
+        {
           "id": "https://msrc-blog.microsoft.com/?p=14990",
           "author": "msrc",
           "description": "Summary Microsoft was recently made aware of a Cross-Site Scripting (XSS) vulnerability (CVE-2022-35829), that under limited circumstances, affects older versions of Service Fabric Explorer (SFX). The current default SFX web client (SFXv2) is not vulnerable to this attack. However, customers can manually switch from the default web client (SFXv2) to an older vulnerable SFX web …\n  Awareness and guidance related to potential Service Fabric Explorer (SFX) v1 web client risk Read More »",
@@ -3919,6 +4059,16 @@
       "feedUrl": "https://blog.knowbe4.com/rss.xml",
       "siteUrl": "https://blog.knowbe4.com",
       "articles": [
+        {
+          "id": "https://blog.knowbe4.com/phishing-targets-us-election-workers",
+          "author": "Stu Sjouwerman",
+          "description": "Researchers at Trellix warn of phishing attacks targeting election workers in advance of the US midterm elections. These attacks spiked ahead of the primary elections in Arizona and Pennsylvania earlier this year, and the researchers expect this trend to continue into the November elections.",
+          "link": "https://blog.knowbe4.com/phishing-targets-us-election-workers",
+          "publishedOn": "2022-10-19T18:24:49.000Z",
+          "wordCount": 2210,
+          "title": "Phishing Targets US Election Workers",
+          "imageUrl": "https://blog.knowbe4.com/hubfs/Phishing%20Targets%20US%20Election%20Workers.jpg#keepProtocol"
+        },
         {
           "id": "https://blog.knowbe4.com/scary-metaverse",
           "author": "Anna Collard",
@@ -4526,6 +4676,17 @@
       "feedUrl": "https://thehackernews.com/feeds/posts/default",
       "siteUrl": "https://thehackernews.com/",
       "articles": [
+        {
+          "id": "tag:blogger.com,1999:blog-4802841478634147276.post-5969567543405908531",
+          "author": "noreply@blogger.com (Ravie Lakshmanan)",
+          "description": "Cybersecurity researchers have shared more details about a now-patched security flaw in Azure Service Fabric Explorer (SFX) that could potentially enable an attacker to gain administrator privileges on the cluster.\nThe vulnerability, tracked as CVE-2022-35829, carries a CVSS severity rating of 6.2 and was addressed by Microsoft as part of its Patch Tuesday updates last week.\n\nOrca",
+          "link": "https://thehackernews.com/2022/10/researchers-detail-azure-sfx-flaw-that.html",
+          "publishedOn": "2022-10-19T13:18:00.000Z",
+          "wordCount": null,
+          "title": "Researchers Detail Azure SFX Flaw That Could've Allowed Attackers to Gain Admin Access",
+          "itunes": {},
+          "imageUrl": null
+        },
         {
           "id": "tag:blogger.com,1999:blog-4802841478634147276.post-3921649514569888824",
           "author": "noreply@blogger.com (Ravie Lakshmanan)",
