@@ -53,6 +53,46 @@
       "siteUrl": "https://us-cert.cisa.gov/",
       "articles": [
         {
+          "id": "18085 at https://us-cert.cisa.gov",
+          "author": "CISA",
+          "description": "Original release date: October 20, 2022\nCISA has added two vulnerabilities to its Known Exploited Vulnerabilities Catalog, based on evidence of active exploitation. These types of vulnerabilities are a frequent attack vector for malicious cyber actors and pose significant risk to the federal enterprise. Note: to view the newly added vulnerabilities in the catalog, click on the arrow in the \"Date Added to Catalog\" column, which will sort by descending dates.      \nBinding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the Known Exploited Vulnerabilities Catalog as a living list of known CVEs that carry significant risk to the federal enterprise. BOD 22-01 requires FCEB agencies to remediate identified vulnerabilities by the due date to protect FCEB networks against active threats. See the BOD 22-01 Fact Sheet for more information.   \nAlthough BOD 22-01 only applies to FCEB agencies, CISA strongly urges all organizations to reduce their exposure to cyberattacks by prioritizing timely remediation of Catalog vulnerabilities as part of their vulnerability management practice. CISA will continue to add vulnerabilities to the Catalog that meet the specified criteria.\nThis product is provided subject to this Notification and this Privacy & Use policy.",
+          "link": "https://us-cert.cisa.gov/ncas/current-activity/2022/10/20/cisa-adds-two-known-exploited-vulnerabilities-catalog",
+          "publishedOn": "2022-10-20T17:45:16.000Z",
+          "wordCount": 1023,
+          "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
+          "imageUrl": null
+        },
+        {
+          "id": "18083 at https://us-cert.cisa.gov",
+          "author": "CISA",
+          "description": "Original release date: October 20, 2022\nCISA has released three (3) Industrial Control Systems (ICS) advisories on October 20, 2022. These advisories provide timely information about current security issues, vulnerabilities, and exploits surrounding ICS.\nCISA encourages users and administrators to review the newly released ICS advisories for technical details and mitigations:\n•    ICSA-22-293-01 Bentley Systems MicroStation Connect\nB Braun Infusomat Space Large Volume Pump (Update A)\nB. Braun SpaceCom Battery Pack SP with Wi-Fi and Data module compactplus (Update A)\nThis product is provided subject to this Notification and this Privacy & Use policy.",
+          "link": "https://us-cert.cisa.gov/ncas/current-activity/2022/10/20/cisa-releases-three-industrial-control-systems-advisories",
+          "publishedOn": "2022-10-20T13:34:49.000Z",
+          "wordCount": 923,
+          "title": "CISA Releases Three Industrial Control Systems Advisories",
+          "imageUrl": null
+        },
+        {
+          "id": "18081 at https://us-cert.cisa.gov",
+          "author": "CISA",
+          "description": "Original release date: October 20, 2022\nMozilla has released security updates to address vulnerabilities in Firefox ESR and Firefox. An attacker could exploit these vulnerabilities to cause denial-of-service conditions.\nCISA encourages users and administrators to review Mozilla’s security advisories for Firefox ESR 102.4 and Firefox 106 for mitigations and updates.\nThis product is provided subject to this Notification and this Privacy & Use policy.",
+          "link": "https://us-cert.cisa.gov/ncas/current-activity/2022/10/20/mozilla-releases-security-updates-firefox",
+          "publishedOn": "2022-10-20T13:30:00.000Z",
+          "wordCount": 886,
+          "title": "Mozilla Releases Security Updates for Firefox",
+          "imageUrl": null
+        },
+        {
+          "id": "18082 at https://us-cert.cisa.gov",
+          "author": "CISA",
+          "description": "Original release date: October 20, 2022\nCISA has issued requests for comment (RFCs) on eight Microsoft 365 security configuration baselines as part of the Secure Cloud Business Application (SCuBA) project to secure federal civilian executive branch agencies’ (FCEB) cloud environments. The baselines:\nFederal Chief Information Officers Council’s Cyber Innovation Tiger Team (CITT).\nVisit CISA.gov/SCuBA and CISA's SCuBA GitHub page for more information and to review the baselines. The RFC period is open until Nov. 24, 2022. CISA is specifically requesting insight on the feasibility, clarity, and usefulness of the baselines. Comments should be submitted to: QSMO@CISA.dhs.gov.\nThis product is provided subject to this Notification and this Privacy & Use policy.",
+          "link": "https://us-cert.cisa.gov/ncas/current-activity/2022/10/20/cisa-requests-comment-microsoft-365-security-configuration",
+          "publishedOn": "2022-10-20T12:33:09.000Z",
+          "wordCount": 990,
+          "title": "CISA Requests for Comment on Microsoft 365 Security Configuration Baselines",
+          "imageUrl": null
+        },
+        {
           "id": "18080 at https://us-cert.cisa.gov",
           "author": "CISA",
           "description": "Original release date: October 19, 2022\nCISA and the Multi-State Information Sharing & Analysis Center (MS-ISAC) have updated joint Cybersecurity Advisory AA22-228A: Threat Actors Exploiting Multiple CVEs Against Zimbra Collaboration Suite, originally released August 16, 2022. The advisory has been updated to reference the addition of a new Malware Analysis Report, MAR-10398871.r1.v2.\nCISA encourages organizations to review the latest update to AA22-228A and apply the recommended mitigations.\nThis product is provided subject to this Notification and this Privacy & Use policy.",
@@ -459,6 +499,166 @@
       "feedUrl": "https://www.darkreading.com/rss.xml",
       "siteUrl": "https://www.darkreading.com",
       "articles": [
+        {
+          "id": "https://www.darkreading.com/microsoft/4-ways-to-achieve-comprehensive-security",
+          "author": "Mark Simos, Lead Cybersecurity Architect, Microsoft",
+          "description": "Zero trust protects identities, endpoints, applications, networks, infrastructure, and data, and can be implemented in different ways.",
+          "link": "https://www.darkreading.com/microsoft/4-ways-to-achieve-comprehensive-security",
+          "publishedOn": "2022-10-20T18:17:08.000Z",
+          "wordCount": 12810,
+          "title": "4 Ways To Achieve Comprehensive Security",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt8fe4479bc32f84b4/6321f5362769d078008692a9/MS-Security_logo.png",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt8fe4479bc32f84b4/6321f5362769d078008692a9/MS-Security_logo.png"
+        },
+        {
+          "id": "https://www.darkreading.com/attacks-breaches/furball-spyware-being-used-against-iranian-citizens",
+          "author": "Dark Reading Staff, Dark Reading",
+          "description": "New Android malware variant is part of long-running Domestic Kitten campaign being conducted by APT C-50 Group, analysts report.",
+          "link": "https://www.darkreading.com/attacks-breaches/furball-spyware-being-used-against-iranian-citizens",
+          "publishedOn": "2022-10-20T18:00:00.000Z",
+          "wordCount": 10282,
+          "title": "'FurBall' Spyware Being Used Against Iranian Citizens",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blte161b23f0fd3a84b/60b1ea374e7eb868c4c6a293/dr_staff_125x125.jpg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blte161b23f0fd3a84b/60b1ea374e7eb868c4c6a293/dr_staff_125x125.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/cloud/name-that-toon-witching-hour",
+          "author": "John Klossner, Cartoonist",
+          "description": "Feeling creative? Submit your caption and our panel of experts will reward the winner with a $25 Amazon gift card.",
+          "link": "https://www.darkreading.com/cloud/name-that-toon-witching-hour",
+          "publishedOn": "2022-10-20T17:00:00.000Z",
+          "wordCount": 10041,
+          "title": "Name That Toon: Witching Hour",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltf97d71984b60d7ed/60b1e88b5d34de550780a96e/Klossner_iwk_photo.gif",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltf97d71984b60d7ed/60b1e88b5d34de550780a96e/Klossner_iwk_photo.gif"
+        },
+        {
+          "id": "https://www.darkreading.com/application-security/banco-santander-and-forgepoint-capital-announce-strategic-alliance-to-advance-cybersecurity-investment-and-innovation-globally",
+          "author": null,
+          "description": ".",
+          "link": "https://www.darkreading.com/application-security/banco-santander-and-forgepoint-capital-announce-strategic-alliance-to-advance-cybersecurity-investment-and-innovation-globally",
+          "publishedOn": "2022-10-20T15:42:27.000Z",
+          "wordCount": 10957,
+          "title": "Banco Santander and Forgepoint Capital Announce Strategic Alliance to Advance Cybersecurity Investment and Innovation Globally",
+          "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/privacy/anonos-secures-50-million-in-ip-backed-financing-to-deliver-data-privacy-technology-with-100-accuracy-and-utility-to-data-driven-enterprises",
+          "author": null,
+          "description": "Global data privacy software innovator will use growth funding, led by GT Investment Partners and facilitated by Aon, to fuel customer success and expand global partnerships, sales, marketing, and industry education.",
+          "link": "https://www.darkreading.com/privacy/anonos-secures-50-million-in-ip-backed-financing-to-deliver-data-privacy-technology-with-100-accuracy-and-utility-to-data-driven-enterprises",
+          "publishedOn": "2022-10-20T14:42:14.000Z",
+          "wordCount": 13967,
+          "title": "Anonos Secures $50 Million in IP-Backed Financing to Deliver Data Privacy Technology with 100% Accuracy and Utility to Data-Driven Enterprises",
+          "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/cloud/datadog-launches-cloud-security-management-to-provide-cloud-native-application-protection",
+          "author": null,
+          "description": "Product brings together workload and infrastructure security into a single platform to provide a unified approach to protecting cloud environments.",
+          "link": "https://www.darkreading.com/cloud/datadog-launches-cloud-security-management-to-provide-cloud-native-application-protection",
+          "publishedOn": "2022-10-20T14:36:13.000Z",
+          "wordCount": 12720,
+          "title": "Datadog Launches Cloud Security Management to Provide Cloud Native Application Protection",
+          "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/perimeter/corsa-security-drives-forward-with-additional-10-million-funding",
+          "author": null,
+          "description": "Latest investment to broaden integrations with top firewall vendors.",
+          "link": "https://www.darkreading.com/perimeter/corsa-security-drives-forward-with-additional-10-million-funding",
+          "publishedOn": "2022-10-20T14:32:07.000Z",
+          "wordCount": 10970,
+          "title": "Corsa Security Drives Forward with Additional $10 Million Funding",
+          "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/cloud/only-4-of-security-and-it-leaders-believe-all-of-their-cloud-data-is-sufficiently-secured",
+          "author": null,
+          "description": "New cloud data survey from the Cloud Security Alliance and BigID sheds light on the state of cloud data security in 2022.",
+          "link": "https://www.darkreading.com/cloud/only-4-of-security-and-it-leaders-believe-all-of-their-cloud-data-is-sufficiently-secured",
+          "publishedOn": "2022-10-20T14:27:07.000Z",
+          "wordCount": 11661,
+          "title": "Only 4% of Security and IT Leaders Believe All of Their Cloud Data is Sufficiently Secured",
+          "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/threat-intelligence/cycognito-launches-next-generation-of-exploit-intelligence-threat-remediation-platform",
+          "author": null,
+          "description": "External attack surface management leader unveils evolution of risk intelligence solution, including a virtual sandbox environment to safely validate steps to remediation.",
+          "link": "https://www.darkreading.com/threat-intelligence/cycognito-launches-next-generation-of-exploit-intelligence-threat-remediation-platform",
+          "publishedOn": "2022-10-20T14:23:58.000Z",
+          "wordCount": 11661,
+          "title": "CyCognito Launches Next Generation of Exploit Intelligence Threat Remediation Platform",
+          "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/perimeter/synsaber-adds-new-dynamic-pipeline-to-ot-cybersecurity-platform",
+          "author": null,
+          "description": "ICS/OT cybersecurity and asset monitoring vendor improves scalability and flexibility with new update.",
+          "link": "https://www.darkreading.com/perimeter/synsaber-adds-new-dynamic-pipeline-to-ot-cybersecurity-platform",
+          "publishedOn": "2022-10-20T14:18:10.000Z",
+          "wordCount": 11143,
+          "title": "SynSaber Adds New Dynamic Pipeline to OT Cybersecurity Platform",
+          "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/operations/new-torii-report-finds-60-of-it-leaders-don-t-know-what-apps-they-have",
+          "author": null,
+          "description": "Surprisingly poor cross-team collaboration leads to mismanaged SaaS, wasted money and time.",
+          "link": "https://www.darkreading.com/operations/new-torii-report-finds-60-of-it-leaders-don-t-know-what-apps-they-have",
+          "publishedOn": "2022-10-20T14:13:59.000Z",
+          "wordCount": 11971,
+          "title": "New Torii Report Finds 60% of IT Leaders Don’t Know What Apps They Have",
+          "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/endpoint/hp-launches-sure-access-enterprise-to-protect-high-value-data-and-systems",
+          "author": null,
+          "description": "HP enhances HP Wolf Security portfolio to stop attackers hijacking privileged access to sensitive data.",
+          "link": "https://www.darkreading.com/endpoint/hp-launches-sure-access-enterprise-to-protect-high-value-data-and-systems",
+          "publishedOn": "2022-10-20T14:03:16.000Z",
+          "wordCount": 12272,
+          "title": "HP Launches Sure Access Enterprise to Protect High Value Data and Systems",
+          "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/risk/are-you-a-ciso-building-your-risk-register-for-2023-read-this-first",
+          "author": "Chaim Mazal, Senior VP of Technology and CISO, Kandji",
+          "description": "Achieving basic IT hygiene is 99% of the game.",
+          "link": "https://www.darkreading.com/risk/are-you-a-ciso-building-your-risk-register-for-2023-read-this-first",
+          "publishedOn": "2022-10-20T14:00:00.000Z",
+          "wordCount": 13163,
+          "title": "Are You a CISO Building Your Risk Register for 2023? Read This First",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltd3209a385d0fd6cf/6206aef08cccbd493a5c66d5/Chaim_Mazal.jpeg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltd3209a385d0fd6cf/6206aef08cccbd493a5c66d5/Chaim_Mazal.jpeg"
+        },
+        {
+          "id": "https://www.darkreading.com/cloud/security-testing-improves-headaches-compliance",
+          "author": null,
+          "description": "Compliance activities are often viewed as frustrating but necessary. That's an understandable view as teams often have to apply a set standard to existing systems and figure out how to collect enough evidence to answer an audit.",
+          "link": "https://www.darkreading.com/cloud/security-testing-improves-headaches-compliance",
+          "publishedOn": "2022-10-20T14:00:00.000Z",
+          "wordCount": 13009,
+          "title": "Security Testing Improves Headaches & Compliance",
+          "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
+        },
         {
           "id": "https://www.darkreading.com/threat-intelligence/bolster-deepens-platform-with-dark-web-threat-intelligence-and-24-7-support",
           "author": null,
@@ -3783,21 +3983,6 @@
             "length": "0"
           },
           "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt697bdb83599685d4/632b1e325ad7af7258ba43b9/BD_Daniel_Clayton_Pic2_2022.jpg"
-        },
-        {
-          "id": "https://www.darkreading.com/emerging-tech/microsoft-brings-zero-trust-to-hardware-in-windows-11",
-          "author": "Karen Spiegelman, Features Editor",
-          "description": "A stacked combination of hardware and software protects the next version of Windows against the latest generation of firmware threats.",
-          "link": "https://www.darkreading.com/emerging-tech/microsoft-brings-zero-trust-to-hardware-in-windows-11",
-          "publishedOn": "2022-09-21T03:33:20.000Z",
-          "wordCount": 14495,
-          "title": "Microsoft Brings Zero Trust to Hardware in Windows 11",
-          "enclosure": {
-            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt05b5a13cf2fb2868/62473b097c2d1d030cd47dff/pink-headshot.jpg",
-            "type": "image/*",
-            "length": "0"
-          },
-          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt05b5a13cf2fb2868/62473b097c2d1d030cd47dff/pink-headshot.jpg"
         }
       ]
     },
@@ -4561,6 +4746,28 @@
       "feedUrl": "https://thehackernews.com/feeds/posts/default",
       "siteUrl": "https://thehackernews.com/",
       "articles": [
+        {
+          "id": "tag:blogger.com,1999:blog-4802841478634147276.post-778003812998095288",
+          "author": "noreply@blogger.com (Ravie Lakshmanan)",
+          "description": "Google on Thursday announced that it's seeking contributors to a new open source initiative called Graph for Understanding Artifact Composition, also known as GUAC, as part of its ongoing efforts to beef up the software supply chain.\n\"GUAC addresses a need created by the burgeoning efforts across the ecosystem to generate software build, security, and dependency metadata,\" Brandon Lum, Mihai",
+          "link": "https://thehackernews.com/2022/10/google-launches-guac-open-source.html",
+          "publishedOn": "2022-10-20T17:03:00.000Z",
+          "wordCount": null,
+          "title": "Google Launches GUAC Open Source Project to Secure Software Supply Chain",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "tag:blogger.com,1999:blog-4802841478634147276.post-3987249390475131957",
+          "author": "noreply@blogger.com (Ravie Lakshmanan)",
+          "description": "A Russian-speaking ransomware group dubbed OldGremlin has been attributed to 16 malicious campaigns aimed at entities operating in the transcontinental Eurasian nation over the course of two and a half years.\n\"The group's victims include companies in sectors such as logistics, industry, insurance, retail, real estate, software development, and banking,\" Group-IB said in an exhaustive report",
+          "link": "https://thehackernews.com/2022/10/oldgremlin-ransomware-targeted-over.html",
+          "publishedOn": "2022-10-20T16:31:00.000Z",
+          "wordCount": null,
+          "title": "OldGremlin Ransomware Targeted Over a Dozen Russian Entities in Multi-Million Scheme",
+          "itunes": {},
+          "imageUrl": null
+        },
         {
           "id": "tag:blogger.com,1999:blog-4802841478634147276.post-5476669691487369226",
           "author": "noreply@blogger.com (Ravie Lakshmanan)",
@@ -5999,39 +6206,6 @@
           "publishedOn": "2022-09-21T10:54:00.000Z",
           "wordCount": null,
           "title": "U.S. Adds 2 More Chinese Telecom Firms to National Security Threat List",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "tag:blogger.com,1999:blog-4802841478634147276.post-6468690859370128059",
-          "author": "noreply@blogger.com (Ravie Lakshmanan)",
-          "description": "Cybersecurity company Imperva has disclosed that it mitigated a distributed denial-of-service (DDoS) attack with a total of over 25.3 billion requests on June 27, 2022.\nThe \"strong attack,\" which targeted an unnamed Chinese telecommunications company, is said to have lasted for four hours and peaked at 3.9 million requests per second (RPS).\n\"Attackers used HTTP/2 multiplexing, or combining",
-          "link": "https://thehackernews.com/2022/09/record-ddos-attack-with-253-billion.html",
-          "publishedOn": "2022-09-21T06:30:00.000Z",
-          "wordCount": null,
-          "title": "Record DDoS Attack with 25.3 Billion Requests Abused HTTP/2 Multiplexing",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "tag:blogger.com,1999:blog-4802841478634147276.post-3037449909723875818",
-          "author": "noreply@blogger.com (Ravie Lakshmanan)",
-          "description": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday released an industrial control systems (ICS) advisory warning of seven security flaws in Dataprobe's iBoot-PDU power distribution unit product, mostly used in industrial environments and data centers.\n\"Successful exploitation of these vulnerabilities could lead to unauthenticated remote code execution on the Dataprobe",
-          "link": "https://thehackernews.com/2022/09/critical-remote-hack-flaws-found-in.html",
-          "publishedOn": "2022-09-21T05:24:00.000Z",
-          "wordCount": null,
-          "title": "Critical Remote Hack Flaws Found in Dataprobe's Power Distribution Units",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "tag:blogger.com,1999:blog-4802841478634147276.post-1109583585395476799",
-          "author": "noreply@blogger.com (The Hacker News)",
-          "description": "Almost every vendor, from email gateway companies to developers of threat intelligence platforms, is positioning themselves as an XDR player. But unfortunately, the noise around XDR makes it harder for buyers to find solutions that might be right for them or, more importantly, avoid ones that don't meet their needs. \nStellar Cyber delivers an Open XDR solution that allows organizations to use",
-          "link": "https://thehackernews.com/2022/09/product-review-stellar-cyber-open-xdr.html",
-          "publishedOn": "2022-09-21T05:20:00.000Z",
-          "wordCount": null,
-          "title": "Product Review: Stellar Cyber Open XDR Platform",
           "itunes": {},
           "imageUrl": null
         }
