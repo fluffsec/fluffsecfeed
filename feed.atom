@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-10-20T03:38:05.120Z</updated>
+    <updated>2022-10-20T07:35:37.971Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Brazilian Police Arrest Suspected Member of Lapsus$ Hacking Group]]></title>
+        <id>tag:blogger.com,1999:blog-4802841478634147276.post-6016337524596691861</id>
+        <link href="https://thehackernews.com/2022/10/brazilian-police-arrest-suspected.html"/>
+        <updated>2022-10-20T05:07:00.000Z</updated>
+        <summary type="html"><![CDATA[The Federal Police of Brazil on Wednesday announced it had arrested an individual for purported links to the notorious LAPSUS$ extortionist gang.
+The arrest was made as part of a new law enforcement effort, dubbed Operation Dark Cloud, that was launched in August 2022, the agency noted. Not much is known about the suspect other than the fact that the person could be a teenager.
+The Polícia]]></summary>
+        <author>
+            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Microsoft Customer Data Exposed by Misconfigured Server]]></title>
         <id>https://www.darkreading.com/cloud/microsoft-customer-data-exposed-by-misconfigured-server</id>
@@ -5285,87 +5297,6 @@ Stellar Cyber delivers an Open XDR solution that allows organizations to use]]><
         <summary type="html"><![CDATA[Microsoft and VMware are warning that the malware, which first surfaced as a browser-hijacking credential stealer, is now being used to drop ransomware, steal data, and crash systems at enterprises.]]></summary>
         <author>
             <name>Jai Vijayan, Contributing Writer, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2-Step Email Attack Uses Powtoon Video to Execute Payload]]></title>
-        <id>https://www.darkreading.com/attacks-breaches/email-attack-powtoon-video-execute-payload</id>
-        <link href="https://www.darkreading.com/attacks-breaches/email-attack-powtoon-video-execute-payload"/>
-        <updated>2022-09-20T19:14:05.000Z</updated>
-        <summary type="html"><![CDATA[The  attack uses hijacked Egress branding and the legit Powtoon video platform to steal user credentials.]]></summary>
-        <author>
-            <name>Dark Reading Staff, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Beware of Phish: American Airlines, Revolut Data Breaches Expose Customer Info]]></title>
-        <id>https://www.darkreading.com/attacks-breaches/phish-american-airlines-revolut-data-breaches-expose-customer-data</id>
-        <link href="https://www.darkreading.com/attacks-breaches/phish-american-airlines-revolut-data-breaches-expose-customer-data"/>
-        <updated>2022-09-20T19:00:45.000Z</updated>
-        <summary type="html"><![CDATA[The airline and the fintech giant both fell to successful phishing attacks against employees.]]></summary>
-        <author>
-            <name>Tara Seals, Managing Editor, News, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cast AI Introduces Cloud Security Insights for Kubernetes]]></title>
-        <id>https://www.darkreading.com/dr-tech/cast-ai-introduces-cloud-security-insights-for-kubernetes</id>
-        <link href="https://www.darkreading.com/dr-tech/cast-ai-introduces-cloud-security-insights-for-kubernetes"/>
-        <updated>2022-09-20T18:20:52.000Z</updated>
-        <summary type="html"><![CDATA[The release augments the company's Kubernetes management platform with free, user-friendly insight on security postures, along with cost monitoring and observability.]]></summary>
-        <author>
-            <name>Nathan Eddy, Contributing Writer, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Spell-Checking in Google Chrome, Microsoft Edge Browsers Leaks Passwords]]></title>
-        <id>https://www.darkreading.com/application-security/spellchecking-google-chrome-microsoft-edge-browsers-leaks-passwords</id>
-        <link href="https://www.darkreading.com/application-security/spellchecking-google-chrome-microsoft-edge-browsers-leaks-passwords"/>
-        <updated>2022-09-20T17:37:16.000Z</updated>
-        <summary type="html"><![CDATA[It's called "spell-jacking": Both browsers have spell-check features that send data to Microsoft and Google when users fill out forms for websites or Web services.]]></summary>
-        <author>
-            <name>Elizabeth Montalbano, Contributor, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Defense-in-Depth Updates for Azure Identity SDK and Azure Key Vault SDK plus Best Practice Implementation Guidance]]></title>
-        <id>https://msrc-blog.microsoft.com/?p=14682</id>
-        <link href="https://msrc-blog.microsoft.com/2022/09/20/defense-in-depth-updates-for-azure-identity-sdk-and-azure-key-vault-sdk-plus-best-practice-implementation-guidance/"/>
-        <updated>2022-09-20T17:17:00.000Z</updated>
-        <summary type="html"><![CDATA[Summary Today, Microsoft released a new version of the Azure Key Vault Software Development Kit (SDK) and Azure Identity SDK that includes defense-in-depth feature improvements. We also published best practice guidance to help protect applications and services that allow externally controlled input into the Azure Key Vault client URI for processing. While most applications using …
-  Defense-in-Depth Updates for Azure Identity SDK and Azure Key Vault SDK plus Best Practice Implementation Guidance Read More »]]></summary>
-        <author>
-            <name>msrc</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Survey Shows CISOs Losing Confidence in Ability to Stop Ransomware Attacks]]></title>
-        <id>https://www.darkreading.com/application-security/survey-cisos-losing-confidence-stop-ransomware-attacks</id>
-        <link href="https://www.darkreading.com/application-security/survey-cisos-losing-confidence-stop-ransomware-attacks"/>
-        <updated>2022-09-20T17:16:29.000Z</updated>
-        <summary type="html"><![CDATA[Despite an 86% surge in budget resources to defend against ransomware, 90% of orgs were impacted by attacks last year, a survey reveals.]]></summary>
-        <author>
-            <name>Dark Reading Staff, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Dodge New Ransomware Tactics]]></title>
-        <id>https://www.darkreading.com/attacks-breaches/how-to-dodge-new-ransomware-tactics</id>
-        <link href="https://www.darkreading.com/attacks-breaches/how-to-dodge-new-ransomware-tactics"/>
-        <updated>2022-09-20T17:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The evolving tactics increase the threat of ransomware operators, but there are steps organizations can take to protect themselves.]]></summary>
-        <author>
-            <name>Oliver Rochford, Director of Applied Research, Securonix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[No Enterprise Push for Quantum Without Regulatory Push]]></title>
-        <id>https://www.darkreading.com/edge-threat-monitor/no-enterprise-push-for-quantum-without-regulatory-push</id>
-        <link href="https://www.darkreading.com/edge-threat-monitor/no-enterprise-push-for-quantum-without-regulatory-push"/>
-        <updated>2022-09-20T16:44:32.000Z</updated>
-        <summary type="html"><![CDATA[What's it going to take to prod organizations to implement a post-quantum security plan? Legislative pressure.]]></summary>
-        <author>
-            <name>Edge Editors, Dark Reading</name>
         </author>
     </entry>
 </feed>
