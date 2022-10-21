@@ -2,10 +2,64 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-10-21T07:35:45.990Z</updated>
+    <updated>2022-10-21T14:04:35.089Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Iron Man Started His Journey From Scratch & Your Security Awareness Program Can Too]]></title>
+        <id>https://www.darkreading.com/attacks-breaches/iron-man-started-his-journey-from-scratch-your-security-awareness-program-can-too</id>
+        <link href="https://www.darkreading.com/attacks-breaches/iron-man-started-his-journey-from-scratch-your-security-awareness-program-can-too"/>
+        <updated>2022-10-21T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Build your company's security awareness program a suit of high-tech cybersecurity armor along with a collaborative atmosphere.]]></summary>
+        <author>
+            <name>Amanda Fennell, Chief Security Officer and Chief Information Officer, Relativity</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[List of Common Passwords Accounts for Nearly All Cyberattacks]]></title>
+        <id>https://www.darkreading.com/endpoint/a-common-password-list-accounts-for-nearly-all-cyberattacks</id>
+        <link href="https://www.darkreading.com/endpoint/a-common-password-list-accounts-for-nearly-all-cyberattacks"/>
+        <updated>2022-10-21T12:56:13.000Z</updated>
+        <summary type="html"><![CDATA[Half of a million passwords from the RockYou2021 list account for 99.997% of all credential attacks against a variety of honeypots, suggesting attackers are just taking the easy road.]]></summary>
+        <author>
+            <name>Robert Lemos, Contributing Writer, Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hackers Started Exploiting Critical "Text4Shell" Apache Commons Text Vulnerability]]></title>
+        <id>tag:blogger.com,1999:blog-4802841478634147276.post-4286179447855773735</id>
+        <link href="https://thehackernews.com/2022/10/hackers-started-exploiting-critical.html"/>
+        <updated>2022-10-21T11:03:00.000Z</updated>
+        <summary type="html"><![CDATA[WordPress security company Wordfence on Thursday said it started detecting exploitation attempts targeting the newly disclosed flaw in Apache Commons Text on October 18, 2022.
+The vulnerability, tracked as CVE-2022-42889 aka Text4Shell, has been assigned a severity ranking of 9.8 out of a possible 10.0 on the CVSS scale and affects versions 1.5 through 1.9 of the library.
+It's also similar to]]></summary>
+        <author>
+            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Quick Look at the "Strengthening America's Cybersecurity" Initiative]]></title>
+        <id>tag:blogger.com,1999:blog-4802841478634147276.post-1577237798866733190</id>
+        <link href="https://thehackernews.com/2022/10/a-quick-look-at-strengthening-americas.html"/>
+        <updated>2022-10-21T10:48:00.000Z</updated>
+        <summary type="html"><![CDATA[Acknowledging that you have a problem is the first step to addressing the problem in a serious way. This seems to be the reasoning for the White House recently announcing its "Strengthening America's Cybersecurity" initiative.
+The text of the announcement contains several statements that anyone who's ever read about cybersecurity will have heard many times over: increasing resilience, greater]]></summary>
+        <author>
+            <name>noreply@blogger.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Confirms Server Misconfiguration Led to 65,000+ Companies' Data Leak]]></title>
+        <id>tag:blogger.com,1999:blog-4802841478634147276.post-5369066580101561991</id>
+        <link href="https://thehackernews.com/2022/10/microsoft-confirms-server.html"/>
+        <updated>2022-10-21T10:12:00.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft this week confirmed that it inadvertently exposed information related to thousands of customers following a security lapse that left an endpoint publicly accessible over the internet sans any authentication.
+"This misconfiguration resulted in the potential for unauthenticated access to some business transaction data corresponding to interactions between Microsoft and prospective]]></summary>
+        <author>
+            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Details for a Critical Vulnerability in Apache Commons Text Published]]></title>
         <id>https://fieldeffect.com/?post_type=threats&amp;p=6636</id>
@@ -5363,49 +5417,6 @@ The shortcoming,]]></summary>
 "If left unremedied and successfully exploited, this vulnerability could be used for multiple and more malicious attacks, such as a complete domain takeover of the infrastructure and the deployment]]></summary>
         <author>
             <name>noreply@blogger.com (Ravie Lakshmanan)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Wintermute DeFi Platform Offers Hacker a Cut in $160M Crypto-Heist]]></title>
-        <id>https://www.darkreading.com/application-security/wintermute-defi-platform-offers-hacker-a-cut-in-160m-crypto-heist</id>
-        <link href="https://www.darkreading.com/application-security/wintermute-defi-platform-offers-hacker-a-cut-in-160m-crypto-heist"/>
-        <updated>2022-09-21T22:12:04.000Z</updated>
-        <summary type="html"><![CDATA[The decentralized finance (DeFi) platform was the victim of an exploit for a partner's vulnerable code — highlighting a challenging cybersecurity environment in the sector.]]></summary>
-        <author>
-            <name>Tara Seals, Managing Editor, News, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft Releases Out-of-Band Security Update for Microsoft Endpoint Configuration Manager]]></title>
-        <id>17994 at https://us-cert.cisa.gov</id>
-        <link href="https://us-cert.cisa.gov/ncas/current-activity/2022/09/21/microsoft-releases-out-band-security-update-microsoft-endpoint"/>
-        <updated>2022-09-21T22:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Original release date: September 21, 2022
-Microsoft has released a security update to address a vulnerability in Microsoft Endpoint Configuration Manager, versions 2103-2207. An attacker could exploit this vulnerability to obtain sensitive information.
-The Cybersecurity and Infrastructure Security Agency (CISA) encourages users and administrators to review Microsoft’s Security Advisory for CVE-2022-37972 and apply the necessary updates.
-This product is provided subject to this Notification and this Privacy & Use policy.]]></summary>
-        <author>
-            <name>CISA</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Quantify Risk, Calculate ROI]]></title>
-        <id>https://www.darkreading.com/dr-tech/quantify-risk-calculate-roi</id>
-        <link href="https://www.darkreading.com/dr-tech/quantify-risk-calculate-roi"/>
-        <updated>2022-09-21T21:51:43.000Z</updated>
-        <summary type="html"><![CDATA[SecurityScorecard's ROI Calculator helps organizations quantify cyber-risk to understand the financial impact of a cyberattack.]]></summary>
-        <author>
-            <name>Nathan Eddy, Contributing Writer, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Threat Actor Abuses LinkedIn's Smart Links Feature to Harvest Credit Cards]]></title>
-        <id>https://www.darkreading.com/attacks-breaches/threat-actor-abuses-linkedin-smart-links-feature-harvest-credit-cards</id>
-        <link href="https://www.darkreading.com/attacks-breaches/threat-actor-abuses-linkedin-smart-links-feature-harvest-credit-cards"/>
-        <updated>2022-09-21T20:30:00.000Z</updated>
-        <summary type="html"><![CDATA[The tactic is just one in a constantly expanding bag of tricks that attackers are using to get users to click on links and open malicious documents.]]></summary>
-        <author>
-            <name>Jai Vijayan, Contributing Writer, Dark Reading</name>
         </author>
     </entry>
 </feed>
