@@ -2,10 +2,129 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-10-21T14:04:35.089Z</updated>
+    <updated>2022-10-21T19:28:27.795Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[FBI: Iranian Threat Group Likely to Target US Midterms]]></title>
+        <id>https://www.darkreading.com/threat-intelligence/fbi-iranian-threat-group-likely-to-target-us-midterms</id>
+        <link href="https://www.darkreading.com/threat-intelligence/fbi-iranian-threat-group-likely-to-target-us-midterms"/>
+        <updated>2022-10-21T18:40:00.000Z</updated>
+        <summary type="html"><![CDATA[Similar to what happened around the 2020 election, FBI warns that the Emennet Pasargad group is poised to target officials and companies with embarrassing hack-and-leak campaigns.]]></summary>
+        <author>
+            <name>Dark Reading Staff, Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google's GUAC Aims to Democratize Software Supply Chain Security Metadata]]></title>
+        <id>https://www.darkreading.com/application-security/googles-guac-project-aims-to-democratize-software-supply-chain-security-metadata</id>
+        <link href="https://www.darkreading.com/application-security/googles-guac-project-aims-to-democratize-software-supply-chain-security-metadata"/>
+        <updated>2022-10-21T18:15:00.000Z</updated>
+        <summary type="html"><![CDATA[Software makers and customers will be able to query graph database for information about the security and provenance of components in applications and codebases.]]></summary>
+        <author>
+            <name>Jai Vijayan, Contributing Writer, Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BazarCall Expands Callback Phishing Campaigns to Include More Support Sites and Malicious Tactics]]></title>
+        <id>https://blog.knowbe4.com/bazarcall-expands-callback-phishing-campaigns-to-include-more-support-sites-and-malicious-tactics</id>
+        <link href="https://blog.knowbe4.com/bazarcall-expands-callback-phishing-campaigns-to-include-more-support-sites-and-malicious-tactics"/>
+        <updated>2022-10-21T17:59:44.000Z</updated>
+        <summary type="html"><![CDATA[The king of callback phishing campaigns has evolved their methods to include better phishing emails, phone call scams, and final payloads to ensure they achieve their malicious goals.]]></summary>
+        <author>
+            <name>Stu Sjouwerman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New Credential Harvesting Scam Impersonates Google Translate to Trick Victims]]></title>
+        <id>https://blog.knowbe4.com/new-credential-harvesting-scam-impersonates-google-translate-to-trick-victims</id>
+        <link href="https://blog.knowbe4.com/new-credential-harvesting-scam-impersonates-google-translate-to-trick-victims"/>
+        <updated>2022-10-21T17:59:35.000Z</updated>
+        <summary type="html"><![CDATA[In an interesting twist, this latest scam identified by security researchers at Avanan attempts to establish legitimacy by making the victim think the logon page is being translated.]]></summary>
+        <author>
+            <name>Stu Sjouwerman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Exploit Attempts Underway for Apache Commons Text4Shell Vulnerability]]></title>
+        <id>https://www.darkreading.com/attacks-breaches/exploit-attempts-are-under-way-for-apache-commons-text4shell-vulnerability</id>
+        <link href="https://www.darkreading.com/attacks-breaches/exploit-attempts-are-under-way-for-apache-commons-text4shell-vulnerability"/>
+        <updated>2022-10-21T17:31:09.000Z</updated>
+        <summary type="html"><![CDATA[The good news: The Apache Commons Text library bug is far less likely to lead to exploitation than last year's Log4j library flaw.]]></summary>
+        <author>
+            <name>Dark Reading Staff, Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Emotet Botnet Distributing Self-Unlocking Password-Protected RAR Files to Drop Malware]]></title>
+        <id>tag:blogger.com,1999:blog-4802841478634147276.post-5181570083629964674</id>
+        <link href="https://thehackernews.com/2022/10/emotet-botnet-distributing-self.html"/>
+        <updated>2022-10-21T16:47:00.000Z</updated>
+        <summary type="html"><![CDATA[The notorious Emotet botnet has been linked to a new wave of malspam campaigns that take advantage of password-protected archive files to drop CoinMiner and Quasar RAT on compromised systems.
+In an attack chain detected by Trustwave SpiderLabs researchers, an invoice-themed ZIP file lure was found to contain a nested self-extracting (SFX) archive, the first archive acting as a conduit to launch]]></summary>
+        <author>
+            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Passkey Demos Hint at What's Ahead for Passwordless Authentication]]></title>
+        <id>https://www.darkreading.com/dr-tech/google-and-microsoft-passkeys-preview-the-passwordless-future</id>
+        <link href="https://www.darkreading.com/dr-tech/google-and-microsoft-passkeys-preview-the-passwordless-future"/>
+        <updated>2022-10-21T16:27:32.000Z</updated>
+        <summary type="html"><![CDATA[At the Authenticate Conference, Google and Microsoft demonstrated their passkey prototypes. Apple, meanwhile, already launched its version in iOS 16.]]></summary>
+        <author>
+            <name>Jeffrey Schwartz, Contributing Writer, Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Katzcy Teams up with NIST on Cybersecurity Games]]></title>
+        <id>https://www.darkreading.com/careers-and-people/katzcy-teams-up-with-nist-on-cybersecurity-games</id>
+        <link href="https://www.darkreading.com/careers-and-people/katzcy-teams-up-with-nist-on-cybersecurity-games"/>
+        <updated>2022-10-21T16:01:09.000Z</updated>
+        <summary type="html"><![CDATA[.]]></summary>
+        <author>
+            <name>Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cisco Releases Security Update for Cisco Identity Services Engine]]></title>
+        <id>18088 at https://us-cert.cisa.gov</id>
+        <link href="https://us-cert.cisa.gov/ncas/current-activity/2022/10/21/cisco-releases-security-update-cisco-identity-services-engine"/>
+        <updated>2022-10-21T15:22:33.000Z</updated>
+        <summary type="html"><![CDATA[Original release date: October 21, 2022
+Cisco has released a security update to address vulnerabilities affecting Cisco Identity Services Engine (ISE). A remote attacker could exploit some of these vulnerabilities to take control of an affected system. For updates addressing high and low severity vulnerabilities, see the Cisco Security Advisories page. 
+CISA encourages users and administrators to review Cisco Advisory cisco-sa-ise-path-trav-Dz5dpzyM and apply the necessary updates.
+This product is provided subject to this Notification and this Privacy & Use policy.]]></summary>
+        <author>
+            <name>CISA</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Multiple Campaigns Exploit VMware Vulnerability to Deploy Crypto Miners and Ransomware]]></title>
+        <id>tag:blogger.com,1999:blog-4802841478634147276.post-7143042637428393919</id>
+        <link href="https://thehackernews.com/2022/10/multiple-campaigns-exploit-vmware.html"/>
+        <updated>2022-10-21T14:56:00.000Z</updated>
+        <summary type="html"><![CDATA[A now-patched vulnerability in VMware Workspace ONE Access has been observed being exploited to deliver both cryptocurrency miners and ransomware on affected machines.
+"The attacker intends to utilize a victim's resources as much as possible, not only to install RAR1Ransom for extortion, but also to spread GuardMiner to collect cryptocurrency," Fortinet FortiGuard Labs researcher Cara Lin said]]></summary>
+        <author>
+            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AA22-294A: #StopRansomware: Daixin Team]]></title>
+        <id>18087 at https://us-cert.cisa.gov</id>
+        <link href="https://us-cert.cisa.gov/ncas/alerts/aa22-294a"/>
+        <updated>2022-10-21T14:29:15.000Z</updated>
+        <summary type="html"><![CDATA[Original release date: October 21, 2022
+Summary
+Actions to take today to mitigate cyber threats from ransomware:
+Note: This joint Cybersecurity Advisory (CSA) is part of an ongoing #StopRansomware effort to publish advisories for network defenders that detail various ransomware variants and ransomware threat actors. These #StopRansomware advisories include recently and historically observed tactics, techniques, and procedures (TTPs) and indicators of compromise (IOCs) to help organizations protect against ransomware. Visit stopransomware.gov to see all #StopRansomware advisories and to learn more about other ransomware threats and no-cost resources.
+The Federal Bureau of Investigation (FBI), Cybersecurity and Infrastructure Security Agency (CISA), and Department of Health and Human Service…]]></summary>
+        <author>
+            <name>CISA</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Iron Man Started His Journey From Scratch & Your Security Awareness Program Can Too]]></title>
         <id>https://www.darkreading.com/attacks-breaches/iron-man-started-his-journey-from-scratch-your-security-awareness-program-can-too</id>
@@ -5404,17 +5523,6 @@ OT/ICS devices and designs are publicly available, often inco…]]></summary>
         <summary type="html"><![CDATA[As many as 350,000 open source projects are believed to be potentially vulnerable to exploitation as a result of a security flaw in a Python module that has remained unpatched for 15 years.
 The open source repositories span a number of industry verticals, such as software development, artificial intelligence/machine learning, web development, media, security, IT management.
 The shortcoming,]]></summary>
-        <author>
-            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hackers Targeting Unpatched Atlassian Confluence Servers to Deploy Crypto Miners]]></title>
-        <id>tag:blogger.com,1999:blog-4802841478634147276.post-5652026601737093339</id>
-        <link href="https://thehackernews.com/2022/09/hackers-targeting-unpatched-atlassian.html"/>
-        <updated>2022-09-22T06:17:00.000Z</updated>
-        <summary type="html"><![CDATA[A now-patched critical security flaw affecting Atlassian Confluence Server that came to light a few months ago is being actively exploited for illicit cryptocurrency mining on unpatched installations.
-"If left unremedied and successfully exploited, this vulnerability could be used for multiple and more malicious attacks, such as a complete domain takeover of the infrastructure and the deployment]]></summary>
         <author>
             <name>noreply@blogger.com (Ravie Lakshmanan)</name>
         </author>

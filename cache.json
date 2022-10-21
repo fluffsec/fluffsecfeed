@@ -6,6 +6,16 @@
       "siteUrl": "https://us-cert.cisa.gov/",
       "articles": [
         {
+          "id": "18087 at https://us-cert.cisa.gov",
+          "author": "CISA",
+          "description": "Original release date: October 21, 2022\nSummary\nActions to take today to mitigate cyber threats from ransomware:\nNote: This joint Cybersecurity Advisory (CSA) is part of an ongoing #StopRansomware effort to publish advisories for network defenders that detail various ransomware variants and ransomware threat actors. These #StopRansomware advisories include recently and historically observed tactics, techniques, and procedures (TTPs) and indicators of compromise (IOCs) to help organizations protect against ransomware. Visit stopransomware.gov to see all #StopRansomware advisories and to learn more about other ransomware threats and no-cost resources.\nThe Federal Bureau of Investigation (FBI), Cybersecurity and Infrastructure Security Agency (CISA), and Department of Health and Human Service…",
+          "link": "https://us-cert.cisa.gov/ncas/alerts/aa22-294a",
+          "publishedOn": "2022-10-21T14:29:15.000Z",
+          "wordCount": 3140,
+          "title": "AA22-294A: #StopRansomware: Daixin Team",
+          "imageUrl": null
+        },
+        {
           "id": "18045 at https://us-cert.cisa.gov",
           "author": "CISA",
           "description": "Original release date: October 6, 2022\nSummary\nThis joint Cybersecurity Advisory (CSA) provides the top Common Vulnerabilities and Exposures (CVEs) used since 2020 by People’s Republic of China (PRC) state-sponsored cyber actors as assessed by the National Security Agency (NSA), Cybersecurity and Infrastructure Security Agency (CISA), and Federal Bureau of Investigation (FBI). PRC state-sponsored cyber actors continue to exploit known vulnerabilities to actively target U.S. and allied networks as well as software and hardware companies to steal intellectual property and develop access into sensitive networks.\nThis joint CSA builds on previous NSA, CISA, and FBI reporting to inform federal and state, local, tribal and territorial (SLTT) government; critical infrastructure, including the Def…",
@@ -42,6 +52,16 @@
       "feedUrl": "https://us-cert.cisa.gov/ncas/current-activity.xml",
       "siteUrl": "https://us-cert.cisa.gov/",
       "articles": [
+        {
+          "id": "18088 at https://us-cert.cisa.gov",
+          "author": "CISA",
+          "description": "Original release date: October 21, 2022\nCisco has released a security update to address vulnerabilities affecting Cisco Identity Services Engine (ISE). A remote attacker could exploit some of these vulnerabilities to take control of an affected system. For updates addressing high and low severity vulnerabilities, see the Cisco Security Advisories page. \nCISA encourages users and administrators to review Cisco Advisory cisco-sa-ise-path-trav-Dz5dpzyM and apply the necessary updates.\nThis product is provided subject to this Notification and this Privacy & Use policy.",
+          "link": "https://us-cert.cisa.gov/ncas/current-activity/2022/10/21/cisco-releases-security-update-cisco-identity-services-engine",
+          "publishedOn": "2022-10-21T15:22:33.000Z",
+          "wordCount": 911,
+          "title": "Cisco Releases Security Update for Cisco Identity Services Engine",
+          "imageUrl": null
+        },
         {
           "id": "18085 at https://us-cert.cisa.gov",
           "author": "CISA",
@@ -459,6 +479,76 @@
       "feedUrl": "https://www.darkreading.com/rss.xml",
       "siteUrl": "https://www.darkreading.com",
       "articles": [
+        {
+          "id": "https://www.darkreading.com/threat-intelligence/fbi-iranian-threat-group-likely-to-target-us-midterms",
+          "author": "Dark Reading Staff, Dark Reading",
+          "description": "Similar to what happened around the 2020 election, FBI warns that the Emennet Pasargad group is poised to target officials and companies with embarrassing hack-and-leak campaigns.",
+          "link": "https://www.darkreading.com/threat-intelligence/fbi-iranian-threat-group-likely-to-target-us-midterms",
+          "publishedOn": "2022-10-21T18:40:00.000Z",
+          "wordCount": 10317,
+          "title": "FBI: Iranian Threat Group Likely to Target US Midterms",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blte161b23f0fd3a84b/60b1ea374e7eb868c4c6a293/dr_staff_125x125.jpg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blte161b23f0fd3a84b/60b1ea374e7eb868c4c6a293/dr_staff_125x125.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/application-security/googles-guac-project-aims-to-democratize-software-supply-chain-security-metadata",
+          "author": "Jai Vijayan, Contributing Writer, Dark Reading",
+          "description": "Software makers and customers will be able to query graph database for information about the security and provenance of components in applications and codebases.",
+          "link": "https://www.darkreading.com/application-security/googles-guac-project-aims-to-democratize-software-supply-chain-security-metadata",
+          "publishedOn": "2022-10-21T18:15:00.000Z",
+          "wordCount": 13569,
+          "title": "Google's GUAC Aims to Democratize Software Supply Chain Security Metadata",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt02d79fb9a44a4258/60b1e9dd2a25046b35110696/Jai-Vijayan.jpeg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt02d79fb9a44a4258/60b1e9dd2a25046b35110696/Jai-Vijayan.jpeg"
+        },
+        {
+          "id": "https://www.darkreading.com/attacks-breaches/exploit-attempts-are-under-way-for-apache-commons-text4shell-vulnerability",
+          "author": "Dark Reading Staff, Dark Reading",
+          "description": "The good news: The Apache Commons Text library bug is far less likely to lead to exploitation than last year's Log4j library flaw.",
+          "link": "https://www.darkreading.com/attacks-breaches/exploit-attempts-are-under-way-for-apache-commons-text4shell-vulnerability",
+          "publishedOn": "2022-10-21T17:31:09.000Z",
+          "wordCount": 10202,
+          "title": "Exploit Attempts Underway for Apache Commons Text4Shell Vulnerability",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blte161b23f0fd3a84b/60b1ea374e7eb868c4c6a293/dr_staff_125x125.jpg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blte161b23f0fd3a84b/60b1ea374e7eb868c4c6a293/dr_staff_125x125.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/dr-tech/google-and-microsoft-passkeys-preview-the-passwordless-future",
+          "author": "Jeffrey Schwartz, Contributing Writer, Dark Reading",
+          "description": "At the Authenticate Conference, Google and Microsoft demonstrated their passkey prototypes. Apple, meanwhile, already launched its version in iOS 16.",
+          "link": "https://www.darkreading.com/dr-tech/google-and-microsoft-passkeys-preview-the-passwordless-future",
+          "publishedOn": "2022-10-21T16:27:32.000Z",
+          "wordCount": 13568,
+          "title": "Passkey Demos Hint at What's Ahead for Passwordless Authentication",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blta28fcad87ff558b7/627c0108726e3315b16b464c/Jeff_Schwartz_headshot-sq.png",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blta28fcad87ff558b7/627c0108726e3315b16b464c/Jeff_Schwartz_headshot-sq.png"
+        },
+        {
+          "id": "https://www.darkreading.com/careers-and-people/katzcy-teams-up-with-nist-on-cybersecurity-games",
+          "author": null,
+          "description": ".",
+          "link": "https://www.darkreading.com/careers-and-people/katzcy-teams-up-with-nist-on-cybersecurity-games",
+          "publishedOn": "2022-10-21T16:01:09.000Z",
+          "wordCount": 11277,
+          "title": "Katzcy Teams up with NIST on Cybersecurity Games",
+          "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
+        },
         {
           "id": "https://www.darkreading.com/attacks-breaches/iron-man-started-his-journey-from-scratch-your-security-awareness-program-can-too",
           "author": "Amanda Fennell, Chief Security Officer and Chief Information Officer, Relativity",
@@ -4015,6 +4105,26 @@
       "siteUrl": "https://blog.knowbe4.com",
       "articles": [
         {
+          "id": "https://blog.knowbe4.com/bazarcall-expands-callback-phishing-campaigns-to-include-more-support-sites-and-malicious-tactics",
+          "author": "Stu Sjouwerman",
+          "description": "The king of callback phishing campaigns has evolved their methods to include better phishing emails, phone call scams, and final payloads to ensure they achieve their malicious goals.",
+          "link": "https://blog.knowbe4.com/bazarcall-expands-callback-phishing-campaigns-to-include-more-support-sites-and-malicious-tactics",
+          "publishedOn": "2022-10-21T17:59:44.000Z",
+          "wordCount": 2153,
+          "title": "BazarCall Expands Callback Phishing Campaigns to Include More Support Sites and Malicious Tactics",
+          "imageUrl": "https://blog.knowbe4.com/hubfs/Callback%20Phishing%20Campaigns.jpg#keepProtocol"
+        },
+        {
+          "id": "https://blog.knowbe4.com/new-credential-harvesting-scam-impersonates-google-translate-to-trick-victims",
+          "author": "Stu Sjouwerman",
+          "description": "In an interesting twist, this latest scam identified by security researchers at Avanan attempts to establish legitimacy by making the victim think the logon page is being translated.",
+          "link": "https://blog.knowbe4.com/new-credential-harvesting-scam-impersonates-google-translate-to-trick-victims",
+          "publishedOn": "2022-10-21T17:59:35.000Z",
+          "wordCount": 2043,
+          "title": "New Credential Harvesting Scam Impersonates Google Translate to Trick Victims",
+          "imageUrl": "https://blog.knowbe4.com/hubfs/Google%20Translate%20Scam.jpg#keepProtocol"
+        },
+        {
           "id": "https://blog.knowbe4.com/successful-compliance-training-program-tips-infographic",
           "author": "Stu Sjouwerman",
           "description": "Compliance training is often seen as a chore that organizations need to just get through. That said, compliance cannot simply be ignored. A recent report from software firm GlobalScape found that organizations lose an average of $4 million in revenue due to just one non-compliance event. Yikes! \n \r\nIn our 2022 State of Employee Compliance Training report, we compiled the top challenges faced by compliance training managers. Nearly half of survey respondents ranked completion percentage and employee engagement as their #1 challenge. Following closely behind was the need to stay current with local and/or industry regulations. Other roadblocks to a successful program include limited resources, unengaging content, cost, getting executive support, and reporting.\n \r\nKnowBe4’s SVP of Learning Innovation, John Just, spearheads the training content strategy and development for KnowBe4. Based on his years of experience in the learning and training industry, we asked for his top 10 tips to run a successful compliance training program in your organization. Check out this infographic, which contains his top 10 suggestions:",
@@ -4611,6 +4721,28 @@
       "feedUrl": "https://thehackernews.com/feeds/posts/default",
       "siteUrl": "https://thehackernews.com/",
       "articles": [
+        {
+          "id": "tag:blogger.com,1999:blog-4802841478634147276.post-5181570083629964674",
+          "author": "noreply@blogger.com (Ravie Lakshmanan)",
+          "description": "The notorious Emotet botnet has been linked to a new wave of malspam campaigns that take advantage of password-protected archive files to drop CoinMiner and Quasar RAT on compromised systems.\nIn an attack chain detected by Trustwave SpiderLabs researchers, an invoice-themed ZIP file lure was found to contain a nested self-extracting (SFX) archive, the first archive acting as a conduit to launch",
+          "link": "https://thehackernews.com/2022/10/emotet-botnet-distributing-self.html",
+          "publishedOn": "2022-10-21T16:47:00.000Z",
+          "wordCount": null,
+          "title": "Emotet Botnet Distributing Self-Unlocking Password-Protected RAR Files to Drop Malware",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "tag:blogger.com,1999:blog-4802841478634147276.post-7143042637428393919",
+          "author": "noreply@blogger.com (Ravie Lakshmanan)",
+          "description": "A now-patched vulnerability in VMware Workspace ONE Access has been observed being exploited to deliver both cryptocurrency miners and ransomware on affected machines.\n\"The attacker intends to utilize a victim's resources as much as possible, not only to install RAR1Ransom for extortion, but also to spread GuardMiner to collect cryptocurrency,\" Fortinet FortiGuard Labs researcher Cara Lin said",
+          "link": "https://thehackernews.com/2022/10/multiple-campaigns-exploit-vmware.html",
+          "publishedOn": "2022-10-21T14:56:00.000Z",
+          "wordCount": null,
+          "title": "Multiple Campaigns Exploit VMware Vulnerability to Deploy Crypto Miners and Ransomware",
+          "itunes": {},
+          "imageUrl": null
+        },
         {
           "id": "tag:blogger.com,1999:blog-4802841478634147276.post-4286179447855773735",
           "author": "noreply@blogger.com (Ravie Lakshmanan)",
@@ -6049,17 +6181,6 @@
           "publishedOn": "2022-09-22T09:17:00.000Z",
           "wordCount": null,
           "title": "15-Year-Old Unpatched Python Vulnerability Potentially Affects Over 350,000 Projects",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "tag:blogger.com,1999:blog-4802841478634147276.post-5652026601737093339",
-          "author": "noreply@blogger.com (Ravie Lakshmanan)",
-          "description": "A now-patched critical security flaw affecting Atlassian Confluence Server that came to light a few months ago is being actively exploited for illicit cryptocurrency mining on unpatched installations.\n\"If left unremedied and successfully exploited, this vulnerability could be used for multiple and more malicious attacks, such as a complete domain takeover of the infrastructure and the deployment",
-          "link": "https://thehackernews.com/2022/09/hackers-targeting-unpatched-atlassian.html",
-          "publishedOn": "2022-09-22T06:17:00.000Z",
-          "wordCount": null,
-          "title": "Hackers Targeting Unpatched Atlassian Confluence Servers to Deploy Crypto Miners",
           "itunes": {},
           "imageUrl": null
         }
