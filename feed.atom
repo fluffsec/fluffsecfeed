@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-10-21T03:10:09.531Z</updated>
+    <updated>2022-10-21T07:35:45.990Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
@@ -5406,102 +5406,6 @@ This product is provided subject to this Notification and this Privacy & Use pol
         <summary type="html"><![CDATA[The tactic is just one in a constantly expanding bag of tricks that attackers are using to get users to click on links and open malicious documents.]]></summary>
         <author>
             <name>Jai Vijayan, Contributing Writer, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mozilla Releases Security Updates for Firefox, Firefox ESR, and Thunderbird]]></title>
-        <id>17993 at https://us-cert.cisa.gov</id>
-        <link href="https://us-cert.cisa.gov/ncas/current-activity/2022/09/21/mozilla-releases-security-updates-firefox-esr-thunderbird"/>
-        <updated>2022-09-21T19:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Original release date: September 21, 2022
-Mozilla has released security updates to address vulnerabilities in Firefox, Firefox ESR, and Thunderbird. An attacker could exploit some of these vulnerabilities to take control of an affected system.
-CISA encourages users and administrators to review the Mozilla security advisories for Firefox 105, Firefox ESR 102.3, and ThunderBird 91.13.1 and apply the necessary updates.
-This product is provided subject to this Notification and this Privacy & Use policy.]]></summary>
-        <author>
-            <name>CISA</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Security Practices Are Improving, But Cybercriminals Are Keeping Up]]></title>
-        <id>https://blog.knowbe4.com/security-practices-are-improving-but-cybercriminals-are-keeping-up</id>
-        <link href="https://blog.knowbe4.com/security-practices-are-improving-but-cybercriminals-are-keeping-up"/>
-        <updated>2022-09-21T18:48:10.000Z</updated>
-        <summary type="html"><![CDATA[A survey by GetApp has found that the number of organizations using phishing simulations has risen from 30% in 2019 to 70% in 2022. Despite this positive trend, however, attackers continue to increase both the sophistication and volume of their phishing emails, which has led to a significant rise in employees clicking on phishing links.]]></summary>
-        <author>
-            <name>Stu Sjouwerman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sophisticated Hermit Mobile Spyware Heralds Wave of Government Surveillance]]></title>
-        <id>https://www.darkreading.com/application-security/sophisticated-hermit-mobile-spyware-government-surveillance</id>
-        <link href="https://www.darkreading.com/application-security/sophisticated-hermit-mobile-spyware-government-surveillance"/>
-        <updated>2022-09-21T18:36:17.000Z</updated>
-        <summary type="html"><![CDATA[At the SecTor 2022 conference in Toronto next month, researchers from Lookout will take a deep dive into Hermit and the shadowy world of mobile surveillance tools used by repressive regimes.]]></summary>
-        <author>
-            <name>Tara Seals, Managing Editor, News, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hackers Paralyze 911 Operations in Suffolk County, NY]]></title>
-        <id>https://www.darkreading.com/attacks-breaches/hackers-paralyze-911-operations-suffolk-county-ny</id>
-        <link href="https://www.darkreading.com/attacks-breaches/hackers-paralyze-911-operations-suffolk-county-ny"/>
-        <updated>2022-09-21T18:09:52.000Z</updated>
-        <summary type="html"><![CDATA[Reduced to pen, paper, and phones, 911 operators ask NYPD for backup in handling emergency calls.]]></summary>
-        <author>
-            <name>Dark Reading Staff, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Data Scientists Dial Back Use of Open Source Code Due to Security Worries]]></title>
-        <id>https://www.darkreading.com/application-security/open-source-security-concerns-expand-beyond-developers</id>
-        <link href="https://www.darkreading.com/application-security/open-source-security-concerns-expand-beyond-developers"/>
-        <updated>2022-09-21T18:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Data scientists, who often choose open source packages without considering security, increasingly face concerns over the unvetted use of those components, new study shows.]]></summary>
-        <author>
-            <name>Robert Lemos, Contributing Writer, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AA22-264A: Iranian State Actors Conduct Cyber Operations Against the Government of Albania]]></title>
-        <id>17991 at https://us-cert.cisa.gov</id>
-        <link href="https://us-cert.cisa.gov/ncas/alerts/aa22-264a"/>
-        <updated>2022-09-21T17:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Original release date: September 21, 2022
-Summary
-The Federal Bureau of Investigation (FBI) and the Cybersecurity and Infrastructure Security Agency (CISA) are releasing this joint Cybersecurity Advisory to provide information on recent cyber operations against the Government of Albania in July and September. This advisory provides a timeline of activity observed, from initial access to execution of encryption and wiper attacks. Additional information concerning files used by the actors during their exploitation of and cyber attack against the victim organization is provided in Appendices A and B.
-In July 2022, Iranian state cyber actors—identifying as “HomeLand Justice”—launched a destructive cyber attack against the Government of Albania which rendered websites and services unavailable. …]]></summary>
-        <author>
-            <name>CISA</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Don't Wait for a Mobile WannaCry]]></title>
-        <id>https://www.darkreading.com/vulnerabilities-threats/don-t-wait-for-a-mobile-wannacry</id>
-        <link href="https://www.darkreading.com/vulnerabilities-threats/don-t-wait-for-a-mobile-wannacry"/>
-        <updated>2022-09-21T17:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Attacks against mobile phones and tablets are increasing, and a WannaCry-level attack could be on the horizon.]]></summary>
-        <author>
-            <name>Richard Melick, Director of Mobile Threat Intelligence, Zimperium</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cyber Insurers Clamp Down on Clients' Self-Attestation of Security Controls]]></title>
-        <id>https://www.darkreading.com/edge/cyber-insurers-clamp-down-on-clients-self-attestation-of-security-controls</id>
-        <link href="https://www.darkreading.com/edge/cyber-insurers-clamp-down-on-clients-self-attestation-of-security-controls"/>
-        <updated>2022-09-21T16:18:23.000Z</updated>
-        <summary type="html"><![CDATA[After one company suffered a breach that could have been headed off by the MFA it claimed to have, insurers are looking to confirm claimed cybersecurity measures.]]></summary>
-        <author>
-            <name>Stephen Lawton, Contributing Writer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[15-Year-Old Python Flaw Slithers into Software Worldwide]]></title>
-        <id>https://www.darkreading.com/application-security/15-year-old-python-flaw-software-worldwide</id>
-        <link href="https://www.darkreading.com/application-security/15-year-old-python-flaw-software-worldwide"/>
-        <updated>2022-09-21T15:28:37.000Z</updated>
-        <summary type="html"><![CDATA[An unpatched flaw in more than 350,000 unique open source repositories leaves software applications vulnerable to exploit. The path traversal-related vulnerability is tracked as CVE-2007-4559.]]></summary>
-        <author>
-            <name>Elizabeth Montalbano, Contributor, Dark Reading</name>
         </author>
     </entry>
 </feed>
