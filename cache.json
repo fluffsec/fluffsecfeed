@@ -451,16 +451,6 @@
           "wordCount": 905,
           "title": "Mozilla Releases Security Updates for Firefox, Firefox ESR, and Thunderbird",
           "imageUrl": null
-        },
-        {
-          "id": "17969 at https://us-cert.cisa.gov",
-          "author": "CISA",
-          "description": "Original release date: September 21, 2022\nCISA and the Federal Bureau of Investigation (FBI) have released a joint Cybersecurity Advisory (CSA), Iranian State Actors Conduct Cyber Operations Against the Government of Albania, detailing malicious cyber operations that included ransomware and disk wiper, rendering websites and services unavailable. The advisory indicates Iranian state cyber actors acquired initial access to the victim’s network approximately 14 months before launching the destructive cyber attack, periodically accessing and exfiltrating email content.\nJoint CSA: Iranian State Actors Conduct Cyber Operations Against the Government of Albania outlines tactics, techniques, and procedures (TTPs) and indicators of compromise (IOCs) likely used by Iranian state cyber actors as recently as July 2022. CISA and FBI encourage users and administrators to review the advisory and apply the recommended mitigations to limit the risk of compromise. For additional information on Iranian cyber threats, see CISA’s Iran Cyber Threat Overview and Advisories webpage.\nThis product is provided subject to this Notification and this Privacy & Use policy.",
-          "link": "https://us-cert.cisa.gov/ncas/current-activity/2022/09/21/iranian-state-actors-conduct-cyber-operations-against-government",
-          "publishedOn": "2022-09-21T14:16:34.000Z",
-          "wordCount": 998,
-          "title": "Iranian State Actors Conduct Cyber Operations Against the Government of Albania",
-          "imageUrl": null
         }
       ]
     },
@@ -499,6 +489,51 @@
       "feedUrl": "https://www.darkreading.com/rss.xml",
       "siteUrl": "https://www.darkreading.com",
       "articles": [
+        {
+          "id": "https://www.darkreading.com/dr-tech/hardware-makers-standardize-server-chip-security-with-caliptra",
+          "author": "Agam Shah, Contributing Writer",
+          "description": "The new open source specification from Open Compute Project is backed by Google, Nvidia, Microsoft, and AMD.",
+          "link": "https://www.darkreading.com/dr-tech/hardware-makers-standardize-server-chip-security-with-caliptra",
+          "publishedOn": "2022-10-20T20:42:43.000Z",
+          "wordCount": 13176,
+          "title": "Hardware Makers Standardize Server Chip Security With Caliptra",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt3b296baaaaccbc2a/61bbb7b4ac124d4b2e71583a/WriterDefault_vladwel_Adobe.jpg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt3b296baaaaccbc2a/61bbb7b4ac124d4b2e71583a/WriterDefault_vladwel_Adobe.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/attacks-breaches/brazilian-police-nab-suspected-lapsus-group-member",
+          "author": "Dark Reading Staff, Dark Reading",
+          "description": "Lapsus$ Group became a top target after it breached the Brazilian Ministry of Health, among other targets.",
+          "link": "https://www.darkreading.com/attacks-breaches/brazilian-police-nab-suspected-lapsus-group-member",
+          "publishedOn": "2022-10-20T19:36:47.000Z",
+          "wordCount": 10079,
+          "title": "Brazilian Police Nab Suspected Member of Lapsus$ Group",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blte161b23f0fd3a84b/60b1ea374e7eb868c4c6a293/dr_staff_125x125.jpg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blte161b23f0fd3a84b/60b1ea374e7eb868c4c6a293/dr_staff_125x125.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/cloud/microsoft-data-exposure-incident-highlights-risk-of-cloud-storage-misconfigurations",
+          "author": "Jai Vijayan, Contributing Writer, Dark Reading",
+          "description": "Many enterprises continue to leave cloud storage buckets exposed despite widely available documentation on how to properly secure them.",
+          "link": "https://www.darkreading.com/cloud/microsoft-data-exposure-incident-highlights-risk-of-cloud-storage-misconfigurations",
+          "publishedOn": "2022-10-20T19:11:32.000Z",
+          "wordCount": 12866,
+          "title": "Microsoft Data-Exposure Incident Highlights Risk of Cloud Storage Misconfiguration",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt02d79fb9a44a4258/60b1e9dd2a25046b35110696/Jai-Vijayan.jpeg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt02d79fb9a44a4258/60b1e9dd2a25046b35110696/Jai-Vijayan.jpeg"
+        },
         {
           "id": "https://www.darkreading.com/microsoft/4-ways-to-achieve-comprehensive-security",
           "author": "Mark Simos, Lead Cybersecurity Architect, Microsoft",
@@ -3968,21 +4003,6 @@
             "length": "0"
           },
           "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltbfd004d139d42d70/6303bca6236c2476a257760e/ElizabethMontalbano.jpg"
-        },
-        {
-          "id": "https://www.darkreading.com/attacks-breaches/ransomware-the-latest-chapter",
-          "author": "Daniel Clayton, Vice President, Global Security Services and Support, Bitdefender",
-          "description": "As ransomware attacks continue to evolve, beyond using security best practices organizations can build resiliency with extended detection and response solutions and fast response times to shut down attacks.",
-          "link": "https://www.darkreading.com/attacks-breaches/ransomware-the-latest-chapter",
-          "publishedOn": "2022-09-21T14:00:00.000Z",
-          "wordCount": 14841,
-          "title": "Ransomware: The Latest Chapter",
-          "enclosure": {
-            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt697bdb83599685d4/632b1e325ad7af7258ba43b9/BD_Daniel_Clayton_Pic2_2022.jpg",
-            "type": "image/*",
-            "length": "0"
-          },
-          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt697bdb83599685d4/632b1e325ad7af7258ba43b9/BD_Daniel_Clayton_Pic2_2022.jpg"
         }
       ]
     },
@@ -4102,6 +4122,16 @@
       "feedUrl": "https://fieldeffect.com/feed/?post_type=threats",
       "siteUrl": "https://fieldeffect.com/threats/",
       "articles": [
+        {
+          "id": "https://fieldeffect.com/?post_type=threats&p=6636",
+          "author": "Elena Lapina",
+          "description": "On 13 October 2022, Apache Software Foundation published details on a critical vulnerability in the Apache Commons Text library, fixed in version 1.10.0 (Java 8+). Since then, multiple examples of working exploit implementations have been made publicly available. We recommend updating the affected library to the latest version. Details Apache Commons Text version 1.10.0 contains […]\nThe post Details for a Critical Vulnerability in Apache Commons Text Published appeared first on Field Effect Software Inc.",
+          "link": "https://fieldeffect.com/threats/details-for-a-critical-vulnerability-in-apache-commons-text-published/",
+          "publishedOn": "2022-10-21T02:49:46.000Z",
+          "wordCount": 802,
+          "title": "Details for a Critical Vulnerability in Apache Commons Text Published",
+          "imageUrl": "https://fieldeffect.com/wp-content/uploads/2020/05/Untitled-design-9.png"
+        },
         {
           "id": "https://fieldeffect.com/?post_type=threats&p=6595",
           "author": "Elena Lapina",
@@ -4718,26 +4748,6 @@
           "wordCount": 2223,
           "title": "Security Practices Are Improving, But Cybercriminals Are Keeping Up",
           "imageUrl": "https://blog.knowbe4.com/hubfs/Security%20Practices%20are%20Improving.jpg#keepProtocol"
-        },
-        {
-          "id": "https://blog.knowbe4.com/phishing-attacks-quadruple-that-of-early-2020",
-          "author": "Stu Sjouwerman",
-          "description": "New quarterly data from the Anti-Phishing Working Group shows unprecedented phishing activity with increases in BEC, use of social media, vishing, and smishing.",
-          "link": "https://blog.knowbe4.com/phishing-attacks-quadruple-that-of-early-2020",
-          "publishedOn": "2022-09-21T14:20:31.000Z",
-          "wordCount": 2045,
-          "title": "Phishing Attacks Reach an All-Time High, Quadrupling That of Early 2020",
-          "imageUrl": "https://blog.knowbe4.com/hubfs/APWG-Ransomware-Victims.png#keepProtocol"
-        },
-        {
-          "id": "https://blog.knowbe4.com/do-not-use-easily-phishable-mfa",
-          "author": "Roger Grimes",
-          "description": "Everyone should use multifactor authentication (MFA), where they can, to protect valuable information. Everyone!",
-          "link": "https://blog.knowbe4.com/do-not-use-easily-phishable-mfa",
-          "publishedOn": "2022-09-21T13:25:43.000Z",
-          "wordCount": 3305,
-          "title": "Do Not Use Easily Phishable MFA and That Is Most MFA!",
-          "imageUrl": "https://blog.knowbe4.com/hubfs/Social%20Image%20Repository/Evangelist%20Blog%20Social%20Graphics/Evangelists-Roger%20Grimes.jpg#keepProtocol"
         }
       ]
     },
@@ -6162,50 +6172,6 @@
           "publishedOn": "2022-09-22T06:17:00.000Z",
           "wordCount": null,
           "title": "Hackers Targeting Unpatched Atlassian Confluence Servers to Deploy Crypto Miners",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "tag:blogger.com,1999:blog-4802841478634147276.post-5126074990907837547",
-          "author": "noreply@blogger.com (Ravie Lakshmanan)",
-          "description": "An unknown attacker targeted tens of thousands of unauthenticated Redis servers exposed on the internet in an attempt to install a cryptocurrency miner.\nIt's not immediately known if all of these hosts were successfully compromised. Nonetheless, it was made possible by means of a \"lesser-known technique\" designed to trick the servers into writing data to arbitrary files – a case of unauthorized",
-          "link": "https://thehackernews.com/2022/09/over-39000-unauthenticated-redis.html",
-          "publishedOn": "2022-09-21T13:38:00.000Z",
-          "wordCount": null,
-          "title": "Over 39,000 Unauthenticated Redis Instances Found Exposed on the Internet",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "tag:blogger.com,1999:blog-4802841478634147276.post-475514628201946963",
-          "author": "noreply@blogger.com (Ravie Lakshmanan)",
-          "description": "In what's the latest crypto heist to target the decentralized finance (DeFi) space, hackers have stolen digital assets worth around $160 million from crypto trading firm Wintermute.\nThe hack involved a series of unauthorized transactions that transferred USD Coin, Binance USD, Tether USD, Wrapped ETH, and 66 other cryptocurrencies to the attacker's wallet.\nThe company said that its centralized",
-          "link": "https://thehackernews.com/2022/09/crypto-trading-firm-wintermute-loses.html",
-          "publishedOn": "2022-09-21T12:21:00.000Z",
-          "wordCount": null,
-          "title": "Crypto Trading Firm Wintermute Loses $160 Million in Hacking Incident",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "tag:blogger.com,1999:blog-4802841478634147276.post-4526092577434941129",
-          "author": "noreply@blogger.com (The Hacker News)",
-          "description": "For cybersecurity professionals, it is a huge challenge to separate the “good guys” from the “villains”. In the past, most cyberattacks could simply be traced to external cybercriminals, cyberterrorists, or rogue nation-states. But not anymore.\nThreats from within organizations – also known as “insider threats” – are increasing and cybersecurity practitioners are feeling the pain. \nTraditional",
-          "link": "https://thehackernews.com/2022/09/why-zero-trust-should-be-foundation-of.html",
-          "publishedOn": "2022-09-21T12:00:00.000Z",
-          "wordCount": null,
-          "title": "Why Zero Trust Should be the Foundation of Your Cybersecurity Ecosystem",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "tag:blogger.com,1999:blog-4802841478634147276.post-8733554275192749443",
-          "author": "noreply@blogger.com (Ravie Lakshmanan)",
-          "description": "The U.S. Federal Communications Commission (FCC) has added Pacific Network Corp, along with its subsidiary ComNet (USA) LLC, and China Unicom (Americas) Operations Limited, to the list of communications equipment and services that have been deemed a threat to national security.\nThe agency said the companies are subject to the Chinese government's exploitation, influence, and control, and could",
-          "link": "https://thehackernews.com/2022/09/us-adds-2-more-chinese-telecom-firms-to.html",
-          "publishedOn": "2022-09-21T10:54:00.000Z",
-          "wordCount": null,
-          "title": "U.S. Adds 2 More Chinese Telecom Firms to National Security Threat List",
           "itunes": {},
           "imageUrl": null
         }

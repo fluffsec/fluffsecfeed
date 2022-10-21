@@ -2,10 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-10-20T19:31:34.100Z</updated>
+    <updated>2022-10-21T03:10:09.531Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Details for a Critical Vulnerability in Apache Commons Text Published]]></title>
+        <id>https://fieldeffect.com/?post_type=threats&amp;p=6636</id>
+        <link href="https://fieldeffect.com/threats/details-for-a-critical-vulnerability-in-apache-commons-text-published/"/>
+        <updated>2022-10-21T02:49:46.000Z</updated>
+        <summary type="html"><![CDATA[On 13 October 2022, Apache Software Foundation published details on a critical vulnerability in the Apache Commons Text library, fixed in version 1.10.0 (Java 8+). Since then, multiple examples of working exploit implementations have been made publicly available. We recommend updating the affected library to the latest version. Details Apache Commons Text version 1.10.0 contains […]
+The post Details for a Critical Vulnerability in Apache Commons Text Published appeared first on Field Effect Software Inc.]]></summary>
+        <author>
+            <name>Elena Lapina</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hardware Makers Standardize Server Chip Security With Caliptra]]></title>
+        <id>https://www.darkreading.com/dr-tech/hardware-makers-standardize-server-chip-security-with-caliptra</id>
+        <link href="https://www.darkreading.com/dr-tech/hardware-makers-standardize-server-chip-security-with-caliptra"/>
+        <updated>2022-10-20T20:42:43.000Z</updated>
+        <summary type="html"><![CDATA[The new open source specification from Open Compute Project is backed by Google, Nvidia, Microsoft, and AMD.]]></summary>
+        <author>
+            <name>Agam Shah, Contributing Writer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Brazilian Police Nab Suspected Member of Lapsus$ Group]]></title>
+        <id>https://www.darkreading.com/attacks-breaches/brazilian-police-nab-suspected-lapsus-group-member</id>
+        <link href="https://www.darkreading.com/attacks-breaches/brazilian-police-nab-suspected-lapsus-group-member"/>
+        <updated>2022-10-20T19:36:47.000Z</updated>
+        <summary type="html"><![CDATA[Lapsus$ Group became a top target after it breached the Brazilian Ministry of Health, among other targets.]]></summary>
+        <author>
+            <name>Dark Reading Staff, Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Data-Exposure Incident Highlights Risk of Cloud Storage Misconfiguration]]></title>
+        <id>https://www.darkreading.com/cloud/microsoft-data-exposure-incident-highlights-risk-of-cloud-storage-misconfigurations</id>
+        <link href="https://www.darkreading.com/cloud/microsoft-data-exposure-incident-highlights-risk-of-cloud-storage-misconfigurations"/>
+        <updated>2022-10-20T19:11:32.000Z</updated>
+        <summary type="html"><![CDATA[Many enterprises continue to leave cloud storage buckets exposed despite widely available documentation on how to properly secure them.]]></summary>
+        <author>
+            <name>Jai Vijayan, Contributing Writer, Dark Reading</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[4 Ways To Achieve Comprehensive Security]]></title>
         <id>https://www.darkreading.com/microsoft/4-ways-to-achieve-comprehensive-security</id>
@@ -5461,95 +5502,6 @@ In July 2022, Iranian state cyber actors—identifying as “HomeLand Justice”
         <summary type="html"><![CDATA[An unpatched flaw in more than 350,000 unique open source repositories leaves software applications vulnerable to exploit. The path traversal-related vulnerability is tracked as CVE-2007-4559.]]></summary>
         <author>
             <name>Elizabeth Montalbano, Contributor, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Phishing Attacks Reach an All-Time High, Quadrupling That of Early 2020]]></title>
-        <id>https://blog.knowbe4.com/phishing-attacks-quadruple-that-of-early-2020</id>
-        <link href="https://blog.knowbe4.com/phishing-attacks-quadruple-that-of-early-2020"/>
-        <updated>2022-09-21T14:20:31.000Z</updated>
-        <summary type="html"><![CDATA[New quarterly data from the Anti-Phishing Working Group shows unprecedented phishing activity with increases in BEC, use of social media, vishing, and smishing.]]></summary>
-        <author>
-            <name>Stu Sjouwerman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Iranian State Actors Conduct Cyber Operations Against the Government of Albania]]></title>
-        <id>17969 at https://us-cert.cisa.gov</id>
-        <link href="https://us-cert.cisa.gov/ncas/current-activity/2022/09/21/iranian-state-actors-conduct-cyber-operations-against-government"/>
-        <updated>2022-09-21T14:16:34.000Z</updated>
-        <summary type="html"><![CDATA[Original release date: September 21, 2022
-CISA and the Federal Bureau of Investigation (FBI) have released a joint Cybersecurity Advisory (CSA), Iranian State Actors Conduct Cyber Operations Against the Government of Albania, detailing malicious cyber operations that included ransomware and disk wiper, rendering websites and services unavailable. The advisory indicates Iranian state cyber actors acquired initial access to the victim’s network approximately 14 months before launching the destructive cyber attack, periodically accessing and exfiltrating email content.
-Joint CSA: Iranian State Actors Conduct Cyber Operations Against the Government of Albania outlines tactics, techniques, and procedures (TTPs) and indicators of compromise (IOCs) likely used by Iranian state cyber actors as recently as July 2022. CISA and FBI encourage users and administrators to review the advisory and apply the recommended mitigations to limit the risk of compromise. For additional information on Iranian cyber threats, see CISA’s Iran Cyber Threat Overview and Advisories webpage.
-This product is provided subject to this Notification and this Privacy & Use policy.]]></summary>
-        <author>
-            <name>CISA</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ransomware: The Latest Chapter]]></title>
-        <id>https://www.darkreading.com/attacks-breaches/ransomware-the-latest-chapter</id>
-        <link href="https://www.darkreading.com/attacks-breaches/ransomware-the-latest-chapter"/>
-        <updated>2022-09-21T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[As ransomware attacks continue to evolve, beyond using security best practices organizations can build resiliency with extended detection and response solutions and fast response times to shut down attacks.]]></summary>
-        <author>
-            <name>Daniel Clayton, Vice President, Global Security Services and Support, Bitdefender</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Over 39,000 Unauthenticated Redis Instances Found Exposed on the Internet]]></title>
-        <id>tag:blogger.com,1999:blog-4802841478634147276.post-5126074990907837547</id>
-        <link href="https://thehackernews.com/2022/09/over-39000-unauthenticated-redis.html"/>
-        <updated>2022-09-21T13:38:00.000Z</updated>
-        <summary type="html"><![CDATA[An unknown attacker targeted tens of thousands of unauthenticated Redis servers exposed on the internet in an attempt to install a cryptocurrency miner.
-It's not immediately known if all of these hosts were successfully compromised. Nonetheless, it was made possible by means of a "lesser-known technique" designed to trick the servers into writing data to arbitrary files – a case of unauthorized]]></summary>
-        <author>
-            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Do Not Use Easily Phishable MFA and That Is Most MFA!]]></title>
-        <id>https://blog.knowbe4.com/do-not-use-easily-phishable-mfa</id>
-        <link href="https://blog.knowbe4.com/do-not-use-easily-phishable-mfa"/>
-        <updated>2022-09-21T13:25:43.000Z</updated>
-        <summary type="html"><![CDATA[Everyone should use multifactor authentication (MFA), where they can, to protect valuable information. Everyone!]]></summary>
-        <author>
-            <name>Roger Grimes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Crypto Trading Firm Wintermute Loses $160 Million in Hacking Incident]]></title>
-        <id>tag:blogger.com,1999:blog-4802841478634147276.post-475514628201946963</id>
-        <link href="https://thehackernews.com/2022/09/crypto-trading-firm-wintermute-loses.html"/>
-        <updated>2022-09-21T12:21:00.000Z</updated>
-        <summary type="html"><![CDATA[In what's the latest crypto heist to target the decentralized finance (DeFi) space, hackers have stolen digital assets worth around $160 million from crypto trading firm Wintermute.
-The hack involved a series of unauthorized transactions that transferred USD Coin, Binance USD, Tether USD, Wrapped ETH, and 66 other cryptocurrencies to the attacker's wallet.
-The company said that its centralized]]></summary>
-        <author>
-            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why Zero Trust Should be the Foundation of Your Cybersecurity Ecosystem]]></title>
-        <id>tag:blogger.com,1999:blog-4802841478634147276.post-4526092577434941129</id>
-        <link href="https://thehackernews.com/2022/09/why-zero-trust-should-be-foundation-of.html"/>
-        <updated>2022-09-21T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[For cybersecurity professionals, it is a huge challenge to separate the “good guys” from the “villains”. In the past, most cyberattacks could simply be traced to external cybercriminals, cyberterrorists, or rogue nation-states. But not anymore.
-Threats from within organizations – also known as “insider threats” – are increasing and cybersecurity practitioners are feeling the pain. 
-Traditional]]></summary>
-        <author>
-            <name>noreply@blogger.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[U.S. Adds 2 More Chinese Telecom Firms to National Security Threat List]]></title>
-        <id>tag:blogger.com,1999:blog-4802841478634147276.post-8733554275192749443</id>
-        <link href="https://thehackernews.com/2022/09/us-adds-2-more-chinese-telecom-firms-to.html"/>
-        <updated>2022-09-21T10:54:00.000Z</updated>
-        <summary type="html"><![CDATA[The U.S. Federal Communications Commission (FCC) has added Pacific Network Corp, along with its subsidiary ComNet (USA) LLC, and China Unicom (Americas) Operations Limited, to the list of communications equipment and services that have been deemed a threat to national security.
-The agency said the companies are subject to the Chinese government's exploitation, influence, and control, and could]]></summary>
-        <author>
-            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
         </author>
     </entry>
 </feed>
