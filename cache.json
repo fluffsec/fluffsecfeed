@@ -401,16 +401,6 @@
           "wordCount": 1027,
           "title": "CISA Has Added One Known Exploited Vulnerability to Catalog",
           "imageUrl": null
-        },
-        {
-          "id": "18001 at https://us-cert.cisa.gov",
-          "author": "CISA",
-          "description": "Original release date: September 22, 2022\nCISA has added one new vulnerability to it's Known Exploited Vulnerabilities Catalog, based on evidence of active exploitation. These types of vulnerabilities are a frequent attack vector for malicious cyber actors and pose significant risk to the federal enterprise. Note: To view the newly added vulnerabilities in the catalog, click on the arrow in the \"Date Added to Catalog\" column, which will sort by descending dates.      \nBinding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the Known Exploited Vulnerabilities Catalog as a living list of known CVEs that carry significant risk to the federal enterprise. BOD 22-01 requires FCEB agencies to remediate identified vulnerabilities by the due date to protect FCEB networks against active threats. See the BOD 22-01 Fact Sheet for more information.   \nAlthough BOD 22-01 only applies to FCEB agencies, CISA strongly urges all organizations to reduce their exposure to cyberattacks by prioritizing timely remediation of Catalog vulnerabilities as part of their vulnerability management practice. CISA will continue to add vulnerabilities to the Catalog that meet the specified criteria.      \nThis product is provided subject to this Notification and this Privacy & Use policy.",
-          "link": "https://us-cert.cisa.gov/ncas/current-activity/2022/09/22/cisa-has-added-one-known-exploited-vulnerability-catalog",
-          "publishedOn": "2022-09-22T18:38:24.000Z",
-          "wordCount": 1027,
-          "title": "CISA Has Added One Known Exploited Vulnerability to Catalog",
-          "imageUrl": null
         }
       ]
     },
@@ -3868,21 +3858,6 @@
             "length": "0"
           },
           "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blte161b23f0fd3a84b/60b1ea374e7eb868c4c6a293/dr_staff_125x125.jpg"
-        },
-        {
-          "id": "https://www.darkreading.com/application-security/malicious-npm-package-poses-tailwind-tool",
-          "author": "Elizabeth Montalbano, Contributor, Dark Reading",
-          "description": "Branded as a components library for two popular open source resources, Material Tailwind instead loads a Windows .exe that can run PowerShell scripts.",
-          "link": "https://www.darkreading.com/application-security/malicious-npm-package-poses-tailwind-tool",
-          "publishedOn": "2022-09-22T18:31:41.000Z",
-          "wordCount": 15074,
-          "title": "Malicious npm Package Poses as Tailwind Tool",
-          "enclosure": {
-            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltbfd004d139d42d70/6303bca6236c2476a257760e/ElizabethMontalbano.jpg",
-            "type": "image/*",
-            "length": "0"
-          },
-          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltbfd004d139d42d70/6303bca6236c2476a257760e/ElizabethMontalbano.jpg"
         }
       ]
     },
@@ -4646,6 +4621,17 @@
       "feedUrl": "https://thehackernews.com/feeds/posts/default",
       "siteUrl": "https://thehackernews.com/",
       "articles": [
+        {
+          "id": "tag:blogger.com,1999:blog-4802841478634147276.post-446924775434478583",
+          "author": "noreply@blogger.com (Ravie Lakshmanan)",
+          "description": "Researchers have disclosed details about a now-patched critical flaw in the Move virtual machine that powers the Aptos blockchain network.\nThe vulnerability \"can cause Aptos nodes to crash and cause denial of service,\" Singapore-based Numen Cyber Labs said in a technical write-up published earlier this month.\nAptos is a new entrant to the blockchain space, which launched its mainnet on October",
+          "link": "https://thehackernews.com/2022/10/critical-flaw-reported-in-move-virtual.html",
+          "publishedOn": "2022-10-22T05:42:00.000Z",
+          "wordCount": null,
+          "title": "Critical Flaw Reported in Move Virtual Machine Powering the Aptos Blockchain Network",
+          "itunes": {},
+          "imageUrl": null
+        },
         {
           "id": "tag:blogger.com,1999:blog-4802841478634147276.post-5181570083629964674",
           "author": "noreply@blogger.com (Ravie Lakshmanan)",
@@ -6051,17 +6037,6 @@
           "publishedOn": "2022-09-23T05:14:00.000Z",
           "wordCount": null,
           "title": "Hackers Using Malicious OAuth Apps to Take Over Email Servers",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "tag:blogger.com,1999:blog-4802841478634147276.post-688893318691856219",
-          "author": "noreply@blogger.com (Ravie Lakshmanan)",
-          "description": "A new wave of a mobile surveillance campaign has been observed targeting the Uyghur community as part of a long-standing spyware operation active since at least 2015, cybersecurity researchers disclosed Thursday.\nThe intrusions, originally attributed to a threat actor named Scarlet Mimic back in January 2016, is said to have encompassed 20 different variants of the Android malware, which were",
-          "link": "https://thehackernews.com/2022/09/researchers-uncover-years-long-mobile.html",
-          "publishedOn": "2022-09-22T17:03:00.000Z",
-          "wordCount": null,
-          "title": "Researchers Uncover Years-Long Mobile Spyware Campaign Targeting Uyghurs",
           "itunes": {},
           "imageUrl": null
         }
