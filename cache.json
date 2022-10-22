@@ -34,16 +34,6 @@
           "wordCount": 5368,
           "title": "AA22-277A: Impacket and Exfiltration Tool Used to Steal Sensitive Information from Defense Industrial Base Organization",
           "imageUrl": null
-        },
-        {
-          "id": "17997 at https://us-cert.cisa.gov",
-          "author": "CISA",
-          "description": "Original release date: September 22, 2022\nSummary\nTraditional approaches to securing OT/ICS do not adequately address current threats. \nOperational technology/industrial control system (OT/ICS) assets that operate, control, and monitor day-to-day critical infrastructure and industrial processes continue to be an attractive target for malicious cyber actors. These cyber actors, including advanced persistent threat (APT) groups, target OT/ICS assets to achieve political gains, economic advantages, or destructive effects. Because OT/ICS systems manage physical operational processes, cyber actors’ operations could result in physical consequences, including loss of life, property damage, and disruption of National Critical Functions.\nOT/ICS devices and designs are publicly available, often inco…",
-          "link": "https://us-cert.cisa.gov/ncas/alerts/aa22-265a",
-          "publishedOn": "2022-09-22T12:55:58.000Z",
-          "wordCount": 4452,
-          "title": "AA22-265A: Control System Defense: Know the Opponent",
-          "imageUrl": null
         }
       ]
     },
@@ -52,6 +42,16 @@
       "feedUrl": "https://us-cert.cisa.gov/ncas/current-activity.xml",
       "siteUrl": "https://us-cert.cisa.gov/",
       "articles": [
+        {
+          "id": "18086 at https://us-cert.cisa.gov",
+          "author": "CISA",
+          "description": "Original release date: October 21, 2022\nCISA, the Federal Bureau of Investigation (FBI), and the Department of Health and Human Services (HHS) have released a joint Cybersecurity Advisory (CSA), #StopRansomware: Daixin Team to provide information on the “Daixin Team,” a cybercrime group actively targeting U.S. businesses, predominantly in the Healthcare and Public Health (HPH) Sector, with ransomware and data extortion operations. This joint CSA provides Daixin actors’ tactics, techniques, and procedures (TTPs) and indicators of compromise (IOCs) obtained from FBI threat response activities and third-party reporting.\nCISA encourages HPH Sector organizations to review #StopRansomware: Daixin Team and to apply the recommended Mitigations. See StopRansomware.gov for additional guidance on ransomware protection, detection, and response.\nThis product is provided subject to this Notification and this Privacy & Use policy.",
+          "link": "https://us-cert.cisa.gov/ncas/current-activity/2022/10/21/stopransomware-daixin-team",
+          "publishedOn": "2022-10-21T19:40:38.000Z",
+          "wordCount": 937,
+          "title": "#StopRansomware: Daixin Team",
+          "imageUrl": null
+        },
         {
           "id": "18088 at https://us-cert.cisa.gov",
           "author": "CISA",
@@ -410,36 +410,6 @@
           "publishedOn": "2022-09-22T18:38:24.000Z",
           "wordCount": 1027,
           "title": "CISA Has Added One Known Exploited Vulnerability to Catalog",
-          "imageUrl": null
-        },
-        {
-          "id": "17996 at https://us-cert.cisa.gov",
-          "author": "CISA",
-          "description": "Original release date: September 22, 2022\nCISA and the National Security Agency (NSA) have published a joint cybersecurity advisory about control system defense for operational technology (OT) and industrial control systems (ICSs). Control System Defense: Know the Opponent is intended to provide critical infrastructure owners and operators with an understanding of the tactics, techniques, and procedures (TTPs) used by malicious cyber actors. This advisory builds on NSA and CISA 2021 guidance provided to stop malicious ICS activity against connect OT, and 2020 guidance to reduce OT exposure.\nCISA and NSA encourage critical infrastructure owners and operations to review the advisory, [Control System Defense: Know the Opponent], and apply the recommended mitigations and actions. For more information on CISA’s resources and efforts to improve ICS cybersecurity, visit CISA’s role in industrial control systems webpage.\nThis product is provided subject to this Notification and this Privacy & Use policy.",
-          "link": "https://us-cert.cisa.gov/ncas/current-activity/2022/09/22/cisa-and-nsa-publish-joint-cybersecurity-advisory-control-system",
-          "publishedOn": "2022-09-22T14:59:00.000Z",
-          "wordCount": 984,
-          "title": "CISA and NSA Publish Joint Cybersecurity Advisory on Control System Defense",
-          "imageUrl": null
-        },
-        {
-          "id": "18000 at https://us-cert.cisa.gov",
-          "author": "CISA",
-          "description": "Original release date: September 22, 2022\nThe Internet Systems Consortium (ISC) has released security advisories that address vulnerabilities affecting multiple versions of the ISC’s Berkeley Internet Name Domain (BIND) 9. A remote attacker could exploit these vulnerabilities to potentially cause denial-of-service conditions. For advisories addressing lower severity vulnerabilities, see the BIND 9 Security Vulnerability Matrix. \nCVE-2022-2906, CVE-2022-3080, CVE-2022-38177, and CVE-2022-38178 and apply the necessary mitigations.\nThis product is provided subject to this Notification and this Privacy & Use policy.",
-          "link": "https://us-cert.cisa.gov/ncas/current-activity/2022/09/22/isc-releases-security-advisories-multiple-versions-bind-9",
-          "publishedOn": "2022-09-22T14:30:29.000Z",
-          "wordCount": 924,
-          "title": "ISC Releases Security Advisories for Multiple Versions of BIND 9",
-          "imageUrl": null
-        },
-        {
-          "id": "17992 at https://us-cert.cisa.gov",
-          "author": "CISA",
-          "description": "Original release date: September 22, 2022\nCISA has released three Industrial Control Systems (ICS) advisories on September 22, 2022. These advisories provide timely information about current security issues, vulnerabilities, and exploits surrounding ICS.\nCISA encourages users and administrators to review the newly released ICS advisory for technical details and mitigations:\nICSA-22-265-01 Measuresoft ScadaPro Server\nICSA-20-212-02 Mitsubishi Electric Factory Automation Engineering Software (Update D)\nICSA-20-245-01 Mitsubishi Electric Multiple Products (Update E)\nThis product is provided subject to this Notification and this Privacy & Use policy.",
-          "link": "https://us-cert.cisa.gov/ncas/current-activity/2022/09/22/cisa-releases-three-industrial-control-systems-advisories",
-          "publishedOn": "2022-09-22T13:00:00.000Z",
-          "wordCount": 909,
-          "title": "CISA Releases Three Industrial Control Systems Advisories",
           "imageUrl": null
         }
       ]
@@ -3913,51 +3883,6 @@
             "length": "0"
           },
           "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltbfd004d139d42d70/6303bca6236c2476a257760e/ElizabethMontalbano.jpg"
-        },
-        {
-          "id": "https://www.darkreading.com/operations/allurity-acquires-spanish-multinational-aiuken-cybersecurity",
-          "author": null,
-          "description": ".",
-          "link": "https://www.darkreading.com/operations/allurity-acquires-spanish-multinational-aiuken-cybersecurity",
-          "publishedOn": "2022-09-22T14:15:55.000Z",
-          "wordCount": 12999,
-          "title": "Allurity Acquires Spanish Multinational Aiuken Cybersecurity",
-          "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
-        },
-        {
-          "id": "https://www.darkreading.com/vulnerabilities-threats/twitter-s-whistleblower-allegations-are-a-cautionary-tale-for-all-businesses",
-          "author": "Stephen Manley, Chief Technology Officer, Druva",
-          "description": "Businesses need to turn privacy and security into an advantage. Store less data, and live up to customer expectations that their information is protected. Take small steps, be transparent about data management, and chose partners carefully.",
-          "link": "https://www.darkreading.com/vulnerabilities-threats/twitter-s-whistleblower-allegations-are-a-cautionary-tale-for-all-businesses",
-          "publishedOn": "2022-09-22T14:00:00.000Z",
-          "wordCount": 14930,
-          "title": "Twitter's Whistleblower Allegations Are a Cautionary Tale for All Businesses",
-          "enclosure": {
-            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blta0303a5af3fdba62/6324eb07ad808074367e184f/Stephen_Manley_CTO_Druva_headshot_(1).jpg",
-            "type": "image/*",
-            "length": "0"
-          },
-          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blta0303a5af3fdba62/6324eb07ad808074367e184f/Stephen_Manley_CTO_Druva_headshot_(1).jpg"
-        },
-        {
-          "id": "https://www.darkreading.com/application-security/stackhawk-launches-deeper-api-security-test-coverage-to-improve-the-security-of-apis",
-          "author": null,
-          "description": "Expansion of test coverage includes custom scan discovery, custom test scripts and custom test data for REST APIs, enabling developers to leave no paths untouched.",
-          "link": "https://www.darkreading.com/application-security/stackhawk-launches-deeper-api-security-test-coverage-to-improve-the-security-of-apis",
-          "publishedOn": "2022-09-22T13:50:03.000Z",
-          "wordCount": 13285,
-          "title": "StackHawk Launches Deeper API Security Test Coverage to Improve the Security of APIs",
-          "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
-        },
-        {
-          "id": "https://www.darkreading.com/cloud/palo-alto-networks-5g-native-security-now-available-on-microsoft-azure-private-multi-access-edge-compute",
-          "author": null,
-          "description": ".",
-          "link": "https://www.darkreading.com/cloud/palo-alto-networks-5g-native-security-now-available-on-microsoft-azure-private-multi-access-edge-compute",
-          "publishedOn": "2022-09-22T13:44:05.000Z",
-          "wordCount": 13394,
-          "title": "Palo Alto Networks 5G-Native Security Now Available on Microsoft Azure Private Multi-Access Edge Compute",
-          "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
         }
       ]
     },
@@ -6137,50 +6062,6 @@
           "publishedOn": "2022-09-22T17:03:00.000Z",
           "wordCount": null,
           "title": "Researchers Uncover Years-Long Mobile Spyware Campaign Targeting Uyghurs",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "tag:blogger.com,1999:blog-4802841478634147276.post-3988423734118384502",
-          "author": "noreply@blogger.com (Ravie Lakshmanan)",
-          "description": "A malicious NPM package has been found masquerading as the legitimate software library for Material Tailwind, once again indicating attempts on the part of threat actors to distribute malicious code in open source software repositories.\nMaterial Tailwind is a CSS-based framework advertised by its maintainers as an \"easy to use components library for Tailwind CSS and Material Design.\"\n\"The",
-          "link": "https://thehackernews.com/2022/09/malicious-npm-package-caught-mimicking.html",
-          "publishedOn": "2022-09-22T15:01:00.000Z",
-          "wordCount": null,
-          "title": "Malicious NPM Package Caught Mimicking Material Tailwind CSS Package",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "tag:blogger.com,1999:blog-4802841478634147276.post-964493491044838143",
-          "author": "noreply@blogger.com (The Hacker News)",
-          "description": "Last month Tech Crunch reported that payment terminal manufacturer Wiseasy had been hacked. Although Wiseasy might not be well known in North America, their Android-based payment terminals are widely used in the Asia Pacific region and hackers managed to steal passwords for 140,000 payment terminals.\nHow Did the Wiseasy Hack Happen?\nWiseasy employees use a cloud-based dashboard for remotely",
-          "link": "https://thehackernews.com/2022/09/it-security-takeaways-from-wiseasy-hack.html",
-          "publishedOn": "2022-09-22T13:12:00.000Z",
-          "wordCount": null,
-          "title": "IT Security Takeaways from the Wiseasy Hack",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "tag:blogger.com,1999:blog-4802841478634147276.post-3906112010759593632",
-          "author": "noreply@blogger.com (Ravie Lakshmanan)",
-          "description": "Researchers have disclosed a new severe Oracle Cloud Infrastructure (OCI) vulnerability that could be exploited by users to access the virtual disks of other Oracle customers.\n\"Each virtual disk in Oracle's cloud has a unique identifier called OCID,\" Shir Tamari, head of research at Wiz, said in a series of tweets. \"This identifier is not considered secret, and organizations do not treat it as",
-          "link": "https://thehackernews.com/2022/09/researchers-disclose-critical.html",
-          "publishedOn": "2022-09-22T10:40:00.000Z",
-          "wordCount": null,
-          "title": "Researchers Disclose Critical Vulnerability in Oracle Cloud Infrastructure",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "tag:blogger.com,1999:blog-4802841478634147276.post-60683338956067077",
-          "author": "noreply@blogger.com (Ravie Lakshmanan)",
-          "description": "As many as 350,000 open source projects are believed to be potentially vulnerable to exploitation as a result of a security flaw in a Python module that has remained unpatched for 15 years.\nThe open source repositories span a number of industry verticals, such as software development, artificial intelligence/machine learning, web development, media, security, IT management.\nThe shortcoming,",
-          "link": "https://thehackernews.com/2022/09/15-year-old-unpatched-python.html",
-          "publishedOn": "2022-09-22T09:17:00.000Z",
-          "wordCount": null,
-          "title": "15-Year-Old Unpatched Python Vulnerability Potentially Affects Over 350,000 Projects",
           "itunes": {},
           "imageUrl": null
         }

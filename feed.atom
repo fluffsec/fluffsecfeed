@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-10-21T19:28:27.795Z</updated>
+    <updated>2022-10-22T03:25:45.453Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[#StopRansomware: Daixin Team]]></title>
+        <id>18086 at https://us-cert.cisa.gov</id>
+        <link href="https://us-cert.cisa.gov/ncas/current-activity/2022/10/21/stopransomware-daixin-team"/>
+        <updated>2022-10-21T19:40:38.000Z</updated>
+        <summary type="html"><![CDATA[Original release date: October 21, 2022
+CISA, the Federal Bureau of Investigation (FBI), and the Department of Health and Human Services (HHS) have released a joint Cybersecurity Advisory (CSA), #StopRansomware: Daixin Team to provide information on the “Daixin Team,” a cybercrime group actively targeting U.S. businesses, predominantly in the Healthcare and Public Health (HPH) Sector, with ransomware and data extortion operations. This joint CSA provides Daixin actors’ tactics, techniques, and procedures (TTPs) and indicators of compromise (IOCs) obtained from FBI threat response activities and third-party reporting.
+CISA encourages HPH Sector organizations to review #StopRansomware: Daixin Team and to apply the recommended Mitigations. See StopRansomware.gov for additional guidance on ransomware protection, detection, and response.
+This product is provided subject to this Notification and this Privacy & Use policy.]]></summary>
+        <author>
+            <name>CISA</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[FBI: Iranian Threat Group Likely to Target US Midterms]]></title>
         <id>https://www.darkreading.com/threat-intelligence/fbi-iranian-threat-group-likely-to-target-us-midterms</id>
@@ -5380,149 +5393,6 @@ This product is provided subject to this Notification and this Privacy & Use pol
         <updated>2022-09-22T17:03:00.000Z</updated>
         <summary type="html"><![CDATA[A new wave of a mobile surveillance campaign has been observed targeting the Uyghur community as part of a long-standing spyware operation active since at least 2015, cybersecurity researchers disclosed Thursday.
 The intrusions, originally attributed to a threat actor named Scarlet Mimic back in January 2016, is said to have encompassed 20 different variants of the Android malware, which were]]></summary>
-        <author>
-            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Malicious NPM Package Caught Mimicking Material Tailwind CSS Package]]></title>
-        <id>tag:blogger.com,1999:blog-4802841478634147276.post-3988423734118384502</id>
-        <link href="https://thehackernews.com/2022/09/malicious-npm-package-caught-mimicking.html"/>
-        <updated>2022-09-22T15:01:00.000Z</updated>
-        <summary type="html"><![CDATA[A malicious NPM package has been found masquerading as the legitimate software library for Material Tailwind, once again indicating attempts on the part of threat actors to distribute malicious code in open source software repositories.
-Material Tailwind is a CSS-based framework advertised by its maintainers as an "easy to use components library for Tailwind CSS and Material Design."
-"The]]></summary>
-        <author>
-            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CISA and NSA Publish Joint Cybersecurity Advisory on Control System Defense]]></title>
-        <id>17996 at https://us-cert.cisa.gov</id>
-        <link href="https://us-cert.cisa.gov/ncas/current-activity/2022/09/22/cisa-and-nsa-publish-joint-cybersecurity-advisory-control-system"/>
-        <updated>2022-09-22T14:59:00.000Z</updated>
-        <summary type="html"><![CDATA[Original release date: September 22, 2022
-CISA and the National Security Agency (NSA) have published a joint cybersecurity advisory about control system defense for operational technology (OT) and industrial control systems (ICSs). Control System Defense: Know the Opponent is intended to provide critical infrastructure owners and operators with an understanding of the tactics, techniques, and procedures (TTPs) used by malicious cyber actors. This advisory builds on NSA and CISA 2021 guidance provided to stop malicious ICS activity against connect OT, and 2020 guidance to reduce OT exposure.
-CISA and NSA encourage critical infrastructure owners and operations to review the advisory, [Control System Defense: Know the Opponent], and apply the recommended mitigations and actions. For more information on CISA’s resources and efforts to improve ICS cybersecurity, visit CISA’s role in industrial control systems webpage.
-This product is provided subject to this Notification and this Privacy & Use policy.]]></summary>
-        <author>
-            <name>CISA</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ISC Releases Security Advisories for Multiple Versions of BIND 9]]></title>
-        <id>18000 at https://us-cert.cisa.gov</id>
-        <link href="https://us-cert.cisa.gov/ncas/current-activity/2022/09/22/isc-releases-security-advisories-multiple-versions-bind-9"/>
-        <updated>2022-09-22T14:30:29.000Z</updated>
-        <summary type="html"><![CDATA[Original release date: September 22, 2022
-The Internet Systems Consortium (ISC) has released security advisories that address vulnerabilities affecting multiple versions of the ISC’s Berkeley Internet Name Domain (BIND) 9. A remote attacker could exploit these vulnerabilities to potentially cause denial-of-service conditions. For advisories addressing lower severity vulnerabilities, see the BIND 9 Security Vulnerability Matrix. 
-CVE-2022-2906, CVE-2022-3080, CVE-2022-38177, and CVE-2022-38178 and apply the necessary mitigations.
-This product is provided subject to this Notification and this Privacy & Use policy.]]></summary>
-        <author>
-            <name>CISA</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Allurity Acquires Spanish Multinational Aiuken Cybersecurity]]></title>
-        <id>https://www.darkreading.com/operations/allurity-acquires-spanish-multinational-aiuken-cybersecurity</id>
-        <link href="https://www.darkreading.com/operations/allurity-acquires-spanish-multinational-aiuken-cybersecurity"/>
-        <updated>2022-09-22T14:15:55.000Z</updated>
-        <summary type="html"><![CDATA[.]]></summary>
-        <author>
-            <name>Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Twitter's Whistleblower Allegations Are a Cautionary Tale for All Businesses]]></title>
-        <id>https://www.darkreading.com/vulnerabilities-threats/twitter-s-whistleblower-allegations-are-a-cautionary-tale-for-all-businesses</id>
-        <link href="https://www.darkreading.com/vulnerabilities-threats/twitter-s-whistleblower-allegations-are-a-cautionary-tale-for-all-businesses"/>
-        <updated>2022-09-22T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Businesses need to turn privacy and security into an advantage. Store less data, and live up to customer expectations that their information is protected. Take small steps, be transparent about data management, and chose partners carefully.]]></summary>
-        <author>
-            <name>Stephen Manley, Chief Technology Officer, Druva</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[StackHawk Launches Deeper API Security Test Coverage to Improve the Security of APIs]]></title>
-        <id>https://www.darkreading.com/application-security/stackhawk-launches-deeper-api-security-test-coverage-to-improve-the-security-of-apis</id>
-        <link href="https://www.darkreading.com/application-security/stackhawk-launches-deeper-api-security-test-coverage-to-improve-the-security-of-apis"/>
-        <updated>2022-09-22T13:50:03.000Z</updated>
-        <summary type="html"><![CDATA[Expansion of test coverage includes custom scan discovery, custom test scripts and custom test data for REST APIs, enabling developers to leave no paths untouched.]]></summary>
-        <author>
-            <name>Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Palo Alto Networks 5G-Native Security Now Available on Microsoft Azure Private Multi-Access Edge Compute]]></title>
-        <id>https://www.darkreading.com/cloud/palo-alto-networks-5g-native-security-now-available-on-microsoft-azure-private-multi-access-edge-compute</id>
-        <link href="https://www.darkreading.com/cloud/palo-alto-networks-5g-native-security-now-available-on-microsoft-azure-private-multi-access-edge-compute"/>
-        <updated>2022-09-22T13:44:05.000Z</updated>
-        <summary type="html"><![CDATA[.]]></summary>
-        <author>
-            <name>Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[IT Security Takeaways from the Wiseasy Hack]]></title>
-        <id>tag:blogger.com,1999:blog-4802841478634147276.post-964493491044838143</id>
-        <link href="https://thehackernews.com/2022/09/it-security-takeaways-from-wiseasy-hack.html"/>
-        <updated>2022-09-22T13:12:00.000Z</updated>
-        <summary type="html"><![CDATA[Last month Tech Crunch reported that payment terminal manufacturer Wiseasy had been hacked. Although Wiseasy might not be well known in North America, their Android-based payment terminals are widely used in the Asia Pacific region and hackers managed to steal passwords for 140,000 payment terminals.
-How Did the Wiseasy Hack Happen?
-Wiseasy employees use a cloud-based dashboard for remotely]]></summary>
-        <author>
-            <name>noreply@blogger.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CISA Releases Three Industrial Control Systems Advisories]]></title>
-        <id>17992 at https://us-cert.cisa.gov</id>
-        <link href="https://us-cert.cisa.gov/ncas/current-activity/2022/09/22/cisa-releases-three-industrial-control-systems-advisories"/>
-        <updated>2022-09-22T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Original release date: September 22, 2022
-CISA has released three Industrial Control Systems (ICS) advisories on September 22, 2022. These advisories provide timely information about current security issues, vulnerabilities, and exploits surrounding ICS.
-CISA encourages users and administrators to review the newly released ICS advisory for technical details and mitigations:
-ICSA-22-265-01 Measuresoft ScadaPro Server
-ICSA-20-212-02 Mitsubishi Electric Factory Automation Engineering Software (Update D)
-ICSA-20-245-01 Mitsubishi Electric Multiple Products (Update E)
-This product is provided subject to this Notification and this Privacy & Use policy.]]></summary>
-        <author>
-            <name>CISA</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AA22-265A: Control System Defense: Know the Opponent]]></title>
-        <id>17997 at https://us-cert.cisa.gov</id>
-        <link href="https://us-cert.cisa.gov/ncas/alerts/aa22-265a"/>
-        <updated>2022-09-22T12:55:58.000Z</updated>
-        <summary type="html"><![CDATA[Original release date: September 22, 2022
-Summary
-Traditional approaches to securing OT/ICS do not adequately address current threats. 
-Operational technology/industrial control system (OT/ICS) assets that operate, control, and monitor day-to-day critical infrastructure and industrial processes continue to be an attractive target for malicious cyber actors. These cyber actors, including advanced persistent threat (APT) groups, target OT/ICS assets to achieve political gains, economic advantages, or destructive effects. Because OT/ICS systems manage physical operational processes, cyber actors’ operations could result in physical consequences, including loss of life, property damage, and disruption of National Critical Functions.
-OT/ICS devices and designs are publicly available, often inco…]]></summary>
-        <author>
-            <name>CISA</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Researchers Disclose Critical Vulnerability in Oracle Cloud Infrastructure]]></title>
-        <id>tag:blogger.com,1999:blog-4802841478634147276.post-3906112010759593632</id>
-        <link href="https://thehackernews.com/2022/09/researchers-disclose-critical.html"/>
-        <updated>2022-09-22T10:40:00.000Z</updated>
-        <summary type="html"><![CDATA[Researchers have disclosed a new severe Oracle Cloud Infrastructure (OCI) vulnerability that could be exploited by users to access the virtual disks of other Oracle customers.
-"Each virtual disk in Oracle's cloud has a unique identifier called OCID," Shir Tamari, head of research at Wiz, said in a series of tweets. "This identifier is not considered secret, and organizations do not treat it as]]></summary>
-        <author>
-            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[15-Year-Old Unpatched Python Vulnerability Potentially Affects Over 350,000 Projects]]></title>
-        <id>tag:blogger.com,1999:blog-4802841478634147276.post-60683338956067077</id>
-        <link href="https://thehackernews.com/2022/09/15-year-old-unpatched-python.html"/>
-        <updated>2022-09-22T09:17:00.000Z</updated>
-        <summary type="html"><![CDATA[As many as 350,000 open source projects are believed to be potentially vulnerable to exploitation as a result of a security flaw in a Python module that has remained unpatched for 15 years.
-The open source repositories span a number of industry verticals, such as software development, artificial intelligence/machine learning, web development, media, security, IT management.
-The shortcoming,]]></summary>
         <author>
             <name>noreply@blogger.com (Ravie Lakshmanan)</name>
         </author>
