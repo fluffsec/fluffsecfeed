@@ -43,6 +43,16 @@
       "siteUrl": "https://us-cert.cisa.gov/",
       "articles": [
         {
+          "id": "18090 at https://us-cert.cisa.gov",
+          "author": "CISA",
+          "description": "Original release date: October 24, 2022\nCISA has added six vulnerabilities to its Known Exploited Vulnerabilities Catalog, based on evidence of active exploitation. These types of vulnerabilities are a frequent attack vector for malicious cyber actors and pose significant risk to the federal enterprise. Note: to view the newly added vulnerabilities in the catalog, click on the arrow in the \"Date Added to Catalog\" column, which will sort by descending dates.      \nBinding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the Known Exploited Vulnerabilities Catalog as a living list of known CVEs that carry significant risk to the federal enterprise. BOD 22-01 requires FCEB agencies to remediate identified vulnerabilities by the due date to protect FCEB networks against active threats. See the BOD 22-01 Fact Sheet for more information.   \nAlthough BOD 22-01 only applies to FCEB agencies, CISA strongly urges all organizations to reduce their exposure to cyberattacks by prioritizing timely remediation of Catalog vulnerabilities as part of their vulnerability management practice. CISA will continue to add vulnerabilities to the Catalog that meet the specified criteria.     \nThis product is provided subject to this Notification and this Privacy & Use policy.",
+          "link": "https://us-cert.cisa.gov/ncas/current-activity/2022/10/24/cisa-adds-six-known-exploited-vulnerabilities-catalog",
+          "publishedOn": "2022-10-24T17:08:43.000Z",
+          "wordCount": 1020,
+          "title": "CISA Adds Six Known Exploited Vulnerabilities to Catalog",
+          "imageUrl": null
+        },
+        {
           "id": "18086 at https://us-cert.cisa.gov",
           "author": "CISA",
           "description": "Original release date: October 21, 2022\nCISA, the Federal Bureau of Investigation (FBI), and the Department of Health and Human Services (HHS) have released a joint Cybersecurity Advisory (CSA), #StopRansomware: Daixin Team to provide information on the “Daixin Team,” a cybercrime group actively targeting U.S. businesses, predominantly in the Healthcare and Public Health (HPH) Sector, with ransomware and data extortion operations. This joint CSA provides Daixin actors’ tactics, techniques, and procedures (TTPs) and indicators of compromise (IOCs) obtained from FBI threat response activities and third-party reporting.\nCISA encourages HPH Sector organizations to review #StopRansomware: Daixin Team and to apply the recommended Mitigations. See StopRansomware.gov for additional guidance on ransomware protection, detection, and response.\nThis product is provided subject to this Notification and this Privacy & Use policy.",
@@ -429,6 +439,51 @@
       "feedUrl": "https://www.darkreading.com/rss.xml",
       "siteUrl": "https://www.darkreading.com",
       "articles": [
+        {
+          "id": "https://www.darkreading.com/attacks-breaches/ransomware-barrage-us-healthcare-sector-feds-warn",
+          "author": "Dark Reading Staff, Dark Reading",
+          "description": "A CISA advisory warns that the Daixin Team ransomware group has put the US healthcare system in its crosshairs for data extortion, and provides tools to fight back.",
+          "link": "https://www.darkreading.com/attacks-breaches/ransomware-barrage-us-healthcare-sector-feds-warn",
+          "publishedOn": "2022-10-24T18:20:00.000Z",
+          "wordCount": 10386,
+          "title": "Ransomware Barrage Aimed at US Healthcare Sector, Feds Warn",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blte161b23f0fd3a84b/60b1ea374e7eb868c4c6a293/dr_staff_125x125.jpg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blte161b23f0fd3a84b/60b1ea374e7eb868c4c6a293/dr_staff_125x125.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/threat-intelligence/godspeed-capital-backed-silveredge-partners-with-counter-threat-solutions",
+          "author": null,
+          "description": "Affiliation adds new all-source and counterintelligence, cyber, software development, and identity intelligence capabilities to SilverEdge's growing suite of technology solutions focused on the US intelligence community.",
+          "link": "https://www.darkreading.com/threat-intelligence/godspeed-capital-backed-silveredge-partners-with-counter-threat-solutions",
+          "publishedOn": "2022-10-24T15:14:54.000Z",
+          "wordCount": 12011,
+          "title": "Godspeed Capital-Backed SilverEdge Partners with Counter Threat Solutions",
+          "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/cloud/uptycs-introduces-detections-that-correlate-threat-activity-from-the-kubernetes-control-plane-and-container-runtime",
+          "author": null,
+          "description": "Comprehensive CNAPP coverage for Kubernetes and containers in a single solution.",
+          "link": "https://www.darkreading.com/cloud/uptycs-introduces-detections-that-correlate-threat-activity-from-the-kubernetes-control-plane-and-container-runtime",
+          "publishedOn": "2022-10-24T14:40:49.000Z",
+          "wordCount": 13375,
+          "title": "Uptycs Introduces Detections that Correlate Threat Activity from the Kubernetes Control Plane and Container Runtime",
+          "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/operations/hornetsecurity-launches-next-generation-security-awareness-training-to-help-organizations-strengthen-their-human-firewall",
+          "author": null,
+          "description": "Best-in-class awareness training comes after a marked increase in cybersecurity risks and attacks in 2022.",
+          "link": "https://www.darkreading.com/operations/hornetsecurity-launches-next-generation-security-awareness-training-to-help-organizations-strengthen-their-human-firewall",
+          "publishedOn": "2022-10-24T14:22:06.000Z",
+          "wordCount": 11995,
+          "title": "Hornetsecurity Launches Next-Generation Security Awareness Training to Help Organizations Strengthen Their Human Firewall",
+          "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
+        },
         {
           "id": "https://www.darkreading.com/vulnerabilities-threats/cybersecurity-s-role-in-combating-midterm-election-disinformation-",
           "author": "Katie Teitler, Senior Cybersecurity Strategist, Axonius",
@@ -3756,6 +3811,16 @@
       "siteUrl": "https://msrc-blog.microsoft.com",
       "articles": [
         {
+          "id": "https://msrc-blog.microsoft.com/?p=15057",
+          "author": "msrc",
+          "description": "Congratulations to all the researchers recognized in this quarter’s Microsoft Researcher Recognition Program leaderboard! Thank you to everyone for your hard work and continued partnership to secure customers. The top three researchers of the 2022 Q3 Security Researcher Leaderboard are: Zhiyi Zhang, Yuki Chen, and Dang The Tuyen! Check out the full list of researchers …\n  Congratulations to the Top MSRC 2022 Q3 Security Researchers! Read More »",
+          "link": "https://msrc-blog.microsoft.com/2022/10/24/congratulations-to-the-top-msrc-2022-q3-security-researchers/",
+          "publishedOn": "2022-10-24T17:10:00.000Z",
+          "wordCount": 1647,
+          "title": "Congratulations to the Top MSRC 2022 Q3 Security Researchers!",
+          "imageUrl": null
+        },
+        {
           "id": "https://msrc-blog.microsoft.com/?p=15027",
           "author": "msrc",
           "description": "Summary  Security researchers at SOCRadar informed Microsoft on September 24, 2022, of a misconfigured Microsoft endpoint. This misconfiguration resulted in the potential for unauthenticated access to some business transaction data corresponding to interactions between Microsoft and prospective customers, such as the planning or potential implementation and provisioning of Microsoft services.     Upon being notified of …\n  Investigation Regarding Misconfigured Microsoft Storage Location Read More »",
@@ -3849,6 +3914,26 @@
       "feedUrl": "https://blog.knowbe4.com/rss.xml",
       "siteUrl": "https://blog.knowbe4.com",
       "articles": [
+        {
+          "id": "https://blog.knowbe4.com/eye-opener-work-in-it-you-get-attacked-much-more-than-other-employees",
+          "author": "Stu Sjouwerman",
+          "description": "We received an interesting email from Elevate Security you need to be aware of. Their recent research showed: \"Social engineering attacks are growing more sophisticated every day, victimizing your workforce users and triggering security breaches. The worst part? Social engineering attacks are on the rise. And your IT engineers and developers are being attacked more often than other organizational departments.\"",
+          "link": "https://blog.knowbe4.com/eye-opener-work-in-it-you-get-attacked-much-more-than-other-employees",
+          "publishedOn": "2022-10-24T19:17:13.000Z",
+          "wordCount": 2018,
+          "title": "[Eye Opener] Work In IT? You Get Attacked Much More Than Other Employees",
+          "imageUrl": "https://blog.knowbe4.com/hubfs/upward-attack-rate-for-engineers.png#keepProtocol"
+        },
+        {
+          "id": "https://blog.knowbe4.com/uk-outsourcer-multi-million-dollar-phishing-attack-fine",
+          "author": "Stu Sjouwerman",
+          "description": "Britain's data watchdog has fined major construction group Interserve with a £4.4m fine. This was due to a cyber attack stole personal and financial details for over 113,000 employees and the company failed to stop the attack.",
+          "link": "https://blog.knowbe4.com/uk-outsourcer-multi-million-dollar-phishing-attack-fine",
+          "publishedOn": "2022-10-24T17:58:54.000Z",
+          "wordCount": 2060,
+          "title": "Major UK Outsourcer Hit With Multi-Million Dollar Fine Due to a Phishing Attack",
+          "imageUrl": "https://blog.knowbe4.com/hubfs/UK%20Phishing%20Attack.jpg#keepProtocol"
+        },
         {
           "id": "https://blog.knowbe4.com/phishing-for-student-email-accounts",
           "author": "Stu Sjouwerman",
@@ -4436,6 +4521,17 @@
       "feedUrl": "https://thehackernews.com/feeds/posts/default",
       "siteUrl": "https://thehackernews.com/",
       "articles": [
+        {
+          "id": "tag:blogger.com,1999:blog-4802841478634147276.post-4594666095218418131",
+          "author": "noreply@blogger.com (The Hacker News)",
+          "description": "Virtual Chief Information Security Officer (vCISO) services (also known as 'Fractional CISO' or 'CISO-as-a-Service') are growing in popularity, especially as growing cyber threats, tightening regulatory demands and strict cyber insurance requirements are driving small to medium-sized enterprises demand for strategic cybersecurity and compliance guidance and management. But vCISO services are",
+          "link": "https://thehackernews.com/2022/10/download-ebook-top-virtual-cisos-share.html",
+          "publishedOn": "2022-10-24T17:34:00.000Z",
+          "wordCount": null,
+          "title": "Download eBook: Top virtual CISOs share 7 tips for vCISO service providers",
+          "itunes": {},
+          "imageUrl": null
+        },
         {
           "id": "tag:blogger.com,1999:blog-4802841478634147276.post-2596963589730915108",
           "author": "noreply@blogger.com (Ravie Lakshmanan)",
