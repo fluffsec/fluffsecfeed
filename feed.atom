@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-10-25T03:51:24.035Z</updated>
+    <updated>2022-10-25T07:47:09.091Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Apple Releases Patch for New Actively Exploited iOS and iPadOS Zero-Day Vulnerability]]></title>
+        <id>tag:blogger.com,1999:blog-4802841478634147276.post-4140766548623223920</id>
+        <link href="https://thehackernews.com/2022/10/apple-releases-patch-for-new-actively.html"/>
+        <updated>2022-10-25T03:35:00.000Z</updated>
+        <summary type="html"><![CDATA[Tech giant Apple on Monday rolled out updates to remediate a zero-day flaw in iOS and iPadOS that it said has been actively exploited in the wild.
+The weakness, given the identifier CVE-2022-42827, has been described as an out-of-bounds write issue in the Kernel, which could be abused by a rogue application to execute arbitrary code with the highest privileges.
+Successful exploitation of]]></summary>
+        <author>
+            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[IoT Fingerprinting Helps Authenticate and Secure All Those Devices]]></title>
         <id>https://www.darkreading.com/dr-tech/iot-fingerprinting-helps-authenticate-and-secure-all-those-devices</id>
