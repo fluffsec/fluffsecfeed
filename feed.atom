@@ -2,10 +2,164 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-10-25T14:06:44.370Z</updated>
+    <updated>2022-10-25T19:42:38.993Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Windows Mark of the Web Zero-Days Remain Patchless, Under Exploit]]></title>
+        <id>https://www.darkreading.com/attacks-breaches/windows-mark-of-the-web-zero-days-patchless-exploit</id>
+        <link href="https://www.darkreading.com/attacks-breaches/windows-mark-of-the-web-zero-days-patchless-exploit"/>
+        <updated>2022-10-25T19:40:00.000Z</updated>
+        <summary type="html"><![CDATA[A pair of Microsoft bugs allow cyberattackers to bypass native Windows Internet download security, says former CERT CC researcher who discovered the flaws.]]></summary>
+        <author>
+            <name>Jai Vijayan, Contributing Writer, Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LinkedIn Phishing Spoof Bypasses Google Workspace Security]]></title>
+        <id>https://www.darkreading.com/risk/linkedin-phishing-spoof-bypasses-google-workspace-security</id>
+        <link href="https://www.darkreading.com/risk/linkedin-phishing-spoof-bypasses-google-workspace-security"/>
+        <updated>2022-10-25T17:20:21.000Z</updated>
+        <summary type="html"><![CDATA[A credential-stealing attack that spoofed LinkedIn and targeted a national travel organization skates past DMARC and other email protections.]]></summary>
+        <author>
+            <name>Dark Reading Staff, Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Threat Groups Repurpose Banking Trojans into Backdoors]]></title>
+        <id>https://www.darkreading.com/risk/threat-groups-repurpose-banking-trojans-backdoors</id>
+        <link href="https://www.darkreading.com/risk/threat-groups-repurpose-banking-trojans-backdoors"/>
+        <updated>2022-10-25T17:10:05.000Z</updated>
+        <summary type="html"><![CDATA[Ursnif, a one-time banking Trojan also known as Gozi, becomes the latest codebase to be repurposed as a more general backdoor, as malware developers trend toward modularity.]]></summary>
+        <author>
+            <name>Robert Lemos, Contributing Writer, Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HR Departments Play a Key Role in Cybersecurity]]></title>
+        <id>https://www.darkreading.com/vulnerabilities-threats/hr-departments-play-a-key-role-in-cybersecurity</id>
+        <link href="https://www.darkreading.com/vulnerabilities-threats/hr-departments-play-a-key-role-in-cybersecurity"/>
+        <updated>2022-10-25T17:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A more secure organization starts with stronger alignment between HR and the IT operation.]]></summary>
+        <author>
+            <name>Keith Neilson, Technical Evangelist, CloudSphere</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CISA Has Added One Known Exploited Vulnerability to Catalog]]></title>
+        <id>18101 at https://us-cert.cisa.gov</id>
+        <link href="https://us-cert.cisa.gov/ncas/current-activity/2022/10/25/cisa-has-added-one-known-exploited-vulnerability-catalog"/>
+        <updated>2022-10-25T15:59:49.000Z</updated>
+        <summary type="html"><![CDATA[Original release date: October 25, 2022
+CISA has added one new vulnerability to its Known Exploited Vulnerabilities Catalog, based on evidence of active exploitation. This type of vulnerability is a frequent attack vector for malicious cyber actors and pose significant risk to the federal enterprise. Note: To view the newly added vulnerabilities in the catalog, click on the arrow in the "Date Added to Catalog" column, which will sort by descending dates.      
+Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the Known Exploited Vulnerabilities Catalog as a living list of known CVEs that carry significant risk to the federal enterprise. BOD 22-01 requires FCEB agencies to remediate identified vulnerabilities by the due date to protect FCEB networks against active threats. See the BOD 22-01 Fact Sheet for more information.   
+Although BOD 22-01 only applies to FCEB agencies, CISA strongly urges all organizations to reduce their exposure to cyberattacks by prioritizing timely remediation of Catalog vulnerabilities as part of their vulnerability management practice. CISA will continue to add vulnerabilities to the Catalog that meet the specified criteria. 
+This product is provided subject to this Notification and this Privacy & Use policy.]]></summary>
+        <author>
+            <name>CISA</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Spyderbat Raises Series A to Deliver Runtime Security Throughout Cloud Native Software Development Environments]]></title>
+        <id>https://www.darkreading.com/cloud/spyderbat-raises-series-a-to-deliver-runtime-security-throughout-cloud-native-software-development-environments</id>
+        <link href="https://www.darkreading.com/cloud/spyderbat-raises-series-a-to-deliver-runtime-security-throughout-cloud-native-software-development-environments"/>
+        <updated>2022-10-25T15:58:43.000Z</updated>
+        <summary type="html"><![CDATA[Led by NTTVC, the funding enables further development of Cloud Native Intrusion Prevention from the team that invented Network Intrusion Prevention Systems.]]></summary>
+        <author>
+            <name>Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CISA Releases Eight Industrial Control Systems Advisories]]></title>
+        <id>18098 at https://us-cert.cisa.gov</id>
+        <link href="https://us-cert.cisa.gov/ncas/current-activity/2022/10/25/cisa-releases-eight-industrial-control-systems-advisories"/>
+        <updated>2022-10-25T15:26:22.000Z</updated>
+        <summary type="html"><![CDATA[Original release date: October 25, 2022
+CISA has released eight (8) Industrial Control Systems (ICS) advisories on October 25, 2022. These advisories provide timely information about current security issues, vulnerabilities, and exploits surrounding ICS.
+CISA encourages users and administrators to review the newly released ICS advisory for technical details and mitigations:
+•    ICSMA-22-298-01 AliveCor KardiaMobile
+Haas Controller
+HEIDENHAIN Controller TNC
+Siemens Siveillance Video Mobile Server
+Hitachi Energy MicroSCADA X DMS600
+Johnson Controls CKS CEVAS
+Delta Electronics DIAEnergie
+Delta Electronics InfraSuite Device Master
+This product is provided subject to this Notification and this Privacy & Use policy.]]></summary>
+        <author>
+            <name>CISA</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CISA Upgrades to Version 2.0 of Traffic Light Protocol in One Week – Join Us!]]></title>
+        <id>18094 at https://us-cert.cisa.gov</id>
+        <link href="https://us-cert.cisa.gov/ncas/current-activity/2022/10/25/cisa-upgrades-version-20-traffic-light-protocol-one-week-join-us"/>
+        <updated>2022-10-25T14:47:10.000Z</updated>
+        <summary type="html"><![CDATA[Original release date: October 25, 2022
+On Nov. 1, 2022, CISA will upgrade from Traffic Light Protocol (TLP) 1.0 to TLP 2.0 in accordance with the recommendation by the Forum of Incident Response Security Teams (FIRST) that organizations move to 2.0 by the end of 2022. TLP Version 2.0 brings the following key updates:
+TLP:CLEAR replaces TLP:WHITE for publicly releasable information.
+TLP:AMBER+STRICT supplements TLP:AMBER, clarifying when information  may be shared with the recipient’s organization only.
+CISA encourages all network defenders and partners to upgrade to TLP Version 2.0 to facilitate greater information sharing and collaboration. For more information see:
+On Nov. 1, CISA Upgrades to Traffic Light Protocol 2.0 — Join Us! by Tom Millar, Cybersecurity Senior Advisor, CISA, and Co-chair of the FIRST TLP Special Interest Group (SIG)
+CISA.gov/TLP, which contains links to CISA’s TLP 2.0 User Guide and Fact Sheet
+FIRST.org/TLP
+This product is provided subject to this Notification and this Privacy & Use policy.]]></summary>
+        <author>
+            <name>CISA</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MSP Market Opportunity Report Finds Cybersecurity as Primary Growth Driver as SMBs Lack Resources to Develop Security Program In-House]]></title>
+        <id>https://www.darkreading.com/operations/msp-market-opportunity-report-finds-cybersecurity-as-primary-growth-driver-as-smbs-lack-resources-to-develop-security-program-in-house</id>
+        <link href="https://www.darkreading.com/operations/msp-market-opportunity-report-finds-cybersecurity-as-primary-growth-driver-as-smbs-lack-resources-to-develop-security-program-in-house"/>
+        <updated>2022-10-25T14:18:03.000Z</updated>
+        <summary type="html"><![CDATA[New report shows 75% of MSPs will invest in security threat intelligence services in the next 12 months to help businesses combat increased threats.]]></summary>
+        <author>
+            <name>Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[22-Year-Old Vulnerability Reported in Widely Used SQLite Database Library]]></title>
+        <id>tag:blogger.com,1999:blog-4802841478634147276.post-6777258692912331342</id>
+        <link href="https://thehackernews.com/2022/10/22-year-old-vulnerability-reported-in.html"/>
+        <updated>2022-10-25T14:17:00.000Z</updated>
+        <summary type="html"><![CDATA[A high-severity vulnerability has been disclosed in the SQLite database library, which was introduced as part of a code change dating all the way back to October 2000 and could enable attackers to crash or control programs.
+Tracked as CVE-2022-35737 (CVSS score: 7.5), the 22-year-old issue affects SQLite versions 1.0.12 through 3.39.1, and has been addressed in version 3.39.2 released on July 21]]></summary>
+        <author>
+            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Security Leaders are Calling for Industry to Take Action and Programmatically Improve Secure Coding Education]]></title>
+        <id>https://www.darkreading.com/application-security/security-leaders-are-calling-for-industry-to-take-action-and-programmatically-improve-secure-coding-education</id>
+        <link href="https://www.darkreading.com/application-security/security-leaders-are-calling-for-industry-to-take-action-and-programmatically-improve-secure-coding-education"/>
+        <updated>2022-10-25T14:15:38.000Z</updated>
+        <summary type="html"><![CDATA[.]]></summary>
+        <author>
+            <name>Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SealPath Data Classification Powered by Getvisibility Applies Artificial Intelligence to Improve Accuracy and Efficiency of Data Labelling and Protection]]></title>
+        <id>https://www.darkreading.com/analytics/sealpath-data-classification-powered-by-getvisibility-applies-artificial-intelligence-to-improve-accuracy-and-efficiency-of-data-labelling-and-protection</id>
+        <link href="https://www.darkreading.com/analytics/sealpath-data-classification-powered-by-getvisibility-applies-artificial-intelligence-to-improve-accuracy-and-efficiency-of-data-labelling-and-protection"/>
+        <updated>2022-10-25T14:11:52.000Z</updated>
+        <summary type="html"><![CDATA[.]]></summary>
+        <author>
+            <name>Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Study Finds Significant Correlation Between BitSight Analytics and Cybersecurity Incidents]]></title>
+        <id>https://www.darkreading.com/risk/study-finds-significant-correlation-between-bitsight-analytics-and-cybersecurity-incidents</id>
+        <link href="https://www.darkreading.com/risk/study-finds-significant-correlation-between-bitsight-analytics-and-cybersecurity-incidents"/>
+        <updated>2022-10-25T14:08:00.000Z</updated>
+        <summary type="html"><![CDATA[The Marsh McLennan Cyber Risk Analytics Center conducted independent analysis of BitSight's Security Rating and risk vectors and cybersecurity incident data.]]></summary>
+        <author>
+            <name>Dark Reading</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Dealers Report Dramatic Increase in Identity Fraud: Most Lack Effective Protection]]></title>
         <id>https://www.darkreading.com/endpoint/dealers-report-dramatic-increase-in-identity-fraud-most-lack-effective-protection</id>
@@ -24,6 +178,18 @@
         <summary type="html"><![CDATA[From ransomware to remote workers to cyber-extortion gangs to Fred in shipping who clicks on the wrong link, cybersecurity concerns can keep you awake this season and all seasons.]]></summary>
         <author>
             <name>Paul Martini, Co-Founder, CEO, and Co-Chair, iboss</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hive Ransomware Hackers Begin Leaking Data Stolen from Tata Power Energy Company]]></title>
+        <id>tag:blogger.com,1999:blog-4802841478634147276.post-1462535104815084919</id>
+        <link href="https://thehackernews.com/2022/10/hive-ransomware-hackers-begin-leaking.html"/>
+        <updated>2022-10-25T13:58:00.000Z</updated>
+        <summary type="html"><![CDATA[The Hive ransomware-as-a-service (RaaS) group has claimed responsibility for a cyber attack against Tata Power that was disclosed by the company less than two weeks ago.
+The incident is said to have occurred on October 3, 2022. The threat actor has also been observed leaking stolen data exfiltrated prior to encrypting the network as part of its double extortion scheme.
+This allegedly comprises]]></summary>
+        <author>
+            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
         </author>
     </entry>
     <entry>
@@ -5459,17 +5625,6 @@ While traditionally,]]></summary>
 "In 2023, we plan to launch Google accounts on Fitbit, which will enable use of Fitbit with a Google account," the Google-owned fitness devices maker said.
 
 The switch will not go live for all users in 2023. Rather, support for Fitbit accounts is]]></summary>
-        <author>
-            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ukraine Arrests Cybercrime Group for Selling Data of 30 Million Accounts]]></title>
-        <id>tag:blogger.com,1999:blog-4802841478634147276.post-7867901706824541452</id>
-        <link href="https://thehackernews.com/2022/09/ukraine-arrests-cybercrime-group-for.html"/>
-        <updated>2022-09-26T05:04:00.000Z</updated>
-        <summary type="html"><![CDATA[Ukrainian law enforcement authorities on Friday disclosed that it had "neutralized" a hacking group operating from the city of Lviv that it said acted on behalf of Russian interests.
-The group specialized in the sales of 30 million accounts belonging to citizens from Ukraine and the European Union on the dark web and netted a profit of $372,000 (14 million UAH) through electronic payment systems]]></summary>
         <author>
             <name>noreply@blogger.com (Ravie Lakshmanan)</name>
         </author>
