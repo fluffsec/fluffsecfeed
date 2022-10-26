@@ -43,6 +43,26 @@
       "siteUrl": "https://us-cert.cisa.gov/",
       "articles": [
         {
+          "id": "18104 at https://us-cert.cisa.gov",
+          "author": "CISA",
+          "description": "Original release date: October 26, 2022\nApple has released security updates to address vulnerabilities in multiple products. An attacker could exploit some of these vulnerabilities to take control of an affected device. \nApple security updates page for the following products and apply the necessary updates as soon as possible: \n•    Safari 16.1 \niOS 16.1 and iPadOS 16 \nmacOS Big Sur 11.7.1 \nmacOS Monterey 12.6.1\nmacOS Ventura 13 \ntvOS 16.1 \nwatchOS 9.1 \nThis product is provided subject to this Notification and this Privacy & Use policy.",
+          "link": "https://us-cert.cisa.gov/ncas/current-activity/2022/10/26/apple-releases-security-updates-multiple-products",
+          "publishedOn": "2022-10-26T16:42:38.000Z",
+          "wordCount": 919,
+          "title": "Apple Releases Security Updates for Multiple Products",
+          "imageUrl": null
+        },
+        {
+          "id": "18103 at https://us-cert.cisa.gov",
+          "author": "CISA",
+          "description": "Original release date: October 26, 2022\nThe Samba Team has released security updates to address vulnerabilities in multiple versions of Samba. A remote attacker could exploit one of these vulnerabilities to take control of an affected system. \nCISA encourages users and administrators to review the following Samba Security Announcements and apply the necessary updates and workarounds. \n•    CVE-2022-3437  \nCVE-2022-3592\nThis product is provided subject to this Notification and this Privacy & Use policy.",
+          "link": "https://us-cert.cisa.gov/ncas/current-activity/2022/10/26/samba-releases-security-updates",
+          "publishedOn": "2022-10-26T15:52:34.000Z",
+          "wordCount": 885,
+          "title": "Samba Releases Security Updates",
+          "imageUrl": null
+        },
+        {
           "id": "18101 at https://us-cert.cisa.gov",
           "author": "CISA",
           "description": "Original release date: October 25, 2022\nCISA has added one new vulnerability to its Known Exploited Vulnerabilities Catalog, based on evidence of active exploitation. This type of vulnerability is a frequent attack vector for malicious cyber actors and pose significant risk to the federal enterprise. Note: To view the newly added vulnerabilities in the catalog, click on the arrow in the \"Date Added to Catalog\" column, which will sort by descending dates.      \nBinding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the Known Exploited Vulnerabilities Catalog as a living list of known CVEs that carry significant risk to the federal enterprise. BOD 22-01 requires FCEB agencies to remediate identified vulnerabilities by the due date to protect FCEB networks against active threats. See the BOD 22-01 Fact Sheet for more information.   \nAlthough BOD 22-01 only applies to FCEB agencies, CISA strongly urges all organizations to reduce their exposure to cyberattacks by prioritizing timely remediation of Catalog vulnerabilities as part of their vulnerability management practice. CISA will continue to add vulnerabilities to the Catalog that meet the specified criteria. \nThis product is provided subject to this Notification and this Privacy & Use policy.",
@@ -459,6 +479,126 @@
       "feedUrl": "https://www.darkreading.com/rss.xml",
       "siteUrl": "https://www.darkreading.com",
       "articles": [
+        {
+          "id": "https://www.darkreading.com/ics-ot/ransomware-gangs-ramp-industrial-attacks-us",
+          "author": "Tara Seals, Managing Editor, News, Dark Reading",
+          "description": "The manufacturing segment was especially hard hit by cyberattacks in the third quarter of 2022.",
+          "link": "https://www.darkreading.com/ics-ot/ransomware-gangs-ramp-industrial-attacks-us",
+          "publishedOn": "2022-10-26T17:13:48.000Z",
+          "wordCount": 11359,
+          "title": "Ransomware Gangs Ramp Up Industrial Attacks in US",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltea67136f81f32eca/626a9eb4726e3315b16b3c64/Tara-Seals-Headshot2.jpg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltea67136f81f32eca/626a9eb4726e3315b16b3c64/Tara-Seals-Headshot2.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/physical-security/why-retail-stores-are-more-vulnerable-than-ever-to-cybercrime",
+          "author": "IFSEC Global, Staff",
+          "description": "When we think about cybercrime and retail it is natural to focus on websites being targeted with attacks. Indeed, there has been a shocking rise in the number of cyberattacks perpetrated against online retailers in the past year. Dakota Murphey explains why store owners and security managers need to also protect their physical locations from the cyber threat, too, however.",
+          "link": "https://www.darkreading.com/physical-security/why-retail-stores-are-more-vulnerable-than-ever-to-cybercrime",
+          "publishedOn": "2022-10-26T17:00:00.000Z",
+          "wordCount": 13637,
+          "title": "Why Retail Stores Are More Vulnerable Than Ever to Cybercrime",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt92d593cc2d401bf4/60d447e6993b04384638fd98/IFSEC-Global.png",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt92d593cc2d401bf4/60d447e6993b04384638fd98/IFSEC-Global.png"
+        },
+        {
+          "id": "https://www.darkreading.com/cloud/4-reasons-open-source-matters-for-cloud-security",
+          "author": null,
+          "description": "When we depend on an open commons as our computing foundation, we need it to be secure, and the most effective way to do that is through open solutions.",
+          "link": "https://www.darkreading.com/cloud/4-reasons-open-source-matters-for-cloud-security",
+          "publishedOn": "2022-10-26T16:00:00.000Z",
+          "wordCount": 12948,
+          "title": "4 Reasons Open Source Matters for Cloud Security",
+          "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/remote-workforce/cisco-warns-anyconnect-vpns-active-cyberattack",
+          "author": "Tara Seals, Managing Editor, News, Dark Reading",
+          "description": "Older bugs in the AnyConnect Secure Mobility Client are being targeted in the wild, showcasing patch-management failures.",
+          "link": "https://www.darkreading.com/remote-workforce/cisco-warns-anyconnect-vpns-active-cyberattack",
+          "publishedOn": "2022-10-26T15:41:19.000Z",
+          "wordCount": 10627,
+          "title": "Cisco Warns AnyConnect VPNs Under Active Cyberattack",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltea67136f81f32eca/626a9eb4726e3315b16b3c64/Tara-Seals-Headshot2.jpg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltea67136f81f32eca/626a9eb4726e3315b16b3c64/Tara-Seals-Headshot2.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/cloud/content-security-market-worth-2-219-million-by-2027---exclusive-study-by-marketsandmarkets-tm-",
+          "author": null,
+          "description": "Concerns about breaches of sensitive information due to execution of malware scripts and growing adoption of cloud-based services are fueling growth of the content security market.",
+          "link": "https://www.darkreading.com/cloud/content-security-market-worth-2-219-million-by-2027---exclusive-study-by-marketsandmarkets-tm-",
+          "publishedOn": "2022-10-26T15:27:39.000Z",
+          "wordCount": 13308,
+          "title": "Content Security Market Worth $2.2 Million by 2027 - Exclusive Study by MarketsandMarkets(TM)",
+          "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/risk/google-enters-into-stipulated-agreement-to-improve-legal-process-compliance-program",
+          "author": null,
+          "description": "Google admitted to loss of data responsive to 2016 search warrant and agreed to program enhancements, reporting obligations, and a first-of-its-kind Independent Compliance Professional.",
+          "link": "https://www.darkreading.com/risk/google-enters-into-stipulated-agreement-to-improve-legal-process-compliance-program",
+          "publishedOn": "2022-10-26T15:02:07.000Z",
+          "wordCount": 12624,
+          "title": "Google Enters Into Stipulated Agreement to Improve Legal Process Compliance Program",
+          "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/careers-and-people/54-of-staff-would-reconsider-working-for-a-firm-that-had-experienced-a-cyber-breach-research-finds",
+          "author": null,
+          "description": "Independent research from Encore uncovers hidden costs of cyber attacks.",
+          "link": "https://www.darkreading.com/careers-and-people/54-of-staff-would-reconsider-working-for-a-firm-that-had-experienced-a-cyber-breach-research-finds",
+          "publishedOn": "2022-10-26T14:51:14.000Z",
+          "wordCount": 12034,
+          "title": "54% of Staff Would Reconsider Working for a Firm That Had Experienced a Cyber Breach, Research Finds",
+          "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/cloud/valence-security-announces-25m-series-a-to-scale-delivery-of-collaborative-saas-security-remediation-solutions-to-customers",
+          "author": null,
+          "description": "Led by Microsoft's M12 venture fund, Valence's Series A round accelerates the company's ability to help customers secure their SaaS mesh from risk created by democratized end-user adoption, third-party integrations, unmanaged identities, and external data sharing.",
+          "link": "https://www.darkreading.com/cloud/valence-security-announces-25m-series-a-to-scale-delivery-of-collaborative-saas-security-remediation-solutions-to-customers",
+          "publishedOn": "2022-10-26T14:15:13.000Z",
+          "wordCount": 12406,
+          "title": "Valence Security Announces $25M Series A to Scale Delivery of Collaborative SaaS Security Remediation Solutions to Customers",
+          "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/risk/open-source-is-just-the-tip-of-the-iceberg-in-software-supply-chain-security",
+          "author": "Curtis Yanko,  Principal Solutions Architect, GrammaTech",
+          "description": "As more of the software stack consists of third-party code, it's time for a more-advanced open source vetting system.",
+          "link": "https://www.darkreading.com/risk/open-source-is-just-the-tip-of-the-iceberg-in-software-supply-chain-security",
+          "publishedOn": "2022-10-26T14:00:00.000Z",
+          "wordCount": 13528,
+          "title": "Open Source Is Just the Tip of the Iceberg in Software Supply Chain Security",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltd0cb3d4317020ffe/63593b95ae3002077dc38082/Curtis_Yanko_Photo.jpg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltd0cb3d4317020ffe/63593b95ae3002077dc38082/Curtis_Yanko_Photo.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/vulnerabilities-threats/rezilion-vulnerability-scanner-benchmark-report-finds-top-scanners-only-73-accurate",
+          "author": null,
+          "description": "Majority of vulnerability scanner tools overwhelming teams with false positives and missing exploitable vulnerabilities.",
+          "link": "https://www.darkreading.com/vulnerabilities-threats/rezilion-vulnerability-scanner-benchmark-report-finds-top-scanners-only-73-accurate",
+          "publishedOn": "2022-10-26T13:59:32.000Z",
+          "wordCount": 11586,
+          "title": "Rezilion Vulnerability Scanner Benchmark Report Finds Top Scanners Only 73% Accurate",
+          "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
+        },
         {
           "id": "https://www.darkreading.com/threat-intelligence/blackberry-launches-cyber-threat-intelligence-service-to-strengthen-cyber-defenses",
           "author": null,
@@ -4062,6 +4202,16 @@
           "wordCount": 3616,
           "title": "SA45520 - CVE's (CVE-2022-35254,CVE-2022-35258) may lead to DoS attack",
           "imageUrl": null
+        },
+        {
+          "id": "Client-Side-Desync-Attack",
+          "author": null,
+          "description": "The deprecated Pulse Collaboration feature is vulnerable to Client-Side Desync attacks on versions of PCS 9.1R15 and below.",
+          "link": "https://kb.pulsesecure.net/articles/Pulse_Security_Advisories/Client-Side-Desync-Attack",
+          "publishedOn": "2022-09-27T14:43:21.000Z",
+          "wordCount": 3481,
+          "title": "SA45476 - Client Side Desync Attack (Informational)",
+          "imageUrl": null
         }
       ]
     },
@@ -4174,6 +4324,46 @@
       "feedUrl": "https://blog.knowbe4.com/rss.xml",
       "siteUrl": "https://blog.knowbe4.com",
       "articles": [
+        {
+          "id": "https://blog.knowbe4.com/apply-today-security-awareness-training-eligible-for-185-million-dhs-cybersecurity-grant-opportunity",
+          "author": "Stu Sjouwerman",
+          "description": "The Department of Homeland Security (DHS) is providing $185 million of grant money this year to U.S. states and territories to bolster their cybersecurity defenses, which includes security awareness training. The program will provide $1 billion over the next four years to help states and territories become more resilient to cyber threats.",
+          "link": "https://blog.knowbe4.com/apply-today-security-awareness-training-eligible-for-185-million-dhs-cybersecurity-grant-opportunity",
+          "publishedOn": "2022-10-26T18:58:36.000Z",
+          "wordCount": 2157,
+          "title": "[APPLY TODAY] Security Awareness Training Eligible for $185 million DHS Cybersecurity Grant Opportunity",
+          "imageUrl": "https://blog.knowbe4.com/hubfs/DHS_Officials.jpg#keepProtocol"
+        },
+        {
+          "id": "https://blog.knowbe4.com/knowbe4-top-clicked-phishing-email-subjects-for-q3-2022-infographic",
+          "author": "Stu Sjouwerman",
+          "description": "KnowBe4's latest quarterly report on top-clicked phishing email subjects is here. We analyze 'in the wild' attacks reported via our Phish Alert Button, top subjects globally clicked on in phishing tests, and top attack vector types.",
+          "link": "https://blog.knowbe4.com/knowbe4-top-clicked-phishing-email-subjects-for-q3-2022-infographic",
+          "publishedOn": "2022-10-26T18:31:34.000Z",
+          "wordCount": 2208,
+          "title": "KnowBe4 Top-Clicked Phishing Email Subjects for Q3 2022 [INFOGRAPHIC]",
+          "imageUrl": "https://blog.knowbe4.com/hubfs/Quarterly%20Phishing/Q32022-SOCIAL-1.jpg#keepProtocol"
+        },
+        {
+          "id": "https://blog.knowbe4.com/passkeys-are-being-pushed-in-a-big-way",
+          "author": "Roger Grimes",
+          "description": "There is a good chance that you and nearly everyone else will be using passkeys in the near future.",
+          "link": "https://blog.knowbe4.com/passkeys-are-being-pushed-in-a-big-way",
+          "publishedOn": "2022-10-26T14:58:37.000Z",
+          "wordCount": 2868,
+          "title": "Passkeys Are Being Pushed in a Big Way",
+          "imageUrl": "https://blog.knowbe4.com/hubfs/Social%20Image%20Repository/Evangelist%20Blog%20Social%20Graphics/Evangelists-Roger%20Grimes.jpg#keepProtocol"
+        },
+        {
+          "id": "https://blog.knowbe4.com/dont-let-high-tech-distract-you-from-low-tech",
+          "author": "Stu Sjouwerman",
+          "description": "Deepfakes, the realistic and thoroughly convincing fabrication of imagery, video, and audio that fakes the identity of some person in ways that are difficult to detect, have aroused concern recently. They seem to open the prospect of extraordinarily effective disinformation and social engineering campaigns. Deepfakes have already found their way into advertising campaigns.",
+          "link": "https://blog.knowbe4.com/dont-let-high-tech-distract-you-from-low-tech",
+          "publishedOn": "2022-10-26T14:58:13.000Z",
+          "wordCount": 2173,
+          "title": "Don’t Let High-Tech Distract You from Low-Tech",
+          "imageUrl": "https://blog.knowbe4.com/hubfs/FBI%20Warns%20of%20Deepfake%20Attacks.jpg#keepProtocol"
+        },
         {
           "id": "https://blog.knowbe4.com/cyberheistnews-vol-12-43-heads-up-this-new-strain-of-fake-ransomware-is-sloppy-but-dangerous",
           "author": "Stu Sjouwerman",
@@ -4761,6 +4951,50 @@
       "feedUrl": "https://thehackernews.com/feeds/posts/default",
       "siteUrl": "https://thehackernews.com/",
       "articles": [
+        {
+          "id": "tag:blogger.com,1999:blog-4802841478634147276.post-5339618774301164009",
+          "author": "noreply@blogger.com (Ravie Lakshmanan)",
+          "description": "A 26-year-old Ukrainian national has been charged in the U.S. for his alleged role in the Raccoon Stealer malware-as-a-service (MaaS) operation.\nMark Sokolovsky, who was arrested by Dutch law enforcement after leaving Ukraine on March 4, 2022, in what's said to be a Porsche Cayenne, is currently being held in the Netherlands and awaits extradition to the U.S.\n\"Individuals who deployed Raccoon",
+          "link": "https://thehackernews.com/2022/10/us-charges-ukrainian-hacker-over-role.html",
+          "publishedOn": "2022-10-26T16:09:00.000Z",
+          "wordCount": null,
+          "title": "U.S. Charges Ukrainian Hacker Over Role in Raccoon Stealer Malware Service",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "tag:blogger.com,1999:blog-4802841478634147276.post-2622661276626627910",
+          "author": "noreply@blogger.com (The Hacker News)",
+          "description": "If you regularly read The Hacker News, there’s a fair chance that you know something about cybersecurity. It’s possible to turn that interest into a six-figure career. But to make the leap, you need to pick up some key skills and professional certifications.\nFeaturing nine in-depth courses, The 2022 Masters in Cyber Security Certification Bundle helps you get ready for the next step. And in a",
+          "link": "https://thehackernews.com/2022/10/this-9-course-bundle-can-take-your.html",
+          "publishedOn": "2022-10-26T16:02:00.000Z",
+          "wordCount": null,
+          "title": "This 9-Course Bundle Can Take Your Cybersecurity Skills to the Next Level",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "tag:blogger.com,1999:blog-4802841478634147276.post-5522391231560050013",
+          "author": "noreply@blogger.com (Ravie Lakshmanan)",
+          "description": "The North Korean espionage-focused actor known as Kimsuky has been observed using three different Android malware strains to target users located in its southern counterpart.\nThat's according to findings from South Korean cybersecurity company S2W, which named the malware families FastFire, FastViewer, and FastSpy.\n\"The FastFire malware is disguised as a Google security plugin, and the",
+          "link": "https://thehackernews.com/2022/10/kimsuky-hackers-spotted-using-3-new.html",
+          "publishedOn": "2022-10-26T15:50:00.000Z",
+          "wordCount": null,
+          "title": "Kimsuky Hackers Spotted Using 3 New Android Malware to Target South Koreans",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "tag:blogger.com,1999:blog-4802841478634147276.post-3673055230482750685",
+          "author": "noreply@blogger.com (Ravie Lakshmanan)",
+          "description": "The threat actor behind a remote access trojan called RomCom RAT has been observed targeting Ukrainian military institutions as part of a new spear-phishing campaign that commenced on October 21, 2022. \nThe development marks a shift in the attacker's modus operandi, which has been previously attributed to spoofing legitimate apps like Advanced IP Scanner and pdfFiller to drop backdoors on",
+          "link": "https://thehackernews.com/2022/10/romcom-hackers-circulating-malicious.html",
+          "publishedOn": "2022-10-26T13:37:00.000Z",
+          "wordCount": null,
+          "title": "Unknown Actors are Deploying RomCom RAT to Target Ukrainian Military",
+          "itunes": {},
+          "imageUrl": null
+        },
         {
           "id": "tag:blogger.com,1999:blog-4802841478634147276.post-1402292471690115481",
           "author": "noreply@blogger.com (Ravie Lakshmanan)",
@@ -6144,17 +6378,6 @@
           "publishedOn": "2022-09-27T09:46:00.000Z",
           "wordCount": null,
           "title": "North Korea's Lazarus Hackers Targeting macOS Users Interested in Crypto Jobs",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "tag:blogger.com,1999:blog-4802841478634147276.post-2055061630707448545",
-          "author": "noreply@blogger.com (Ravie Lakshmanan)",
-          "description": "The Australian Federal Police (AFP) on Monday disclosed it's working to gather \"crucial evidence\" and that it's collaborating with overseas law enforcement authorities following the hack of telecom provider Optus.\n\"Operation Hurricane has been launched to identify the criminals behind the alleged breach and to help shield Australians from identity fraud,\" the AFP said in a statement.\nThe",
-          "link": "https://thehackernews.com/2022/09/hacker-behind-optus-breach-releases.html",
-          "publishedOn": "2022-09-27T06:14:00.000Z",
-          "wordCount": null,
-          "title": "Hacker Behind Optus Breach Releases 10,200 Customer Records in Extortion Scheme",
           "itunes": {},
           "imageUrl": null
         }
