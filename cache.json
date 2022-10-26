@@ -460,6 +460,56 @@
       "siteUrl": "https://www.darkreading.com",
       "articles": [
         {
+          "id": "https://www.darkreading.com/threat-intelligence/blackberry-launches-cyber-threat-intelligence-service-to-strengthen-cyber-defenses",
+          "author": null,
+          "description": "New service from BlackBerry's Threat Research and Intelligence Team reduces unknowns to enhance detection and response.",
+          "link": "https://www.darkreading.com/threat-intelligence/blackberry-launches-cyber-threat-intelligence-service-to-strengthen-cyber-defenses",
+          "publishedOn": "2022-10-26T13:38:13.000Z",
+          "wordCount": 11339,
+          "title": "BlackBerry Launches Cyber Threat Intelligence Service to Strengthen Cyber Defenses",
+          "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/dr-tech/top-10-kubernetes-security-risks-every-devsecops-needs-to-know",
+          "author": "Shauli Rozen, CEO and Co-Founder, ARMO",
+          "description": "The mission to run any containerized application on any infrastructure makes security a challenge on Kubernetes.",
+          "link": "https://www.darkreading.com/dr-tech/top-10-kubernetes-security-risks-every-devsecops-needs-to-know",
+          "publishedOn": "2022-10-26T13:15:00.000Z",
+          "wordCount": 15611,
+          "title": "Top 10 Kubernetes Security Risks Every DevSecOps Pro Should Know",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt2b695e2efe27ef8b/6356d99e2d31130ba12693c6/shauli-rozen.jpg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt2b695e2efe27ef8b/6356d99e2d31130ba12693c6/shauli-rozen.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/physical-security/baltimore-washington-international-thurgood-marshall-airport-selects-telos-to-process-background-checks-for-aviation-workers",
+          "author": null,
+          "description": "Telos' aviation channeling service offers increased efficiency and flexibility in credentialing operations at the busiest airport in the Washington-Baltimore region.",
+          "link": "https://www.darkreading.com/physical-security/baltimore-washington-international-thurgood-marshall-airport-selects-telos-to-process-background-checks-for-aviation-workers",
+          "publishedOn": "2022-10-26T13:12:02.000Z",
+          "wordCount": 12904,
+          "title": "Baltimore/Washington International Thurgood Marshall Airport Selects Telos to Process Background Checks for Aviation Workers",
+          "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/ics-ot/dark-reading-launches-new-section-dedicated-to-ics-ot-security",
+          "author": "Kelly Jackson Higgins, Editor-in-Chief, Dark Reading",
+          "description": "ICS/OT Security joins the lineup of 14 cybersecurity topic sections on the media site.",
+          "link": "https://www.darkreading.com/ics-ot/dark-reading-launches-new-section-dedicated-to-ics-ot-security",
+          "publishedOn": "2022-10-26T13:03:00.000Z",
+          "wordCount": 10568,
+          "title": "Dark Reading Launches New Section Dedicated to ICS/OT Security",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltb0e0f8e307c2012b/615dfe95486c9a5b53695aa0/KJH.PNG",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltb0e0f8e307c2012b/615dfe95486c9a5b53695aa0/KJH.PNG"
+        },
+        {
           "id": "https://www.darkreading.com/attacks-breaches/windows-mark-of-the-web-zero-days-patchless-exploit",
           "author": "Jai Vijayan, Contributing Writer, Dark Reading",
           "description": "A pair of Microsoft bugs allow cyberattackers to bypass native Windows Internet download security, says former CERT CC researcher who discovered the flaws.",
@@ -3978,21 +4028,6 @@
             "length": "0"
           },
           "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt58481326324d6911/60b1e9a55d34de550780a990/Robert-Lemos.png"
-        },
-        {
-          "id": "https://www.darkreading.com/application-security/recession-jitters-ma-dominates-robust-cybersecurity-market",
-          "author": "Jai Vijayan, Contributing Writer, Dark Reading",
-          "description": "Funding has been somewhat lower than last year, but investment remains healthy, analysts say, amid thirst for cloud security in particular.",
-          "link": "https://www.darkreading.com/application-security/recession-jitters-ma-dominates-robust-cybersecurity-market",
-          "publishedOn": "2022-09-26T20:30:52.000Z",
-          "wordCount": 14188,
-          "title": "Despite Recession Jitters, M&A Dominates a Robust Cybersecurity Market",
-          "enclosure": {
-            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt02d79fb9a44a4258/60b1e9dd2a25046b35110696/Jai-Vijayan.jpeg",
-            "type": "image/*",
-            "length": "0"
-          },
-          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt02d79fb9a44a4258/60b1e9dd2a25046b35110696/Jai-Vijayan.jpeg"
         }
       ]
     },
@@ -4026,16 +4061,6 @@
           "publishedOn": "2022-10-13T14:02:17.000Z",
           "wordCount": 3616,
           "title": "SA45520 - CVE's (CVE-2022-35254,CVE-2022-35258) may lead to DoS attack",
-          "imageUrl": null
-        },
-        {
-          "id": "Client-Side-Desync-Attack",
-          "author": null,
-          "description": "",
-          "link": "https://kb.pulsesecure.net/articles/Pulse_Security_Advisories/Client-Side-Desync-Attack",
-          "publishedOn": "2022-09-26T22:42:45.000Z",
-          "wordCount": 3401,
-          "title": "SA45476 - Client Side Desync Attack",
           "imageUrl": null
         }
       ]
@@ -4736,6 +4761,28 @@
       "feedUrl": "https://thehackernews.com/feeds/posts/default",
       "siteUrl": "https://thehackernews.com/",
       "articles": [
+        {
+          "id": "tag:blogger.com,1999:blog-4802841478634147276.post-1402292471690115481",
+          "author": "noreply@blogger.com (Ravie Lakshmanan)",
+          "description": "A cybercrime group known as Vice Society has been linked to multiple ransomware strains in its malicious campaigns aimed at the education, government, and retail sectors.\nThe Microsoft Security Threat Intelligence team, which is tracking the threat cluster under the moniker DEV-0832, said the group avoids deploying ransomware in some cases and rather likely carries out extortion using",
+          "link": "https://thehackernews.com/2022/10/vice-society-hackers-are-behind-several.html",
+          "publishedOn": "2022-10-26T08:13:00.000Z",
+          "wordCount": null,
+          "title": "Vice Society Hackers Are Behind Several Ransomware Attacks Against Education Sector",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "tag:blogger.com,1999:blog-4802841478634147276.post-5900460976957163511",
+          "author": "noreply@blogger.com (Ravie Lakshmanan)",
+          "description": "Cisco has warned of active exploitation attempts targeting a pair of two-year-old security flaws in the Cisco AnyConnect Secure Mobility Client for Windows.\nTracked as CVE-2020-3153 (CVSS score: 6.5) and CVE-2020-3433 (CVSS score: 7.8), the vulnerabilities could enable local authenticated attackers to perform DLL hijacking and copy arbitrary files to system directories with elevated privileges.",
+          "link": "https://thehackernews.com/2022/10/hackers-actively-exploiting-cisco.html",
+          "publishedOn": "2022-10-26T07:55:00.000Z",
+          "wordCount": null,
+          "title": "Hackers Actively Exploiting Cisco AnyConnect and GIGABYTE Drivers Vulnerabilities",
+          "itunes": {},
+          "imageUrl": null
+        },
         {
           "id": "tag:blogger.com,1999:blog-4802841478634147276.post-2203510254033819879",
           "author": "noreply@blogger.com (Ravie Lakshmanan)",

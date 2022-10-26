@@ -2,10 +2,72 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-10-26T07:26:49.559Z</updated>
+    <updated>2022-10-26T13:56:01.345Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[BlackBerry Launches Cyber Threat Intelligence Service to Strengthen Cyber Defenses]]></title>
+        <id>https://www.darkreading.com/threat-intelligence/blackberry-launches-cyber-threat-intelligence-service-to-strengthen-cyber-defenses</id>
+        <link href="https://www.darkreading.com/threat-intelligence/blackberry-launches-cyber-threat-intelligence-service-to-strengthen-cyber-defenses"/>
+        <updated>2022-10-26T13:38:13.000Z</updated>
+        <summary type="html"><![CDATA[New service from BlackBerry's Threat Research and Intelligence Team reduces unknowns to enhance detection and response.]]></summary>
+        <author>
+            <name>Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Top 10 Kubernetes Security Risks Every DevSecOps Pro Should Know]]></title>
+        <id>https://www.darkreading.com/dr-tech/top-10-kubernetes-security-risks-every-devsecops-needs-to-know</id>
+        <link href="https://www.darkreading.com/dr-tech/top-10-kubernetes-security-risks-every-devsecops-needs-to-know"/>
+        <updated>2022-10-26T13:15:00.000Z</updated>
+        <summary type="html"><![CDATA[The mission to run any containerized application on any infrastructure makes security a challenge on Kubernetes.]]></summary>
+        <author>
+            <name>Shauli Rozen, CEO and Co-Founder, ARMO</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Baltimore/Washington International Thurgood Marshall Airport Selects Telos to Process Background Checks for Aviation Workers]]></title>
+        <id>https://www.darkreading.com/physical-security/baltimore-washington-international-thurgood-marshall-airport-selects-telos-to-process-background-checks-for-aviation-workers</id>
+        <link href="https://www.darkreading.com/physical-security/baltimore-washington-international-thurgood-marshall-airport-selects-telos-to-process-background-checks-for-aviation-workers"/>
+        <updated>2022-10-26T13:12:02.000Z</updated>
+        <summary type="html"><![CDATA[Telos' aviation channeling service offers increased efficiency and flexibility in credentialing operations at the busiest airport in the Washington-Baltimore region.]]></summary>
+        <author>
+            <name>Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dark Reading Launches New Section Dedicated to ICS/OT Security]]></title>
+        <id>https://www.darkreading.com/ics-ot/dark-reading-launches-new-section-dedicated-to-ics-ot-security</id>
+        <link href="https://www.darkreading.com/ics-ot/dark-reading-launches-new-section-dedicated-to-ics-ot-security"/>
+        <updated>2022-10-26T13:03:00.000Z</updated>
+        <summary type="html"><![CDATA[ICS/OT Security joins the lineup of 14 cybersecurity topic sections on the media site.]]></summary>
+        <author>
+            <name>Kelly Jackson Higgins, Editor-in-Chief, Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vice Society Hackers Are Behind Several Ransomware Attacks Against Education Sector]]></title>
+        <id>tag:blogger.com,1999:blog-4802841478634147276.post-1402292471690115481</id>
+        <link href="https://thehackernews.com/2022/10/vice-society-hackers-are-behind-several.html"/>
+        <updated>2022-10-26T08:13:00.000Z</updated>
+        <summary type="html"><![CDATA[A cybercrime group known as Vice Society has been linked to multiple ransomware strains in its malicious campaigns aimed at the education, government, and retail sectors.
+The Microsoft Security Threat Intelligence team, which is tracking the threat cluster under the moniker DEV-0832, said the group avoids deploying ransomware in some cases and rather likely carries out extortion using]]></summary>
+        <author>
+            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hackers Actively Exploiting Cisco AnyConnect and GIGABYTE Drivers Vulnerabilities]]></title>
+        <id>tag:blogger.com,1999:blog-4802841478634147276.post-5900460976957163511</id>
+        <link href="https://thehackernews.com/2022/10/hackers-actively-exploiting-cisco.html"/>
+        <updated>2022-10-26T07:55:00.000Z</updated>
+        <summary type="html"><![CDATA[Cisco has warned of active exploitation attempts targeting a pair of two-year-old security flaws in the Cisco AnyConnect Secure Mobility Client for Windows.
+Tracked as CVE-2020-3153 (CVSS score: 6.5) and CVE-2020-3433 (CVSS score: 7.8), the vulnerabilities could enable local authenticated attackers to perform DLL hijacking and copy arbitrary files to system directories with elevated privileges.]]></summary>
+        <author>
+            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[VMware Releases Patch for Critical RCE Flaw in Cloud Foundation Platform]]></title>
         <id>tag:blogger.com,1999:blog-4802841478634147276.post-2203510254033819879</id>
@@ -5467,25 +5529,6 @@ The]]></summary>
 The]]></summary>
         <author>
             <name>noreply@blogger.com (Ravie Lakshmanan)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SA45476 - Client Side Desync Attack]]></title>
-        <id>Client-Side-Desync-Attack</id>
-        <link href="https://kb.pulsesecure.net/articles/Pulse_Security_Advisories/Client-Side-Desync-Attack"/>
-        <updated>2022-09-26T22:42:45.000Z</updated>
-        <author>
-            <name>Public KB</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Despite Recession Jitters, M&A Dominates a Robust Cybersecurity Market]]></title>
-        <id>https://www.darkreading.com/application-security/recession-jitters-ma-dominates-robust-cybersecurity-market</id>
-        <link href="https://www.darkreading.com/application-security/recession-jitters-ma-dominates-robust-cybersecurity-market"/>
-        <updated>2022-09-26T20:30:52.000Z</updated>
-        <summary type="html"><![CDATA[Funding has been somewhat lower than last year, but investment remains healthy, analysts say, amid thirst for cloud security in particular.]]></summary>
-        <author>
-            <name>Jai Vijayan, Contributing Writer, Dark Reading</name>
         </author>
     </entry>
 </feed>
