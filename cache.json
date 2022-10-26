@@ -421,16 +421,6 @@
           "wordCount": 924,
           "title": "CISA Updates Advisory on Threat Actors Exploiting Multiple CVEs Against Zimbra Collaboration Suite",
           "imageUrl": null
-        },
-        {
-          "id": "18004 at https://us-cert.cisa.gov",
-          "author": "CISA",
-          "description": "Original release date: September 26, 2022 | Last revised: September 27, 2022\nCISA has released three (3) Industrial Control Systems (ICS) advisories on September 27th, 2022. These advisories provide timely information about current security issues, vulnerabilities, and exploits surrounding ICS.\nCISA encourages users and administrators to review the newly released ICS advisories for technical details and mitigations:\n•    ICSA-22-270-01 Hitachi Energy AFS\nHitachi Energy APM Edge\nRockwell Automation ThinManager ThinServer\nThis product is provided subject to this Notification and this Privacy & Use policy.",
-          "link": "https://us-cert.cisa.gov/ncas/current-activity/2022/09/26/cisa-releases-three-industrial-control-systems-advisories",
-          "publishedOn": "2022-09-26T18:16:03.000Z",
-          "wordCount": 914,
-          "title": "CISA Releases Three Industrial Control Systems Advisories",
-          "imageUrl": null
         }
       ]
     },
@@ -4003,31 +3993,6 @@
             "length": "0"
           },
           "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt02d79fb9a44a4258/60b1e9dd2a25046b35110696/Jai-Vijayan.jpeg"
-        },
-        {
-          "id": "https://www.darkreading.com/attacks-breaches/russia-planning-cyberattacks-ukraine-energy-sector",
-          "author": "Becky Bracken, Editor, Dark Reading",
-          "description": "Ukraine military intelligence says Russia is planning cyberattacks on the country's energy sector, as well as against allies including Poland and the Baltic states.",
-          "link": "https://www.darkreading.com/attacks-breaches/russia-planning-cyberattacks-ukraine-energy-sector",
-          "publishedOn": "2022-09-26T18:32:28.000Z",
-          "wordCount": 10797,
-          "title": "Russia Planning Cyberattacks on Ukraine's Energy Grid",
-          "enclosure": {
-            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt8e7bd143d726930b/627271268681151716941064/BeckyB.jpg",
-            "type": "image/*",
-            "length": "0"
-          },
-          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt8e7bd143d726930b/627271268681151716941064/BeckyB.jpg"
-        },
-        {
-          "id": "https://www.darkreading.com/vulnerabilities-threats/cyber-threat-alliance-extends-membership-to-6-leading-cybersecurity-companies",
-          "author": null,
-          "description": "CTA now has 36 members headquartered in 11 countries who follow cyber activities across the world, showing cybersecurity industry members realize the value in collaboration.",
-          "link": "https://www.darkreading.com/vulnerabilities-threats/cyber-threat-alliance-extends-membership-to-6-leading-cybersecurity-companies",
-          "publishedOn": "2022-09-26T16:01:29.000Z",
-          "wordCount": 12362,
-          "title": "Cyber Threat Alliance Extends Membership to 6+ Leading Cybersecurity Companies",
-          "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
         }
       ]
     },
@@ -4771,6 +4736,17 @@
       "feedUrl": "https://thehackernews.com/feeds/posts/default",
       "siteUrl": "https://thehackernews.com/",
       "articles": [
+        {
+          "id": "tag:blogger.com,1999:blog-4802841478634147276.post-2203510254033819879",
+          "author": "noreply@blogger.com (Ravie Lakshmanan)",
+          "description": "VMware on Tuesday shipped security updates to address a critical security flaw in its VMware Cloud Foundation product.\nTracked as CVE-2021-39144, the issue has been rated 9.8 out of 10 on the CVSS vulnerability scoring system, and relates to a remote code execution vulnerability via XStream open source library.\n\"Due to an unauthenticated endpoint that leverages XStream for input serialization in",
+          "link": "https://thehackernews.com/2022/10/vmware-releases-patch-for-critical-rce.html",
+          "publishedOn": "2022-10-26T04:24:00.000Z",
+          "wordCount": null,
+          "title": "VMware Releases Patch for Critical RCE Flaw in Cloud Foundation Platform",
+          "itunes": {},
+          "imageUrl": null
+        },
         {
           "id": "tag:blogger.com,1999:blog-4802841478634147276.post-6777258692912331342",
           "author": "noreply@blogger.com (Ravie Lakshmanan)",

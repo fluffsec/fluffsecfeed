@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-10-26T03:17:54.610Z</updated>
+    <updated>2022-10-26T07:26:49.559Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[VMware Releases Patch for Critical RCE Flaw in Cloud Foundation Platform]]></title>
+        <id>tag:blogger.com,1999:blog-4802841478634147276.post-2203510254033819879</id>
+        <link href="https://thehackernews.com/2022/10/vmware-releases-patch-for-critical-rce.html"/>
+        <updated>2022-10-26T04:24:00.000Z</updated>
+        <summary type="html"><![CDATA[VMware on Tuesday shipped security updates to address a critical security flaw in its VMware Cloud Foundation product.
+Tracked as CVE-2021-39144, the issue has been rated 9.8 out of 10 on the CVSS vulnerability scoring system, and relates to a remote code execution vulnerability via XStream open source library.
+"Due to an unauthenticated endpoint that leverages XStream for input serialization in]]></summary>
+        <author>
+            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Windows Mark of the Web Zero-Days Remain Patchless, Under Exploit]]></title>
         <id>https://www.darkreading.com/attacks-breaches/windows-mark-of-the-web-zero-days-patchless-exploit</id>
@@ -5474,42 +5486,6 @@ The]]></summary>
         <summary type="html"><![CDATA[Funding has been somewhat lower than last year, but investment remains healthy, analysts say, amid thirst for cloud security in particular.]]></summary>
         <author>
             <name>Jai Vijayan, Contributing Writer, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Russia Planning Cyberattacks on Ukraine's Energy Grid]]></title>
-        <id>https://www.darkreading.com/attacks-breaches/russia-planning-cyberattacks-ukraine-energy-sector</id>
-        <link href="https://www.darkreading.com/attacks-breaches/russia-planning-cyberattacks-ukraine-energy-sector"/>
-        <updated>2022-09-26T18:32:28.000Z</updated>
-        <summary type="html"><![CDATA[Ukraine military intelligence says Russia is planning cyberattacks on the country's energy sector, as well as against allies including Poland and the Baltic states.]]></summary>
-        <author>
-            <name>Becky Bracken, Editor, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CISA Releases Three Industrial Control Systems Advisories]]></title>
-        <id>18004 at https://us-cert.cisa.gov</id>
-        <link href="https://us-cert.cisa.gov/ncas/current-activity/2022/09/26/cisa-releases-three-industrial-control-systems-advisories"/>
-        <updated>2022-09-26T18:16:03.000Z</updated>
-        <summary type="html"><![CDATA[Original release date: September 26, 2022 | Last revised: September 27, 2022
-CISA has released three (3) Industrial Control Systems (ICS) advisories on September 27th, 2022. These advisories provide timely information about current security issues, vulnerabilities, and exploits surrounding ICS.
-CISA encourages users and administrators to review the newly released ICS advisories for technical details and mitigations:
-•    ICSA-22-270-01 Hitachi Energy AFS
-Hitachi Energy APM Edge
-Rockwell Automation ThinManager ThinServer
-This product is provided subject to this Notification and this Privacy & Use policy.]]></summary>
-        <author>
-            <name>CISA</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cyber Threat Alliance Extends Membership to 6+ Leading Cybersecurity Companies]]></title>
-        <id>https://www.darkreading.com/vulnerabilities-threats/cyber-threat-alliance-extends-membership-to-6-leading-cybersecurity-companies</id>
-        <link href="https://www.darkreading.com/vulnerabilities-threats/cyber-threat-alliance-extends-membership-to-6-leading-cybersecurity-companies"/>
-        <updated>2022-09-26T16:01:29.000Z</updated>
-        <summary type="html"><![CDATA[CTA now has 36 members headquartered in 11 countries who follow cyber activities across the world, showing cybersecurity industry members realize the value in collaboration.]]></summary>
-        <author>
-            <name>Dark Reading</name>
         </author>
     </entry>
 </feed>
