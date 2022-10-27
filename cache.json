@@ -43,6 +43,16 @@
       "siteUrl": "https://us-cert.cisa.gov/",
       "articles": [
         {
+          "id": "18105 at https://us-cert.cisa.gov",
+          "author": "CISA",
+          "description": "Original release date: October 27, 2022\nCISA has released four (4) Industrial Control Systems (ICS) advisories on October 27, 2022. These advisories provide timely information about current security issues, vulnerabilities, and exploits surrounding ICS.\nCISA encourages users and administrators to review the newly released ICS advisory for technical details and mitigations:\n•    ICSA-22-300-01 Rockwell Automation FactoryTalk Alarm and Events Server\nSAUTER Controls moduWeb\nRockwell Automation Stratix Devices Containing Cisco IOS\nTrihedral VTScada\nThis product is provided subject to this Notification and this Privacy & Use policy.",
+          "link": "https://us-cert.cisa.gov/ncas/current-activity/2022/10/27/cisa-releases-four-industrial-control-systems-advisories",
+          "publishedOn": "2022-10-27T19:07:46.000Z",
+          "wordCount": 912,
+          "title": "CISA Releases Four Industrial Control Systems Advisories",
+          "imageUrl": null
+        },
+        {
           "id": "18104 at https://us-cert.cisa.gov",
           "author": "CISA",
           "description": "Original release date: October 26, 2022\nApple has released security updates to address vulnerabilities in multiple products. An attacker could exploit some of these vulnerabilities to take control of an affected device. \nApple security updates page for the following products and apply the necessary updates as soon as possible: \n•    Safari 16.1 \niOS 16.1 and iPadOS 16 \nmacOS Big Sur 11.7.1 \nmacOS Monterey 12.6.1\nmacOS Ventura 13 \ntvOS 16.1 \nwatchOS 9.1 \nThis product is provided subject to this Notification and this Privacy & Use policy.",
@@ -459,6 +469,116 @@
       "feedUrl": "https://www.darkreading.com/rss.xml",
       "siteUrl": "https://www.darkreading.com",
       "articles": [
+        {
+          "id": "https://www.darkreading.com/threat-intelligence/raspberry-robin-cyber-worm-infects-thousands-endpoints",
+          "author": "Tara Seals, Managing Editor, News, Dark Reading",
+          "description": "The malware is being used to deliver Clop ransomware, in a vicious spate of October attacks that show an evolution in its methods.",
+          "link": "https://www.darkreading.com/threat-intelligence/raspberry-robin-cyber-worm-infects-thousands-endpoints",
+          "publishedOn": "2022-10-27T18:50:00.000Z",
+          "wordCount": 11507,
+          "title": "Raspberry Robin's Cyber Worm Infects Thousands of Endpoints",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltea67136f81f32eca/626a9eb4726e3315b16b3c64/Tara-Seals-Headshot2.jpg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltea67136f81f32eca/626a9eb4726e3315b16b3c64/Tara-Seals-Headshot2.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/attacks-breaches/ny-post-falls-victim-to-insider-threat",
+          "author": "Dark Reading Staff, Dark Reading",
+          "description": "A malicious employee was behind hateful, violent messages on the Post's website and Twitter account, the paper has confirmed.",
+          "link": "https://www.darkreading.com/attacks-breaches/ny-post-falls-victim-to-insider-threat",
+          "publishedOn": "2022-10-27T18:44:00.000Z",
+          "wordCount": 10997,
+          "title": "NY Post Falls Victim to Insider Threat",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blte161b23f0fd3a84b/60b1ea374e7eb868c4c6a293/dr_staff_125x125.jpg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blte161b23f0fd3a84b/60b1ea374e7eb868c4c6a293/dr_staff_125x125.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/vulnerabilities-threats/prepare-critical-flaw-openssl-security-experts-warn",
+          "author": "Jai Vijayan, Contributing Writer, Dark Reading",
+          "description": "Even if the security bug is not another Heartbleed, prepare like it might be, they note — it has potentially sprawling ramifications.",
+          "link": "https://www.darkreading.com/vulnerabilities-threats/prepare-critical-flaw-openssl-security-experts-warn",
+          "publishedOn": "2022-10-27T17:00:00.000Z",
+          "wordCount": 14567,
+          "title": "Prepare Now for Critical Flaw in OpenSSL, Security Experts Warn",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt02d79fb9a44a4258/60b1e9dd2a25046b35110696/Jai-Vijayan.jpeg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt02d79fb9a44a4258/60b1e9dd2a25046b35110696/Jai-Vijayan.jpeg"
+        },
+        {
+          "id": "https://www.darkreading.com/risk/google-trumpets-us-federal-open-source-security-initiative",
+          "author": "Dark Reading Staff, Dark Reading",
+          "description": "A bipartisan bill aims to create a usable framework for the use of open source components when building applications, which Google is urging the private sector to support.",
+          "link": "https://www.darkreading.com/risk/google-trumpets-us-federal-open-source-security-initiative",
+          "publishedOn": "2022-10-27T16:00:00.000Z",
+          "wordCount": 11818,
+          "title": "Google Trumpets US Federal Open Source Security Initiative",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blte161b23f0fd3a84b/60b1ea374e7eb868c4c6a293/dr_staff_125x125.jpg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blte161b23f0fd3a84b/60b1ea374e7eb868c4c6a293/dr_staff_125x125.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/risk/persona-launches-unified-identity-platform-to-fight-fraud-and-reduce-compliance-risk",
+          "author": null,
+          "description": "Industry-first unified identity platform provides the building blocks to help businesses build and operate their unique identity process end-to-end.",
+          "link": "https://www.darkreading.com/risk/persona-launches-unified-identity-platform-to-fight-fraud-and-reduce-compliance-risk",
+          "publishedOn": "2022-10-27T15:13:19.000Z",
+          "wordCount": 12914,
+          "title": "Persona Launches Unified Identity Platform to Fight Fraud and Reduce Compliance Risk",
+          "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/risk/cybersecurity-startup-protexxa-raises-4-million-in-seed-funding-to-protect-businesses-and-individuals-online-as-cybercrime-accelerates",
+          "author": null,
+          "description": "70% of investors on the cap table are women.",
+          "link": "https://www.darkreading.com/risk/cybersecurity-startup-protexxa-raises-4-million-in-seed-funding-to-protect-businesses-and-individuals-online-as-cybercrime-accelerates",
+          "publishedOn": "2022-10-27T15:08:18.000Z",
+          "wordCount": 12441,
+          "title": "Cybersecurity Startup Protexxa Raises $4 Million in Seed Funding to Protect Businesses and Individuals Online as Cybercrime Accelerates",
+          "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/application-security/cyberttackers-target-instagram-users-threats-copyright-infringement",
+          "author": "Elizabeth Montalbano, Contributor, Dark Reading",
+          "description": "A novel campaign is using an emerging URL redirection tactic to try to trick business users and others into clicking on an embedded link and giving up credentials.",
+          "link": "https://www.darkreading.com/application-security/cyberttackers-target-instagram-users-threats-copyright-infringement",
+          "publishedOn": "2022-10-27T15:00:00.000Z",
+          "wordCount": 14166,
+          "title": "Cyberattackers Target Instagram Users With Threats of Copyright Infringement",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltbfd004d139d42d70/6303bca6236c2476a257760e/ElizabethMontalbano.jpg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltbfd004d139d42d70/6303bca6236c2476a257760e/ElizabethMontalbano.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/attacks-breaches/how-to-attract-top-research-talent-for-your-bug-bounty-program",
+          "author": "Chris Holt, Bug Bounty Program Manager, Intel",
+          "description": "Successful bug bounty programs strike a balance between vendor benefits and researcher incentives.",
+          "link": "https://www.darkreading.com/attacks-breaches/how-to-attract-top-research-talent-for-your-bug-bounty-program",
+          "publishedOn": "2022-10-27T14:00:00.000Z",
+          "wordCount": 13876,
+          "title": "How to Attract Top Research Talent for Your Bug Bounty Program",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltb986297f3b35c3f3/634ec58ba275cc0f05db93d8/C_Holt.png",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltb986297f3b35c3f3/634ec58ba275cc0f05db93d8/C_Holt.png"
+        },
         {
           "id": "https://www.darkreading.com/cloud/cryptojacking-freejacking-compromise-cloud-infrastructure",
           "author": "Robert Lemos, Contributing Writer, Dark Reading",
@@ -4220,6 +4340,16 @@
       "siteUrl": "https://blog.knowbe4.com",
       "articles": [
         {
+          "id": "https://blog.knowbe4.com/stolen-devices-and-phishing",
+          "author": "Stu Sjouwerman",
+          "description": "Researchers at Cyren describe a phishing attack that resulted from the theft of a stolen iPad. The iPad was stolen on a train in Switzerland, and briefly appeared on Apple’s location services in Paris a few days later. The owner assumed the iPad was lost for good, but sent a message to the iPad with her phone number just in case.",
+          "link": "https://blog.knowbe4.com/stolen-devices-and-phishing",
+          "publishedOn": "2022-10-27T14:08:53.000Z",
+          "wordCount": 2181,
+          "title": "Stolen Devices and Phishing",
+          "imageUrl": "https://blog.knowbe4.com/hubfs/stolen%20iPad.jpg#keepProtocol"
+        },
+        {
           "id": "https://blog.knowbe4.com/apply-today-security-awareness-training-eligible-for-185-million-dhs-cybersecurity-grant-opportunity",
           "author": "Stu Sjouwerman",
           "description": "The Department of Homeland Security (DHS) is providing $185 million of grant money this year to U.S. states and territories to bolster their cybersecurity defenses, which includes security awareness training. The program will provide $1 billion over the next four years to help states and territories become more resilient to cyber threats.",
@@ -4796,6 +4926,39 @@
       "feedUrl": "https://thehackernews.com/feeds/posts/default",
       "siteUrl": "https://thehackernews.com/",
       "articles": [
+        {
+          "id": "tag:blogger.com,1999:blog-4802841478634147276.post-47313247379388626",
+          "author": "noreply@blogger.com (Ravie Lakshmanan)",
+          "description": "A 34-year-old U.K. national has been arraigned in the U.S. for operating a dark web marketplace called The Real Deal that specialized in the sales of hacking tools and stolen login credentials.\nDaniel Kaye, who went by a litany of pseudonyms Popopret, Bestbuy, UserL0ser, and Spdrman, has been charged with five counts of access device fraud and one count of money laundering conspiracy.\nKaye was",
+          "link": "https://thehackernews.com/2022/10/british-hacker-charged-for-operating.html",
+          "publishedOn": "2022-10-27T14:36:00.000Z",
+          "wordCount": null,
+          "title": "British Hacker Charged for Operating \"The Real Deal\" Dark Web Marketplace",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "tag:blogger.com,1999:blog-4802841478634147276.post-8701993187552582370",
+          "author": "noreply@blogger.com (Ravie Lakshmanan)",
+          "description": "As many as 85 command-and-control (C2) servers have been discovered supported by the ShadowPad malware since September 2021, with infrastructure detected as recently as October 16, 2022.\nThat's according to VMware's Threat Analysis Unit (TAU), which studied three ShadowPad variants using TCP, UDP, and HTTP(S) protocols for C2 communications.\nShadowPad, seen as a successor to PlugX, is a modular",
+          "link": "https://thehackernews.com/2022/10/researchers-expose-over-80-shadowpad.html",
+          "publishedOn": "2022-10-27T14:19:00.000Z",
+          "wordCount": null,
+          "title": "Researchers Expose Over 80 ShadowPad Malware C2 Servers",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "tag:blogger.com,1999:blog-4802841478634147276.post-1838019079340206981",
+          "author": "noreply@blogger.com (The Hacker News)",
+          "description": "Automobile, Energy, Media, Ransomware?When thinking about verticals, one may not instantly think of cyber-criminality. Yet, every move made by governments, clients, and private contractors screams toward normalizing those menaces as a new vertical.\nRansomware has every trait of the classical economical vertical. A thriving ecosystem of insurers, negotiators, software providers, and managed",
+          "link": "https://thehackernews.com/2022/10/ransomware-open-source-to-rescue.html",
+          "publishedOn": "2022-10-27T13:03:00.000Z",
+          "wordCount": null,
+          "title": "Ransomware: Open Source to the Rescue",
+          "itunes": {},
+          "imageUrl": null
+        },
         {
           "id": "tag:blogger.com,1999:blog-4802841478634147276.post-1601902886231869272",
           "author": "noreply@blogger.com (Ravie Lakshmanan)",
@@ -6190,17 +6353,6 @@
           "publishedOn": "2022-09-28T08:45:00.000Z",
           "wordCount": null,
           "title": "Facebook Shuts Down Covert Political 'Influence Operations' from Russia and China",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "tag:blogger.com,1999:blog-4802841478634147276.post-2377226635221371855",
-          "author": "noreply@blogger.com (Ravie Lakshmanan)",
-          "description": "WhatsApp has released security updates to address two flaws in its messaging app for Android and iOS that could lead to remote code execution on vulnerable devices.\nOne of them concerns CVE-2022-36934 (CVSS score: 9.8), a critical integer overflow vulnerability in WhatsApp that results in the execution of arbitrary code simply by establishing a video call.\nThe issue impacts the WhatsApp and",
-          "link": "https://thehackernews.com/2022/09/critical-whatsapp-bugs-could-have-let.html",
-          "publishedOn": "2022-09-28T05:03:00.000Z",
-          "wordCount": null,
-          "title": "Critical WhatsApp Bugs Could Have Let Attackers Hack Devices Remotely",
           "itunes": {},
           "imageUrl": null
         }
