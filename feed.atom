@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-10-26T19:20:49.344Z</updated>
+    <updated>2022-10-27T03:14:18.243Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Google Chrome Pays $57K (and Counting) in Bug Bounties for Latest Update]]></title>
+        <id>https://www.darkreading.com/vulnerabilities-threats/google-chrome-paid-57k-bug-bounties-update</id>
+        <link href="https://www.darkreading.com/vulnerabilities-threats/google-chrome-paid-57k-bug-bounties-update"/>
+        <updated>2022-10-26T19:45:00.000Z</updated>
+        <summary type="html"><![CDATA[Chrome's Stable Channel 107 rollout includes security fixes from a slew of independent researchers, racking up nearly $60,000 in bounties.]]></summary>
+        <author>
+            <name>Dark Reading Staff, Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GitLab Adds Governance, Software Supply Chain Enhancements]]></title>
+        <id>https://www.darkreading.com/dr-tech/gitlab-adds-governance-software-supply-chain-enhancements</id>
+        <link href="https://www.darkreading.com/dr-tech/gitlab-adds-governance-software-supply-chain-enhancements"/>
+        <updated>2022-10-26T19:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Developers will be able to scan for vulnerabilities in source code, containers, dependencies, and applications in production.]]></summary>
+        <author>
+            <name>Dark Reading Staff, Dark Reading</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[APPLY TODAY] Security Awareness Training Eligible for $185 million DHS Cybersecurity Grant Opportunity]]></title>
         <id>https://blog.knowbe4.com/apply-today-security-awareness-training-eligible-for-185-million-dhs-cybersecurity-grant-opportunity</id>
@@ -5537,217 +5557,6 @@ This product is provided subject to this Notification and this Privacy & Use pol
         <summary type="html"><![CDATA[There are numerous strategies to lessen the possibility and effects of a cyberattack, but doing so takes careful planning and targeted action.]]></summary>
         <author>
             <name>Ben Herzberg, Chief Scientist, Satori</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Adversaries Continue Cyberattacks with Greater Precision and Innovative Attack Methods According to NETSCOUT Report]]></title>
-        <id>https://www.darkreading.com/threat-intelligence/adversaries-continue-cyberattacks-with-greater-precision-and-innovative-attack-methods-according-to-netscout-report</id>
-        <link href="https://www.darkreading.com/threat-intelligence/adversaries-continue-cyberattacks-with-greater-precision-and-innovative-attack-methods-according-to-netscout-report"/>
-        <updated>2022-09-27T15:05:03.000Z</updated>
-        <summary type="html"><![CDATA[TCP-based, DNS water-torture, and carpet-bombing attacks dominate the DDoS threat landscape, while Ireland, India, Taiwan, and Finland are battered by DDoS attacks resulting from the Russia/Ukraine war.]]></summary>
-        <author>
-            <name>Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Netography Upgrades Platform to Provide Scalable, Continuous Network Security and Visibility]]></title>
-        <id>https://www.darkreading.com/perimeter/netography-upgrades-platform-to-provide-scalable-continuous-network-security-and-visibility</id>
-        <link href="https://www.darkreading.com/perimeter/netography-upgrades-platform-to-provide-scalable-continuous-network-security-and-visibility"/>
-        <updated>2022-09-27T14:47:55.000Z</updated>
-        <summary type="html"><![CDATA[Netography Fusion® gives security and cloud operations teams visibility and control of network traffic and context across users, applications, data, and devices.]]></summary>
-        <author>
-            <name>Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SA45476 - Client Side Desync Attack (Informational)]]></title>
-        <id>Client-Side-Desync-Attack</id>
-        <link href="https://kb.pulsesecure.net/articles/Pulse_Security_Advisories/Client-Side-Desync-Attack"/>
-        <updated>2022-09-27T14:43:21.000Z</updated>
-        <summary type="html"><![CDATA[The deprecated Pulse Collaboration feature is vulnerable to Client-Side Desync attacks on versions of PCS 9.1R15 and below.]]></summary>
-        <author>
-            <name>Public KB</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CISA Updates Advisory on Threat Actors Exploiting Multiple CVEs Against Zimbra Collaboration Suite]]></title>
-        <id>18008 at https://us-cert.cisa.gov</id>
-        <link href="https://us-cert.cisa.gov/ncas/current-activity/2022/09/27/cisa-updates-advisory-threat-actors-exploiting-multiple-cves"/>
-        <updated>2022-09-27T14:21:08.000Z</updated>
-        <summary type="html"><![CDATA[Original release date: September 27, 2022
-CISA and the Multi-State Information Sharing & Analysis Center (MS-ISAC) has updated joint Cybersecurity Advisory AA22-228A: Threat Actors Exploiting Multiple CVEs Against Zimbra Collaboration Suite, originally released August 16, 2022. The advisory has been updated to include additional Malware Analysis Reports and indicators of compromise.
-CISA encourages organizations to review the latest update to AA22-228A and apply the recommended mitigations.
-This product is provided subject to this Notification and this Privacy & Use policy.]]></summary>
-        <author>
-            <name>CISA</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[7 Metrics to Measure the Effectiveness of Your Security Operations]]></title>
-        <id>https://www.darkreading.com/attacks-breaches/7-metrics-to-measure-the-effectiveness-of-your-security-operations</id>
-        <link href="https://www.darkreading.com/attacks-breaches/7-metrics-to-measure-the-effectiveness-of-your-security-operations"/>
-        <updated>2022-09-27T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[SOC metrics will allow stakeholders to track the current state of a program and how it's supporting  business objectives.]]></summary>
-        <author>
-            <name>Andrew Hollister, CSO, LogRhythm; VP, LogRhythm Labs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[IaC Scanning: A Fantastic, Overlooked Learning Opportunity]]></title>
-        <id>https://www.darkreading.com/cloud/iac-scanning-a-fantastic-overlooked-learning-opportunity</id>
-        <link href="https://www.darkreading.com/cloud/iac-scanning-a-fantastic-overlooked-learning-opportunity"/>
-        <updated>2022-09-27T13:54:59.000Z</updated>
-        <summary type="html"><![CDATA[Infrastructure as code can help teams build more consistently in the cloud. But who owns it? Are teams getting the insights they need from your IaC security tool?]]></summary>
-        <author>
-            <name>Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ukraine Says Russia Planning Massive Cyberattacks on its Critical Infrastructures]]></title>
-        <id>tag:blogger.com,1999:blog-4802841478634147276.post-643973625586636622</id>
-        <link href="https://thehackernews.com/2022/09/ukraine-says-russia-planning-massive.html"/>
-        <updated>2022-09-27T13:54:00.000Z</updated>
-        <summary type="html"><![CDATA[The Ukrainian government on Monday warned of "massive cyberattacks" by Russia targeting critical infrastructure facilities located in the country and that of its allies.
-The attacks are said to be targeting the energy sector, the Main Directorate of Intelligence of the Ministry of Defense of Ukraine (GUR) said.
-"By the cyberattacks, the enemy will try to increase the effect of missile strikes on]]></summary>
-        <author>
-            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BlackCat/ALPHV Gang Adds Wiper Functionality as Ransomware Tactic]]></title>
-        <id>https://www.darkreading.com/threat-intelligence/blackcat-alphv-gang-wiper-functionality-ransomware-tactic</id>
-        <link href="https://www.darkreading.com/threat-intelligence/blackcat-alphv-gang-wiper-functionality-ransomware-tactic"/>
-        <updated>2022-09-27T13:51:25.000Z</updated>
-        <summary type="html"><![CDATA[Using its "Exmatter" tool to corrupt rather than encrypt files signals a new direction for financially motivated cybercrime activity, researchers say.]]></summary>
-        <author>
-            <name>Elizabeth Montalbano, Contributor, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CyberheistNews Vol 12 #39 [HEADS UP] Bank of America Warns About Recent Scams That Request Zelle Payment Due to 'Suspicious Activity']]></title>
-        <id>https://blog.knowbe4.com/cyberheistnews-vol-12-39-heads-up-bank-of-america-warns-about-recent-scams-that-request-zelle-payment-due-to-suspicious-activity</id>
-        <link href="https://blog.knowbe4.com/cyberheistnews-vol-12-39-heads-up-bank-of-america-warns-about-recent-scams-that-request-zelle-payment-due-to-suspicious-activity"/>
-        <updated>2022-09-27T13:30:00.000Z</updated>
-        <summary type="html"><![CDATA[CyberheistNews Vol 12 #39 [HEADS UP] Bank of America Warns About Recent Scams That Request Zelle Payment Due to 'Suspicious Activity']]></summary>
-        <author>
-            <name>Stu Sjouwerman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New NullMixer Malware Campaign Stealing Users' Payment Data and Credentials]]></title>
-        <id>tag:blogger.com,1999:blog-4802841478634147276.post-1693581833346204347</id>
-        <link href="https://thehackernews.com/2022/09/new-nullmixer-malware-campaign-stealing.html"/>
-        <updated>2022-09-27T13:19:00.000Z</updated>
-        <summary type="html"><![CDATA[Cybercriminals are continuing to prey on users searching for cracked software by directing them to fraudulent websites hosting weaponized installers that deploy malware called NullMixer on compromised systems.
-"When a user extracts and executes NullMixer, it drops a number of malware files to the compromised machine," cybersecurity firm Kaspersky said in a Monday report. "It drops a wide variety]]></summary>
-        <author>
-            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Organizations Finding the Need For New Approaches On the Cybersecurity Front, CompTIA Research Reveals]]></title>
-        <id>https://www.darkreading.com/threat-intelligence/organizations-finding-the-need-for-new-approaches-on-the-cybersecurity-front-comptia-research-reveals</id>
-        <link href="https://www.darkreading.com/threat-intelligence/organizations-finding-the-need-for-new-approaches-on-the-cybersecurity-front-comptia-research-reveals"/>
-        <updated>2022-09-27T13:05:50.000Z</updated>
-        <summary type="html"><![CDATA[Settling for "satisfactory" level of readiness may underestimate growing levels of risk.]]></summary>
-        <author>
-            <name>Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[87% of Organizations Rank Cyberattacks as the Number One Threat to Their Business]]></title>
-        <id>https://blog.knowbe4.com/cyberattacks-number-one-threat-to-business</id>
-        <link href="https://blog.knowbe4.com/cyberattacks-number-one-threat-to-business"/>
-        <updated>2022-09-27T13:00:49.000Z</updated>
-        <summary type="html"><![CDATA[New data sheds a shocking light on just how inexperienced organizations are today in addressing cybersecurity needs – and the impact attacks are having on their business.]]></summary>
-        <author>
-            <name>Stu Sjouwerman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FBI: Cyber Criminals Will Continue Targeting Healthcare Payment Processors Through Phishing Campaigns and Social Engineering]]></title>
-        <id>https://blog.knowbe4.com/cyber-criminals-continue-targeting-healthcare-payment-processors</id>
-        <link href="https://blog.knowbe4.com/cyber-criminals-continue-targeting-healthcare-payment-processors"/>
-        <updated>2022-09-27T13:00:42.000Z</updated>
-        <summary type="html"><![CDATA[Despite the pandemic being largely considered over, a recent Private Industry Notification focused on the Healthcare industry indicates that organizations should remain vigilant.]]></summary>
-        <author>
-            <name>Stu Sjouwerman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fake Emails Purporting to be from UK Energy Regulator]]></title>
-        <id>https://blog.knowbe4.com/fake-emails-purporting-to-be-from-uk-energy-regulator</id>
-        <link href="https://blog.knowbe4.com/fake-emails-purporting-to-be-from-uk-energy-regulator"/>
-        <updated>2022-09-27T13:00:35.000Z</updated>
-        <summary type="html"><![CDATA[A phishing campaign is impersonating UK energy regulator Ofgem, according to Action Fraud, the UK’s cybercrime reporting centre.]]></summary>
-        <author>
-            <name>Stu Sjouwerman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Try the New Compliance Audit Readiness Assessment Today for the HIPAA Security Rule]]></title>
-        <id>https://blog.knowbe4.com/hipaa-compliance-audit-readiness-assessment</id>
-        <link href="https://blog.knowbe4.com/hipaa-compliance-audit-readiness-assessment"/>
-        <updated>2022-09-27T12:44:03.000Z</updated>
-        <summary type="html"><![CDATA[When it's time to complete a compliance audit of your cybersecurity readiness plan, are you thinking, "Ugh, is it that time again?"]]></summary>
-        <author>
-            <name>Stu Sjouwerman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Experts Uncover 85 Apps with 13 Million Downloads Involved in Ad Fraud Scheme]]></title>
-        <id>tag:blogger.com,1999:blog-4802841478634147276.post-2232711168092083879</id>
-        <link href="https://thehackernews.com/2022/09/experts-uncover-85-apps-with-13-million.html"/>
-        <updated>2022-09-27T12:04:00.000Z</updated>
-        <summary type="html"><![CDATA[As many as 75 apps on Google Play and 10 on Apple App Store have been discovered engaging in ad fraud as part of an ongoing campaign that commenced in 2019.
-The latest iteration, dubbed Scylla by Online fraud-prevention firm HUMAN Security, follows similar attack waves in August 2019 and late 2020 that go by the codename Poseidon and Charybdis, respectively.
-Prior to their removal from the app]]></summary>
-        <author>
-            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MITRE Rolls Out FiGHT to Protect 5G Networks]]></title>
-        <id>https://www.darkreading.com/dr-tech/mitre-rolls-out-fight-to-protect-5g-networks</id>
-        <link href="https://www.darkreading.com/dr-tech/mitre-rolls-out-fight-to-protect-5g-networks"/>
-        <updated>2022-09-27T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[MITRE's new FiGHT framework describes adversary tactics and techniques used against 5G systems and networks.]]></summary>
-        <author>
-            <name>Dark Reading Staff, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fake Sites Siphon Millions of Dollars in 3-Year Scam]]></title>
-        <id>https://www.darkreading.com/attacks-breaches/fake-sites-siphon-millions-dollars-3-year-scam</id>
-        <link href="https://www.darkreading.com/attacks-breaches/fake-sites-siphon-millions-dollars-3-year-scam"/>
-        <updated>2022-09-27T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A crime syndicate based in Russia steals millions of dollars from credit card companies using fake dating and porn sites on hundreds of domains to rack up fraudulent charges.]]></summary>
-        <author>
-            <name>Robert Lemos, Contributing Writer, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why Continuous Security Testing is a Must for Organizations Today]]></title>
-        <id>tag:blogger.com,1999:blog-4802841478634147276.post-8809556977034809309</id>
-        <link href="https://thehackernews.com/2022/09/why-continuous-security-testing-is-must.html"/>
-        <updated>2022-09-27T11:39:00.000Z</updated>
-        <summary type="html"><![CDATA[The global cybersecurity market is flourishing. Experts at Gartner predict that the end-user spending for the information security and risk management market will grow from $172.5 billion in 2022 to $267.3 billion in 2026. 
-One big area of spending includes the art of putting cybersecurity defenses under pressure, commonly known as security testing. MarketsandMarkets forecasts the global]]></summary>
-        <author>
-            <name>noreply@blogger.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[North Korea's Lazarus Hackers Targeting macOS Users Interested in Crypto Jobs]]></title>
-        <id>tag:blogger.com,1999:blog-4802841478634147276.post-6452049914565567675</id>
-        <link href="https://thehackernews.com/2022/09/north-koreas-lazarus-hackers-targeting.html"/>
-        <updated>2022-09-27T09:46:00.000Z</updated>
-        <summary type="html"><![CDATA[The infamous Lazarus Group has continued its pattern of leveraging unsolicited job opportunities to deploy malware targeting Apple's macOS operating system.
-In the latest variant of the campaign observed by cybersecurity company SentinelOne last week, decoy documents advertising positions for the Singapore-based cryptocurrency exchange firm Crypto[.]com have been used to mount the attacks.
-The]]></summary>
-        <author>
-            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
         </author>
     </entry>
 </feed>
