@@ -2,10 +2,76 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-10-28T07:22:54.947Z</updated>
+    <updated>2022-10-28T13:54:59.592Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Your KnowBe4 Fresh Content Updates from October 2022]]></title>
+        <id>https://blog.knowbe4.com/knowbe4-fresh-content-updates-october-2022</id>
+        <link href="https://blog.knowbe4.com/knowbe4-fresh-content-updates-october-2022"/>
+        <updated>2022-10-28T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Check out the 29 new pieces of training content added in September, alongside the always fresh content update highlights and new features.]]></summary>
+        <author>
+            <name>Stu Sjouwerman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Researchers Uncover Stealthy Techniques Used by Cranefly Espionage Hackers]]></title>
+        <id>tag:blogger.com,1999:blog-4802841478634147276.post-2276785840864964290</id>
+        <link href="https://thehackernews.com/2022/10/researchers-uncover-stealthy-techniques.html"/>
+        <updated>2022-10-28T11:01:00.000Z</updated>
+        <summary type="html"><![CDATA[A recently discovered hacking group known for targeting employees dealing with corporate transactions has been linked to a new backdoor called Danfuan.
+This hitherto undocumented malware is delivered via another dropper called Geppei, researchers from Symantec, by Broadcom Software, said in a report shared with The Hacker News.
+The dropper "is being used to install a new backdoor and other tools]]></summary>
+        <author>
+            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Implementing Defense in Depth to Prevent and Mitigate Cyber Attacks]]></title>
+        <id>tag:blogger.com,1999:blog-4802841478634147276.post-2014022046389101057</id>
+        <link href="https://thehackernews.com/2022/10/implementing-defense-in-depth-to.html"/>
+        <updated>2022-10-28T10:43:00.000Z</updated>
+        <summary type="html"><![CDATA[The increased use of information technology in our everyday life and business has led to cyber-attacks becoming more sophisticated and large-scale. For organizations to thrive in this era of technology, they must develop robust security strategies to detect and mitigate attacks. Defense in depth is a strategy in which companies use multiple layers of security measures to safeguard assets. A]]></summary>
+        <author>
+            <name>noreply@blogger.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google Issues Urgent Chrome Update to Patch Actively Exploited Zero-Day Vulnerability]]></title>
+        <id>tag:blogger.com,1999:blog-4802841478634147276.post-3833126816640401699</id>
+        <link href="https://thehackernews.com/2022/10/google-issues-urgent-chrome-update-to.html"/>
+        <updated>2022-10-28T10:40:00.000Z</updated>
+        <summary type="html"><![CDATA[Google on Thursday rolled out emergency fixes to contain an actively exploited zero-day flaw in its Chrome web browser.
+The vulnerability, tracked as CVE-2022-3723, has been described as a type confusion flaw in the V8 JavaScript engine.
+Security researchers Jan Vojtěšek, Milánek, and Przemek Gmerek of Avast have been credited with reporting the flaw on October 25, 2022.
+"Google is aware of]]></summary>
+        <author>
+            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Raspberry Robin Operators Selling Cybercriminals Access to Thousands of Endpoints]]></title>
+        <id>tag:blogger.com,1999:blog-4802841478634147276.post-3129712812030401848</id>
+        <link href="https://thehackernews.com/2022/10/raspberry-robin-operators-selling.html"/>
+        <updated>2022-10-28T10:18:00.000Z</updated>
+        <summary type="html"><![CDATA[The Raspberry Robin worm is becoming an access-as-a-service malware for deploying other payloads, including IcedID, Bumblebee, TrueBot (aka Silence), and Clop ransomware.
+It is "part of a complex and interconnected malware ecosystem, with links to other malware families and alternate infection methods beyond its original USB drive spread," the Microsoft Security Threat Intelligence Center (MSTIC]]></summary>
+        <author>
+            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple Launches New Security Research Hub]]></title>
+        <id>https://www.darkreading.com/dr-tech/apple-launches-new-security-research-hub</id>
+        <link href="https://www.darkreading.com/dr-tech/apple-launches-new-security-research-hub"/>
+        <updated>2022-10-28T01:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Apple engineers share technical details about the team's work on memory safety features on the new Apple Security Research site.]]></summary>
+        <author>
+            <name>Dark Reading Staff, Dark Reading</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[iOS Bug Lets Apps Record Siri Conversations]]></title>
         <id>https://www.darkreading.com/mobile/ios-bug-apps-record-siri-conversations</id>
@@ -5478,96 +5544,6 @@ Leaked details include usernames, email addresses, password hashes, mobile numbe
 "Key activities are data leaking and selling, including officials' phone numbers and emails, and maps of sensitive locations," Israeli cybersecurity firm Check Point said in]]></summary>
         <author>
             <name>noreply@blogger.com (Ravie Lakshmanan)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fake Accounts Are Not Your Friends!]]></title>
-        <id>https://www.darkreading.com/edge-articles/fake-accounts-are-not-your-friends-</id>
-        <link href="https://www.darkreading.com/edge-articles/fake-accounts-are-not-your-friends-"/>
-        <updated>2022-09-28T22:21:00.000Z</updated>
-        <summary type="html"><![CDATA[Inflated user bases and fake engagement cause more harm than good, especially when the artificial accounts are based on stolen human identities.]]></summary>
-        <author>
-            <name>Jonathan Care, Contributing Writer, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Plug Your Data Leaks: Integrating Data Loss Prevention into Your Security Stack]]></title>
-        <id>https://www.darkreading.com/cloud/plug-your-data-leaks-integrating-data-loss-prevention-into-your-security-stack</id>
-        <link href="https://www.darkreading.com/cloud/plug-your-data-leaks-integrating-data-loss-prevention-into-your-security-stack"/>
-        <updated>2022-09-28T21:33:20.000Z</updated>
-        <summary type="html"><![CDATA[The average cost of a data-exposing cybersecurity incident is $4.35 million. If your business can’t avoid to pay, make sure you’ve got a strong data loss prevention practice in place.]]></summary>
-        <author>
-            <name>Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google Quashes 5 High-Severity Bugs With Chrome 106 Update]]></title>
-        <id>https://www.darkreading.com/application-security/google-5-high-severity-bugs-chrome-106-update</id>
-        <link href="https://www.darkreading.com/application-security/google-5-high-severity-bugs-chrome-106-update"/>
-        <updated>2022-09-28T21:24:20.000Z</updated>
-        <summary type="html"><![CDATA[External researchers contributed 16 of the 20 security updates included in the new Chrome 106 Stable Channel rollout, including five high-severity bugs.]]></summary>
-        <author>
-            <name>Dark Reading Staff, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sophisticated Covert Cyberattack Campaign Targets Military Contractors]]></title>
-        <id>https://www.darkreading.com/attacks-breaches/sophisticated-cyberattack-campaign-targets-defense-contractors</id>
-        <link href="https://www.darkreading.com/attacks-breaches/sophisticated-cyberattack-campaign-targets-defense-contractors"/>
-        <updated>2022-09-28T20:59:09.000Z</updated>
-        <summary type="html"><![CDATA[Malware used in the STEEP#MAVERICK campaign features rarely seen obfuscation, anti-analysis, and evasion capabilities.]]></summary>
-        <author>
-            <name>Jai Vijayan, Contributing Writer, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fast Company CMS Hack Raises Security Questions]]></title>
-        <id>https://www.darkreading.com/attacks-breaches/fast-company-cms-hack-raises-security-questions</id>
-        <link href="https://www.darkreading.com/attacks-breaches/fast-company-cms-hack-raises-security-questions"/>
-        <updated>2022-09-28T20:12:30.000Z</updated>
-        <summary type="html"><![CDATA[The company's website remains offline after hackers used its compromised CMS to send out racist messages.]]></summary>
-        <author>
-            <name>Tara Seals, Managing Editor, News, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Container Supply Chain Attacks Cash In on Cryptojacking]]></title>
-        <id>https://www.darkreading.com/attacks-breaches/container-supply-chain-attacks-cashing-in-on-cryptojacking</id>
-        <link href="https://www.darkreading.com/attacks-breaches/container-supply-chain-attacks-cashing-in-on-cryptojacking"/>
-        <updated>2022-09-28T19:57:25.000Z</updated>
-        <summary type="html"><![CDATA[Cloud-native threats are costing cloud customer victims money as cryptojackers mine their vulnerable cloud instances.]]></summary>
-        <author>
-            <name>Ericka Chickowski, Contributing Writer, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Master Class on Cybersecurity: Roger Grimes Teaches Password Best Practices]]></title>
-        <id>https://blog.knowbe4.com/roger-grimes-password-best-practices-master-class</id>
-        <link href="https://blog.knowbe4.com/roger-grimes-password-best-practices-master-class"/>
-        <updated>2022-09-28T19:51:33.000Z</updated>
-        <summary type="html"><![CDATA[What really makes a “strong” password? And why are you and your end-users continually tortured by them? How do hackers crack your passwords with ease? And what can/should you do to improve your organization’s authentication methods?]]></summary>
-        <author>
-            <name>Stu Sjouwerman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google Cloud DORA: Securing the Supply Chain Begins With Culture]]></title>
-        <id>https://www.darkreading.com/application-security/google-cloud-securing-supply-chain-culture</id>
-        <link href="https://www.darkreading.com/application-security/google-cloud-securing-supply-chain-culture"/>
-        <updated>2022-09-28T19:47:00.000Z</updated>
-        <summary type="html"><![CDATA[The team's annual survey finds that the right development culture is better than technical measures when it comes to shoring up software supply chain security practices. An additional benefit: Less burnout.]]></summary>
-        <author>
-            <name>Robert Lemos, Contributing Writer, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Phishing Attacks Crushed Records Last Quarter, Driven by Mobile]]></title>
-        <id>https://www.darkreading.com/attacks-breaches/phishing-attacks-crushed-records-last-quarter</id>
-        <link href="https://www.darkreading.com/attacks-breaches/phishing-attacks-crushed-records-last-quarter"/>
-        <updated>2022-09-28T19:42:20.000Z</updated>
-        <summary type="html"><![CDATA[Shocking phishing numbers (more than 1 million in a single quarter) are being driven by vishing, smishing, and other lures that target mobile devices.]]></summary>
-        <author>
-            <name>Dark Reading Staff, Dark Reading</name>
         </author>
     </entry>
 </feed>
