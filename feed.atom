@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-10-28T03:21:03.427Z</updated>
+    <updated>2022-10-28T07:22:54.947Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
@@ -988,6 +988,16 @@ Successful exploitation of]]></summary>
         <link href="https://blog.knowbe4.com/uk-outsourcer-multi-million-dollar-phishing-attack-fine"/>
         <updated>2022-10-24T17:58:54.000Z</updated>
         <summary type="html"><![CDATA[Britain's data watchdog has fined major construction group Interserve with a £4.4m fine. This was due to a cyber attack stole personal and financial details for over 113,000 employees and the company failed to stop the attack.]]></summary>
+        <author>
+            <name>Stu Sjouwerman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Live Demo] Ridiculously Easy Security Awareness Training and Phishing]]></title>
+        <id>https://blog.knowbe4.com/live-demo-security-awareness-training-and-phishing</id>
+        <link href="https://blog.knowbe4.com/live-demo-security-awareness-training-and-phishing"/>
+        <updated>2022-10-24T17:42:36.000Z</updated>
+        <summary type="html"><![CDATA[Old-school awareness training does not hack it anymore. Your email filters have an average 7-10% failure rate; you need a strong human firewall as your last line of defense.]]></summary>
         <author>
             <name>Stu Sjouwerman</name>
         </author>
@@ -5558,26 +5568,6 @@ Leaked details include usernames, email addresses, password hashes, mobile numbe
         <summary type="html"><![CDATA[Shocking phishing numbers (more than 1 million in a single quarter) are being driven by vishing, smishing, and other lures that target mobile devices.]]></summary>
         <author>
             <name>Dark Reading Staff, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Countdown to DORA]]></title>
-        <id>https://www.darkreading.com/risk/the-countdown-to-dora</id>
-        <link href="https://www.darkreading.com/risk/the-countdown-to-dora"/>
-        <updated>2022-09-28T17:00:00.000Z</updated>
-        <summary type="html"><![CDATA[With provisional agreement reached on the Digital Operational Resilience Act, the clock is now ticking for banks and information and communications technology (ICT) services companies with European operations. Here's what you need to know.]]></summary>
-        <author>
-            <name>Ilias Chantzos, Global Privacy Officer and Head of EMEA Government Affairs, Broadcom</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chaos Malware Resurfaces With All-New DDoS & Cryptomining Modules]]></title>
-        <id>https://www.darkreading.com/attacks-breaches/chaos-malware-resurfaces-go-based-ddos-cryptomining-threat</id>
-        <link href="https://www.darkreading.com/attacks-breaches/chaos-malware-resurfaces-go-based-ddos-cryptomining-threat"/>
-        <updated>2022-09-28T16:12:09.000Z</updated>
-        <summary type="html"><![CDATA[The previously identified ransomware builder has veered in an entirely new direction, targeting consumers and business of all sizes by exploiting known CVEs through brute-forced and/or stolen SSH keys.]]></summary>
-        <author>
-            <name>Elizabeth Montalbano, Contributor, Dark Reading</name>
         </author>
     </entry>
 </feed>
