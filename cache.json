@@ -3969,16 +3969,6 @@
           "wordCount": 1715,
           "title": "Untitled",
           "imageUrl": null
-        },
-        {
-          "id": "https://msrc-blog.microsoft.com/?p=14710",
-          "author": "msrc",
-          "description": "Summary Microsoft is investigating two reported zero-day vulnerabilities affecting Microsoft Exchange Server 2013, 2016, and 2019. The first vulnerability, identified as CVE-2022-41040, is a Server-Side Request Forgery (SSRF) vulnerability, while the second, identified as CVE-2022-41082, allows remote code execution (RCE) when PowerShell is accessible to the attacker.   At this time, Microsoft is aware of limited …\n  Customer Guidance for Reported Zero-day Vulnerabilities in Microsoft Exchange Server Read More »",
-          "link": "https://msrc-blog.microsoft.com/2022/09/29/customer-guidance-for-reported-zero-day-vulnerabilities-in-microsoft-exchange-server/",
-          "publishedOn": "2022-09-30T06:55:00.000Z",
-          "wordCount": 2098,
-          "title": "Customer Guidance for Reported Zero-day Vulnerabilities in Microsoft Exchange Server",
-          "imageUrl": null
         }
       ]
     },
@@ -5995,17 +5985,6 @@
           "publishedOn": "2022-09-30T09:01:00.000Z",
           "wordCount": null,
           "title": "Microsoft Confirms 2 New Exchange Zero-Day Flaws Being Used in the Wild",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "tag:blogger.com,1999:blog-4802841478634147276.post-3581396058921583483",
-          "author": "noreply@blogger.com (Ravie Lakshmanan)",
-          "description": "Security researchers are warning of previously undisclosed flaws in fully patched Microsoft Exchange servers being exploited by malicious actors in real-world attacks to achieve remote code execution on affected systems.\nThat's according to Vietnamese cybersecurity company GTSC, which discovered the shortcomings as part of its security monitoring and incident response efforts in August 2022.\nThe",
-          "link": "https://thehackernews.com/2022/09/warning-new-unpatched-microsoft.html",
-          "publishedOn": "2022-09-30T04:25:00.000Z",
-          "wordCount": null,
-          "title": "WARNING: New Unpatched Microsoft Exchange Zero-Day Under Active Exploitation",
           "itunes": {},
           "imageUrl": null
         }

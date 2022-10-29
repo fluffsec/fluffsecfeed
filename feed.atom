@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-10-29T13:36:10.746Z</updated>
+    <updated>2022-10-29T19:19:53.530Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
@@ -5401,29 +5401,6 @@ Microsoft's threat intelligence teams, alongside LinkedIn Threat Prevention and 
         <updated>2022-09-30T09:01:00.000Z</updated>
         <summary type="html"><![CDATA[Microsoft officially disclosed it investigating two zero-day security vulnerabilities impacting Exchange Server 2013, 2016, and 2019 following reports of in-the-wild exploitation.
 "The first vulnerability, identified as CVE-2022-41040, is a Server-Side Request Forgery (SSRF) vulnerability, while the second, identified as CVE-2022-41082, allows remote code execution (RCE) when PowerShell is]]></summary>
-        <author>
-            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Customer Guidance for Reported Zero-day Vulnerabilities in Microsoft Exchange Server]]></title>
-        <id>https://msrc-blog.microsoft.com/?p=14710</id>
-        <link href="https://msrc-blog.microsoft.com/2022/09/29/customer-guidance-for-reported-zero-day-vulnerabilities-in-microsoft-exchange-server/"/>
-        <updated>2022-09-30T06:55:00.000Z</updated>
-        <summary type="html"><![CDATA[Summary Microsoft is investigating two reported zero-day vulnerabilities affecting Microsoft Exchange Server 2013, 2016, and 2019. The first vulnerability, identified as CVE-2022-41040, is a Server-Side Request Forgery (SSRF) vulnerability, while the second, identified as CVE-2022-41082, allows remote code execution (RCE) when PowerShell is accessible to the attacker.   At this time, Microsoft is aware of limited …
-  Customer Guidance for Reported Zero-day Vulnerabilities in Microsoft Exchange Server Read More »]]></summary>
-        <author>
-            <name>msrc</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WARNING: New Unpatched Microsoft Exchange Zero-Day Under Active Exploitation]]></title>
-        <id>tag:blogger.com,1999:blog-4802841478634147276.post-3581396058921583483</id>
-        <link href="https://thehackernews.com/2022/09/warning-new-unpatched-microsoft.html"/>
-        <updated>2022-09-30T04:25:00.000Z</updated>
-        <summary type="html"><![CDATA[Security researchers are warning of previously undisclosed flaws in fully patched Microsoft Exchange servers being exploited by malicious actors in real-world attacks to achieve remote code execution on affected systems.
-That's according to Vietnamese cybersecurity company GTSC, which discovered the shortcomings as part of its security monitoring and incident response efforts in August 2022.
-The]]></summary>
         <author>
             <name>noreply@blogger.com (Ravie Lakshmanan)</name>
         </author>
