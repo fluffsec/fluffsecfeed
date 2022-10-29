@@ -441,26 +441,6 @@
           "wordCount": 957,
           "title": "VMWare Releases Guidance for VirtualPITA, VirtualPIE, and VirtualGATE Malware Targeting vSphere",
           "imageUrl": null
-        },
-        {
-          "id": "18015 at https://us-cert.cisa.gov",
-          "author": "CISA",
-          "description": "Original release date: September 29, 2022\nCISA has released six (6) Industrial Control Systems (ICS) advisories on September 29, 2022. These advisories provide timely information about current security issues, vulnerabilities, and exploits surrounding ICS. \nCISA encourages users and administrators to review the newly released ICS advisory for technical details and mitigations: \nICSA-22-272-01 Hitachi Energy MicroSCADA Pro X SYS600\nICSA-22-272-02 Hitachi Energy MicroSCADA Pro X SYS600\nICSMA-22-251-01 Baxter Sigma Spectrum Infusion Pump (Update A)  \nICSA-22-235-01 ARC Informatique PcVue (Update A)  \nICSA-22-244-01 Delta Electronics DOPSoft (Update A)  \nICSA-21-182-03 Delta Electronics DOPSoft (Update B) \nThis product is provided subject to this Notification and this Privacy & Use policy.",
-          "link": "https://us-cert.cisa.gov/ncas/current-activity/2022/09/29/cisa-releases-six-industrial-control-systems-advisories",
-          "publishedOn": "2022-09-29T16:52:49.000Z",
-          "wordCount": 931,
-          "title": "CISA Releases Six Industrial Control Systems Advisories",
-          "imageUrl": null
-        },
-        {
-          "id": "18021 at https://us-cert.cisa.gov",
-          "author": "CISA",
-          "description": "Original release date: September 29, 2022\nCISA has published its Traffic Light Protocol 2.0 User Guide and Traffic Light Protocol: Moving to Version 2.0 fact sheet in preparation for its November 1, 2022 move from Traffic Light Protocol (TLP) Version 1.0 to TLP 2.0.\nManaged by the Forum of Incident Response and Security Teams (FIRST), TLP is a system of markings that communicates information sharing permissions. According to FIRST, the purpose of TLP is \"to facilitate greater sharing of potentially sensitive information and more effective collaboration.\" Note: Unlike formal classification systems, TLP is not legally binding.\nTLP Version 2.0 brings the following key updates:\nTLP:CLEAR replaces TLP:WHITE for publicly releasable information.\nTLP:AMBER+STRICT supplements TLP:AMBER, clarifying when information may be shared with the recipient’s organization only.\nNote: CISA’s Automated Indicator Sharing (AIS) capability will not update from TLP 1.0 to TLP 2.0 until March 2023. This exception includes AIS’s use of the following open standards: the Structured Threat Information Expression (STIX™) for cyber threat indicators and defensive measures information and the Trusted Automated Exchange of Intelligence Information (TAXII™) for machine-to-machine communications.\nAs CISA prepares to implement this update, we want to inform partners of the upcoming change and encourage all network defenders to adopt TLP Version 2.0 to facilitate greater information sharing and collaboration.\nFor more information on TLP, visit FIRST’s TLP webpage at www.first.org/tlp/. On November 1, 2022, CISA will update www.cisa.gov/tlp to reflect the TLP Version 2.0 changes.\n \nThis product is provided subject to this Notification and this Privacy & Use policy.",
-          "link": "https://us-cert.cisa.gov/ncas/current-activity/2022/09/29/cisa-publishes-user-guide-prepare-nov-1-move-tlp-20",
-          "publishedOn": "2022-09-29T16:15:33.000Z",
-          "wordCount": 1097,
-          "title": "CISA Publishes User Guide to Prepare for Nov. 1 Move to TLP 2.0",
-          "imageUrl": null
         }
       ]
     },
@@ -4068,21 +4048,6 @@
             "length": "0"
           },
           "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt02d79fb9a44a4258/60b1e9dd2a25046b35110696/Jai-Vijayan.jpeg"
-        },
-        {
-          "id": "https://www.darkreading.com/edge-articles/3-reasons-why-bec-scams-work-in-real-estate-and-how-to-fight-back",
-          "author": "Kolawole Samuel Adebayo, Contributing Writer",
-          "description": "Identity verification could be the key to fighting back and building trust in an industry beset with high-stakes fraud.",
-          "link": "https://www.darkreading.com/edge-articles/3-reasons-why-bec-scams-work-in-real-estate-and-how-to-fight-back",
-          "publishedOn": "2022-09-29T18:33:01.000Z",
-          "wordCount": 13508,
-          "title": "3 Reasons Why BEC Scams Work in Real Estate",
-          "enclosure": {
-            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt0e633cacbfbbf0c2/6305337a9b7ae964b1821d09/kolawole-samuel-adebayo.jpg",
-            "type": "image/*",
-            "length": "0"
-          },
-          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt0e633cacbfbbf0c2/6305337a9b7ae964b1821d09/kolawole-samuel-adebayo.jpg"
         }
       ]
     },

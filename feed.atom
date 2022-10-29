@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-10-29T03:08:25.921Z</updated>
+    <updated>2022-10-29T07:23:05.324Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
@@ -5581,55 +5581,6 @@ This product is provided subject to this Notification and this Privacy & Use pol
         <summary type="html"><![CDATA[China-based threat actor used poisoned vSphere Installation Bundles to deliver multiple backdoors on systems, security vendor says.]]></summary>
         <author>
             <name>Jai Vijayan, Contributing Writer, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[3 Reasons Why BEC Scams Work in Real Estate]]></title>
-        <id>https://www.darkreading.com/edge-articles/3-reasons-why-bec-scams-work-in-real-estate-and-how-to-fight-back</id>
-        <link href="https://www.darkreading.com/edge-articles/3-reasons-why-bec-scams-work-in-real-estate-and-how-to-fight-back"/>
-        <updated>2022-09-29T18:33:01.000Z</updated>
-        <summary type="html"><![CDATA[Identity verification could be the key to fighting back and building trust in an industry beset with high-stakes fraud.]]></summary>
-        <author>
-            <name>Kolawole Samuel Adebayo, Contributing Writer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CISA Releases Six Industrial Control Systems Advisories]]></title>
-        <id>18015 at https://us-cert.cisa.gov</id>
-        <link href="https://us-cert.cisa.gov/ncas/current-activity/2022/09/29/cisa-releases-six-industrial-control-systems-advisories"/>
-        <updated>2022-09-29T16:52:49.000Z</updated>
-        <summary type="html"><![CDATA[Original release date: September 29, 2022
-CISA has released six (6) Industrial Control Systems (ICS) advisories on September 29, 2022. These advisories provide timely information about current security issues, vulnerabilities, and exploits surrounding ICS. 
-CISA encourages users and administrators to review the newly released ICS advisory for technical details and mitigations: 
-ICSA-22-272-01 Hitachi Energy MicroSCADA Pro X SYS600
-ICSA-22-272-02 Hitachi Energy MicroSCADA Pro X SYS600
-ICSMA-22-251-01 Baxter Sigma Spectrum Infusion Pump (Update A)  
-ICSA-22-235-01 ARC Informatique PcVue (Update A)  
-ICSA-22-244-01 Delta Electronics DOPSoft (Update A)  
-ICSA-21-182-03 Delta Electronics DOPSoft (Update B) 
-This product is provided subject to this Notification and this Privacy & Use policy.]]></summary>
-        <author>
-            <name>CISA</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CISA Publishes User Guide to Prepare for Nov. 1 Move to TLP 2.0]]></title>
-        <id>18021 at https://us-cert.cisa.gov</id>
-        <link href="https://us-cert.cisa.gov/ncas/current-activity/2022/09/29/cisa-publishes-user-guide-prepare-nov-1-move-tlp-20"/>
-        <updated>2022-09-29T16:15:33.000Z</updated>
-        <summary type="html"><![CDATA[Original release date: September 29, 2022
-CISA has published its Traffic Light Protocol 2.0 User Guide and Traffic Light Protocol: Moving to Version 2.0 fact sheet in preparation for its November 1, 2022 move from Traffic Light Protocol (TLP) Version 1.0 to TLP 2.0.
-Managed by the Forum of Incident Response and Security Teams (FIRST), TLP is a system of markings that communicates information sharing permissions. According to FIRST, the purpose of TLP is "to facilitate greater sharing of potentially sensitive information and more effective collaboration." Note: Unlike formal classification systems, TLP is not legally binding.
-TLP Version 2.0 brings the following key updates:
-TLP:CLEAR replaces TLP:WHITE for publicly releasable information.
-TLP:AMBER+STRICT supplements TLP:AMBER, clarifying when information may be shared with the recipient’s organization only.
-Note: CISA’s Automated Indicator Sharing (AIS) capability will not update from TLP 1.0 to TLP 2.0 until March 2023. This exception includes AIS’s use of the following open standards: the Structured Threat Information Expression (STIX™) for cyber threat indicators and defensive measures information and the Trusted Automated Exchange of Intelligence Information (TAXII™) for machine-to-machine communications.
-As CISA prepares to implement this update, we want to inform partners of the upcoming change and encourage all network defenders to adopt TLP Version 2.0 to facilitate greater information sharing and collaboration.
-For more information on TLP, visit FIRST’s TLP webpage at www.first.org/tlp/. On November 1, 2022, CISA will update www.cisa.gov/tlp to reflect the TLP Version 2.0 changes.
- 
-This product is provided subject to this Notification and this Privacy & Use policy.]]></summary>
-        <author>
-            <name>CISA</name>
         </author>
     </entry>
 </feed>
