@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-10-30T07:23:03.614Z</updated>
+    <updated>2022-10-30T13:37:26.551Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
@@ -5110,16 +5110,6 @@ Tracked as CVE-2022-36804, the issue relates to a command injection vulnerabili
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Worried About the Exchange Zero-Day? Here's What to Do]]></title>
-        <id>https://www.darkreading.com/dr-tech/worried-about-the-exchange-0day-here-s-what-to-do</id>
-        <link href="https://www.darkreading.com/dr-tech/worried-about-the-exchange-0day-here-s-what-to-do"/>
-        <updated>2022-09-30T22:14:00.000Z</updated>
-        <summary type="html"><![CDATA[While organizations wait for an official patch for the two zero-day flaws in Microsoft Exchange, they should scan their networks for signs of exploitation and apply these mitigations.]]></summary>
-        <author>
-            <name>Dark Reading Staff, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Threat Advisory: Microsoft warns of actively exploited vulnerabilities in Exchange Server]]></title>
         <id>https://blog.talosintelligence.com/2022/09/threat-advisory-exchange-server-vulns.html</id>
         <link href="https://blog.talosintelligence.com/2022/09/threat-advisory-exchange-server-vulns.html"/>
@@ -5128,37 +5118,6 @@ Tracked as CVE-2022-36804, the issue relates to a command injection vulnerabili
 While no fixes or patches are available yet, Microsoft has provided mitigations for on-premises Microsoft Exchange users on Sept. 29, 2022. Even organizations that use Exchange Online may still be affected if they run a hybri…]]></summary>
         <author>
             <name>Cisco Talos Intelligence Group - Comprehensive Threat Intelligence</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LA School District Ransomware Attackers Now Threaten to Leak Stolen Data]]></title>
-        <id>https://www.darkreading.com/attacks-breaches/la-school-district-ransomware-attackers-leak-stolen-data</id>
-        <link href="https://www.darkreading.com/attacks-breaches/la-school-district-ransomware-attackers-leak-stolen-data"/>
-        <updated>2022-09-30T20:31:00.000Z</updated>
-        <summary type="html"><![CDATA[Weeks after it breached the Los Angeles Unified School District, the Vice Society ransomware group is threatening to leak the stolen data, unless they get paid.]]></summary>
-        <author>
-            <name>Becky Bracken, Editor, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Threat Actors Targeting Microsoft Exchange Instances That Have No Patch Available]]></title>
-        <id>https://fieldeffect.com/?post_type=threats&amp;p=6595</id>
-        <link href="https://fieldeffect.com/threats/threat-actors-targeting-microsoft-exchange-instances-that-have-no-patch-available/"/>
-        <updated>2022-09-30T20:01:57.000Z</updated>
-        <summary type="html"><![CDATA[On 29 September 2022, Microsoft published an advisory providing a workaround for two unpatched flaws in Microsoft Exchange Server 2013, 2016, and 2019 that are being exploited in the wild in “limited targeted attacks”. We recommend following the mitigation steps below to validate whether your software or devices are affected by this vulnerability, and to […]
-The post Threat Actors Targeting Microsoft Exchange Instances That Have No Patch Available appeared first on Field Effect Software Inc.]]></summary>
-        <author>
-            <name>Elena Lapina</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Top 4 Mistakes in Security Programs to Avoid]]></title>
-        <id>https://www.darkreading.com/microsoft/the-top-4-mistakes-in-security-programs-to-avoid</id>
-        <link href="https://www.darkreading.com/microsoft/the-top-4-mistakes-in-security-programs-to-avoid"/>
-        <updated>2022-09-30T20:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Overlooking even just a single security threat can severely erode a company’s community and consumer confidence, tarnish reputation and brand, negatively impact corporate valuations, provide competitors with an advantage, and create unwanted scrutiny.]]></summary>
-        <author>
-            <name>Chris Kirk, Principal Cybersecurity Consultant, Microsoft</name>
         </author>
     </entry>
 </feed>
