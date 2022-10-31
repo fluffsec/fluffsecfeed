@@ -2,10 +2,64 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-10-31T07:24:45.251Z</updated>
+    <updated>2022-10-31T13:56:50.016Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Tips for Choosing a Pentesting Company]]></title>
+        <id>tag:blogger.com,1999:blog-4802841478634147276.post-5729001580519990710</id>
+        <link href="https://thehackernews.com/2022/10/tips-for-choosing-pentesting-company.html"/>
+        <updated>2022-10-31T13:50:00.000Z</updated>
+        <summary type="html"><![CDATA[In today's world of automated hacking systems, frequent data breaches and consumer protection regulations such as GDPR and PCI DSS, penetration testing is now an essential security requirement for organisations of all sizes. But what should you look for when choosing the right provider?
+The sheer number of providers can be daunting, and finding one which can deliver a high-quality test at a]]></summary>
+        <author>
+            <name>noreply@blogger.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Synack Expands Security Platform With Adversarial API Pentesting]]></title>
+        <id>https://www.darkreading.com/application-security/synack-expands-security-platform-with-adversarial-api-pentesting</id>
+        <link href="https://www.darkreading.com/application-security/synack-expands-security-platform-with-adversarial-api-pentesting"/>
+        <updated>2022-10-31T13:22:29.000Z</updated>
+        <summary type="html"><![CDATA[Security researchers will handle testing on "headless" API endpoints that lack a user interface and are increasingly exposed to attackers.]]></summary>
+        <author>
+            <name>Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Unofficial Patch Released for New Actively Exploited Windows MotW Vulnerability]]></title>
+        <id>tag:blogger.com,1999:blog-4802841478634147276.post-8384395017638657683</id>
+        <link href="https://thehackernews.com/2022/10/unofficial-patch-released-for-new.html"/>
+        <updated>2022-10-31T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[An unofficial patch has been made available for an actively exploited security flaw in Microsoft Windows that makes it possible for files signed with malformed signatures to sneak past Mark-of-the-Web (MotW) protections.
+The fix, released by 0patch, arrives weeks after HP Wolf Security disclosed a Magniber ransomware campaign that targets users with fake security updates which employ a]]></summary>
+        <author>
+            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Samsung Galaxy Store Bug Could've Let Hackers Secretly Install Apps on Targeted Devices]]></title>
+        <id>tag:blogger.com,1999:blog-4802841478634147276.post-3896722068130871511</id>
+        <link href="https://thehackernews.com/2022/10/samsung-galaxy-store-bug-couldve-let.html"/>
+        <updated>2022-10-31T10:25:00.000Z</updated>
+        <summary type="html"><![CDATA[A now-patched security flaw has been disclosed in the Galaxy Store app for Samsung devices that could potentially trigger remote command execution on affected phones.
+The vulnerability, which affects Galaxy Store version 4.5.32.4, relates to a cross-site scripting (XSS) bug that occurs when handling certain deep links. An independent security researcher has been credited with reporting the issue]]></summary>
+        <author>
+            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GitHub Repojacking Bug Could've Allowed Attackers to Takeover Other Users' Repositories]]></title>
+        <id>tag:blogger.com,1999:blog-4802841478634147276.post-8816624120959668822</id>
+        <link href="https://thehackernews.com/2022/10/github-repojacking-bug-couldve-allowed.html"/>
+        <updated>2022-10-31T09:17:00.000Z</updated>
+        <summary type="html"><![CDATA[Cloud-based repository hosting service GitHub has addressed a high-severity security flaw that could have been exploited to create malicious repositories and mount supply chain attacks.
+The RepoJacking technique, disclosed by Checkmarx, entails a bypass of a protection mechanism called popular repository namespace retirement, which aims to prevent developers from pulling unsafe repositories with]]></summary>
+        <author>
+            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[EYE OPENER] Phishing Attacks 61% Up Over 2021. A Whopping 255 Million Attacks This Year So Far]]></title>
         <id>https://blog.knowbe4.com/eye-opener-phishing-attacks-61-up-over-2021.-a-whopping-255-million-attacks-this-year-so-far</id>
