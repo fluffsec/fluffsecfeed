@@ -43,6 +43,16 @@
       "siteUrl": "https://us-cert.cisa.gov/",
       "articles": [
         {
+          "id": "18116 at https://us-cert.cisa.gov",
+          "author": "CISA",
+          "description": "Original release date: October 31, 2022\nCISA has released two fact sheets to highlight threats against accounts and systems using certain forms of multifactor authentication (MFA). CISA strongly urges all organizations to implement phishing-resistant MFA to protect against phishing and other known cyber threats. If an organization using mobile push-notification-based MFA is unable to implement phishing-resistant MFA, CISA recommends using number matching to mitigate MFA fatigue. Although number matching is not as strong as phishing-resistant MFA, it is one of best interim mitigation for organizations who may not immediately be able to implement phishing-resistant MFA.  \nCISA recommends users and organizations see CISA fact sheets Implementing Phishing-Resistant MFA and Implementing Number Matching in MFA Applications. Visit CISA.gov/MFA for more information on MFA, including an infographic of the hierarchy of MFA options.\nThis product is provided subject to this Notification and this Privacy & Use policy.",
+          "link": "https://us-cert.cisa.gov/ncas/current-activity/2022/10/31/cisa-releases-guidance-phishing-resistant-and-numbers-matching",
+          "publishedOn": "2022-10-31T13:43:30.000Z",
+          "wordCount": 973,
+          "title": "CISA Releases Guidance on Phishing-Resistant and Numbers Matching Multifactor Authentication",
+          "imageUrl": null
+        },
+        {
           "id": "18113 at https://us-cert.cisa.gov",
           "author": "CISA",
           "description": "Original release date: October 28, 2022\nCISA has added one new vulnerability to its Known Exploited Vulnerabilities Catalog, based on evidence of active exploitation. This type of vulnerability is a frequent attack vector for malicious cyber actors and pose significant risk to the federal enterprise. Note: To view the newly added vulnerabilities in the catalog, click on the arrow in the \"Date Added to Catalog\" column, which will sort by descending dates.\nBinding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the Known Exploited Vulnerabilities Catalog as a living list of known CVEs that carry significant risk to the federal enterprise. BOD 22-01 requires FCEB agencies to remediate identified vulnerabilities by the due date to protect FCEB networks against active threats. See the BOD 22-01 Fact Sheet for more information.\nAlthough BOD 22-01 only applies to FCEB agencies, CISA strongly urges all organizations to reduce their exposure to cyberattacks by prioritizing timely remediation of Catalog vulnerabilities as part of their vulnerability management practice. CISA will continue to add vulnerabilities to the Catalog that meet the specified criteria.\nThis product is provided subject to this Notification and this Privacy & Use policy.",
@@ -409,6 +419,116 @@
       "feedUrl": "https://www.darkreading.com/rss.xml",
       "siteUrl": "https://www.darkreading.com",
       "articles": [
+        {
+          "id": "https://www.darkreading.com/edge-ask-the-experts/why-are-zombie-apis-and-shadow-apis-so-scary-",
+          "author": "Nick Rago, Field CTO, Salt Security",
+          "description": "A lax API governance strategy can lead to abandoned or overlooked APIs that open up organizations to security threats.",
+          "link": "https://www.darkreading.com/edge-ask-the-experts/why-are-zombie-apis-and-shadow-apis-so-scary-",
+          "publishedOn": "2022-10-31T19:00:00.000Z",
+          "wordCount": 12596,
+          "title": "Why Are Zombie APIs and Shadow APIs So Scary?",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltdad682c01eae23de/636011da398c0e01578a5d1f/Nick_Rago_-salt_new_headshot.png",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltdad682c01eae23de/636011da398c0e01578a5d1f/Nick_Rago_-salt_new_headshot.png"
+        },
+        {
+          "id": "https://www.darkreading.com/ics-ot/cyberattack-strikes-global-copper-conglomerate",
+          "author": "Dark Reading Staff, Dark Reading",
+          "description": "Now mostly recovered, Aurubis said the breach was part of a broader campaign against the metals and mining industry.",
+          "link": "https://www.darkreading.com/ics-ot/cyberattack-strikes-global-copper-conglomerate",
+          "publishedOn": "2022-10-31T19:00:00.000Z",
+          "wordCount": 10850,
+          "title": "Cyberattack Strikes Global Copper Conglomerate",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blte161b23f0fd3a84b/60b1ea374e7eb868c4c6a293/dr_staff_125x125.jpg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blte161b23f0fd3a84b/60b1ea374e7eb868c4c6a293/dr_staff_125x125.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/careers-and-people/normalyze-co-founder-and-cto-ravi-ithal-named-to-the-enterprise-security-tech-cyber-influencer-top-10-list",
+          "author": null,
+          "description": "CTO recognized as cybersecurity influencer for his research and thought leadership.",
+          "link": "https://www.darkreading.com/careers-and-people/normalyze-co-founder-and-cto-ravi-ithal-named-to-the-enterprise-security-tech-cyber-influencer-top-10-list",
+          "publishedOn": "2022-10-31T16:06:10.000Z",
+          "wordCount": 12520,
+          "title": "Normalyze Co-Founder and CTO, Ravi Ithal, Named to the Enterprise Security Tech Cyber Influencer Top 10 List",
+          "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/omdia/cloud-native-security-was-in-the-air-at-kubecon-cloudnativecon-2022",
+          "author": "Fernando Montenegro, Senior Principal Analyst, Omdia",
+          "description": "At this year’s KubeCon/CloudNativeCon, both development and operations practitioners were tackling different security needs.",
+          "link": "https://www.darkreading.com/omdia/cloud-native-security-was-in-the-air-at-kubecon-cloudnativecon-2022",
+          "publishedOn": "2022-10-31T16:00:00.000Z",
+          "wordCount": 13578,
+          "title": "Cloud-Native Security Was in the Air at KubeCon/CloudNativeCon 2022",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltef94f9b74bb63c60/61bb7263b04f6f35f2f39630/F.Montenegro-Print_300.jpg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltef94f9b74bb63c60/61bb7263b04f6f35f2f39630/F.Montenegro-Print_300.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/attacks-breaches/persistent-launches-cyber-recovery-solution-with-google-cloud",
+          "author": null,
+          "description": "Accelerates the safe recovery from ransomware attacks.",
+          "link": "https://www.darkreading.com/attacks-breaches/persistent-launches-cyber-recovery-solution-with-google-cloud",
+          "publishedOn": "2022-10-31T15:50:22.000Z",
+          "wordCount": 11921,
+          "title": "Persistent Launches Cyber-Recovery Solution With Google Cloud",
+          "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/cloud/zscaler-cloud-based-cybersecurity-outages-redundancy",
+          "author": "Robert Lemos, Contributing Writer, Dark Reading",
+          "description": "While fewer cloud providers are suffering outages, customers should prepare for the uncommon event, especially when relying on cloud services for security.",
+          "link": "https://www.darkreading.com/cloud/zscaler-cloud-based-cybersecurity-outages-redundancy",
+          "publishedOn": "2022-10-31T15:15:03.000Z",
+          "wordCount": 13315,
+          "title": "Zscaler's Cloud-Based Cybersecurity Outages Showcase Redundancy Problem",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt58481326324d6911/60b1e9a55d34de550780a990/Robert-Lemos.png",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt58481326324d6911/60b1e9a55d34de550780a990/Robert-Lemos.png"
+        },
+        {
+          "id": "https://www.darkreading.com/microsoft/a-cyberthreat-minute-cybercrime-s-scope-in-60-second-snapshots",
+          "author": "Steve Ginty, Principal Program Manager, Microsoft Defender Threat Intelligence (MDTI), Microsoft",
+          "description": "When looking at the scale and scope of worldwide cybercrime, password attacks are the most commonly observed type of threat in a given 60-second period.",
+          "link": "https://www.darkreading.com/microsoft/a-cyberthreat-minute-cybercrime-s-scope-in-60-second-snapshots",
+          "publishedOn": "2022-10-31T14:00:00.000Z",
+          "wordCount": 12799,
+          "title": "A Cyber Threat Minute: Cybercrime’s Scope in 60-Second Snapshots",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltb9de77ed3de3df45/61a6b039767ba14bc66944b4/Steve_Ginty.png",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltb9de77ed3de3df45/61a6b039767ba14bc66944b4/Steve_Ginty.png"
+        },
+        {
+          "id": "https://www.darkreading.com/application-security/does-security-have-to-get-worse-before-it-gets-better",
+          "author": "Amy Baker, Security Education Evangelist, Security Journey",
+          "description": "How to solve the software vulnerability problem across the entire SDLC.",
+          "link": "https://www.darkreading.com/application-security/does-security-have-to-get-worse-before-it-gets-better",
+          "publishedOn": "2022-10-31T14:00:00.000Z",
+          "wordCount": 13724,
+          "title": "Does Security Have to Get Worse Before It Gets Better?",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltfc1ee5aa89a936c5/635c138353db7b3f564c4ed4/Amy_suit_headshot.jpg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltfc1ee5aa89a936c5/635c138353db7b3f564c4ed4/Amy_suit_headshot.jpg"
+        },
         {
           "id": "https://www.darkreading.com/application-security/synack-expands-security-platform-with-adversarial-api-pentesting",
           "author": null,
@@ -3716,6 +3836,16 @@
       "siteUrl": "https://msrc-blog.microsoft.com",
       "articles": [
         {
+          "id": "https://msrc-blog.microsoft.com/?p=15072",
+          "author": "Aanchal Gupta",
+          "description": "As Cybersecurity Awareness Month 2022 comes to a close, I’m grateful for the impact it has had in bringing cybersecurity to the forefront since it began in 2004. Though the month may be over, our work in cybersecurity is never done. Often, we think about cybersecurity as a complex technology problem, but at its core, …\n  Reflecting on Cybersecurity Awareness Month: At its Core, Cybersecurity is all about People Read More »",
+          "link": "https://msrc-blog.microsoft.com/2022/10/31/reflecting-on-cybersecurity-awareness-month-at-its-core-cybersecurity-is-all-about-people/",
+          "publishedOn": "2022-10-31T16:50:00.000Z",
+          "wordCount": 1973,
+          "title": "Reflecting on Cybersecurity Awareness Month: At its Core, Cybersecurity is all about People",
+          "imageUrl": null
+        },
+        {
           "id": "https://msrc-blog.microsoft.com/?p=15057",
           "author": "msrc",
           "description": "Congratulations to all the researchers recognized in this quarter’s Microsoft Researcher Recognition Program leaderboard! Thank you to everyone for your hard work and continued partnership to secure customers. The top three researchers of the 2022 Q3 Security Researcher Leaderboard are: Zhiyi Zhang, Yuki Chen, and Dang The Tuyen! Check out the full list of researchers …\n  Congratulations to the Top MSRC 2022 Q3 Security Researchers! Read More »",
@@ -3799,6 +3929,36 @@
       "feedUrl": "https://blog.knowbe4.com/rss.xml",
       "siteUrl": "https://blog.knowbe4.com",
       "articles": [
+        {
+          "id": "https://blog.knowbe4.com/australias-lacking-cybersecurity-workforce-results-to-a-influx-in-attacks",
+          "author": "Stu Sjouwerman",
+          "description": "Australia has now become the newest target for attacks in part due to a overworked cybersecurity workforce that are not able to stop these bad actors.",
+          "link": "https://blog.knowbe4.com/australias-lacking-cybersecurity-workforce-results-to-a-influx-in-attacks",
+          "publishedOn": "2022-10-31T14:48:40.000Z",
+          "wordCount": 2013,
+          "title": "Australia's Lacking Cybersecurity Workforce Results to a Influx in Attacks",
+          "imageUrl": "https://blog.knowbe4.com/hubfs/Australia%20Lacking%20Cybersecurity.jpg#keepProtocol"
+        },
+        {
+          "id": "https://blog.knowbe4.com/warning-micro-transactions-lead-to-a-drained-bank-account",
+          "author": "Stu Sjouwerman",
+          "description": "Our friend  R. Friederich at Marshalsec sent us this warning...",
+          "link": "https://blog.knowbe4.com/warning-micro-transactions-lead-to-a-drained-bank-account",
+          "publishedOn": "2022-10-31T14:48:31.000Z",
+          "wordCount": 2036,
+          "title": "[WARNING] Micro Transactions Lead to a Drained Bank Account",
+          "imageUrl": "https://blog.knowbe4.com/hubfs/Bank%20Scam%20Micro%20Transactions.jpg#keepProtocol"
+        },
+        {
+          "id": "https://blog.knowbe4.com/linkedin-phishing-attack-bypassed-email-filters-because-it-passed-both-spf-and-dmarc-auth",
+          "author": "Stu Sjouwerman",
+          "description": "Researchers at Armorblox have observed a phishing campaign impersonating LinkedIn. The emails inform the user that their LinkedIn account has been suspended due to suspicious activity.",
+          "link": "https://blog.knowbe4.com/linkedin-phishing-attack-bypassed-email-filters-because-it-passed-both-spf-and-dmarc-auth",
+          "publishedOn": "2022-10-31T14:43:11.000Z",
+          "wordCount": 2251,
+          "title": "LinkedIn Phishing Attack Bypassed Email Filters Because it Passed Both SPF and DMARC Auth",
+          "imageUrl": "https://blog.knowbe4.com/hubfs/LinkedIn%20Phishing%20Attack.jpg#keepProtocol"
+        },
         {
           "id": "https://blog.knowbe4.com/eye-opener-phishing-attacks-61-up-over-2021.-a-whopping-255-million-attacks-this-year-so-far",
           "author": "Stu Sjouwerman",
@@ -4366,6 +4526,17 @@
       "feedUrl": "https://thehackernews.com/feeds/posts/default",
       "siteUrl": "https://thehackernews.com/",
       "articles": [
+        {
+          "id": "tag:blogger.com,1999:blog-4802841478634147276.post-3512391445185373816",
+          "author": "noreply@blogger.com (Ravie Lakshmanan)",
+          "description": "The threat actor behind the Fodcha distributed denial-of-service (DDoS) botnet has resurfaced with new capabilities, researchers reveal.\nThis includes changes to its communication protocol and the ability to extort cryptocurrency payments in exchange for stopping the DDoS attack against a target, Qihoo 360's Network Security Research Lab said in a report published last week.\nFodcha first came to",
+          "link": "https://thehackernews.com/2022/10/fodcha-ddos-botnet-resurfaces-with-new.html",
+          "publishedOn": "2022-10-31T14:28:00.000Z",
+          "wordCount": null,
+          "title": "Fodcha DDoS Botnet Resurfaces with New Capabilities",
+          "itunes": {},
+          "imageUrl": null
+        },
         {
           "id": "tag:blogger.com,1999:blog-4802841478634147276.post-5729001580519990710",
           "author": "noreply@blogger.com (The Hacker News)",
