@@ -43,6 +43,26 @@
       "siteUrl": "https://us-cert.cisa.gov/",
       "articles": [
         {
+          "id": "18119 at https://us-cert.cisa.gov",
+          "author": "CISA",
+          "description": "Original release date: November 1, 2022\nToday, CISA officially upgraded to Traffic Light Protocol (TLP) 2.0, which facilitates greater information sharing and collaboration. CISA made this upgrade in accordance with the recommendation from the Forum of Incident Response and Security Teams to upgrade to TLP 2.0 by January 2023.\nKey TLP 2.0 updates:\nTLP 2.0 changes TLP:WHITE to TLP:CLEAR.\nTLP 2.0 adds the designation TLP:AMBER+STRICT, which instructs the recipient to keep the information strictly within their organization only.\nNote: CISA’s Automated Indicator Sharing (AIS) capability will not update from TLP 1.0 to TLP 2.0 until March 2023. This exception includes AIS’s use of the following open standards: the Structured Threat Information Expression (STIX™) for cyber threat indicators and defensive measures information and the Trusted Automated Exchange of Intelligence Information (TAXII™) for machine-to-machine communications.\nCISA encourage all individuals and organizations in the cybersecurity community to adopt TLP 2.0. For more information, see CISA’s TLP webpage, www.cisa.gov/tlp and FIRST's TLP webpage, https://www.first.org/tlp/.\n \nThis product is provided subject to this Notification and this Privacy & Use policy.",
+          "link": "https://us-cert.cisa.gov/ncas/current-activity/2022/11/01/cisa-upgrades-tlp-20",
+          "publishedOn": "2022-11-01T15:28:37.000Z",
+          "wordCount": 988,
+          "title": "CISA Upgrades to TLP 2.0",
+          "imageUrl": null
+        },
+        {
+          "id": "18118 at https://us-cert.cisa.gov",
+          "author": "CISA",
+          "description": "Original release date: November 1, 2022\nCISA released one Industrial Control Systems (ICS) advisory on November 1, 2022. This advisory provides timely information about current security issues, vulnerabilities, and exploits surrounding ICS.\nCISA encourages users and administrators to review the newly released ICS advisory for technical details and mitigations:\nICSA-22-221-01 Mitsubishi Electric Multiple Factory Automation Products (Update C)\nThis product is provided subject to this Notification and this Privacy & Use policy.",
+          "link": "https://us-cert.cisa.gov/ncas/current-activity/2022/11/01/cisa-releases-one-industrial-control-systems-advisory",
+          "publishedOn": "2022-11-01T14:44:56.000Z",
+          "wordCount": 892,
+          "title": "CISA Releases One Industrial Control Systems Advisory",
+          "imageUrl": null
+        },
+        {
           "id": "18116 at https://us-cert.cisa.gov",
           "author": "CISA",
           "description": "Original release date: October 31, 2022\nCISA has released two fact sheets to highlight threats against accounts and systems using certain forms of multifactor authentication (MFA). CISA strongly urges all organizations to implement phishing-resistant MFA to protect against phishing and other known cyber threats. If an organization using mobile push-notification-based MFA is unable to implement phishing-resistant MFA, CISA recommends using number matching to mitigate MFA fatigue. Although number matching is not as strong as phishing-resistant MFA, it is one of best interim mitigation for organizations who may not immediately be able to implement phishing-resistant MFA.  \nCISA recommends users and organizations see CISA fact sheets Implementing Phishing-Resistant MFA and Implementing Number Matching in MFA Applications. Visit CISA.gov/MFA for more information on MFA, including an infographic of the hierarchy of MFA options.\nThis product is provided subject to this Notification and this Privacy & Use policy.",
@@ -419,6 +439,106 @@
       "feedUrl": "https://www.darkreading.com/rss.xml",
       "siteUrl": "https://www.darkreading.com",
       "articles": [
+        {
+          "id": "https://www.darkreading.com/careers-and-people/layoffs-mount-cybersecurity-vendors-hunker-down",
+          "author": "Robert Lemos, Contributing Writer, Dark Reading",
+          "description": "With the vast majority of business leaders expecting a recession in 2023, cybersecurity firms are bolstering their operations and cash flow by laying off workers.",
+          "link": "https://www.darkreading.com/careers-and-people/layoffs-mount-cybersecurity-vendors-hunker-down",
+          "publishedOn": "2022-11-01T17:20:00.000Z",
+          "wordCount": 14159,
+          "title": "Layoffs Mount as Cybersecurity Vendors Hunker Down",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt58481326324d6911/60b1e9a55d34de550780a990/Robert-Lemos.png",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt58481326324d6911/60b1e9a55d34de550780a990/Robert-Lemos.png"
+        },
+        {
+          "id": "https://www.darkreading.com/risk/how-retailers-can-stay-protected-during-the-most-wonderful-time-of-the-year",
+          "author": "Jordan Mauriello, Chief Security Officer, Critical Start",
+          "description": "Retailers' new holiday jingle must hit cybersecurity high points to help survive the season. Forget Dasher and Dancer — add SAST and DAST to app testing; manage third-party risks; and use MFA along with training and proper authentication to secure credentials.",
+          "link": "https://www.darkreading.com/risk/how-retailers-can-stay-protected-during-the-most-wonderful-time-of-the-year",
+          "publishedOn": "2022-11-01T17:00:00.000Z",
+          "wordCount": 13916,
+          "title": "How Retailers Can Stay Protected During the Most Wonderful Time of the Year",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltf0455c7e071a6a12/63602712d764e30582dc2507/Jordan_Mauriello.jpg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltf0455c7e071a6a12/63602712d764e30582dc2507/Jordan_Mauriello.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/attacks-breaches/ftc-chegg-careless-cybersecurity-students",
+          "author": "Dark Reading Staff, Dark Reading",
+          "description": "Ed-tech company Chegg is ordered by FTC to secure its systems after repeated breaches that exposed tens of millions of users' personal data.",
+          "link": "https://www.darkreading.com/attacks-breaches/ftc-chegg-careless-cybersecurity-students",
+          "publishedOn": "2022-11-01T17:00:00.000Z",
+          "wordCount": 10988,
+          "title": "FTC Gives Chegg an 'F' for Careless Cybersecurity Impacting 40M Students",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blte161b23f0fd3a84b/60b1ea374e7eb868c4c6a293/dr_staff_125x125.jpg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blte161b23f0fd3a84b/60b1ea374e7eb868c4c6a293/dr_staff_125x125.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/edge-articles/name-that-edge-toon-talk-turkey",
+          "author": "John Klossner, Cartoonist",
+          "description": "Come up with a clever caption, and our panel of experts will reward the winner with a $25 Amazon gift card.",
+          "link": "https://www.darkreading.com/edge-articles/name-that-edge-toon-talk-turkey",
+          "publishedOn": "2022-11-01T15:30:05.000Z",
+          "wordCount": 10806,
+          "title": "Name That Edge Toon: Talk Turkey",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltf97d71984b60d7ed/60b1e88b5d34de550780a96e/Klossner_iwk_photo.gif",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltf97d71984b60d7ed/60b1e88b5d34de550780a96e/Klossner_iwk_photo.gif"
+        },
+        {
+          "id": "https://www.darkreading.com/ics-ot/network-perception-and-check-point-software-technologies-partner-to-tighten-the-security-of-ot-firewall-environments",
+          "author": null,
+          "description": "Integrated OT solution streamlines the auditing of firewalls for misconfigurations and conflicting rules.",
+          "link": "https://www.darkreading.com/ics-ot/network-perception-and-check-point-software-technologies-partner-to-tighten-the-security-of-ot-firewall-environments",
+          "publishedOn": "2022-11-01T15:10:04.000Z",
+          "wordCount": 11876,
+          "title": "Network Perception and Check Point Software Technologies Partner to Tighten the Security of OT Firewall Environments",
+          "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/threat-intelligence/china-backed-apt10-spy-game-custom-fileless-backdoor",
+          "author": "Elizabeth Montalbano, Contributor, Dark Reading",
+          "description": "The sophisticated and ever-evolving threat known as LodeInfo is being deployed against media, diplomatic, government, public sector, and think-tank targets.",
+          "link": "https://www.darkreading.com/threat-intelligence/china-backed-apt10-spy-game-custom-fileless-backdoor",
+          "publishedOn": "2022-11-01T14:45:03.000Z",
+          "wordCount": 14428,
+          "title": "China-Backed APT10 Supercharges Spy Game With Custom Fileless Backdoor",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltbfd004d139d42d70/6303bca6236c2476a257760e/ElizabethMontalbano.jpg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltbfd004d139d42d70/6303bca6236c2476a257760e/ElizabethMontalbano.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/cloud/where-are-all-of-the-container-breaches-",
+          "author": "Michael Clark, Director of Threat Research, Sysdig",
+          "description": "Containers and their supporting infrastructure are too important to ignore.",
+          "link": "https://www.darkreading.com/cloud/where-are-all-of-the-container-breaches-",
+          "publishedOn": "2022-11-01T14:00:00.000Z",
+          "wordCount": 13621,
+          "title": "Where Are All of the Container Breaches?",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt6807682fe7a0aa31/635c2ebfa08d2c063476661c/MichaelClark.jpg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt6807682fe7a0aa31/635c2ebfa08d2c063476661c/MichaelClark.jpg"
+        },
         {
           "id": "https://www.darkreading.com/risk/online-holiday-shopping-frenzy-study-shows-1-in-3-americans-tend-to-take-more-risks-when-shopping-online-during-holiday-season",
           "author": null,
@@ -4065,6 +4185,16 @@
       "siteUrl": "https://blog.knowbe4.com",
       "articles": [
         {
+          "id": "https://blog.knowbe4.com/scam-of-the-week-new-phishing-email-exploits-twitters-plan-to-charge-for-blue-checkmark",
+          "author": "Stu Sjouwerman",
+          "description": "Michael Kan at PCMag had the scoop: A hacker is already circulating one phishing email, warning users they'll need to submit some personal information to keep the blue verified checkmark for free.",
+          "link": "https://blog.knowbe4.com/scam-of-the-week-new-phishing-email-exploits-twitters-plan-to-charge-for-blue-checkmark",
+          "publishedOn": "2022-11-01T18:48:13.000Z",
+          "wordCount": 2152,
+          "title": "[Scam of The Week] New Phishing Email Exploits Twitter’s Plan to Charge for Blue Checkmark",
+          "imageUrl": "https://blog.knowbe4.com/hubfs/twitter-verified-image-courtesy-twitter.jpg#keepProtocol"
+        },
+        {
           "id": "https://blog.knowbe4.com/cyberheistnews-vol-12-44-infographic-knowbe4-top-clicked-phishing-email-subjects-for-q3-2022",
           "author": "Stu Sjouwerman",
           "description": "CyberheistNews Vol 12 #44 [INFOGRAPHIC] KnowBe4 Top-Clicked Phishing Email Subjects for Q3 2022",
@@ -4671,6 +4801,39 @@
       "feedUrl": "https://thehackernews.com/feeds/posts/default",
       "siteUrl": "https://thehackernews.com/",
       "articles": [
+        {
+          "id": "tag:blogger.com,1999:blog-4802841478634147276.post-7693969617983831085",
+          "author": "noreply@blogger.com (Ravie Lakshmanan)",
+          "description": "The OpenSSL project has rolled out fixes to contain two high-severity flaws in its widely used cryptography library that could result in a denial-of-service (DoS) and remote code execution.\nThe issues, tracked as CVE-2022-3602 and CVE-2022-3786, have been described as buffer overrun vulnerabilities that can be triggered during X.509 certificate verification by supplying a specially-crafted email",
+          "link": "https://thehackernews.com/2022/11/just-in-openssl-releases-patch-for-2.html",
+          "publishedOn": "2022-11-01T16:26:00.000Z",
+          "wordCount": null,
+          "title": "OpenSSL Releases Patch for 2 New High-Severity Vulnerabilities",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "tag:blogger.com,1999:blog-4802841478634147276.post-6603873800888771725",
+          "author": "noreply@blogger.com (Ravie Lakshmanan)",
+          "description": "Microsoft on Tuesday said it addressed an authentication bypass vulnerability in Jupyter Notebooks for Azure Cosmos DB that enabled full read and write access.\nThe tech giant said the problem was introduced on August 12, 2022, and rectified worldwide on October 6, 2022, two days after responsible disclosure from Orca Security, which dubbed the flaw CosMiss.\n\"In short, if an attacker had",
+          "link": "https://thehackernews.com/2022/11/researchers-disclose-details-of.html",
+          "publishedOn": "2022-11-01T15:54:00.000Z",
+          "wordCount": null,
+          "title": "Researchers Disclose Details of Critical 'CosMiss' RCE Flaw Affecting Azure Cosmos DB",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "tag:blogger.com,1999:blog-4802841478634147276.post-2447533469007706973",
+          "author": "noreply@blogger.com (Ravie Lakshmanan)",
+          "description": "The Chinese state-sponsored threat actor known as Stone Panda has been observed employing a new stealthy infection chain in its attacks aimed at Japanese entities.\nTargets include media, diplomatic, governmental and public sector organizations and think-tanks in Japan, according to twin reports published by Kaspersky.\nStone Panda, also called APT10, Bronze Riverside, Cicada, and Potassium, is a",
+          "link": "https://thehackernews.com/2022/11/chinese-hackers-using-new-stealthy.html",
+          "publishedOn": "2022-11-01T15:15:00.000Z",
+          "wordCount": null,
+          "title": "Chinese Hackers Using New Stealthy Infection Chain to Deploy LODEINFO Malware",
+          "itunes": {},
+          "imageUrl": null
+        },
         {
           "id": "tag:blogger.com,1999:blog-4802841478634147276.post-4805991546642713055",
           "author": "noreply@blogger.com (The Hacker News)",
