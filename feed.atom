@@ -2,10 +2,87 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-11-02T07:25:07.078Z</updated>
+    <updated>2022-11-02T13:57:45.330Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[PQShield and Riscure Collaborate on Post-Quantum Cryptography SCA Validation]]></title>
+        <id>https://www.darkreading.com/vulnerabilities-threats/pqshield-and-riscure-collaborate-on-post-quantum-cryptography-sca-validation</id>
+        <link href="https://www.darkreading.com/vulnerabilities-threats/pqshield-and-riscure-collaborate-on-post-quantum-cryptography-sca-validation"/>
+        <updated>2022-11-02T13:29:02.000Z</updated>
+        <summary type="html"><![CDATA[The project will advance understanding of how quantum-secure algorithms can be secured against side channel analysis through robust validation and countermeasures.]]></summary>
+        <author>
+            <name>Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Multiple Vulnerabilities Reported in Checkmk IT Infrastructure Monitoring Software]]></title>
+        <id>tag:blogger.com,1999:blog-4802841478634147276.post-475872900422248749</id>
+        <link href="https://thehackernews.com/2022/11/multiple-vulnerabilities-reported-in.html"/>
+        <updated>2022-11-02T13:11:00.000Z</updated>
+        <summary type="html"><![CDATA[Multiple vulnerabilities have been disclosed in Checkmk IT Infrastructure monitoring software that could be chained together by an unauthenticated, remote attacker to fully take over affected servers. 
+"These vulnerabilities can be chained together by an unauthenticated, remote attacker to gain code execution on the server running Checkmk version 2.1.0p10 and lower," SonarSource researcher]]></summary>
+        <author>
+            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Critical Vulnerability in Microsoft Azure Cosmos DB Opens Up Jupyter Notebooks]]></title>
+        <id>https://www.darkreading.com/application-security/critical-vulnerability-found-and-fixed-in-azure-cosmos-db-</id>
+        <link href="https://www.darkreading.com/application-security/critical-vulnerability-found-and-fixed-in-azure-cosmos-db-"/>
+        <updated>2022-11-02T13:10:00.000Z</updated>
+        <summary type="html"><![CDATA[The now-patched RCE flaw in Cosmos DB's Jupyter Notebook feature highlights some of the weaknesses that can arise from emerging tech in the cloud-native and machine learning worlds.]]></summary>
+        <author>
+            <name>Ericka Chickowski, Contributing Writer, Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[These Android Apps with a Million Play Store Installations Redirect Users to Malicious Sites]]></title>
+        <id>tag:blogger.com,1999:blog-4802841478634147276.post-405263965434455802</id>
+        <link href="https://thehackernews.com/2022/11/these-android-apps-with-million-play.html"/>
+        <updated>2022-11-02T11:47:00.000Z</updated>
+        <summary type="html"><![CDATA[A set of four Android apps released by the same developer has been discovered directing victims to malicious websites as part of an adware and information-stealing campaign.
+The apps, published by a developer named Mobile apps Group and currently available on the Play Store, have been collectively downloaded over one million times.
+According to Malwarebytes, the websites are designed to generate]]></summary>
+        <author>
+            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Inside Raccoon Stealer V2]]></title>
+        <id>tag:blogger.com,1999:blog-4802841478634147276.post-5811532242563659525</id>
+        <link href="https://thehackernews.com/2022/11/inside-raccoon-stealer-v2.html"/>
+        <updated>2022-11-02T11:28:00.000Z</updated>
+        <summary type="html"><![CDATA[Raccoon Stealer is back on the news again. US officials arrested Mark Sokolovsky, one of the malware actors behind this program. In July 2022, after several months of the shutdown, a Raccoon Stealer V2 went viral. Last week, the Department of Justice's press release stated that the malware collected 50 million credentials.
+This article will give a quick guide to the latest info stealer's version]]></summary>
+        <author>
+            <name>noreply@blogger.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Experts Warn of SandStrike Android Spyware Infecting Devices via Malicious VPN App]]></title>
+        <id>tag:blogger.com,1999:blog-4802841478634147276.post-5705274057674144663</id>
+        <link href="https://thehackernews.com/2022/11/experts-warn-of-sandstrike-android.html"/>
+        <updated>2022-11-02T09:39:00.000Z</updated>
+        <summary type="html"><![CDATA[A previously undocumented Android spyware campaign has been found striking Persian-speaking individuals by masquerading as a seemingly harmless VPN application.
+Russian cybersecurity firm Kaspersky is tracking the campaign under the moniker SandStrike. It has not been attributed to any particular threat group.
+"SandStrike is distributed as a means to access resources about the Bahá'í religion]]></summary>
+        <author>
+            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dropbox Breach: Hackers Unauthorizedly Accessed 130 GitHub Source Code Repositories]]></title>
+        <id>tag:blogger.com,1999:blog-4802841478634147276.post-4154360122844716606</id>
+        <link href="https://thehackernews.com/2022/11/dropbox-breach-hackers-unauthorizedly.html"/>
+        <updated>2022-11-02T07:10:00.000Z</updated>
+        <summary type="html"><![CDATA[File hosting service Dropbox on Tuesday disclosed that it was the victim of a phishing campaign that allowed unidentified threat actors to gain unauthorized access to 130 of its source code repositories on GitHub.
+"These repositories included our own copies of third-party libraries slightly modified for use by Dropbox, internal prototypes, and some tools and configuration files used by the]]></summary>
+        <author>
+            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Sky Is Not Falling: Disclosed OpenSSL Bugs Are Serious but Not Critical]]></title>
         <id>https://www.darkreading.com/risk/disclosed-openssl-bugs-serious-not-critical</id>
@@ -5489,36 +5566,6 @@ The company also said it has engaged the services of Deloitte to conduct an ex
         <summary type="html"><![CDATA[With organizations expanding their cloud operations, cloud security is imperative to protect applications and data.]]></summary>
         <author>
             <name>Fahmida Y. Rashid, Managing Editor, Features, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bumblebee Malware Loader's Payloads Significantly Vary by Victim System]]></title>
-        <id>https://www.darkreading.com/attacks-breaches/bumblebee-malware-loader-s-payloads-significantly-vary-by-victim-system</id>
-        <link href="https://www.darkreading.com/attacks-breaches/bumblebee-malware-loader-s-payloads-significantly-vary-by-victim-system"/>
-        <updated>2022-10-03T20:56:00.000Z</updated>
-        <summary type="html"><![CDATA[On some systems the malware drops infostealers and banking Trojans; on others it installs sophisticated post-compromise tools, new analysis shows.]]></summary>
-        <author>
-            <name>Jai Vijayan, Contributing Writer, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[First 72 Hours of Incident Response Critical to Taming Cyberattack Chaos]]></title>
-        <id>https://www.darkreading.com/attacks-breaches/incident-response-s-first-72-hours-critical-to-taming-chaos</id>
-        <link href="https://www.darkreading.com/attacks-breaches/incident-response-s-first-72-hours-critical-to-taming-chaos"/>
-        <updated>2022-10-03T20:51:18.000Z</updated>
-        <summary type="html"><![CDATA[Responding to cyberattacks is extraordinarily stressful, but better planning, frequent practice, and the availability of mental health services can help IR professionals, a survey finds.]]></summary>
-        <author>
-            <name>Robert Lemos, Contributing Writer, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vice Society Publishes LA Public School Student Data, Psych Evals]]></title>
-        <id>https://www.darkreading.com/attacks-breaches/vice-society-publishes-la-public-school-student-data-psych-evals</id>
-        <link href="https://www.darkreading.com/attacks-breaches/vice-society-publishes-la-public-school-student-data-psych-evals"/>
-        <updated>2022-10-03T20:21:55.000Z</updated>
-        <summary type="html"><![CDATA[After a flat refusal to pay the ransom, Los Angeles Unified School District's stolen data has been dumped on the Dark Web by a ransomware gang.]]></summary>
-        <author>
-            <name>Becky Bracken, Editor, Dark Reading</name>
         </author>
     </entry>
     <entry>

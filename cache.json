@@ -440,6 +440,31 @@
       "siteUrl": "https://www.darkreading.com",
       "articles": [
         {
+          "id": "https://www.darkreading.com/vulnerabilities-threats/pqshield-and-riscure-collaborate-on-post-quantum-cryptography-sca-validation",
+          "author": null,
+          "description": "The project will advance understanding of how quantum-secure algorithms can be secured against side channel analysis through robust validation and countermeasures.",
+          "link": "https://www.darkreading.com/vulnerabilities-threats/pqshield-and-riscure-collaborate-on-post-quantum-cryptography-sca-validation",
+          "publishedOn": "2022-11-02T13:29:02.000Z",
+          "wordCount": 12903,
+          "title": "PQShield and Riscure Collaborate on Post-Quantum Cryptography SCA Validation",
+          "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/application-security/critical-vulnerability-found-and-fixed-in-azure-cosmos-db-",
+          "author": "Ericka Chickowski, Contributing Writer, Dark Reading",
+          "description": "The now-patched RCE flaw in Cosmos DB's Jupyter Notebook feature highlights some of the weaknesses that can arise from emerging tech in the cloud-native and machine learning worlds.",
+          "link": "https://www.darkreading.com/application-security/critical-vulnerability-found-and-fixed-in-azure-cosmos-db-",
+          "publishedOn": "2022-11-02T13:10:00.000Z",
+          "wordCount": 13083,
+          "title": "Critical Vulnerability in Microsoft Azure Cosmos DB Opens Up Jupyter Notebooks",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt1fa01ab14787f501/60b1e9a77f791568be5e0dbb/ErickaChick_125x125.jpeg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt1fa01ab14787f501/60b1e9a77f791568be5e0dbb/ErickaChick_125x125.jpeg"
+        },
+        {
           "id": "https://www.darkreading.com/risk/disclosed-openssl-bugs-serious-not-critical",
           "author": "Jai Vijayan, Contributing Writer, Dark Reading",
           "description": "Organizations should update to the latest encryption (version 3.0.7) as soon as possible, but there's no need for Heartbleed-like panic, security experts say.",
@@ -4008,51 +4033,6 @@
             "length": "0"
           },
           "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt93784ffee79538e7/60d4371522d24e38a3806ecf/fahmida.png"
-        },
-        {
-          "id": "https://www.darkreading.com/attacks-breaches/bumblebee-malware-loader-s-payloads-significantly-vary-by-victim-system",
-          "author": "Jai Vijayan, Contributing Writer, Dark Reading",
-          "description": "On some systems the malware drops infostealers and banking Trojans; on others it installs sophisticated post-compromise tools, new analysis shows.",
-          "link": "https://www.darkreading.com/attacks-breaches/bumblebee-malware-loader-s-payloads-significantly-vary-by-victim-system",
-          "publishedOn": "2022-10-03T20:56:00.000Z",
-          "wordCount": 11905,
-          "title": "Bumblebee Malware Loader's Payloads Significantly Vary by Victim System",
-          "enclosure": {
-            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt02d79fb9a44a4258/60b1e9dd2a25046b35110696/Jai-Vijayan.jpeg",
-            "type": "image/*",
-            "length": "0"
-          },
-          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt02d79fb9a44a4258/60b1e9dd2a25046b35110696/Jai-Vijayan.jpeg"
-        },
-        {
-          "id": "https://www.darkreading.com/attacks-breaches/incident-response-s-first-72-hours-critical-to-taming-chaos",
-          "author": "Robert Lemos, Contributing Writer, Dark Reading",
-          "description": "Responding to cyberattacks is extraordinarily stressful, but better planning, frequent practice, and the availability of mental health services can help IR professionals, a survey finds.",
-          "link": "https://www.darkreading.com/attacks-breaches/incident-response-s-first-72-hours-critical-to-taming-chaos",
-          "publishedOn": "2022-10-03T20:51:18.000Z",
-          "wordCount": 12319,
-          "title": "First 72 Hours of Incident Response Critical to Taming Cyberattack Chaos",
-          "enclosure": {
-            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt58481326324d6911/60b1e9a55d34de550780a990/Robert-Lemos.png",
-            "type": "image/*",
-            "length": "0"
-          },
-          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt58481326324d6911/60b1e9a55d34de550780a990/Robert-Lemos.png"
-        },
-        {
-          "id": "https://www.darkreading.com/attacks-breaches/vice-society-publishes-la-public-school-student-data-psych-evals",
-          "author": "Becky Bracken, Editor, Dark Reading",
-          "description": "After a flat refusal to pay the ransom, Los Angeles Unified School District's stolen data has been dumped on the Dark Web by a ransomware gang.",
-          "link": "https://www.darkreading.com/attacks-breaches/vice-society-publishes-la-public-school-student-data-psych-evals",
-          "publishedOn": "2022-10-03T20:21:55.000Z",
-          "wordCount": 13070,
-          "title": "Vice Society Publishes LA Public School Student Data, Psych Evals",
-          "enclosure": {
-            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt8e7bd143d726930b/627271268681151716941064/BeckyB.jpg",
-            "type": "image/*",
-            "length": "0"
-          },
-          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt8e7bd143d726930b/627271268681151716941064/BeckyB.jpg"
         }
       ]
     },
@@ -4796,6 +4776,61 @@
       "feedUrl": "https://thehackernews.com/feeds/posts/default",
       "siteUrl": "https://thehackernews.com/",
       "articles": [
+        {
+          "id": "tag:blogger.com,1999:blog-4802841478634147276.post-475872900422248749",
+          "author": "noreply@blogger.com (Ravie Lakshmanan)",
+          "description": "Multiple vulnerabilities have been disclosed in Checkmk IT Infrastructure monitoring software that could be chained together by an unauthenticated, remote attacker to fully take over affected servers. \n\"These vulnerabilities can be chained together by an unauthenticated, remote attacker to gain code execution on the server running Checkmk version 2.1.0p10 and lower,\" SonarSource researcher",
+          "link": "https://thehackernews.com/2022/11/multiple-vulnerabilities-reported-in.html",
+          "publishedOn": "2022-11-02T13:11:00.000Z",
+          "wordCount": null,
+          "title": "Multiple Vulnerabilities Reported in Checkmk IT Infrastructure Monitoring Software",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "tag:blogger.com,1999:blog-4802841478634147276.post-405263965434455802",
+          "author": "noreply@blogger.com (Ravie Lakshmanan)",
+          "description": "A set of four Android apps released by the same developer has been discovered directing victims to malicious websites as part of an adware and information-stealing campaign.\nThe apps, published by a developer named Mobile apps Group and currently available on the Play Store, have been collectively downloaded over one million times.\nAccording to Malwarebytes, the websites are designed to generate",
+          "link": "https://thehackernews.com/2022/11/these-android-apps-with-million-play.html",
+          "publishedOn": "2022-11-02T11:47:00.000Z",
+          "wordCount": null,
+          "title": "These Android Apps with a Million Play Store Installations Redirect Users to Malicious Sites",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "tag:blogger.com,1999:blog-4802841478634147276.post-5811532242563659525",
+          "author": "noreply@blogger.com (The Hacker News)",
+          "description": "Raccoon Stealer is back on the news again. US officials arrested Mark Sokolovsky, one of the malware actors behind this program. In July 2022, after several months of the shutdown, a Raccoon Stealer V2 went viral. Last week, the Department of Justice's press release stated that the malware collected 50 million credentials.\nThis article will give a quick guide to the latest info stealer's version",
+          "link": "https://thehackernews.com/2022/11/inside-raccoon-stealer-v2.html",
+          "publishedOn": "2022-11-02T11:28:00.000Z",
+          "wordCount": null,
+          "title": "Inside Raccoon Stealer V2",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "tag:blogger.com,1999:blog-4802841478634147276.post-5705274057674144663",
+          "author": "noreply@blogger.com (Ravie Lakshmanan)",
+          "description": "A previously undocumented Android spyware campaign has been found striking Persian-speaking individuals by masquerading as a seemingly harmless VPN application.\nRussian cybersecurity firm Kaspersky is tracking the campaign under the moniker SandStrike. It has not been attributed to any particular threat group.\n\"SandStrike is distributed as a means to access resources about the Bahá'í religion",
+          "link": "https://thehackernews.com/2022/11/experts-warn-of-sandstrike-android.html",
+          "publishedOn": "2022-11-02T09:39:00.000Z",
+          "wordCount": null,
+          "title": "Experts Warn of SandStrike Android Spyware Infecting Devices via Malicious VPN App",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "tag:blogger.com,1999:blog-4802841478634147276.post-4154360122844716606",
+          "author": "noreply@blogger.com (Ravie Lakshmanan)",
+          "description": "File hosting service Dropbox on Tuesday disclosed that it was the victim of a phishing campaign that allowed unidentified threat actors to gain unauthorized access to 130 of its source code repositories on GitHub.\n\"These repositories included our own copies of third-party libraries slightly modified for use by Dropbox, internal prototypes, and some tools and configuration files used by the",
+          "link": "https://thehackernews.com/2022/11/dropbox-breach-hackers-unauthorizedly.html",
+          "publishedOn": "2022-11-02T07:10:00.000Z",
+          "wordCount": null,
+          "title": "Dropbox Breach: Hackers Unauthorizedly Accessed 130 GitHub Source Code Repositories",
+          "itunes": {},
+          "imageUrl": null
+        },
         {
           "id": "tag:blogger.com,1999:blog-4802841478634147276.post-7693969617983831085",
           "author": "noreply@blogger.com (Ravie Lakshmanan)",
