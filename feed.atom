@@ -2,10 +2,54 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-11-01T19:21:24.473Z</updated>
+    <updated>2022-11-02T03:25:25.224Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The Sky Is Not Falling: Disclosed OpenSSL Bugs Are Serious but Not Critical]]></title>
+        <id>https://www.darkreading.com/risk/disclosed-openssl-bugs-serious-not-critical</id>
+        <link href="https://www.darkreading.com/risk/disclosed-openssl-bugs-serious-not-critical"/>
+        <updated>2022-11-01T20:46:00.000Z</updated>
+        <summary type="html"><![CDATA[Organizations should update to the latest encryption (version 3.0.7) as soon as possible, but there's no need for Heartbleed-like panic, security experts say.]]></summary>
+        <author>
+            <name>Jai Vijayan, Contributing Writer, Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bed Bath & Beyond Discloses Data Breach to SEC]]></title>
+        <id>https://www.darkreading.com/attacks-breaches/bed-bath-beyond-discloses-data-breach-to-sec</id>
+        <link href="https://www.darkreading.com/attacks-breaches/bed-bath-beyond-discloses-data-breach-to-sec"/>
+        <updated>2022-11-01T20:46:00.000Z</updated>
+        <summary type="html"><![CDATA[The retailer reported that an employee fell for a phishing scam, allowing malicious actors to access shared drives.]]></summary>
+        <author>
+            <name>Dark Reading Staff, Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenSSL Releases Security Update]]></title>
+        <id>18120 at https://us-cert.cisa.gov</id>
+        <link href="https://us-cert.cisa.gov/ncas/current-activity/2022/11/01/openssl-releases-security-update"/>
+        <updated>2022-11-01T19:57:55.000Z</updated>
+        <summary type="html"><![CDATA[Original release date: November 1, 2022
+OpenSSL has released a security advisory to address two vulnerabilities, CVE-2022-3602 and CVE-2022-3786, affecting OpenSSL versions 3.0.0 through 3.0.6.
+Both CVE-2022-3602 and CVE-2022-3786 can cause a denial of service. According to OpenSSL, a cyber threat actor leveraging CVE-2022-3786, "can craft a malicious email address to overflow four attacker-controlled bytes on the stack. This buffer overflow could result in a crash (causing a denial of service) or potentially remote code execution," allowing them to take control of an affected system.
+CISA encourages users and administrators to review the OpenSSL advisory, blog, OpenSSL 3.0.7 announcement, and upgrade to OpenSSL 3.0.7. For additional information on affected products, see the 2022 OpenSSL vulnerability - CVE-2022-3602 GitHub repository, jointly maintained by the Netherland's National Cyber Security Centrum (NCSC-NL) and CISA.
+This product is provided subject to this Notification and this Privacy & Use policy.]]></summary>
+        <author>
+            <name>CISA</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Now That EDR Is Obvious, What Comes Next?]]></title>
+        <id>https://www.darkreading.com/dr-tech/now-that-edr-is-obvious-what-comes-next-</id>
+        <link href="https://www.darkreading.com/dr-tech/now-that-edr-is-obvious-what-comes-next-"/>
+        <updated>2022-11-01T19:44:05.000Z</updated>
+        <summary type="html"><![CDATA[First in our series addressing the top 10 unanswered questions in security: What's going to replace EDR?]]></summary>
+        <author>
+            <name>Will Lin, Managing Director, Forgepoint Capital</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[Scam of The Week] New Phishing Email Exploits Twitter’s Plan to Charge for Blue Checkmark]]></title>
         <id>https://blog.knowbe4.com/scam-of-the-week-new-phishing-email-exploits-twitters-plan-to-charge-for-blue-checkmark</id>
@@ -5495,85 +5539,6 @@ The company also said it has engaged the services of Deloitte to conduct an ex
         <summary type="html"><![CDATA[Come up with a clever caption, and our panel of experts will reward the winner with a $25 Amazon gift card.]]></summary>
         <author>
             <name>John Klossner, Cartoonist</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Comm100 Chat Provider Hijacked to Spread Malware in Supply Chain Attack]]></title>
-        <id>tag:blogger.com,1999:blog-4802841478634147276.post-2287106377224362411</id>
-        <link href="https://thehackernews.com/2022/10/comm100-chat-provider-hijacked-to.html"/>
-        <updated>2022-10-03T14:35:00.000Z</updated>
-        <summary type="html"><![CDATA[A threat actor likely with associations to China has been attributed to a new supply chain attack that involves the use of a trojanized installer for the Comm100 Live Chat application to distribute a JavaScript backdoor.
-Cybersecurity firm CrowdStrike said the attack made use of a signed Comm100 desktop agent app for Windows that was downloadable from the company's website.
-The scale of the]]></summary>
-        <author>
-            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How AWS, Cisco, Netflix & SAP Are Approaching Cybersecurity Awareness Month]]></title>
-        <id>https://www.darkreading.com/attacks-breaches/how-aws-cisco-netflix-sap-are-approaching-cybersecurity-awareness-month</id>
-        <link href="https://www.darkreading.com/attacks-breaches/how-aws-cisco-netflix-sap-are-approaching-cybersecurity-awareness-month"/>
-        <updated>2022-10-03T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[This year's theme is "See Yourself in Cyber," and these security folks are using the month to reflect on the personal factor in cybersecurity.]]></summary>
-        <author>
-            <name>CJ Moses, Chief Information Security Officer, Amazon Web Services</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CISA Issues Binding Operational Directive 23-01: Improving Asset Visibility and Vulnerability Detection on Federal Networks]]></title>
-        <id>18031 at https://us-cert.cisa.gov</id>
-        <link href="https://us-cert.cisa.gov/ncas/current-activity/2022/10/03/cisa-issues-binding-operational-directive-23-01-improving-asset"/>
-        <updated>2022-10-03T13:31:47.000Z</updated>
-        <summary type="html"><![CDATA[Original release date: October 3, 2022
-CISA has issued Binding Operational Directive (BOD) 23-01: Improving Asset Visibility and Vulnerability Detection on Federal Networks, which seeks improve asset visibility and vulnerability enumeration across the federal enterprise.
-Although BOD 23-01 is only applicable to federal civilian executive branch (FCEB) agencies, CISA recommends all stakeholders review and incorporate the standards it sets forth. Doing so will ensure asset management and vulnerability detection practices that will strengthen their organization’s cyber resilience.
-This product is provided subject to this Notification and this Privacy & Use policy.]]></summary>
-        <author>
-            <name>CISA</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[German Police Collar Alleged Phishing Cybercriminals]]></title>
-        <id>https://blog.knowbe4.com/german-police-collar-alleged-phishing-cybercriminals</id>
-        <link href="https://blog.knowbe4.com/german-police-collar-alleged-phishing-cybercriminals"/>
-        <updated>2022-10-03T13:07:51.000Z</updated>
-        <summary type="html"><![CDATA[The Bundeskriminalamt (BKA), Germany's federal criminal police, raided three homes on Thursday, September 29th, in the course of an investigation of a cyber criminal operation the BKA says netted approximately €4,000,000 from its victims by using phishing tactics. Two suspects were arrested and charged; the disposition of the third individual will depend upon the results of further investigation.]]></summary>
-        <author>
-            <name>Stu Sjouwerman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Researchers Link Cheerscrypt Linux-Based Ransomware to Chinese Hackers]]></title>
-        <id>tag:blogger.com,1999:blog-4802841478634147276.post-4290291613995231383</id>
-        <link href="https://thehackernews.com/2022/10/researchers-link-cheerscrypt-linux.html"/>
-        <updated>2022-10-03T12:56:00.000Z</updated>
-        <summary type="html"><![CDATA[The recently discovered Linux-Based ransomware strain known as Cheerscrypt has been attributed to a Chinese cyber espionage group known for operating short-lived ransomware schemes.
-Cybersecurity firm Sygnia attributed the attacks to a threat actor it tracks under the name Emperor Dragonfly, which is also known as Bronze Starlight (Secureworks) and DEV-0401 (Microsoft).
-"Emperor Dragonfly]]></summary>
-        <author>
-            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hackers Exploiting Dell Driver Vulnerability to Deploy Rootkit on Targeted Computers]]></title>
-        <id>tag:blogger.com,1999:blog-4802841478634147276.post-155750692129179442</id>
-        <link href="https://thehackernews.com/2022/10/hackers-exploiting-dell-driver.html"/>
-        <updated>2022-10-03T10:56:00.000Z</updated>
-        <summary type="html"><![CDATA[The North Korea-backed Lazarus Group has been observed deploying a Windows rootkit by taking advantage of an exploit in a Dell firmware driver, highlighting new tactics adopted by the state-sponsored adversary.
-The Bring Your Own Vulnerable Driver (BYOVD) attack, which took place in the autumn of 2021, is another variant of the threat actor's espionage-oriented activity called Operation In(ter)]]></summary>
-        <author>
-            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ex-NSA Employee Arrested for Trying to Sell U.S. Secrets to a Foreign Government]]></title>
-        <id>tag:blogger.com,1999:blog-4802841478634147276.post-6149307598619253057</id>
-        <link href="https://thehackernews.com/2022/10/ex-nsa-employee-arrested-for-trying-to.html"/>
-        <updated>2022-10-03T09:51:00.000Z</updated>
-        <summary type="html"><![CDATA[A former U.S. National Security Agency (NSA) employee has been arrested on charges of attempting to sell classified information to a foreign spy, who was actually an undercover agent working for the Federal Bureau of Investigation (FBI).
-Jareh Sebastian Dalke, 30, was employed at the NSA for less than a month from June 6, 2022, to July 1, 2022, serving as an Information Systems Security Designer]]></summary>
-        <author>
-            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
         </author>
     </entry>
     <entry>

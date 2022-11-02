@@ -43,6 +43,16 @@
       "siteUrl": "https://us-cert.cisa.gov/",
       "articles": [
         {
+          "id": "18120 at https://us-cert.cisa.gov",
+          "author": "CISA",
+          "description": "Original release date: November 1, 2022\nOpenSSL has released a security advisory to address two vulnerabilities, CVE-2022-3602 and CVE-2022-3786, affecting OpenSSL versions 3.0.0 through 3.0.6.\nBoth CVE-2022-3602 and CVE-2022-3786 can cause a denial of service. According to OpenSSL, a cyber threat actor leveraging CVE-2022-3786, \"can craft a malicious email address to overflow four attacker-controlled bytes on the stack. This buffer overflow could result in a crash (causing a denial of service) or potentially remote code execution,\" allowing them to take control of an affected system.\nCISA encourages users and administrators to review the OpenSSL advisory, blog, OpenSSL 3.0.7 announcement, and upgrade to OpenSSL 3.0.7. For additional information on affected products, see the 2022 OpenSSL vulnerability - CVE-2022-3602 GitHub repository, jointly maintained by the Netherland's National Cyber Security Centrum (NCSC-NL) and CISA.\nThis product is provided subject to this Notification and this Privacy & Use policy.",
+          "link": "https://us-cert.cisa.gov/ncas/current-activity/2022/11/01/openssl-releases-security-update",
+          "publishedOn": "2022-11-01T19:57:55.000Z",
+          "wordCount": 960,
+          "title": "OpenSSL Releases Security Update",
+          "imageUrl": null
+        },
+        {
           "id": "18119 at https://us-cert.cisa.gov",
           "author": "CISA",
           "description": "Original release date: November 1, 2022\nToday, CISA officially upgraded to Traffic Light Protocol (TLP) 2.0, which facilitates greater information sharing and collaboration. CISA made this upgrade in accordance with the recommendation from the Forum of Incident Response and Security Teams to upgrade to TLP 2.0 by January 2023.\nKey TLP 2.0 updates:\nTLP 2.0 changes TLP:WHITE to TLP:CLEAR.\nTLP 2.0 adds the designation TLP:AMBER+STRICT, which instructs the recipient to keep the information strictly within their organization only.\nNote: CISA’s Automated Indicator Sharing (AIS) capability will not update from TLP 1.0 to TLP 2.0 until March 2023. This exception includes AIS’s use of the following open standards: the Structured Threat Information Expression (STIX™) for cyber threat indicators and defensive measures information and the Trusted Automated Exchange of Intelligence Information (TAXII™) for machine-to-machine communications.\nCISA encourage all individuals and organizations in the cybersecurity community to adopt TLP 2.0. For more information, see CISA’s TLP webpage, www.cisa.gov/tlp and FIRST's TLP webpage, https://www.first.org/tlp/.\n \nThis product is provided subject to this Notification and this Privacy & Use policy.",
@@ -391,16 +401,6 @@
           "wordCount": 918,
           "title": "CISA Releases Five Industrial Control Systems Advisories",
           "imageUrl": null
-        },
-        {
-          "id": "18031 at https://us-cert.cisa.gov",
-          "author": "CISA",
-          "description": "Original release date: October 3, 2022\nCISA has issued Binding Operational Directive (BOD) 23-01: Improving Asset Visibility and Vulnerability Detection on Federal Networks, which seeks improve asset visibility and vulnerability enumeration across the federal enterprise.\nAlthough BOD 23-01 is only applicable to federal civilian executive branch (FCEB) agencies, CISA recommends all stakeholders review and incorporate the standards it sets forth. Doing so will ensure asset management and vulnerability detection practices that will strengthen their organization’s cyber resilience.\nThis product is provided subject to this Notification and this Privacy & Use policy.",
-          "link": "https://us-cert.cisa.gov/ncas/current-activity/2022/10/03/cisa-issues-binding-operational-directive-23-01-improving-asset",
-          "publishedOn": "2022-10-03T13:31:47.000Z",
-          "wordCount": 941,
-          "title": "CISA Issues Binding Operational Directive 23-01: Improving Asset Visibility and Vulnerability Detection on Federal Networks",
-          "imageUrl": null
         }
       ]
     },
@@ -439,6 +439,51 @@
       "feedUrl": "https://www.darkreading.com/rss.xml",
       "siteUrl": "https://www.darkreading.com",
       "articles": [
+        {
+          "id": "https://www.darkreading.com/risk/disclosed-openssl-bugs-serious-not-critical",
+          "author": "Jai Vijayan, Contributing Writer, Dark Reading",
+          "description": "Organizations should update to the latest encryption (version 3.0.7) as soon as possible, but there's no need for Heartbleed-like panic, security experts say.",
+          "link": "https://www.darkreading.com/risk/disclosed-openssl-bugs-serious-not-critical",
+          "publishedOn": "2022-11-01T20:46:00.000Z",
+          "wordCount": 14320,
+          "title": "The Sky Is Not Falling: Disclosed OpenSSL Bugs Are Serious but Not Critical",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt02d79fb9a44a4258/60b1e9dd2a25046b35110696/Jai-Vijayan.jpeg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt02d79fb9a44a4258/60b1e9dd2a25046b35110696/Jai-Vijayan.jpeg"
+        },
+        {
+          "id": "https://www.darkreading.com/attacks-breaches/bed-bath-beyond-discloses-data-breach-to-sec",
+          "author": "Dark Reading Staff, Dark Reading",
+          "description": "The retailer reported that an employee fell for a phishing scam, allowing malicious actors to access shared drives.",
+          "link": "https://www.darkreading.com/attacks-breaches/bed-bath-beyond-discloses-data-breach-to-sec",
+          "publishedOn": "2022-11-01T20:46:00.000Z",
+          "wordCount": 10843,
+          "title": "Bed Bath & Beyond Discloses Data Breach to SEC",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blte161b23f0fd3a84b/60b1ea374e7eb868c4c6a293/dr_staff_125x125.jpg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blte161b23f0fd3a84b/60b1ea374e7eb868c4c6a293/dr_staff_125x125.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/dr-tech/now-that-edr-is-obvious-what-comes-next-",
+          "author": "Will Lin, Managing Director, Forgepoint Capital",
+          "description": "First in our series addressing the top 10 unanswered questions in security: What's going to replace EDR?",
+          "link": "https://www.darkreading.com/dr-tech/now-that-edr-is-obvious-what-comes-next-",
+          "publishedOn": "2022-11-01T19:44:05.000Z",
+          "wordCount": 12651,
+          "title": "Now That EDR Is Obvious, What Comes Next?",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltf0170a00c1b3498b/629e1adbe1408e6bcc72a6d6/will-lin-forgepoint.jpg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltf0170a00c1b3498b/629e1adbe1408e6bcc72a6d6/will-lin-forgepoint.jpg"
+        },
         {
           "id": "https://www.darkreading.com/careers-and-people/layoffs-mount-cybersecurity-vendors-hunker-down",
           "author": "Robert Lemos, Contributing Writer, Dark Reading",
@@ -4023,21 +4068,6 @@
             "length": "0"
           },
           "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltf97d71984b60d7ed/60b1e88b5d34de550780a96e/Klossner_iwk_photo.gif"
-        },
-        {
-          "id": "https://www.darkreading.com/attacks-breaches/how-aws-cisco-netflix-sap-are-approaching-cybersecurity-awareness-month",
-          "author": "CJ Moses, Chief Information Security Officer, Amazon Web Services",
-          "description": "This year's theme is \"See Yourself in Cyber,\" and these security folks are using the month to reflect on the personal factor in cybersecurity.",
-          "link": "https://www.darkreading.com/attacks-breaches/how-aws-cisco-netflix-sap-are-approaching-cybersecurity-awareness-month",
-          "publishedOn": "2022-10-03T14:00:00.000Z",
-          "wordCount": 14307,
-          "title": "How AWS, Cisco, Netflix & SAP Are Approaching Cybersecurity Awareness Month",
-          "enclosure": {
-            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt977981c7d0d235a2/633707d6d517f360dff9e2fc/CJ_Moses_AWS_CISO_2022-310p.jpg",
-            "type": "image/*",
-            "length": "0"
-          },
-          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt977981c7d0d235a2/633707d6d517f360dff9e2fc/CJ_Moses_AWS_CISO_2022-310p.jpg"
         }
       ]
     },
@@ -4783,16 +4813,6 @@
           "wordCount": 2045,
           "title": "[HEADS UP] The Old \"Nigerian Prince Scam\" resurfaces as \"Russian Billionaire Fraud\"",
           "imageUrl": "https://blog.knowbe4.com/hubfs/Current%20Event%20Scam.jpg#keepProtocol"
-        },
-        {
-          "id": "https://blog.knowbe4.com/german-police-collar-alleged-phishing-cybercriminals",
-          "author": "Stu Sjouwerman",
-          "description": "The Bundeskriminalamt (BKA), Germany's federal criminal police, raided three homes on Thursday, September 29th, in the course of an investigation of a cyber criminal operation the BKA says netted approximately €4,000,000 from its victims by using phishing tactics. Two suspects were arrested and charged; the disposition of the third individual will depend upon the results of further investigation.",
-          "link": "https://blog.knowbe4.com/german-police-collar-alleged-phishing-cybercriminals",
-          "publishedOn": "2022-10-03T13:07:51.000Z",
-          "wordCount": 2176,
-          "title": "German Police Collar Alleged Phishing Cybercriminals",
-          "imageUrl": "https://blog.knowbe4.com/hubfs/Phishing%20Cybercriminals.jpg#keepProtocol"
         }
       ]
     },
@@ -6162,50 +6182,6 @@
           "publishedOn": "2022-10-04T07:06:00.000Z",
           "wordCount": null,
           "title": "Optus Hack Exposes Data of Nearly 2.1 Million Australian Telecom Customers",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "tag:blogger.com,1999:blog-4802841478634147276.post-2287106377224362411",
-          "author": "noreply@blogger.com (Ravie Lakshmanan)",
-          "description": "A threat actor likely with associations to China has been attributed to a new supply chain attack that involves the use of a trojanized installer for the Comm100 Live Chat application to distribute a JavaScript backdoor.\nCybersecurity firm CrowdStrike said the attack made use of a signed Comm100 desktop agent app for Windows that was downloadable from the company's website.\nThe scale of the",
-          "link": "https://thehackernews.com/2022/10/comm100-chat-provider-hijacked-to.html",
-          "publishedOn": "2022-10-03T14:35:00.000Z",
-          "wordCount": null,
-          "title": "Comm100 Chat Provider Hijacked to Spread Malware in Supply Chain Attack",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "tag:blogger.com,1999:blog-4802841478634147276.post-4290291613995231383",
-          "author": "noreply@blogger.com (Ravie Lakshmanan)",
-          "description": "The recently discovered Linux-Based ransomware strain known as Cheerscrypt has been attributed to a Chinese cyber espionage group known for operating short-lived ransomware schemes.\nCybersecurity firm Sygnia attributed the attacks to a threat actor it tracks under the name Emperor Dragonfly, which is also known as Bronze Starlight (Secureworks) and DEV-0401 (Microsoft).\n\"Emperor Dragonfly",
-          "link": "https://thehackernews.com/2022/10/researchers-link-cheerscrypt-linux.html",
-          "publishedOn": "2022-10-03T12:56:00.000Z",
-          "wordCount": null,
-          "title": "Researchers Link Cheerscrypt Linux-Based Ransomware to Chinese Hackers",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "tag:blogger.com,1999:blog-4802841478634147276.post-155750692129179442",
-          "author": "noreply@blogger.com (Ravie Lakshmanan)",
-          "description": "The North Korea-backed Lazarus Group has been observed deploying a Windows rootkit by taking advantage of an exploit in a Dell firmware driver, highlighting new tactics adopted by the state-sponsored adversary.\nThe Bring Your Own Vulnerable Driver (BYOVD) attack, which took place in the autumn of 2021, is another variant of the threat actor's espionage-oriented activity called Operation In(ter)",
-          "link": "https://thehackernews.com/2022/10/hackers-exploiting-dell-driver.html",
-          "publishedOn": "2022-10-03T10:56:00.000Z",
-          "wordCount": null,
-          "title": "Hackers Exploiting Dell Driver Vulnerability to Deploy Rootkit on Targeted Computers",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "tag:blogger.com,1999:blog-4802841478634147276.post-6149307598619253057",
-          "author": "noreply@blogger.com (Ravie Lakshmanan)",
-          "description": "A former U.S. National Security Agency (NSA) employee has been arrested on charges of attempting to sell classified information to a foreign spy, who was actually an undercover agent working for the Federal Bureau of Investigation (FBI).\nJareh Sebastian Dalke, 30, was employed at the NSA for less than a month from June 6, 2022, to July 1, 2022, serving as an Information Systems Security Designer",
-          "link": "https://thehackernews.com/2022/10/ex-nsa-employee-arrested-for-trying-to.html",
-          "publishedOn": "2022-10-03T09:51:00.000Z",
-          "wordCount": null,
-          "title": "Ex-NSA Employee Arrested for Trying to Sell U.S. Secrets to a Foreign Government",
           "itunes": {},
           "imageUrl": null
         }
