@@ -391,16 +391,6 @@
           "wordCount": 994,
           "title": "Impacket and Exfiltration Tool Used to Steal Sensitive Information from Defense Industrial Base Organization",
           "imageUrl": null
-        },
-        {
-          "id": "18032 at https://us-cert.cisa.gov",
-          "author": "CISA",
-          "description": "Original release date: October 4, 2022\nCISA has released five (5) Industrial Control Systems (ICS) advisories on October 04, 2022. These advisories provide timely information about current security issues, vulnerabilities, and exploits surrounding ICS.\nCISA encourages users and administrators to review the newly released ICS advisory for technical details and mitigations:\n•    ICSA-22-277-01 Johnson Controls Metasys ADX Server\nHitachi Energy Modular Switchgear Monitoring\nHorner Automation Cscape\nOmron CX-Programmer\nBD Totalys MultiProcessor\nThis product is provided subject to this Notification and this Privacy & Use policy.",
-          "link": "https://us-cert.cisa.gov/ncas/current-activity/2022/10/04/cisa-releases-five-industrial-control-systems-advisories",
-          "publishedOn": "2022-10-04T11:00:00.000Z",
-          "wordCount": 918,
-          "title": "CISA Releases Five Industrial Control Systems Advisories",
-          "imageUrl": null
         }
       ]
     },
@@ -439,6 +429,36 @@
       "feedUrl": "https://www.darkreading.com/rss.xml",
       "siteUrl": "https://www.darkreading.com",
       "articles": [
+        {
+          "id": "https://www.darkreading.com/mobile/cyber-threat-actor-booby-trapped-vpn-app-deploy-android-spyware",
+          "author": "Jai Vijayan, Contributing Writer, Dark Reading",
+          "description": "\"SandStrike,\" the latest example of espionage-aimed Android malware, relies on elaborate social media efforts and back-end infrastructure.",
+          "link": "https://www.darkreading.com/mobile/cyber-threat-actor-booby-trapped-vpn-app-deploy-android-spyware",
+          "publishedOn": "2022-11-02T19:50:00.000Z",
+          "wordCount": 13907,
+          "title": "Cyber-Threat Actor Uses Booby-Trapped VPN App to Deploy Android Spyware",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt02d79fb9a44a4258/60b1e9dd2a25046b35110696/Jai-Vijayan.jpeg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt02d79fb9a44a4258/60b1e9dd2a25046b35110696/Jai-Vijayan.jpeg"
+        },
+        {
+          "id": "https://www.darkreading.com/attacks-breaches/dropbox-code-repositories-stolen-cyberattack-github-developers",
+          "author": "Robert Lemos, Contributing Writer, Dark Reading",
+          "description": "An attack campaign using phishing attacks gives threat actors access to internal Dropbox code repositories, the latest in a series of attacks targeting developers through their GitHub accounts.",
+          "link": "https://www.darkreading.com/attacks-breaches/dropbox-code-repositories-stolen-cyberattack-github-developers",
+          "publishedOn": "2022-11-02T19:15:41.000Z",
+          "wordCount": 13513,
+          "title": "Dropbox Code Repositories Stolen in Cyberattack on GitHub-Based Developers",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt58481326324d6911/60b1e9a55d34de550780a990/Robert-Lemos.png",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt58481326324d6911/60b1e9a55d34de550780a990/Robert-Lemos.png"
+        },
         {
           "id": "https://www.darkreading.com/attacks-breaches/chinese-mob-100k-slaves-cambodian-cybercrime-mills",
           "author": "Dark Reading Staff, Dark Reading",
@@ -4088,91 +4108,6 @@
             "length": "0"
           },
           "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt953044ddf6d97d5e/633b29f63eff1b0ede456f81/Copy_of_Ramon_Chen_copy.png"
-        },
-        {
-          "id": "https://www.darkreading.com/attacks-breaches/steam-gaming-phish-showcases-browser-in-browser-threat",
-          "author": "Elizabeth Montalbano, Contributor, Dark Reading",
-          "description": "Attackers are using the recently emerged browser-in-the-browser phishing technique to steal accounts from Valve's popular gaming platform, but it's a warning shot to businesses.",
-          "link": "https://www.darkreading.com/attacks-breaches/steam-gaming-phish-showcases-browser-in-browser-threat",
-          "publishedOn": "2022-10-04T14:37:39.000Z",
-          "wordCount": 13235,
-          "title": "Steam Gaming Phish Showcases Browser-in-Browser Threat",
-          "enclosure": {
-            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltbfd004d139d42d70/6303bca6236c2476a257760e/ElizabethMontalbano.jpg",
-            "type": "image/*",
-            "length": "0"
-          },
-          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltbfd004d139d42d70/6303bca6236c2476a257760e/ElizabethMontalbano.jpg"
-        },
-        {
-          "id": "https://www.darkreading.com/attacks-breaches/more-than-30-of-all-malicious-attacks-target-shadow-apis",
-          "author": null,
-          "description": "New research spotlights how attackers are capitalizing on API-driven innovation.",
-          "link": "https://www.darkreading.com/attacks-breaches/more-than-30-of-all-malicious-attacks-target-shadow-apis",
-          "publishedOn": "2022-10-04T14:30:42.000Z",
-          "wordCount": 12401,
-          "title": "More Than 30% of All Malicious Attacks Target Shadow APIs",
-          "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
-        },
-        {
-          "id": "https://www.darkreading.com/cloud/eclypsium-raises-series-b-to-protect-digital-supply-chain-as-attacks-grow",
-          "author": null,
-          "description": "The new round highlights market demand to protect global businesses from soaring breaches through supply chains of critical hardware, devices, firmware, and software.",
-          "link": "https://www.darkreading.com/cloud/eclypsium-raises-series-b-to-protect-digital-supply-chain-as-attacks-grow",
-          "publishedOn": "2022-10-04T14:26:17.000Z",
-          "wordCount": 11650,
-          "title": "Eclypsium Raises Series B to Protect Digital Supply Chain As Attacks Grow",
-          "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
-        },
-        {
-          "id": "https://www.darkreading.com/perimeter/aryaka-delivers-zero-trust-wan-based-on-unified-sase-architecture",
-          "author": null,
-          "description": "The new offering integrates firewall-as-a-service and secure web gateway into cloud-managed networking and security services.",
-          "link": "https://www.darkreading.com/perimeter/aryaka-delivers-zero-trust-wan-based-on-unified-sase-architecture",
-          "publishedOn": "2022-10-04T14:11:01.000Z",
-          "wordCount": 11486,
-          "title": "Aryaka Delivers Zero-Trust WAN Based on Unified SASE Architecture",
-          "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
-        },
-        {
-          "id": "https://www.darkreading.com/vulnerabilities-threats/ransomware-3-the-next-frontier",
-          "author": "James Gimbi, Senior Director of Technical Advisory Services, Moxfive",
-          "description": "Attackers are already circling back to reselling stolen data instead of — and in addition to — extortion.",
-          "link": "https://www.darkreading.com/vulnerabilities-threats/ransomware-3-the-next-frontier",
-          "publishedOn": "2022-10-04T14:00:00.000Z",
-          "wordCount": 12289,
-          "title": "Ransomware 3.0: The Next Frontier",
-          "enclosure": {
-            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt2694ce0ff728024b/632b26ee5575fa42da5b7e8b/James_Gimbi_310x310_Headshot.jpeg",
-            "type": "image/*",
-            "length": "0"
-          },
-          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt2694ce0ff728024b/632b26ee5575fa42da5b7e8b/James_Gimbi_310x310_Headshot.jpeg"
-        },
-        {
-          "id": "https://www.darkreading.com/cloud/tidal-cyber-closes-4m-funding-round-to-continue-making-threat-informed-defense-achievable",
-          "author": null,
-          "description": ".",
-          "link": "https://www.darkreading.com/cloud/tidal-cyber-closes-4m-funding-round-to-continue-making-threat-informed-defense-achievable",
-          "publishedOn": "2022-10-04T13:50:54.000Z",
-          "wordCount": 11323,
-          "title": "Tidal Cyber Closes $4M Funding Round To Expand Threat-Informed Defense Tech",
-          "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
-        },
-        {
-          "id": "https://www.darkreading.com/risk/expert-insights-how-to-protect-sensitive-machine-learning-training-data-without-borking-it",
-          "author": "Gary McGraw Ph.D., Co-founder Berryville Institute of Machine Learning",
-          "description": "Another element of ML security is the data used to train the machine learning system itself.",
-          "link": "https://www.darkreading.com/risk/expert-insights-how-to-protect-sensitive-machine-learning-training-data-without-borking-it",
-          "publishedOn": "2022-10-04T13:10:00.000Z",
-          "wordCount": 13835,
-          "title": "Expert Insights: How to Protect Sensitive Machine-Learning Training Data Without Borking It",
-          "enclosure": {
-            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltc237eab142d777db/60d446bd5e51ad3b1d1ce2da/Gary-McGraw.png",
-            "type": "image/*",
-            "length": "0"
-          },
-          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltc237eab142d777db/60d446bd5e51ad3b1d1ce2da/Gary-McGraw.png"
         }
       ]
     },
@@ -4302,6 +4237,16 @@
       "feedUrl": "https://fieldeffect.com/feed/?post_type=threats",
       "siteUrl": "https://fieldeffect.com/threats/",
       "articles": [
+        {
+          "id": "https://fieldeffect.com/?post_type=threats&p=6654",
+          "author": "Elena Lapina",
+          "description": "On 1 November 2022, the OpenSSL project released OpenSSL version 3.0.7 to address two high-severity security issues. We recommend updating the affected product to the latest version immediately and following the mitigation steps below. Details On 1 November 2022, the OpenSSL project released a security update to address two high-severity flaws in Open Secure Sockets […]\nThe post Two High-Severity Flaws Fixed in OpenSSL appeared first on Field Effect Software Inc.",
+          "link": "https://fieldeffect.com/threats/two-high-severity-flaws-fixed-in-openssl/",
+          "publishedOn": "2022-11-02T21:16:35.000Z",
+          "wordCount": 767,
+          "title": "Two High-Severity Flaws Fixed in OpenSSL",
+          "imageUrl": "https://fieldeffect.com/wp-content/uploads/2020/05/Untitled-design-9.png"
+        },
         {
           "id": "https://fieldeffect.com/?post_type=threats&p=6636",
           "author": "Elena Lapina",
@@ -4858,66 +4803,6 @@
           "wordCount": 2142,
           "title": "IRS Warns of A Spike in Smishing Attacks",
           "imageUrl": "https://blog.knowbe4.com/hubfs/Smishing%20Attacks.jpg#keepProtocol"
-        },
-        {
-          "id": "https://blog.knowbe4.com/fcc-warns-of-post-hurricane-scams",
-          "author": "Stu Sjouwerman",
-          "description": "The US Federal Communications Commission (FCC) offers advice on how to avoid falling for scams that follow in the wake of natural disasters like Hurricane Ian. Scammers target victims of disasters as well as people trying to donate to charities.",
-          "link": "https://blog.knowbe4.com/fcc-warns-of-post-hurricane-scams",
-          "publishedOn": "2022-10-04T13:58:33.000Z",
-          "wordCount": 2212,
-          "title": "FCC Warns of Post-Hurricane Scams",
-          "imageUrl": "https://blog.knowbe4.com/hubfs/Hurricane%20Scams.jpg#keepProtocol"
-        },
-        {
-          "id": "https://blog.knowbe4.com/fall-2022-g2-grid-report-security-awareness-training-leader",
-          "author": "Stu Sjouwerman",
-          "description": "We are thrilled to announce that KnowBe4 has been named a leader in the latest G2 Grid Report that compares Security Awareness Training (SAT) vendors based on user reviews, customer satisfaction, popularity and market presence.",
-          "link": "https://blog.knowbe4.com/fall-2022-g2-grid-report-security-awareness-training-leader",
-          "publishedOn": "2022-10-04T13:50:25.000Z",
-          "wordCount": 1939,
-          "title": "KnowBe4 Named a Leader in the Fall 2022 G2 Grid Report for Security Awareness Training",
-          "imageUrl": "https://blog.knowbe4.com/hubfs/G2-Fall-2022-SM.jpg#keepProtocol"
-        },
-        {
-          "id": "https://blog.knowbe4.com/fall-2022-g2-grid-report-soar-leader",
-          "author": "Stu Sjouwerman",
-          "description": "We are excited to announce that KnowBe4 has been named a leader in the Fall 2022 G2 Grid Report for Security Orchestration, Automation, and Response (SOAR) for the PhishER platform for the sixth consecutive quarter!",
-          "link": "https://blog.knowbe4.com/fall-2022-g2-grid-report-soar-leader",
-          "publishedOn": "2022-10-04T13:50:21.000Z",
-          "wordCount": 1916,
-          "title": "KnowBe4 Named a Leader in the Fall 2022 G2 Grid Report for Security Orchestration, Automation, and Response (SOAR)",
-          "imageUrl": "https://blog.knowbe4.com/hubfs/G2-Fall-2022-SOAR-SM.jpg#keepProtocol"
-        },
-        {
-          "id": "https://blog.knowbe4.com/cyberheistnews-vol-12-40-eye-opener-the-fbi-warns-against-a-new-cyber-attack-vector-called-business-identity-compromise-bic",
-          "author": "Stu Sjouwerman",
-          "description": "CyberheistNews Vol 12 #40 [Eye Opener] The FBI Warns Against a New Cyber Attack Vector Called Business Identity Compromise (BIC)",
-          "link": "https://blog.knowbe4.com/cyberheistnews-vol-12-40-eye-opener-the-fbi-warns-against-a-new-cyber-attack-vector-called-business-identity-compromise-bic",
-          "publishedOn": "2022-10-04T13:30:00.000Z",
-          "wordCount": 5310,
-          "title": "CyberheistNews Vol 12 #40 [Eye Opener] The FBI Warns Against a New Cyber Attack Vector Called Business Identity Compromise (BIC)",
-          "imageUrl": "https://blog.knowbe4.com/hubfs/CHN-Social.jpg#keepProtocol"
-        },
-        {
-          "id": "https://blog.knowbe4.com/cyber-risk-top-concern-for-businesses",
-          "author": "Stu Sjouwerman",
-          "description": "New insight from over 1200 businesses paints a picture of how organizations believe they are ready for an attack and are definitely focused on cyber risk, but don’t have what they need in place.",
-          "link": "https://blog.knowbe4.com/cyber-risk-top-concern-for-businesses",
-          "publishedOn": "2022-10-04T13:14:59.000Z",
-          "wordCount": 2073,
-          "title": "Cyber Risk Remains Top Concern for Businesses with a Distinct Lack of Unpreparedness",
-          "imageUrl": "https://blog.knowbe4.com/hubfs/Cyber%20Risk%20Top%20Concern.jpg#keepProtocol"
-        },
-        {
-          "id": "https://blog.knowbe4.com/one-fourth-of-organizations-have-been-ransomware-victims",
-          "author": "Stu Sjouwerman",
-          "description": "New analysis highlights just how prevalent ransomware attacks are today, how material the impacts are, whether organizations get their data back, and exactly how these attacks start.",
-          "link": "https://blog.knowbe4.com/one-fourth-of-organizations-have-been-ransomware-victims",
-          "publishedOn": "2022-10-04T13:14:56.000Z",
-          "wordCount": 2145,
-          "title": "One-Fourth of Organizations Have Been Victim to a Ransomware Attack with 59% Starting with Email",
-          "imageUrl": "https://blog.knowbe4.com/hubfs/Victim%20of%20a%20Ransomware%20Attack.jpg#keepProtocol"
         }
       ]
     },
@@ -6287,50 +6172,6 @@
           "publishedOn": "2022-10-04T15:09:00.000Z",
           "wordCount": null,
           "title": "Researchers Report Supply Chain Vulnerability in Packagist PHP Repository",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "tag:blogger.com,1999:blog-4802841478634147276.post-6183344614876690796",
-          "author": "noreply@blogger.com (The Hacker News)",
-          "description": "A big promise with a big appeal. You hear that a lot in the world of cybersecurity, where you're often promised a fast, simple fix that will take care of all your cybersecurity needs, solving your security challenges in one go. \nIt could be an AI-based tool, a new superior management tool, or something else – and it would probably be quite effective at what it promises to do.\nBut is it a silver",
-          "link": "https://thehackernews.com/2022/10/back-to-basics-cybersecuritys-weakest.html",
-          "publishedOn": "2022-10-04T12:44:00.000Z",
-          "wordCount": null,
-          "title": "Back to Basics: Cybersecurity's Weakest Link",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "tag:blogger.com,1999:blog-4802841478634147276.post-7265292787711306582",
-          "author": "noreply@blogger.com (Ravie Lakshmanan)",
-          "description": "A 46-year-old man in the U.S. has been sentenced to 25 years in prison after being found guilty of laundering over $9.5 million accrued by carrying out cyber-enabled financial fraud.\nElvis Eghosa Ogiekpolor of Norcross, Georgia, operated a money laundering network that opened at least 50 business bank accounts for illicitly receiving funds from unsuspecting individuals and businesses after",
-          "link": "https://thehackernews.com/2022/10/bec-scammer-gets-25-year-jail-sentence.html",
-          "publishedOn": "2022-10-04T12:23:00.000Z",
-          "wordCount": null,
-          "title": "BEC Scammer Gets 25-Year Jail Sentence for Stealing Over $9.5 Million",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "tag:blogger.com,1999:blog-4802841478634147276.post-8444453801087454339",
-          "author": "noreply@blogger.com (Ravie Lakshmanan)",
-          "description": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has issued a new Binding Operational Directive (BOD) that directs federal agencies in the country to keep track of assets and vulnerabilities on their networks six months from now.\nTo that end, Federal Civilian Executive Branch (FCEB) enterprises have been tasked with two sets of activities: Asset discovery and vulnerability",
-          "link": "https://thehackernews.com/2022/10/cisa-orders-federal-agencies-to.html",
-          "publishedOn": "2022-10-04T10:16:00.000Z",
-          "wordCount": null,
-          "title": "CISA Orders Federal Agencies to Regularly Track Network Assets and Vulnerabilities",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "tag:blogger.com,1999:blog-4802841478634147276.post-3763310170630160466",
-          "author": "noreply@blogger.com (The Hacker News)",
-          "description": "Nicknamed ProxyNotShell, a new exploit used in the wild takes advantage of the recently published Microsoft Server-Side Request Forgery (SSRF) vulnerability CVE-2022-41040 and a second vulnerability, CVE-2022-41082 that allows Remote Code Execution (RCE) when PowerShell is available to unidentified attackers.\nBased on ProxyShell, this new zero-day abuse risk leverage a chained attack similar to",
-          "link": "https://thehackernews.com/2022/10/proxynotshell-new-proxy-hell.html",
-          "publishedOn": "2022-10-04T08:05:00.000Z",
-          "wordCount": null,
-          "title": "ProxyNotShell – the New Proxy Hell?",
           "itunes": {},
           "imageUrl": null
         }

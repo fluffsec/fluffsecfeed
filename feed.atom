@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-11-02T19:20:15.560Z</updated>
+    <updated>2022-11-03T03:06:24.763Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Two High-Severity Flaws Fixed in OpenSSL]]></title>
+        <id>https://fieldeffect.com/?post_type=threats&amp;p=6654</id>
+        <link href="https://fieldeffect.com/threats/two-high-severity-flaws-fixed-in-openssl/"/>
+        <updated>2022-11-02T21:16:35.000Z</updated>
+        <summary type="html"><![CDATA[On 1 November 2022, the OpenSSL project released OpenSSL version 3.0.7 to address two high-severity security issues. We recommend updating the affected product to the latest version immediately and following the mitigation steps below. Details On 1 November 2022, the OpenSSL project released a security update to address two high-severity flaws in Open Secure Sockets […]
+The post Two High-Severity Flaws Fixed in OpenSSL appeared first on Field Effect Software Inc.]]></summary>
+        <author>
+            <name>Elena Lapina</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cyber-Threat Actor Uses Booby-Trapped VPN App to Deploy Android Spyware]]></title>
+        <id>https://www.darkreading.com/mobile/cyber-threat-actor-booby-trapped-vpn-app-deploy-android-spyware</id>
+        <link href="https://www.darkreading.com/mobile/cyber-threat-actor-booby-trapped-vpn-app-deploy-android-spyware"/>
+        <updated>2022-11-02T19:50:00.000Z</updated>
+        <summary type="html"><![CDATA["SandStrike," the latest example of espionage-aimed Android malware, relies on elaborate social media efforts and back-end infrastructure.]]></summary>
+        <author>
+            <name>Jai Vijayan, Contributing Writer, Dark Reading</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Phishing-Resistant Does Not Mean Un-Phishable]]></title>
         <id>https://blog.knowbe4.com/phishing-resistant-does-not-mean-un-phishable</id>
@@ -14,6 +35,16 @@
         <summary type="html"><![CDATA[Human societies have a bad habit of taking a specific, limited-in-scope fact and turning it into an overly broad generalization that gets incorrectly believed and perpetuated as if it were as comprehensively accurate as the original, more-limited fact it was based on.]]></summary>
         <author>
             <name>Stu Sjouwerman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dropbox Code Repositories Stolen in Cyberattack on GitHub-Based Developers]]></title>
+        <id>https://www.darkreading.com/attacks-breaches/dropbox-code-repositories-stolen-cyberattack-github-developers</id>
+        <link href="https://www.darkreading.com/attacks-breaches/dropbox-code-repositories-stolen-cyberattack-github-developers"/>
+        <updated>2022-11-02T19:15:41.000Z</updated>
+        <summary type="html"><![CDATA[An attack campaign using phishing attacks gives threat actors access to internal Dropbox code repositories, the latest in a series of attacks targeting developers through their GitHub accounts.]]></summary>
+        <author>
+            <name>Robert Lemos, Contributing Writer, Dark Reading</name>
         </author>
     </entry>
     <entry>
@@ -5482,199 +5513,6 @@ The malicious version]]></summary>
 "This vulnerability allows gaining control of Packagist," SonarSource researcher Thomas Chauchefoin said in a report shared with The Hacker News. Packagist is used by the PHP package manager]]></summary>
         <author>
             <name>noreply@blogger.com (Ravie Lakshmanan)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Steam Gaming Phish Showcases Browser-in-Browser Threat]]></title>
-        <id>https://www.darkreading.com/attacks-breaches/steam-gaming-phish-showcases-browser-in-browser-threat</id>
-        <link href="https://www.darkreading.com/attacks-breaches/steam-gaming-phish-showcases-browser-in-browser-threat"/>
-        <updated>2022-10-04T14:37:39.000Z</updated>
-        <summary type="html"><![CDATA[Attackers are using the recently emerged browser-in-the-browser phishing technique to steal accounts from Valve's popular gaming platform, but it's a warning shot to businesses.]]></summary>
-        <author>
-            <name>Elizabeth Montalbano, Contributor, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[More Than 30% of All Malicious Attacks Target Shadow APIs]]></title>
-        <id>https://www.darkreading.com/attacks-breaches/more-than-30-of-all-malicious-attacks-target-shadow-apis</id>
-        <link href="https://www.darkreading.com/attacks-breaches/more-than-30-of-all-malicious-attacks-target-shadow-apis"/>
-        <updated>2022-10-04T14:30:42.000Z</updated>
-        <summary type="html"><![CDATA[New research spotlights how attackers are capitalizing on API-driven innovation.]]></summary>
-        <author>
-            <name>Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Eclypsium Raises Series B to Protect Digital Supply Chain As Attacks Grow]]></title>
-        <id>https://www.darkreading.com/cloud/eclypsium-raises-series-b-to-protect-digital-supply-chain-as-attacks-grow</id>
-        <link href="https://www.darkreading.com/cloud/eclypsium-raises-series-b-to-protect-digital-supply-chain-as-attacks-grow"/>
-        <updated>2022-10-04T14:26:17.000Z</updated>
-        <summary type="html"><![CDATA[The new round highlights market demand to protect global businesses from soaring breaches through supply chains of critical hardware, devices, firmware, and software.]]></summary>
-        <author>
-            <name>Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Aryaka Delivers Zero-Trust WAN Based on Unified SASE Architecture]]></title>
-        <id>https://www.darkreading.com/perimeter/aryaka-delivers-zero-trust-wan-based-on-unified-sase-architecture</id>
-        <link href="https://www.darkreading.com/perimeter/aryaka-delivers-zero-trust-wan-based-on-unified-sase-architecture"/>
-        <updated>2022-10-04T14:11:01.000Z</updated>
-        <summary type="html"><![CDATA[The new offering integrates firewall-as-a-service and secure web gateway into cloud-managed networking and security services.]]></summary>
-        <author>
-            <name>Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ransomware 3.0: The Next Frontier]]></title>
-        <id>https://www.darkreading.com/vulnerabilities-threats/ransomware-3-the-next-frontier</id>
-        <link href="https://www.darkreading.com/vulnerabilities-threats/ransomware-3-the-next-frontier"/>
-        <updated>2022-10-04T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Attackers are already circling back to reselling stolen data instead of — and in addition to — extortion.]]></summary>
-        <author>
-            <name>James Gimbi, Senior Director of Technical Advisory Services, Moxfive</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FCC Warns of Post-Hurricane Scams]]></title>
-        <id>https://blog.knowbe4.com/fcc-warns-of-post-hurricane-scams</id>
-        <link href="https://blog.knowbe4.com/fcc-warns-of-post-hurricane-scams"/>
-        <updated>2022-10-04T13:58:33.000Z</updated>
-        <summary type="html"><![CDATA[The US Federal Communications Commission (FCC) offers advice on how to avoid falling for scams that follow in the wake of natural disasters like Hurricane Ian. Scammers target victims of disasters as well as people trying to donate to charities.]]></summary>
-        <author>
-            <name>Stu Sjouwerman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tidal Cyber Closes $4M Funding Round To Expand Threat-Informed Defense Tech]]></title>
-        <id>https://www.darkreading.com/cloud/tidal-cyber-closes-4m-funding-round-to-continue-making-threat-informed-defense-achievable</id>
-        <link href="https://www.darkreading.com/cloud/tidal-cyber-closes-4m-funding-round-to-continue-making-threat-informed-defense-achievable"/>
-        <updated>2022-10-04T13:50:54.000Z</updated>
-        <summary type="html"><![CDATA[.]]></summary>
-        <author>
-            <name>Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[KnowBe4 Named a Leader in the Fall 2022 G2 Grid Report for Security Awareness Training]]></title>
-        <id>https://blog.knowbe4.com/fall-2022-g2-grid-report-security-awareness-training-leader</id>
-        <link href="https://blog.knowbe4.com/fall-2022-g2-grid-report-security-awareness-training-leader"/>
-        <updated>2022-10-04T13:50:25.000Z</updated>
-        <summary type="html"><![CDATA[We are thrilled to announce that KnowBe4 has been named a leader in the latest G2 Grid Report that compares Security Awareness Training (SAT) vendors based on user reviews, customer satisfaction, popularity and market presence.]]></summary>
-        <author>
-            <name>Stu Sjouwerman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[KnowBe4 Named a Leader in the Fall 2022 G2 Grid Report for Security Orchestration, Automation, and Response (SOAR)]]></title>
-        <id>https://blog.knowbe4.com/fall-2022-g2-grid-report-soar-leader</id>
-        <link href="https://blog.knowbe4.com/fall-2022-g2-grid-report-soar-leader"/>
-        <updated>2022-10-04T13:50:21.000Z</updated>
-        <summary type="html"><![CDATA[We are excited to announce that KnowBe4 has been named a leader in the Fall 2022 G2 Grid Report for Security Orchestration, Automation, and Response (SOAR) for the PhishER platform for the sixth consecutive quarter!]]></summary>
-        <author>
-            <name>Stu Sjouwerman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CyberheistNews Vol 12 #40 [Eye Opener] The FBI Warns Against a New Cyber Attack Vector Called Business Identity Compromise (BIC)]]></title>
-        <id>https://blog.knowbe4.com/cyberheistnews-vol-12-40-eye-opener-the-fbi-warns-against-a-new-cyber-attack-vector-called-business-identity-compromise-bic</id>
-        <link href="https://blog.knowbe4.com/cyberheistnews-vol-12-40-eye-opener-the-fbi-warns-against-a-new-cyber-attack-vector-called-business-identity-compromise-bic"/>
-        <updated>2022-10-04T13:30:00.000Z</updated>
-        <summary type="html"><![CDATA[CyberheistNews Vol 12 #40 [Eye Opener] The FBI Warns Against a New Cyber Attack Vector Called Business Identity Compromise (BIC)]]></summary>
-        <author>
-            <name>Stu Sjouwerman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cyber Risk Remains Top Concern for Businesses with a Distinct Lack of Unpreparedness]]></title>
-        <id>https://blog.knowbe4.com/cyber-risk-top-concern-for-businesses</id>
-        <link href="https://blog.knowbe4.com/cyber-risk-top-concern-for-businesses"/>
-        <updated>2022-10-04T13:14:59.000Z</updated>
-        <summary type="html"><![CDATA[New insight from over 1200 businesses paints a picture of how organizations believe they are ready for an attack and are definitely focused on cyber risk, but don’t have what they need in place.]]></summary>
-        <author>
-            <name>Stu Sjouwerman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[One-Fourth of Organizations Have Been Victim to a Ransomware Attack with 59% Starting with Email]]></title>
-        <id>https://blog.knowbe4.com/one-fourth-of-organizations-have-been-ransomware-victims</id>
-        <link href="https://blog.knowbe4.com/one-fourth-of-organizations-have-been-ransomware-victims"/>
-        <updated>2022-10-04T13:14:56.000Z</updated>
-        <summary type="html"><![CDATA[New analysis highlights just how prevalent ransomware attacks are today, how material the impacts are, whether organizations get their data back, and exactly how these attacks start.]]></summary>
-        <author>
-            <name>Stu Sjouwerman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Expert Insights: How to Protect Sensitive Machine-Learning Training Data Without Borking It]]></title>
-        <id>https://www.darkreading.com/risk/expert-insights-how-to-protect-sensitive-machine-learning-training-data-without-borking-it</id>
-        <link href="https://www.darkreading.com/risk/expert-insights-how-to-protect-sensitive-machine-learning-training-data-without-borking-it"/>
-        <updated>2022-10-04T13:10:00.000Z</updated>
-        <summary type="html"><![CDATA[Another element of ML security is the data used to train the machine learning system itself.]]></summary>
-        <author>
-            <name>Gary McGraw Ph.D., Co-founder Berryville Institute of Machine Learning</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Back to Basics: Cybersecurity's Weakest Link]]></title>
-        <id>tag:blogger.com,1999:blog-4802841478634147276.post-6183344614876690796</id>
-        <link href="https://thehackernews.com/2022/10/back-to-basics-cybersecuritys-weakest.html"/>
-        <updated>2022-10-04T12:44:00.000Z</updated>
-        <summary type="html"><![CDATA[A big promise with a big appeal. You hear that a lot in the world of cybersecurity, where you're often promised a fast, simple fix that will take care of all your cybersecurity needs, solving your security challenges in one go. 
-It could be an AI-based tool, a new superior management tool, or something else – and it would probably be quite effective at what it promises to do.
-But is it a silver]]></summary>
-        <author>
-            <name>noreply@blogger.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BEC Scammer Gets 25-Year Jail Sentence for Stealing Over $9.5 Million]]></title>
-        <id>tag:blogger.com,1999:blog-4802841478634147276.post-7265292787711306582</id>
-        <link href="https://thehackernews.com/2022/10/bec-scammer-gets-25-year-jail-sentence.html"/>
-        <updated>2022-10-04T12:23:00.000Z</updated>
-        <summary type="html"><![CDATA[A 46-year-old man in the U.S. has been sentenced to 25 years in prison after being found guilty of laundering over $9.5 million accrued by carrying out cyber-enabled financial fraud.
-Elvis Eghosa Ogiekpolor of Norcross, Georgia, operated a money laundering network that opened at least 50 business bank accounts for illicitly receiving funds from unsuspecting individuals and businesses after]]></summary>
-        <author>
-            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CISA Releases Five Industrial Control Systems Advisories]]></title>
-        <id>18032 at https://us-cert.cisa.gov</id>
-        <link href="https://us-cert.cisa.gov/ncas/current-activity/2022/10/04/cisa-releases-five-industrial-control-systems-advisories"/>
-        <updated>2022-10-04T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Original release date: October 4, 2022
-CISA has released five (5) Industrial Control Systems (ICS) advisories on October 04, 2022. These advisories provide timely information about current security issues, vulnerabilities, and exploits surrounding ICS.
-CISA encourages users and administrators to review the newly released ICS advisory for technical details and mitigations:
-•    ICSA-22-277-01 Johnson Controls Metasys ADX Server
-Hitachi Energy Modular Switchgear Monitoring
-Horner Automation Cscape
-Omron CX-Programmer
-BD Totalys MultiProcessor
-This product is provided subject to this Notification and this Privacy & Use policy.]]></summary>
-        <author>
-            <name>CISA</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CISA Orders Federal Agencies to Regularly Track Network Assets and Vulnerabilities]]></title>
-        <id>tag:blogger.com,1999:blog-4802841478634147276.post-8444453801087454339</id>
-        <link href="https://thehackernews.com/2022/10/cisa-orders-federal-agencies-to.html"/>
-        <updated>2022-10-04T10:16:00.000Z</updated>
-        <summary type="html"><![CDATA[The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has issued a new Binding Operational Directive (BOD) that directs federal agencies in the country to keep track of assets and vulnerabilities on their networks six months from now.
-To that end, Federal Civilian Executive Branch (FCEB) enterprises have been tasked with two sets of activities: Asset discovery and vulnerability]]></summary>
-        <author>
-            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ProxyNotShell – the New Proxy Hell?]]></title>
-        <id>tag:blogger.com,1999:blog-4802841478634147276.post-3763310170630160466</id>
-        <link href="https://thehackernews.com/2022/10/proxynotshell-new-proxy-hell.html"/>
-        <updated>2022-10-04T08:05:00.000Z</updated>
-        <summary type="html"><![CDATA[Nicknamed ProxyNotShell, a new exploit used in the wild takes advantage of the recently published Microsoft Server-Side Request Forgery (SSRF) vulnerability CVE-2022-41040 and a second vulnerability, CVE-2022-41082 that allows Remote Code Execution (RCE) when PowerShell is available to unidentified attackers.
-Based on ProxyShell, this new zero-day abuse risk leverage a chained attack similar to]]></summary>
-        <author>
-            <name>noreply@blogger.com (The Hacker News)</name>
         </author>
     </entry>
     <entry>
