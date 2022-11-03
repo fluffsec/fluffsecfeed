@@ -24,16 +24,6 @@
           "wordCount": 3568,
           "title": "AA22-279A: Top CVEs Actively Exploited By People’s Republic of China State-Sponsored Cyber Actors",
           "imageUrl": null
-        },
-        {
-          "id": "17956 at https://us-cert.cisa.gov",
-          "author": "CISA",
-          "description": "Original release date: October 4, 2022\nSummary\nActions to Help Protect Against Russian State-Sponsored Malicious Cyber Activity:\nFrom November 2021 through January 2022, the Cybersecurity and Infrastructure Security Agency (CISA) responded to advanced persistent threat (APT) activity on a Defense Industrial Base (DIB) Sector organization’s enterprise network. During incident response activities, CISA uncovered that likely multiple APT groups compromised the organization’s network, and some APT actors had long-term access to the environment. APT actors used an open-source toolkit called Impacket to gain their foothold within the environment and further compromise the network, and also used a custom data exfiltration tool, CovalentStealer, to steal the victim’s sensitive data.\nThis joint Cyb…",
-          "link": "https://us-cert.cisa.gov/ncas/alerts/aa22-277a",
-          "publishedOn": "2022-10-04T17:58:00.000Z",
-          "wordCount": 5368,
-          "title": "AA22-277A: Impacket and Exfiltration Tool Used to Steal Sensitive Information from Defense Industrial Base Organization",
-          "imageUrl": null
         }
       ]
     },
@@ -380,16 +370,6 @@
           "publishedOn": "2022-10-05T13:21:29.000Z",
           "wordCount": 957,
           "title": "FBI and CISA Publish a PSA on Malicious Cyber Activity Against Election Infrastructure",
-          "imageUrl": null
-        },
-        {
-          "id": "17958 at https://us-cert.cisa.gov",
-          "author": "CISA",
-          "description": "Original release date: October 4, 2022\nCISA, the Federal Bureau of Investigation (FBI), and the National Security Agency (NSA) have released a joint Cybersecurity Advisory (CSA), Impacket and Exfiltration Tool Used to Steal Sensitive Information from Defense Industrial Base Organization, highlighting advanced persistent threat (APT) activity observed on a Defense Industrial Base (DIB) Sector organization’s enterprise network. ATP actors used the open-source toolkit, Impacket, to gain a foothold within the environment and data exfiltration tool, CovalentStealer, to steal the victim’s sensitive data.\nJoint Cybersecurity Advisory AA22-277A provides the APT actors tactics, techniques, and procedures (TTPs) and indicators of compromise (IOCs). CISA, FBI, and NSA recommend DIB sector and other critical infrastructure organizations implement the mitigations in this CSA to ensure they are managing and reducing the impact of APT cyber threats to their networks.\nThis product is provided subject to this Notification and this Privacy & Use policy.",
-          "link": "https://us-cert.cisa.gov/ncas/current-activity/2022/10/04/impacket-and-exfiltration-tool-used-steal-sensitive-information",
-          "publishedOn": "2022-10-04T16:58:00.000Z",
-          "wordCount": 994,
-          "title": "Impacket and Exfiltration Tool Used to Steal Sensitive Information from Defense Industrial Base Organization",
           "imageUrl": null
         }
       ]
@@ -4048,66 +4028,6 @@
             "length": "0"
           },
           "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt02d79fb9a44a4258/60b1e9dd2a25046b35110696/Jai-Vijayan.jpeg"
-        },
-        {
-          "id": "https://www.darkreading.com/microsoft/5-attack-elements-every-organizations-should-be-monitoring",
-          "author": "Microsoft Security, Microsoft",
-          "description": "Security teams have to protect an increasingly complex enterprise environment. Here are five elements of attack surface management they should consider.",
-          "link": "https://www.darkreading.com/microsoft/5-attack-elements-every-organizations-should-be-monitoring",
-          "publishedOn": "2022-10-04T19:00:00.000Z",
-          "wordCount": 12099,
-          "title": "5 Attack Elements Every Organizations Should Be Monitoring",
-          "enclosure": {
-            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt8fe4479bc32f84b4/6321f5362769d078008692a9/MS-Security_logo.png",
-            "type": "image/*",
-            "length": "0"
-          },
-          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt8fe4479bc32f84b4/6321f5362769d078008692a9/MS-Security_logo.png"
-        },
-        {
-          "id": "https://www.darkreading.com/attacks-breaches/aussie-telco-telstra-breached-reportedly-exposing-30-000-employees-data",
-          "author": "Dark Reading Staff, Dark Reading",
-          "description": "The Telstra cyber incident comes just weeks after its main rival Optus suffered a major compromise of its customer database.",
-          "link": "https://www.darkreading.com/attacks-breaches/aussie-telco-telstra-breached-reportedly-exposing-30-000-employees-data",
-          "publishedOn": "2022-10-04T17:55:00.000Z",
-          "wordCount": 9341,
-          "title": "Aussie Telco Telstra Breached, Reportedly Exposing 30,000 Employees' Data",
-          "enclosure": {
-            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blte161b23f0fd3a84b/60b1ea374e7eb868c4c6a293/dr_staff_125x125.jpg",
-            "type": "image/*",
-            "length": "0"
-          },
-          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blte161b23f0fd3a84b/60b1ea374e7eb868c4c6a293/dr_staff_125x125.jpg"
-        },
-        {
-          "id": "https://www.darkreading.com/attacks-breaches/ex--nsa-employee-faces-death-penalty-for-selling-secrets",
-          "author": "Dark Reading Staff, Dark Reading",
-          "description": "Suspect allegedly thought he was swapping secrets with a foreign government for crypto — but the contact turned out to be an FBI agent.",
-          "link": "https://www.darkreading.com/attacks-breaches/ex--nsa-employee-faces-death-penalty-for-selling-secrets",
-          "publishedOn": "2022-10-04T17:10:51.000Z",
-          "wordCount": 10153,
-          "title": "Former NSA Employee Faces Death Penalty for Selling Secrets",
-          "enclosure": {
-            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blte161b23f0fd3a84b/60b1ea374e7eb868c4c6a293/dr_staff_125x125.jpg",
-            "type": "image/*",
-            "length": "0"
-          },
-          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blte161b23f0fd3a84b/60b1ea374e7eb868c4c6a293/dr_staff_125x125.jpg"
-        },
-        {
-          "id": "https://www.darkreading.com/endpoint/workforce-data-privacy-in-the-modern-work-era",
-          "author": "Ramon Chen, Chief Product Officer, ActivTrak",
-          "description": "It takes culture as well as individual and corporate responsibilities to ensure workforce data privacy and compliance.",
-          "link": "https://www.darkreading.com/endpoint/workforce-data-privacy-in-the-modern-work-era",
-          "publishedOn": "2022-10-04T17:00:00.000Z",
-          "wordCount": 11691,
-          "title": "Workforce Data Privacy in the Modern Work Era",
-          "enclosure": {
-            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt953044ddf6d97d5e/633b29f63eff1b0ede456f81/Copy_of_Ramon_Chen_copy.png",
-            "type": "image/*",
-            "length": "0"
-          },
-          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt953044ddf6d97d5e/633b29f63eff1b0ede456f81/Copy_of_Ramon_Chen_copy.png"
         }
       ]
     },
@@ -4150,6 +4070,16 @@
       "feedUrl": "https://msrc-blog.microsoft.com/feed/",
       "siteUrl": "https://msrc-blog.microsoft.com",
       "articles": [
+        {
+          "id": "https://msrc-blog.microsoft.com/?p=15115",
+          "author": "msrc",
+          "description": "Summary   Microsoft is aware and actively addressing the impact associated with the recent OpenSSL vulnerabilities announced on October 25th 2022, fixed in version 3.0.7. As part of our standard processes, we are rolling out fixes for impacted services.  Any customer action that is required will be highlighted in this blog and our associated Security Update …\n  Awareness and guidance related to OpenSSL 3.0 – 3.0.6 risk (CVE-2022-3786 and CVE-2202-3602) Read More »",
+          "link": "https://msrc-blog.microsoft.com/2022/11/02/microsoft-guidance-related-to-openssl-risk-cve-2022-3786-and-cve-2202-3602/",
+          "publishedOn": "2022-11-03T00:46:06.000Z",
+          "wordCount": 2143,
+          "title": "Awareness and guidance related to OpenSSL 3.0 – 3.0.6 risk (CVE-2022-3786 and CVE-2202-3602)",
+          "imageUrl": null
+        },
         {
           "id": "https://msrc-blog.microsoft.com/?p=15092",
           "author": "msrc",
@@ -4811,6 +4741,17 @@
       "feedUrl": "https://thehackernews.com/feeds/posts/default",
       "siteUrl": "https://thehackernews.com/",
       "articles": [
+        {
+          "id": "tag:blogger.com,1999:blog-4802841478634147276.post-7632605953144449125",
+          "author": "noreply@blogger.com (Ravie Lakshmanan)",
+          "description": "Popular short-form video-sharing service TikTok is revising its privacy policy for European users to make it explicitly clear that user data can be accessed by some employees from across the world, including China.\nThe ByteDance-owned platform, which currently stores European user data in the U.S. and Singapore, said the revision is part of its ongoing data governance efforts to limit employee",
+          "link": "https://thehackernews.com/2022/11/new-tiktok-privacy-policy-confirms.html",
+          "publishedOn": "2022-11-03T06:48:00.000Z",
+          "wordCount": null,
+          "title": "New TikTok Privacy Policy Confirms Chinese Staff Can Access European Users' Data",
+          "itunes": {},
+          "imageUrl": null
+        },
         {
           "id": "tag:blogger.com,1999:blog-4802841478634147276.post-475872900422248749",
           "author": "noreply@blogger.com (Ravie Lakshmanan)",
@@ -6139,39 +6080,6 @@
           "publishedOn": "2022-10-05T05:31:00.000Z",
           "wordCount": null,
           "title": "Mitigation for Exchange Zero-Days Bypassed! Microsoft Issues New Workarounds",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "tag:blogger.com,1999:blog-4802841478634147276.post-2469323504878668884",
-          "author": "noreply@blogger.com (Ravie Lakshmanan)",
-          "description": "India's Central Bureau of Investigation (CBI) on Monday disclosed that it has detained a Russian national for allegedly hacking into a software platform used to conduct engineering entrance assessments in the country in 2021.\n\"The said accused was detained by the Bureau of Immigration at Indira Gandhi International Airport, Delhi while arriving in India from Almaty, Kazakhstan,\" the primary",
-          "link": "https://thehackernews.com/2022/10/russian-hacker-arrested-in-india-for.html",
-          "publishedOn": "2022-10-04T18:21:00.000Z",
-          "wordCount": null,
-          "title": "Russian Hacker Arrested in India for Reportedly Helping Students Cheat in JEE-Main Exam",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "tag:blogger.com,1999:blog-4802841478634147276.post-5692862451716028959",
-          "author": "noreply@blogger.com (Ravie Lakshmanan)",
-          "description": "A popular Chinese-language YouTube channel has emerged as a means to distribute a trojanized version of a Windows installer for the Tor Browser.\nKaspersky dubbed the campaign OnionPoison, with all of the victims located in China. The scale of the attack remains unclear, but the Russian cybersecurity company said it detected victims appearing in its telemetry in March 2022.\nThe malicious version",
-          "link": "https://thehackernews.com/2022/10/popular-youtube-channel-caught.html",
-          "publishedOn": "2022-10-04T15:39:00.000Z",
-          "wordCount": null,
-          "title": "Popular YouTube Channel Caught Distributing Malicious Tor Browser Installer",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "tag:blogger.com,1999:blog-4802841478634147276.post-7302828394691121160",
-          "author": "noreply@blogger.com (Ravie Lakshmanan)",
-          "description": "Researchers have disclosed details about a now-patched high-severity security flaw in Packagist, a PHP software package repository, that could have been exploited to mount software supply chain attacks.\n\"This vulnerability allows gaining control of Packagist,\" SonarSource researcher Thomas Chauchefoin said in a report shared with The Hacker News. Packagist is used by the PHP package manager",
-          "link": "https://thehackernews.com/2022/10/researchers-report-supply-chain.html",
-          "publishedOn": "2022-10-04T15:09:00.000Z",
-          "wordCount": null,
-          "title": "Researchers Report Supply Chain Vulnerability in Packagist PHP Repository",
           "itunes": {},
           "imageUrl": null
         }

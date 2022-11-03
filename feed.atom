@@ -2,10 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-11-03T03:06:24.763Z</updated>
+    <updated>2022-11-03T07:23:05.453Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[New TikTok Privacy Policy Confirms Chinese Staff Can Access European Users' Data]]></title>
+        <id>tag:blogger.com,1999:blog-4802841478634147276.post-7632605953144449125</id>
+        <link href="https://thehackernews.com/2022/11/new-tiktok-privacy-policy-confirms.html"/>
+        <updated>2022-11-03T06:48:00.000Z</updated>
+        <summary type="html"><![CDATA[Popular short-form video-sharing service TikTok is revising its privacy policy for European users to make it explicitly clear that user data can be accessed by some employees from across the world, including China.
+The ByteDance-owned platform, which currently stores European user data in the U.S. and Singapore, said the revision is part of its ongoing data governance efforts to limit employee]]></summary>
+        <author>
+            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Awareness and guidance related to OpenSSL 3.0 – 3.0.6 risk (CVE-2022-3786 and CVE-2202-3602)]]></title>
+        <id>https://msrc-blog.microsoft.com/?p=15115</id>
+        <link href="https://msrc-blog.microsoft.com/2022/11/02/microsoft-guidance-related-to-openssl-risk-cve-2022-3786-and-cve-2202-3602/"/>
+        <updated>2022-11-03T00:46:06.000Z</updated>
+        <summary type="html"><![CDATA[Summary   Microsoft is aware and actively addressing the impact associated with the recent OpenSSL vulnerabilities announced on October 25th 2022, fixed in version 3.0.7. As part of our standard processes, we are rolling out fixes for impacted services.  Any customer action that is required will be highlighted in this blog and our associated Security Update …
+  Awareness and guidance related to OpenSSL 3.0 – 3.0.6 risk (CVE-2022-3786 and CVE-2202-3602) Read More »]]></summary>
+        <author>
+            <name>msrc</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Two High-Severity Flaws Fixed in OpenSSL]]></title>
         <id>https://fieldeffect.com/?post_type=threats&amp;p=6654</id>
@@ -5412,107 +5434,6 @@ The two vulnerabilities, tracked as CVE-2022-41040 and CVE-2022-41082, have been
         <summary type="html"><![CDATA[Researchers had discovered that Microsoft's original mitigation steps for the so-called "ProxyNotShell" flaws was easily bypassed.]]></summary>
         <author>
             <name>Jai Vijayan, Contributing Writer, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[5 Attack Elements Every Organizations Should Be Monitoring]]></title>
-        <id>https://www.darkreading.com/microsoft/5-attack-elements-every-organizations-should-be-monitoring</id>
-        <link href="https://www.darkreading.com/microsoft/5-attack-elements-every-organizations-should-be-monitoring"/>
-        <updated>2022-10-04T19:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Security teams have to protect an increasingly complex enterprise environment. Here are five elements of attack surface management they should consider.]]></summary>
-        <author>
-            <name>Microsoft Security, Microsoft</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Russian Hacker Arrested in India for Reportedly Helping Students Cheat in JEE-Main Exam]]></title>
-        <id>tag:blogger.com,1999:blog-4802841478634147276.post-2469323504878668884</id>
-        <link href="https://thehackernews.com/2022/10/russian-hacker-arrested-in-india-for.html"/>
-        <updated>2022-10-04T18:21:00.000Z</updated>
-        <summary type="html"><![CDATA[India's Central Bureau of Investigation (CBI) on Monday disclosed that it has detained a Russian national for allegedly hacking into a software platform used to conduct engineering entrance assessments in the country in 2021.
-"The said accused was detained by the Bureau of Immigration at Indira Gandhi International Airport, Delhi while arriving in India from Almaty, Kazakhstan," the primary]]></summary>
-        <author>
-            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AA22-277A: Impacket and Exfiltration Tool Used to Steal Sensitive Information from Defense Industrial Base Organization]]></title>
-        <id>17956 at https://us-cert.cisa.gov</id>
-        <link href="https://us-cert.cisa.gov/ncas/alerts/aa22-277a"/>
-        <updated>2022-10-04T17:58:00.000Z</updated>
-        <summary type="html"><![CDATA[Original release date: October 4, 2022
-Summary
-Actions to Help Protect Against Russian State-Sponsored Malicious Cyber Activity:
-From November 2021 through January 2022, the Cybersecurity and Infrastructure Security Agency (CISA) responded to advanced persistent threat (APT) activity on a Defense Industrial Base (DIB) Sector organization’s enterprise network. During incident response activities, CISA uncovered that likely multiple APT groups compromised the organization’s network, and some APT actors had long-term access to the environment. APT actors used an open-source toolkit called Impacket to gain their foothold within the environment and further compromise the network, and also used a custom data exfiltration tool, CovalentStealer, to steal the victim’s sensitive data.
-This joint Cyb…]]></summary>
-        <author>
-            <name>CISA</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Aussie Telco Telstra Breached, Reportedly Exposing 30,000 Employees' Data]]></title>
-        <id>https://www.darkreading.com/attacks-breaches/aussie-telco-telstra-breached-reportedly-exposing-30-000-employees-data</id>
-        <link href="https://www.darkreading.com/attacks-breaches/aussie-telco-telstra-breached-reportedly-exposing-30-000-employees-data"/>
-        <updated>2022-10-04T17:55:00.000Z</updated>
-        <summary type="html"><![CDATA[The Telstra cyber incident comes just weeks after its main rival Optus suffered a major compromise of its customer database.]]></summary>
-        <author>
-            <name>Dark Reading Staff, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Former NSA Employee Faces Death Penalty for Selling Secrets]]></title>
-        <id>https://www.darkreading.com/attacks-breaches/ex--nsa-employee-faces-death-penalty-for-selling-secrets</id>
-        <link href="https://www.darkreading.com/attacks-breaches/ex--nsa-employee-faces-death-penalty-for-selling-secrets"/>
-        <updated>2022-10-04T17:10:51.000Z</updated>
-        <summary type="html"><![CDATA[Suspect allegedly thought he was swapping secrets with a foreign government for crypto — but the contact turned out to be an FBI agent.]]></summary>
-        <author>
-            <name>Dark Reading Staff, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Workforce Data Privacy in the Modern Work Era]]></title>
-        <id>https://www.darkreading.com/endpoint/workforce-data-privacy-in-the-modern-work-era</id>
-        <link href="https://www.darkreading.com/endpoint/workforce-data-privacy-in-the-modern-work-era"/>
-        <updated>2022-10-04T17:00:00.000Z</updated>
-        <summary type="html"><![CDATA[It takes culture as well as individual and corporate responsibilities to ensure workforce data privacy and compliance.]]></summary>
-        <author>
-            <name>Ramon Chen, Chief Product Officer, ActivTrak</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Impacket and Exfiltration Tool Used to Steal Sensitive Information from Defense Industrial Base Organization]]></title>
-        <id>17958 at https://us-cert.cisa.gov</id>
-        <link href="https://us-cert.cisa.gov/ncas/current-activity/2022/10/04/impacket-and-exfiltration-tool-used-steal-sensitive-information"/>
-        <updated>2022-10-04T16:58:00.000Z</updated>
-        <summary type="html"><![CDATA[Original release date: October 4, 2022
-CISA, the Federal Bureau of Investigation (FBI), and the National Security Agency (NSA) have released a joint Cybersecurity Advisory (CSA), Impacket and Exfiltration Tool Used to Steal Sensitive Information from Defense Industrial Base Organization, highlighting advanced persistent threat (APT) activity observed on a Defense Industrial Base (DIB) Sector organization’s enterprise network. ATP actors used the open-source toolkit, Impacket, to gain a foothold within the environment and data exfiltration tool, CovalentStealer, to steal the victim’s sensitive data.
-Joint Cybersecurity Advisory AA22-277A provides the APT actors tactics, techniques, and procedures (TTPs) and indicators of compromise (IOCs). CISA, FBI, and NSA recommend DIB sector and other critical infrastructure organizations implement the mitigations in this CSA to ensure they are managing and reducing the impact of APT cyber threats to their networks.
-This product is provided subject to this Notification and this Privacy & Use policy.]]></summary>
-        <author>
-            <name>CISA</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Popular YouTube Channel Caught Distributing Malicious Tor Browser Installer]]></title>
-        <id>tag:blogger.com,1999:blog-4802841478634147276.post-5692862451716028959</id>
-        <link href="https://thehackernews.com/2022/10/popular-youtube-channel-caught.html"/>
-        <updated>2022-10-04T15:39:00.000Z</updated>
-        <summary type="html"><![CDATA[A popular Chinese-language YouTube channel has emerged as a means to distribute a trojanized version of a Windows installer for the Tor Browser.
-Kaspersky dubbed the campaign OnionPoison, with all of the victims located in China. The scale of the attack remains unclear, but the Russian cybersecurity company said it detected victims appearing in its telemetry in March 2022.
-The malicious version]]></summary>
-        <author>
-            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Researchers Report Supply Chain Vulnerability in Packagist PHP Repository]]></title>
-        <id>tag:blogger.com,1999:blog-4802841478634147276.post-7302828394691121160</id>
-        <link href="https://thehackernews.com/2022/10/researchers-report-supply-chain.html"/>
-        <updated>2022-10-04T15:09:00.000Z</updated>
-        <summary type="html"><![CDATA[Researchers have disclosed details about a now-patched high-severity security flaw in Packagist, a PHP software package repository, that could have been exploited to mount software supply chain attacks.
-"This vulnerability allows gaining control of Packagist," SonarSource researcher Thomas Chauchefoin said in a report shared with The Hacker News. Packagist is used by the PHP package manager]]></summary>
-        <author>
-            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
         </author>
     </entry>
     <entry>
