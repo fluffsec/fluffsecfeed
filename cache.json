@@ -371,26 +371,6 @@
           "wordCount": 1015,
           "title": "Top CVEs Actively Exploited by People’s Republic of China State-Sponsored Cyber Actors",
           "imageUrl": null
-        },
-        {
-          "id": "18044 at https://us-cert.cisa.gov",
-          "author": "CISA",
-          "description": "Original release date: October 6, 2022\nCisco has released security updates to address vulnerabilities in multiple Cisco products. A remote attacker could exploit some of these vulnerabilities to take control of an affected system. For updates addressing lower severity vulnerabilities, see the Cisco Security Advisories page. \nCISA encourages users and administrators to review the following advisories and apply the necessary updates:\n•    Cisco Enterprise NFV Infrastructure Software Improper Signature Verification Vulnerability cisco-sa-NFVIS-ISV-BQrvEv2h \ncisco-sa-expressway-csrf-sqpsSfY6\nThis product is provided subject to this Notification and this Privacy & Use policy.",
-          "link": "https://us-cert.cisa.gov/ncas/current-activity/2022/10/06/cisco-releases-security-updates-multiple-products",
-          "publishedOn": "2022-10-06T14:23:24.000Z",
-          "wordCount": 924,
-          "title": "Cisco Releases Security Updates for Multiple Products",
-          "imageUrl": null
-        },
-        {
-          "id": "18040 at https://us-cert.cisa.gov",
-          "author": "CISA",
-          "description": "Original release date: October 6, 2022\nCISA released two (2) Industrial Control Systems (ICS) advisories on October 06, 2022. These advisories provide timely information about current security issues, vulnerabilities, and exploits surrounding ICS.\nCISA encourages users and administrators to review the newly released ICS advisories for technical details and mitigations:\nICSA-22-279-01 Rockwell Automation FactoryTalk VantagePoint\nICSA-22-279-02 HIWIN HRSS\nThis product is provided subject to this Notification and this Privacy & Use policy.",
-          "link": "https://us-cert.cisa.gov/ncas/current-activity/2022/10/06/cisa-releases-two-industrial-control-systems-advisories",
-          "publishedOn": "2022-10-06T14:00:00.000Z",
-          "wordCount": 898,
-          "title": "CISA Releases Two Industrial Control Systems Advisories",
-          "imageUrl": null
         }
       ]
     },
@@ -429,6 +409,66 @@
       "feedUrl": "https://www.darkreading.com/rss.xml",
       "siteUrl": "https://www.darkreading.com",
       "articles": [
+        {
+          "id": "https://www.darkreading.com/dr-tech/human-security-tackles-malvertising-with-clean-io-buy",
+          "author": "Jonathan Care, Contributing Writer, Dark Reading",
+          "description": "Dark Reading's analysis suggests that Human Security's acquisition of clean.io will significantly expand the company's fraud prevention and anti-malvertising portfolio.",
+          "link": "https://www.darkreading.com/dr-tech/human-security-tackles-malvertising-with-clean-io-buy",
+          "publishedOn": "2022-11-05T00:16:00.000Z",
+          "wordCount": 13796,
+          "title": "Human Security Tackles Malvertising With Clean.io Buy",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt532ad4044b254ce3/62c7050c96e0c6712ea6e3d1/jonathan-care.jpg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt532ad4044b254ce3/62c7050c96e0c6712ea6e3d1/jonathan-care.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/attacks-breaches/microsoft-zero-day-nation-state-groups-tactics",
+          "author": "Jai Vijayan, Contributing Writer, Dark Reading",
+          "description": "The software giant also recorded an increase in attacks on IT services companies as state-backed threat actors have adapted to better enterprise defenses and cast a wider net, Microsoft says.",
+          "link": "https://www.darkreading.com/attacks-breaches/microsoft-zero-day-nation-state-groups-tactics",
+          "publishedOn": "2022-11-04T21:30:00.000Z",
+          "wordCount": 14300,
+          "title": "Microsoft Warns on Zero-Day Spike as Nation-State Groups Shift Tactics",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt02d79fb9a44a4258/60b1e9dd2a25046b35110696/Jai-Vijayan.jpeg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt02d79fb9a44a4258/60b1e9dd2a25046b35110696/Jai-Vijayan.jpeg"
+        },
+        {
+          "id": "https://www.darkreading.com/threat-intelligence/romcom-malware-victims-wrapped-solarwinds-keepass",
+          "author": "Becky Bracken, Editor, Dark Reading",
+          "description": "An analysis of the RomCom APT shows the group is expanding its efforts beyond the Ukrainian military into the UK and other English-speaking countries.",
+          "link": "https://www.darkreading.com/threat-intelligence/romcom-malware-victims-wrapped-solarwinds-keepass",
+          "publishedOn": "2022-11-04T21:25:00.000Z",
+          "wordCount": 12781,
+          "title": "RomCom Malware Woos Victims With 'Wrapped' SolarWinds, KeePass Software",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt8e7bd143d726930b/627271268681151716941064/BeckyB.jpg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt8e7bd143d726930b/627271268681151716941064/BeckyB.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/attacks-breaches/cyberattackers-focus-alma-observatory",
+          "author": "Tara Seals, Managing Editor, News, Dark Reading",
+          "description": "Operations at the world's most expensive ground-based telescope, high in the Atacama Desert, remain disrupted.",
+          "link": "https://www.darkreading.com/attacks-breaches/cyberattackers-focus-alma-observatory",
+          "publishedOn": "2022-11-04T21:01:30.000Z",
+          "wordCount": 12193,
+          "title": "Cyberattackers Focus In on State-of-the-Art ALMA Observatory",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltea67136f81f32eca/626a9eb4726e3315b16b3c64/Tara-Seals-Headshot2.jpg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltea67136f81f32eca/626a9eb4726e3315b16b3c64/Tara-Seals-Headshot2.jpg"
+        },
         {
           "id": "https://www.darkreading.com/dr-tech/detecting-malicious-user-behavior-within-and-across-applications",
           "author": "David Movshovitz, CTO & Co-Founder, RevealSecurity",
@@ -4083,66 +4123,6 @@
             "length": "0"
           },
           "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltbfd004d139d42d70/6303bca6236c2476a257760e/ElizabethMontalbano.jpg"
-        },
-        {
-          "id": "https://www.darkreading.com/careers-and-people/school-is-in-session-5-lessons-for-future-cybersecurity-pros",
-          "author": "Chris Jacob, VP, Threat Intelligence Engineering at ThreatQuotient",
-          "description": "Opportunities in the field continue to grow — and show no signs of slowing down.",
-          "link": "https://www.darkreading.com/careers-and-people/school-is-in-session-5-lessons-for-future-cybersecurity-pros",
-          "publishedOn": "2022-10-06T14:00:00.000Z",
-          "wordCount": 12000,
-          "title": "School Is in Session: 5 Lessons for Future Cybersecurity Pros",
-          "enclosure": {
-            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltad067d0fcc2e9ee8/6169c9273a73be248fb66a52/C_Jacob.png",
-            "type": "image/*",
-            "length": "0"
-          },
-          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltad067d0fcc2e9ee8/6169c9273a73be248fb66a52/C_Jacob.png"
-        },
-        {
-          "id": "https://www.darkreading.com/vulnerabilities-threats/7-iot-devices-that-make-security-pros-cringe",
-          "author": "Ericka Chickowski, Contributing Writer, Dark Reading",
-          "description": "A look at everything from truly dumb smart devices to cool-looking IoT tech with huge cybersecurity and privacy implications.",
-          "link": "https://www.darkreading.com/vulnerabilities-threats/7-iot-devices-that-make-security-pros-cringe",
-          "publishedOn": "2022-10-06T13:15:00.000Z",
-          "wordCount": 13265,
-          "title": "7 IoT Devices That Make Security Pros Cringe",
-          "enclosure": {
-            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt1fa01ab14787f501/60b1e9a77f791568be5e0dbb/ErickaChick_125x125.jpeg",
-            "type": "image/*",
-            "length": "0"
-          },
-          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt1fa01ab14787f501/60b1e9a77f791568be5e0dbb/ErickaChick_125x125.jpeg"
-        },
-        {
-          "id": "https://www.darkreading.com/remote-workforce/new-sonicwall-survey-data-reveals-91-of-organizations-fear-ransomware-attacks-in-2022",
-          "author": null,
-          "description": "Amid an economic downturn, cybersecurity staffing shortages, and endless cyberattacks, financially motivated attacks are the top concern among IT professionals.",
-          "link": "https://www.darkreading.com/remote-workforce/new-sonicwall-survey-data-reveals-91-of-organizations-fear-ransomware-attacks-in-2022",
-          "publishedOn": "2022-10-06T13:13:32.000Z",
-          "wordCount": 12369,
-          "title": "New SonicWall Survey Data Reveals 91% of Organizations Fear Ransomware Attacks in 2022",
-          "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
-        },
-        {
-          "id": "https://www.darkreading.com/operations/research-reveals-microsoft-teams-security-and-backup-flaws-with-over-half-of-users-sharing-business-critical-information-on-the-platform",
-          "author": null,
-          "description": "Most backup and security vendors overlook this vital communication channel.",
-          "link": "https://www.darkreading.com/operations/research-reveals-microsoft-teams-security-and-backup-flaws-with-over-half-of-users-sharing-business-critical-information-on-the-platform",
-          "publishedOn": "2022-10-06T13:09:23.000Z",
-          "wordCount": 12428,
-          "title": "Research Reveals Microsoft Teams Security and Backup Flaws, With Over Half of Users Sharing Business-Critical Information on the Platform",
-          "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
-        },
-        {
-          "id": "https://www.darkreading.com/application-security/contrast-security-launches-expanded-security-testing-tools-for-javascript-and-popular-angular-react-and-jquery-frameworks",
-          "author": null,
-          "description": "New language and framework support empowers developers to analyze front-end code for vulnerabilities throughout the development lifecycle.",
-          "link": "https://www.darkreading.com/application-security/contrast-security-launches-expanded-security-testing-tools-for-javascript-and-popular-angular-react-and-jquery-frameworks",
-          "publishedOn": "2022-10-06T13:04:20.000Z",
-          "wordCount": 12592,
-          "title": "Contrast Security Launches Expanded Security Testing Tools for JavaScript and Popular Angular, React, and jQuery Frameworks",
-          "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
         }
       ]
     },
@@ -4908,16 +4888,6 @@
           "wordCount": 2038,
           "title": "KnowBe4 Celebrates Winning a Tech Cares Award From TrustRadius 2022",
           "imageUrl": "https://blog.knowbe4.com/hubfs/KnowBe4%20Tech%20Cares%202022.png#keepProtocol"
-        },
-        {
-          "id": "https://blog.knowbe4.com/cybercriminal-faces-prison-time-over-romance-scams",
-          "author": "Stu Sjouwerman",
-          "description": "A man from Atlanta, Georgia has been convicted of running romance scams and business email compromise attacks that netted him over $9.5 million, the US Justice Department has announced.",
-          "link": "https://blog.knowbe4.com/cybercriminal-faces-prison-time-over-romance-scams",
-          "publishedOn": "2022-10-06T12:56:35.000Z",
-          "wordCount": 2138,
-          "title": "Cybercriminal Faces Prison Time Over Romance Scams and Business Email Compromise Attacks",
-          "imageUrl": "https://blog.knowbe4.com/hubfs/Cybercriminal%20Gets%20Convicted.jpg#keepProtocol"
         }
       ]
     },
@@ -6221,50 +6191,6 @@
           "publishedOn": "2022-10-07T06:52:00.000Z",
           "wordCount": null,
           "title": "BlackByte Ransomware Abuses Vulnerable Windows Driver to Disable Security Solutions",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "tag:blogger.com,1999:blog-4802841478634147276.post-6589400791118026834",
-          "author": "noreply@blogger.com (Ravie Lakshmanan)",
-          "description": "The threat actor behind the malware-as-a-service (MaaS) called Eternity has been linked to new piece of malware called LilithBot.\n\"It has advanced capabilities to be used as a miner, stealer, and a clipper along with its persistence mechanisms,\" Zscaler ThreatLabz researchers Shatak Jain and Aditya Sharma said in a Wednesday report.\n\"The group has been continuously enhancing the malware, adding",
-          "link": "https://thehackernews.com/2022/10/eternity-group-hackers-offering-new.html",
-          "publishedOn": "2022-10-06T12:57:00.000Z",
-          "wordCount": null,
-          "title": "Eternity Group Hackers Offering New LilithBot Malware as a Service to Cybercriminals",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "tag:blogger.com,1999:blog-4802841478634147276.post-317145206708100084",
-          "author": "noreply@blogger.com (Ravie Lakshmanan)",
-          "description": "Security researchers have shared details about a now-addressed security flaw in Apple's macOS operating system that could be potentially exploited to run malicious applications in a manner that can bypass Apple's security measures.\nThe vulnerability, tracked as CVE-2022-32910, is rooted in the built-in Archive Utility and \"could lead to the execution of an unsigned and unnotarized application",
-          "link": "https://thehackernews.com/2022/10/details-released-for-recently-patched.html",
-          "publishedOn": "2022-10-06T12:20:00.000Z",
-          "wordCount": null,
-          "title": "Details Released for Recently Patched new macOS Archive Utility Vulnerability",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "tag:blogger.com,1999:blog-4802841478634147276.post-5717104029920257850",
-          "author": "noreply@blogger.com (The Hacker News)",
-          "description": "It's been a year since the release of The Ultimate SaaS Security Posture Management (SSPM) Checklist. If SSPM is on your radar, here's the 2023 checklist edition, which covers the critical features and capabilities when evaluating a solution.\nThe ease with which SaaS apps can be deployed and adopted today is remarkable, but it has become a double-edged sword. On the one hand, apps are quickly",
-          "link": "https://thehackernews.com/2022/10/the-ultimate-saas-security-posture.html",
-          "publishedOn": "2022-10-06T12:04:00.000Z",
-          "wordCount": null,
-          "title": "The Ultimate SaaS Security Posture Management Checklist, 2023 Edition",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "tag:blogger.com,1999:blog-4802841478634147276.post-3963853022531611514",
-          "author": "noreply@blogger.com (Ravie Lakshmanan)",
-          "description": "The Australian Federal Police (AFP) has arrested a 19-year-old teen from Sydney for allegedly attempting to leverage the data leaked following the Optus data breach late last month to extort victims.\nThe suspect is said to have carried out a text message blackmail scam, demanding that the recipients transfer $2,000 to a bank account or risk getting their personal information misused for",
-          "link": "https://thehackernews.com/2022/10/19-year-old-hacker-arrested-for-using.html",
-          "publishedOn": "2022-10-06T08:25:00.000Z",
-          "wordCount": null,
-          "title": "19-Year-Old Teen Arrested for Using Leaked Optus Breach Data in SMS Scam",
           "itunes": {},
           "imageUrl": null
         }
