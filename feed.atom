@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-11-05T03:01:34.872Z</updated>
+    <updated>2022-11-05T07:21:49.909Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Warns of Uptick in Hackers Leveraging Publicly-Disclosed 0-Day Vulnerabilities]]></title>
+        <id>tag:blogger.com,1999:blog-4802841478634147276.post-2566667497269130454</id>
+        <link href="https://thehackernews.com/2022/11/microsoft-warns-of-uptick-in-hackers.html"/>
+        <updated>2022-11-05T06:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft is warning of an uptick in the nation-state and criminal actors increasingly leveraging publicly-disclosed zero-day vulnerabilities for breaching target environments.
+The tech giant, in its 114-page Digital Defense Report, said it has "observed a reduction in the time between the announcement of a vulnerability and the commoditization of that vulnerability," making it imperative that]]></summary>
+        <author>
+            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Human Security Tackles Malvertising With Clean.io Buy]]></title>
         <id>https://www.darkreading.com/dr-tech/human-security-tackles-malvertising-with-clean-io-buy</id>
@@ -5469,73 +5480,6 @@ Application Mode is designed to offer native-like experiences in a manner that c
         <summary type="html"><![CDATA[Russian-speaking cyberattackers boast they are behind disruption of Colorado, Kentucky, and Mississippi government websites.]]></summary>
         <author>
             <name>Dark Reading Staff, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[KnowBe4 Celebrates Winning a Tech Cares Award From TrustRadius 2022]]></title>
-        <id>https://blog.knowbe4.com/knowbe4-wins-trustradius-tech-cares-award-2022</id>
-        <link href="https://blog.knowbe4.com/knowbe4-wins-trustradius-tech-cares-award-2022"/>
-        <updated>2022-10-06T18:52:36.000Z</updated>
-        <summary type="html"><![CDATA[For the third consecutive year, we received a Tech Cares Award from TrustRadius! This third annual award celebrates companies that have gone above and beyond to provide strong Corporate Social Responsibility (CSR).]]></summary>
-        <author>
-            <name>Stu Sjouwerman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[US Consumers Are Finally Becoming More Security & Privacy Conscious]]></title>
-        <id>https://www.darkreading.com/remote-workforce/survey-shows-us-consumers-are-becoming-more-security-and-privacy-conscious</id>
-        <link href="https://www.darkreading.com/remote-workforce/survey-shows-us-consumers-are-becoming-more-security-and-privacy-conscious"/>
-        <updated>2022-10-06T18:30:00.000Z</updated>
-        <summary type="html"><![CDATA[The trend, spotted by Consumer Reports, could mean good news for organizations struggling to contain remote work challenges.]]></summary>
-        <author>
-            <name>Jai Vijayan, Contributing Writer, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Top CVEs Actively Exploited by People’s Republic of China State-Sponsored Cyber Actors]]></title>
-        <id>18046 at https://us-cert.cisa.gov</id>
-        <link href="https://us-cert.cisa.gov/ncas/current-activity/2022/10/06/top-cves-actively-exploited-peoples-republic-china-state-sponsored"/>
-        <updated>2022-10-06T17:48:09.000Z</updated>
-        <summary type="html"><![CDATA[Original release date: October 6, 2022
-CISA, the Federal Bureau of Investigation (FBI), and the National Security Agency (NSA) have released a joint Cybersecurity Advisory (CSA) providing the top Common Vulnerabilities and Exposures (CVEs) used since 2020 by People’s Republic of China (PRC) state-sponsored cyber actors. PRC state-sponsored cyber actors continue to exploit known vulnerabilities to actively target U.S. and allied networks, including software and hardware companies to illegally obtain intellectual property and develop access into sensitive networks.
-CISA, the FBI, and the NSA urge U.S. and allied governments, critical infrastructure, and private sector organizations to apply the recommendations listed in the Top CVEs Actively Exploited by People’s Republic of China State-Sponsored Cyber Actors to increase their defensive posture and reduce the threat of compromise from PRC state-sponsored malicious cyber actors.
-For more information on PRC state-sponsored malicious cyber activity, see CISA’s China Cyber Threat Overview and Advisories webpage, the FBI’s Industry Alerts, and the NSA’s Cybersecurity Advisories & Guidance.
-This product is provided subject to this Notification and this Privacy & Use policy.]]></summary>
-        <author>
-            <name>CISA</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AA22-279A: Top CVEs Actively Exploited By People’s Republic of China State-Sponsored Cyber Actors]]></title>
-        <id>18045 at https://us-cert.cisa.gov</id>
-        <link href="https://us-cert.cisa.gov/ncas/alerts/aa22-279a"/>
-        <updated>2022-10-06T17:08:51.000Z</updated>
-        <summary type="html"><![CDATA[Original release date: October 6, 2022
-Summary
-This joint Cybersecurity Advisory (CSA) provides the top Common Vulnerabilities and Exposures (CVEs) used since 2020 by People’s Republic of China (PRC) state-sponsored cyber actors as assessed by the National Security Agency (NSA), Cybersecurity and Infrastructure Security Agency (CISA), and Federal Bureau of Investigation (FBI). PRC state-sponsored cyber actors continue to exploit known vulnerabilities to actively target U.S. and allied networks as well as software and hardware companies to steal intellectual property and develop access into sensitive networks.
-This joint CSA builds on previous NSA, CISA, and FBI reporting to inform federal and state, local, tribal and territorial (SLTT) government; critical infrastructure, including the Def…]]></summary>
-        <author>
-            <name>CISA</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hackers Have It Out for Microsoft Email Defenses]]></title>
-        <id>https://www.darkreading.com/remote-workforce/hackers-have-it-out-for-microsoft-email-defenses</id>
-        <link href="https://www.darkreading.com/remote-workforce/hackers-have-it-out-for-microsoft-email-defenses"/>
-        <updated>2022-10-06T15:35:12.000Z</updated>
-        <summary type="html"><![CDATA[Cybercriminals are focusing more and more on crafting special email attacks that evade Microsoft Defender and Office security.]]></summary>
-        <author>
-            <name>Tara Seals, Managing Editor, News, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Russia-Linked Cybercrime Group Hawks Combo of Malicious Services With LilithBot]]></title>
-        <id>https://www.darkreading.com/remote-workforce/russia-linked-cybercrime-group-hawks-combo-of-malicious-services-with-lilithbot</id>
-        <link href="https://www.darkreading.com/remote-workforce/russia-linked-cybercrime-group-hawks-combo-of-malicious-services-with-lilithbot"/>
-        <updated>2022-10-06T15:15:20.000Z</updated>
-        <summary type="html"><![CDATA[The malware-as-a-service group Eternity is selling a one-stop shop for various malware modules it's been distributing individually via a subscription model on Telegram.]]></summary>
-        <author>
-            <name>Elizabeth Montalbano, Contributor, Dark Reading</name>
         </author>
     </entry>
     <entry>
