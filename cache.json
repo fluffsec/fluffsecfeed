@@ -357,7 +357,7 @@
     {
       "title": "Security Report",
       "feedUrl": "https://securityreport.com/rss",
-      "siteUrl": "https://securityreport.com",
+      "siteUrl": "https://securityreport.com/",
       "articles": []
     },
     {
@@ -4013,51 +4013,6 @@
           "wordCount": 10394,
           "title": "CyberRatings.org Invites Industry Participation in Forthcoming Enterprise Firewall and Data Center Firewall Tests",
           "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
-        },
-        {
-          "id": "https://www.darkreading.com/edge-articles/sharing-knowledge-at-44con",
-          "author": "Jonathan Care, Contributing Writer, Dark Reading",
-          "description": "The infosec conference named after the UK's calling code returned this year with a focus on building a healthy community.",
-          "link": "https://www.darkreading.com/edge-articles/sharing-knowledge-at-44con",
-          "publishedOn": "2022-10-07T00:11:00.000Z",
-          "wordCount": 12772,
-          "title": "Sharing Knowledge at 44CON",
-          "enclosure": {
-            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt532ad4044b254ce3/62c7050c96e0c6712ea6e3d1/jonathan-care.jpg",
-            "type": "image/*",
-            "length": "0"
-          },
-          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt532ad4044b254ce3/62c7050c96e0c6712ea6e3d1/jonathan-care.jpg"
-        },
-        {
-          "id": "https://www.darkreading.com/application-security/macos-archive-utility-bug-malicious-apps-bypass-security-checks",
-          "author": "Dark Reading Staff, Dark Reading",
-          "description": "Exploit allows unsigned and unnotarized macOS applications to bypass Gatekeeper and other security, without notifying the user.",
-          "link": "https://www.darkreading.com/application-security/macos-archive-utility-bug-malicious-apps-bypass-security-checks",
-          "publishedOn": "2022-10-06T20:45:00.000Z",
-          "wordCount": 9503,
-          "title": "macOS Archive Utility Bug Lets Malicious Apps Bypass Security Checks",
-          "enclosure": {
-            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blte161b23f0fd3a84b/60b1ea374e7eb868c4c6a293/dr_staff_125x125.jpg",
-            "type": "image/*",
-            "length": "0"
-          },
-          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blte161b23f0fd3a84b/60b1ea374e7eb868c4c6a293/dr_staff_125x125.jpg"
-        },
-        {
-          "id": "https://www.darkreading.com/attacks-breaches/russian-hackers-shut-down-state-government-sites",
-          "author": "Dark Reading Staff, Dark Reading",
-          "description": "Russian-speaking cyberattackers boast they are behind disruption of Colorado, Kentucky, and Mississippi government websites.",
-          "link": "https://www.darkreading.com/attacks-breaches/russian-hackers-shut-down-state-government-sites",
-          "publishedOn": "2022-10-06T19:56:01.000Z",
-          "wordCount": 9570,
-          "title": "Russian Hackers Shut Down US State Government Websites",
-          "enclosure": {
-            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blte161b23f0fd3a84b/60b1ea374e7eb868c4c6a293/dr_staff_125x125.jpg",
-            "type": "image/*",
-            "length": "0"
-          },
-          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blte161b23f0fd3a84b/60b1ea374e7eb868c4c6a293/dr_staff_125x125.jpg"
         }
       ]
     },
@@ -4821,6 +4776,17 @@
       "feedUrl": "https://thehackernews.com/feeds/posts/default",
       "siteUrl": "https://thehackernews.com/",
       "articles": [
+        {
+          "id": "tag:blogger.com,1999:blog-4802841478634147276.post-260490692247167483",
+          "author": "noreply@blogger.com (Ravie Lakshmanan)",
+          "description": "Cybersecurity researchers have uncovered 29 packages in Python Package Index (PyPI), the official third-party software repository for the Python programming language, that aim to infect developers' machines with a malware called W4SP Stealer.\n\"The main attack seems to have started around October 12, 2022, slowly picking up steam to a concentrated effort around October 22,\" software supply chain",
+          "link": "https://thehackernews.com/2022/11/researchers-uncover-29-malicious-pypi.html",
+          "publishedOn": "2022-11-05T08:35:00.000Z",
+          "wordCount": null,
+          "title": "Researchers Uncover 29 Malicious PyPI Packages Targeted Developers with W4SP Stealer",
+          "itunes": {},
+          "imageUrl": null
+        },
         {
           "id": "tag:blogger.com,1999:blog-4802841478634147276.post-2566667497269130454",
           "author": "noreply@blogger.com (Ravie Lakshmanan)",

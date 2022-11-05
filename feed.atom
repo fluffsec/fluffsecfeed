@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-11-05T07:21:49.909Z</updated>
+    <updated>2022-11-05T13:33:01.882Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Researchers Uncover 29 Malicious PyPI Packages Targeted Developers with W4SP Stealer]]></title>
+        <id>tag:blogger.com,1999:blog-4802841478634147276.post-260490692247167483</id>
+        <link href="https://thehackernews.com/2022/11/researchers-uncover-29-malicious-pypi.html"/>
+        <updated>2022-11-05T08:35:00.000Z</updated>
+        <summary type="html"><![CDATA[Cybersecurity researchers have uncovered 29 packages in Python Package Index (PyPI), the official third-party software repository for the Python programming language, that aim to infect developers' machines with a malware called W4SP Stealer.
+"The main attack seems to have started around October 12, 2022, slowly picking up steam to a concentrated effort around October 22," software supply chain]]></summary>
+        <author>
+            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Microsoft Warns of Uptick in Hackers Leveraging Publicly-Disclosed 0-Day Vulnerabilities]]></title>
         <id>tag:blogger.com,1999:blog-4802841478634147276.post-2566667497269130454</id>
@@ -5450,36 +5461,6 @@ Application Mode is designed to offer native-like experiences in a manner that c
 "The evasion technique supports disabling a whopping list of over 1,000 drivers on which security products rely to provide protection," Sophos threat researcher Andreas Klopsch said in a new technical]]></summary>
         <author>
             <name>noreply@blogger.com (Ravie Lakshmanan)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sharing Knowledge at 44CON]]></title>
-        <id>https://www.darkreading.com/edge-articles/sharing-knowledge-at-44con</id>
-        <link href="https://www.darkreading.com/edge-articles/sharing-knowledge-at-44con"/>
-        <updated>2022-10-07T00:11:00.000Z</updated>
-        <summary type="html"><![CDATA[The infosec conference named after the UK's calling code returned this year with a focus on building a healthy community.]]></summary>
-        <author>
-            <name>Jonathan Care, Contributing Writer, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[macOS Archive Utility Bug Lets Malicious Apps Bypass Security Checks]]></title>
-        <id>https://www.darkreading.com/application-security/macos-archive-utility-bug-malicious-apps-bypass-security-checks</id>
-        <link href="https://www.darkreading.com/application-security/macos-archive-utility-bug-malicious-apps-bypass-security-checks"/>
-        <updated>2022-10-06T20:45:00.000Z</updated>
-        <summary type="html"><![CDATA[Exploit allows unsigned and unnotarized macOS applications to bypass Gatekeeper and other security, without notifying the user.]]></summary>
-        <author>
-            <name>Dark Reading Staff, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Russian Hackers Shut Down US State Government Websites]]></title>
-        <id>https://www.darkreading.com/attacks-breaches/russian-hackers-shut-down-state-government-sites</id>
-        <link href="https://www.darkreading.com/attacks-breaches/russian-hackers-shut-down-state-government-sites"/>
-        <updated>2022-10-06T19:56:01.000Z</updated>
-        <summary type="html"><![CDATA[Russian-speaking cyberattackers boast they are behind disruption of Colorado, Kentucky, and Mississippi government websites.]]></summary>
-        <author>
-            <name>Dark Reading Staff, Dark Reading</name>
         </author>
     </entry>
     <entry>
