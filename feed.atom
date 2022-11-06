@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-11-06T13:33:42.097Z</updated>
+    <updated>2022-11-06T19:19:01.038Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
@@ -5267,19 +5267,6 @@ In a statement shared with]]></summary>
         <updated>2022-10-08T07:50:00.000Z</updated>
         <summary type="html"><![CDATA[A severe remote code execution vulnerability in Zimbra's enterprise collaboration software and email platform is being actively exploited, with no patch currently available to remediate the issue.
 The shortcoming, assigned CVE-2022-41352, carries a critical-severity rating of CVSS 9.8, providing a pathway for attackers to upload arbitrary files and carry out malicious actions on affected]]></summary>
-        <author>
-            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft Issues Improved Mitigations for Unpatched Exchange Server Vulnerabilities]]></title>
-        <id>tag:blogger.com,1999:blog-4802841478634147276.post-8920062382104140566</id>
-        <link href="https://thehackernews.com/2022/10/microsoft-issues-improved-mitigations.html"/>
-        <updated>2022-10-08T05:13:00.000Z</updated>
-        <summary type="html"><![CDATA[Microsoft on Friday disclosed it has made more improvements to the mitigation method offered as a means to prevent exploitation attempts against the newly disclosed unpatched security flaws in Exchange Server.
-To that end, the tech giant has revised the blocking rule in IIS Manager from ".*autodiscover\.json.*Powershell.*" to "(?=.*autodiscover\.json)(?=.*powershell)."
-
-The list of]]></summary>
         <author>
             <name>noreply@blogger.com (Ravie Lakshmanan)</name>
         </author>

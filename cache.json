@@ -5888,17 +5888,6 @@
           "title": "Hackers Exploiting Unpatched RCE Flaw in Zimbra Collaboration Suite",
           "itunes": {},
           "imageUrl": null
-        },
-        {
-          "id": "tag:blogger.com,1999:blog-4802841478634147276.post-8920062382104140566",
-          "author": "noreply@blogger.com (Ravie Lakshmanan)",
-          "description": "Microsoft on Friday disclosed it has made more improvements to the mitigation method offered as a means to prevent exploitation attempts against the newly disclosed unpatched security flaws in Exchange Server.\nTo that end, the tech giant has revised the blocking rule in IIS Manager from \".*autodiscover\\.json.*Powershell.*\" to \"(?=.*autodiscover\\.json)(?=.*powershell).\"\n\nThe list of",
-          "link": "https://thehackernews.com/2022/10/microsoft-issues-improved-mitigations.html",
-          "publishedOn": "2022-10-08T05:13:00.000Z",
-          "wordCount": null,
-          "title": "Microsoft Issues Improved Mitigations for Unpatched Exchange Server Vulnerabilities",
-          "itunes": {},
-          "imageUrl": null
         }
       ]
     }
