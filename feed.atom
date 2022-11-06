@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-11-05T19:19:02.548Z</updated>
+    <updated>2022-11-06T03:04:50.617Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
@@ -5370,86 +5370,6 @@ Tracked as CVE-2022-40684, the high-severity flaw relates to an authentication
         <summary type="html"><![CDATA[The group has been operating for over a year, promoting their tools in hacking forums, stealing credit card information, and using typosquatting techniques to target open source software flaws.]]></summary>
         <author>
             <name>Nathan Eddy, Contributing Writer, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FBI and CISA Publish a PSA on Information Manipulation Tactics for 2022 Midterm Elections]]></title>
-        <id>18048 at https://us-cert.cisa.gov</id>
-        <link href="https://us-cert.cisa.gov/ncas/current-activity/2022/10/07/fbi-and-cisa-publish-psa-information-manipulation-tactics-2022"/>
-        <updated>2022-10-07T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Original release date: October 7, 2022
-The Federal Bureau of Investigation (FBI) and CISA have published a joint public service announcement that:
-Describes methods that foreign actors use to spread and amplify false information—including reports of alleged malicious cyber activity—in attempts to undermine trust in election infrastructure.
-Confirms “the FBI and CISA have no information suggesting any cyber activity against U.S. election infrastructure has impacted the accuracy of voter registration information, prevented a registered voter from casting a ballot, or compromised the integrity of any ballots cast.”
-The PSA also describes the extensive safeguards in place to protect election infrastructure and includes recommendations to assist the public in understanding how to find trustworthy sources of election-related information.
-This product is provided subject to this Notification and this Privacy & Use policy.]]></summary>
-        <author>
-            <name>CISA</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[We Can Save Security Teams From Crushing Workloads. Will We?]]></title>
-        <id>https://www.darkreading.com/vulnerabilities-threats/we-can-save-security-teams-from-crushing-workloads-will-we-</id>
-        <link href="https://www.darkreading.com/vulnerabilities-threats/we-can-save-security-teams-from-crushing-workloads-will-we-"/>
-        <updated>2022-10-07T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Today, the processing of mountain-high stacks of alarms is considered "security." That system is failing customers and the cybersecurity workforce.]]></summary>
-        <author>
-            <name>Steve Ryan, Founder &amp; CEO, Trinity Cyber</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Facebook Detects 400 Android and iOS Apps Stealing Users Log-in Credentials]]></title>
-        <id>tag:blogger.com,1999:blog-4802841478634147276.post-7258061215018686094</id>
-        <link href="https://thehackernews.com/2022/10/facebook-detects-400-android-and-ios.html"/>
-        <updated>2022-10-07T13:52:00.000Z</updated>
-        <summary type="html"><![CDATA[Meta Platforms on Friday disclosed that it had identified over 400 malicious apps on Android and iOS that it said targeted online users with the goal of stealing their Facebook login information.
-"These apps were listed on the Google Play Store and Apple's App Store and disguised as photo editors, games, VPN services, business apps, and other utilities to trick people into downloading them," the]]></summary>
-        <author>
-            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CyberRatings.org Invites Industry Participation in Forthcoming Enterprise Firewall and Data Center Firewall Tests]]></title>
-        <id>https://www.darkreading.com/perimeter/cyberratings-org-invites-industry-participation-in-forthcoming-enterprise-firewall-and-data-center-firewall-tests</id>
-        <link href="https://www.darkreading.com/perimeter/cyberratings-org-invites-industry-participation-in-forthcoming-enterprise-firewall-and-data-center-firewall-tests"/>
-        <updated>2022-10-07T13:15:24.000Z</updated>
-        <summary type="html"><![CDATA[Test methodologies published today, and their scope includes security effectiveness, performance, stability and reliability, and total cost of ownership.]]></summary>
-        <author>
-            <name>Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The essentials of GRC and cybersecurity — How they empower each other]]></title>
-        <id>tag:blogger.com,1999:blog-4802841478634147276.post-1517832448649270869</id>
-        <link href="https://thehackernews.com/2022/10/the-essentials-of-grc-and-cybersecurity.html"/>
-        <updated>2022-10-07T13:04:00.000Z</updated>
-        <summary type="html"><![CDATA[Understanding the connection between GRC and cybersecurity
-When talking about cybersecurity, Governance, Risk, and Compliance (GRC) is often considered the least exciting part of business protection. However, its importance can't be ignored, and this is why. 
-While cybersecurity focuses on the technical side of protecting systems, networks, devices, and data, GRC is the tool that will help the]]></summary>
-        <author>
-            <name>noreply@blogger.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LofyGang Distributed ~200 Malicious NPM Packages to Steal Credit Card Data]]></title>
-        <id>tag:blogger.com,1999:blog-4802841478634147276.post-7100246209887330206</id>
-        <link href="https://thehackernews.com/2022/10/lofygang-distributed-200-malicious-npm.html"/>
-        <updated>2022-10-07T12:59:00.000Z</updated>
-        <summary type="html"><![CDATA[Multiple campaigns that distributed trojanized and typosquatted packages on the NPM open source repository have been identified as the work of a single threat actor dubbed LofyGang.
-Checkmarx said it discovered 199 rogue packages totaling thousands of installations, with the group operating for over a year with the goal of stealing credit card data as well as user accounts associated with]]></summary>
-        <author>
-            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hackers Can Use 'App Mode' in Chromium Browsers' for Stealth Phishing Attacks]]></title>
-        <id>tag:blogger.com,1999:blog-4802841478634147276.post-5816906911800096333</id>
-        <link href="https://thehackernews.com/2022/10/hackers-can-use-app-mode-in-chromium.html"/>
-        <updated>2022-10-07T08:58:00.000Z</updated>
-        <summary type="html"><![CDATA[In what's a new phishing technique, it has been demonstrated that the Application Mode feature in Chromium-based web browsers can be abused to create "realistic desktop phishing applications."
-Application Mode is designed to offer native-like experiences in a manner that causes the website to be launched in a separate browser window, while also displaying the website's favicon and hiding the]]></summary>
-        <author>
-            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
         </author>
     </entry>
     <entry>
