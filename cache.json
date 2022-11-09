@@ -23,6 +23,16 @@
       "siteUrl": "https://us-cert.cisa.gov/",
       "articles": [
         {
+          "id": "18131 at https://us-cert.cisa.gov",
+          "author": "CISA",
+          "description": "Original release date: November 8, 2022\nCISA has added seven vulnerabilities to its Known Exploited Vulnerabilities Catalog, based on evidence of active exploitation. These types of vulnerabilities are a frequent attack vector for malicious cyber actors and pose significant risk to the federal enterprise. Note: to view the newly added vulnerabilities in the catalog, click on the arrow in the \"Date Added to Catalog\" column, which will sort by descending dates.\nBinding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the Known Exploited Vulnerabilities Catalog as a living list of known CVEs that carry significant risk to the federal enterprise. BOD 22-01 requires FCEB agencies to remediate identified vulnerabilities by the due date to protect FCEB networks against active threats. See the BOD 22-01 Fact Sheet for more information.\nAlthough BOD 22-01 only applies to FCEB agencies, CISA strongly urges all organizations to reduce their exposure to cyberattacks by prioritizing timely remediation of Catalog vulnerabilities as part of their vulnerability management practice. CISA will continue to add vulnerabilities to the Catalog that meet the specified criteria.\nThis product is provided subject to this Notification and this Privacy & Use policy.",
+          "link": "https://us-cert.cisa.gov/ncas/current-activity/2022/11/08/cisa-adds-seven-known-exploited-vulnerabilities-catalog",
+          "publishedOn": "2022-11-08T15:57:08.000Z",
+          "wordCount": 1022,
+          "title": "CISA Adds Seven Known Exploited Vulnerabilities to Catalog",
+          "imageUrl": null
+        },
+        {
           "id": "18128 at https://us-cert.cisa.gov",
           "author": "CISA",
           "description": "Original release date: November 3, 2022\nCisco has released security updates for vulnerabilities affecting multiple products. A remote attacker could exploit some of these vulnerabilities to take control of an affected system. For updates addressing lower severity vulnerabilities, see the Cisco Security Advisories page.\nCISA encourages users and administrators to review the advisories and apply the necessary updates.\nThis product is provided subject to this Notification and this Privacy & Use policy.",
@@ -369,6 +379,91 @@
       "feedUrl": "https://www.darkreading.com/rss.xml",
       "siteUrl": "https://www.darkreading.com",
       "articles": [
+        {
+          "id": "https://www.darkreading.com/tech-trends/confidence-in-data-recovery-tools-low",
+          "author": "Dark Reading Staff, Dark Reading",
+          "description": "IT practitioners are developing ransomware response plans, but many of them are not confident in their data resiliency tools.",
+          "link": "https://www.darkreading.com/tech-trends/confidence-in-data-recovery-tools-low",
+          "publishedOn": "2022-11-09T02:00:00.000Z",
+          "wordCount": 11953,
+          "title": "Confidence in Data Recovery Tools Low",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blte161b23f0fd3a84b/60b1ea374e7eb868c4c6a293/dr_staff_125x125.jpg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blte161b23f0fd3a84b/60b1ea374e7eb868c4c6a293/dr_staff_125x125.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/operations/the-cis-benchmarks-community-consensus-process",
+          "author": null,
+          "description": "The CIS Benchmarks are unique for many reasons. None compare to the community consensus process that forms their hardening guidance. Learn how to get involved.",
+          "link": "https://www.darkreading.com/operations/the-cis-benchmarks-community-consensus-process",
+          "publishedOn": "2022-11-08T22:00:00.000Z",
+          "wordCount": 12815,
+          "title": "The CIS Benchmarks Community Consensus Process",
+          "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/threat-intelligence/microsoft-quashes-actively-exploited-zero-days-november-patch-tuesday",
+          "author": "Tara Seals, Managing Editor, News, Dark Reading",
+          "description": "Long-awaited security fixes for ProxyNotShell and Mark of the Web bypasses are part of a glut of actively exploited zero-day vulnerabilities and other critical flaws that admins need to prioritize in the coming hours.",
+          "link": "https://www.darkreading.com/threat-intelligence/microsoft-quashes-actively-exploited-zero-days-november-patch-tuesday",
+          "publishedOn": "2022-11-08T21:32:13.000Z",
+          "wordCount": 14796,
+          "title": "Microsoft Quashes Bevy of Actively Exploited Zero-Days for November Patch Tuesday",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltea67136f81f32eca/626a9eb4726e3315b16b3c64/Tara-Seals-Headshot2.jpg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltea67136f81f32eca/626a9eb4726e3315b16b3c64/Tara-Seals-Headshot2.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/microsoft/extortion-economics-ransomware-s-new-business-model",
+          "author": "Microsoft Security, Microsoft",
+          "description": "Ransomware-as-a-service lowers the barriers to entry, hides attackers’ identities, and creates multitier, specialized roles in service of ill-gotten gains.",
+          "link": "https://www.darkreading.com/microsoft/extortion-economics-ransomware-s-new-business-model",
+          "publishedOn": "2022-11-08T21:30:58.000Z",
+          "wordCount": 13424,
+          "title": "Extortion Economics: Ransomware's New Business Model",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt8fe4479bc32f84b4/6321f5362769d078008692a9/MS-Security_logo.png",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt8fe4479bc32f84b4/6321f5362769d078008692a9/MS-Security_logo.png"
+        },
+        {
+          "id": "https://www.darkreading.com/attacks-breaches/instagram-star-gets-11-years-for-cybercrimes-used-to-fund-his-lavish-lifestyle",
+          "author": "Dark Reading Staff, Dark Reading",
+          "description": "Prolific online scammer and social media influencer 'Hushpuppi' sentenced for bank cyber heists, BEC campaigns, money laundering, and more.",
+          "link": "https://www.darkreading.com/attacks-breaches/instagram-star-gets-11-years-for-cybercrimes-used-to-fund-his-lavish-lifestyle",
+          "publishedOn": "2022-11-08T21:14:43.000Z",
+          "wordCount": 11418,
+          "title": "Instagram Star Gets 11 Years for Cybercrimes Used to Fund His Lavish Lifestyle",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blte161b23f0fd3a84b/60b1ea374e7eb868c4c6a293/dr_staff_125x125.jpg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blte161b23f0fd3a84b/60b1ea374e7eb868c4c6a293/dr_staff_125x125.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/risk/it-s-time-to-see-cybersecurity-regulation-as-a-friend-not-a-foe",
+          "author": "Chris Strand, Chief Risk and Compliance Officer, Cybersixgill",
+          "description": "There's real value in having a better perspective around future regulation and compliance requirements.",
+          "link": "https://www.darkreading.com/risk/it-s-time-to-see-cybersecurity-regulation-as-a-friend-not-a-foe",
+          "publishedOn": "2022-11-08T18:00:00.000Z",
+          "wordCount": 13905,
+          "title": "It's Time to See Cybersecurity Regulation as a Friend, Not a Foe",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt32ff70f1047ae6c5/6367f75a5ca01b33f19e5d0a/Chris_strand.jpg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt32ff70f1047ae6c5/6367f75a5ca01b33f19e5d0a/Chris_strand.jpg"
+        },
         {
           "id": "https://www.darkreading.com/careers-and-people/cyber-org-range-cyber-job-k-12-students",
           "author": "Dark Reading Staff, Dark Reading",
@@ -4043,21 +4138,6 @@
             "length": "0"
           },
           "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blte161b23f0fd3a84b/60b1ea374e7eb868c4c6a293/dr_staff_125x125.jpg"
-        },
-        {
-          "id": "https://www.darkreading.com/careers-and-people/6-things-every-ciso-should-do-the-first-90-days-on-the-job",
-          "author": "James Turgal, VP of Cyber Risk, Strategy & Board Relations, Optiv",
-          "description": "A CISO's responsibilities have evolved immensely in recent years, so their first three months on the job should look a different today than they might have several years ago.",
-          "link": "https://www.darkreading.com/careers-and-people/6-things-every-ciso-should-do-the-first-90-days-on-the-job",
-          "publishedOn": "2022-10-10T14:00:00.000Z",
-          "wordCount": 12479,
-          "title": "6 Things Every CISO Should Do the First 90 Days on the Job",
-          "enclosure": {
-            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltde3f476b295108ce/633317377661a91540ded959/James_Turgal.png",
-            "type": "image/*",
-            "length": "0"
-          },
-          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltde3f476b295108ce/633317377661a91540ded959/James_Turgal.png"
         }
       ]
     },
@@ -6145,39 +6225,6 @@
           "publishedOn": "2022-10-10T15:16:00.000Z",
           "wordCount": null,
           "title": "Researchers Detail Malicious Tools Used by Cyberespionage Group Earth Aughisky",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "tag:blogger.com,1999:blog-4802841478634147276.post-3235219696641834229",
-          "author": "noreply@blogger.com (Ravie Lakshmanan)",
-          "description": "Threat actors associated with the notorious Emotet malware are continually shifting their tactics and command-and-control (C2) infrastructure to escape detection, according to new research from VMware.\nEmotet is the work of a threat actor tracked as Mummy Spider (aka TA542), emerging in June 2014 as a banking trojan before morphing into an all-purpose loader in 2016 that's capable of delivering",
-          "link": "https://thehackernews.com/2022/10/new-report-uncovers-emotets-delivery.html",
-          "publishedOn": "2022-10-10T13:10:00.000Z",
-          "wordCount": null,
-          "title": "New Report Uncovers Emotet's Delivery and Evasion Techniques Used in Recent Attacks",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "tag:blogger.com,1999:blog-4802841478634147276.post-3161240661827285172",
-          "author": "noreply@blogger.com (Ravie Lakshmanan)",
-          "description": "Chipmaker Intel has confirmed that proprietary source code related to its Alder Lake CPUs has been leaked, following its release by an unknown third-party on 4chan and GitHub last week.\nThe published content contains Unified Extensible Firmware Interface (UEFI) code for Alder Lake, the company's 12th generation processors that was originally launched in November 2021.\nIn a statement shared with",
-          "link": "https://thehackernews.com/2022/10/intel-confirms-leak-of-alder-lake-bios.html",
-          "publishedOn": "2022-10-10T09:25:00.000Z",
-          "wordCount": null,
-          "title": "Intel Confirms Leak of Alder Lake BIOS Source Code",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "tag:blogger.com,1999:blog-4802841478634147276.post-1515422887999363760",
-          "author": "noreply@blogger.com (Ravie Lakshmanan)",
-          "description": "BNB Chain, a blockchain linked to the Binance cryptocurrency exchange, disclosed an exploit on a cross-chain bridge that drained around $100 million in digital assets.\n\"There was an exploit affecting the native cross-chain bridge between BNB Beacon Chain (BEP2) and BNB Smart Chain (BEP20 or BSC), known as 'BSC Token Hub,'\" it said last week. \"The exploit was through a sophisticated forging of",
-          "link": "https://thehackernews.com/2022/10/hackers-steal-100-million.html",
-          "publishedOn": "2022-10-10T08:59:00.000Z",
-          "wordCount": null,
-          "title": "Hackers Steal $100 Million Cryptocurrency from Binance Bridge",
           "itunes": {},
           "imageUrl": null
         }

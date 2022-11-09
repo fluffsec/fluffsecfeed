@@ -2,10 +2,70 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-11-08T19:28:57.431Z</updated>
+    <updated>2022-11-09T03:10:53.288Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Confidence in Data Recovery Tools Low]]></title>
+        <id>https://www.darkreading.com/tech-trends/confidence-in-data-recovery-tools-low</id>
+        <link href="https://www.darkreading.com/tech-trends/confidence-in-data-recovery-tools-low"/>
+        <updated>2022-11-09T02:00:00.000Z</updated>
+        <summary type="html"><![CDATA[IT practitioners are developing ransomware response plans, but many of them are not confident in their data resiliency tools.]]></summary>
+        <author>
+            <name>Dark Reading Staff, Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The CIS Benchmarks Community Consensus Process]]></title>
+        <id>https://www.darkreading.com/operations/the-cis-benchmarks-community-consensus-process</id>
+        <link href="https://www.darkreading.com/operations/the-cis-benchmarks-community-consensus-process"/>
+        <updated>2022-11-08T22:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The CIS Benchmarks are unique for many reasons. None compare to the community consensus process that forms their hardening guidance. Learn how to get involved.]]></summary>
+        <author>
+            <name>Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Quashes Bevy of Actively Exploited Zero-Days for November Patch Tuesday]]></title>
+        <id>https://www.darkreading.com/threat-intelligence/microsoft-quashes-actively-exploited-zero-days-november-patch-tuesday</id>
+        <link href="https://www.darkreading.com/threat-intelligence/microsoft-quashes-actively-exploited-zero-days-november-patch-tuesday"/>
+        <updated>2022-11-08T21:32:13.000Z</updated>
+        <summary type="html"><![CDATA[Long-awaited security fixes for ProxyNotShell and Mark of the Web bypasses are part of a glut of actively exploited zero-day vulnerabilities and other critical flaws that admins need to prioritize in the coming hours.]]></summary>
+        <author>
+            <name>Tara Seals, Managing Editor, News, Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Extortion Economics: Ransomware's New Business Model]]></title>
+        <id>https://www.darkreading.com/microsoft/extortion-economics-ransomware-s-new-business-model</id>
+        <link href="https://www.darkreading.com/microsoft/extortion-economics-ransomware-s-new-business-model"/>
+        <updated>2022-11-08T21:30:58.000Z</updated>
+        <summary type="html"><![CDATA[Ransomware-as-a-service lowers the barriers to entry, hides attackers’ identities, and creates multitier, specialized roles in service of ill-gotten gains.]]></summary>
+        <author>
+            <name>Microsoft Security, Microsoft</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Instagram Star Gets 11 Years for Cybercrimes Used to Fund His Lavish Lifestyle]]></title>
+        <id>https://www.darkreading.com/attacks-breaches/instagram-star-gets-11-years-for-cybercrimes-used-to-fund-his-lavish-lifestyle</id>
+        <link href="https://www.darkreading.com/attacks-breaches/instagram-star-gets-11-years-for-cybercrimes-used-to-fund-his-lavish-lifestyle"/>
+        <updated>2022-11-08T21:14:43.000Z</updated>
+        <summary type="html"><![CDATA[Prolific online scammer and social media influencer 'Hushpuppi' sentenced for bank cyber heists, BEC campaigns, money laundering, and more.]]></summary>
+        <author>
+            <name>Dark Reading Staff, Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[It's Time to See Cybersecurity Regulation as a Friend, Not a Foe]]></title>
+        <id>https://www.darkreading.com/risk/it-s-time-to-see-cybersecurity-regulation-as-a-friend-not-a-foe</id>
+        <link href="https://www.darkreading.com/risk/it-s-time-to-see-cybersecurity-regulation-as-a-friend-not-a-foe"/>
+        <updated>2022-11-08T18:00:00.000Z</updated>
+        <summary type="html"><![CDATA[There's real value in having a better perspective around future regulation and compliance requirements.]]></summary>
+        <author>
+            <name>Chris Strand, Chief Risk and Compliance Officer, Cybersixgill</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Cyber.org Range Offers Cybersecurity Job Paths for K-12 Students]]></title>
         <id>https://www.darkreading.com/careers-and-people/cyber-org-range-cyber-job-k-12-students</id>
@@ -14,6 +74,20 @@
         <summary type="html"><![CDATA[The classroom-based curriculum addresses the cybersecurity workforce gap with free training labs and virtual cyberattack environments to hone the skills of the next generation of talent.]]></summary>
         <author>
             <name>Dark Reading Staff, Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CISA Adds Seven Known Exploited Vulnerabilities to Catalog]]></title>
+        <id>18131 at https://us-cert.cisa.gov</id>
+        <link href="https://us-cert.cisa.gov/ncas/current-activity/2022/11/08/cisa-adds-seven-known-exploited-vulnerabilities-catalog"/>
+        <updated>2022-11-08T15:57:08.000Z</updated>
+        <summary type="html"><![CDATA[Original release date: November 8, 2022
+CISA has added seven vulnerabilities to its Known Exploited Vulnerabilities Catalog, based on evidence of active exploitation. These types of vulnerabilities are a frequent attack vector for malicious cyber actors and pose significant risk to the federal enterprise. Note: to view the newly added vulnerabilities in the catalog, click on the arrow in the "Date Added to Catalog" column, which will sort by descending dates.
+Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the Known Exploited Vulnerabilities Catalog as a living list of known CVEs that carry significant risk to the federal enterprise. BOD 22-01 requires FCEB agencies to remediate identified vulnerabilities by the due date to protect FCEB networks against active threats. See the BOD 22-01 Fact Sheet for more information.
+Although BOD 22-01 only applies to FCEB agencies, CISA strongly urges all organizations to reduce their exposure to cyberattacks by prioritizing timely remediation of Catalog vulnerabilities as part of their vulnerability management practice. CISA will continue to add vulnerabilities to the Catalog that meet the specified criteria.
+This product is provided subject to this Notification and this Privacy & Use policy.]]></summary>
+        <author>
+            <name>CISA</name>
         </author>
     </entry>
     <entry>
@@ -5475,50 +5549,6 @@ Tracked as CVE-2022-40684 (CVSS score: 9.6), the flaw relates to an authentica
         <updated>2022-10-10T15:16:00.000Z</updated>
         <summary type="html"><![CDATA[A new piece of research has detailed the increasingly sophisticated nature of the malware toolset employed by an advanced persistent threat (APT) group named Earth Aughisky.
 "Over the last decade, the group has continued to make adjustments in the tools and malware deployments on specific targets located in Taiwan and, more recently, Japan," Trend Micro disclosed in a technical profile last week]]></summary>
-        <author>
-            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[6 Things Every CISO Should Do the First 90 Days on the Job]]></title>
-        <id>https://www.darkreading.com/careers-and-people/6-things-every-ciso-should-do-the-first-90-days-on-the-job</id>
-        <link href="https://www.darkreading.com/careers-and-people/6-things-every-ciso-should-do-the-first-90-days-on-the-job"/>
-        <updated>2022-10-10T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A CISO's responsibilities have evolved immensely in recent years, so their first three months on the job should look a different today than they might have several years ago.]]></summary>
-        <author>
-            <name>James Turgal, VP of Cyber Risk, Strategy &amp; Board Relations, Optiv</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Report Uncovers Emotet's Delivery and Evasion Techniques Used in Recent Attacks]]></title>
-        <id>tag:blogger.com,1999:blog-4802841478634147276.post-3235219696641834229</id>
-        <link href="https://thehackernews.com/2022/10/new-report-uncovers-emotets-delivery.html"/>
-        <updated>2022-10-10T13:10:00.000Z</updated>
-        <summary type="html"><![CDATA[Threat actors associated with the notorious Emotet malware are continually shifting their tactics and command-and-control (C2) infrastructure to escape detection, according to new research from VMware.
-Emotet is the work of a threat actor tracked as Mummy Spider (aka TA542), emerging in June 2014 as a banking trojan before morphing into an all-purpose loader in 2016 that's capable of delivering]]></summary>
-        <author>
-            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Intel Confirms Leak of Alder Lake BIOS Source Code]]></title>
-        <id>tag:blogger.com,1999:blog-4802841478634147276.post-3161240661827285172</id>
-        <link href="https://thehackernews.com/2022/10/intel-confirms-leak-of-alder-lake-bios.html"/>
-        <updated>2022-10-10T09:25:00.000Z</updated>
-        <summary type="html"><![CDATA[Chipmaker Intel has confirmed that proprietary source code related to its Alder Lake CPUs has been leaked, following its release by an unknown third-party on 4chan and GitHub last week.
-The published content contains Unified Extensible Firmware Interface (UEFI) code for Alder Lake, the company's 12th generation processors that was originally launched in November 2021.
-In a statement shared with]]></summary>
-        <author>
-            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hackers Steal $100 Million Cryptocurrency from Binance Bridge]]></title>
-        <id>tag:blogger.com,1999:blog-4802841478634147276.post-1515422887999363760</id>
-        <link href="https://thehackernews.com/2022/10/hackers-steal-100-million.html"/>
-        <updated>2022-10-10T08:59:00.000Z</updated>
-        <summary type="html"><![CDATA[BNB Chain, a blockchain linked to the Binance cryptocurrency exchange, disclosed an exploit on a cross-chain bridge that drained around $100 million in digital assets.
-"There was an exploit affecting the native cross-chain bridge between BNB Beacon Chain (BEP2) and BNB Smart Chain (BEP20 or BSC), known as 'BSC Token Hub,'" it said last week. "The exploit was through a sophisticated forging of]]></summary>
         <author>
             <name>noreply@blogger.com (Ravie Lakshmanan)</name>
         </author>
