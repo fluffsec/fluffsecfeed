@@ -2,10 +2,69 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-11-09T07:23:26.774Z</updated>
+    <updated>2022-11-09T13:51:48.739Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[[EYES OUT] This Scary Strain of Sleeper Ransomware Is Really a Data Wiper in Disguise]]></title>
+        <id>https://blog.knowbe4.com/eyes-out-this-scary-strain-of-sleeper-ransomware-is-really-a-data-wiper-in-disguise</id>
+        <link href="https://blog.knowbe4.com/eyes-out-this-scary-strain-of-sleeper-ransomware-is-really-a-data-wiper-in-disguise"/>
+        <updated>2022-11-09T11:54:55.000Z</updated>
+        <summary type="html"><![CDATA[This Data wiper replaces every other 666 bytes of data with junk. Techradar reported that a new data-wiping malware has been detected, infecting more and more endpoints with each passing day - but what's most curious is that it poses as ransomware.]]></summary>
+        <author>
+            <name>Stu Sjouwerman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Experts Warn of Browser Extensions Spying On Users via Cloud9 Chrome Botnet Network]]></title>
+        <id>tag:blogger.com,1999:blog-4802841478634147276.post-8960265746040530994</id>
+        <link href="https://thehackernews.com/2022/11/experts-warn-of-browser-extensions.html"/>
+        <updated>2022-11-09T11:01:00.000Z</updated>
+        <summary type="html"><![CDATA[The Keksec threat actor has been linked to a previously undocumented malware strain, which has been observed in the wild masquerading as an extension for Chromium-based web browsers to enslave compromised machines into a botnet.
+Called Cloud9 by security firm Zimperium, the malicious browser add-on comes with a wide range of features that enables it to siphon cookies, log keystrokes, inject]]></summary>
+        <author>
+            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Top 5 API Security Myths That Are Crushing Your Business]]></title>
+        <id>tag:blogger.com,1999:blog-4802841478634147276.post-586045615866483548</id>
+        <link href="https://thehackernews.com/2022/11/top-5-api-security-myths-that-are.html"/>
+        <updated>2022-11-09T10:18:00.000Z</updated>
+        <summary type="html"><![CDATA[There are several myths and misconceptions about API security. These myths about securing APIs are crushing your business. 
+Why so? Because these myths are widening your security gaps. This is making it easier for attackers to abuse APIs. And API attacks are costly. Of course, you will have to bear financial losses. But there are other consequences too: 
+
+Reputational damage 
+Customer attrition]]></summary>
+        <author>
+            <name>noreply@blogger.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New IceXLoader Malware Loader Variant Infected Thousands of Victims Worldwide]]></title>
+        <id>tag:blogger.com,1999:blog-4802841478634147276.post-2946277209061741860</id>
+        <link href="https://thehackernews.com/2022/11/new-icexloader-malware-loader-variant.html"/>
+        <updated>2022-11-09T10:15:00.000Z</updated>
+        <summary type="html"><![CDATA[An updated version of a malware loader codenamed IceXLoader is suspected of having compromised thousands of personal and enterprise Windows machines across the world.
+IceXLoader is a commodity malware that's sold for $118 on underground forums for a lifetime license. It's chiefly employed to download and execute additional malware on breached hosts.
+This past June, Fortinet FortiGuard Labs said]]></summary>
+        <author>
+            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[VMware Warns of 3 New Critical Flaws Affecting Workspace ONE Assist Software]]></title>
+        <id>tag:blogger.com,1999:blog-4802841478634147276.post-637518435601545030</id>
+        <link href="https://thehackernews.com/2022/11/vmware-warns-of-3-new-critical-flaws.html"/>
+        <updated>2022-11-09T06:04:00.000Z</updated>
+        <summary type="html"><![CDATA[VMware has patched five security flaws affecting its Workspace ONE Assist solution, some of which could be exploited to bypass authentication and obtain elevated permissions.
+Topping the list, are three critical vulnerabilities tracked as CVE-2022-31685, CVE-2022-31686, and CVE-2022-31687. All the shortcomings are rated 9.8 on the CVSS vulnerability scoring system.
+CVE-2022-31685 is an]]></summary>
+        <author>
+            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Install Latest Windows Update ASAP! Patches Issued for 6 Actively Exploited Zero-Days]]></title>
         <id>tag:blogger.com,1999:blog-4802841478634147276.post-625335700058908489</id>
@@ -5522,26 +5581,6 @@ The]]></summary>
 Tracked as CVE-2022-40684 (CVSS score: 9.6), the flaw relates to an authentication bypass in FortiOS, FortiProxy, and FortiSwitchManager that could allow a remote attacker to perform unauthorized operations on the administrative]]></summary>
         <author>
             <name>noreply@blogger.com (Ravie Lakshmanan)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[US Airports in Cyberattack Crosshairs for Pro-Russian Group Killnet]]></title>
-        <id>https://www.darkreading.com/attacks-breaches/us-airports-cyberattack-crosshairs-pro-russian-group-killnet</id>
-        <link href="https://www.darkreading.com/attacks-breaches/us-airports-cyberattack-crosshairs-pro-russian-group-killnet"/>
-        <updated>2022-10-10T20:45:00.000Z</updated>
-        <summary type="html"><![CDATA[Killnet calls on other groups to launch similar attacks against US civilian infrastructure, including marine terminals and logistics facilities, weather monitoring centers, and healthcare systems.]]></summary>
-        <author>
-            <name>Jai Vijayan, Contributing Writer, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Emotet Rises Again With More Sophistication, Evasion]]></title>
-        <id>https://www.darkreading.com/threat-intelligence/emotet-rises-again-with-more-sophistication-evasion</id>
-        <link href="https://www.darkreading.com/threat-intelligence/emotet-rises-again-with-more-sophistication-evasion"/>
-        <updated>2022-10-10T20:35:32.000Z</updated>
-        <summary type="html"><![CDATA[An analysis of the malware and its infection strategies finds nearly 21,000 minor and 139 major variations on the malware — complexity that helps it dodge analysis.]]></summary>
-        <author>
-            <name>Robert Lemos, Contributing Writer, Dark Reading</name>
         </author>
     </entry>
     <entry>
