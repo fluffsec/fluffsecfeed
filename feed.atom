@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-11-09T03:10:53.288Z</updated>
+    <updated>2022-11-09T07:23:26.774Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Install Latest Windows Update ASAP! Patches Issued for 6 Actively Exploited Zero-Days]]></title>
+        <id>tag:blogger.com,1999:blog-4802841478634147276.post-625335700058908489</id>
+        <link href="https://thehackernews.com/2022/11/install-latest-windows-update-asap.html"/>
+        <updated>2022-11-09T05:16:00.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft's latest round of monthly security updates has been released with fixes for 68 vulnerabilities spanning its software portfolio, including patches for six actively exploited zero-days.
+12 of the issues are rated Critical, two are rated High, and 55 are rated Important in severity. This also includes the weaknesses that were closed out by OpenSSL the previous week.
+Also separately]]></summary>
+        <author>
+            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Confidence in Data Recovery Tools Low]]></title>
         <id>https://www.darkreading.com/tech-trends/confidence-in-data-recovery-tools-low</id>
@@ -5530,27 +5542,6 @@ Tracked as CVE-2022-40684 (CVSS score: 9.6), the flaw relates to an authentica
         <summary type="html"><![CDATA[An analysis of the malware and its infection strategies finds nearly 21,000 minor and 139 major variations on the malware — complexity that helps it dodge analysis.]]></summary>
         <author>
             <name>Robert Lemos, Contributing Writer, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Zimbra RCE Bug Under Active Attack]]></title>
-        <id>https://www.darkreading.com/remote-workforce/zimbra-rce-bug-under-active-attack</id>
-        <link href="https://www.darkreading.com/remote-workforce/zimbra-rce-bug-under-active-attack"/>
-        <updated>2022-10-10T18:17:44.000Z</updated>
-        <summary type="html"><![CDATA[A flaw in unpatched Zimbra email servers could allow attackers to obtain remote code execution by pushing malicious files past filters.]]></summary>
-        <author>
-            <name>Dark Reading Staff, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Researchers Detail Malicious Tools Used by Cyberespionage Group Earth Aughisky]]></title>
-        <id>tag:blogger.com,1999:blog-4802841478634147276.post-4014016984274077591</id>
-        <link href="https://thehackernews.com/2022/10/researchers-detail-malicious-tools-used.html"/>
-        <updated>2022-10-10T15:16:00.000Z</updated>
-        <summary type="html"><![CDATA[A new piece of research has detailed the increasingly sophisticated nature of the malware toolset employed by an advanced persistent threat (APT) group named Earth Aughisky.
-"Over the last decade, the group has continued to make adjustments in the tools and malware deployments on specific targets located in Taiwan and, more recently, Japan," Trend Micro disclosed in a technical profile last week]]></summary>
-        <author>
-            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
         </author>
     </entry>
     <entry>
