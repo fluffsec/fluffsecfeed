@@ -2,10 +2,141 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-11-09T13:51:48.739Z</updated>
+    <updated>2022-11-09T19:20:02.674Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Releases November 2022 Security Updates]]></title>
+        <id>18134 at https://us-cert.cisa.gov</id>
+        <link href="https://us-cert.cisa.gov/ncas/current-activity/2022/11/09/microsoft-releases-november-2022-security-updates"/>
+        <updated>2022-11-09T23:18:40.000Z</updated>
+        <summary type="html"><![CDATA[Original release date: November 9, 2022
+Microsoft has released updates to address multiple vulnerabilities in Microsoft software. An attacker can exploit some of these vulnerabilities to take control of an affected system.
+CISA encourages users and administrators to review Microsoft’s November 2022 Security Update Guide and Deployment Information and apply the necessary updates.
+This product is provided subject to this Notification and this Privacy & Use policy.]]></summary>
+        <author>
+            <name>CISA</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[VMware Releases Security Updates]]></title>
+        <id>18133 at https://us-cert.cisa.gov</id>
+        <link href="https://us-cert.cisa.gov/ncas/current-activity/2022/11/09/vmware-releases-security-updates"/>
+        <updated>2022-11-09T21:05:40.000Z</updated>
+        <summary type="html"><![CDATA[Original release date: November 9, 2022
+VMware has released security updates to address multiple vulnerabilities in VMware Workspace ONE Assist. A remote attacker could exploit one of these vulnerabilities to take control of an affected system.
+CISA encourages users and administrators to review VMware Security Advisory VMSA-2022-0028 and apply the necessary updates and workarounds.
+This product is provided subject to this Notification and this Privacy & Use policy.]]></summary>
+        <author>
+            <name>CISA</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Better Way to Resist Identity-Based Cyber Threats]]></title>
+        <id>https://www.darkreading.com/operations/a-better-way-to-resist-identity-based-cyber-threats</id>
+        <link href="https://www.darkreading.com/operations/a-better-way-to-resist-identity-based-cyber-threats"/>
+        <updated>2022-11-09T18:00:00.000Z</updated>
+        <summary type="html"><![CDATA[New approaches to identity access management are indispensable.]]></summary>
+        <author>
+            <name>Marcus Bartram, General Partner, Telstra Ventures</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Citrix Releases Security Updates for ADC and Gateway]]></title>
+        <id>18132 at https://us-cert.cisa.gov</id>
+        <link href="https://us-cert.cisa.gov/ncas/current-activity/2022/11/09/citrix-releases-security-updates-adc-and-gateway"/>
+        <updated>2022-11-09T16:51:15.000Z</updated>
+        <summary type="html"><![CDATA[Original release date: November 9, 2022
+Citrix has released security updates to address vulnerabilities in Citrix ADC and Citrix Gateway. A remote attacker could exploit one of these vulnerabilities to take control of an affected system.
+CISA encourages users and administrators to review Citrix Security Updates CTX463706 and apply the necessary updates.
+This product is provided subject to this Notification and this Privacy & Use policy.]]></summary>
+        <author>
+            <name>CISA</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cloud9 Malware Offers a Paradise of Cyberattack Methods]]></title>
+        <id>https://www.darkreading.com/threat-intelligence/cloud9-malware-paradise-cyberattack-methods</id>
+        <link href="https://www.darkreading.com/threat-intelligence/cloud9-malware-paradise-cyberattack-methods"/>
+        <updated>2022-11-09T15:33:27.000Z</updated>
+        <summary type="html"><![CDATA[The Swiss Army knife-like browser extension is heaven for attackers — and can be hell for enterprise users.]]></summary>
+        <author>
+            <name>Elizabeth Montalbano, Contributor, Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Compliancy Group Urges Healthcare Organizations to Complete Their HIPAA Security Risk Assessments]]></title>
+        <id>https://www.darkreading.com/risk/compliancy-group-urges-healthcare-organizations-to-complete-their-hipaa-security-risk-assessments</id>
+        <link href="https://www.darkreading.com/risk/compliancy-group-urges-healthcare-organizations-to-complete-their-hipaa-security-risk-assessments"/>
+        <updated>2022-11-09T15:24:03.000Z</updated>
+        <summary type="html"><![CDATA[An annual HIPAA security risk assessment is required to meet HIPAA requirements.]]></summary>
+        <author>
+            <name>Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What We Really Mean When We Talk About ‘Cybersecurity’]]></title>
+        <id>https://www.darkreading.com/vulnerabilities-threats/what-we-really-mean-when-we-talk-about-cybersecurity-</id>
+        <link href="https://www.darkreading.com/vulnerabilities-threats/what-we-really-mean-when-we-talk-about-cybersecurity-"/>
+        <updated>2022-11-09T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A lack of precision in our terminology leads to misunderstandings and confusion about the activities we engage in, the information we share, and the expectations we hold.]]></summary>
+        <author>
+            <name>Sounil Yu, CISO and Head of Research, JupiterOne</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Research Finds Less Than a Quarter of Organizations Fully Confident Ex-Employees No Longer Have Access to Company Infrastructure]]></title>
+        <id>https://www.darkreading.com/vulnerabilities-threats/research-finds-less-than-a-quarter-of-organizations-fully-confident-ex-employees-no-longer-have-access-to-company-infrastructure</id>
+        <link href="https://www.darkreading.com/vulnerabilities-threats/research-finds-less-than-a-quarter-of-organizations-fully-confident-ex-employees-no-longer-have-access-to-company-infrastructure"/>
+        <updated>2022-11-09T14:55:57.000Z</updated>
+        <summary type="html"><![CDATA[Teleport releases its second annual State of Infrastructure Access and Security report.]]></summary>
+        <author>
+            <name>Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Industrial Control Systems (ICS) Security Market Worth $23.7B by 2027, Report Says]]></title>
+        <id>https://www.darkreading.com/ics-ot/industrial-control-systems-ics-security-market-worth-23-7b-by-2027</id>
+        <link href="https://www.darkreading.com/ics-ot/industrial-control-systems-ics-security-market-worth-23-7b-by-2027"/>
+        <updated>2022-11-09T14:25:24.000Z</updated>
+        <summary type="html"><![CDATA[The market growth is driven by the convergence of IT and OT systems. By region, North America is estimated to account for the largest market size during the forecast period.]]></summary>
+        <author>
+            <name>Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cookie-stealing Feature Added by Phishing-as-a-Service Provider To Bypass MFA]]></title>
+        <id>https://blog.knowbe4.com/phishing-as-a-service-cookie-stealing-feature</id>
+        <link href="https://blog.knowbe4.com/phishing-as-a-service-cookie-stealing-feature"/>
+        <updated>2022-11-09T13:50:47.000Z</updated>
+        <summary type="html"><![CDATA[The Robin Banks phishing-as-a-service platform now has a feature to bypass multi-factor authentication by stealing login session cookies, according to researchers at IronNet. The phishing kit’s developer used an open-source tool to implement this feature, which targets Google, Yahoo, and Outlook accounts.]]></summary>
+        <author>
+            <name>Stu Sjouwerman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[APT29 Exploited a Windows Feature to Compromise European Diplomatic Entity Network]]></title>
+        <id>tag:blogger.com,1999:blog-4802841478634147276.post-8545730526178221552</id>
+        <link href="https://thehackernews.com/2022/11/apt29-exploited-windows-feature-to.html"/>
+        <updated>2022-11-09T13:47:00.000Z</updated>
+        <summary type="html"><![CDATA[The Russia-linked APT29 nation-state actor has been found leveraging a "lesser-known" Windows feature called Credential Roaming as part of its attack against an unnamed European diplomatic entity.
+"The diplomatic-centric targeting is consistent with Russian strategic priorities as well as historic APT29 targeting," Mandiant researcher Thibault Van Geluwe de Berlaere said in a technical write-up.]]></summary>
+        <author>
+            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Several Cyber Attacks Observed Leveraging IPFS Decentralized Network]]></title>
+        <id>tag:blogger.com,1999:blog-4802841478634147276.post-3373385546410709386</id>
+        <link href="https://thehackernews.com/2022/11/several-cyber-attacks-observed.html"/>
+        <updated>2022-11-09T13:06:00.000Z</updated>
+        <summary type="html"><![CDATA[A number of phishing campaigns are leveraging the decentralized Interplanetary Filesystem (IPFS) network to host malware, phishing kit infrastructure, and facilitate other attacks.
+"Multiple malware families are currently being hosted within IPFS and retrieved during the initial stages of malware attacks," Cisco Talos researcher Edmund Brumaghin said in an analysis shared with The Hacker News.]]></summary>
+        <author>
+            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[EYES OUT] This Scary Strain of Sleeper Ransomware Is Really a Data Wiper in Disguise]]></title>
         <id>https://blog.knowbe4.com/eyes-out-this-scary-strain-of-sleeper-ransomware-is-really-a-data-wiper-in-disguise</id>
@@ -5568,17 +5699,6 @@ The]]></summary>
         <updated>2022-10-11T10:39:00.000Z</updated>
         <summary type="html"><![CDATA[Cyber criminals are using a previously undocumented phishing-as-a-service (PhaaS) toolkit called Caffeine to effectively scale up their attacks and distribute nefarious payloads.
 "This platform has an intuitive interface and comes at a relatively low cost while providing a multitude of features and tools to its criminal clients to orchestrate and automate core elements of their phishing]]></summary>
-        <author>
-            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fortinet Warns of Active Exploitation of Newly Discovered Critical Auth Bypass Bug]]></title>
-        <id>tag:blogger.com,1999:blog-4802841478634147276.post-3729214910807817255</id>
-        <link href="https://thehackernews.com/2022/10/fortinet-warns-of-active-exploitation.html"/>
-        <updated>2022-10-11T06:21:00.000Z</updated>
-        <summary type="html"><![CDATA[Fortinet on Monday revealed that the newly patched critical security vulnerability impacting its firewall and proxy products is being actively exploited in the wild.
-Tracked as CVE-2022-40684 (CVSS score: 9.6), the flaw relates to an authentication bypass in FortiOS, FortiProxy, and FortiSwitchManager that could allow a remote attacker to perform unauthorized operations on the administrative]]></summary>
         <author>
             <name>noreply@blogger.com (Ravie Lakshmanan)</name>
         </author>
