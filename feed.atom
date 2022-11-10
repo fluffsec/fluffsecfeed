@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-11-09T19:20:02.674Z</updated>
+    <updated>2022-11-10T03:05:26.709Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Malicious Python Package Relies on Steganography to Download Malware]]></title>
+        <id>https://www.darkreading.com/threat-intelligence/malicious-pypi-package-steganography-download-malware</id>
+        <link href="https://www.darkreading.com/threat-intelligence/malicious-pypi-package-steganography-download-malware"/>
+        <updated>2022-11-09T23:39:00.000Z</updated>
+        <summary type="html"><![CDATA[The malicious package downloads an image from the Web, then uses a steganography module to extract and execute the code to download malware.]]></summary>
+        <author>
+            <name>Fahmida Y. Rashid, Managing Editor, Features, Dark Reading</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Microsoft Releases November 2022 Security Updates]]></title>
         <id>18134 at https://us-cert.cisa.gov</id>
@@ -20,6 +30,46 @@ This product is provided subject to this Notification and this Privacy & Use pol
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Patch ASAP: Critical Citrix, VMware Bugs Threaten Remote Workspaces With Takeover]]></title>
+        <id>https://www.darkreading.com/vulnerabilities-threats/patch-asap-critical-citrix-vmware-bugs-remote-workspaces-takeover</id>
+        <link href="https://www.darkreading.com/vulnerabilities-threats/patch-asap-critical-citrix-vmware-bugs-remote-workspaces-takeover"/>
+        <updated>2022-11-09T23:05:00.000Z</updated>
+        <summary type="html"><![CDATA[Hole-y software alert, Batman: Cybercriminal faves Citrix Gateway and VMware Workspace ONE have authentication-bypass bugs that could offer up total access to attackers.]]></summary>
+        <author>
+            <name>Tara Seals, Managing Editor, News, Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[InterPlanetary File System Increasingly Weaponized for Phishing, Malware Delivery]]></title>
+        <id>https://www.darkreading.com/vulnerabilities-threats/use-of-interplanetary-file-system-for-phishing-malware-distribution-is-growing</id>
+        <link href="https://www.darkreading.com/vulnerabilities-threats/use-of-interplanetary-file-system-for-phishing-malware-distribution-is-growing"/>
+        <updated>2022-11-09T22:45:00.000Z</updated>
+        <summary type="html"><![CDATA[Cyberattackers like IPFS because it is resilient to content blocking and takedown efforts.]]></summary>
+        <author>
+            <name>Jai Vijayan, Contributing Writer, Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How US Businesses Suffer From the Lack of Personal Data Privacy Laws]]></title>
+        <id>https://www.darkreading.com/edge-articles/how-us-businesses-suffer-from-the-lack-of-personal-data-privacy-laws</id>
+        <link href="https://www.darkreading.com/edge-articles/how-us-businesses-suffer-from-the-lack-of-personal-data-privacy-laws"/>
+        <updated>2022-11-09T21:45:00.000Z</updated>
+        <summary type="html"><![CDATA[The stalling of federal legislation and the continued expansion of data brokers are fueling a phishing epidemic.]]></summary>
+        <author>
+            <name>Dimitri Shelest, CEO and founder, OneRep</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Here Is What You Can Do To Inspect SMS URL Links Before Clicking]]></title>
+        <id>https://blog.knowbe4.com/how-to-inspect-sms-url-links-before-clicking</id>
+        <link href="https://blog.knowbe4.com/how-to-inspect-sms-url-links-before-clicking"/>
+        <updated>2022-11-09T21:39:12.000Z</updated>
+        <summary type="html"><![CDATA[Phishing via Short Message Service (SMS) texts, what is known as smishing, is becoming increasingly common (some examples are shown below). There is probably not a person on Earth who does not get at least one smishing message a month. It is a big problem.]]></summary>
+        <author>
+            <name>Roger Grimes</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[VMware Releases Security Updates]]></title>
         <id>18133 at https://us-cert.cisa.gov</id>
         <link href="https://us-cert.cisa.gov/ncas/current-activity/2022/11/09/vmware-releases-security-updates"/>
@@ -30,6 +80,26 @@ CISA encourages users and administrators to review VMware Security Advisory VMSA
 This product is provided subject to this Notification and this Privacy & Use policy.]]></summary>
         <author>
             <name>CISA</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Long Island Midterm Votes Delayed Due to Cyberattack Aftereffects]]></title>
+        <id>https://www.darkreading.com/attacks-breaches/long-island-midterm-votes-delayed-due-to-cyberattack-after-effects</id>
+        <link href="https://www.darkreading.com/attacks-breaches/long-island-midterm-votes-delayed-due-to-cyberattack-after-effects"/>
+        <updated>2022-11-09T20:31:46.000Z</updated>
+        <summary type="html"><![CDATA[Suffolk County had to hand deliver voting databases with ballot results to the county election headquarters.]]></summary>
+        <author>
+            <name>Dark Reading Staff, Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Experian, T-Mobile Pay Up in Multimillion-Dollar Data Breach Settlements]]></title>
+        <id>https://www.darkreading.com/risk/experian-t-mobile-pay-up-in-multimillion-dollar-data-breach-settlements</id>
+        <link href="https://www.darkreading.com/risk/experian-t-mobile-pay-up-in-multimillion-dollar-data-breach-settlements"/>
+        <updated>2022-11-09T19:39:00.000Z</updated>
+        <summary type="html"><![CDATA[Massachusetts Attorney General announced settlements across multiple states for damages from Experian's 2012 and 2015 breaches that violated consumer protection and notification laws.]]></summary>
+        <author>
+            <name>Dark Reading Staff, Dark Reading</name>
         </author>
     </entry>
     <entry>
@@ -5617,90 +5687,6 @@ This product is provided subject to this Notification and this Privacy & Use pol
         <summary type="html"><![CDATA[.]]></summary>
         <author>
             <name>Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stairwell Announces $45M Series B Funding Round]]></title>
-        <id>https://www.darkreading.com/attacks-breaches/stairwell-announces-45m-series-b-funding-round</id>
-        <link href="https://www.darkreading.com/attacks-breaches/stairwell-announces-45m-series-b-funding-round"/>
-        <updated>2022-10-11T14:57:49.000Z</updated>
-        <summary type="html"><![CDATA[Investment led by Section 32 will be used to scale the product and team.]]></summary>
-        <author>
-            <name>Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Outpost24 Announces Expansion of Penetration Testing Offerings to North America]]></title>
-        <id>https://www.darkreading.com/vulnerabilities-threats/outpost24-announces-expansion-of-penetration-testing-offerings-to-north-america</id>
-        <link href="https://www.darkreading.com/vulnerabilities-threats/outpost24-announces-expansion-of-penetration-testing-offerings-to-north-america"/>
-        <updated>2022-10-11T14:13:42.000Z</updated>
-        <summary type="html"><![CDATA[Pen testing solutions to empower businesses to proactively address application security vulnerabilities amid surging threats.]]></summary>
-        <author>
-            <name>Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[High-Value Targets: String of Aussie Telco Breaches Continues]]></title>
-        <id>https://www.darkreading.com/attacks-breaches/third-aussie-telco-breached-in-less-than-a-month</id>
-        <link href="https://www.darkreading.com/attacks-breaches/third-aussie-telco-breached-in-less-than-a-month"/>
-        <updated>2022-10-11T14:01:28.000Z</updated>
-        <summary type="html"><![CDATA[Australian IT services provider Dialog has announced a breach, making it the third telecom company in the area compromised in less than a month.]]></summary>
-        <author>
-            <name>Becky Bracken, Editor, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Proposed SEC Disclosure Rules Could Transform Cyber-Incident Response]]></title>
-        <id>https://www.darkreading.com/vulnerabilities-threats/proposed-sec-disclosure-rules-could-transform-cyber-incident-response</id>
-        <link href="https://www.darkreading.com/vulnerabilities-threats/proposed-sec-disclosure-rules-could-transform-cyber-incident-response"/>
-        <updated>2022-10-11T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[It's not too early for firms to start preparing for change.]]></summary>
-        <author>
-            <name>Jason Hicks, Field CISO, Coalfire</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cybersecurity Survey of State CISOs Identifies Many Positive Trends]]></title>
-        <id>https://www.darkreading.com/vulnerabilities-threats/cybersecurity-survey-of-state-cisos-identifies-many-positive-trends</id>
-        <link href="https://www.darkreading.com/vulnerabilities-threats/cybersecurity-survey-of-state-cisos-identifies-many-positive-trends"/>
-        <updated>2022-10-11T13:34:26.000Z</updated>
-        <summary type="html"><![CDATA[.]]></summary>
-        <author>
-            <name>Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Researchers Detail Critical RCE Flaw Reported in Popular vm2 JavaScript Sandbox]]></title>
-        <id>tag:blogger.com,1999:blog-4802841478634147276.post-3758746257100234116</id>
-        <link href="https://thehackernews.com/2022/10/researchers-detail-critical-rce-flaw.html"/>
-        <updated>2022-10-11T11:28:00.000Z</updated>
-        <summary type="html"><![CDATA[A now-patched security flaw in the vm2 JavaScript sandbox module could be abused by a remote adversary to break out of security barriers and perform arbitrary operations on the underlying machine.
-"A threat actor can bypass the sandbox protections to gain remote code execution rights on the host running the sandbox," GitHub said in an advisory published on September 28, 2022.
-
-The]]></summary>
-        <author>
-            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Latest Funding News and What it Means for Cyber Security in 2023]]></title>
-        <id>tag:blogger.com,1999:blog-4802841478634147276.post-7134172585112088271</id>
-        <link href="https://thehackernews.com/2022/10/the-latest-funding-news-and-what-it.html"/>
-        <updated>2022-10-11T11:08:00.000Z</updated>
-        <summary type="html"><![CDATA[The White House has recently announced a $1 billion cyber security grant program that is designed to help state and local governments improve their cyber defenses, especially about protecting critical infrastructure. The recent executive order stems from the $1.2 trillion infrastructure bill that was signed almost a year ago. That bill allocated $1 billion for protecting critical infrastructure]]></summary>
-        <author>
-            <name>noreply@blogger.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Researchers Warn of New Phishing-as-a-Service Being Used by Cyber Criminals]]></title>
-        <id>tag:blogger.com,1999:blog-4802841478634147276.post-5549989856553476280</id>
-        <link href="https://thehackernews.com/2022/10/researchers-warn-of-new-phishing-as.html"/>
-        <updated>2022-10-11T10:39:00.000Z</updated>
-        <summary type="html"><![CDATA[Cyber criminals are using a previously undocumented phishing-as-a-service (PhaaS) toolkit called Caffeine to effectively scale up their attacks and distribute nefarious payloads.
-"This platform has an intuitive interface and comes at a relatively low cost while providing a multitude of features and tools to its criminal clients to orchestrate and automate core elements of their phishing]]></summary>
-        <author>
-            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
         </author>
     </entry>
     <entry>
