@@ -2,10 +2,238 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-11-10T13:55:04.669Z</updated>
+    <updated>2022-11-10T19:20:26.892Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[LockBit Bigwig Arrested for Ransomware Crimes]]></title>
+        <id>https://www.darkreading.com/threat-intelligence/lockbit-bigwig-arrested-ransomware-crimes</id>
+        <link href="https://www.darkreading.com/threat-intelligence/lockbit-bigwig-arrested-ransomware-crimes"/>
+        <updated>2022-11-10T19:09:00.000Z</updated>
+        <summary type="html"><![CDATA[A dual Russian-Canadian citizen is being extradited to the US to face charges related to LockBit ransomware activities.]]></summary>
+        <author>
+            <name>Dark Reading Staff, Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Managing and Mitigating Risk From Unknown Unknowns]]></title>
+        <id>https://www.darkreading.com/threat-intelligence/managing-and-mitigating-risk-from-unknown-unknowns</id>
+        <link href="https://www.darkreading.com/threat-intelligence/managing-and-mitigating-risk-from-unknown-unknowns"/>
+        <updated>2022-11-10T17:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Five practical steps to up-level attack surface management programs and gain greater visibility and risk mitigation around the extended ecosystem.]]></summary>
+        <author>
+            <name>Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CISA Releases SSVC Methodology to Prioritize Vulnerabilities]]></title>
+        <id>18135 at https://us-cert.cisa.gov</id>
+        <link href="https://us-cert.cisa.gov/ncas/current-activity/2022/11/10/cisa-releases-ssvc-methodology-prioritize-vulnerabilities"/>
+        <updated>2022-11-10T16:40:50.000Z</updated>
+        <summary type="html"><![CDATA[Original release date: November 10, 2022
+Today CISA published its guide on Stakeholder-Specific Vulnerability Categorization (SSVC), a vulnerability management methodology that assesses vulnerabilities and prioritizes remediation efforts based on exploitation status, impacts to safety, and prevalence of the affected product in a singular system.
+As stated in Executive Assistant Director (EAD) Eric Goldstein's blog post Transforming the Vulnerability Management Landscape, implementing a methodology, such as SSVC, is a critical step to advancing the vulnerability management ecosystem. Additionally, the blog details advances—including
+CISA's Known Exploited Vulnerabilities (KEV) catalog, Common Security Advisory Framework (CSAF) machine-readable security advisories, and the Vulnerability Exploitability eXchange (VEX)—that, used in conjunction with SSVC, will reduce the window cyber threat actors have to exploit networks.
+CISA encourages organizations to read EAD Goldstein's blog post and to use the following resources on the SSVC webpage to strengthen their vulnerability management processes:
+CISA's SSVC decision tree
+SSVC Guide on using SSVC and the SSVC decision tree
+SSVC Calculator for prioritizing vulnerability responses in an organization’s respective environment
+This product is provided subject to this Notification and this Privacy & Use policy.]]></summary>
+        <author>
+            <name>CISA</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Phishing Campaign Abuses Microsoft Customer Voice]]></title>
+        <id>https://blog.knowbe4.com/phishing-campaign-abuses-microsoft-customer-voice</id>
+        <link href="https://blog.knowbe4.com/phishing-campaign-abuses-microsoft-customer-voice"/>
+        <updated>2022-11-10T16:28:15.000Z</updated>
+        <summary type="html"><![CDATA[Researchers at Avanan warn that a phishing campaign is using Microsoft’s Dynamic 365 Customer Voice feature to send malicious links. Customer Voice is designed to collect feedback from customers, but attackers are using it to send phony links claiming that the recipient has received a voicemail.]]></summary>
+        <author>
+            <name>Stu Sjouwerman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Evasive KmsdBot Cryptominer/DDoS Bot Targets Gaming, Enterprises]]></title>
+        <id>https://www.darkreading.com/threat-intelligence/evasive-kmsdbot-cryptominer-ddos-bot-targets-gaming-enterprises</id>
+        <link href="https://www.darkreading.com/threat-intelligence/evasive-kmsdbot-cryptominer-ddos-bot-targets-gaming-enterprises"/>
+        <updated>2022-11-10T16:00:12.000Z</updated>
+        <summary type="html"><![CDATA[KmsdBot takes advantage of SSH connections with weak login credentials to mine currency and deplete network resources, as it gains a foothold on enterprise systems.]]></summary>
+        <author>
+            <name>Elizabeth Montalbano, Contributor, Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Warning: New Massive Malicious Campaigns Targeting Top Indian Banks' Customers]]></title>
+        <id>tag:blogger.com,1999:blog-4802841478634147276.post-4897738274069952103</id>
+        <link href="https://thehackernews.com/2022/11/warning-this-widespread-malicious.html"/>
+        <updated>2022-11-10T15:50:00.000Z</updated>
+        <summary type="html"><![CDATA[Cybersecurity researchers are warning of "massive phishing campaigns" that distribute five different malware targeting banking users in India.
+"The bank customers targeted include account subscribers of seven banks, including some of the most well-known banks located in the country and potentially affecting millions of customers," Trend Micro said in a report published this week.
+Some of the]]></summary>
+        <author>
+            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cisco Releases Security Updates for Multiple Products]]></title>
+        <id>18148 at https://us-cert.cisa.gov</id>
+        <link href="https://us-cert.cisa.gov/ncas/current-activity/2022/11/10/cisco-releases-security-updates-multiple-products"/>
+        <updated>2022-11-10T15:47:19.000Z</updated>
+        <summary type="html"><![CDATA[Original release date: November 10, 2022
+Cisco has released security updates to address vulnerabilities in multiple Cisco products. A remote attacker could exploit some of these vulnerabilities to take control of an affected system. For updates addressing lower severity vulnerabilities, see the Cisco Security Advisories page. 
+CISA encourages users and administrators to review the following advisories and apply the necessary updates:
+•    Cisco Adaptive Security Appliance Software and Firepower Threat Defense Software SSL/TLS Client Denial of Service Vulnerability cisco-sa-ssl-client-dos-cCrQPkA 
+cisco-sa-fw3100-secure-boot-5M8mUh26
+cisco-sa-ftd-gre-dos-hmedHQPM
+cisco-sa-fmcsfr-snmp-access-6gqgtJ4S
+cisco-sa-fmc-dos-OwEunWJN
+cisco-sa-asaftd-snmp-dos-qsqBNM6x
+cisco-sa-asa-ftd-dap-dos-GhYZBxDU
+This product is provided subject to this Notification and this Privacy & Use policy.]]></summary>
+        <author>
+            <name>CISA</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon, Microsoft Cloud Leaks Highlight Lingering Misconfiguration Issues]]></title>
+        <id>https://www.darkreading.com/cloud/amazon-microsoft-cloud-leaks-highlight-lingering-misconfiguration-issues</id>
+        <link href="https://www.darkreading.com/cloud/amazon-microsoft-cloud-leaks-highlight-lingering-misconfiguration-issues"/>
+        <updated>2022-11-10T15:30:26.000Z</updated>
+        <summary type="html"><![CDATA[Cloud storage databases, often deployed as "rogue servers" without the blessing of the IT department, continue to put companies and their sensitive data at risk.]]></summary>
+        <author>
+            <name>Robert Lemos, Contributing Writer, Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hacker Rewarded $70,000 for Finding Way to Bypass Google Pixel Phones' Lock Screens]]></title>
+        <id>tag:blogger.com,1999:blog-4802841478634147276.post-7641589413434377991</id>
+        <link href="https://thehackernews.com/2022/11/hacker-rewarded-70000-for-finding-way.html"/>
+        <updated>2022-11-10T15:07:00.000Z</updated>
+        <summary type="html"><![CDATA[Google has resolved a high-severity security issue affecting all Pixel smartphones that could be trivially exploited to unlock the devices.
+The vulnerability, tracked as CVE-2022-20465 and reported by security researcher David Schütz in June 2022, was remediated as part of the search giant's monthly Android update for November 2022.
+"The issue allowed an attacker with physical access to bypass]]></summary>
+        <author>
+            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Close Kubernetes' Network Security Gap]]></title>
+        <id>https://www.darkreading.com/cloud/how-to-close-kubernetes-network-security-gap</id>
+        <link href="https://www.darkreading.com/cloud/how-to-close-kubernetes-network-security-gap"/>
+        <updated>2022-11-10T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[StackRox bridges network security and other gaps and makes applying and managing network isolation and access controls easier while extending Kubernetes' automation and scalability benefit.]]></summary>
+        <author>
+            <name>Kirsten Newcomer, Director, Cloud and DevSecOps Strategy, Red Hat</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Three-Quarters of Employees Feel It’s the Company’s Job to Ensure Security, Despite Three-Quarters Also Personally Experiencing a Cyberattack]]></title>
+        <id>https://blog.knowbe4.com/employees-feel-its-the-companys-job-to-ensure-cybersecurity</id>
+        <link href="https://blog.knowbe4.com/employees-feel-its-the-companys-job-to-ensure-cybersecurity"/>
+        <updated>2022-11-10T14:49:14.000Z</updated>
+        <summary type="html"><![CDATA[Even with employees seeing cyberattacks first-hand and understanding the seriousness of such attacks, organizations have a culture problem where users just don’t care.]]></summary>
+        <author>
+            <name>Stu Sjouwerman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ransomware Attacks Targeting Manufacturing are up 52% Over the Course of 12 Months]]></title>
+        <id>https://blog.knowbe4.com/manufacturing-ransomware-attacks-up-52-percent</id>
+        <link href="https://blog.knowbe4.com/manufacturing-ransomware-attacks-up-52-percent"/>
+        <updated>2022-11-10T14:49:04.000Z</updated>
+        <summary type="html"><![CDATA[While every sector is taking strides to improve their security stances against ransomware and other cyberattacks, the latest data shows that for Manufacturing the impacts are huge and the pain is real.]]></summary>
+        <author>
+            <name>Stu Sjouwerman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cyberattacks Globally Increased by 28% in the Third Quarter of 2022 as the Average Org Experiences Over 1,100 Attacks Weekly]]></title>
+        <id>https://blog.knowbe4.com/cyberattacks-globally-increased-by-28-in-q3-2022</id>
+        <link href="https://blog.knowbe4.com/cyberattacks-globally-increased-by-28-in-q3-2022"/>
+        <updated>2022-11-10T14:49:01.000Z</updated>
+        <summary type="html"><![CDATA[Check Point Research provides highlights that color the third quarter of 2022, painting a picture of increases in attack frequency and intensity in every single sector.]]></summary>
+        <author>
+            <name>Stu Sjouwerman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Flashpoint Releases Ransomware Prediction Model for Vulnerabilities]]></title>
+        <id>https://www.darkreading.com/risk/flashpoint-releases-ransomware-prediction-model-for-vulnerabilities</id>
+        <link href="https://www.darkreading.com/risk/flashpoint-releases-ransomware-prediction-model-for-vulnerabilities"/>
+        <updated>2022-11-10T14:26:06.000Z</updated>
+        <summary type="html"><![CDATA[Links individual vulnerabilities to those known to have been used in ransomware operations, helping vulnerability management teams prevent potential cyber extortion events with VulnDB.]]></summary>
+        <author>
+            <name>Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rezilion Expands Dynamic SBOM Capability to Support Windows Environments]]></title>
+        <id>https://www.darkreading.com/application-security/rezilion-expands-dynamic-sbom-capability-to-support-windows-environments</id>
+        <link href="https://www.darkreading.com/application-security/rezilion-expands-dynamic-sbom-capability-to-support-windows-environments"/>
+        <updated>2022-11-10T14:20:42.000Z</updated>
+        <summary type="html"><![CDATA[Technology consolidates Windows and Linux software risk together in one UI, helping teams manage vulnerabilities and comply with new regulatory standards.]]></summary>
+        <author>
+            <name>Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lacework Extends CNAPP Capabilities With Attack Path Analysis and Agentless Workload Scanning]]></title>
+        <id>https://www.darkreading.com/cloud/lacework-extends-cnapp-capabilities-with-attack-path-analysis-and-agentless-workload-scanning</id>
+        <link href="https://www.darkreading.com/cloud/lacework-extends-cnapp-capabilities-with-attack-path-analysis-and-agentless-workload-scanning"/>
+        <updated>2022-11-10T14:13:49.000Z</updated>
+        <summary type="html"><![CDATA[Greater insight into attack paths and runtime visibility helps customers reduce risk and improve cloud security posture.]]></summary>
+        <author>
+            <name>Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CISA Releases Twenty Industrial Control Systems Advisories]]></title>
+        <id>18147 at https://us-cert.cisa.gov</id>
+        <link href="https://us-cert.cisa.gov/ncas/current-activity/2022/11/10/cisa-releases-twenty-industrial-control-systems-advisories"/>
+        <updated>2022-11-10T14:11:03.000Z</updated>
+        <summary type="html"><![CDATA[Original release date: November 10, 2022
+CISA has released twenty (20) Industrial Control Systems (ICS) advisories on November 10, 2022. These advisories provide timely information about current security issues, vulnerabilities, and exploits surrounding ICS.
+CISA encourages users and administrators to review the newly released ICS advisories for technical details and mitigations:
+ICSA-22-314-01 Siemens Parasolid
+ICSA-22-314-02 Siemens Missing Web Server Login Page of Industrial Controllers
+ICSA-22-314-03 Siemens SINEC Network Management System Logback Component
+ICSA-22-314-04 Siemens SINUMERIK ONE and SINUMERIK MC
+ICSA-22-314-05 Siemens RUGGEDCOM ROS
+ICSA-22-314-06 Siemens QMS Automotive
+ICSA-22-314-07 Omron NJNX-series Machine Automation Controllers
+ICSA-22-314-08 Omron NJNX-series
+ICSA-22-314-09 Siemens Teamcenter Visualization and JT2Go
+ICSA-22-314-10 Siemens SCALANCE W1750D
+ICSA-22-314-11 Siemens SICAM Q100
+ICSA-21-350-06 Siemens CAPITAL VSTAR (Update A)
+ICSA-22-286-15 Siemens SCALANCE X-200 and X-200IRT Families (Update A)
+ICSA-22-258-03 Siemens RUGGEDCOM ROS (Update A)
+ICSA-22-228-02 LS ELEC PLC and XG5000 (Update A)
+ICSA-22-298-06 Delta Electronic DIAEnergie (Update A)
+ICSA-22-258-04 Siemens Mendix SAML Module (Update A)
+ICSA-22-286-11 Siemens SCALANCE and RUGGEDCOM Products (Update A)
+ICSA-21-350-13 Siemens Questa and ModelSim (Update A)
+ICSA-22-069-01 Siemens RUGGEDCOM Devices (Update C)
+This product is provided subject to this Notification and this Privacy & Use policy.]]></summary>
+        <author>
+            <name>CISA</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CISA Updates Advisory on Threat Actors Exploiting Multiple CVEs Against Zimbra Collaboration Suite]]></title>
+        <id>18129 at https://us-cert.cisa.gov</id>
+        <link href="https://us-cert.cisa.gov/ncas/current-activity/2022/11/10/cisa-updates-advisory-threat-actors-exploiting-multiple-cves"/>
+        <updated>2022-11-10T13:03:19.000Z</updated>
+        <summary type="html"><![CDATA[Original release date: November 10, 2022
+CISA and the Multi-State Information Sharing & Analysis Center (MS-ISAC) have updated joint Cybersecurity Advisory AA22-228A: Threat Actors Exploiting Multiple CVEs Against Zimbra Collaboration Suite, originally released August 16, 2022. The advisory has been updated to include an additional Malware Analysis Report containing new indicators of compromise.
+CISA encourages organizations to review the latest update to AA22-228A and apply the recommended mitigations.
+This product is provided subject to this Notification and this Privacy & Use policy.]]></summary>
+        <author>
+            <name>CISA</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Researchers Uncover PyPI Package Hiding Malicious Code Behind Image File]]></title>
         <id>tag:blogger.com,1999:blog-4802841478634147276.post-8699152921027259817</id>
@@ -88,6 +316,16 @@ Some Akin Gump Strauss Hauer & Feld LLP's law firm clients, for example, repor
 UEFI]]></summary>
         <author>
             <name>noreply@blogger.com (Ravie Lakshmanan)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Understanding the Rise of Risk-Based Vulnerability Management]]></title>
+        <id>https://www.darkreading.com/omdia/understanding-the-rise-of-risk-based-vulnerability-management</id>
+        <link href="https://www.darkreading.com/omdia/understanding-the-rise-of-risk-based-vulnerability-management"/>
+        <updated>2022-11-10T06:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Risk-based vulnerability management solutions foster the convergence of risk management and vulnerability management. Andrew Braunberg explains what’s driving the emergence of RBVM.]]></summary>
+        <author>
+            <name>Andrew Braunberg, Principal Analyst, SecOps, Omdia</name>
         </author>
     </entry>
     <entry>
@@ -5582,17 +5820,6 @@ Explore the impact of]]></summary>
         <updated>2022-10-12T10:41:00.000Z</updated>
         <summary type="html"><![CDATA[A vulnerability in Siemens Simatic programmable logic controller (PLC) can be exploited to retrieve the hard-coded, global private cryptographic keys and seize control of the devices.
 "An attacker can use these keys to perform multiple advanced attacks against Siemens SIMATIC devices and the related TIA Portal, while bypassing all four of its access level protections," industrial cybersecurity]]></summary>
-        <author>
-            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft Patch Tuesday Fixes New Windows Zero-Day; No Patch for Exchange Server Bugs]]></title>
-        <id>tag:blogger.com,1999:blog-4802841478634147276.post-8263828650879450549</id>
-        <link href="https://thehackernews.com/2022/10/microsoft-patch-tuesday-fixes-new.html"/>
-        <updated>2022-10-12T07:07:00.000Z</updated>
-        <summary type="html"><![CDATA[Microsoft's Patch Tuesday update for the month of October has addressed a total of 85 security vulnerabilities, including fixes for an actively exploited zero-day flaw in the wild.
-Of the 85 bugs, 15 are rated Critical, 69 are rated Important, and one is rated Moderate in severity. The update, however, does not include mitigations for the actively exploited ProxyNotShell flaws in Exchange Server]]></summary>
         <author>
             <name>noreply@blogger.com (Ravie Lakshmanan)</name>
         </author>
