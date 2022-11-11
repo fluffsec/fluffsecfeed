@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-11-11T13:49:20.916Z</updated>
+    <updated>2022-11-11T19:20:39.724Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Why CVE Management as a Primary Strategy Doesn't Work]]></title>
+        <id>https://www.darkreading.com/vulnerabilities-threats/why-cve-management-as-a-primary-strategy-doesn-t-work</id>
+        <link href="https://www.darkreading.com/vulnerabilities-threats/why-cve-management-as-a-primary-strategy-doesn-t-work"/>
+        <updated>2022-11-11T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[With only about 15% of vulnerabilities actually exploitable, patching every vulnerability is not an effective use of time.]]></summary>
+        <author>
+            <name>Alex Spivakovsky, VP of Research, Pentera</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Experts Uncover Two Long-Running Android Spyware Campaigns Targeting Uyghurs]]></title>
+        <id>tag:blogger.com,1999:blog-4802841478634147276.post-562259869656989175</id>
+        <link href="https://thehackernews.com/2022/11/experts-uncover-two-long-running.html"/>
+        <updated>2022-11-11T14:26:00.000Z</updated>
+        <summary type="html"><![CDATA[Two long-running surveillance campaigns have been found targeting the Uyghur community in China and elsewhere with Android spyware tools designed to harvest sensitive information and track their whereabouts.
+This encompasses a previously undocumented malware strain called BadBazaar and updated variants of an espionage artifact dubbed MOONSHINE by researchers from the University of Toronto's]]></summary>
+        <author>
+            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[These Two Google Play Store Apps Spotted Distributing Xenomorph Banking Trojan]]></title>
         <id>tag:blogger.com,1999:blog-4802841478634147276.post-4604327454319008182</id>
@@ -5669,17 +5690,6 @@ Other "strategically significant" intrusions mounted over the past six]]></summa
         <updated>2022-10-13T07:39:00.000Z</updated>
         <summary type="html"><![CDATA[An unofficial version of the popular WhatsApp messaging app called YoWhatsApp has been observed deploying an Android trojan known as Triada.
 The goal of the malware is to steal the keys that "allow the use of a WhatsApp account without the app," Kaspersky said in a new report. "If the keys are stolen, a user of a malicious WhatsApp mod can lose control over their account."]]></summary>
-        <author>
-            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Researchers Uncover Custom Backdoors and Spying Tools Used by Polonium Hackers]]></title>
-        <id>tag:blogger.com,1999:blog-4802841478634147276.post-296994435355286742</id>
-        <link href="https://thehackernews.com/2022/10/researchers-uncover-custom-backdoors.html"/>
-        <updated>2022-10-13T07:18:00.000Z</updated>
-        <summary type="html"><![CDATA[A threat actor tracked as Polonium has been linked to over a dozen highly targeted attacks aimed at Israelian entities with seven different custom backdoors since at least September 2021.
-The intrusions were aimed at organizations in various verticals, such as engineering, information technology, law, communications, branding and marketing, media, insurance, and social services, cybersecurity]]></summary>
         <author>
             <name>noreply@blogger.com (Ravie Lakshmanan)</name>
         </author>
