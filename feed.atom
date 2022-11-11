@@ -2,10 +2,68 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-11-11T07:23:28.070Z</updated>
+    <updated>2022-11-11T13:49:20.916Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[These Two Google Play Store Apps Spotted Distributing Xenomorph Banking Trojan]]></title>
+        <id>tag:blogger.com,1999:blog-4802841478634147276.post-4604327454319008182</id>
+        <link href="https://thehackernews.com/2022/11/these-two-google-play-store-apps.html"/>
+        <updated>2022-11-11T12:33:00.000Z</updated>
+        <summary type="html"><![CDATA[Google has removed two new malicious dropper apps that have been detected on the Play Store for Android, one of which posed as a lifestyle app and was caught distributing the Xenomorph banking malware.
+"Xenomorph is a trojan that steals credentials from banking applications on users' devices," Zscaler ThreatLabz researchers Himanshu Sharma and Viral Gandhi said in an analysis published Thursday.]]></summary>
+        <author>
+            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[VPN vs. DNS Security]]></title>
+        <id>tag:blogger.com,1999:blog-4802841478634147276.post-909424046595076539</id>
+        <link href="https://thehackernews.com/2022/11/vpn-vs-dns-security.html"/>
+        <updated>2022-11-11T12:30:00.000Z</updated>
+        <summary type="html"><![CDATA[When you are trying to get another layer of cyber protection that would not require a lot of resources, you are most likely choosing between a VPN service & a DNS Security solution. Let's discuss both. 
+VPN Explained
+VPN stands for Virtual Private Networks and basically hides your IP and provides an encrypted server by redirecting your traffic via a server run by a VPN host. It establishes a]]></summary>
+        <author>
+            <name>noreply@blogger.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Multiple High-Severity Flaw Affect Widely Used OpenLiteSpeed Web Server Software]]></title>
+        <id>tag:blogger.com,1999:blog-4802841478634147276.post-5064618176979961479</id>
+        <link href="https://thehackernews.com/2022/11/multiple-high-severity-flaw-affect.html"/>
+        <updated>2022-11-11T10:13:00.000Z</updated>
+        <summary type="html"><![CDATA[Multiple high-severity flaws have been uncovered in the open source OpenLiteSpeed Web Server as well as its enterprise variant that could be weaponized to achieve remote code execution.
+"By chaining and exploiting the vulnerabilities, adversaries could compromise the web server and gain fully privileged remote code execution," Palo Alto Networks Unit 42 said in a Thursday report.]]></summary>
+        <author>
+            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Russian-Canadian National Charged Over Involvement in LockBit Ransomware Attacks]]></title>
+        <id>tag:blogger.com,1999:blog-4802841478634147276.post-487611958609280327</id>
+        <link href="https://thehackernews.com/2022/11/russian-canadian-national-charged-over.html"/>
+        <updated>2022-11-11T09:19:00.000Z</updated>
+        <summary type="html"><![CDATA[The U.S. Department of Justice (DoJ) has announced charges against a dual Russian and Canadian national for his alleged participation in LockBit ransomware attacks across the world.
+The 33-year-old Ontario resident, Mikhail Vasiliev, has been taken into custody and is awaiting extradition to the U.S., where is likely to be sentenced for a maximum of five years in prison.
+Vasiliev has been]]></summary>
+        <author>
+            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ESET Antivirus: Advanced Protection Solutions for Home Users and Businesses]]></title>
+        <id>tag:blogger.com,1999:blog-4802841478634147276.post-2960773768663253720</id>
+        <link href="https://thehackernews.com/2022/11/eset-antivirus-advanced-protection.html"/>
+        <updated>2022-11-11T09:19:00.000Z</updated>
+        <summary type="html"><![CDATA[It's no secret that antivirus software is as essential to your computer as a power cord.
+However, the threats don't stop at your devices. For example, criminals trying to steal your data can attack your Wi-Fi router, and phishing attempts can target your email. 
+ESET's latest consumer product release takes a comprehensive approach to security to guard against a full range of threats. All are]]></summary>
+        <author>
+            <name>noreply@blogger.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Microsoft Blames Russian Hackers for Prestige Ransomware Attacks on Ukraine and Poland]]></title>
         <id>tag:blogger.com,1999:blog-4802841478634147276.post-4772970787504416818</id>
@@ -15,6 +73,16 @@
 The attacks, which were disclosed by the tech giant last month, involved a strain of previously undocumented malware called Prestige and is said to have taken place]]></summary>
         <author>
             <name>noreply@blogger.com (Ravie Lakshmanan)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Okta Launches New Workforce Identity Cloud]]></title>
+        <id>https://www.darkreading.com/dr-tech/okta-launches-new-workforce-identity-cloud</id>
+        <link href="https://www.darkreading.com/dr-tech/okta-launches-new-workforce-identity-cloud"/>
+        <updated>2022-11-11T02:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Okta Worforce Identity Cloud has all three identity functions -- identity access management, identity governance, and privilege access management -- under the hood.]]></summary>
+        <author>
+            <name>Dark Reading Staff, Dark Reading</name>
         </author>
     </entry>
     <entry>
@@ -5614,36 +5682,6 @@ The goal of the malware is to steal the keys that "allow the use of a WhatsApp a
 The intrusions were aimed at organizations in various verticals, such as engineering, information technology, law, communications, branding and marketing, media, insurance, and social services, cybersecurity]]></summary>
         <author>
             <name>noreply@blogger.com (Ravie Lakshmanan)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Thoma Bravo to Acquire ForgeRock in $2.3B Deal]]></title>
-        <id>https://www.darkreading.com/application-security/thoma-bravo-acquire-forgerock</id>
-        <link href="https://www.darkreading.com/application-security/thoma-bravo-acquire-forgerock"/>
-        <updated>2022-10-12T20:45:00.000Z</updated>
-        <summary type="html"><![CDATA[This marks the third identity and access management (IAM) company acquired by Thoma Bravo in just the past few months.]]></summary>
-        <author>
-            <name>Dark Reading Staff, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WhatsApp Users Beware: Dangerous Mobile Trojan Being Distributed via Malicious Mod]]></title>
-        <id>https://www.darkreading.com/mobile/whatsapp-beware-dangerous-mobile-trojan-malicious-mod</id>
-        <link href="https://www.darkreading.com/mobile/whatsapp-beware-dangerous-mobile-trojan-malicious-mod"/>
-        <updated>2022-10-12T20:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Among other things, users who download the app could end up having their WhatsApp account details stolen.]]></summary>
-        <author>
-            <name>Jai Vijayan, Contributing Writer, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[KnowBe4 to Be Acquired for $4.6B by Private Equity Firm Vista]]></title>
-        <id>https://www.darkreading.com/endpoint/knowbe4-to-be-acquired-for-4-6b-by-private-equity-firm-vista</id>
-        <link href="https://www.darkreading.com/endpoint/knowbe4-to-be-acquired-for-4-6b-by-private-equity-firm-vista"/>
-        <updated>2022-10-12T20:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Vista Equity Partners plans take the publicly traded security-awareness training vendor private.]]></summary>
-        <author>
-            <name>Dark Reading Staff, Dark Reading</name>
         </author>
     </entry>
     <entry>
