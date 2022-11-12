@@ -2,10 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-11-11T19:20:39.724Z</updated>
+    <updated>2022-11-12T03:00:13.923Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Why Cybersecurity Should Highlight Veteran-Hiring Programs]]></title>
+        <id>https://www.darkreading.com/edge-articles/cybersecurity-needs-to-highlight-veteran-hiring-programs</id>
+        <link href="https://www.darkreading.com/edge-articles/cybersecurity-needs-to-highlight-veteran-hiring-programs"/>
+        <updated>2022-11-11T22:14:00.000Z</updated>
+        <summary type="html"><![CDATA[Military veterans tend to have the kind of skills that would make them effective cybersecurity professionals, but making the transition is not that easy.]]></summary>
+        <author>
+            <name>Fahmida Y. Rashid, Managing Editor, Features, Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cybersecurity 'Nutrition' Labels Still a Work in Progress]]></title>
+        <id>https://www.darkreading.com/dr-tech/cybersecurity-nutrition-labels-still-a-work-in-progress</id>
+        <link href="https://www.darkreading.com/dr-tech/cybersecurity-nutrition-labels-still-a-work-in-progress"/>
+        <updated>2022-11-11T19:52:00.000Z</updated>
+        <summary type="html"><![CDATA[Pretty much every aspect of the effort to create easy-to-understand labels for Internet-of-Things (IoT) products is up in the air, according to participants in the process.]]></summary>
+        <author>
+            <name>Robert Lemos, Contributing Writer, Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cookies for MFA Bypass Gain Traction Among Cyberattackers]]></title>
+        <id>https://www.darkreading.com/threat-intelligence/cookies-mfa-bypass-cyberattackers</id>
+        <link href="https://www.darkreading.com/threat-intelligence/cookies-mfa-bypass-cyberattackers"/>
+        <updated>2022-11-11T19:40:30.000Z</updated>
+        <summary type="html"><![CDATA[Multifactor authentication has gained adoption among organizations as a way of improving security over passwords alone, but increasing theft of browser cookies undermines that security.]]></summary>
+        <author>
+            <name>Robert Lemos, Contributing Writer, Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Knock, Knock: Aiphone Bug Allows Cyberattackers to Literally Open (Physical) Doors]]></title>
+        <id>https://www.darkreading.com/iot/knock-knock-aiphone-bug-allows-cyberattackers-to-literally-open-physical-doors</id>
+        <link href="https://www.darkreading.com/iot/knock-knock-aiphone-bug-allows-cyberattackers-to-literally-open-physical-doors"/>
+        <updated>2022-11-11T19:24:25.000Z</updated>
+        <summary type="html"><![CDATA[The bug affects several Aiphone GT models using NFC technology and allows malicious actors to potentially gain access to sensitive facilities.]]></summary>
+        <author>
+            <name>Nathan Eddy, Contributing Writer, Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Uyghurs Targeted With Spyware, Courtesy of PRC]]></title>
+        <id>https://www.darkreading.com/threat-intelligence/china-using-spyware-to-target-uyghurs</id>
+        <link href="https://www.darkreading.com/threat-intelligence/china-using-spyware-to-target-uyghurs"/>
+        <updated>2022-11-11T19:21:00.000Z</updated>
+        <summary type="html"><![CDATA[Chinese government employs spyware to detect so-called "pre-crimes" including using a VPN, religious apps, or WhatsApp, new analysis reveals.]]></summary>
+        <author>
+            <name>Becky Bracken, Editor, Dark Reading</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Why CVE Management as a Primary Strategy Doesn't Work]]></title>
         <id>https://www.darkreading.com/vulnerabilities-threats/why-cve-management-as-a-primary-strategy-doesn-t-work</id>
@@ -5574,124 +5624,6 @@ This product is provided subject to this Notification and this Privacy & Use pol
         <summary type="html"><![CDATA[Despite dozens of tools and external vendors, 2 in 3 organizations believe their data strategy isn't sustainable beyond three years, which could leave businesses vulnerable.]]></summary>
         <author>
             <name>Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Attackers Use Automation to Speed from Exploit to Compromise According to Lacework Labs Cloud Threat Report]]></title>
-        <id>https://www.darkreading.com/cloud/attackers-use-automation-to-speed-from-exploit-to-compromise-according-to-lacework-labs-cloud-threat-report</id>
-        <link href="https://www.darkreading.com/cloud/attackers-use-automation-to-speed-from-exploit-to-compromise-according-to-lacework-labs-cloud-threat-report"/>
-        <updated>2022-10-13T14:58:30.000Z</updated>
-        <summary type="html"><![CDATA[New open source Cloud Hunter tool, developed through Lacework Labs research, helps customers get better visibility to reduce response times for incident investigations.]]></summary>
-        <author>
-            <name>Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SA45520 - CVE's (CVE-2022-35254,CVE-2022-35258) may lead to DoS attack]]></title>
-        <id>SA45520</id>
-        <link href="https://kb.pulsesecure.net/articles/Pulse_Security_Advisories/SA45520"/>
-        <updated>2022-10-13T14:02:17.000Z</updated>
-        <author>
-            <name>Public KB</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What the Uber Breach Verdict Means for CISOs in the US]]></title>
-        <id>https://www.darkreading.com/attacks-breaches/what-the-uber-breach-verdict-means-for-cisos-in-the-us</id>
-        <link href="https://www.darkreading.com/attacks-breaches/what-the-uber-breach-verdict-means-for-cisos-in-the-us"/>
-        <updated>2022-10-13T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Can already beleaguered CISOs now add possible legal charges to their smorgasbord of job considerations? Disclose a breach to comply and face dismissal, or cover it up and face personal punishment.]]></summary>
-        <author>
-            <name>Chen Burshan, CEO, Skyhawk Security</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BlueHat 2023 Call for Papers is Now Open!]]></title>
-        <id>https://msrc-blog.microsoft.com/?p=14927</id>
-        <link href="https://msrc-blog.microsoft.com/2022/10/13/bluehat-2023-call-for-papers-is-now-open/"/>
-        <updated>2022-10-13T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[For nearly 20 years, BlueHat has been where the security research community, and Microsoft security professionals come together as peers, to share, debate, challenge, learn, and exchange ideas in the interest of creating a safer and more secure world for all. We are extremely excited to announce that BlueHat is back in-person and the 2023 …
-  BlueHat 2023 Call for Papers is Now Open! Read More »]]></summary>
-        <author>
-            <name>Stephanie Calabrese</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Small Business Grants as Phishbait]]></title>
-        <id>https://blog.knowbe4.com/small-business-grants-as-phishbait</id>
-        <link href="https://blog.knowbe4.com/small-business-grants-as-phishbait"/>
-        <updated>2022-10-13T13:10:04.000Z</updated>
-        <summary type="html"><![CDATA[INKY has published a report on the use of small business grants as phishing lures. Scammers are impersonating the US Small Business Administration (SBA) to distribute phony grant applications hosted on Google Forms.]]></summary>
-        <author>
-            <name>Stu Sjouwerman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Chinese Malware Attack Framework Targets Windows, macOS, and Linux Systems]]></title>
-        <id>tag:blogger.com,1999:blog-4802841478634147276.post-1766819288582933234</id>
-        <link href="https://thehackernews.com/2022/10/new-chinese-malware-attack-framework.html"/>
-        <updated>2022-10-13T12:17:00.000Z</updated>
-        <summary type="html"><![CDATA[A previously undocumented command-and-control (C2) framework dubbed Alchimist is likely being used in the wild to target Windows, macOS, and Linux systems.
-"Alchimist C2 has a web interface written in Simplified Chinese and can generate a configured payload, establish remote sessions, deploy payload to the remote machines, capture screenshots, perform remote shellcode execution, and run]]></summary>
-        <author>
-            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Scams, Scams, Everywhere!]]></title>
-        <id>https://blog.knowbe4.com/scams-scams-everywhere</id>
-        <link href="https://blog.knowbe4.com/scams-scams-everywhere"/>
-        <updated>2022-10-13T12:13:09.000Z</updated>
-        <summary type="html"><![CDATA[Scammers have been around as long as history has been recorded. Think about the famous ‘Trojan Horse’ for example. A perfect scam that allowed attackers to get behind the city walls. The same is still happening, although the technology has evolved from wooden horses to digital ones. Even with the change in technology, deception, especially that which uses emotions to deceive, has not.]]></summary>
-        <author>
-            <name>Erich Kron</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Timing Attack Against NPM Registry API Could Expose Private Packages]]></title>
-        <id>tag:blogger.com,1999:blog-4802841478634147276.post-2672857793593106042</id>
-        <link href="https://thehackernews.com/2022/10/new-timing-attack-against-npm-registry.html"/>
-        <updated>2022-10-13T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A novel timing attack discovered against the npm's registry API can be exploited to potentially disclose private packages used by organizations, putting developers at risk of supply chain threats.
-"By creating a list of possible package names, threat actors can detect organizations' scoped private packages and then masquerade public packages, tricking employees and users into downloading them,"]]></summary>
-        <author>
-            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Does the OWASP Top 10 Still Matter?]]></title>
-        <id>tag:blogger.com,1999:blog-4802841478634147276.post-6835118362105718628</id>
-        <link href="https://thehackernews.com/2022/10/does-owasp-top-10-still-matter.html"/>
-        <updated>2022-10-13T11:50:00.000Z</updated>
-        <summary type="html"><![CDATA[What is the OWASP Top 10, and – just as important – what is it not? In this review, we look at how you can make this critical risk report work for you and your organisation.
-What is OWASP?
-OWASP is the Open Web Application Security Project, an international non-profit organization dedicated to improving web application security. 
-It operates on the core principle that all of its materials are]]></summary>
-        <author>
-            <name>noreply@blogger.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Budworm Hackers Resurface with New Espionage Attacks Aimed at U.S. Organization]]></title>
-        <id>tag:blogger.com,1999:blog-4802841478634147276.post-1944366398397581901</id>
-        <link href="https://thehackernews.com/2022/10/budworm-hackers-resurface-with-new.html"/>
-        <updated>2022-10-13T10:08:00.000Z</updated>
-        <summary type="html"><![CDATA[An advanced persistent threat (APT) actor known as Budworm targeted a U.S.-based entity for the first time in more than six years, according to latest research.
-The attack was aimed at an unnamed U.S. state legislature, the Symantec Threat Hunter team, part of Broadcom Software, said in a report shared with The Hacker News.
-Other "strategically significant" intrusions mounted over the past six]]></summary>
-        <author>
-            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Modified WhatsApp App Caught Infecting Android Devices with Malware]]></title>
-        <id>tag:blogger.com,1999:blog-4802841478634147276.post-5456017743803441659</id>
-        <link href="https://thehackernews.com/2022/10/modified-whatsapp-app-caught-infecting.html"/>
-        <updated>2022-10-13T07:39:00.000Z</updated>
-        <summary type="html"><![CDATA[An unofficial version of the popular WhatsApp messaging app called YoWhatsApp has been observed deploying an Android trojan known as Triada.
-The goal of the malware is to steal the keys that "allow the use of a WhatsApp account without the app," Kaspersky said in a new report. "If the keys are stolen, a user of a malicious WhatsApp mod can lose control over their account."]]></summary>
-        <author>
-            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
         </author>
     </entry>
     <entry>
