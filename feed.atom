@@ -2,10 +2,56 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-11-14T07:23:13.682Z</updated>
+    <updated>2022-11-14T13:52:43.580Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[New "Earth Longzhi" APT Targets Ukraine and Asian Countries with Custom Cobalt Strike Loaders]]></title>
+        <id>tag:blogger.com,1999:blog-4802841478634147276.post-3099383925478557610</id>
+        <link href="https://thehackernews.com/2022/11/new-earth-longzhi-apt-targets-ukraine.html"/>
+        <updated>2022-11-14T13:03:00.000Z</updated>
+        <summary type="html"><![CDATA[Entities located in East and Southeast Asia as well as Ukraine have been targeted at least since 2020 by a previously undocumented subgroup of APT41, a prolific Chinese advanced persistent threat (APT).
+Cybersecurity firm Trend Micro, which christened the espionage crew Earth Longzhi, said the actor's long-running campaign can be split into two based on the toolset deployed to attack its victims]]></summary>
+        <author>
+            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Over 15,000 WordPress Sites Compromised in Malicious SEO Campaign]]></title>
+        <id>tag:blogger.com,1999:blog-4802841478634147276.post-5717712689412571988</id>
+        <link href="https://thehackernews.com/2022/11/over-15000-wordpress-sites-compromised.html"/>
+        <updated>2022-11-14T10:45:00.000Z</updated>
+        <summary type="html"><![CDATA[A new malicious campaign has compromised over 15,000 WordPress websites in an attempt to redirect visitors to bogus Q&A portals.
+"These malicious redirects appear to be designed to increase the authority of the attacker's sites for search engines," Sucuri researcher Ben Martin said in a report published last week, calling it a "clever black hat SEO trick."
+The search engine poisoning technique]]></summary>
+        <author>
+            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is an External Penetration Test?]]></title>
+        <id>tag:blogger.com,1999:blog-4802841478634147276.post-5945091860728935430</id>
+        <link href="https://thehackernews.com/2022/11/what-is-external-penetration-test.html"/>
+        <updated>2022-11-14T10:30:00.000Z</updated>
+        <summary type="html"><![CDATA[A penetration test (also known as a pentest) is a security assessment that simulates the activities of real-world attackers to identify security holes in your IT systems or applications. 
+The aim of the test is to understand what vulnerabilities you have, how they could be exploited, and what the impact would be if an attacker was successful.
+Usually performed first, an external pentest (also]]></summary>
+        <author>
+            <name>noreply@blogger.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New KmsdBot Malware Hijacking Systems for Mining Crypto and Launch DDoS Attacks]]></title>
+        <id>tag:blogger.com,1999:blog-4802841478634147276.post-3883691087466851371</id>
+        <link href="https://thehackernews.com/2022/11/new-kmsdbot-malware-hijacking-systems.html"/>
+        <updated>2022-11-14T07:14:00.000Z</updated>
+        <summary type="html"><![CDATA[A newly discovered evasive malware leverages the Secure Shell (SSH) cryptographic protocol to gain entry into targeted systems with the goal of mining cryptocurrency and carrying out distributed denial-of-service (DDoS) attacks.
+Dubbed KmsdBot by the Akamai Security Intelligence Response Team (SIRT), the Golang-based malware has been found targeting a variety of companies ranging from gaming to]]></summary>
+        <author>
+            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Worok Hackers Abuse Dropbox API to Exfiltrate Data via Backdoor Hidden in Images]]></title>
         <id>tag:blogger.com,1999:blog-4802841478634147276.post-2521656103545927596</id>
