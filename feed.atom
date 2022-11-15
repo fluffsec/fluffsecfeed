@@ -2,10 +2,198 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-11-15T13:39:05.723Z</updated>
+    <updated>2022-11-15T19:18:22.897Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How Routine Pen Testing Can Reveal the Unseen Flaws in Your Cybersecurity Posture]]></title>
+        <id>https://www.darkreading.com/vulnerabilities-threats/how-routine-pen-testing-can-reveal-the-unseen-flaws-in-your-cybersecurity-posture</id>
+        <link href="https://www.darkreading.com/vulnerabilities-threats/how-routine-pen-testing-can-reveal-the-unseen-flaws-in-your-cybersecurity-posture"/>
+        <updated>2022-11-15T18:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Testing is an ongoing mission, not a one-and-done fix.]]></summary>
+        <author>
+            <name>Caroline Wong, Chief Strategy Officer at Cobalt</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[FREE Resource Kit] Stay Safe This Holiday Season with KnowBe4]]></title>
+        <id>https://blog.knowbe4.com/free-resource-kit-stay-safe-this-holiday-season-2022</id>
+        <link href="https://blog.knowbe4.com/free-resource-kit-stay-safe-this-holiday-season-2022"/>
+        <updated>2022-11-15T17:32:09.000Z</updated>
+        <summary type="html"><![CDATA[It's the best time of the year! But also, it's the busiest time for cybercriminals. Since your users will be distracted with seasonal activities, cybercriminals will take advantage of the surges of online shopping and travel to trick your users into becoming the next victim.]]></summary>
+        <author>
+            <name>Stu Sjouwerman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Critical RCE Flaw Reported in Spotify's Backstage Software Catalog and Developer Platform]]></title>
+        <id>tag:blogger.com,1999:blog-4802841478634147276.post-3012530387900017274</id>
+        <link href="https://thehackernews.com/2022/11/critical-rce-flaw-reported-in-spotifys.html"/>
+        <updated>2022-11-15T17:01:00.000Z</updated>
+        <summary type="html"><![CDATA[Spotify's Backstage has been discovered as vulnerable to a severe security flaw that could be exploited to gain remote code execution by leveraging a recently disclosed bug in a third-party module.
+The vulnerability (CVSS score: 9.8), at its core, takes advantage of a critical sandbox escape in vm2, a popular JavaScript sandbox library (CVE-2022-36067 aka Sandbreak), that came to light last]]></summary>
+        <author>
+            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google Forks Over $391.5M in Record-Setting US Consumer Privacy Settlement]]></title>
+        <id>https://www.darkreading.com/endpoint/google-3915m-record-setting-us-consumer-privacy-settlement</id>
+        <link href="https://www.darkreading.com/endpoint/google-3915m-record-setting-us-consumer-privacy-settlement"/>
+        <updated>2022-11-15T16:40:26.000Z</updated>
+        <summary type="html"><![CDATA[A misleading location-tracking practice ensnared the search-engine giant in massive privacy case spanning 40 states.]]></summary>
+        <author>
+            <name>Dark Reading Staff, Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PCSpoof: New Vulnerability Affects Networking Tech Used by Spacecraft and Aircraft]]></title>
+        <id>tag:blogger.com,1999:blog-4802841478634147276.post-6878235483007688531</id>
+        <link href="https://thehackernews.com/2022/11/pcspoof-new-vulnerability-affects.html"/>
+        <updated>2022-11-15T16:33:00.000Z</updated>
+        <summary type="html"><![CDATA[Credit: Marina Minkin
+A novel attack method has been disclosed against a crucial piece of technology called time-triggered ethernet (TTE) that's used in safety-critical infrastructure, potentially causing the failure of systems powering spacecraft and aircraft.
+Dubbed PCspooF by a group of academics and researchers from the University of Michigan, the University of Pennsylvania, and the NASA]]></summary>
+        <author>
+            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CISA Releases One Industrial Control Systems Advisory]]></title>
+        <id>18154 at https://us-cert.cisa.gov</id>
+        <link href="https://us-cert.cisa.gov/ncas/current-activity/2022/11/15/cisa-releases-one-industrial-control-systems-advisory"/>
+        <updated>2022-11-15T16:12:15.000Z</updated>
+        <summary type="html"><![CDATA[Original release date: November 15, 2022
+CISA released one Industrial Control Systems (ICS) advisory on November 15, 2022. This advisory provides timely information about current security issues, vulnerabilities, and exploits surrounding ICS.
+CISA encourages users and administrators to review the newly released ICS advisory for technical details and mitigations:
+ICSA-22-319-01 Mitsubishi Electric GT SoftGOT2000
+This product is provided subject to this Notification and this Privacy & Use policy.]]></summary>
+        <author>
+            <name>CISA</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Yakima Neighborhood Health Services Notice of Data Security Incident]]></title>
+        <id>https://www.darkreading.com/attacks-breaches/yakima-neighborhood-health-services-notice-of-data-security-incident</id>
+        <link href="https://www.darkreading.com/attacks-breaches/yakima-neighborhood-health-services-notice-of-data-security-incident"/>
+        <updated>2022-11-15T15:53:10.000Z</updated>
+        <summary type="html"><![CDATA[.]]></summary>
+        <author>
+            <name>Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Red Canary Provides First-Ever MITRE Engenuity™ ATT&CK® Evaluations for Managed Services]]></title>
+        <id>https://www.darkreading.com/threat-intelligence/red-canary-provides-first-ever-mitre-engenuity-att-ck-evaluations-for-managed-services</id>
+        <link href="https://www.darkreading.com/threat-intelligence/red-canary-provides-first-ever-mitre-engenuity-att-ck-evaluations-for-managed-services"/>
+        <updated>2022-11-15T15:42:47.000Z</updated>
+        <summary type="html"><![CDATA[.]]></summary>
+        <author>
+            <name>Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nasty SQL Injection Bug in Zendesk Endangers Sensitive Customer Data]]></title>
+        <id>https://www.darkreading.com/cloud/nasty-sql-injection-bug-zendesk-endangers-sensitive-customer-data</id>
+        <link href="https://www.darkreading.com/cloud/nasty-sql-injection-bug-zendesk-endangers-sensitive-customer-data"/>
+        <updated>2022-11-15T15:09:31.000Z</updated>
+        <summary type="html"><![CDATA[The API-related vulnerabilities put conversations, email addresses, tickets, and more in danger of exposure via the Zendesk Explore reporting service.]]></summary>
+        <author>
+            <name>Elizabeth Montalbano, Contributor, Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Evolving Security for Government Multiclouds]]></title>
+        <id>https://www.darkreading.com/cloud/evolving-security-for-government-multiclouds</id>
+        <link href="https://www.darkreading.com/cloud/evolving-security-for-government-multiclouds"/>
+        <updated>2022-11-15T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[As the threat landscape increases, public cloud security needs to evolve.]]></summary>
+        <author>
+            <name>Danny Connelly, CISO Americas, Zscaler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CyberheistNews Vol 12 #46 [EYE OPENER] Here Is What You Can Do to Inspect SMS URL Links Before Clicking]]></title>
+        <id>https://blog.knowbe4.com/cyberheistnews-vol-12-46-eye-opener-here-is-what-you-can-do-to-inspect-sms-url-links-before-clicking</id>
+        <link href="https://blog.knowbe4.com/cyberheistnews-vol-12-46-eye-opener-here-is-what-you-can-do-to-inspect-sms-url-links-before-clicking"/>
+        <updated>2022-11-15T14:30:00.000Z</updated>
+        <summary type="html"><![CDATA[CyberheistNews Vol 12 #46 [EYE OPENER] Here Is What You Can Do to Inspect SMS URL Links Before Clicking]]></summary>
+        <author>
+            <name>Stu Sjouwerman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[44% of Financial Institutions Believe Their Own IT Teams Are the Main Risk to Cloud Security]]></title>
+        <id>https://www.darkreading.com/cloud/44-of-financial-institutions-believe-their-own-it-teams-are-the-main-risk-to-cloud-security</id>
+        <link href="https://www.darkreading.com/cloud/44-of-financial-institutions-believe-their-own-it-teams-are-the-main-risk-to-cloud-security"/>
+        <updated>2022-11-15T14:26:21.000Z</updated>
+        <summary type="html"><![CDATA[Only 30% of respondents from other industries are as concerned about the risks associated with their IT staff.]]></summary>
+        <author>
+            <name>Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Authomize Launches Identity Threat Detection and Response Platform to Protect Against Identity-Based Attacks]]></title>
+        <id>https://www.darkreading.com/cloud/authomize-launches-identity-threat-detection-and-response-platform-to-protect-against-identity-based-attacks</id>
+        <link href="https://www.darkreading.com/cloud/authomize-launches-identity-threat-detection-and-response-platform-to-protect-against-identity-based-attacks"/>
+        <updated>2022-11-15T14:24:33.000Z</updated>
+        <summary type="html"><![CDATA[.]]></summary>
+        <author>
+            <name>Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Neosec Introduces Automated Tokenization to Enable Full API Visibility Without Exposure of Sensitive Data]]></title>
+        <id>https://www.darkreading.com/threat-intelligence/neosec-introduces-automated-tokenization-to-enable-full-api-visibility-without-exposure-of-sensitive-data</id>
+        <link href="https://www.darkreading.com/threat-intelligence/neosec-introduces-automated-tokenization-to-enable-full-api-visibility-without-exposure-of-sensitive-data"/>
+        <updated>2022-11-15T14:20:38.000Z</updated>
+        <summary type="html"><![CDATA[API discovery and threat-monitoring solution tokenizes API data at its source for secure behavioral analytics, storage, compliance, and investigations.]]></summary>
+        <author>
+            <name>Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Balbix Announces Cybersecurity Posture Automation Support for Google Cloud Platform]]></title>
+        <id>https://www.darkreading.com/cloud/balbix-announces-cybersecurity-posture-automation-support-for-google-cloud-platform</id>
+        <link href="https://www.darkreading.com/cloud/balbix-announces-cybersecurity-posture-automation-support-for-google-cloud-platform"/>
+        <updated>2022-11-15T14:15:24.000Z</updated>
+        <summary type="html"><![CDATA[Extends cyber asset attack surface management solution to multi-cloud environments,]]></summary>
+        <author>
+            <name>Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bugcrowd Earns CREST Accreditation for Pen Testing]]></title>
+        <id>https://www.darkreading.com/cloud/bugcrowd-earns-crest-accreditation-for-pen-testing</id>
+        <link href="https://www.darkreading.com/cloud/bugcrowd-earns-crest-accreditation-for-pen-testing"/>
+        <updated>2022-11-15T14:10:25.000Z</updated>
+        <summary type="html"><![CDATA[.]]></summary>
+        <author>
+            <name>Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“Hired Hand” in the Kingdom of Saudi Arabia Uses Domain Spoofing]]></title>
+        <id>https://blog.knowbe4.com/hired-hand-in-the-kingdom-of-saudi-arabia-uses-domain-spoofing</id>
+        <link href="https://blog.knowbe4.com/hired-hand-in-the-kingdom-of-saudi-arabia-uses-domain-spoofing"/>
+        <updated>2022-11-15T13:59:27.000Z</updated>
+        <summary type="html"><![CDATA[Sometimes a social engineering campaign has a clear geographical focus, often shaped by language, holidays, or current events. In this case, the scammers are taking opportunistic advantage of a company whose service offerings have a significant share in a locally important Saudi market, and their preferred technique has been domain-spoofing.]]></summary>
+        <author>
+            <name>Stu Sjouwerman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Researchers Reported Critical SQLi and Access Flaws in Zendesk Analytics Service]]></title>
+        <id>tag:blogger.com,1999:blog-4802841478634147276.post-3381803991454226747</id>
+        <link href="https://thehackernews.com/2022/11/researchers-reported-critical-sqli-and.html"/>
+        <updated>2022-11-15T13:49:00.000Z</updated>
+        <summary type="html"><![CDATA[Cybersecurity researchers have disclosed details of now-patched flaws in Zendesk Explore that could have been exploited by an attacker to gain unauthorized access to information from customer accounts that have the feature turned on.
+"Before it was patched, the flaw would have allowed threat actors to access conversations, email addresses, tickets, comments, and other information from Zendesk]]></summary>
+        <author>
+            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Deep Packet Inspection vs. Metadata Analysis of Network Detection & Response (NDR) Solutions]]></title>
         <id>tag:blogger.com,1999:blog-4802841478634147276.post-4065373445781037649</id>
@@ -36,6 +224,16 @@ Symantec, by Broadcom Software, linked the attacks to an adversarial group it tr
 "Google misled its users into thinking they had turned off location tracking in their account settings, when, in fact, Google continued to collect their location information," Oregon Attorney General Ellen]]></summary>
         <author>
             <name>noreply@blogger.com (Ravie Lakshmanan)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Swimlane Introduces Low-Code, Automation Approach to OT Security]]></title>
+        <id>https://www.darkreading.com/dr-tech/swimlane-introduces-low-code-automation-approach-to-ot-security</id>
+        <link href="https://www.darkreading.com/dr-tech/swimlane-introduces-low-code-automation-approach-to-ot-security"/>
+        <updated>2022-11-14T23:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Automating security for OT infrastructure can help organizations combat a rising volume of cyber threats in an era when security professionals are in short supply.]]></summary>
+        <author>
+            <name>Nathan Eddy, Contributing Writer, Dark Reading</name>
         </author>
     </entry>
     <entry>
@@ -5331,17 +5529,6 @@ Broadly speaking, cryptojacking is defined as the unauthorized and illegitimate 
         <updated>2022-10-17T09:50:00.000Z</updated>
         <summary type="html"><![CDATA[Zimbra has released patches to contain an actively exploited security flaw in its enterprise collaboration suite that could be leveraged to upload arbitrary files to vulnerable instances.
 Tracked as CVE-2022-41352 (CVSS score: 9.8), the issue affects a component of the Zimbra suite called Amavis, an open source content filter, and more specifically, the cpio utility it uses to scan and extract]]></summary>
-        <author>
-            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[INTERPOL-led Operation Takes Down 'Black Axe' Cyber Crime Organization]]></title>
-        <id>tag:blogger.com,1999:blog-4802841478634147276.post-8228981407721078121</id>
-        <link href="https://thehackernews.com/2022/10/interpol-led-operation-takes-down-black.html"/>
-        <updated>2022-10-17T02:55:00.000Z</updated>
-        <summary type="html"><![CDATA[The International Criminal Police Organization, also called the Interpol, has announced the arrests of 75 individuals as part of a coordinated global operation against an organized cybercrime syndicate called Black Axe.
-"'Black Axe' and other West African organized crime groups have developed transnational networks, defrauding victims of millions while channeling their profits into lavish]]></summary>
         <author>
             <name>noreply@blogger.com (Ravie Lakshmanan)</name>
         </author>
