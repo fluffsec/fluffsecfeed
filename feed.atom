@@ -2,10 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-11-14T19:20:00.640Z</updated>
+    <updated>2022-11-15T02:54:03.633Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Researchers Sound Alarm on Dangerous BatLoader Malware Dropper]]></title>
+        <id>https://www.darkreading.com/attacks-breaches/researchers-alarm-batloader-malware-dropper</id>
+        <link href="https://www.darkreading.com/attacks-breaches/researchers-alarm-batloader-malware-dropper"/>
+        <updated>2022-11-14T21:45:00.000Z</updated>
+        <summary type="html"><![CDATA[BatLoader has spread rapidly to roost in systems globally, tailoring payloads to its victims.]]></summary>
+        <author>
+            <name>Jai Vijayan, Contributing Writer, Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Australia Declares War on Cybercrime Syndicates]]></title>
+        <id>https://www.darkreading.com/threat-intelligence/australia-declares-war-against-cybercriminals</id>
+        <link href="https://www.darkreading.com/threat-intelligence/australia-declares-war-against-cybercriminals"/>
+        <updated>2022-11-14T19:45:00.000Z</updated>
+        <summary type="html"><![CDATA[An international counter-ransomware task force has been announced by Australian authorities following the recent Optus and Medibank data breaches.]]></summary>
+        <author>
+            <name>Dark Reading Staff, Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CISA Has Added One Known Exploited Vulnerability to Catalog]]></title>
+        <id>18150 at https://us-cert.cisa.gov</id>
+        <link href="https://us-cert.cisa.gov/ncas/current-activity/2022/11/14/cisa-has-added-one-known-exploited-vulnerability-catalog"/>
+        <updated>2022-11-14T17:08:32.000Z</updated>
+        <summary type="html"><![CDATA[Original release date: November 14, 2022
+CISA has added one new vulnerability to its Known Exploited Vulnerabilities Catalog, based on evidence of active exploitation. This type of vulnerability is a frequent attack vector for malicious cyber actors and pose significant risk to the federal enterprise. Note: To view the newly added vulnerabilities in the catalog, click on the arrow in the "Date Added to Catalog" column, which will sort by descending dates.
+Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the Known Exploited Vulnerabilities Catalog as a living list of known CVEs that carry significant risk to the federal enterprise. BOD 22-01 requires FCEB agencies to remediate identified vulnerabilities by the due date to protect FCEB networks against active threats. See the BOD 22-01 Fact Sheet for more information.
+Although BOD 22-01 only applies to FCEB agencies, CISA strongly urges all organizations to reduce their exposure to cyberattacks by prioritizing timely remediation of Catalog vulnerabilities as part of their vulnerability management practice. CISA will continue to add vulnerabilities to the Catalog that meet the specified criteria.
+This product is provided subject to this Notification and this Privacy & Use policy.]]></summary>
+        <author>
+            <name>CISA</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Unpatched Zimbra Platforms Are Probably Compromised, CISA Says]]></title>
         <id>https://www.darkreading.com/threat-intelligence/unpatched-zimbra-platforms-probably-compromised-cisa-says</id>

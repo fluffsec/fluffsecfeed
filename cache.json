@@ -23,6 +23,16 @@
       "siteUrl": "https://us-cert.cisa.gov/",
       "articles": [
         {
+          "id": "18150 at https://us-cert.cisa.gov",
+          "author": "CISA",
+          "description": "Original release date: November 14, 2022\nCISA has added one new vulnerability to its Known Exploited Vulnerabilities Catalog, based on evidence of active exploitation. This type of vulnerability is a frequent attack vector for malicious cyber actors and pose significant risk to the federal enterprise. Note: To view the newly added vulnerabilities in the catalog, click on the arrow in the \"Date Added to Catalog\" column, which will sort by descending dates.\nBinding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the Known Exploited Vulnerabilities Catalog as a living list of known CVEs that carry significant risk to the federal enterprise. BOD 22-01 requires FCEB agencies to remediate identified vulnerabilities by the due date to protect FCEB networks against active threats. See the BOD 22-01 Fact Sheet for more information.\nAlthough BOD 22-01 only applies to FCEB agencies, CISA strongly urges all organizations to reduce their exposure to cyberattacks by prioritizing timely remediation of Catalog vulnerabilities as part of their vulnerability management practice. CISA will continue to add vulnerabilities to the Catalog that meet the specified criteria.\nThis product is provided subject to this Notification and this Privacy & Use policy.",
+          "link": "https://us-cert.cisa.gov/ncas/current-activity/2022/11/14/cisa-has-added-one-known-exploited-vulnerability-catalog",
+          "publishedOn": "2022-11-14T17:08:32.000Z",
+          "wordCount": 1021,
+          "title": "CISA Has Added One Known Exploited Vulnerability to Catalog",
+          "imageUrl": null
+        },
+        {
           "id": "18135 at https://us-cert.cisa.gov",
           "author": "CISA",
           "description": "Original release date: November 10, 2022\nToday CISA published its guide on Stakeholder-Specific Vulnerability Categorization (SSVC), a vulnerability management methodology that assesses vulnerabilities and prioritizes remediation efforts based on exploitation status, impacts to safety, and prevalence of the affected product in a singular system.\nAs stated in Executive Assistant Director (EAD) Eric Goldstein's blog post Transforming the Vulnerability Management Landscape, implementing a methodology, such as SSVC, is a critical step to advancing the vulnerability management ecosystem. Additionally, the blog details advances—including\nCISA's Known Exploited Vulnerabilities (KEV) catalog, Common Security Advisory Framework (CSAF) machine-readable security advisories, and the Vulnerability Exploitability eXchange (VEX)—that, used in conjunction with SSVC, will reduce the window cyber threat actors have to exploit networks.\nCISA encourages organizations to read EAD Goldstein's blog post and to use the following resources on the SSVC webpage to strengthen their vulnerability management processes:\nCISA's SSVC decision tree\nSSVC Guide on using SSVC and the SSVC decision tree\nSSVC Calculator for prioritizing vulnerability responses in an organization’s respective environment\nThis product is provided subject to this Notification and this Privacy & Use policy.",
@@ -410,6 +420,36 @@
       "feedUrl": "https://www.darkreading.com/rss.xml",
       "siteUrl": "https://www.darkreading.com",
       "articles": [
+        {
+          "id": "https://www.darkreading.com/attacks-breaches/researchers-alarm-batloader-malware-dropper",
+          "author": "Jai Vijayan, Contributing Writer, Dark Reading",
+          "description": "BatLoader has spread rapidly to roost in systems globally, tailoring payloads to its victims.",
+          "link": "https://www.darkreading.com/attacks-breaches/researchers-alarm-batloader-malware-dropper",
+          "publishedOn": "2022-11-14T21:45:00.000Z",
+          "wordCount": 13059,
+          "title": "Researchers Sound Alarm on Dangerous BatLoader Malware Dropper",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt02d79fb9a44a4258/60b1e9dd2a25046b35110696/Jai-Vijayan.jpeg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt02d79fb9a44a4258/60b1e9dd2a25046b35110696/Jai-Vijayan.jpeg"
+        },
+        {
+          "id": "https://www.darkreading.com/threat-intelligence/australia-declares-war-against-cybercriminals",
+          "author": "Dark Reading Staff, Dark Reading",
+          "description": "An international counter-ransomware task force has been announced by Australian authorities following the recent Optus and Medibank data breaches.",
+          "link": "https://www.darkreading.com/threat-intelligence/australia-declares-war-against-cybercriminals",
+          "publishedOn": "2022-11-14T19:45:00.000Z",
+          "wordCount": 10480,
+          "title": "Australia Declares War on Cybercrime Syndicates",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blte161b23f0fd3a84b/60b1ea374e7eb868c4c6a293/dr_staff_125x125.jpg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blte161b23f0fd3a84b/60b1ea374e7eb868c4c6a293/dr_staff_125x125.jpg"
+        },
         {
           "id": "https://www.darkreading.com/threat-intelligence/unpatched-zimbra-platforms-probably-compromised-cisa-says",
           "author": "Dark Reading Staff, Dark Reading",
