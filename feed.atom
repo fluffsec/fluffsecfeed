@@ -2,10 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-11-16T07:21:19.322Z</updated>
+    <updated>2022-11-16T13:41:57.959Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Researchers Discover Hundreds of Amazon RDS Instances Leaking Users' Personal Data]]></title>
+        <id>tag:blogger.com,1999:blog-4802841478634147276.post-6587480734980242323</id>
+        <link href="https://thehackernews.com/2022/11/researchers-discover-hundreds-of-amazon.html"/>
+        <updated>2022-11-16T13:04:00.000Z</updated>
+        <summary type="html"><![CDATA[Hundreds of databases on Amazon Relational Database Service (Amazon RDS) are exposing personal identifiable information (PII), new findings from Mitiga, a cloud incident response company, show.
+"Leaking PII in this manner provides a potential treasure trove for threat actors – either during the reconnaissance phase of the cyber kill chain or extortionware/ransomware campaigns," researchers Ariel]]></summary>
+        <author>
+            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[7 Reasons to Choose an MDR Provider]]></title>
+        <id>tag:blogger.com,1999:blog-4802841478634147276.post-787316465406339451</id>
+        <link href="https://thehackernews.com/2022/11/7-reasons-to-choose-mdr-provider.html"/>
+        <updated>2022-11-16T12:19:00.000Z</updated>
+        <summary type="html"><![CDATA[According to a recent survey, 90% of CISOs running teams in small to medium-sized enterprises (SMEs) use a managed detection and response (MDR) service. That’s a 53% increase from last year. 
+Why the dramatic shift to MDR?
+CISOs at organizations of any size, but especially SMEs, are realizing that the threat landscape and the way we do cybersecurity are among the many things that will never look]]></summary>
+        <author>
+            <name>noreply@blogger.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Warning: New RapperBot Campaign Aims to Launch DDoS Attacks at Game Servers]]></title>
+        <id>tag:blogger.com,1999:blog-4802841478634147276.post-4009374954888285117</id>
+        <link href="https://thehackernews.com/2022/11/warning-new-rapperbot-campaign-aims-to.html"/>
+        <updated>2022-11-16T07:35:00.000Z</updated>
+        <summary type="html"><![CDATA[Cybersecurity researchers have unearthed new samples of malware called RapperBot that are being used to build a botnet capable of launching Distributed Denial of Service (DDoS) attacks against game servers.
+"In fact, it turns out that this campaign is less like RapperBot than an older campaign that appeared in February and then mysteriously disappeared in the middle of April," Fortinet]]></summary>
+        <author>
+            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Google to Roll Out Privacy Sandbox Beta on Android 13 by Early 2023]]></title>
         <id>tag:blogger.com,1999:blog-4802841478634147276.post-8626500522949885162</id>
@@ -5406,36 +5440,6 @@ The coordinated]]></summary>
 Cobalt Strike is a commercial red-team framework that's mainly used for adversary simulation, but cracked versions of the software have been actively abused by ransomware]]></summary>
         <author>
             <name>noreply@blogger.com (Ravie Lakshmanan)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Researchers Keep a Wary Eye on Critical New Vulnerability in Apache Commons Text]]></title>
-        <id>https://www.darkreading.com/application-security/researchers-keep-a-wary-eye-on-critical-new-vulnerability-in-apache-commons-text</id>
-        <link href="https://www.darkreading.com/application-security/researchers-keep-a-wary-eye-on-critical-new-vulnerability-in-apache-commons-text"/>
-        <updated>2022-10-17T20:08:39.000Z</updated>
-        <summary type="html"><![CDATA[There's nothing yet to suggest CVE-2022-42889 is the next Log4j. But proof-of-concept code is available, and interest appears to be ticking up.]]></summary>
-        <author>
-            <name>Jai Vijayan, Contributing Writer, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How To Stop Job Scams]]></title>
-        <id>https://blog.knowbe4.com/how-to-stop-job-scams</id>
-        <link href="https://blog.knowbe4.com/how-to-stop-job-scams"/>
-        <updated>2022-10-17T20:01:57.000Z</updated>
-        <summary type="html"><![CDATA[I am reading and hearing about a ton of job scams these days. So many, I wondered how anyone could get a real job or employee, especially in these days of often full-time, work-from-home (WFH) environments. There are many different types of job scams, both targeting potential victims wanting to be employees and employers. I wrote about many of these job scams a few months ago, but I have one more large defensive recommendation to make in this blog that I think will make it hard for the scammers to be successful.]]></summary>
-        <author>
-            <name>Roger Grimes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cybersecurity's Hiring Spree Requires a Recruiting Rethink]]></title>
-        <id>https://www.darkreading.com/cloud/cybersecurity-s-hiring-spree-is-going-to-require-recruitment-rethink</id>
-        <link href="https://www.darkreading.com/cloud/cybersecurity-s-hiring-spree-is-going-to-require-recruitment-rethink"/>
-        <updated>2022-10-17T20:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Just 65 cybersecurity professionals are in the workforce for every 100 available jobs, new study shows.]]></summary>
-        <author>
-            <name>Becky Bracken, Editor, Dark Reading</name>
         </author>
     </entry>
     <entry>
