@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-11-15T19:18:22.897Z</updated>
+    <updated>2022-11-16T02:55:16.248Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Wipermania: Malware Remains a Potent Threat, 10 Years Since 'Shamoon']]></title>
+        <id>https://www.darkreading.com/endpoint/wipermania-malware-potent-threat-since-shamoon</id>
+        <link href="https://www.darkreading.com/endpoint/wipermania-malware-potent-threat-since-shamoon"/>
+        <updated>2022-11-15T21:45:00.000Z</updated>
+        <summary type="html"><![CDATA[An in-depth analysis of system-destroying malware families presented at Black Hat Middle East & Africa shows a growing nuance in terms of how they're deployed.]]></summary>
+        <author>
+            <name>Jai Vijayan, Contributing Writer, Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Modern CISO: More Than a Security Officer]]></title>
+        <id>https://www.darkreading.com/edge-ask-the-experts/modern-ciso-more-than-a-security-officer</id>
+        <link href="https://www.darkreading.com/edge-ask-the-experts/modern-ciso-more-than-a-security-officer"/>
+        <updated>2022-11-15T21:00:00.000Z</updated>
+        <summary type="html"><![CDATA[YL Ventures CISO-in-Residence Frank Kim weighs in on the top security concerns facing CISOs in a Dark Reading Q&A interview.]]></summary>
+        <author>
+            <name>Edge Editors, Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Where Can Third-Party Governance and Risk Management Take Us?]]></title>
+        <id>https://www.darkreading.com/dr-tech/where-can-third-party-governance-and-risk-management-take-us-</id>
+        <link href="https://www.darkreading.com/dr-tech/where-can-third-party-governance-and-risk-management-take-us-"/>
+        <updated>2022-11-15T20:48:00.000Z</updated>
+        <summary type="html"><![CDATA[Part 2 in our series addressing the top 10 unanswered questions in security: How will TPGRM evolve?]]></summary>
+        <author>
+            <name>Will Lin, Managing Director, Forgepoint Capital</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Misconfigurations, Vulnerabilities Found in 95% of Applications]]></title>
+        <id>https://www.darkreading.com/application-security/misconfigurations-vulnerabilities-found-in-95-of-applications</id>
+        <link href="https://www.darkreading.com/application-security/misconfigurations-vulnerabilities-found-in-95-of-applications"/>
+        <updated>2022-11-15T19:06:29.000Z</updated>
+        <summary type="html"><![CDATA[Weak configurations for encryption and missing security headers topped the list of software issues found during a variety of penetration and application security tests.]]></summary>
+        <author>
+            <name>Robert Lemos, Contributing Writer, Dark Reading</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How Routine Pen Testing Can Reveal the Unseen Flaws in Your Cybersecurity Posture]]></title>
         <id>https://www.darkreading.com/vulnerabilities-threats/how-routine-pen-testing-can-reveal-the-unseen-flaws-in-your-cybersecurity-posture</id>
@@ -5434,103 +5474,6 @@ Cobalt Strike is a commercial red-team framework that's mainly used for adversar
         <summary type="html"><![CDATA[Here's how to differentiate vendors that can back up their words with solutions and those that  cannot.]]></summary>
         <author>
             <name>Joshua Goldfarb, Fraud Solutions Architect - EMEA and APCJ, F5</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Disinformation Attacks Threaten US Midterm Elections]]></title>
-        <id>https://www.darkreading.com/threat-intelligence/disinformation-attacks-threaten-us-midterm-elections</id>
-        <link href="https://www.darkreading.com/threat-intelligence/disinformation-attacks-threaten-us-midterm-elections"/>
-        <updated>2022-10-17T14:30:23.000Z</updated>
-        <summary type="html"><![CDATA[Foreign nations continue to target various US public entities and private industries with cyberattacks, but the coming midterms are driving more disinformation than hacking, say experts.]]></summary>
-        <author>
-            <name>Robert Lemos, Contributing Writer, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[4 Stakeholders Critical to Addressing the Cybersecurity Workforce Gap]]></title>
-        <id>https://www.darkreading.com/careers-and-people/4-stakeholders-critical-to-addressing-the-cybersecurity-workforce-gap</id>
-        <link href="https://www.darkreading.com/careers-and-people/4-stakeholders-critical-to-addressing-the-cybersecurity-workforce-gap"/>
-        <updated>2022-10-17T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A cross-disciplinary effort of change is needed to attract new professionals in the coming decade.]]></summary>
-        <author>
-            <name>Kayne McGladrey, IEEE Senior Member, and Field CISO at Hyperproof</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Imprivata Expands Its Integrated Digital Identity Platform to Defragment Identities Across Disparate Applications]]></title>
-        <id>https://www.darkreading.com/endpoint/imprivata-expands-its-integrated-digital-identity-platform-to-defragment-identities-across-disparate-applications</id>
-        <link href="https://www.darkreading.com/endpoint/imprivata-expands-its-integrated-digital-identity-platform-to-defragment-identities-across-disparate-applications"/>
-        <updated>2022-10-17T13:39:11.000Z</updated>
-        <summary type="html"><![CDATA[Offers solution to accelerate identity intelligence through simplified, yet extensive, visibility of user activity.]]></summary>
-        <author>
-            <name>Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Black Basta Ransomware Hackers Infiltrates Networks via Qakbot to Deploy Brute Ratel C4]]></title>
-        <id>tag:blogger.com,1999:blog-4802841478634147276.post-6456118928054244930</id>
-        <link href="https://thehackernews.com/2022/10/black-basta-ransomware-hackers.html"/>
-        <updated>2022-10-17T12:54:00.000Z</updated>
-        <summary type="html"><![CDATA[The threat actors behind the Black Basta ransomware family have been observed using the Qakbot trojan to deploy the Brute Ratel C4 framework as a second-stage payload in recent attacks.
-The development marks the first time the nascent adversary simulation software is being delivered via a Qakbot infection, cybersecurity firm Trend Micro said in a technical analysis released last week.
-The]]></summary>
-        <author>
-            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sloppy but Dangerous: Fake Ransomware]]></title>
-        <id>https://blog.knowbe4.com/sloppy-but-dangerous-fake-ransomware</id>
-        <link href="https://blog.knowbe4.com/sloppy-but-dangerous-fake-ransomware"/>
-        <updated>2022-10-17T12:34:05.000Z</updated>
-        <summary type="html"><![CDATA[Conventional ransomware encrypts the victims’ files and holds them hostage, unavailable to their owners, promising to provide a decryptor once the victims’ pay the ransom. In some cases being tracked by security firm Cyble, however, they offer nothing in return. The files are in fact deleted.]]></summary>
-        <author>
-            <name>Stu Sjouwerman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Researchers Say Microsoft Office 365 Uses Broken Email Encryption to Secure Messages]]></title>
-        <id>tag:blogger.com,1999:blog-4802841478634147276.post-6244586426893951967</id>
-        <link href="https://thehackernews.com/2022/10/researchers-claim-microsoft-office-365.html"/>
-        <updated>2022-10-17T10:33:00.000Z</updated>
-        <summary type="html"><![CDATA[New research has disclosed what's being called a security vulnerability in Microsoft 365 that could be exploited to infer message contents due to the use of a broken cryptographic algorithm.
-"The [Office 365 Message Encryption] messages are encrypted in insecure Electronic Codebook (ECB) mode of operation," Finnish cybersecurity company WithSecure said in a report published last week.
-Office 365]]></summary>
-        <author>
-            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why Crypto Winter is No Excuse to Let Your Cyber Defenses Falter]]></title>
-        <id>tag:blogger.com,1999:blog-4802841478634147276.post-4686743232226162582</id>
-        <link href="https://thehackernews.com/2022/10/why-crypto-winter-is-no-excuse-to-let.html"/>
-        <updated>2022-10-17T10:20:00.000Z</updated>
-        <summary type="html"><![CDATA[Don’t let the ongoing “crypto winter” lull you into a false sense of cybersecurity. Even as cryptocurrencies lose value — and some crypto companies file for bankruptcy — cryptojacking still poses an urgent threat to enterprises across industries, from financial services to healthcare to industry 4.0 and beyond. 
-Broadly speaking, cryptojacking is defined as the unauthorized and illegitimate use]]></summary>
-        <author>
-            <name>noreply@blogger.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Prestige Ransomware Targeting Polish and Ukrainian Organizations]]></title>
-        <id>tag:blogger.com,1999:blog-4802841478634147276.post-1705630303109467778</id>
-        <link href="https://thehackernews.com/2022/10/new-prestige-ransomware-targeting.html"/>
-        <updated>2022-10-17T10:15:00.000Z</updated>
-        <summary type="html"><![CDATA[A new ransomware campaign targeted the transportation and logistics sectors in Ukraine and Poland on October 11 with a previously unknown payload dubbed Prestige.
-"The activity shares victimology with recent Russian state-aligned activity, specifically on affected geographies and countries, and overlaps with previous victims of the FoxBlade malware (also known as HermeticWiper)," the Microsoft]]></summary>
-        <author>
-            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Zimbra Releases Patch for Actively Exploited Vulnerability in its Collaboration Suite]]></title>
-        <id>tag:blogger.com,1999:blog-4802841478634147276.post-7885639167892724482</id>
-        <link href="https://thehackernews.com/2022/10/zimbra-releases-patch-for-actively.html"/>
-        <updated>2022-10-17T09:50:00.000Z</updated>
-        <summary type="html"><![CDATA[Zimbra has released patches to contain an actively exploited security flaw in its enterprise collaboration suite that could be leveraged to upload arbitrary files to vulnerable instances.
-Tracked as CVE-2022-41352 (CVSS score: 9.8), the issue affects a component of the Zimbra suite called Amavis, an open source content filter, and more specifically, the cpio utility it uses to scan and extract]]></summary>
-        <author>
-            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
         </author>
     </entry>
     <entry>
