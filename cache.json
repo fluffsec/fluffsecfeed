@@ -33,6 +33,26 @@
       "siteUrl": "https://us-cert.cisa.gov/",
       "articles": [
         {
+          "id": "18165 at https://us-cert.cisa.gov",
+          "author": "CISA",
+          "description": "Original release date: November 17, 2022\nToday, CISA, the Federal Bureau of Investigation (FBI), and the Department of Health and Human Services (HHS) released joint Cybersecurity Advisory (CSA) #StopRansomware: Hive Ransomware to provide network defenders tactics, techniques, and procedures (TTPs) and indicators of compromise (IOCs) associated with Hive ransomware variants. FBI investigations identified these TTPs and IOCs as recently as November 2022. \nHive ransomware has targeted a wide range of businesses and critical infrastructure sectors, including Government Facilities, Communications, Critical Manufacturing, Information Technology, and—especially—Healthcare and Public Health (HPH).\nCISA encourages network defenders to review the CSA and to apply the included mitigations. See StopRansomware.gov for additional guidance on ransomware protection, detection, and response. \nThis product is provided subject to this Notification and this Privacy & Use policy.",
+          "link": "https://us-cert.cisa.gov/ncas/current-activity/2022/11/17/stopransomware-hive",
+          "publishedOn": "2022-11-17T15:54:14.000Z",
+          "wordCount": 919,
+          "title": "#StopRansomware: Hive",
+          "imageUrl": null
+        },
+        {
+          "id": "18164 at https://us-cert.cisa.gov",
+          "author": "CISA",
+          "description": "Original release date: November 17, 2022\nCISA has released two (2) Industrial Control Systems (ICS) advisories on November 17, 2022. These advisories provide timely information about current security issues, vulnerabilities, and exploits surrounding ICS.\nCISA encourages users and administrators to review the newly released ICS advisory for technical details and mitigations:\n•    ICSA-22-321-01 Red Lion Crimson\nCradlepoint IBR600\nThis product is provided subject to this Notification and this Privacy & Use policy.",
+          "link": "https://us-cert.cisa.gov/ncas/current-activity/2022/11/17/cisa-releases-two-industrial-control-systems-advisories",
+          "publishedOn": "2022-11-17T13:02:26.000Z",
+          "wordCount": 881,
+          "title": "CISA Releases Two Industrial Control Systems Advisories",
+          "imageUrl": null
+        },
+        {
           "id": "18161 at https://us-cert.cisa.gov",
           "author": "CISA",
           "description": "Original release date: November 16, 2022\nCisco has released security updates for vulnerabilities affecting Cisco Identity Services Engine (ISE). A remote attacker could exploit some of these vulnerabilities to bypass authorization and access system files. For updates addressing vulnerabilities, see the Cisco Security Advisories page.   \nCISA encourages users and administrators to review the following advisories and apply the necessary updates:\nCisco Identity Services Engine Insufficient Access Control Vulnerability\nCisco Identity Services Engine Cross-Site Scripting Vulnerability\nThis product is provided subject to this Notification and this Privacy & Use policy.",
@@ -480,6 +500,96 @@
       "feedUrl": "https://www.darkreading.com/rss.xml",
       "siteUrl": "https://www.darkreading.com",
       "articles": [
+        {
+          "id": "https://www.darkreading.com/endpoint/zero-trust-initiatives-stall-cyberattack-costs-1m-per-incident",
+          "author": "Nathan Eddy, Contributing Writer, Dark Reading",
+          "description": "Researchers find current data protections strategies are failing to get the job done, and IT leaders are concerned, while a lack of qualified IT security talent hampers cyber-defense initiatives.",
+          "link": "https://www.darkreading.com/endpoint/zero-trust-initiatives-stall-cyberattack-costs-1m-per-incident",
+          "publishedOn": "2022-11-17T16:56:28.000Z",
+          "wordCount": 14688,
+          "title": "Zero-Trust Initiatives Stall, as Cyberattack Costs Rocket to $1M per Incident",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltf8b5a94afa71c53a/628e3799daa31875dc0c9fc0/NathanEddyHeadshot.PNG",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltf8b5a94afa71c53a/628e3799daa31875dc0c9fc0/NathanEddyHeadshot.PNG"
+        },
+        {
+          "id": "https://www.darkreading.com/application-security/instagram-impersonators-target-thousands-microsoft-cybersecurity",
+          "author": "Elizabeth Montalbano, Contributor, Dark Reading",
+          "description": "The socially engineered campaign used a legitimate domain to send phishing emails to large swaths of university targets.",
+          "link": "https://www.darkreading.com/application-security/instagram-impersonators-target-thousands-microsoft-cybersecurity",
+          "publishedOn": "2022-11-17T16:14:18.000Z",
+          "wordCount": 13736,
+          "title": "Instagram Impersonators Target Thousands, Slipping by Microsoft's Cybersecurity",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltbfd004d139d42d70/6303bca6236c2476a257760e/ElizabethMontalbano.jpg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltbfd004d139d42d70/6303bca6236c2476a257760e/ElizabethMontalbano.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/ics-ot/spacecraft-failure-vulnerability-thanks-to-networking-bug",
+          "author": "Robert Lemos, Contributing Writer, Dark Reading",
+          "description": "A single device with malicious code can foil a networking protocol used by spacecraft, aircraft, and industrial control systems, resulting in unpredictable operations and possible failures.",
+          "link": "https://www.darkreading.com/ics-ot/spacecraft-failure-vulnerability-thanks-to-networking-bug",
+          "publishedOn": "2022-11-17T16:08:21.000Z",
+          "wordCount": 13582,
+          "title": "Spacecraft Vulnerable to Failure, Thanks to Aerospace Networking Bug",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt58481326324d6911/60b1e9a55d34de550780a990/Robert-Lemos.png",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt58481326324d6911/60b1e9a55d34de550780a990/Robert-Lemos.png"
+        },
+        {
+          "id": "https://www.darkreading.com/vulnerabilities-threats/tmi-tech-how-to-stop-vulnerable-software-from-oversharing-",
+          "author": "Matias Madou, Co-Founder and CTO, Secure Code Warrior",
+          "description": "Stop chatty apps from oversharing and eliminate a hacker backdoor — train developers on \"security first\" while subjecting APIs to least-privilege zero-trust policies.",
+          "link": "https://www.darkreading.com/vulnerabilities-threats/tmi-tech-how-to-stop-vulnerable-software-from-oversharing-",
+          "publishedOn": "2022-11-17T15:00:00.000Z",
+          "wordCount": 12968,
+          "title": "TMI Tech: How to Stop Vulnerable Software from 'Oversharing'",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltaad2fe5300bb72a5/6374f7525a083c3e618c0f6f/Secure-Code-Warrior-MatiasMadou.jpeg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltaad2fe5300bb72a5/6374f7525a083c3e618c0f6f/Secure-Code-Warrior-MatiasMadou.jpeg"
+        },
+        {
+          "id": "https://www.darkreading.com/vulnerabilities-threats/cyber-monday-will-be-the-most-fraudulent-day-of-the-season-says-seon",
+          "author": null,
+          "description": "Online fraud prevention company predicts Cyber Monday will see a 100% increase in online fraud attempts.",
+          "link": "https://www.darkreading.com/vulnerabilities-threats/cyber-monday-will-be-the-most-fraudulent-day-of-the-season-says-seon",
+          "publishedOn": "2022-11-17T14:08:05.000Z",
+          "wordCount": 11153,
+          "title": "Cyber Monday Will Be the Most Fraudulent Day of the Season, Says SEON",
+          "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/endpoint/41-transatlantic-business-coalition-calls-on-eu-policymakers-to-finalize-agreement-to-secure-transatlantic-data-flows",
+          "author": null,
+          "description": ".",
+          "link": "https://www.darkreading.com/endpoint/41-transatlantic-business-coalition-calls-on-eu-policymakers-to-finalize-agreement-to-secure-transatlantic-data-flows",
+          "publishedOn": "2022-11-17T14:05:50.000Z",
+          "wordCount": 11907,
+          "title": "41 Transatlantic Business Coalition Calls on EU Policymakers to Finalize Agreement to Secure Transatlantic Data Flows",
+          "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/operations/revelstoke-upgrades-soar-platform-with-augmented-automation-case-management-and-user-interface-capabilities",
+          "author": null,
+          "description": "Unified data layer enables continuous platform updates.",
+          "link": "https://www.darkreading.com/operations/revelstoke-upgrades-soar-platform-with-augmented-automation-case-management-and-user-interface-capabilities",
+          "publishedOn": "2022-11-17T14:01:48.000Z",
+          "wordCount": 12108,
+          "title": "Revelstoke Upgrades SOAR Platform With Augmented Automation, Case Management, and User Interface Capabilities",
+          "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
+        },
         {
           "id": "https://www.darkreading.com/endpoint/china-based-billbug-apt-infiltrates-certificate-authority",
           "author": "Tara Seals, Managing Editor, News, Dark Reading",
@@ -4234,6 +4344,66 @@
       "feedUrl": "https://blog.knowbe4.com/rss.xml",
       "siteUrl": "https://blog.knowbe4.com",
       "articles": [
+        {
+          "id": "https://blog.knowbe4.com/dynamic-365-phishing-attacks-hide-malicious-links",
+          "author": "Stu Sjouwerman",
+          "description": "Leveraging a legitimate feature of Dynamics 365, threat actors are able to obfuscate the malicious nature of the email within content that naturally requires user interaction.",
+          "link": "https://blog.knowbe4.com/dynamic-365-phishing-attacks-hide-malicious-links",
+          "publishedOn": "2022-11-17T18:41:23.000Z",
+          "wordCount": 2207,
+          "title": "Phishing Attacks Misuse Microsoft Dynamics 365 Customer Voice Functionality to Hide Malicious Links",
+          "imageUrl": "https://blog.knowbe4.com/hubfs/Phishing%20Attacks%20Misuse.jpg#keepProtocol"
+        },
+        {
+          "id": "https://blog.knowbe4.com/valid-accounts-top-initial-access-infection-vector",
+          "author": "Stu Sjouwerman",
+          "description": "As ransomware, business email compromise, and phishing attacks continue to escalate, new data sheds light on where organizations need to focus to help put a stop to attack success.",
+          "link": "https://blog.knowbe4.com/valid-accounts-top-initial-access-infection-vector",
+          "publishedOn": "2022-11-17T18:41:19.000Z",
+          "wordCount": 2258,
+          "title": "Valid Accounts Rank as the Top Initial Access Infection Vector, Putting a Spotlight on Credentials",
+          "imageUrl": "https://blog.knowbe4.com/hubfs/Valid%20Acounts%20Rank%20Top%20Initial%20Infection%20Vector.jpg#keepProtocol"
+        },
+        {
+          "id": "https://blog.knowbe4.com/ransomware-attacks-on-uk-organizations-underreported",
+          "author": "Stu Sjouwerman",
+          "description": "A new report from the UK’s National Cyber Security Center highlights the current state of threats in the UK, with particular focus on ransomware attacks and their impact.",
+          "link": "https://blog.knowbe4.com/ransomware-attacks-on-uk-organizations-underreported",
+          "publishedOn": "2022-11-17T18:41:16.000Z",
+          "wordCount": 2210,
+          "title": "Ransomware Attacks on UK Organizations are Not Being Reported Enough, Clouding Impact",
+          "imageUrl": "https://blog.knowbe4.com/hubfs/Ransomware%20Attaacks%20on%20UK%20Organizations.jpg#keepProtocol"
+        },
+        {
+          "id": "https://blog.knowbe4.com/cyber-insurance-rates-stabilize-as-insurers-gain-better-insight",
+          "author": "Stu Sjouwerman",
+          "description": "The latest data shows that historically massive rate increases seen over the last few years are beginning to come down, primarily due to insurers having a solid understanding of the risk.",
+          "link": "https://blog.knowbe4.com/cyber-insurance-rates-stabilize-as-insurers-gain-better-insight",
+          "publishedOn": "2022-11-17T18:41:12.000Z",
+          "wordCount": 2200,
+          "title": "Cyber Insurance Rates Begin to Stabilize as Insurers Gain Better Insight into Cyberattacks",
+          "imageUrl": "https://blog.knowbe4.com/hubfs/Cyber%20Insurance%20Rates%20Begin%20to%20Stabilize.jpg#keepProtocol"
+        },
+        {
+          "id": "https://blog.knowbe4.com/holiday-package-or-scam-message-clickers-beware",
+          "author": "Javvad Malik",
+          "description": "As we enter the holiday season, we start getting bombarded with amazing offers and often take advantage of not only grabbing ourselves a bargain, but also stockpiling gifts for friends and family. During this time, not a day goes by where we do not receive a couple of packages, to the extent that we often become friendly on a first name basis with the delivery drivers.",
+          "link": "https://blog.knowbe4.com/holiday-package-or-scam-message-clickers-beware",
+          "publishedOn": "2022-11-17T14:02:23.000Z",
+          "wordCount": 2370,
+          "title": "Holiday Package or Scam Message? Clickers Beware",
+          "imageUrl": "https://blog.knowbe4.com/hubfs/Javvad%20Malik%20KnowBe4%20Holiday%20Scams.jpg#keepProtocol"
+        },
+        {
+          "id": "https://blog.knowbe4.com/watch-out-for-this-tricky-new-tactic-called-clone-phishing",
+          "author": "Stu Sjouwerman",
+          "description": "Researchers at Vade Secure describe a type of phishing attack dubbed “clone phishing,” in which attackers follow up a legitimate email from a trusted sender with a replica, claiming that they forgot to include a link or attachment.",
+          "link": "https://blog.knowbe4.com/watch-out-for-this-tricky-new-tactic-called-clone-phishing",
+          "publishedOn": "2022-11-17T13:49:53.000Z",
+          "wordCount": 2291,
+          "title": "Watch Out For This Tricky New Tactic Called Clone Phishing",
+          "imageUrl": "https://blog.knowbe4.com/hubfs/New%20Tactic%20Clone%20Phishing.jpg#keepProtocol"
+        },
         {
           "id": "https://blog.knowbe4.com/fbi-director-says-hes-extremely-concerned-about-chinas-ability-to-weaponize-tiktok",
           "author": "Stu Sjouwerman",

@@ -2,10 +2,169 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-11-17T13:39:58.318Z</updated>
+    <updated>2022-11-17T19:18:42.101Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Phishing Attacks Misuse Microsoft Dynamics 365 Customer Voice Functionality to Hide Malicious Links]]></title>
+        <id>https://blog.knowbe4.com/dynamic-365-phishing-attacks-hide-malicious-links</id>
+        <link href="https://blog.knowbe4.com/dynamic-365-phishing-attacks-hide-malicious-links"/>
+        <updated>2022-11-17T18:41:23.000Z</updated>
+        <summary type="html"><![CDATA[Leveraging a legitimate feature of Dynamics 365, threat actors are able to obfuscate the malicious nature of the email within content that naturally requires user interaction.]]></summary>
+        <author>
+            <name>Stu Sjouwerman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Valid Accounts Rank as the Top Initial Access Infection Vector, Putting a Spotlight on Credentials]]></title>
+        <id>https://blog.knowbe4.com/valid-accounts-top-initial-access-infection-vector</id>
+        <link href="https://blog.knowbe4.com/valid-accounts-top-initial-access-infection-vector"/>
+        <updated>2022-11-17T18:41:19.000Z</updated>
+        <summary type="html"><![CDATA[As ransomware, business email compromise, and phishing attacks continue to escalate, new data sheds light on where organizations need to focus to help put a stop to attack success.]]></summary>
+        <author>
+            <name>Stu Sjouwerman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ransomware Attacks on UK Organizations are Not Being Reported Enough, Clouding Impact]]></title>
+        <id>https://blog.knowbe4.com/ransomware-attacks-on-uk-organizations-underreported</id>
+        <link href="https://blog.knowbe4.com/ransomware-attacks-on-uk-organizations-underreported"/>
+        <updated>2022-11-17T18:41:16.000Z</updated>
+        <summary type="html"><![CDATA[A new report from the UK’s National Cyber Security Center highlights the current state of threats in the UK, with particular focus on ransomware attacks and their impact.]]></summary>
+        <author>
+            <name>Stu Sjouwerman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cyber Insurance Rates Begin to Stabilize as Insurers Gain Better Insight into Cyberattacks]]></title>
+        <id>https://blog.knowbe4.com/cyber-insurance-rates-stabilize-as-insurers-gain-better-insight</id>
+        <link href="https://blog.knowbe4.com/cyber-insurance-rates-stabilize-as-insurers-gain-better-insight"/>
+        <updated>2022-11-17T18:41:12.000Z</updated>
+        <summary type="html"><![CDATA[The latest data shows that historically massive rate increases seen over the last few years are beginning to come down, primarily due to insurers having a solid understanding of the risk.]]></summary>
+        <author>
+            <name>Stu Sjouwerman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Zero-Trust Initiatives Stall, as Cyberattack Costs Rocket to $1M per Incident]]></title>
+        <id>https://www.darkreading.com/endpoint/zero-trust-initiatives-stall-cyberattack-costs-1m-per-incident</id>
+        <link href="https://www.darkreading.com/endpoint/zero-trust-initiatives-stall-cyberattack-costs-1m-per-incident"/>
+        <updated>2022-11-17T16:56:28.000Z</updated>
+        <summary type="html"><![CDATA[Researchers find current data protections strategies are failing to get the job done, and IT leaders are concerned, while a lack of qualified IT security talent hampers cyber-defense initiatives.]]></summary>
+        <author>
+            <name>Nathan Eddy, Contributing Writer, Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Instagram Impersonators Target Thousands, Slipping by Microsoft's Cybersecurity]]></title>
+        <id>https://www.darkreading.com/application-security/instagram-impersonators-target-thousands-microsoft-cybersecurity</id>
+        <link href="https://www.darkreading.com/application-security/instagram-impersonators-target-thousands-microsoft-cybersecurity"/>
+        <updated>2022-11-17T16:14:18.000Z</updated>
+        <summary type="html"><![CDATA[The socially engineered campaign used a legitimate domain to send phishing emails to large swaths of university targets.]]></summary>
+        <author>
+            <name>Elizabeth Montalbano, Contributor, Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Spacecraft Vulnerable to Failure, Thanks to Aerospace Networking Bug]]></title>
+        <id>https://www.darkreading.com/ics-ot/spacecraft-failure-vulnerability-thanks-to-networking-bug</id>
+        <link href="https://www.darkreading.com/ics-ot/spacecraft-failure-vulnerability-thanks-to-networking-bug"/>
+        <updated>2022-11-17T16:08:21.000Z</updated>
+        <summary type="html"><![CDATA[A single device with malicious code can foil a networking protocol used by spacecraft, aircraft, and industrial control systems, resulting in unpredictable operations and possible failures.]]></summary>
+        <author>
+            <name>Robert Lemos, Contributing Writer, Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#StopRansomware: Hive]]></title>
+        <id>18165 at https://us-cert.cisa.gov</id>
+        <link href="https://us-cert.cisa.gov/ncas/current-activity/2022/11/17/stopransomware-hive"/>
+        <updated>2022-11-17T15:54:14.000Z</updated>
+        <summary type="html"><![CDATA[Original release date: November 17, 2022
+Today, CISA, the Federal Bureau of Investigation (FBI), and the Department of Health and Human Services (HHS) released joint Cybersecurity Advisory (CSA) #StopRansomware: Hive Ransomware to provide network defenders tactics, techniques, and procedures (TTPs) and indicators of compromise (IOCs) associated with Hive ransomware variants. FBI investigations identified these TTPs and IOCs as recently as November 2022. 
+Hive ransomware has targeted a wide range of businesses and critical infrastructure sectors, including Government Facilities, Communications, Critical Manufacturing, Information Technology, and—especially—Healthcare and Public Health (HPH).
+CISA encourages network defenders to review the CSA and to apply the included mitigations. See StopRansomware.gov for additional guidance on ransomware protection, detection, and response. 
+This product is provided subject to this Notification and this Privacy & Use policy.]]></summary>
+        <author>
+            <name>CISA</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TMI Tech: How to Stop Vulnerable Software from 'Oversharing']]></title>
+        <id>https://www.darkreading.com/vulnerabilities-threats/tmi-tech-how-to-stop-vulnerable-software-from-oversharing-</id>
+        <link href="https://www.darkreading.com/vulnerabilities-threats/tmi-tech-how-to-stop-vulnerable-software-from-oversharing-"/>
+        <updated>2022-11-17T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Stop chatty apps from oversharing and eliminate a hacker backdoor — train developers on "security first" while subjecting APIs to least-privilege zero-trust policies.]]></summary>
+        <author>
+            <name>Matias Madou, Co-Founder and CTO, Secure Code Warrior</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cyber Monday Will Be the Most Fraudulent Day of the Season, Says SEON]]></title>
+        <id>https://www.darkreading.com/vulnerabilities-threats/cyber-monday-will-be-the-most-fraudulent-day-of-the-season-says-seon</id>
+        <link href="https://www.darkreading.com/vulnerabilities-threats/cyber-monday-will-be-the-most-fraudulent-day-of-the-season-says-seon"/>
+        <updated>2022-11-17T14:08:05.000Z</updated>
+        <summary type="html"><![CDATA[Online fraud prevention company predicts Cyber Monday will see a 100% increase in online fraud attempts.]]></summary>
+        <author>
+            <name>Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[41 Transatlantic Business Coalition Calls on EU Policymakers to Finalize Agreement to Secure Transatlantic Data Flows]]></title>
+        <id>https://www.darkreading.com/endpoint/41-transatlantic-business-coalition-calls-on-eu-policymakers-to-finalize-agreement-to-secure-transatlantic-data-flows</id>
+        <link href="https://www.darkreading.com/endpoint/41-transatlantic-business-coalition-calls-on-eu-policymakers-to-finalize-agreement-to-secure-transatlantic-data-flows"/>
+        <updated>2022-11-17T14:05:50.000Z</updated>
+        <summary type="html"><![CDATA[.]]></summary>
+        <author>
+            <name>Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Holiday Package or Scam Message? Clickers Beware]]></title>
+        <id>https://blog.knowbe4.com/holiday-package-or-scam-message-clickers-beware</id>
+        <link href="https://blog.knowbe4.com/holiday-package-or-scam-message-clickers-beware"/>
+        <updated>2022-11-17T14:02:23.000Z</updated>
+        <summary type="html"><![CDATA[As we enter the holiday season, we start getting bombarded with amazing offers and often take advantage of not only grabbing ourselves a bargain, but also stockpiling gifts for friends and family. During this time, not a day goes by where we do not receive a couple of packages, to the extent that we often become friendly on a first name basis with the delivery drivers.]]></summary>
+        <author>
+            <name>Javvad Malik</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Revelstoke Upgrades SOAR Platform With Augmented Automation, Case Management, and User Interface Capabilities]]></title>
+        <id>https://www.darkreading.com/operations/revelstoke-upgrades-soar-platform-with-augmented-automation-case-management-and-user-interface-capabilities</id>
+        <link href="https://www.darkreading.com/operations/revelstoke-upgrades-soar-platform-with-augmented-automation-case-management-and-user-interface-capabilities"/>
+        <updated>2022-11-17T14:01:48.000Z</updated>
+        <summary type="html"><![CDATA[Unified data layer enables continuous platform updates.]]></summary>
+        <author>
+            <name>Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Watch Out For This Tricky New Tactic Called Clone Phishing]]></title>
+        <id>https://blog.knowbe4.com/watch-out-for-this-tricky-new-tactic-called-clone-phishing</id>
+        <link href="https://blog.knowbe4.com/watch-out-for-this-tricky-new-tactic-called-clone-phishing"/>
+        <updated>2022-11-17T13:49:53.000Z</updated>
+        <summary type="html"><![CDATA[Researchers at Vade Secure describe a type of phishing attack dubbed “clone phishing,” in which attackers follow up a legitimate email from a trusted sender with a replica, claiming that they forgot to include a link or attachment.]]></summary>
+        <author>
+            <name>Stu Sjouwerman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CISA Releases Two Industrial Control Systems Advisories]]></title>
+        <id>18164 at https://us-cert.cisa.gov</id>
+        <link href="https://us-cert.cisa.gov/ncas/current-activity/2022/11/17/cisa-releases-two-industrial-control-systems-advisories"/>
+        <updated>2022-11-17T13:02:26.000Z</updated>
+        <summary type="html"><![CDATA[Original release date: November 17, 2022
+CISA has released two (2) Industrial Control Systems (ICS) advisories on November 17, 2022. These advisories provide timely information about current security issues, vulnerabilities, and exploits surrounding ICS.
+CISA encourages users and administrators to review the newly released ICS advisory for technical details and mitigations:
+•    ICSA-22-321-01 Red Lion Crimson
+Cradlepoint IBR600
+This product is provided subject to this Notification and this Privacy & Use policy.]]></summary>
+        <author>
+            <name>CISA</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Chinese Hackers Using 42,000 Imposter Domains in Massive Phishing Attack Campaign]]></title>
         <id>tag:blogger.com,1999:blog-4802841478634147276.post-2666734808447613478</id>
