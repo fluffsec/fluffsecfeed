@@ -33,6 +33,16 @@
       "siteUrl": "https://us-cert.cisa.gov/",
       "articles": [
         {
+          "id": "18161 at https://us-cert.cisa.gov",
+          "author": "CISA",
+          "description": "Original release date: November 16, 2022\nCisco has released security updates for vulnerabilities affecting Cisco Identity Services Engine (ISE). A remote attacker could exploit some of these vulnerabilities to bypass authorization and access system files. For updates addressing vulnerabilities, see the Cisco Security Advisories page.   \nCISA encourages users and administrators to review the following advisories and apply the necessary updates:\nCisco Identity Services Engine Insufficient Access Control Vulnerability\nCisco Identity Services Engine Cross-Site Scripting Vulnerability\nThis product is provided subject to this Notification and this Privacy & Use policy.",
+          "link": "https://us-cert.cisa.gov/ncas/current-activity/2022/11/16/cisco-releases-security-updates-identity-services-engine",
+          "publishedOn": "2022-11-16T20:27:39.000Z",
+          "wordCount": 908,
+          "title": "Cisco Releases Security Updates for Identity Services Engine",
+          "imageUrl": null
+        },
+        {
           "id": "18159 at https://us-cert.cisa.gov",
           "author": "CISA",
           "description": "Original release date: November 16, 2022\nThe Samba Team has released security updates to address vulnerabilities in multiple versions of Samba. An attacker could exploit some of these vulnerabilities to take control of an affected system.\nCISA encourages users and administrators to review Samba security announcement CVE-2022-42898 and apply the necessary updates.\nThis product is provided subject to this Notification and this Privacy & Use policy.",
@@ -470,6 +480,76 @@
       "feedUrl": "https://www.darkreading.com/rss.xml",
       "siteUrl": "https://www.darkreading.com",
       "articles": [
+        {
+          "id": "https://www.darkreading.com/endpoint/china-based-billbug-apt-infiltrates-certificate-authority",
+          "author": "Tara Seals, Managing Editor, News, Dark Reading",
+          "description": "Access to digital certificates would allow the Chinese-speaking espionage group to sign its custom malware and skate by security scanners.",
+          "link": "https://www.darkreading.com/endpoint/china-based-billbug-apt-infiltrates-certificate-authority",
+          "publishedOn": "2022-11-16T23:00:00.000Z",
+          "wordCount": 13164,
+          "title": "China-Based Billbug APT Infiltrates Certificate Authority",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltea67136f81f32eca/626a9eb4726e3315b16b3c64/Tara-Seals-Headshot2.jpg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltea67136f81f32eca/626a9eb4726e3315b16b3c64/Tara-Seals-Headshot2.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/risk/mitre-engenuity-launches-evaluations-security-service-providers",
+          "author": "Jai Vijayan, Contributing Writer, Dark Reading",
+          "description": "The results are labor-intensive to parse, so knowing how to interpret them is key, security experts say.",
+          "link": "https://www.darkreading.com/risk/mitre-engenuity-launches-evaluations-security-service-providers",
+          "publishedOn": "2022-11-16T22:55:00.000Z",
+          "wordCount": 14324,
+          "title": "MITRE Engenuity Launches Evaluations for Security Service Providers",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt02d79fb9a44a4258/60b1e9dd2a25046b35110696/Jai-Vijayan.jpeg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt02d79fb9a44a4258/60b1e9dd2a25046b35110696/Jai-Vijayan.jpeg"
+        },
+        {
+          "id": "https://www.darkreading.com/edge-articles/ai-generated-code-is-coming-are-you-ready-",
+          "author": "Frank Catucci, Chief Technology Officer and Head of Security Research, Invicti",
+          "description": "Autocompleted code is convenient and quick, but it may expose your organization to security and compliance risks.",
+          "link": "https://www.darkreading.com/edge-articles/ai-generated-code-is-coming-are-you-ready-",
+          "publishedOn": "2022-11-16T22:00:00.000Z",
+          "wordCount": 14982,
+          "title": "Are We Ready for AI-Generated Code?",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt4d6aa8e6d413fba2/63752e11814c1a2f27bf4071/frank-catucci-sq.jpg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt4d6aa8e6d413fba2/63752e11814c1a2f27bf4071/frank-catucci-sq.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/operations/the-future-of-cybersecurity-recruiting-lessons-on-what-employers-want-and-what-students-need",
+          "author": null,
+          "description": "The cybersecurity industry is facing a challenge to find qualified candidates. Here’s what recruiters, educators, and employers can do to fill the talent gap.",
+          "link": "https://www.darkreading.com/operations/the-future-of-cybersecurity-recruiting-lessons-on-what-employers-want-and-what-students-need",
+          "publishedOn": "2022-11-16T22:00:00.000Z",
+          "wordCount": 13394,
+          "title": "The Future of Cybersecurity Recruiting: Lessons on What Employers Want and What Students Need",
+          "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/application-security/boostsecurity-stealth-saas-devsecops-platform",
+          "author": "Becky Bracken, Editor, Dark Reading",
+          "description": "Fresh startup BoostSecurity has an SaaS platform for developers and security teams that provides automated tools to shore up cybersecurity within the software supply chain.",
+          "link": "https://www.darkreading.com/application-security/boostsecurity-stealth-saas-devsecops-platform",
+          "publishedOn": "2022-11-16T21:10:00.000Z",
+          "wordCount": 11112,
+          "title": "BoostSecurity Emerges From Stealth With SaaS DevSecOps Platform",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt8e7bd143d726930b/627271268681151716941064/BeckyB.jpg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt8e7bd143d726930b/627271268681151716941064/BeckyB.jpg"
+        },
         {
           "id": "https://www.darkreading.com/vulnerabilities-threats/new-ransomware-data-is-in-what-s-happening-and-how-to-fight-back",
           "author": "Srinivas Mukkamala, Chief Product Officer, Ivanti",
@@ -4094,71 +4174,6 @@
             "length": "0"
           },
           "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt464b97c61be51faf/60d444702446e93b5b5a1024/Matt-Middleton-Leal.png"
-        },
-        {
-          "id": "https://www.darkreading.com/attacks-breaches/phishing-mitigation-can-cost-businesses-more-than-1m-annually",
-          "author": "Elizabeth Montalbano, Contributor, Dark Reading",
-          "description": "One of the oldest tactics in cybercrime is still one of the most widely feared — and with good reason, as campaigns are expected to increase and become more sophisticated over the next 12 months.",
-          "link": "https://www.darkreading.com/attacks-breaches/phishing-mitigation-can-cost-businesses-more-than-1m-annually",
-          "publishedOn": "2022-10-18T14:50:07.000Z",
-          "wordCount": 13359,
-          "title": "Phishing Mitigation Can Cost Businesses More Than $1M Annually",
-          "enclosure": {
-            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltbfd004d139d42d70/6303bca6236c2476a257760e/ElizabethMontalbano.jpg",
-            "type": "image/*",
-            "length": "0"
-          },
-          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltbfd004d139d42d70/6303bca6236c2476a257760e/ElizabethMontalbano.jpg"
-        },
-        {
-          "id": "https://www.darkreading.com/application-security/autorabit-accelerates-release-management-processes-with-automation-and-key-integrations",
-          "author": null,
-          "description": "Improving the flow of clean, safe code with heightened visibility and automation.",
-          "link": "https://www.darkreading.com/application-security/autorabit-accelerates-release-management-processes-with-automation-and-key-integrations",
-          "publishedOn": "2022-10-18T14:34:22.000Z",
-          "wordCount": 10058,
-          "title": "AutoRABIT Accelerates Release Management Processes with Automation and Key Integrations",
-          "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
-        },
-        {
-          "id": "https://www.darkreading.com/vulnerabilities-threats/cisa-releases-redeye-analytics-tool-for-red-teams",
-          "author": "Robert Lemos, Contributing Writer, Dark Reading",
-          "description": "The tool helps red teams manage their activities, analyze the data from their campaigns, create reports, and better present results to organizations.",
-          "link": "https://www.darkreading.com/vulnerabilities-threats/cisa-releases-redeye-analytics-tool-for-red-teams",
-          "publishedOn": "2022-10-18T14:10:08.000Z",
-          "wordCount": 12626,
-          "title": "CISA Offers Free RedEye Analytics Tool for Red Teams",
-          "enclosure": {
-            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt58481326324d6911/60b1e9a55d34de550780a990/Robert-Lemos.png",
-            "type": "image/*",
-            "length": "0"
-          },
-          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt58481326324d6911/60b1e9a55d34de550780a990/Robert-Lemos.png"
-        },
-        {
-          "id": "https://www.darkreading.com/vulnerabilities-threats/shared-responsibility-or-shared-fate-decentralized-it-means-we-are-all-cyber-defenders",
-          "author": "Ben Johnson, Co-Founder and CTO, Obsidian Security",
-          "description": "With the IT universe expanding, collaboration, thoughtfulness, and discipline can ensure a more secure future.",
-          "link": "https://www.darkreading.com/vulnerabilities-threats/shared-responsibility-or-shared-fate-decentralized-it-means-we-are-all-cyber-defenders",
-          "publishedOn": "2022-10-18T14:00:00.000Z",
-          "wordCount": 12807,
-          "title": "Shared Responsibility or Shared Fate? Decentralized IT Means We Are All Cyber Defenders",
-          "enclosure": {
-            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltcbba0e27036ce402/6349aebf4e882d0f67f23ba6/Ben-1.jpg",
-            "type": "image/*",
-            "length": "0"
-          },
-          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltcbba0e27036ce402/6349aebf4e882d0f67f23ba6/Ben-1.jpg"
-        },
-        {
-          "id": "https://www.darkreading.com/operations/mastercard-to-bring-crypto-trading-capabilities-to-banks",
-          "author": null,
-          "description": "New Crypto Source program extends Mastercard’s safe, secure, and trusted services.",
-          "link": "https://www.darkreading.com/operations/mastercard-to-bring-crypto-trading-capabilities-to-banks",
-          "publishedOn": "2022-10-18T13:07:21.000Z",
-          "wordCount": 11412,
-          "title": "Mastercard To Bring Crypto Trading Capabilities To Banks",
-          "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
         }
       ]
     },
@@ -4294,6 +4309,26 @@
       "feedUrl": "https://blog.knowbe4.com/rss.xml",
       "siteUrl": "https://blog.knowbe4.com",
       "articles": [
+        {
+          "id": "https://blog.knowbe4.com/fbi-director-says-hes-extremely-concerned-about-chinas-ability-to-weaponize-tiktok",
+          "author": "Stu Sjouwerman",
+          "description": "Suzanne Smalley at Cyberscoop reported: \"FBI Director Christopher Wray told Congress on Tuesday he is “extremely concerned” that Beijing could weaponize data collected through TikTok, the wildly popular app owned by the Chinese company ByteDance.\nWray said during a House Homeland Security Committee hearing on worldwide threats that application programming interfaces, or APIs, that ByteDance embeds in TikTok are a national security concern since Beijing could use them to “control data collection of millions of users or control the recommendation algorithm, which can be used for influence operations.”\nIn his opening remarks, Wray noted that while America faces cyberthreats from a variety of nations, “China’s fast hacking program is the world’s largest, and they have stolen more of Americans’ personal and business data than every other nation combined.”\nWray said the FBI has seen a surge in cybersecurity cases and as the numbers have increased so too has the complexity of the investigations. “We’re investigating over 100 different ransomware variants and each one of those with scores of victims as well as a whole host of other novel threats posed by both cybercriminals and nation-states alike.”\nHe said that APIs in TikTok could be harnessed by China to control software on millions of devices, meaning the Chinese government could conceivably technically compromise Americans’ personal devices.\nBecause Chinese companies are forced to “basically do whatever the Chinese government wants to do in terms of sharing information or serving as a tool of the Chinese government … that’s plenty of reason by itself to be extremely concerned” about TikTok and the larger threat posed by Chinese cyber aggression, he said.\"",
+          "link": "https://blog.knowbe4.com/fbi-director-says-hes-extremely-concerned-about-chinas-ability-to-weaponize-tiktok",
+          "publishedOn": "2022-11-16T20:29:36.000Z",
+          "wordCount": 2083,
+          "title": "FBI director says he's 'extremely concerned' about China's ability to weaponize TikTok",
+          "imageUrl": "https://blog.knowbe4.com/hubfs/tiktok-logo.png#keepProtocol"
+        },
+        {
+          "id": "https://blog.knowbe4.com/scam-of-the-week-phishing-campaign-targets-crypto-users",
+          "author": "Stu Sjouwerman",
+          "description": "Major cryptocurrency company FTX recently filed for bankruptcy, and there's a big phishing campaign on the loose targeting FTX users.",
+          "link": "https://blog.knowbe4.com/scam-of-the-week-phishing-campaign-targets-crypto-users",
+          "publishedOn": "2022-11-16T19:46:22.000Z",
+          "wordCount": 2184,
+          "title": "[SCAM OF THE WEEK] Phishing Campaign Targets Crypto Users",
+          "imageUrl": "https://blog.knowbe4.com/hubfs/Cryptocurrency%20Phishing%20Campaign.jpg#keepProtocol"
+        },
         {
           "id": "https://blog.knowbe4.com/fangxiao-domain-spoofing-for-revenue",
           "author": "Stu Sjouwerman",
@@ -4883,36 +4918,6 @@
           "wordCount": 2054,
           "title": "[HEADS UP] South African Post Office Sends Warning of Targeted Phishing Attacks",
           "imageUrl": "https://blog.knowbe4.com/hubfs/Post%20Office%20Scam.jpg#keepProtocol"
-        },
-        {
-          "id": "https://blog.knowbe4.com/wsj-cybersecurity-tops-the-cio-agenda-as-threats-continue-to-escalate",
-          "author": "Stu Sjouwerman",
-          "description": "Steven Rosenbush at the WSJ reported: \"Chief information officers say cybersecurity once again will be their top investment priority in 2023, a sign of how companies are racing to manage the business risk posed by escalating threats.\"",
-          "link": "https://blog.knowbe4.com/wsj-cybersecurity-tops-the-cio-agenda-as-threats-continue-to-escalate",
-          "publishedOn": "2022-10-18T14:42:39.000Z",
-          "wordCount": 2117,
-          "title": "WSJ: \"Cybersecurity Tops the CIO Agenda as Threats Continue to Escalate\"",
-          "imageUrl": "https://blog.knowbe4.com/hubfs/Budget%20on%20Red%20Button%20Enter%20on%20Black%20Computer%20Keyboard..jpeg#keepProtocol"
-        },
-        {
-          "id": "https://blog.knowbe4.com/name-and-shame-scams-on-discord",
-          "author": "Stu Sjouwerman",
-          "description": "Scammers are sending Discord messages with phony accusations to trick users into clicking on phishing links, according to Shan Abdul at MakeUseOf. The messages are sent from compromised accounts to the accounts’ friends lists, so they appear to be coming from a trusted friend. The messages tell the user that their account has been posting shady things, and asks them to click on a link for proof.",
-          "link": "https://blog.knowbe4.com/name-and-shame-scams-on-discord",
-          "publishedOn": "2022-10-18T14:05:18.000Z",
-          "wordCount": 2169,
-          "title": "Name-and-Shame Scams on Discord",
-          "imageUrl": "https://blog.knowbe4.com/hubfs/Discord%20Scams.jpg#keepProtocol"
-        },
-        {
-          "id": "https://blog.knowbe4.com/cyberheistnews-vol-12-42-heads-up-almost-19-percent-of-phishing-emails-bypass-microsoft-defender",
-          "author": "Stu Sjouwerman",
-          "description": "CyberheistNews Vol 12 #42 [Heads Up] Almost 19% of Phishing Emails Bypass Microsoft Defender",
-          "link": "https://blog.knowbe4.com/cyberheistnews-vol-12-42-heads-up-almost-19-percent-of-phishing-emails-bypass-microsoft-defender",
-          "publishedOn": "2022-10-18T13:30:00.000Z",
-          "wordCount": 5379,
-          "title": "CyberheistNews Vol 12 #42 [Heads Up] Almost 19% of Phishing Emails Bypass Microsoft Defender",
-          "imageUrl": "https://blog.knowbe4.com/hubfs/CHN-Social.jpg#keepProtocol"
         }
       ]
     },
@@ -6227,39 +6232,6 @@
           "publishedOn": "2022-10-19T08:51:00.000Z",
           "wordCount": null,
           "title": "CISA Warns of Critical Flaws Affecting Industrial Appliances from Advantech and Hitachi",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "tag:blogger.com,1999:blog-4802841478634147276.post-6630506694195257683",
-          "author": "noreply@blogger.com (The Hacker News)",
-          "description": "Both cryptocurrency and ransomware are nothing new in the digital world; both have been there for a very long time, which was enough for them to find common pieces for starting their relationship.\nRansomware can be like a virtual car that works on all types of fuels, and crypto is the one that is currently most recommended. No one can argue that 2020 was the year of ransomware in the cyber world",
-          "link": "https://thehackernews.com/2022/10/ryptocurrency-and-ransomware-ultimate.html",
-          "publishedOn": "2022-10-18T12:55:00.000Z",
-          "wordCount": null,
-          "title": "Сryptocurrency and Ransomware — The Ultimate Friendship",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "tag:blogger.com,1999:blog-4802841478634147276.post-7612459485506369124",
-          "author": "noreply@blogger.com (Ravie Lakshmanan)",
-          "description": "The China-aligned espionage-focused actor dubbed Winnti has set its sights on government organizations in Hong Kong as part of an ongoing campaign dubbed Operation CuckooBees.\nActive since at least 2007, Winnti (aka APT41, Barium, Bronze Atlas, and Wicked Panda) is the name designated to a prolific cyber threat group that carries out Chinese state-sponsored espionage activity, predominantly",
-          "link": "https://thehackernews.com/2022/10/chinese-spyder-loader-malware-spotted.html",
-          "publishedOn": "2022-10-18T10:11:00.000Z",
-          "wordCount": null,
-          "title": "Chinese 'Spyder Loader' Malware Spotted Targeting Organizations in Hong Kong",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "tag:blogger.com,1999:blog-4802841478634147276.post-3310668899383933761",
-          "author": "noreply@blogger.com (Ravie Lakshmanan)",
-          "description": "Law enforcement authorities in France, in collaboration with Spain and Latvia, have disrupted a cybercrime ring that leveraged a hacking tool to steal cars without having to use a physical key fob.\n\"The criminals targeted vehicles with keyless entry and start systems, exploiting the technology to get into the car and drive away,\" Europol said in a press statement.\n\nThe coordinated",
-          "link": "https://thehackernews.com/2022/10/european-police-arrest-gang-that-hacked.html",
-          "publishedOn": "2022-10-18T09:47:00.000Z",
-          "wordCount": null,
-          "title": "European Police Arrest a Gang That Hacked Wireless Key Fobs to Steal Cars",
           "itunes": {},
           "imageUrl": null
         }
