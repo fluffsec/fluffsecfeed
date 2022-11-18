@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-11-17T19:18:42.101Z</updated>
+    <updated>2022-11-18T02:54:57.011Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Analysts Welcome NSA's Advice for Developers to Adopt Memory-Safe Languages]]></title>
+        <id>https://www.darkreading.com/edge-articles/untianalysts-welcome-nsa-s-advice-for-developers-to-adopt-memory-safe-languages-tled</id>
+        <link href="https://www.darkreading.com/edge-articles/untianalysts-welcome-nsa-s-advice-for-developers-to-adopt-memory-safe-languages-tled"/>
+        <updated>2022-11-17T23:16:00.000Z</updated>
+        <summary type="html"><![CDATA[Languages such as C and C++ rely too heavily on the programmer not making simple memory-related security errors.]]></summary>
+        <author>
+            <name>Jai Vijayan, Contributing Writer, Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Iranian APT Actors Breach US Government Network]]></title>
+        <id>https://www.darkreading.com/attacks-breaches/iranian-apt-actors-breached-a-us-government-network</id>
+        <link href="https://www.darkreading.com/attacks-breaches/iranian-apt-actors-breached-a-us-government-network"/>
+        <updated>2022-11-17T19:22:32.000Z</updated>
+        <summary type="html"><![CDATA[CISA says Federal Civilian Executive Branch systems were compromised through a Log4Shell vulnerability in an unpatched VMware Horizon server.]]></summary>
+        <author>
+            <name>Dark Reading Staff, Dark Reading</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Phishing Attacks Misuse Microsoft Dynamics 365 Customer Voice Functionality to Hide Malicious Links]]></title>
         <id>https://blog.knowbe4.com/dynamic-365-phishing-attacks-hide-malicious-links</id>
@@ -44,6 +64,36 @@
         <summary type="html"><![CDATA[The latest data shows that historically massive rate increases seen over the last few years are beginning to come down, primarily due to insurers having a solid understanding of the risk.]]></summary>
         <author>
             <name>Stu Sjouwerman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AA22-321A: #StopRansomware: Hive Ransomware]]></title>
+        <id>18160 at https://us-cert.cisa.gov</id>
+        <link href="https://us-cert.cisa.gov/ncas/alerts/aa22-321a"/>
+        <updated>2022-11-17T17:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Original release date: November 17, 2022
+Summary
+Actions to Take Today to Mitigate Cyber Threats from Ransomware:
+known exploited vulnerabilities.
+Note: This joint Cybersecurity Advisory (CSA) is part of an ongoing #StopRansomware effort to publish advisories for network defenders that detail various ransomware variants and ransomware threat actors. These #StopRansomware advisories include recently and historically observed tactics, techniques, and procedures (TTPs) and indicators of compromise (IOCs) to help organizations protect against ransomware. Visit stopransomware.gov to see all #StopRansomware advisories and to learn more about other ransomware threats and no-cost resources.
+The Federal Bureau of Investigation (FBI), the Cybersecurity and Infrastructure Security Agency (CISA), and …]]></summary>
+        <author>
+            <name>CISA</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CISA, NSA, and ODNI Release Guidance for Customers on Securing the Software Supply Chain]]></title>
+        <id>18151 at https://us-cert.cisa.gov</id>
+        <link href="https://us-cert.cisa.gov/ncas/current-activity/2022/11/17/cisa-nsa-and-odni-release-guidance-customers-securing-software"/>
+        <updated>2022-11-17T17:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Original release date: November 17, 2022
+Today, CISA, the National Security Agency (NSA), and the Office of the Director of National Intelligence (ODNI), published the third of a three-part series on securing the software supply chain: Securing Software Supply Chain Series - Recommended Practices Guide for Customers. This publication follows the August 2022 release of guidance for developers and October 2022 release of guidance for suppliers.
+The guidance released today, along with its accompanying fact sheet, provides recommended practices for software customers to ensure the integrity and security of software during the procuring and deployment phases.
+The Securing Software Supply Chain Series is an output of the Enduring Security Framework (ESF), a public-private cross-sector working group led by NSA and CISA. This series complements other U.S. government efforts underway to help the software ecosystem secure the supply chain, such as the software bill of materials (SBOM) community.
+CISA encourages all organizations that participate in the software supply chain to review the guidance. See CISA’s Information and Communications Technology (ICT) Supply Chain Risk Management Task Force, ICT Supply Chain Resource Library, and National Risk Management Center (NRMC) webpages for additional guidance.
+This product is provided subject to this Notification and this Privacy & Use policy.]]></summary>
+        <author>
+            <name>CISA</name>
         </author>
     </entry>
     <entry>
@@ -5570,170 +5620,6 @@ CISA encourages organizations to review the latest update to AA22-228A and apply
 This product is provided subject to this Notification and this Privacy & Use policy.]]></summary>
         <author>
             <name>CISA</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DigiCert Appoints Industry Veteran Amit Sinha as Chief Executive Officer]]></title>
-        <id>https://www.darkreading.com/cloud/digicert-appoints-industry-veteran-amit-sinha-as-chief-executive-officer</id>
-        <link href="https://www.darkreading.com/cloud/digicert-appoints-industry-veteran-amit-sinha-as-chief-executive-officer"/>
-        <updated>2022-10-19T14:51:47.000Z</updated>
-        <summary type="html"><![CDATA[Former Zscaler president to lead DigiCert's next stage of growth as the company accelerates its strategy, expands its product offering, and works to become the de facto standard for digital trust.]]></summary>
-        <author>
-            <name>Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Revelstoke Teams Up With BreachRx, Offering Users Automated Incident Response and Compliance Solutions]]></title>
-        <id>https://www.darkreading.com/risk/revelstoke-teams-up-with-breachrx-offering-users-automated-incident-response-and-compliance-solutions</id>
-        <link href="https://www.darkreading.com/risk/revelstoke-teams-up-with-breachrx-offering-users-automated-incident-response-and-compliance-solutions"/>
-        <updated>2022-10-19T14:35:11.000Z</updated>
-        <summary type="html"><![CDATA[New partnership gives security analysts simplicity when sifting through data, thorough readouts of compliance options, and streamlined response to incidents.]]></summary>
-        <author>
-            <name>Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Investigation Regarding Misconfigured Microsoft Storage Location]]></title>
-        <id>https://msrc-blog.microsoft.com/?p=15027</id>
-        <link href="https://msrc-blog.microsoft.com/2022/10/19/investigation-regarding-misconfigured-microsoft-storage-location-2/"/>
-        <updated>2022-10-19T14:04:00.000Z</updated>
-        <summary type="html"><![CDATA[Summary  Security researchers at SOCRadar informed Microsoft on September 24, 2022, of a misconfigured Microsoft endpoint. This misconfiguration resulted in the potential for unauthenticated access to some business transaction data corresponding to interactions between Microsoft and prospective customers, such as the planning or potential implementation and provisioning of Microsoft services.     Upon being notified of …
-  Investigation Regarding Misconfigured Microsoft Storage Location Read More »]]></summary>
-        <author>
-            <name>msrc</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A New Solution to the Cybersecurity Skills Gap: Building Security into Operational Teams]]></title>
-        <id>https://www.darkreading.com/careers-and-people/a-new-solution-to-the-cybersecurity-skills-gap-building-security-into-operational-teams</id>
-        <link href="https://www.darkreading.com/careers-and-people/a-new-solution-to-the-cybersecurity-skills-gap-building-security-into-operational-teams"/>
-        <updated>2022-10-19T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Why — and how — companies should consider shifting day-to-day security responsibilities out to operations teams. The move would elevate the team's level of decision-making and help address the challenge of finding professionals with security-specific credentials.]]></summary>
-        <author>
-            <name>Shamla Naidoo, Head of Cloud Strategy &amp; Innovation, Netskope</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RCS Secure Catches Its Next Big Wave]]></title>
-        <id>https://www.darkreading.com/operations/rcs-secure-catches-its-next-big-wave</id>
-        <link href="https://www.darkreading.com/operations/rcs-secure-catches-its-next-big-wave"/>
-        <updated>2022-10-19T13:37:54.000Z</updated>
-        <summary type="html"><![CDATA[Cybersecurity company RCS Secure announces round of Series A funding and name change as it rebrands to Third Wave Innovations.]]></summary>
-        <author>
-            <name>Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[China-Linked Cyber-Espionage Team Homes In on Hong Kong Government Orgs]]></title>
-        <id>https://www.darkreading.com/threat-intelligence/china-linked-cyber-espionage-team-homes-in-on-hong-kong-government-orgs</id>
-        <link href="https://www.darkreading.com/threat-intelligence/china-linked-cyber-espionage-team-homes-in-on-hong-kong-government-orgs"/>
-        <updated>2022-10-19T13:31:41.000Z</updated>
-        <summary type="html"><![CDATA[The Winnti APT was spotted dropping several variants of Spyder Loader and other malware as part of the so-called Operation Cuckoobees.]]></summary>
-        <author>
-            <name>Elizabeth Montalbano, Contributor, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Oracle Releases October 2022 Critical Patch Update]]></title>
-        <id>18079 at https://us-cert.cisa.gov</id>
-        <link href="https://us-cert.cisa.gov/ncas/current-activity/2022/10/19/oracle-releases-october-2022-critical-patch-update"/>
-        <updated>2022-10-19T13:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Original release date: October 19, 2022
-Oracle has released its Critical Patch Update for October 2022. This update addresses 366 vulnerabilities across multiple products. A remote attacker could exploit some of these vulnerabilities to take control of an affected system.
-CISA encourages users and administrators to review Oracle’s October 2022 Critical Patch Update and apply the necessary mitigations.
-This product is provided subject to this Notification and this Privacy & Use policy.]]></summary>
-        <author>
-            <name>CISA</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Researchers Detail Azure SFX Flaw That Could've Allowed Attackers to Gain Admin Access]]></title>
-        <id>tag:blogger.com,1999:blog-4802841478634147276.post-5969567543405908531</id>
-        <link href="https://thehackernews.com/2022/10/researchers-detail-azure-sfx-flaw-that.html"/>
-        <updated>2022-10-19T13:18:00.000Z</updated>
-        <summary type="html"><![CDATA[Cybersecurity researchers have shared more details about a now-patched security flaw in Azure Service Fabric Explorer (SFX) that could potentially enable an attacker to gain administrator privileges on the cluster.
-The vulnerability, tracked as CVE-2022-35829, carries a CVSS severity rating of 6.2 and was addressed by Microsoft as part of its Patch Tuesday updates last week.
-
-Orca]]></summary>
-        <author>
-            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GitGuardian Extends Code Security Platform, Adding Infrastructure-as-Code Scanning for Security Misconfigurations]]></title>
-        <id>https://www.darkreading.com/application-security/gitguardian-extends-code-security-platform-adding-infrastructure-as-code-scanning-for-security-misconfigurations</id>
-        <link href="https://www.darkreading.com/application-security/gitguardian-extends-code-security-platform-adding-infrastructure-as-code-scanning-for-security-misconfigurations"/>
-        <updated>2022-10-19T13:15:22.000Z</updated>
-        <summary type="html"><![CDATA[The extension allows cloud security teams to protect their organization's infrastructure at the source and collaborate with developers.]]></summary>
-        <author>
-            <name>Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Awareness and guidance related to potential Service Fabric Explorer (SFX) v1 web client risk]]></title>
-        <id>https://msrc-blog.microsoft.com/?p=14990</id>
-        <link href="https://msrc-blog.microsoft.com/2022/10/19/awareness-and-guidance-related-to-potential-service-fabric-explorer-sfx-v1-web-client-risk/"/>
-        <updated>2022-10-19T13:01:00.000Z</updated>
-        <summary type="html"><![CDATA[Summary Microsoft was recently made aware of a Cross-Site Scripting (XSS) vulnerability (CVE-2022-35829), that under limited circumstances, affects older versions of Service Fabric Explorer (SFX). The current default SFX web client (SFXv2) is not vulnerable to this attack. However, customers can manually switch from the default web client (SFXv2) to an older vulnerable SFX web …
-  Awareness and guidance related to potential Service Fabric Explorer (SFX) v1 web client risk Read More »]]></summary>
-        <author>
-            <name>msrc</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Scary Metaverse - Cybersecurity Risk Implications]]></title>
-        <id>https://blog.knowbe4.com/scary-metaverse</id>
-        <link href="https://blog.knowbe4.com/scary-metaverse"/>
-        <updated>2022-10-19T12:51:27.000Z</updated>
-        <summary type="html"><![CDATA[The Metaverse, while still a concept at the moment, consists of the possibilities that arise when you combine the advances and affordability in extended reality (XR) space with the decentralized nature and composability of Web3, crypto assets, decentralized finance (DeFi) and its underlying blockchain technology.]]></summary>
-        <author>
-            <name>Anna Collard</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chinese Hackers Targeting Online Casinos with GamePlayerFramework Malware]]></title>
-        <id>tag:blogger.com,1999:blog-4802841478634147276.post-3921649514569888824</id>
-        <link href="https://thehackernews.com/2022/10/chinese-hackers-targeting-online.html"/>
-        <updated>2022-10-19T12:33:00.000Z</updated>
-        <summary type="html"><![CDATA[An advanced persistent threat (APT) group of Chinese origin codenamed DiceyF has been linked to a string of attacks aimed at online casinos in Southeast Asia for years.
-Russian cybersecurity company Kaspersky said the activity aligns with another set of intrusions attributed to Earth Berberoka (aka GamblingPuppet) and DRBControl, citing tactical and targeting similarities as well as the abuse of]]></summary>
-        <author>
-            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Quick Guide for Small Cybersecurity Teams Looking to Invest in Cyber Insurance]]></title>
-        <id>tag:blogger.com,1999:blog-4802841478634147276.post-3311854700447469673</id>
-        <link href="https://thehackernews.com/2022/10/a-quick-guide-for-small-cybersecurity.html"/>
-        <updated>2022-10-19T12:30:00.000Z</updated>
-        <summary type="html"><![CDATA[In the world of insurance providers and policies, cyber insurance is a fairly new field. And many security teams are trying to wrap their heads around it. 
-What is it and do they need it? And with what time will they spend researching how to integrate cyber insurance into their strategy? 
-For small security teams, this is particularly challenging as they contend with limited resources.
-Luckily,]]></summary>
-        <author>
-            <name>noreply@blogger.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Experts Warn of Stealthy PowerShell Backdoor Disguising as Windows Update]]></title>
-        <id>tag:blogger.com,1999:blog-4802841478634147276.post-3532090865318642783</id>
-        <link href="https://thehackernews.com/2022/10/experts-warn-of-stealthy-powershell.html"/>
-        <updated>2022-10-19T10:09:00.000Z</updated>
-        <summary type="html"><![CDATA[Details have emerged about a previously undocumented and fully undetectable (FUD) PowerShell backdoor that gains its stealth by disguising itself as part of a Windows update process.
-"The covert self-developed tool and the associated C2 commands seem to be the work of a sophisticated, unknown threat actor who has targeted approximately 100 victims," Tomer Bar, director of security research at]]></summary>
-        <author>
-            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CISA Warns of Critical Flaws Affecting Industrial Appliances from Advantech and Hitachi]]></title>
-        <id>tag:blogger.com,1999:blog-4802841478634147276.post-2089242084456370455</id>
-        <link href="https://thehackernews.com/2022/10/cisa-warns-of-critical-flaws-affecting.html"/>
-        <updated>2022-10-19T08:51:00.000Z</updated>
-        <summary type="html"><![CDATA[The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday released two Industrial Control Systems (ICS) advisories pertaining to severe flaws in Advantech R-SeeNet and Hitachi Energy APM Edge appliances.
-This consists of three weaknesses in the R-SeeNet monitoring solution, successful exploitation of which "could result in an unauthorized attacker remotely deleting files on the]]></summary>
-        <author>
-            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
         </author>
     </entry>
     <entry>
