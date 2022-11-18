@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-11-18T02:54:57.011Z</updated>
+    <updated>2022-11-18T07:21:21.583Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[W4SP Stealer Constantly Targeting Python Developers in Ongoing Supply Chain Attack]]></title>
+        <id>tag:blogger.com,1999:blog-4802841478634147276.post-1531075868245926167</id>
+        <link href="https://thehackernews.com/2022/11/w4sp-stealer-constantly-targeting.html"/>
+        <updated>2022-11-18T05:06:00.000Z</updated>
+        <summary type="html"><![CDATA[An ongoing supply chain attack has been leveraging malicious Python packages to distribute malware called W4SP Stealer, with over hundreds of victims ensnared to date.
+"The threat actor is still active and is releasing more malicious packages," Checkmarx researcher Jossef Harush said in a technical write-up, calling the adversary WASP. "The attack seems related to cybercrime as the attacker]]></summary>
+        <author>
+            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Analysts Welcome NSA's Advice for Developers to Adopt Memory-Safe Languages]]></title>
         <id>https://www.darkreading.com/edge-articles/untianalysts-welcome-nsa-s-advice-for-developers-to-adopt-memory-safe-languages-tled</id>
@@ -5537,89 +5548,6 @@ The Polícia]]></summary>
         <summary type="html"><![CDATA[Increasingly vendors are looking for ways to take security awareness beyond checkbox compliance courses to more context-dependent interactions — a "shift left" to the average worker.]]></summary>
         <author>
             <name>Robert Lemos, Contributing Writer, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Scammers Targeting Those Seeking Student Loan Forgiveness]]></title>
-        <id>https://www.darkreading.com/attacks-breaches/scammers-targeting-those-seeking-student-loan-forgiveness</id>
-        <link href="https://www.darkreading.com/attacks-breaches/scammers-targeting-those-seeking-student-loan-forgiveness"/>
-        <updated>2022-10-19T18:42:00.000Z</updated>
-        <summary type="html"><![CDATA[FBI warns that cybercriminals are stealing personal information by posing as administrators of the Student Loan Debt Relief Plan.]]></summary>
-        <author>
-            <name>Dark Reading Staff, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Phishing Targets US Election Workers]]></title>
-        <id>https://blog.knowbe4.com/phishing-targets-us-election-workers</id>
-        <link href="https://blog.knowbe4.com/phishing-targets-us-election-workers"/>
-        <updated>2022-10-19T18:24:49.000Z</updated>
-        <summary type="html"><![CDATA[Researchers at Trellix warn of phishing attacks targeting election workers in advance of the US midterm elections. These attacks spiked ahead of the primary elections in Arizona and Pennsylvania earlier this year, and the researchers expect this trend to continue into the November elections.]]></summary>
-        <author>
-            <name>Stu Sjouwerman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Apache Commons Vulnerability: Patch but Don't Panic]]></title>
-        <id>https://www.darkreading.com/application-security/apache-commons-vulnerability-patch-but-dont-panic</id>
-        <link href="https://www.darkreading.com/application-security/apache-commons-vulnerability-patch-but-dont-panic"/>
-        <updated>2022-10-19T17:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Experts say CVE-2022-42899 is a serious vulnerability, but widespread exploitation is unlikely because of the specific conditions that need to exist for it to happen.]]></summary>
-        <author>
-            <name>Jai Vijayan, Contributing Writer, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SBOMs: An Overhyped Concept That Won't Secure Your Software Supply Chain]]></title>
-        <id>https://www.darkreading.com/cloud/sboms-an-overhyped-concept-that-won-t-secure-your-software-supply-chain-</id>
-        <link href="https://www.darkreading.com/cloud/sboms-an-overhyped-concept-that-won-t-secure-your-software-supply-chain-"/>
-        <updated>2022-10-19T17:00:00.000Z</updated>
-        <summary type="html"><![CDATA[We need more than the incomplete snapshot SBOMs provide to have real impact.]]></summary>
-        <author>
-            <name>Peter Morgan, President &amp; Co-Founder, Phylum</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Zscaler Advances Enterprise Data Security With Zero-Configuration Data Protection]]></title>
-        <id>https://www.darkreading.com/cloud/zscaler-advances-enterprise-data-security-with-zero-configuration-data-protection</id>
-        <link href="https://www.darkreading.com/cloud/zscaler-advances-enterprise-data-security-with-zero-configuration-data-protection"/>
-        <updated>2022-10-19T16:16:21.000Z</updated>
-        <summary type="html"><![CDATA[New data-protection innovations mitigate security risks by expediting deployment cycles and simplifying operational complexity.]]></summary>
-        <author>
-            <name>Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kaspersky Launches New VPN to Amplify Speed and Convenience]]></title>
-        <id>https://www.darkreading.com/cloud/kaspersky-launches-new-vpn-to-amplify-speed-and-convenience</id>
-        <link href="https://www.darkreading.com/cloud/kaspersky-launches-new-vpn-to-amplify-speed-and-convenience"/>
-        <updated>2022-10-19T15:42:15.000Z</updated>
-        <summary type="html"><![CDATA[New version boosts VPN tunnel performance and lets users prioritize secure connection traffic for certain services.]]></summary>
-        <author>
-            <name>Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GroupSense Delivers New Ransomware Negotiation Training Service]]></title>
-        <id>https://www.darkreading.com/attacks-breaches/groupsense-delivers-new-ransomware-negotiation-training-service</id>
-        <link href="https://www.darkreading.com/attacks-breaches/groupsense-delivers-new-ransomware-negotiation-training-service"/>
-        <updated>2022-10-19T15:20:05.000Z</updated>
-        <summary type="html"><![CDATA[Training service prepares ransomware response teams for successful threat actor engagement to mitigate damage, protect brand reputation, anticipate emerging threats, and more.]]></summary>
-        <author>
-            <name>Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CISA Updates Advisory on Threat Actors Exploiting Multiple CVEs Against Zimbra Collaboration Suite]]></title>
-        <id>18080 at https://us-cert.cisa.gov</id>
-        <link href="https://us-cert.cisa.gov/ncas/current-activity/2022/10/19/cisa-updates-advisory-threat-actors-exploiting-multiple-cves"/>
-        <updated>2022-10-19T14:58:00.000Z</updated>
-        <summary type="html"><![CDATA[Original release date: October 19, 2022
-CISA and the Multi-State Information Sharing & Analysis Center (MS-ISAC) have updated joint Cybersecurity Advisory AA22-228A: Threat Actors Exploiting Multiple CVEs Against Zimbra Collaboration Suite, originally released August 16, 2022. The advisory has been updated to reference the addition of a new Malware Analysis Report, MAR-10398871.r1.v2.
-CISA encourages organizations to review the latest update to AA22-228A and apply the recommended mitigations.
-This product is provided subject to this Notification and this Privacy & Use policy.]]></summary>
-        <author>
-            <name>CISA</name>
         </author>
     </entry>
     <entry>
