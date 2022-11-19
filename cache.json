@@ -411,36 +411,6 @@
           "wordCount": 1023,
           "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
           "imageUrl": null
-        },
-        {
-          "id": "18083 at https://us-cert.cisa.gov",
-          "author": "CISA",
-          "description": "Original release date: October 20, 2022\nCISA has released three (3) Industrial Control Systems (ICS) advisories on October 20, 2022. These advisories provide timely information about current security issues, vulnerabilities, and exploits surrounding ICS.\nCISA encourages users and administrators to review the newly released ICS advisories for technical details and mitigations:\n•    ICSA-22-293-01 Bentley Systems MicroStation Connect\nB Braun Infusomat Space Large Volume Pump (Update A)\nB. Braun SpaceCom Battery Pack SP with Wi-Fi and Data module compactplus (Update A)\nThis product is provided subject to this Notification and this Privacy & Use policy.",
-          "link": "https://us-cert.cisa.gov/ncas/current-activity/2022/10/20/cisa-releases-three-industrial-control-systems-advisories",
-          "publishedOn": "2022-10-20T13:34:49.000Z",
-          "wordCount": 923,
-          "title": "CISA Releases Three Industrial Control Systems Advisories",
-          "imageUrl": null
-        },
-        {
-          "id": "18081 at https://us-cert.cisa.gov",
-          "author": "CISA",
-          "description": "Original release date: October 20, 2022\nMozilla has released security updates to address vulnerabilities in Firefox ESR and Firefox. An attacker could exploit these vulnerabilities to cause denial-of-service conditions.\nCISA encourages users and administrators to review Mozilla’s security advisories for Firefox ESR 102.4 and Firefox 106 for mitigations and updates.\nThis product is provided subject to this Notification and this Privacy & Use policy.",
-          "link": "https://us-cert.cisa.gov/ncas/current-activity/2022/10/20/mozilla-releases-security-updates-firefox",
-          "publishedOn": "2022-10-20T13:30:00.000Z",
-          "wordCount": 886,
-          "title": "Mozilla Releases Security Updates for Firefox",
-          "imageUrl": null
-        },
-        {
-          "id": "18082 at https://us-cert.cisa.gov",
-          "author": "CISA",
-          "description": "Original release date: October 20, 2022\nCISA has issued requests for comment (RFCs) on eight Microsoft 365 security configuration baselines as part of the Secure Cloud Business Application (SCuBA) project to secure federal civilian executive branch agencies’ (FCEB) cloud environments. The baselines:\nFederal Chief Information Officers Council’s Cyber Innovation Tiger Team (CITT).\nVisit CISA.gov/SCuBA and CISA's SCuBA GitHub page for more information and to review the baselines. The RFC period is open until Nov. 24, 2022. CISA is specifically requesting insight on the feasibility, clarity, and usefulness of the baselines. Comments should be submitted to: QSMO@CISA.dhs.gov.\nThis product is provided subject to this Notification and this Privacy & Use policy.",
-          "link": "https://us-cert.cisa.gov/ncas/current-activity/2022/10/20/cisa-requests-comment-microsoft-365-security-configuration",
-          "publishedOn": "2022-10-20T12:33:09.000Z",
-          "wordCount": 990,
-          "title": "CISA Requests for Comment on Microsoft 365 Security Configuration Baselines",
-          "imageUrl": null
         }
       ]
     },
@@ -510,6 +480,51 @@
       "feedUrl": "https://www.darkreading.com/rss.xml",
       "siteUrl": "https://www.darkreading.com",
       "articles": [
+        {
+          "id": "https://www.darkreading.com/endpoint/dev-0569-ransomware-group-remarkably-innovative-microsoft-cautions",
+          "author": "Becky Bracken, Editor, Dark Reading",
+          "description": "Although the group relies on good old phishing to deliver Royal ransomware, researchers say DEV-0569 regularly uses new and creative discovery techniques to lure victims.",
+          "link": "https://www.darkreading.com/endpoint/dev-0569-ransomware-group-remarkably-innovative-microsoft-cautions",
+          "publishedOn": "2022-11-18T21:29:00.000Z",
+          "wordCount": 12130,
+          "title": "DEV-0569 Ransomware Group Remarkably Innovative, Microsoft Cautions",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt8e7bd143d726930b/627271268681151716941064/BeckyB.jpg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt8e7bd143d726930b/627271268681151716941064/BeckyB.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/attacks-breaches/australia-hack-back-plan-against-cyberattackers-familiar-concerns",
+          "author": "Jai Vijayan, Contributing Writer, Dark Reading",
+          "description": "How far can its government — or any government or private company — go to proactively disrupt cyber threats without causing collateral damage?",
+          "link": "https://www.darkreading.com/attacks-breaches/australia-hack-back-plan-against-cyberattackers-familiar-concerns",
+          "publishedOn": "2022-11-18T20:59:00.000Z",
+          "wordCount": 14908,
+          "title": "Australia's Hack-Back Plan Against Cyberattackers Raises Familiar Concerns",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt02d79fb9a44a4258/60b1e9dd2a25046b35110696/Jai-Vijayan.jpeg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt02d79fb9a44a4258/60b1e9dd2a25046b35110696/Jai-Vijayan.jpeg"
+        },
+        {
+          "id": "https://www.darkreading.com/edge-articles/amid-notpetya-fallout-cyber-insurers-define-state-sponsored-attacks-as-act-of-war",
+          "author": "Stephen Lawton, Contributing Writer",
+          "description": "As carriers rewrite their act-of-war exclusions following the NotPetya settlement between Mondelez and Zurich, organizations should read their cyber insurance policies carefully to see what is still covered.",
+          "link": "https://www.darkreading.com/edge-articles/amid-notpetya-fallout-cyber-insurers-define-state-sponsored-attacks-as-act-of-war",
+          "publishedOn": "2022-11-18T19:45:00.000Z",
+          "wordCount": 14105,
+          "title": "Amid Legal Fallout, Cyber Insurers Redefine State-Sponsored Attacks as Act of War",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltd3941643ea87865b/628d1dcaef83f961a70e4205/stephen-lawton.png",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltd3941643ea87865b/628d1dcaef83f961a70e4205/stephen-lawton.png"
+        },
         {
           "id": "https://www.darkreading.com/application-security/palo-alto-networks-secure-coding-cider-security-195m-deal",
           "author": "Dark Reading Staff, Dark Reading",
@@ -3984,136 +3999,6 @@
           "wordCount": 10957,
           "title": "Banco Santander and Forgepoint Capital Announce Strategic Alliance to Advance Cybersecurity Investment and Innovation Globally",
           "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
-        },
-        {
-          "id": "https://www.darkreading.com/privacy/anonos-secures-50-million-in-ip-backed-financing-to-deliver-data-privacy-technology-with-100-accuracy-and-utility-to-data-driven-enterprises",
-          "author": null,
-          "description": "Global data privacy software innovator will use growth funding, led by GT Investment Partners and facilitated by Aon, to fuel customer success and expand global partnerships, sales, marketing, and industry education.",
-          "link": "https://www.darkreading.com/privacy/anonos-secures-50-million-in-ip-backed-financing-to-deliver-data-privacy-technology-with-100-accuracy-and-utility-to-data-driven-enterprises",
-          "publishedOn": "2022-10-20T14:42:14.000Z",
-          "wordCount": 13967,
-          "title": "Anonos Secures $50 Million in IP-Backed Financing to Deliver Data Privacy Technology with 100% Accuracy and Utility to Data-Driven Enterprises",
-          "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
-        },
-        {
-          "id": "https://www.darkreading.com/cloud/datadog-launches-cloud-security-management-to-provide-cloud-native-application-protection",
-          "author": null,
-          "description": "Product brings together workload and infrastructure security into a single platform to provide a unified approach to protecting cloud environments.",
-          "link": "https://www.darkreading.com/cloud/datadog-launches-cloud-security-management-to-provide-cloud-native-application-protection",
-          "publishedOn": "2022-10-20T14:36:13.000Z",
-          "wordCount": 12720,
-          "title": "Datadog Launches Cloud Security Management to Provide Cloud Native Application Protection",
-          "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
-        },
-        {
-          "id": "https://www.darkreading.com/perimeter/corsa-security-drives-forward-with-additional-10-million-funding",
-          "author": null,
-          "description": "Latest investment to broaden integrations with top firewall vendors.",
-          "link": "https://www.darkreading.com/perimeter/corsa-security-drives-forward-with-additional-10-million-funding",
-          "publishedOn": "2022-10-20T14:32:07.000Z",
-          "wordCount": 10970,
-          "title": "Corsa Security Drives Forward with Additional $10 Million Funding",
-          "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
-        },
-        {
-          "id": "https://www.darkreading.com/cloud/only-4-of-security-and-it-leaders-believe-all-of-their-cloud-data-is-sufficiently-secured",
-          "author": null,
-          "description": "New cloud data survey from the Cloud Security Alliance and BigID sheds light on the state of cloud data security in 2022.",
-          "link": "https://www.darkreading.com/cloud/only-4-of-security-and-it-leaders-believe-all-of-their-cloud-data-is-sufficiently-secured",
-          "publishedOn": "2022-10-20T14:27:07.000Z",
-          "wordCount": 11661,
-          "title": "Only 4% of Security and IT Leaders Believe All of Their Cloud Data is Sufficiently Secured",
-          "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
-        },
-        {
-          "id": "https://www.darkreading.com/threat-intelligence/cycognito-launches-next-generation-of-exploit-intelligence-threat-remediation-platform",
-          "author": null,
-          "description": "External attack surface management leader unveils evolution of risk intelligence solution, including a virtual sandbox environment to safely validate steps to remediation.",
-          "link": "https://www.darkreading.com/threat-intelligence/cycognito-launches-next-generation-of-exploit-intelligence-threat-remediation-platform",
-          "publishedOn": "2022-10-20T14:23:58.000Z",
-          "wordCount": 11661,
-          "title": "CyCognito Launches Next Generation of Exploit Intelligence Threat Remediation Platform",
-          "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
-        },
-        {
-          "id": "https://www.darkreading.com/perimeter/synsaber-adds-new-dynamic-pipeline-to-ot-cybersecurity-platform",
-          "author": null,
-          "description": "ICS/OT cybersecurity and asset monitoring vendor improves scalability and flexibility with new update.",
-          "link": "https://www.darkreading.com/perimeter/synsaber-adds-new-dynamic-pipeline-to-ot-cybersecurity-platform",
-          "publishedOn": "2022-10-20T14:18:10.000Z",
-          "wordCount": 11143,
-          "title": "SynSaber Adds New Dynamic Pipeline to OT Cybersecurity Platform",
-          "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
-        },
-        {
-          "id": "https://www.darkreading.com/operations/new-torii-report-finds-60-of-it-leaders-don-t-know-what-apps-they-have",
-          "author": null,
-          "description": "Surprisingly poor cross-team collaboration leads to mismanaged SaaS, wasted money and time.",
-          "link": "https://www.darkreading.com/operations/new-torii-report-finds-60-of-it-leaders-don-t-know-what-apps-they-have",
-          "publishedOn": "2022-10-20T14:13:59.000Z",
-          "wordCount": 11971,
-          "title": "New Torii Report Finds 60% of IT Leaders Don’t Know What Apps They Have",
-          "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
-        },
-        {
-          "id": "https://www.darkreading.com/endpoint/hp-launches-sure-access-enterprise-to-protect-high-value-data-and-systems",
-          "author": null,
-          "description": "HP enhances HP Wolf Security portfolio to stop attackers hijacking privileged access to sensitive data.",
-          "link": "https://www.darkreading.com/endpoint/hp-launches-sure-access-enterprise-to-protect-high-value-data-and-systems",
-          "publishedOn": "2022-10-20T14:03:16.000Z",
-          "wordCount": 12272,
-          "title": "HP Launches Sure Access Enterprise to Protect High Value Data and Systems",
-          "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
-        },
-        {
-          "id": "https://www.darkreading.com/risk/are-you-a-ciso-building-your-risk-register-for-2023-read-this-first",
-          "author": "Chaim Mazal, Senior VP of Technology and CISO, Kandji",
-          "description": "Achieving basic IT hygiene is 99% of the game.",
-          "link": "https://www.darkreading.com/risk/are-you-a-ciso-building-your-risk-register-for-2023-read-this-first",
-          "publishedOn": "2022-10-20T14:00:00.000Z",
-          "wordCount": 13163,
-          "title": "Are You a CISO Building Your Risk Register for 2023? Read This First",
-          "enclosure": {
-            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltd3209a385d0fd6cf/6206aef08cccbd493a5c66d5/Chaim_Mazal.jpeg",
-            "type": "image/*",
-            "length": "0"
-          },
-          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltd3209a385d0fd6cf/6206aef08cccbd493a5c66d5/Chaim_Mazal.jpeg"
-        },
-        {
-          "id": "https://www.darkreading.com/cloud/security-testing-improves-headaches-compliance",
-          "author": null,
-          "description": "Compliance activities are often viewed as frustrating but necessary. That's an understandable view as teams often have to apply a set standard to existing systems and figure out how to collect enough evidence to answer an audit.",
-          "link": "https://www.darkreading.com/cloud/security-testing-improves-headaches-compliance",
-          "publishedOn": "2022-10-20T14:00:00.000Z",
-          "wordCount": 13009,
-          "title": "Security Testing Improves Headaches & Compliance",
-          "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
-        },
-        {
-          "id": "https://www.darkreading.com/threat-intelligence/bolster-deepens-platform-with-dark-web-threat-intelligence-and-24-7-support",
-          "author": null,
-          "description": "Bolster delivers intelligence and remediation across web, social media, app stores, and Dark Web, with 24/7, live SOC support.",
-          "link": "https://www.darkreading.com/threat-intelligence/bolster-deepens-platform-with-dark-web-threat-intelligence-and-24-7-support",
-          "publishedOn": "2022-10-20T13:37:48.000Z",
-          "wordCount": 11733,
-          "title": "Bolster Deepens Platform with Dark Web Threat Intelligence and 24/7 Support",
-          "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
-        },
-        {
-          "id": "https://www.darkreading.com/cloud/8-trends-driving-cybersecurity-in-the-public-sector",
-          "author": "Ericka Chickowski, Contributing Writer, Dark Reading",
-          "description": "CISOs and security leaders in state and local governments are dealing with increasing threats like ransomware — with varying degrees of cyber maturity.",
-          "link": "https://www.darkreading.com/cloud/8-trends-driving-cybersecurity-in-the-public-sector",
-          "publishedOn": "2022-10-20T13:28:30.000Z",
-          "wordCount": 11567,
-          "title": "8 Trends Driving Cybersecurity in the Public Sector",
-          "enclosure": {
-            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt1fa01ab14787f501/60b1e9a77f791568be5e0dbb/ErickaChick_125x125.jpeg",
-            "type": "image/*",
-            "length": "0"
-          },
-          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt1fa01ab14787f501/60b1e9a77f791568be5e0dbb/ErickaChick_125x125.jpeg"
         }
       ]
     },
@@ -4838,26 +4723,6 @@
           "wordCount": 2043,
           "title": "New Credential Harvesting Scam Impersonates Google Translate to Trick Victims",
           "imageUrl": "https://blog.knowbe4.com/hubfs/Google%20Translate%20Scam.jpg#keepProtocol"
-        },
-        {
-          "id": "https://blog.knowbe4.com/successful-compliance-training-program-tips-infographic",
-          "author": "Stu Sjouwerman",
-          "description": "Compliance training is often seen as a chore that organizations need to just get through. That said, compliance cannot simply be ignored. A recent report from software firm GlobalScape found that organizations lose an average of $4 million in revenue due to just one non-compliance event. Yikes! \n \r\nIn our 2022 State of Employee Compliance Training report, we compiled the top challenges faced by compliance training managers. Nearly half of survey respondents ranked completion percentage and employee engagement as their #1 challenge. Following closely behind was the need to stay current with local and/or industry regulations. Other roadblocks to a successful program include limited resources, unengaging content, cost, getting executive support, and reporting.\n \r\nKnowBe4’s SVP of Learning Innovation, John Just, spearheads the training content strategy and development for KnowBe4. Based on his years of experience in the learning and training industry, we asked for his top 10 tips to run a successful compliance training program in your organization. Check out this infographic, which contains his top 10 suggestions:",
-          "link": "https://blog.knowbe4.com/successful-compliance-training-program-tips-infographic",
-          "publishedOn": "2022-10-20T13:46:34.000Z",
-          "wordCount": 2458,
-          "title": "[INFOGRAPHIC] 10 Tips for Running a Successful Compliance Training Program",
-          "imageUrl": "https://blog.knowbe4.com/hubfs/Top10-Compliance+-SM.jpg#keepProtocol"
-        },
-        {
-          "id": "https://blog.knowbe4.com/phishing-attempts-to-steal-social-security-numbers",
-          "author": "Stu Sjouwerman",
-          "description": "A phishing campaign is impersonating the US Social Security Administration (SSA) in an attempt to steal Social Security numbers, according to researchers at INKY.",
-          "link": "https://blog.knowbe4.com/phishing-attempts-to-steal-social-security-numbers",
-          "publishedOn": "2022-10-20T12:54:27.000Z",
-          "wordCount": 2192,
-          "title": "New Phishing Attack Attempts to Steal Social Security Numbers",
-          "imageUrl": "https://blog.knowbe4.com/hubfs/Social%20Security%20Phishing.jpg#keepProtocol"
         }
       ]
     },
@@ -6183,50 +6048,6 @@
           "publishedOn": "2022-10-20T16:31:00.000Z",
           "wordCount": null,
           "title": "OldGremlin Ransomware Targeted Over a Dozen Russian Entities in Multi-Million Scheme",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "tag:blogger.com,1999:blog-4802841478634147276.post-5476669691487369226",
-          "author": "noreply@blogger.com (Ravie Lakshmanan)",
-          "description": "The Iranian threat actor known as Domestic Kitten has been attributed to a new mobile campaign that masquerades as a translation app to distribute an updated variant of an Android malware known as FurBall.\n\"Since June 2021, it has been distributed as a translation app via a copycat of an Iranian website that provides translated articles, journals, and books,\" ESET researcher Lukas Stefanko said",
-          "link": "https://thehackernews.com/2022/10/hackers-using-new-version-of-furball.html",
-          "publishedOn": "2022-10-20T11:33:00.000Z",
-          "wordCount": null,
-          "title": "Hackers Using New Version of FurBall Android Malware to Spy on Iranian Citizens",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "tag:blogger.com,1999:blog-4802841478634147276.post-555392092337679595",
-          "author": "noreply@blogger.com (The Hacker News)",
-          "description": "When creating a Sandbox, the mindset tends to be that the Sandbox is considered a place to play around, test things, and there will be no effect on the production or operational system. Therefore, people don't actively think they need to worry about its security. This mindset is not only wrong, but extremely dangerous. \nWhen it comes to software developers, their version of sandbox is similar to",
-          "link": "https://thehackernews.com/2022/10/not-all-sandboxes-are-for-children-how.html",
-          "publishedOn": "2022-10-20T11:20:00.000Z",
-          "wordCount": null,
-          "title": "Not All Sandboxes Are for Children: How to Secure Your SaaS Sandbox",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "tag:blogger.com,1999:blog-4802841478634147276.post-4719064657178500172",
-          "author": "noreply@blogger.com (Ravie Lakshmanan)",
-          "description": "As many as 16 malicious apps with over 20 million cumulative downloads have been taken down from the Google Play Store after they were caught committing mobile ad fraud.\nThe Clicker malware masqueraded as seemingly harmless utilities like cameras, currency/unit converters, QR code readers, note-taking apps, and dictionaries, among others, in a bid to trick users into downloading them,",
-          "link": "https://thehackernews.com/2022/10/these-16-clicker-malware-infected.html",
-          "publishedOn": "2022-10-20T09:04:00.000Z",
-          "wordCount": null,
-          "title": "These 16 Clicker Malware Infected Android Apps Were Downloaded Over 20 Million Times",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "tag:blogger.com,1999:blog-4802841478634147276.post-3584975537664890556",
-          "author": "noreply@blogger.com (Ravie Lakshmanan)",
-          "description": "The Ursnif malware has become the latest malware to shed its roots as a banking trojan to revamp itself into a generic backdoor capable of delivering next-stage payloads, joining the likes of Emotet, Qakbot, and TrickBot.\n\"This is a significant shift from the malware's original purpose to enable banking fraud, but is consistent with the broader threat landscape,\" Mandiant researchers Sandor",
-          "link": "https://thehackernews.com/2022/10/latest-ursnif-variant-shifts-focus-from.html",
-          "publishedOn": "2022-10-20T08:39:00.000Z",
-          "wordCount": null,
-          "title": "New Ursnif Variant Likely Shifting Focus to Ransomware and Data Theft",
           "itunes": {},
           "imageUrl": null
         }
