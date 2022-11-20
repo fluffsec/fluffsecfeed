@@ -381,16 +381,6 @@
           "wordCount": 937,
           "title": "#StopRansomware: Daixin Team",
           "imageUrl": null
-        },
-        {
-          "id": "18088 at https://us-cert.cisa.gov",
-          "author": "CISA",
-          "description": "Original release date: October 21, 2022\nCisco has released a security update to address vulnerabilities affecting Cisco Identity Services Engine (ISE). A remote attacker could exploit some of these vulnerabilities to take control of an affected system. For updates addressing high and low severity vulnerabilities, see the Cisco Security Advisories page. \nCISA encourages users and administrators to review Cisco Advisory cisco-sa-ise-path-trav-Dz5dpzyM and apply the necessary updates.\nThis product is provided subject to this Notification and this Privacy & Use policy.",
-          "link": "https://us-cert.cisa.gov/ncas/current-activity/2022/10/21/cisco-releases-security-update-cisco-identity-services-engine",
-          "publishedOn": "2022-10-21T15:22:33.000Z",
-          "wordCount": 911,
-          "title": "Cisco Releases Security Update for Cisco Identity Services Engine",
-          "imageUrl": null
         }
       ]
     },
@@ -3779,76 +3769,6 @@
             "length": "0"
           },
           "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt88c0ce1b9ac54b6e/6197abd85da8f858d58cdb06/Michael_Bargury_zenity.jpg"
-        },
-        {
-          "id": "https://www.darkreading.com/threat-intelligence/fbi-iranian-threat-group-likely-to-target-us-midterms",
-          "author": "Dark Reading Staff, Dark Reading",
-          "description": "Similar to what happened around the 2020 election, FBI warns that the Emennet Pasargad group is poised to target officials and companies with embarrassing hack-and-leak campaigns.",
-          "link": "https://www.darkreading.com/threat-intelligence/fbi-iranian-threat-group-likely-to-target-us-midterms",
-          "publishedOn": "2022-10-21T18:40:00.000Z",
-          "wordCount": 10317,
-          "title": "FBI: Iranian Threat Group Likely to Target US Midterms",
-          "enclosure": {
-            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blte161b23f0fd3a84b/60b1ea374e7eb868c4c6a293/dr_staff_125x125.jpg",
-            "type": "image/*",
-            "length": "0"
-          },
-          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blte161b23f0fd3a84b/60b1ea374e7eb868c4c6a293/dr_staff_125x125.jpg"
-        },
-        {
-          "id": "https://www.darkreading.com/application-security/googles-guac-project-aims-to-democratize-software-supply-chain-security-metadata",
-          "author": "Jai Vijayan, Contributing Writer, Dark Reading",
-          "description": "Software makers and customers will be able to query graph database for information about the security and provenance of components in applications and codebases.",
-          "link": "https://www.darkreading.com/application-security/googles-guac-project-aims-to-democratize-software-supply-chain-security-metadata",
-          "publishedOn": "2022-10-21T18:15:00.000Z",
-          "wordCount": 13569,
-          "title": "Google's GUAC Aims to Democratize Software Supply Chain Security Metadata",
-          "enclosure": {
-            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt02d79fb9a44a4258/60b1e9dd2a25046b35110696/Jai-Vijayan.jpeg",
-            "type": "image/*",
-            "length": "0"
-          },
-          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt02d79fb9a44a4258/60b1e9dd2a25046b35110696/Jai-Vijayan.jpeg"
-        },
-        {
-          "id": "https://www.darkreading.com/attacks-breaches/exploit-attempts-are-under-way-for-apache-commons-text4shell-vulnerability",
-          "author": "Dark Reading Staff, Dark Reading",
-          "description": "The good news: The Apache Commons Text library bug is far less likely to lead to exploitation than last year's Log4j library flaw.",
-          "link": "https://www.darkreading.com/attacks-breaches/exploit-attempts-are-under-way-for-apache-commons-text4shell-vulnerability",
-          "publishedOn": "2022-10-21T17:31:09.000Z",
-          "wordCount": 10202,
-          "title": "Exploit Attempts Underway for Apache Commons Text4Shell Vulnerability",
-          "enclosure": {
-            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blte161b23f0fd3a84b/60b1ea374e7eb868c4c6a293/dr_staff_125x125.jpg",
-            "type": "image/*",
-            "length": "0"
-          },
-          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blte161b23f0fd3a84b/60b1ea374e7eb868c4c6a293/dr_staff_125x125.jpg"
-        },
-        {
-          "id": "https://www.darkreading.com/dr-tech/google-and-microsoft-passkeys-preview-the-passwordless-future",
-          "author": "Jeffrey Schwartz, Contributing Writer, Dark Reading",
-          "description": "At the Authenticate Conference, Google and Microsoft demonstrated their passkey prototypes. Apple, meanwhile, already launched its version in iOS 16.",
-          "link": "https://www.darkreading.com/dr-tech/google-and-microsoft-passkeys-preview-the-passwordless-future",
-          "publishedOn": "2022-10-21T16:27:32.000Z",
-          "wordCount": 13568,
-          "title": "Passkey Demos Hint at What's Ahead for Passwordless Authentication",
-          "enclosure": {
-            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blta28fcad87ff558b7/627c0108726e3315b16b464c/Jeff_Schwartz_headshot-sq.png",
-            "type": "image/*",
-            "length": "0"
-          },
-          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blta28fcad87ff558b7/627c0108726e3315b16b464c/Jeff_Schwartz_headshot-sq.png"
-        },
-        {
-          "id": "https://www.darkreading.com/careers-and-people/katzcy-teams-up-with-nist-on-cybersecurity-games",
-          "author": null,
-          "description": ".",
-          "link": "https://www.darkreading.com/careers-and-people/katzcy-teams-up-with-nist-on-cybersecurity-games",
-          "publishedOn": "2022-10-21T16:01:09.000Z",
-          "wordCount": 11277,
-          "title": "Katzcy Teams up with NIST on Cybersecurity Games",
-          "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
         }
       ]
     },
@@ -4543,26 +4463,6 @@
           "wordCount": 2146,
           "title": "Phishing for Student Email Accounts",
           "imageUrl": "https://blog.knowbe4.com/hubfs/Phishing%20Student.jpg#keepProtocol"
-        },
-        {
-          "id": "https://blog.knowbe4.com/bazarcall-expands-callback-phishing-campaigns-to-include-more-support-sites-and-malicious-tactics",
-          "author": "Stu Sjouwerman",
-          "description": "The king of callback phishing campaigns has evolved their methods to include better phishing emails, phone call scams, and final payloads to ensure they achieve their malicious goals.",
-          "link": "https://blog.knowbe4.com/bazarcall-expands-callback-phishing-campaigns-to-include-more-support-sites-and-malicious-tactics",
-          "publishedOn": "2022-10-21T17:59:44.000Z",
-          "wordCount": 2153,
-          "title": "BazarCall Expands Callback Phishing Campaigns to Include More Support Sites and Malicious Tactics",
-          "imageUrl": "https://blog.knowbe4.com/hubfs/Callback%20Phishing%20Campaigns.jpg#keepProtocol"
-        },
-        {
-          "id": "https://blog.knowbe4.com/new-credential-harvesting-scam-impersonates-google-translate-to-trick-victims",
-          "author": "Stu Sjouwerman",
-          "description": "In an interesting twist, this latest scam identified by security researchers at Avanan attempts to establish legitimacy by making the victim think the logon page is being translated.",
-          "link": "https://blog.knowbe4.com/new-credential-harvesting-scam-impersonates-google-translate-to-trick-victims",
-          "publishedOn": "2022-10-21T17:59:35.000Z",
-          "wordCount": 2043,
-          "title": "New Credential Harvesting Scam Impersonates Google Translate to Trick Victims",
-          "imageUrl": "https://blog.knowbe4.com/hubfs/Google%20Translate%20Scam.jpg#keepProtocol"
         }
       ]
     },
@@ -5855,17 +5755,6 @@
           "publishedOn": "2022-10-22T05:42:00.000Z",
           "wordCount": null,
           "title": "Critical Flaw Reported in Move Virtual Machine Powering the Aptos Blockchain Network",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "tag:blogger.com,1999:blog-4802841478634147276.post-5181570083629964674",
-          "author": "noreply@blogger.com (Ravie Lakshmanan)",
-          "description": "The notorious Emotet botnet has been linked to a new wave of malspam campaigns that take advantage of password-protected archive files to drop CoinMiner and Quasar RAT on compromised systems.\nIn an attack chain detected by Trustwave SpiderLabs researchers, an invoice-themed ZIP file lure was found to contain a nested self-extracting (SFX) archive, the first archive acting as a conduit to launch",
-          "link": "https://thehackernews.com/2022/10/emotet-botnet-distributing-self.html",
-          "publishedOn": "2022-10-21T16:47:00.000Z",
-          "wordCount": null,
-          "title": "Emotet Botnet Distributing Self-Unlocking Password-Protected RAR Files to Drop Malware",
           "itunes": {},
           "imageUrl": null
         }

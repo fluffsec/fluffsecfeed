@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-11-20T02:57:50.310Z</updated>
+    <updated>2022-11-20T07:20:26.197Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
@@ -5164,100 +5164,6 @@ Aptos is a new entrant to the blockchain space, which launched its mainnet�
         <summary type="html"><![CDATA[Original release date: October 21, 2022
 CISA, the Federal Bureau of Investigation (FBI), and the Department of Health and Human Services (HHS) have released a joint Cybersecurity Advisory (CSA), #StopRansomware: Daixin Team to provide information on the “Daixin Team,” a cybercrime group actively targeting U.S. businesses, predominantly in the Healthcare and Public Health (HPH) Sector, with ransomware and data extortion operations. This joint CSA provides Daixin actors’ tactics, techniques, and procedures (TTPs) and indicators of compromise (IOCs) obtained from FBI threat response activities and third-party reporting.
 CISA encourages HPH Sector organizations to review #StopRansomware: Daixin Team and to apply the recommended Mitigations. See StopRansomware.gov for additional guidance on ransomware protection, detection, and response.
-This product is provided subject to this Notification and this Privacy & Use policy.]]></summary>
-        <author>
-            <name>CISA</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FBI: Iranian Threat Group Likely to Target US Midterms]]></title>
-        <id>https://www.darkreading.com/threat-intelligence/fbi-iranian-threat-group-likely-to-target-us-midterms</id>
-        <link href="https://www.darkreading.com/threat-intelligence/fbi-iranian-threat-group-likely-to-target-us-midterms"/>
-        <updated>2022-10-21T18:40:00.000Z</updated>
-        <summary type="html"><![CDATA[Similar to what happened around the 2020 election, FBI warns that the Emennet Pasargad group is poised to target officials and companies with embarrassing hack-and-leak campaigns.]]></summary>
-        <author>
-            <name>Dark Reading Staff, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google's GUAC Aims to Democratize Software Supply Chain Security Metadata]]></title>
-        <id>https://www.darkreading.com/application-security/googles-guac-project-aims-to-democratize-software-supply-chain-security-metadata</id>
-        <link href="https://www.darkreading.com/application-security/googles-guac-project-aims-to-democratize-software-supply-chain-security-metadata"/>
-        <updated>2022-10-21T18:15:00.000Z</updated>
-        <summary type="html"><![CDATA[Software makers and customers will be able to query graph database for information about the security and provenance of components in applications and codebases.]]></summary>
-        <author>
-            <name>Jai Vijayan, Contributing Writer, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BazarCall Expands Callback Phishing Campaigns to Include More Support Sites and Malicious Tactics]]></title>
-        <id>https://blog.knowbe4.com/bazarcall-expands-callback-phishing-campaigns-to-include-more-support-sites-and-malicious-tactics</id>
-        <link href="https://blog.knowbe4.com/bazarcall-expands-callback-phishing-campaigns-to-include-more-support-sites-and-malicious-tactics"/>
-        <updated>2022-10-21T17:59:44.000Z</updated>
-        <summary type="html"><![CDATA[The king of callback phishing campaigns has evolved their methods to include better phishing emails, phone call scams, and final payloads to ensure they achieve their malicious goals.]]></summary>
-        <author>
-            <name>Stu Sjouwerman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Credential Harvesting Scam Impersonates Google Translate to Trick Victims]]></title>
-        <id>https://blog.knowbe4.com/new-credential-harvesting-scam-impersonates-google-translate-to-trick-victims</id>
-        <link href="https://blog.knowbe4.com/new-credential-harvesting-scam-impersonates-google-translate-to-trick-victims"/>
-        <updated>2022-10-21T17:59:35.000Z</updated>
-        <summary type="html"><![CDATA[In an interesting twist, this latest scam identified by security researchers at Avanan attempts to establish legitimacy by making the victim think the logon page is being translated.]]></summary>
-        <author>
-            <name>Stu Sjouwerman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Exploit Attempts Underway for Apache Commons Text4Shell Vulnerability]]></title>
-        <id>https://www.darkreading.com/attacks-breaches/exploit-attempts-are-under-way-for-apache-commons-text4shell-vulnerability</id>
-        <link href="https://www.darkreading.com/attacks-breaches/exploit-attempts-are-under-way-for-apache-commons-text4shell-vulnerability"/>
-        <updated>2022-10-21T17:31:09.000Z</updated>
-        <summary type="html"><![CDATA[The good news: The Apache Commons Text library bug is far less likely to lead to exploitation than last year's Log4j library flaw.]]></summary>
-        <author>
-            <name>Dark Reading Staff, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Emotet Botnet Distributing Self-Unlocking Password-Protected RAR Files to Drop Malware]]></title>
-        <id>tag:blogger.com,1999:blog-4802841478634147276.post-5181570083629964674</id>
-        <link href="https://thehackernews.com/2022/10/emotet-botnet-distributing-self.html"/>
-        <updated>2022-10-21T16:47:00.000Z</updated>
-        <summary type="html"><![CDATA[The notorious Emotet botnet has been linked to a new wave of malspam campaigns that take advantage of password-protected archive files to drop CoinMiner and Quasar RAT on compromised systems.
-In an attack chain detected by Trustwave SpiderLabs researchers, an invoice-themed ZIP file lure was found to contain a nested self-extracting (SFX) archive, the first archive acting as a conduit to launch]]></summary>
-        <author>
-            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Passkey Demos Hint at What's Ahead for Passwordless Authentication]]></title>
-        <id>https://www.darkreading.com/dr-tech/google-and-microsoft-passkeys-preview-the-passwordless-future</id>
-        <link href="https://www.darkreading.com/dr-tech/google-and-microsoft-passkeys-preview-the-passwordless-future"/>
-        <updated>2022-10-21T16:27:32.000Z</updated>
-        <summary type="html"><![CDATA[At the Authenticate Conference, Google and Microsoft demonstrated their passkey prototypes. Apple, meanwhile, already launched its version in iOS 16.]]></summary>
-        <author>
-            <name>Jeffrey Schwartz, Contributing Writer, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Katzcy Teams up with NIST on Cybersecurity Games]]></title>
-        <id>https://www.darkreading.com/careers-and-people/katzcy-teams-up-with-nist-on-cybersecurity-games</id>
-        <link href="https://www.darkreading.com/careers-and-people/katzcy-teams-up-with-nist-on-cybersecurity-games"/>
-        <updated>2022-10-21T16:01:09.000Z</updated>
-        <summary type="html"><![CDATA[.]]></summary>
-        <author>
-            <name>Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cisco Releases Security Update for Cisco Identity Services Engine]]></title>
-        <id>18088 at https://us-cert.cisa.gov</id>
-        <link href="https://us-cert.cisa.gov/ncas/current-activity/2022/10/21/cisco-releases-security-update-cisco-identity-services-engine"/>
-        <updated>2022-10-21T15:22:33.000Z</updated>
-        <summary type="html"><![CDATA[Original release date: October 21, 2022
-Cisco has released a security update to address vulnerabilities affecting Cisco Identity Services Engine (ISE). A remote attacker could exploit some of these vulnerabilities to take control of an affected system. For updates addressing high and low severity vulnerabilities, see the Cisco Security Advisories page. 
-CISA encourages users and administrators to review Cisco Advisory cisco-sa-ise-path-trav-Dz5dpzyM and apply the necessary updates.
 This product is provided subject to this Notification and this Privacy & Use policy.]]></summary>
         <author>
             <name>CISA</name>
