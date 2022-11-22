@@ -33,6 +33,16 @@
       "siteUrl": "https://us-cert.cisa.gov/",
       "articles": [
         {
+          "id": "18169 at https://us-cert.cisa.gov",
+          "author": "CISA",
+          "description": "Original release date: November 22, 2022\nCISA has released eight (8) Industrial Control Systems (ICS) advisories on 22 November 2022. These advisories provide timely information about current security issues, vulnerabilities, and exploits surrounding ICS.\nCISA encourages users and administrators to review the newly released ICS advisory for technical details and mitigations:\n•    ICSA-22-326-01 AVEVA Edge\nDigital Alert Systems DASDEC\nPhoenix Contact Automation Worx\nGE Cimplicity\nMoxa Multiple ARM-Based Computers\nHillrom Medical Device Management (Update C)\nMitsubishi Electric Factory Automation Engineering Products (Update I)\nMitsubishi Electric FA Engineering Software Products (Update G)\nThis product is provided subject to this Notification and this Privacy & Use policy.",
+          "link": "https://us-cert.cisa.gov/ncas/current-activity/2022/11/22/cisa-releases-eight-industrial-control-systems-advisories",
+          "publishedOn": "2022-11-22T12:26:47.000Z",
+          "wordCount": 926,
+          "title": "CISA Releases Eight Industrial Control Systems Advisories",
+          "imageUrl": null
+        },
+        {
           "id": "18151 at https://us-cert.cisa.gov",
           "author": "CISA",
           "description": "Original release date: November 17, 2022\nToday, CISA, the National Security Agency (NSA), and the Office of the Director of National Intelligence (ODNI), published the third of a three-part series on securing the software supply chain: Securing Software Supply Chain Series - Recommended Practices Guide for Customers. This publication follows the August 2022 release of guidance for developers and October 2022 release of guidance for suppliers.\nThe guidance released today, along with its accompanying fact sheet, provides recommended practices for software customers to ensure the integrity and security of software during the procuring and deployment phases.\nThe Securing Software Supply Chain Series is an output of the Enduring Security Framework (ESF), a public-private cross-sector working group led by NSA and CISA. This series complements other U.S. government efforts underway to help the software ecosystem secure the supply chain, such as the software bill of materials (SBOM) community.\nCISA encourages all organizations that participate in the software supply chain to review the guidance. See CISA’s Information and Communications Technology (ICT) Supply Chain Risk Management Task Force, ICT Supply Chain Resource Library, and National Risk Management Center (NRMC) webpages for additional guidance.\nThis product is provided subject to this Notification and this Privacy & Use policy.",
@@ -440,6 +450,121 @@
       "feedUrl": "https://www.darkreading.com/rss.xml",
       "siteUrl": "https://www.darkreading.com",
       "articles": [
+        {
+          "id": "https://www.darkreading.com/edge-articles/cyber-due-diligence-in-m-as-uncovers-threats-improves-valuations",
+          "author": "Stephen Lawton, Contributing Writer",
+          "description": "To get the full picture, companies need to look into the cybersecurity history and practices of the business they're acquiring.",
+          "link": "https://www.darkreading.com/edge-articles/cyber-due-diligence-in-m-as-uncovers-threats-improves-valuations",
+          "publishedOn": "2022-11-22T18:15:00.000Z",
+          "wordCount": 13372,
+          "title": "Cyber Due Diligence in M&As Uncovers Threats, Improves Valuations",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltd3941643ea87865b/628d1dcaef83f961a70e4205/stephen-lawton.png",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltd3941643ea87865b/628d1dcaef83f961a70e4205/stephen-lawton.png"
+        },
+        {
+          "id": "https://www.darkreading.com/remote-workforce/how-work-from-home-shaped-the-road-to-sase-for-enterprises",
+          "author": "Amit Bareket, CEO and Co-Founder, Perimeter 81",
+          "description": "As SASE adoption grows, with its allure of simplified protection via one network and security experience for hybrid workers, remember: Have an overall plan, integrate and migrate to scale usage, and start small.",
+          "link": "https://www.darkreading.com/remote-workforce/how-work-from-home-shaped-the-road-to-sase-for-enterprises",
+          "publishedOn": "2022-11-22T18:00:00.000Z",
+          "wordCount": 13504,
+          "title": "How Work From Home Shaped the Road to SASE for Enterprises",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltd8b18c10c18dc3b2/637cdfad641d921026ecedfb/Amit_Bareket_-_credit_David_Garb.png",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltd8b18c10c18dc3b2/637cdfad641d921026ecedfb/Amit_Bareket_-_credit_David_Garb.png"
+        },
+        {
+          "id": "https://www.darkreading.com/remote-workforce/enterprises-pay-1200-per-employee-annually-cyberattacks-cloud-collab-apps",
+          "author": "Elizabeth Montalbano, Contributor, Dark Reading",
+          "description": "Orgs are in the middle of a rapid increase in the use of new collaboration tools to serve the needs of an increasingly dispersed workforce — and they're paying a very real security price.",
+          "link": "https://www.darkreading.com/remote-workforce/enterprises-pay-1200-per-employee-annually-cyberattacks-cloud-collab-apps",
+          "publishedOn": "2022-11-22T16:42:05.000Z",
+          "wordCount": 13497,
+          "title": "Enterprises Pay $1,200 Per Employee Annually to Fight Cyberattacks Against Cloud Collab Apps",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltbfd004d139d42d70/6303bca6236c2476a257760e/ElizabethMontalbano.jpg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltbfd004d139d42d70/6303bca6236c2476a257760e/ElizabethMontalbano.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/remote-workforce/google-blocks-231b-spam-phishing-messages-2-weeks",
+          "author": "Dark Reading Staff, Dark Reading",
+          "description": "Google Workspace's team is seeing a spike in phishing and spam hitting Gmail — up 10% in just the last two weeks.",
+          "link": "https://www.darkreading.com/remote-workforce/google-blocks-231b-spam-phishing-messages-2-weeks",
+          "publishedOn": "2022-11-22T16:21:37.000Z",
+          "wordCount": 10504,
+          "title": "Google Blocks 231B Spam, Phishing Emails in Past 2 Weeks",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blte161b23f0fd3a84b/60b1ea374e7eb868c4c6a293/dr_staff_125x125.jpg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blte161b23f0fd3a84b/60b1ea374e7eb868c4c6a293/dr_staff_125x125.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/attacks-breaches/how-tech-companies-can-slow-down-spike-in-breaches",
+          "author": "Michael Sentonas, Chief Technology Officer, CrowdStrike",
+          "description": "Cybercrime continues to evolve — and shows no signs of slowing down.",
+          "link": "https://www.darkreading.com/attacks-breaches/how-tech-companies-can-slow-down-spike-in-breaches",
+          "publishedOn": "2022-11-22T15:00:00.000Z",
+          "wordCount": 13481,
+          "title": "How Tech Companies Can Slow Down Spike in Breaches",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt1d9e61298f6e045a/6376956e3a1eac0f1afb25c3/Mike_Sentonas_headshot.jpeg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt1d9e61298f6e045a/6376956e3a1eac0f1afb25c3/Mike_Sentonas_headshot.jpeg"
+        },
+        {
+          "id": "https://www.darkreading.com/vulnerabilities-threats/hack-the-box-launches-annual-university-ctf-to-inspire-next-generation-of-security-professionals",
+          "author": null,
+          "description": ".",
+          "link": "https://www.darkreading.com/vulnerabilities-threats/hack-the-box-launches-annual-university-ctf-to-inspire-next-generation-of-security-professionals",
+          "publishedOn": "2022-11-22T14:38:46.000Z",
+          "wordCount": 12366,
+          "title": "Hack The Box Launches Annual University CTF to Inspire Next Generation of Security Professionals",
+          "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/vulnerabilities-threats/cybeready-releases-five-easy-tips-to-shop-safely-during-black-friday",
+          "author": null,
+          "description": "Safe shopping guidance coupled with new CISO tool to help safeguard personal data and corporate networks.",
+          "link": "https://www.darkreading.com/vulnerabilities-threats/cybeready-releases-five-easy-tips-to-shop-safely-during-black-friday",
+          "publishedOn": "2022-11-22T14:13:59.000Z",
+          "wordCount": 12859,
+          "title": "CybeReady Releases Five Easy Tips to Shop Safely During Black Friday",
+          "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/iot/fido-alliance-announces-authenticate-virtual-summit-focused-on-securing-iot",
+          "author": null,
+          "description": "Industry experts to share insights into how FIDO and related technologies can bring password-less authentication to IoT.",
+          "link": "https://www.darkreading.com/iot/fido-alliance-announces-authenticate-virtual-summit-focused-on-securing-iot",
+          "publishedOn": "2022-11-22T14:08:40.000Z",
+          "wordCount": 11270,
+          "title": "FIDO Alliance Announces Authenticate Virtual Summit Focused on Securing IoT",
+          "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/attacks-breaches/two-estonian-citizens-arrested-in-575-million-cryptocurrency-fraud-and-money-laundering-scheme",
+          "author": null,
+          "description": ".",
+          "link": "https://www.darkreading.com/attacks-breaches/two-estonian-citizens-arrested-in-575-million-cryptocurrency-fraud-and-money-laundering-scheme",
+          "publishedOn": "2022-11-22T14:02:36.000Z",
+          "wordCount": 13720,
+          "title": "Two Estonian Citizens Arrested in $575 Million Cryptocurrency Fraud and Money Laundering Scheme",
+          "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
+        },
         {
           "id": "https://www.darkreading.com/attacks-breaches/identity-security-needs-humans-and-ai-working-hand-in-hand",
           "author": null,
@@ -4070,6 +4195,46 @@
       "siteUrl": "https://blog.knowbe4.com",
       "articles": [
         {
+          "id": "https://blog.knowbe4.com/a-recent-complex-ransomware-campaign",
+          "author": "Stu Sjouwerman",
+          "description": "Microsoft has observed a threat actor that’s been running a phishing campaign since August 2022. The threat actor, which Microsoft tracks as “DEV-0569,” is using phishing emails to distribute malicious installers for legitimate applications, including TeamViewer, Microsoft Teams, Adobe Flash Player, Zoom, and AnyDesk. The phishing campaign leads to the installation of ransomware and information-stealing malware.",
+          "link": "https://blog.knowbe4.com/a-recent-complex-ransomware-campaign",
+          "publishedOn": "2022-11-22T14:39:48.000Z",
+          "wordCount": 2239,
+          "title": "A Recent, Complex, Ransomware Campaign",
+          "imageUrl": "https://blog.knowbe4.com/hubfs/Ransomware%20Strains%20Almost%20Double.jpg#keepProtocol"
+        },
+        {
+          "id": "https://blog.knowbe4.com/instagram-support-phishing-attack",
+          "author": "Stu Sjouwerman",
+          "description": "Long gone are the days of tacky landing pages that barely impersonate a brand; threat actors are improving their social engineering game well enough to make anyone believe it’s the real thing.",
+          "link": "https://blog.knowbe4.com/instagram-support-phishing-attack",
+          "publishedOn": "2022-11-22T14:36:16.000Z",
+          "wordCount": 2259,
+          "title": "New Instagram Support Phishing Attack Fakes “Unusual Logon” Experience Well Enough to Fool Victims",
+          "imageUrl": "https://blog.knowbe4.com/hubfs/Copyright%20Infringement%20Instagram%20Phishbait.jpg#keepProtocol"
+        },
+        {
+          "id": "https://blog.knowbe4.com/image-based-phishing-vishing-get-past-security-scanners",
+          "author": "Stu Sjouwerman",
+          "description": "Using the simplest tactic of not including a single piece of content that can be considered malicious, these types of scams are making their way to inboxes every single time.",
+          "link": "https://blog.knowbe4.com/image-based-phishing-vishing-get-past-security-scanners",
+          "publishedOn": "2022-11-22T14:34:34.000Z",
+          "wordCount": 2221,
+          "title": "Image-Based Phishing and Phone Scams Continue to Get Past Security Scanners",
+          "imageUrl": "https://blog.knowbe4.com/hubfs/Phishing%20Scammers%20Leverage%20Governance.jpg#keepProtocol"
+        },
+        {
+          "id": "https://blog.knowbe4.com/cyberheistnews-vol-12-47-heads-up-watch-out-for-this-tricky-new-tactic-called-clone-phishing",
+          "author": "Stu Sjouwerman",
+          "description": "CyberheistNews Vol 12 #47 [Heads Up] Watch Out for This Tricky New Tactic Called Clone Phishing",
+          "link": "https://blog.knowbe4.com/cyberheistnews-vol-12-47-heads-up-watch-out-for-this-tricky-new-tactic-called-clone-phishing",
+          "publishedOn": "2022-11-22T14:17:29.000Z",
+          "wordCount": 4824,
+          "title": "CyberheistNews Vol 12 #47 [Heads Up] Watch Out for This Tricky New Tactic Called Clone Phishing",
+          "imageUrl": "https://blog.knowbe4.com/hubfs/CHN-Social.jpg#keepProtocol"
+        },
+        {
           "id": "https://blog.knowbe4.com/world-cup-phishing-attacks-doubled-and-will-increase",
           "author": "Stu Sjouwerman",
           "description": "Researchers at Trellix revealed that phishing email attacks targeting users in the Middle East doubled in October 2022 ahead of the World Cup in Qatar, as reported by The Record.\n \r\nThe end game of these attacks include financial fraud, credential harvesting, data exfiltration, surveillance, and damage to a country or organization’s reputation.\n \r\nThe rest of the world will soon follow.",
@@ -4746,6 +4911,17 @@
       "feedUrl": "https://thehackernews.com/feeds/posts/default",
       "siteUrl": "https://thehackernews.com/",
       "articles": [
+        {
+          "id": "tag:blogger.com,1999:blog-4802841478634147276.post-3687600383145240835",
+          "author": "noreply@blogger.com (Ravie Lakshmanan)",
+          "description": "A malicious extension for Chromium-based web browsers has been observed to be distributed via a long-standing Windows information stealer called ViperSoftX.\nCzech-based cybersecurity company dubbed the rogue browser add-on VenomSoftX owing to its standalone features that enable it to access website visits, steal credentials and clipboard data, and even swap cryptocurrency addresses via an",
+          "link": "https://thehackernews.com/2022/11/this-malware-installs-malicious-browser.html",
+          "publishedOn": "2022-11-22T17:36:00.000Z",
+          "wordCount": null,
+          "title": "This Malware Installs Malicious Browser Extensions to Steal Users' Passwords and Cryptos",
+          "itunes": {},
+          "imageUrl": null
+        },
         {
           "id": "tag:blogger.com,1999:blog-4802841478634147276.post-8105374481661992177",
           "author": "noreply@blogger.com (Ravie Lakshmanan)",
@@ -6085,39 +6261,6 @@
           "publishedOn": "2022-10-24T17:34:00.000Z",
           "wordCount": null,
           "title": "Download eBook: Top virtual CISOs share 7 tips for vCISO service providers",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "tag:blogger.com,1999:blog-4802841478634147276.post-2596963589730915108",
-          "author": "noreply@blogger.com (Ravie Lakshmanan)",
-          "description": "SideWinder, a prolific nation-state actor mainly known for targeting Pakistan military entities, compromised the official website of the National Electric Power Regulatory Authority (NEPRA) to deliver a tailored malware called WarHawk.\n\"The newly discovered WarHawk backdoor contains various malicious modules that deliver Cobalt Strike, incorporating new TTPs such as KernelCallBackTable injection",
-          "link": "https://thehackernews.com/2022/10/sidewinder-apt-using-new-warhawk.html",
-          "publishedOn": "2022-10-24T06:25:00.000Z",
-          "wordCount": null,
-          "title": "SideWinder APT Using New WarHawk Backdoor to Target Entities in Pakistan",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "tag:blogger.com,1999:blog-4802841478634147276.post-2731419496304867813",
-          "author": "noreply@blogger.com (Ravie Lakshmanan)",
-          "description": "U.S. cybersecurity and intelligence agencies have published a joint advisory warning of attacks perpetrated by a cybercrime gang known as the Daixin Team primarily targeting the healthcare sector in the country.\n\"The Daixin Team is a ransomware and data extortion group that has targeted the HPH Sector with ransomware and data extortion operations since at least June 2022,\" the agencies said.\nThe",
-          "link": "https://thehackernews.com/2022/10/cisa-warns-of-daixin-team-hackers.html",
-          "publishedOn": "2022-10-24T06:12:00.000Z",
-          "wordCount": null,
-          "title": "CISA Warns of Daixin Team Hackers Targeting Health Organizations With Ransomware",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "tag:blogger.com,1999:blog-4802841478634147276.post-791013362593543090",
-          "author": "noreply@blogger.com (The Hacker News)",
-          "description": "The breach of LA Unified School District (LAUSD) highlights the prevalence of password vulnerabilities, as criminal hackers continue to use breached credentials in increasingly frequent ransomware attacks on education.\nThe Labor Day weekend breach of LAUSD brought significant districtwide disruptions to access to email, computers, and applications. It's unclear what student or employee data the",
-          "link": "https://thehackernews.com/2022/10/why-ransomware-in-education-on-rise-and.html",
-          "publishedOn": "2022-10-24T05:45:00.000Z",
-          "wordCount": null,
-          "title": "Why Ransomware in Education on the Rise and What That Means for 2023",
           "itunes": {},
           "imageUrl": null
         }
