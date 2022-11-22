@@ -2,10 +2,94 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-11-21T19:18:40.307Z</updated>
+    <updated>2022-11-22T02:51:38.137Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Identity Security Needs Humans and AI Working Hand in Hand]]></title>
+        <id>https://www.darkreading.com/attacks-breaches/identity-security-needs-humans-and-ai-working-hand-in-hand</id>
+        <link href="https://www.darkreading.com/attacks-breaches/identity-security-needs-humans-and-ai-working-hand-in-hand"/>
+        <updated>2022-11-21T23:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In the cybersecurity world, augmenting the human touch with artificial intelligence has produced extremely positive results.]]></summary>
+        <author>
+            <name>Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[World Cup Phishing Attacks Doubled And Will Increase]]></title>
+        <id>https://blog.knowbe4.com/world-cup-phishing-attacks-doubled-and-will-increase</id>
+        <link href="https://blog.knowbe4.com/world-cup-phishing-attacks-doubled-and-will-increase"/>
+        <updated>2022-11-21T21:17:16.000Z</updated>
+        <summary type="html"><![CDATA[Researchers at Trellix revealed that phishing email attacks targeting users in the Middle East doubled in October 2022 ahead of the World Cup in Qatar, as reported by The Record.
+ 
+The end game of these attacks include financial fraud, credential harvesting, data exfiltration, surveillance, and damage to a country or organization’s reputation.
+ 
+The rest of the world will soon follow.]]></summary>
+        <author>
+            <name>Stu Sjouwerman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MFA Fatigue Attacks]]></title>
+        <id>https://blog.knowbe4.com/mfa-fatigue-attacks</id>
+        <link href="https://blog.knowbe4.com/mfa-fatigue-attacks"/>
+        <updated>2022-11-21T21:00:55.000Z</updated>
+        <summary type="html"><![CDATA[Researchers at Specops Software describe a technique attackers are using to bypass multi-factor authentication (MFA). In an article for BleepingComputer, the researchers explain that attackers repeatedly attempt to login to an account protected by MFA, which spams the user with MFA requests until the user finally approves the login.]]></summary>
+        <author>
+            <name>Stu Sjouwerman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Luna Moth's Novel, Malware-Free Extortion Campaign Takes Flight]]></title>
+        <id>https://www.darkreading.com/endpoint/luna-moth-malware-free-extortion-campaign</id>
+        <link href="https://www.darkreading.com/endpoint/luna-moth-malware-free-extortion-campaign"/>
+        <updated>2022-11-21T21:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Luna Moth is relying solely on call-back phishing, as well as legitimate tools, to steal data and extract ransoms from victims of all stripes in an expanding cyberattack effort.]]></summary>
+        <author>
+            <name>Jai Vijayan, Contributing Writer, Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google Releases YARA Rules to Disrupt Cobalt Strike Abuse]]></title>
+        <id>https://www.darkreading.com/dr-tech/google-releases-yara-rules-to-disrupt-cobalt-strike-abuse</id>
+        <link href="https://www.darkreading.com/dr-tech/google-releases-yara-rules-to-disrupt-cobalt-strike-abuse"/>
+        <updated>2022-11-21T21:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The popular pen-testing tool is often cracked and repurposed by threat actors. Google now has a plan to address that.]]></summary>
+        <author>
+            <name>Karen Spiegelman, Features Editor</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[4 out of 10 Emails are Unwanted as nearly 40% of all Attacks Start with Phishing]]></title>
+        <id>https://blog.knowbe4.com/nearly-40-percent-attacks-start-with-phishing-email</id>
+        <link href="https://blog.knowbe4.com/nearly-40-percent-attacks-start-with-phishing-email"/>
+        <updated>2022-11-21T20:59:17.000Z</updated>
+        <summary type="html"><![CDATA[New data focused on emails sent through Microsoft 365 highlights the methods used to ensure a successful attack beginning with a malicious email.]]></summary>
+        <author>
+            <name>Stu Sjouwerman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Warns of Rise in Stolen Cloud Tokens Used to Bypass MFA]]></title>
+        <id>https://www.darkreading.com/endpoint/microsoft-warns-of-rise-in-stolen-cloud-tokens-used-to-bypass-mfa</id>
+        <link href="https://www.darkreading.com/endpoint/microsoft-warns-of-rise-in-stolen-cloud-tokens-used-to-bypass-mfa"/>
+        <updated>2022-11-21T20:50:00.000Z</updated>
+        <summary type="html"><![CDATA[Analysts see an uptick in token theft from authenticated users, allowing threat actors to bypass MFA protections.]]></summary>
+        <author>
+            <name>Dark Reading Staff, Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Investors Are Pouring Cash Into These 10 Cybersecurity Startups]]></title>
+        <id>https://www.darkreading.com/endpoint/investors-pouring-cash-10-cybersecurity-startups</id>
+        <link href="https://www.darkreading.com/endpoint/investors-pouring-cash-10-cybersecurity-startups"/>
+        <updated>2022-11-21T20:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Following the dollars reveals pen-test and intrusion-detection startups are the most attractive to investors right now, collectively getting more than $3 billion in funding.]]></summary>
+        <author>
+            <name>Dark Reading Staff, Dark Reading</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Name That Toon: Fall Cleanup]]></title>
         <id>https://www.darkreading.com/threat-intelligence/name-that-toon-fall-cleanup</id>
