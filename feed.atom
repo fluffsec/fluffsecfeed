@@ -2,10 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-11-23T13:35:13.179Z</updated>
+    <updated>2022-11-23T19:17:11.245Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA['Patch Lag' Leaves Millions of Android Devices Vulnerable]]></title>
+        <id>https://www.darkreading.com/mobile/-patch-lag-leaves-millions-android-devices-vulnerable</id>
+        <link href="https://www.darkreading.com/mobile/-patch-lag-leaves-millions-android-devices-vulnerable"/>
+        <updated>2022-11-23T17:49:57.000Z</updated>
+        <summary type="html"><![CDATA[Months after a fix was issued by a vendor, downstream Android device manufacturers still haven't patched, highlighting a troubling trend.]]></summary>
+        <author>
+            <name>Dark Reading Staff, Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hot Ticket: 'Aurora' Go-Based InfoStealer Finds Favor Among Cyber-Threat Actors]]></title>
+        <id>https://www.darkreading.com/threat-intelligence/hot-ticket-aurora-go-based-infostealer-favor-cyber-threat-actors</id>
+        <link href="https://www.darkreading.com/threat-intelligence/hot-ticket-aurora-go-based-infostealer-favor-cyber-threat-actors"/>
+        <updated>2022-11-23T17:15:02.000Z</updated>
+        <summary type="html"><![CDATA[The infostealer Aurora’s low detection rates and newcomer status are helping it fly under the radar, as more cybercriminal gangs target cryptocurrency wallets and communications apps.]]></summary>
+        <author>
+            <name>Nathan Eddy, Contributing Writer, Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft: Popular IoT SDKs Leave Critical Infrastructure Wide Open to Cyberattack]]></title>
+        <id>https://www.darkreading.com/ics-ot/microsoft-iot-sdks-critical-infrastructure-cyberattack</id>
+        <link href="https://www.darkreading.com/ics-ot/microsoft-iot-sdks-critical-infrastructure-cyberattack"/>
+        <updated>2022-11-23T17:02:32.000Z</updated>
+        <summary type="html"><![CDATA[Chinese threat actors have already used the vulnerable and pervasive Boa server to infiltrate the electrical grid in India, in spate of malicious incidents.]]></summary>
+        <author>
+            <name>Elizabeth Montalbano, Contributor, Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Penetration Testing Market Size Is Projected to Reach $5.28B Globally by 2028]]></title>
+        <id>https://www.darkreading.com/vulnerabilities-threats/penetration-testing-market-size-is-projected-to-reach-5-28b-globally-by-2028</id>
+        <link href="https://www.darkreading.com/vulnerabilities-threats/penetration-testing-market-size-is-projected-to-reach-5-28b-globally-by-2028"/>
+        <updated>2022-11-23T15:07:03.000Z</updated>
+        <summary type="html"><![CDATA[Fueling the trend are the rising adoption of cloud computing solutions, technology advancements, stricter data safety regulations, and the move to digitalization, says Brandessence Market Research.]]></summary>
+        <author>
+            <name>Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Where Are We Heading With Data Privacy Regulations?]]></title>
+        <id>https://www.darkreading.com/endpoint/where-are-we-heading-with-data-privacy-regulations-</id>
+        <link href="https://www.darkreading.com/endpoint/where-are-we-heading-with-data-privacy-regulations-"/>
+        <updated>2022-11-23T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[New laws have made the current US privacy landscape increasingly complex.]]></summary>
+        <author>
+            <name>Kris Lahiri, Co-Founder &amp; Chief Security Officer, Egnyte</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[34 Russian Hacker Groups Stole Over 50 Million Passwords with Stealer Malware]]></title>
         <id>tag:blogger.com,1999:blog-4802841478634147276.post-6708676041843726856</id>
@@ -5517,18 +5567,6 @@ However, in the IT world, it is not shortages or pandemics that have been the ma
         <summary type="html"><![CDATA[Two point-of-sale (PoS) malware variants have been put to use by a threat actor to steal information related to more than 167,000 credit cards from payment terminals.
 According to Singapore-headquartered cybersecurity company Group-IB, the stolen data dumps could net the operators as much as $3.34 million by selling them on underground forums.
 While a significant proportion of attacks aimed at]]></summary>
-        <author>
-            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Apple Releases Patch for New Actively Exploited iOS and iPadOS Zero-Day Vulnerability]]></title>
-        <id>tag:blogger.com,1999:blog-4802841478634147276.post-4140766548623223920</id>
-        <link href="https://thehackernews.com/2022/10/apple-releases-patch-for-new-actively.html"/>
-        <updated>2022-10-25T03:35:00.000Z</updated>
-        <summary type="html"><![CDATA[Tech giant Apple on Monday rolled out updates to remediate a zero-day flaw in iOS and iPadOS that it said has been actively exploited in the wild.
-The weakness, given the identifier CVE-2022-42827, has been described as an out-of-bounds write issue in the Kernel, which could be abused by a rogue application to execute arbitrary code with the highest privileges.
-Successful exploitation of]]></summary>
         <author>
             <name>noreply@blogger.com (Ravie Lakshmanan)</name>
         </author>
