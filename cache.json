@@ -451,6 +451,66 @@
       "siteUrl": "https://www.darkreading.com",
       "articles": [
         {
+          "id": "https://www.darkreading.com/dr-tech/cybersecurity-pros-mastodon-flaws-under-microscope",
+          "author": "Karen Spiegelman, Features Editor",
+          "description": "As the open source social media network blows up due to Twitter's troubles, researchers caution about vulnerabilities within the application.",
+          "link": "https://www.darkreading.com/dr-tech/cybersecurity-pros-mastodon-flaws-under-microscope",
+          "publishedOn": "2022-11-22T23:13:00.000Z",
+          "wordCount": 11453,
+          "title": "Cybersecurity Pros Put Mastodon Flaws Under the Microscope",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt05b5a13cf2fb2868/62473b097c2d1d030cd47dff/pink-headshot.jpg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt05b5a13cf2fb2868/62473b097c2d1d030cd47dff/pink-headshot.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/vulnerabilities-threats/adversarial-ai-attacks-highlight-fundamental-security-issues",
+          "author": "Robert Lemos, Contributing Writer, Dark Reading",
+          "description": "An AI's \"world\" only includes the data on which it was trained, so it otherwise lacks context — opening the door for creative attacks from cyber adversaries.",
+          "link": "https://www.darkreading.com/vulnerabilities-threats/adversarial-ai-attacks-highlight-fundamental-security-issues",
+          "publishedOn": "2022-11-22T22:45:57.000Z",
+          "wordCount": 14398,
+          "title": "Adversarial AI Attacks Highlight Fundamental Security Issues",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt58481326324d6911/60b1e9a55d34de550780a990/Robert-Lemos.png",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt58481326324d6911/60b1e9a55d34de550780a990/Robert-Lemos.png"
+        },
+        {
+          "id": "https://www.darkreading.com/attacks-breaches/ducktail-cyberattackers-whatsapp-facebook-business-attack-chain",
+          "author": "Jai Vijayan, Contributing Writer, Dark Reading",
+          "description": "The Vietnam-based financial cybercrime operation's primary goal is to push out fraudulent ads via compromised business accounts.",
+          "link": "https://www.darkreading.com/attacks-breaches/ducktail-cyberattackers-whatsapp-facebook-business-attack-chain",
+          "publishedOn": "2022-11-22T21:37:41.000Z",
+          "wordCount": 13309,
+          "title": "Ducktail Cyberattackers Add WhatsApp to Facebook Business Attack Chain",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt02d79fb9a44a4258/60b1e9dd2a25046b35110696/Jai-Vijayan.jpeg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt02d79fb9a44a4258/60b1e9dd2a25046b35110696/Jai-Vijayan.jpeg"
+        },
+        {
+          "id": "https://www.darkreading.com/threat-intelligence/draftkings-account-takeovers-frame-sports-betting-cybersecurity-dilemma",
+          "author": "Tara Seals, Managing Editor, News, Dark Reading",
+          "description": "Cybercrooks have drained DraftKings accounts of $300K in the past few days thanks to credential stuffing, just as the 2022 FIFA World Cup starts up.",
+          "link": "https://www.darkreading.com/threat-intelligence/draftkings-account-takeovers-frame-sports-betting-cybersecurity-dilemma",
+          "publishedOn": "2022-11-22T19:00:18.000Z",
+          "wordCount": 13335,
+          "title": "DraftKings Account Takeovers Frame Sports-Betting Cybersecurity Dilemma",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltea67136f81f32eca/626a9eb4726e3315b16b3c64/Tara-Seals-Headshot2.jpg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltea67136f81f32eca/626a9eb4726e3315b16b3c64/Tara-Seals-Headshot2.jpg"
+        },
+        {
           "id": "https://www.darkreading.com/edge-articles/cyber-due-diligence-in-m-as-uncovers-threats-improves-valuations",
           "author": "Stephen Lawton, Contributing Writer",
           "description": "To get the full picture, companies need to look into the cybersecurity history and practices of the business they're acquiring.",
@@ -4019,76 +4079,6 @@
           "wordCount": 12011,
           "title": "Godspeed Capital-Backed SilverEdge Partners with Counter Threat Solutions",
           "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
-        },
-        {
-          "id": "https://www.darkreading.com/cloud/uptycs-introduces-detections-that-correlate-threat-activity-from-the-kubernetes-control-plane-and-container-runtime",
-          "author": null,
-          "description": "Comprehensive CNAPP coverage for Kubernetes and containers in a single solution.",
-          "link": "https://www.darkreading.com/cloud/uptycs-introduces-detections-that-correlate-threat-activity-from-the-kubernetes-control-plane-and-container-runtime",
-          "publishedOn": "2022-10-24T14:40:49.000Z",
-          "wordCount": 13375,
-          "title": "Uptycs Introduces Detections that Correlate Threat Activity from the Kubernetes Control Plane and Container Runtime",
-          "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
-        },
-        {
-          "id": "https://www.darkreading.com/operations/hornetsecurity-launches-next-generation-security-awareness-training-to-help-organizations-strengthen-their-human-firewall",
-          "author": null,
-          "description": "Best-in-class awareness training comes after a marked increase in cybersecurity risks and attacks in 2022.",
-          "link": "https://www.darkreading.com/operations/hornetsecurity-launches-next-generation-security-awareness-training-to-help-organizations-strengthen-their-human-firewall",
-          "publishedOn": "2022-10-24T14:22:06.000Z",
-          "wordCount": 11995,
-          "title": "Hornetsecurity Launches Next-Generation Security Awareness Training to Help Organizations Strengthen Their Human Firewall",
-          "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
-        },
-        {
-          "id": "https://www.darkreading.com/vulnerabilities-threats/cybersecurity-s-role-in-combating-midterm-election-disinformation-",
-          "author": "Katie Teitler, Senior Cybersecurity Strategist, Axonius",
-          "description": "A multilayered attack technique that took center stage in 2020 and has only grown more endemic.",
-          "link": "https://www.darkreading.com/vulnerabilities-threats/cybersecurity-s-role-in-combating-midterm-election-disinformation-",
-          "publishedOn": "2022-10-24T14:00:00.000Z",
-          "wordCount": 13191,
-          "title": "Cybersecurity's Role in Combating Midterm Election Disinformation",
-          "enclosure": {
-            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt9444925b825bd7c0/6352edc0398c0e01578a3a68/Katie_Teitler_Headshot.png",
-            "type": "image/*",
-            "length": "0"
-          },
-          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt9444925b825bd7c0/6352edc0398c0e01578a3a68/Katie_Teitler_Headshot.png"
-        },
-        {
-          "id": "https://www.darkreading.com/application-security/scribe-security-launches-evidence-based-security-trust-hub",
-          "author": null,
-          "description": "Security, DevSecOps, and DevOps teams can now build transparent trust in the software they deliver or use.",
-          "link": "https://www.darkreading.com/application-security/scribe-security-launches-evidence-based-security-trust-hub",
-          "publishedOn": "2022-10-24T13:52:08.000Z",
-          "wordCount": 11625,
-          "title": "Scribe Security Launches Evidence-Based Security Trust Hub",
-          "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
-        },
-        {
-          "id": "https://www.darkreading.com/endpoint/nok-nok-a-global-leader-in-customer-passwordless-authentication-releases-full-support-for-passkeys",
-          "author": null,
-          "description": "Nok Nok, an inventor of FIDO authentication standards, announces full support for passkeys in its S3 Authentication Suite that allows organizations to replace passwords.",
-          "link": "https://www.darkreading.com/endpoint/nok-nok-a-global-leader-in-customer-passwordless-authentication-releases-full-support-for-passkeys",
-          "publishedOn": "2022-10-24T13:32:25.000Z",
-          "wordCount": 14177,
-          "title": "Nok Nok, a Global Leader in Customer Passwordless Authentication, Releases Full Support for Passkeys",
-          "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
-        },
-        {
-          "id": "https://www.darkreading.com/edge-articles/embracing-the-next-generation-of-business-developers",
-          "author": "Michael Bargury, CTO & Co-Founder, Zenity",
-          "description": "Security teams that embrace low-code/no-code can change the security mindset of business users.",
-          "link": "https://www.darkreading.com/edge-articles/embracing-the-next-generation-of-business-developers",
-          "publishedOn": "2022-10-24T13:15:00.000Z",
-          "wordCount": 13661,
-          "title": "Embracing the Next Generation of Business Developers",
-          "enclosure": {
-            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt88c0ce1b9ac54b6e/6197abd85da8f858d58cdb06/Michael_Bargury_zenity.jpg",
-            "type": "image/*",
-            "length": "0"
-          },
-          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt88c0ce1b9ac54b6e/6197abd85da8f858d58cdb06/Michael_Bargury_zenity.jpg"
         }
       ]
     },
@@ -4893,16 +4883,6 @@
           "wordCount": 1882,
           "title": "[Live Demo] Ridiculously Easy Security Awareness Training and Phishing",
           "imageUrl": "https://blog.knowbe4.com/hubfs/Social%20Image%20Repository/Live%20Demos/KMSAT-Demo-SM-2021-2.jpg#keepProtocol"
-        },
-        {
-          "id": "https://blog.knowbe4.com/phishing-for-student-email-accounts",
-          "author": "Stu Sjouwerman",
-          "description": "University student accounts are being exploited for business email compromise. Researchers at Avanan have observed a rise in attacks that compromise legitimate college student accounts in order to carry out business email compromise (BEC) attacks. “In this attack,” the researchers say, “hackers are compromising student accounts to launch broader BEC and credential harvesting attacks.”",
-          "link": "https://blog.knowbe4.com/phishing-for-student-email-accounts",
-          "publishedOn": "2022-10-24T13:23:57.000Z",
-          "wordCount": 2146,
-          "title": "Phishing for Student Email Accounts",
-          "imageUrl": "https://blog.knowbe4.com/hubfs/Phishing%20Student.jpg#keepProtocol"
         }
       ]
     },

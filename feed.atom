@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-11-22T19:18:42.598Z</updated>
+    <updated>2022-11-23T02:43:31.675Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Cybersecurity Pros Put Mastodon Flaws Under the Microscope]]></title>
+        <id>https://www.darkreading.com/dr-tech/cybersecurity-pros-mastodon-flaws-under-microscope</id>
+        <link href="https://www.darkreading.com/dr-tech/cybersecurity-pros-mastodon-flaws-under-microscope"/>
+        <updated>2022-11-22T23:13:00.000Z</updated>
+        <summary type="html"><![CDATA[As the open source social media network blows up due to Twitter's troubles, researchers caution about vulnerabilities within the application.]]></summary>
+        <author>
+            <name>Karen Spiegelman, Features Editor</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Adversarial AI Attacks Highlight Fundamental Security Issues]]></title>
+        <id>https://www.darkreading.com/vulnerabilities-threats/adversarial-ai-attacks-highlight-fundamental-security-issues</id>
+        <link href="https://www.darkreading.com/vulnerabilities-threats/adversarial-ai-attacks-highlight-fundamental-security-issues"/>
+        <updated>2022-11-22T22:45:57.000Z</updated>
+        <summary type="html"><![CDATA[An AI's "world" only includes the data on which it was trained, so it otherwise lacks context — opening the door for creative attacks from cyber adversaries.]]></summary>
+        <author>
+            <name>Robert Lemos, Contributing Writer, Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ducktail Cyberattackers Add WhatsApp to Facebook Business Attack Chain]]></title>
+        <id>https://www.darkreading.com/attacks-breaches/ducktail-cyberattackers-whatsapp-facebook-business-attack-chain</id>
+        <link href="https://www.darkreading.com/attacks-breaches/ducktail-cyberattackers-whatsapp-facebook-business-attack-chain"/>
+        <updated>2022-11-22T21:37:41.000Z</updated>
+        <summary type="html"><![CDATA[The Vietnam-based financial cybercrime operation's primary goal is to push out fraudulent ads via compromised business accounts.]]></summary>
+        <author>
+            <name>Jai Vijayan, Contributing Writer, Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DraftKings Account Takeovers Frame Sports-Betting Cybersecurity Dilemma]]></title>
+        <id>https://www.darkreading.com/threat-intelligence/draftkings-account-takeovers-frame-sports-betting-cybersecurity-dilemma</id>
+        <link href="https://www.darkreading.com/threat-intelligence/draftkings-account-takeovers-frame-sports-betting-cybersecurity-dilemma"/>
+        <updated>2022-11-22T19:00:18.000Z</updated>
+        <summary type="html"><![CDATA[Cybercrooks have drained DraftKings accounts of $300K in the past few days thanks to credential stuffing, just as the 2022 FIFA World Cup starts up.]]></summary>
+        <author>
+            <name>Tara Seals, Managing Editor, News, Dark Reading</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Cyber Due Diligence in M&As Uncovers Threats, Improves Valuations]]></title>
         <id>https://www.darkreading.com/edge-articles/cyber-due-diligence-in-m-as-uncovers-threats-improves-valuations</id>
@@ -5538,76 +5578,6 @@ This product is provided subject to this Notification and this Privacy & Use pol
         <summary type="html"><![CDATA[Affiliation adds new all-source and counterintelligence, cyber, software development, and identity intelligence capabilities to SilverEdge's growing suite of technology solutions focused on the US intelligence community.]]></summary>
         <author>
             <name>Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Uptycs Introduces Detections that Correlate Threat Activity from the Kubernetes Control Plane and Container Runtime]]></title>
-        <id>https://www.darkreading.com/cloud/uptycs-introduces-detections-that-correlate-threat-activity-from-the-kubernetes-control-plane-and-container-runtime</id>
-        <link href="https://www.darkreading.com/cloud/uptycs-introduces-detections-that-correlate-threat-activity-from-the-kubernetes-control-plane-and-container-runtime"/>
-        <updated>2022-10-24T14:40:49.000Z</updated>
-        <summary type="html"><![CDATA[Comprehensive CNAPP coverage for Kubernetes and containers in a single solution.]]></summary>
-        <author>
-            <name>Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hornetsecurity Launches Next-Generation Security Awareness Training to Help Organizations Strengthen Their Human Firewall]]></title>
-        <id>https://www.darkreading.com/operations/hornetsecurity-launches-next-generation-security-awareness-training-to-help-organizations-strengthen-their-human-firewall</id>
-        <link href="https://www.darkreading.com/operations/hornetsecurity-launches-next-generation-security-awareness-training-to-help-organizations-strengthen-their-human-firewall"/>
-        <updated>2022-10-24T14:22:06.000Z</updated>
-        <summary type="html"><![CDATA[Best-in-class awareness training comes after a marked increase in cybersecurity risks and attacks in 2022.]]></summary>
-        <author>
-            <name>Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cybersecurity's Role in Combating Midterm Election Disinformation]]></title>
-        <id>https://www.darkreading.com/vulnerabilities-threats/cybersecurity-s-role-in-combating-midterm-election-disinformation-</id>
-        <link href="https://www.darkreading.com/vulnerabilities-threats/cybersecurity-s-role-in-combating-midterm-election-disinformation-"/>
-        <updated>2022-10-24T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A multilayered attack technique that took center stage in 2020 and has only grown more endemic.]]></summary>
-        <author>
-            <name>Katie Teitler, Senior Cybersecurity Strategist, Axonius</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Scribe Security Launches Evidence-Based Security Trust Hub]]></title>
-        <id>https://www.darkreading.com/application-security/scribe-security-launches-evidence-based-security-trust-hub</id>
-        <link href="https://www.darkreading.com/application-security/scribe-security-launches-evidence-based-security-trust-hub"/>
-        <updated>2022-10-24T13:52:08.000Z</updated>
-        <summary type="html"><![CDATA[Security, DevSecOps, and DevOps teams can now build transparent trust in the software they deliver or use.]]></summary>
-        <author>
-            <name>Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nok Nok, a Global Leader in Customer Passwordless Authentication, Releases Full Support for Passkeys]]></title>
-        <id>https://www.darkreading.com/endpoint/nok-nok-a-global-leader-in-customer-passwordless-authentication-releases-full-support-for-passkeys</id>
-        <link href="https://www.darkreading.com/endpoint/nok-nok-a-global-leader-in-customer-passwordless-authentication-releases-full-support-for-passkeys"/>
-        <updated>2022-10-24T13:32:25.000Z</updated>
-        <summary type="html"><![CDATA[Nok Nok, an inventor of FIDO authentication standards, announces full support for passkeys in its S3 Authentication Suite that allows organizations to replace passwords.]]></summary>
-        <author>
-            <name>Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Phishing for Student Email Accounts]]></title>
-        <id>https://blog.knowbe4.com/phishing-for-student-email-accounts</id>
-        <link href="https://blog.knowbe4.com/phishing-for-student-email-accounts"/>
-        <updated>2022-10-24T13:23:57.000Z</updated>
-        <summary type="html"><![CDATA[University student accounts are being exploited for business email compromise. Researchers at Avanan have observed a rise in attacks that compromise legitimate college student accounts in order to carry out business email compromise (BEC) attacks. “In this attack,” the researchers say, “hackers are compromising student accounts to launch broader BEC and credential harvesting attacks.”]]></summary>
-        <author>
-            <name>Stu Sjouwerman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Embracing the Next Generation of Business Developers]]></title>
-        <id>https://www.darkreading.com/edge-articles/embracing-the-next-generation-of-business-developers</id>
-        <link href="https://www.darkreading.com/edge-articles/embracing-the-next-generation-of-business-developers"/>
-        <updated>2022-10-24T13:15:00.000Z</updated>
-        <summary type="html"><![CDATA[Security teams that embrace low-code/no-code can change the security mindset of business users.]]></summary>
-        <author>
-            <name>Michael Bargury, CTO &amp; Co-Founder, Zenity</name>
         </author>
     </entry>
     <entry>
