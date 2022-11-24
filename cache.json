@@ -4582,6 +4582,17 @@
       "siteUrl": "https://thehackernews.com/",
       "articles": [
         {
+          "id": "tag:blogger.com,1999:blog-4802841478634147276.post-8815321198711459986",
+          "author": "noreply@blogger.com (Ravie Lakshmanan)",
+          "description": "The operators of the RansomExx ransomware have become the latest to develop a new variant fully rewritten in the Rust programming language, following other strains like BlackCat, Hive, and Luna.\nThe latest version, dubbed RansomExx2 by the threat actor known as Hive0091 (aka DefrayX), is primarily designed to run on the Linux operating system, although it's expected that a Windows version will",
+          "link": "https://thehackernews.com/2022/11/new-ransomexx-ransomware-variant.html",
+          "publishedOn": "2022-11-24T13:25:00.000Z",
+          "wordCount": null,
+          "title": "New RansomExx Ransomware Variant Rewritten in the Rust Programming Language",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
           "id": "tag:blogger.com,1999:blog-4802841478634147276.post-4822270535477886728",
           "author": "noreply@blogger.com (Ravie Lakshmanan)",
           "description": "A set of five medium-severity security flaws in Arm's Mali GPU driver has continued to remain unpatched on Android devices for months, despite fixes released by the chipmaker.\nGoogle Project Zero, which discovered and reported the bugs, said Arm addressed the shortcomings in July and August 2022.\n\"These fixes have not yet made it downstream to affected Android devices (including Pixel, Samsung,",
@@ -5964,17 +5975,6 @@
           "publishedOn": "2022-10-26T07:55:00.000Z",
           "wordCount": null,
           "title": "Hackers Actively Exploiting Cisco AnyConnect and GIGABYTE Drivers Vulnerabilities",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "tag:blogger.com,1999:blog-4802841478634147276.post-2203510254033819879",
-          "author": "noreply@blogger.com (Ravie Lakshmanan)",
-          "description": "VMware on Tuesday shipped security updates to address a critical security flaw in its VMware Cloud Foundation product.\nTracked as CVE-2021-39144, the issue has been rated 9.8 out of 10 on the CVSS vulnerability scoring system, and relates to a remote code execution vulnerability via XStream open source library.\n\"Due to an unauthenticated endpoint that leverages XStream for input serialization in",
-          "link": "https://thehackernews.com/2022/10/vmware-releases-patch-for-critical-rce.html",
-          "publishedOn": "2022-10-26T04:24:00.000Z",
-          "wordCount": null,
-          "title": "VMware Releases Patch for Critical RCE Flaw in Cloud Foundation Platform",
           "itunes": {},
           "imageUrl": null
         }

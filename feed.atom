@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-11-24T13:32:23.728Z</updated>
+    <updated>2022-11-24T19:17:18.949Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[New RansomExx Ransomware Variant Rewritten in the Rust Programming Language]]></title>
+        <id>tag:blogger.com,1999:blog-4802841478634147276.post-8815321198711459986</id>
+        <link href="https://thehackernews.com/2022/11/new-ransomexx-ransomware-variant.html"/>
+        <updated>2022-11-24T13:25:00.000Z</updated>
+        <summary type="html"><![CDATA[The operators of the RansomExx ransomware have become the latest to develop a new variant fully rewritten in the Rust programming language, following other strains like BlackCat, Hive, and Luna.
+The latest version, dubbed RansomExx2 by the threat actor known as Hive0091 (aka DefrayX), is primarily designed to run on the Linux operating system, although it's expected that a Windows version will]]></summary>
+        <author>
+            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Millions of Android Devices Still Don't Have Patches for Mali GPU Flaws]]></title>
         <id>tag:blogger.com,1999:blog-4802841478634147276.post-4822270535477886728</id>
@@ -5290,18 +5301,6 @@ The Microsoft Security Threat Intelligence team, which is tracking the threat cl
         <updated>2022-10-26T07:55:00.000Z</updated>
         <summary type="html"><![CDATA[Cisco has warned of active exploitation attempts targeting a pair of two-year-old security flaws in the Cisco AnyConnect Secure Mobility Client for Windows.
 Tracked as CVE-2020-3153 (CVSS score: 6.5) and CVE-2020-3433 (CVSS score: 7.8), the vulnerabilities could enable local authenticated attackers to perform DLL hijacking and copy arbitrary files to system directories with elevated privileges.]]></summary>
-        <author>
-            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[VMware Releases Patch for Critical RCE Flaw in Cloud Foundation Platform]]></title>
-        <id>tag:blogger.com,1999:blog-4802841478634147276.post-2203510254033819879</id>
-        <link href="https://thehackernews.com/2022/10/vmware-releases-patch-for-critical-rce.html"/>
-        <updated>2022-10-26T04:24:00.000Z</updated>
-        <summary type="html"><![CDATA[VMware on Tuesday shipped security updates to address a critical security flaw in its VMware Cloud Foundation product.
-Tracked as CVE-2021-39144, the issue has been rated 9.8 out of 10 on the CVSS vulnerability scoring system, and relates to a remote code execution vulnerability via XStream open source library.
-"Due to an unauthenticated endpoint that leverages XStream for input serialization in]]></summary>
         <author>
             <name>noreply@blogger.com (Ravie Lakshmanan)</name>
         </author>
