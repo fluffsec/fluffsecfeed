@@ -2,10 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-11-25T13:30:32.754Z</updated>
+    <updated>2022-11-25T19:16:48.424Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Slippery RansomExx Malware Moves to Rust, Evading VirusTotal]]></title>
+        <id>https://www.darkreading.com/threat-intelligence/slippery-ransomexx-malware-moves-rust-virustotal</id>
+        <link href="https://www.darkreading.com/threat-intelligence/slippery-ransomexx-malware-moves-rust-virustotal"/>
+        <updated>2022-11-25T15:10:22.000Z</updated>
+        <summary type="html"><![CDATA[A new, harder-to-peg version of the ransomware has been rewritten in the Rust programming language.]]></summary>
+        <author>
+            <name>Dark Reading Staff, Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[For Gaming Companies, Cybersecurity Has Become a Major Value Proposition]]></title>
+        <id>https://www.darkreading.com/threat-intelligence/cybersecurity-major-game-company-value-proposition</id>
+        <link href="https://www.darkreading.com/threat-intelligence/cybersecurity-major-game-company-value-proposition"/>
+        <updated>2022-11-25T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[New users and monetization methods are increasingly profitable for gaming industry, but many companies find they have to stem growth in cheats, hacks, and other fraud to keep customers loyal.]]></summary>
+        <author>
+            <name>Ericka Chickowski, Contributing Writer, Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Update Chrome Browser Now to Patch New Actively Exploited Zero-Day Flaw]]></title>
+        <id>tag:blogger.com,1999:blog-4802841478634147276.post-4484645491107201727</id>
+        <link href="https://thehackernews.com/2022/11/update-chrome-browser-now-to-patch-new.html"/>
+        <updated>2022-11-25T13:12:00.000Z</updated>
+        <summary type="html"><![CDATA[Google on Thursday released software updates to address yet another zero-day flaw in its Chrome web browser.
+Tracked as CVE-2022-4135, the high-severity vulnerability has been described as a heap buffer overflow in the GPU component. Clement Lecigne of Google's Threat Analysis Group (TAG) has been credited with reporting the flaw on November 22, 2022.
+Heap-based buffer overflow bugs can be]]></summary>
+        <author>
+            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Dell, HP, and Lenovo Devices Found Using Outdated OpenSSL Versions]]></title>
         <id>tag:blogger.com,1999:blog-4802841478634147276.post-7971275849284424742</id>
