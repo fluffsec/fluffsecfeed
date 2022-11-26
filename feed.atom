@@ -2,10 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-11-26T02:28:34.061Z</updated>
+    <updated>2022-11-26T07:18:16.594Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[U.S. Bans Chinese Telecom Equipment and Surveillance Cameras Over National Security Risk]]></title>
+        <id>tag:blogger.com,1999:blog-4802841478634147276.post-9050548682051439987</id>
+        <link href="https://thehackernews.com/2022/11/us-bans-chinese-telecom-equipment-and.html"/>
+        <updated>2022-11-26T04:52:00.000Z</updated>
+        <summary type="html"><![CDATA[The U.S. Federal Communications Commission (FCC) formally announced it will no longer authorize electronic equipment from Huawei, ZTE, Hytera, Hikvision, and Dahua, deeming them an "unacceptable" national security threat.
+All these Chinese telecom and video surveillance companies were previously included in the Covered List as of March 12, 2021.
+"The FCC is committed to protecting our national]]></summary>
+        <author>
+            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Russia-based RansomBoggs Ransomware Targeted Several Ukrainian Organizations]]></title>
+        <id>tag:blogger.com,1999:blog-4802841478634147276.post-2434160318089409971</id>
+        <link href="https://thehackernews.com/2022/11/russia-based-ransomboggs-ransomware.html"/>
+        <updated>2022-11-26T04:28:00.000Z</updated>
+        <summary type="html"><![CDATA[Ukraine has come under a fresh onslaught of ransomware attacks that mirror previous intrusions attributed to the Russia-based Sandworm nation-state group.
+Slovak cybersecurity company ESET, which dubbed the new ransomware strain RansomBoggs, said the attacks against several Ukrainian entities were first detected on November 21, 2022.
+"While the malware written in .NET is new, its deployment is]]></summary>
+        <author>
+            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[Send This To Your Users] 5 Top Scams To Watch Out For This Holiday Season]]></title>
         <id>https://blog.knowbe4.com/send-this-to-your-users-5-top-scams-to-watch-out-for-this-holiday-season</id>
@@ -4838,115 +4862,6 @@ It is "part of a complex and interconnected malware ecosystem, with links to oth
         <summary type="html"><![CDATA[Apple engineers share technical details about the team's work on memory safety features on the new Apple Security Research site.]]></summary>
         <author>
             <name>Dark Reading Staff, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[iOS Bug Lets Apps Record Siri Conversations]]></title>
-        <id>https://www.darkreading.com/mobile/ios-bug-apps-record-siri-conversations</id>
-        <link href="https://www.darkreading.com/mobile/ios-bug-apps-record-siri-conversations"/>
-        <updated>2022-10-27T19:15:00.000Z</updated>
-        <summary type="html"><![CDATA[Without even asking for permissions, the newly discovered 'SiriSpy' flaw in Apple's iOS Bluetooth access could allow someone to access user interactions with Siri and keyboard-dictation audio.]]></summary>
-        <author>
-            <name>Dark Reading Staff, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CISA Releases Four Industrial Control Systems Advisories]]></title>
-        <id>18105 at https://us-cert.cisa.gov</id>
-        <link href="https://us-cert.cisa.gov/ncas/current-activity/2022/10/27/cisa-releases-four-industrial-control-systems-advisories"/>
-        <updated>2022-10-27T19:07:46.000Z</updated>
-        <summary type="html"><![CDATA[Original release date: October 27, 2022
-CISA has released four (4) Industrial Control Systems (ICS) advisories on October 27, 2022. These advisories provide timely information about current security issues, vulnerabilities, and exploits surrounding ICS.
-CISA encourages users and administrators to review the newly released ICS advisory for technical details and mitigations:
-•    ICSA-22-300-01 Rockwell Automation FactoryTalk Alarm and Events Server
-SAUTER Controls moduWeb
-Rockwell Automation Stratix Devices Containing Cisco IOS
-Trihedral VTScada
-This product is provided subject to this Notification and this Privacy & Use policy.]]></summary>
-        <author>
-            <name>CISA</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Raspberry Robin's Cyber Worm Infects Thousands of Endpoints]]></title>
-        <id>https://www.darkreading.com/threat-intelligence/raspberry-robin-cyber-worm-infects-thousands-endpoints</id>
-        <link href="https://www.darkreading.com/threat-intelligence/raspberry-robin-cyber-worm-infects-thousands-endpoints"/>
-        <updated>2022-10-27T18:50:00.000Z</updated>
-        <summary type="html"><![CDATA[The malware is being used to deliver Clop ransomware, in a vicious spate of October attacks that show an evolution in its methods.]]></summary>
-        <author>
-            <name>Tara Seals, Managing Editor, News, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NY Post Falls Victim to Insider Threat]]></title>
-        <id>https://www.darkreading.com/attacks-breaches/ny-post-falls-victim-to-insider-threat</id>
-        <link href="https://www.darkreading.com/attacks-breaches/ny-post-falls-victim-to-insider-threat"/>
-        <updated>2022-10-27T18:44:00.000Z</updated>
-        <summary type="html"><![CDATA[A malicious employee was behind hateful, violent messages on the Post's website and Twitter account, the paper has confirmed.]]></summary>
-        <author>
-            <name>Dark Reading Staff, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Prepare Now for Critical Flaw in OpenSSL, Security Experts Warn]]></title>
-        <id>https://www.darkreading.com/vulnerabilities-threats/prepare-critical-flaw-openssl-security-experts-warn</id>
-        <link href="https://www.darkreading.com/vulnerabilities-threats/prepare-critical-flaw-openssl-security-experts-warn"/>
-        <updated>2022-10-27T17:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Even if the security bug is not another Heartbleed, prepare like it might be, they note — it has potentially sprawling ramifications.]]></summary>
-        <author>
-            <name>Jai Vijayan, Contributing Writer, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google Trumpets US Federal Open Source Security Initiative]]></title>
-        <id>https://www.darkreading.com/risk/google-trumpets-us-federal-open-source-security-initiative</id>
-        <link href="https://www.darkreading.com/risk/google-trumpets-us-federal-open-source-security-initiative"/>
-        <updated>2022-10-27T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A bipartisan bill aims to create a usable framework for the use of open source components when building applications, which Google is urging the private sector to support.]]></summary>
-        <author>
-            <name>Dark Reading Staff, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Persona Launches Unified Identity Platform to Fight Fraud and Reduce Compliance Risk]]></title>
-        <id>https://www.darkreading.com/risk/persona-launches-unified-identity-platform-to-fight-fraud-and-reduce-compliance-risk</id>
-        <link href="https://www.darkreading.com/risk/persona-launches-unified-identity-platform-to-fight-fraud-and-reduce-compliance-risk"/>
-        <updated>2022-10-27T15:13:19.000Z</updated>
-        <summary type="html"><![CDATA[Industry-first unified identity platform provides the building blocks to help businesses build and operate their unique identity process end-to-end.]]></summary>
-        <author>
-            <name>Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cybersecurity Startup Protexxa Raises $4 Million in Seed Funding to Protect Businesses and Individuals Online as Cybercrime Accelerates]]></title>
-        <id>https://www.darkreading.com/risk/cybersecurity-startup-protexxa-raises-4-million-in-seed-funding-to-protect-businesses-and-individuals-online-as-cybercrime-accelerates</id>
-        <link href="https://www.darkreading.com/risk/cybersecurity-startup-protexxa-raises-4-million-in-seed-funding-to-protect-businesses-and-individuals-online-as-cybercrime-accelerates"/>
-        <updated>2022-10-27T15:08:18.000Z</updated>
-        <summary type="html"><![CDATA[70% of investors on the cap table are women.]]></summary>
-        <author>
-            <name>Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cyberattackers Target Instagram Users With Threats of Copyright Infringement]]></title>
-        <id>https://www.darkreading.com/application-security/cyberttackers-target-instagram-users-threats-copyright-infringement</id>
-        <link href="https://www.darkreading.com/application-security/cyberttackers-target-instagram-users-threats-copyright-infringement"/>
-        <updated>2022-10-27T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A novel campaign is using an emerging URL redirection tactic to try to trick business users and others into clicking on an embedded link and giving up credentials.]]></summary>
-        <author>
-            <name>Elizabeth Montalbano, Contributor, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[British Hacker Charged for Operating "The Real Deal" Dark Web Marketplace]]></title>
-        <id>tag:blogger.com,1999:blog-4802841478634147276.post-47313247379388626</id>
-        <link href="https://thehackernews.com/2022/10/british-hacker-charged-for-operating.html"/>
-        <updated>2022-10-27T14:36:00.000Z</updated>
-        <summary type="html"><![CDATA[A 34-year-old U.K. national has been arraigned in the U.S. for operating a dark web marketplace called The Real Deal that specialized in the sales of hacking tools and stolen login credentials.
-Daniel Kaye, who went by a litany of pseudonyms Popopret, Bestbuy, UserL0ser, and Spdrman, has been charged with five counts of access device fraud and one count of money laundering conspiracy.
-Kaye was]]></summary>
-        <author>
-            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
         </author>
     </entry>
     <entry>
