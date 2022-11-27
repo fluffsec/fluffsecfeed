@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-11-26T19:16:28.159Z</updated>
+    <updated>2022-11-27T02:42:57.237Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[WhatsApp data breach sees nearly 500 million user records up for sale]]></title>
+        <id>https://blog.knowbe4.com/whatsapp-data-breach-sees-nearly-500-million-user-records-up-for-sale</id>
+        <link href="https://blog.knowbe4.com/whatsapp-data-breach-sees-nearly-500-million-user-records-up-for-sale"/>
+        <updated>2022-11-26T20:29:06.000Z</updated>
+        <summary type="html"><![CDATA[Craig Hale at Techradar reported: "A post on a “well-known hacking community forum” claims almost half a billion WhatsApp records have been breached and are up for sale.]]></summary>
+        <author>
+            <name>Stu Sjouwerman</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[All You Need to Know About Emotet in 2022]]></title>
         <id>tag:blogger.com,1999:blog-4802841478634147276.post-4351368928234793494</id>
@@ -4697,173 +4707,6 @@ This product is provided subject to this Notification and this Privacy & Use pol
         <summary type="html"><![CDATA[The next generation of cybersecurity pros will need to participate frequently in relevant training to expand their skills and stay engaged.]]></summary>
         <author>
             <name>Nathan Eddy, Contributing Writer, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[High-Severity Flaws in Juniper Junos OS Affect Enterprise Networking Devices]]></title>
-        <id>tag:blogger.com,1999:blog-4802841478634147276.post-6032048706021417104</id>
-        <link href="https://thehackernews.com/2022/10/high-severity-flaws-in-juniper-junos-os.html"/>
-        <updated>2022-10-28T14:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Multiple high-severity security flaws have been disclosed as affecting Juniper Networks devices, some of which could be exploited to achieve code execution.
-Chief among them is a remote pre-authenticated PHP archive file deserialization vulnerability (CVE-2022-22241, CVSS score: 8.1) in the J-Web component of Junos OS, according to Octagon Networks researcher Paulos Yibelo.
-"This vulnerability]]></summary>
-        <author>
-            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Over Two-Thirds of Organizations Have No Ransomware-Specific Incident Response Playbook]]></title>
-        <id>https://blog.knowbe4.com/over-two-thirds-of-organizations-have-no-ransomware-specific-incident-response-playbook</id>
-        <link href="https://blog.knowbe4.com/over-two-thirds-of-organizations-have-no-ransomware-specific-incident-response-playbook"/>
-        <updated>2022-10-28T14:16:34.000Z</updated>
-        <summary type="html"><![CDATA[A newly released report on ransomware preparedness shows organizations are improving their security stance in comparison to last year, but overall still aren’t doing enough.]]></summary>
-        <author>
-            <name>Stu Sjouwerman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cranefly Cyberspy Group Spawns Unique ISS Technique]]></title>
-        <id>https://www.darkreading.com/risk/cranefly-cyberspy-group-spawns-unique-iss-technique</id>
-        <link href="https://www.darkreading.com/risk/cranefly-cyberspy-group-spawns-unique-iss-technique"/>
-        <updated>2022-10-28T14:05:08.000Z</updated>
-        <summary type="html"><![CDATA[The threat actor uses commands from legitimate IIS logs to communicate with custom tools in a savvy bid to hide traces of its activity on victim machines.]]></summary>
-        <author>
-            <name>Nathan Eddy, Contributing Writer, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Reimagining the Role of the CISO]]></title>
-        <id>https://www.darkreading.com/careers-and-people/reimagining-the-role-of-the-ciso</id>
-        <link href="https://www.darkreading.com/careers-and-people/reimagining-the-role-of-the-ciso"/>
-        <updated>2022-10-28T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Embedding security throughout your company has greater organizational impact and myriad benefits.]]></summary>
-        <author>
-            <name>Pat Muoio,  General Partner, SineWave Ventures</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cloud Providers Throw Their Weight Behind Confidential Computing]]></title>
-        <id>https://www.darkreading.com/dr-tech/cloud-providers-are-putting-more-weight-in-confidential-computing</id>
-        <link href="https://www.darkreading.com/dr-tech/cloud-providers-are-putting-more-weight-in-confidential-computing"/>
-        <updated>2022-10-28T13:50:00.000Z</updated>
-        <summary type="html"><![CDATA[New technologies designed into processors allow enterprises to leverage cloud advantages while meeting privacy regulations.]]></summary>
-        <author>
-            <name>Agam Shah, Contributing Writer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[These Dropper Apps On Play Store Targeting Over 200 Banking and Cryptocurrency Wallets]]></title>
-        <id>tag:blogger.com,1999:blog-4802841478634147276.post-4051193707469935207</id>
-        <link href="https://thehackernews.com/2022/10/these-dropper-apps-on-play-store.html"/>
-        <updated>2022-10-28T13:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Five malicious dropper Android apps with over 130,000 cumulative installations have been discovered on the Google Play Store distributing banking trojans like SharkBot and Vultur, which are capable of stealing financial data and performing on-device fraud.
-"These droppers continue the unstopping evolution of malicious apps sneaking to the official store," Dutch mobile security firm ThreatFabric]]></summary>
-        <author>
-            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cloud Security Made Simple in New Guidebook For Lean Teams]]></title>
-        <id>tag:blogger.com,1999:blog-4802841478634147276.post-2430371662697958169</id>
-        <link href="https://thehackernews.com/2022/10/cloud-security-made-simple-in-new.html"/>
-        <updated>2022-10-28T13:25:00.000Z</updated>
-        <summary type="html"><![CDATA[Cloud computing was the lifeline that kept many companies running during the pandemic. But it was a classic case of medicine that comes with serious side effects. 
-Having anywhere, anytime access to data and apps gives companies tremendous flexibility in a fast-changing world, plus the means to scale and customize IT at will. The cloud is an asset or upgrade in almost every way.
-With one glaring]]></summary>
-        <author>
-            <name>noreply@blogger.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Joint CISA FBI MS-ISAC Guide on Responding to DDoS Attacks and DDoS Guidance for Federal Agencies]]></title>
-        <id>18111 at https://us-cert.cisa.gov</id>
-        <link href="https://us-cert.cisa.gov/ncas/current-activity/2022/10/28/joint-cisa-fbi-ms-isac-guide-responding-ddos-attacks-and-ddos"/>
-        <updated>2022-10-28T12:39:27.000Z</updated>
-        <summary type="html"><![CDATA[Original release date: October 28, 2022
-CISA, the Federal Bureau of Investigation (FBI), and the Multi-State Information Sharing and Analysis Center (MS-ISAC) have released Understanding and Responding to Distributed Denial-of-Service Attacks to provide organizations proactive steps to reduce the likelihood and impact of distributed denial-of-service (DDoS) attacks. The guidance is for both network defenders and leaders to help them understand and respond to DDoS attacks, which can cost an organization time, money, and reputational damage.
-Concurrently, CISA has released Capacity Enhancement Guide (CEG): Additional DDoS Guidance for Federal Agencies, which provides federal civilian executive branch (FCEB) agencies additional DDoS guidance, including recommended FCEB contract vehicles and services that provide DDoS protection and mitigations. 
-CISA encourages all network defenders and leaders to review:
-Joint guide: Understanding and Responding to Distributed Denial-of-Service Attacks
-	
-https://www.cisa.gov/sites/default/files/publications/understanding-and-responding-to-ddos-attacks_508c.pdf
-CEG: Additional DDoS Guidance for Federal Agencies
-	
-https://www.cisa.gov/sites/default/files/publications/ceg-additional-ddos-guidance-for-federal-agencies_508c.pdf
-Tip: Understanding Denial-of-Service Attacks
-	
-https://www.cisa.gov/uscert/ncas/tips/ST04-015
-This product is provided subject to this Notification and this Privacy & Use policy.]]></summary>
-        <author>
-            <name>CISA</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Your KnowBe4 Fresh Content Updates from October 2022]]></title>
-        <id>https://blog.knowbe4.com/knowbe4-fresh-content-updates-october-2022</id>
-        <link href="https://blog.knowbe4.com/knowbe4-fresh-content-updates-october-2022"/>
-        <updated>2022-10-28T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Check out the 29 new pieces of training content added in September, alongside the always fresh content update highlights and new features.]]></summary>
-        <author>
-            <name>Stu Sjouwerman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[VMware Releases Security Updates]]></title>
-        <id>18110 at https://us-cert.cisa.gov</id>
-        <link href="https://us-cert.cisa.gov/ncas/current-activity/2022/10/28/vmware-releases-security-updates"/>
-        <updated>2022-10-28T11:47:20.000Z</updated>
-        <summary type="html"><![CDATA[Original release date: October 28, 2022
-VMware has released security updates to address multiple vulnerabilities in VMware Cloud Foundation. A remote attacker could exploit one of these vulnerabilities to take control of an affected system.
-CISA encourages users and administrators to review VMware Security Advisory VMSA-2022-002 and apply the necessary updates and workarounds.
-This product is provided subject to this Notification and this Privacy & Use policy.]]></summary>
-        <author>
-            <name>CISA</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Researchers Uncover Stealthy Techniques Used by Cranefly Espionage Hackers]]></title>
-        <id>tag:blogger.com,1999:blog-4802841478634147276.post-2276785840864964290</id>
-        <link href="https://thehackernews.com/2022/10/researchers-uncover-stealthy-techniques.html"/>
-        <updated>2022-10-28T11:01:00.000Z</updated>
-        <summary type="html"><![CDATA[A recently discovered hacking group known for targeting employees dealing with corporate transactions has been linked to a new backdoor called Danfuan.
-This hitherto undocumented malware is delivered via another dropper called Geppei, researchers from Symantec, by Broadcom Software, said in a report shared with The Hacker News.
-The dropper "is being used to install a new backdoor and other tools]]></summary>
-        <author>
-            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Implementing Defense in Depth to Prevent and Mitigate Cyber Attacks]]></title>
-        <id>tag:blogger.com,1999:blog-4802841478634147276.post-2014022046389101057</id>
-        <link href="https://thehackernews.com/2022/10/implementing-defense-in-depth-to.html"/>
-        <updated>2022-10-28T10:43:00.000Z</updated>
-        <summary type="html"><![CDATA[The increased use of information technology in our everyday life and business has led to cyber-attacks becoming more sophisticated and large-scale. For organizations to thrive in this era of technology, they must develop robust security strategies to detect and mitigate attacks. Defense in depth is a strategy in which companies use multiple layers of security measures to safeguard assets. A]]></summary>
-        <author>
-            <name>noreply@blogger.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google Issues Urgent Chrome Update to Patch Actively Exploited Zero-Day Vulnerability]]></title>
-        <id>tag:blogger.com,1999:blog-4802841478634147276.post-3833126816640401699</id>
-        <link href="https://thehackernews.com/2022/10/google-issues-urgent-chrome-update-to.html"/>
-        <updated>2022-10-28T10:40:00.000Z</updated>
-        <summary type="html"><![CDATA[Google on Thursday rolled out emergency fixes to contain an actively exploited zero-day flaw in its Chrome web browser.
-The vulnerability, tracked as CVE-2022-3723, has been described as a type confusion flaw in the V8 JavaScript engine.
-Security researchers Jan Vojtěšek, Milánek, and Przemek Gmerek of Avast have been credited with reporting the flaw on October 25, 2022.
-"Google is aware of]]></summary>
-        <author>
-            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Raspberry Robin Operators Selling Cybercriminals Access to Thousands of Endpoints]]></title>
-        <id>tag:blogger.com,1999:blog-4802841478634147276.post-3129712812030401848</id>
-        <link href="https://thehackernews.com/2022/10/raspberry-robin-operators-selling.html"/>
-        <updated>2022-10-28T10:18:00.000Z</updated>
-        <summary type="html"><![CDATA[The Raspberry Robin worm is becoming an access-as-a-service malware for deploying other payloads, including IcedID, Bumblebee, TrueBot (aka Silence), and Clop ransomware.
-It is "part of a complex and interconnected malware ecosystem, with links to other malware families and alternate infection methods beyond its original USB drive spread," the Microsoft Security Threat Intelligence Center (MSTIC]]></summary>
-        <author>
-            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
         </author>
     </entry>
     <entry>
