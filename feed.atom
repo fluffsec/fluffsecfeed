@@ -2,10 +2,80 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-11-28T13:31:54.074Z</updated>
+    <updated>2022-11-28T19:17:19.445Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Black Basta Gang Deploys Qakbot Malware in Aggressive Cyber Campaign]]></title>
+        <id>https://www.darkreading.com/threat-intelligence/black-basta-gang-deploys-qakbot-malware-cyber-campaign</id>
+        <link href="https://www.darkreading.com/threat-intelligence/black-basta-gang-deploys-qakbot-malware-cyber-campaign"/>
+        <updated>2022-11-28T19:10:31.000Z</updated>
+        <summary type="html"><![CDATA[The ransomware group is using Qakbot to make the initial point of entry before moving laterally within an organization’s network.]]></summary>
+        <author>
+            <name>Nathan Eddy, Contributing Writer, Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[$275M Fine for Meta After Facebook Data Scrape]]></title>
+        <id>https://www.darkreading.com/threat-intelligence/facebook-data-scrape-meta-265m-fine</id>
+        <link href="https://www.darkreading.com/threat-intelligence/facebook-data-scrape-meta-265m-fine"/>
+        <updated>2022-11-28T18:11:09.000Z</updated>
+        <summary type="html"><![CDATA[Meta has been found in violation of Europe's GDPR rules requiring the social media giant to protect user data by "design and default."]]></summary>
+        <author>
+            <name>Dark Reading Staff, Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Users Can Engage with Training Anytime with KnowBe4's Mobile Learner App]]></title>
+        <id>https://blog.knowbe4.com/let-users-engage-with-training-anytime-with-knowbe4-mobile-learner-app</id>
+        <link href="https://blog.knowbe4.com/let-users-engage-with-training-anytime-with-knowbe4-mobile-learner-app"/>
+        <updated>2022-11-28T17:40:59.000Z</updated>
+        <summary type="html"><![CDATA[We’re excited to introduce a new way for your users to engage with KnowBe4 security awareness and compliance training anytime and anywhere with the KnowBe4 Learner App. And the best part? It’s available with all training subscription levels at no additional cost!]]></summary>
+        <author>
+            <name>Stu Sjouwerman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[There’s No Such Thing as a Free Yeti, Only Social Engineering Tactics]]></title>
+        <id>https://blog.knowbe4.com/theres-no-such-thing-as-a-free-yeti-only-social-engineering-tactics</id>
+        <link href="https://blog.knowbe4.com/theres-no-such-thing-as-a-free-yeti-only-social-engineering-tactics"/>
+        <updated>2022-11-28T16:34:57.000Z</updated>
+        <summary type="html"><![CDATA[It’s easy to think of the typical online holiday scam as something that affects mostly individuals. Sad, maybe, and unfortunate, but not something that might seriously threaten a business, or another organization.]]></summary>
+        <author>
+            <name>Stu Sjouwerman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[KnowBe4 Launches New Mobile Learner App for Cybersecurity Learning]]></title>
+        <id>https://www.darkreading.com/remote-workforce/knowbe4-launches-new-mobile-learner-app-for-cybersecurity-learning</id>
+        <link href="https://www.darkreading.com/remote-workforce/knowbe4-launches-new-mobile-learner-app-for-cybersecurity-learning"/>
+        <updated>2022-11-28T15:45:28.000Z</updated>
+        <summary type="html"><![CDATA[KnowBe4 empowers end users by introducing security awareness and compliance training on the go at no additional cost.]]></summary>
+        <author>
+            <name>Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NanoLock Brings Built-In Meter-Level Cybersecurity to Renesas Customers]]></title>
+        <id>https://www.darkreading.com/ics-ot/nanolock-brings-built-in-meter-level-cybersecurity-to-renesas-customers</id>
+        <link href="https://www.darkreading.com/ics-ot/nanolock-brings-built-in-meter-level-cybersecurity-to-renesas-customers"/>
+        <updated>2022-11-28T15:13:57.000Z</updated>
+        <summary type="html"><![CDATA[The DLMS-compatible, zero-trust meter-level security is built into the Renesas smart meter solutions, enabling smart meter manufacturers to get to market faster with built-in advanced security solutions.]]></summary>
+        <author>
+            <name>Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bring Your Own Key — A Placebo?]]></title>
+        <id>https://www.darkreading.com/cloud/bring-your-own-key-a-placebo-</id>
+        <link href="https://www.darkreading.com/cloud/bring-your-own-key-a-placebo-"/>
+        <updated>2022-11-28T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[BYOK was envisioned to reduce the risk of using a cloud service provider processing sensitive data, yet there are several deficiencies.]]></summary>
+        <author>
+            <name>Erez Kalman, Security Architect | CISSP-ISSAP, CISM, CISA, CSSLP, CCSP, CDPSE</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Researchers Detail AppSync Cross-Tenant Vulnerability in Amazon Web Services]]></title>
         <id>tag:blogger.com,1999:blog-4802841478634147276.post-188419547121435719</id>
@@ -16,6 +86,17 @@ The issue relates to a confused deputy problem, a type of privilege escalation 
 The shortcoming was reported]]></summary>
         <author>
             <name>noreply@blogger.com (Ravie Lakshmanan)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The 5 Cornerstones for an Effective Cyber Security Awareness Training]]></title>
+        <id>tag:blogger.com,1999:blog-4802841478634147276.post-4057173304164595833</id>
+        <link href="https://thehackernews.com/2022/11/the-5-cornerstones-for-effective-cyber.html"/>
+        <updated>2022-11-28T11:45:00.000Z</updated>
+        <summary type="html"><![CDATA[It's not news that phishing attacks are getting more complex and happening more often. This year alone, APWG reported a record-breaking total of 1,097,811 phishing attacks. These attacks continue to target organizations and individuals to gain their sensitive information. 
+The hard news: they're often successful, have a long-lasting negative impact on your organization and employees, including:]]></summary>
+        <author>
+            <name>noreply@blogger.com (The Hacker News)</name>
         </author>
     </entry>
     <entry>
