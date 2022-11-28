@@ -2,10 +2,33 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-11-28T07:18:52.539Z</updated>
+    <updated>2022-11-28T13:31:54.074Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Researchers Detail AppSync Cross-Tenant Vulnerability in Amazon Web Services]]></title>
+        <id>tag:blogger.com,1999:blog-4802841478634147276.post-188419547121435719</id>
+        <link href="https://thehackernews.com/2022/11/researchers-detail-appsync-cross-tenant.html"/>
+        <updated>2022-11-28T11:56:00.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Web Services (AWS) has resolved a cross-tenant vulnerability in its platform that could be weaponized by an attacker to gain unauthorized access to resources.
+The issue relates to a confused deputy problem, a type of privilege escalation where a program that doesn't have permission to perform an action can coerce a more-privileged entity to perform the action.
+The shortcoming was reported]]></summary>
+        <author>
+            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Over a Dozen New BMC Firmware Flaws Expose OT and IoT Devices to Remote Attacks]]></title>
+        <id>tag:blogger.com,1999:blog-4802841478634147276.post-6572422355868986781</id>
+        <link href="https://thehackernews.com/2022/11/over-dozen-new-bmc-firmware-flaws.html"/>
+        <updated>2022-11-28T10:07:00.000Z</updated>
+        <summary type="html"><![CDATA[Over a dozen security flaws have been discovered in baseboard management controller (BMC) firmware from Lanner that could expose operational technology (OT) and internet of things (IoT) networks to remote attacks.
+BMC refers to a specialized service processor, a system-on-chip (SoC), that's found in server motherboards and is used for remote monitoring and management of a host system, including]]></summary>
+        <author>
+            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Elon Musk Confirms Twitter 2.0 will Bring End-to-End Encryption to Direct Messages]]></title>
         <id>tag:blogger.com,1999:blog-4802841478634147276.post-1537754773118749838</id>
