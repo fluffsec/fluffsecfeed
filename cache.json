@@ -33,6 +33,16 @@
       "siteUrl": "https://us-cert.cisa.gov/",
       "articles": [
         {
+          "id": "18176 at https://us-cert.cisa.gov",
+          "author": "CISA",
+          "description": "Original release date: November 28, 2022\nCISA has added two new vulnerabilities to its Known Exploited Vulnerabilities Catalog, based on evidence of active exploitation. These types of vulnerabilities are frequent attack vectors for malicious cyber actors and pose significant risks to the federal enterprise. Note: To view the newly added vulnerabilities in the catalog, click on the arrow in the \"Date Added to Catalog\" column, which will sort by descending dates.\nBinding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the Known Exploited Vulnerabilities Catalog as a living list of known CVEs that carry significant risk to the federal enterprise. BOD 22-01 requires FCEB agencies to remediate identified vulnerabilities by the due date to protect FCEB networks against active threats. See the BOD 22-01 Fact Sheet for more information.\nAlthough BOD 22-01 only applies to FCEB agencies, CISA strongly urges all organizations to reduce their exposure to cyberattacks by prioritizing timely remediation of Catalog vulnerabilities as part of their vulnerability management practice. CISA will continue to add vulnerabilities to the Catalog that meet the specified criteria.\nThis product is provided subject to this Notification and this Privacy & Use policy.",
+          "link": "https://us-cert.cisa.gov/ncas/current-activity/2022/11/28/cisa-adds-two-known-exploited-vulnerabilities-catalog",
+          "publishedOn": "2022-11-28T17:19:51.000Z",
+          "wordCount": 1005,
+          "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
+          "imageUrl": null
+        },
+        {
           "id": "18169 at https://us-cert.cisa.gov",
           "author": "CISA",
           "description": "Original release date: November 22, 2022\nCISA has released eight (8) Industrial Control Systems (ICS) advisories on 22 November 2022. These advisories provide timely information about current security issues, vulnerabilities, and exploits surrounding ICS.\nCISA encourages users and administrators to review the newly released ICS advisory for technical details and mitigations:\n•    ICSA-22-326-01 AVEVA Edge\nDigital Alert Systems DASDEC\nPhoenix Contact Automation Worx\nGE Cimplicity\nMoxa Multiple ARM-Based Computers\nHillrom Medical Device Management (Update C)\nMitsubishi Electric Factory Automation Engineering Products (Update I)\nMitsubishi Electric FA Engineering Software Products (Update G)\nThis product is provided subject to this Notification and this Privacy & Use policy.",
@@ -350,6 +360,51 @@
       "feedUrl": "https://www.darkreading.com/rss.xml",
       "siteUrl": "https://www.darkreading.com",
       "articles": [
+        {
+          "id": "https://www.darkreading.com/attacks-breaches/cybersecurity-consolidation-continues-valuations-stall",
+          "author": "Robert Lemos, Contributing Writer, Dark Reading",
+          "description": "Financing and acquisitions are trending toward smaller deals, which means fewer high-valuation purchases and funding, but likely fewer post-merger layoffs as well.",
+          "link": "https://www.darkreading.com/attacks-breaches/cybersecurity-consolidation-continues-valuations-stall",
+          "publishedOn": "2022-11-28T21:27:23.000Z",
+          "wordCount": 13019,
+          "title": "Cybersecurity Consolidation Continues, Even as Valuations Stall",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt58481326324d6911/60b1e9a55d34de550780a990/Robert-Lemos.png",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt58481326324d6911/60b1e9a55d34de550780a990/Robert-Lemos.png"
+        },
+        {
+          "id": "https://www.darkreading.com/threat-intelligence/cyber-threat-weak-windows-servers-bleed-you-campaign",
+          "author": "Dark Reading Staff, Dark Reading",
+          "description": "More than 1,000 systems are exposed to a campaign hunting weak Windows servers and more.",
+          "link": "https://www.darkreading.com/threat-intelligence/cyber-threat-weak-windows-servers-bleed-you-campaign",
+          "publishedOn": "2022-11-28T20:44:43.000Z",
+          "wordCount": 10522,
+          "title": "Cyber-Threat Group Targets Critical RCE Vulnerability in 'Bleed You' Campaign",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blte161b23f0fd3a84b/60b1ea374e7eb868c4c6a293/dr_staff_125x125.jpg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blte161b23f0fd3a84b/60b1ea374e7eb868c4c6a293/dr_staff_125x125.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/threat-intelligence/global-cyber-enforcement-op-nets-130-million-interpol",
+          "author": "Robert Lemos, Contributing Writer, Dark Reading",
+          "description": "A worldwide operation aimed at curtailing fraud has led to the arrest of 975 suspects and the seizure of nearly $130 million, as Interpol expands its efforts and brings new tools to its investigations.",
+          "link": "https://www.darkreading.com/threat-intelligence/global-cyber-enforcement-op-nets-130-million-interpol",
+          "publishedOn": "2022-11-28T20:03:33.000Z",
+          "wordCount": 12855,
+          "title": "Global Cyber-Enforcement Op Nets $130M, Says Interpol",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt58481326324d6911/60b1e9a55d34de550780a990/Robert-Lemos.png",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt58481326324d6911/60b1e9a55d34de550780a990/Robert-Lemos.png"
+        },
         {
           "id": "https://www.darkreading.com/threat-intelligence/black-basta-gang-deploys-qakbot-malware-cyber-campaign",
           "author": "Nathan Eddy, Contributing Writer, Dark Reading",

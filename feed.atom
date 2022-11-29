@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-11-28T19:17:19.445Z</updated>
+    <updated>2022-11-29T02:34:08.827Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Cybersecurity Consolidation Continues, Even as Valuations Stall]]></title>
+        <id>https://www.darkreading.com/attacks-breaches/cybersecurity-consolidation-continues-valuations-stall</id>
+        <link href="https://www.darkreading.com/attacks-breaches/cybersecurity-consolidation-continues-valuations-stall"/>
+        <updated>2022-11-28T21:27:23.000Z</updated>
+        <summary type="html"><![CDATA[Financing and acquisitions are trending toward smaller deals, which means fewer high-valuation purchases and funding, but likely fewer post-merger layoffs as well.]]></summary>
+        <author>
+            <name>Robert Lemos, Contributing Writer, Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cyber-Threat Group Targets Critical RCE Vulnerability in 'Bleed You' Campaign]]></title>
+        <id>https://www.darkreading.com/threat-intelligence/cyber-threat-weak-windows-servers-bleed-you-campaign</id>
+        <link href="https://www.darkreading.com/threat-intelligence/cyber-threat-weak-windows-servers-bleed-you-campaign"/>
+        <updated>2022-11-28T20:44:43.000Z</updated>
+        <summary type="html"><![CDATA[More than 1,000 systems are exposed to a campaign hunting weak Windows servers and more.]]></summary>
+        <author>
+            <name>Dark Reading Staff, Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Global Cyber-Enforcement Op Nets $130M, Says Interpol]]></title>
+        <id>https://www.darkreading.com/threat-intelligence/global-cyber-enforcement-op-nets-130-million-interpol</id>
+        <link href="https://www.darkreading.com/threat-intelligence/global-cyber-enforcement-op-nets-130-million-interpol"/>
+        <updated>2022-11-28T20:03:33.000Z</updated>
+        <summary type="html"><![CDATA[A worldwide operation aimed at curtailing fraud has led to the arrest of 975 suspects and the seizure of nearly $130 million, as Interpol expands its efforts and brings new tools to its investigations.]]></summary>
+        <author>
+            <name>Robert Lemos, Contributing Writer, Dark Reading</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Black Basta Gang Deploys Qakbot Malware in Aggressive Cyber Campaign]]></title>
         <id>https://www.darkreading.com/threat-intelligence/black-basta-gang-deploys-qakbot-malware-cyber-campaign</id>
@@ -34,6 +64,20 @@
         <summary type="html"><![CDATA[We’re excited to introduce a new way for your users to engage with KnowBe4 security awareness and compliance training anytime and anywhere with the KnowBe4 Learner App. And the best part? It’s available with all training subscription levels at no additional cost!]]></summary>
         <author>
             <name>Stu Sjouwerman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CISA Adds Two Known Exploited Vulnerabilities to Catalog]]></title>
+        <id>18176 at https://us-cert.cisa.gov</id>
+        <link href="https://us-cert.cisa.gov/ncas/current-activity/2022/11/28/cisa-adds-two-known-exploited-vulnerabilities-catalog"/>
+        <updated>2022-11-28T17:19:51.000Z</updated>
+        <summary type="html"><![CDATA[Original release date: November 28, 2022
+CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities Catalog, based on evidence of active exploitation. These types of vulnerabilities are frequent attack vectors for malicious cyber actors and pose significant risks to the federal enterprise. Note: To view the newly added vulnerabilities in the catalog, click on the arrow in the "Date Added to Catalog" column, which will sort by descending dates.
+Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the Known Exploited Vulnerabilities Catalog as a living list of known CVEs that carry significant risk to the federal enterprise. BOD 22-01 requires FCEB agencies to remediate identified vulnerabilities by the due date to protect FCEB networks against active threats. See the BOD 22-01 Fact Sheet for more information.
+Although BOD 22-01 only applies to FCEB agencies, CISA strongly urges all organizations to reduce their exposure to cyberattacks by prioritizing timely remediation of Catalog vulnerabilities as part of their vulnerability management practice. CISA will continue to add vulnerabilities to the Catalog that meet the specified criteria.
+This product is provided subject to this Notification and this Privacy & Use policy.]]></summary>
+        <author>
+            <name>CISA</name>
         </author>
     </entry>
     <entry>
