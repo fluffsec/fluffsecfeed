@@ -2,10 +2,121 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-11-30T13:34:11.133Z</updated>
+    <updated>2022-11-30T19:17:58.995Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How Banks Can Upgrade Security Without Affecting Client Service]]></title>
+        <id>https://www.darkreading.com/vulnerabilities-threats/how-banks-can-upgrade-security-without-affecting-client-service</id>
+        <link href="https://www.darkreading.com/vulnerabilities-threats/how-banks-can-upgrade-security-without-affecting-client-service"/>
+        <updated>2022-11-30T18:00:00.000Z</updated>
+        <summary type="html"><![CDATA[New protective measures work behind the scenes, with little impact on the customer experience.]]></summary>
+        <author>
+            <name>Chris Mastrangelo, Chief Compliance Officer, Grasshopper Bank</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New Exploit Broker on the Scene Pays Premium for Signal App Zero-Days]]></title>
+        <id>https://www.darkreading.com/application-security/new-exploit-broker-pays-premium-signal-app-zero-days</id>
+        <link href="https://www.darkreading.com/application-security/new-exploit-broker-pays-premium-signal-app-zero-days"/>
+        <updated>2022-11-30T17:05:15.000Z</updated>
+        <summary type="html"><![CDATA[Signal messaging app zero-day vulnerabilities have sparked a $1.5M bidding match, as gray-market exploit brokers flourish in today's geopolitical climate.]]></summary>
+        <author>
+            <name>Ericka Chickowski, Contributing Writer, Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SPHERE Receives $31M for Series B Funding From Edison Partners, Forgepoint Capital]]></title>
+        <id>https://www.darkreading.com/remote-workforce/sphere-receives-31m-for-series-b-funding-from-edison-partners-forgepoint-capital</id>
+        <link href="https://www.darkreading.com/remote-workforce/sphere-receives-31m-for-series-b-funding-from-edison-partners-forgepoint-capital"/>
+        <updated>2022-11-30T15:06:30.000Z</updated>
+        <summary type="html"><![CDATA[New investment will accelerate growth and expansion of SaaS identity-hygiene platform.]]></summary>
+        <author>
+            <name>Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Beware of Holiday Gift Card Scams]]></title>
+        <id>https://blog.knowbe4.com/beware-of-holiday-gift-card-scams</id>
+        <link href="https://blog.knowbe4.com/beware-of-holiday-gift-card-scams"/>
+        <updated>2022-11-30T15:04:25.000Z</updated>
+        <summary type="html"><![CDATA[Every holiday season brings on an increase in gift card scams. Most people love to buy and use gift cards. They are convenient, easy to buy, easy to use, easy to gift, usually allow the receiver to pick just what they want, and are often received as a reward for doing something. The gift card market is estimated in the many hundreds of BILLIONS of dollars. Who doesn’t like to get a free gift card?]]></summary>
+        <author>
+            <name>Roger Grimes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Evolution of Business Email Compromise]]></title>
+        <id>https://www.darkreading.com/endpoint/the-evolution-of-business-email-compromise</id>
+        <link href="https://www.darkreading.com/endpoint/the-evolution-of-business-email-compromise"/>
+        <updated>2022-11-30T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The simplicity and profitability of these attacks continue to appeal to threat actors a decade later.]]></summary>
+        <author>
+            <name>Ryan Otteson, Researcher, Secureworks Counter Threat Unit (CTU)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[API Secrets: Where the Bearer Model Breaks Down]]></title>
+        <id>https://www.darkreading.com/edge-articles/api-secrets-where-the-bearer-model-breaks-down</id>
+        <link href="https://www.darkreading.com/edge-articles/api-secrets-where-the-bearer-model-breaks-down"/>
+        <updated>2022-11-30T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Current authentication methods are based on the bearer model, but lack of visibility into the entities leveraging API secrets has made this untenable.]]></summary>
+        <author>
+            <name>Anusha Iyer, President, CTO, and Co-Founder, Corsha</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Critical Quarkus Flaw Threatens Cloud Developers With Easy RCE]]></title>
+        <id>https://www.darkreading.com/application-security/critical-quarkus-flaw-threatens-cloud-developers-easy-rce</id>
+        <link href="https://www.darkreading.com/application-security/critical-quarkus-flaw-threatens-cloud-developers-easy-rce"/>
+        <updated>2022-11-30T14:51:56.000Z</updated>
+        <summary type="html"><![CDATA[Red Hat has issued patches for a bug in an open source Java virtual machine software that opens the door to drive-by localhost attacks. Patch now, as it's easy for cyberattackers to exploit.]]></summary>
+        <author>
+            <name>Elizabeth Montalbano, Contributor, Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Identity Digital Releases Its First DNS Anti-Abuse Report]]></title>
+        <id>https://www.darkreading.com/perimeter/identity-digital-releases-its-first-dns-anti-abuse-report</id>
+        <link href="https://www.darkreading.com/perimeter/identity-digital-releases-its-first-dns-anti-abuse-report"/>
+        <updated>2022-11-30T14:51:12.000Z</updated>
+        <summary type="html"><![CDATA[The quarterly report, made possible by its Dynamic Defense™ service, demonstrates significant progress in mitigating domain abuse among its top-level domains (TLDs).]]></summary>
+        <author>
+            <name>Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Delinea Introduces Granular Privileged Access Controls on Servers]]></title>
+        <id>https://www.darkreading.com/remote-workforce/delinea-introduces-new-granular-privileged-access-controls-on-servers</id>
+        <link href="https://www.darkreading.com/remote-workforce/delinea-introduces-new-granular-privileged-access-controls-on-servers"/>
+        <updated>2022-11-30T14:35:56.000Z</updated>
+        <summary type="html"><![CDATA[New functionality further reduces the risk of lateral movement.]]></summary>
+        <author>
+            <name>Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CyberRatings.org Revives NSS Labs Research]]></title>
+        <id>https://www.darkreading.com/threat-intelligence/cyberratings-org-revives-nss-labs-research</id>
+        <link href="https://www.darkreading.com/threat-intelligence/cyberratings-org-revives-nss-labs-research"/>
+        <updated>2022-11-30T14:21:27.000Z</updated>
+        <summary type="html"><![CDATA[The NSS Labs archive, available with free registration, consists of over 800 test reports, analyst briefs, and research published by NSS Labs from 2013 — 2020.]]></summary>
+        <author>
+            <name>Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Researchers Find a Way Malicious NPM Libraries Can Evade Vulnerability Detection]]></title>
+        <id>tag:blogger.com,1999:blog-4802841478634147276.post-8056144092460884058</id>
+        <link href="https://thehackernews.com/2022/11/researchers-find-way-malicious-npm.html"/>
+        <updated>2022-11-30T13:44:00.000Z</updated>
+        <summary type="html"><![CDATA[New findings from cybersecurity firm JFrog show that malware targeting the npm ecosystem can evade security checks by taking advantage of an "unexpected behavior" in the npm command line interface (CLI) tool.
+npm CLI's install and audit commands have built-in capabilities to check a package and all of its dependencies for known vulnerabilities, effectively acting as a warning mechanism for]]></summary>
+        <author>
+            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[This Malicious App Abused Hacked Devices to Create Fake Accounts on Multiple Platforms]]></title>
         <id>tag:blogger.com,1999:blog-4802841478634147276.post-7085289407152678853</id>
@@ -60,6 +171,16 @@ The vulnerabilities, reported by Forescout Vedere Labs, are the latest in a long
 Mandiant, which is part of Google Cloud, is tracking the cluster under its uncategorized moniker UNC4191. An analysis of the artifacts used in the intrusions indicates that the campaign dates as far back as September]]></summary>
         <author>
             <name>noreply@blogger.com (Ravie Lakshmanan)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Connect the Dots with Genetic Algorithms on CNAPP]]></title>
+        <id>https://www.darkreading.com/zscaler/connect-the-dots-with-genetic-algorithms-on-cnapp</id>
+        <link href="https://www.darkreading.com/zscaler/connect-the-dots-with-genetic-algorithms-on-cnapp"/>
+        <updated>2022-11-30T01:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Cloud-native application protection platforms can apply machine-learning algorithms on cloud data to identify accounts with abnormal permissions and uncover potential threats.]]></summary>
+        <author>
+            <name>Rich Campagna, senior vice-president and general manager, CNAPP, Zscaler</name>
         </author>
     </entry>
     <entry>

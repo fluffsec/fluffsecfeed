@@ -361,6 +361,136 @@
       "siteUrl": "https://www.darkreading.com",
       "articles": [
         {
+          "id": "https://www.darkreading.com/vulnerabilities-threats/how-banks-can-upgrade-security-without-affecting-client-service",
+          "author": "Chris Mastrangelo, Chief Compliance Officer, Grasshopper Bank",
+          "description": "New protective measures work behind the scenes, with little impact on the customer experience.",
+          "link": "https://www.darkreading.com/vulnerabilities-threats/how-banks-can-upgrade-security-without-affecting-client-service",
+          "publishedOn": "2022-11-30T18:00:00.000Z",
+          "wordCount": 12633,
+          "title": "How Banks Can Upgrade Security Without Affecting Client Service",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt49ad5a936e6b214a/638533908d97e610dde0fa42/Chris_M.jpg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt49ad5a936e6b214a/638533908d97e610dde0fa42/Chris_M.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/application-security/new-exploit-broker-pays-premium-signal-app-zero-days",
+          "author": "Ericka Chickowski, Contributing Writer, Dark Reading",
+          "description": "Signal messaging app zero-day vulnerabilities have sparked a $1.5M bidding match, as gray-market exploit brokers flourish in today's geopolitical climate.",
+          "link": "https://www.darkreading.com/application-security/new-exploit-broker-pays-premium-signal-app-zero-days",
+          "publishedOn": "2022-11-30T17:05:15.000Z",
+          "wordCount": 11766,
+          "title": "New Exploit Broker on the Scene Pays Premium for Signal App Zero-Days",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt1fa01ab14787f501/60b1e9a77f791568be5e0dbb/ErickaChick_125x125.jpeg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt1fa01ab14787f501/60b1e9a77f791568be5e0dbb/ErickaChick_125x125.jpeg"
+        },
+        {
+          "id": "https://www.darkreading.com/remote-workforce/sphere-receives-31m-for-series-b-funding-from-edison-partners-forgepoint-capital",
+          "author": null,
+          "description": "New investment will accelerate growth and expansion of SaaS identity-hygiene platform.",
+          "link": "https://www.darkreading.com/remote-workforce/sphere-receives-31m-for-series-b-funding-from-edison-partners-forgepoint-capital",
+          "publishedOn": "2022-11-30T15:06:30.000Z",
+          "wordCount": 13394,
+          "title": "SPHERE Receives $31M for Series B Funding From Edison Partners, Forgepoint Capital",
+          "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/endpoint/the-evolution-of-business-email-compromise",
+          "author": "Ryan Otteson, Researcher, Secureworks Counter Threat Unit (CTU)",
+          "description": "The simplicity and profitability of these attacks continue to appeal to threat actors a decade later.",
+          "link": "https://www.darkreading.com/endpoint/the-evolution-of-business-email-compromise",
+          "publishedOn": "2022-11-30T15:00:00.000Z",
+          "wordCount": 12916,
+          "title": "The Evolution of Business Email Compromise",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltf0b53dadb57ab6c9/63811eff23d1b3369f604393/Ryan_Otteson_CTU.jpg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltf0b53dadb57ab6c9/63811eff23d1b3369f604393/Ryan_Otteson_CTU.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/edge-articles/api-secrets-where-the-bearer-model-breaks-down",
+          "author": "Anusha Iyer, President, CTO, and Co-Founder, Corsha",
+          "description": "Current authentication methods are based on the bearer model, but lack of visibility into the entities leveraging API secrets has made this untenable.",
+          "link": "https://www.darkreading.com/edge-articles/api-secrets-where-the-bearer-model-breaks-down",
+          "publishedOn": "2022-11-30T15:00:00.000Z",
+          "wordCount": 13120,
+          "title": "API Secrets: Where the Bearer Model Breaks Down",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltdcb8a86aaacceef2/63864ca3a882924f0ac80c7c/Anusha_Iyer.png",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltdcb8a86aaacceef2/63864ca3a882924f0ac80c7c/Anusha_Iyer.png"
+        },
+        {
+          "id": "https://www.darkreading.com/application-security/critical-quarkus-flaw-threatens-cloud-developers-easy-rce",
+          "author": "Elizabeth Montalbano, Contributor, Dark Reading",
+          "description": "Red Hat has issued patches for a bug in an open source Java virtual machine software that opens the door to drive-by localhost attacks. Patch now, as it's easy for cyberattackers to exploit.",
+          "link": "https://www.darkreading.com/application-security/critical-quarkus-flaw-threatens-cloud-developers-easy-rce",
+          "publishedOn": "2022-11-30T14:51:56.000Z",
+          "wordCount": 15025,
+          "title": "Critical Quarkus Flaw Threatens Cloud Developers With Easy RCE",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltbfd004d139d42d70/6303bca6236c2476a257760e/ElizabethMontalbano.jpg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltbfd004d139d42d70/6303bca6236c2476a257760e/ElizabethMontalbano.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/perimeter/identity-digital-releases-its-first-dns-anti-abuse-report",
+          "author": null,
+          "description": "The quarterly report, made possible by its Dynamic Defense™ service, demonstrates significant progress in mitigating domain abuse among its top-level domains (TLDs).",
+          "link": "https://www.darkreading.com/perimeter/identity-digital-releases-its-first-dns-anti-abuse-report",
+          "publishedOn": "2022-11-30T14:51:12.000Z",
+          "wordCount": 11684,
+          "title": "Identity Digital Releases Its First DNS Anti-Abuse Report",
+          "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/remote-workforce/delinea-introduces-new-granular-privileged-access-controls-on-servers",
+          "author": null,
+          "description": "New functionality further reduces the risk of lateral movement.",
+          "link": "https://www.darkreading.com/remote-workforce/delinea-introduces-new-granular-privileged-access-controls-on-servers",
+          "publishedOn": "2022-11-30T14:35:56.000Z",
+          "wordCount": 11845,
+          "title": "Delinea Introduces Granular Privileged Access Controls on Servers",
+          "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/threat-intelligence/cyberratings-org-revives-nss-labs-research",
+          "author": null,
+          "description": "The NSS Labs archive, available with free registration, consists of over 800 test reports, analyst briefs, and research published by NSS Labs from 2013 — 2020.",
+          "link": "https://www.darkreading.com/threat-intelligence/cyberratings-org-revives-nss-labs-research",
+          "publishedOn": "2022-11-30T14:21:27.000Z",
+          "wordCount": 10953,
+          "title": "CyberRatings.org Revives NSS Labs Research",
+          "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/zscaler/connect-the-dots-with-genetic-algorithms-on-cnapp",
+          "author": "Rich Campagna, senior vice-president and general manager, CNAPP, Zscaler",
+          "description": "Cloud-native application protection platforms can apply machine-learning algorithms on cloud data to identify accounts with abnormal permissions and uncover potential threats.",
+          "link": "https://www.darkreading.com/zscaler/connect-the-dots-with-genetic-algorithms-on-cnapp",
+          "publishedOn": "2022-11-30T01:00:00.000Z",
+          "wordCount": 12272,
+          "title": "Connect the Dots with Genetic Algorithms on CNAPP",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt071ec6475383627e/637ab01ec162df49beaad71c/Zscaler_Rich_Campagna2.png",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt071ec6475383627e/637ab01ec162df49beaad71c/Zscaler_Rich_Campagna2.png"
+        },
+        {
           "id": "https://www.darkreading.com/dr-tech/microsoft-defender-gets-new-security-protections",
           "author": "Dark Reading Staff, Dark Reading",
           "description": "The new Microsoft Defender for Endpoint capabilities include built-in protection and scanning network traffic for malicious activity.",
@@ -3515,6 +3645,16 @@
       "siteUrl": "https://blog.knowbe4.com",
       "articles": [
         {
+          "id": "https://blog.knowbe4.com/beware-of-holiday-gift-card-scams",
+          "author": "Roger Grimes",
+          "description": "Every holiday season brings on an increase in gift card scams. Most people love to buy and use gift cards. They are convenient, easy to buy, easy to use, easy to gift, usually allow the receiver to pick just what they want, and are often received as a reward for doing something. The gift card market is estimated in the many hundreds of BILLIONS of dollars. Who doesn’t like to get a free gift card?",
+          "link": "https://blog.knowbe4.com/beware-of-holiday-gift-card-scams",
+          "publishedOn": "2022-11-30T15:04:25.000Z",
+          "wordCount": 2985,
+          "title": "Beware of Holiday Gift Card Scams",
+          "imageUrl": "https://blog.knowbe4.com/hubfs/Roger%20Grimes%20KnowBe4%20Holiday%20Scams.jpg#keepProtocol"
+        },
+        {
           "id": "https://blog.knowbe4.com/cyberheistnews-vol-12-48-eye-opener-microsoft-warns-against-recent-complex-ransomware-campaign",
           "author": "Stu Sjouwerman",
           "description": "CyberheistNews Vol 12 #48 [Eye Opener] Microsoft Warns Against Recent, Complex, Ransomware Campaign",
@@ -4131,6 +4271,17 @@
       "feedUrl": "https://thehackernews.com/feeds/posts/default",
       "siteUrl": "https://thehackernews.com/",
       "articles": [
+        {
+          "id": "tag:blogger.com,1999:blog-4802841478634147276.post-8056144092460884058",
+          "author": "noreply@blogger.com (Ravie Lakshmanan)",
+          "description": "New findings from cybersecurity firm JFrog show that malware targeting the npm ecosystem can evade security checks by taking advantage of an \"unexpected behavior\" in the npm command line interface (CLI) tool.\nnpm CLI's install and audit commands have built-in capabilities to check a package and all of its dependencies for known vulnerabilities, effectively acting as a warning mechanism for",
+          "link": "https://thehackernews.com/2022/11/researchers-find-way-malicious-npm.html",
+          "publishedOn": "2022-11-30T13:44:00.000Z",
+          "wordCount": null,
+          "title": "Researchers Find a Way Malicious NPM Libraries Can Evade Vulnerability Detection",
+          "itunes": {},
+          "imageUrl": null
+        },
         {
           "id": "tag:blogger.com,1999:blog-4802841478634147276.post-7085289407152678853",
           "author": "noreply@blogger.com (Ravie Lakshmanan)",
