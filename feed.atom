@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-11-29T19:17:38.791Z</updated>
+    <updated>2022-11-30T02:28:45.813Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Defender Gets New Security Protections]]></title>
+        <id>https://www.darkreading.com/dr-tech/microsoft-defender-gets-new-security-protections</id>
+        <link href="https://www.darkreading.com/dr-tech/microsoft-defender-gets-new-security-protections"/>
+        <updated>2022-11-29T21:55:19.000Z</updated>
+        <summary type="html"><![CDATA[The new Microsoft Defender for Endpoint capabilities include built-in protection and scanning network traffic for malicious activity.]]></summary>
+        <author>
+            <name>Dark Reading Staff, Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use Cyber Deception to Counter an Evolving and Advanced Threat Landscape]]></title>
+        <id>https://www.darkreading.com/edge-articles/how-to-use-cyber-deception-to-counter-an-evolving-and-advanced-threat-landscape</id>
+        <link href="https://www.darkreading.com/edge-articles/how-to-use-cyber-deception-to-counter-an-evolving-and-advanced-threat-landscape"/>
+        <updated>2022-11-29T21:33:32.000Z</updated>
+        <summary type="html"><![CDATA[Organizations must be prepared to root out bad actors by any means possible, even if it means setting traps and stringing lures.]]></summary>
+        <author>
+            <name>Edith Peña, Senior Lead Technologist, Booz Allen Hamilton</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cyberattackers Selling Access to Networks Compromised via Recent Fortinet Flaw]]></title>
+        <id>https://www.darkreading.com/threat-intelligence/tcyberattackers-selling-access-networks-compromised-fortinet-flaw</id>
+        <link href="https://www.darkreading.com/threat-intelligence/tcyberattackers-selling-access-networks-compromised-fortinet-flaw"/>
+        <updated>2022-11-29T21:30:00.000Z</updated>
+        <summary type="html"><![CDATA[The vulnerability, disclosed In October, gives an unauthenticated attacker a way to take control of an affected product.]]></summary>
+        <author>
+            <name>Jai Vijayan, Contributing Writer, Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Oracle Fusion Middleware Flaw Flagged by CISA]]></title>
+        <id>https://www.darkreading.com/threat-intelligence/oracle-fusion-middleware-flaw-flagged-by-cisa</id>
+        <link href="https://www.darkreading.com/threat-intelligence/oracle-fusion-middleware-flaw-flagged-by-cisa"/>
+        <updated>2022-11-29T19:35:00.000Z</updated>
+        <summary type="html"><![CDATA[The bug could allow unauthorized access and takeover, earning it a spot on the Known Exploited Vulnerabilities Catalog.]]></summary>
+        <author>
+            <name>Dark Reading Staff, Dark Reading</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Metaverse Could Become a Top Avenue for Cyberattacks in 2023]]></title>
         <id>https://www.darkreading.com/attacks-breaches/metaverse-top-avenue-cyberattacks-2023</id>
@@ -245,6 +285,16 @@ The vulnerability, tracked as CVE-2021-35587, carries a CVSS score of 9.8 and i
         <summary type="html"><![CDATA[The enterprise's shift to the cloud means digital forensics investigators have had to adopt new remote techniques and develop custom tools to uncover and process evidence off compromised devices.]]></summary>
         <author>
             <name>Stephen Lawton, Contributing Writer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Is MFA the Vegetable of Cybersecurity?]]></title>
+        <id>https://www.darkreading.com/microsoft/is-mfa-the-vegetable-of-cybersecurity-</id>
+        <link href="https://www.darkreading.com/microsoft/is-mfa-the-vegetable-of-cybersecurity-"/>
+        <updated>2022-11-28T23:56:16.000Z</updated>
+        <summary type="html"><![CDATA[Don’t fuss now — just another spoonful of multifactor authentication to keep the organization strong and the data safer.]]></summary>
+        <author>
+            <name>Andrea Fisher, Security Specialist, Microsoft</name>
         </author>
     </entry>
     <entry>
@@ -4898,105 +4948,6 @@ ConnectWise's]]></summary>
         <summary type="html"><![CDATA[Researchers at Armorblox have observed a phishing campaign impersonating LinkedIn. The emails inform the user that their LinkedIn account has been suspended due to suspicious activity.]]></summary>
         <author>
             <name>Stu Sjouwerman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fodcha DDoS Botnet Resurfaces with New Capabilities]]></title>
-        <id>tag:blogger.com,1999:blog-4802841478634147276.post-3512391445185373816</id>
-        <link href="https://thehackernews.com/2022/10/fodcha-ddos-botnet-resurfaces-with-new.html"/>
-        <updated>2022-10-31T14:28:00.000Z</updated>
-        <summary type="html"><![CDATA[The threat actor behind the Fodcha distributed denial-of-service (DDoS) botnet has resurfaced with new capabilities, researchers reveal.
-This includes changes to its communication protocol and the ability to extort cryptocurrency payments in exchange for stopping the DDoS attack against a target, Qihoo 360's Network Security Research Lab said in a report published last week.
-Fodcha first came to]]></summary>
-        <author>
-            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Cyber Threat Minute: Cybercrime’s Scope in 60-Second Snapshots]]></title>
-        <id>https://www.darkreading.com/microsoft/a-cyberthreat-minute-cybercrime-s-scope-in-60-second-snapshots</id>
-        <link href="https://www.darkreading.com/microsoft/a-cyberthreat-minute-cybercrime-s-scope-in-60-second-snapshots"/>
-        <updated>2022-10-31T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[When looking at the scale and scope of worldwide cybercrime, password attacks are the most commonly observed type of threat in a given 60-second period.]]></summary>
-        <author>
-            <name>Steve Ginty, Principal Program Manager, Microsoft Defender Threat Intelligence (MDTI), Microsoft</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Does Security Have to Get Worse Before It Gets Better?]]></title>
-        <id>https://www.darkreading.com/application-security/does-security-have-to-get-worse-before-it-gets-better</id>
-        <link href="https://www.darkreading.com/application-security/does-security-have-to-get-worse-before-it-gets-better"/>
-        <updated>2022-10-31T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[How to solve the software vulnerability problem across the entire SDLC.]]></summary>
-        <author>
-            <name>Amy Baker, Security Education Evangelist, Security Journey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tips for Choosing a Pentesting Company]]></title>
-        <id>tag:blogger.com,1999:blog-4802841478634147276.post-5729001580519990710</id>
-        <link href="https://thehackernews.com/2022/10/tips-for-choosing-pentesting-company.html"/>
-        <updated>2022-10-31T13:50:00.000Z</updated>
-        <summary type="html"><![CDATA[In today's world of automated hacking systems, frequent data breaches and consumer protection regulations such as GDPR and PCI DSS, penetration testing is now an essential security requirement for organisations of all sizes. But what should you look for when choosing the right provider?
-The sheer number of providers can be daunting, and finding one which can deliver a high-quality test at a]]></summary>
-        <author>
-            <name>noreply@blogger.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CISA Releases Guidance on Phishing-Resistant and Numbers Matching Multifactor Authentication]]></title>
-        <id>18116 at https://us-cert.cisa.gov</id>
-        <link href="https://us-cert.cisa.gov/ncas/current-activity/2022/10/31/cisa-releases-guidance-phishing-resistant-and-numbers-matching"/>
-        <updated>2022-10-31T13:43:30.000Z</updated>
-        <summary type="html"><![CDATA[Original release date: October 31, 2022
-CISA has released two fact sheets to highlight threats against accounts and systems using certain forms of multifactor authentication (MFA). CISA strongly urges all organizations to implement phishing-resistant MFA to protect against phishing and other known cyber threats. If an organization using mobile push-notification-based MFA is unable to implement phishing-resistant MFA, CISA recommends using number matching to mitigate MFA fatigue. Although number matching is not as strong as phishing-resistant MFA, it is one of best interim mitigation for organizations who may not immediately be able to implement phishing-resistant MFA.  
-CISA recommends users and organizations see CISA fact sheets Implementing Phishing-Resistant MFA and Implementing Number Matching in MFA Applications. Visit CISA.gov/MFA for more information on MFA, including an infographic of the hierarchy of MFA options.
-This product is provided subject to this Notification and this Privacy & Use policy.]]></summary>
-        <author>
-            <name>CISA</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Synack Expands Security Platform With Adversarial API Pentesting]]></title>
-        <id>https://www.darkreading.com/application-security/synack-expands-security-platform-with-adversarial-api-pentesting</id>
-        <link href="https://www.darkreading.com/application-security/synack-expands-security-platform-with-adversarial-api-pentesting"/>
-        <updated>2022-10-31T13:22:29.000Z</updated>
-        <summary type="html"><![CDATA[Security researchers will handle testing on "headless" API endpoints that lack a user interface and are increasingly exposed to attackers.]]></summary>
-        <author>
-            <name>Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Unofficial Patch Released for New Actively Exploited Windows MotW Vulnerability]]></title>
-        <id>tag:blogger.com,1999:blog-4802841478634147276.post-8384395017638657683</id>
-        <link href="https://thehackernews.com/2022/10/unofficial-patch-released-for-new.html"/>
-        <updated>2022-10-31T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[An unofficial patch has been made available for an actively exploited security flaw in Microsoft Windows that makes it possible for files signed with malformed signatures to sneak past Mark-of-the-Web (MotW) protections.
-The fix, released by 0patch, arrives weeks after HP Wolf Security disclosed a Magniber ransomware campaign that targets users with fake security updates which employ a]]></summary>
-        <author>
-            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Samsung Galaxy Store Bug Could've Let Hackers Secretly Install Apps on Targeted Devices]]></title>
-        <id>tag:blogger.com,1999:blog-4802841478634147276.post-3896722068130871511</id>
-        <link href="https://thehackernews.com/2022/10/samsung-galaxy-store-bug-couldve-let.html"/>
-        <updated>2022-10-31T10:25:00.000Z</updated>
-        <summary type="html"><![CDATA[A now-patched security flaw has been disclosed in the Galaxy Store app for Samsung devices that could potentially trigger remote command execution on affected phones.
-The vulnerability, which affects Galaxy Store version 4.5.32.4, relates to a cross-site scripting (XSS) bug that occurs when handling certain deep links. An independent security researcher has been credited with reporting the issue]]></summary>
-        <author>
-            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GitHub Repojacking Bug Could've Allowed Attackers to Takeover Other Users' Repositories]]></title>
-        <id>tag:blogger.com,1999:blog-4802841478634147276.post-8816624120959668822</id>
-        <link href="https://thehackernews.com/2022/10/github-repojacking-bug-couldve-allowed.html"/>
-        <updated>2022-10-31T09:17:00.000Z</updated>
-        <summary type="html"><![CDATA[Cloud-based repository hosting service GitHub has addressed a high-severity security flaw that could have been exploited to create malicious repositories and mount supply chain attacks.
-The RepoJacking technique, disclosed by Checkmarx, entails a bypass of a protection mechanism called popular repository namespace retirement, which aims to prevent developers from pulling unsafe repositories with]]></summary>
-        <author>
-            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
         </author>
     </entry>
     <entry>
