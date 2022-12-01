@@ -281,16 +281,6 @@
           "wordCount": 988,
           "title": "CISA Upgrades to TLP 2.0",
           "imageUrl": null
-        },
-        {
-          "id": "18118 at https://us-cert.cisa.gov",
-          "author": "CISA",
-          "description": "Original release date: November 1, 2022\nCISA released one Industrial Control Systems (ICS) advisory on November 1, 2022. This advisory provides timely information about current security issues, vulnerabilities, and exploits surrounding ICS.\nCISA encourages users and administrators to review the newly released ICS advisory for technical details and mitigations:\nICSA-22-221-01 Mitsubishi Electric Multiple Factory Automation Products (Update C)\nThis product is provided subject to this Notification and this Privacy & Use policy.",
-          "link": "https://us-cert.cisa.gov/ncas/current-activity/2022/11/01/cisa-releases-one-industrial-control-systems-advisory",
-          "publishedOn": "2022-11-01T14:44:56.000Z",
-          "wordCount": 892,
-          "title": "CISA Releases One Industrial Control Systems Advisory",
-          "imageUrl": null
         }
       ]
     },
@@ -360,6 +350,36 @@
       "feedUrl": "https://www.darkreading.com/rss.xml",
       "siteUrl": "https://www.darkreading.com",
       "articles": [
+        {
+          "id": "https://www.darkreading.com/application-security/nvidia-gpu-driver-bugs-device-takeover",
+          "author": "Dark Reading Staff, Dark Reading",
+          "description": "If unpatched, a host of GPU Display Driver flaws could expose gamers, graphic designers, and others to code execution, denial of service, data tampering, and more.",
+          "link": "https://www.darkreading.com/application-security/nvidia-gpu-driver-bugs-device-takeover",
+          "publishedOn": "2022-11-30T22:10:00.000Z",
+          "wordCount": 10123,
+          "title": "Nvidia GPU Driver Bugs Threaten Device Takeover & More",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blte161b23f0fd3a84b/60b1ea374e7eb868c4c6a293/dr_staff_125x125.jpg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blte161b23f0fd3a84b/60b1ea374e7eb868c4c6a293/dr_staff_125x125.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/threat-intelligence/google-tag-warns-emerging-heliconia-exploit-framework",
+          "author": "Tara Seals, Managing Editor, News, Dark Reading",
+          "description": "The framework has ties back to a Spanish exploit broker called Variston IT, and offers a one-stop shop for compromising Chrome, Defender and Firefox.",
+          "link": "https://www.darkreading.com/threat-intelligence/google-tag-warns-emerging-heliconia-exploit-framework",
+          "publishedOn": "2022-11-30T19:33:49.000Z",
+          "wordCount": 10665,
+          "title": "Google TAG Warns on Emerging Heliconia Exploit Framework for RCE",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltea67136f81f32eca/626a9eb4726e3315b16b3c64/Tara-Seals-Headshot2.jpg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltea67136f81f32eca/626a9eb4726e3315b16b3c64/Tara-Seals-Headshot2.jpg"
+        },
         {
           "id": "https://www.darkreading.com/vulnerabilities-threats/how-banks-can-upgrade-security-without-affecting-client-service",
           "author": "Chris Mastrangelo, Chief Compliance Officer, Grasshopper Bank",
@@ -3439,116 +3459,6 @@
           "wordCount": 11876,
           "title": "Network Perception and Check Point Software Technologies Partner to Tighten the Security of OT Firewall Environments",
           "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
-        },
-        {
-          "id": "https://www.darkreading.com/threat-intelligence/china-backed-apt10-spy-game-custom-fileless-backdoor",
-          "author": "Elizabeth Montalbano, Contributor, Dark Reading",
-          "description": "The sophisticated and ever-evolving threat known as LodeInfo is being deployed against media, diplomatic, government, public sector, and think-tank targets.",
-          "link": "https://www.darkreading.com/threat-intelligence/china-backed-apt10-spy-game-custom-fileless-backdoor",
-          "publishedOn": "2022-11-01T14:45:03.000Z",
-          "wordCount": 14428,
-          "title": "China-Backed APT10 Supercharges Spy Game With Custom Fileless Backdoor",
-          "enclosure": {
-            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltbfd004d139d42d70/6303bca6236c2476a257760e/ElizabethMontalbano.jpg",
-            "type": "image/*",
-            "length": "0"
-          },
-          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltbfd004d139d42d70/6303bca6236c2476a257760e/ElizabethMontalbano.jpg"
-        },
-        {
-          "id": "https://www.darkreading.com/cloud/where-are-all-of-the-container-breaches-",
-          "author": "Michael Clark, Director of Threat Research, Sysdig",
-          "description": "Containers and their supporting infrastructure are too important to ignore.",
-          "link": "https://www.darkreading.com/cloud/where-are-all-of-the-container-breaches-",
-          "publishedOn": "2022-11-01T14:00:00.000Z",
-          "wordCount": 13621,
-          "title": "Where Are All of the Container Breaches?",
-          "enclosure": {
-            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt6807682fe7a0aa31/635c2ebfa08d2c063476661c/MichaelClark.jpg",
-            "type": "image/*",
-            "length": "0"
-          },
-          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt6807682fe7a0aa31/635c2ebfa08d2c063476661c/MichaelClark.jpg"
-        },
-        {
-          "id": "https://www.darkreading.com/risk/online-holiday-shopping-frenzy-study-shows-1-in-3-americans-tend-to-take-more-risks-when-shopping-online-during-holiday-season",
-          "author": null,
-          "description": "36% of Americans have fallen victim to holiday shopping scams.",
-          "link": "https://www.darkreading.com/risk/online-holiday-shopping-frenzy-study-shows-1-in-3-americans-tend-to-take-more-risks-when-shopping-online-during-holiday-season",
-          "publishedOn": "2022-11-01T13:43:50.000Z",
-          "wordCount": 13207,
-          "title": "Online Holiday Shopping Frenzy: Study Shows 1 in 3 Americans Tend to Take More Risks When Shopping Online During Holiday Season",
-          "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
-        },
-        {
-          "id": "https://www.darkreading.com/operations/critical-start-launches-new-managed-siem-service",
-          "author": null,
-          "description": "New offering goes beyond industry requirements to help maximize the value of SIEM investments.",
-          "link": "https://www.darkreading.com/operations/critical-start-launches-new-managed-siem-service",
-          "publishedOn": "2022-11-01T13:41:19.000Z",
-          "wordCount": 12979,
-          "title": "Critical Start® Launches New Managed SIEM Service",
-          "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
-        },
-        {
-          "id": "https://www.darkreading.com/cloud/fitstack-a-new-solution-for-code-and-container-risk-management-launches-with-support-from-varsity-venture-studio",
-          "author": null,
-          "description": "FitStack offers a SaaS-based platform — supporting both cloud native and on-prem environments — to take risk and vulnerability out of application development.",
-          "link": "https://www.darkreading.com/cloud/fitstack-a-new-solution-for-code-and-container-risk-management-launches-with-support-from-varsity-venture-studio",
-          "publishedOn": "2022-11-01T13:38:01.000Z",
-          "wordCount": 12520,
-          "title": "FitStack, a New Solution For Code and Container Risk Management, Launches With Support From Varsity Venture Studio",
-          "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
-        },
-        {
-          "id": "https://www.darkreading.com/vulnerabilities-threats/can-you-nudge-employees-toward-better-cybersecurity-new-research-says-yes",
-          "author": null,
-          "description": "Nudge Security releases new research conducted in consultation with leading psychologists at Duke University linking employee security behavior with attitudes and emotions.",
-          "link": "https://www.darkreading.com/vulnerabilities-threats/can-you-nudge-employees-toward-better-cybersecurity-new-research-says-yes",
-          "publishedOn": "2022-11-01T13:32:20.000Z",
-          "wordCount": 12394,
-          "title": "Can You Nudge Employees Toward Better Cybersecurity? New Research Says Yes",
-          "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
-        },
-        {
-          "id": "https://www.darkreading.com/ics-ot/mission-secure-releases-sentinel-5-0-platform-enabling-context-aware-zero-trust-security-for-critical-infrastructure-ot",
-          "author": null,
-          "description": "Announces technology partnership with Verve Industrial.",
-          "link": "https://www.darkreading.com/ics-ot/mission-secure-releases-sentinel-5-0-platform-enabling-context-aware-zero-trust-security-for-critical-infrastructure-ot",
-          "publishedOn": "2022-11-01T13:22:47.000Z",
-          "wordCount": 12409,
-          "title": "Mission Secure Releases Sentinel 5.0 Platform, Enabling Context-Aware, Zero Trust Security for Critical Infrastructure OT",
-          "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
-        },
-        {
-          "id": "https://www.darkreading.com/careers-and-people/kodiak-robotics-hires-former-google-chief-information-security-officer-gerhard-eschelbeck",
-          "author": null,
-          "description": "Renowned information security expert to lead Kodiak's cyber and data security team, further reinforcing Commitment Kodiak's to cybersecurity.",
-          "link": "https://www.darkreading.com/careers-and-people/kodiak-robotics-hires-former-google-chief-information-security-officer-gerhard-eschelbeck",
-          "publishedOn": "2022-11-01T13:20:35.000Z",
-          "wordCount": 12184,
-          "title": "Kodiak Robotics Hires Former Google Chief Information Security Officer Gerhard Eschelbeck",
-          "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
-        },
-        {
-          "id": "https://www.darkreading.com/careers-and-people/-isc-expands-dei-initiative-with-international-partnership-agreements",
-          "author": null,
-          "description": "Major partnership program aims to break down barriers and empower underrepresented groups in cybersecurity across the globe.",
-          "link": "https://www.darkreading.com/careers-and-people/-isc-expands-dei-initiative-with-international-partnership-agreements",
-          "publishedOn": "2022-11-01T13:17:18.000Z",
-          "wordCount": 14321,
-          "title": "(ISC)² Expands DEI Initiative with International Partnership Agreements",
-          "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
-        },
-        {
-          "id": "https://www.darkreading.com/attacks-breaches/mercy-college-awarded-nsa-research-grant-to-develop-cybersecurity-technology",
-          "author": null,
-          "description": "Grant will be used to design reliable method of reducing cybersecurity gaps that lead to data breaches and develop a training course.",
-          "link": "https://www.darkreading.com/attacks-breaches/mercy-college-awarded-nsa-research-grant-to-develop-cybersecurity-technology",
-          "publishedOn": "2022-11-01T13:11:25.000Z",
-          "wordCount": 12161,
-          "title": "Mercy College Awarded NSA Research Grant to Develop Cybersecurity Technology",
-          "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
         }
       ]
     },
@@ -3608,16 +3518,6 @@
           "publishedOn": "2022-11-03T00:46:06.000Z",
           "wordCount": 2143,
           "title": "Awareness and guidance related to OpenSSL 3.0 – 3.0.6 risk (CVE-2022-3786 and CVE-2202-3602)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://msrc-blog.microsoft.com/?p=15092",
-          "author": "msrc",
-          "description": "Summary Microsoft recently fixed an authentication bypass vulnerability in Jupyter Notebooks for Azure Cosmos DB (currently in preview) reported by Orca Security.  Customers not using Jupyter Notebooks (99.8% of Azure Cosmos DB customers do NOT use Jupyter notebooks) were not susceptible to this vulnerability. The bug was introduced on August 12th and fully patched worldwide …\n  Microsoft Mitigates Vulnerability in Jupyter Notebooks for Azure Cosmos DB Read More »",
-          "link": "https://msrc-blog.microsoft.com/2022/11/01/microsoft-mitigates-vulnerability-in-jupyter-notebooks-for-azure-cosmos-db/",
-          "publishedOn": "2022-11-01T13:00:00.000Z",
-          "wordCount": 1907,
-          "title": "Microsoft Mitigates Vulnerability in Jupyter Notebooks for Azure Cosmos DB",
           "imageUrl": null
         }
       ]
@@ -4253,16 +4153,6 @@
           "wordCount": 2152,
           "title": "[Scam of The Week] New Phishing Email Exploits Twitter’s Plan to Charge for Blue Checkmark",
           "imageUrl": "https://blog.knowbe4.com/hubfs/twitter-verified-image-courtesy-twitter.jpg#keepProtocol"
-        },
-        {
-          "id": "https://blog.knowbe4.com/cyberheistnews-vol-12-44-infographic-knowbe4-top-clicked-phishing-email-subjects-for-q3-2022",
-          "author": "Stu Sjouwerman",
-          "description": "CyberheistNews Vol 12 #44 [INFOGRAPHIC] KnowBe4 Top-Clicked Phishing Email Subjects for Q3 2022",
-          "link": "https://blog.knowbe4.com/cyberheistnews-vol-12-44-infographic-knowbe4-top-clicked-phishing-email-subjects-for-q3-2022",
-          "publishedOn": "2022-11-01T13:30:00.000Z",
-          "wordCount": 4572,
-          "title": "CyberheistNews Vol 12 #44 [INFOGRAPHIC] KnowBe4 Top-Clicked Phishing Email Subjects for Q3 2022",
-          "imageUrl": "https://blog.knowbe4.com/hubfs/CHN-Social.jpg#keepProtocol"
         }
       ]
     },
@@ -4271,6 +4161,17 @@
       "feedUrl": "https://thehackernews.com/feeds/posts/default",
       "siteUrl": "https://thehackernews.com/",
       "articles": [
+        {
+          "id": "tag:blogger.com,1999:blog-4802841478634147276.post-6343147724914684147",
+          "author": "noreply@blogger.com (Ravie Lakshmanan)",
+          "description": "The North Korea-linked ScarCruft group has been attributed to a previously undocumented backdoor called Dolphin that the threat actor has used against targets located in its southern counterpart.\n\"The backdoor [...] has a wide range of spying capabilities, including monitoring drives and portable devices and exfiltrating files of interest, keylogging and taking screenshots, and stealing",
+          "link": "https://thehackernews.com/2022/12/north-korea-hackers-using-new-dolphin.html",
+          "publishedOn": "2022-11-30T18:30:00.000Z",
+          "wordCount": null,
+          "title": "North Korea Hackers Using New \"Dolphin\" Backdoor to Spy on South Korean Targets",
+          "itunes": {},
+          "imageUrl": null
+        },
         {
           "id": "tag:blogger.com,1999:blog-4802841478634147276.post-8056144092460884058",
           "author": "noreply@blogger.com (Ravie Lakshmanan)",
@@ -5610,28 +5511,6 @@
           "publishedOn": "2022-11-01T15:15:00.000Z",
           "wordCount": null,
           "title": "Chinese Hackers Using New Stealthy Infection Chain to Deploy LODEINFO Malware",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "tag:blogger.com,1999:blog-4802841478634147276.post-4805991546642713055",
-          "author": "noreply@blogger.com (The Hacker News)",
-          "description": "Linus Torvalds, the creator of Linux and Git, has his own law in software development, and it goes like this: \"given enough eyeballs, all bugs are shallow.\" This phrase puts the finger on the very principle of open source: the more, the merrier - if the code is easily available for anyone and everyone to fix bugs, it's pretty safe. But is it? Or is the saying \"all bugs are shallow\" only true for",
-          "link": "https://thehackernews.com/2022/11/last-years-open-source-tomorrows.html",
-          "publishedOn": "2022-11-01T12:04:00.000Z",
-          "wordCount": null,
-          "title": "Last Years Open Source - Tomorrow's Vulnerabilities",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "tag:blogger.com,1999:blog-4802841478634147276.post-2142406894735240789",
-          "author": "noreply@blogger.com (Ravie Lakshmanan)",
-          "description": "IT service management software platform ConnectWise has released Software patches for a critical security vulnerability in Recover and R1Soft Server Backup Manager (SBM).\nThe issue, characterized as a \"neutralization of Special Elements in Output Used by a Downstream Component,\" could be abused to result in the execution of remote code or disclosure of sensitive information.\nConnectWise's",
-          "link": "https://thehackernews.com/2022/11/critical-rce-vulnerability-reported-in.html",
-          "publishedOn": "2022-11-01T11:28:00.000Z",
-          "wordCount": null,
-          "title": "Critical RCE Vulnerability Reported in ConnectWise Server Backup Solution",
           "itunes": {},
           "imageUrl": null
         }
