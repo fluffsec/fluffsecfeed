@@ -6,6 +6,16 @@
       "siteUrl": "https://us-cert.cisa.gov/",
       "articles": [
         {
+          "id": "18183 at https://us-cert.cisa.gov",
+          "author": "CISA",
+          "description": "Original release date: December 1, 2022\nSummary\nActions to take today to mitigate cyber threats from ransomware:\nknown exploited vulnerabilities.\nphishing attempts.\nNote: This joint Cybersecurity Advisory (CSA) is part of an ongoing #StopRansomware effort to publish advisories for network defenders that detail various ransomware variants and ransomware threat actors. These #StopRansomware advisories include recently and historically observed tactics, techniques, and procedures (TTPs) and indicators of compromise (IOCs) to help organizations protect against ransomware. Visit stopransomware.gov to see all #StopRansomware advisories and to learn more about other ransomware threats and no-cost resources.\nThe Federal Bureau of Investigation (FBI) and the Cybersecurity and Infrastructure Securit…",
+          "link": "https://us-cert.cisa.gov/ncas/alerts/aa22-335a",
+          "publishedOn": "2022-12-01T18:04:01.000Z",
+          "wordCount": 3634,
+          "title": "AA22-335A: #StopRansomware: Cuba Ransomware",
+          "imageUrl": null
+        },
+        {
           "id": "18160 at https://us-cert.cisa.gov",
           "author": "CISA",
           "description": "Original release date: November 17, 2022\nSummary\nActions to Take Today to Mitigate Cyber Threats from Ransomware:\nknown exploited vulnerabilities.\nNote: This joint Cybersecurity Advisory (CSA) is part of an ongoing #StopRansomware effort to publish advisories for network defenders that detail various ransomware variants and ransomware threat actors. These #StopRansomware advisories include recently and historically observed tactics, techniques, and procedures (TTPs) and indicators of compromise (IOCs) to help organizations protect against ransomware. Visit stopransomware.gov to see all #StopRansomware advisories and to learn more about other ransomware threats and no-cost resources.\nThe Federal Bureau of Investigation (FBI), the Cybersecurity and Infrastructure Security Agency (CISA), and …",
@@ -32,6 +42,26 @@
       "feedUrl": "https://us-cert.cisa.gov/ncas/current-activity.xml",
       "siteUrl": "https://us-cert.cisa.gov/",
       "articles": [
+        {
+          "id": "18185 at https://us-cert.cisa.gov",
+          "author": "CISA",
+          "description": "Original release date: December 1, 2022\nToday, the Federal Bureau of Investigation (FBI) and CISA released a joint Cybersecurity Advisory (CSA) #StopRansomware: Cuba Ransomware to provide network defenders tactics, techniques, and procedures (TTPs) and indicators of compromise (IOCs) associated with Cuba ransomware. FBI investigations identified these TTPs and IOCs as recently as August 2022. This CSA updates the December 2021 FBI Flash: Indicators of Compromise Associated with Cuba Ransomware. Key updates include:\nFBI has identified a sharp increase in the both the number of compromised U.S. entities and the ransom amounts demanded by Cuba ransomware actors.\nSince spring 2022, Cuba ransomware actors have expanded their TTPs.\nThird-party and open-source reports have identified a possible link between Cuba ransomware actors, RomCom Remote Access Trojan (RAT) actors, and Industrial Spy ransomware actors.\nFBI and CISA encourage network defenders to review the joint CSA and to apply the included mitigations. See StopRansomware.gov for additional guidance on ransomware protection, detection, and response.\nThis product is provided subject to this Notification and this Privacy & Use policy.",
+          "link": "https://us-cert.cisa.gov/ncas/current-activity/2022/12/01/stopransomware-cuba-ransomware",
+          "publishedOn": "2022-12-01T14:53:39.000Z",
+          "wordCount": 967,
+          "title": "#StopRansomware: Cuba Ransomware",
+          "imageUrl": null
+        },
+        {
+          "id": "18184 at https://us-cert.cisa.gov",
+          "author": "CISA",
+          "description": "Original release date: December 1, 2022\nCISA has released three (3) Industrial Control Systems (ICS) advisories on December 1, 2022. These advisories provide timely information about current security issues, vulnerabilities, and exploits surrounding ICS.\nCISA encourages users and administrators to review the newly released ICS advisories for technical details and mitigations:\n•    ICSMA-22-335-01 BD BodyGuard Pumps\nMELSEC iQ-R Series\nHorner Automation Remote Compact Controller\nThis product is provided subject to this Notification and this Privacy & Use policy.",
+          "link": "https://us-cert.cisa.gov/ncas/current-activity/2022/12/01/cisa-releases-three-industrial-control-systems-advisories",
+          "publishedOn": "2022-12-01T12:18:52.000Z",
+          "wordCount": 889,
+          "title": "CISA Releases Three Industrial Control Systems Advisories",
+          "imageUrl": null
+        },
         {
           "id": "18182 at https://us-cert.cisa.gov",
           "author": "CISA",
@@ -330,6 +360,66 @@
       "feedUrl": "https://www.darkreading.com/rss.xml",
       "siteUrl": "https://www.darkreading.com",
       "articles": [
+        {
+          "id": "https://www.darkreading.com/cloud/ibm-cloud-supply-chain-vulnerability-showcases-new-threat-class",
+          "author": "Elizabeth Montalbano, Contributor, Dark Reading",
+          "description": "The Hell's Keychain attack vector highlights common cloud misconfigurations and secrets exposure that can pose grave risk to enterprise customers.",
+          "link": "https://www.darkreading.com/cloud/ibm-cloud-supply-chain-vulnerability-showcases-new-threat-class",
+          "publishedOn": "2022-12-01T15:24:44.000Z",
+          "wordCount": 12401,
+          "title": "IBM Cloud Supply Chain Vulnerability Showcases New Threat Class",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltbfd004d139d42d70/6303bca6236c2476a257760e/ElizabethMontalbano.jpg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltbfd004d139d42d70/6303bca6236c2476a257760e/ElizabethMontalbano.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/endpoint/data-security-concerns-are-driving-changes-in-us-consumer-behavior-and-demands",
+          "author": "Todd Moore, Vice President, Encryption Products, Thales",
+          "description": "As consumers catch on to the dangers, protection could become a major topic for legislative bodies.",
+          "link": "https://www.darkreading.com/endpoint/data-security-concerns-are-driving-changes-in-us-consumer-behavior-and-demands",
+          "publishedOn": "2022-12-01T15:00:00.000Z",
+          "wordCount": 12463,
+          "title": "Data Security Concerns Are Driving Changes in US Consumer Behavior and Demands",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt88988d9c51b39816/6385018995ddb5144027d326/Todd_Moore.jpeg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt88988d9c51b39816/6385018995ddb5144027d326/Todd_Moore.jpeg"
+        },
+        {
+          "id": "https://www.darkreading.com/endpoint/guidehouse-insights-anticipates-market-for-automotive-cybersecurity-solutions-will-grow-to-more-than-445-billion-by-2031",
+          "author": null,
+          "description": "Market drivers include new regulations, increasing automobile complexity, and new vehicle types.",
+          "link": "https://www.darkreading.com/endpoint/guidehouse-insights-anticipates-market-for-automotive-cybersecurity-solutions-will-grow-to-more-than-445-billion-by-2031",
+          "publishedOn": "2022-12-01T14:16:00.000Z",
+          "wordCount": 11368,
+          "title": "Guidehouse Insights Anticipates Market for Automotive Cybersecurity Solutions Will Grow to More Than $445 Billion by 2031",
+          "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/threat-intelligence/cyberratings-org-announces-results-from-first-of-its-kind-comparative-test-on-cloud-network-firewall",
+          "author": null,
+          "description": "Ratings ranged from AAA to CC, with security effectiveness scores from 27% to 100%.",
+          "link": "https://www.darkreading.com/threat-intelligence/cyberratings-org-announces-results-from-first-of-its-kind-comparative-test-on-cloud-network-firewall",
+          "publishedOn": "2022-12-01T14:09:18.000Z",
+          "wordCount": 11247,
+          "title": "CyberRatings.org Announces Results from First-of-its-Kind Comparative Test on Cloud Network Firewall",
+          "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/vulnerabilities-threats/phylum-expands-its-software-supply-chain-security-capabilities-introduces-automated-vulnerability-reachability",
+          "author": null,
+          "description": "Know what you need to fix today and what you don’t.",
+          "link": "https://www.darkreading.com/vulnerabilities-threats/phylum-expands-its-software-supply-chain-security-capabilities-introduces-automated-vulnerability-reachability",
+          "publishedOn": "2022-12-01T14:04:11.000Z",
+          "wordCount": 11733,
+          "title": "Phylum Expands Its Software Supply Chain Security Capabilities, Introduces Automated Vulnerability Reachability",
+          "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
+        },
         {
           "id": "https://www.darkreading.com/dr-tech/ci-fuzz-cli-brings-fuzz-testing-to-java-applications",
           "author": "Dark Reading Staff, Dark Reading",
@@ -3410,6 +3500,16 @@
       "siteUrl": "https://blog.knowbe4.com",
       "articles": [
         {
+          "id": "https://blog.knowbe4.com/spoofing-as-a-service-site-taken-down",
+          "author": "Stu Sjouwerman",
+          "description": "Law enforcement authorities across Europe, Australia, the United States, Ukraine, and Canada have taken down a popular website used by cybercriminals to impersonate major corporations in voice phishing (vishing) attacks. The website, called “iSpoof,” allowed scammers to pay for spoofed phone numbers so they could appear to be calling from legitimate organizations.",
+          "link": "https://blog.knowbe4.com/spoofing-as-a-service-site-taken-down",
+          "publishedOn": "2022-12-01T15:31:30.000Z",
+          "wordCount": 2232,
+          "title": "Spoofing-as-a-Service Site Taken Down",
+          "imageUrl": "https://blog.knowbe4.com/hubfs/Spoofing%20as%20a%20Service%20Site.jpg#keepProtocol"
+        },
+        {
           "id": "https://blog.knowbe4.com/beware-of-holiday-gift-card-scams",
           "author": "Roger Grimes",
           "description": "Every holiday season brings on an increase in gift card scams. Most people love to buy and use gift cards. They are convenient, easy to buy, easy to use, easy to gift, usually allow the receiver to pick just what they want, and are often received as a reward for doing something. The gift card market is estimated in the many hundreds of BILLIONS of dollars. Who doesn’t like to get a free gift card?",
@@ -4016,6 +4116,17 @@
       "feedUrl": "https://thehackernews.com/feeds/posts/default",
       "siteUrl": "https://thehackernews.com/",
       "articles": [
+        {
+          "id": "tag:blogger.com,1999:blog-4802841478634147276.post-1015131186288351067",
+          "author": "noreply@blogger.com (Ravie Lakshmanan)",
+          "description": "A Barcelona-based surveillanceware vendor named Variston IT is said to have surreptitiously planted spyware on targeted devices by exploiting several zero-day flaws in Google Chrome, Mozilla Firefox, and Windows, some of which date back to December 2018.\n\"Their Heliconia framework exploits n-day vulnerabilities in Chrome, Firefox, and Microsoft Defender, and provides all the tools necessary to",
+          "link": "https://thehackernews.com/2022/12/google-accuses-spanish-spyware-vendor.html",
+          "publishedOn": "2022-12-01T14:32:00.000Z",
+          "wordCount": null,
+          "title": "Google Accuses Spanish Spyware Vendor of Exploiting Chrome, Firefox, & Windows Zero-Days",
+          "itunes": {},
+          "imageUrl": null
+        },
         {
           "id": "tag:blogger.com,1999:blog-4802841478634147276.post-4460268243478202297",
           "author": "noreply@blogger.com (Ravie Lakshmanan)",
@@ -5388,17 +5499,6 @@
           "publishedOn": "2022-11-02T09:39:00.000Z",
           "wordCount": null,
           "title": "Experts Warn of SandStrike Android Spyware Infecting Devices via Malicious VPN App",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "tag:blogger.com,1999:blog-4802841478634147276.post-4154360122844716606",
-          "author": "noreply@blogger.com (Ravie Lakshmanan)",
-          "description": "File hosting service Dropbox on Tuesday disclosed that it was the victim of a phishing campaign that allowed unidentified threat actors to gain unauthorized access to 130 of its source code repositories on GitHub.\n\"These repositories included our own copies of third-party libraries slightly modified for use by Dropbox, internal prototypes, and some tools and configuration files used by the",
-          "link": "https://thehackernews.com/2022/11/dropbox-breach-hackers-unauthorizedly.html",
-          "publishedOn": "2022-11-02T07:10:00.000Z",
-          "wordCount": null,
-          "title": "Dropbox Breach: Hackers Unauthorizedly Accessed 130 GitHub Source Code Repositories",
           "itunes": {},
           "imageUrl": null
         }

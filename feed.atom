@@ -2,10 +2,113 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-01T13:37:56.151Z</updated>
+    <updated>2022-12-01T19:19:28.434Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[AA22-335A: #StopRansomware: Cuba Ransomware]]></title>
+        <id>18183 at https://us-cert.cisa.gov</id>
+        <link href="https://us-cert.cisa.gov/ncas/alerts/aa22-335a"/>
+        <updated>2022-12-01T18:04:01.000Z</updated>
+        <summary type="html"><![CDATA[Original release date: December 1, 2022
+Summary
+Actions to take today to mitigate cyber threats from ransomware:
+known exploited vulnerabilities.
+phishing attempts.
+Note: This joint Cybersecurity Advisory (CSA) is part of an ongoing #StopRansomware effort to publish advisories for network defenders that detail various ransomware variants and ransomware threat actors. These #StopRansomware advisories include recently and historically observed tactics, techniques, and procedures (TTPs) and indicators of compromise (IOCs) to help organizations protect against ransomware. Visit stopransomware.gov to see all #StopRansomware advisories and to learn more about other ransomware threats and no-cost resources.
+The Federal Bureau of Investigation (FBI) and the Cybersecurity and Infrastructure Securit…]]></summary>
+        <author>
+            <name>CISA</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Spoofing-as-a-Service Site Taken Down]]></title>
+        <id>https://blog.knowbe4.com/spoofing-as-a-service-site-taken-down</id>
+        <link href="https://blog.knowbe4.com/spoofing-as-a-service-site-taken-down"/>
+        <updated>2022-12-01T15:31:30.000Z</updated>
+        <summary type="html"><![CDATA[Law enforcement authorities across Europe, Australia, the United States, Ukraine, and Canada have taken down a popular website used by cybercriminals to impersonate major corporations in voice phishing (vishing) attacks. The website, called “iSpoof,” allowed scammers to pay for spoofed phone numbers so they could appear to be calling from legitimate organizations.]]></summary>
+        <author>
+            <name>Stu Sjouwerman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[IBM Cloud Supply Chain Vulnerability Showcases New Threat Class]]></title>
+        <id>https://www.darkreading.com/cloud/ibm-cloud-supply-chain-vulnerability-showcases-new-threat-class</id>
+        <link href="https://www.darkreading.com/cloud/ibm-cloud-supply-chain-vulnerability-showcases-new-threat-class"/>
+        <updated>2022-12-01T15:24:44.000Z</updated>
+        <summary type="html"><![CDATA[The Hell's Keychain attack vector highlights common cloud misconfigurations and secrets exposure that can pose grave risk to enterprise customers.]]></summary>
+        <author>
+            <name>Elizabeth Montalbano, Contributor, Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Data Security Concerns Are Driving Changes in US Consumer Behavior and Demands]]></title>
+        <id>https://www.darkreading.com/endpoint/data-security-concerns-are-driving-changes-in-us-consumer-behavior-and-demands</id>
+        <link href="https://www.darkreading.com/endpoint/data-security-concerns-are-driving-changes-in-us-consumer-behavior-and-demands"/>
+        <updated>2022-12-01T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[As consumers catch on to the dangers, protection could become a major topic for legislative bodies.]]></summary>
+        <author>
+            <name>Todd Moore, Vice President, Encryption Products, Thales</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#StopRansomware: Cuba Ransomware]]></title>
+        <id>18185 at https://us-cert.cisa.gov</id>
+        <link href="https://us-cert.cisa.gov/ncas/current-activity/2022/12/01/stopransomware-cuba-ransomware"/>
+        <updated>2022-12-01T14:53:39.000Z</updated>
+        <summary type="html"><![CDATA[Original release date: December 1, 2022
+Today, the Federal Bureau of Investigation (FBI) and CISA released a joint Cybersecurity Advisory (CSA) #StopRansomware: Cuba Ransomware to provide network defenders tactics, techniques, and procedures (TTPs) and indicators of compromise (IOCs) associated with Cuba ransomware. FBI investigations identified these TTPs and IOCs as recently as August 2022. This CSA updates the December 2021 FBI Flash: Indicators of Compromise Associated with Cuba Ransomware. Key updates include:
+FBI has identified a sharp increase in the both the number of compromised U.S. entities and the ransom amounts demanded by Cuba ransomware actors.
+Since spring 2022, Cuba ransomware actors have expanded their TTPs.
+Third-party and open-source reports have identified a possible link between Cuba ransomware actors, RomCom Remote Access Trojan (RAT) actors, and Industrial Spy ransomware actors.
+FBI and CISA encourage network defenders to review the joint CSA and to apply the included mitigations. See StopRansomware.gov for additional guidance on ransomware protection, detection, and response.
+This product is provided subject to this Notification and this Privacy & Use policy.]]></summary>
+        <author>
+            <name>CISA</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google Accuses Spanish Spyware Vendor of Exploiting Chrome, Firefox, & Windows Zero-Days]]></title>
+        <id>tag:blogger.com,1999:blog-4802841478634147276.post-1015131186288351067</id>
+        <link href="https://thehackernews.com/2022/12/google-accuses-spanish-spyware-vendor.html"/>
+        <updated>2022-12-01T14:32:00.000Z</updated>
+        <summary type="html"><![CDATA[A Barcelona-based surveillanceware vendor named Variston IT is said to have surreptitiously planted spyware on targeted devices by exploiting several zero-day flaws in Google Chrome, Mozilla Firefox, and Windows, some of which date back to December 2018.
+"Their Heliconia framework exploits n-day vulnerabilities in Chrome, Firefox, and Microsoft Defender, and provides all the tools necessary to]]></summary>
+        <author>
+            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Guidehouse Insights Anticipates Market for Automotive Cybersecurity Solutions Will Grow to More Than $445 Billion by 2031]]></title>
+        <id>https://www.darkreading.com/endpoint/guidehouse-insights-anticipates-market-for-automotive-cybersecurity-solutions-will-grow-to-more-than-445-billion-by-2031</id>
+        <link href="https://www.darkreading.com/endpoint/guidehouse-insights-anticipates-market-for-automotive-cybersecurity-solutions-will-grow-to-more-than-445-billion-by-2031"/>
+        <updated>2022-12-01T14:16:00.000Z</updated>
+        <summary type="html"><![CDATA[Market drivers include new regulations, increasing automobile complexity, and new vehicle types.]]></summary>
+        <author>
+            <name>Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CyberRatings.org Announces Results from First-of-its-Kind Comparative Test on Cloud Network Firewall]]></title>
+        <id>https://www.darkreading.com/threat-intelligence/cyberratings-org-announces-results-from-first-of-its-kind-comparative-test-on-cloud-network-firewall</id>
+        <link href="https://www.darkreading.com/threat-intelligence/cyberratings-org-announces-results-from-first-of-its-kind-comparative-test-on-cloud-network-firewall"/>
+        <updated>2022-12-01T14:09:18.000Z</updated>
+        <summary type="html"><![CDATA[Ratings ranged from AAA to CC, with security effectiveness scores from 27% to 100%.]]></summary>
+        <author>
+            <name>Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Phylum Expands Its Software Supply Chain Security Capabilities, Introduces Automated Vulnerability Reachability]]></title>
+        <id>https://www.darkreading.com/vulnerabilities-threats/phylum-expands-its-software-supply-chain-security-capabilities-introduces-automated-vulnerability-reachability</id>
+        <link href="https://www.darkreading.com/vulnerabilities-threats/phylum-expands-its-software-supply-chain-security-capabilities-introduces-automated-vulnerability-reachability"/>
+        <updated>2022-12-01T14:04:11.000Z</updated>
+        <summary type="html"><![CDATA[Know what you need to fix today and what you don’t.]]></summary>
+        <author>
+            <name>Dark Reading</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hackers Leak Another Set of Medibank Customer Data on the Dark Web]]></title>
         <id>tag:blogger.com,1999:blog-4802841478634147276.post-4460268243478202297</id>
@@ -16,6 +119,22 @@
 "While our investigation continues there]]></summary>
         <author>
             <name>noreply@blogger.com (Ravie Lakshmanan)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CISA Releases Three Industrial Control Systems Advisories]]></title>
+        <id>18184 at https://us-cert.cisa.gov</id>
+        <link href="https://us-cert.cisa.gov/ncas/current-activity/2022/12/01/cisa-releases-three-industrial-control-systems-advisories"/>
+        <updated>2022-12-01T12:18:52.000Z</updated>
+        <summary type="html"><![CDATA[Original release date: December 1, 2022
+CISA has released three (3) Industrial Control Systems (ICS) advisories on December 1, 2022. These advisories provide timely information about current security issues, vulnerabilities, and exploits surrounding ICS.
+CISA encourages users and administrators to review the newly released ICS advisories for technical details and mitigations:
+•    ICSMA-22-335-01 BD BodyGuard Pumps
+MELSEC iQ-R Series
+Horner Automation Remote Compact Controller
+This product is provided subject to this Notification and this Privacy & Use policy.]]></summary>
+        <author>
+            <name>CISA</name>
         </author>
     </entry>
     <entry>
@@ -4758,17 +4877,6 @@ This article will give a quick guide to the latest info stealer's version]]></su
         <summary type="html"><![CDATA[A previously undocumented Android spyware campaign has been found striking Persian-speaking individuals by masquerading as a seemingly harmless VPN application.
 Russian cybersecurity firm Kaspersky is tracking the campaign under the moniker SandStrike. It has not been attributed to any particular threat group.
 "SandStrike is distributed as a means to access resources about the Bahá'í religion]]></summary>
-        <author>
-            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dropbox Breach: Hackers Unauthorizedly Accessed 130 GitHub Source Code Repositories]]></title>
-        <id>tag:blogger.com,1999:blog-4802841478634147276.post-4154360122844716606</id>
-        <link href="https://thehackernews.com/2022/11/dropbox-breach-hackers-unauthorizedly.html"/>
-        <updated>2022-11-02T07:10:00.000Z</updated>
-        <summary type="html"><![CDATA[File hosting service Dropbox on Tuesday disclosed that it was the victim of a phishing campaign that allowed unidentified threat actors to gain unauthorized access to 130 of its source code repositories on GitHub.
-"These repositories included our own copies of third-party libraries slightly modified for use by Dropbox, internal prototypes, and some tools and configuration files used by the]]></summary>
         <author>
             <name>noreply@blogger.com (Ravie Lakshmanan)</name>
         </author>
