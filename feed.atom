@@ -2,10 +2,80 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-01T07:20:27.875Z</updated>
+    <updated>2022-12-01T13:37:56.151Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Hackers Leak Another Set of Medibank Customer Data on the Dark Web]]></title>
+        <id>tag:blogger.com,1999:blog-4802841478634147276.post-4460268243478202297</id>
+        <link href="https://thehackernews.com/2022/12/hackers-leak-another-set-of-medibank.html"/>
+        <updated>2022-12-01T13:17:00.000Z</updated>
+        <summary type="html"><![CDATA[Medibank on Thursday confirmed that the threat actors behind the devastating cyber attack have posted another dump of data stolen from its systems on the dark web after its refusal to pay a ransom.
+"We are in the process of analyzing the data, but the data released appears to be the data we believed the criminal stole," the Australian health insurer said.
+"While our investigation continues there]]></summary>
+        <author>
+            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Researchers Disclose Critical RCE Vulnerability Affecting Quarkus Java Framework]]></title>
+        <id>tag:blogger.com,1999:blog-4802841478634147276.post-7461934099736628688</id>
+        <link href="https://thehackernews.com/2022/12/researchers-disclose-critical-rce.html"/>
+        <updated>2022-12-01T11:44:00.000Z</updated>
+        <summary type="html"><![CDATA[A critical security vulnerability has been disclosed in the Quarkus Java framework that could be potentially exploited to achieve remote code execution on affected systems.
+Tracked as CVE-2022-4116 (CVSS score: 9.8), the shortcoming could be trivially abused by a malicious actor without any privileges.
+"The vulnerability is found in the Dev UI Config Editor, which is vulnerable to drive-by]]></summary>
+        <author>
+            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What Developers Need to Fight the Battle Against Common Vulnerabilities]]></title>
+        <id>tag:blogger.com,1999:blog-4802841478634147276.post-1337763906490741492</id>
+        <link href="https://thehackernews.com/2022/12/what-developers-need-to-fight-battle.html"/>
+        <updated>2022-12-01T11:13:00.000Z</updated>
+        <summary type="html"><![CDATA[Today's threat landscape is constantly evolving, and now more than ever, organizations and businesses in every sector have a critical need to consistently produce and maintain secure software. While some verticals - like the finance industry, for example - have been subject to regulatory and compliance requirements for some time, we are seeing a steady increase in attention on cybersecurity best]]></summary>
+        <author>
+            <name>noreply@blogger.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Schoolyard Bully Trojan Apps Stole Facebook Credentials from Over 300,000 Android Users]]></title>
+        <id>tag:blogger.com,1999:blog-4802841478634147276.post-3830806232602760308</id>
+        <link href="https://thehackernews.com/2022/12/schoolyard-bully-trojan-apps-stole.html"/>
+        <updated>2022-12-01T10:07:00.000Z</updated>
+        <summary type="html"><![CDATA[More than 300,000 users across 71 countries have been victimized by a new Android threat campaign called the Schoolyard Bully Trojan.
+Mainly designed to steal Facebook credentials, the malware is camouflaged as legitimate education-themed applications to lure unsuspecting users into downloading them.
+The apps, which were available for download from the official Google Play Store, have now been]]></summary>
+        <author>
+            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Researchers 'Accidentally’ Crash KmsdBot Cryptocurrency Mining Botnet Network]]></title>
+        <id>tag:blogger.com,1999:blog-4802841478634147276.post-1438896041287185193</id>
+        <link href="https://thehackernews.com/2022/12/researchers-accidentally-crashed.html"/>
+        <updated>2022-12-01T09:48:00.000Z</updated>
+        <summary type="html"><![CDATA[An ongoing analysis into an up-and-coming cryptocurrency mining botnet known as KmsdBot has led to it being accidentally taken down.
+KmsdBot, as christened by the Akamai Security Intelligence Response Team (SIRT), came to light mid-November 2022 for its ability to brute-force systems with weak SSH credentials.
+The botnet strikes both Windows and Linux devices spanning a wide range of]]></summary>
+        <author>
+            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LastPass Suffers Another Security Breach; Exposed Some Customers Information]]></title>
+        <id>tag:blogger.com,1999:blog-4802841478634147276.post-3599957584546412339</id>
+        <link href="https://thehackernews.com/2022/12/lastpass-suffers-another-security.html"/>
+        <updated>2022-12-01T09:35:00.000Z</updated>
+        <summary type="html"><![CDATA[Popular password management service LastPass said it's investigating a second security incident that involved attackers accessing some of its customer information.
+"We recently detected unusual activity within a third-party cloud storage service, which is currently shared by both LastPass and its affiliate, GoTo," LastPass CEO Karim Toubba said.
+GoTo, formerly called LogMeIn, acquired LastPass]]></summary>
+        <author>
+            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CI Fuzz CLI Brings Fuzz Testing to Java Applications]]></title>
         <id>https://www.darkreading.com/dr-tech/ci-fuzz-cli-brings-fuzz-testing-to-java-applications</id>
@@ -4701,60 +4771,6 @@ Russian cybersecurity firm Kaspersky is tracking the campaign under the moniker�
 "These repositories included our own copies of third-party libraries slightly modified for use by Dropbox, internal prototypes, and some tools and configuration files used by the]]></summary>
         <author>
             <name>noreply@blogger.com (Ravie Lakshmanan)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How AI Can Deliver the Next Phase of Scalability]]></title>
-        <id>https://www.darkreading.com/zscaler/how-ai-can-deliver-the-next-phase-of-scalability</id>
-        <link href="https://www.darkreading.com/zscaler/how-ai-can-deliver-the-next-phase-of-scalability"/>
-        <updated>2022-11-02T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[AI will help enterprises scale cybersecurity defenses to handle the growing complexity of modern networks and increased number of cyberthreats.]]></summary>
-        <author>
-            <name>Howie Xu, Vice President of AI and Machine Learning, Zscaler</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Sky Is Not Falling: Disclosed OpenSSL Bugs Are Serious but Not Critical]]></title>
-        <id>https://www.darkreading.com/risk/disclosed-openssl-bugs-serious-not-critical</id>
-        <link href="https://www.darkreading.com/risk/disclosed-openssl-bugs-serious-not-critical"/>
-        <updated>2022-11-01T20:46:00.000Z</updated>
-        <summary type="html"><![CDATA[Organizations should update to the latest encryption (version 3.0.7) as soon as possible, but there's no need for Heartbleed-like panic, security experts say.]]></summary>
-        <author>
-            <name>Jai Vijayan, Contributing Writer, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bed Bath & Beyond Discloses Data Breach to SEC]]></title>
-        <id>https://www.darkreading.com/attacks-breaches/bed-bath-beyond-discloses-data-breach-to-sec</id>
-        <link href="https://www.darkreading.com/attacks-breaches/bed-bath-beyond-discloses-data-breach-to-sec"/>
-        <updated>2022-11-01T20:46:00.000Z</updated>
-        <summary type="html"><![CDATA[The retailer reported that an employee fell for a phishing scam, allowing malicious actors to access shared drives.]]></summary>
-        <author>
-            <name>Dark Reading Staff, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OpenSSL Releases Security Update]]></title>
-        <id>18120 at https://us-cert.cisa.gov</id>
-        <link href="https://us-cert.cisa.gov/ncas/current-activity/2022/11/01/openssl-releases-security-update"/>
-        <updated>2022-11-01T19:57:55.000Z</updated>
-        <summary type="html"><![CDATA[Original release date: November 1, 2022
-OpenSSL has released a security advisory to address two vulnerabilities, CVE-2022-3602 and CVE-2022-3786, affecting OpenSSL versions 3.0.0 through 3.0.6.
-Both CVE-2022-3602 and CVE-2022-3786 can cause a denial of service. According to OpenSSL, a cyber threat actor leveraging CVE-2022-3786, "can craft a malicious email address to overflow four attacker-controlled bytes on the stack. This buffer overflow could result in a crash (causing a denial of service) or potentially remote code execution," allowing them to take control of an affected system.
-CISA encourages users and administrators to review the OpenSSL advisory, blog, OpenSSL 3.0.7 announcement, and upgrade to OpenSSL 3.0.7. For additional information on affected products, see the 2022 OpenSSL vulnerability - CVE-2022-3602 GitHub repository, jointly maintained by the Netherland's National Cyber Security Centrum (NCSC-NL) and CISA.
-This product is provided subject to this Notification and this Privacy & Use policy.]]></summary>
-        <author>
-            <name>CISA</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Now That EDR Is Obvious, What Comes Next?]]></title>
-        <id>https://www.darkreading.com/dr-tech/now-that-edr-is-obvious-what-comes-next-</id>
-        <link href="https://www.darkreading.com/dr-tech/now-that-edr-is-obvious-what-comes-next-"/>
-        <updated>2022-11-01T19:44:05.000Z</updated>
-        <summary type="html"><![CDATA[First in our series addressing the top 10 unanswered questions in security: What's going to replace EDR?]]></summary>
-        <author>
-            <name>Will Lin, Managing Director, Forgepoint Capital</name>
         </author>
     </entry>
     <entry>
