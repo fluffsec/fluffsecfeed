@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-01T19:19:28.434Z</updated>
+    <updated>2022-12-02T02:23:44.873Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[LastPass Discloses Second Breach in Three Months]]></title>
+        <id>https://www.darkreading.com/application-security/lastpass-discloses-second-breach-in-three-months</id>
+        <link href="https://www.darkreading.com/application-security/lastpass-discloses-second-breach-in-three-months"/>
+        <updated>2022-12-01T21:56:00.000Z</updated>
+        <summary type="html"><![CDATA[The threat actor behind an August intrusion used data from that incident to access customer data stored with a third-party cloud service provider, and affiliate GoTo reports breach of development environment.]]></summary>
+        <author>
+            <name>Jai Vijayan, Contributing Writer, Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Artifact Poisoning in GitHub Actions Imports Malware via Software Pipelines]]></title>
+        <id>https://www.darkreading.com/application-security/artifact-poisoning-github-actions-malware-software-pipelines</id>
+        <link href="https://www.darkreading.com/application-security/artifact-poisoning-github-actions-malware-software-pipelines"/>
+        <updated>2022-12-01T21:05:00.000Z</updated>
+        <summary type="html"><![CDATA[A vulnerability discovered in GitHub Actions could allow an attacker to poison a developer's pipeline, highlighting the risk that insecure software pipelines pose.]]></summary>
+        <author>
+            <name>Robert Lemos, Contributing Writer, Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[One Year After Log4Shell, Most Firms Are Still Exposed to Attack]]></title>
+        <id>https://www.darkreading.com/application-security/one-year-later-log4shell-exposed-attack</id>
+        <link href="https://www.darkreading.com/application-security/one-year-later-log4shell-exposed-attack"/>
+        <updated>2022-12-01T20:47:00.000Z</updated>
+        <summary type="html"><![CDATA[Though there have been fewer than expected publicly reported attacks involving the vulnerability, nearly three-quarters of organizations remain exposed to it.]]></summary>
+        <author>
+            <name>Jai Vijayan, Contributing Writer, Dark Reading</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AA22-335A: #StopRansomware: Cuba Ransomware]]></title>
         <id>18183 at https://us-cert.cisa.gov</id>
@@ -40,6 +70,16 @@ The Federal Bureau of Investigation (FBI) and the Cybersecurity and Infrastructu
         <summary type="html"><![CDATA[The Hell's Keychain attack vector highlights common cloud misconfigurations and secrets exposure that can pose grave risk to enterprise customers.]]></summary>
         <author>
             <name>Elizabeth Montalbano, Contributor, Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Of Exploits and Experts: The Professionalization of Cybercrime]]></title>
+        <id>https://www.darkreading.com/zscaler/of-exploits-and-experts-the-professionalization-of-cybercrime</id>
+        <link href="https://www.darkreading.com/zscaler/of-exploits-and-experts-the-professionalization-of-cybercrime"/>
+        <updated>2022-12-01T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[No longer the realm of lone wolves, the world of cybercrime is increasingly strategic, commoditized, and collaborative.]]></summary>
+        <author>
+            <name>CXO REvolutionaries Staff, Zscaler</name>
         </author>
     </entry>
     <entry>
@@ -4783,102 +4823,6 @@ The post Two High-Severity Flaws Fixed in OpenSSL appeared first on Field Effect
         <summary type="html"><![CDATA[A proposed plan to charge users for the platform's coveted blue check mark has, unsurprisingly, inspired attackers to try to dupe people into giving up their credentials.]]></summary>
         <author>
             <name>Elizabeth Montalbano, Contributor, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Global Automotive Cybersecurity Market Report 2022: Expected Mandate for Cybersecurity Protocols to Significantly Boost Sector]]></title>
-        <id>https://www.darkreading.com/vulnerabilities-threats/global-automotive-cybersecurity-market-report-2022-expected-mandate-for-cybersecurity-protocols-to-significantly-boost-sector</id>
-        <link href="https://www.darkreading.com/vulnerabilities-threats/global-automotive-cybersecurity-market-report-2022-expected-mandate-for-cybersecurity-protocols-to-significantly-boost-sector"/>
-        <updated>2022-11-02T14:15:51.000Z</updated>
-        <summary type="html"><![CDATA[As vehicle security expands to cover cyber threats on the vehicle as well as the vehicle's external network, cross-industry collaboration and market opportunities are expected to increase.]]></summary>
-        <author>
-            <name>Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Everything You Need to Know About LockBit]]></title>
-        <id>https://www.darkreading.com/vulnerabilities-threats/everything-you-need-to-know-about-lockbit</id>
-        <link href="https://www.darkreading.com/vulnerabilities-threats/everything-you-need-to-know-about-lockbit"/>
-        <updated>2022-11-02T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[While the ransomware-for-hire group works to create ever more efficient exploits, companies can protect themselves with structured vulnerability management processes. Prioritize threats based on severity and risk.]]></summary>
-        <author>
-            <name>Aaron Sandeen, CEO &amp; Co-Founder, Cyber Security Works</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Aravo Integration With Black Kite Helps Improve Cybersecurity Defenses]]></title>
-        <id>https://www.darkreading.com/risk/aravo-integration-with-black-kite-helps-improve-cybersecurity-defenses</id>
-        <link href="https://www.darkreading.com/risk/aravo-integration-with-black-kite-helps-improve-cybersecurity-defenses"/>
-        <updated>2022-11-02T13:56:05.000Z</updated>
-        <summary type="html"><![CDATA[New Aravo partnership provides organizations with comprehensive, standards-based third-party technical, financial, and compliance intelligence.]]></summary>
-        <author>
-            <name>Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PQShield and Riscure Collaborate on Post-Quantum Cryptography SCA Validation]]></title>
-        <id>https://www.darkreading.com/vulnerabilities-threats/pqshield-and-riscure-collaborate-on-post-quantum-cryptography-sca-validation</id>
-        <link href="https://www.darkreading.com/vulnerabilities-threats/pqshield-and-riscure-collaborate-on-post-quantum-cryptography-sca-validation"/>
-        <updated>2022-11-02T13:29:02.000Z</updated>
-        <summary type="html"><![CDATA[The project will advance understanding of how quantum-secure algorithms can be secured against side channel analysis through robust validation and countermeasures.]]></summary>
-        <author>
-            <name>Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Multiple Vulnerabilities Reported in Checkmk IT Infrastructure Monitoring Software]]></title>
-        <id>tag:blogger.com,1999:blog-4802841478634147276.post-475872900422248749</id>
-        <link href="https://thehackernews.com/2022/11/multiple-vulnerabilities-reported-in.html"/>
-        <updated>2022-11-02T13:11:00.000Z</updated>
-        <summary type="html"><![CDATA[Multiple vulnerabilities have been disclosed in Checkmk IT Infrastructure monitoring software that could be chained together by an unauthenticated, remote attacker to fully take over affected servers. 
-"These vulnerabilities can be chained together by an unauthenticated, remote attacker to gain code execution on the server running Checkmk version 2.1.0p10 and lower," SonarSource researcher]]></summary>
-        <author>
-            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Critical Vulnerability in Microsoft Azure Cosmos DB Opens Up Jupyter Notebooks]]></title>
-        <id>https://www.darkreading.com/application-security/critical-vulnerability-found-and-fixed-in-azure-cosmos-db-</id>
-        <link href="https://www.darkreading.com/application-security/critical-vulnerability-found-and-fixed-in-azure-cosmos-db-"/>
-        <updated>2022-11-02T13:10:00.000Z</updated>
-        <summary type="html"><![CDATA[The now-patched RCE flaw in Cosmos DB's Jupyter Notebook feature highlights some of the weaknesses that can arise from emerging tech in the cloud-native and machine learning worlds.]]></summary>
-        <author>
-            <name>Ericka Chickowski, Contributing Writer, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[These Android Apps with a Million Play Store Installations Redirect Users to Malicious Sites]]></title>
-        <id>tag:blogger.com,1999:blog-4802841478634147276.post-405263965434455802</id>
-        <link href="https://thehackernews.com/2022/11/these-android-apps-with-million-play.html"/>
-        <updated>2022-11-02T11:47:00.000Z</updated>
-        <summary type="html"><![CDATA[A set of four Android apps released by the same developer has been discovered directing victims to malicious websites as part of an adware and information-stealing campaign.
-The apps, published by a developer named Mobile apps Group and currently available on the Play Store, have been collectively downloaded over one million times.
-According to Malwarebytes, the websites are designed to generate]]></summary>
-        <author>
-            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Inside Raccoon Stealer V2]]></title>
-        <id>tag:blogger.com,1999:blog-4802841478634147276.post-5811532242563659525</id>
-        <link href="https://thehackernews.com/2022/11/inside-raccoon-stealer-v2.html"/>
-        <updated>2022-11-02T11:28:00.000Z</updated>
-        <summary type="html"><![CDATA[Raccoon Stealer is back on the news again. US officials arrested Mark Sokolovsky, one of the malware actors behind this program. In July 2022, after several months of the shutdown, a Raccoon Stealer V2 went viral. Last week, the Department of Justice's press release stated that the malware collected 50 million credentials.
-This article will give a quick guide to the latest info stealer's version]]></summary>
-        <author>
-            <name>noreply@blogger.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Experts Warn of SandStrike Android Spyware Infecting Devices via Malicious VPN App]]></title>
-        <id>tag:blogger.com,1999:blog-4802841478634147276.post-5705274057674144663</id>
-        <link href="https://thehackernews.com/2022/11/experts-warn-of-sandstrike-android.html"/>
-        <updated>2022-11-02T09:39:00.000Z</updated>
-        <summary type="html"><![CDATA[A previously undocumented Android spyware campaign has been found striking Persian-speaking individuals by masquerading as a seemingly harmless VPN application.
-Russian cybersecurity firm Kaspersky is tracking the campaign under the moniker SandStrike. It has not been attributed to any particular threat group.
-"SandStrike is distributed as a means to access resources about the Bahá'í religion]]></summary>
-        <author>
-            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
         </author>
     </entry>
     <entry>
