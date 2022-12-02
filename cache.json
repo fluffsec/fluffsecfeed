@@ -361,6 +361,21 @@
       "siteUrl": "https://www.darkreading.com",
       "articles": [
         {
+          "id": "https://www.darkreading.com/dr-tech/aws-unveils-amazon-security-lake-at-reinvent-2022",
+          "author": "Dark Reading Staff, Dark Reading",
+          "description": "Amazon Security Lake will allow organizations to create a purpose-built, standards-based data lake to aggregate and store security data.",
+          "link": "https://www.darkreading.com/dr-tech/aws-unveils-amazon-security-lake-at-reinvent-2022",
+          "publishedOn": "2022-12-02T02:00:00.000Z",
+          "wordCount": 10139,
+          "title": "AWS Unveils Amazon Security Lake at re:Invent 2022",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blte161b23f0fd3a84b/60b1ea374e7eb868c4c6a293/dr_staff_125x125.jpg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blte161b23f0fd3a84b/60b1ea374e7eb868c4c6a293/dr_staff_125x125.jpg"
+        },
+        {
           "id": "https://www.darkreading.com/application-security/lastpass-discloses-second-breach-in-three-months",
           "author": "Jai Vijayan, Contributing Writer, Dark Reading",
           "description": "The threat actor behind an August intrusion used data from that incident to access customer data stored with a third-party cloud service provider, and affiliate GoTo reports breach of development environment.",
@@ -3274,21 +3289,6 @@
           "wordCount": 12470,
           "title": "Certificate-Based Authentication With YubiKeys for Microsoft, Third-Party, and Web Applications Now Available on iOS and Android",
           "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
-        },
-        {
-          "id": "https://www.darkreading.com/mobile/cyber-threat-actor-booby-trapped-vpn-app-deploy-android-spyware",
-          "author": "Jai Vijayan, Contributing Writer, Dark Reading",
-          "description": "\"SandStrike,\" the latest example of espionage-aimed Android malware, relies on elaborate social media efforts and back-end infrastructure.",
-          "link": "https://www.darkreading.com/mobile/cyber-threat-actor-booby-trapped-vpn-app-deploy-android-spyware",
-          "publishedOn": "2022-11-02T19:50:00.000Z",
-          "wordCount": 13907,
-          "title": "Cyber-Threat Actor Uses Booby-Trapped VPN App to Deploy Android Spyware",
-          "enclosure": {
-            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt02d79fb9a44a4258/60b1e9dd2a25046b35110696/Jai-Vijayan.jpeg",
-            "type": "image/*",
-            "length": "0"
-          },
-          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt02d79fb9a44a4258/60b1e9dd2a25046b35110696/Jai-Vijayan.jpeg"
         }
       ]
     },
@@ -3339,16 +3339,6 @@
           "wordCount": 2779,
           "title": "Announcing the Microsoft Machine Learning Membership Inference Competition (MICO)",
           "imageUrl": null
-        },
-        {
-          "id": "https://msrc-blog.microsoft.com/?p=15115",
-          "author": "msrc",
-          "description": "Summary   Microsoft is aware and actively addressing the impact associated with the recent OpenSSL vulnerabilities announced on October 25th 2022, fixed in version 3.0.7. As part of our standard processes, we are rolling out fixes for impacted services.  Any customer action that is required will be highlighted in this blog and our associated Security Update …\n  Awareness and guidance related to OpenSSL 3.0 – 3.0.6 risk (CVE-2022-3786 and CVE-2202-3602) Read More »",
-          "link": "https://msrc-blog.microsoft.com/2022/11/02/microsoft-guidance-related-to-openssl-risk-cve-2022-3786-and-cve-2202-3602/",
-          "publishedOn": "2022-11-03T00:46:06.000Z",
-          "wordCount": 2143,
-          "title": "Awareness and guidance related to OpenSSL 3.0 – 3.0.6 risk (CVE-2022-3786 and CVE-2202-3602)",
-          "imageUrl": null
         }
       ]
     },
@@ -3356,24 +3346,23 @@
       "title": "Threats Archive - Field Effect Software Inc",
       "feedUrl": "https://fieldeffect.com/feed/?post_type=threats",
       "siteUrl": "https://fieldeffect.com/threats/",
-      "articles": [
-        {
-          "id": "https://fieldeffect.com/?post_type=threats&p=6654",
-          "author": "Elena Lapina",
-          "description": "On 1 November 2022, the OpenSSL project released OpenSSL version 3.0.7 to address two high-severity security issues. We recommend updating the affected product to the latest version immediately and following the mitigation steps below. Details On 1 November 2022, the OpenSSL project released a security update to address two high-severity flaws in Open Secure Sockets […]\nThe post Two High-Severity Flaws Fixed in OpenSSL appeared first on Field Effect Software Inc.",
-          "link": "https://fieldeffect.com/threats/two-high-severity-flaws-fixed-in-openssl/",
-          "publishedOn": "2022-11-02T21:16:35.000Z",
-          "wordCount": 767,
-          "title": "Two High-Severity Flaws Fixed in OpenSSL",
-          "imageUrl": "https://fieldeffect.com/wp-content/uploads/2020/05/Untitled-design-9.png"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "KnowBe4 Security Awareness Training Blog",
       "feedUrl": "https://blog.knowbe4.com/rss.xml",
       "siteUrl": "https://blog.knowbe4.com",
       "articles": [
+        {
+          "id": "https://blog.knowbe4.com/your-knowbe4-fresh-content-updates-from-november-2022",
+          "author": "Stu Sjouwerman",
+          "description": "Check out the 55 new pieces of training content added in November, alongside the always fresh content update highlights and new features.",
+          "link": "https://blog.knowbe4.com/your-knowbe4-fresh-content-updates-from-november-2022",
+          "publishedOn": "2022-12-02T13:05:00.000Z",
+          "wordCount": 2807,
+          "title": "Your KnowBe4 Fresh Content Updates from November 2022",
+          "imageUrl": "https://blog.knowbe4.com/hubfs/MonthlyContentUpdate2-2.jpg#keepProtocol"
+        },
         {
           "id": "https://blog.knowbe4.com/spoofing-as-a-service-site-taken-down",
           "author": "Stu Sjouwerman",
