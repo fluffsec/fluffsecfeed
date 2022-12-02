@@ -2,10 +2,93 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-02T13:26:09.400Z</updated>
+    <updated>2022-12-02T19:16:22.169Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[New Threat Group Already Evolves Delivery Tactics to Include Google Ads]]></title>
+        <id>https://blog.knowbe4.com/new-threat-group-already-evolves-delivery-tactics-to-include-google-ads</id>
+        <link href="https://blog.knowbe4.com/new-threat-group-already-evolves-delivery-tactics-to-include-google-ads"/>
+        <updated>2022-12-02T17:36:56.000Z</updated>
+        <summary type="html"><![CDATA[Delivering an equally new Royal ransomware, this threat group monitored by Microsoft Security Threat Intelligence has already shown signs of impressive innovation to trick victims.]]></summary>
+        <author>
+            <name>Stu Sjouwerman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Latest Netflix-Impersonated Phishing Attacks Surge in Frequency by 78% Since October]]></title>
+        <id>https://blog.knowbe4.com/latest-netflix-impersonated-phishing-attacks-surge-in-frequency-by-78-since-october</id>
+        <link href="https://blog.knowbe4.com/latest-netflix-impersonated-phishing-attacks-surge-in-frequency-by-78-since-october"/>
+        <updated>2022-12-02T17:36:53.000Z</updated>
+        <summary type="html"><![CDATA[Using a mix of invisible and lookalike characters, this phishing attack attempts to get past security scanners by obfuscating both email content and domain names.]]></summary>
+        <author>
+            <name>Stu Sjouwerman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[It’s Official: COVID-related Phishing is Dead as Scammers Return to Impersonating Famous Brands]]></title>
+        <id>https://blog.knowbe4.com/scammers-return-to-impersonating-famous-brands</id>
+        <link href="https://blog.knowbe4.com/scammers-return-to-impersonating-famous-brands"/>
+        <updated>2022-12-02T17:36:50.000Z</updated>
+        <summary type="html"><![CDATA[New analysis of spam and malicious emails show the all but nonexistence of COVID-esque impersonation of government and pharm entities in lieu of international brands.]]></summary>
+        <author>
+            <name>Stu Sjouwerman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ransomware Attacks on Holidays and Weekends Increase and Take a Greater Toll on Organizations]]></title>
+        <id>https://blog.knowbe4.com/ransomware-attacks-on-holidays-weekends-increase</id>
+        <link href="https://blog.knowbe4.com/ransomware-attacks-on-holidays-weekends-increase"/>
+        <updated>2022-12-02T17:36:35.000Z</updated>
+        <summary type="html"><![CDATA[With 97% of U.S. organizations experiencing a ransomware attack over a weekend or on a holiday, the impacts on response and recovery time are material, including loss of revenue.]]></summary>
+        <author>
+            <name>Stu Sjouwerman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SOC Turns to Homegrown Machine Learning to Catch Cyber-Intruders]]></title>
+        <id>https://www.darkreading.com/analytics/soc-homegrown-machine-learning-cyberintruders</id>
+        <link href="https://www.darkreading.com/analytics/soc-homegrown-machine-learning-cyberintruders"/>
+        <updated>2022-12-02T15:43:36.000Z</updated>
+        <summary type="html"><![CDATA[A do-it-yourself machine-learning system helped a French bank detect three types of exfiltration attacks missed by current rules-based systems, attendees will learn at Black Hat Europe.]]></summary>
+        <author>
+            <name>Robert Lemos, Contributing Writer, Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Risky Business: Choosing the Right Methodology]]></title>
+        <id>https://www.darkreading.com/risk/a-risky-business-choosing-the-right-methodology</id>
+        <link href="https://www.darkreading.com/risk/a-risky-business-choosing-the-right-methodology"/>
+        <updated>2022-12-02T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Rather than regarding risk assessment as a negative exercise, consider it one that benefits your organization's aims, and then translate the risk level to its impact on operations, reputation, or finances.]]></summary>
+        <author>
+            <name>David Adams, Security Consultant, Prism Infosec</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hackers Sign Android Malware Apps with Compromised Platform Certificates]]></title>
+        <id>2022-12-02T19:26:00.000+05:30</id>
+        <link href="https://thehackernews.com/2022/12/hackers-sign-android-malware-apps-with.html"/>
+        <updated>2022-12-02T13:56:00.000Z</updated>
+        <summary type="html"><![CDATA[Platform certificates used by Android smartphone vendors like Samsung, LG, and MediaTek have been found to be abused to sign malicious apps.
+The findings were first discovered and reported by Google reverse engineer Łukasz Siewierski on Thursday.
+"A platform certificate is the application signing certificate used to sign the 'android' application on the system image," a report filed through the]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CISA Warns of Multiple Critical Vulnerabilities Affecting Mitsubishi Electric PLCs]]></title>
+        <id>2022-12-02T19:02:00.001+05:30</id>
+        <link href="https://thehackernews.com/2022/12/cisa-warns-of-multiple-critical.html"/>
+        <updated>2022-12-02T13:32:00.000Z</updated>
+        <summary type="html"><![CDATA[The U.S. Cybersecurity and Infrastructure Security Agency (CISA) this week released an Industrial Control Systems (ICS) advisory warning of multiple vulnerabilities in Mitsubishi Electric GX Works3 engineering software.
+"Successful exploitation of these vulnerabilities could allow unauthorized users to gain access to the MELSEC iQ-R/F/L series CPU modules and the MELSEC iQ-R series OPC UA server]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Your KnowBe4 Fresh Content Updates from November 2022]]></title>
         <id>https://blog.knowbe4.com/your-knowbe4-fresh-content-updates-from-november-2022</id>
@@ -14,6 +97,61 @@
         <summary type="html"><![CDATA[Check out the 55 new pieces of training content added in November, alongside the always fresh content update highlights and new features.]]></summary>
         <author>
             <name>Stu Sjouwerman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Value of Old Systems]]></title>
+        <id>2022-12-02T18:30:00.000+05:30</id>
+        <link href="https://thehackernews.com/2022/12/the-value-of-old-systems.html"/>
+        <updated>2022-12-02T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Old technology solutions – every organization has a few of them tucked away somewhere. 
+It could be an old and unsupported storage system or a tape library holding the still-functional backups from over 10 years ago. 
+This is a common scenario with software too. For example, consider an accounting software suite that was extremely expensive when it was purchased. If the vendor eventually went]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Researchers Disclose Supply-Chain Flaw Affecting IBM Cloud Databases for PostgreSQL]]></title>
+        <id>2022-12-02T16:59:00.004+05:30</id>
+        <link href="https://thehackernews.com/2022/12/researchers-disclose-supply-chain-flaw.html"/>
+        <updated>2022-12-02T11:29:00.000Z</updated>
+        <summary type="html"><![CDATA[IBM has fixed a high-severity security vulnerability affecting its Cloud Databases (ICD) for PostgreSQL product that could be potentially exploited to tamper with internal repositories and run unauthorized code.
+The privilege escalation flaw (CVSS score: 8.8), dubbed "Hell's Keychain" by cloud security firm Wiz, has been described as a "first-of-its-kind supply-chain attack vector impacting a]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hackers Exploiting Redis Vulnerability to Deploy New Redigo Malware on Servers]]></title>
+        <id>2022-12-02T16:39:00.004+05:30</id>
+        <link href="https://thehackernews.com/2022/12/hackers-exploiting-redis-vulnerability.html"/>
+        <updated>2022-12-02T11:09:00.000Z</updated>
+        <summary type="html"><![CDATA[A previously undocumented Go-based malware is targeting Redis servers with the goal of taking control of the infected systems and likely building a botnet network.
+The attacks involve taking advantage of a critical security vulnerability in the open source, in-memory, key-value store that was disclosed earlier this year to deploy Redigo, according to cloud security firm Aqua.]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What the CISA Reporting Rule Means for Your IT Security Protocol]]></title>
+        <id>2022-12-02T16:05:00.001+05:30</id>
+        <link href="https://thehackernews.com/2022/12/what-cisa-reporting-rule-means-for-your.html"/>
+        <updated>2022-12-02T10:35:00.000Z</updated>
+        <summary type="html"><![CDATA[The new Cyber Incident Reporting for Critical Infrastructure Act of 2022 (CIRCIA) requires CISA to create rules regarding cyber incident reporting by critical infrastructure organizations. The RFI and hearings precede a Notice of Proposed Rulemaking (NPRM) that CISA must publish sooner than 24 months from the enactment of CIRCIA, which the President signed into law in March. The sessions and]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Watch Out! These Android Keyboard Apps With 2 Million Installs Can be Hacked Remotely]]></title>
+        <id>2022-12-02T13:18:00.002+05:30</id>
+        <link href="https://thehackernews.com/2022/12/watch-out-these-android-keyboard-apps.html"/>
+        <updated>2022-12-02T07:48:00.000Z</updated>
+        <summary type="html"><![CDATA[Multiple unpatched vulnerabilities have been discovered in three Android apps that allow a smartphone to be used as a remote keyboard and mouse.
+The apps in question are Lazy Mouse, PC Keyboard, and Telepad, which have been cumulatively downloaded over two million times from the Google Play Store. Telepad is no longer available through the app marketplace but can be downloaded from its website.]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
         </author>
     </entry>
     <entry>
@@ -4709,17 +4847,6 @@ According to Singapore-headquartered cybersecurity company Group-IB, the attacks
         <summary type="html"><![CDATA[The operators of RomCom RAT are continuing to evolve their campaigns with rogue versions of software such as SolarWinds Network Performance Monitor, KeePass password manager, and PDF Reader Pro.
 Targets of the operation consist of victims in Ukraine and select English-speaking countries like the U.K.
 "Given the geography of the targets and the current geopolitical situation, it's unlikely that]]></summary>
-        <author>
-            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New TikTok Privacy Policy Confirms Chinese Staff Can Access European Users' Data]]></title>
-        <id>tag:blogger.com,1999:blog-4802841478634147276.post-7632605953144449125</id>
-        <link href="https://thehackernews.com/2022/11/new-tiktok-privacy-policy-confirms.html"/>
-        <updated>2022-11-03T06:48:00.000Z</updated>
-        <summary type="html"><![CDATA[Popular short-form video-sharing service TikTok is revising its privacy policy for European users to make it explicitly clear that user data can be accessed by some employees from across the world, including China.
-The ByteDance-owned platform, which currently stores European user data in the U.S. and Singapore, said the revision is part of its ongoing data governance efforts to limit employee]]></summary>
         <author>
             <name>noreply@blogger.com (Ravie Lakshmanan)</name>
         </author>
