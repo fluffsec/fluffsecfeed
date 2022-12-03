@@ -281,16 +281,6 @@
           "wordCount": 893,
           "title": "Apple Releases Security Update for Xcode",
           "imageUrl": null
-        },
-        {
-          "id": "18125 at https://us-cert.cisa.gov",
-          "author": "CISA",
-          "description": "Original release date: November 3, 2022\nCISA has released three (3) Industrial Control Systems (ICS) advisories on November 3, 2022. These advisories provide timely information about current security issues, vulnerabilities, and exploits surrounding ICS.\nCISA encourages users and administrators to review the newly released ICS advisories for technical details and mitigations:\n•    ICSA-22-307-01 ETIC RAS \nNokia ASIK 5G AirScale System Module \nDelta Industrial Automation DIALink \nThis product is provided subject to this Notification and this Privacy & Use policy.",
-          "link": "https://us-cert.cisa.gov/ncas/current-activity/2022/11/03/cisa-releases-three-industrial-control-systems-advisories",
-          "publishedOn": "2022-11-03T13:53:21.000Z",
-          "wordCount": 907,
-          "title": "CISA Releases Three Industrial Control Systems Advisories",
-          "imageUrl": null
         }
       ]
     },
@@ -360,6 +350,66 @@
       "feedUrl": "https://www.darkreading.com/rss.xml",
       "siteUrl": "https://www.darkreading.com",
       "articles": [
+        {
+          "id": "https://www.darkreading.com/edge-threat-monitor/concern-over-ddos-attacks-falls-despite-rise-in-incidents",
+          "author": "Edge Editors, Dark Reading",
+          "description": "Almost a third of respondents in Fastly's Fight Fire with Fire survey view data breaches and data loss as the biggest cybersecurity threat.",
+          "link": "https://www.darkreading.com/edge-threat-monitor/concern-over-ddos-attacks-falls-despite-rise-in-incidents",
+          "publishedOn": "2022-12-02T23:12:00.000Z",
+          "wordCount": 10324,
+          "title": "Concern Over DDoS Attacks Falls Despite Rise in Incidents",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltbeb30fde8ec73a32/60d4432c2446e93b5b5a0e0c/Edge-Editors.png",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltbeb30fde8ec73a32/60d4432c2446e93b5b5a0e0c/Edge-Editors.png"
+        },
+        {
+          "id": "https://www.darkreading.com/application-security/siriusxm-myhyundai-car-apps-showcase-next-gen-car-hacking",
+          "author": "Tara Seals, Managing Editor, News, Dark Reading",
+          "description": "A trio of security bugs allow remote attackers to unlock or start the car, operate climate controls, pop the trunk, and more — all via poorly coded mobile apps.",
+          "link": "https://www.darkreading.com/application-security/siriusxm-myhyundai-car-apps-showcase-next-gen-car-hacking",
+          "publishedOn": "2022-12-02T22:43:15.000Z",
+          "wordCount": 13329,
+          "title": "SiriusXM, MyHyundai Car Apps Showcase Next-Gen Car Hacking",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltea67136f81f32eca/626a9eb4726e3315b16b3c64/Tara-Seals-Headshot2.jpg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltea67136f81f32eca/626a9eb4726e3315b16b3c64/Tara-Seals-Headshot2.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/application-security/newsroom-sues-nso-group-for-pegasus-spyware",
+          "author": "Dark Reading Staff, Dark Reading",
+          "description": "Journalists in El Salvador haul NSO Group to US court for illegal surveillance that ultimately compromised their safety.",
+          "link": "https://www.darkreading.com/application-security/newsroom-sues-nso-group-for-pegasus-spyware",
+          "publishedOn": "2022-12-02T19:40:00.000Z",
+          "wordCount": 9723,
+          "title": "Newsroom Sues NSO Group for Pegasus Spyware Compromise",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blte161b23f0fd3a84b/60b1ea374e7eb868c4c6a293/dr_staff_125x125.jpg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blte161b23f0fd3a84b/60b1ea374e7eb868c4c6a293/dr_staff_125x125.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/threat-intelligence/advanced-cyberattackers-disruptive-hits-new-technologies",
+          "author": "Robert Lemos, Contributing Writer, Dark Reading",
+          "description": "Following a year of increasingly disruptive attacks, advanced persistent threat groups will likely only become emboldened in 2023, security experts say.",
+          "link": "https://www.darkreading.com/threat-intelligence/advanced-cyberattackers-disruptive-hits-new-technologies",
+          "publishedOn": "2022-12-02T18:52:53.000Z",
+          "wordCount": 13213,
+          "title": "Where Advanced Cyberttackers Are Heading Next: Disruptive Hits, New Tech",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt58481326324d6911/60b1e9a55d34de550780a990/Robert-Lemos.png",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt58481326324d6911/60b1e9a55d34de550780a990/Robert-Lemos.png"
+        },
         {
           "id": "https://www.darkreading.com/analytics/soc-homegrown-machine-learning-cyberintruders",
           "author": "Robert Lemos, Contributing Writer, Dark Reading",
@@ -3229,96 +3279,6 @@
             "length": "0"
           },
           "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltbfd004d139d42d70/6303bca6236c2476a257760e/ElizabethMontalbano.jpg"
-        },
-        {
-          "id": "https://www.darkreading.com/microsoft/security-leaders-share-5-steps-to-strengthen-cyber-resilience",
-          "author": "Microsoft Security, Microsoft",
-          "description": "These aren't quick fixes, but by prioritizing needs based on risk, organizations can incrementally apply these steps to become more resilient.",
-          "link": "https://www.darkreading.com/microsoft/security-leaders-share-5-steps-to-strengthen-cyber-resilience",
-          "publishedOn": "2022-11-03T14:00:11.000Z",
-          "wordCount": 13697,
-          "title": "Security Leaders Share 5 Steps to Strengthen Cyber Resilience",
-          "enclosure": {
-            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt8fe4479bc32f84b4/6321f5362769d078008692a9/MS-Security_logo.png",
-            "type": "image/*",
-            "length": "0"
-          },
-          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt8fe4479bc32f84b4/6321f5362769d078008692a9/MS-Security_logo.png"
-        },
-        {
-          "id": "https://www.darkreading.com/attacks-breaches/economic-uncertainty-isn-t-stopping-cybercrime-recruitment-it-s-fueling-it",
-          "author": "Derek Manky, Chief Security Strategist & VP Global Threat Intelligence, FortiGuard Labs",
-          "description": "Confused economies and rising unemployment rates foster a rich opportunity for cybercrime recruitment.",
-          "link": "https://www.darkreading.com/attacks-breaches/economic-uncertainty-isn-t-stopping-cybercrime-recruitment-it-s-fueling-it",
-          "publishedOn": "2022-11-03T14:00:00.000Z",
-          "wordCount": 13284,
-          "title": "Economic Uncertainty Isn't Stopping Cybercrime Recruitment — It's Fueling It",
-          "enclosure": {
-            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt4771d07d727ed66d/60d43a182446e93b5b59fa68/Derek-Manky.png",
-            "type": "image/*",
-            "length": "0"
-          },
-          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt4771d07d727ed66d/60d43a182446e93b5b59fa68/Derek-Manky.png"
-        },
-        {
-          "id": "https://www.darkreading.com/endpoint/1password-acquires-passage-identity-to-power-a-passwordless-future",
-          "author": null,
-          "description": "Human-centric security leader will deliver passwordless technology across every major device, browser, and operating system.",
-          "link": "https://www.darkreading.com/endpoint/1password-acquires-passage-identity-to-power-a-passwordless-future",
-          "publishedOn": "2022-11-03T13:32:14.000Z",
-          "wordCount": 12574,
-          "title": "1Password Acquires Passage Identity to Power a Passwordless Future",
-          "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
-        },
-        {
-          "id": "https://www.darkreading.com/vulnerabilities-threats/iris-powered-by-generali-reports-four-in-five-americans-less-willing-to-shop-at-stores-with-data-breaches-in-2022-holiday-survey",
-          "author": null,
-          "description": "During the 2022 holiday shopping season, US consumers will still be shopping digitally, despite cyberattacks and fraud attempts being top of mind.",
-          "link": "https://www.darkreading.com/vulnerabilities-threats/iris-powered-by-generali-reports-four-in-five-americans-less-willing-to-shop-at-stores-with-data-breaches-in-2022-holiday-survey",
-          "publishedOn": "2022-11-03T13:27:20.000Z",
-          "wordCount": 13632,
-          "title": "Iris® Powered by Generali Reports Four in Five Americans Less Willing to Shop at Stores With Data Breaches in 2022 Holiday Survey",
-          "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
-        },
-        {
-          "id": "https://www.darkreading.com/risk/alethea-closes-10m-series-a-financing-led-by-ballistic-ventures",
-          "author": null,
-          "description": "Investment to advance efforts to detect and mitigate disinformation.",
-          "link": "https://www.darkreading.com/risk/alethea-closes-10m-series-a-financing-led-by-ballistic-ventures",
-          "publishedOn": "2022-11-03T13:24:37.000Z",
-          "wordCount": 12395,
-          "title": "Alethea Closes $10M Series A Financing Led by Ballistic Ventures",
-          "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
-        },
-        {
-          "id": "https://www.darkreading.com/endpoint/mimecast-unveils-email-security-cloud-integrated-for-optimized-flexibility-and-speed",
-          "author": null,
-          "description": "Award-winning email security leader expands best-in-class offerings with gateway-less deployment solution that streamlines security, increases visibility, and enhances efficacy for IT teams.",
-          "link": "https://www.darkreading.com/endpoint/mimecast-unveils-email-security-cloud-integrated-for-optimized-flexibility-and-speed",
-          "publishedOn": "2022-11-03T13:21:33.000Z",
-          "wordCount": 12478,
-          "title": "Mimecast Unveils Email Security, Cloud Integrated for Optimized Flexibility and Speed",
-          "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
-        },
-        {
-          "id": "https://www.darkreading.com/cloud/qualys-announces-third-quarter-2022-financial-results",
-          "author": null,
-          "description": ".",
-          "link": "https://www.darkreading.com/cloud/qualys-announces-third-quarter-2022-financial-results",
-          "publishedOn": "2022-11-03T13:13:18.000Z",
-          "wordCount": 14762,
-          "title": "Qualys Announces Third Quarter 2022 Financial Results",
-          "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
-        },
-        {
-          "id": "https://www.darkreading.com/endpoint/certificate-based-authentication-with-yubikeys-for-microsoft-third-party-and-web-applications-now-available-on-ios-and-android",
-          "author": null,
-          "description": ".",
-          "link": "https://www.darkreading.com/endpoint/certificate-based-authentication-with-yubikeys-for-microsoft-third-party-and-web-applications-now-available-on-ios-and-android",
-          "publishedOn": "2022-11-03T13:09:16.000Z",
-          "wordCount": 12470,
-          "title": "Certificate-Based Authentication With YubiKeys for Microsoft, Third-Party, and Web Applications Now Available on iOS and Android",
-          "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
         }
       ]
     },
@@ -3350,6 +3310,16 @@
       "feedUrl": "https://msrc-blog.microsoft.com/feed/",
       "siteUrl": "https://msrc-blog.microsoft.com",
       "articles": [
+        {
+          "id": "https://msrc-blog.microsoft.com/?p=15202",
+          "author": "Nic Fillingham",
+          "description": "We are excited to announce that applications to attend BlueHat 2023 are now open!   BlueHat 2023 will be the 20th version of the BlueHat conference and will once again be on the Microsoft campus in Redmond, WA, USA, from February 8 – 9, 2023.   Hosted by the Microsoft Security Response Center (MSRC), BlueHat is where …\n  BlueHat 2023: Applications to Attend NOW OPEN! Read More »",
+          "link": "https://msrc-blog.microsoft.com/2022/12/02/bluehat-2023-applications-to-attend-now-open/",
+          "publishedOn": "2022-12-02T21:58:21.000Z",
+          "wordCount": 1810,
+          "title": "BlueHat 2023: Applications to Attend NOW OPEN!",
+          "imageUrl": null
+        },
         {
           "id": "https://msrc-blog.microsoft.com/?p=15188",
           "author": "Alex DeDonker",
@@ -4022,16 +3992,6 @@
           "wordCount": 2100,
           "title": "CISA Warns of Daxin Team Ransomware Group Targeting the Healthcare and Public Health Sector via VPNs",
           "imageUrl": "https://blog.knowbe4.com/hubfs/Ransomware%20Group%20Target.jpg#keepProtocol"
-        },
-        {
-          "id": "https://blog.knowbe4.com/hacking-biometrics-webinar",
-          "author": "Stu Sjouwerman",
-          "description": "When you think of using biometric technology as part of your multi-factor authentication process, you assume these attributes are safe. Cybercriminals can’t hack your fingerprints, can they? The answer may surprise you!",
-          "link": "https://blog.knowbe4.com/hacking-biometrics-webinar",
-          "publishedOn": "2022-11-03T12:50:06.000Z",
-          "wordCount": 1895,
-          "title": "Hacking Biometrics: If You Thought Your Fingerprints Were Safe, Think Again!",
-          "imageUrl": "https://blog.knowbe4.com/hubfs/HackingBiometrics-SOCIAL-LIVE-ET.jpg#keepProtocol"
         }
       ]
     },
@@ -5463,39 +5423,6 @@
           "publishedOn": "2022-11-03T17:40:00.000Z",
           "wordCount": null,
           "title": "Researchers Find Links b/w Black Basta Ransomware and FIN7 Hackers",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "tag:blogger.com,1999:blog-4802841478634147276.post-1832317676342982172",
-          "author": "noreply@blogger.com (The Hacker News)",
-          "description": "Every SaaS app user and login is a potential threat; whether it's bad actors or potential disgruntled former associates, identity management and access control is crucial to prevent unwanted or mistaken entrances to the organization's data and systems. \nSince enterprises have thousands to tens of thousands of users, and hundreds to thousands of different apps, ensuring each entrance point and",
-          "link": "https://thehackernews.com/2022/11/why-identity-access-management.html",
-          "publishedOn": "2022-11-03T10:34:00.000Z",
-          "wordCount": null,
-          "title": "Why Identity & Access Management Governance is a Core Part of Your SaaS Security",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "tag:blogger.com,1999:blog-4802841478634147276.post-3747152938808607637",
-          "author": "noreply@blogger.com (Ravie Lakshmanan)",
-          "description": "A French-speaking threat actor dubbed OPERA1ER has been linked to a series of more than 30 successful cyber attacks aimed at banks, financial services, and telecom companies across Africa, Asia, and Latin America between 2018 and 2022.\nAccording to Singapore-headquartered cybersecurity company Group-IB, the attacks have led to thefts totaling $11 million, with actual damages estimated to be as",
-          "link": "https://thehackernews.com/2022/11/researchers-detail-opera1er-apt-attacks.html",
-          "publishedOn": "2022-11-03T10:21:00.000Z",
-          "wordCount": null,
-          "title": "OPERA1ER APT Hackers Targeted Dozens of Financial Organizations in Africa",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "tag:blogger.com,1999:blog-4802841478634147276.post-2358044867560454027",
-          "author": "noreply@blogger.com (Ravie Lakshmanan)",
-          "description": "The operators of RomCom RAT are continuing to evolve their campaigns with rogue versions of software such as SolarWinds Network Performance Monitor, KeePass password manager, and PDF Reader Pro.\nTargets of the operation consist of victims in Ukraine and select English-speaking countries like the U.K.\n\"Given the geography of the targets and the current geopolitical situation, it's unlikely that",
-          "link": "https://thehackernews.com/2022/11/hackers-using-rogue-versions-of-keepass.html",
-          "publishedOn": "2022-11-03T09:20:00.000Z",
-          "wordCount": null,
-          "title": "Hackers Using Rogue Versions of KeePass and SolarWinds Software to Distribute RomCom RAT",
           "itunes": {},
           "imageUrl": null
         }
