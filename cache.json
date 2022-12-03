@@ -261,26 +261,6 @@
           "wordCount": 1022,
           "title": "CISA Adds Seven Known Exploited Vulnerabilities to Catalog",
           "imageUrl": null
-        },
-        {
-          "id": "18128 at https://us-cert.cisa.gov",
-          "author": "CISA",
-          "description": "Original release date: November 3, 2022\nCisco has released security updates for vulnerabilities affecting multiple products. A remote attacker could exploit some of these vulnerabilities to take control of an affected system. For updates addressing lower severity vulnerabilities, see the Cisco Security Advisories page.\nCISA encourages users and administrators to review the advisories and apply the necessary updates.\nThis product is provided subject to this Notification and this Privacy & Use policy.",
-          "link": "https://us-cert.cisa.gov/ncas/current-activity/2022/11/03/cisco-releases-security-updates-multiple-products",
-          "publishedOn": "2022-11-03T15:37:22.000Z",
-          "wordCount": 896,
-          "title": "Cisco Releases Security Updates for Multiple Products",
-          "imageUrl": null
-        },
-        {
-          "id": "18127 at https://us-cert.cisa.gov",
-          "author": "CISA",
-          "description": "Original release date: November 3, 2022\nApple has released a security update to address vulnerabilities in Xcode. A remote attacker could exploit one of these vulnerabilities to take control of an affected system.\nThe Cybersecurity and Infrastructure Security Agency (CISA) encourages users and administrators to review the Apple security page for Xcode 14.1 and apply the necessary update.\nThis product is provided subject to this Notification and this Privacy & Use policy.",
-          "link": "https://us-cert.cisa.gov/ncas/current-activity/2022/11/03/apple-releases-security-update-xcode",
-          "publishedOn": "2022-11-03T15:14:25.000Z",
-          "wordCount": 893,
-          "title": "Apple Releases Security Update for Xcode",
-          "imageUrl": null
         }
       ]
     },
@@ -3209,76 +3189,6 @@
           "wordCount": 14125,
           "title": "Why Third-Party Risk Should be Manufacturing's Top Priority",
           "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
-        },
-        {
-          "id": "https://www.darkreading.com/attacks-breaches/us-treasury-1-killnet-0",
-          "author": "Dark Reading Staff, Dark Reading",
-          "description": "An official just revealed the US Department of Treasury was able to fend off a Killnet DDoS attack last month.",
-          "link": "https://www.darkreading.com/attacks-breaches/us-treasury-1-killnet-0",
-          "publishedOn": "2022-11-03T19:05:00.000Z",
-          "wordCount": 11137,
-          "title": "DDoS Cyberscore: US Treasury: 1, Killnet: 0",
-          "enclosure": {
-            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blte161b23f0fd3a84b/60b1ea374e7eb868c4c6a293/dr_staff_125x125.jpg",
-            "type": "image/*",
-            "length": "0"
-          },
-          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blte161b23f0fd3a84b/60b1ea374e7eb868c4c6a293/dr_staff_125x125.jpg"
-        },
-        {
-          "id": "https://www.darkreading.com/endpoint/senhasegura-introduces-mysafe-for-managing-personal-passwords",
-          "author": null,
-          "description": "Senhasegura first to offer password manager and privileged access management (PAM) in a single platform.",
-          "link": "https://www.darkreading.com/endpoint/senhasegura-introduces-mysafe-for-managing-personal-passwords",
-          "publishedOn": "2022-11-03T16:01:15.000Z",
-          "wordCount": 12639,
-          "title": "Senhasegura Introduces MySafe for Managing Personal Passwords",
-          "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
-        },
-        {
-          "id": "https://www.darkreading.com/cloud/apiiro-raises-100m-series-b-funding-round-to-solidify-position-as-the-cloud-native-application-security-leader",
-          "author": null,
-          "description": ".",
-          "link": "https://www.darkreading.com/cloud/apiiro-raises-100m-series-b-funding-round-to-solidify-position-as-the-cloud-native-application-security-leader",
-          "publishedOn": "2022-11-03T14:54:34.000Z",
-          "wordCount": 12396,
-          "title": "Apiiro Raises $100M Series B Funding Round to Solidify Position as the Cloud-Native Application Security Leader",
-          "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
-        },
-        {
-          "id": "https://www.darkreading.com/operations/fs-isac-and-cyberbit-announce-winner-of-the-first-financial-cyber-league",
-          "author": null,
-          "description": "Banco de Crédito Cooperativo (BCC) wins the first hyper-realistic cybersecurity competition for the financial industry.",
-          "link": "https://www.darkreading.com/operations/fs-isac-and-cyberbit-announce-winner-of-the-first-financial-cyber-league",
-          "publishedOn": "2022-11-03T14:51:00.000Z",
-          "wordCount": 13706,
-          "title": "FS-ISAC and Cyberbit Announce Winner of the First Financial Cyber League",
-          "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
-        },
-        {
-          "id": "https://www.darkreading.com/ics-ot/optiv-helps-safeguard-critical-industries-with-cyber-advisory-and-protection-offerings",
-          "author": null,
-          "description": "Earns Recognition in 2022 Gartner® Market Guide for Operational Technology Security.",
-          "link": "https://www.darkreading.com/ics-ot/optiv-helps-safeguard-critical-industries-with-cyber-advisory-and-protection-offerings",
-          "publishedOn": "2022-11-03T14:46:02.000Z",
-          "wordCount": 12136,
-          "title": "Optiv Helps Safeguard Critical Industries with Cyber Advisory and Protection Offerings",
-          "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
-        },
-        {
-          "id": "https://www.darkreading.com/application-security/supply-chain-attack-pushes-out-malware-to-more-than-250-media-websites",
-          "author": "Elizabeth Montalbano, Contributor, Dark Reading",
-          "description": "TA569 has modified the JavaScript of a legitimate content and advertising engine used by news affiliates, in order to spread the FakeUpdates initial access framework.",
-          "link": "https://www.darkreading.com/application-security/supply-chain-attack-pushes-out-malware-to-more-than-250-media-websites",
-          "publishedOn": "2022-11-03T14:19:10.000Z",
-          "wordCount": 13775,
-          "title": "Supply Chain Attack Pushes Out Malware to More than 250 Media Websites",
-          "enclosure": {
-            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltbfd004d139d42d70/6303bca6236c2476a257760e/ElizabethMontalbano.jpg",
-            "type": "image/*",
-            "length": "0"
-          },
-          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltbfd004d139d42d70/6303bca6236c2476a257760e/ElizabethMontalbano.jpg"
         }
       ]
     },
@@ -3952,46 +3862,6 @@
           "wordCount": 1994,
           "title": "KnowBe4 Wins 2022 \"Best Software\" Awards From TrustRadius in Multiple Categories",
           "imageUrl": "https://blog.knowbe4.com/hubfs/TrustRadius%20Best%20Software%20Awards%202022%20KnowBe4.jpg#keepProtocol"
-        },
-        {
-          "id": "https://blog.knowbe4.com/phishing-for-feds-credential-harvesting-attacks-found-in-new-study",
-          "author": "Stu Sjouwerman",
-          "description": "A study by researchers at Lookout has found that credential-harvesting phishing attacks against US government employees rose by 30% last year. The researchers also found that nearly 50% of US government employees are running older, unpatched versions of iOS and Android operating systems.",
-          "link": "https://blog.knowbe4.com/phishing-for-feds-credential-harvesting-attacks-found-in-new-study",
-          "publishedOn": "2022-11-03T17:47:30.000Z",
-          "wordCount": 2178,
-          "title": "Phishing for Feds: Credential-Harvesting Attacks Found in New Study",
-          "imageUrl": "https://blog.knowbe4.com/hubfs/Phishing%20for%20Feds.jpg#keepProtocol"
-        },
-        {
-          "id": "https://blog.knowbe4.com/fbi-watch-out-for-student-loan-forgiveness-scams",
-          "author": "Stu Sjouwerman",
-          "description": "Scammers are taking advantage of the victims desire to take advantage of debt cancellation up to $20,000 – with the only one cashing in being the scammer!",
-          "link": "https://blog.knowbe4.com/fbi-watch-out-for-student-loan-forgiveness-scams",
-          "publishedOn": "2022-11-03T17:14:46.000Z",
-          "wordCount": 2085,
-          "title": "FBI: Watch Out for Student Loan Forgiveness Scams!",
-          "imageUrl": "https://blog.knowbe4.com/hubfs/Student%20Loan%20Scams.jpg#keepProtocol"
-        },
-        {
-          "id": "https://blog.knowbe4.com/checkpoint-warns-of-black-basta-ransomware-as-the-number-of-victim-organizations-increases-by-59",
-          "author": "Stu Sjouwerman",
-          "description": "This latest “new kid on the block” is gaining momentum and – according to CheckPoint – seeing successes with their attacks globally, calling their organizational structure “impressive.”",
-          "link": "https://blog.knowbe4.com/checkpoint-warns-of-black-basta-ransomware-as-the-number-of-victim-organizations-increases-by-59",
-          "publishedOn": "2022-11-03T17:14:42.000Z",
-          "wordCount": 2070,
-          "title": "CheckPoint Warns of Black Basta Ransomware as the Number of Victim Organizations Increases by 59%",
-          "imageUrl": "https://blog.knowbe4.com/hubfs/Warns%20of%20Ransomware.jpg#keepProtocol"
-        },
-        {
-          "id": "https://blog.knowbe4.com/cisa-warns-of-daxin-team-ransomware-group-targeting-the-healthcare-and-public-health-sector-via-vpns",
-          "author": "Stu Sjouwerman",
-          "description": "This new group makes the case that – as with any market – cybercriminals will focus on a niche sector they are experts on in order to improve their chances of success.",
-          "link": "https://blog.knowbe4.com/cisa-warns-of-daxin-team-ransomware-group-targeting-the-healthcare-and-public-health-sector-via-vpns",
-          "publishedOn": "2022-11-03T17:14:37.000Z",
-          "wordCount": 2100,
-          "title": "CISA Warns of Daxin Team Ransomware Group Targeting the Healthcare and Public Health Sector via VPNs",
-          "imageUrl": "https://blog.knowbe4.com/hubfs/Ransomware%20Group%20Target.jpg#keepProtocol"
         }
       ]
     },
@@ -4000,6 +3870,22 @@
       "feedUrl": "https://thehackernews.com/feeds/posts/default",
       "siteUrl": "https://thehackernews.com",
       "articles": [
+        {
+          "id": "https://thehackernews.com/2022/12/google-rolls-out-new-chrome-browser.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Search giant Google on Friday released an out-of-band security update to fix a new actively exploited zero-day flaw in its Chrome web browser.\nThe high-severity flaw, tracked as CVE-2022-4262, concerns a type confusion bug in the V8 JavaScript engine. Clement Lecigne of Google's Threat Analysis Group (TAG) has been credited with reporting the issue on November 29, 2022.\nType confusion",
+          "link": "https://thehackernews.com/2022/12/google-rolls-out-new-chrome-browser.html",
+          "publishedOn": "2022-12-03T04:41:00.000Z",
+          "wordCount": null,
+          "title": "Google Rolls Out New Chrome Browser Update to Patch Yet Another Zero-Day Vulnerability",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi3-1t-O1Y4Oqvj24RGfItVIc7r4d1BOuWfRH4xG5ilh6GX83VydcDH0Fs1xqW5JUvFrpLzvA9ifqmf2lHts3lgA5VStlmb7c1Msk0yFUv5qzEgEjiU3_EPqVJlK4Z6uzMUFoKmnDAHWtOXsYNv7vEG8yG9H-NwH46z-Z7nAKiihKDF7bzl_Y20QXxS/s1600/chrome.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi3-1t-O1Y4Oqvj24RGfItVIc7r4d1BOuWfRH4xG5ilh6GX83VydcDH0Fs1xqW5JUvFrpLzvA9ifqmf2lHts3lgA5VStlmb7c1Msk0yFUv5qzEgEjiU3_EPqVJlK4Z6uzMUFoKmnDAHWtOXsYNv7vEG8yG9H-NwH46z-Z7nAKiihKDF7bzl_Y20QXxS/s1600/chrome.png"
+        },
         {
           "id": "2022-12-02T19:26:00.000+05:30",
           "author": "info@thehackernews.com (The Hacker News)",
@@ -5412,17 +5298,6 @@
           "publishedOn": "2022-11-04T10:01:00.000Z",
           "wordCount": null,
           "title": "CISA Warns of Critical Vulnerabilities in 3 Industrial Control System Software",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "tag:blogger.com,1999:blog-4802841478634147276.post-1550156712771021907",
-          "author": "noreply@blogger.com (Ravie Lakshmanan)",
-          "description": "A new analysis of tools put to use by the Black Basta ransomware operation has identified ties between the threat actor and the FIN7 (aka Carbanak) group.\nThis link \"could suggest either that Black Basta and FIN7 maintain a special relationship or that one or more individuals belong to both groups,\" cybersecurity firm SentinelOne said in a technical write-up shared with The Hacker News.\nBlack",
-          "link": "https://thehackernews.com/2022/11/researchers-find-links-bw-black-basta.html",
-          "publishedOn": "2022-11-03T17:40:00.000Z",
-          "wordCount": null,
-          "title": "Researchers Find Links b/w Black Basta Ransomware and FIN7 Hackers",
           "itunes": {},
           "imageUrl": null
         }
