@@ -331,6 +331,101 @@
       "siteUrl": "https://www.darkreading.com",
       "articles": [
         {
+          "id": "https://www.darkreading.com/microsoft/the-new-external-attack-surface-3-elements-every-organization-should-monitor",
+          "author": "Microsoft Security, Microsoft",
+          "description": "In short, the global Internet is now part of your external attack surface. Here’s how to better protect your users and data.",
+          "link": "https://www.darkreading.com/microsoft/the-new-external-attack-surface-3-elements-every-organization-should-monitor",
+          "publishedOn": "2022-12-05T16:54:49.000Z",
+          "wordCount": 11626,
+          "title": "The New External Attack Surface: 3 Elements Every Organization Should Monitor",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt8fe4479bc32f84b4/6321f5362769d078008692a9/MS-Security_logo.png",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt8fe4479bc32f84b4/6321f5362769d078008692a9/MS-Security_logo.png"
+        },
+        {
+          "id": "https://www.darkreading.com/iot/palo-alto-networks-announces-medical-iot-security-to-protect-connected-devices-critical-to-patient-care",
+          "author": null,
+          "description": "The comprehensive zero trust security solution for medical devices lets healthcare organizations automate zero trust policy recommendations and manage new connected technologies quickly and securely.",
+          "link": "https://www.darkreading.com/iot/palo-alto-networks-announces-medical-iot-security-to-protect-connected-devices-critical-to-patient-care",
+          "publishedOn": "2022-12-05T16:27:24.000Z",
+          "wordCount": 13249,
+          "title": "Palo Alto Networks Announces Medical IoT Security to Protect Connected Devices Critical to Patient Care",
+          "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/application-security/openssf-membership-exceeds-100-with-many-new-members-dedicated-to-securing-open-source-software",
+          "author": null,
+          "description": "Introduces a \"Developing Secure Software\" training course in Japanese at OpenSSF Day Japan.",
+          "link": "https://www.darkreading.com/application-security/openssf-membership-exceeds-100-with-many-new-members-dedicated-to-securing-open-source-software",
+          "publishedOn": "2022-12-05T16:01:18.000Z",
+          "wordCount": 16027,
+          "title": "OpenSSF Membership Exceeds 100, With Many New Members Dedicated to Securing Open Source Software",
+          "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/threat-intelligence/infostealer-malware-market-booms-mfa-fatigue",
+          "author": "Nathan Eddy, Contributing Writer, Dark Reading",
+          "description": "The successful combo of stolen credentials and social engineering to breach networks is increasing demand for infostealers on the Dark Web.",
+          "link": "https://www.darkreading.com/threat-intelligence/infostealer-malware-market-booms-mfa-fatigue",
+          "publishedOn": "2022-12-05T15:10:19.000Z",
+          "wordCount": 12661,
+          "title": "Infostealer Malware Market Booms, as MFA Fatigue Sets In",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltf8b5a94afa71c53a/628e3799daa31875dc0c9fc0/NathanEddyHeadshot.PNG",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltf8b5a94afa71c53a/628e3799daa31875dc0c9fc0/NathanEddyHeadshot.PNG"
+        },
+        {
+          "id": "https://www.darkreading.com/endpoint/the-privacy-war-is-coming",
+          "author": "Damian Tommasino, Principal Security Engineer, Feroot Security",
+          "description": "Privacy standards are only going to increase. It's time for organizations to get ahead of the coming reckoning.",
+          "link": "https://www.darkreading.com/endpoint/the-privacy-war-is-coming",
+          "publishedOn": "2022-12-05T15:00:22.000Z",
+          "wordCount": 12168,
+          "title": "The Privacy War Is Coming",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltaedc7cde7d30ef06/6388dac599e0755fda509c29/Tommasino.jpg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltaedc7cde7d30ef06/6388dac599e0755fda509c29/Tommasino.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/threat-intelligence/ransomware-professionalization-grows-as-raas-takes-hold",
+          "author": "Nathan Eddy, Contributing Writer, Dark Reading",
+          "description": "As ransomware's prevalence has grown over the past decade, leading ransomware groups such as Conti have added services and features as part of a growing trend toward professionalization.",
+          "link": "https://www.darkreading.com/threat-intelligence/ransomware-professionalization-grows-as-raas-takes-hold",
+          "publishedOn": "2022-12-05T14:44:49.000Z",
+          "wordCount": 11562,
+          "title": "Ransomware Professionalization Grows as RaaS Takes Hold",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltf8b5a94afa71c53a/628e3799daa31875dc0c9fc0/NathanEddyHeadshot.PNG",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltf8b5a94afa71c53a/628e3799daa31875dc0c9fc0/NathanEddyHeadshot.PNG"
+        },
+        {
+          "id": "https://www.darkreading.com/attacks-breaches/malware-authors-inadvertently-takdown-own-botnet",
+          "author": "Jai Vijayan, Contributing Writer, Dark Reading",
+          "description": "A single improperly formatted command has effectively killed KmsdBot botnet, security vendor says.",
+          "link": "https://www.darkreading.com/attacks-breaches/malware-authors-inadvertently-takdown-own-botnet",
+          "publishedOn": "2022-12-05T14:04:23.000Z",
+          "wordCount": 10640,
+          "title": "Malware Authors Inadvertently Take Down Own Botnet",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt02d79fb9a44a4258/60b1e9dd2a25046b35110696/Jai-Vijayan.jpeg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt02d79fb9a44a4258/60b1e9dd2a25046b35110696/Jai-Vijayan.jpeg"
+        },
+        {
           "id": "https://www.darkreading.com/edge-threat-monitor/concern-over-ddos-attacks-falls-despite-rise-in-incidents",
           "author": "Edge Editors, Dark Reading",
           "description": "Almost a third of respondents in Fastly's Fight Fire with Fire survey view data breaches and data loss as the biggest cybersecurity threat.",
@@ -3084,6 +3179,16 @@
       "siteUrl": "https://blog.knowbe4.com",
       "articles": [
         {
+          "id": "https://blog.knowbe4.com/credential-phishing-with-apple-gift-card-lures",
+          "author": "Stu Sjouwerman",
+          "description": "A phishing campaign is impersonating Apple and informing the user that their Apple account has been suspended due to an invalid payment method, according to researchers at Armorblox.",
+          "link": "https://blog.knowbe4.com/credential-phishing-with-apple-gift-card-lures",
+          "publishedOn": "2022-12-05T13:57:57.000Z",
+          "wordCount": 2277,
+          "title": "Credential Phishing with Apple Gift Card Lures",
+          "imageUrl": "https://blog.knowbe4.com/hubfs/Phishing%20Gift%20Card%20Scam.jpg#keepProtocol"
+        },
+        {
           "id": "https://blog.knowbe4.com/inside-natos-efforts-to-plan-for-a-future-cyberwar",
           "author": "Stu Sjouwerman",
           "description": "Maggie Miller at Politico had the scoop: \"TALLINN, Estonia — Some 150 NATO cybersecurity experts assembled in an unimposing beige building in the heart of Estonia’s snow-covered capital this week to prepare for a cyberwar.",
@@ -3661,6 +3766,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2022/12/new-bmc-supply-chain-vulnerabilities.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Three different security flaws have been disclosed in American Megatrends (AMI) MegaRAC Baseboard Management Controller (BMC) software that could lead to remote code execution on vulnerable servers.\n\"The impact of exploiting these vulnerabilities include remote control of compromised servers, remote deployment of malware, ransomware and firmware implants, and server physical damage (bricking),\"",
+          "link": "https://thehackernews.com/2022/12/new-bmc-supply-chain-vulnerabilities.html",
+          "publishedOn": "2022-12-05T14:02:00.000Z",
+          "wordCount": null,
+          "title": "New BMC Supply Chain Vulnerabilities Affect Servers from Dozens of Manufacturers",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiolCsXBH-kaR61fYu-jBJwv8qNy3L5XE48zgFzAOo0D8xZIhyZyPMESMC0L7Cy3993u4PbVASQyv9QyJAXwtP35mNPY_On_q3S9FJwsCvbkagdC6jHgRl1ax_y6XEyPDxf0fTYHuW_cCMTl-xFgPfF3kbFYIpWh6SZvssXaBGInRrJ21WvMEYJ1J4d/s1600/server-hacking.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiolCsXBH-kaR61fYu-jBJwv8qNy3L5XE48zgFzAOo0D8xZIhyZyPMESMC0L7Cy3993u4PbVASQyv9QyJAXwtP35mNPY_On_q3S9FJwsCvbkagdC6jHgRl1ax_y6XEyPDxf0fTYHuW_cCMTl-xFgPfF3kbFYIpWh6SZvssXaBGInRrJ21WvMEYJ1J4d/s1600/server-hacking.png"
+        },
+        {
           "id": "https://thehackernews.com/2022/12/russian-courts-targeted-by-new-crywiper.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "A new data wiper malware called CryWiper has been found targeting Russian government agencies, including mayor's offices and courts.\n\"Although it disguises itself as a ransomware and extorts money from the victim for 'decrypting' data, [it] does not actually encrypt, but purposefully destroys data in the affected system,\" Kaspersky researchers Fedor Sinitsyn and Janis Zinchenko said in a",
@@ -3675,6 +3796,22 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhU-v14x_JwR-Lkq7kvq6Q-HVO0IZeoEzFpXuc2YGj8g8SLJ0yUH80NGR4gr76n-3yivmRGRW0V7t-zmhC7QvaqL2gXEGGIajZcipnbRuDZ9hyVkNeg8f0zFwmG3dkR2x0VbHD6GJJXNEggF0rFD9gp6KAfckxvUysDwUe7tiv4SoR3dcpUVYoWbv8z/s1600/rasnowmare-data-wiper.png"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhU-v14x_JwR-Lkq7kvq6Q-HVO0IZeoEzFpXuc2YGj8g8SLJ0yUH80NGR4gr76n-3yivmRGRW0V7t-zmhC7QvaqL2gXEGGIajZcipnbRuDZ9hyVkNeg8f0zFwmG3dkR2x0VbHD6GJJXNEggF0rFD9gp6KAfckxvUysDwUe7tiv4SoR3dcpUVYoWbv8z/s1600/rasnowmare-data-wiper.png"
+        },
+        {
+          "id": "https://thehackernews.com/2022/12/when-being-attractive-gets-risky-how.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "In the era of digitization and ever-changing business needs, the production environment has become a living organism. Multiple functions and teams within an organization can ultimately impact the way an attacker sees the organization's assets, or in other words, the external attack surface. This dramatically increases the need to define an exposure management strategy.\nTo keep up with business",
+          "link": "https://thehackernews.com/2022/12/when-being-attractive-gets-risky-how.html",
+          "publishedOn": "2022-12-05T12:00:00.000Z",
+          "wordCount": null,
+          "title": "When Being Attractive Gets Risky - How Does Your Attack Surface Look to an Attacker?",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjQrPS2WDM8h1NMAmtnQIF2JsuJDthy96c8mcJMQCDXw8rLe1Y4Gly_B_XlzKYetSZX2pBDq_QlJSSC0wvaxNrdSym5eTgyfUd6ifpkI-ReQqyAkdRMVQ8qCgQBXUFcrbkRUdiPSQMbowq9QE1dPFfkkUkzCYuVXAA2cwTxEnXUm7CTm14QRkgyvJF7/s1600/Attack-Surface-Management.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjQrPS2WDM8h1NMAmtnQIF2JsuJDthy96c8mcJMQCDXw8rLe1Y4Gly_B_XlzKYetSZX2pBDq_QlJSSC0wvaxNrdSym5eTgyfUd6ifpkI-ReQqyAkdRMVQ8qCgQBXUFcrbkRUdiPSQMbowq9QE1dPFfkkUkzCYuVXAA2cwTxEnXUm7CTm14QRkgyvJF7/s1600/Attack-Surface-Management.jpg"
         },
         {
           "id": "https://thehackernews.com/2022/12/siriusxm-vulnerability-lets-hackers.html",

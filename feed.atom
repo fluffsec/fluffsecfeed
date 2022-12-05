@@ -2,10 +2,101 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-05T13:27:30.913Z</updated>
+    <updated>2022-12-05T19:16:22.115Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The New External Attack Surface: 3 Elements Every Organization Should Monitor]]></title>
+        <id>https://www.darkreading.com/microsoft/the-new-external-attack-surface-3-elements-every-organization-should-monitor</id>
+        <link href="https://www.darkreading.com/microsoft/the-new-external-attack-surface-3-elements-every-organization-should-monitor"/>
+        <updated>2022-12-05T16:54:49.000Z</updated>
+        <summary type="html"><![CDATA[In short, the global Internet is now part of your external attack surface. Here’s how to better protect your users and data.]]></summary>
+        <author>
+            <name>Microsoft Security, Microsoft</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Palo Alto Networks Announces Medical IoT Security to Protect Connected Devices Critical to Patient Care]]></title>
+        <id>https://www.darkreading.com/iot/palo-alto-networks-announces-medical-iot-security-to-protect-connected-devices-critical-to-patient-care</id>
+        <link href="https://www.darkreading.com/iot/palo-alto-networks-announces-medical-iot-security-to-protect-connected-devices-critical-to-patient-care"/>
+        <updated>2022-12-05T16:27:24.000Z</updated>
+        <summary type="html"><![CDATA[The comprehensive zero trust security solution for medical devices lets healthcare organizations automate zero trust policy recommendations and manage new connected technologies quickly and securely.]]></summary>
+        <author>
+            <name>Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenSSF Membership Exceeds 100, With Many New Members Dedicated to Securing Open Source Software]]></title>
+        <id>https://www.darkreading.com/application-security/openssf-membership-exceeds-100-with-many-new-members-dedicated-to-securing-open-source-software</id>
+        <link href="https://www.darkreading.com/application-security/openssf-membership-exceeds-100-with-many-new-members-dedicated-to-securing-open-source-software"/>
+        <updated>2022-12-05T16:01:18.000Z</updated>
+        <summary type="html"><![CDATA[Introduces a "Developing Secure Software" training course in Japanese at OpenSSF Day Japan.]]></summary>
+        <author>
+            <name>Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Infostealer Malware Market Booms, as MFA Fatigue Sets In]]></title>
+        <id>https://www.darkreading.com/threat-intelligence/infostealer-malware-market-booms-mfa-fatigue</id>
+        <link href="https://www.darkreading.com/threat-intelligence/infostealer-malware-market-booms-mfa-fatigue"/>
+        <updated>2022-12-05T15:10:19.000Z</updated>
+        <summary type="html"><![CDATA[The successful combo of stolen credentials and social engineering to breach networks is increasing demand for infostealers on the Dark Web.]]></summary>
+        <author>
+            <name>Nathan Eddy, Contributing Writer, Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Privacy War Is Coming]]></title>
+        <id>https://www.darkreading.com/endpoint/the-privacy-war-is-coming</id>
+        <link href="https://www.darkreading.com/endpoint/the-privacy-war-is-coming"/>
+        <updated>2022-12-05T15:00:22.000Z</updated>
+        <summary type="html"><![CDATA[Privacy standards are only going to increase. It's time for organizations to get ahead of the coming reckoning.]]></summary>
+        <author>
+            <name>Damian Tommasino, Principal Security Engineer, Feroot Security</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ransomware Professionalization Grows as RaaS Takes Hold]]></title>
+        <id>https://www.darkreading.com/threat-intelligence/ransomware-professionalization-grows-as-raas-takes-hold</id>
+        <link href="https://www.darkreading.com/threat-intelligence/ransomware-professionalization-grows-as-raas-takes-hold"/>
+        <updated>2022-12-05T14:44:49.000Z</updated>
+        <summary type="html"><![CDATA[As ransomware's prevalence has grown over the past decade, leading ransomware groups such as Conti have added services and features as part of a growing trend toward professionalization.]]></summary>
+        <author>
+            <name>Nathan Eddy, Contributing Writer, Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Malware Authors Inadvertently Take Down Own Botnet]]></title>
+        <id>https://www.darkreading.com/attacks-breaches/malware-authors-inadvertently-takdown-own-botnet</id>
+        <link href="https://www.darkreading.com/attacks-breaches/malware-authors-inadvertently-takdown-own-botnet"/>
+        <updated>2022-12-05T14:04:23.000Z</updated>
+        <summary type="html"><![CDATA[A single improperly formatted command has effectively killed KmsdBot botnet, security vendor says.]]></summary>
+        <author>
+            <name>Jai Vijayan, Contributing Writer, Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New BMC Supply Chain Vulnerabilities Affect Servers from Dozens of Manufacturers]]></title>
+        <id>https://thehackernews.com/2022/12/new-bmc-supply-chain-vulnerabilities.html</id>
+        <link href="https://thehackernews.com/2022/12/new-bmc-supply-chain-vulnerabilities.html"/>
+        <updated>2022-12-05T14:02:00.000Z</updated>
+        <summary type="html"><![CDATA[Three different security flaws have been disclosed in American Megatrends (AMI) MegaRAC Baseboard Management Controller (BMC) software that could lead to remote code execution on vulnerable servers.
+"The impact of exploiting these vulnerabilities include remote control of compromised servers, remote deployment of malware, ransomware and firmware implants, and server physical damage (bricking),"]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Credential Phishing with Apple Gift Card Lures]]></title>
+        <id>https://blog.knowbe4.com/credential-phishing-with-apple-gift-card-lures</id>
+        <link href="https://blog.knowbe4.com/credential-phishing-with-apple-gift-card-lures"/>
+        <updated>2022-12-05T13:57:57.000Z</updated>
+        <summary type="html"><![CDATA[A phishing campaign is impersonating Apple and informing the user that their Apple account has been suspended due to an invalid payment method, according to researchers at Armorblox.]]></summary>
+        <author>
+            <name>Stu Sjouwerman</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Russian Courts Targeted by New CryWiper Data Wiper Malware Posing as Ransomware]]></title>
         <id>https://thehackernews.com/2022/12/russian-courts-targeted-by-new-crywiper.html</id>
@@ -13,6 +104,17 @@
         <updated>2022-12-05T12:24:00.000Z</updated>
         <summary type="html"><![CDATA[A new data wiper malware called CryWiper has been found targeting Russian government agencies, including mayor's offices and courts.
 "Although it disguises itself as a ransomware and extorts money from the victim for 'decrypting' data, [it] does not actually encrypt, but purposefully destroys data in the affected system," Kaspersky researchers Fedor Sinitsyn and Janis Zinchenko said in a]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[When Being Attractive Gets Risky - How Does Your Attack Surface Look to an Attacker?]]></title>
+        <id>https://thehackernews.com/2022/12/when-being-attractive-gets-risky-how.html</id>
+        <link href="https://thehackernews.com/2022/12/when-being-attractive-gets-risky-how.html"/>
+        <updated>2022-12-05T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In the era of digitization and ever-changing business needs, the production environment has become a living organism. Multiple functions and teams within an organization can ultimately impact the way an attacker sees the organization's assets, or in other words, the external attack surface. This dramatically increases the need to define an exposure management strategy.
+To keep up with business]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
