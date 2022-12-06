@@ -2,10 +2,45 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-06T07:18:15.768Z</updated>
+    <updated>2022-12-06T13:29:14.256Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Darknet's Largest Mobile Malware Marketplace Threatens Users Worldwide]]></title>
+        <id>https://thehackernews.com/2022/12/darknets-largest-mobile-malware.html</id>
+        <link href="https://thehackernews.com/2022/12/darknets-largest-mobile-malware.html"/>
+        <updated>2022-12-06T12:38:00.000Z</updated>
+        <summary type="html"><![CDATA[Cybersecurity researchers have shed light on a darknet marketplace called InTheBox that's designed to specifically cater to mobile malware operators.
+The actor behind the criminal storefront, believed to be available since at least January 2020, has been offering over 400 custom web injects grouped by geography that can be purchased by other adversaries looking to mount attacks of their own.
+"]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Understanding NIST CSF to assess your organization's Ransomware readiness]]></title>
+        <id>https://thehackernews.com/2022/12/understanding-nist-csf-to-assess-your.html</id>
+        <link href="https://thehackernews.com/2022/12/understanding-nist-csf-to-assess-your.html"/>
+        <updated>2022-12-06T12:15:00.000Z</updated>
+        <summary type="html"><![CDATA[Ransomware attacks keep increasing in volume and impact largely due to organizations' weak security controls. Mid-market companies are targeted as they possess a significant amount of valuable data but lack the level of protective controls and staffing of larger organizations.
+According to a recent RSM survey, 62% of mid-market companies believe they are at risk of ransomware in the next 12]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Telcom and BPO Companies Under Attack by SIM Swapping Hackers]]></title>
+        <id>https://thehackernews.com/2022/12/telcom-and-bpo-companies-under-attack.html</id>
+        <link href="https://thehackernews.com/2022/12/telcom-and-bpo-companies-under-attack.html"/>
+        <updated>2022-12-06T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A persistent intrusion campaign has set its eyes on telecommunications and business process outsourcing (BPO) companies at lease since June 2022.
+"The end objective of this campaign appears to be to gain access to mobile carrier networks and, as evidenced in two investigations, perform SIM swapping activity," CrowdStrike researcher Tim Parisi said in an analysis published last week.
+The]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Open Source Ransomware Toolkit Cryptonite Turns Into Accidental Wiper Malware]]></title>
         <id>https://thehackernews.com/2022/12/open-source-ransomware-toolkit.html</id>
