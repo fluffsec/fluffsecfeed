@@ -2,10 +2,64 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-05T19:16:22.115Z</updated>
+    <updated>2022-12-06T02:20:16.333Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Wiper, Disguised as Fake Ransomware, Targets Russian Orgs]]></title>
+        <id>https://www.darkreading.com/threat-intelligence/wiper-disguised-fake-ransomware-targets-russian-orgs</id>
+        <link href="https://www.darkreading.com/threat-intelligence/wiper-disguised-fake-ransomware-targets-russian-orgs"/>
+        <updated>2022-12-05T21:09:48.000Z</updated>
+        <summary type="html"><![CDATA[The program, dubbed CryWiper, is aimed at Russian targets; it requests a ransom but has no way to decrypt any overwritten files.]]></summary>
+        <author>
+            <name>Robert Lemos, Contributing Writer, Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hive Social Buzzing With Security Flaws, Analysts Warn]]></title>
+        <id>https://www.darkreading.com/application-security/hive-social-buzzing-with-security-flaws</id>
+        <link href="https://www.darkreading.com/application-security/hive-social-buzzing-with-security-flaws"/>
+        <updated>2022-12-05T20:54:00.000Z</updated>
+        <summary type="html"><![CDATA[Twitter alternative Hive Social took down its servers after researchers discovered several critical vulnerabilities.]]></summary>
+        <author>
+            <name>Dark Reading Staff, Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cybersecurity Should Focus on Managing Risk]]></title>
+        <id>https://www.darkreading.com/edge-articles/cybersecurity-should-focus-on-managing-risk</id>
+        <link href="https://www.darkreading.com/edge-articles/cybersecurity-should-focus-on-managing-risk"/>
+        <updated>2022-12-05T19:43:00.000Z</updated>
+        <summary type="html"><![CDATA[Preventing all data breaches is an unrealistic goal. Instead, focus on finding and minimizing the greatest risks.]]></summary>
+        <author>
+            <name>Tiago Henriques, Director of Engineering, Coalition</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cyberattack Shuts Down French Hospital]]></title>
+        <id>https://www.darkreading.com/attacks-breaches/cyberattack-shuts-down-french-hospital</id>
+        <link href="https://www.darkreading.com/attacks-breaches/cyberattack-shuts-down-french-hospital"/>
+        <updated>2022-12-05T19:15:00.000Z</updated>
+        <summary type="html"><![CDATA[Patients transferred and operations canceled following a recent network breach at a hospital in the outskirts of Paris.]]></summary>
+        <author>
+            <name>Dark Reading Staff, Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CISA Adds One Known Exploited Vulnerability to Catalog]]></title>
+        <id>18191 at https://us-cert.cisa.gov</id>
+        <link href="https://us-cert.cisa.gov/ncas/current-activity/2022/12/05/cisa-adds-one-known-exploited-vulnerability-catalog"/>
+        <updated>2022-12-05T18:13:13.000Z</updated>
+        <summary type="html"><![CDATA[Original release date: December 5, 2022
+CISA has added one new vulnerability to its Known Exploited Vulnerabilities Catalog, based on evidence of active exploitation. This type of vulnerability is a frequent attack vector for malicious cyber actors and pose significant risk to the federal enterprise. Note: To view the newly added vulnerabilities in the catalog, click on the arrow in the "Date Added to Catalog" column, which will sort by descending dates.
+Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the Known Exploited Vulnerabilities Catalog as a living list of known CVEs that carry significant risk to the federal enterprise. BOD 22-01 requires FCEB agencies to remediate identified vulnerabilities by the due date to protect FCEB networks against active threats. See the BOD 22-01 Fact Sheet for more information.   
+Although BOD 22-01 only applies to FCEB agencies, CISA strongly urges all organizations to reduce their exposure to cyberattacks by prioritizing timely remediation of Catalog vulnerabilities as part of their vulnerability management practice. CISA will continue to add vulnerabilities to the Catalog that meet the specified criteria. 
+This product is provided subject to this Notification and this Privacy & Use policy.]]></summary>
+        <author>
+            <name>CISA</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The New External Attack Surface: 3 Elements Every Organization Should Monitor]]></title>
         <id>https://www.darkreading.com/microsoft/the-new-external-attack-surface-3-elements-every-organization-should-monitor</id>
