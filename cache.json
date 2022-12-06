@@ -3836,6 +3836,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2022/12/open-source-ransomware-toolkit.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "A version of an open source ransomware toolkit called Cryptonite has been observed in the wild with wiper capabilities due to its \"weak architecture and programming.\"\nCryptonite, unlike other ransomware strains, is not available for sale on the cybercriminal underground, and was instead offered for free by an actor named CYBERDEVILZ until recently through a GitHub repository. The source code and",
+          "link": "https://thehackernews.com/2022/12/open-source-ransomware-toolkit.html",
+          "publishedOn": "2022-12-06T06:11:00.000Z",
+          "wordCount": null,
+          "title": "Open Source Ransomware Toolkit Cryptonite Turns Into Accidental Wiper Malware",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjThor5HuqM23U-6_kx1BErr-bpKNg-7Beoo3P9muEEugJPeYp52Gi9AJMoh372UPdRpEdnFv0evJzol4SRB0oC1jHbgJ0ZC4jP5trfbpJ0vgA3A-W9WpJSEO5iwQLkFwpufQFhvkBNySPbwiVsCVMHDuOnlV53VsC91urpArO1bxrOU8k0zg2E20-y/s1600/ransomware.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjThor5HuqM23U-6_kx1BErr-bpKNg-7Beoo3P9muEEugJPeYp52Gi9AJMoh372UPdRpEdnFv0evJzol4SRB0oC1jHbgJ0ZC4jP5trfbpJ0vgA3A-W9WpJSEO5iwQLkFwpufQFhvkBNySPbwiVsCVMHDuOnlV53VsC91urpArO1bxrOU8k0zg2E20-y/s1600/ransomware.png"
+        },
+        {
           "id": "https://thehackernews.com/2022/12/new-bmc-supply-chain-vulnerabilities.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Three different security flaws have been disclosed in American Megatrends (AMI) MegaRAC Baseboard Management Controller (BMC) software that could lead to remote code execution on vulnerable servers.\n\"The impact of exploiting these vulnerabilities include remote control of compromised servers, remote deployment of malware, ransomware and firmware implants, and server physical damage (bricking),\"",
