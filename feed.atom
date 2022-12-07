@@ -2,10 +2,54 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-07T07:18:25.729Z</updated>
+    <updated>2022-12-07T13:27:19.719Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Chinese Hackers Using Russo-Ukrainian War Decoys to Target APAC and European Entities]]></title>
+        <id>https://thehackernews.com/2022/12/chinese-hackers-using-russo-ukrainian.html</id>
+        <link href="https://thehackernews.com/2022/12/chinese-hackers-using-russo-ukrainian.html"/>
+        <updated>2022-12-07T12:14:00.000Z</updated>
+        <summary type="html"><![CDATA[The China-linked nation-state hacking group referred to as Mustang Panda is using lures related to the ongoing Russo-Ukrainian War to attack entities in Europe and the Asia Pacific.
+That's according to the BlackBerry Research and Intelligence Team, which analyzed a RAR archive file titled "Political Guidance for the new EU approach towards Russia.rar." Some of the targeted countries include]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Russian Hackers Spotted Targeting U.S. Military Weapons and Hardware Supplier]]></title>
+        <id>https://thehackernews.com/2022/12/russian-hackers-spotted-targeting-us.html</id>
+        <link href="https://thehackernews.com/2022/12/russian-hackers-spotted-targeting-us.html"/>
+        <updated>2022-12-07T11:58:00.000Z</updated>
+        <summary type="html"><![CDATA[A state-sponsored hacking group with links to Russia has been linked to attack infrastructure that spoofs the Microsoft login page of Global Ordnance, a legitimate U.S.-based military weapons and hardware supplier.
+Recorded Future attributed the new infrastructure to a threat activity group it tracks under the name TAG-53, and is broadly known by the cybersecurity community as Blue Callisto,]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[For Cyberattackers, Popular EDR Tools Can Turn into Destructive Data Wipers]]></title>
+        <id>https://www.darkreading.com/vulnerabilities-threats/cyberattackers-popular-edr-tools-destructive-data-wipers</id>
+        <link href="https://www.darkreading.com/vulnerabilities-threats/cyberattackers-popular-edr-tools-destructive-data-wipers"/>
+        <updated>2022-12-07T10:30:36.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft, three others release patches to fix a vulnerability in their respective products that enables such manipulation. Potentially other EDR products affected as well.]]></summary>
+        <author>
+            <name>Jai Vijayan, Contributing Writer, Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Alerts Cryptocurrency Industry of Targeted Cyberattacks]]></title>
+        <id>https://thehackernews.com/2022/12/microsoft-alerts-cryptocurrency.html</id>
+        <link href="https://thehackernews.com/2022/12/microsoft-alerts-cryptocurrency.html"/>
+        <updated>2022-12-07T09:22:00.000Z</updated>
+        <summary type="html"><![CDATA[Cryptocurrency investment companies are the target of a developing threat cluster that uses Telegram groups to seek out potential victims.
+Microsoft's Security Threat Intelligence Center (MSTIC) is tracking the activity under the name DEV-0139, and builds upon a recent report from Volexity that attributed the same set of attacks to North Korea's Lazarus Group.
+"DEV-0139 joined Telegram groups]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[New Go-based Zerobot Botnet Exploiting Dozen of IoT Vulnerabilities to Expand its Network]]></title>
         <id>https://thehackernews.com/2022/12/new-go-based-zerobot-botnet-exploiting.html</id>
@@ -4680,46 +4724,6 @@ The bitcoin, which was obtained in 2012 and valued at $3.36 billion when it was 
 A recent survey by McKinsey & Company found that 85% of small and midsize businesses plan to increase their security spending heading into 2023, while Gartner recently projected that 2022 IT spending will only grow by 3%,]]></summary>
         <author>
             <name>noreply@blogger.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Does DNS Telemetry Help Detect and Stop Threats?]]></title>
-        <id>https://www.darkreading.com/edge-ask-the-experts/how-does-dns-telemetry-help-detect-and-stop-threats</id>
-        <link href="https://www.darkreading.com/edge-ask-the-experts/how-does-dns-telemetry-help-detect-and-stop-threats"/>
-        <updated>2022-11-07T23:16:00.000Z</updated>
-        <summary type="html"><![CDATA[Administrators and security teams who have lost visibility into their own networks can use DNS telemetry to home in on anomalous traffic.]]></summary>
-        <author>
-            <name>David Ratner, CEO, Hyas</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft's Certificate-Based Authentication Enables Phishing-Resistant MFA]]></title>
-        <id>https://www.darkreading.com/dr-tech/microsoft-certificate-based-authentication-enables-phishing-resistant-mfa</id>
-        <link href="https://www.darkreading.com/dr-tech/microsoft-certificate-based-authentication-enables-phishing-resistant-mfa"/>
-        <updated>2022-11-07T22:10:00.000Z</updated>
-        <summary type="html"><![CDATA[Microsoft added certificate-based authentication (CBA) to the Azure Active Directory to help organizations enable phishing-resistant MFA that complies with US federal requirements. The change paves the way for enterprises to migrate their Active Directory implementations to the cloud.]]></summary>
-        <author>
-            <name>Jeffrey Schwartz, Contributing Writer, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SolarWinds Faces Potential SEC Enforcement Act Over Orion Breach]]></title>
-        <id>https://www.darkreading.com/application-security/solarwinds-faces-potential-sec-enforcement-act-over-orion-breach</id>
-        <link href="https://www.darkreading.com/application-security/solarwinds-faces-potential-sec-enforcement-act-over-orion-breach"/>
-        <updated>2022-11-07T22:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In the nearly two years since the company discovered the cyber intrusion, SolarWinds has fundamentally rearchitected its development environment to make it much harder to compromise, CISO Tim Brown tells Dark Reading.]]></summary>
-        <author>
-            <name>Jai Vijayan, Contributing Writer, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[National Guard Cyber Forces 'Surging' to Help States Protect Midterm Elections]]></title>
-        <id>https://www.darkreading.com/risk/national-guard-cyber-forces-surging-to-help-states-protect-midterm-elections</id>
-        <link href="https://www.darkreading.com/risk/national-guard-cyber-forces-surging-to-help-states-protect-midterm-elections"/>
-        <updated>2022-11-07T19:19:17.000Z</updated>
-        <summary type="html"><![CDATA[Fourteen states, including Arizona, Iowa, and Pennsylvania, have called in the Guard to help with election network risk assessments and threat mitigation.]]></summary>
-        <author>
-            <name>Dark Reading Staff, Dark Reading</name>
         </author>
     </entry>
     <entry>

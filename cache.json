@@ -341,6 +341,21 @@
       "siteUrl": "https://www.darkreading.com",
       "articles": [
         {
+          "id": "https://www.darkreading.com/vulnerabilities-threats/cyberattackers-popular-edr-tools-destructive-data-wipers",
+          "author": "Jai Vijayan, Contributing Writer, Dark Reading",
+          "description": "Microsoft, three others release patches to fix a vulnerability in their respective products that enables such manipulation. Potentially other EDR products affected as well.",
+          "link": "https://www.darkreading.com/vulnerabilities-threats/cyberattackers-popular-edr-tools-destructive-data-wipers",
+          "publishedOn": "2022-12-07T10:30:36.000Z",
+          "wordCount": 12213,
+          "title": "For Cyberattackers, Popular EDR Tools Can Turn into Destructive Data Wipers",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt02d79fb9a44a4258/60b1e9dd2a25046b35110696/Jai-Vijayan.jpeg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt02d79fb9a44a4258/60b1e9dd2a25046b35110696/Jai-Vijayan.jpeg"
+        },
+        {
           "id": "https://www.darkreading.com/application-security/shift-memory-safe-languages-gains-momentum",
           "author": "Robert Lemos, Contributing Writer, Dark Reading",
           "description": "Software firms and the National Security Agency urge developers to move to memory-safe programming languages to eliminate a major source of high-severity flaws.",
@@ -3224,66 +3239,6 @@
           "wordCount": 12850,
           "title": "Living Security and CybSafe Propose the First Human Risk Management Maturity Model",
           "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
-        },
-        {
-          "id": "https://www.darkreading.com/edge-ask-the-experts/how-does-dns-telemetry-help-detect-and-stop-threats",
-          "author": "David Ratner, CEO, Hyas",
-          "description": "Administrators and security teams who have lost visibility into their own networks can use DNS telemetry to home in on anomalous traffic.",
-          "link": "https://www.darkreading.com/edge-ask-the-experts/how-does-dns-telemetry-help-detect-and-stop-threats",
-          "publishedOn": "2022-11-07T23:16:00.000Z",
-          "wordCount": 12531,
-          "title": "How Does DNS Telemetry Help Detect and Stop Threats?",
-          "enclosure": {
-            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt5dfd3799a28c895b/61e866b48c81dc42e6174261/Dave-Ratner-310.jpg",
-            "type": "image/*",
-            "length": "0"
-          },
-          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt5dfd3799a28c895b/61e866b48c81dc42e6174261/Dave-Ratner-310.jpg"
-        },
-        {
-          "id": "https://www.darkreading.com/dr-tech/microsoft-certificate-based-authentication-enables-phishing-resistant-mfa",
-          "author": "Jeffrey Schwartz, Contributing Writer, Dark Reading",
-          "description": "Microsoft added certificate-based authentication (CBA) to the Azure Active Directory to help organizations enable phishing-resistant MFA that complies with US federal requirements. The change paves the way for enterprises to migrate their Active Directory implementations to the cloud.",
-          "link": "https://www.darkreading.com/dr-tech/microsoft-certificate-based-authentication-enables-phishing-resistant-mfa",
-          "publishedOn": "2022-11-07T22:10:00.000Z",
-          "wordCount": 15637,
-          "title": "Microsoft's Certificate-Based Authentication Enables Phishing-Resistant MFA",
-          "enclosure": {
-            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blta28fcad87ff558b7/627c0108726e3315b16b464c/Jeff_Schwartz_headshot-sq.png",
-            "type": "image/*",
-            "length": "0"
-          },
-          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blta28fcad87ff558b7/627c0108726e3315b16b464c/Jeff_Schwartz_headshot-sq.png"
-        },
-        {
-          "id": "https://www.darkreading.com/application-security/solarwinds-faces-potential-sec-enforcement-act-over-orion-breach",
-          "author": "Jai Vijayan, Contributing Writer, Dark Reading",
-          "description": "In the nearly two years since the company discovered the cyber intrusion, SolarWinds has fundamentally rearchitected its development environment to make it much harder to compromise, CISO Tim Brown tells Dark Reading.",
-          "link": "https://www.darkreading.com/application-security/solarwinds-faces-potential-sec-enforcement-act-over-orion-breach",
-          "publishedOn": "2022-11-07T22:00:00.000Z",
-          "wordCount": 14158,
-          "title": "SolarWinds Faces Potential SEC Enforcement Act Over Orion Breach",
-          "enclosure": {
-            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt02d79fb9a44a4258/60b1e9dd2a25046b35110696/Jai-Vijayan.jpeg",
-            "type": "image/*",
-            "length": "0"
-          },
-          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt02d79fb9a44a4258/60b1e9dd2a25046b35110696/Jai-Vijayan.jpeg"
-        },
-        {
-          "id": "https://www.darkreading.com/risk/national-guard-cyber-forces-surging-to-help-states-protect-midterm-elections",
-          "author": "Dark Reading Staff, Dark Reading",
-          "description": "Fourteen states, including Arizona, Iowa, and Pennsylvania, have called in the Guard to help with election network risk assessments and threat mitigation.",
-          "link": "https://www.darkreading.com/risk/national-guard-cyber-forces-surging-to-help-states-protect-midterm-elections",
-          "publishedOn": "2022-11-07T19:19:17.000Z",
-          "wordCount": 11161,
-          "title": "National Guard Cyber Forces 'Surging' to Help States Protect Midterm Elections",
-          "enclosure": {
-            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blte161b23f0fd3a84b/60b1ea374e7eb868c4c6a293/dr_staff_125x125.jpg",
-            "type": "image/*",
-            "length": "0"
-          },
-          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blte161b23f0fd3a84b/60b1ea374e7eb868c4c6a293/dr_staff_125x125.jpg"
         }
       ]
     },
@@ -3915,6 +3870,54 @@
       "feedUrl": "https://thehackernews.com/feeds/posts/default",
       "siteUrl": "https://thehackernews.com",
       "articles": [
+        {
+          "id": "https://thehackernews.com/2022/12/chinese-hackers-using-russo-ukrainian.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "The China-linked nation-state hacking group referred to as Mustang Panda is using lures related to the ongoing Russo-Ukrainian War to attack entities in Europe and the Asia Pacific.\nThat's according to the BlackBerry Research and Intelligence Team, which analyzed a RAR archive file titled \"Political Guidance for the new EU approach towards Russia.rar.\" Some of the targeted countries include",
+          "link": "https://thehackernews.com/2022/12/chinese-hackers-using-russo-ukrainian.html",
+          "publishedOn": "2022-12-07T12:14:00.000Z",
+          "wordCount": null,
+          "title": "Chinese Hackers Using Russo-Ukrainian War Decoys to Target APAC and European Entities",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhCuTgrwJbW71wZ8ebLVrRejLnj3-tIQdP-xSU-gUtMzxn52jUo4WAdN6aBVzO1ZjybsKP-DyPCR4dU3FY_9eH5XczVJ4NxqyozmmMzMXfG2oNstVFaX9CglkU-bo6s09LwFC0GcDcT8MpXY4PArDLonC88NyZ-ZXgbH6bS6XGHBk-4rxq2lmz48HNZ/s1600/map.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhCuTgrwJbW71wZ8ebLVrRejLnj3-tIQdP-xSU-gUtMzxn52jUo4WAdN6aBVzO1ZjybsKP-DyPCR4dU3FY_9eH5XczVJ4NxqyozmmMzMXfG2oNstVFaX9CglkU-bo6s09LwFC0GcDcT8MpXY4PArDLonC88NyZ-ZXgbH6bS6XGHBk-4rxq2lmz48HNZ/s1600/map.png"
+        },
+        {
+          "id": "https://thehackernews.com/2022/12/russian-hackers-spotted-targeting-us.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "A state-sponsored hacking group with links to Russia has been linked to attack infrastructure that spoofs the Microsoft login page of Global Ordnance, a legitimate U.S.-based military weapons and hardware supplier.\nRecorded Future attributed the new infrastructure to a threat activity group it tracks under the name TAG-53, and is broadly known by the cybersecurity community as Blue Callisto,",
+          "link": "https://thehackernews.com/2022/12/russian-hackers-spotted-targeting-us.html",
+          "publishedOn": "2022-12-07T11:58:00.000Z",
+          "wordCount": null,
+          "title": "Russian Hackers Spotted Targeting U.S. Military Weapons and Hardware Supplier",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgbhRm4igpUdu6-ADXZtfrTIvmis7A8HwrfGspvEdUVx10CY9kUw21_UbdoWf78ZJvyJ2VSjQX8lU9sb9uZxYlMCg7PLb0p8PB0SYxsvV7iREAvRdlMNfdDCT1lKzUrPwNH-OsmsfLl6_PZXPo12eBi2Nu_cyM7gQTT-1aF1dKwjqbnlqgDZYuWRoOk/s1600/ms.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgbhRm4igpUdu6-ADXZtfrTIvmis7A8HwrfGspvEdUVx10CY9kUw21_UbdoWf78ZJvyJ2VSjQX8lU9sb9uZxYlMCg7PLb0p8PB0SYxsvV7iREAvRdlMNfdDCT1lKzUrPwNH-OsmsfLl6_PZXPo12eBi2Nu_cyM7gQTT-1aF1dKwjqbnlqgDZYuWRoOk/s1600/ms.png"
+        },
+        {
+          "id": "https://thehackernews.com/2022/12/microsoft-alerts-cryptocurrency.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Cryptocurrency investment companies are the target of a developing threat cluster that uses Telegram groups to seek out potential victims.\nMicrosoft's Security Threat Intelligence Center (MSTIC) is tracking the activity under the name DEV-0139, and builds upon a recent report from Volexity that attributed the same set of attacks to North Korea's Lazarus Group.\n\"DEV-0139 joined Telegram groups",
+          "link": "https://thehackernews.com/2022/12/microsoft-alerts-cryptocurrency.html",
+          "publishedOn": "2022-12-07T09:22:00.000Z",
+          "wordCount": null,
+          "title": "Microsoft Alerts Cryptocurrency Industry of Targeted Cyberattacks",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiIaD6H0r0xhslaRDWEHaAi2oulIDYrssMbY4RJbASKhfME-s-1PsBj2hgdAA1Bs609EsJrryx7ldon0fcfeC9rOeIioHcOdt197kwrjxMst-hAEnUKMySoDx_sqkjoF4jlPZxaIOalf2OSAEiW9MAYbQDgN-NXfrTFEHhjcY3f8dPGCoA3i8_bD9Hn/s1600/ms.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiIaD6H0r0xhslaRDWEHaAi2oulIDYrssMbY4RJbASKhfME-s-1PsBj2hgdAA1Bs609EsJrryx7ldon0fcfeC9rOeIioHcOdt197kwrjxMst-hAEnUKMySoDx_sqkjoF4jlPZxaIOalf2OSAEiW9MAYbQDgN-NXfrTFEHhjcY3f8dPGCoA3i8_bD9Hn/s1600/ms.png"
+        },
         {
           "id": "https://thehackernews.com/2022/12/new-go-based-zerobot-botnet-exploiting.html",
           "author": "info@thehackernews.com (The Hacker News)",
