@@ -341,6 +341,71 @@
       "siteUrl": "https://www.darkreading.com",
       "articles": [
         {
+          "id": "https://www.darkreading.com/application-security/shift-memory-safe-languages-gains-momentum",
+          "author": "Robert Lemos, Contributing Writer, Dark Reading",
+          "description": "Software firms and the National Security Agency urge developers to move to memory-safe programming languages to eliminate a major source of high-severity flaws.",
+          "link": "https://www.darkreading.com/application-security/shift-memory-safe-languages-gains-momentum",
+          "publishedOn": "2022-12-07T00:03:00.000Z",
+          "wordCount": 11554,
+          "title": "Shift to Memory-Safe Languages Gains Momentum",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt58481326324d6911/60b1e9a55d34de550780a990/Robert-Lemos.png",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt58481326324d6911/60b1e9a55d34de550780a990/Robert-Lemos.png"
+        },
+        {
+          "id": "https://www.darkreading.com/dr-tech/waiting-for-sbom-take-a-look-at-asm",
+          "author": "Jonathan Care, Contributing Writer, Dark Reading",
+          "description": "If compiling a software bill of materials seems daunting, attack surface management tools can provide many of the benefits.",
+          "link": "https://www.darkreading.com/dr-tech/waiting-for-sbom-take-a-look-at-asm",
+          "publishedOn": "2022-12-06T23:07:00.000Z",
+          "wordCount": 12462,
+          "title": "ASM Can Fill Gaps While Working to Implement SBOM",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt532ad4044b254ce3/62c7050c96e0c6712ea6e3d1/jonathan-care.jpg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt532ad4044b254ce3/62c7050c96e0c6712ea6e3d1/jonathan-care.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/risk/cambridge-centre-for-risk-studies-and-kivu-release-benchmark-of-cost-effective-responses-to-cybercrime",
+          "author": null,
+          "description": "",
+          "link": "https://www.darkreading.com/risk/cambridge-centre-for-risk-studies-and-kivu-release-benchmark-of-cost-effective-responses-to-cybercrime",
+          "publishedOn": "2022-12-06T20:50:00.000Z",
+          "wordCount": 9749,
+          "title": "Cambridge Centre for Risk Studies and Kivu Release Benchmark of Cost-Effective Responses to Cybercrime",
+          "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/vulnerabilities-threats/google-chrome-flaw-added-to-cisa-patch-list",
+          "author": null,
+          "description": "CISA gives agencies deadline to patch against Google Chrome bug being actively exploited in the wild.",
+          "link": "https://www.darkreading.com/vulnerabilities-threats/google-chrome-flaw-added-to-cisa-patch-list",
+          "publishedOn": "2022-12-06T20:05:00.000Z",
+          "wordCount": 8920,
+          "title": "Google Chrome Flaw Added to CISA Patch List",
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt02f7449359a8e0e6/62682f40f040626a299e7f1a/CISA_logo_GK_Images_Alamy.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/threat-intelligence/russia-readies-winter-cyberattacks-as-troops-retreat-from-ukraine",
+          "author": "Dark Reading Staff, Dark Reading",
+          "description": "Microsoft warns that the Kremlin is ramping up cyberattacks against infrastructure and supply chains and starting disinformation campaigns as Russian troops lose on the battlefield.",
+          "link": "https://www.darkreading.com/threat-intelligence/russia-readies-winter-cyberattacks-as-troops-retreat-from-ukraine",
+          "publishedOn": "2022-12-06T19:54:00.000Z",
+          "wordCount": 9196,
+          "title": "Russia Readies Winter Cyberattacks As Troops Retreat From Ukraine",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blte161b23f0fd3a84b/60b1ea374e7eb868c4c6a293/dr_staff_125x125.jpg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blte161b23f0fd3a84b/60b1ea374e7eb868c4c6a293/dr_staff_125x125.jpg"
+        },
+        {
           "id": "https://www.darkreading.com/ics-ot/what-will-it-take-to-secure-critical-infrastructure",
           "author": "Tony Anscombe, Chief Security Evangelist, ESET",
           "description": "There's no quick fix after decades of underinvestment, but the process has started. Cybersecurity grants, mandatory reporting protocols, and beefed-up authentication requirements are being put in place.",
@@ -3927,26 +3992,6 @@
           "wordCount": 2296,
           "title": "[HEADS UP] Australia Continues to be Vulnerable to Cybercrimes as Half a Billion Has Been Lost to Scammers",
           "imageUrl": "https://blog.knowbe4.com/hubfs/Depositphotos_142707435_S.jpg#keepProtocol"
-        },
-        {
-          "id": "https://blog.knowbe4.com/new-product-coach-users-in-real-time-with-securitycoach",
-          "author": "Stu Sjouwerman",
-          "description": "We are thrilled to announce a brand-new product designed to help you develop a strong security culture. SecurityCoach enables real-time security coaching of your users in response to their risky security behavior.",
-          "link": "https://blog.knowbe4.com/new-product-coach-users-in-real-time-with-securitycoach",
-          "publishedOn": "2022-11-07T14:14:42.000Z",
-          "wordCount": 2351,
-          "title": "[New Product] Users Making Security Mistakes? Coach Them in Real-Time with SecurityCoach",
-          "imageUrl": "https://blog.knowbe4.com/hubfs/SecurityCoach-Social.jpg#keepProtocol"
-        },
-        {
-          "id": "https://blog.knowbe4.com/russian-trolls-and-bots-are-back-targeting-tuesdays-u.s.-midterms",
-          "author": "Stu Sjouwerman",
-          "description": "Steven Lee Myers at the NYT had the scoop on this typical Russian influence operation which really is social engineering at scale: \"The user on Gab who identifies as Nora Berka resurfaced in August after a yearlong silence on the social media platform, reposting a handful of messages with sharply conservative political themes before writing a stream of original vitriol.",
-          "link": "https://blog.knowbe4.com/russian-trolls-and-bots-are-back-targeting-tuesdays-u.s.-midterms",
-          "publishedOn": "2022-11-07T11:51:03.000Z",
-          "wordCount": 2098,
-          "title": "Russian trolls and bots are back, targeting Tuesday’s U.S. midterms.",
-          "imageUrl": "https://blog.knowbe4.com/hubfs/birdbot.png#keepProtocol"
         }
       ]
     },
@@ -5498,28 +5543,6 @@
           "publishedOn": "2022-11-07T14:46:00.000Z",
           "wordCount": null,
           "title": "This Hidden Facebook Tool Lets Users Remove Their Email or Phone Number Shared by Others",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "tag:blogger.com,1999:blog-4802841478634147276.post-8768855407505585266",
-          "author": "noreply@blogger.com (Ravie Lakshmanan)",
-          "description": "Security researchers are warning of \"a trove of sensitive information\" leaking through urlscan.io, a website scanner for suspicious and malicious URLs.\n\"Sensitive URLs to shared documents, password reset pages, team invites, payment invoices and more are publicly listed and searchable,\" Positive Security co-founder, Fabian Bräunlein, said in a report published on November 2, 2022.\nThe",
-          "link": "https://thehackernews.com/2022/11/experts-find-urlscan-security-scanner.html",
-          "publishedOn": "2022-11-07T10:49:00.000Z",
-          "wordCount": null,
-          "title": "Experts Find Urlscan Security Scanner Inadvertently Leaks Sensitive URLs and Data",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "tag:blogger.com,1999:blog-4802841478634147276.post-1024803323153873605",
-          "author": "noreply@blogger.com (Ravie Lakshmanan)",
-          "description": "A phishing-as-a-service (PhaaS) platform known as Robin Banks has relocated its attack infrastructure to DDoS-Guard, a Russian provider of bulletproof hosting services.\nThe switch comes after \"Cloudflare disassociated Robin Banks phishing infrastructure from its services, causing a multi-day disruption to operations,\" according to a report from cybersecurity company IronNet.\nRobin Banks was",
-          "link": "https://thehackernews.com/2022/11/robin-banks-phishing-service-for.html",
-          "publishedOn": "2022-11-07T07:36:00.000Z",
-          "wordCount": null,
-          "title": "Robin Banks Phishing Service for Cybercriminals Returns with Russian Server",
           "itunes": {},
           "imageUrl": null
         }

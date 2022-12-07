@@ -2,10 +2,59 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-06T19:16:34.232Z</updated>
+    <updated>2022-12-07T02:28:31.900Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Shift to Memory-Safe Languages Gains Momentum]]></title>
+        <id>https://www.darkreading.com/application-security/shift-memory-safe-languages-gains-momentum</id>
+        <link href="https://www.darkreading.com/application-security/shift-memory-safe-languages-gains-momentum"/>
+        <updated>2022-12-07T00:03:00.000Z</updated>
+        <summary type="html"><![CDATA[Software firms and the National Security Agency urge developers to move to memory-safe programming languages to eliminate a major source of high-severity flaws.]]></summary>
+        <author>
+            <name>Robert Lemos, Contributing Writer, Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ASM Can Fill Gaps While Working to Implement SBOM]]></title>
+        <id>https://www.darkreading.com/dr-tech/waiting-for-sbom-take-a-look-at-asm</id>
+        <link href="https://www.darkreading.com/dr-tech/waiting-for-sbom-take-a-look-at-asm"/>
+        <updated>2022-12-06T23:07:00.000Z</updated>
+        <summary type="html"><![CDATA[If compiling a software bill of materials seems daunting, attack surface management tools can provide many of the benefits.]]></summary>
+        <author>
+            <name>Jonathan Care, Contributing Writer, Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cambridge Centre for Risk Studies and Kivu Release Benchmark of Cost-Effective Responses to Cybercrime]]></title>
+        <id>https://www.darkreading.com/risk/cambridge-centre-for-risk-studies-and-kivu-release-benchmark-of-cost-effective-responses-to-cybercrime</id>
+        <link href="https://www.darkreading.com/risk/cambridge-centre-for-risk-studies-and-kivu-release-benchmark-of-cost-effective-responses-to-cybercrime"/>
+        <updated>2022-12-06T20:50:00.000Z</updated>
+        <author>
+            <name>Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google Chrome Flaw Added to CISA Patch List]]></title>
+        <id>https://www.darkreading.com/vulnerabilities-threats/google-chrome-flaw-added-to-cisa-patch-list</id>
+        <link href="https://www.darkreading.com/vulnerabilities-threats/google-chrome-flaw-added-to-cisa-patch-list"/>
+        <updated>2022-12-06T20:05:00.000Z</updated>
+        <summary type="html"><![CDATA[CISA gives agencies deadline to patch against Google Chrome bug being actively exploited in the wild.]]></summary>
+        <author>
+            <name>Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Russia Readies Winter Cyberattacks As Troops Retreat From Ukraine]]></title>
+        <id>https://www.darkreading.com/threat-intelligence/russia-readies-winter-cyberattacks-as-troops-retreat-from-ukraine</id>
+        <link href="https://www.darkreading.com/threat-intelligence/russia-readies-winter-cyberattacks-as-troops-retreat-from-ukraine"/>
+        <updated>2022-12-06T19:54:00.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft warns that the Kremlin is ramping up cyberattacks against infrastructure and supply chains and starting disinformation campaigns as Russian troops lose on the battlefield.]]></summary>
+        <author>
+            <name>Dark Reading Staff, Dark Reading</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What Will It Take to Secure Critical Infrastructure?]]></title>
         <id>https://www.darkreading.com/ics-ot/what-will-it-take-to-secure-critical-infrastructure</id>
@@ -4751,50 +4800,6 @@ The attack, according to the company, was detected in its IT network on October
         <summary type="html"><![CDATA[Facebook appears to have silently rolled out a tool that allows users to remove their contact information, such as phone numbers and email addresses, uploaded by others.
 The existence of the tool, which is buried inside a Help Center page about "Friending," was first reported by Business Insider last week. It's offered as a way for "Non-users" to "exercise their rights under applicable laws."
 <!]]></summary>
-        <author>
-            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[New Product] Users Making Security Mistakes? Coach Them in Real-Time with SecurityCoach]]></title>
-        <id>https://blog.knowbe4.com/new-product-coach-users-in-real-time-with-securitycoach</id>
-        <link href="https://blog.knowbe4.com/new-product-coach-users-in-real-time-with-securitycoach"/>
-        <updated>2022-11-07T14:14:42.000Z</updated>
-        <summary type="html"><![CDATA[We are thrilled to announce a brand-new product designed to help you develop a strong security culture. SecurityCoach enables real-time security coaching of your users in response to their risky security behavior.]]></summary>
-        <author>
-            <name>Stu Sjouwerman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Russian trolls and bots are back, targeting Tuesday’s U.S. midterms.]]></title>
-        <id>https://blog.knowbe4.com/russian-trolls-and-bots-are-back-targeting-tuesdays-u.s.-midterms</id>
-        <link href="https://blog.knowbe4.com/russian-trolls-and-bots-are-back-targeting-tuesdays-u.s.-midterms"/>
-        <updated>2022-11-07T11:51:03.000Z</updated>
-        <summary type="html"><![CDATA[Steven Lee Myers at the NYT had the scoop on this typical Russian influence operation which really is social engineering at scale: "The user on Gab who identifies as Nora Berka resurfaced in August after a yearlong silence on the social media platform, reposting a handful of messages with sharply conservative political themes before writing a stream of original vitriol.]]></summary>
-        <author>
-            <name>Stu Sjouwerman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Experts Find Urlscan Security Scanner Inadvertently Leaks Sensitive URLs and Data]]></title>
-        <id>tag:blogger.com,1999:blog-4802841478634147276.post-8768855407505585266</id>
-        <link href="https://thehackernews.com/2022/11/experts-find-urlscan-security-scanner.html"/>
-        <updated>2022-11-07T10:49:00.000Z</updated>
-        <summary type="html"><![CDATA[Security researchers are warning of "a trove of sensitive information" leaking through urlscan.io, a website scanner for suspicious and malicious URLs.
-"Sensitive URLs to shared documents, password reset pages, team invites, payment invoices and more are publicly listed and searchable," Positive Security co-founder, Fabian Bräunlein, said in a report published on November 2, 2022.
-The]]></summary>
-        <author>
-            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Robin Banks Phishing Service for Cybercriminals Returns with Russian Server]]></title>
-        <id>tag:blogger.com,1999:blog-4802841478634147276.post-1024803323153873605</id>
-        <link href="https://thehackernews.com/2022/11/robin-banks-phishing-service-for.html"/>
-        <updated>2022-11-07T07:36:00.000Z</updated>
-        <summary type="html"><![CDATA[A phishing-as-a-service (PhaaS) platform known as Robin Banks has relocated its attack infrastructure to DDoS-Guard, a Russian provider of bulletproof hosting services.
-The switch comes after "Cloudflare disassociated Robin Banks phishing infrastructure from its services, causing a multi-day disruption to operations," according to a report from cybersecurity company IronNet.
-Robin Banks was]]></summary>
         <author>
             <name>noreply@blogger.com (Ravie Lakshmanan)</name>
         </author>
