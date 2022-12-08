@@ -43,6 +43,26 @@
       "siteUrl": "https://us-cert.cisa.gov/",
       "articles": [
         {
+          "id": "18196 at https://us-cert.cisa.gov",
+          "author": "CISA",
+          "description": "Original release date: December 8, 2022\nToday, CISA published a Phishing Infographic to help protect both organizations and individuals from successful phishing operations. This infographic provides a visual summary of how threat actors execute successful phishing operations. Details include metrics that compare the likelihood of certain types of “bait” and how commonly each bait type succeeds in tricking the targeted individual. The infographic also provides detailed actions organizations and individuals can take to prevent successful phishing operations—from blocking phishing attempts to teaching individuals how to report successful phishing operations.\nThis product is provided subject to this Notification and this Privacy & Use policy.",
+          "link": "https://us-cert.cisa.gov/ncas/current-activity/2022/12/08/cisa-releases-phishing-infographic",
+          "publishedOn": "2022-12-08T18:07:22.000Z",
+          "wordCount": 901,
+          "title": "CISA Releases Phishing Infographic",
+          "imageUrl": null
+        },
+        {
+          "id": "18195 at https://us-cert.cisa.gov",
+          "author": "CISA",
+          "description": "Original release date: December 8, 2022\nCISA has released three (3) Industrial Control Systems (ICS) advisories on 08 December 2022. These advisories provide timely information about current security issues, vulnerabilities, and exploits surrounding ICS.\nCISA encourages users and administrators to review the newly released ICS advisories for technical details and mitigations:\nICSA-22-342-01 Advantech iView\nICSA-22-342-02 AVEVA InTouch Access Anywhere\nICSA-22-342-03 Rockwell Automation Logix Controllers\nThis product is provided subject to this Notification and this Privacy & Use policy.",
+          "link": "https://us-cert.cisa.gov/ncas/current-activity/2022/12/08/cisa-releases-three-industrial-control-advisories",
+          "publishedOn": "2022-12-08T17:00:00.000Z",
+          "wordCount": 882,
+          "title": "CISA Releases Three Industrial Control Advisories",
+          "imageUrl": null
+        },
+        {
           "id": "18191 at https://us-cert.cisa.gov",
           "author": "CISA",
           "description": "Original release date: December 5, 2022\nCISA has added one new vulnerability to its Known Exploited Vulnerabilities Catalog, based on evidence of active exploitation. This type of vulnerability is a frequent attack vector for malicious cyber actors and pose significant risk to the federal enterprise. Note: To view the newly added vulnerabilities in the catalog, click on the arrow in the \"Date Added to Catalog\" column, which will sort by descending dates.\nBinding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the Known Exploited Vulnerabilities Catalog as a living list of known CVEs that carry significant risk to the federal enterprise. BOD 22-01 requires FCEB agencies to remediate identified vulnerabilities by the due date to protect FCEB networks against active threats. See the BOD 22-01 Fact Sheet for more information.   \nAlthough BOD 22-01 only applies to FCEB agencies, CISA strongly urges all organizations to reduce their exposure to cyberattacks by prioritizing timely remediation of Catalog vulnerabilities as part of their vulnerability management practice. CISA will continue to add vulnerabilities to the Catalog that meet the specified criteria. \nThis product is provided subject to this Notification and this Privacy & Use policy.",
@@ -330,6 +350,71 @@
       "feedUrl": "https://www.darkreading.com/rss.xml",
       "siteUrl": "https://www.darkreading.com",
       "articles": [
+        {
+          "id": "https://www.darkreading.com/endpoint/phishing-in-the-cloud-we-re-gonna-need-a-bigger-boat",
+          "author": "Michael Clark, Director of Threat Research, Sysdig",
+          "description": "SasS security is everyone's problem.",
+          "link": "https://www.darkreading.com/endpoint/phishing-in-the-cloud-we-re-gonna-need-a-bigger-boat",
+          "publishedOn": "2022-12-08T18:00:00.000Z",
+          "wordCount": 11576,
+          "title": "Phishing in the Cloud: We're Gonna Need a Bigger Boat",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt6807682fe7a0aa31/635c2ebfa08d2c063476661c/MichaelClark.jpg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt6807682fe7a0aa31/635c2ebfa08d2c063476661c/MichaelClark.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/operations/-isc-recruits-110-000-people-interested-in-a-cybersecurity-career-in-three-months",
+          "author": null,
+          "description": "Rapid adoption showcases increased interest in cyber education and training for individuals looking to enter the field while helping decrease the workforce gap.",
+          "link": "https://www.darkreading.com/operations/-isc-recruits-110-000-people-interested-in-a-cybersecurity-career-in-three-months",
+          "publishedOn": "2022-12-08T15:49:55.000Z",
+          "wordCount": 9970,
+          "title": "(ISC)² Recruits 110,000 People Interested in a Cybersecurity Career in Three Months",
+          "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/threat-intelligence/interpres-security-emerges-from-stealth-to-help-companies-to-optimize-security-performance",
+          "author": null,
+          "description": "Startup raises $8.5 million in seed funding led by Ten Eleven Ventures.",
+          "link": "https://www.darkreading.com/threat-intelligence/interpres-security-emerges-from-stealth-to-help-companies-to-optimize-security-performance",
+          "publishedOn": "2022-12-08T15:47:05.000Z",
+          "wordCount": 11014,
+          "title": "Interpres Security Emerges from Stealth to Help Companies to Optimize Security Performance",
+          "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/application-security/where-to-find-the-best-open-source-security-technology",
+          "author": "Chenxi Wang, Founder and General Partner, Rain Capital",
+          "description": "A free resource, updated monthly, lists the most-popular, highly rated OSS projects.",
+          "link": "https://www.darkreading.com/application-security/where-to-find-the-best-open-source-security-technology",
+          "publishedOn": "2022-12-08T15:00:00.000Z",
+          "wordCount": 11113,
+          "title": "Where to Find the Best Open Source Security Technology",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt4b4cb8b9a6fa2b76/638fb5353269c34b07e3836e/chenxiHeadshot_2022.jpg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt4b4cb8b9a6fa2b76/638fb5353269c34b07e3836e/chenxiHeadshot_2022.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/attacks-breaches/report-air-gapped-networks-vulnerable-dns-attacks",
+          "author": "Elizabeth Montalbano, Contributor, Dark Reading",
+          "description": "Common mistakes in network configuration can jeopardize the security of highly protected assets and allow attackers to steal critical data from the enterprise.",
+          "link": "https://www.darkreading.com/attacks-breaches/report-air-gapped-networks-vulnerable-dns-attacks",
+          "publishedOn": "2022-12-08T14:12:04.000Z",
+          "wordCount": 12222,
+          "title": "Report: Air-Gapped Networks Vulnerable to DNS Attacks",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltbfd004d139d42d70/6303bca6236c2476a257760e/ElizabethMontalbano.jpg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltbfd004d139d42d70/6303bca6236c2476a257760e/ElizabethMontalbano.jpg"
+        },
         {
           "id": "https://www.darkreading.com/vulnerabilities-threats/hacker-fails-for-the-win",
           "author": "Kelly Jackson Higgins, Editor-in-Chief, Dark Reading",
@@ -3249,21 +3334,6 @@
           "wordCount": 13151,
           "title": "Industrial Control Systems (ICS) Security Market Worth $23.7B by 2027, Report Says",
           "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
-        },
-        {
-          "id": "https://www.darkreading.com/tech-trends/confidence-in-data-recovery-tools-low",
-          "author": "Dark Reading Staff, Dark Reading",
-          "description": "IT practitioners are developing ransomware response plans, but many of them are not confident in their data resiliency tools.",
-          "link": "https://www.darkreading.com/tech-trends/confidence-in-data-recovery-tools-low",
-          "publishedOn": "2022-11-09T02:00:00.000Z",
-          "wordCount": 11953,
-          "title": "Confidence in Data Recovery Tools Low",
-          "enclosure": {
-            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blte161b23f0fd3a84b/60b1ea374e7eb868c4c6a293/dr_staff_125x125.jpg",
-            "type": "image/*",
-            "length": "0"
-          },
-          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blte161b23f0fd3a84b/60b1ea374e7eb868c4c6a293/dr_staff_125x125.jpg"
         }
       ]
     },
@@ -3338,6 +3408,16 @@
       "feedUrl": "https://blog.knowbe4.com/rss.xml",
       "siteUrl": "https://blog.knowbe4.com",
       "articles": [
+        {
+          "id": "https://blog.knowbe4.com/business-email-compromise-impersonates-investment-portals",
+          "author": "Stu Sjouwerman",
+          "description": "A sophisticated scammer group has stolen at least €480 million from victims in France, Belgium, and Luxembourg since 2018, according to researchers at Group-IB. The gang uses a highly detailed scam kit called “CryptosLabs,” which impersonates investment portals from more than forty major European financial entities.",
+          "link": "https://blog.knowbe4.com/business-email-compromise-impersonates-investment-portals",
+          "publishedOn": "2022-12-08T13:58:00.000Z",
+          "wordCount": 2326,
+          "title": "Scammer Group Uses Business Email Compromise to Impersonate European Investment Portals",
+          "imageUrl": "https://blog.knowbe4.com/hubfs/Scammer%20Group%20BEC.jpg#keepProtocol"
+        },
         {
           "id": "https://blog.knowbe4.com/eye-opener-cybersecurity-resilience-emerges-as-top-priority-as-62-of-companies-say-security-incidents-impacted-business-operations",
           "author": "Stu Sjouwerman",
@@ -3935,6 +4015,22 @@
       "feedUrl": "https://thehackernews.com/feeds/posts/default",
       "siteUrl": "https://thehackernews.com",
       "articles": [
+        {
+          "id": "https://thehackernews.com/2022/12/researchers-uncover-darknet-service.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Researchers have shed light on a new hybrid malware campaign targeting both Android and Windows operating systems in a bid to expand its pool of victims.\nThe attacks entail the use of different malware such as ERMAC, Erbium, Aurora, and Laplas, according to a ThreatFabric report shared with The Hacker News.\n\"This campaign resulted in thousands of victims,\" the Dutch cybersecurity company said,",
+          "link": "https://thehackernews.com/2022/12/researchers-uncover-darknet-service.html",
+          "publishedOn": "2022-12-08T16:16:00.000Z",
+          "wordCount": null,
+          "title": "Researchers Uncover Darknet Service Allowing Hackers to Trojonize Legit Android Apps",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhOwM4QU1W7ICA931NjHcIeWep_dmFRuPbubiGJogsVwcOGRO8Ndbj61LKAhJzXGYUNKToGXtufxpvNfxFpLAB2bqXCLyRoz7NCzjCvEOw1Ti1PbZS0uG6rjA_IPSJ5tSspXOCZNb09eS_V0UtKSIHG9Ol4jE2erFjOLxFGxJLJNC3cjqi7hLSgmMo5/s1600/malware.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhOwM4QU1W7ICA931NjHcIeWep_dmFRuPbubiGJogsVwcOGRO8Ndbj61LKAhJzXGYUNKToGXtufxpvNfxFpLAB2bqXCLyRoz7NCzjCvEOw1Ti1PbZS0uG6rjA_IPSJ5tSspXOCZNb09eS_V0UtKSIHG9Ol4jE2erFjOLxFGxJLJNC3cjqi7hLSgmMo5/s1600/malware.png"
+        },
         {
           "id": "https://thehackernews.com/2022/12/covid-bit-new-covert-channel-to.html",
           "author": "info@thehackernews.com (The Hacker News)",
@@ -5566,28 +5662,6 @@
           "publishedOn": "2022-11-09T10:15:00.000Z",
           "wordCount": null,
           "title": "New IceXLoader Malware Loader Variant Infected Thousands of Victims Worldwide",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "tag:blogger.com,1999:blog-4802841478634147276.post-637518435601545030",
-          "author": "noreply@blogger.com (Ravie Lakshmanan)",
-          "description": "VMware has patched five security flaws affecting its Workspace ONE Assist solution, some of which could be exploited to bypass authentication and obtain elevated permissions.\nTopping the list, are three critical vulnerabilities tracked as CVE-2022-31685, CVE-2022-31686, and CVE-2022-31687. All the shortcomings are rated 9.8 on the CVSS vulnerability scoring system.\nCVE-2022-31685 is an",
-          "link": "https://thehackernews.com/2022/11/vmware-warns-of-3-new-critical-flaws.html",
-          "publishedOn": "2022-11-09T06:04:00.000Z",
-          "wordCount": null,
-          "title": "VMware Warns of 3 New Critical Flaws Affecting Workspace ONE Assist Software",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "tag:blogger.com,1999:blog-4802841478634147276.post-625335700058908489",
-          "author": "noreply@blogger.com (Ravie Lakshmanan)",
-          "description": "Microsoft's latest round of monthly security updates has been released with fixes for 68 vulnerabilities spanning its software portfolio, including patches for six actively exploited zero-days.\n12 of the issues are rated Critical, two are rated High, and 55 are rated Important in severity. This also includes the weaknesses that were closed out by OpenSSL the previous week.\nAlso separately",
-          "link": "https://thehackernews.com/2022/11/install-latest-windows-update-asap.html",
-          "publishedOn": "2022-11-09T05:16:00.000Z",
-          "wordCount": null,
-          "title": "Install Latest Windows Update ASAP! Patches Issued for 6 Actively Exploited Zero-Days",
           "itunes": {},
           "imageUrl": null
         }
