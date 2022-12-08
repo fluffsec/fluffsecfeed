@@ -341,6 +341,96 @@
       "siteUrl": "https://www.darkreading.com",
       "articles": [
         {
+          "id": "https://www.darkreading.com/vulnerabilities-threats/hacker-fails-for-the-win",
+          "author": "Kelly Jackson Higgins, Editor-in-Chief, Dark Reading",
+          "description": "Security researchers share their biggest initial screwups in some of their key vulnerability discoveries.",
+          "link": "https://www.darkreading.com/vulnerabilities-threats/hacker-fails-for-the-win",
+          "publishedOn": "2022-12-08T01:55:00.000Z",
+          "wordCount": 10705,
+          "title": "Hacker Fails for the Win",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltb0e0f8e307c2012b/615dfe95486c9a5b53695aa0/KJH.PNG",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltb0e0f8e307c2012b/615dfe95486c9a5b53695aa0/KJH.PNG"
+        },
+        {
+          "id": "https://www.darkreading.com/cloud/rackspace-incident-highlights-disruptive-attacks-on-cloud-providers",
+          "author": "Jai Vijayan, Contributing Writer, Dark Reading",
+          "description": "A ransomware attack on the company's Hosted Exchange environment disrupted email for thousands of mostly small and midsize businesses.",
+          "link": "https://www.darkreading.com/cloud/rackspace-incident-highlights-disruptive-attacks-on-cloud-providers",
+          "publishedOn": "2022-12-07T22:40:00.000Z",
+          "wordCount": 12516,
+          "title": "Rackspace Incident Highlights How Disruptive Attacks on Cloud Providers Can Be",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt02d79fb9a44a4258/60b1e9dd2a25046b35110696/Jai-Vijayan.jpeg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt02d79fb9a44a4258/60b1e9dd2a25046b35110696/Jai-Vijayan.jpeg"
+        },
+        {
+          "id": "https://www.darkreading.com/threat-intelligence/fraudsters-siphon-360m-fake-shoppers",
+          "author": "Robert Lemos, Contributing Writer, Dark Reading",
+          "description": "Cyberattackers focused on ad fraud and clickjacking stole millions during Black Friday by hijacking shopper accounts and tying up transactions.",
+          "link": "https://www.darkreading.com/threat-intelligence/fraudsters-siphon-360m-fake-shoppers",
+          "publishedOn": "2022-12-07T22:00:00.000Z",
+          "wordCount": 11337,
+          "title": "Fraudsters Siphon $360M From Retailers Using 50M Fake Shoppers",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt58481326324d6911/60b1e9a55d34de550780a990/Robert-Lemos.png",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt58481326324d6911/60b1e9a55d34de550780a990/Robert-Lemos.png"
+        },
+        {
+          "id": "https://www.darkreading.com/application-security/android-serves-up-slew-security-updates-4-critical",
+          "author": "Dark Reading Staff, Dark Reading",
+          "description": "Out of more than 80 flaws fixed this month, the most critical was a system component bug that could allow RCE over Bluetooth.",
+          "link": "https://www.darkreading.com/application-security/android-serves-up-slew-security-updates-4-critical",
+          "publishedOn": "2022-12-07T21:42:21.000Z",
+          "wordCount": 8503,
+          "title": "Android Serves Up a Slew of Security Updates, 4 Critical",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blte161b23f0fd3a84b/60b1ea374e7eb868c4c6a293/dr_staff_125x125.jpg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blte161b23f0fd3a84b/60b1ea374e7eb868c4c6a293/dr_staff_125x125.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/dr-tech/key-security-announcements-from-aws-re-invent-2022",
+          "author": "Jeffrey Schwartz, Contributing Writer, Dark Reading",
+          "description": "At AWS re:Invent last week, the cloud giant previewed security services including Amazon Security Lake for security telemetry, Verified Permissions for developers, and a VPN bypass service.",
+          "link": "https://www.darkreading.com/dr-tech/key-security-announcements-from-aws-re-invent-2022",
+          "publishedOn": "2022-12-07T21:18:00.000Z",
+          "wordCount": 11720,
+          "title": "Key Security Announcements From AWS re:Invent 2022",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blta28fcad87ff558b7/627c0108726e3315b16b464c/Jeff_Schwartz_headshot-sq.png",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blta28fcad87ff558b7/627c0108726e3315b16b464c/Jeff_Schwartz_headshot-sq.png"
+        },
+        {
+          "id": "https://www.darkreading.com/attacks-breaches/4-arrested-for-filing-fake-tax-returns-with-stolen-data",
+          "author": "Dark Reading Staff, Dark Reading",
+          "description": "Cybercrooks allegedly stole personal data, used it to file IRS tax documents, and routed refunds to bank accounts under their control.",
+          "link": "https://www.darkreading.com/attacks-breaches/4-arrested-for-filing-fake-tax-returns-with-stolen-data",
+          "publishedOn": "2022-12-07T20:05:00.000Z",
+          "wordCount": 9110,
+          "title": "4 Arrested for Filing Fake Tax Returns With Stolen Data",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blte161b23f0fd3a84b/60b1ea374e7eb868c4c6a293/dr_staff_125x125.jpg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blte161b23f0fd3a84b/60b1ea374e7eb868c4c6a293/dr_staff_125x125.jpg"
+        },
+        {
           "id": "https://www.darkreading.com/attacks-breaches/will-new-cisa-guidelines-help-bolster-cyber-defenses-",
           "author": "Roel Decneut, Chief Strategy Officer, Lansweeper",
           "description": "Learn how BOD 23-01 asset inventory mandates can help all organizations tighten cybersecurity.",
@@ -5584,39 +5674,6 @@
           "publishedOn": "2022-11-08T14:52:00.000Z",
           "wordCount": null,
           "title": "Amadey Bot Spotted Deploying LockBit 3.0 Ransomware on Hacked Machines",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "tag:blogger.com,1999:blog-4802841478634147276.post-1929103903237117996",
-          "author": "noreply@blogger.com (Ravie Lakshmanan)",
-          "description": "Cryptocurrency users are being targeted with a new clipper malware strain dubbed Laplas by means of another malware known as SmokeLoader.\nSmokeLoader, which is delivered by means of weaponized documents sent through spear-phishing emails, further acts as a conduit for other commodity trojans like SystemBC and Raccoon Stealer 2.0, according to an analysis from Cyble.\n\nObserved in",
-          "link": "https://thehackernews.com/2022/11/new-laplas-clipper-malware-targeting.html",
-          "publishedOn": "2022-11-08T13:40:00.000Z",
-          "wordCount": null,
-          "title": "New Laplas Clipper Malware Targeting Cryptocurrency Users via SmokeLoader",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "tag:blogger.com,1999:blog-4802841478634147276.post-3097957808977532785",
-          "author": "noreply@blogger.com (Ravie Lakshmanan)",
-          "description": "The U.S. Department of Justice (DoJ) on Monday said it seized 50,676 Bitcoin in November 2021 that was stolen in the 2012 hack of the now-defunct Silk Road dark web marketplace.\nThe bitcoin, which was obtained in 2012 and valued at $3.36 billion when it was discovered last year, is now worth $1.04 billion. Additionally recovered were $661,900 in cash, 25 Casascius coins with an approximate value",
-          "link": "https://thehackernews.com/2022/11/us-seizes-over-50k-bitcoin-worth-33.html",
-          "publishedOn": "2022-11-08T11:37:00.000Z",
-          "wordCount": null,
-          "title": "U.S. Seizes Over 50K Bitcoin Worth $3.3 Billion Linked to Silk Road Dark Web",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "tag:blogger.com,1999:blog-4802841478634147276.post-4204978718005790730",
-          "author": "noreply@blogger.com (The Hacker News)",
-          "description": "The news surrounding the slowing economy has many wondering how much of an impact it will have on their businesses – and lives. And there's good reason to start preparing. \nA recent survey by McKinsey & Company found that 85% of small and midsize businesses plan to increase their security spending heading into 2023, while Gartner recently projected that 2022 IT spending will only grow by 3%,",
-          "link": "https://thehackernews.com/2022/11/5-reasons-to-consolidate-your-tech-stack.html",
-          "publishedOn": "2022-11-08T11:30:00.000Z",
-          "wordCount": null,
-          "title": "5 Reasons to Consolidate Your Tech Stack",
           "itunes": {},
           "imageUrl": null
         }

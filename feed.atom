@@ -2,10 +2,70 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-07T19:16:41.022Z</updated>
+    <updated>2022-12-08T02:22:13.810Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Hacker Fails for the Win]]></title>
+        <id>https://www.darkreading.com/vulnerabilities-threats/hacker-fails-for-the-win</id>
+        <link href="https://www.darkreading.com/vulnerabilities-threats/hacker-fails-for-the-win"/>
+        <updated>2022-12-08T01:55:00.000Z</updated>
+        <summary type="html"><![CDATA[Security researchers share their biggest initial screwups in some of their key vulnerability discoveries.]]></summary>
+        <author>
+            <name>Kelly Jackson Higgins, Editor-in-Chief, Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rackspace Incident Highlights How Disruptive Attacks on Cloud Providers Can Be]]></title>
+        <id>https://www.darkreading.com/cloud/rackspace-incident-highlights-disruptive-attacks-on-cloud-providers</id>
+        <link href="https://www.darkreading.com/cloud/rackspace-incident-highlights-disruptive-attacks-on-cloud-providers"/>
+        <updated>2022-12-07T22:40:00.000Z</updated>
+        <summary type="html"><![CDATA[A ransomware attack on the company's Hosted Exchange environment disrupted email for thousands of mostly small and midsize businesses.]]></summary>
+        <author>
+            <name>Jai Vijayan, Contributing Writer, Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fraudsters Siphon $360M From Retailers Using 50M Fake Shoppers]]></title>
+        <id>https://www.darkreading.com/threat-intelligence/fraudsters-siphon-360m-fake-shoppers</id>
+        <link href="https://www.darkreading.com/threat-intelligence/fraudsters-siphon-360m-fake-shoppers"/>
+        <updated>2022-12-07T22:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Cyberattackers focused on ad fraud and clickjacking stole millions during Black Friday by hijacking shopper accounts and tying up transactions.]]></summary>
+        <author>
+            <name>Robert Lemos, Contributing Writer, Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Android Serves Up a Slew of Security Updates, 4 Critical]]></title>
+        <id>https://www.darkreading.com/application-security/android-serves-up-slew-security-updates-4-critical</id>
+        <link href="https://www.darkreading.com/application-security/android-serves-up-slew-security-updates-4-critical"/>
+        <updated>2022-12-07T21:42:21.000Z</updated>
+        <summary type="html"><![CDATA[Out of more than 80 flaws fixed this month, the most critical was a system component bug that could allow RCE over Bluetooth.]]></summary>
+        <author>
+            <name>Dark Reading Staff, Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Key Security Announcements From AWS re:Invent 2022]]></title>
+        <id>https://www.darkreading.com/dr-tech/key-security-announcements-from-aws-re-invent-2022</id>
+        <link href="https://www.darkreading.com/dr-tech/key-security-announcements-from-aws-re-invent-2022"/>
+        <updated>2022-12-07T21:18:00.000Z</updated>
+        <summary type="html"><![CDATA[At AWS re:Invent last week, the cloud giant previewed security services including Amazon Security Lake for security telemetry, Verified Permissions for developers, and a VPN bypass service.]]></summary>
+        <author>
+            <name>Jeffrey Schwartz, Contributing Writer, Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[4 Arrested for Filing Fake Tax Returns With Stolen Data]]></title>
+        <id>https://www.darkreading.com/attacks-breaches/4-arrested-for-filing-fake-tax-returns-with-stolen-data</id>
+        <link href="https://www.darkreading.com/attacks-breaches/4-arrested-for-filing-fake-tax-returns-with-stolen-data"/>
+        <updated>2022-12-07T20:05:00.000Z</updated>
+        <summary type="html"><![CDATA[Cybercrooks allegedly stole personal data, used it to file IRS tax documents, and routed refunds to bank accounts under their control.]]></summary>
+        <author>
+            <name>Dark Reading Staff, Dark Reading</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Will New CISA Guidelines Help Bolster Cyber Defenses?]]></title>
         <id>https://www.darkreading.com/attacks-breaches/will-new-cisa-guidelines-help-bolster-cyber-defenses-</id>
@@ -4820,41 +4880,6 @@ This product is provided subject to this Notification and this Privacy & Use pol
         <summary type="html"><![CDATA[Call on security industry to collaborate on a standard framework to close the gap on the human element in cybersecurity.]]></summary>
         <author>
             <name>Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Laplas Clipper Malware Targeting Cryptocurrency Users via SmokeLoader]]></title>
-        <id>tag:blogger.com,1999:blog-4802841478634147276.post-1929103903237117996</id>
-        <link href="https://thehackernews.com/2022/11/new-laplas-clipper-malware-targeting.html"/>
-        <updated>2022-11-08T13:40:00.000Z</updated>
-        <summary type="html"><![CDATA[Cryptocurrency users are being targeted with a new clipper malware strain dubbed Laplas by means of another malware known as SmokeLoader.
-SmokeLoader, which is delivered by means of weaponized documents sent through spear-phishing emails, further acts as a conduit for other commodity trojans like SystemBC and Raccoon Stealer 2.0, according to an analysis from Cyble.
-
-Observed in]]></summary>
-        <author>
-            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[U.S. Seizes Over 50K Bitcoin Worth $3.3 Billion Linked to Silk Road Dark Web]]></title>
-        <id>tag:blogger.com,1999:blog-4802841478634147276.post-3097957808977532785</id>
-        <link href="https://thehackernews.com/2022/11/us-seizes-over-50k-bitcoin-worth-33.html"/>
-        <updated>2022-11-08T11:37:00.000Z</updated>
-        <summary type="html"><![CDATA[The U.S. Department of Justice (DoJ) on Monday said it seized 50,676 Bitcoin in November 2021 that was stolen in the 2012 hack of the now-defunct Silk Road dark web marketplace.
-The bitcoin, which was obtained in 2012 and valued at $3.36 billion when it was discovered last year, is now worth $1.04 billion. Additionally recovered were $661,900 in cash, 25 Casascius coins with an approximate value]]></summary>
-        <author>
-            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[5 Reasons to Consolidate Your Tech Stack]]></title>
-        <id>tag:blogger.com,1999:blog-4802841478634147276.post-4204978718005790730</id>
-        <link href="https://thehackernews.com/2022/11/5-reasons-to-consolidate-your-tech-stack.html"/>
-        <updated>2022-11-08T11:30:00.000Z</updated>
-        <summary type="html"><![CDATA[The news surrounding the slowing economy has many wondering how much of an impact it will have on their businesses – and lives. And there's good reason to start preparing. 
-A recent survey by McKinsey & Company found that 85% of small and midsize businesses plan to increase their security spending heading into 2023, while Gartner recently projected that 2022 IT spending will only grow by 3%,]]></summary>
-        <author>
-            <name>noreply@blogger.com (The Hacker News)</name>
         </author>
     </entry>
     <entry>
