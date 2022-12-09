@@ -2,10 +2,100 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-08T19:16:34.390Z</updated>
+    <updated>2022-12-09T02:22:10.418Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[3 Ways Attackers Bypass Cloud Security]]></title>
+        <id>https://www.darkreading.com/cloud/3-ways-attackers-bypass-cloud-security</id>
+        <link href="https://www.darkreading.com/cloud/3-ways-attackers-bypass-cloud-security"/>
+        <updated>2022-12-09T00:34:00.000Z</updated>
+        <summary type="html"><![CDATA[At Black Hat Europe, a security researcher details the main evasion techniques attackers are currently using in the cloud.]]></summary>
+        <author>
+            <name>Kelly Jackson Higgins, Editor-in-Chief, Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CNAPP Shines a Light Into Evolving Cloud Environments]]></title>
+        <id>https://www.darkreading.com/dr-tech/cnapp-shines-a-light-into-evolving-cloud-environments</id>
+        <link href="https://www.darkreading.com/dr-tech/cnapp-shines-a-light-into-evolving-cloud-environments"/>
+        <updated>2022-12-08T23:20:00.000Z</updated>
+        <summary type="html"><![CDATA[Cloud-native application protection platform (CNAPP) addresses security challenges in multicloud environments, including integrating applications across multicloud or hybrid cloud environments.]]></summary>
+        <author>
+            <name>Nathan Eddy, Contributing Writer, Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Agrius Iranian APT Group Cuts Into Diamond Industry]]></title>
+        <id>https://www.darkreading.com/attacks-breaches/agrius-iranian-apt-group-cuts-into-diamond-industry</id>
+        <link href="https://www.darkreading.com/attacks-breaches/agrius-iranian-apt-group-cuts-into-diamond-industry"/>
+        <updated>2022-12-08T22:18:00.000Z</updated>
+        <summary type="html"><![CDATA[The supply chain attack is piggybacking off an earlier breach to deploy new wiper malware.]]></summary>
+        <author>
+            <name>Dark Reading Staff, Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Incident Response Actions are Systematically Reverse by Hackers to Maintain Persistence]]></title>
+        <id>https://blog.knowbe4.com/incident-response-actions-are-systematically-reverse-by-hackers-to-maintain-persistence</id>
+        <link href="https://blog.knowbe4.com/incident-response-actions-are-systematically-reverse-by-hackers-to-maintain-persistence"/>
+        <updated>2022-12-08T21:33:52.000Z</updated>
+        <summary type="html"><![CDATA[Analysis of attacks on two cellular carriers have resulted in the identification of threat actions designed to undo mitigations taken by security teams mid-attack.]]></summary>
+        <author>
+            <name>Stu Sjouwerman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New Modular Attack Chain Found That Allows Attackers to Change Payloads Mid-Breach]]></title>
+        <id>https://blog.knowbe4.com/new-modular-attack-chain-found-that-allows-attackers-to-change-payloads-mid-breach</id>
+        <link href="https://blog.knowbe4.com/new-modular-attack-chain-found-that-allows-attackers-to-change-payloads-mid-breach"/>
+        <updated>2022-12-08T21:33:45.000Z</updated>
+        <summary type="html"><![CDATA[We’ve long known developers of cyberattacks to be crafty and focus a lot of energy on obfuscation, but a new attack can shift gears midstream, delivering just the right malware.]]></summary>
+        <author>
+            <name>Stu Sjouwerman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Do I Use the Domain Score to Determine if a Domain Is a Threat?]]></title>
+        <id>https://www.darkreading.com/edge-ask-the-experts/how-do-i-use-the-domain-score-to-determine-if-a-domain-is-a-threat</id>
+        <link href="https://www.darkreading.com/edge-ask-the-experts/how-do-i-use-the-domain-score-to-determine-if-a-domain-is-a-threat"/>
+        <updated>2022-12-08T20:33:00.000Z</updated>
+        <summary type="html"><![CDATA[To be most effective, protective DNS services need to constantly reassess and rescore domains as additional data comes in.]]></summary>
+        <author>
+            <name>Dave Mitchell, CTO, HYAS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Single Sign-on: It's Only as Good as Your Ability to Use It]]></title>
+        <id>https://www.darkreading.com/endpoint/single-sign-on-it-s-only-as-good-as-your-ability-to-use-it</id>
+        <link href="https://www.darkreading.com/endpoint/single-sign-on-it-s-only-as-good-as-your-ability-to-use-it"/>
+        <updated>2022-12-08T20:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Increased federal cybersecurity regulations provide a pivot point for manufacturers to reconsider their access management strategy.]]></summary>
+        <author>
+            <name>Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lack of Cybersecurity Expertise Poses Threat for Public-Safety Orgs]]></title>
+        <id>https://www.darkreading.com/remote-workforce/lack-cybersecurity-expertise-poses-threat-public-safety-orgs</id>
+        <link href="https://www.darkreading.com/remote-workforce/lack-cybersecurity-expertise-poses-threat-public-safety-orgs"/>
+        <updated>2022-12-08T19:29:36.000Z</updated>
+        <summary type="html"><![CDATA[More than three-quarters of police and emergency responders worry about ransomware attacks and data leaks, while their organizations lag behind in technology adoption.]]></summary>
+        <author>
+            <name>Robert Lemos, Contributing Writer, Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[APT37 Uses Internet Explorer Zero-Day to Spread Malware]]></title>
+        <id>https://www.darkreading.com/remote-workforce/apt37-internet-explorer-zero-day-malware</id>
+        <link href="https://www.darkreading.com/remote-workforce/apt37-internet-explorer-zero-day-malware"/>
+        <updated>2022-12-08T19:00:00.000Z</updated>
+        <summary type="html"><![CDATA[IE is still a vector: South Koreans lured in with references to the deadly Halloween celebration crowd crush in Seoul last October.]]></summary>
+        <author>
+            <name>Dark Reading Staff, Dark Reading</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CISA Releases Phishing Infographic]]></title>
         <id>18196 at https://us-cert.cisa.gov</id>
@@ -4787,85 +4877,6 @@ This product is provided subject to this Notification and this Privacy & Use pol
         <summary type="html"><![CDATA[The market growth is driven by the convergence of IT and OT systems. By region, North America is estimated to account for the largest market size during the forecast period.]]></summary>
         <author>
             <name>Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cookie-stealing Feature Added by Phishing-as-a-Service Provider To Bypass MFA]]></title>
-        <id>https://blog.knowbe4.com/phishing-as-a-service-cookie-stealing-feature</id>
-        <link href="https://blog.knowbe4.com/phishing-as-a-service-cookie-stealing-feature"/>
-        <updated>2022-11-09T13:50:47.000Z</updated>
-        <summary type="html"><![CDATA[The Robin Banks phishing-as-a-service platform now has a feature to bypass multi-factor authentication by stealing login session cookies, according to researchers at IronNet. The phishing kit’s developer used an open-source tool to implement this feature, which targets Google, Yahoo, and Outlook accounts.]]></summary>
-        <author>
-            <name>Stu Sjouwerman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[APT29 Exploited a Windows Feature to Compromise European Diplomatic Entity Network]]></title>
-        <id>tag:blogger.com,1999:blog-4802841478634147276.post-8545730526178221552</id>
-        <link href="https://thehackernews.com/2022/11/apt29-exploited-windows-feature-to.html"/>
-        <updated>2022-11-09T13:47:00.000Z</updated>
-        <summary type="html"><![CDATA[The Russia-linked APT29 nation-state actor has been found leveraging a "lesser-known" Windows feature called Credential Roaming as part of its attack against an unnamed European diplomatic entity.
-"The diplomatic-centric targeting is consistent with Russian strategic priorities as well as historic APT29 targeting," Mandiant researcher Thibault Van Geluwe de Berlaere said in a technical write-up.]]></summary>
-        <author>
-            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Several Cyber Attacks Observed Leveraging IPFS Decentralized Network]]></title>
-        <id>tag:blogger.com,1999:blog-4802841478634147276.post-3373385546410709386</id>
-        <link href="https://thehackernews.com/2022/11/several-cyber-attacks-observed.html"/>
-        <updated>2022-11-09T13:06:00.000Z</updated>
-        <summary type="html"><![CDATA[A number of phishing campaigns are leveraging the decentralized Interplanetary Filesystem (IPFS) network to host malware, phishing kit infrastructure, and facilitate other attacks.
-"Multiple malware families are currently being hosted within IPFS and retrieved during the initial stages of malware attacks," Cisco Talos researcher Edmund Brumaghin said in an analysis shared with The Hacker News.]]></summary>
-        <author>
-            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[EYES OUT] This Scary Strain of Sleeper Ransomware Is Really a Data Wiper in Disguise]]></title>
-        <id>https://blog.knowbe4.com/eyes-out-this-scary-strain-of-sleeper-ransomware-is-really-a-data-wiper-in-disguise</id>
-        <link href="https://blog.knowbe4.com/eyes-out-this-scary-strain-of-sleeper-ransomware-is-really-a-data-wiper-in-disguise"/>
-        <updated>2022-11-09T11:54:55.000Z</updated>
-        <summary type="html"><![CDATA[This Data wiper replaces every other 666 bytes of data with junk. Techradar reported that a new data-wiping malware has been detected, infecting more and more endpoints with each passing day - but what's most curious is that it poses as ransomware.]]></summary>
-        <author>
-            <name>Stu Sjouwerman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Experts Warn of Browser Extensions Spying On Users via Cloud9 Chrome Botnet Network]]></title>
-        <id>tag:blogger.com,1999:blog-4802841478634147276.post-8960265746040530994</id>
-        <link href="https://thehackernews.com/2022/11/experts-warn-of-browser-extensions.html"/>
-        <updated>2022-11-09T11:01:00.000Z</updated>
-        <summary type="html"><![CDATA[The Keksec threat actor has been linked to a previously undocumented malware strain, which has been observed in the wild masquerading as an extension for Chromium-based web browsers to enslave compromised machines into a botnet.
-Called Cloud9 by security firm Zimperium, the malicious browser add-on comes with a wide range of features that enables it to siphon cookies, log keystrokes, inject]]></summary>
-        <author>
-            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Top 5 API Security Myths That Are Crushing Your Business]]></title>
-        <id>tag:blogger.com,1999:blog-4802841478634147276.post-586045615866483548</id>
-        <link href="https://thehackernews.com/2022/11/top-5-api-security-myths-that-are.html"/>
-        <updated>2022-11-09T10:18:00.000Z</updated>
-        <summary type="html"><![CDATA[There are several myths and misconceptions about API security. These myths about securing APIs are crushing your business. 
-Why so? Because these myths are widening your security gaps. This is making it easier for attackers to abuse APIs. And API attacks are costly. Of course, you will have to bear financial losses. But there are other consequences too: 
-
-Reputational damage 
-Customer attrition]]></summary>
-        <author>
-            <name>noreply@blogger.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New IceXLoader Malware Loader Variant Infected Thousands of Victims Worldwide]]></title>
-        <id>tag:blogger.com,1999:blog-4802841478634147276.post-2946277209061741860</id>
-        <link href="https://thehackernews.com/2022/11/new-icexloader-malware-loader-variant.html"/>
-        <updated>2022-11-09T10:15:00.000Z</updated>
-        <summary type="html"><![CDATA[An updated version of a malware loader codenamed IceXLoader is suspected of having compromised thousands of personal and enterprise Windows machines across the world.
-IceXLoader is a commodity malware that's sold for $118 on underground forums for a lifetime license. It's chiefly employed to download and execute additional malware on breached hosts.
-This past June, Fortinet FortiGuard Labs said]]></summary>
-        <author>
-            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
         </author>
     </entry>
     <entry>
