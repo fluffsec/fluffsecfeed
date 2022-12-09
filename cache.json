@@ -251,26 +251,6 @@
           "wordCount": 919,
           "title": "CISA Updates Advisory on Threat Actors Exploiting Multiple CVEs Against Zimbra Collaboration Suite",
           "imageUrl": null
-        },
-        {
-          "id": "18134 at https://us-cert.cisa.gov",
-          "author": "CISA",
-          "description": "Original release date: November 9, 2022\nMicrosoft has released updates to address multiple vulnerabilities in Microsoft software. An attacker can exploit some of these vulnerabilities to take control of an affected system.\nCISA encourages users and administrators to review Microsoft’s November 2022 Security Update Guide and Deployment Information and apply the necessary updates.\nThis product is provided subject to this Notification and this Privacy & Use policy.",
-          "link": "https://us-cert.cisa.gov/ncas/current-activity/2022/11/09/microsoft-releases-november-2022-security-updates",
-          "publishedOn": "2022-11-09T23:18:40.000Z",
-          "wordCount": 886,
-          "title": "Microsoft Releases November 2022 Security Updates",
-          "imageUrl": null
-        },
-        {
-          "id": "18133 at https://us-cert.cisa.gov",
-          "author": "CISA",
-          "description": "Original release date: November 9, 2022\nVMware has released security updates to address multiple vulnerabilities in VMware Workspace ONE Assist. A remote attacker could exploit one of these vulnerabilities to take control of an affected system.\nCISA encourages users and administrators to review VMware Security Advisory VMSA-2022-0028 and apply the necessary updates and workarounds.\nThis product is provided subject to this Notification and this Privacy & Use policy.",
-          "link": "https://us-cert.cisa.gov/ncas/current-activity/2022/11/09/vmware-releases-security-updates",
-          "publishedOn": "2022-11-09T21:05:40.000Z",
-          "wordCount": 881,
-          "title": "VMware Releases Security Updates",
-          "imageUrl": null
         }
       ]
     },
@@ -3259,96 +3239,6 @@
             "length": "0"
           },
           "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltd5bdb2abbf9c49ff/62bb447b7c47440e14f7bb80/Braunberg_Bio_Pic.jpeg"
-        },
-        {
-          "id": "https://www.darkreading.com/threat-intelligence/malicious-pypi-package-steganography-download-malware",
-          "author": "Fahmida Y. Rashid, Managing Editor, Features, Dark Reading",
-          "description": "The malicious package downloads an image from the Web, then uses a steganography module to extract and execute the code to download malware.",
-          "link": "https://www.darkreading.com/threat-intelligence/malicious-pypi-package-steganography-download-malware",
-          "publishedOn": "2022-11-09T23:39:00.000Z",
-          "wordCount": 11217,
-          "title": "Malicious Python Package Relies on Steganography to Download Malware",
-          "enclosure": {
-            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt93784ffee79538e7/60d4371522d24e38a3806ecf/fahmida.png",
-            "type": "image/*",
-            "length": "0"
-          },
-          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt93784ffee79538e7/60d4371522d24e38a3806ecf/fahmida.png"
-        },
-        {
-          "id": "https://www.darkreading.com/vulnerabilities-threats/patch-asap-critical-citrix-vmware-bugs-remote-workspaces-takeover",
-          "author": "Tara Seals, Managing Editor, News, Dark Reading",
-          "description": "Hole-y software alert, Batman: Cybercriminal faves Citrix Gateway and VMware Workspace ONE have authentication-bypass bugs that could offer up total access to attackers.",
-          "link": "https://www.darkreading.com/vulnerabilities-threats/patch-asap-critical-citrix-vmware-bugs-remote-workspaces-takeover",
-          "publishedOn": "2022-11-09T23:05:00.000Z",
-          "wordCount": 12535,
-          "title": "Patch ASAP: Critical Citrix, VMware Bugs Threaten Remote Workspaces With Takeover",
-          "enclosure": {
-            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltea67136f81f32eca/626a9eb4726e3315b16b3c64/Tara-Seals-Headshot2.jpg",
-            "type": "image/*",
-            "length": "0"
-          },
-          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltea67136f81f32eca/626a9eb4726e3315b16b3c64/Tara-Seals-Headshot2.jpg"
-        },
-        {
-          "id": "https://www.darkreading.com/vulnerabilities-threats/use-of-interplanetary-file-system-for-phishing-malware-distribution-is-growing",
-          "author": "Jai Vijayan, Contributing Writer, Dark Reading",
-          "description": "Cyberattackers like IPFS because it is resilient to content blocking and takedown efforts.",
-          "link": "https://www.darkreading.com/vulnerabilities-threats/use-of-interplanetary-file-system-for-phishing-malware-distribution-is-growing",
-          "publishedOn": "2022-11-09T22:45:00.000Z",
-          "wordCount": 13206,
-          "title": "InterPlanetary File System Increasingly Weaponized for Phishing, Malware Delivery",
-          "enclosure": {
-            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt02d79fb9a44a4258/60b1e9dd2a25046b35110696/Jai-Vijayan.jpeg",
-            "type": "image/*",
-            "length": "0"
-          },
-          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt02d79fb9a44a4258/60b1e9dd2a25046b35110696/Jai-Vijayan.jpeg"
-        },
-        {
-          "id": "https://www.darkreading.com/edge-articles/how-us-businesses-suffer-from-the-lack-of-personal-data-privacy-laws",
-          "author": "Dimitri Shelest, CEO and founder, OneRep",
-          "description": "The stalling of federal legislation and the continued expansion of data brokers are fueling a phishing epidemic.",
-          "link": "https://www.darkreading.com/edge-articles/how-us-businesses-suffer-from-the-lack-of-personal-data-privacy-laws",
-          "publishedOn": "2022-11-09T21:45:00.000Z",
-          "wordCount": 13377,
-          "title": "How US Businesses Suffer From the Lack of Personal Data Privacy Laws",
-          "enclosure": {
-            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blta03ec8cf99ccfb45/6362f8e2b166a933f891b665/dimitri-shelest-orig.png",
-            "type": "image/*",
-            "length": "0"
-          },
-          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blta03ec8cf99ccfb45/6362f8e2b166a933f891b665/dimitri-shelest-orig.png"
-        },
-        {
-          "id": "https://www.darkreading.com/attacks-breaches/long-island-midterm-votes-delayed-due-to-cyberattack-after-effects",
-          "author": "Dark Reading Staff, Dark Reading",
-          "description": "Suffolk County had to hand deliver voting databases with ballot results to the county election headquarters.",
-          "link": "https://www.darkreading.com/attacks-breaches/long-island-midterm-votes-delayed-due-to-cyberattack-after-effects",
-          "publishedOn": "2022-11-09T20:31:46.000Z",
-          "wordCount": 11060,
-          "title": "Long Island Midterm Votes Delayed Due to Cyberattack Aftereffects",
-          "enclosure": {
-            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blte161b23f0fd3a84b/60b1ea374e7eb868c4c6a293/dr_staff_125x125.jpg",
-            "type": "image/*",
-            "length": "0"
-          },
-          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blte161b23f0fd3a84b/60b1ea374e7eb868c4c6a293/dr_staff_125x125.jpg"
-        },
-        {
-          "id": "https://www.darkreading.com/risk/experian-t-mobile-pay-up-in-multimillion-dollar-data-breach-settlements",
-          "author": "Dark Reading Staff, Dark Reading",
-          "description": "Massachusetts Attorney General announced settlements across multiple states for damages from Experian's 2012 and 2015 breaches that violated consumer protection and notification laws.",
-          "link": "https://www.darkreading.com/risk/experian-t-mobile-pay-up-in-multimillion-dollar-data-breach-settlements",
-          "publishedOn": "2022-11-09T19:39:00.000Z",
-          "wordCount": 10822,
-          "title": "Experian, T-Mobile Pay Up in Multimillion-Dollar Data Breach Settlements",
-          "enclosure": {
-            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blte161b23f0fd3a84b/60b1ea374e7eb868c4c6a293/dr_staff_125x125.jpg",
-            "type": "image/*",
-            "length": "0"
-          },
-          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blte161b23f0fd3a84b/60b1ea374e7eb868c4c6a293/dr_staff_125x125.jpg"
         }
       ]
     },
@@ -4012,16 +3902,6 @@
           "wordCount": 2116,
           "title": "Cyberattacks Globally Increased by 28% in the Third Quarter of 2022 as the Average Org Experiences Over 1,100 Attacks Weekly",
           "imageUrl": "https://blog.knowbe4.com/hubfs/Cyberattacks%20Globally%20Increased.jpg#keepProtocol"
-        },
-        {
-          "id": "https://blog.knowbe4.com/how-to-inspect-sms-url-links-before-clicking",
-          "author": "Roger Grimes",
-          "description": "Phishing via Short Message Service (SMS) texts, what is known as smishing, is becoming increasingly common (some examples are shown below). There is probably not a person on Earth who does not get at least one smishing message a month. It is a big problem.",
-          "link": "https://blog.knowbe4.com/how-to-inspect-sms-url-links-before-clicking",
-          "publishedOn": "2022-11-09T21:39:12.000Z",
-          "wordCount": 3437,
-          "title": "Here Is What You Can Do To Inspect SMS URL Links Before Clicking",
-          "imageUrl": "https://blog.knowbe4.com/hubfs/Social%20Image%20Repository/Evangelist%20Blog%20Social%20Graphics/Evangelists-Roger%20Grimes.jpg#keepProtocol"
         }
       ]
     },
@@ -4030,6 +3910,38 @@
       "feedUrl": "https://thehackernews.com/feeds/posts/default",
       "siteUrl": "https://thehackernews.com",
       "articles": [
+        {
+          "id": "https://thehackernews.com/2022/12/researchers-uncover-new-drokbk-malware.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "The subgroup of an Iranian nation-state group known as Nemesis Kitten has been attributed as behind a previously undocumented custom malware dubbed Drokbk that uses GitHub as a dead drop resolver to exfiltrate data from an infected computer, or to receive commands.\n\"The use of GitHub as a virtual dead drop helps the malware blend in,\" Secureworks principal researcher Rafe Pilling said. \"All the",
+          "link": "https://thehackernews.com/2022/12/researchers-uncover-new-drokbk-malware.html",
+          "publishedOn": "2022-12-09T11:25:00.000Z",
+          "wordCount": null,
+          "title": "Researchers Uncover New Drokbk Malware that Uses GitHub as a Dead Drop Resolver",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEijr3lXe8DVzPMbql7ZqjJ-tb3Rs0DQJUvB-Af-bDyNNlCOjP7NBa0IyF22vruBtVpC22Q5ajVhamPuNiqWhgThlRcaA5vrl7kWGiRlz0emsdKpzBIlqVinnN7KqMfyfFjOj6HOV2ci3HLHR2R9Zq4K1EbMlmMnAZHTPbhjKlwXw0ToQKPhhLhLm4YD/s1600/git.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEijr3lXe8DVzPMbql7ZqjJ-tb3Rs0DQJUvB-Af-bDyNNlCOjP7NBa0IyF22vruBtVpC22Q5ajVhamPuNiqWhgThlRcaA5vrl7kWGiRlz0emsdKpzBIlqVinnN7KqMfyfFjOj6HOV2ci3HLHR2R9Zq4K1EbMlmMnAZHTPbhjKlwXw0ToQKPhhLhLm4YD/s1600/git.png"
+        },
+        {
+          "id": "https://thehackernews.com/2022/12/muddywater-hackers-target-asian-and.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "The Iran-linked MuddyWater threat actor has been observed targeting several countries in the Middle East as well as Central and West Asia as part of a new spear-phishing activity.\n\"The campaign has been observed targeting Armenia, Azerbaijan, Egypt, Iraq, Israel, Jordan, Oman, Qatar, Tajikistan, and the United Arab Emirates,\" Deep Instinct researcher Simon Kenin said in a technical write-up.",
+          "link": "https://thehackernews.com/2022/12/muddywater-hackers-target-asian-and.html",
+          "publishedOn": "2022-12-09T07:43:00.000Z",
+          "wordCount": null,
+          "title": "MuddyWater Hackers Target Asian and Middle East Countries with Updated Tactics",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXHMEBVtzjq7aGTuGsxU3BMNa1zS9vlDbtWJmjjVfMmQk8TCjaSwcEhqaTQrlbydoznrVVq-nOQMc-hJ2iADf4lLcT5gxvU714TGyuNE7-JUDwWng251pZKGNKd4gyLiiU5kM9RHtzS2XJ7_I8nrYXBVq7SrGsJx94EUJ90lHYipGHg5s9jN-YLTiH/s1600/hack.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXHMEBVtzjq7aGTuGsxU3BMNa1zS9vlDbtWJmjjVfMmQk8TCjaSwcEhqaTQrlbydoznrVVq-nOQMc-hJ2iADf4lLcT5gxvU714TGyuNE7-JUDwWng251pZKGNKd4gyLiiU5kM9RHtzS2XJ7_I8nrYXBVq7SrGsJx94EUJ90lHYipGHg5s9jN-YLTiH/s1600/hack.png"
+        },
         {
           "id": "https://thehackernews.com/2022/12/researchers-uncover-darknet-service.html",
           "author": "info@thehackernews.com (The Hacker News)",

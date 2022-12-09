@@ -2,10 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-09T07:18:21.910Z</updated>
+    <updated>2022-12-09T13:26:30.753Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Researchers Uncover New Drokbk Malware that Uses GitHub as a Dead Drop Resolver]]></title>
+        <id>https://thehackernews.com/2022/12/researchers-uncover-new-drokbk-malware.html</id>
+        <link href="https://thehackernews.com/2022/12/researchers-uncover-new-drokbk-malware.html"/>
+        <updated>2022-12-09T11:25:00.000Z</updated>
+        <summary type="html"><![CDATA[The subgroup of an Iranian nation-state group known as Nemesis Kitten has been attributed as behind a previously undocumented custom malware dubbed Drokbk that uses GitHub as a dead drop resolver to exfiltrate data from an infected computer, or to receive commands.
+"The use of GitHub as a virtual dead drop helps the malware blend in," Secureworks principal researcher Rafe Pilling said. "All the]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MuddyWater Hackers Target Asian and Middle East Countries with Updated Tactics]]></title>
+        <id>https://thehackernews.com/2022/12/muddywater-hackers-target-asian-and.html</id>
+        <link href="https://thehackernews.com/2022/12/muddywater-hackers-target-asian-and.html"/>
+        <updated>2022-12-09T07:43:00.000Z</updated>
+        <summary type="html"><![CDATA[The Iran-linked MuddyWater threat actor has been observed targeting several countries in the Middle East as well as Central and West Asia as part of a new spear-phishing activity.
+"The campaign has been observed targeting Armenia, Azerbaijan, Egypt, Iraq, Israel, Jordan, Oman, Qatar, Tajikistan, and the United Arab Emirates," Deep Instinct researcher Simon Kenin said in a technical write-up.]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[3 Ways Attackers Bypass Cloud Security]]></title>
         <id>https://www.darkreading.com/cloud/3-ways-attackers-bypass-cloud-security</id>
@@ -4708,102 +4730,6 @@ UEFI]]></summary>
         <summary type="html"><![CDATA[Risk-based vulnerability management solutions foster the convergence of risk management and vulnerability management. Andrew Braunberg explains what’s driving the emergence of RBVM.]]></summary>
         <author>
             <name>Andrew Braunberg, Principal Analyst, SecOps, Omdia</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Malicious Python Package Relies on Steganography to Download Malware]]></title>
-        <id>https://www.darkreading.com/threat-intelligence/malicious-pypi-package-steganography-download-malware</id>
-        <link href="https://www.darkreading.com/threat-intelligence/malicious-pypi-package-steganography-download-malware"/>
-        <updated>2022-11-09T23:39:00.000Z</updated>
-        <summary type="html"><![CDATA[The malicious package downloads an image from the Web, then uses a steganography module to extract and execute the code to download malware.]]></summary>
-        <author>
-            <name>Fahmida Y. Rashid, Managing Editor, Features, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft Releases November 2022 Security Updates]]></title>
-        <id>18134 at https://us-cert.cisa.gov</id>
-        <link href="https://us-cert.cisa.gov/ncas/current-activity/2022/11/09/microsoft-releases-november-2022-security-updates"/>
-        <updated>2022-11-09T23:18:40.000Z</updated>
-        <summary type="html"><![CDATA[Original release date: November 9, 2022
-Microsoft has released updates to address multiple vulnerabilities in Microsoft software. An attacker can exploit some of these vulnerabilities to take control of an affected system.
-CISA encourages users and administrators to review Microsoft’s November 2022 Security Update Guide and Deployment Information and apply the necessary updates.
-This product is provided subject to this Notification and this Privacy & Use policy.]]></summary>
-        <author>
-            <name>CISA</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Patch ASAP: Critical Citrix, VMware Bugs Threaten Remote Workspaces With Takeover]]></title>
-        <id>https://www.darkreading.com/vulnerabilities-threats/patch-asap-critical-citrix-vmware-bugs-remote-workspaces-takeover</id>
-        <link href="https://www.darkreading.com/vulnerabilities-threats/patch-asap-critical-citrix-vmware-bugs-remote-workspaces-takeover"/>
-        <updated>2022-11-09T23:05:00.000Z</updated>
-        <summary type="html"><![CDATA[Hole-y software alert, Batman: Cybercriminal faves Citrix Gateway and VMware Workspace ONE have authentication-bypass bugs that could offer up total access to attackers.]]></summary>
-        <author>
-            <name>Tara Seals, Managing Editor, News, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[InterPlanetary File System Increasingly Weaponized for Phishing, Malware Delivery]]></title>
-        <id>https://www.darkreading.com/vulnerabilities-threats/use-of-interplanetary-file-system-for-phishing-malware-distribution-is-growing</id>
-        <link href="https://www.darkreading.com/vulnerabilities-threats/use-of-interplanetary-file-system-for-phishing-malware-distribution-is-growing"/>
-        <updated>2022-11-09T22:45:00.000Z</updated>
-        <summary type="html"><![CDATA[Cyberattackers like IPFS because it is resilient to content blocking and takedown efforts.]]></summary>
-        <author>
-            <name>Jai Vijayan, Contributing Writer, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How US Businesses Suffer From the Lack of Personal Data Privacy Laws]]></title>
-        <id>https://www.darkreading.com/edge-articles/how-us-businesses-suffer-from-the-lack-of-personal-data-privacy-laws</id>
-        <link href="https://www.darkreading.com/edge-articles/how-us-businesses-suffer-from-the-lack-of-personal-data-privacy-laws"/>
-        <updated>2022-11-09T21:45:00.000Z</updated>
-        <summary type="html"><![CDATA[The stalling of federal legislation and the continued expansion of data brokers are fueling a phishing epidemic.]]></summary>
-        <author>
-            <name>Dimitri Shelest, CEO and founder, OneRep</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Here Is What You Can Do To Inspect SMS URL Links Before Clicking]]></title>
-        <id>https://blog.knowbe4.com/how-to-inspect-sms-url-links-before-clicking</id>
-        <link href="https://blog.knowbe4.com/how-to-inspect-sms-url-links-before-clicking"/>
-        <updated>2022-11-09T21:39:12.000Z</updated>
-        <summary type="html"><![CDATA[Phishing via Short Message Service (SMS) texts, what is known as smishing, is becoming increasingly common (some examples are shown below). There is probably not a person on Earth who does not get at least one smishing message a month. It is a big problem.]]></summary>
-        <author>
-            <name>Roger Grimes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[VMware Releases Security Updates]]></title>
-        <id>18133 at https://us-cert.cisa.gov</id>
-        <link href="https://us-cert.cisa.gov/ncas/current-activity/2022/11/09/vmware-releases-security-updates"/>
-        <updated>2022-11-09T21:05:40.000Z</updated>
-        <summary type="html"><![CDATA[Original release date: November 9, 2022
-VMware has released security updates to address multiple vulnerabilities in VMware Workspace ONE Assist. A remote attacker could exploit one of these vulnerabilities to take control of an affected system.
-CISA encourages users and administrators to review VMware Security Advisory VMSA-2022-0028 and apply the necessary updates and workarounds.
-This product is provided subject to this Notification and this Privacy & Use policy.]]></summary>
-        <author>
-            <name>CISA</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Long Island Midterm Votes Delayed Due to Cyberattack Aftereffects]]></title>
-        <id>https://www.darkreading.com/attacks-breaches/long-island-midterm-votes-delayed-due-to-cyberattack-after-effects</id>
-        <link href="https://www.darkreading.com/attacks-breaches/long-island-midterm-votes-delayed-due-to-cyberattack-after-effects"/>
-        <updated>2022-11-09T20:31:46.000Z</updated>
-        <summary type="html"><![CDATA[Suffolk County had to hand deliver voting databases with ballot results to the county election headquarters.]]></summary>
-        <author>
-            <name>Dark Reading Staff, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Experian, T-Mobile Pay Up in Multimillion-Dollar Data Breach Settlements]]></title>
-        <id>https://www.darkreading.com/risk/experian-t-mobile-pay-up-in-multimillion-dollar-data-breach-settlements</id>
-        <link href="https://www.darkreading.com/risk/experian-t-mobile-pay-up-in-multimillion-dollar-data-breach-settlements"/>
-        <updated>2022-11-09T19:39:00.000Z</updated>
-        <summary type="html"><![CDATA[Massachusetts Attorney General announced settlements across multiple states for damages from Experian's 2012 and 2015 breaches that violated consumer protection and notification laws.]]></summary>
-        <author>
-            <name>Dark Reading Staff, Dark Reading</name>
         </author>
     </entry>
     <entry>
