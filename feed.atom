@@ -2,10 +2,107 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-09T13:26:30.753Z</updated>
+    <updated>2022-12-09T19:15:54.109Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[7 Ways Gaming Companies Can Battle Cybercrime on Their Platforms]]></title>
+        <id>https://www.darkreading.com/application-security/7-ways-gaming-companies-battle-cybercrime-platforms</id>
+        <link href="https://www.darkreading.com/application-security/7-ways-gaming-companies-battle-cybercrime-platforms"/>
+        <updated>2022-12-09T18:06:00.000Z</updated>
+        <summary type="html"><![CDATA[Balancing gameplay and security can drive down risks and improve gamers' trust and loyalty.]]></summary>
+        <author>
+            <name>Ericka Chickowski, Contributing Writer, Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Using XDR to Consolidate and Optimize Cybersecurity Technology]]></title>
+        <id>https://thehackernews.com/2022/12/using-xdr-to-consolidate-and-optimize.html</id>
+        <link href="https://thehackernews.com/2022/12/using-xdr-to-consolidate-and-optimize.html"/>
+        <updated>2022-12-09T17:50:00.000Z</updated>
+        <summary type="html"><![CDATA[Businesses know they need cybersecurity, but it seems like a new acronym and system is popping up every day. Professionals that aren’t actively researching these technologies can struggle to keep up. As the cybersecurity landscape becomes more complicated, organizations are desperate to simplify it. Frustrated with the inefficiencies that come with using multiple vendors for cybersecurity, often]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New Truebot Malware Variant Leveraging Netwrix Auditor Bug and Raspberry Robin Worm]]></title>
+        <id>https://thehackernews.com/2022/12/new-truebot-malware-variant-leveraging.html</id>
+        <link href="https://thehackernews.com/2022/12/new-truebot-malware-variant-leveraging.html"/>
+        <updated>2022-12-09T17:16:00.000Z</updated>
+        <summary type="html"><![CDATA[Cybersecurity researchers have reported an increase in TrueBot infections, primarily targeting Mexico, Brazil, Pakistan, and the U.S.
+Cisco Talos said the attackers behind the operation have moved from using malicious emails to alternative delivery methods such as the exploitation of a now-patched remote code execution (RCE) flaw in Netwrix auditor as well as the Raspberry Robin worm.
+"]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[43 Trillion Security Data Points Illuminate Our Most Pressing Threats]]></title>
+        <id>https://www.darkreading.com/microsoft/43-trillion-security-data-points-illuminate-our-most-pressing-threats</id>
+        <link href="https://www.darkreading.com/microsoft/43-trillion-security-data-points-illuminate-our-most-pressing-threats"/>
+        <updated>2022-12-09T16:36:09.000Z</updated>
+        <summary type="html"><![CDATA[A new report helps companies understand an ever-changing threat landscape and how to strengthen their defenses against emerging cybersecurity trends.]]></summary>
+        <author>
+            <name>Microsoft Security, Microsoft</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cisco Releases Security Advisory for IP Phone 7800 and 8800 Series]]></title>
+        <id>18198 at https://us-cert.cisa.gov</id>
+        <link href="https://us-cert.cisa.gov/ncas/current-activity/2022/12/09/cisco-releases-security-advisory-ip-phone-7800-and-8800-series"/>
+        <updated>2022-12-09T15:59:30.000Z</updated>
+        <summary type="html"><![CDATA[Original release date: December 9, 2022
+Cisco released a security advisory for a vulnerability affecting IP Phone 7800 and 8800 Series. A remote attacker could exploit this vulnerability to cause a denial-of-service condition. For more information, see the Cisco Security Advisories page.
+CISA encourages users and administrators to review Cisco IP Phone 7800 and 8800 Series Cisco Discovery Protocol Stack Overflow Vulnerability and apply the necessary updates.
+This product is provided subject to this Notification and this Privacy & Use policy.]]></summary>
+        <author>
+            <name>CISA</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Iranian APT Targets US With Drokbk Spyware via GitHub]]></title>
+        <id>https://www.darkreading.com/threat-intelligence/iranian-apt-targets-us-drokbk-spyware-github</id>
+        <link href="https://www.darkreading.com/threat-intelligence/iranian-apt-targets-us-drokbk-spyware-github"/>
+        <updated>2022-12-09T15:04:44.000Z</updated>
+        <summary type="html"><![CDATA[The custom malware used by the state-backed Iranian threat group Drokbk has so far flown under the radar by using GitHub as a "dead-drop resolver" to more easily evade detection.]]></summary>
+        <author>
+            <name>Nathan Eddy, Contributing Writer, Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Naming Can Change the Game in Software Supply Chain Security]]></title>
+        <id>https://www.darkreading.com/vulnerabilities-threats/how-naming-can-change-the-game-in-software-supply-chain-security</id>
+        <link href="https://www.darkreading.com/vulnerabilities-threats/how-naming-can-change-the-game-in-software-supply-chain-security"/>
+        <updated>2022-12-09T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A reliance on CPE names currently makes accurate searching for high-risk security vulnerabilities difficult.]]></summary>
+        <author>
+            <name>Curtis Yanko,  Principal Solutions Architect, GrammaTech</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why is Robust API Security Crucial in eCommerce?]]></title>
+        <id>https://thehackernews.com/2022/12/why-is-robust-api-security-crucial-in.html</id>
+        <link href="https://thehackernews.com/2022/12/why-is-robust-api-security-crucial-in.html"/>
+        <updated>2022-12-09T13:48:00.000Z</updated>
+        <summary type="html"><![CDATA[API attacks are on the rise. One of their major targets is eCommerce firms like yours. 
+APIs are a vital part of how eCommerce businesses are accelerating their growth in the digital world. 
+ECommerce platforms use APIs at all customer touchpoints, from displaying products to handling shipping. Owing to their increased use, APIs are attractive targets for hackers, as the following numbers expose]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google: Use SLSA Framework for Better Software Security]]></title>
+        <id>https://www.darkreading.com/application-security/google-use-slsa-framework-for-better-software-security</id>
+        <link href="https://www.darkreading.com/application-security/google-use-slsa-framework-for-better-software-security"/>
+        <updated>2022-12-09T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Security leaders also need to take a more holistic approach to addressing supply chain risks, company says in new research report.]]></summary>
+        <author>
+            <name>Jai Vijayan, Contributing Writer, Dark Reading</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Researchers Uncover New Drokbk Malware that Uses GitHub as a Dead Drop Resolver]]></title>
         <id>https://thehackernews.com/2022/12/researchers-uncover-new-drokbk-malware.html</id>
@@ -13,6 +110,16 @@
         <updated>2022-12-09T11:25:00.000Z</updated>
         <summary type="html"><![CDATA[The subgroup of an Iranian nation-state group known as Nemesis Kitten has been attributed as behind a previously undocumented custom malware dubbed Drokbk that uses GitHub as a dead drop resolver to exfiltrate data from an infected computer, or to receive commands.
 "The use of GitHub as a virtual dead drop helps the malware blend in," Secureworks principal researcher Rafe Pilling said. "All the]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What Stricter Data Privacy Laws Mean for Your Cybersecurity Policies]]></title>
+        <id>https://thehackernews.com/2022/12/what-stricter-data-privacy-laws-mean.html</id>
+        <link href="https://thehackernews.com/2022/12/what-stricter-data-privacy-laws-mean.html"/>
+        <updated>2022-12-09T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[For today's businesses data privacy is already a big headache, and with modern privacy laws expanding to more of the world's population, regulatory compliance is on track to become a more complicated, high-stakes process touching on every aspect of an organization. In fact, Gartner predicts that by 2024, 75% of the Global Population will have its personal data covered under privacy regulations.]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
@@ -4708,28 +4815,6 @@ The vulnerability, tracked as CVE-2022-0902 (CVSS score: 8.1), is a path-trave
 Some Akin Gump Strauss Hauer & Feld LLP's law firm clients, for example, reported a three-fold increase in insurance]]></summary>
         <author>
             <name>noreply@blogger.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New UEFI Firmware Flaws Reported in Several Lenovo Notebook Models]]></title>
-        <id>tag:blogger.com,1999:blog-4802841478634147276.post-4077390435160729457</id>
-        <link href="https://thehackernews.com/2022/11/new-uefi-firmware-flaws-reported-in.html"/>
-        <updated>2022-11-10T06:36:00.000Z</updated>
-        <summary type="html"><![CDATA[PC maker Lenovo has addressed yet another set of three shortcomings in the Unified Extensible Firmware Interface (UEFI) firmware affecting several Yoga, IdeaPad, and ThinkBook devices.
-"The vulnerabilities allow disabling UEFI Secure Boot or restoring factory default Secure Boot databases (incl. dbx): all simply from an OS," Slovak cybersecurity firm ESET explained in a series of tweets.
-UEFI]]></summary>
-        <author>
-            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Understanding the Rise of Risk-Based Vulnerability Management]]></title>
-        <id>https://www.darkreading.com/omdia/understanding-the-rise-of-risk-based-vulnerability-management</id>
-        <link href="https://www.darkreading.com/omdia/understanding-the-rise-of-risk-based-vulnerability-management"/>
-        <updated>2022-11-10T06:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Risk-based vulnerability management solutions foster the convergence of risk management and vulnerability management. Andrew Braunberg explains what’s driving the emergence of RBVM.]]></summary>
-        <author>
-            <name>Andrew Braunberg, Principal Analyst, SecOps, Omdia</name>
         </author>
     </entry>
     <entry>

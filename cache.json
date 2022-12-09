@@ -43,6 +43,16 @@
       "siteUrl": "https://us-cert.cisa.gov/",
       "articles": [
         {
+          "id": "18198 at https://us-cert.cisa.gov",
+          "author": "CISA",
+          "description": "Original release date: December 9, 2022\nCisco released a security advisory for a vulnerability affecting IP Phone 7800 and 8800 Series. A remote attacker could exploit this vulnerability to cause a denial-of-service condition. For more information, see the Cisco Security Advisories page.\nCISA encourages users and administrators to review Cisco IP Phone 7800 and 8800 Series Cisco Discovery Protocol Stack Overflow Vulnerability and apply the necessary updates.\nThis product is provided subject to this Notification and this Privacy & Use policy.",
+          "link": "https://us-cert.cisa.gov/ncas/current-activity/2022/12/09/cisco-releases-security-advisory-ip-phone-7800-and-8800-series",
+          "publishedOn": "2022-12-09T15:59:30.000Z",
+          "wordCount": 900,
+          "title": "Cisco Releases Security Advisory for IP Phone 7800 and 8800 Series",
+          "imageUrl": null
+        },
+        {
           "id": "18196 at https://us-cert.cisa.gov",
           "author": "CISA",
           "description": "Original release date: December 8, 2022\nToday, CISA published a Phishing Infographic to help protect both organizations and individuals from successful phishing operations. This infographic provides a visual summary of how threat actors execute successful phishing operations. Details include metrics that compare the likelihood of certain types of “bait” and how commonly each bait type succeeds in tricking the targeted individual. The infographic also provides detailed actions organizations and individuals can take to prevent successful phishing operations—from blocking phishing attempts to teaching individuals how to report successful phishing operations.\nThis product is provided subject to this Notification and this Privacy & Use policy.",
@@ -320,6 +330,81 @@
       "feedUrl": "https://www.darkreading.com/rss.xml",
       "siteUrl": "https://www.darkreading.com",
       "articles": [
+        {
+          "id": "https://www.darkreading.com/application-security/7-ways-gaming-companies-battle-cybercrime-platforms",
+          "author": "Ericka Chickowski, Contributing Writer, Dark Reading",
+          "description": "Balancing gameplay and security can drive down risks and improve gamers' trust and loyalty.",
+          "link": "https://www.darkreading.com/application-security/7-ways-gaming-companies-battle-cybercrime-platforms",
+          "publishedOn": "2022-12-09T18:06:00.000Z",
+          "wordCount": 10377,
+          "title": "7 Ways Gaming Companies Can Battle Cybercrime on Their Platforms",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt1fa01ab14787f501/60b1e9a77f791568be5e0dbb/ErickaChick_125x125.jpeg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt1fa01ab14787f501/60b1e9a77f791568be5e0dbb/ErickaChick_125x125.jpeg"
+        },
+        {
+          "id": "https://www.darkreading.com/microsoft/43-trillion-security-data-points-illuminate-our-most-pressing-threats",
+          "author": "Microsoft Security, Microsoft",
+          "description": "A new report helps companies understand an ever-changing threat landscape and how to strengthen their defenses against emerging cybersecurity trends.",
+          "link": "https://www.darkreading.com/microsoft/43-trillion-security-data-points-illuminate-our-most-pressing-threats",
+          "publishedOn": "2022-12-09T16:36:09.000Z",
+          "wordCount": 10724,
+          "title": "43 Trillion Security Data Points Illuminate Our Most Pressing Threats",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt8fe4479bc32f84b4/6321f5362769d078008692a9/MS-Security_logo.png",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt8fe4479bc32f84b4/6321f5362769d078008692a9/MS-Security_logo.png"
+        },
+        {
+          "id": "https://www.darkreading.com/threat-intelligence/iranian-apt-targets-us-drokbk-spyware-github",
+          "author": "Nathan Eddy, Contributing Writer, Dark Reading",
+          "description": "The custom malware used by the state-backed Iranian threat group Drokbk has so far flown under the radar by using GitHub as a \"dead-drop resolver\" to more easily evade detection.",
+          "link": "https://www.darkreading.com/threat-intelligence/iranian-apt-targets-us-drokbk-spyware-github",
+          "publishedOn": "2022-12-09T15:04:44.000Z",
+          "wordCount": 10517,
+          "title": "Iranian APT Targets US With Drokbk Spyware via GitHub",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltf8b5a94afa71c53a/628e3799daa31875dc0c9fc0/NathanEddyHeadshot.PNG",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltf8b5a94afa71c53a/628e3799daa31875dc0c9fc0/NathanEddyHeadshot.PNG"
+        },
+        {
+          "id": "https://www.darkreading.com/vulnerabilities-threats/how-naming-can-change-the-game-in-software-supply-chain-security",
+          "author": "Curtis Yanko,  Principal Solutions Architect, GrammaTech",
+          "description": "A reliance on CPE names currently makes accurate searching for high-risk security vulnerabilities difficult.",
+          "link": "https://www.darkreading.com/vulnerabilities-threats/how-naming-can-change-the-game-in-software-supply-chain-security",
+          "publishedOn": "2022-12-09T15:00:00.000Z",
+          "wordCount": 11212,
+          "title": "How Naming Can Change the Game in Software Supply Chain Security",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltd0cb3d4317020ffe/63593b95ae3002077dc38082/Curtis_Yanko_Photo.jpg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltd0cb3d4317020ffe/63593b95ae3002077dc38082/Curtis_Yanko_Photo.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/application-security/google-use-slsa-framework-for-better-software-security",
+          "author": "Jai Vijayan, Contributing Writer, Dark Reading",
+          "description": "Security leaders also need to take a more holistic approach to addressing supply chain risks, company says in new research report.",
+          "link": "https://www.darkreading.com/application-security/google-use-slsa-framework-for-better-software-security",
+          "publishedOn": "2022-12-09T13:00:00.000Z",
+          "wordCount": 10717,
+          "title": "Google: Use SLSA Framework for Better Software Security",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt02d79fb9a44a4258/60b1e9dd2a25046b35110696/Jai-Vijayan.jpeg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt02d79fb9a44a4258/60b1e9dd2a25046b35110696/Jai-Vijayan.jpeg"
+        },
         {
           "id": "https://www.darkreading.com/cloud/3-ways-attackers-bypass-cloud-security",
           "author": "Kelly Jackson Higgins, Editor-in-Chief, Dark Reading",
@@ -3224,21 +3309,6 @@
           "wordCount": 13005,
           "title": "Lacework Extends CNAPP Capabilities With Attack Path Analysis and Agentless Workload Scanning",
           "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
-        },
-        {
-          "id": "https://www.darkreading.com/omdia/understanding-the-rise-of-risk-based-vulnerability-management",
-          "author": "Andrew Braunberg, Principal Analyst, SecOps, Omdia",
-          "description": "Risk-based vulnerability management solutions foster the convergence of risk management and vulnerability management. Andrew Braunberg explains what’s driving the emergence of RBVM.",
-          "link": "https://www.darkreading.com/omdia/understanding-the-rise-of-risk-based-vulnerability-management",
-          "publishedOn": "2022-11-10T06:00:00.000Z",
-          "wordCount": 12019,
-          "title": "Understanding the Rise of Risk-Based Vulnerability Management",
-          "enclosure": {
-            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltd5bdb2abbf9c49ff/62bb447b7c47440e14f7bb80/Braunberg_Bio_Pic.jpeg",
-            "type": "image/*",
-            "length": "0"
-          },
-          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltd5bdb2abbf9c49ff/62bb447b7c47440e14f7bb80/Braunberg_Bio_Pic.jpeg"
         }
       ]
     },
@@ -3911,6 +3981,54 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2022/12/using-xdr-to-consolidate-and-optimize.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Businesses know they need cybersecurity, but it seems like a new acronym and system is popping up every day. Professionals that aren’t actively researching these technologies can struggle to keep up. As the cybersecurity landscape becomes more complicated, organizations are desperate to simplify it. Frustrated with the inefficiencies that come with using multiple vendors for cybersecurity, often",
+          "link": "https://thehackernews.com/2022/12/using-xdr-to-consolidate-and-optimize.html",
+          "publishedOn": "2022-12-09T17:50:00.000Z",
+          "wordCount": null,
+          "title": "Using XDR to Consolidate and Optimize Cybersecurity Technology",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjkQZuMW6-SoAXnxviDT042QoFW9kGATHZMY3tsDvTLziab313inNRWuSKkLxLF_UkTOlL2Y0se_vUtjOkRZ55DlfiIsx83a4IOpP61a83b7a9Lj4DX-L5F6-SogqDf5WlFavyMf_AS-20IZ7DXQzhtLq2QjVF35H9KSfIduYjzlN-qznwi-3Q3jHGd/s1600/cynet.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjkQZuMW6-SoAXnxviDT042QoFW9kGATHZMY3tsDvTLziab313inNRWuSKkLxLF_UkTOlL2Y0se_vUtjOkRZ55DlfiIsx83a4IOpP61a83b7a9Lj4DX-L5F6-SogqDf5WlFavyMf_AS-20IZ7DXQzhtLq2QjVF35H9KSfIduYjzlN-qznwi-3Q3jHGd/s1600/cynet.png"
+        },
+        {
+          "id": "https://thehackernews.com/2022/12/new-truebot-malware-variant-leveraging.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Cybersecurity researchers have reported an increase in TrueBot infections, primarily targeting Mexico, Brazil, Pakistan, and the U.S.\nCisco Talos said the attackers behind the operation have moved from using malicious emails to alternative delivery methods such as the exploitation of a now-patched remote code execution (RCE) flaw in Netwrix auditor as well as the Raspberry Robin worm.\n\"",
+          "link": "https://thehackernews.com/2022/12/new-truebot-malware-variant-leveraging.html",
+          "publishedOn": "2022-12-09T17:16:00.000Z",
+          "wordCount": null,
+          "title": "New Truebot Malware Variant Leveraging Netwrix Auditor Bug and Raspberry Robin Worm",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtmEQPKuIji3B59d4vI4qx8IgBt8R_-wVylbUTvf6_HvIUFoGcJzG-Y62Z0M4UcRe1U6lVHkzmIQy3bRDV4dvemmKXtGEnUo43hIKYMb73Tjl4AkPVwlPdBsWxGF-WV6qLTgBOzkHO2VbPTsyE09-5mixzHSiYn8PNHtHmfpzCkbGy1Aamrg4Eb0A5/s1600/notnet-2.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtmEQPKuIji3B59d4vI4qx8IgBt8R_-wVylbUTvf6_HvIUFoGcJzG-Y62Z0M4UcRe1U6lVHkzmIQy3bRDV4dvemmKXtGEnUo43hIKYMb73Tjl4AkPVwlPdBsWxGF-WV6qLTgBOzkHO2VbPTsyE09-5mixzHSiYn8PNHtHmfpzCkbGy1Aamrg4Eb0A5/s1600/notnet-2.png"
+        },
+        {
+          "id": "https://thehackernews.com/2022/12/why-is-robust-api-security-crucial-in.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "API attacks are on the rise. One of their major targets is eCommerce firms like yours. \nAPIs are a vital part of how eCommerce businesses are accelerating their growth in the digital world. \nECommerce platforms use APIs at all customer touchpoints, from displaying products to handling shipping. Owing to their increased use, APIs are attractive targets for hackers, as the following numbers expose",
+          "link": "https://thehackernews.com/2022/12/why-is-robust-api-security-crucial-in.html",
+          "publishedOn": "2022-12-09T13:48:00.000Z",
+          "wordCount": null,
+          "title": "Why is Robust API Security Crucial in eCommerce?",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiadUKvqYSI_4WMjJTeV8KOLq6TrQ6KD2UTk7WksL9k__fCdULX-yXx9qusXc0VheTQq1wJhmQLnNZBh6831NymyxAYLZ3xm0qqSli07G6QoBHBik-jPeBDO6M24GCd9VNBpGLEwY21Dn9lytKZAAxsKTRtdXEv79rwQVlcbXroWFsHICfLWneB2G-T/s1600/apisecurity.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiadUKvqYSI_4WMjJTeV8KOLq6TrQ6KD2UTk7WksL9k__fCdULX-yXx9qusXc0VheTQq1wJhmQLnNZBh6831NymyxAYLZ3xm0qqSli07G6QoBHBik-jPeBDO6M24GCd9VNBpGLEwY21Dn9lytKZAAxsKTRtdXEv79rwQVlcbXroWFsHICfLWneB2G-T/s1600/apisecurity.png"
+        },
+        {
           "id": "https://thehackernews.com/2022/12/researchers-uncover-new-drokbk-malware.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "The subgroup of an Iranian nation-state group known as Nemesis Kitten has been attributed as behind a previously undocumented custom malware dubbed Drokbk that uses GitHub as a dead drop resolver to exfiltrate data from an infected computer, or to receive commands.\n\"The use of GitHub as a virtual dead drop helps the malware blend in,\" Secureworks principal researcher Rafe Pilling said. \"All the",
@@ -3925,6 +4043,22 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEijr3lXe8DVzPMbql7ZqjJ-tb3Rs0DQJUvB-Af-bDyNNlCOjP7NBa0IyF22vruBtVpC22Q5ajVhamPuNiqWhgThlRcaA5vrl7kWGiRlz0emsdKpzBIlqVinnN7KqMfyfFjOj6HOV2ci3HLHR2R9Zq4K1EbMlmMnAZHTPbhjKlwXw0ToQKPhhLhLm4YD/s1600/git.png"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEijr3lXe8DVzPMbql7ZqjJ-tb3Rs0DQJUvB-Af-bDyNNlCOjP7NBa0IyF22vruBtVpC22Q5ajVhamPuNiqWhgThlRcaA5vrl7kWGiRlz0emsdKpzBIlqVinnN7KqMfyfFjOj6HOV2ci3HLHR2R9Zq4K1EbMlmMnAZHTPbhjKlwXw0ToQKPhhLhLm4YD/s1600/git.png"
+        },
+        {
+          "id": "https://thehackernews.com/2022/12/what-stricter-data-privacy-laws-mean.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "For today's businesses data privacy is already a big headache, and with modern privacy laws expanding to more of the world's population, regulatory compliance is on track to become a more complicated, high-stakes process touching on every aspect of an organization. In fact, Gartner predicts that by 2024, 75% of the Global Population will have its personal data covered under privacy regulations.",
+          "link": "https://thehackernews.com/2022/12/what-stricter-data-privacy-laws-mean.html",
+          "publishedOn": "2022-12-09T11:00:00.000Z",
+          "wordCount": null,
+          "title": "What Stricter Data Privacy Laws Mean for Your Cybersecurity Policies",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihyBkuxTAIjX-I4FFJT6HFoHOcc4RyjvcGDYgm0rerAtsfVq-iPLP9EOuOnBmgkuVgz3HJ9z5xK5Zf6sFnZrd44hWqAGlI2fuDfyqm87XSqBjPIYHoTedz2POAf6k-dTZYHsQHmxnEUz3VEFjWcuBv_2AyE5H7NGMmNedHBcX_tAWFsqMVZ4JqiM4c/s1600/image.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihyBkuxTAIjX-I4FFJT6HFoHOcc4RyjvcGDYgm0rerAtsfVq-iPLP9EOuOnBmgkuVgz3HJ9z5xK5Zf6sFnZrd44hWqAGlI2fuDfyqm87XSqBjPIYHoTedz2POAf6k-dTZYHsQHmxnEUz3VEFjWcuBv_2AyE5H7NGMmNedHBcX_tAWFsqMVZ4JqiM4c/s1600/image.png"
         },
         {
           "id": "https://thehackernews.com/2022/12/muddywater-hackers-target-asian-and.html",
@@ -5523,17 +5657,6 @@
           "publishedOn": "2022-11-10T07:30:00.000Z",
           "wordCount": null,
           "title": "Re-Focusing Cyber Insurance with Security Validation",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "tag:blogger.com,1999:blog-4802841478634147276.post-4077390435160729457",
-          "author": "noreply@blogger.com (Ravie Lakshmanan)",
-          "description": "PC maker Lenovo has addressed yet another set of three shortcomings in the Unified Extensible Firmware Interface (UEFI) firmware affecting several Yoga, IdeaPad, and ThinkBook devices.\n\"The vulnerabilities allow disabling UEFI Secure Boot or restoring factory default Secure Boot databases (incl. dbx): all simply from an OS,\" Slovak cybersecurity firm ESET explained in a series of tweets.\nUEFI",
-          "link": "https://thehackernews.com/2022/11/new-uefi-firmware-flaws-reported-in.html",
-          "publishedOn": "2022-11-10T06:36:00.000Z",
-          "wordCount": null,
-          "title": "New UEFI Firmware Flaws Reported in Several Lenovo Notebook Models",
           "itunes": {},
           "imageUrl": null
         }
