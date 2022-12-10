@@ -241,26 +241,6 @@
           "wordCount": 1009,
           "title": "Cisco Releases Security Updates for Multiple Products",
           "imageUrl": null
-        },
-        {
-          "id": "18147 at https://us-cert.cisa.gov",
-          "author": "CISA",
-          "description": "Original release date: November 10, 2022\nCISA has released twenty (20) Industrial Control Systems (ICS) advisories on November 10, 2022. These advisories provide timely information about current security issues, vulnerabilities, and exploits surrounding ICS.\nCISA encourages users and administrators to review the newly released ICS advisories for technical details and mitigations:\nICSA-22-314-01 Siemens Parasolid\nICSA-22-314-02 Siemens Missing Web Server Login Page of Industrial Controllers\nICSA-22-314-03 Siemens SINEC Network Management System Logback Component\nICSA-22-314-04 Siemens SINUMERIK ONE and SINUMERIK MC\nICSA-22-314-05 Siemens RUGGEDCOM ROS\nICSA-22-314-06 Siemens QMS Automotive\nICSA-22-314-07 Omron NJNX-series Machine Automation Controllers\nICSA-22-314-08 Omron NJNX-series\nICSA-22-314-09 Siemens Teamcenter Visualization and JT2Go\nICSA-22-314-10 Siemens SCALANCE W1750D\nICSA-22-314-11 Siemens SICAM Q100\nICSA-21-350-06 Siemens CAPITAL VSTAR (Update A)\nICSA-22-286-15 Siemens SCALANCE X-200 and X-200IRT Families (Update A)\nICSA-22-258-03 Siemens RUGGEDCOM ROS (Update A)\nICSA-22-228-02 LS ELEC PLC and XG5000 (Update A)\nICSA-22-298-06 Delta Electronic DIAEnergie (Update A)\nICSA-22-258-04 Siemens Mendix SAML Module (Update A)\nICSA-22-286-11 Siemens SCALANCE and RUGGEDCOM Products (Update A)\nICSA-21-350-13 Siemens Questa and ModelSim (Update A)\nICSA-22-069-01 Siemens RUGGEDCOM Devices (Update C)\nThis product is provided subject to this Notification and this Privacy & Use policy.",
-          "link": "https://us-cert.cisa.gov/ncas/current-activity/2022/11/10/cisa-releases-twenty-industrial-control-systems-advisories",
-          "publishedOn": "2022-11-10T14:11:03.000Z",
-          "wordCount": 1006,
-          "title": "CISA Releases Twenty Industrial Control Systems Advisories",
-          "imageUrl": null
-        },
-        {
-          "id": "18129 at https://us-cert.cisa.gov",
-          "author": "CISA",
-          "description": "Original release date: November 10, 2022\nCISA and the Multi-State Information Sharing & Analysis Center (MS-ISAC) have updated joint Cybersecurity Advisory AA22-228A: Threat Actors Exploiting Multiple CVEs Against Zimbra Collaboration Suite, originally released August 16, 2022. The advisory has been updated to include an additional Malware Analysis Report containing new indicators of compromise.\nCISA encourages organizations to review the latest update to AA22-228A and apply the recommended mitigations.\nThis product is provided subject to this Notification and this Privacy & Use policy.",
-          "link": "https://us-cert.cisa.gov/ncas/current-activity/2022/11/10/cisa-updates-advisory-threat-actors-exploiting-multiple-cves",
-          "publishedOn": "2022-11-10T13:03:19.000Z",
-          "wordCount": 919,
-          "title": "CISA Updates Advisory on Threat Actors Exploiting Multiple CVEs Against Zimbra Collaboration Suite",
-          "imageUrl": null
         }
       ]
     },
@@ -288,16 +268,6 @@
           "wordCount": 2013,
           "title": "Royal Mail online tracking returns — with a frustrating captcha that works half the time",
           "imageUrl": "https://securityreport.com/wp-content/uploads/2022/11/pexels-photo-7462697.jpeg"
-        },
-        {
-          "id": "https://securityreport.com/?p=4062",
-          "author": "Ax Sharma",
-          "description": "New series of convincing phishing emails use Fleek.co's infrastructure to collect credentials.\nThe post New convincing phishing campaign targets Booking.com and Blockchain.com customers appeared first on Security Report.",
-          "link": "https://securityreport.com/new-convincing-phishing-campaign-targets-booking-com-and-blockchain-com-customers/",
-          "publishedOn": "2022-11-10T10:49:05.000Z",
-          "wordCount": 1642,
-          "title": "New convincing phishing campaign targets Booking.com and Blockchain.com customers",
-          "imageUrl": "https://securityreport.com/wp-content/uploads/2022/11/t7k4aepoggk.jpg"
         }
       ]
     },
@@ -330,6 +300,36 @@
       "feedUrl": "https://www.darkreading.com/rss.xml",
       "siteUrl": "https://www.darkreading.com",
       "articles": [
+        {
+          "id": "https://www.darkreading.com/application-security/tiktok-banned-on-govt-devices-will-private-sector-follow-suit",
+          "author": "Jai Vijayan, Contributing Writer, Dark Reading",
+          "description": "Texas and Maryland this week joined three other states in prohibiting accessing the popular social media app from state-owned devices.",
+          "link": "https://www.darkreading.com/application-security/tiktok-banned-on-govt-devices-will-private-sector-follow-suit",
+          "publishedOn": "2022-12-09T22:03:00.000Z",
+          "wordCount": 11557,
+          "title": "TikTok Banned on Govt. Devices; Will Private Sector Follow Suit?",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt02d79fb9a44a4258/60b1e9dd2a25046b35110696/Jai-Vijayan.jpeg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt02d79fb9a44a4258/60b1e9dd2a25046b35110696/Jai-Vijayan.jpeg"
+        },
+        {
+          "id": "https://www.darkreading.com/attacks-breaches/iran-backed-muddywater-campaign-uses-syncros-admin-tool",
+          "author": "Dark Reading Staff, Dark Reading",
+          "description": "MuddyWater joins threat groups BatLoader and Luna Moth, which have also been using Syncro to take over devices.",
+          "link": "https://www.darkreading.com/attacks-breaches/iran-backed-muddywater-campaign-uses-syncros-admin-tool",
+          "publishedOn": "2022-12-09T19:30:00.000Z",
+          "wordCount": 8216,
+          "title": "Iran-Backed MuddyWater's Latest Campaign Abuses Syncro Admin Tool",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blte161b23f0fd3a84b/60b1ea374e7eb868c4c6a293/dr_staff_125x125.jpg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blte161b23f0fd3a84b/60b1ea374e7eb868c4c6a293/dr_staff_125x125.jpg"
+        },
         {
           "id": "https://www.darkreading.com/application-security/7-ways-gaming-companies-battle-cybercrime-platforms",
           "author": "Ericka Chickowski, Contributing Writer, Dark Reading",
@@ -3299,16 +3299,6 @@
           "wordCount": 12158,
           "title": "Rezilion Expands Dynamic SBOM Capability to Support Windows Environments",
           "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
-        },
-        {
-          "id": "https://www.darkreading.com/cloud/lacework-extends-cnapp-capabilities-with-attack-path-analysis-and-agentless-workload-scanning",
-          "author": null,
-          "description": "Greater insight into attack paths and runtime visibility helps customers reduce risk and improve cloud security posture.",
-          "link": "https://www.darkreading.com/cloud/lacework-extends-cnapp-capabilities-with-attack-path-analysis-and-agentless-workload-scanning",
-          "publishedOn": "2022-11-10T14:13:49.000Z",
-          "wordCount": 13005,
-          "title": "Lacework Extends CNAPP Capabilities With Attack Path Analysis and Agentless Workload Scanning",
-          "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
         }
       ]
     },
@@ -5602,61 +5592,6 @@
           "publishedOn": "2022-11-10T15:07:00.000Z",
           "wordCount": null,
           "title": "Hacker Rewarded $70,000 for Finding Way to Bypass Google Pixel Phones' Lock Screens",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "tag:blogger.com,1999:blog-4802841478634147276.post-8699152921027259817",
-          "author": "noreply@blogger.com (Ravie Lakshmanan)",
-          "description": "A malicious package discovered on the Python Package Index (PyPI) has been found employing a steganographic trick to conceal malicious code within image files.\nThe package in question, named \"apicolor,\" was uploaded to the Python third-party repository on October 31, 2022, and described as a \"Core lib for REST API,\" according to Israeli cybersecurity firm Check Point. It has since been taken",
-          "link": "https://thehackernews.com/2022/11/researchers-uncover-pypi-package-hiding.html",
-          "publishedOn": "2022-11-10T12:44:00.000Z",
-          "wordCount": null,
-          "title": "Researchers Uncover PyPI Package Hiding Malicious Code Behind Image File",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "tag:blogger.com,1999:blog-4802841478634147276.post-3367273650178085544",
-          "author": "noreply@blogger.com (The Hacker News)",
-          "description": "Cybersecurity Awareness Month has been going on since 2004. This year, Cybersecurity Awareness Month urged the public, professionals, and industry partners to \"see themselves in cyber\" in the following ways: \n\nThe public, by taking action to stay safe online.\nProfessionals, by joining the cyber workforce.\nCyber industry partners, as part of the cybersecurity solution.\n\nCISA outlined four \"things",
-          "link": "https://thehackernews.com/2022/11/is-cybersecurity-awareness-month.html",
-          "publishedOn": "2022-11-10T12:13:00.000Z",
-          "wordCount": null,
-          "title": "Is Cybersecurity Awareness Month Anything More Than PR?",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "tag:blogger.com,1999:blog-4802841478634147276.post-2591246834644758488",
-          "author": "noreply@blogger.com (Ravie Lakshmanan)",
-          "description": "Citrix has released security updates to address a critical authentication bypass flaw in the application delivery controller (ADC) and Gateway products that could be exploited to take control of affected systems.\nSuccessful exploitation of the issues could enable an adversary to gain authorized access, perform remote desktop takeover, and even circumvent defenses against login brute-force",
-          "link": "https://thehackernews.com/2022/11/citrix-issues-patches-for-critical-flaw.html",
-          "publishedOn": "2022-11-10T10:26:00.000Z",
-          "wordCount": null,
-          "title": "Citrix Issues Patches for Critical Flaw Affecting ADC and Gateway Products",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "tag:blogger.com,1999:blog-4802841478634147276.post-494053395830188169",
-          "author": "noreply@blogger.com (Ravie Lakshmanan)",
-          "description": "Cybersecurity researchers have disclosed details of a new vulnerability in a system used across oil and gas organizations that could be exploited by an attacker to inject and execute arbitrary code.\nThe vulnerability, tracked as CVE-2022-0902 (CVSS score: 8.1), is a path-traversal vulnerability in ABB Totalflow flow computers and remote controllers.\n\"Attackers can exploit this flaw to gain root",
-          "link": "https://thehackernews.com/2022/11/high-severity-flaw-reported-in-critical.html",
-          "publishedOn": "2022-11-10T07:49:00.000Z",
-          "wordCount": null,
-          "title": "High-Severity Flaw Reported in Critical System Used by Oil and Gas Companies",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "tag:blogger.com,1999:blog-4802841478634147276.post-3734823572847300719",
-          "author": "noreply@blogger.com (The Hacker News)",
-          "description": "The rise in the costs of data breaches, ransomware, and other cyber attacks leads to rising cyber insurance premiums and more limited cyber insurance coverage. This cyber insurance situation increases risks for organizations struggling to find coverage or facing steep increases.\nSome Akin Gump Strauss Hauer & Feld LLP's law firm clients, for example, reported a three-fold increase in insurance",
-          "link": "https://thehackernews.com/2022/11/re-focusing-cyber-insurance-with.html",
-          "publishedOn": "2022-11-10T07:30:00.000Z",
-          "wordCount": null,
-          "title": "Re-Focusing Cyber Insurance with Security Validation",
           "itunes": {},
           "imageUrl": null
         }
