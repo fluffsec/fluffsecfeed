@@ -2,10 +2,106 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-12T13:28:29.305Z</updated>
+    <updated>2022-12-12T19:19:02.409Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[[CASE STUDY] New-school Approach to Training and Simulated Phishing Shines Over Traditional LMS]]></title>
+        <id>https://blog.knowbe4.com/case-study-new-school-approach-to-training-and-simulated-phishing-shines-over-traditional-lms</id>
+        <link href="https://blog.knowbe4.com/case-study-new-school-approach-to-training-and-simulated-phishing-shines-over-traditional-lms"/>
+        <updated>2022-12-12T18:49:34.000Z</updated>
+        <summary type="html"><![CDATA[A U.S.-based enterprise manufacturing organization cut their Phish-prone Percentage™ (PPP) by more than 80% after five months using the KnowBe4 security awareness training and simulated phishing platform.]]></summary>
+        <author>
+            <name>Stu Sjouwerman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Researchers Demonstrate How EDR and Antivirus Can Be Weaponized Against Users]]></title>
+        <id>https://thehackernews.com/2022/12/researchers-demonstrate-how-edr-and.html</id>
+        <link href="https://thehackernews.com/2022/12/researchers-demonstrate-how-edr-and.html"/>
+        <updated>2022-12-12T17:28:00.000Z</updated>
+        <summary type="html"><![CDATA[High-severity security vulnerabilities have been disclosed in different endpoint detection and response (EDR) and antivirus (AV) products that could be exploited to turn them into data wipers.
+"This wiper runs with the permissions of an unprivileged user yet has the ability to wipe almost any file on a system, including system files, and make a computer completely unbootable," SafeBreach Labs]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What We Can't See Can Hurt Us]]></title>
+        <id>https://www.darkreading.com/edge-articles/what-we-can-t-see-can-hurt-us</id>
+        <link href="https://www.darkreading.com/edge-articles/what-we-can-t-see-can-hurt-us"/>
+        <updated>2022-12-12T16:11:26.000Z</updated>
+        <summary type="html"><![CDATA[Visibility into every environment, including cloud, enables businesses to mitigate operating risks.]]></summary>
+        <author>
+            <name>Joshua Goldfarb, Fraud Solutions Architect - EMEA and APCJ, F5</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Top 4 SaaS Security Threats for 2023]]></title>
+        <id>https://thehackernews.com/2022/12/top-4-saas-security-threats-for-2023.html</id>
+        <link href="https://thehackernews.com/2022/12/top-4-saas-security-threats-for-2023.html"/>
+        <updated>2022-12-12T15:24:00.000Z</updated>
+        <summary type="html"><![CDATA[With 2022 coming to a close, there is no better time to buckle down and prepare to face the security challenges in the year to come. This past year has seen its fair share of breaches, attacks, and leaks, forcing organizations to scramble to protect their SaaS stacks. March alone saw three different breaches from Microsoft, Hubspot, and Okta. 
+With SaaS sprawl ever growing and becoming more]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Popular WAFs Subverted by JSON Bypass]]></title>
+        <id>https://www.darkreading.com/application-security/popular-wafs-json-bypass</id>
+        <link href="https://www.darkreading.com/application-security/popular-wafs-json-bypass"/>
+        <updated>2022-12-12T15:21:36.000Z</updated>
+        <summary type="html"><![CDATA[Web application firewalls from AWS, Cloudflare, F5, Imperva, and Palo Alto Networks are vulnerable to a database attack using the popular JavaScript Object Notation (JSON) format.]]></summary>
+        <author>
+            <name>Robert Lemos, Contributing Writer, Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[When Companies Compensate the Hackers, We All Foot the Bill]]></title>
+        <id>https://www.darkreading.com/attacks-breaches/when-companies-compensate-the-hackers-we-all-foot-the-bill</id>
+        <link href="https://www.darkreading.com/attacks-breaches/when-companies-compensate-the-hackers-we-all-foot-the-bill"/>
+        <updated>2022-12-12T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Ensuring stronger in-house defenses is integral to retaining customer loyalty.]]></summary>
+        <author>
+            <name>Bat El Azerad, CEO and Co-founder, novoShield</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Palo Alto Networks Xpanse Active Attack Surface Management Automatically Remediates Cyber Risks Before They Lead to Cyberattacks]]></title>
+        <id>https://www.darkreading.com/attacks-breaches/palo-alto-networks-xpanse-active-attack-surface-management-automatically-remediates-cyber-risks-before-they-lead-to-cyberattacks-</id>
+        <link href="https://www.darkreading.com/attacks-breaches/palo-alto-networks-xpanse-active-attack-surface-management-automatically-remediates-cyber-risks-before-they-lead-to-cyberattacks-"/>
+        <updated>2022-12-12T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[New Cortex Xpanse features give organizations visibility and control of their attack surfaces to discover, evaluate, and address cyber risks.]]></summary>
+        <author>
+            <name>Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google Adds Passkey Support to Chrome for Windows, macOS and Android]]></title>
+        <id>https://thehackernews.com/2022/12/google-adds-passkey-support-to-chrome.html</id>
+        <link href="https://thehackernews.com/2022/12/google-adds-passkey-support-to-chrome.html"/>
+        <updated>2022-12-12T14:24:00.000Z</updated>
+        <summary type="html"><![CDATA[Google has officially begun rolling out support for passkeys, the next-generation passwordless login standard, to its stable version of Chrome web browser.
+"Passkeys are a significantly safer replacement for passwords and other phishable authentication factors," the tech giant's Ali Sarraf said. "They cannot be reused, don't leak in server breaches, and protect users from phishing attacks."
+The]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cryptocurrency Mining Campaign Hits Linux Users with Go-based CHAOS Malware]]></title>
+        <id>https://thehackernews.com/2022/12/cryptocurrency-mining-campaign-hits.html</id>
+        <link href="https://thehackernews.com/2022/12/cryptocurrency-mining-campaign-hits.html"/>
+        <updated>2022-12-12T13:51:00.000Z</updated>
+        <summary type="html"><![CDATA[A cryptocurrency mining attack targeting the Linux operating system also involved the use of an open source remote access trojan (RAT) dubbed CHAOS.
+The threat, which was spotted by Trend Micro in November 2022, remains virtually unchanged in all other aspects, including when it comes to terminating competing malware, security software, and deploying the Monero (XMR) cryptocurrency miner.
+"The]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Keep Your Grinch at Bay: Here's How to Stay Safe Online this Holiday Season]]></title>
         <id>https://thehackernews.com/2022/12/keep-your-grinch-at-bay-heres-how-to.html</id>
@@ -26,6 +122,16 @@ In fact, cybercriminals often ramp up their efforts during the holidays, taking 
 "While most of the known ransomware operators have performed Ransomware-as-a-Service, Royal appears to be a private group without any affiliates while maintaining financial motivation as their goal," the agency's Health Sector Cybersecurity]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Trilio Raises $17M, Appoints Massood Zarrabian as CEO]]></title>
+        <id>https://www.darkreading.com/cloud/trilio-raises-17m-appoints-massood-zarrabian-as-ceo</id>
+        <link href="https://www.darkreading.com/cloud/trilio-raises-17m-appoints-massood-zarrabian-as-ceo"/>
+        <updated>2022-12-12T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Funding and new leadership to drive innovation and growth in cloud-native application resiliency; round led by SKK Ventures with T-Mobile and Telefonica.]]></summary>
+        <author>
+            <name>Dark Reading</name>
         </author>
     </entry>
     <entry>
