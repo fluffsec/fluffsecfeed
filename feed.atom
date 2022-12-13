@@ -2,10 +2,63 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-12T19:19:02.409Z</updated>
+    <updated>2022-12-13T02:31:35.240Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Rash of New Ransomware Variants Springs Up in the Wild]]></title>
+        <id>https://www.darkreading.com/remote-workforce/rash-new-ransomware-variants-in-the-wild</id>
+        <link href="https://www.darkreading.com/remote-workforce/rash-new-ransomware-variants-in-the-wild"/>
+        <updated>2022-12-12T23:10:41.000Z</updated>
+        <summary type="html"><![CDATA[Vohuk, ScareCrow, and AESRT add to the ransomware chaos that organizations have to contend with on a daily basis.]]></summary>
+        <author>
+            <name>Jai Vijayan, Contributing Writer, Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Metaparasites & the Dark Web: Scammers Turn on Their Own]]></title>
+        <id>https://www.darkreading.com/threat-intelligence/metaparasites-the-dark-web-scammers-turn-on-their-own</id>
+        <link href="https://www.darkreading.com/threat-intelligence/metaparasites-the-dark-web-scammers-turn-on-their-own"/>
+        <updated>2022-12-12T22:30:11.000Z</updated>
+        <summary type="html"><![CDATA[Sophos research unveiled at Black Hat Europe details a thriving subeconomy of fraud on the cybercrime underground, aimed at Dark Web forum users.]]></summary>
+        <author>
+            <name>Tara Seals, Managing Editor, News, Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amid Outrage, Rackspace Sends Users Email Touting Its Incident Response]]></title>
+        <id>https://www.darkreading.com/remote-workforce/amid-outrage-rackspace-sends-users-email-touting-incident-response</id>
+        <link href="https://www.darkreading.com/remote-workforce/amid-outrage-rackspace-sends-users-email-touting-incident-response"/>
+        <updated>2022-12-12T22:05:06.000Z</updated>
+        <summary type="html"><![CDATA[More than 10 days after a ransomware attack, affected Rackspace customers are being told the incident had a "limited impact," and have been invited to a webinar for additional details.]]></summary>
+        <author>
+            <name>Becky Bracken, Editor, Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Shopify Plus Stores Can Easily Add Passwordless Login With Passkeys Support]]></title>
+        <id>https://www.darkreading.com/endpoint/shopify-plus-stores-can-easily-add-passwordless-login-with-passkeys-support</id>
+        <link href="https://www.darkreading.com/endpoint/shopify-plus-stores-can-easily-add-passwordless-login-with-passkeys-support"/>
+        <updated>2022-12-12T20:10:00.000Z</updated>
+        <summary type="html"><![CDATA[Shopify Plus stores can now easily implement passwordless login with Passkeys support to help reduce drop rate and increase conversion using the free OwnID plug-in.]]></summary>
+        <author>
+            <name>Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fortinet Releases Security Updates for FortiOS]]></title>
+        <id>18201 at https://us-cert.cisa.gov</id>
+        <link href="https://us-cert.cisa.gov/ncas/current-activity/2022/12/12/fortinet-releases-security-updates-fortios"/>
+        <updated>2022-12-12T19:57:42.000Z</updated>
+        <summary type="html"><![CDATA[Original release date: December 12, 2022
+Fortinet has released security updates to address a heap-based buffer overflow vulnerability (CVE-2022-42475) in FortiOS. An attacker could exploit this vulnerability to take control of an affected system. This vulnerability has been exploited in the wild. 
+CISA encourages users and administrators to review Fortinet security advisory FG-IR-22-368, apply the necessary updates, and validate systems against the IOCs listed in the advisory. 
+This product is provided subject to this Notification and this Privacy & Use policy.]]></summary>
+        <author>
+            <name>CISA</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[CASE STUDY] New-school Approach to Training and Simulated Phishing Shines Over Traditional LMS]]></title>
         <id>https://blog.knowbe4.com/case-study-new-school-approach-to-training-and-simulated-phishing-shines-over-traditional-lms</id>
@@ -122,6 +175,16 @@ In fact, cybercriminals often ramp up their efforts during the holidays, taking 
 "While most of the known ransomware operators have performed Ransomware-as-a-Service, Royal appears to be a private group without any affiliates while maintaining financial motivation as their goal," the agency's Health Sector Cybersecurity]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nearly 4,500 Pulse Connect Secure VPNs Left Unpatched and Vulnerable]]></title>
+        <id>https://www.darkreading.com/remote-workforce/nearly-4-500-pulse-connect-secure-vpns-unpatched-vulnerable-</id>
+        <link href="https://www.darkreading.com/remote-workforce/nearly-4-500-pulse-connect-secure-vpns-unpatched-vulnerable-"/>
+        <updated>2022-12-12T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Pulse Connect VPN server software received several updates over the years, and thousands of hosts haven't patched.]]></summary>
+        <author>
+            <name>Dark Reading Staff, Dark Reading</name>
         </author>
     </entry>
     <entry>

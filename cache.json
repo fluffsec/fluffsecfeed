@@ -43,6 +43,16 @@
       "siteUrl": "https://us-cert.cisa.gov/",
       "articles": [
         {
+          "id": "18201 at https://us-cert.cisa.gov",
+          "author": "CISA",
+          "description": "Original release date: December 12, 2022\nFortinet has released security updates to address a heap-based buffer overflow vulnerability (CVE-2022-42475) in FortiOS. An attacker could exploit this vulnerability to take control of an affected system. This vulnerability has been exploited in the wild. \nCISA encourages users and administrators to review Fortinet security advisory FG-IR-22-368, apply the necessary updates, and validate systems against the IOCs listed in the advisory. \nThis product is provided subject to this Notification and this Privacy & Use policy.",
+          "link": "https://us-cert.cisa.gov/ncas/current-activity/2022/12/12/fortinet-releases-security-updates-fortios",
+          "publishedOn": "2022-12-12T19:57:42.000Z",
+          "wordCount": 885,
+          "title": "Fortinet Releases Security Updates for FortiOS",
+          "imageUrl": null
+        },
+        {
           "id": "18198 at https://us-cert.cisa.gov",
           "author": "CISA",
           "description": "Original release date: December 9, 2022\nCisco released a security advisory for a vulnerability affecting IP Phone 7800 and 8800 Series. A remote attacker could exploit this vulnerability to cause a denial-of-service condition. For more information, see the Cisco Security Advisories page.\nCISA encourages users and administrators to review Cisco IP Phone 7800 and 8800 Series Cisco Discovery Protocol Stack Overflow Vulnerability and apply the necessary updates.\nThis product is provided subject to this Notification and this Privacy & Use policy.",
@@ -281,6 +291,61 @@
       "siteUrl": "https://www.darkreading.com",
       "articles": [
         {
+          "id": "https://www.darkreading.com/remote-workforce/rash-new-ransomware-variants-in-the-wild",
+          "author": "Jai Vijayan, Contributing Writer, Dark Reading",
+          "description": "Vohuk, ScareCrow, and AESRT add to the ransomware chaos that organizations have to contend with on a daily basis.",
+          "link": "https://www.darkreading.com/remote-workforce/rash-new-ransomware-variants-in-the-wild",
+          "publishedOn": "2022-12-12T23:10:41.000Z",
+          "wordCount": 11895,
+          "title": "Rash of New Ransomware Variants Springs Up in the Wild",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt02d79fb9a44a4258/60b1e9dd2a25046b35110696/Jai-Vijayan.jpeg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt02d79fb9a44a4258/60b1e9dd2a25046b35110696/Jai-Vijayan.jpeg"
+        },
+        {
+          "id": "https://www.darkreading.com/threat-intelligence/metaparasites-the-dark-web-scammers-turn-on-their-own",
+          "author": "Tara Seals, Managing Editor, News, Dark Reading",
+          "description": "Sophos research unveiled at Black Hat Europe details a thriving subeconomy of fraud on the cybercrime underground, aimed at Dark Web forum users.",
+          "link": "https://www.darkreading.com/threat-intelligence/metaparasites-the-dark-web-scammers-turn-on-their-own",
+          "publishedOn": "2022-12-12T22:30:11.000Z",
+          "wordCount": 13253,
+          "title": "Metaparasites & the Dark Web: Scammers Turn on Their Own",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltea67136f81f32eca/626a9eb4726e3315b16b3c64/Tara-Seals-Headshot2.jpg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltea67136f81f32eca/626a9eb4726e3315b16b3c64/Tara-Seals-Headshot2.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/remote-workforce/amid-outrage-rackspace-sends-users-email-touting-incident-response",
+          "author": "Becky Bracken, Editor, Dark Reading",
+          "description": "More than 10 days after a ransomware attack, affected Rackspace customers are being told the incident had a \"limited impact,\" and have been invited to a webinar for additional details.",
+          "link": "https://www.darkreading.com/remote-workforce/amid-outrage-rackspace-sends-users-email-touting-incident-response",
+          "publishedOn": "2022-12-12T22:05:06.000Z",
+          "wordCount": 9132,
+          "title": "Amid Outrage, Rackspace Sends Users Email Touting Its Incident Response",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt8e7bd143d726930b/627271268681151716941064/BeckyB.jpg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt8e7bd143d726930b/627271268681151716941064/BeckyB.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/endpoint/shopify-plus-stores-can-easily-add-passwordless-login-with-passkeys-support",
+          "author": null,
+          "description": "Shopify Plus stores can now easily implement passwordless login with Passkeys support to help reduce drop rate and increase conversion using the free OwnID plug-in.",
+          "link": "https://www.darkreading.com/endpoint/shopify-plus-stores-can-easily-add-passwordless-login-with-passkeys-support",
+          "publishedOn": "2022-12-12T20:10:00.000Z",
+          "wordCount": 10109,
+          "title": "Shopify Plus Stores Can Easily Add Passwordless Login With Passkeys Support",
+          "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
+        },
+        {
           "id": "https://www.darkreading.com/edge-articles/what-we-can-t-see-can-hurt-us",
           "author": "Joshua Goldfarb, Fraud Solutions Architect - EMEA and APCJ, F5",
           "description": "Visibility into every environment, including cloud, enables businesses to mitigate operating risks.",
@@ -334,6 +399,21 @@
           "wordCount": 10987,
           "title": "Palo Alto Networks Xpanse Active Attack Surface Management Automatically Remediates Cyber Risks Before They Lead to Cyberattacks",
           "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/remote-workforce/nearly-4-500-pulse-connect-secure-vpns-unpatched-vulnerable-",
+          "author": "Dark Reading Staff, Dark Reading",
+          "description": "Pulse Connect VPN server software received several updates over the years, and thousands of hosts haven't patched.",
+          "link": "https://www.darkreading.com/remote-workforce/nearly-4-500-pulse-connect-secure-vpns-unpatched-vulnerable-",
+          "publishedOn": "2022-12-12T07:00:00.000Z",
+          "wordCount": 8738,
+          "title": "Nearly 4,500 Pulse Connect Secure VPNs Left Unpatched and Vulnerable",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blte161b23f0fd3a84b/60b1ea374e7eb868c4c6a293/dr_staff_125x125.jpg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blte161b23f0fd3a84b/60b1ea374e7eb868c4c6a293/dr_staff_125x125.jpg"
         },
         {
           "id": "https://www.darkreading.com/cloud/trilio-raises-17m-appoints-massood-zarrabian-as-ceo",
