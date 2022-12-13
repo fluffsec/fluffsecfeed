@@ -3811,6 +3811,38 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2022/12/cybersecurity-experts-uncover-inner.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Cybersecurity researchers have published the inner workings of a new wiper called Azov Ransomware that's deliberately designed to corrupt data and \"inflict impeccable damage\" to compromised systems.\nDistributed through another malware loader known as SmokeLoader, the malware has been described as an \"effective, fast, and unfortunately unrecoverable data wiper,\" by Israeli cybersecurity company",
+          "link": "https://thehackernews.com/2022/12/cybersecurity-experts-uncover-inner.html",
+          "publishedOn": "2022-12-13T09:08:00.000Z",
+          "wordCount": null,
+          "title": "Cybersecurity Experts Uncover Inner Workings of Destructive Azov Ransomware",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi136glY86wsW1K5SryAUmWZYxzFdhtmy2nZ2EsXhFgUv7I3QZEYWBB_bes7vYRnclkj2-dL16HaC7earebSCtyDqJ2VUDvRbrrL_wbfsNMo9wwU7FiHR0Woao27ftda03J9YMa0ZShPyXSTTQEVxb-x02zL5_iyFBXGegebpE02b9do4HVj9gCkVdM/s1600/wiper.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi136glY86wsW1K5SryAUmWZYxzFdhtmy2nZ2EsXhFgUv7I3QZEYWBB_bes7vYRnclkj2-dL16HaC7earebSCtyDqJ2VUDvRbrrL_wbfsNMo9wwU7FiHR0Woao27ftda03J9YMa0ZShPyXSTTQEVxb-x02zL5_iyFBXGegebpE02b9do4HVj9gCkVdM/s1600/wiper.png"
+        },
+        {
+          "id": "https://thehackernews.com/2022/12/malware-strains-targeting-python-and.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "An active malware campaign is targeting the Python Package Index (PyPI) and npm repositories for Python and JavaScript with typosquatted and fake modules that deploy a ransomware strain, marking the latest security issue to affect software supply chains.\nThe typosquatted Python packages all impersonate the popular requests library: dequests, fequests, gequests, rdquests, reauests, reduests,",
+          "link": "https://thehackernews.com/2022/12/malware-strains-targeting-python-and.html",
+          "publishedOn": "2022-12-13T07:00:00.000Z",
+          "wordCount": null,
+          "title": "Malware Strains Targeting Python and JavaScript Developers Through Official Repositories",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOfINDhjAh6PBfW-g903Pdx-N2nJFq3WsaMfOpNhQA7R0Ws9k5e8O16iEUI24TAZqzRPu4ugP8M47mBkxkE4CcmRXCdXPIpeMtBNzrPCefpZ3yeLhxpm9NO9U6f4_Va79u47VNUyiK2st6Z_aC9j1qFiRg4tkZ7mekIO2CpiJSXmM0HF8keGc_cldZaA/s1600/tele.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOfINDhjAh6PBfW-g903Pdx-N2nJFq3WsaMfOpNhQA7R0Ws9k5e8O16iEUI24TAZqzRPu4ugP8M47mBkxkE4CcmRXCdXPIpeMtBNzrPCefpZ3yeLhxpm9NO9U6f4_Va79u47VNUyiK2st6Z_aC9j1qFiRg4tkZ7mekIO2CpiJSXmM0HF8keGc_cldZaA/s1600/tele.png"
+        },
+        {
           "id": "https://thehackernews.com/2022/12/fortinet-warns-of-active-exploitation.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Fortinet on Monday issued emergency patches for a severe security flaw affecting its FortiOS SSL-VPN product that it said is being actively exploited in the wild.\nTracked as CVE-2022-42475 (CVSS score: 9.3), the critical bug relates to a heap-based buffer overflow vulnerability that could allow an unauthenticated attacker to execute arbitrary code via specially crafted requests.\nThe company said",
