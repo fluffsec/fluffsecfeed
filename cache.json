@@ -3811,6 +3811,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2022/12/fortinet-warns-of-active-exploitation.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Fortinet on Monday issued emergency patches for a severe security flaw affecting its FortiOS SSL-VPN product that it said is being actively exploited in the wild.\nTracked as CVE-2022-42475 (CVSS score: 9.3), the critical bug relates to a heap-based buffer overflow vulnerability that could allow an unauthenticated attacker to execute arbitrary code via specially crafted requests.\nThe company said",
+          "link": "https://thehackernews.com/2022/12/fortinet-warns-of-active-exploitation.html",
+          "publishedOn": "2022-12-13T03:34:00.000Z",
+          "wordCount": null,
+          "title": "Fortinet Warns of Active Exploitation of New SSL-VPN Pre-auth RCE Vulnerability",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhe15H23NVWUj17wKQs7g1cRCttkjBWcqbY9eP-NsNXW3cM-BR_z8x86dLDak0PYGaWxANAxbOkFtyeAaCGijuP_f8pJO5n8_oeID2ziguIclHR2kG82hq6lXshAXpyifEEXMkdFuMdmVxQWrl6EkBgHtrXxUgtTLQ2UWjr3C6fvxpZI8lTMpbrVkiT/s1600/Fortinet-zero-day.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhe15H23NVWUj17wKQs7g1cRCttkjBWcqbY9eP-NsNXW3cM-BR_z8x86dLDak0PYGaWxANAxbOkFtyeAaCGijuP_f8pJO5n8_oeID2ziguIclHR2kG82hq6lXshAXpyifEEXMkdFuMdmVxQWrl6EkBgHtrXxUgtTLQ2UWjr3C6fvxpZI8lTMpbrVkiT/s1600/Fortinet-zero-day.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2022/12/researchers-demonstrate-how-edr-and.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "High-severity security vulnerabilities have been disclosed in different endpoint detection and response (EDR) and antivirus (AV) products that could be exploited to turn them into data wipers.\n\"This wiper runs with the permissions of an unprivileged user yet has the ability to wipe almost any file on a system, including system files, and make a computer completely unbootable,\" SafeBreach Labs",

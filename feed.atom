@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-13T02:31:35.240Z</updated>
+    <updated>2022-12-13T07:18:41.285Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Fortinet Warns of Active Exploitation of New SSL-VPN Pre-auth RCE Vulnerability]]></title>
+        <id>https://thehackernews.com/2022/12/fortinet-warns-of-active-exploitation.html</id>
+        <link href="https://thehackernews.com/2022/12/fortinet-warns-of-active-exploitation.html"/>
+        <updated>2022-12-13T03:34:00.000Z</updated>
+        <summary type="html"><![CDATA[Fortinet on Monday issued emergency patches for a severe security flaw affecting its FortiOS SSL-VPN product that it said is being actively exploited in the wild.
+Tracked as CVE-2022-42475 (CVSS score: 9.3), the critical bug relates to a heap-based buffer overflow vulnerability that could allow an unauthenticated attacker to execute arbitrary code via specially crafted requests.
+The company said]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Rash of New Ransomware Variants Springs Up in the Wild]]></title>
         <id>https://www.darkreading.com/remote-workforce/rash-new-ransomware-variants-in-the-wild</id>
