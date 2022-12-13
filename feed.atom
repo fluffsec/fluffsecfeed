@@ -2,10 +2,204 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-13T13:27:42.781Z</updated>
+    <updated>2022-12-13T19:16:20.302Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Citrix ADC, Gateway Users Race Against Hackers to Patch Critical Flaw]]></title>
+        <id>https://www.darkreading.com/attacks-breaches/citrix-adc-gateway-users-race-against-hackers-patch-critical-flaw</id>
+        <link href="https://www.darkreading.com/attacks-breaches/citrix-adc-gateway-users-race-against-hackers-patch-critical-flaw"/>
+        <updated>2022-12-13T18:38:00.000Z</updated>
+        <summary type="html"><![CDATA[Citrix issues a critical update as NSA warns that the APT5 threat group is actively trying to target ADC environments.]]></summary>
+        <author>
+            <name>Dark Reading Staff, Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google Launches Largest Distributed Database of Open Source Vulnerabilities]]></title>
+        <id>https://thehackernews.com/2022/12/google-launches-largest-distributed.html</id>
+        <link href="https://thehackernews.com/2022/12/google-launches-largest-distributed.html"/>
+        <updated>2022-12-13T18:22:00.000Z</updated>
+        <summary type="html"><![CDATA[Google on Tuesday announced the open source availability of OSV-Scanner, a scanner that aims to offer easy access to vulnerability information about various projects.
+The Go-based tool, powered by the Open Source Vulnerabilities (OSV) database, is designed to connect "a project's list of dependencies with the vulnerabilities that affect them," Google software engineer Rex Pan in a post shared]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Accelerating Vulnerability Identification and Remediation]]></title>
+        <id>https://www.darkreading.com/vulnerabilities-threats/accelerating-vulnerability-identification-and-remediation-</id>
+        <link href="https://www.darkreading.com/vulnerabilities-threats/accelerating-vulnerability-identification-and-remediation-"/>
+        <updated>2022-12-13T18:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Software teams can now fix bugs faster with faster release cycles, but breach pressure is increasing. Using SBOM and automation will help better detect, prevent, and remediate security issues throughout the software development life cycle.]]></summary>
+        <author>
+            <name>Eylam Milner, Senior Director, Software Supply Chain, Aqua Security</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CISA Updates Advisory on #StopRansomware: Cuba Ransomware]]></title>
+        <id>18199 at https://us-cert.cisa.gov</id>
+        <link href="https://us-cert.cisa.gov/ncas/current-activity/2022/12/13/cisa-updates-advisory-stopransomware-cuba-ransomware"/>
+        <updated>2022-12-13T17:59:00.000Z</updated>
+        <summary type="html"><![CDATA[Original release date: December 13, 2022
+The Federal Bureau of Investigation (FBI) and CISA have updated joint Cybersecurity Advisory AA22-335A: #StopRansomware: Cuba Ransomware, originally released on December 01, 2022. The advisory has been updated to include additional indicators of compromise (IOCs).
+CISA encourages organizations to review the latest update to AA22-335A and apply the recommended mitigations.
+This product is provided subject to this Notification and this Privacy & Use policy.]]></summary>
+        <author>
+            <name>CISA</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Citrix Releases Security Updates for Citrix ADC, Citrix Gateway]]></title>
+        <id>18210 at https://us-cert.cisa.gov</id>
+        <link href="https://us-cert.cisa.gov/ncas/current-activity/2022/12/13/citrix-releases-security-updates-citrix-adc-citrix-gateway"/>
+        <updated>2022-12-13T17:02:31.000Z</updated>
+        <summary type="html"><![CDATA[Original release date: December 13, 2022
+Citrix has released security updates to address a critical vulnerability (CVE-2022-27518) in Citrix ADC and Citrix Gateway. An attacker could exploit this vulnerability to take control of an affected system. This vulnerability has been exploited in the wild.
+CISA encourages users and administrators to review Citrix security bulletin CTX457836 and Citrix’s blog post for more information and to apply the necessary updates. Additionally, CISA urges organizations to review NSA’s advisory APT5: Citrix ADC Threat Hunting Guidance for detection and mitigation guidance against tools employed by a malicious actor targeting vulnerable Citrix ADC systems.
+This product is provided subject to this Notification and this Privacy & Use policy.]]></summary>
+        <author>
+            <name>CISA</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Security Flaw in Atlassian Products Affecting Multiple Companies]]></title>
+        <id>https://www.darkreading.com/threat-intelligence/security-flaw-in-atlassian-products-affecting-multiple-companies</id>
+        <link href="https://www.darkreading.com/threat-intelligence/security-flaw-in-atlassian-products-affecting-multiple-companies"/>
+        <updated>2022-12-13T17:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Jira, Confluence,Trello, and BitBucket affected.]]></summary>
+        <author>
+            <name>Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Niels Provos Joins Lacework as Head of Security Efficacy]]></title>
+        <id>https://www.darkreading.com/cloud/niels-provos-joins-lacework-as-head-of-security-efficacy</id>
+        <link href="https://www.darkreading.com/cloud/niels-provos-joins-lacework-as-head-of-security-efficacy"/>
+        <updated>2022-12-13T15:43:00.000Z</updated>
+        <summary type="html"><![CDATA[Former Head of Security at Stripe and Distinguished Security Engineer at Google joins cloud security leader to help scale security excellence across customer base.]]></summary>
+        <author>
+            <name>Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google Cloud and Palo Alto Networks Team to Protect the Modern Workforce]]></title>
+        <id>https://www.darkreading.com/remote-workforce/google-cloud-and-palo-alto-networks-team-to-protect-the-modern-workforce</id>
+        <link href="https://www.darkreading.com/remote-workforce/google-cloud-and-palo-alto-networks-team-to-protect-the-modern-workforce"/>
+        <updated>2022-12-13T15:37:00.000Z</updated>
+        <summary type="html"><![CDATA[Enterprises can now adopt the industry's most comprehensive Zero Trust Network Access 2.0 to secure access to all applications from any device.]]></summary>
+        <author>
+            <name>Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[KnowBe4 Supports Metaverse Safety Week]]></title>
+        <id>https://www.darkreading.com/vulnerabilities-threats/knowbe4-supports-metaverse-safety-week</id>
+        <link href="https://www.darkreading.com/vulnerabilities-threats/knowbe4-supports-metaverse-safety-week"/>
+        <updated>2022-12-13T15:32:00.000Z</updated>
+        <summary type="html"><![CDATA[.]]></summary>
+        <author>
+            <name>Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Report: 79% of Employees Are Distracted at Work Amid a Year of Permacrisis]]></title>
+        <id>https://www.darkreading.com/vulnerabilities-threats/report-79-of-employees-are-distracted-at-work-amid-a-year-of-permacrisis</id>
+        <link href="https://www.darkreading.com/vulnerabilities-threats/report-79-of-employees-are-distracted-at-work-amid-a-year-of-permacrisis"/>
+        <updated>2022-12-13T15:25:00.000Z</updated>
+        <summary type="html"><![CDATA[1Password's annual State of Access report reveals that distracted employees are twice as likely to do the bare minimum for security at work.]]></summary>
+        <author>
+            <name>Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hackers Score Nearly $1M at Device-Focused Pwn2Own Contest]]></title>
+        <id>https://www.darkreading.com/application-security/hackers-score-nearly-1-million-at-device-focused-pwn2own-contest</id>
+        <link href="https://www.darkreading.com/application-security/hackers-score-nearly-1-million-at-device-focused-pwn2own-contest"/>
+        <updated>2022-12-13T15:10:00.000Z</updated>
+        <summary type="html"><![CDATA[Offensive security researchers found 63 previously unreported vulnerabilities in printers, phones, and network-attached storage devices in the Zero Day Initiative's latest hackathon.]]></summary>
+        <author>
+            <name>Robert Lemos, Contributing Writer, Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Cybersecurity Industry Doesn't Have a Stress Problem — It Has a Leadership Problem]]></title>
+        <id>https://www.darkreading.com/operations/the-cybersecurity-industry-doesn-t-have-a-stress-problem-it-has-a-leadership-problem</id>
+        <link href="https://www.darkreading.com/operations/the-cybersecurity-industry-doesn-t-have-a-stress-problem-it-has-a-leadership-problem"/>
+        <updated>2022-12-13T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Organizations need servant leaders to step forward and make their teams' professional effectiveness and happiness a priority.]]></summary>
+        <author>
+            <name>Tyler Farrar, CISO, Exabeam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CyberheistNews Vol 12 #50 [EYE OPENER] How ChatGPT Can Be Used for Social Engineering]]></title>
+        <id>https://blog.knowbe4.com/cyberheistnews-vol-12-50-eye-opener-how-chatgpt-can-be-used-for-social-engineering</id>
+        <link href="https://blog.knowbe4.com/cyberheistnews-vol-12-50-eye-opener-how-chatgpt-can-be-used-for-social-engineering"/>
+        <updated>2022-12-13T14:30:00.000Z</updated>
+        <summary type="html"><![CDATA[CyberheistNews Vol 12 #50 [EYE OPENER] How ChatGPT Can Be Used for Social Engineering]]></summary>
+        <author>
+            <name>Stu Sjouwerman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Third Annual Global CISO Report Identifies Significant Shifts in Hiring and Retaining Security Talent]]></title>
+        <id>https://www.darkreading.com/operations/third-annual-global-ciso-report-identifies-significant-shifts-in-hiring-and-retaining-security-talent</id>
+        <link href="https://www.darkreading.com/operations/third-annual-global-ciso-report-identifies-significant-shifts-in-hiring-and-retaining-security-talent"/>
+        <updated>2022-12-13T14:25:00.000Z</updated>
+        <summary type="html"><![CDATA[Research from Marlin Hawk also shows a 15% increase in CISOs holding STEM-related degrees year-over-year, diversifying the succession talent pool.]]></summary>
+        <author>
+            <name>Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Uber Breached, Again, After Attackers Compromise Third-Party Cloud]]></title>
+        <id>https://www.darkreading.com/attacks-breaches/uber-breached-again-attackers-compromise-third-party-cloud</id>
+        <link href="https://www.darkreading.com/attacks-breaches/uber-breached-again-attackers-compromise-third-party-cloud"/>
+        <updated>2022-12-13T14:08:23.000Z</updated>
+        <summary type="html"><![CDATA[Threat actors leak employee email addresses, corporate reports, and IT asset information on a hacker forum after an attack on an Uber technology partner.]]></summary>
+        <author>
+            <name>Elizabeth Montalbano, Contributor, Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Serious Attacks Could Have Been Staged Through This Amazon ECR Public Gallery Vulnerability]]></title>
+        <id>https://thehackernews.com/2022/12/serious-attacks-could-have-been-staged.html</id>
+        <link href="https://thehackernews.com/2022/12/serious-attacks-could-have-been-staged.html"/>
+        <updated>2022-12-13T13:58:00.000Z</updated>
+        <summary type="html"><![CDATA[A critical security flaw has been disclosed in Amazon Elastic Container Registry (ECR) Public Gallery that could have been potentially exploited to stage a multitude of attacks, according to cloud security firm Lightspin.
+"By exploiting this vulnerability, a malicious actor could delete all images in the Amazon ECR Public Gallery or update the image contents to inject malicious code," Gafnit]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CISA Phishing Infographic Contains a Lot of Good Information]]></title>
+        <id>https://blog.knowbe4.com/cisa-phishing-infographic-contains-a-lot-of-good-information</id>
+        <link href="https://blog.knowbe4.com/cisa-phishing-infographic-contains-a-lot-of-good-information"/>
+        <updated>2022-12-13T13:54:06.000Z</updated>
+        <summary type="html"><![CDATA[On December 8th, the Cybersecurity & Infrastructure Security Agency (CISA) released a great phishing infographic about data collected, lessons learned and recommendations learned from simulated phishing attacks that CISA has done for organizations. It is a great, independent, unbiased infographic with a lot of good data and recommendations. If you and your organization follow the included recommendations, you will be better off.]]></summary>
+        <author>
+            <name>Roger Grimes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CISA Releases Three Industrial Control Systems Advisories]]></title>
+        <id>18205 at https://us-cert.cisa.gov</id>
+        <link href="https://us-cert.cisa.gov/ncas/current-activity/2022/12/13/cisa-releases-three-industrial-control-systems-advisories"/>
+        <updated>2022-12-13T13:37:20.000Z</updated>
+        <summary type="html"><![CDATA[Original release date: December 13, 2022
+CISA has released three (3) Industrial Control Systems (ICS) advisories on December 13, 2022. These advisories provide timely information about current security issues, vulnerabilities, and exploits surrounding ICS.
+CISA encourages users and administrators to review the newly released ICS advisories for technical details and mitigations:
+•    ICSA-22-347-01 ICONICS and Mitsubishi Electric Products
+Schneider Electric APC Easy UPS Online
+Contec CONPROSSYS HMI System (CHS)
+This product is provided subject to this Notification and this Privacy & Use policy.]]></summary>
+        <author>
+            <name>CISA</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Cybersecurity Experts Uncover Inner Workings of Destructive Azov Ransomware]]></title>
         <id>https://thehackernews.com/2022/12/cybersecurity-experts-uncover-inner.html</id>
@@ -4580,29 +4774,6 @@ The aim of the test is to understand what vulnerabilities you have, how they cou
 Usually performed first, an external pentest (also]]></summary>
         <author>
             <name>noreply@blogger.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New KmsdBot Malware Hijacking Systems for Mining Crypto and Launch DDoS Attacks]]></title>
-        <id>tag:blogger.com,1999:blog-4802841478634147276.post-3883691087466851371</id>
-        <link href="https://thehackernews.com/2022/11/new-kmsdbot-malware-hijacking-systems.html"/>
-        <updated>2022-11-14T07:14:00.000Z</updated>
-        <summary type="html"><![CDATA[A newly discovered evasive malware leverages the Secure Shell (SSH) cryptographic protocol to gain entry into targeted systems with the goal of mining cryptocurrency and carrying out distributed denial-of-service (DDoS) attacks.
-Dubbed KmsdBot by the Akamai Security Intelligence Response Team (SIRT), the Golang-based malware has been found targeting a variety of companies ranging from gaming to]]></summary>
-        <author>
-            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Worok Hackers Abuse Dropbox API to Exfiltrate Data via Backdoor Hidden in Images]]></title>
-        <id>tag:blogger.com,1999:blog-4802841478634147276.post-2521656103545927596</id>
-        <link href="https://thehackernews.com/2022/11/worok-hackers-abuse-dropbox-api-to.html"/>
-        <updated>2022-11-14T06:05:00.000Z</updated>
-        <summary type="html"><![CDATA[A recently discovered cyber espionage group dubbed Worok has been found hiding malware in seemingly innocuous image files, corroborating a crucial link in the threat actor's infection chain.
-Czech cybersecurity firm Avast said the purpose of the PNG files is to conceal a payload that's used to facilitate information theft.
-"What is noteworthy is data collection from victims' machines using]]></summary>
-        <author>
-            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
         </author>
     </entry>
     <entry>

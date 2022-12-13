@@ -43,6 +43,36 @@
       "siteUrl": "https://us-cert.cisa.gov/",
       "articles": [
         {
+          "id": "18199 at https://us-cert.cisa.gov",
+          "author": "CISA",
+          "description": "Original release date: December 13, 2022\nThe Federal Bureau of Investigation (FBI) and CISA have updated joint Cybersecurity Advisory AA22-335A: #StopRansomware: Cuba Ransomware, originally released on December 01, 2022. The advisory has been updated to include additional indicators of compromise (IOCs).\nCISA encourages organizations to review the latest update to AA22-335A and apply the recommended mitigations.\nThis product is provided subject to this Notification and this Privacy & Use policy.",
+          "link": "https://us-cert.cisa.gov/ncas/current-activity/2022/12/13/cisa-updates-advisory-stopransomware-cuba-ransomware",
+          "publishedOn": "2022-12-13T17:59:00.000Z",
+          "wordCount": 877,
+          "title": "CISA Updates Advisory on #StopRansomware: Cuba Ransomware",
+          "imageUrl": null
+        },
+        {
+          "id": "18210 at https://us-cert.cisa.gov",
+          "author": "CISA",
+          "description": "Original release date: December 13, 2022\nCitrix has released security updates to address a critical vulnerability (CVE-2022-27518) in Citrix ADC and Citrix Gateway. An attacker could exploit this vulnerability to take control of an affected system. This vulnerability has been exploited in the wild.\nCISA encourages users and administrators to review Citrix security bulletin CTX457836 and Citrix’s blog post for more information and to apply the necessary updates. Additionally, CISA urges organizations to review NSA’s advisory APT5: Citrix ADC Threat Hunting Guidance for detection and mitigation guidance against tools employed by a malicious actor targeting vulnerable Citrix ADC systems.\nThis product is provided subject to this Notification and this Privacy & Use policy.",
+          "link": "https://us-cert.cisa.gov/ncas/current-activity/2022/12/13/citrix-releases-security-updates-citrix-adc-citrix-gateway",
+          "publishedOn": "2022-12-13T17:02:31.000Z",
+          "wordCount": 926,
+          "title": "Citrix Releases Security Updates for Citrix ADC, Citrix Gateway",
+          "imageUrl": null
+        },
+        {
+          "id": "18205 at https://us-cert.cisa.gov",
+          "author": "CISA",
+          "description": "Original release date: December 13, 2022\nCISA has released three (3) Industrial Control Systems (ICS) advisories on December 13, 2022. These advisories provide timely information about current security issues, vulnerabilities, and exploits surrounding ICS.\nCISA encourages users and administrators to review the newly released ICS advisories for technical details and mitigations:\n•    ICSA-22-347-01 ICONICS and Mitsubishi Electric Products\nSchneider Electric APC Easy UPS Online\nContec CONPROSSYS HMI System (CHS)\nThis product is provided subject to this Notification and this Privacy & Use policy.",
+          "link": "https://us-cert.cisa.gov/ncas/current-activity/2022/12/13/cisa-releases-three-industrial-control-systems-advisories",
+          "publishedOn": "2022-12-13T13:37:20.000Z",
+          "wordCount": 894,
+          "title": "CISA Releases Three Industrial Control Systems Advisories",
+          "imageUrl": null
+        },
+        {
           "id": "18201 at https://us-cert.cisa.gov",
           "author": "CISA",
           "description": "Original release date: December 12, 2022\nFortinet has released security updates to address a heap-based buffer overflow vulnerability (CVE-2022-42475) in FortiOS. An attacker could exploit this vulnerability to take control of an affected system. This vulnerability has been exploited in the wild. \nCISA encourages users and administrators to review Fortinet security advisory FG-IR-22-368, apply the necessary updates, and validate systems against the IOCs listed in the advisory. \nThis product is provided subject to this Notification and this Privacy & Use policy.",
@@ -290,6 +320,141 @@
       "feedUrl": "https://www.darkreading.com/rss.xml",
       "siteUrl": "https://www.darkreading.com",
       "articles": [
+        {
+          "id": "https://www.darkreading.com/attacks-breaches/citrix-adc-gateway-users-race-against-hackers-patch-critical-flaw",
+          "author": "Dark Reading Staff, Dark Reading",
+          "description": "Citrix issues a critical update as NSA warns that the APT5 threat group is actively trying to target ADC environments.",
+          "link": "https://www.darkreading.com/attacks-breaches/citrix-adc-gateway-users-race-against-hackers-patch-critical-flaw",
+          "publishedOn": "2022-12-13T18:38:00.000Z",
+          "wordCount": 8901,
+          "title": "Citrix ADC, Gateway Users Race Against Hackers to Patch Critical Flaw",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blte161b23f0fd3a84b/60b1ea374e7eb868c4c6a293/dr_staff_125x125.jpg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blte161b23f0fd3a84b/60b1ea374e7eb868c4c6a293/dr_staff_125x125.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/vulnerabilities-threats/accelerating-vulnerability-identification-and-remediation-",
+          "author": "Eylam Milner, Senior Director, Software Supply Chain, Aqua Security",
+          "description": "Software teams can now fix bugs faster with faster release cycles, but breach pressure is increasing. Using SBOM and automation will help better detect, prevent, and remediate security issues throughout the software development life cycle.",
+          "link": "https://www.darkreading.com/vulnerabilities-threats/accelerating-vulnerability-identification-and-remediation-",
+          "publishedOn": "2022-12-13T18:00:00.000Z",
+          "wordCount": 11889,
+          "title": "Accelerating Vulnerability Identification and Remediation",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt841db47f9767a474/639605fe9091c10928894a8d/Eylam_Milner.jpg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt841db47f9767a474/639605fe9091c10928894a8d/Eylam_Milner.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/threat-intelligence/security-flaw-in-atlassian-products-affecting-multiple-companies",
+          "author": null,
+          "description": "Jira, Confluence,Trello, and BitBucket affected.",
+          "link": "https://www.darkreading.com/threat-intelligence/security-flaw-in-atlassian-products-affecting-multiple-companies",
+          "publishedOn": "2022-12-13T17:00:00.000Z",
+          "wordCount": 10189,
+          "title": "Security Flaw in Atlassian Products Affecting Multiple Companies",
+          "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/cloud/niels-provos-joins-lacework-as-head-of-security-efficacy",
+          "author": null,
+          "description": "Former Head of Security at Stripe and Distinguished Security Engineer at Google joins cloud security leader to help scale security excellence across customer base.",
+          "link": "https://www.darkreading.com/cloud/niels-provos-joins-lacework-as-head-of-security-efficacy",
+          "publishedOn": "2022-12-13T15:43:00.000Z",
+          "wordCount": 10297,
+          "title": "Niels Provos Joins Lacework as Head of Security Efficacy",
+          "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/remote-workforce/google-cloud-and-palo-alto-networks-team-to-protect-the-modern-workforce",
+          "author": null,
+          "description": "Enterprises can now adopt the industry's most comprehensive Zero Trust Network Access 2.0 to secure access to all applications from any device.",
+          "link": "https://www.darkreading.com/remote-workforce/google-cloud-and-palo-alto-networks-team-to-protect-the-modern-workforce",
+          "publishedOn": "2022-12-13T15:37:00.000Z",
+          "wordCount": 10695,
+          "title": "Google Cloud and Palo Alto Networks Team to Protect the Modern Workforce",
+          "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/vulnerabilities-threats/knowbe4-supports-metaverse-safety-week",
+          "author": null,
+          "description": ".",
+          "link": "https://www.darkreading.com/vulnerabilities-threats/knowbe4-supports-metaverse-safety-week",
+          "publishedOn": "2022-12-13T15:32:00.000Z",
+          "wordCount": 10160,
+          "title": "KnowBe4 Supports Metaverse Safety Week",
+          "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/vulnerabilities-threats/report-79-of-employees-are-distracted-at-work-amid-a-year-of-permacrisis",
+          "author": null,
+          "description": "1Password's annual State of Access report reveals that distracted employees are twice as likely to do the bare minimum for security at work.",
+          "link": "https://www.darkreading.com/vulnerabilities-threats/report-79-of-employees-are-distracted-at-work-amid-a-year-of-permacrisis",
+          "publishedOn": "2022-12-13T15:25:00.000Z",
+          "wordCount": 12117,
+          "title": "Report: 79% of Employees Are Distracted at Work Amid a Year of Permacrisis",
+          "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/application-security/hackers-score-nearly-1-million-at-device-focused-pwn2own-contest",
+          "author": "Robert Lemos, Contributing Writer, Dark Reading",
+          "description": "Offensive security researchers found 63 previously unreported vulnerabilities in printers, phones, and network-attached storage devices in the Zero Day Initiative's latest hackathon.",
+          "link": "https://www.darkreading.com/application-security/hackers-score-nearly-1-million-at-device-focused-pwn2own-contest",
+          "publishedOn": "2022-12-13T15:10:00.000Z",
+          "wordCount": 10746,
+          "title": "Hackers Score Nearly $1M at Device-Focused Pwn2Own Contest",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt58481326324d6911/60b1e9a55d34de550780a990/Robert-Lemos.png",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt58481326324d6911/60b1e9a55d34de550780a990/Robert-Lemos.png"
+        },
+        {
+          "id": "https://www.darkreading.com/operations/the-cybersecurity-industry-doesn-t-have-a-stress-problem-it-has-a-leadership-problem",
+          "author": "Tyler Farrar, CISO, Exabeam",
+          "description": "Organizations need servant leaders to step forward and make their teams' professional effectiveness and happiness a priority.",
+          "link": "https://www.darkreading.com/operations/the-cybersecurity-industry-doesn-t-have-a-stress-problem-it-has-a-leadership-problem",
+          "publishedOn": "2022-12-13T15:00:00.000Z",
+          "wordCount": 11715,
+          "title": "The Cybersecurity Industry Doesn't Have a Stress Problem — It Has a Leadership Problem",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltf3aebd51e47348f2/626aa9531b8c3465b79a4585/tyler-farrar-300x300_(002).jpeg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltf3aebd51e47348f2/626aa9531b8c3465b79a4585/tyler-farrar-300x300_(002).jpeg"
+        },
+        {
+          "id": "https://www.darkreading.com/operations/third-annual-global-ciso-report-identifies-significant-shifts-in-hiring-and-retaining-security-talent",
+          "author": null,
+          "description": "Research from Marlin Hawk also shows a 15% increase in CISOs holding STEM-related degrees year-over-year, diversifying the succession talent pool.",
+          "link": "https://www.darkreading.com/operations/third-annual-global-ciso-report-identifies-significant-shifts-in-hiring-and-retaining-security-talent",
+          "publishedOn": "2022-12-13T14:25:00.000Z",
+          "wordCount": 12494,
+          "title": "Third Annual Global CISO Report Identifies Significant Shifts in Hiring and Retaining Security Talent",
+          "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/attacks-breaches/uber-breached-again-attackers-compromise-third-party-cloud",
+          "author": "Elizabeth Montalbano, Contributor, Dark Reading",
+          "description": "Threat actors leak employee email addresses, corporate reports, and IT asset information on a hacker forum after an attack on an Uber technology partner.",
+          "link": "https://www.darkreading.com/attacks-breaches/uber-breached-again-attackers-compromise-third-party-cloud",
+          "publishedOn": "2022-12-13T14:08:23.000Z",
+          "wordCount": 12158,
+          "title": "Uber Breached, Again, After Attackers Compromise Third-Party Cloud",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltbfd004d139d42d70/6303bca6236c2476a257760e/ElizabethMontalbano.jpg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltbfd004d139d42d70/6303bca6236c2476a257760e/ElizabethMontalbano.jpg"
+        },
         {
           "id": "https://www.darkreading.com/remote-workforce/rash-new-ransomware-variants-in-the-wild",
           "author": "Jai Vijayan, Contributing Writer, Dark Reading",
@@ -3244,6 +3409,26 @@
       "siteUrl": "https://blog.knowbe4.com",
       "articles": [
         {
+          "id": "https://blog.knowbe4.com/cyberheistnews-vol-12-50-eye-opener-how-chatgpt-can-be-used-for-social-engineering",
+          "author": "Stu Sjouwerman",
+          "description": "CyberheistNews Vol 12 #50 [EYE OPENER] How ChatGPT Can Be Used for Social Engineering",
+          "link": "https://blog.knowbe4.com/cyberheistnews-vol-12-50-eye-opener-how-chatgpt-can-be-used-for-social-engineering",
+          "publishedOn": "2022-12-13T14:30:00.000Z",
+          "wordCount": 4946,
+          "title": "CyberheistNews Vol 12 #50 [EYE OPENER] How ChatGPT Can Be Used for Social Engineering",
+          "imageUrl": "https://blog.knowbe4.com/hubfs/CHN-Social.jpg#keepProtocol"
+        },
+        {
+          "id": "https://blog.knowbe4.com/cisa-phishing-infographic-contains-a-lot-of-good-information",
+          "author": "Roger Grimes",
+          "description": "On December 8th, the Cybersecurity & Infrastructure Security Agency (CISA) released a great phishing infographic about data collected, lessons learned and recommendations learned from simulated phishing attacks that CISA has done for organizations. It is a great, independent, unbiased infographic with a lot of good data and recommendations. If you and your organization follow the included recommendations, you will be better off.",
+          "link": "https://blog.knowbe4.com/cisa-phishing-infographic-contains-a-lot-of-good-information",
+          "publishedOn": "2022-12-13T13:54:06.000Z",
+          "wordCount": 3356,
+          "title": "CISA Phishing Infographic Contains a Lot of Good Information",
+          "imageUrl": "https://blog.knowbe4.com/hubfs/Social%20Image%20Repository/Evangelist%20Blog%20Social%20Graphics/Evangelists-Roger%20Grimes.jpg#keepProtocol"
+        },
+        {
           "id": "https://blog.knowbe4.com/case-study-new-school-approach-to-training-and-simulated-phishing-shines-over-traditional-lms",
           "author": "Stu Sjouwerman",
           "description": "A U.S.-based enterprise manufacturing organization cut their Phish-prone Percentage™ (PPP) by more than 80% after five months using the KnowBe4 security awareness training and simulated phishing platform.",
@@ -3810,6 +3995,38 @@
       "feedUrl": "https://thehackernews.com/feeds/posts/default",
       "siteUrl": "https://thehackernews.com",
       "articles": [
+        {
+          "id": "https://thehackernews.com/2022/12/google-launches-largest-distributed.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Google on Tuesday announced the open source availability of OSV-Scanner, a scanner that aims to offer easy access to vulnerability information about various projects.\nThe Go-based tool, powered by the Open Source Vulnerabilities (OSV) database, is designed to connect \"a project's list of dependencies with the vulnerabilities that affect them,\" Google software engineer Rex Pan in a post shared",
+          "link": "https://thehackernews.com/2022/12/google-launches-largest-distributed.html",
+          "publishedOn": "2022-12-13T18:22:00.000Z",
+          "wordCount": null,
+          "title": "Google Launches Largest Distributed Database of Open Source Vulnerabilities",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEis6oAWStQsLIkq7eQ6yKYLfR9X7BAk70-AhJERFb7YRdEsu2xKG-0YqkBQ85JWGckWc6_ZLnN_mwFOTMsOQ07faoSNtA47RZOVCv3eEVel-EAduFV3dRS4Y8aoyDW7aTs2DGG0jQ5NTcdEHUZHCfEcHnAxq-80IOcKwJKLZ-N0lTLHPWy2NQBrTE9i/s1600/OSV.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEis6oAWStQsLIkq7eQ6yKYLfR9X7BAk70-AhJERFb7YRdEsu2xKG-0YqkBQ85JWGckWc6_ZLnN_mwFOTMsOQ07faoSNtA47RZOVCv3eEVel-EAduFV3dRS4Y8aoyDW7aTs2DGG0jQ5NTcdEHUZHCfEcHnAxq-80IOcKwJKLZ-N0lTLHPWy2NQBrTE9i/s1600/OSV.png"
+        },
+        {
+          "id": "https://thehackernews.com/2022/12/serious-attacks-could-have-been-staged.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "A critical security flaw has been disclosed in Amazon Elastic Container Registry (ECR) Public Gallery that could have been potentially exploited to stage a multitude of attacks, according to cloud security firm Lightspin.\n\"By exploiting this vulnerability, a malicious actor could delete all images in the Amazon ECR Public Gallery or update the image contents to inject malicious code,\" Gafnit",
+          "link": "https://thehackernews.com/2022/12/serious-attacks-could-have-been-staged.html",
+          "publishedOn": "2022-12-13T13:58:00.000Z",
+          "wordCount": null,
+          "title": "Serious Attacks Could Have Been Staged Through This Amazon ECR Public Gallery Vulnerability",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEioBACCeqyYIFtiNZxNbPnN3PXODoXgRypKKnobEiAiS5iOmaerlcK7eVLl6675HzkRkfjIc8oUaT_4kfJlr3L916R5bTNfopMPcgW9I_qe69E4DtLnefxuzUVbBK8R2994eeqrhHmch_WxPoVBjkeMmUVyAAJXO7NWdF7zEx1uuYs2taFN3ZJj9Aqg/s1600/amazon.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEioBACCeqyYIFtiNZxNbPnN3PXODoXgRypKKnobEiAiS5iOmaerlcK7eVLl6675HzkRkfjIc8oUaT_4kfJlr3L916R5bTNfopMPcgW9I_qe69E4DtLnefxuzUVbBK8R2994eeqrhHmch_WxPoVBjkeMmUVyAAJXO7NWdF7zEx1uuYs2taFN3ZJj9Aqg/s1600/amazon.png"
+        },
         {
           "id": "https://thehackernews.com/2022/12/cybersecurity-experts-uncover-inner.html",
           "author": "info@thehackernews.com (The Hacker News)",
@@ -5503,28 +5720,6 @@
           "publishedOn": "2022-11-14T10:30:00.000Z",
           "wordCount": null,
           "title": "What is an External Penetration Test?",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "tag:blogger.com,1999:blog-4802841478634147276.post-3883691087466851371",
-          "author": "noreply@blogger.com (Ravie Lakshmanan)",
-          "description": "A newly discovered evasive malware leverages the Secure Shell (SSH) cryptographic protocol to gain entry into targeted systems with the goal of mining cryptocurrency and carrying out distributed denial-of-service (DDoS) attacks.\nDubbed KmsdBot by the Akamai Security Intelligence Response Team (SIRT), the Golang-based malware has been found targeting a variety of companies ranging from gaming to",
-          "link": "https://thehackernews.com/2022/11/new-kmsdbot-malware-hijacking-systems.html",
-          "publishedOn": "2022-11-14T07:14:00.000Z",
-          "wordCount": null,
-          "title": "New KmsdBot Malware Hijacking Systems for Mining Crypto and Launch DDoS Attacks",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "tag:blogger.com,1999:blog-4802841478634147276.post-2521656103545927596",
-          "author": "noreply@blogger.com (Ravie Lakshmanan)",
-          "description": "A recently discovered cyber espionage group dubbed Worok has been found hiding malware in seemingly innocuous image files, corroborating a crucial link in the threat actor's infection chain.\nCzech cybersecurity firm Avast said the purpose of the PNG files is to conceal a payload that's used to facilitate information theft.\n\"What is noteworthy is data collection from victims' machines using",
-          "link": "https://thehackernews.com/2022/11/worok-hackers-abuse-dropbox-api-to.html",
-          "publishedOn": "2022-11-14T06:05:00.000Z",
-          "wordCount": null,
-          "title": "Worok Hackers Abuse Dropbox API to Exfiltrate Data via Backdoor Hidden in Images",
           "itunes": {},
           "imageUrl": null
         }
