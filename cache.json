@@ -371,6 +371,21 @@
       "siteUrl": "https://www.darkreading.com",
       "articles": [
         {
+          "id": "https://www.darkreading.com/edge-threat-monitor/cybersecurity-drives-improvements-in-business-goals",
+          "author": "Edge Editors, Dark Reading",
+          "description": "Deloitte's Future of Cyber study highlights the fact that cybersecurity is an essential part of business success and should not be limited to just mitigating IT risks.",
+          "link": "https://www.darkreading.com/edge-threat-monitor/cybersecurity-drives-improvements-in-business-goals",
+          "publishedOn": "2022-12-13T23:00:00.000Z",
+          "wordCount": null,
+          "title": "Cybersecurity Drives Improvements in Business Goals",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltbeb30fde8ec73a32/60d4432c2446e93b5b5a0e0c/Edge-Editors.png",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltbeb30fde8ec73a32/60d4432c2446e93b5b5a0e0c/Edge-Editors.png"
+        },
+        {
           "id": "https://www.darkreading.com/application-security/microsoft-squashes-zero-day-actively-exploited-bugs-dec-update",
           "author": "Jai Vijayan, Contributing Writer, Dark Reading",
           "description": "Here's what you need to patch now, including six critical updates for Microsoft's final Patch Tuesday of the year.",
@@ -384,6 +399,21 @@
             "length": "0"
           },
           "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt02d79fb9a44a4258/60b1e9dd2a25046b35110696/Jai-Vijayan.jpeg"
+        },
+        {
+          "id": "https://www.darkreading.com/dr-tech/google-launches-scanner-to-uncover-open-source-vulnerabilities",
+          "author": "Dark Reading Staff, Dark Reading",
+          "description": "OSV-Scanner generates a list of dependencies in a project and checks the OSV database for known vulnerabilities, Google says.",
+          "link": "https://www.darkreading.com/dr-tech/google-launches-scanner-to-uncover-open-source-vulnerabilities",
+          "publishedOn": "2022-12-13T22:00:00.000Z",
+          "wordCount": null,
+          "title": "Google Launches Scanner to Uncover Open Source Vulnerabilities",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blte161b23f0fd3a84b/60b1ea374e7eb868c4c6a293/dr_staff_125x125.jpg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blte161b23f0fd3a84b/60b1ea374e7eb868c4c6a293/dr_staff_125x125.jpg"
         },
         {
           "id": "https://www.darkreading.com/attacks-breaches/citrix-adc-gateway-users-race-against-hackers-patch-critical-flaw",
@@ -3289,51 +3319,6 @@
           "wordCount": 11473,
           "title": "Bugcrowd Earns CREST Accreditation for Pen Testing",
           "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
-        },
-        {
-          "id": "https://www.darkreading.com/dr-tech/swimlane-introduces-low-code-automation-approach-to-ot-security",
-          "author": "Nathan Eddy, Contributing Writer, Dark Reading",
-          "description": "Automating security for OT infrastructure can help organizations combat a rising volume of cyber threats in an era when security professionals are in short supply.",
-          "link": "https://www.darkreading.com/dr-tech/swimlane-introduces-low-code-automation-approach-to-ot-security",
-          "publishedOn": "2022-11-14T23:00:00.000Z",
-          "wordCount": 13076,
-          "title": "Swimlane Introduces Low-Code, Automation Approach to OT Security",
-          "enclosure": {
-            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltf8b5a94afa71c53a/628e3799daa31875dc0c9fc0/NathanEddyHeadshot.PNG",
-            "type": "image/*",
-            "length": "0"
-          },
-          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltf8b5a94afa71c53a/628e3799daa31875dc0c9fc0/NathanEddyHeadshot.PNG"
-        },
-        {
-          "id": "https://www.darkreading.com/attacks-breaches/researchers-alarm-batloader-malware-dropper",
-          "author": "Jai Vijayan, Contributing Writer, Dark Reading",
-          "description": "BatLoader has spread rapidly to roost in systems globally, tailoring payloads to its victims.",
-          "link": "https://www.darkreading.com/attacks-breaches/researchers-alarm-batloader-malware-dropper",
-          "publishedOn": "2022-11-14T21:45:00.000Z",
-          "wordCount": 13059,
-          "title": "Researchers Sound Alarm on Dangerous BatLoader Malware Dropper",
-          "enclosure": {
-            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt02d79fb9a44a4258/60b1e9dd2a25046b35110696/Jai-Vijayan.jpeg",
-            "type": "image/*",
-            "length": "0"
-          },
-          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt02d79fb9a44a4258/60b1e9dd2a25046b35110696/Jai-Vijayan.jpeg"
-        },
-        {
-          "id": "https://www.darkreading.com/threat-intelligence/australia-declares-war-against-cybercriminals",
-          "author": "Dark Reading Staff, Dark Reading",
-          "description": "An international counter-ransomware task force has been announced by Australian authorities following the recent Optus and Medibank data breaches.",
-          "link": "https://www.darkreading.com/threat-intelligence/australia-declares-war-against-cybercriminals",
-          "publishedOn": "2022-11-14T19:45:00.000Z",
-          "wordCount": 10480,
-          "title": "Australia Declares War on Cybercrime Syndicates",
-          "enclosure": {
-            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blte161b23f0fd3a84b/60b1ea374e7eb868c4c6a293/dr_staff_125x125.jpg",
-            "type": "image/*",
-            "length": "0"
-          },
-          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blte161b23f0fd3a84b/60b1ea374e7eb868c4c6a293/dr_staff_125x125.jpg"
         }
       ]
     },
@@ -3408,6 +3393,16 @@
       "feedUrl": "https://blog.knowbe4.com/rss.xml",
       "siteUrl": "https://blog.knowbe4.com",
       "articles": [
+        {
+          "id": "https://blog.knowbe4.com/ughh.-fbis-vetted-threat-sharing-network-infragard-hacked",
+          "author": "Stu Sjouwerman",
+          "description": "Investigative reported Brian Krebs reported December 13, 2022 that \"InfraGard, a program run by the U.S. Federal Bureau of Investigation (FBI) to build cyber and physical threat information sharing partnerships with the private sector, this week saw its database of contact information on more than 80,000 members go up for sale on an English-language cybercrime forum. Meanwhile, the hackers responsible are communicating directly with members through the InfraGard portal online — using a new account under the assumed identity of a financial industry CEO that was vetted by the FBI itself.\"",
+          "link": "https://blog.knowbe4.com/ughh.-fbis-vetted-threat-sharing-network-infragard-hacked",
+          "publishedOn": "2022-12-14T11:12:35.000Z",
+          "wordCount": 2273,
+          "title": "Ughh. FBI’s Vetted Threat Sharing Network ‘InfraGard’ Hacked",
+          "imageUrl": "https://blog.knowbe4.com/hubfs/Welcome-to-Infragard.png#keepProtocol"
+        },
         {
           "id": "https://blog.knowbe4.com/cyberheistnews-vol-12-50-eye-opener-how-chatgpt-can-be-used-for-social-engineering",
           "author": "Stu Sjouwerman",
@@ -3985,6 +3980,22 @@
       "feedUrl": "https://thehackernews.com/feeds/posts/default",
       "siteUrl": "https://thehackernews.com",
       "articles": [
+        {
+          "id": "https://thehackernews.com/2022/12/december-2022-patch-tuesday-get-latest.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Tech giant Microsoft released its last set of monthly security updates for 2022 with fixes for 49 vulnerabilities across its software products.\nOf the 49 bugs, six are rated Critical, 40 are rated Important, and three are rated Moderate in severity. The updates are in addition to 24 vulnerabilities that have been addressed in the Chromium-based Edge browser since the start of the month.",
+          "link": "https://thehackernews.com/2022/12/december-2022-patch-tuesday-get-latest.html",
+          "publishedOn": "2022-12-14T07:53:00.000Z",
+          "wordCount": null,
+          "title": "December 2022 Patch Tuesday: Get Latest Security Updates from Microsoft and More",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRbgwLqZwKl8WbC_KGx4gxaKO_xw8xLb0wcK55QizXmNg8y6iC4DH_Mu-WSdIdlHvzlEyNkMYzMj_rb-_Ff_Mz_Na0blyUjLDxvg_8pTNCGF5b7w2WrdmJjE_S4OiO12SQfDRB2vTTwHNAGk5dfTtJw5hn9KgZxBQzz-mHJ-AfLhccacvrp9tYFcwm/s1600/patch-tuesday.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRbgwLqZwKl8WbC_KGx4gxaKO_xw8xLb0wcK55QizXmNg8y6iC4DH_Mu-WSdIdlHvzlEyNkMYzMj_rb-_Ff_Mz_Na0blyUjLDxvg_8pTNCGF5b7w2WrdmJjE_S4OiO12SQfDRB2vTTwHNAGk5dfTtJw5hn9KgZxBQzz-mHJ-AfLhccacvrp9tYFcwm/s1600/patch-tuesday.png"
+        },
         {
           "id": "https://thehackernews.com/2022/12/hackers-actively-exploiting-citrix-adc.html",
           "author": "info@thehackernews.com (The Hacker News)",
