@@ -2,10 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-14T02:25:48.633Z</updated>
+    <updated>2022-12-14T07:18:58.589Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Hackers Actively Exploiting Citrix ADC and Gateway Zero-Day Vulnerability]]></title>
+        <id>https://thehackernews.com/2022/12/hackers-actively-exploiting-citrix-adc.html</id>
+        <link href="https://thehackernews.com/2022/12/hackers-actively-exploiting-citrix-adc.html"/>
+        <updated>2022-12-14T04:40:00.000Z</updated>
+        <summary type="html"><![CDATA[The U.S. National Security Agency (NSA) on Tuesday said a threat actor tracked as APT5 has been actively exploiting a zero-day flaw in Citrix Application Delivery Controller (ADC) and Gateway to take over affected systems.
+The critical remote code execution vulnerability, identified as CVE-2022-27518, could allow an unauthenticated attacker to execute commands remotely on vulnerable devices and]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New Actively Exploited Zero-Day Vulnerability Discovered in Apple Products]]></title>
+        <id>https://thehackernews.com/2022/12/new-actively-exploited-zero-day.html</id>
+        <link href="https://thehackernews.com/2022/12/new-actively-exploited-zero-day.html"/>
+        <updated>2022-12-14T03:44:00.000Z</updated>
+        <summary type="html"><![CDATA[Apple on Tuesday rolled out security updates to iOS, iPadOS, macOS, tvOS, and Safari web browser to address a new zero-day vulnerability that could result in the execution of malicious code.
+Tracked as CVE-2022-42856, the issue has been described by the tech giant as a type confusion issue in the WebKit browser engine that could be triggered when processing specially crafted content, leading to]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Microsoft Squashes Zero-Day, Actively Exploited Bugs in Dec. Update]]></title>
         <id>https://www.darkreading.com/application-security/microsoft-squashes-zero-day-actively-exploited-bugs-dec-update</id>
@@ -4763,70 +4785,6 @@ Symantec, by Broadcom Software, linked the attacks to an adversarial group it tr
         <summary type="html"><![CDATA[An international counter-ransomware task force has been announced by Australian authorities following the recent Optus and Medibank data breaches.]]></summary>
         <author>
             <name>Dark Reading Staff, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CISA Has Added One Known Exploited Vulnerability to Catalog]]></title>
-        <id>18150 at https://us-cert.cisa.gov</id>
-        <link href="https://us-cert.cisa.gov/ncas/current-activity/2022/11/14/cisa-has-added-one-known-exploited-vulnerability-catalog"/>
-        <updated>2022-11-14T17:08:32.000Z</updated>
-        <summary type="html"><![CDATA[Original release date: November 14, 2022
-CISA has added one new vulnerability to its Known Exploited Vulnerabilities Catalog, based on evidence of active exploitation. This type of vulnerability is a frequent attack vector for malicious cyber actors and pose significant risk to the federal enterprise. Note: To view the newly added vulnerabilities in the catalog, click on the arrow in the "Date Added to Catalog" column, which will sort by descending dates.
-Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the Known Exploited Vulnerabilities Catalog as a living list of known CVEs that carry significant risk to the federal enterprise. BOD 22-01 requires FCEB agencies to remediate identified vulnerabilities by the due date to protect FCEB networks against active threats. See the BOD 22-01 Fact Sheet for more information.
-Although BOD 22-01 only applies to FCEB agencies, CISA strongly urges all organizations to reduce their exposure to cyberattacks by prioritizing timely remediation of Catalog vulnerabilities as part of their vulnerability management practice. CISA will continue to add vulnerabilities to the Catalog that meet the specified criteria.
-This product is provided subject to this Notification and this Privacy & Use policy.]]></summary>
-        <author>
-            <name>CISA</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Unpatched Zimbra Platforms Are Probably Compromised, CISA Says]]></title>
-        <id>https://www.darkreading.com/threat-intelligence/unpatched-zimbra-platforms-probably-compromised-cisa-says</id>
-        <link href="https://www.darkreading.com/threat-intelligence/unpatched-zimbra-platforms-probably-compromised-cisa-says"/>
-        <updated>2022-11-14T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Attackers are targeting Zimbra systems in the public and private sectors, looking to exploit multiple vulnerabilities, CISA says.]]></summary>
-        <author>
-            <name>Dark Reading Staff, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Privacy4Cars Secures Fourth Patent to Remove Privacy Information From Vehicles and Create Compliance Logs]]></title>
-        <id>https://www.darkreading.com/endpoint/privacy4cars-secures-fourth-patent-to-remove-privacy-information-from-vehicles-and-create-compliance-logs</id>
-        <link href="https://www.darkreading.com/endpoint/privacy4cars-secures-fourth-patent-to-remove-privacy-information-from-vehicles-and-create-compliance-logs"/>
-        <updated>2022-11-14T15:25:24.000Z</updated>
-        <summary type="html"><![CDATA[Data-deletion service's patent covers removing personal information such as geolocation, biometrics, and phone records from a vehicle by using a user-computing device]]></summary>
-        <author>
-            <name>Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Avatier Achieves ISO 27001 Certification for its Information Security Management System]]></title>
-        <id>https://www.darkreading.com/operations/avatier-achieves-iso-27001-certification-for-its-information-security-management-system</id>
-        <link href="https://www.darkreading.com/operations/avatier-achieves-iso-27001-certification-for-its-information-security-management-system"/>
-        <updated>2022-11-14T15:14:31.000Z</updated>
-        <summary type="html"><![CDATA[Designation recognizes highest caliber of information security.]]></summary>
-        <author>
-            <name>Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Quantum Cryptography Apocalypse: A Timeline and Action Plan]]></title>
-        <id>https://www.darkreading.com/attacks-breaches/quantum-cryptography-apocalypse-a-timeline-and-action-plan</id>
-        <link href="https://www.darkreading.com/attacks-breaches/quantum-cryptography-apocalypse-a-timeline-and-action-plan"/>
-        <updated>2022-11-14T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Quantum computing's a clear threat to encryption, and post-quantum crypto means adding new cryptography to hardware and software without being disruptive.]]></summary>
-        <author>
-            <name>Konstantinos Karagiannis, Director, Quantum Computing Services, Protiviti</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How APIs and Applications Can Live Happily Ever After]]></title>
-        <id>https://www.darkreading.com/edge-articles/how-apis-and-applications-can-live-happily-ever-after</id>
-        <link href="https://www.darkreading.com/edge-articles/how-apis-and-applications-can-live-happily-ever-after"/>
-        <updated>2022-11-14T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Solutions that allow businesses to reduce complexity, develop and deploy applications and APIs, and protect those applications and APIs are no fairy tale.]]></summary>
-        <author>
-            <name>Joshua Goldfarb, Fraud Solutions Architect - EMEA and APCJ, F5</name>
         </author>
     </entry>
     <entry>

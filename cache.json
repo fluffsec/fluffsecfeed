@@ -311,16 +311,6 @@
           "wordCount": 887,
           "title": "CISA Releases One Industrial Control Systems Advisory",
           "imageUrl": null
-        },
-        {
-          "id": "18150 at https://us-cert.cisa.gov",
-          "author": "CISA",
-          "description": "Original release date: November 14, 2022\nCISA has added one new vulnerability to its Known Exploited Vulnerabilities Catalog, based on evidence of active exploitation. This type of vulnerability is a frequent attack vector for malicious cyber actors and pose significant risk to the federal enterprise. Note: To view the newly added vulnerabilities in the catalog, click on the arrow in the \"Date Added to Catalog\" column, which will sort by descending dates.\nBinding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the Known Exploited Vulnerabilities Catalog as a living list of known CVEs that carry significant risk to the federal enterprise. BOD 22-01 requires FCEB agencies to remediate identified vulnerabilities by the due date to protect FCEB networks against active threats. See the BOD 22-01 Fact Sheet for more information.\nAlthough BOD 22-01 only applies to FCEB agencies, CISA strongly urges all organizations to reduce their exposure to cyberattacks by prioritizing timely remediation of Catalog vulnerabilities as part of their vulnerability management practice. CISA will continue to add vulnerabilities to the Catalog that meet the specified criteria.\nThis product is provided subject to this Notification and this Privacy & Use policy.",
-          "link": "https://us-cert.cisa.gov/ncas/current-activity/2022/11/14/cisa-has-added-one-known-exploited-vulnerability-catalog",
-          "publishedOn": "2022-11-14T17:08:32.000Z",
-          "wordCount": 1021,
-          "title": "CISA Has Added One Known Exploited Vulnerability to Catalog",
-          "imageUrl": null
         }
       ]
     },
@@ -3344,71 +3334,6 @@
             "length": "0"
           },
           "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blte161b23f0fd3a84b/60b1ea374e7eb868c4c6a293/dr_staff_125x125.jpg"
-        },
-        {
-          "id": "https://www.darkreading.com/threat-intelligence/unpatched-zimbra-platforms-probably-compromised-cisa-says",
-          "author": "Dark Reading Staff, Dark Reading",
-          "description": "Attackers are targeting Zimbra systems in the public and private sectors, looking to exploit multiple vulnerabilities, CISA says.",
-          "link": "https://www.darkreading.com/threat-intelligence/unpatched-zimbra-platforms-probably-compromised-cisa-says",
-          "publishedOn": "2022-11-14T16:00:00.000Z",
-          "wordCount": 10817,
-          "title": "Unpatched Zimbra Platforms Are Probably Compromised, CISA Says",
-          "enclosure": {
-            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blte161b23f0fd3a84b/60b1ea374e7eb868c4c6a293/dr_staff_125x125.jpg",
-            "type": "image/*",
-            "length": "0"
-          },
-          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blte161b23f0fd3a84b/60b1ea374e7eb868c4c6a293/dr_staff_125x125.jpg"
-        },
-        {
-          "id": "https://www.darkreading.com/endpoint/privacy4cars-secures-fourth-patent-to-remove-privacy-information-from-vehicles-and-create-compliance-logs",
-          "author": null,
-          "description": "Data-deletion service's patent covers removing personal information such as geolocation, biometrics, and phone records from a vehicle by using a user-computing device",
-          "link": "https://www.darkreading.com/endpoint/privacy4cars-secures-fourth-patent-to-remove-privacy-information-from-vehicles-and-create-compliance-logs",
-          "publishedOn": "2022-11-14T15:25:24.000Z",
-          "wordCount": 12611,
-          "title": "Privacy4Cars Secures Fourth Patent to Remove Privacy Information From Vehicles and Create Compliance Logs",
-          "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
-        },
-        {
-          "id": "https://www.darkreading.com/operations/avatier-achieves-iso-27001-certification-for-its-information-security-management-system",
-          "author": null,
-          "description": "Designation recognizes highest caliber of information security.",
-          "link": "https://www.darkreading.com/operations/avatier-achieves-iso-27001-certification-for-its-information-security-management-system",
-          "publishedOn": "2022-11-14T15:14:31.000Z",
-          "wordCount": 11177,
-          "title": "Avatier Achieves ISO 27001 Certification for its Information Security Management System",
-          "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
-        },
-        {
-          "id": "https://www.darkreading.com/attacks-breaches/quantum-cryptography-apocalypse-a-timeline-and-action-plan",
-          "author": "Konstantinos Karagiannis, Director, Quantum Computing Services, Protiviti",
-          "description": "Quantum computing's a clear threat to encryption, and post-quantum crypto means adding new cryptography to hardware and software without being disruptive.",
-          "link": "https://www.darkreading.com/attacks-breaches/quantum-cryptography-apocalypse-a-timeline-and-action-plan",
-          "publishedOn": "2022-11-14T15:00:00.000Z",
-          "wordCount": 13267,
-          "title": "Quantum Cryptography Apocalypse: A Timeline and Action Plan",
-          "enclosure": {
-            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt89c7bc614b67c25c/63627e33804f3476d9fb8d55/K_Karagiannis.png",
-            "type": "image/*",
-            "length": "0"
-          },
-          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt89c7bc614b67c25c/63627e33804f3476d9fb8d55/K_Karagiannis.png"
-        },
-        {
-          "id": "https://www.darkreading.com/edge-articles/how-apis-and-applications-can-live-happily-ever-after",
-          "author": "Joshua Goldfarb, Fraud Solutions Architect - EMEA and APCJ, F5",
-          "description": "Solutions that allow businesses to reduce complexity, develop and deploy applications and APIs, and protect those applications and APIs are no fairy tale.",
-          "link": "https://www.darkreading.com/edge-articles/how-apis-and-applications-can-live-happily-ever-after",
-          "publishedOn": "2022-11-14T15:00:00.000Z",
-          "wordCount": 13936,
-          "title": "How APIs and Applications Can Live Happily Ever After",
-          "enclosure": {
-            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blte566b6aacec0a3ec/60d4347890ef0d39a2f3f97e/Joshua-Goldfarb2.png",
-            "type": "image/*",
-            "length": "0"
-          },
-          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blte566b6aacec0a3ec/60d4347890ef0d39a2f3f97e/Joshua-Goldfarb2.png"
         }
       ]
     },
@@ -4060,6 +3985,38 @@
       "feedUrl": "https://thehackernews.com/feeds/posts/default",
       "siteUrl": "https://thehackernews.com",
       "articles": [
+        {
+          "id": "https://thehackernews.com/2022/12/hackers-actively-exploiting-citrix-adc.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "The U.S. National Security Agency (NSA) on Tuesday said a threat actor tracked as APT5 has been actively exploiting a zero-day flaw in Citrix Application Delivery Controller (ADC) and Gateway to take over affected systems.\nThe critical remote code execution vulnerability, identified as CVE-2022-27518, could allow an unauthenticated attacker to execute commands remotely on vulnerable devices and",
+          "link": "https://thehackernews.com/2022/12/hackers-actively-exploiting-citrix-adc.html",
+          "publishedOn": "2022-12-14T04:40:00.000Z",
+          "wordCount": null,
+          "title": "Hackers Actively Exploiting Citrix ADC and Gateway Zero-Day Vulnerability",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjr59qmqtiHLJ5ysArJFpum2amz-BrdBVy4n1-eGmfvF1-HSyizQEqEdUg3wMSSewjDIjE-Azvv3dpRwso_NzIcwUT1uJLepvNlbjYoN_oVhR48qQSc0nqOdX5STOtZ0cbt6K0qEajLTgZ54KmfluIcA7t8gytuFX4h5Bay8d67tzIIqv3WMsAAOFad/s1600/citrix.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjr59qmqtiHLJ5ysArJFpum2amz-BrdBVy4n1-eGmfvF1-HSyizQEqEdUg3wMSSewjDIjE-Azvv3dpRwso_NzIcwUT1uJLepvNlbjYoN_oVhR48qQSc0nqOdX5STOtZ0cbt6K0qEajLTgZ54KmfluIcA7t8gytuFX4h5Bay8d67tzIIqv3WMsAAOFad/s1600/citrix.png"
+        },
+        {
+          "id": "https://thehackernews.com/2022/12/new-actively-exploited-zero-day.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Apple on Tuesday rolled out security updates to iOS, iPadOS, macOS, tvOS, and Safari web browser to address a new zero-day vulnerability that could result in the execution of malicious code.\nTracked as CVE-2022-42856, the issue has been described by the tech giant as a type confusion issue in the WebKit browser engine that could be triggered when processing specially crafted content, leading to",
+          "link": "https://thehackernews.com/2022/12/new-actively-exploited-zero-day.html",
+          "publishedOn": "2022-12-14T03:44:00.000Z",
+          "wordCount": null,
+          "title": "New Actively Exploited Zero-Day Vulnerability Discovered in Apple Products",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgoCPCCOzJCgi-nOCQAqAQg46fLbD3eNO6pq7T-DQyf-SX-6jNvv0GYdNkE5YYeQDG_SL2FaxnexqUnN1cSbFmVjD64JBZiBXR5gS5DtbrO6oC-wto8yG1Fl0sg39ZcM9suGiVjGMsXYhj2KUTDp0mmfES_LspF8eSX-JlZPR3C9Pv6cKyityz7MmKx/s1600/apple.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgoCPCCOzJCgi-nOCQAqAQg46fLbD3eNO6pq7T-DQyf-SX-6jNvv0GYdNkE5YYeQDG_SL2FaxnexqUnN1cSbFmVjD64JBZiBXR5gS5DtbrO6oC-wto8yG1Fl0sg39ZcM9suGiVjGMsXYhj2KUTDp0mmfES_LspF8eSX-JlZPR3C9Pv6cKyityz7MmKx/s1600/apple.png"
+        },
         {
           "id": "https://thehackernews.com/2022/12/google-launches-largest-distributed.html",
           "author": "info@thehackernews.com (The Hacker News)",
