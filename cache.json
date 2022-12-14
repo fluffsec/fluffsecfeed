@@ -43,6 +43,26 @@
       "siteUrl": "https://us-cert.cisa.gov/",
       "articles": [
         {
+          "id": "18212 at https://us-cert.cisa.gov",
+          "author": "CISA",
+          "description": "Original release date: December 13, 2022\nApple has released security updates to address vulnerabilities in multiple products. An attacker could exploit some of these vulnerabilities to take control of an affected device.\nCISA encourages users and administrators to review the Apple security updates page for the following products and apply the necessary updates as soon as possible:\niCloud for Windows 14.1\nSafari 16.2\nmacOS Monterey 12.6.2\nmacOS Big Sur 11.7.2\ntvOS 16.2\nwatchOS 9.2\niOS 15.7.2 and iPadOS 15.7.2\niOS 16.2 and iPadOS 16.2\nmacOS Ventura 13.1\nThis product is provided subject to this Notification and this Privacy & Use policy.",
+          "link": "https://us-cert.cisa.gov/ncas/current-activity/2022/12/13/apple-releases-security-updates-multiple-products",
+          "publishedOn": "2022-12-13T20:43:17.000Z",
+          "wordCount": 986,
+          "title": "Apple Releases Security Updates for Multiple Products",
+          "imageUrl": null
+        },
+        {
+          "id": "18211 at https://us-cert.cisa.gov",
+          "author": "CISA",
+          "description": "Original release date: December 13, 2022\nMicrosoft has released updates to address multiple vulnerabilities in Microsoft software. An attacker can exploit some of these vulnerabilities to take control of an affected system.\nCISA encourages users and administrators to review Microsoft’s December 2022 Security Update Guide and Deployment Information and apply the necessary updates.\nThis product is provided subject to this Notification and this Privacy & Use policy.",
+          "link": "https://us-cert.cisa.gov/ncas/current-activity/2022/12/13/microsoft-releases-december-2022-security-updates",
+          "publishedOn": "2022-12-13T19:43:28.000Z",
+          "wordCount": 949,
+          "title": "Microsoft Releases December 2022 Security Updates",
+          "imageUrl": null
+        },
+        {
           "id": "18199 at https://us-cert.cisa.gov",
           "author": "CISA",
           "description": "Original release date: December 13, 2022\nThe Federal Bureau of Investigation (FBI) and CISA have updated joint Cybersecurity Advisory AA22-335A: #StopRansomware: Cuba Ransomware, originally released on December 01, 2022. The advisory has been updated to include additional indicators of compromise (IOCs).\nCISA encourages organizations to review the latest update to AA22-335A and apply the recommended mitigations.\nThis product is provided subject to this Notification and this Privacy & Use policy.",
@@ -60,6 +80,46 @@
           "publishedOn": "2022-12-13T17:02:31.000Z",
           "wordCount": 926,
           "title": "Citrix Releases Security Updates for Citrix ADC, Citrix Gateway",
+          "imageUrl": null
+        },
+        {
+          "id": "18209 at https://us-cert.cisa.gov",
+          "author": "CISA",
+          "description": "Original release date: December 13, 2022\nMozilla has released security updates to address vulnerabilities in Thunderbird, Firefox ESR, and Firefox. An attacker could exploit these vulnerabilities to take control of an affected system. \nCISA encourages users and administrators to review Mozilla’s security advisories for Thunderbird 102.6, Firefox ESR 102.6, and Firefox 108 for more information and apply the necessary updates.\nThis product is provided subject to this Notification and this Privacy & Use policy.",
+          "link": "https://us-cert.cisa.gov/ncas/current-activity/2022/12/13/mozilla-releases-security-updates-thunderbird-and-firefox",
+          "publishedOn": "2022-12-13T17:00:47.000Z",
+          "wordCount": 962,
+          "title": "Mozilla Releases Security Updates for Thunderbird and Firefox",
+          "imageUrl": null
+        },
+        {
+          "id": "18207 at https://us-cert.cisa.gov",
+          "author": "CISA",
+          "description": "Original release date: December 13, 2022\nVVMware has released security updates to address multiple vulnerabilities in multiple products. A remote attacker could exploit some of these vulnerabilities to take control of an affected system.\nCISA encourages users and administrators to review VMware Security Advisories VMSA-2022-0031, VMSA-2022-0033, and apply the necessary updates.\nThis product is provided subject to this Notification and this Privacy & Use policy.",
+          "link": "https://us-cert.cisa.gov/ncas/current-activity/2022/12/13/vmware-releases-security-updates-multiple-products",
+          "publishedOn": "2022-12-13T16:56:22.000Z",
+          "wordCount": 950,
+          "title": "VMware Releases Security Updates for Multiple products",
+          "imageUrl": null
+        },
+        {
+          "id": "18208 at https://us-cert.cisa.gov",
+          "author": "CISA",
+          "description": "Original release date: December 13, 2022\nCISA has added five new vulnerabilities to its Known Exploited Vulnerabilities Catalog, based on evidence of active exploitation. These types of vulnerabilities are frequent attack vectors for malicious cyber actors and pose a significant risk to the federal enterprise. Note: To view newly added vulnerabilities in the catalog, click on the arrow in the \"Date Added to Catalog\" column, which will sort by descending dates.\nBinding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the Known Exploited Vulnerabilities Catalog as a living list of known CVEs that carry significant risk to the federal enterprise. BOD 22-01 requires FCEB agencies to remediate identified vulnerabilities by the due date to protect FCEB networks against active threats. See the BOD 22-01 Fact Sheet for more information.\nAlthough BOD 22-01 only applies to FCEB agencies, CISA strongly urges all organizations to reduce their exposure to cyberattacks by prioritizing timely remediation of Catalog vulnerabilities as part of their vulnerability management practice. CISA will continue to add vulnerabilities to the Catalog that meet the specified criteria.\nThis product is provided subject to this Notification and this Privacy & Use policy.",
+          "link": "https://us-cert.cisa.gov/ncas/current-activity/2022/12/13/cisa-adds-five-known-exploited-vulnerabilities-catalog",
+          "publishedOn": "2022-12-13T16:42:06.000Z",
+          "wordCount": 1083,
+          "title": "CISA Adds Five Known Exploited Vulnerabilities to Catalog",
+          "imageUrl": null
+        },
+        {
+          "id": "18206 at https://us-cert.cisa.gov",
+          "author": "CISA",
+          "description": "Original release date: December 13, 2022\nToday, the National Security Agency (NSA), CISA, and the Office of the Director of National Intelligence (ODNI), published Potential Threats to 5G Network Slicing. This guidance—created by the Enduring Security Framework (ESF), a public-private cross-sector working group led by the NSA and CISA—presents both the benefits and risks associated with 5G network slicing. It also provides mitigation strategies that address potential threats to 5G network slicing. The guidance builds upon ESF’s Potential Threat Vectors to 5G Infrastructure, published in 2021.\nCISA encourages 5G providers, integrators, and network operators to review this guidance and implement the recommended mitigations. For additional 5G guidance, visit CISA.gov/5G-library.\nThis product is provided subject to this Notification and this Privacy & Use policy.",
+          "link": "https://us-cert.cisa.gov/ncas/current-activity/2022/12/13/nsa-cisa-and-odni-release-guidance-potential-threats-5g-network",
+          "publishedOn": "2022-12-13T13:51:42.000Z",
+          "wordCount": 1026,
+          "title": "NSA, CISA, and ODNI Release Guidance on Potential Threats to 5G Network Slicing",
           "imageUrl": null
         },
         {
@@ -320,6 +380,21 @@
       "feedUrl": "https://www.darkreading.com/rss.xml",
       "siteUrl": "https://www.darkreading.com",
       "articles": [
+        {
+          "id": "https://www.darkreading.com/application-security/microsoft-squashes-zero-day-actively-exploited-bugs-dec-update",
+          "author": "Jai Vijayan, Contributing Writer, Dark Reading",
+          "description": "Here's what you need to patch now, including six critical updates for Microsoft's final Patch Tuesday of the year.",
+          "link": "https://www.darkreading.com/application-security/microsoft-squashes-zero-day-actively-exploited-bugs-dec-update",
+          "publishedOn": "2022-12-13T22:18:27.000Z",
+          "wordCount": 12300,
+          "title": "Microsoft Squashes Zero-Day, Actively Exploited Bugs in Dec. Update",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt02d79fb9a44a4258/60b1e9dd2a25046b35110696/Jai-Vijayan.jpeg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt02d79fb9a44a4258/60b1e9dd2a25046b35110696/Jai-Vijayan.jpeg"
+        },
         {
           "id": "https://www.darkreading.com/attacks-breaches/citrix-adc-gateway-users-race-against-hackers-patch-critical-flaw",
           "author": "Dark Reading Staff, Dark Reading",
@@ -3977,16 +4052,6 @@
           "wordCount": 2439,
           "title": "“Hired Hand” in the Kingdom of Saudi Arabia Uses Domain Spoofing",
           "imageUrl": "https://blog.knowbe4.com/hubfs/Saudi%20Arabia%20Scam.jpg#keepProtocol"
-        },
-        {
-          "id": "https://blog.knowbe4.com/the-rise-in-unwanted-emails-now-found-to-be-nearly-41",
-          "author": "Stu Sjouwerman",
-          "description": "How many business emails do the recipients actually want? Or, conversely, how many of them are unwanted? A study by Hornetsecurity looked at this question (along with a number of other security issues) and reached a conclusion that, on reflection, most people with a business email account would probably say is consistent with their own experience: some 40.5% of emails that arrive are ones the recipients don’t really want in the first place.",
-          "link": "https://blog.knowbe4.com/the-rise-in-unwanted-emails-now-found-to-be-nearly-41",
-          "publishedOn": "2022-11-14T14:10:54.000Z",
-          "wordCount": 2249,
-          "title": "The Rise in Unwanted Emails, Now Found to be Nearly 41%",
-          "imageUrl": "https://blog.knowbe4.com/hubfs/Rise%20in%20Unwanted%20Emails.jpg#keepProtocol"
         }
       ]
     },
@@ -5687,39 +5752,6 @@
           "publishedOn": "2022-11-15T06:11:00.000Z",
           "wordCount": null,
           "title": "Google to Pay $391 Million Privacy Fine for Secretly Tracking Users' Location",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "tag:blogger.com,1999:blog-4802841478634147276.post-3099383925478557610",
-          "author": "noreply@blogger.com (Ravie Lakshmanan)",
-          "description": "Entities located in East and Southeast Asia as well as Ukraine have been targeted at least since 2020 by a previously undocumented subgroup of APT41, a prolific Chinese advanced persistent threat (APT).\nCybersecurity firm Trend Micro, which christened the espionage crew Earth Longzhi, said the actor's long-running campaign can be split into two based on the toolset deployed to attack its victims",
-          "link": "https://thehackernews.com/2022/11/new-earth-longzhi-apt-targets-ukraine.html",
-          "publishedOn": "2022-11-14T13:03:00.000Z",
-          "wordCount": null,
-          "title": "New \"Earth Longzhi\" APT Targets Ukraine and Asian Countries with Custom Cobalt Strike Loaders",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "tag:blogger.com,1999:blog-4802841478634147276.post-5717712689412571988",
-          "author": "noreply@blogger.com (Ravie Lakshmanan)",
-          "description": "A new malicious campaign has compromised over 15,000 WordPress websites in an attempt to redirect visitors to bogus Q&A portals.\n\"These malicious redirects appear to be designed to increase the authority of the attacker's sites for search engines,\" Sucuri researcher Ben Martin said in a report published last week, calling it a \"clever black hat SEO trick.\"\nThe search engine poisoning technique",
-          "link": "https://thehackernews.com/2022/11/over-15000-wordpress-sites-compromised.html",
-          "publishedOn": "2022-11-14T10:45:00.000Z",
-          "wordCount": null,
-          "title": "Over 15,000 WordPress Sites Compromised in Malicious SEO Campaign",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "tag:blogger.com,1999:blog-4802841478634147276.post-5945091860728935430",
-          "author": "noreply@blogger.com (The Hacker News)",
-          "description": "A penetration test (also known as a pentest) is a security assessment that simulates the activities of real-world attackers to identify security holes in your IT systems or applications. \nThe aim of the test is to understand what vulnerabilities you have, how they could be exploited, and what the impact would be if an attacker was successful.\nUsually performed first, an external pentest (also",
-          "link": "https://thehackernews.com/2022/11/what-is-external-penetration-test.html",
-          "publishedOn": "2022-11-14T10:30:00.000Z",
-          "wordCount": null,
-          "title": "What is an External Penetration Test?",
           "itunes": {},
           "imageUrl": null
         }
