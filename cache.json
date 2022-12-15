@@ -3294,51 +3294,6 @@
           "wordCount": 11779,
           "title": "More Than 1,000 New Cybersecurity Apprentices Joined Workforce in Past 12 Months",
           "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
-        },
-        {
-          "id": "https://www.darkreading.com/endpoint/wipermania-malware-potent-threat-since-shamoon",
-          "author": "Jai Vijayan, Contributing Writer, Dark Reading",
-          "description": "An in-depth analysis of system-destroying malware families presented at Black Hat Middle East & Africa shows a growing nuance in terms of how they're deployed.",
-          "link": "https://www.darkreading.com/endpoint/wipermania-malware-potent-threat-since-shamoon",
-          "publishedOn": "2022-11-15T21:45:00.000Z",
-          "wordCount": 14005,
-          "title": "Wipermania: Malware Remains a Potent Threat, 10 Years Since 'Shamoon'",
-          "enclosure": {
-            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt02d79fb9a44a4258/60b1e9dd2a25046b35110696/Jai-Vijayan.jpeg",
-            "type": "image/*",
-            "length": "0"
-          },
-          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt02d79fb9a44a4258/60b1e9dd2a25046b35110696/Jai-Vijayan.jpeg"
-        },
-        {
-          "id": "https://www.darkreading.com/edge-ask-the-experts/modern-ciso-more-than-a-security-officer",
-          "author": "Edge Editors, Dark Reading",
-          "description": "YL Ventures CISO-in-Residence Frank Kim weighs in on the top security concerns facing CISOs in a Dark Reading Q&A interview.",
-          "link": "https://www.darkreading.com/edge-ask-the-experts/modern-ciso-more-than-a-security-officer",
-          "publishedOn": "2022-11-15T21:00:00.000Z",
-          "wordCount": 14804,
-          "title": "Modern CISO: More Than a Security Officer",
-          "enclosure": {
-            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltbeb30fde8ec73a32/60d4432c2446e93b5b5a0e0c/Edge-Editors.png",
-            "type": "image/*",
-            "length": "0"
-          },
-          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltbeb30fde8ec73a32/60d4432c2446e93b5b5a0e0c/Edge-Editors.png"
-        },
-        {
-          "id": "https://www.darkreading.com/dr-tech/where-can-third-party-governance-and-risk-management-take-us-",
-          "author": "Will Lin, Managing Director, Forgepoint Capital",
-          "description": "Part 2 in our series addressing the top 10 unanswered questions in security: How will TPGRM evolve?",
-          "link": "https://www.darkreading.com/dr-tech/where-can-third-party-governance-and-risk-management-take-us-",
-          "publishedOn": "2022-11-15T20:48:00.000Z",
-          "wordCount": 12675,
-          "title": "Where Can Third-Party Governance and Risk Management Take Us?",
-          "enclosure": {
-            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltf0170a00c1b3498b/629e1adbe1408e6bcc72a6d6/will-lin-forgepoint.jpg",
-            "type": "image/*",
-            "length": "0"
-          },
-          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltf0170a00c1b3498b/629e1adbe1408e6bcc72a6d6/will-lin-forgepoint.jpg"
         }
       ]
     },
@@ -4030,6 +3985,70 @@
       "feedUrl": "https://thehackernews.com/feeds/posts/default",
       "siteUrl": "https://thehackernews.com",
       "articles": [
+        {
+          "id": "https://thehackernews.com/2022/12/android-malware-campaign-leverages.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "A previously undocumented Android malware campaign has been observed leveraging money-lending apps to blackmail victims into paying up with personal information stolen from their devices.\nMobile security company Zimperium dubbed the activity MoneyMonger, pointing out the use of the cross-platform Flutter framework to develop the apps.\nMoneyMonger \"takes advantage of Flutter's framework to",
+          "link": "https://thehackernews.com/2022/12/android-malware-campaign-leverages.html",
+          "publishedOn": "2022-12-15T10:24:00.000Z",
+          "wordCount": null,
+          "title": "Android Malware Campaign Leverages Money-Lending Apps to Blackmail Victims",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh6Gaw2xEcZI7KXNUTAfT86ktl8KilcwxM6P-u7cxd9iUTTfSno2g_QCfa6_KYHPo4aXtUBC-FAT0ThM9F9roPwTsx28wtW2nbXPphgapohqLEbthqvV_E0lqCDP7axOj7-Cob_3-c0tRUONUuF7pLtyh8Dr00wQ6sGIhzybUfYs7LNpJziGsehvduR/s1600/laon-app.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh6Gaw2xEcZI7KXNUTAfT86ktl8KilcwxM6P-u7cxd9iUTTfSno2g_QCfa6_KYHPo4aXtUBC-FAT0ThM9F9roPwTsx28wtW2nbXPphgapohqLEbthqvV_E0lqCDP7axOj7-Cob_3-c0tRUONUuF7pLtyh8Dr00wQ6sGIhzybUfYs7LNpJziGsehvduR/s1600/laon-app.png"
+        },
+        {
+          "id": "https://thehackernews.com/2022/12/top-5-web-app-vulnerabilities-and-how.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Web applications, often in the form of Software as a Service (SaaS), are now the cornerstone for businesses all over the world. SaaS solutions have revolutionized the way they operate and deliver services, and are essential tools in nearly every industry, from finance and banking to healthcare and education. \nMost startup CTOs have an excellent understanding of how to build highly functional",
+          "link": "https://thehackernews.com/2022/12/top-5-web-app-vulnerabilities-and-how.html",
+          "publishedOn": "2022-12-15T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Top 5 Web App Vulnerabilities and How to Find Them",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhbi-xVlLXdqW4DijDTn0omdLudJ1EOf5dz0U9Ze-ElWAnqF6kyXYj4-s_-T2ZaAhpaON_-kMNbbXbZqf9fvvoCmZxptWPTh0QWv53K7lXyYklk3f29j6vCeKlwOJqAWAHwHBsjlXJ8uu0GhVockA4Ei61Eb7CRKAlD2Z4z7SnaDpUaQI0VHm26f_9X/s1600/pentest.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhbi-xVlLXdqW4DijDTn0omdLudJ1EOf5dz0U9Ze-ElWAnqF6kyXYj4-s_-T2ZaAhpaON_-kMNbbXbZqf9fvvoCmZxptWPTh0QWv53K7lXyYklk3f29j6vCeKlwOJqAWAHwHBsjlXJ8uu0GhVockA4Ei61Eb7CRKAlD2Z4z7SnaDpUaQI0VHm26f_9X/s1600/pentest.png"
+        },
+        {
+          "id": "https://thehackernews.com/2022/12/hackers-bombard-open-source.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "NuGet, PyPi, and npm ecosystems are the target of a new campaign that has resulted in over 144,000 packages being published by unknown threat actors.\n\"The packages were part of a new attack vector, with attackers spamming the open-source ecosystem with packages containing links to phishing campaigns,\" researchers from Checkmarx and Illustria said in a report published Wednesday.\nOf the 144,294",
+          "link": "https://thehackernews.com/2022/12/hackers-bombard-open-source.html",
+          "publishedOn": "2022-12-15T09:02:00.000Z",
+          "wordCount": null,
+          "title": "Hackers Bombard Open Source Repositories with Over 144,000 Malicious Packages",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgCvGBTr0eJQ9vY2EZAQk_q0EIZHgyE6bkZorns1gkL1pD4NCmFsd3Dd6UxwZ2IViF6jLfKC5-GNpPD3w6NH2QlgjwddYo3npNsoLiAFjd9-CdrSYfGRcwn0Q0NqYb7fSeNRubN_ipFr03Z1iCf_Y5-CzG_XnMMCK05RxSpsAMR5FhR2NJDV-1qA5R0/s1600/hack.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgCvGBTr0eJQ9vY2EZAQk_q0EIZHgyE6bkZorns1gkL1pD4NCmFsd3Dd6UxwZ2IViF6jLfKC5-GNpPD3w6NH2QlgjwddYo3npNsoLiAFjd9-CdrSYfGRcwn0Q0NqYb7fSeNRubN_ipFr03Z1iCf_Y5-CzG_XnMMCK05RxSpsAMR5FhR2NJDV-1qA5R0/s1600/hack.png"
+        },
+        {
+          "id": "https://thehackernews.com/2022/12/fbi-charges-6-seizes-48-domains-linked.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "The U.S. Department of Justice (DoJ) on Wednesday announced the seizure of 48 domains that offered services to conduct distributed denial-of-service (DDoS) attacks on behalf of other threat actors, effectively lowering the barrier to entry for malicious activity.\nIt also charged six suspects – Jeremiah Sam Evans Miller (23), Angel Manuel Colon Jr. (37), Shamar Shattock (19), Cory Anthony Palmer",
+          "link": "https://thehackernews.com/2022/12/fbi-charges-6-seizes-48-domains-linked.html",
+          "publishedOn": "2022-12-15T07:50:00.000Z",
+          "wordCount": null,
+          "title": "FBI Charges 6, Seizes 48 Domains Linked to DDoS-for-Hire Service Platforms",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiaWypJAl4RROsFqgb9wUsKmXrrTMcHiMFbi40hfNlzSiKLbtZD8ZyQL416zagIbZRYXa4S-J81ZLAv9PKMtahATDfVUTzkbAYEhAMm5vyvaHt42uqB12d_R_HVwCGLpfD17toTpYful7G8ZWNVVbjmnqOU-W9L8W8IEiqs2heBhRMrv_xKphyf0kpu/s1600/fbi.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiaWypJAl4RROsFqgb9wUsKmXrrTMcHiMFbi40hfNlzSiKLbtZD8ZyQL416zagIbZRYXa4S-J81ZLAv9PKMtahATDfVUTzkbAYEhAMm5vyvaHt42uqB12d_R_HVwCGLpfD17toTpYful7G8ZWNVVbjmnqOU-W9L8W8IEiqs2heBhRMrv_xKphyf0kpu/s1600/fbi.png"
+        },
         {
           "id": "https://thehackernews.com/2022/12/hacking-using-svg-files-to-smuggle-qbot.html",
           "author": "info@thehackernews.com (The Hacker News)",
