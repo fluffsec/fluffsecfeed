@@ -2,10 +2,62 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-14T19:17:01.001Z</updated>
+    <updated>2022-12-15T02:24:45.035Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[NSA Slices Up 5G Mobile Security Risks]]></title>
+        <id>https://www.darkreading.com/mobile/nsa-slices-up-5g-mobile-security-risks</id>
+        <link href="https://www.darkreading.com/mobile/nsa-slices-up-5g-mobile-security-risks"/>
+        <updated>2022-12-14T22:00:20.000Z</updated>
+        <summary type="html"><![CDATA[The feds' mobile service provider guidance details cybersecurity threat vectors associated with 5G network slicing.]]></summary>
+        <author>
+            <name>Dark Reading Staff, Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cybereason Warns Global Organizations Against Destructive Ransomware Attacks From Black Basta Gang]]></title>
+        <id>https://www.darkreading.com/attacks-breaches/cybereason-warns-global-organizations-against-destructive-ransomware-attacks-from-black-basta-gang</id>
+        <link href="https://www.darkreading.com/attacks-breaches/cybereason-warns-global-organizations-against-destructive-ransomware-attacks-from-black-basta-gang"/>
+        <updated>2022-12-14T21:20:00.000Z</updated>
+        <summary type="html"><![CDATA[The Royal Ransomware Group has emerged as a threat to companies in 2022 and they have carried out dozens of successful attacks on global companies. Cybereason suggests that companies raise their awareness of this potential pending threat.]]></summary>
+        <author>
+            <name>Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CISA Adds One Known Exploited Vulnerability to Catalog]]></title>
+        <id>18214 at https://us-cert.cisa.gov</id>
+        <link href="https://us-cert.cisa.gov/ncas/current-activity/2022/12/14/cisa-adds-one-known-exploited-vulnerability-catalog"/>
+        <updated>2022-12-14T20:20:53.000Z</updated>
+        <summary type="html"><![CDATA[Original release date: December 14, 2022
+CISA has added one new vulnerability to its Known Exploited Vulnerabilities Catalog, based on evidence of active exploitation. This type of vulnerability is a frequent attack vector for malicious cyber actors and poses a significant risk to the federal enterprise. Note: To view the newly added vulnerabilities in the catalog, click on the arrow in the "Date Added to Catalog" column, which will sort by descending dates.
+Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the Known Exploited Vulnerabilities Catalog as a living list of known CVEs that carry significant risk to the federal enterprise. BOD 22-01 requires FCEB agencies to remediate identified vulnerabilities by the due date to protect FCEB networks against active threats. See the BOD 22-01 Fact Sheet for more information.
+Although BOD 22-01 only applies to FCEB agencies, CISA strongly urges all organizations to reduce their exposure to cyberattacks by prioritizing timely remediation of Catalog vulnerabilities as part of their vulnerability management practice. CISA will continue to add vulnerabilities to the Catalog that meet the specified criteria. 
+This product is provided subject to this Notification and this Privacy & Use policy.]]></summary>
+        <author>
+            <name>CISA</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Keysight Announces 400GE Network Cybersecurity Test Platform]]></title>
+        <id>https://www.darkreading.com/vulnerabilities-threats/keysight-announces-400ge-network-cybersecurity-test-platform</id>
+        <link href="https://www.darkreading.com/vulnerabilities-threats/keysight-announces-400ge-network-cybersecurity-test-platform"/>
+        <updated>2022-12-14T20:09:00.000Z</updated>
+        <author>
+            <name>Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Epic Management Provides Notice of Data Security Incident]]></title>
+        <id>https://www.darkreading.com/attacks-breaches/epic-management-provides-notice-of-data-security-incident</id>
+        <link href="https://www.darkreading.com/attacks-breaches/epic-management-provides-notice-of-data-security-incident"/>
+        <updated>2022-12-14T19:46:00.000Z</updated>
+        <author>
+            <name>Dark Reading</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ten Charged with BEC Healthcare Scheme That Took More than $11 Million]]></title>
         <id>https://blog.knowbe4.com/ten-charged-with-bec-healthcare-scheme-that-took-more-than-11-million</id>
@@ -4877,88 +4929,6 @@ This product is provided subject to this Notification and this Privacy & Use pol
         <summary type="html"><![CDATA[Only 30% of respondents from other industries are as concerned about the risks associated with their IT staff.]]></summary>
         <author>
             <name>Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Authomize Launches Identity Threat Detection and Response Platform to Protect Against Identity-Based Attacks]]></title>
-        <id>https://www.darkreading.com/cloud/authomize-launches-identity-threat-detection-and-response-platform-to-protect-against-identity-based-attacks</id>
-        <link href="https://www.darkreading.com/cloud/authomize-launches-identity-threat-detection-and-response-platform-to-protect-against-identity-based-attacks"/>
-        <updated>2022-11-15T14:24:33.000Z</updated>
-        <summary type="html"><![CDATA[.]]></summary>
-        <author>
-            <name>Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Neosec Introduces Automated Tokenization to Enable Full API Visibility Without Exposure of Sensitive Data]]></title>
-        <id>https://www.darkreading.com/threat-intelligence/neosec-introduces-automated-tokenization-to-enable-full-api-visibility-without-exposure-of-sensitive-data</id>
-        <link href="https://www.darkreading.com/threat-intelligence/neosec-introduces-automated-tokenization-to-enable-full-api-visibility-without-exposure-of-sensitive-data"/>
-        <updated>2022-11-15T14:20:38.000Z</updated>
-        <summary type="html"><![CDATA[API discovery and threat-monitoring solution tokenizes API data at its source for secure behavioral analytics, storage, compliance, and investigations.]]></summary>
-        <author>
-            <name>Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Balbix Announces Cybersecurity Posture Automation Support for Google Cloud Platform]]></title>
-        <id>https://www.darkreading.com/cloud/balbix-announces-cybersecurity-posture-automation-support-for-google-cloud-platform</id>
-        <link href="https://www.darkreading.com/cloud/balbix-announces-cybersecurity-posture-automation-support-for-google-cloud-platform"/>
-        <updated>2022-11-15T14:15:24.000Z</updated>
-        <summary type="html"><![CDATA[Extends cyber asset attack surface management solution to multi-cloud environments,]]></summary>
-        <author>
-            <name>Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bugcrowd Earns CREST Accreditation for Pen Testing]]></title>
-        <id>https://www.darkreading.com/cloud/bugcrowd-earns-crest-accreditation-for-pen-testing</id>
-        <link href="https://www.darkreading.com/cloud/bugcrowd-earns-crest-accreditation-for-pen-testing"/>
-        <updated>2022-11-15T14:10:25.000Z</updated>
-        <summary type="html"><![CDATA[.]]></summary>
-        <author>
-            <name>Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“Hired Hand” in the Kingdom of Saudi Arabia Uses Domain Spoofing]]></title>
-        <id>https://blog.knowbe4.com/hired-hand-in-the-kingdom-of-saudi-arabia-uses-domain-spoofing</id>
-        <link href="https://blog.knowbe4.com/hired-hand-in-the-kingdom-of-saudi-arabia-uses-domain-spoofing"/>
-        <updated>2022-11-15T13:59:27.000Z</updated>
-        <summary type="html"><![CDATA[Sometimes a social engineering campaign has a clear geographical focus, often shaped by language, holidays, or current events. In this case, the scammers are taking opportunistic advantage of a company whose service offerings have a significant share in a locally important Saudi market, and their preferred technique has been domain-spoofing.]]></summary>
-        <author>
-            <name>Stu Sjouwerman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Researchers Reported Critical SQLi and Access Flaws in Zendesk Analytics Service]]></title>
-        <id>tag:blogger.com,1999:blog-4802841478634147276.post-3381803991454226747</id>
-        <link href="https://thehackernews.com/2022/11/researchers-reported-critical-sqli-and.html"/>
-        <updated>2022-11-15T13:49:00.000Z</updated>
-        <summary type="html"><![CDATA[Cybersecurity researchers have disclosed details of now-patched flaws in Zendesk Explore that could have been exploited by an attacker to gain unauthorized access to information from customer accounts that have the feature turned on.
-"Before it was patched, the flaw would have allowed threat actors to access conversations, email addresses, tickets, comments, and other information from Zendesk]]></summary>
-        <author>
-            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Deep Packet Inspection vs. Metadata Analysis of Network Detection & Response (NDR) Solutions]]></title>
-        <id>tag:blogger.com,1999:blog-4802841478634147276.post-4065373445781037649</id>
-        <link href="https://thehackernews.com/2022/11/deep-packet-inspection-vs-metadata.html"/>
-        <updated>2022-11-15T12:58:00.000Z</updated>
-        <summary type="html"><![CDATA[Today, most Network Detection and Response (NDR) solutions rely on traffic mirroring and Deep Packet Inspection (DPI). Traffic mirroring is typically deployed on a single-core switch to provide a copy of the network traffic to a sensor that uses DPI to thoroughly analyze the payload. While this approach provides detailed analysis, it requires large amounts of processing power and is blind when]]></summary>
-        <author>
-            <name>noreply@blogger.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Researchers Say China State-backed Hackers Breached a Digital Certificate Authority]]></title>
-        <id>tag:blogger.com,1999:blog-4802841478634147276.post-8128217716545064070</id>
-        <link href="https://thehackernews.com/2022/11/researchers-say-china-state-backed.html"/>
-        <updated>2022-11-15T11:03:00.000Z</updated>
-        <summary type="html"><![CDATA[A suspected Chinese state-sponsored actor breached a digital certificate authority as well as government and defense agencies located in different countries in Asia as part of an ongoing campaign since at least March 2022.
-Symantec, by Broadcom Software, linked the attacks to an adversarial group it tracks under the name Billbug, citing the use of tools previously attributed to this actor. The]]></summary>
-        <author>
-            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
         </author>
     </entry>
     <entry>
