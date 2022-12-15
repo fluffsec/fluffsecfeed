@@ -2,10 +2,92 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-15T13:28:10.706Z</updated>
+    <updated>2022-12-15T19:15:33.769Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Blackmailing MoneyMonger Malware Hides in Flutter Mobile Apps]]></title>
+        <id>https://www.darkreading.com/vulnerabilities-threats/blackmailing-moneymonger-malware-hides-flutter-mobile-apps</id>
+        <link href="https://www.darkreading.com/vulnerabilities-threats/blackmailing-moneymonger-malware-hides-flutter-mobile-apps"/>
+        <updated>2022-12-15T16:20:20.000Z</updated>
+        <summary type="html"><![CDATA[Money-lending apps built using the Flutter software development kit hide a predatory spyware threat and highlight a growing trend of using personal data for blackmail.]]></summary>
+        <author>
+            <name>Nathan Eddy, Contributing Writer, Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Drupal Releases Security Updates to Address Vulnerabilities in H5P and File (Field) Paths]]></title>
+        <id>18236 at https://us-cert.cisa.gov</id>
+        <link href="https://us-cert.cisa.gov/ncas/current-activity/2022/12/15/drupal-releases-security-updates-address-vulnerabilities-h5p-and"/>
+        <updated>2022-12-15T15:02:13.000Z</updated>
+        <summary type="html"><![CDATA[Original release date: December 15, 2022
+Drupal has released security updates to address vulnerabilities affecting H5P and the File (Field) Paths modules for Drupal 7.x. An attacker could exploit these vulnerabilities to access sensitive information and remotely execute code.
+CISA encourages users and administrators to review Drupal’s security advisories SA-CONTRIB-2022-064 and SA-CONTRIB-2022-065 and apply the necessary update.
+This product is provided subject to this Notification and this Privacy & Use policy.]]></summary>
+        <author>
+            <name>CISA</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Data Destruction Policies in the Age of Cloud Computing]]></title>
+        <id>https://www.darkreading.com/cloud/data-destruction-policies-in-the-age-of-cloud-computing-</id>
+        <link href="https://www.darkreading.com/cloud/data-destruction-policies-in-the-age-of-cloud-computing-"/>
+        <updated>2022-12-15T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[It's time for on-the-record answers to questions about data destruction in cloud environments. Without access, how do you verify data has been destroyed? Do processes meet DoD standards, or do we need to adjust standards to meet reality?]]></summary>
+        <author>
+            <name>Tony Howlett, CISO, UniSec Cybersecurity</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[API Flaws in Lego Marketplace Put User Accounts, Data at Risk]]></title>
+        <id>https://www.darkreading.com/vulnerabilities-threats/api-flaws-lego-marketplace-user-accounts-data-at-risk</id>
+        <link href="https://www.darkreading.com/vulnerabilities-threats/api-flaws-lego-marketplace-user-accounts-data-at-risk"/>
+        <updated>2022-12-15T14:59:21.000Z</updated>
+        <summary type="html"><![CDATA[Attackers also could breach internal production data to compromise a corporate network using vulnerabilities found in the BrickLink online platform.]]></summary>
+        <author>
+            <name>Elizabeth Montalbano, Contributor, Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CISA Consolidates Twitter Accounts]]></title>
+        <id>18215 at https://us-cert.cisa.gov</id>
+        <link href="https://us-cert.cisa.gov/ncas/current-activity/2022/12/15/cisa-consolidates-twitter-accounts"/>
+        <updated>2022-12-15T14:34:00.000Z</updated>
+        <summary type="html"><![CDATA[Original release date: December 15, 2022
+CISA has consolidated its social media presence on Twitter. Three accounts — @ICSCERT, @Cyber, and @CISAInfraSec — are no longer active. Additionally, the @USCERT_gov Twitter account is now renamed @CISACyber. The following current active Twitter accounts will include posts on content previously covered on the now-inactive accounts.
+@CISACyber will cover updates relevant to the industrial control systems community along with the latest vulnerability management info, threat analysis, and other info relevant to the cybersecurity community.
+@CISAgov will continue to provide agencywide content or non-urgent ICS updates.
+@CISAJen will continue to include posts across a variety of topics coming straight from the CISA director.
+@CISACyber and @CISAgovTwitter accounts to keep receiving important CISA messages and information.
+This product is provided subject to this Notification and this Privacy & Use policy.]]></summary>
+        <author>
+            <name>CISA</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Researchers Uncover MirrorFace Cyber Attacks Targeting Japanese Political Entities]]></title>
+        <id>https://thehackernews.com/2022/12/researchers-uncover-mirrorface-cyber.html</id>
+        <link href="https://thehackernews.com/2022/12/researchers-uncover-mirrorface-cyber.html"/>
+        <updated>2022-12-15T13:58:00.000Z</updated>
+        <summary type="html"><![CDATA[A Chinese-speaking advanced persistent threat (APT) actor codenamed MirrorFace has been attributed to a spear-phishing campaign targeting Japanese political establishments.
+The activity, dubbed Operation LiberalFace by ESET, specifically focused on members of an unnamed political party in the nation with the goal of delivering an implant called LODEINFO and a hitherto unseen credential stealer]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Reclassifies SPNEGO Extended Negotiation Security Vulnerability as 'Critical']]></title>
+        <id>https://thehackernews.com/2022/12/microsoft-reclassifies-spnego-extended.html</id>
+        <link href="https://thehackernews.com/2022/12/microsoft-reclassifies-spnego-extended.html"/>
+        <updated>2022-12-15T13:42:00.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft has revised the severity of a security vulnerability it originally patched in September 2022, upgrading it to "Critical" after it emerged that it could be exploited to achieve remote code execution.
+Tracked as CVE-2022-37958 (CVSS score: 8.1), the flaw was previously described as an information disclosure vulnerability in SPNEGO Extended Negotiation (NEGOEX) Security Mechanism.
+SPNEGO,]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Android Malware Campaign Leverages Money-Lending Apps to Blackmail Victims]]></title>
         <id>https://thehackernews.com/2022/12/android-malware-campaign-leverages.html</id>
@@ -4806,18 +4888,6 @@ CISOs at organizations of any size, but especially SMEs, are realizing that the 
         <updated>2022-11-16T07:35:00.000Z</updated>
         <summary type="html"><![CDATA[Cybersecurity researchers have unearthed new samples of malware called RapperBot that are being used to build a botnet capable of launching Distributed Denial of Service (DDoS) attacks against game servers.
 "In fact, it turns out that this campaign is less like RapperBot than an older campaign that appeared in February and then mysteriously disappeared in the middle of April," Fortinet]]></summary>
-        <author>
-            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google to Roll Out Privacy Sandbox Beta on Android 13 by Early 2023]]></title>
-        <id>tag:blogger.com,1999:blog-4802841478634147276.post-8626500522949885162</id>
-        <link href="https://thehackernews.com/2022/11/google-to-roll-out-privacy-sandbox-beta.html"/>
-        <updated>2022-11-16T05:24:00.000Z</updated>
-        <summary type="html"><![CDATA[Internet behemoth Google on Tuesday said it plans to roll out Privacy Sandbox for Android in beta to mobile devices running Android 13 starting early next year.
-"The Privacy Sandbox Beta will be available for ad tech and app developers who wish to test the ads-related APIs as part of their solutions," the company said.
-To that end, developers will need to complete an enrollment process in order]]></summary>
         <author>
             <name>noreply@blogger.com (Ravie Lakshmanan)</name>
         </author>

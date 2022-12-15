@@ -43,6 +43,26 @@
       "siteUrl": "https://us-cert.cisa.gov/",
       "articles": [
         {
+          "id": "18236 at https://us-cert.cisa.gov",
+          "author": "CISA",
+          "description": "Original release date: December 15, 2022\nDrupal has released security updates to address vulnerabilities affecting H5P and the File (Field) Paths modules for Drupal 7.x. An attacker could exploit these vulnerabilities to access sensitive information and remotely execute code.\nCISA encourages users and administrators to review Drupal’s security advisories SA-CONTRIB-2022-064 and SA-CONTRIB-2022-065 and apply the necessary update.\nThis product is provided subject to this Notification and this Privacy & Use policy.",
+          "link": "https://us-cert.cisa.gov/ncas/current-activity/2022/12/15/drupal-releases-security-updates-address-vulnerabilities-h5p-and",
+          "publishedOn": "2022-12-15T15:02:13.000Z",
+          "wordCount": 974,
+          "title": "Drupal Releases Security Updates to Address Vulnerabilities in H5P and File (Field) Paths",
+          "imageUrl": null
+        },
+        {
+          "id": "18215 at https://us-cert.cisa.gov",
+          "author": "CISA",
+          "description": "Original release date: December 15, 2022\nCISA has consolidated its social media presence on Twitter. Three accounts — @ICSCERT, @Cyber, and @CISAInfraSec — are no longer active. Additionally, the @USCERT_gov Twitter account is now renamed @CISACyber. The following current active Twitter accounts will include posts on content previously covered on the now-inactive accounts.\n@CISACyber will cover updates relevant to the industrial control systems community along with the latest vulnerability management info, threat analysis, and other info relevant to the cybersecurity community.\n@CISAgov will continue to provide agencywide content or non-urgent ICS updates.\n@CISAJen will continue to include posts across a variety of topics coming straight from the CISA director.\n@CISACyber and @CISAgovTwitter accounts to keep receiving important CISA messages and information.\nThis product is provided subject to this Notification and this Privacy & Use policy.",
+          "link": "https://us-cert.cisa.gov/ncas/current-activity/2022/12/15/cisa-consolidates-twitter-accounts",
+          "publishedOn": "2022-12-15T14:34:00.000Z",
+          "wordCount": 1024,
+          "title": "CISA Consolidates Twitter Accounts",
+          "imageUrl": null
+        },
+        {
           "id": "18214 at https://us-cert.cisa.gov",
           "author": "CISA",
           "description": "Original release date: December 14, 2022\nCISA has added one new vulnerability to its Known Exploited Vulnerabilities Catalog, based on evidence of active exploitation. This type of vulnerability is a frequent attack vector for malicious cyber actors and poses a significant risk to the federal enterprise. Note: To view the newly added vulnerabilities in the catalog, click on the arrow in the \"Date Added to Catalog\" column, which will sort by descending dates.\nBinding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the Known Exploited Vulnerabilities Catalog as a living list of known CVEs that carry significant risk to the federal enterprise. BOD 22-01 requires FCEB agencies to remediate identified vulnerabilities by the due date to protect FCEB networks against active threats. See the BOD 22-01 Fact Sheet for more information.\nAlthough BOD 22-01 only applies to FCEB agencies, CISA strongly urges all organizations to reduce their exposure to cyberattacks by prioritizing timely remediation of Catalog vulnerabilities as part of their vulnerability management practice. CISA will continue to add vulnerabilities to the Catalog that meet the specified criteria. \nThis product is provided subject to this Notification and this Privacy & Use policy.",
@@ -370,6 +390,51 @@
       "feedUrl": "https://www.darkreading.com/rss.xml",
       "siteUrl": "https://www.darkreading.com",
       "articles": [
+        {
+          "id": "https://www.darkreading.com/vulnerabilities-threats/blackmailing-moneymonger-malware-hides-flutter-mobile-apps",
+          "author": "Nathan Eddy, Contributing Writer, Dark Reading",
+          "description": "Money-lending apps built using the Flutter software development kit hide a predatory spyware threat and highlight a growing trend of using personal data for blackmail.",
+          "link": "https://www.darkreading.com/vulnerabilities-threats/blackmailing-moneymonger-malware-hides-flutter-mobile-apps",
+          "publishedOn": "2022-12-15T16:20:20.000Z",
+          "wordCount": 12210,
+          "title": "Blackmailing MoneyMonger Malware Hides in Flutter Mobile Apps",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltf8b5a94afa71c53a/628e3799daa31875dc0c9fc0/NathanEddyHeadshot.PNG",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltf8b5a94afa71c53a/628e3799daa31875dc0c9fc0/NathanEddyHeadshot.PNG"
+        },
+        {
+          "id": "https://www.darkreading.com/cloud/data-destruction-policies-in-the-age-of-cloud-computing-",
+          "author": "Tony Howlett, CISO, UniSec Cybersecurity",
+          "description": "It's time for on-the-record answers to questions about data destruction in cloud environments. Without access, how do you verify data has been destroyed? Do processes meet DoD standards, or do we need to adjust standards to meet reality?",
+          "link": "https://www.darkreading.com/cloud/data-destruction-policies-in-the-age-of-cloud-computing-",
+          "publishedOn": "2022-12-15T15:00:00.000Z",
+          "wordCount": 11810,
+          "title": "Data Destruction Policies in the Age of Cloud Computing",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt9195c697831e0756/6193f3915613955659d6649b/Tony-Howlett2.jpeg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt9195c697831e0756/6193f3915613955659d6649b/Tony-Howlett2.jpeg"
+        },
+        {
+          "id": "https://www.darkreading.com/vulnerabilities-threats/api-flaws-lego-marketplace-user-accounts-data-at-risk",
+          "author": "Elizabeth Montalbano, Contributor, Dark Reading",
+          "description": "Attackers also could breach internal production data to compromise a corporate network using vulnerabilities found in the BrickLink online platform.",
+          "link": "https://www.darkreading.com/vulnerabilities-threats/api-flaws-lego-marketplace-user-accounts-data-at-risk",
+          "publishedOn": "2022-12-15T14:59:21.000Z",
+          "wordCount": 13474,
+          "title": "API Flaws in Lego Marketplace Put User Accounts, Data at Risk",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltbfd004d139d42d70/6303bca6236c2476a257760e/ElizabethMontalbano.jpg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltbfd004d139d42d70/6303bca6236c2476a257760e/ElizabethMontalbano.jpg"
+        },
         {
           "id": "https://www.darkreading.com/mobile/nsa-slices-up-5g-mobile-security-risks",
           "author": "Dark Reading Staff, Dark Reading",
@@ -3986,6 +4051,38 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2022/12/researchers-uncover-mirrorface-cyber.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "A Chinese-speaking advanced persistent threat (APT) actor codenamed MirrorFace has been attributed to a spear-phishing campaign targeting Japanese political establishments.\nThe activity, dubbed Operation LiberalFace by ESET, specifically focused on members of an unnamed political party in the nation with the goal of delivering an implant called LODEINFO and a hitherto unseen credential stealer",
+          "link": "https://thehackernews.com/2022/12/researchers-uncover-mirrorface-cyber.html",
+          "publishedOn": "2022-12-15T13:58:00.000Z",
+          "wordCount": null,
+          "title": "Researchers Uncover MirrorFace Cyber Attacks Targeting Japanese Political Entities",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLuTWEk89MnUBFPgHviLUu4n8Y51IE4rJtYtqrLUim0EOmGvzC572UkVSNRotxxTJCsW4FD_jRi63Z-_giDZ-xVy4bdu4Lr-IBlHdU8_V0StxvGiyLT1Wz2fHjC-vPRDXYqRUQuuCUUBLGxm8NU7Q03Z1zBu8EV4PUOAbJeB8Og83TcCMOjEy24DG5/s1600/eset.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLuTWEk89MnUBFPgHviLUu4n8Y51IE4rJtYtqrLUim0EOmGvzC572UkVSNRotxxTJCsW4FD_jRi63Z-_giDZ-xVy4bdu4Lr-IBlHdU8_V0StxvGiyLT1Wz2fHjC-vPRDXYqRUQuuCUUBLGxm8NU7Q03Z1zBu8EV4PUOAbJeB8Og83TcCMOjEy24DG5/s1600/eset.png"
+        },
+        {
+          "id": "https://thehackernews.com/2022/12/microsoft-reclassifies-spnego-extended.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Microsoft has revised the severity of a security vulnerability it originally patched in September 2022, upgrading it to \"Critical\" after it emerged that it could be exploited to achieve remote code execution.\nTracked as CVE-2022-37958 (CVSS score: 8.1), the flaw was previously described as an information disclosure vulnerability in SPNEGO Extended Negotiation (NEGOEX) Security Mechanism.\nSPNEGO,",
+          "link": "https://thehackernews.com/2022/12/microsoft-reclassifies-spnego-extended.html",
+          "publishedOn": "2022-12-15T13:42:00.000Z",
+          "wordCount": null,
+          "title": "Microsoft Reclassifies SPNEGO Extended Negotiation Security Vulnerability as 'Critical'",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgCt-7RBYA-fZfdvDo4t51hauUry8CRRcANtLGiYPROjVQZLdrA8xR7LdINohxId57LYHP8_E5X9Teq3St0iZ4kD1jKaFnH_44YtiMtjXyeITRlMdELLChPcPrW01hwPJW2GpEunfcNYHF5aqbxB4SzJzzTfYo5ImguIkMR5ySs3akRj0uEWHJQ_jW8/s1600/hacking-computer.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgCt-7RBYA-fZfdvDo4t51hauUry8CRRcANtLGiYPROjVQZLdrA8xR7LdINohxId57LYHP8_E5X9Teq3St0iZ4kD1jKaFnH_44YtiMtjXyeITRlMdELLChPcPrW01hwPJW2GpEunfcNYHF5aqbxB4SzJzzTfYo5ImguIkMR5ySs3akRj0uEWHJQ_jW8/s1600/hacking-computer.png"
+        },
+        {
           "id": "https://thehackernews.com/2022/12/android-malware-campaign-leverages.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "A previously undocumented Android malware campaign has been observed leveraging money-lending apps to blackmail victims into paying up with personal information stolen from their devices.\nMobile security company Zimperium dubbed the activity MoneyMonger, pointing out the use of the cross-platform Flutter framework to develop the apps.\nMoneyMonger \"takes advantage of Flutter's framework to",
@@ -5776,17 +5873,6 @@
           "publishedOn": "2022-11-16T07:35:00.000Z",
           "wordCount": null,
           "title": "Warning: New RapperBot Campaign Aims to Launch DDoS Attacks at Game Servers",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "tag:blogger.com,1999:blog-4802841478634147276.post-8626500522949885162",
-          "author": "noreply@blogger.com (Ravie Lakshmanan)",
-          "description": "Internet behemoth Google on Tuesday said it plans to roll out Privacy Sandbox for Android in beta to mobile devices running Android 13 starting early next year.\n\"The Privacy Sandbox Beta will be available for ad tech and app developers who wish to test the ads-related APIs as part of their solutions,\" the company said.\nTo that end, developers will need to complete an enrollment process in order",
-          "link": "https://thehackernews.com/2022/11/google-to-roll-out-privacy-sandbox-beta.html",
-          "publishedOn": "2022-11-16T05:24:00.000Z",
-          "wordCount": null,
-          "title": "Google to Roll Out Privacy Sandbox Beta on Android 13 by Early 2023",
           "itunes": {},
           "imageUrl": null
         }
