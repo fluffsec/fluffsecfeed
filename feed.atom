@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-16T02:10:55.366Z</updated>
+    <updated>2022-12-16T07:17:19.068Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[CISA Alert: Veeam Backup and Replication Vulnerabilities Being Exploited in Attacks]]></title>
+        <id>https://thehackernews.com/2022/12/cisa-alert-veeam-backup-and-replication.html</id>
+        <link href="https://thehackernews.com/2022/12/cisa-alert-veeam-backup-and-replication.html"/>
+        <updated>2022-12-16T05:45:00.000Z</updated>
+        <summary type="html"><![CDATA[The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added two vulnerabilities impacting Veeam Backup & Replication software to its Known Exploited Vulnerabilities (KEV) Catalog, citing evidence of active exploitation in the wild.
+The now-patched critical flaws, tracked as CVE-2022-26500 and CVE-2022-26501, are both rated 9.8 on the CVSS scoring system, and could be leveraged to]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Zero Trust Shouldn’t Be The New Normal]]></title>
         <id>https://www.darkreading.com/edge-ask-the-experts/zero-trust-shouldnt-be-the-new-normal</id>
@@ -4747,185 +4758,6 @@ This product is provided subject to this Notification and this Privacy & Use pol
         <summary type="html"><![CDATA[Major cryptocurrency company FTX recently filed for bankruptcy, and there's a big phishing campaign on the loose targeting FTX users.]]></summary>
         <author>
             <name>Stu Sjouwerman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Announcing the Microsoft Machine Learning Membership Inference Competition (MICO)]]></title>
-        <id>https://msrc-blog.microsoft.com/?p=15167</id>
-        <link href="https://msrc-blog.microsoft.com/2022/11/16/mico/"/>
-        <updated>2022-11-16T18:58:00.000Z</updated>
-        <summary type="html"><![CDATA[We’re excited to announce the launch of a new competition focusing on the security and privacy of machine learning (ML) systems. Machine learning has already become a key enabler in many products and services, and this trend is likely to continue. It is therefore critical to understand the security and privacy guarantees provided by state-of-the-art …
-  Announcing the Microsoft Machine Learning Membership Inference Competition (MICO) Read More »]]></summary>
-        <author>
-            <name>Andrew Paverd</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Ransomware Data Is In: What's Happening and How to Fight Back]]></title>
-        <id>https://www.darkreading.com/vulnerabilities-threats/new-ransomware-data-is-in-what-s-happening-and-how-to-fight-back</id>
-        <link href="https://www.darkreading.com/vulnerabilities-threats/new-ransomware-data-is-in-what-s-happening-and-how-to-fight-back"/>
-        <updated>2022-11-16T18:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Be proactive about data defense. Start with the right data, leverage domain expertise, and create models that help you target the most critical vulnerabilities.]]></summary>
-        <author>
-            <name>Srinivas Mukkamala, Chief Product Officer, Ivanti</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ukraine's 'IT Army' Stops 1,300 Cyberattacks in 8 Months of War]]></title>
-        <id>https://www.darkreading.com/endpoint/ukraine-it-army-stops-1300-cyberattacks-war</id>
-        <link href="https://www.darkreading.com/endpoint/ukraine-it-army-stops-1300-cyberattacks-war"/>
-        <updated>2022-11-16T17:00:55.000Z</updated>
-        <summary type="html"><![CDATA[President Zelensky offers hard-won Ukrainian cybersecurity expertise to other countries that want to protect citizen populations.]]></summary>
-        <author>
-            <name>Dark Reading Staff, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Thousands of Amazon RDS Snapshots Are Leaking Corporate PII]]></title>
-        <id>https://www.darkreading.com/cloud/thousands-amazon-rds-snapshots-leaking-corporate-pii</id>
-        <link href="https://www.darkreading.com/cloud/thousands-amazon-rds-snapshots-leaking-corporate-pii"/>
-        <updated>2022-11-16T16:52:48.000Z</updated>
-        <summary type="html"><![CDATA[A service that allows organizations to back up data in the cloud can accidentally leak sensitive data to the public Internet, paving the way for abuse by threat actors.]]></summary>
-        <author>
-            <name>Elizabeth Montalbano, Contributor, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vectra Unveils Global Managed Detection and Response (MDR) Services With Game-Changing Attack Signal Intelligence™]]></title>
-        <id>https://www.darkreading.com/cloud/vectra-unveils-global-managed-detection-and-response-mdr-services-with-game-changing-attack-signal-intelligence-</id>
-        <link href="https://www.darkreading.com/cloud/vectra-unveils-global-managed-detection-and-response-mdr-services-with-game-changing-attack-signal-intelligence-"/>
-        <updated>2022-11-16T16:04:03.000Z</updated>
-        <summary type="html"><![CDATA[Embracing shared responsibility, Vectra MDR reinforces customers’ SOC teams with 24/7/365 skills and expertise to mitigate today’s most advanced cyber threats.]]></summary>
-        <author>
-            <name>Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BitSight Enhances Its Third-Party Risk Management Platform to Help Organizations Respond to Major Vulnerabilities]]></title>
-        <id>https://www.darkreading.com/risk/bitsight-enhances-its-third-party-risk-management-platform-to-help-organizations-respond-to-major-vulnerabilities</id>
-        <link href="https://www.darkreading.com/risk/bitsight-enhances-its-third-party-risk-management-platform-to-help-organizations-respond-to-major-vulnerabilities"/>
-        <updated>2022-11-16T15:49:05.000Z</updated>
-        <summary type="html"><![CDATA[Additional functionality also added to the fourth-party risk solution is providing better visibility and insights into vendor risk.]]></summary>
-        <author>
-            <name>Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Samba Releases Security Updates]]></title>
-        <id>18159 at https://us-cert.cisa.gov</id>
-        <link href="https://us-cert.cisa.gov/ncas/current-activity/2022/11/16/samba-releases-security-updates"/>
-        <updated>2022-11-16T15:29:23.000Z</updated>
-        <summary type="html"><![CDATA[Original release date: November 16, 2022
-The Samba Team has released security updates to address vulnerabilities in multiple versions of Samba. An attacker could exploit some of these vulnerabilities to take control of an affected system.
-CISA encourages users and administrators to review Samba security announcement CVE-2022-42898 and apply the necessary updates.
-This product is provided subject to this Notification and this Privacy & Use policy.]]></summary>
-        <author>
-            <name>CISA</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mozilla Releases Security Updates for Multiple Products]]></title>
-        <id>18158 at https://us-cert.cisa.gov</id>
-        <link href="https://us-cert.cisa.gov/ncas/current-activity/2022/11/16/mozilla-releases-security-updates-multiple-products"/>
-        <updated>2022-11-16T15:27:13.000Z</updated>
-        <summary type="html"><![CDATA[Original release date: November 16, 2022
-Mozilla has released security updates to address vulnerabilities in Thunderbird, Firefox ESR, and Firefox. An attacker could exploit these vulnerabilities to cause user confusion or conduct spoofing attacks.
-CISA encourages users and administrators to review Mozilla’s security advisories for Thunderbird 102.5, Firefox ESR 102.5, and Firefox 107 for mitigations and updates.
-This product is provided subject to this Notification and this Privacy & Use policy.]]></summary>
-        <author>
-            <name>CISA</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Palo Alto Networks Announces PAN-OS 11.0 Nova to Help Keep Organizations One Step Ahead of Zero-Day Threats]]></title>
-        <id>https://www.darkreading.com/vulnerabilities-threats/palo-alto-networks-announces-pan-os-11-0-nova-to-help-keep-organizations-one-step-ahead-of-zero-day-threats</id>
-        <link href="https://www.darkreading.com/vulnerabilities-threats/palo-alto-networks-announces-pan-os-11-0-nova-to-help-keep-organizations-one-step-ahead-of-zero-day-threats"/>
-        <updated>2022-11-16T15:19:29.000Z</updated>
-        <summary type="html"><![CDATA[Nova introduces innovations to help stop zero-day threats, simplify security architectures, and reduce the risk of costly misconfigurations.]]></summary>
-        <author>
-            <name>Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AA22-320A: Iranian Government-Sponsored APT Actors Compromise Federal Network, Deploy Crypto Miner, Credential Harvester]]></title>
-        <id>18153 at https://us-cert.cisa.gov</id>
-        <link href="https://us-cert.cisa.gov/ncas/alerts/aa22-320a"/>
-        <updated>2022-11-16T15:04:03.000Z</updated>
-        <summary type="html"><![CDATA[Original release date: November 16, 2022
-Summary
-From mid-June through mid-July 2022, CISA conducted an incident response engagement at a Federal Civilian Executive Branch (FCEB) organization where CISA observed suspected advanced persistent threat (APT) activity. In the course of incident response activities, CISA determined that cyber threat actors exploited the Log4Shell vulnerability in an unpatched VMware Horizon server, installed XMRig crypto mining software, moved laterally to the domain controller (DC), compromised credentials, and then implanted Ngrok reverse proxies on several hosts to maintain persistence. CISA and the Federal Bureau of Investigation (FBI) assess that the FCEB network was compromised by Iranian government-sponsored APT actors.
-CISA and FBI are releasing this Cyb…]]></summary>
-        <author>
-            <name>CISA</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cymulate Survey Finds Consolidation Is Happening, but Only 20% Cite Cost As the Reason]]></title>
-        <id>https://www.darkreading.com/vulnerabilities-threats/cymulate-survey-finds-consolidation-is-happening-but-only-20-cite-cost-as-the-reason</id>
-        <link href="https://www.darkreading.com/vulnerabilities-threats/cymulate-survey-finds-consolidation-is-happening-but-only-20-cite-cost-as-the-reason"/>
-        <updated>2022-11-16T15:00:27.000Z</updated>
-        <summary type="html"><![CDATA[Economic anxiety, staffing challenges, and growing supply chain threats are among other factors impacting cybersecurity spending and planning.]]></summary>
-        <author>
-            <name>Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CISA and FBI Release Advisory on Iranian Government-Sponsored APT Actors Compromising Federal Network]]></title>
-        <id>18156 at https://us-cert.cisa.gov</id>
-        <link href="https://us-cert.cisa.gov/ncas/current-activity/2022/11/16/cisa-and-fbi-release-advisory-iranian-government-sponsored-apt"/>
-        <updated>2022-11-16T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Original release date: November 16, 2022
-Today, CISA and the Federal Bureau of Investigation (FBI) published a joint Cybersecurity Advisory (CSA), Iranian Government-Sponsored APT Actors Compromise Federal Network, Deploy Crypto Miner, Credential Harvester. The CSA provides information on an incident at a Federal Civilian Executive Branch (FCEB) organization in which Iranian government-sponsored APT actors exploited a Log4Shell vulnerability in unpatched VMware Horizon server.
-The CSA includes a malware analysis report (MAR), MAR-10387061-1-v1 XMRig Cryptocurrency Mining Software, on the mining software that the APT actors used against the compromised FCEB network. The CSA also provides tactics, techniques, and procedures (TTPs) and indicators of compromise (IOCs) obtained from the incident response as well as recommended mitigations.
-CISA and FBI strongly recommend organizations apply the recommended mitigations and defensive measures, which include:
-Updating affected VMware Horizon and unified access gateway (UAG) systems to the latest version.
-Minimizing your organization’s internet-facing attack surface.
-Exercising, testing, and validating your organization's security program against the threat behaviors mapped to the MITRE ATT&CK for Enterprise framework in the CSA.
-Testing your organization’s existing security controls against the ATT&CK techniques described in the CSA. 
-For additional information on malicious Iranian government-sponsored cyber activity, see CISA’s Iran Cyber Threat Overview and Advisories webpage and FBI’s Iran Threats webpage.
-This product is provided subject to this Notification and this Privacy & Use policy.]]></summary>
-        <author>
-            <name>CISA</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cybersecurity Best Practice Is Critical for Winning the New Space Race]]></title>
-        <id>https://www.darkreading.com/attacks-breaches/cybersecurity-best-practice-is-critical-for-winning-the-new-space-race</id>
-        <link href="https://www.darkreading.com/attacks-breaches/cybersecurity-best-practice-is-critical-for-winning-the-new-space-race"/>
-        <updated>2022-11-16T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The race is actually a relay — one that requires collaboration to win.]]></summary>
-        <author>
-            <name>Neil Sherwin-Peddie, Head of Space Security, BAE Systems Digital Intelligence</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What Is Top of Mind for CISOs Right Now?]]></title>
-        <id>https://www.darkreading.com/microsoft/what-is-top-of-mind-for-cisos-right-now-</id>
-        <link href="https://www.darkreading.com/microsoft/what-is-top-of-mind-for-cisos-right-now-"/>
-        <updated>2022-11-16T14:45:37.000Z</updated>
-        <summary type="html"><![CDATA[Security executives are leaning into the powerful twinning of XDR and automated management to reduce the risk and impact of ransomware.]]></summary>
-        <author>
-            <name>Microsoft Security, Microsoft</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Viakoo Announces Strategic Alliance With Nozomi Networks to Deliver Agentless, End-to-End IoT Security at Scale]]></title>
-        <id>https://www.darkreading.com/iot/viakoo-announces-strategic-alliance-with-nozomi-networks-to-deliver-agentless-end-to-end-iot-security-at-scale</id>
-        <link href="https://www.darkreading.com/iot/viakoo-announces-strategic-alliance-with-nozomi-networks-to-deliver-agentless-end-to-end-iot-security-at-scale"/>
-        <updated>2022-11-16T14:37:53.000Z</updated>
-        <summary type="html"><![CDATA[Leaders in operational technology/Internet of Things (OT/IoT) discovery and remediation partner to deliver best-in-class IoT enterprise security management solution.]]></summary>
-        <author>
-            <name>Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[More Than 1,000 New Cybersecurity Apprentices Joined Workforce in Past 12 Months]]></title>
-        <id>https://www.darkreading.com/endpoint/more-than-1-000-new-cybersecurity-apprentices-joined-workforce-in-past-12-months</id>
-        <link href="https://www.darkreading.com/endpoint/more-than-1-000-new-cybersecurity-apprentices-joined-workforce-in-past-12-months"/>
-        <updated>2022-11-16T14:17:22.000Z</updated>
-        <summary type="html"><![CDATA[Safal Partners is helping to close the American cyber talent and diversity gap in cybersecurity.]]></summary>
-        <author>
-            <name>Dark Reading</name>
         </author>
     </entry>
     <entry>
