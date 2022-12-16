@@ -291,16 +291,6 @@
           "wordCount": 881,
           "title": "CISA Releases Two Industrial Control Systems Advisories",
           "imageUrl": null
-        },
-        {
-          "id": "18161 at https://us-cert.cisa.gov",
-          "author": "CISA",
-          "description": "Original release date: November 16, 2022\nCisco has released security updates for vulnerabilities affecting Cisco Identity Services Engine (ISE). A remote attacker could exploit some of these vulnerabilities to bypass authorization and access system files. For updates addressing vulnerabilities, see the Cisco Security Advisories page.   \nCISA encourages users and administrators to review the following advisories and apply the necessary updates:\nCisco Identity Services Engine Insufficient Access Control Vulnerability\nCisco Identity Services Engine Cross-Site Scripting Vulnerability\nThis product is provided subject to this Notification and this Privacy & Use policy.",
-          "link": "https://us-cert.cisa.gov/ncas/current-activity/2022/11/16/cisco-releases-security-updates-identity-services-engine",
-          "publishedOn": "2022-11-16T20:27:39.000Z",
-          "wordCount": 908,
-          "title": "Cisco Releases Security Updates for Identity Services Engine",
-          "imageUrl": null
         }
       ]
     },
@@ -360,6 +350,21 @@
       "feedUrl": "https://www.darkreading.com/rss.xml",
       "siteUrl": "https://www.darkreading.com",
       "articles": [
+        {
+          "id": "https://www.darkreading.com/dr-tech/nist-finally-retires-sha-1",
+          "author": "Dark Reading Staff, Dark Reading",
+          "description": "SHA-1 was deprecated in 2011. NIST has set the hashing algorithm's final retirement date to Dec. 31, 2030.",
+          "link": "https://www.darkreading.com/dr-tech/nist-finally-retires-sha-1",
+          "publishedOn": "2022-12-15T23:00:00.000Z",
+          "wordCount": 10227,
+          "title": "NIST Finally Retires SHA-1, Kind Of",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blte161b23f0fd3a84b/60b1ea374e7eb868c4c6a293/dr_staff_125x125.jpg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blte161b23f0fd3a84b/60b1ea374e7eb868c4c6a293/dr_staff_125x125.jpg"
+        },
         {
           "id": "https://www.darkreading.com/edge-ask-the-experts/zero-trust-shouldnt-be-the-new-normal",
           "author": "Jonathan Care, Contributing Writer, Dark Reading",
@@ -789,6 +794,21 @@
             "length": "0"
           },
           "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt58481326324d6911/60b1e9a55d34de550780a990/Robert-Lemos.png"
+        },
+        {
+          "id": "https://www.darkreading.com/dr-tech/improve-confidence-and-context-to-sell-the-soc-on-automating",
+          "author": "Sanjay Raja, VP of Product Marketing and Solutions, Gurucul",
+          "description": "SIEM and XDE made a lot of promises, but they don't quite live up to the SOC team's standards.",
+          "link": "https://www.darkreading.com/dr-tech/improve-confidence-and-context-to-sell-the-soc-on-automating",
+          "publishedOn": "2022-12-13T15:00:00.000Z",
+          "wordCount": 12691,
+          "title": "Improve Confidence and Context to Sell the SOC on Automating",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltf1b269b44fa06d53/6390dd814fc6ea2e71863efd/Sanjay_Raja_Headshot.jpg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltf1b269b44fa06d53/6390dd814fc6ea2e71863efd/Sanjay_Raja_Headshot.jpg"
         },
         {
           "id": "https://www.darkreading.com/operations/the-cybersecurity-industry-doesn-t-have-a-stress-problem-it-has-a-leadership-problem",
@@ -3204,76 +3224,6 @@
           "wordCount": 12108,
           "title": "Revelstoke Upgrades SOAR Platform With Augmented Automation, Case Management, and User Interface Capabilities",
           "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
-        },
-        {
-          "id": "https://www.darkreading.com/endpoint/china-based-billbug-apt-infiltrates-certificate-authority",
-          "author": "Tara Seals, Managing Editor, News, Dark Reading",
-          "description": "Access to digital certificates would allow the Chinese-speaking espionage group to sign its custom malware and skate by security scanners.",
-          "link": "https://www.darkreading.com/endpoint/china-based-billbug-apt-infiltrates-certificate-authority",
-          "publishedOn": "2022-11-16T23:00:00.000Z",
-          "wordCount": 13164,
-          "title": "China-Based Billbug APT Infiltrates Certificate Authority",
-          "enclosure": {
-            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltea67136f81f32eca/626a9eb4726e3315b16b3c64/Tara-Seals-Headshot2.jpg",
-            "type": "image/*",
-            "length": "0"
-          },
-          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltea67136f81f32eca/626a9eb4726e3315b16b3c64/Tara-Seals-Headshot2.jpg"
-        },
-        {
-          "id": "https://www.darkreading.com/risk/mitre-engenuity-launches-evaluations-security-service-providers",
-          "author": "Jai Vijayan, Contributing Writer, Dark Reading",
-          "description": "The results are labor-intensive to parse, so knowing how to interpret them is key, security experts say.",
-          "link": "https://www.darkreading.com/risk/mitre-engenuity-launches-evaluations-security-service-providers",
-          "publishedOn": "2022-11-16T22:55:00.000Z",
-          "wordCount": 14324,
-          "title": "MITRE Engenuity Launches Evaluations for Security Service Providers",
-          "enclosure": {
-            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt02d79fb9a44a4258/60b1e9dd2a25046b35110696/Jai-Vijayan.jpeg",
-            "type": "image/*",
-            "length": "0"
-          },
-          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt02d79fb9a44a4258/60b1e9dd2a25046b35110696/Jai-Vijayan.jpeg"
-        },
-        {
-          "id": "https://www.darkreading.com/edge-articles/ai-generated-code-is-coming-are-you-ready-",
-          "author": "Frank Catucci, Chief Technology Officer and Head of Security Research, Invicti",
-          "description": "Autocompleted code is convenient and quick, but it may expose your organization to security and compliance risks.",
-          "link": "https://www.darkreading.com/edge-articles/ai-generated-code-is-coming-are-you-ready-",
-          "publishedOn": "2022-11-16T22:00:00.000Z",
-          "wordCount": 14982,
-          "title": "Are We Ready for AI-Generated Code?",
-          "enclosure": {
-            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt4d6aa8e6d413fba2/63752e11814c1a2f27bf4071/frank-catucci-sq.jpg",
-            "type": "image/*",
-            "length": "0"
-          },
-          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt4d6aa8e6d413fba2/63752e11814c1a2f27bf4071/frank-catucci-sq.jpg"
-        },
-        {
-          "id": "https://www.darkreading.com/operations/the-future-of-cybersecurity-recruiting-lessons-on-what-employers-want-and-what-students-need",
-          "author": null,
-          "description": "The cybersecurity industry is facing a challenge to find qualified candidates. Here’s what recruiters, educators, and employers can do to fill the talent gap.",
-          "link": "https://www.darkreading.com/operations/the-future-of-cybersecurity-recruiting-lessons-on-what-employers-want-and-what-students-need",
-          "publishedOn": "2022-11-16T22:00:00.000Z",
-          "wordCount": 13394,
-          "title": "The Future of Cybersecurity Recruiting: Lessons on What Employers Want and What Students Need",
-          "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
-        },
-        {
-          "id": "https://www.darkreading.com/application-security/boostsecurity-stealth-saas-devsecops-platform",
-          "author": "Becky Bracken, Editor, Dark Reading",
-          "description": "Fresh startup BoostSecurity has an SaaS platform for developers and security teams that provides automated tools to shore up cybersecurity within the software supply chain.",
-          "link": "https://www.darkreading.com/application-security/boostsecurity-stealth-saas-devsecops-platform",
-          "publishedOn": "2022-11-16T21:10:00.000Z",
-          "wordCount": 11112,
-          "title": "BoostSecurity Emerges From Stealth With SaaS DevSecOps Platform",
-          "enclosure": {
-            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt8e7bd143d726930b/627271268681151716941064/BeckyB.jpg",
-            "type": "image/*",
-            "length": "0"
-          },
-          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt8e7bd143d726930b/627271268681151716941064/BeckyB.jpg"
         }
       ]
     },
@@ -3338,6 +3288,26 @@
       "feedUrl": "https://blog.knowbe4.com/rss.xml",
       "siteUrl": "https://blog.knowbe4.com",
       "articles": [
+        {
+          "id": "https://blog.knowbe4.com/hospitals-warned-of-royal-ransomware-attacks-by-u.s.-department-of-health",
+          "author": "Stu Sjouwerman",
+          "description": "This brand new ransomware gang is on the attack and, despite them being new to the game, are coming out of the gate attacking the healthcare sector and asking for millions in ransom.",
+          "link": "https://blog.knowbe4.com/hospitals-warned-of-royal-ransomware-attacks-by-u.s.-department-of-health",
+          "publishedOn": "2022-12-16T13:15:38.000Z",
+          "wordCount": 2169,
+          "title": "Hospitals Warned of Royal Ransomware Attacks by U.S. Department of Health",
+          "imageUrl": "https://blog.knowbe4.com/hubfs/Warn%20of%20Ransomware.jpg#keepProtocol"
+        },
+        {
+          "id": "https://blog.knowbe4.com/less-than-one-third-of-organizations-leverage-multiple-authentication-factors-to-secure-their-environment",
+          "author": "Stu Sjouwerman",
+          "description": "Demonstrating a complete lack of focus on the need for additional authentication factors, surprising new data highlights a material security gap that enables cybercrime.",
+          "link": "https://blog.knowbe4.com/less-than-one-third-of-organizations-leverage-multiple-authentication-factors-to-secure-their-environment",
+          "publishedOn": "2022-12-16T13:15:35.000Z",
+          "wordCount": 2151,
+          "title": "Less Than One-Third of Organizations Leverage Multiple Authentication Factors to Secure Their Environment",
+          "imageUrl": "https://blog.knowbe4.com/hubfs/Leverage%20Multi-Factor%20Authentication.jpg#keepProtocol"
+        },
         {
           "id": "https://blog.knowbe4.com/ten-charged-with-bec-healthcare-scheme-that-took-more-than-11-million",
           "author": "Stu Sjouwerman",
@@ -3917,26 +3887,6 @@
           "wordCount": 2291,
           "title": "Watch Out For This Tricky New Tactic Called Clone Phishing",
           "imageUrl": "https://blog.knowbe4.com/hubfs/New%20Tactic%20Clone%20Phishing.jpg#keepProtocol"
-        },
-        {
-          "id": "https://blog.knowbe4.com/fbi-director-says-hes-extremely-concerned-about-chinas-ability-to-weaponize-tiktok",
-          "author": "Stu Sjouwerman",
-          "description": "Suzanne Smalley at Cyberscoop reported: \"FBI Director Christopher Wray told Congress on Tuesday he is “extremely concerned” that Beijing could weaponize data collected through TikTok, the wildly popular app owned by the Chinese company ByteDance.\nWray said during a House Homeland Security Committee hearing on worldwide threats that application programming interfaces, or APIs, that ByteDance embeds in TikTok are a national security concern since Beijing could use them to “control data collection of millions of users or control the recommendation algorithm, which can be used for influence operations.”\nIn his opening remarks, Wray noted that while America faces cyberthreats from a variety of nations, “China’s fast hacking program is the world’s largest, and they have stolen more of Americans’ personal and business data than every other nation combined.”\nWray said the FBI has seen a surge in cybersecurity cases and as the numbers have increased so too has the complexity of the investigations. “We’re investigating over 100 different ransomware variants and each one of those with scores of victims as well as a whole host of other novel threats posed by both cybercriminals and nation-states alike.”\nHe said that APIs in TikTok could be harnessed by China to control software on millions of devices, meaning the Chinese government could conceivably technically compromise Americans’ personal devices.\nBecause Chinese companies are forced to “basically do whatever the Chinese government wants to do in terms of sharing information or serving as a tool of the Chinese government … that’s plenty of reason by itself to be extremely concerned” about TikTok and the larger threat posed by Chinese cyber aggression, he said.\"",
-          "link": "https://blog.knowbe4.com/fbi-director-says-hes-extremely-concerned-about-chinas-ability-to-weaponize-tiktok",
-          "publishedOn": "2022-11-16T20:29:36.000Z",
-          "wordCount": 2083,
-          "title": "FBI director says he's 'extremely concerned' about China's ability to weaponize TikTok",
-          "imageUrl": "https://blog.knowbe4.com/hubfs/tiktok-logo.png#keepProtocol"
-        },
-        {
-          "id": "https://blog.knowbe4.com/scam-of-the-week-phishing-campaign-targets-crypto-users",
-          "author": "Stu Sjouwerman",
-          "description": "Major cryptocurrency company FTX recently filed for bankruptcy, and there's a big phishing campaign on the loose targeting FTX users.",
-          "link": "https://blog.knowbe4.com/scam-of-the-week-phishing-campaign-targets-crypto-users",
-          "publishedOn": "2022-11-16T19:46:22.000Z",
-          "wordCount": 2184,
-          "title": "[SCAM OF THE WEEK] Phishing Campaign Targets Crypto Users",
-          "imageUrl": "https://blog.knowbe4.com/hubfs/Cryptocurrency%20Phishing%20Campaign.jpg#keepProtocol"
         }
       ]
     },
@@ -3945,6 +3895,86 @@
       "feedUrl": "https://thehackernews.com/feeds/posts/default",
       "siteUrl": "https://thehackernews.com",
       "articles": [
+        {
+          "id": "https://thehackernews.com/2022/12/ex-twitter-employee-gets-35-years-jail.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "A former Twitter employee who was found guilty of spying on behalf of Saudi Arabia by sharing data pertaining to specific individuals has been sentenced to three-and-a-half years in prison.\nAhmad Abouammo, 45, was convicted earlier this August on various criminal counts, including money laundering, fraud, falsifying records, and being an illegal agent of a foreign government.\nAbouammo was",
+          "link": "https://thehackernews.com/2022/12/ex-twitter-employee-gets-35-years-jail.html",
+          "publishedOn": "2022-12-16T13:08:00.000Z",
+          "wordCount": null,
+          "title": "Ex-Twitter employee Gets 3.5 Years Jail for Spying on Behalf of Saudi Arabia",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh617co11NC67FT96ar-QY7JS22ztbslmNitIK1STvPdDq1aAc8CBWdYkECOcdkJWKgZLCE4I1kGypriBoAV3vkcp79UGpFB87NaGvvXguFq39hYYxGE-eCyByGiBroBUzEfLW_E3FlEcBu9RXI8does_z3DyNNaJnsMctL8OcvI1VqUWshwxWN11us/s1600/twitter.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh617co11NC67FT96ar-QY7JS22ztbslmNitIK1STvPdDq1aAc8CBWdYkECOcdkJWKgZLCE4I1kGypriBoAV3vkcp79UGpFB87NaGvvXguFq39hYYxGE-eCyByGiBroBUzEfLW_E3FlEcBu9RXI8does_z3DyNNaJnsMctL8OcvI1VqUWshwxWN11us/s1600/twitter.png"
+        },
+        {
+          "id": "https://thehackernews.com/2022/12/cyber-security-is-not-losing-game-if.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Reality has a way of asserting itself, irrespective of any personal or commercial choices we make, good or bad. For example, just recently, the city services of Antwerp in Belgium were the victim of a highly disruptive cyberattack. \nAs usual, everyone cried \"foul play\" and suggested that proper cybersecurity measures should have been in place. And again, as usual, it all happens a bit too late.",
+          "link": "https://thehackernews.com/2022/12/cyber-security-is-not-losing-game-if.html",
+          "publishedOn": "2022-12-16T12:46:00.000Z",
+          "wordCount": null,
+          "title": "Cyber Security Is Not a Losing Game – If You Start Right Now",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhFUx7RqaZbsZ3uT2vyVtBX6Mi9EKeenbRKHDgJK4DMjdt9671lUtf7mBxSpKZ6uG-Jq61cB4GxbGr9yZ8b1gfBpgSnvGDUU5arZRS0NmFB8fWnrLY7rPJK8JrYQ07ypGPj0VfA3ho02mB8192V7cbFwdEJE8gibBANS7WlLCh6qQxafee1HuTy2ZuG/s1600/server-security.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhFUx7RqaZbsZ3uT2vyVtBX6Mi9EKeenbRKHDgJK4DMjdt9671lUtf7mBxSpKZ6uG-Jq61cB4GxbGr9yZ8b1gfBpgSnvGDUU5arZRS0NmFB8fWnrLY7rPJK8JrYQ07ypGPj0VfA3ho02mB8192V7cbFwdEJE8gibBANS7WlLCh6qQxafee1HuTy2ZuG/s1600/server-security.png"
+        },
+        {
+          "id": "https://thehackernews.com/2022/12/github-announces-free-secret-scanning.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "GitHub on Thursday said it is making available its secret scanning service to all public repositories on the code hosting platform for free.\n\"Secret scanning alerts notify you directly about leaked secrets in your code,\" the company said, adding it's expected to complete the rollout by the end of January 2023. \nSecret scanning is designed to examine repositories for access tokens, private keys,",
+          "link": "https://thehackernews.com/2022/12/github-announces-free-secret-scanning.html",
+          "publishedOn": "2022-12-16T12:24:00.000Z",
+          "wordCount": null,
+          "title": "GitHub Announces Free Secret Scanning for All Public Repositories",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhmUA0G1QJ-WQKpsyqKLN-bfbSbT3YhxHzJYhYkTyoAG18tVIhDX9DTriZW74ciD8_kvUdmLDd5XjvlZPvy9FQnYScKOgbXLFNdDUUW6Ht8sWW8uo2bNpvLammGTWvkZJ6-jbH9PanK_V4IfTxVamE5BuKVxaL3lnQcj7OQtp7VTIdv89SEfm0XVSSB/s1600/github.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhmUA0G1QJ-WQKpsyqKLN-bfbSbT3YhxHzJYhYkTyoAG18tVIhDX9DTriZW74ciD8_kvUdmLDd5XjvlZPvy9FQnYScKOgbXLFNdDUUW6Ht8sWW8uo2bNpvLammGTWvkZJ6-jbH9PanK_V4IfTxVamE5BuKVxaL3lnQcj7OQtp7VTIdv89SEfm0XVSSB/s1600/github.png"
+        },
+        {
+          "id": "https://thehackernews.com/2022/12/goodbye-sha-1-nist-retires-27-year-old.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "The U.S. National Institute of Standards and Technology (NIST), an agency within the Department of Commerce, announced Thursday that it's formally retiring the SHA-1 cryptographic algorithm.\nSHA-1, short for Secure Hash Algorithm 1, is a 27-year-old hash function used in cryptography and has since been deemed broken owing to the risk of collision attacks.\nWhile hashes are designed to be",
+          "link": "https://thehackernews.com/2022/12/goodbye-sha-1-nist-retires-27-year-old.html",
+          "publishedOn": "2022-12-16T07:39:00.000Z",
+          "wordCount": null,
+          "title": "Goodbye SHA-1: NIST Retires 27-Year-Old Widely Used Cryptographic Algorithm",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjS63RPyCCmqTsrKDunKx8BK738LSTdA-q7VMtWWRPGysA2yZCCr2TsVPMlypAxCojp0_QXknUdNILTBEY5fT2kEHjKc7ykQMn5QtGoOssb5gVT1hRvWPgCuGHr-8fNmMIgpkT6Y0SJiK3UNT_5SmYbhEmgcvHA36Tky3m0eCT2b6vAUhuer9LpWUey/s1600/sha1.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjS63RPyCCmqTsrKDunKx8BK738LSTdA-q7VMtWWRPGysA2yZCCr2TsVPMlypAxCojp0_QXknUdNILTBEY5fT2kEHjKc7ykQMn5QtGoOssb5gVT1hRvWPgCuGHr-8fNmMIgpkT6Y0SJiK3UNT_5SmYbhEmgcvHA36Tky3m0eCT2b6vAUhuer9LpWUey/s1600/sha1.png"
+        },
+        {
+          "id": "https://thehackernews.com/2022/12/minecraft-servers-under-attack.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Microsoft on Thursday flagged a cross-platform botnet that's primarily designed to launch distributed denial-of-service (DDoS) attacks against private Minecraft servers.\nCalled MCCrash, the botnet is characterized by a unique spreading mechanism that allows it to propagate to Linux-based devices despite originating from malicious software downloads on Windows hosts.\n\"The botnet spreads by",
+          "link": "https://thehackernews.com/2022/12/minecraft-servers-under-attack.html",
+          "publishedOn": "2022-12-16T07:10:00.000Z",
+          "wordCount": null,
+          "title": "Minecraft Servers Under Attack: Microsoft Warns About Cross-Platform DDoS Botnet",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEijHp6HLAxY5_9Ebf7eDGCnoLv-IfiweMuwzggWMSgxZV5fodqa3xdNQn6BeAhOwTX6fSYMpaosIEPJpOOqX7CZvaDqfcLQ8-Oa7QZyXdnELfpI-VkqA-5wexMnqbgKVxQef41c5Eh9-wUufI9ONBDQMjDrWiFBCwJtkiiog_DNFQWL3rfaecQX7jlX/s1600/minecraft.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEijHp6HLAxY5_9Ebf7eDGCnoLv-IfiweMuwzggWMSgxZV5fodqa3xdNQn6BeAhOwTX6fSYMpaosIEPJpOOqX7CZvaDqfcLQ8-Oa7QZyXdnELfpI-VkqA-5wexMnqbgKVxQef41c5Eh9-wUufI9ONBDQMjDrWiFBCwJtkiiog_DNFQWL3rfaecQX7jlX/s1600/minecraft.png"
+        },
         {
           "id": "https://thehackernews.com/2022/12/cisa-alert-veeam-backup-and-replication.html",
           "author": "info@thehackernews.com (The Hacker News)",
