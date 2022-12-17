@@ -301,16 +301,6 @@
           "wordCount": 919,
           "title": "#StopRansomware: Hive",
           "imageUrl": null
-        },
-        {
-          "id": "18164 at https://us-cert.cisa.gov",
-          "author": "CISA",
-          "description": "Original release date: November 17, 2022\nCISA has released two (2) Industrial Control Systems (ICS) advisories on November 17, 2022. These advisories provide timely information about current security issues, vulnerabilities, and exploits surrounding ICS.\nCISA encourages users and administrators to review the newly released ICS advisory for technical details and mitigations:\n•    ICSA-22-321-01 Red Lion Crimson\nCradlepoint IBR600\nThis product is provided subject to this Notification and this Privacy & Use policy.",
-          "link": "https://us-cert.cisa.gov/ncas/current-activity/2022/11/17/cisa-releases-two-industrial-control-systems-advisories",
-          "publishedOn": "2022-11-17T13:02:26.000Z",
-          "wordCount": 881,
-          "title": "CISA Releases Two Industrial Control Systems Advisories",
-          "imageUrl": null
         }
       ]
     },
@@ -328,16 +318,6 @@
           "wordCount": 1870,
           "title": "Phishing kit screenshots your email domain on the fly to appear real",
           "imageUrl": "https://securityreport.com/wp-content/uploads/2022/11/pexels-photo-5605061.jpeg"
-        },
-        {
-          "id": "https://securityreport.com/?p=4114",
-          "author": "Ax Sharma",
-          "description": "Mysterious week-long outage impacting the Royal Mail tracking website is subsiding, but with caveats. Meanwhile, mitigations employed by the mail service hint at a DDoS attack.\nThe post Royal Mail online tracking returns — with a frustrating captcha that works half the time appeared first on Security Report.",
-          "link": "https://securityreport.com/royal-mail-online-tracking-returns-with-a-frustrating-captcha-that-works-half-the-time/",
-          "publishedOn": "2022-11-17T12:11:04.000Z",
-          "wordCount": 2013,
-          "title": "Royal Mail online tracking returns — with a frustrating captcha that works half the time",
-          "imageUrl": "https://securityreport.com/wp-content/uploads/2022/11/pexels-photo-7462697.jpeg"
         }
       ]
     },
@@ -370,6 +350,66 @@
       "feedUrl": "https://www.darkreading.com/rss.xml",
       "siteUrl": "https://www.darkreading.com",
       "articles": [
+        {
+          "id": "https://www.darkreading.com/attacks-breaches/cyberthreats-loom-5b-people-watch-world-cup-final",
+          "author": "Tara Seals, Managing Editor, News, Dark Reading",
+          "description": "The 2022 FIFA Men's World Cup final in Qatar will be the most-watched sporting event in history — but will cybercriminals score a hat trick off its state-of-the-art digital footprint?",
+          "link": "https://www.darkreading.com/attacks-breaches/cyberthreats-loom-5b-people-watch-world-cup-final",
+          "publishedOn": "2022-12-16T21:57:02.000Z",
+          "wordCount": 16387,
+          "title": "Cyber Threats Loom as 5B People Prepare to Watch World Cup Final",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltea67136f81f32eca/626a9eb4726e3315b16b3c64/Tara-Seals-Headshot2.jpg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltea67136f81f32eca/626a9eb4726e3315b16b3c64/Tara-Seals-Headshot2.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/attacks-breaches/researcher-finds-akamai-waf-bypass-to-trigger-rce",
+          "author": "Dark Reading Staff, Dark Reading",
+          "description": "Patched several months ago, researcher reports how they used Spring Boot to sneak past Akamai's firewall and remotely execute code.",
+          "link": "https://www.darkreading.com/attacks-breaches/researcher-finds-akamai-waf-bypass-to-trigger-rce",
+          "publishedOn": "2022-12-16T21:07:00.000Z",
+          "wordCount": 9184,
+          "title": "Researcher Bypasses Akamai WAF",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blte161b23f0fd3a84b/60b1ea374e7eb868c4c6a293/dr_staff_125x125.jpg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blte161b23f0fd3a84b/60b1ea374e7eb868c4c6a293/dr_staff_125x125.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/attacks-breaches/new-botnet-targeting-minecraft-serversa-potential-enterprise-threat-",
+          "author": "Becky Bracken, Editor, Dark Reading",
+          "description": "Microsoft warns enterprises should pay attention to a new botnet used to launch DDoS attacks on private Minecraft Java servers.",
+          "link": "https://www.darkreading.com/attacks-breaches/new-botnet-targeting-minecraft-serversa-potential-enterprise-threat-",
+          "publishedOn": "2022-12-16T20:50:00.000Z",
+          "wordCount": 10051,
+          "title": "New Botnet Targeting Minecraft Servers Poses Potential Enterprise Threat",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt8e7bd143d726930b/627271268681151716941064/BeckyB.jpg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt8e7bd143d726930b/627271268681151716941064/BeckyB.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/attacks-breaches/fbi-warns-criminals-bec-attacks-steal-food-shipments",
+          "author": "Jai Vijayan, Contributing Writer, Dark Reading",
+          "description": "Cybercriminal rats are at play: Several food suppliers and distributors have experienced hundreds of thousands of dollars in losses after fulfilling fraudulently placed orders for food and ingredient shipments.",
+          "link": "https://www.darkreading.com/attacks-breaches/fbi-warns-criminals-bec-attacks-steal-food-shipments",
+          "publishedOn": "2022-12-16T20:19:10.000Z",
+          "wordCount": 12481,
+          "title": "FBI: Criminals Using BEC Attacks to Scavenge Food Shipments",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt02d79fb9a44a4258/60b1e9dd2a25046b35110696/Jai-Vijayan.jpeg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt02d79fb9a44a4258/60b1e9dd2a25046b35110696/Jai-Vijayan.jpeg"
+        },
         {
           "id": "https://www.darkreading.com/edge-articles/organizations-unprepared-for-upcoming-data-privacy-regulations",
           "author": "Nathan Eddy, Contributing Writer, Dark Reading",
@@ -3314,36 +3354,6 @@
             "length": "0"
           },
           "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltaad2fe5300bb72a5/6374f7525a083c3e618c0f6f/Secure-Code-Warrior-MatiasMadou.jpeg"
-        },
-        {
-          "id": "https://www.darkreading.com/vulnerabilities-threats/cyber-monday-will-be-the-most-fraudulent-day-of-the-season-says-seon",
-          "author": null,
-          "description": "Online fraud prevention company predicts Cyber Monday will see a 100% increase in online fraud attempts.",
-          "link": "https://www.darkreading.com/vulnerabilities-threats/cyber-monday-will-be-the-most-fraudulent-day-of-the-season-says-seon",
-          "publishedOn": "2022-11-17T14:08:05.000Z",
-          "wordCount": 11153,
-          "title": "Cyber Monday Will Be the Most Fraudulent Day of the Season, Says SEON",
-          "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
-        },
-        {
-          "id": "https://www.darkreading.com/endpoint/41-transatlantic-business-coalition-calls-on-eu-policymakers-to-finalize-agreement-to-secure-transatlantic-data-flows",
-          "author": null,
-          "description": ".",
-          "link": "https://www.darkreading.com/endpoint/41-transatlantic-business-coalition-calls-on-eu-policymakers-to-finalize-agreement-to-secure-transatlantic-data-flows",
-          "publishedOn": "2022-11-17T14:05:50.000Z",
-          "wordCount": 11907,
-          "title": "41 Transatlantic Business Coalition Calls on EU Policymakers to Finalize Agreement to Secure Transatlantic Data Flows",
-          "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
-        },
-        {
-          "id": "https://www.darkreading.com/operations/revelstoke-upgrades-soar-platform-with-augmented-automation-case-management-and-user-interface-capabilities",
-          "author": null,
-          "description": "Unified data layer enables continuous platform updates.",
-          "link": "https://www.darkreading.com/operations/revelstoke-upgrades-soar-platform-with-augmented-automation-case-management-and-user-interface-capabilities",
-          "publishedOn": "2022-11-17T14:01:48.000Z",
-          "wordCount": 12108,
-          "title": "Revelstoke Upgrades SOAR Platform With Augmented Automation, Case Management, and User Interface Capabilities",
-          "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
         }
       ]
     },
@@ -3987,26 +3997,6 @@
           "wordCount": 2200,
           "title": "Cyber Insurance Rates Begin to Stabilize as Insurers Gain Better Insight into Cyberattacks",
           "imageUrl": "https://blog.knowbe4.com/hubfs/Cyber%20Insurance%20Rates%20Begin%20to%20Stabilize.jpg#keepProtocol"
-        },
-        {
-          "id": "https://blog.knowbe4.com/holiday-package-or-scam-message-clickers-beware",
-          "author": "Javvad Malik",
-          "description": "As we enter the holiday season, we start getting bombarded with amazing offers and often take advantage of not only grabbing ourselves a bargain, but also stockpiling gifts for friends and family. During this time, not a day goes by where we do not receive a couple of packages, to the extent that we often become friendly on a first name basis with the delivery drivers.",
-          "link": "https://blog.knowbe4.com/holiday-package-or-scam-message-clickers-beware",
-          "publishedOn": "2022-11-17T14:02:23.000Z",
-          "wordCount": 2370,
-          "title": "Holiday Package or Scam Message? Clickers Beware",
-          "imageUrl": "https://blog.knowbe4.com/hubfs/Javvad%20Malik%20KnowBe4%20Holiday%20Scams.jpg#keepProtocol"
-        },
-        {
-          "id": "https://blog.knowbe4.com/watch-out-for-this-tricky-new-tactic-called-clone-phishing",
-          "author": "Stu Sjouwerman",
-          "description": "Researchers at Vade Secure describe a type of phishing attack dubbed “clone phishing,” in which attackers follow up a legitimate email from a trusted sender with a replica, claiming that they forgot to include a link or attachment.",
-          "link": "https://blog.knowbe4.com/watch-out-for-this-tricky-new-tactic-called-clone-phishing",
-          "publishedOn": "2022-11-17T13:49:53.000Z",
-          "wordCount": 2291,
-          "title": "Watch Out For This Tricky New Tactic Called Clone Phishing",
-          "imageUrl": "https://blog.knowbe4.com/hubfs/New%20Tactic%20Clone%20Phishing.jpg#keepProtocol"
         }
       ]
     },
@@ -5851,39 +5841,6 @@
           "publishedOn": "2022-11-18T05:06:00.000Z",
           "wordCount": null,
           "title": "W4SP Stealer Constantly Targeting Python Developers in Ongoing Supply Chain Attack",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "tag:blogger.com,1999:blog-4802841478634147276.post-2666734808447613478",
-          "author": "noreply@blogger.com (Ravie Lakshmanan)",
-          "description": "A China-based financially motivated group is leveraging the trust associated with popular international brands to orchestrate a large-scale phishing campaign dating back as far as 2019.\nThe threat actor, dubbed Fangxiao by Cyjax, is said to have registered over 42,000 imposter domains, with initial activity observed in 2017.\n\"It targets businesses in multiple verticals including retail, banking,",
-          "link": "https://thehackernews.com/2022/11/chinese-hackers-using-42000-imposter.html",
-          "publishedOn": "2022-11-17T12:36:00.000Z",
-          "wordCount": null,
-          "title": "Chinese Hackers Using 42,000 Imposter Domains in Massive Phishing Attack Campaign",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "tag:blogger.com,1999:blog-4802841478634147276.post-991361513511086072",
-          "author": "noreply@blogger.com (Ravie Lakshmanan)",
-          "description": "A Ukrainian national who has been wanted by the U.S for over a decade has been arrested by Swiss authorities for his role in a notorious cybercriminal ring that stole millions of dollars from victims' bank accounts using malware called Zeus.\nVyacheslav Igorevich Penchukov, who went by online pseu­do­nyms \"tank\" and \"father,\" is said to have been involved in the day-to-day operations of the group",
-          "link": "https://thehackernews.com/2022/11/fbi-wanted-leader-of-notorious-zeus.html",
-          "publishedOn": "2022-11-17T10:11:00.000Z",
-          "wordCount": null,
-          "title": "FBI-Wanted Leader of the Notorious Zeus Botnet Gang Arrested in Geneva",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "tag:blogger.com,1999:blog-4802841478634147276.post-1109615665766254454",
-          "author": "noreply@blogger.com (The Hacker News)",
-          "description": "On average, organizations report using 102 business-critical SaaS applications, enabling operations of most departments across an organization, such as IT and Security, Sales, Marketing, R&D, Product Management, HR, Legal, Finance, and Enablement. An attack can come from any app, no matter how robust the app is.Without visibility and control over a critical mass of an organization’s entire SaaS",
-          "link": "https://thehackernews.com/2022/11/100-apps-endless-security-checks.html",
-          "publishedOn": "2022-11-17T10:00:00.000Z",
-          "wordCount": null,
-          "title": "100 Apps, Endless Security Checks",
           "itunes": {},
           "imageUrl": null
         }
