@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-18T02:12:54.522Z</updated>
+    <updated>2022-12-18T07:16:49.466Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Google Takes Gmail Security to the Next Level with Client-Side Encryption]]></title>
+        <id>https://thehackernews.com/2022/12/gmail-encryption.html</id>
+        <link href="https://thehackernews.com/2022/12/gmail-encryption.html"/>
+        <updated>2022-12-18T04:41:00.000Z</updated>
+        <summary type="html"><![CDATA[Google on Friday announced that its client-side encryption for Gmail is in beta to its Workspace and education customers to secure emails sent using the web version of the platform.
+This development comes at a time when concerns about online privacy and data security are at an all-time high, and it is certainly welcomed by users who value the protection of their personal data.
+To that end,]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Samba Issues Security Updates to Patch Multiple High-Severity Vulnerabilities]]></title>
         <id>https://thehackernews.com/2022/12/samba-issues-security-updates-to-patch.html</id>
@@ -4527,56 +4539,6 @@ CVE-2022-43781, which Atlassian said was introduced in version 7.0.0 of Bitbucke
         <summary type="html"><![CDATA[As carriers rewrite their act-of-war exclusions following the NotPetya settlement between Mondelez and Zurich, organizations should read their cyber insurance policies carefully to see what is still covered.]]></summary>
         <author>
             <name>Stephen Lawton, Contributing Writer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Palo Alto Networks Focuses on Secure Coding with $195M Cider Deal]]></title>
-        <id>https://www.darkreading.com/application-security/palo-alto-networks-secure-coding-cider-security-195m-deal</id>
-        <link href="https://www.darkreading.com/application-security/palo-alto-networks-secure-coding-cider-security-195m-deal"/>
-        <updated>2022-11-18T17:58:25.000Z</updated>
-        <summary type="html"><![CDATA[PAN plans to add Cider's CI/CD security platform to its Prisma Cloud suite of AppSec tools.]]></summary>
-        <author>
-            <name>Dark Reading Staff, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Secure Offboarding in the Spotlight as Tech Layoffs Mount]]></title>
-        <id>https://www.darkreading.com/application-security/secure-offboarding-spotlight-tech-layoffs-mount</id>
-        <link href="https://www.darkreading.com/application-security/secure-offboarding-spotlight-tech-layoffs-mount"/>
-        <updated>2022-11-18T17:54:18.000Z</updated>
-        <summary type="html"><![CDATA[A secure-by-design culture is needed to develop a comprehensive offboarding and identity management strategy that limits potential for broader compromise in case of unauthorized access.]]></summary>
-        <author>
-            <name>Nathan Eddy, Contributing Writer, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Discover 5 Major Threats to Your Digital Supply Chain and How to Reduce Your Vendor Risk]]></title>
-        <id>https://blog.knowbe4.com/reduce-your-vendor-risk-digital-supply-chain-threats-webinar</id>
-        <link href="https://blog.knowbe4.com/reduce-your-vendor-risk-digital-supply-chain-threats-webinar"/>
-        <updated>2022-11-18T15:54:42.000Z</updated>
-        <summary type="html"><![CDATA[You’ve heard that vendor dependencies are ripe for malicious abuse and you have read the stories where vendors were used to exploit and infiltrate their customers. Your organization’s data is a valuable asset to its success, but this means it is also valuable to outside bad actors that want to infiltrate your network.]]></summary>
-        <author>
-            <name>Stu Sjouwerman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Next Generation of Supply Chain Attacks Is Here to Stay]]></title>
-        <id>https://www.darkreading.com/attacks-breaches/the-next-generation-of-supply-chain-attacks-is-here-to-stay</id>
-        <link href="https://www.darkreading.com/attacks-breaches/the-next-generation-of-supply-chain-attacks-is-here-to-stay"/>
-        <updated>2022-11-18T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[With the proliferation of interconnected third-party applications, new strategies are needed to close the security gap.]]></summary>
-        <author>
-            <name>Alon Jackson, CEO &amp; Co-Founder, Astrix Security</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[County of Tehama, Calif., Identifies and Addresses Data Security Incident]]></title>
-        <id>https://www.darkreading.com/endpoint/county-of-tehama-calif-identifies-and-addresses-data-security-incident</id>
-        <link href="https://www.darkreading.com/endpoint/county-of-tehama-calif-identifies-and-addresses-data-security-incident"/>
-        <updated>2022-11-18T14:44:02.000Z</updated>
-        <summary type="html"><![CDATA[The county reports unauthorized access to files in its Department of Social Services' systems between Nov. 18, 2021, and April 9. It has added enhanced alert and monitoring software and is offering complimentary credit monitoring and identity theft protection services to those whose personal information may have been compromised in the breach.]]></summary>
-        <author>
-            <name>Dark Reading</name>
         </author>
     </entry>
     <entry>
