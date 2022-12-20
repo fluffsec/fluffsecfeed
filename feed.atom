@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-19T19:15:59.116Z</updated>
+    <updated>2022-12-20T02:15:50.966Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Are 100% Security Guarantees Possible?]]></title>
+        <id>https://www.darkreading.com/edge-articles/are-100-security-guarantees-possible-</id>
+        <link href="https://www.darkreading.com/edge-articles/are-100-security-guarantees-possible-"/>
+        <updated>2022-12-19T22:50:00.000Z</updated>
+        <summary type="html"><![CDATA[Large vendors are commoditizing capabilities that claim to provide absolute security guarantees backed up by formal verification. How significant are these promises?]]></summary>
+        <author>
+            <name>Michael Bargury, CTO &amp; Co-Founder, Zenity</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sophisticated DarkTortilla Malware Serves Imposter Cisco, Grammarly Pages]]></title>
+        <id>https://www.darkreading.com/attacks-breaches/darktortilla-malware-imposter-cisco-grammarly-phishing</id>
+        <link href="https://www.darkreading.com/attacks-breaches/darktortilla-malware-imposter-cisco-grammarly-phishing"/>
+        <updated>2022-12-19T21:28:00.000Z</updated>
+        <summary type="html"><![CDATA[Sites spoofing Grammarly and a Cisco webpage are spreading the DarkTortilla threat, which is filled with follow-on malware attacks.]]></summary>
+        <author>
+            <name>Jai Vijayan, Contributing Writer, Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[T-Mobile Carrier Scammer Gets Decade in the Slammer]]></title>
+        <id>https://www.darkreading.com/attacks-breaches/tmobile-carrier-scammer-gets-decade-slammer</id>
+        <link href="https://www.darkreading.com/attacks-breaches/tmobile-carrier-scammer-gets-decade-slammer"/>
+        <updated>2022-12-19T21:01:00.000Z</updated>
+        <summary type="html"><![CDATA[A mobile phone store owner stole T-Mobile employee credentials to "unlock" phones for resale, earning him millions in illicit profits.]]></summary>
+        <author>
+            <name>Dark Reading Staff, Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Threat Intelligence Through Web Scraping]]></title>
+        <id>https://www.darkreading.com/threat-intelligence/threat-intelligence-through-web-scraping</id>
+        <link href="https://www.darkreading.com/threat-intelligence/threat-intelligence-through-web-scraping"/>
+        <updated>2022-12-19T21:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Bright Data CEO Or Lenchner discusses how security teams are utilizing public Web data networks to safeguard their organizations from digital risks.]]></summary>
+        <author>
+            <name>Dark Reading</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Researchers Discover Malicious PyPI Package Posing as SentinelOne SDK to Steal Data]]></title>
         <id>https://thehackernews.com/2022/12/researchers-discover-malicious-pypi.html</id>
