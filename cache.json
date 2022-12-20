@@ -23,6 +23,16 @@
       "siteUrl": "https://us-cert.cisa.gov/",
       "articles": [
         {
+          "id": "18242 at https://us-cert.cisa.gov",
+          "author": "CISA",
+          "description": "Original release date: December 20, 2022\nCISA released six Industrial Control Systems (ICS) advisories on December 20, 2022. These advisories provide timely information about current security issues, vulnerabilities, and exploits surrounding ICS.\nCISA encourages users and administrators to review the newly released ICS advisories for technical details and mitigations:\nICSA-22-354-01 Fuji Electric Tellus Lite V-Simulator\nICSA-22-354-02 Rockwell Automation GuardLogix and ControlLogix\nICSA-22-354-03 ARC Informatique PcVue\nICSA-22-354-04 Rockwell Automation MicroLogix 1100 and 1400\nICSA-22-354-05 Delta 4G Router DX-3021\nICSA-22-349-01 Prosys OPC UA Simulation Server (Update A)\nThis product is provided subject to this Notification and this Privacy & Use policy.",
+          "link": "https://us-cert.cisa.gov/ncas/current-activity/2022/12/20/cisa-releases-six-industrial-control-systems-advisories",
+          "publishedOn": "2022-12-20T16:00:00.000Z",
+          "wordCount": 984,
+          "title": "CISA Releases Six Industrial Control Systems Advisories",
+          "imageUrl": null
+        },
+        {
           "id": "18240 at https://us-cert.cisa.gov",
           "author": "CISA",
           "description": "Original release date: December 16, 2022\nThe Samba Team has released security updates to address vulnerabilities in multiple versions of Samba. An attacker could exploit some of these vulnerabilities to take control of an affected system. \nCISA encourages users and administrators to review the following Samba security announcements and apply the necessary updates. \nCVE-2022-38023\nCVE-2022-37966 \nCVE-2022-37967\nCVE-2022-45141\nThis product is provided subject to this Notification and this Privacy & Use policy.",
@@ -309,6 +319,76 @@
       "feedUrl": "https://www.darkreading.com/rss.xml",
       "siteUrl": "https://www.darkreading.com",
       "articles": [
+        {
+          "id": "https://www.darkreading.com/operations/coming-soon-to-a-soc-near-you-posture-management-and-virtual-assisstants",
+          "author": "Paul Shomo, Cybersecurity Analyst",
+          "description": "Startups are coalescing around effective data loss prevention, reducing data attack surfaces, and viable AI automation.",
+          "link": "https://www.darkreading.com/operations/coming-soon-to-a-soc-near-you-posture-management-and-virtual-assisstants",
+          "publishedOn": "2022-12-20T18:00:00.000Z",
+          "wordCount": 12765,
+          "title": "Coming to a SOC Near You: New Browsers, 'Posture' Management, Virtual Assistants",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltfd13a44c697e9db0/62aa741745def329a4bdfd0f/Paul_Shomo.png",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltfd13a44c697e9db0/62aa741745def329a4bdfd0f/Paul_Shomo.png"
+        },
+        {
+          "id": "https://www.darkreading.com/attacks-breaches/cybersecurity-vmray-extends-series-b-investment-to-a-total-of-34-million-usd-to-drive-growth-into-new-markets",
+          "author": null,
+          "description": "VMRay announces the closing of a Series B led by global alternative asset manager Tikehau Capital, which will fuel further expansion of the product portfolio to target a broader set of market segments.",
+          "link": "https://www.darkreading.com/attacks-breaches/cybersecurity-vmray-extends-series-b-investment-to-a-total-of-34-million-usd-to-drive-growth-into-new-markets",
+          "publishedOn": "2022-12-20T17:52:00.000Z",
+          "wordCount": 11343,
+          "title": "Cybersecurity VMRay Extends Series B Investment to a Total of $34 million USD to Drive Growth Into New Markets",
+          "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/attacks-breaches/-blindside-attack-subverts-edr-platforms-windows-kernel",
+          "author": "Nathan Eddy, Contributing Writer, Dark Reading",
+          "description": "The technique loads a nonmonitored and unhooked DLL, and leverages debug techniques that could allow for running arbitrary code.",
+          "link": "https://www.darkreading.com/attacks-breaches/-blindside-attack-subverts-edr-platforms-windows-kernel",
+          "publishedOn": "2022-12-20T15:44:52.000Z",
+          "wordCount": 12481,
+          "title": "'Blindside' Attack Subverts EDR Platforms From Windows Kernel",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltf8b5a94afa71c53a/628e3799daa31875dc0c9fc0/NathanEddyHeadshot.PNG",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltf8b5a94afa71c53a/628e3799daa31875dc0c9fc0/NathanEddyHeadshot.PNG"
+        },
+        {
+          "id": "https://www.darkreading.com/attacks-breaches/protecting-hospital-networks-from-code-dark-scenarios-",
+          "author": "Danelle Au,  CMO, Ordr",
+          "description": "Asset inventory, behavioral baselining, and automated response are all key to keeping patients healthy and safe.",
+          "link": "https://www.darkreading.com/attacks-breaches/protecting-hospital-networks-from-code-dark-scenarios-",
+          "publishedOn": "2022-12-20T15:00:00.000Z",
+          "wordCount": 13187,
+          "title": "Protecting Hospital Networks From 'Code Dark' Scenarios",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt29a722b97b0085d6/6387b792726ff50de9be3f12/DanelleAu.jpg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt29a722b97b0085d6/6387b792726ff50de9be3f12/DanelleAu.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/cloud/aws-elastic-ip-transfer-feature-cyberattackers-free-range",
+          "author": "Elizabeth Montalbano, Contributor, Dark Reading",
+          "description": "Threat actors can take over victims' cloud accounts to steal data, or use them for command-and-control for phishing attacks, denial of service, or other cyberattacks.",
+          "link": "https://www.darkreading.com/cloud/aws-elastic-ip-transfer-feature-cyberattackers-free-range",
+          "publishedOn": "2022-12-20T14:41:52.000Z",
+          "wordCount": 12972,
+          "title": "AWS Elastic IP Transfer Feature Gives Cyberattackers Free Range",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltbfd004d139d42d70/6303bca6236c2476a257760e/ElizabethMontalbano.jpg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltbfd004d139d42d70/6303bca6236c2476a257760e/ElizabethMontalbano.jpg"
+        },
         {
           "id": "https://www.darkreading.com/edge-articles/are-100-security-guarantees-possible-",
           "author": "Michael Bargury, CTO & Co-Founder, Zenity",
@@ -3313,6 +3393,26 @@
       "siteUrl": "https://blog.knowbe4.com",
       "articles": [
         {
+          "id": "https://blog.knowbe4.com/cyberheistnews-vol-12-51-ughh-the-fbis-trusted-threat-sharing-infragard-network-was-hacked",
+          "author": "Stu Sjouwerman",
+          "description": "CyberheistNews Vol 12 #51 [Ughh] The FBI's Trusted Threat Sharing 'InfraGard' Network Was Hacked",
+          "link": "https://blog.knowbe4.com/cyberheistnews-vol-12-51-ughh-the-fbis-trusted-threat-sharing-infragard-network-was-hacked",
+          "publishedOn": "2022-12-20T14:30:00.000Z",
+          "wordCount": 4181,
+          "title": "CyberheistNews Vol 12 #51 [Ughh] The FBI's Trusted Threat Sharing 'InfraGard' Network Was Hacked",
+          "imageUrl": "https://blog.knowbe4.com/hubfs/CHN-Social.jpg#keepProtocol"
+        },
+        {
+          "id": "https://blog.knowbe4.com/now-bec-attacks-steal-physical-goods",
+          "author": "Stu Sjouwerman",
+          "description": "The Federal Bureau of Investigation (FBI), the Food and Drug Administration Office of Criminal Investigations (FDA OCI), and the US Department of Agriculture (USDA) have released a joint advisory warning that scammers are launching business email compromise (BEC) attacks to divert and steal deliveries of food and ingredients worth hundreds of thousands of dollars.",
+          "link": "https://blog.knowbe4.com/now-bec-attacks-steal-physical-goods",
+          "publishedOn": "2022-12-20T13:49:21.000Z",
+          "wordCount": 2234,
+          "title": "Now BEC Attacks Steal Physical Goods",
+          "imageUrl": "https://blog.knowbe4.com/hubfs/BEC%20Attack.jpg#keepProtocol"
+        },
+        {
           "id": "https://blog.knowbe4.com/social-engineering-money-mules-and-job-seekers",
           "author": "Stu Sjouwerman",
           "description": "A small town in Manitoba, WestLake-Gladstone (population about 3300), fell victim to a social engineering campaign. The municipal government seems to have been a target of opportunity, but it lost some $433 thousand to scammers.",
@@ -3859,6 +3959,70 @@
       "feedUrl": "https://thehackernews.com/feeds/posts/default",
       "siteUrl": "https://thehackernews.com",
       "articles": [
+        {
+          "id": "https://thehackernews.com/2022/12/beware-cybercriminals-launch-new.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "The threat actors behind the Windows banking malware known as Casbaneiro has been attributed as behind a novel Android trojan called BrasDex that has been observed targeting Brazilian users as part of an ongoing multi-platform campaign.\nBrasDex features a \"complex keylogging system designed to abuse Accessibility Services to extract credentials specifically from a set of Brazilian targeted apps,",
+          "link": "https://thehackernews.com/2022/12/beware-cybercriminals-launch-new.html",
+          "publishedOn": "2022-12-20T14:33:00.000Z",
+          "wordCount": null,
+          "title": "Beware: Cybercriminals Launch New BrasDex Android Trojan Targeting Brazilian Banking Users",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjF-iNM73Y7Xn04orSe79MVEdTutn5xGOugQhxurklCCN3Epq29bvh5l74rEQDeJNm7AKXFiKk_hEMy4h8S02TwfDUWqT0kLRBfIRjpYk2XVCNzPhR0iWoOrAiHwbp9788726bPx7jhe24seMqi0uhiHNJOhvOAYYtZtYWjP4G6Da5C-CynCa1dc0lt/s1600/android-banking-malware.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjF-iNM73Y7Xn04orSe79MVEdTutn5xGOugQhxurklCCN3Epq29bvh5l74rEQDeJNm7AKXFiKk_hEMy4h8S02TwfDUWqT0kLRBfIRjpYk2XVCNzPhR0iWoOrAiHwbp9788726bPx7jhe24seMqi0uhiHNJOhvOAYYtZtYWjP4G6Da5C-CynCa1dc0lt/s1600/android-banking-malware.png"
+        },
+        {
+          "id": "https://thehackernews.com/2022/12/russian-hackers-target-major-petroleum.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "The Russia-linked Gamaredon group attempted to unsuccessfully break into a large petroleum refining company within a NATO member state earlier this year amid the ongoing Russo-Ukrainian war.\nThe attack, which took place on August 30, 2022, is just one of multiple attacks orchestrated by the advanced persistent threat (APT) that's attributed to Russia's Federal Security Service (FSB).\nGamaredon,",
+          "link": "https://thehackernews.com/2022/12/russian-hackers-target-major-petroleum.html",
+          "publishedOn": "2022-12-20T12:55:00.000Z",
+          "wordCount": null,
+          "title": "Russian Hackers Targeted Petroleum Refinery in NATO Country During Ukraine War",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBiq1rpn0mevK8uG4vt_q-351orQSwUCjOEeHOSic-wYAVthPjhqJym75aLkC4jZhe90jyJ34R85PyDs9VtQa_JN-RkvYhawYZdeOW53jANLUnC4RUkDl3z4KXbLSDCQQ51C9YCT7wqt9nZ7JBCClyc2z9wA36x_452h5AsCnMJW18Dblj4h1yKrNE/s1600/hacking.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBiq1rpn0mevK8uG4vt_q-351orQSwUCjOEeHOSic-wYAVthPjhqJym75aLkC4jZhe90jyJ34R85PyDs9VtQa_JN-RkvYhawYZdeOW53jANLUnC4RUkDl3z4KXbLSDCQQ51C9YCT7wqt9nZ7JBCClyc2z9wA36x_452h5AsCnMJW18Dblj4h1yKrNE/s1600/hacking.png"
+        },
+        {
+          "id": "https://thehackernews.com/2022/12/a-guide-to-efficient-patch-management.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "It's no secret that keeping software up to date is one of the key best practices in cybersecurity. Software vulnerabilities are being discovered almost weekly these days. The longer it takes IT teams to apply updates issued by developers to patch these security flaws, the more time attackers have to exploit the underlying vulnerability. Once threat actors gain access to corporate IT ecosystems,",
+          "link": "https://thehackernews.com/2022/12/a-guide-to-efficient-patch-management.html",
+          "publishedOn": "2022-12-20T12:42:00.000Z",
+          "wordCount": null,
+          "title": "A Guide to Efficient Patch Management with Action1",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiF6IabQNIZnJZ0MCRXSlFEOnPudSBSPbSuMK6k60C7BXfIOiXOTteouvl3pIBggDigVtnMbWIySF3cqd-ZVuYw1V5DOq812_LfnUbOjzRlReuXqheiNdCQiAPMgKFDfUtT6CGgS861cVyxi_S48R0816Krvc964yNJ3OcsH8_f1Wbr2W0p-ZEKgVrD/s1600/patch.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiF6IabQNIZnJZ0MCRXSlFEOnPudSBSPbSuMK6k60C7BXfIOiXOTteouvl3pIBggDigVtnMbWIySF3cqd-ZVuYw1V5DOq812_LfnUbOjzRlReuXqheiNdCQiAPMgKFDfUtT6CGgS861cVyxi_S48R0816Krvc964yNJ3OcsH8_f1Wbr2W0p-ZEKgVrD/s1600/patch.png"
+        },
+        {
+          "id": "https://thehackernews.com/2022/12/kmsdbot-botnet-suspected-of-being-used.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "An ongoing analysis of the KmsdBot botnet has raised the possibility that it's a DDoS-for-hire service offered to other threat actors.\nThis is based on the different industries and geographies that were attacked, web infrastructure company Akamai said. Among the notable targets included FiveM and RedM, which are game modifications for Grand Theft Auto V and Red Dead Redemption 2, as well as",
+          "link": "https://thehackernews.com/2022/12/kmsdbot-botnet-suspected-of-being-used.html",
+          "publishedOn": "2022-12-20T12:24:00.000Z",
+          "wordCount": null,
+          "title": "KmsdBot Botnet Suspected of Being Used as DDoS-for-Hire Service",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgbfPi6JkmeUzsg-HzFETPyLs687dzChlLgbjB4q4huWzHme8KXtY6HSJTqwSCoTeGXchK2-9F9b-3m3EMGjXs_wN8TGlwWfBjAlWNYrbKDjnzE1jTKJHBDHqL0dMlSidCIed93VVu4n1tIsIIRA_XVYRcqFyTGnVfZVY4daI3y6hxm6YG7xwI7p0zP/s1600/ddos.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgbfPi6JkmeUzsg-HzFETPyLs687dzChlLgbjB4q4huWzHme8KXtY6HSJTqwSCoTeGXchK2-9F9b-3m3EMGjXs_wN8TGlwWfBjAlWNYrbKDjnzE1jTKJHBDHqL0dMlSidCIed93VVu4n1tIsIIRA_XVYRcqFyTGnVfZVY4daI3y6hxm6YG7xwI7p0zP/s1600/ddos.png"
+        },
         {
           "id": "https://thehackernews.com/2022/12/ftc-fines-fortnite-maker-epic-games-275.html",
           "author": "info@thehackernews.com (The Hacker News)",
@@ -5729,17 +5893,6 @@
           "publishedOn": "2022-11-21T10:02:00.000Z",
           "wordCount": null,
           "title": "Google Wins Lawsuit Against Russians Linked to Blockchain-based Glupteba Botnet",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "tag:blogger.com,1999:blog-4802841478634147276.post-7763539790600082890",
-          "author": "noreply@blogger.com (Ravie Lakshmanan)",
-          "description": "Google Cloud last week disclosed that it identified 34 different hacked release versions of the Cobalt Strike tool in the wild, the earliest of which shipped in November 2012.\nThe versions, spanning 1.44 to 4.7, add up to a total of 275 unique JAR files, according to findings from the Google Cloud Threat Intelligence (GCTI) team. The latest version of Cobalt Strike is version 4.7.2.\nCobalt",
-          "link": "https://thehackernews.com/2022/11/google-identifies-34-cracked-versions.html",
-          "publishedOn": "2022-11-21T05:42:00.000Z",
-          "wordCount": null,
-          "title": "Google Identifies 34 Cracked Versions of Popular Cobalt Strike Hacking Toolkit in the Wild",
           "itunes": {},
           "imageUrl": null
         }
