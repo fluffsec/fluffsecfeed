@@ -2,10 +2,116 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-22T13:25:13.522Z</updated>
+    <updated>2022-12-22T19:15:46.994Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[CISA Releases Four Industrial Control Systems Advisories]]></title>
+        <id>18253 at https://us-cert.cisa.gov</id>
+        <link href="https://us-cert.cisa.gov/ncas/current-activity/2022/12/22/cisa-releases-four-industrial-control-systems-advisories"/>
+        <updated>2022-12-22T16:01:46.000Z</updated>
+        <summary type="html"><![CDATA[Original release date: December 22, 2022
+CISA released four Industrial Control Systems (ICS) advisories on December 22, 2022. These advisories provide timely information about current security issues, vulnerabilities, and exploits surrounding ICS.
+CISA encourages users and administrators to review the newly released ICS advisories for technical details and mitigations:
+ICSA-22-356-01 Priva TopControl Suite
+Rockwell Automation Studio 5000 Logix Emulate
+Mitsubishi Electric MELSEC iQ-R, iQ-L Series and MELIPC Series
+Omron CX-Programmer
+This product is provided subject to this Notification and this Privacy & Use policy.]]></summary>
+        <author>
+            <name>CISA</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Passwordless Authentication Market to Be Worth $55.7 Billion by 2030: Grand View Research, Inc.]]></title>
+        <id>https://www.darkreading.com/endpoint/passwordless-authentication-market-to-be-worth-55-7-billion-by-2030-grand-view-research-inc-</id>
+        <link href="https://www.darkreading.com/endpoint/passwordless-authentication-market-to-be-worth-55-7-billion-by-2030-grand-view-research-inc-"/>
+        <updated>2022-12-22T15:31:00.000Z</updated>
+        <author>
+            <name>Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Security on a Shoestring? Cloud, Consolidation Best Bets for Businesses]]></title>
+        <id>https://www.darkreading.com/risk/security-shoestring-cloud-consolidation-best-bets-businesses</id>
+        <link href="https://www.darkreading.com/risk/security-shoestring-cloud-consolidation-best-bets-businesses"/>
+        <updated>2022-12-22T15:09:19.000Z</updated>
+        <summary type="html"><![CDATA[With a recession potentially coming, some companies are cutting security teams. But moving more infrastructure to the cloud and reducing the number of vendors through consolidation may be the best ways to prepare.]]></summary>
+        <author>
+            <name>Robert Lemos, Contributing Writer, Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google WordPress Plug-in Bug Allows AWS Metadata Theft]]></title>
+        <id>https://www.darkreading.com/vulnerabilities-threats/google-wordpress-plugin-bug-aws-metadata-theft</id>
+        <link href="https://www.darkreading.com/vulnerabilities-threats/google-wordpress-plugin-bug-aws-metadata-theft"/>
+        <updated>2022-12-22T15:00:01.000Z</updated>
+        <summary type="html"><![CDATA[A successful attacker could use the SSRF vulnerability to collect metadata from WordPress sites hosted on an AWS server, and potentially log in to a cloud instance to run commands.]]></summary>
+        <author>
+            <name>Nathan Eddy, Contributing Writer, Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Threat Modeling in the Age of OpenAI's Chatbot]]></title>
+        <id>https://www.darkreading.com/operations/threat-modeling-in-the-age-of-openai-s-chatbot</id>
+        <link href="https://www.darkreading.com/operations/threat-modeling-in-the-age-of-openai-s-chatbot"/>
+        <updated>2022-12-22T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[New technical chatbot capabilities raise the promise that their help in threat modeling could free humans for more interesting work.]]></summary>
+        <author>
+            <name>Adam Shostack, Leading expert in threat modeling</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['Sextortion,' Business Disruption, and a Massive Attack: What Could Be in Store for 2023]]></title>
+        <id>https://www.darkreading.com/attacks-breaches/sextortion-business-disruption-and-a-massive-attack-what-could-be-in-store-for-2023</id>
+        <link href="https://www.darkreading.com/attacks-breaches/sextortion-business-disruption-and-a-massive-attack-what-could-be-in-store-for-2023"/>
+        <updated>2022-12-22T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Our growing interconnectedness poses almost as many challenges as it does benefits.]]></summary>
+        <author>
+            <name>Reuven Aronashvili, Founder and CEO, CYE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Number of Phishing Attacks Grows 15% in One Quarter, Reaching an All-Time High]]></title>
+        <id>https://blog.knowbe4.com/phishing-attacks-grow-15-percent-in-one-quarter</id>
+        <link href="https://blog.knowbe4.com/phishing-attacks-grow-15-percent-in-one-quarter"/>
+        <updated>2022-12-22T14:44:33.000Z</updated>
+        <summary type="html"><![CDATA[New data shows that while ransomware remains somewhat flat, massive increases in business email compromise and response-based email attacks were seen last quarter.]]></summary>
+        <author>
+            <name>Stu Sjouwerman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New Polymorphic Wiper Malware Leaves Attacked Environments “Unrecoverable”]]></title>
+        <id>https://blog.knowbe4.com/polymorphic-wiper-malware-leaves-attacked-environments-unrecoverable</id>
+        <link href="https://blog.knowbe4.com/polymorphic-wiper-malware-leaves-attacked-environments-unrecoverable"/>
+        <updated>2022-12-22T14:44:21.000Z</updated>
+        <summary type="html"><![CDATA[As an apparent method of political commentary on the war in Ukraine, the new Azov wiper uses a mix of intermittent overwriting and trojanizing Windows binaries to annihilate its’ victims.]]></summary>
+        <author>
+            <name>Stu Sjouwerman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Spear Phishing Campaign Targets Japanese Political Organizations]]></title>
+        <id>https://blog.knowbe4.com/spear-phishing-targets-japanese-political-organizations</id>
+        <link href="https://blog.knowbe4.com/spear-phishing-targets-japanese-political-organizations"/>
+        <updated>2022-12-22T14:43:59.000Z</updated>
+        <summary type="html"><![CDATA[Researchers at ESET warn that a Chinese-speaking threat actor dubbed “MirrorFace” targeted Japanese political organizations with spear phishing emails in the run-up to the Japanese House of Councillors election in July 2022.]]></summary>
+        <author>
+            <name>Stu Sjouwerman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Zerobot Adds Brute Force, DDoS to Its IoT Attack Arsenal]]></title>
+        <id>https://www.darkreading.com/threat-intelligence/zerobot-adds-brute-force-ddos-iot-attack-arsenal</id>
+        <link href="https://www.darkreading.com/threat-intelligence/zerobot-adds-brute-force-ddos-iot-attack-arsenal"/>
+        <updated>2022-12-22T14:03:02.000Z</updated>
+        <summary type="html"><![CDATA[Threat actors continue to evolve the malicious botnet, which has also added a list of new vulnerabilities it can use to target devices.]]></summary>
+        <author>
+            <name>Elizabeth Montalbano, Contributor, Dark Reading</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[FIN7 Cybercrime Syndicate Emerges as Major Player in Ransomware Landscape]]></title>
         <id>https://thehackernews.com/2022/12/fin7-cybercrime-syndicate-emerges-as.html</id>
@@ -4624,18 +4730,6 @@ The findings build on a prior report]]></summary>
         <updated>2022-11-23T07:46:00.000Z</updated>
         <summary type="html"><![CDATA[Meta Platforms on Tuesday said it took down a network of accounts and pages across Facebook and Instagram that were operated by people associated with the U.S. military to spread narratives that depicted the country in a favorable light in the Middle East and Central Asia.
 The network, which originated from the U.S., primarily singled out Afghanistan, Algeria, Iran, Iraq, Kazakhstan, Kyrgyzstan,]]></summary>
-        <author>
-            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nighthawk Likely to Become Hackers' New Post-Exploitation Tool After Cobalt Strike]]></title>
-        <id>tag:blogger.com,1999:blog-4802841478634147276.post-5884399017754892612</id>
-        <link href="https://thehackernews.com/2022/11/nighthawk-likely-to-become-hackers-new.html"/>
-        <updated>2022-11-23T05:40:00.000Z</updated>
-        <summary type="html"><![CDATA[A nascent and legitimate penetration testing framework known as Nighthawk is likely to gain threat actors' attention for its Cobalt Strike-like capabilities.
-Enterprise security firm Proofpoint said it detected the use of the software in mid-September 2022 with a number of test emails sent using generic subject lines such as "Just checking in" and "Hope this works2."
-However, there are no]]></summary>
         <author>
             <name>noreply@blogger.com (Ravie Lakshmanan)</name>
         </author>
