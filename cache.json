@@ -271,16 +271,6 @@
           "wordCount": 1005,
           "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
           "imageUrl": null
-        },
-        {
-          "id": "18169 at https://us-cert.cisa.gov",
-          "author": "CISA",
-          "description": "Original release date: November 22, 2022\nCISA has released eight (8) Industrial Control Systems (ICS) advisories on 22 November 2022. These advisories provide timely information about current security issues, vulnerabilities, and exploits surrounding ICS.\nCISA encourages users and administrators to review the newly released ICS advisory for technical details and mitigations:\n•    ICSA-22-326-01 AVEVA Edge\nDigital Alert Systems DASDEC\nPhoenix Contact Automation Worx\nGE Cimplicity\nMoxa Multiple ARM-Based Computers\nHillrom Medical Device Management (Update C)\nMitsubishi Electric Factory Automation Engineering Products (Update I)\nMitsubishi Electric FA Engineering Software Products (Update G)\nThis product is provided subject to this Notification and this Privacy & Use policy.",
-          "link": "https://us-cert.cisa.gov/ncas/current-activity/2022/11/22/cisa-releases-eight-industrial-control-systems-advisories",
-          "publishedOn": "2022-11-22T12:26:47.000Z",
-          "wordCount": 926,
-          "title": "CISA Releases Eight Industrial Control Systems Advisories",
-          "imageUrl": null
         }
       ]
     },
@@ -319,6 +309,56 @@
       "feedUrl": "https://www.darkreading.com/rss.xml",
       "siteUrl": "https://www.darkreading.com",
       "articles": [
+        {
+          "id": "https://www.darkreading.com/risk/supply-chain-risks-got-you-down-keep-calm-and-get-strategic-",
+          "author": null,
+          "description": "Security leaders must maintain an effective cybersecurity strategy to help filter some of the noise on new vulnerabilities.",
+          "link": "https://www.darkreading.com/risk/supply-chain-risks-got-you-down-keep-calm-and-get-strategic-",
+          "publishedOn": "2022-12-21T22:00:00.000Z",
+          "wordCount": 13001,
+          "title": "Supply Chain Risks Got You Down? Keep Calm and Get Strategic!",
+          "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/application-security/ransomware-attackers-bypass-microsoft-mitigation-proxynotshell-exploit",
+          "author": "Jai Vijayan, Contributing Writer, Dark Reading",
+          "description": "The Play ransomware group was spotted exploiting another little-known SSRF bug to trigger RCE on affected Exchange servers.",
+          "link": "https://www.darkreading.com/application-security/ransomware-attackers-bypass-microsoft-mitigation-proxynotshell-exploit",
+          "publishedOn": "2022-12-21T20:45:00.000Z",
+          "wordCount": 12075,
+          "title": "Ransomware Attackers Bypass Microsoft's ProxyNotShell Mitigations With Fresh Exploit",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt02d79fb9a44a4258/60b1e9dd2a25046b35110696/Jai-Vijayan.jpeg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt02d79fb9a44a4258/60b1e9dd2a25046b35110696/Jai-Vijayan.jpeg"
+        },
+        {
+          "id": "https://www.darkreading.com/attacks-breaches/heartland-alliance-provides-notice-of-data-security-incident",
+          "author": null,
+          "description": "",
+          "link": "https://www.darkreading.com/attacks-breaches/heartland-alliance-provides-notice-of-data-security-incident",
+          "publishedOn": "2022-12-21T20:12:00.000Z",
+          "wordCount": 10669,
+          "title": "Heartland Alliance Provides Notice of Data Security Incident",
+          "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/zscaler/best-practices-for-securing-and-governing-your-multicloud-deployment",
+          "author": "Rich Campagna, senior vice-president and general manager, CNAPP, Zscaler",
+          "description": "Organizations can start by integrating functions like detection, prioritization, and remediation on to a single platform.",
+          "link": "https://www.darkreading.com/zscaler/best-practices-for-securing-and-governing-your-multicloud-deployment",
+          "publishedOn": "2022-12-21T20:00:00.000Z",
+          "wordCount": 13096,
+          "title": "Best Practices for Securing and Governing Your Multicloud Deployment",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt071ec6475383627e/637ab01ec162df49beaad71c/Zscaler_Rich_Campagna2.png",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt071ec6475383627e/637ab01ec162df49beaad71c/Zscaler_Rich_Campagna2.png"
+        },
         {
           "id": "https://www.darkreading.com/attacks-breaches/name-that-toon-kiss-and-tell",
           "author": "John Klossner, Cartoonist",
@@ -3343,36 +3383,6 @@
           "wordCount": 12366,
           "title": "Hack The Box Launches Annual University CTF to Inspire Next Generation of Security Professionals",
           "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
-        },
-        {
-          "id": "https://www.darkreading.com/vulnerabilities-threats/cybeready-releases-five-easy-tips-to-shop-safely-during-black-friday",
-          "author": null,
-          "description": "Safe shopping guidance coupled with new CISO tool to help safeguard personal data and corporate networks.",
-          "link": "https://www.darkreading.com/vulnerabilities-threats/cybeready-releases-five-easy-tips-to-shop-safely-during-black-friday",
-          "publishedOn": "2022-11-22T14:13:59.000Z",
-          "wordCount": 12859,
-          "title": "CybeReady Releases Five Easy Tips to Shop Safely During Black Friday",
-          "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
-        },
-        {
-          "id": "https://www.darkreading.com/iot/fido-alliance-announces-authenticate-virtual-summit-focused-on-securing-iot",
-          "author": null,
-          "description": "Industry experts to share insights into how FIDO and related technologies can bring password-less authentication to IoT.",
-          "link": "https://www.darkreading.com/iot/fido-alliance-announces-authenticate-virtual-summit-focused-on-securing-iot",
-          "publishedOn": "2022-11-22T14:08:40.000Z",
-          "wordCount": 11270,
-          "title": "FIDO Alliance Announces Authenticate Virtual Summit Focused on Securing IoT",
-          "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
-        },
-        {
-          "id": "https://www.darkreading.com/attacks-breaches/two-estonian-citizens-arrested-in-575-million-cryptocurrency-fraud-and-money-laundering-scheme",
-          "author": null,
-          "description": ".",
-          "link": "https://www.darkreading.com/attacks-breaches/two-estonian-citizens-arrested-in-575-million-cryptocurrency-fraud-and-money-laundering-scheme",
-          "publishedOn": "2022-11-22T14:02:36.000Z",
-          "wordCount": 13720,
-          "title": "Two Estonian Citizens Arrested in $575 Million Cryptocurrency Fraud and Money Laundering Scheme",
-          "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
         }
       ]
     },
@@ -3437,6 +3447,16 @@
       "feedUrl": "https://blog.knowbe4.com/rss.xml",
       "siteUrl": "https://blog.knowbe4.com",
       "articles": [
+        {
+          "id": "https://blog.knowbe4.com/how-i-lost-my-dog-and-almost-my-google-credentials",
+          "author": "Stu Sjouwerman",
+          "description": "A well-trained Knowster posted: \"I lost my dog this weekend and my mother in law was trying to be helpful and put my real phone number on a few social media posts she made. Now im getting these kinds of texts and it’s heartbreaking to think someone else may have fallen for this!",
+          "link": "https://blog.knowbe4.com/how-i-lost-my-dog-and-almost-my-google-credentials",
+          "publishedOn": "2022-12-21T21:45:48.000Z",
+          "wordCount": 2174,
+          "title": "\"How I lost my dog and almost my Google credentials...\"",
+          "imageUrl": "https://blog.knowbe4.com/hubfs/DOG-2.jpg#keepProtocol"
+        },
         {
           "id": "https://blog.knowbe4.com/winter-2023-g2-grid-report-soar-leader",
           "author": "Stu Sjouwerman",
@@ -5900,50 +5920,6 @@
           "publishedOn": "2022-11-22T17:36:00.000Z",
           "wordCount": null,
           "title": "This Malware Installs Malicious Browser Extensions to Steal Users' Passwords and Cryptos",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "tag:blogger.com,1999:blog-4802841478634147276.post-8105374481661992177",
-          "author": "noreply@blogger.com (Ravie Lakshmanan)",
-          "description": "A nascent Go-based malware known as Aurora Stealer is being increasingly deployed as part of campaigns designed to steal sensitive information from compromised hosts.\n\"These infection chains leveraged phishing pages impersonating download pages of legitimate software, including cryptocurrency wallets or remote access tools, and the 911 method making use of YouTube videos and SEO-poised fake",
-          "link": "https://thehackernews.com/2022/11/researchers-warn-of-cyber-criminals.html",
-          "publishedOn": "2022-11-22T12:30:00.000Z",
-          "wordCount": null,
-          "title": "Researchers Warn of Cyber Criminals Using Go-based Aurora Stealer Malware",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "tag:blogger.com,1999:blog-4802841478634147276.post-7721959088006613262",
-          "author": "noreply@blogger.com (The Hacker News)",
-          "description": "The best line of defense against holiday hacking schemes is a comprehensive incident response strategy that focuses on end-user vulnerabilities. \nThe holiday season is upon us and with it a slew of cybersecurity scams preying on end-user vulnerabilities.\nBecause employees often use their business emails and cell phones as their primary point of contact, these scams quickly become a threat to",
-          "link": "https://thehackernews.com/2022/11/heres-how-to-ensure-your-incident.html",
-          "publishedOn": "2022-11-22T12:07:00.000Z",
-          "wordCount": null,
-          "title": "Here's How to Ensure Your Incident Response Strategy is Ready for Holiday Hackers",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "tag:blogger.com,1999:blog-4802841478634147276.post-8469682913716923030",
-          "author": "noreply@blogger.com (Ravie Lakshmanan)",
-          "description": "The Luna Moth campaign has extorted hundreds of thousands of dollars from several victims in the legal and retail sectors.\nThe attacks are notable for employing a technique called callback phishing or telephone-oriented attack delivery (TOAD), wherein the victims are social engineered into making a phone call through phishing emails containing invoices and subscription-themed lures.\nPalo Alto",
-          "link": "https://thehackernews.com/2022/11/luna-moth-gang-invests-in-call-centers.html",
-          "publishedOn": "2022-11-22T09:45:00.000Z",
-          "wordCount": null,
-          "title": "Luna Moth Gang Invests in Call Centers to Target Businesses with Callback Phishing Campaigns",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "tag:blogger.com,1999:blog-4802841478634147276.post-1985978538252086556",
-          "author": "noreply@blogger.com (Ravie Lakshmanan)",
-          "description": "The U.S. Justice Department (DoJ) on Monday announced the takedown of seven domain names in connection to a \"pig butchering\" cryptocurrency scam. The fraudulent scheme, which operated from May to August 2022, netted the actors over $10 million from five victims, the DoJ said.\nPig butchering, also called Sha Zhu Pan, is a type of scam in which swindlers lure unsuspecting investors into sending",
-          "link": "https://thehackernews.com/2022/11/us-authorities-seize-domains-used-in.html",
-          "publishedOn": "2022-11-22T09:10:00.000Z",
-          "wordCount": null,
-          "title": "U.S. Authorities Seize Domains Used in 'Pig butchering' Cryptocurrency Scams",
           "itunes": {},
           "imageUrl": null
         }
