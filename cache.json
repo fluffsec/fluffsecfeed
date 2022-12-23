@@ -3323,76 +3323,6 @@
             "length": "0"
           },
           "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt0e633cacbfbbf0c2/6305337a9b7ae964b1821d09/kolawole-samuel-adebayo.jpg"
-        },
-        {
-          "id": "https://www.darkreading.com/mobile/-patch-lag-leaves-millions-android-devices-vulnerable",
-          "author": "Dark Reading Staff, Dark Reading",
-          "description": "Months after a fix was issued by a vendor, downstream Android device manufacturers still haven't patched, highlighting a troubling trend.",
-          "link": "https://www.darkreading.com/mobile/-patch-lag-leaves-millions-android-devices-vulnerable",
-          "publishedOn": "2022-11-23T17:49:57.000Z",
-          "wordCount": 10400,
-          "title": "'Patch Lag' Leaves Millions of Android Devices Vulnerable",
-          "enclosure": {
-            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blte161b23f0fd3a84b/60b1ea374e7eb868c4c6a293/dr_staff_125x125.jpg",
-            "type": "image/*",
-            "length": "0"
-          },
-          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blte161b23f0fd3a84b/60b1ea374e7eb868c4c6a293/dr_staff_125x125.jpg"
-        },
-        {
-          "id": "https://www.darkreading.com/threat-intelligence/hot-ticket-aurora-go-based-infostealer-favor-cyber-threat-actors",
-          "author": "Nathan Eddy, Contributing Writer, Dark Reading",
-          "description": "The infostealer Aurora’s low detection rates and newcomer status are helping it fly under the radar, as more cybercriminal gangs target cryptocurrency wallets and communications apps.",
-          "link": "https://www.darkreading.com/threat-intelligence/hot-ticket-aurora-go-based-infostealer-favor-cyber-threat-actors",
-          "publishedOn": "2022-11-23T17:15:02.000Z",
-          "wordCount": 11815,
-          "title": "Hot Ticket: 'Aurora' Go-Based InfoStealer Finds Favor Among Cyber-Threat Actors",
-          "enclosure": {
-            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltf8b5a94afa71c53a/628e3799daa31875dc0c9fc0/NathanEddyHeadshot.PNG",
-            "type": "image/*",
-            "length": "0"
-          },
-          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltf8b5a94afa71c53a/628e3799daa31875dc0c9fc0/NathanEddyHeadshot.PNG"
-        },
-        {
-          "id": "https://www.darkreading.com/ics-ot/microsoft-iot-sdks-critical-infrastructure-cyberattack",
-          "author": "Elizabeth Montalbano, Contributor, Dark Reading",
-          "description": "Chinese threat actors have already used the vulnerable and pervasive Boa server to infiltrate the electrical grid in India, in spate of malicious incidents.",
-          "link": "https://www.darkreading.com/ics-ot/microsoft-iot-sdks-critical-infrastructure-cyberattack",
-          "publishedOn": "2022-11-23T17:02:32.000Z",
-          "wordCount": 13578,
-          "title": "Microsoft: Popular IoT SDKs Leave Critical Infrastructure Wide Open to Cyberattack",
-          "enclosure": {
-            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltbfd004d139d42d70/6303bca6236c2476a257760e/ElizabethMontalbano.jpg",
-            "type": "image/*",
-            "length": "0"
-          },
-          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltbfd004d139d42d70/6303bca6236c2476a257760e/ElizabethMontalbano.jpg"
-        },
-        {
-          "id": "https://www.darkreading.com/vulnerabilities-threats/penetration-testing-market-size-is-projected-to-reach-5-28b-globally-by-2028",
-          "author": null,
-          "description": "Fueling the trend are the rising adoption of cloud computing solutions, technology advancements, stricter data safety regulations, and the move to digitalization, says Brandessence Market Research.",
-          "link": "https://www.darkreading.com/vulnerabilities-threats/penetration-testing-market-size-is-projected-to-reach-5-28b-globally-by-2028",
-          "publishedOn": "2022-11-23T15:07:03.000Z",
-          "wordCount": 15145,
-          "title": "Penetration Testing Market Size Is Projected to Reach $5.28B Globally by 2028",
-          "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
-        },
-        {
-          "id": "https://www.darkreading.com/endpoint/where-are-we-heading-with-data-privacy-regulations-",
-          "author": "Kris Lahiri, Co-Founder & Chief Security Officer, Egnyte",
-          "description": "New laws have made the current US privacy landscape increasingly complex.",
-          "link": "https://www.darkreading.com/endpoint/where-are-we-heading-with-data-privacy-regulations-",
-          "publishedOn": "2022-11-23T15:00:00.000Z",
-          "wordCount": 12854,
-          "title": "Where Are We Heading With Data Privacy Regulations?",
-          "enclosure": {
-            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltf46d15351dae1ccb/637d069612fbec664920d63b/KrisLahiri.jpg",
-            "type": "image/*",
-            "length": "0"
-          },
-          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltf46d15351dae1ccb/637d069612fbec664920d63b/KrisLahiri.jpg"
         }
       ]
     },
@@ -4004,6 +3934,22 @@
       "feedUrl": "https://thehackernews.com/feeds/posts/default",
       "siteUrl": "https://thehackernews.com",
       "articles": [
+        {
+          "id": "https://thehackernews.com/2022/12/lastpass-admits-to-severe-data-breach.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "The August 2022 security breach of LastPass may have been more severe than previously disclosed by the company.\nThe popular password management service on Thursday revealed that malicious actors obtained a trove of personal information belonging to its customers that include their encrypted password vaults using data siphoned from the break-in.\nAlso stolen is \"basic customer account information",
+          "link": "https://thehackernews.com/2022/12/lastpass-admits-to-severe-data-breach.html",
+          "publishedOn": "2022-12-23T04:07:00.000Z",
+          "wordCount": null,
+          "title": "LastPass Admits to Severe Data Breach, Encrypted Password Vaults Stolen",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCTdxbQKamrLeVc8hOKLC92sJOQ58eChoyDPWiw2hlEPTuoWmCxQ34r8VEIAQ_2djIHM4_TUUWcuV46iloiI94oT2Zi6KYfs9SWDRzZjvw6708AY3Jh8S_Bx1UFHAZ08As4A3KCe4j-mGRRRx9iwnAOwMZWF_aRI0FmMaqgFdmTYG6WFoDI0qjxaCQ/s1600/lastpass.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCTdxbQKamrLeVc8hOKLC92sJOQ58eChoyDPWiw2hlEPTuoWmCxQ34r8VEIAQ_2djIHM4_TUUWcuV46iloiI94oT2Zi6KYfs9SWDRzZjvw6708AY3Jh8S_Bx1UFHAZ08As4A3KCe4j-mGRRRx9iwnAOwMZWF_aRI0FmMaqgFdmTYG6WFoDI0qjxaCQ/s1600/lastpass.png"
+        },
         {
           "id": "https://thehackernews.com/2022/12/fin7-cybercrime-syndicate-emerges-as.html",
           "author": "info@thehackernews.com (The Hacker News)",
