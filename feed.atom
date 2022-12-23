@@ -2,10 +2,72 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-23T13:24:28.270Z</updated>
+    <updated>2022-12-23T19:15:38.706Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Container Verification Bug Allows Malicious Images to Cloud Up Kubernetes]]></title>
+        <id>https://www.darkreading.com/cloud/container-verification-bug-malicious-images-free-rein-kubernetes</id>
+        <link href="https://www.darkreading.com/cloud/container-verification-bug-malicious-images-free-rein-kubernetes"/>
+        <updated>2022-12-23T18:18:27.000Z</updated>
+        <summary type="html"><![CDATA[A complete bypass of the Kyverno security mechanism for container image imports allows cyberattackers to completely take over a Kubernetes pod to steal data and inject malware.]]></summary>
+        <author>
+            <name>Tara Seals, Managing Editor, News, Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LastPass Cops to Massive Breach Including Customer Vault Data]]></title>
+        <id>https://www.darkreading.com/attacks-breaches/lastpass-massive-breach-including-customer-vault-data</id>
+        <link href="https://www.darkreading.com/attacks-breaches/lastpass-massive-breach-including-customer-vault-data"/>
+        <updated>2022-12-23T17:39:00.000Z</updated>
+        <summary type="html"><![CDATA[The follow-on attack from August's source-code breach could fuel future campaigns against LastPass customers.]]></summary>
+        <author>
+            <name>Dark Reading Staff, Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Videoconferencing Worries Grow, With SMBs in Cyberattack Crosshairs]]></title>
+        <id>https://www.darkreading.com/application-security/videoconferencing-worries-grow-with-smbs-in-cyberattack-crosshairs</id>
+        <link href="https://www.darkreading.com/application-security/videoconferencing-worries-grow-with-smbs-in-cyberattack-crosshairs"/>
+        <updated>2022-12-23T17:15:00.000Z</updated>
+        <summary type="html"><![CDATA[Securing videoconferencing solutions is just one of many IT security challenges small businesses are facing, often with limited financial and human resources.]]></summary>
+        <author>
+            <name>Nathan Eddy, Contributing Writer, Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google: With Cloud Comes APIs & Security Headaches]]></title>
+        <id>https://www.darkreading.com/cloud/google-cloud-apis-security-headaches</id>
+        <link href="https://www.darkreading.com/cloud/google-cloud-apis-security-headaches"/>
+        <updated>2022-12-23T15:12:00.000Z</updated>
+        <summary type="html"><![CDATA[APIs are key to cloud transformation, but two Google surveys find that cyberattacks targeting them are reaching a tipping point, even as general cloud security issues abound.]]></summary>
+        <author>
+            <name>Robert Lemos, Contributing Writer, Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fool Me Thrice? How to Avoid Double and Triple Ransomware Extortion]]></title>
+        <id>https://www.darkreading.com/vulnerabilities-threats/fool-me-thrice-how-to-avoid-double-and-triple-ransomware-extortion-</id>
+        <link href="https://www.darkreading.com/vulnerabilities-threats/fool-me-thrice-how-to-avoid-double-and-triple-ransomware-extortion-"/>
+        <updated>2022-12-23T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[To stay safer, restrict access to data, monitor for breaches in the supply chain, track relevant data that is sold on the Dark Web, and implement best safety practices.]]></summary>
+        <author>
+            <name>Rob Jenks, Senior Vice President, Corporate Strategy, Tanium</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FrodoPIR: New Privacy-Focused Database Querying System]]></title>
+        <id>https://thehackernews.com/2022/12/frodopir-new-privacy-focused-database.html</id>
+        <link href="https://thehackernews.com/2022/12/frodopir-new-privacy-focused-database.html"/>
+        <updated>2022-12-23T13:37:00.000Z</updated>
+        <summary type="html"><![CDATA[The developers behind the Brave open-source web browser have revealed a new privacy-preserving data querying and retrieval system called FrodoPIR.
+The idea, the company said, is to use the technology to build out a wide range of use cases such as safe browsing, checking passwords against breached databases, certificate revocation checks, and streaming, among others.
+The scheme is called FrodoPIR]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Researchers Warn of Kavach 2FA Phishing Attacks Targeting Indian Govt. Officials]]></title>
         <id>https://thehackernews.com/2022/12/researchers-warn-of-kavach-2fa-phishing.html</id>
@@ -72,6 +134,16 @@ Also stolen is "basic customer account information]]></summary>
         <summary type="html"><![CDATA[Vendors and operators attempt to balance power and security, but right now, power is the highest goal.]]></summary>
         <author>
             <name>Agam Shah, Contributing Writer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What Kind of Data Gets Stolen When a Developer is Compromised?]]></title>
+        <id>https://www.darkreading.com/edge-ask-the-experts/what-kind-of-data-gets-stolen-when-a-developer-is-compromised</id>
+        <link href="https://www.darkreading.com/edge-ask-the-experts/what-kind-of-data-gets-stolen-when-a-developer-is-compromised"/>
+        <updated>2022-12-23T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[What is the worst that can happen when a developer's machine is compromised? Depending on the developer's position, attackers gain access to nearly everything: SSH keys, credentials, access to CI/CD pipelines and production infrastructure, the works.]]></summary>
+        <author>
+            <name>Louis Lang, CTO, Phylum</name>
         </author>
     </entry>
     <entry>
@@ -4689,29 +4761,6 @@ Join the likes of Intel,]]></summary>
         <updated>2022-11-24T10:55:00.000Z</updated>
         <summary type="html"><![CDATA[The cyber espionage group known as Bahamut has been attributed as behind a highly targeted campaign that infects users of Android devices with malicious apps designed to extract sensitive information.
 The activity, which has been active since January 2022, entails distributing rogue VPN apps through a fake SecureVPN website set up for this purpose, Slovak cybersecurity firm ESET said in a new]]></summary>
-        <author>
-            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[This Android File Manager App Infected Thousands of Devices with Sharkbot Malware]]></title>
-        <id>tag:blogger.com,1999:blog-4802841478634147276.post-7749519357360874428</id>
-        <link href="https://thehackernews.com/2022/11/this-android-file-manager-app-infected.html"/>
-        <updated>2022-11-24T06:19:00.000Z</updated>
-        <summary type="html"><![CDATA[The Android banking fraud malware known as SharkBot has reared its head once again on the official Google Play Store, posing as file managers to bypass the app marketplace's restrictions.
-A majority of the users who downloaded the rogue apps are located in the U.K. and Italy, Romanian cybersecurity company Bitdefender said in an analysis published this week.
-SharkBot, first discovered towards]]></summary>
-        <author>
-            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Black Basta Ransomware Gang Actively Infiltrating U.S. Companies with Qakbot Malware]]></title>
-        <id>tag:blogger.com,1999:blog-4802841478634147276.post-280329344061923470</id>
-        <link href="https://thehackernews.com/2022/11/black-basta-ransomware-gang-actively.html"/>
-        <updated>2022-11-24T06:06:00.000Z</updated>
-        <summary type="html"><![CDATA[Companies based in the U.S. have been at the receiving end of an "aggressive" Qakbot malware campaign that leads to Black Basta ransomware infections on compromised networks.
-"In this latest campaign, the Black Basta ransomware gang is using QakBot malware to create an initial point of entry and move laterally within an organization's network," Cybereason researchers Joakim Kandefelt and]]></summary>
         <author>
             <name>noreply@blogger.com (Ravie Lakshmanan)</name>
         </author>

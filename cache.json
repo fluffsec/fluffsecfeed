@@ -320,6 +320,81 @@
       "siteUrl": "https://www.darkreading.com",
       "articles": [
         {
+          "id": "https://www.darkreading.com/cloud/container-verification-bug-malicious-images-free-rein-kubernetes",
+          "author": "Tara Seals, Managing Editor, News, Dark Reading",
+          "description": "A complete bypass of the Kyverno security mechanism for container image imports allows cyberattackers to completely take over a Kubernetes pod to steal data and inject malware.",
+          "link": "https://www.darkreading.com/cloud/container-verification-bug-malicious-images-free-rein-kubernetes",
+          "publishedOn": "2022-12-23T18:18:27.000Z",
+          "wordCount": 13970,
+          "title": "Container Verification Bug Allows Malicious Images to Cloud Up Kubernetes",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltea67136f81f32eca/626a9eb4726e3315b16b3c64/Tara-Seals-Headshot2.jpg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltea67136f81f32eca/626a9eb4726e3315b16b3c64/Tara-Seals-Headshot2.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/attacks-breaches/lastpass-massive-breach-including-customer-vault-data",
+          "author": "Dark Reading Staff, Dark Reading",
+          "description": "The follow-on attack from August's source-code breach could fuel future campaigns against LastPass customers.",
+          "link": "https://www.darkreading.com/attacks-breaches/lastpass-massive-breach-including-customer-vault-data",
+          "publishedOn": "2022-12-23T17:39:00.000Z",
+          "wordCount": 10254,
+          "title": "LastPass Cops to Massive Breach Including Customer Vault Data",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blte161b23f0fd3a84b/60b1ea374e7eb868c4c6a293/dr_staff_125x125.jpg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blte161b23f0fd3a84b/60b1ea374e7eb868c4c6a293/dr_staff_125x125.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/application-security/videoconferencing-worries-grow-with-smbs-in-cyberattack-crosshairs",
+          "author": "Nathan Eddy, Contributing Writer, Dark Reading",
+          "description": "Securing videoconferencing solutions is just one of many IT security challenges small businesses are facing, often with limited financial and human resources.",
+          "link": "https://www.darkreading.com/application-security/videoconferencing-worries-grow-with-smbs-in-cyberattack-crosshairs",
+          "publishedOn": "2022-12-23T17:15:00.000Z",
+          "wordCount": 14357,
+          "title": "Videoconferencing Worries Grow, With SMBs in Cyberattack Crosshairs",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltf8b5a94afa71c53a/628e3799daa31875dc0c9fc0/NathanEddyHeadshot.PNG",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltf8b5a94afa71c53a/628e3799daa31875dc0c9fc0/NathanEddyHeadshot.PNG"
+        },
+        {
+          "id": "https://www.darkreading.com/cloud/google-cloud-apis-security-headaches",
+          "author": "Robert Lemos, Contributing Writer, Dark Reading",
+          "description": "APIs are key to cloud transformation, but two Google surveys find that cyberattacks targeting them are reaching a tipping point, even as general cloud security issues abound.",
+          "link": "https://www.darkreading.com/cloud/google-cloud-apis-security-headaches",
+          "publishedOn": "2022-12-23T15:12:00.000Z",
+          "wordCount": 12592,
+          "title": "Google: With Cloud Comes APIs & Security Headaches",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt58481326324d6911/60b1e9a55d34de550780a990/Robert-Lemos.png",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt58481326324d6911/60b1e9a55d34de550780a990/Robert-Lemos.png"
+        },
+        {
+          "id": "https://www.darkreading.com/vulnerabilities-threats/fool-me-thrice-how-to-avoid-double-and-triple-ransomware-extortion-",
+          "author": "Rob Jenks, Senior Vice President, Corporate Strategy, Tanium",
+          "description": "To stay safer, restrict access to data, monitor for breaches in the supply chain, track relevant data that is sold on the Dark Web, and implement best safety practices.",
+          "link": "https://www.darkreading.com/vulnerabilities-threats/fool-me-thrice-how-to-avoid-double-and-triple-ransomware-extortion-",
+          "publishedOn": "2022-12-23T15:00:00.000Z",
+          "wordCount": 13393,
+          "title": "Fool Me Thrice? How to Avoid Double and Triple Ransomware Extortion",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltf41b101392fd54a3/63a2185d6b5dc8574c55d8bc/Rob_Jenks.jpg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltf41b101392fd54a3/63a2185d6b5dc8574c55d8bc/Rob_Jenks.jpg"
+        },
+        {
           "id": "https://www.darkreading.com/dr-tech/security-is-a-second-class-citizen-in-high-performance-computing",
           "author": "Agam Shah, Contributing Writer",
           "description": "Vendors and operators attempt to balance power and security, but right now, power is the highest goal.",
@@ -333,6 +408,16 @@
             "length": "0"
           },
           "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt3b296baaaaccbc2a/61bbb7b4ac124d4b2e71583a/WriterDefault_vladwel_Adobe.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/edge-ask-the-experts/what-kind-of-data-gets-stolen-when-a-developer-is-compromised",
+          "author": "Louis Lang, CTO, Phylum",
+          "description": "What is the worst that can happen when a developer's machine is compromised? Depending on the developer's position, attackers gain access to nearly everything: SSH keys, credentials, access to CI/CD pipelines and production infrastructure, the works.",
+          "link": "https://www.darkreading.com/edge-ask-the-experts/what-kind-of-data-gets-stolen-when-a-developer-is-compromised",
+          "publishedOn": "2022-12-23T00:00:00.000Z",
+          "wordCount": 11366,
+          "title": "What Kind of Data Gets Stolen When a Developer is Compromised?",
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltdddf601a312bd7aa/61d60ded39cc4b37aef709e8/DataTheft-RicoPloeg-Alamy.jpg"
         },
         {
           "id": "https://www.darkreading.com/cloud/new-brand-of-security-threats-surface-in-the-cloud",
@@ -3905,6 +3990,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2022/12/frodopir-new-privacy-focused-database.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "The developers behind the Brave open-source web browser have revealed a new privacy-preserving data querying and retrieval system called FrodoPIR.\nThe idea, the company said, is to use the technology to build out a wide range of use cases such as safe browsing, checking passwords against breached databases, certificate revocation checks, and streaming, among others.\nThe scheme is called FrodoPIR",
+          "link": "https://thehackernews.com/2022/12/frodopir-new-privacy-focused-database.html",
+          "publishedOn": "2022-12-23T13:37:00.000Z",
+          "wordCount": null,
+          "title": "FrodoPIR: New Privacy-Focused Database Querying System",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj79OEjTu7uo1_PMphTdL55aDVE2-3F1GYtp2A60d0b8JjfwwKRWgaLKrL-FAJFPbfHGXIHuAOu-tKOV8VtEi_HunbG5ptGgAo_BR64m7QJ9Q12nnAaUofcvG04yOne4KJJaok1IHdIrkARj17i36toNVrbnK8dUBwBp3VLJru89QzdjMkxzFO4CG_g/s1600/webbrowser.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj79OEjTu7uo1_PMphTdL55aDVE2-3F1GYtp2A60d0b8JjfwwKRWgaLKrL-FAJFPbfHGXIHuAOu-tKOV8VtEi_HunbG5ptGgAo_BR64m7QJ9Q12nnAaUofcvG04yOne4KJJaok1IHdIrkARj17i36toNVrbnK8dUBwBp3VLJru89QzdjMkxzFO4CG_g/s1600/webbrowser.png"
+        },
+        {
           "id": "https://thehackernews.com/2022/12/researchers-warn-of-kavach-2fa-phishing.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "A new targeted phishing campaign has zoomed in on a two-factor authentication solution called Kavach that's used by Indian government officials.\nCybersecurity firm Securonix dubbed the activity STEPPY#KAVACH, attributing it to a threat actor known as SideCopy based on tactical overlaps with prior attacks.\n\".LNK files are used to initiate code execution which eventually downloads and runs a",
@@ -5907,28 +6008,6 @@
           "publishedOn": "2022-11-24T10:55:00.000Z",
           "wordCount": null,
           "title": "Bahamut Cyber Espionage Hackers Targeting Android Users with Fake VPN Apps",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "tag:blogger.com,1999:blog-4802841478634147276.post-7749519357360874428",
-          "author": "noreply@blogger.com (Ravie Lakshmanan)",
-          "description": "The Android banking fraud malware known as SharkBot has reared its head once again on the official Google Play Store, posing as file managers to bypass the app marketplace's restrictions.\nA majority of the users who downloaded the rogue apps are located in the U.K. and Italy, Romanian cybersecurity company Bitdefender said in an analysis published this week.\nSharkBot, first discovered towards",
-          "link": "https://thehackernews.com/2022/11/this-android-file-manager-app-infected.html",
-          "publishedOn": "2022-11-24T06:19:00.000Z",
-          "wordCount": null,
-          "title": "This Android File Manager App Infected Thousands of Devices with Sharkbot Malware",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "tag:blogger.com,1999:blog-4802841478634147276.post-280329344061923470",
-          "author": "noreply@blogger.com (Ravie Lakshmanan)",
-          "description": "Companies based in the U.S. have been at the receiving end of an \"aggressive\" Qakbot malware campaign that leads to Black Basta ransomware infections on compromised networks.\n\"In this latest campaign, the Black Basta ransomware gang is using QakBot malware to create an initial point of entry and move laterally within an organization's network,\" Cybereason researchers Joakim Kandefelt and",
-          "link": "https://thehackernews.com/2022/11/black-basta-ransomware-gang-actively.html",
-          "publishedOn": "2022-11-24T06:06:00.000Z",
-          "wordCount": null,
-          "title": "Black Basta Ransomware Gang Actively Infiltrating U.S. Companies with Qakbot Malware",
           "itunes": {},
           "imageUrl": null
         }
