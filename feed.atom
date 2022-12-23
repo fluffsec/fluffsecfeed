@@ -2,10 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-22T19:15:46.994Z</updated>
+    <updated>2022-12-23T02:14:20.620Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Security Is a Second-Class Citizen in High-Performance Computing]]></title>
+        <id>https://www.darkreading.com/dr-tech/security-is-a-second-class-citizen-in-high-performance-computing</id>
+        <link href="https://www.darkreading.com/dr-tech/security-is-a-second-class-citizen-in-high-performance-computing"/>
+        <updated>2022-12-23T00:01:00.000Z</updated>
+        <summary type="html"><![CDATA[Vendors and operators attempt to balance power and security, but right now, power is the highest goal.]]></summary>
+        <author>
+            <name>Agam Shah, Contributing Writer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New Brand of Security Threats Surface in the Cloud]]></title>
+        <id>https://www.darkreading.com/cloud/new-brand-of-security-threats-surface-in-the-cloud</id>
+        <link href="https://www.darkreading.com/cloud/new-brand-of-security-threats-surface-in-the-cloud"/>
+        <updated>2022-12-22T21:23:00.000Z</updated>
+        <summary type="html"><![CDATA[Tech Insight report co-produced by Black Hat, Dark Reading, and Omdia examines how cloud security is evolving in a rapid race to beat threat actors to the (cloud) breach.]]></summary>
+        <author>
+            <name>Dark Reading Staff, Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Warns of Signed Drivers Being Used to Terminate AV and EDR Processes]]></title>
+        <id>https://blog.knowbe4.com/microsoft-warns-of-signed-drivers-being-used-to-terminate-av-and-edr-processes</id>
+        <link href="https://blog.knowbe4.com/microsoft-warns-of-signed-drivers-being-used-to-terminate-av-and-edr-processes"/>
+        <updated>2022-12-22T21:17:28.000Z</updated>
+        <summary type="html"><![CDATA[The malicious abuse of several developer program accounts in Microsoft’s Windows Hardware Developer Program allowed threat actors to have malware evade detection.]]></summary>
+        <author>
+            <name>Stu Sjouwerman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Inside The Next-Level Fraud Ring Scamming Billions Off Holiday Retailers]]></title>
+        <id>https://www.darkreading.com/attacks-breaches/inside-next-level-fraud-ring-scamming-billions-holiday-retailers</id>
+        <link href="https://www.darkreading.com/attacks-breaches/inside-next-level-fraud-ring-scamming-billions-holiday-retailers"/>
+        <updated>2022-12-22T21:07:00.000Z</updated>
+        <summary type="html"><![CDATA["Largest attack of its kind": A potent Southeast Asian e-commerce fraud ring has declared war on US retailers, targeting billions in goods in just the past month and forcing mules into its scheme.]]></summary>
+        <author>
+            <name>Becky Bracken, Editor, Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Biden Signs Post-Quantum Cybersecurity Guidelines Into Law]]></title>
+        <id>https://www.darkreading.com/risk/biden-signs-post-quantum-cybersecurity-guidelines-into-law</id>
+        <link href="https://www.darkreading.com/risk/biden-signs-post-quantum-cybersecurity-guidelines-into-law"/>
+        <updated>2022-12-22T21:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The new law holds the US Office of Budget and Management to a road map for transitioning federal systems to NIST-approved PQC.]]></summary>
+        <author>
+            <name>Karen Spiegelman, Features Editor</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CISA Releases Four Industrial Control Systems Advisories]]></title>
         <id>18253 at https://us-cert.cisa.gov</id>
@@ -4676,62 +4726,6 @@ SharkBot, first discovered towards]]></summary>
         <summary type="html"><![CDATA[New laws have made the current US privacy landscape increasingly complex.]]></summary>
         <author>
             <name>Kris Lahiri, Co-Founder &amp; Chief Security Officer, Egnyte</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[34 Russian Hacker Groups Stole Over 50 Million Passwords with Stealer Malware]]></title>
-        <id>tag:blogger.com,1999:blog-4802841478634147276.post-6708676041843726856</id>
-        <link href="https://thehackernews.com/2022/11/34-russian-hacker-groups-stole-over-50.html"/>
-        <updated>2022-11-23T13:08:00.000Z</updated>
-        <summary type="html"><![CDATA[As many as 34 Russian-speaking gangs distributing information-stealing malware under the stealer-as-a-service model stole no fewer than 50 million passwords in the first seven months of 2022.
-"The underground market value of stolen logs and compromised card details is estimated around $5.8 million," Singapore-headquartered Group-IB said in a report shared with The Hacker News.
-Aside from looting]]></summary>
-        <author>
-            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ducktail Malware Operation Evolves with New Malicious Capabilities]]></title>
-        <id>tag:blogger.com,1999:blog-4802841478634147276.post-873383546272258869</id>
-        <link href="https://thehackernews.com/2022/11/ducktail-malware-operation-evolves-with.html"/>
-        <updated>2022-11-23T12:39:00.000Z</updated>
-        <summary type="html"><![CDATA[The operators of the Ducktail information stealer have demonstrated a "relentless willingness to persist" and continued to update their malware as part of an ongoing financially driven campaign.
-"The malware is designed to steal browser cookies and take advantage of authenticated Facebook sessions to steal information from the victim's Facebook account," WithSecure researcher Mohammad Kazem]]></summary>
-        <author>
-            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Top Cyber Threats Facing E-Commerce Sites This Holiday Season]]></title>
-        <id>tag:blogger.com,1999:blog-4802841478634147276.post-835621572387628092</id>
-        <link href="https://thehackernews.com/2022/11/top-cyber-threats-facing-e-commerce.html"/>
-        <updated>2022-11-23T12:13:00.000Z</updated>
-        <summary type="html"><![CDATA[Delivering a superior customer experience is essential for any e-commerce business. For those companies, there's a lot at stake this holiday season. According to Digital Commerce 360, nearly $1.00 of every $4.00 spent on retail purchases during the 2022 holiday season will be spent online, resulting in $224 billion in e-commerce sales. To ensure your e-commerce site is ready for the holiday rush]]></summary>
-        <author>
-            <name>noreply@blogger.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hackers Exploiting Abandoned Boa Web Servers to Target Critical Industries]]></title>
-        <id>tag:blogger.com,1999:blog-4802841478634147276.post-5592775157155888031</id>
-        <link href="https://thehackernews.com/2022/11/hackers-exploiting-abandoned-boa-web.html"/>
-        <updated>2022-11-23T09:28:00.000Z</updated>
-        <summary type="html"><![CDATA[Microsoft on Tuesday disclosed the intrusion activity aimed at Indian power grid entities earlier this year likely involved the exploitation of security flaws in a now-discontinued web server called Boa.
-The tech behemoth's cybersecurity division said the vulnerable component poses a "supply chain risk that may affect millions of organizations and devices."
-The findings build on a prior report]]></summary>
-        <author>
-            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meta Takes Down Fake Facebook and Instagram Accounts Linked to Pro-U.S. Influence Operation]]></title>
-        <id>tag:blogger.com,1999:blog-4802841478634147276.post-6978208086894065146</id>
-        <link href="https://thehackernews.com/2022/11/meta-takes-down-fake-facebook-and.html"/>
-        <updated>2022-11-23T07:46:00.000Z</updated>
-        <summary type="html"><![CDATA[Meta Platforms on Tuesday said it took down a network of accounts and pages across Facebook and Instagram that were operated by people associated with the U.S. military to spread narratives that depicted the country in a favorable light in the Middle East and Central Asia.
-The network, which originated from the U.S., primarily singled out Afghanistan, Algeria, Iran, Iraq, Kazakhstan, Kyrgyzstan,]]></summary>
-        <author>
-            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
         </author>
     </entry>
     <entry>

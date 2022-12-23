@@ -320,6 +320,66 @@
       "siteUrl": "https://www.darkreading.com",
       "articles": [
         {
+          "id": "https://www.darkreading.com/dr-tech/security-is-a-second-class-citizen-in-high-performance-computing",
+          "author": "Agam Shah, Contributing Writer",
+          "description": "Vendors and operators attempt to balance power and security, but right now, power is the highest goal.",
+          "link": "https://www.darkreading.com/dr-tech/security-is-a-second-class-citizen-in-high-performance-computing",
+          "publishedOn": "2022-12-23T00:01:00.000Z",
+          "wordCount": 14244,
+          "title": "Security Is a Second-Class Citizen in High-Performance Computing",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt3b296baaaaccbc2a/61bbb7b4ac124d4b2e71583a/WriterDefault_vladwel_Adobe.jpg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt3b296baaaaccbc2a/61bbb7b4ac124d4b2e71583a/WriterDefault_vladwel_Adobe.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/cloud/new-brand-of-security-threats-surface-in-the-cloud",
+          "author": "Dark Reading Staff, Dark Reading",
+          "description": "Tech Insight report co-produced by Black Hat, Dark Reading, and Omdia examines how cloud security is evolving in a rapid race to beat threat actors to the (cloud) breach.",
+          "link": "https://www.darkreading.com/cloud/new-brand-of-security-threats-surface-in-the-cloud",
+          "publishedOn": "2022-12-22T21:23:00.000Z",
+          "wordCount": 10572,
+          "title": "New Brand of Security Threats Surface in the Cloud",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blte161b23f0fd3a84b/60b1ea374e7eb868c4c6a293/dr_staff_125x125.jpg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blte161b23f0fd3a84b/60b1ea374e7eb868c4c6a293/dr_staff_125x125.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/attacks-breaches/inside-next-level-fraud-ring-scamming-billions-holiday-retailers",
+          "author": "Becky Bracken, Editor, Dark Reading",
+          "description": "\"Largest attack of its kind\": A potent Southeast Asian e-commerce fraud ring has declared war on US retailers, targeting billions in goods in just the past month and forcing mules into its scheme.",
+          "link": "https://www.darkreading.com/attacks-breaches/inside-next-level-fraud-ring-scamming-billions-holiday-retailers",
+          "publishedOn": "2022-12-22T21:07:00.000Z",
+          "wordCount": 12928,
+          "title": "Inside The Next-Level Fraud Ring Scamming Billions Off Holiday Retailers",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt8e7bd143d726930b/627271268681151716941064/BeckyB.jpg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt8e7bd143d726930b/627271268681151716941064/BeckyB.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/risk/biden-signs-post-quantum-cybersecurity-guidelines-into-law",
+          "author": "Karen Spiegelman, Features Editor",
+          "description": "The new law holds the US Office of Budget and Management to a road map for transitioning federal systems to NIST-approved PQC.",
+          "link": "https://www.darkreading.com/risk/biden-signs-post-quantum-cybersecurity-guidelines-into-law",
+          "publishedOn": "2022-12-22T21:00:00.000Z",
+          "wordCount": 11033,
+          "title": "Biden Signs Post-Quantum Cybersecurity Guidelines Into Law",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt05b5a13cf2fb2868/62473b097c2d1d030cd47dff/pink-headshot.jpg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt05b5a13cf2fb2868/62473b097c2d1d030cd47dff/pink-headshot.jpg"
+        },
+        {
           "id": "https://www.darkreading.com/endpoint/passwordless-authentication-market-to-be-worth-55-7-billion-by-2030-grand-view-research-inc-",
           "author": null,
           "description": "",
@@ -3398,6 +3458,16 @@
       "siteUrl": "https://blog.knowbe4.com",
       "articles": [
         {
+          "id": "https://blog.knowbe4.com/microsoft-warns-of-signed-drivers-being-used-to-terminate-av-and-edr-processes",
+          "author": "Stu Sjouwerman",
+          "description": "The malicious abuse of several developer program accounts in Microsoft’s Windows Hardware Developer Program allowed threat actors to have malware evade detection.",
+          "link": "https://blog.knowbe4.com/microsoft-warns-of-signed-drivers-being-used-to-terminate-av-and-edr-processes",
+          "publishedOn": "2022-12-22T21:17:28.000Z",
+          "wordCount": 2207,
+          "title": "Microsoft Warns of Signed Drivers Being Used to Terminate AV and EDR Processes",
+          "imageUrl": "https://blog.knowbe4.com/hubfs/Phishing%20Campaign%20Microsoft.jpg#keepProtocol"
+        },
+        {
           "id": "https://blog.knowbe4.com/phishing-attacks-grow-15-percent-in-one-quarter",
           "author": "Stu Sjouwerman",
           "description": "New data shows that while ransomware remains somewhat flat, massive increases in business email compromise and response-based email attacks were seen last quarter.",
@@ -5879,61 +5949,6 @@
           "publishedOn": "2022-11-24T06:06:00.000Z",
           "wordCount": null,
           "title": "Black Basta Ransomware Gang Actively Infiltrating U.S. Companies with Qakbot Malware",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "tag:blogger.com,1999:blog-4802841478634147276.post-6708676041843726856",
-          "author": "noreply@blogger.com (Ravie Lakshmanan)",
-          "description": "As many as 34 Russian-speaking gangs distributing information-stealing malware under the stealer-as-a-service model stole no fewer than 50 million passwords in the first seven months of 2022.\n\"The underground market value of stolen logs and compromised card details is estimated around $5.8 million,\" Singapore-headquartered Group-IB said in a report shared with The Hacker News.\nAside from looting",
-          "link": "https://thehackernews.com/2022/11/34-russian-hacker-groups-stole-over-50.html",
-          "publishedOn": "2022-11-23T13:08:00.000Z",
-          "wordCount": null,
-          "title": "34 Russian Hacker Groups Stole Over 50 Million Passwords with Stealer Malware",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "tag:blogger.com,1999:blog-4802841478634147276.post-873383546272258869",
-          "author": "noreply@blogger.com (Ravie Lakshmanan)",
-          "description": "The operators of the Ducktail information stealer have demonstrated a \"relentless willingness to persist\" and continued to update their malware as part of an ongoing financially driven campaign.\n\"The malware is designed to steal browser cookies and take advantage of authenticated Facebook sessions to steal information from the victim's Facebook account,\" WithSecure researcher Mohammad Kazem",
-          "link": "https://thehackernews.com/2022/11/ducktail-malware-operation-evolves-with.html",
-          "publishedOn": "2022-11-23T12:39:00.000Z",
-          "wordCount": null,
-          "title": "Ducktail Malware Operation Evolves with New Malicious Capabilities",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "tag:blogger.com,1999:blog-4802841478634147276.post-835621572387628092",
-          "author": "noreply@blogger.com (The Hacker News)",
-          "description": "Delivering a superior customer experience is essential for any e-commerce business. For those companies, there's a lot at stake this holiday season. According to Digital Commerce 360, nearly $1.00 of every $4.00 spent on retail purchases during the 2022 holiday season will be spent online, resulting in $224 billion in e-commerce sales. To ensure your e-commerce site is ready for the holiday rush",
-          "link": "https://thehackernews.com/2022/11/top-cyber-threats-facing-e-commerce.html",
-          "publishedOn": "2022-11-23T12:13:00.000Z",
-          "wordCount": null,
-          "title": "Top Cyber Threats Facing E-Commerce Sites This Holiday Season",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "tag:blogger.com,1999:blog-4802841478634147276.post-5592775157155888031",
-          "author": "noreply@blogger.com (Ravie Lakshmanan)",
-          "description": "Microsoft on Tuesday disclosed the intrusion activity aimed at Indian power grid entities earlier this year likely involved the exploitation of security flaws in a now-discontinued web server called Boa.\nThe tech behemoth's cybersecurity division said the vulnerable component poses a \"supply chain risk that may affect millions of organizations and devices.\"\nThe findings build on a prior report",
-          "link": "https://thehackernews.com/2022/11/hackers-exploiting-abandoned-boa-web.html",
-          "publishedOn": "2022-11-23T09:28:00.000Z",
-          "wordCount": null,
-          "title": "Hackers Exploiting Abandoned Boa Web Servers to Target Critical Industries",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "tag:blogger.com,1999:blog-4802841478634147276.post-6978208086894065146",
-          "author": "noreply@blogger.com (Ravie Lakshmanan)",
-          "description": "Meta Platforms on Tuesday said it took down a network of accounts and pages across Facebook and Instagram that were operated by people associated with the U.S. military to spread narratives that depicted the country in a favorable light in the Middle East and Central Asia.\nThe network, which originated from the U.S., primarily singled out Afghanistan, Algeria, Iran, Iraq, Kazakhstan, Kyrgyzstan,",
-          "link": "https://thehackernews.com/2022/11/meta-takes-down-fake-facebook-and.html",
-          "publishedOn": "2022-11-23T07:46:00.000Z",
-          "wordCount": null,
-          "title": "Meta Takes Down Fake Facebook and Instagram Accounts Linked to Pro-U.S. Influence Operation",
           "itunes": {},
           "imageUrl": null
         }
