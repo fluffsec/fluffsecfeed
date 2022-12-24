@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-24T13:21:49.595Z</updated>
+    <updated>2022-12-24T19:14:25.975Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[W4SP Stealer Discovered in Multiple PyPI Packages Under Various Names]]></title>
+        <id>https://thehackernews.com/2022/12/w4sp-stealer-discovered-in-multiple.html</id>
+        <link href="https://thehackernews.com/2022/12/w4sp-stealer-discovered-in-multiple.html"/>
+        <updated>2022-12-24T12:51:00.000Z</updated>
+        <summary type="html"><![CDATA[Threat actors have published yet another round of malicious packages to Python Package Index (PyPI) with the goal of delivering information-stealing malware on compromised developer machines.
+Interestingly, while the malware goes by a variety of names like ANGEL Stealer, Celestial Stealer, Fade Stealer, Leaf $tealer, PURE Stealer, Satan Stealer, and @skid Stealer, cybersecurity company Phylum]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Container Verification Bug Allows Malicious Images to Cloud Up Kubernetes]]></title>
         <id>https://www.darkreading.com/cloud/container-verification-bug-malicious-images-free-rein-kubernetes</id>
@@ -4691,30 +4702,6 @@ Heap-based buffer overflow bugs can be]]></summary>
         <updated>2022-11-25T11:15:00.000Z</updated>
         <summary type="html"><![CDATA[An analysis of firmware images across devices from Dell, HP, and Lenovo has revealed the presence of outdated versions of the OpenSSL cryptographic library, underscoring a supply chain risk.
 EFI Development Kit, aka EDK, is an open source implementation of the Unified Extensible Firmware Interface (UEFI), which functions as an interface between the operating system and the firmware embedded in]]></summary>
-        <author>
-            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[U.K. Police Arrest 142 in Global Crackdown on 'iSpoof' Phone Spoofing Service]]></title>
-        <id>tag:blogger.com,1999:blog-4802841478634147276.post-5042680522505721358</id>
-        <link href="https://thehackernews.com/2022/11/uk-police-arrest-142-in-global.html"/>
-        <updated>2022-11-25T06:06:00.000Z</updated>
-        <summary type="html"><![CDATA[A coordinated law enforcement effort has dismantled an online phone number spoofing service called iSpoof and arrested 142 individuals linked to the operation.
-The websites, ispoof[.]me and ispoof[.]cc, allowed the crooks to "impersonate trusted corporations or contacts to access sensitive information from victims," Europol said in a press statement.
-Worldwide losses exceeded €115 million ($]]></summary>
-        <author>
-            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Interpol Seized $130 Million from Cybercriminals in Global "HAECHI-III" Crackdown Operation]]></title>
-        <id>tag:blogger.com,1999:blog-4802841478634147276.post-4476823824220162052</id>
-        <link href="https://thehackernews.com/2022/11/interpol-seized-130-million-from.html"/>
-        <updated>2022-11-25T04:58:00.000Z</updated>
-        <summary type="html"><![CDATA[Interpol on Thursday announced the seizure of $130 million worth of virtual assets in connection with a global crackdown on cyber-enabled financial crimes and money laundering.
-The international police operation, dubbed HAECHI-III, transpired between June 28 and November 23, 2022, resulting in the arrests of 975 individuals and the closure of more than 1,600 cases.
-This comprised two fugitives]]></summary>
         <author>
             <name>noreply@blogger.com (Ravie Lakshmanan)</name>
         </author>
