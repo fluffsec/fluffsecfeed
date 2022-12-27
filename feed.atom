@@ -2,10 +2,82 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-27T13:23:13.208Z</updated>
+    <updated>2022-12-27T19:15:27.425Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Get the Most out of UEBA]]></title>
+        <id>https://www.darkreading.com/dr-tech/how-to-get-the-most-out-of-ueba</id>
+        <link href="https://www.darkreading.com/dr-tech/how-to-get-the-most-out-of-ueba"/>
+        <updated>2022-12-27T17:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Security teams are considering how to get the most out of user entity behavioral analytics by taking advantage of its strengths and augmenting its limitations.]]></summary>
+        <author>
+            <name>Nathan Eddy, Contributing Writer, Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Attackers Target GitHub, and How You Can Secure It]]></title>
+        <id>https://www.darkreading.com/edge-articles/why-attackers-target-github-and-how-you-can-secure-it</id>
+        <link href="https://www.darkreading.com/edge-articles/why-attackers-target-github-and-how-you-can-secure-it"/>
+        <updated>2022-12-27T17:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The unfettered collaboration of the GitHub model creates a security headache. Follow these seven principles to help relieve the pain.]]></summary>
+        <author>
+            <name>Matt Caulfield, Founder &amp; CEO, Oort</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Threat of Predictive Policing to Data Privacy and Personal Liberty]]></title>
+        <id>https://www.darkreading.com/endpoint/the-threat-of-predictive-policing-to-data-privacy-and-personal-liberty</id>
+        <link href="https://www.darkreading.com/endpoint/the-threat-of-predictive-policing-to-data-privacy-and-personal-liberty"/>
+        <updated>2022-12-27T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Inaccurate information from data brokers can damage careers and reputations. It's time for US privacy laws to change how law enforcement and legal agencies obtain and act on data.]]></summary>
+        <author>
+            <name>Arjun Bhatnagar, CEO, Cloaked</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BlueNoroff APT Hackers Using New Ways to Bypass Windows MotW Protection]]></title>
+        <id>https://thehackernews.com/2022/12/bluenoroff-apt-hackers-using-new-ways.html</id>
+        <link href="https://thehackernews.com/2022/12/bluenoroff-apt-hackers-using-new-ways.html"/>
+        <updated>2022-12-27T14:57:00.000Z</updated>
+        <summary type="html"><![CDATA[BlueNoroff, a subcluster of the notorious Lazarus Group, has been observed adopting new techniques into its playbook that enable it to bypass Windows Mark of the Web (MotW) protections.
+This includes the use of optical disk image (.ISO extension) and virtual hard disk (.VHD extension) file formats as part of a novel infection chain, Kaspersky disclosed in a report published today.
+"BlueNoroff]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Attackers Pose as Facebook Support Using Legitimate Facebook Posts to Bypass Security Solutions]]></title>
+        <id>https://blog.knowbe4.com/attackers-pose-as-facebook-support-bypass-security-solutions</id>
+        <link href="https://blog.knowbe4.com/attackers-pose-as-facebook-support-bypass-security-solutions"/>
+        <updated>2022-12-27T14:24:49.000Z</updated>
+        <summary type="html"><![CDATA[Impersonating Facebook using its own platform against them, a new phishing attack takes advantage of victim’s inability to distinguish legitimate from illegitimate.]]></summary>
+        <author>
+            <name>Stu Sjouwerman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[QBot Malware Attacks Use SVG files to Perform HTML Smuggling]]></title>
+        <id>https://blog.knowbe4.com/qbot-malware-attacks-use-svg-files-to-perform-html-smuggling</id>
+        <link href="https://blog.knowbe4.com/qbot-malware-attacks-use-svg-files-to-perform-html-smuggling"/>
+        <updated>2022-12-27T14:20:16.000Z</updated>
+        <summary type="html"><![CDATA[QBot malware phishing campaigns have adopted a new distribution method using SVG files to perform HTML smuggling that locally creates a malicious installer for Windows.]]></summary>
+        <author>
+            <name>Stu Sjouwerman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Internet AppSec Remains Abysmal & Requires Sustained Action in 2023]]></title>
+        <id>https://www.darkreading.com/application-security/internet-appsec-remains-abysmal-requires-sustained-action-in-2023</id>
+        <link href="https://www.darkreading.com/application-security/internet-appsec-remains-abysmal-requires-sustained-action-in-2023"/>
+        <updated>2022-12-27T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A variety of initiatives — such as memory-safe languages and software bills of materials — promise more secure applications, but sustained improvements will require that vendors do much better, researchers agree.]]></summary>
+        <author>
+            <name>Robert Lemos, Contributing Writer, Dark Reading</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Facebook to Pay $725 Million to settle Lawsuit Over Cambridge Analytica Data Leak]]></title>
         <id>https://thehackernews.com/2022/12/facebook-to-pay-725-million-to-settle.html</id>
@@ -4617,19 +4689,6 @@ The hard news: they're often successful, have a long-lasting negative impact on
         <updated>2022-11-28T10:07:00.000Z</updated>
         <summary type="html"><![CDATA[Over a dozen security flaws have been discovered in baseboard management controller (BMC) firmware from Lanner that could expose operational technology (OT) and internet of things (IoT) networks to remote attacks.
 BMC refers to a specialized service processor, a system-on-chip (SoC), that's found in server motherboards and is used for remote monitoring and management of a host system, including]]></summary>
-        <author>
-            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Elon Musk Confirms Twitter 2.0 will Bring End-to-End Encryption to Direct Messages]]></title>
-        <id>tag:blogger.com,1999:blog-4802841478634147276.post-1537754773118749838</id>
-        <link href="https://thehackernews.com/2022/11/elon-musk-confirms-twitter-20-will.html"/>
-        <updated>2022-11-28T05:25:00.000Z</updated>
-        <summary type="html"><![CDATA[Twitter chief executive Elon Musk confirmed plans for end-to-end encryption (E2EE) for direct messages on the platform.
-The feature is part of Musk's vision for Twitter 2.0, which is expected to be what's called an "everything app." Other functionalities include longform tweets and payments, according to a slide deck shared by Musk over the weekend.
-
-The company's plans for]]></summary>
         <author>
             <name>noreply@blogger.com (Ravie Lakshmanan)</name>
         </author>
