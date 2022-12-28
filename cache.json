@@ -271,16 +271,6 @@
           "wordCount": 918,
           "title": "CISA Releases Seven Industrial Control Systems Advisories",
           "imageUrl": null
-        },
-        {
-          "id": "18176 at https://us-cert.cisa.gov",
-          "author": "CISA",
-          "description": "Original release date: November 28, 2022\nCISA has added two new vulnerabilities to its Known Exploited Vulnerabilities Catalog, based on evidence of active exploitation. These types of vulnerabilities are frequent attack vectors for malicious cyber actors and pose significant risks to the federal enterprise. Note: To view the newly added vulnerabilities in the catalog, click on the arrow in the \"Date Added to Catalog\" column, which will sort by descending dates.\nBinding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the Known Exploited Vulnerabilities Catalog as a living list of known CVEs that carry significant risk to the federal enterprise. BOD 22-01 requires FCEB agencies to remediate identified vulnerabilities by the due date to protect FCEB networks against active threats. See the BOD 22-01 Fact Sheet for more information.\nAlthough BOD 22-01 only applies to FCEB agencies, CISA strongly urges all organizations to reduce their exposure to cyberattacks by prioritizing timely remediation of Catalog vulnerabilities as part of their vulnerability management practice. CISA will continue to add vulnerabilities to the Catalog that meet the specified criteria.\nThis product is provided subject to this Notification and this Privacy & Use policy.",
-          "link": "https://us-cert.cisa.gov/ncas/current-activity/2022/11/28/cisa-adds-two-known-exploited-vulnerabilities-catalog",
-          "publishedOn": "2022-11-28T17:19:51.000Z",
-          "wordCount": 1005,
-          "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
-          "imageUrl": null
         }
       ]
     },
@@ -3343,71 +3333,6 @@
             "length": "0"
           },
           "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt58481326324d6911/60b1e9a55d34de550780a990/Robert-Lemos.png"
-        },
-        {
-          "id": "https://www.darkreading.com/threat-intelligence/black-basta-gang-deploys-qakbot-malware-cyber-campaign",
-          "author": "Nathan Eddy, Contributing Writer, Dark Reading",
-          "description": "The ransomware group is using Qakbot to make the initial point of entry before moving laterally within an organization’s network.",
-          "link": "https://www.darkreading.com/threat-intelligence/black-basta-gang-deploys-qakbot-malware-cyber-campaign",
-          "publishedOn": "2022-11-28T19:10:31.000Z",
-          "wordCount": 11756,
-          "title": "Black Basta Gang Deploys Qakbot Malware in Aggressive Cyber Campaign",
-          "enclosure": {
-            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltf8b5a94afa71c53a/628e3799daa31875dc0c9fc0/NathanEddyHeadshot.PNG",
-            "type": "image/*",
-            "length": "0"
-          },
-          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltf8b5a94afa71c53a/628e3799daa31875dc0c9fc0/NathanEddyHeadshot.PNG"
-        },
-        {
-          "id": "https://www.darkreading.com/threat-intelligence/facebook-data-scrape-meta-265m-fine",
-          "author": "Dark Reading Staff, Dark Reading",
-          "description": "Meta has been found in violation of Europe's GDPR rules requiring the social media giant to protect user data by \"design and default.\"",
-          "link": "https://www.darkreading.com/threat-intelligence/facebook-data-scrape-meta-265m-fine",
-          "publishedOn": "2022-11-28T18:11:09.000Z",
-          "wordCount": 10382,
-          "title": "$275M Fine for Meta After Facebook Data Scrape",
-          "enclosure": {
-            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blte161b23f0fd3a84b/60b1ea374e7eb868c4c6a293/dr_staff_125x125.jpg",
-            "type": "image/*",
-            "length": "0"
-          },
-          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blte161b23f0fd3a84b/60b1ea374e7eb868c4c6a293/dr_staff_125x125.jpg"
-        },
-        {
-          "id": "https://www.darkreading.com/remote-workforce/knowbe4-launches-new-mobile-learner-app-for-cybersecurity-learning",
-          "author": null,
-          "description": "KnowBe4 empowers end users by introducing security awareness and compliance training on the go at no additional cost.",
-          "link": "https://www.darkreading.com/remote-workforce/knowbe4-launches-new-mobile-learner-app-for-cybersecurity-learning",
-          "publishedOn": "2022-11-28T15:45:28.000Z",
-          "wordCount": 11181,
-          "title": "KnowBe4 Launches New Mobile Learner App for Cybersecurity Learning",
-          "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
-        },
-        {
-          "id": "https://www.darkreading.com/ics-ot/nanolock-brings-built-in-meter-level-cybersecurity-to-renesas-customers",
-          "author": null,
-          "description": "The DLMS-compatible, zero-trust meter-level security is built into the Renesas smart meter solutions, enabling smart meter manufacturers to get to market faster with built-in advanced security solutions.",
-          "link": "https://www.darkreading.com/ics-ot/nanolock-brings-built-in-meter-level-cybersecurity-to-renesas-customers",
-          "publishedOn": "2022-11-28T15:13:57.000Z",
-          "wordCount": 10990,
-          "title": "NanoLock Brings Built-In Meter-Level Cybersecurity to Renesas Customers",
-          "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
-        },
-        {
-          "id": "https://www.darkreading.com/cloud/bring-your-own-key-a-placebo-",
-          "author": "Erez Kalman, Security Architect | CISSP-ISSAP, CISM, CISA, CSSLP, CCSP, CDPSE",
-          "description": "BYOK was envisioned to reduce the risk of using a cloud service provider processing sensitive data, yet there are several deficiencies.",
-          "link": "https://www.darkreading.com/cloud/bring-your-own-key-a-placebo-",
-          "publishedOn": "2022-11-28T15:00:00.000Z",
-          "wordCount": 12632,
-          "title": "Bring Your Own Key — A Placebo?",
-          "enclosure": {
-            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blta562a7f4108a7cda/63751fe44a535776100db584/E_Kalman.png.jpeg",
-            "type": "image/*",
-            "length": "0"
-          },
-          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blta562a7f4108a7cda/63751fe44a535776100db584/E_Kalman.png.jpeg"
         }
       ]
     },
@@ -3981,26 +3906,6 @@
           "wordCount": 2285,
           "title": "Merriam-Webster has announced \"gaslighting\" as the 2022 word of the year",
           "imageUrl": "https://blog.knowbe4.com/hubfs/gaslighting.jpg#keepProtocol"
-        },
-        {
-          "id": "https://blog.knowbe4.com/let-users-engage-with-training-anytime-with-knowbe4-mobile-learner-app",
-          "author": "Stu Sjouwerman",
-          "description": "We’re excited to introduce a new way for your users to engage with KnowBe4 security awareness and compliance training anytime and anywhere with the KnowBe4 Learner App. And the best part? It’s available with all training subscription levels at no additional cost!",
-          "link": "https://blog.knowbe4.com/let-users-engage-with-training-anytime-with-knowbe4-mobile-learner-app",
-          "publishedOn": "2022-11-28T17:40:59.000Z",
-          "wordCount": 2374,
-          "title": "Users Can Engage with Training Anytime with KnowBe4's Mobile Learner App",
-          "imageUrl": "https://blog.knowbe4.com/hubfs/KnowBe4%20Mobile%20Learner%20App.jpg#keepProtocol"
-        },
-        {
-          "id": "https://blog.knowbe4.com/theres-no-such-thing-as-a-free-yeti-only-social-engineering-tactics",
-          "author": "Stu Sjouwerman",
-          "description": "It’s easy to think of the typical online holiday scam as something that affects mostly individuals. Sad, maybe, and unfortunate, but not something that might seriously threaten a business, or another organization.",
-          "link": "https://blog.knowbe4.com/theres-no-such-thing-as-a-free-yeti-only-social-engineering-tactics",
-          "publishedOn": "2022-11-28T16:34:57.000Z",
-          "wordCount": 2407,
-          "title": "There’s No Such Thing as a Free Yeti, Only Social Engineering Tactics",
-          "imageUrl": "https://blog.knowbe4.com/hubfs/Free%20Gift%20Scam.jpg#keepProtocol"
         }
       ]
     },
