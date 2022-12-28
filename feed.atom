@@ -2,10 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-28T07:17:44.634Z</updated>
+    <updated>2022-12-28T13:23:46.168Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[[Eye Opener] Insurance policy doesn’t cover ransomware attack, Ohio Supreme Court says]]></title>
+        <id>https://blog.knowbe4.com/eye-opener-insurance-policy-doesnt-cover-ransomware-attack-ohio-supreme-court-says</id>
+        <link href="https://blog.knowbe4.com/eye-opener-insurance-policy-doesnt-cover-ransomware-attack-ohio-supreme-court-says"/>
+        <updated>2022-12-28T12:15:35.000Z</updated>
+        <summary type="html"><![CDATA[Dec. 27, 2022, The Ohio Supreme Court ruled in favor of an insurance company, determining that its contract to cover any direct physical loss or damage to property did not encompass ransom payments made when a hacker illegally gained access to medical billing software company EMOIs systems and data.]]></summary>
+        <author>
+            <name>Stu Sjouwerman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BitKeep Confirms Cyber Attack, Loses Over $9 Million in Digital Currencies]]></title>
+        <id>https://thehackernews.com/2022/12/bitkeep-confirms-cyber-attack-loses.html</id>
+        <link href="https://thehackernews.com/2022/12/bitkeep-confirms-cyber-attack-loses.html"/>
+        <updated>2022-12-28T10:16:00.000Z</updated>
+        <summary type="html"><![CDATA[Decentralized multi-chain crypto wallet BitKeep on Wednesday confirmed a cyberattack that allowed threat actors to distribute fraudulent versions of its Android app with the goal of stealing users' digital currencies.
+"With maliciously implanted code, the altered APK led to the leak of user's private keys and enabled the hacker to move funds," BitKeep CEO Kevin Como said, describing it as a "]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[APT Hackers Turn to Malicious Excel Add-ins as Initial Intrusion Vector]]></title>
+        <id>https://thehackernews.com/2022/12/apt-hackers-turn-to-malicious-excel-add.html</id>
+        <link href="https://thehackernews.com/2022/12/apt-hackers-turn-to-malicious-excel-add.html"/>
+        <updated>2022-12-28T07:12:00.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft's decision to block Visual Basic for Applications (VBA) macros by default for Office files downloaded from the internet has led many threat actors to improvise their attack chains in recent months.
+Now according to Cisco Talos, advanced persistent threat (APT) actors and commodity malware families alike are increasingly using Excel add-in (.XLL) files as an initial intrusion vector.]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Get the Most out of UEBA]]></title>
         <id>https://www.darkreading.com/dr-tech/how-to-get-the-most-out-of-ueba</id>
@@ -4523,56 +4555,6 @@ The vulnerability, tracked as CVE-2021-35587, carries a CVSS score of 9.8 and i
 <!-]]></summary>
         <author>
             <name>noreply@blogger.com (Ravie Lakshmanan)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How the Cloud Changed Digital Forensics Investigations]]></title>
-        <id>https://www.darkreading.com/edge-articles/how-the-cloud-changed-digital-forensics-investigations</id>
-        <link href="https://www.darkreading.com/edge-articles/how-the-cloud-changed-digital-forensics-investigations"/>
-        <updated>2022-11-29T01:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The enterprise's shift to the cloud means digital forensics investigators have had to adopt new remote techniques and develop custom tools to uncover and process evidence off compromised devices.]]></summary>
-        <author>
-            <name>Stephen Lawton, Contributing Writer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Is MFA the Vegetable of Cybersecurity?]]></title>
-        <id>https://www.darkreading.com/microsoft/is-mfa-the-vegetable-of-cybersecurity-</id>
-        <link href="https://www.darkreading.com/microsoft/is-mfa-the-vegetable-of-cybersecurity-"/>
-        <updated>2022-11-28T23:56:16.000Z</updated>
-        <summary type="html"><![CDATA[Don’t fuss now — just another spoonful of multifactor authentication to keep the organization strong and the data safer.]]></summary>
-        <author>
-            <name>Andrea Fisher, Security Specialist, Microsoft</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cybersecurity Consolidation Continues, Even as Valuations Stall]]></title>
-        <id>https://www.darkreading.com/attacks-breaches/cybersecurity-consolidation-continues-valuations-stall</id>
-        <link href="https://www.darkreading.com/attacks-breaches/cybersecurity-consolidation-continues-valuations-stall"/>
-        <updated>2022-11-28T21:27:23.000Z</updated>
-        <summary type="html"><![CDATA[Financing and acquisitions are trending toward smaller deals, which means fewer high-valuation purchases and funding, but likely fewer post-merger layoffs as well.]]></summary>
-        <author>
-            <name>Robert Lemos, Contributing Writer, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cyber-Threat Group Targets Critical RCE Vulnerability in 'Bleed You' Campaign]]></title>
-        <id>https://www.darkreading.com/threat-intelligence/cyber-threat-weak-windows-servers-bleed-you-campaign</id>
-        <link href="https://www.darkreading.com/threat-intelligence/cyber-threat-weak-windows-servers-bleed-you-campaign"/>
-        <updated>2022-11-28T20:44:43.000Z</updated>
-        <summary type="html"><![CDATA[More than 1,000 systems are exposed to a campaign hunting weak Windows servers and more.]]></summary>
-        <author>
-            <name>Dark Reading Staff, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Global Cyber-Enforcement Op Nets $130M, Says Interpol]]></title>
-        <id>https://www.darkreading.com/threat-intelligence/global-cyber-enforcement-op-nets-130-million-interpol</id>
-        <link href="https://www.darkreading.com/threat-intelligence/global-cyber-enforcement-op-nets-130-million-interpol"/>
-        <updated>2022-11-28T20:03:33.000Z</updated>
-        <summary type="html"><![CDATA[A worldwide operation aimed at curtailing fraud has led to the arrest of 975 suspects and the seizure of nearly $130 million, as Interpol expands its efforts and brings new tools to its investigations.]]></summary>
-        <author>
-            <name>Robert Lemos, Contributing Writer, Dark Reading</name>
         </author>
     </entry>
     <entry>
