@@ -2,10 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-29T13:23:27.081Z</updated>
+    <updated>2022-12-29T19:15:29.108Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[3 Industries, 3 Security Programs]]></title>
+        <id>https://www.darkreading.com/edge-articles/3-industries-3-security-programs</id>
+        <link href="https://www.darkreading.com/edge-articles/3-industries-3-security-programs"/>
+        <updated>2022-12-29T17:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Security leaders from a media corporation, a commercial real estate company, and an automotive technology company share how they address cyber-risk.]]></summary>
+        <author>
+            <name>Sue Poremba, Contributing Writer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Extracting Encrypted Credentials From Common Tools]]></title>
+        <id>https://www.darkreading.com/dr-tech/extracting-encrypted-credentials-from-common-tools</id>
+        <link href="https://www.darkreading.com/dr-tech/extracting-encrypted-credentials-from-common-tools"/>
+        <updated>2022-12-29T17:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Attackers are harvesting credentials from compromised systems. Here's how some commonly used tools can enable this.]]></summary>
+        <author>
+            <name>David Azria, Security Research Team Leader, XM Cyber</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Phishing Activity Rose 130% in the Second Half of 2022, Representing Three-Quarters of All Email-Based Attacks]]></title>
+        <id>https://blog.knowbe4.com/phishing-activity-rose-130-in-the-second-half-of-2022-representing-three-quarters-of-all-email-based-attacks</id>
+        <link href="https://blog.knowbe4.com/phishing-activity-rose-130-in-the-second-half-of-2022-representing-three-quarters-of-all-email-based-attacks"/>
+        <updated>2022-12-29T15:22:48.000Z</updated>
+        <summary type="html"><![CDATA[New data focused on cyberattacks in the second half of the year-to-date shows phishing taking the overwhelming lead as the initial attack vector of choice.]]></summary>
+        <author>
+            <name>Stu Sjouwerman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[After the Uber Breach: 3 Questions All CISOs Should Ask Themselves]]></title>
+        <id>https://www.darkreading.com/vulnerabilities-threats/after-the-uber-breach-3-questions-all-cisos-should-ask-themselves-</id>
+        <link href="https://www.darkreading.com/vulnerabilities-threats/after-the-uber-breach-3-questions-all-cisos-should-ask-themselves-"/>
+        <updated>2022-12-29T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[How CISOs handle the ethical issues around data breaches can make or break their careers. Don't wait until a breach happens to plot the course forward.]]></summary>
+        <author>
+            <name>Avishai Avivi, Chief Information Security Officer, SafeBreach</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New Year's Surprise: Cybersecurity M&A, Funding Activity Snowballs in Q4]]></title>
+        <id>https://www.darkreading.com/threat-intelligence/cybersecurity-ma-funding-activity-snowballs-q4</id>
+        <link href="https://www.darkreading.com/threat-intelligence/cybersecurity-ma-funding-activity-snowballs-q4"/>
+        <updated>2022-12-29T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Concerns about recessionary trends impacting the cybersecurity sector in 2022 remained largely unfounded in Q4, as investment activity surged after a Q3 slowdown.]]></summary>
+        <author>
+            <name>Jai Vijayan, Contributing Writer, Dark Reading</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Thousands of Citrix Servers Still Unpatched for Critical Vulnerabilities]]></title>
         <id>https://thehackernews.com/2022/12/thousands-of-citrix-servers-still.html</id>
@@ -4354,17 +4404,6 @@ To that end, the maximum fines have been bumped up from the current AU$2.22 mill
         <summary type="html"><![CDATA[Researchers have disclosed details of three new security vulnerabilities affecting operational technology (OT) products from CODESYS and Festo that could lead to source code tampering and denial-of-service (DoS).
 The vulnerabilities, reported by Forescout Vedere Labs, are the latest in a long list of flaws collectively tracked under the name OT:ICEFALL.
 "These issues exemplify either an]]></summary>
-        <author>
-            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chinese Cyber Espionage Hackers Using USB Devices to Target Entities in Philippines]]></title>
-        <id>tag:blogger.com,1999:blog-4802841478634147276.post-5508124150090413354</id>
-        <link href="https://thehackernews.com/2022/11/chinese-cyber-espionage-hackers-using.html"/>
-        <updated>2022-11-30T06:21:00.000Z</updated>
-        <summary type="html"><![CDATA[A threat actor with a suspected China nexus has been linked to a set of espionage attacks in the Philippines that primarily relies on USB devices as an initial infection vector.
-Mandiant, which is part of Google Cloud, is tracking the cluster under its uncategorized moniker UNC4191. An analysis of the artifacts used in the intrusions indicates that the campaign dates as far back as September]]></summary>
         <author>
             <name>noreply@blogger.com (Ravie Lakshmanan)</name>
         </author>
