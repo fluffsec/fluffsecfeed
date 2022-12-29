@@ -2,10 +2,33 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-29T07:17:34.086Z</updated>
+    <updated>2022-12-29T13:23:27.081Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Thousands of Citrix Servers Still Unpatched for Critical Vulnerabilities]]></title>
+        <id>https://thehackernews.com/2022/12/thousands-of-citrix-servers-still.html</id>
+        <link href="https://thehackernews.com/2022/12/thousands-of-citrix-servers-still.html"/>
+        <updated>2022-12-29T09:43:00.000Z</updated>
+        <summary type="html"><![CDATA[Thousands of Citrix Application Delivery Controller (ADC) and Gateway endpoints remain vulnerable to two critical security flaws disclosed by the company over the last few months.
+The issues in question are CVE-2022-27510 and CVE-2022-27518 (CVSS scores: 9.8), which were addressed by the virtualization services provider on November 8 and December 13, 2022, respectively.
+While CVE-2022-27510]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New Malvertising Campaign via Google Ads Targets Users Searching for Popular Software]]></title>
+        <id>https://thehackernews.com/2022/12/new-malvertising-campaign-via-google.html</id>
+        <link href="https://thehackernews.com/2022/12/new-malvertising-campaign-via-google.html"/>
+        <updated>2022-12-29T07:48:00.000Z</updated>
+        <summary type="html"><![CDATA[Users searching for popular software are being targeted by a new malvertising campaign that abuses Google Ads to serve trojanized variants that deploy malware, such as Raccoon Stealer and Vidar.
+The activity makes use of seemingly credible websites with typosquatted domain names that are surfaced on top of Google search results in the form of malicious ads by hijacking searches for specific]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[Heads Up] LastPass Attack Could Supercharge Spear Phishing Attacks]]></title>
         <id>https://blog.knowbe4.com/heads-up-lastpass-attack-could-supercharge-spear-phishing-attacks</id>
@@ -4344,56 +4367,6 @@ The vulnerabilities, reported by Forescout Vedere Labs, are the latest in a long
 Mandiant, which is part of Google Cloud, is tracking the cluster under its uncategorized moniker UNC4191. An analysis of the artifacts used in the intrusions indicates that the campaign dates as far back as September]]></summary>
         <author>
             <name>noreply@blogger.com (Ravie Lakshmanan)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Connect the Dots with Genetic Algorithms on CNAPP]]></title>
-        <id>https://www.darkreading.com/zscaler/connect-the-dots-with-genetic-algorithms-on-cnapp</id>
-        <link href="https://www.darkreading.com/zscaler/connect-the-dots-with-genetic-algorithms-on-cnapp"/>
-        <updated>2022-11-30T01:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Cloud-native application protection platforms can apply machine-learning algorithms on cloud data to identify accounts with abnormal permissions and uncover potential threats.]]></summary>
-        <author>
-            <name>Rich Campagna, senior vice-president and general manager, CNAPP, Zscaler</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft Defender Gets New Security Protections]]></title>
-        <id>https://www.darkreading.com/dr-tech/microsoft-defender-gets-new-security-protections</id>
-        <link href="https://www.darkreading.com/dr-tech/microsoft-defender-gets-new-security-protections"/>
-        <updated>2022-11-29T21:55:19.000Z</updated>
-        <summary type="html"><![CDATA[The new Microsoft Defender for Endpoint capabilities include built-in protection and scanning network traffic for malicious activity.]]></summary>
-        <author>
-            <name>Dark Reading Staff, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use Cyber Deception to Counter an Evolving and Advanced Threat Landscape]]></title>
-        <id>https://www.darkreading.com/edge-articles/how-to-use-cyber-deception-to-counter-an-evolving-and-advanced-threat-landscape</id>
-        <link href="https://www.darkreading.com/edge-articles/how-to-use-cyber-deception-to-counter-an-evolving-and-advanced-threat-landscape"/>
-        <updated>2022-11-29T21:33:32.000Z</updated>
-        <summary type="html"><![CDATA[Organizations must be prepared to root out bad actors by any means possible, even if it means setting traps and stringing lures.]]></summary>
-        <author>
-            <name>Edith Peña, Senior Lead Technologist, Booz Allen Hamilton</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cyberattackers Selling Access to Networks Compromised via Recent Fortinet Flaw]]></title>
-        <id>https://www.darkreading.com/threat-intelligence/tcyberattackers-selling-access-networks-compromised-fortinet-flaw</id>
-        <link href="https://www.darkreading.com/threat-intelligence/tcyberattackers-selling-access-networks-compromised-fortinet-flaw"/>
-        <updated>2022-11-29T21:30:00.000Z</updated>
-        <summary type="html"><![CDATA[The vulnerability, disclosed In October, gives an unauthenticated attacker a way to take control of an affected product.]]></summary>
-        <author>
-            <name>Jai Vijayan, Contributing Writer, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Oracle Fusion Middleware Flaw Flagged by CISA]]></title>
-        <id>https://www.darkreading.com/threat-intelligence/oracle-fusion-middleware-flaw-flagged-by-cisa</id>
-        <link href="https://www.darkreading.com/threat-intelligence/oracle-fusion-middleware-flaw-flagged-by-cisa"/>
-        <updated>2022-11-29T19:35:00.000Z</updated>
-        <summary type="html"><![CDATA[The bug could allow unauthorized access and takeover, earning it a spot on the Known Exploited Vulnerabilities Catalog.]]></summary>
-        <author>
-            <name>Dark Reading Staff, Dark Reading</name>
         </author>
     </entry>
     <entry>
