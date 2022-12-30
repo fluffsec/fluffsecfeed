@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-30T07:17:15.979Z</updated>
+    <updated>2022-12-30T13:23:33.341Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Researcher Uncovers Potential Wiretapping Bugs in Google Home Smart Speakers]]></title>
+        <id>https://thehackernews.com/2022/12/researcher-uncovers-potential.html</id>
+        <link href="https://thehackernews.com/2022/12/researcher-uncovers-potential.html"/>
+        <updated>2022-12-30T09:25:00.000Z</updated>
+        <summary type="html"><![CDATA[A security researcher was awarded a bug bounty of $107,500 for identifying security issues in Google Home smart speakers that could be exploited to install backdoors and turn them into wiretapping devices.
+The flaws "allowed an attacker within wireless proximity to install a 'backdoor' account on the device, enabling them to send commands to it remotely over the internet, access its microphone]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CISA Warns of Active exploitation of JasperReports Vulnerabilities]]></title>
         <id>https://thehackernews.com/2022/12/cisa-warns-of-active-exploitation-of.html</id>
@@ -4265,26 +4276,6 @@ GoTo, formerly called LogMeIn, acquired LastPass]]></summary>
         <summary type="html"><![CDATA[CI Fuzz CLI, the open source fuzzing tool with just three commands, integrates fuzz testing directly into the software development workflow.]]></summary>
         <author>
             <name>Dark Reading Staff, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nvidia GPU Driver Bugs Threaten Device Takeover & More]]></title>
-        <id>https://www.darkreading.com/application-security/nvidia-gpu-driver-bugs-device-takeover</id>
-        <link href="https://www.darkreading.com/application-security/nvidia-gpu-driver-bugs-device-takeover"/>
-        <updated>2022-11-30T22:10:00.000Z</updated>
-        <summary type="html"><![CDATA[If unpatched, a host of GPU Display Driver flaws could expose gamers, graphic designers, and others to code execution, denial of service, data tampering, and more.]]></summary>
-        <author>
-            <name>Dark Reading Staff, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google TAG Warns on Emerging Heliconia Exploit Framework for RCE]]></title>
-        <id>https://www.darkreading.com/threat-intelligence/google-tag-warns-emerging-heliconia-exploit-framework</id>
-        <link href="https://www.darkreading.com/threat-intelligence/google-tag-warns-emerging-heliconia-exploit-framework"/>
-        <updated>2022-11-30T19:33:49.000Z</updated>
-        <summary type="html"><![CDATA[The framework has ties back to a Spanish exploit broker called Variston IT, and offers a one-stop shop for compromising Chrome, Defender and Firefox.]]></summary>
-        <author>
-            <name>Tara Seals, Managing Editor, News, Dark Reading</name>
         </author>
     </entry>
     <entry>

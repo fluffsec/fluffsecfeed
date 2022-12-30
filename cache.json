@@ -3053,36 +3053,6 @@
             "length": "0"
           },
           "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blte161b23f0fd3a84b/60b1ea374e7eb868c4c6a293/dr_staff_125x125.jpg"
-        },
-        {
-          "id": "https://www.darkreading.com/application-security/nvidia-gpu-driver-bugs-device-takeover",
-          "author": "Dark Reading Staff, Dark Reading",
-          "description": "If unpatched, a host of GPU Display Driver flaws could expose gamers, graphic designers, and others to code execution, denial of service, data tampering, and more.",
-          "link": "https://www.darkreading.com/application-security/nvidia-gpu-driver-bugs-device-takeover",
-          "publishedOn": "2022-11-30T22:10:00.000Z",
-          "wordCount": 10123,
-          "title": "Nvidia GPU Driver Bugs Threaten Device Takeover & More",
-          "enclosure": {
-            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blte161b23f0fd3a84b/60b1ea374e7eb868c4c6a293/dr_staff_125x125.jpg",
-            "type": "image/*",
-            "length": "0"
-          },
-          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blte161b23f0fd3a84b/60b1ea374e7eb868c4c6a293/dr_staff_125x125.jpg"
-        },
-        {
-          "id": "https://www.darkreading.com/threat-intelligence/google-tag-warns-emerging-heliconia-exploit-framework",
-          "author": "Tara Seals, Managing Editor, News, Dark Reading",
-          "description": "The framework has ties back to a Spanish exploit broker called Variston IT, and offers a one-stop shop for compromising Chrome, Defender and Firefox.",
-          "link": "https://www.darkreading.com/threat-intelligence/google-tag-warns-emerging-heliconia-exploit-framework",
-          "publishedOn": "2022-11-30T19:33:49.000Z",
-          "wordCount": 10665,
-          "title": "Google TAG Warns on Emerging Heliconia Exploit Framework for RCE",
-          "enclosure": {
-            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltea67136f81f32eca/626a9eb4726e3315b16b3c64/Tara-Seals-Headshot2.jpg",
-            "type": "image/*",
-            "length": "0"
-          },
-          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltea67136f81f32eca/626a9eb4726e3315b16b3c64/Tara-Seals-Headshot2.jpg"
         }
       ]
     },
@@ -3654,6 +3624,22 @@
       "feedUrl": "https://thehackernews.com/feeds/posts/default",
       "siteUrl": "https://thehackernews.com",
       "articles": [
+        {
+          "id": "https://thehackernews.com/2022/12/researcher-uncovers-potential.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "A security researcher was awarded a bug bounty of $107,500 for identifying security issues in Google Home smart speakers that could be exploited to install backdoors and turn them into wiretapping devices.\nThe flaws \"allowed an attacker within wireless proximity to install a 'backdoor' account on the device, enabling them to send commands to it remotely over the internet, access its microphone",
+          "link": "https://thehackernews.com/2022/12/researcher-uncovers-potential.html",
+          "publishedOn": "2022-12-30T09:25:00.000Z",
+          "wordCount": null,
+          "title": "Researcher Uncovers Potential Wiretapping Bugs in Google Home Smart Speakers",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhZMVFACPB9r45XFCQ95H6qYl3JPtxP7GK4MM_OqTlA4VdpcQOFWeQDm-aM7q6lwWSahvjbluAgrs05hDDFXYbAcEx7LH8wHyud_NWRl6tPLKwsSuhbv3yXYHSRPkAehCrztjRDfEA5WCCvqa-MXypIEbdCQfMpV9V1n85PBLuEVnIieJlr9K8zfulh/s1600/speaker.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhZMVFACPB9r45XFCQ95H6qYl3JPtxP7GK4MM_OqTlA4VdpcQOFWeQDm-aM7q6lwWSahvjbluAgrs05hDDFXYbAcEx7LH8wHyud_NWRl6tPLKwsSuhbv3yXYHSRPkAehCrztjRDfEA5WCCvqa-MXypIEbdCQfMpV9V1n85PBLuEVnIieJlr9K8zfulh/s1600/speaker.png"
+        },
         {
           "id": "https://thehackernews.com/2022/12/cisa-warns-of-active-exploitation-of.html",
           "author": "info@thehackernews.com (The Hacker News)",
