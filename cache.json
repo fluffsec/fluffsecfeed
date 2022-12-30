@@ -23,6 +23,16 @@
       "siteUrl": "https://us-cert.cisa.gov/",
       "articles": [
         {
+          "id": "18255 at https://us-cert.cisa.gov",
+          "author": "CISA",
+          "description": "Original release date: December 29, 2022\nCISA has added two new vulnerabilities to its Known Exploited Vulnerabilities Catalog, based on evidence of active exploitation. These types of vulnerabilities are frequent attack vectors for malicious cyber actors and pose significant risks to the federal enterprise. Note: To view the newly added vulnerabilities in the catalog, click on the arrow in the \"Date Added to Catalog\" column, which will sort by descending dates.\nBinding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the Known Exploited Vulnerabilities Catalog as a living list of known CVEs that carry significant risk to the federal enterprise. BOD 22-01 requires FCEB agencies to remediate identified vulnerabilities by the due date to protect FCEB networks against active threats. See the BOD 22-01 Fact Sheet for more information.\nAlthough BOD 22-01 only applies to FCEB agencies, CISA strongly urges all organizations to reduce their exposure to cyberattacks by prioritizing timely remediation of Catalog vulnerabilities as part of their vulnerability management practice. CISA will continue to add vulnerabilities to the Catalog that meet the specified criteria.\nThis product is provided subject to this Notification and this Privacy & Use policy.",
+          "link": "https://us-cert.cisa.gov/ncas/current-activity/2022/12/29/cisa-adds-two-known-exploited-vulnerabilities-catalog",
+          "publishedOn": "2022-12-29T20:39:16.000Z",
+          "wordCount": 1083,
+          "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
+          "imageUrl": null
+        },
+        {
           "id": "18253 at https://us-cert.cisa.gov",
           "author": "CISA",
           "description": "Original release date: December 22, 2022\nCISA released four Industrial Control Systems (ICS) advisories on December 22, 2022. These advisories provide timely information about current security issues, vulnerabilities, and exploits surrounding ICS.\nCISA encourages users and administrators to review the newly released ICS advisories for technical details and mitigations:\nICSA-22-356-01 Priva TopControl Suite\nRockwell Automation Studio 5000 Logix Emulate\nMitsubishi Electric MELSEC iQ-R, iQ-L Series and MELIPC Series\nOmron CX-Programmer\nThis product is provided subject to this Notification and this Privacy & Use policy.",
@@ -299,6 +309,21 @@
       "feedUrl": "https://www.darkreading.com/rss.xml",
       "siteUrl": "https://www.darkreading.com",
       "articles": [
+        {
+          "id": "https://www.darkreading.com/microsoft/6-ways-to-protect-your-organization-against-lapsus-",
+          "author": "Microsoft Security, Microsoft",
+          "description": "Businesses need to educate employees the type of social engineering attacks used by hacking group DEV-0537 (LAPSUS$) and strengthen their security posture.",
+          "link": "https://www.darkreading.com/microsoft/6-ways-to-protect-your-organization-against-lapsus-",
+          "publishedOn": "2022-12-29T19:00:00.000Z",
+          "wordCount": 12333,
+          "title": "6 Ways to Protect Your Organization Against LAPSUS$",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt8fe4479bc32f84b4/6321f5362769d078008692a9/MS-Security_logo.png",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt8fe4479bc32f84b4/6321f5362769d078008692a9/MS-Security_logo.png"
+        },
         {
           "id": "https://www.darkreading.com/edge-articles/3-industries-3-security-programs",
           "author": "Sue Poremba, Contributing Writer",
@@ -3205,6 +3230,16 @@
       "siteUrl": "https://msrc-blog.microsoft.com",
       "articles": [
         {
+          "id": "https://msrc-blog.microsoft.com/?p=15230",
+          "author": "Lisa Olson",
+          "description": "Today we are updating the way Microsoft Security Update Guide (SUG) represents the Windows Hotpatch feature to make it easier for users to identify the hotpatch and security updates. Hotpatching was introduced a year ago as a new way to install updates on supported Windows Server Azure Edition virtual machines (VMs) without requiring a reboot …\n  Security Update Guide Improvement – Representing Hotpatch Updates Read More »",
+          "link": "https://msrc-blog.microsoft.com/2022/12/29/security-update-guide-improvement-representing-hotpatch-updates/",
+          "publishedOn": "2022-12-29T21:21:27.000Z",
+          "wordCount": 1627,
+          "title": "Security Update Guide Improvement – Representing Hotpatch Updates",
+          "imageUrl": null
+        },
+        {
           "id": "https://msrc-blog.microsoft.com/?p=15202",
           "author": "Nic Fillingham",
           "description": "We are excited to announce that applications to attend BlueHat 2023 are now open!   BlueHat 2023 will be the 20th version of the BlueHat conference and will once again be on the Microsoft campus in Redmond, WA, USA, from February 8 – 9, 2023.   Hosted by the Microsoft Security Response Center (MSRC), BlueHat is where …\n  BlueHat 2023: Applications to Attend NOW OPEN! Read More »",
@@ -5637,61 +5672,6 @@
           "publishedOn": "2022-11-30T18:30:00.000Z",
           "wordCount": null,
           "title": "North Korea Hackers Using New \"Dolphin\" Backdoor to Spy on South Korean Targets",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "tag:blogger.com,1999:blog-4802841478634147276.post-8056144092460884058",
-          "author": "noreply@blogger.com (Ravie Lakshmanan)",
-          "description": "New findings from cybersecurity firm JFrog show that malware targeting the npm ecosystem can evade security checks by taking advantage of an \"unexpected behavior\" in the npm command line interface (CLI) tool.\nnpm CLI's install and audit commands have built-in capabilities to check a package and all of its dependencies for known vulnerabilities, effectively acting as a warning mechanism for",
-          "link": "https://thehackernews.com/2022/11/researchers-find-way-malicious-npm.html",
-          "publishedOn": "2022-11-30T13:44:00.000Z",
-          "wordCount": null,
-          "title": "Researchers Find a Way Malicious NPM Libraries Can Evade Vulnerability Detection",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "tag:blogger.com,1999:blog-4802841478634147276.post-7085289407152678853",
-          "author": "noreply@blogger.com (Ravie Lakshmanan)",
-          "description": "A malicious Android SMS application found on the Google Play Store has been found to stealthily harvest text messages with the goal of creating accounts on a wide range of platforms like Facebook, Google, and WhatsApp.\nThe app, named Symoo (com.vanjan.sms), had over 100,000 downloads and functioned as a relay for transmitting messages to a server, which advertises an account creation service.",
-          "link": "https://thehackernews.com/2022/11/this-malicious-app-abused-hacked.html",
-          "publishedOn": "2022-11-30T12:15:00.000Z",
-          "wordCount": null,
-          "title": "This Malicious App Abused Hacked Devices to Create Fake Accounts on Multiple Platforms",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "tag:blogger.com,1999:blog-4802841478634147276.post-2632210209266980100",
-          "author": "noreply@blogger.com (Ravie Lakshmanan)",
-          "description": "The French data protection watchdog on Tuesday fined electricity provider Électricité de France €600,000 for violating the European Union General Data Protection Regulation (GDPR) requirements.\nThe Commission nationale de l'informatique et des libertés (CNIL) said the electric utility breached European regulation by storing the passwords for over 25,800 accounts by hashing them using the MD5",
-          "link": "https://thehackernews.com/2022/11/french-electricity-provider-fined-for.html",
-          "publishedOn": "2022-11-30T11:57:00.000Z",
-          "wordCount": null,
-          "title": "French Electricity Provider Fined for Storing Users’ Passwords with Weak MD5 Algorithm",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "tag:blogger.com,1999:blog-4802841478634147276.post-5010801043050608803",
-          "author": "noreply@blogger.com (Ravie Lakshmanan)",
-          "description": "The Australian government has passed a bill that markedly increases the penalty for companies suffering from serious or repeated data breaches.\nTo that end, the maximum fines have been bumped up from the current AU$2.22 million to AU$50 million, 30% of an entity's adjusted turnover in the relevant period, or three times the value of any benefit obtained through the misuse of information,",
-          "link": "https://thehackernews.com/2022/11/australia-passes-bill-to-fine-companies.html",
-          "publishedOn": "2022-11-30T09:33:00.000Z",
-          "wordCount": null,
-          "title": "Australia Passes Bill to Fine Companies up to $50 Million for Data Breaches",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "tag:blogger.com,1999:blog-4802841478634147276.post-2059440828478775229",
-          "author": "noreply@blogger.com (Ravie Lakshmanan)",
-          "description": "Researchers have disclosed details of three new security vulnerabilities affecting operational technology (OT) products from CODESYS and Festo that could lead to source code tampering and denial-of-service (DoS).\nThe vulnerabilities, reported by Forescout Vedere Labs, are the latest in a long list of flaws collectively tracked under the name OT:ICEFALL.\n\"These issues exemplify either an",
-          "link": "https://thehackernews.com/2022/11/3-new-vulnerabilities-affect-ot.html",
-          "publishedOn": "2022-11-30T07:21:00.000Z",
-          "wordCount": null,
-          "title": "3 New Vulnerabilities Affect OT Products from German Companies Festo and CODESYS",
           "itunes": {},
           "imageUrl": null
         }

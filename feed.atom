@@ -2,10 +2,45 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-29T19:15:29.108Z</updated>
+    <updated>2022-12-30T02:15:15.575Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Security Update Guide Improvement – Representing Hotpatch Updates]]></title>
+        <id>https://msrc-blog.microsoft.com/?p=15230</id>
+        <link href="https://msrc-blog.microsoft.com/2022/12/29/security-update-guide-improvement-representing-hotpatch-updates/"/>
+        <updated>2022-12-29T21:21:27.000Z</updated>
+        <summary type="html"><![CDATA[Today we are updating the way Microsoft Security Update Guide (SUG) represents the Windows Hotpatch feature to make it easier for users to identify the hotpatch and security updates. Hotpatching was introduced a year ago as a new way to install updates on supported Windows Server Azure Edition virtual machines (VMs) without requiring a reboot …
+  Security Update Guide Improvement – Representing Hotpatch Updates Read More »]]></summary>
+        <author>
+            <name>Lisa Olson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CISA Adds Two Known Exploited Vulnerabilities to Catalog]]></title>
+        <id>18255 at https://us-cert.cisa.gov</id>
+        <link href="https://us-cert.cisa.gov/ncas/current-activity/2022/12/29/cisa-adds-two-known-exploited-vulnerabilities-catalog"/>
+        <updated>2022-12-29T20:39:16.000Z</updated>
+        <summary type="html"><![CDATA[Original release date: December 29, 2022
+CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities Catalog, based on evidence of active exploitation. These types of vulnerabilities are frequent attack vectors for malicious cyber actors and pose significant risks to the federal enterprise. Note: To view the newly added vulnerabilities in the catalog, click on the arrow in the "Date Added to Catalog" column, which will sort by descending dates.
+Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the Known Exploited Vulnerabilities Catalog as a living list of known CVEs that carry significant risk to the federal enterprise. BOD 22-01 requires FCEB agencies to remediate identified vulnerabilities by the due date to protect FCEB networks against active threats. See the BOD 22-01 Fact Sheet for more information.
+Although BOD 22-01 only applies to FCEB agencies, CISA strongly urges all organizations to reduce their exposure to cyberattacks by prioritizing timely remediation of Catalog vulnerabilities as part of their vulnerability management practice. CISA will continue to add vulnerabilities to the Catalog that meet the specified criteria.
+This product is provided subject to this Notification and this Privacy & Use policy.]]></summary>
+        <author>
+            <name>CISA</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[6 Ways to Protect Your Organization Against LAPSUS$]]></title>
+        <id>https://www.darkreading.com/microsoft/6-ways-to-protect-your-organization-against-lapsus-</id>
+        <link href="https://www.darkreading.com/microsoft/6-ways-to-protect-your-organization-against-lapsus-"/>
+        <updated>2022-12-29T19:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Businesses need to educate employees the type of social engineering attacks used by hacking group DEV-0537 (LAPSUS$) and strengthen their security posture.]]></summary>
+        <author>
+            <name>Microsoft Security, Microsoft</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[3 Industries, 3 Security Programs]]></title>
         <id>https://www.darkreading.com/edge-articles/3-industries-3-security-programs</id>
@@ -4350,62 +4385,6 @@ GoTo, formerly called LogMeIn, acquired LastPass]]></summary>
         <summary type="html"><![CDATA[The NSS Labs archive, available with free registration, consists of over 800 test reports, analyst briefs, and research published by NSS Labs from 2013 — 2020.]]></summary>
         <author>
             <name>Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Researchers Find a Way Malicious NPM Libraries Can Evade Vulnerability Detection]]></title>
-        <id>tag:blogger.com,1999:blog-4802841478634147276.post-8056144092460884058</id>
-        <link href="https://thehackernews.com/2022/11/researchers-find-way-malicious-npm.html"/>
-        <updated>2022-11-30T13:44:00.000Z</updated>
-        <summary type="html"><![CDATA[New findings from cybersecurity firm JFrog show that malware targeting the npm ecosystem can evade security checks by taking advantage of an "unexpected behavior" in the npm command line interface (CLI) tool.
-npm CLI's install and audit commands have built-in capabilities to check a package and all of its dependencies for known vulnerabilities, effectively acting as a warning mechanism for]]></summary>
-        <author>
-            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[This Malicious App Abused Hacked Devices to Create Fake Accounts on Multiple Platforms]]></title>
-        <id>tag:blogger.com,1999:blog-4802841478634147276.post-7085289407152678853</id>
-        <link href="https://thehackernews.com/2022/11/this-malicious-app-abused-hacked.html"/>
-        <updated>2022-11-30T12:15:00.000Z</updated>
-        <summary type="html"><![CDATA[A malicious Android SMS application found on the Google Play Store has been found to stealthily harvest text messages with the goal of creating accounts on a wide range of platforms like Facebook, Google, and WhatsApp.
-The app, named Symoo (com.vanjan.sms), had over 100,000 downloads and functioned as a relay for transmitting messages to a server, which advertises an account creation service.]]></summary>
-        <author>
-            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[French Electricity Provider Fined for Storing Users’ Passwords with Weak MD5 Algorithm]]></title>
-        <id>tag:blogger.com,1999:blog-4802841478634147276.post-2632210209266980100</id>
-        <link href="https://thehackernews.com/2022/11/french-electricity-provider-fined-for.html"/>
-        <updated>2022-11-30T11:57:00.000Z</updated>
-        <summary type="html"><![CDATA[The French data protection watchdog on Tuesday fined electricity provider Électricité de France €600,000 for violating the European Union General Data Protection Regulation (GDPR) requirements.
-The Commission nationale de l'informatique et des libertés (CNIL) said the electric utility breached European regulation by storing the passwords for over 25,800 accounts by hashing them using the MD5]]></summary>
-        <author>
-            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Australia Passes Bill to Fine Companies up to $50 Million for Data Breaches]]></title>
-        <id>tag:blogger.com,1999:blog-4802841478634147276.post-5010801043050608803</id>
-        <link href="https://thehackernews.com/2022/11/australia-passes-bill-to-fine-companies.html"/>
-        <updated>2022-11-30T09:33:00.000Z</updated>
-        <summary type="html"><![CDATA[The Australian government has passed a bill that markedly increases the penalty for companies suffering from serious or repeated data breaches.
-To that end, the maximum fines have been bumped up from the current AU$2.22 million to AU$50 million, 30% of an entity's adjusted turnover in the relevant period, or three times the value of any benefit obtained through the misuse of information,]]></summary>
-        <author>
-            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[3 New Vulnerabilities Affect OT Products from German Companies Festo and CODESYS]]></title>
-        <id>tag:blogger.com,1999:blog-4802841478634147276.post-2059440828478775229</id>
-        <link href="https://thehackernews.com/2022/11/3-new-vulnerabilities-affect-ot.html"/>
-        <updated>2022-11-30T07:21:00.000Z</updated>
-        <summary type="html"><![CDATA[Researchers have disclosed details of three new security vulnerabilities affecting operational technology (OT) products from CODESYS and Festo that could lead to source code tampering and denial-of-service (DoS).
-The vulnerabilities, reported by Forescout Vedere Labs, are the latest in a long list of flaws collectively tracked under the name OT:ICEFALL.
-"These issues exemplify either an]]></summary>
-        <author>
-            <name>noreply@blogger.com (Ravie Lakshmanan)</name>
         </author>
     </entry>
     <entry>
