@@ -310,6 +310,66 @@
       "siteUrl": "https://www.darkreading.com",
       "articles": [
         {
+          "id": "https://www.darkreading.com/dr-tech/api-security-is-the-new-black",
+          "author": "Jonathan Care, Contributing Writer, Dark Reading",
+          "description": "API security is so hot right now.",
+          "link": "https://www.darkreading.com/dr-tech/api-security-is-the-new-black",
+          "publishedOn": "2022-12-30T17:00:00.000Z",
+          "wordCount": 14207,
+          "title": "API Security Is the New Black",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt532ad4044b254ce3/62c7050c96e0c6712ea6e3d1/jonathan-care.jpg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt532ad4044b254ce3/62c7050c96e0c6712ea6e3d1/jonathan-care.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/attacks-breaches/war-and-geopolitical-conflict-the-new-battleground-for-ddos-attacks",
+          "author": "Gary Sockrider, Director, Security Solutions, Netscout",
+          "description": "The effectiveness of attacks largely depends on organizations' distributed denial-of-service defenses.",
+          "link": "https://www.darkreading.com/attacks-breaches/war-and-geopolitical-conflict-the-new-battleground-for-ddos-attacks",
+          "publishedOn": "2022-12-30T15:00:00.000Z",
+          "wordCount": 13661,
+          "title": "War and Geopolitical Conflict: The New Battleground for DDoS Attacks",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt5a54a542e09a80a8/63a5b9bb5b37da1ce63c9853/Gary_Sockrider.jpg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt5a54a542e09a80a8/63a5b9bb5b37da1ce63c9853/Gary_Sockrider.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/edge-threat-monitor/adobe-apple-cisco-microsoft-flaws-make-up-half-of-kev-catalog",
+          "author": "Fahmida Y. Rashid, Managing Editor, Features, Dark Reading",
+          "description": "CISA’s Known Exploited Vulnerabilities Catalog has become a valuable repository of vulnerabilities to be patched. A pair of reports analyze the vulnerabilities under attack to understand the kind of threats organizations should be prioritizing.",
+          "link": "https://www.darkreading.com/edge-threat-monitor/adobe-apple-cisco-microsoft-flaws-make-up-half-of-kev-catalog",
+          "publishedOn": "2022-12-30T14:50:00.000Z",
+          "wordCount": 12662,
+          "title": "Adobe, Apple, Cisco, Microsoft Flaws Make Up Half of KEV Catalog",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt93784ffee79538e7/60d4371522d24e38a3806ecf/fahmida.png",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt93784ffee79538e7/60d4371522d24e38a3806ecf/fahmida.png"
+        },
+        {
+          "id": "https://www.darkreading.com/attacks-breaches/boldest-cybersecurity-predictions-2023",
+          "author": "Tara Seals, Managing Editor, News, Dark Reading",
+          "description": "Dark Reading's panel of security experts deliver a magnum of bubbly hot takes on what 2023 will look like, featuring evil AIs, WWIII, wild workplace soon-to-be-norms, and more.",
+          "link": "https://www.darkreading.com/attacks-breaches/boldest-cybersecurity-predictions-2023",
+          "publishedOn": "2022-12-30T14:00:00.000Z",
+          "wordCount": 17435,
+          "title": "Beyond the Obvious: The Boldest Cybersecurity Predictions for 2023",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltea67136f81f32eca/626a9eb4726e3315b16b3c64/Tara-Seals-Headshot2.jpg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltea67136f81f32eca/626a9eb4726e3315b16b3c64/Tara-Seals-Headshot2.jpg"
+        },
+        {
           "id": "https://www.darkreading.com/microsoft/6-ways-to-protect-your-organization-against-lapsus-",
           "author": "Microsoft Security, Microsoft",
           "description": "Businesses need to educate employees the type of social engineering attacks used by hacking group DEV-0537 (LAPSUS$) and strengthen their security posture.",
@@ -3038,21 +3098,6 @@
           "wordCount": 11733,
           "title": "Phylum Expands Its Software Supply Chain Security Capabilities, Introduces Automated Vulnerability Reachability",
           "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
-        },
-        {
-          "id": "https://www.darkreading.com/dr-tech/ci-fuzz-cli-brings-fuzz-testing-to-java-applications",
-          "author": "Dark Reading Staff, Dark Reading",
-          "description": "CI Fuzz CLI, the open source fuzzing tool with just three commands, integrates fuzz testing directly into the software development workflow.",
-          "link": "https://www.darkreading.com/dr-tech/ci-fuzz-cli-brings-fuzz-testing-to-java-applications",
-          "publishedOn": "2022-12-01T02:00:00.000Z",
-          "wordCount": 10828,
-          "title": "CI Fuzz CLI Brings Fuzz Testing to Java Applications",
-          "enclosure": {
-            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blte161b23f0fd3a84b/60b1ea374e7eb868c4c6a293/dr_staff_125x125.jpg",
-            "type": "image/*",
-            "length": "0"
-          },
-          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blte161b23f0fd3a84b/60b1ea374e7eb868c4c6a293/dr_staff_125x125.jpg"
         }
       ]
     },
@@ -3117,6 +3162,16 @@
       "feedUrl": "https://blog.knowbe4.com/rss.xml",
       "siteUrl": "https://blog.knowbe4.com",
       "articles": [
+        {
+          "id": "https://blog.knowbe4.com/your-knowbe4-fresh-content-updates-from-december-2022",
+          "author": "Stu Sjouwerman",
+          "description": "Check out the 36 new pieces of training content added in December, alongside the always fresh content update highlights and new features.",
+          "link": "https://blog.knowbe4.com/your-knowbe4-fresh-content-updates-from-december-2022",
+          "publishedOn": "2022-12-30T14:21:35.000Z",
+          "wordCount": 2448,
+          "title": "Your KnowBe4 Fresh Content Updates from December 2022",
+          "imageUrl": "https://blog.knowbe4.com/hubfs/content-update-total.jpg#keepProtocol"
+        },
         {
           "id": "https://blog.knowbe4.com/phishing-activity-rose-130-in-the-second-half-of-2022-representing-three-quarters-of-all-email-based-attacks",
           "author": "Stu Sjouwerman",
