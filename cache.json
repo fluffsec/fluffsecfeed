@@ -261,16 +261,6 @@
           "wordCount": 967,
           "title": "#StopRansomware: Cuba Ransomware",
           "imageUrl": null
-        },
-        {
-          "id": "18184 at https://us-cert.cisa.gov",
-          "author": "CISA",
-          "description": "Original release date: December 1, 2022\nCISA has released three (3) Industrial Control Systems (ICS) advisories on December 1, 2022. These advisories provide timely information about current security issues, vulnerabilities, and exploits surrounding ICS.\nCISA encourages users and administrators to review the newly released ICS advisories for technical details and mitigations:\n•    ICSMA-22-335-01 BD BodyGuard Pumps\nMELSEC iQ-R Series\nHorner Automation Remote Compact Controller\nThis product is provided subject to this Notification and this Privacy & Use policy.",
-          "link": "https://us-cert.cisa.gov/ncas/current-activity/2022/12/01/cisa-releases-three-industrial-control-systems-advisories",
-          "publishedOn": "2022-12-01T12:18:52.000Z",
-          "wordCount": 889,
-          "title": "CISA Releases Three Industrial Control Systems Advisories",
-          "imageUrl": null
         }
       ]
     },
@@ -3078,26 +3068,6 @@
           "wordCount": 11368,
           "title": "Guidehouse Insights Anticipates Market for Automotive Cybersecurity Solutions Will Grow to More Than $445 Billion by 2031",
           "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
-        },
-        {
-          "id": "https://www.darkreading.com/threat-intelligence/cyberratings-org-announces-results-from-first-of-its-kind-comparative-test-on-cloud-network-firewall",
-          "author": null,
-          "description": "Ratings ranged from AAA to CC, with security effectiveness scores from 27% to 100%.",
-          "link": "https://www.darkreading.com/threat-intelligence/cyberratings-org-announces-results-from-first-of-its-kind-comparative-test-on-cloud-network-firewall",
-          "publishedOn": "2022-12-01T14:09:18.000Z",
-          "wordCount": 11247,
-          "title": "CyberRatings.org Announces Results from First-of-its-Kind Comparative Test on Cloud Network Firewall",
-          "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
-        },
-        {
-          "id": "https://www.darkreading.com/vulnerabilities-threats/phylum-expands-its-software-supply-chain-security-capabilities-introduces-automated-vulnerability-reachability",
-          "author": null,
-          "description": "Know what you need to fix today and what you don’t.",
-          "link": "https://www.darkreading.com/vulnerabilities-threats/phylum-expands-its-software-supply-chain-security-capabilities-introduces-automated-vulnerability-reachability",
-          "publishedOn": "2022-12-01T14:04:11.000Z",
-          "wordCount": 11733,
-          "title": "Phylum Expands Its Software Supply Chain Security Capabilities, Introduces Automated Vulnerability Reachability",
-          "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
         }
       ]
     },
@@ -3162,6 +3132,26 @@
       "feedUrl": "https://blog.knowbe4.com/rss.xml",
       "siteUrl": "https://blog.knowbe4.com",
       "articles": [
+        {
+          "id": "https://blog.knowbe4.com/finance-and-insurance-is-the-sector-most-impacted-by-data-breaches-in-2022",
+          "author": "Stu Sjouwerman",
+          "description": "Analysis of the year’s breaches shows Finance and Insurance businesses are the most targeted and have lost a material count of records as a result.",
+          "link": "https://blog.knowbe4.com/finance-and-insurance-is-the-sector-most-impacted-by-data-breaches-in-2022",
+          "publishedOn": "2022-12-30T19:40:01.000Z",
+          "wordCount": 2198,
+          "title": "Finance and Insurance Is the Sector Most Impacted by Data Breaches In 2022",
+          "imageUrl": "https://blog.knowbe4.com/hubfs/Callback%20Phishing%20Campaigns.jpg#keepProtocol"
+        },
+        {
+          "id": "https://blog.knowbe4.com/one-out-of-10-threats-still-make-it-all-the-way-to-the-endpoint",
+          "author": "Stu Sjouwerman",
+          "description": "Despite good intentions, layered security measures, and efficacy claims by security solution vendors, new data shows that email-based threats are still getting all the way to the Inbox.",
+          "link": "https://blog.knowbe4.com/one-out-of-10-threats-still-make-it-all-the-way-to-the-endpoint",
+          "publishedOn": "2022-12-30T19:34:39.000Z",
+          "wordCount": 2241,
+          "title": "One Out of 10 Threats Still Make It All the Way to the Endpoint",
+          "imageUrl": "https://blog.knowbe4.com/hubfs/Phishing%20for%20Feds.jpg#keepProtocol"
+        },
         {
           "id": "https://blog.knowbe4.com/your-knowbe4-fresh-content-updates-from-december-2022",
           "author": "Stu Sjouwerman",
@@ -5527,72 +5517,6 @@
           "publishedOn": "2022-12-01T14:32:00.000Z",
           "wordCount": null,
           "title": "Google Accuses Spanish Spyware Vendor of Exploiting Chrome, Firefox, & Windows Zero-Days",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "tag:blogger.com,1999:blog-4802841478634147276.post-4460268243478202297",
-          "author": "noreply@blogger.com (Ravie Lakshmanan)",
-          "description": "Medibank on Thursday confirmed that the threat actors behind the devastating cyber attack have posted another dump of data stolen from its systems on the dark web after its refusal to pay a ransom.\n\"We are in the process of analyzing the data, but the data released appears to be the data we believed the criminal stole,\" the Australian health insurer said.\n\"While our investigation continues there",
-          "link": "https://thehackernews.com/2022/12/hackers-leak-another-set-of-medibank.html",
-          "publishedOn": "2022-12-01T13:17:00.000Z",
-          "wordCount": null,
-          "title": "Hackers Leak Another Set of Medibank Customer Data on the Dark Web",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "tag:blogger.com,1999:blog-4802841478634147276.post-7461934099736628688",
-          "author": "noreply@blogger.com (Ravie Lakshmanan)",
-          "description": "A critical security vulnerability has been disclosed in the Quarkus Java framework that could be potentially exploited to achieve remote code execution on affected systems.\nTracked as CVE-2022-4116 (CVSS score: 9.8), the shortcoming could be trivially abused by a malicious actor without any privileges.\n\"The vulnerability is found in the Dev UI Config Editor, which is vulnerable to drive-by",
-          "link": "https://thehackernews.com/2022/12/researchers-disclose-critical-rce.html",
-          "publishedOn": "2022-12-01T11:44:00.000Z",
-          "wordCount": null,
-          "title": "Researchers Disclose Critical RCE Vulnerability Affecting Quarkus Java Framework",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "tag:blogger.com,1999:blog-4802841478634147276.post-1337763906490741492",
-          "author": "noreply@blogger.com (The Hacker News)",
-          "description": "Today's threat landscape is constantly evolving, and now more than ever, organizations and businesses in every sector have a critical need to consistently produce and maintain secure software. While some verticals - like the finance industry, for example - have been subject to regulatory and compliance requirements for some time, we are seeing a steady increase in attention on cybersecurity best",
-          "link": "https://thehackernews.com/2022/12/what-developers-need-to-fight-battle.html",
-          "publishedOn": "2022-12-01T11:13:00.000Z",
-          "wordCount": null,
-          "title": "What Developers Need to Fight the Battle Against Common Vulnerabilities",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "tag:blogger.com,1999:blog-4802841478634147276.post-3830806232602760308",
-          "author": "noreply@blogger.com (Ravie Lakshmanan)",
-          "description": "More than 300,000 users across 71 countries have been victimized by a new Android threat campaign called the Schoolyard Bully Trojan.\nMainly designed to steal Facebook credentials, the malware is camouflaged as legitimate education-themed applications to lure unsuspecting users into downloading them.\nThe apps, which were available for download from the official Google Play Store, have now been",
-          "link": "https://thehackernews.com/2022/12/schoolyard-bully-trojan-apps-stole.html",
-          "publishedOn": "2022-12-01T10:07:00.000Z",
-          "wordCount": null,
-          "title": "Schoolyard Bully Trojan Apps Stole Facebook Credentials from Over 300,000 Android Users",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "tag:blogger.com,1999:blog-4802841478634147276.post-1438896041287185193",
-          "author": "noreply@blogger.com (Ravie Lakshmanan)",
-          "description": "An ongoing analysis into an up-and-coming cryptocurrency mining botnet known as KmsdBot has led to it being accidentally taken down.\nKmsdBot, as christened by the Akamai Security Intelligence Response Team (SIRT), came to light mid-November 2022 for its ability to brute-force systems with weak SSH credentials.\nThe botnet strikes both Windows and Linux devices spanning a wide range of",
-          "link": "https://thehackernews.com/2022/12/researchers-accidentally-crashed.html",
-          "publishedOn": "2022-12-01T09:48:00.000Z",
-          "wordCount": null,
-          "title": "Researchers 'Accidentally’ Crash KmsdBot Cryptocurrency Mining Botnet Network",
-          "itunes": {},
-          "imageUrl": null
-        },
-        {
-          "id": "tag:blogger.com,1999:blog-4802841478634147276.post-3599957584546412339",
-          "author": "noreply@blogger.com (Ravie Lakshmanan)",
-          "description": "Popular password management service LastPass said it's investigating a second security incident that involved attackers accessing some of its customer information.\n\"We recently detected unusual activity within a third-party cloud storage service, which is currently shared by both LastPass and its affiliate, GoTo,\" LastPass CEO Karim Toubba said.\nGoTo, formerly called LogMeIn, acquired LastPass",
-          "link": "https://thehackernews.com/2022/12/lastpass-suffers-another-security.html",
-          "publishedOn": "2022-12-01T09:35:00.000Z",
-          "wordCount": null,
-          "title": "LastPass Suffers Another Security Breach; Exposed Some Customers Information",
           "itunes": {},
           "imageUrl": null
         }
