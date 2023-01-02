@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-02T07:17:59.991Z</updated>
+    <updated>2023-01-02T13:24:47.138Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[WordPress Security Alert: New Linux Malware Exploiting Over Two Dozen CMS Flaws]]></title>
+        <id>https://thehackernews.com/2023/01/wordpress-security-alert-new-linux.html</id>
+        <link href="https://thehackernews.com/2023/01/wordpress-security-alert-new-linux.html"/>
+        <updated>2023-01-02T07:50:00.000Z</updated>
+        <summary type="html"><![CDATA[WordPress sites are being targeted by a previously unknown strain of Linux malware that exploits flaws in over two dozen plugins and themes to compromise vulnerable systems.
+"If sites use outdated versions of such add-ons, lacking crucial fixes, the targeted web pages are injected with malicious JavaScripts," Russian security vendor Doctor Web said in a report published last week. "As a result,]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Google to Pay $29.5 Million to Settle Lawsuits Over User Location Tracking]]></title>
         <id>https://thehackernews.com/2023/01/google-to-pay-295-million-to-settle.html</id>
