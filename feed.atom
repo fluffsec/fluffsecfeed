@@ -2,10 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-02T13:24:47.138Z</updated>
+    <updated>2023-01-02T19:15:08.261Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[RedZei Chinese Scammers Targeting Chinese Students in the U.K.]]></title>
+        <id>https://thehackernews.com/2023/01/redzei-chinese-scammers-targeting.html</id>
+        <link href="https://thehackernews.com/2023/01/redzei-chinese-scammers-targeting.html"/>
+        <updated>2023-01-02T16:10:00.000Z</updated>
+        <summary type="html"><![CDATA[Chinese international students in the U.K. have been targeted by persistent Chinese-speaking scammers for over a year as part of an activity dubbed RedZei (aka RedThief).
+"The RedZei fraudsters have chosen their targets carefully, researched them and realized it was a rich victim group that is ripe for exploitation," cybersecurity researcher Will Thomas (@BushidoToken) said in a write-up]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PyTorch Machine Learning Framework Compromised with Malicious Dependency]]></title>
+        <id>https://thehackernews.com/2023/01/pytorch-machine-learning-framework.html</id>
+        <link href="https://thehackernews.com/2023/01/pytorch-machine-learning-framework.html"/>
+        <updated>2023-01-02T14:27:00.000Z</updated>
+        <summary type="html"><![CDATA[The maintainers of the PyTorch package have warned users who have installed the nightly builds of the library between December 25, 2022, and December 30, 2022, to uninstall and download the latest versions following a dependency confusion attack.
+"PyTorch-nightly Linux packages installed via pip during that time installed a dependency, torchtriton, which was compromised on the Python Package]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[WordPress Security Alert: New Linux Malware Exploiting Over Two Dozen CMS Flaws]]></title>
         <id>https://thehackernews.com/2023/01/wordpress-security-alert-new-linux.html</id>
