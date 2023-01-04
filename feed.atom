@@ -2,10 +2,39 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-03T19:15:50.154Z</updated>
+    <updated>2023-01-04T02:18:05.966Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[2023 Will See Renewed Focus on Quantum Computing]]></title>
+        <id>https://www.darkreading.com/tech-trends/2023-will-see-more-focus-on-quantum-computing</id>
+        <link href="https://www.darkreading.com/tech-trends/2023-will-see-more-focus-on-quantum-computing"/>
+        <updated>2023-01-04T00:51:00.000Z</updated>
+        <summary type="html"><![CDATA[Adopting post-quantum cryptography is something that has been discussed for years; it's time for organizations to get to work.]]></summary>
+        <author>
+            <name>Dark Reading Staff, Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cyberattackers Torch Python Machine Learning Project]]></title>
+        <id>https://www.darkreading.com/application-security/cyberattackers-torch-python-machine-learning-project</id>
+        <link href="https://www.darkreading.com/application-security/cyberattackers-torch-python-machine-learning-project"/>
+        <updated>2023-01-03T21:25:36.000Z</updated>
+        <summary type="html"><![CDATA[The popular PyTorch Python project for data scientists and machine learning developers has become the latest open source project to be targeted with a dependency confusion attack.]]></summary>
+        <author>
+            <name>Robert Lemos, Contributing Writer, Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[C2A Security To Showcase Automotive Cybersecurity DevOps Platform at CES In Las Vegas, January 5-8]]></title>
+        <id>https://www.darkreading.com/attacks-breaches/c2a-security-to-showcase-automotive-cybersecurity-devops-platform-at-ces-in-las-vegas-january-5-8</id>
+        <link href="https://www.darkreading.com/attacks-breaches/c2a-security-to-showcase-automotive-cybersecurity-devops-platform-at-ces-in-las-vegas-january-5-8"/>
+        <updated>2023-01-03T20:20:00.000Z</updated>
+        <author>
+            <name>Dark Reading</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[WordPress Sites Under Attack from Newly Found Linux Trojan]]></title>
         <id>https://www.darkreading.com/attacks-breaches/wordpress-under-attack-from-new-linux-backdoor-malware</id>
@@ -14,6 +43,16 @@
         <summary type="html"><![CDATA[Researchers who discovered the backdoor Linux malware say it may have been around for more than three years — and it targets 30+ plugin bugs.]]></summary>
         <author>
             <name>Dark Reading Staff, Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Holiday Spirit? LockBit Gives Children's Hospital Free Decryptor]]></title>
+        <id>https://www.darkreading.com/attacks-breaches/holiday-spirit-lockbit-children-s-hospital-free-decryptor</id>
+        <link href="https://www.darkreading.com/attacks-breaches/holiday-spirit-lockbit-children-s-hospital-free-decryptor"/>
+        <updated>2023-01-03T18:58:00.000Z</updated>
+        <summary type="html"><![CDATA[The Russian-speaking cybercrime gang said an affiliate violated its rules against attacks that could lead to bodily harm for medical patients.]]></summary>
+        <author>
+            <name>Tara Seals, Managing Editor, News, Dark Reading</name>
         </author>
     </entry>
     <entry>
@@ -3929,93 +3968,6 @@ This product is provided subject to this Notification and this Privacy & Use pol
         <summary type="html"><![CDATA[As ransomware's prevalence has grown over the past decade, leading ransomware groups such as Conti have added services and features as part of a growing trend toward professionalization.]]></summary>
         <author>
             <name>Nathan Eddy, Contributing Writer, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Malware Authors Inadvertently Take Down Own Botnet]]></title>
-        <id>https://www.darkreading.com/attacks-breaches/malware-authors-inadvertently-takdown-own-botnet</id>
-        <link href="https://www.darkreading.com/attacks-breaches/malware-authors-inadvertently-takdown-own-botnet"/>
-        <updated>2022-12-05T14:04:23.000Z</updated>
-        <summary type="html"><![CDATA[A single improperly formatted command has effectively killed KmsdBot botnet, security vendor says.]]></summary>
-        <author>
-            <name>Jai Vijayan, Contributing Writer, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New BMC Supply Chain Vulnerabilities Affect Servers from Dozens of Manufacturers]]></title>
-        <id>https://thehackernews.com/2022/12/new-bmc-supply-chain-vulnerabilities.html</id>
-        <link href="https://thehackernews.com/2022/12/new-bmc-supply-chain-vulnerabilities.html"/>
-        <updated>2022-12-05T14:02:00.000Z</updated>
-        <summary type="html"><![CDATA[Three different security flaws have been disclosed in American Megatrends (AMI) MegaRAC Baseboard Management Controller (BMC) software that could lead to remote code execution on vulnerable servers.
-"The impact of exploiting these vulnerabilities include remote control of compromised servers, remote deployment of malware, ransomware and firmware implants, and server physical damage (bricking),"]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Credential Phishing with Apple Gift Card Lures]]></title>
-        <id>https://blog.knowbe4.com/credential-phishing-with-apple-gift-card-lures</id>
-        <link href="https://blog.knowbe4.com/credential-phishing-with-apple-gift-card-lures"/>
-        <updated>2022-12-05T13:57:57.000Z</updated>
-        <summary type="html"><![CDATA[A phishing campaign is impersonating Apple and informing the user that their Apple account has been suspended due to an invalid payment method, according to researchers at Armorblox.]]></summary>
-        <author>
-            <name>Stu Sjouwerman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Russian Courts Targeted by New CryWiper Data Wiper Malware Posing as Ransomware]]></title>
-        <id>https://thehackernews.com/2022/12/russian-courts-targeted-by-new-crywiper.html</id>
-        <link href="https://thehackernews.com/2022/12/russian-courts-targeted-by-new-crywiper.html"/>
-        <updated>2022-12-05T12:24:00.000Z</updated>
-        <summary type="html"><![CDATA[A new data wiper malware called CryWiper has been found targeting Russian government agencies, including mayor's offices and courts.
-"Although it disguises itself as a ransomware and extorts money from the victim for 'decrypting' data, [it] does not actually encrypt, but purposefully destroys data in the affected system," Kaspersky researchers Fedor Sinitsyn and Janis Zinchenko said in a]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[When Being Attractive Gets Risky - How Does Your Attack Surface Look to an Attacker?]]></title>
-        <id>https://thehackernews.com/2022/12/when-being-attractive-gets-risky-how.html</id>
-        <link href="https://thehackernews.com/2022/12/when-being-attractive-gets-risky-how.html"/>
-        <updated>2022-12-05T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In the era of digitization and ever-changing business needs, the production environment has become a living organism. Multiple functions and teams within an organization can ultimately impact the way an attacker sees the organization's assets, or in other words, the external attack surface. This dramatically increases the need to define an exposure management strategy.
-To keep up with business]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SiriusXM Vulnerability Lets Hackers Remotely Unlock and Start Connected Cars]]></title>
-        <id>https://thehackernews.com/2022/12/siriusxm-vulnerability-lets-hackers.html</id>
-        <link href="https://thehackernews.com/2022/12/siriusxm-vulnerability-lets-hackers.html"/>
-        <updated>2022-12-05T11:08:00.000Z</updated>
-        <summary type="html"><![CDATA[Cybersecurity researchers have discovered a security vulnerability that exposes cars from Honda, Nissan, Infiniti, and Acura to remote attacks through a connected vehicle service provided by SiriusXM.
-The issue could be exploited to unlock, start, locate, and honk any car in an unauthorized manner just by knowing the vehicle's vehicle identification number (VIN), researcher Sam Curry said in a]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[North Korean Hackers Spread AppleJeus Malware Disguised as Cryptocurrency Apps]]></title>
-        <id>https://thehackernews.com/2022/12/north-korean-hackers-spread-applejeus.html</id>
-        <link href="https://thehackernews.com/2022/12/north-korean-hackers-spread-applejeus.html"/>
-        <updated>2022-12-05T10:30:00.000Z</updated>
-        <summary type="html"><![CDATA[The Lazarus Group threat actor has been observed leveraging fake cryptocurrency apps as a lure to deliver a previously undocumented version of the AppleJeus malware, according to new findings from Volexity.
-"This activity notably involves a campaign likely targeting cryptocurrency users and organizations with a variant of the AppleJeus malware by way of malicious Microsoft Office documents,"]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Critical Ping Vulnerability Allows Remote Attackers to Take Over FreeBSD Systems]]></title>
-        <id>https://thehackernews.com/2022/12/critical-ping-vulnerability-allows.html</id>
-        <link href="https://thehackernews.com/2022/12/critical-ping-vulnerability-allows.html"/>
-        <updated>2022-12-05T07:40:00.000Z</updated>
-        <summary type="html"><![CDATA[The maintainers of the FreeBSD operating system have released updates to remediate a security vulnerability impacting the ping module that could be potentially exploited to crash the program or trigger remote code execution.
-The issue, assigned the identifier CVE-2022-23093, impacts all supported versions of FreeBSD and concerns a stack-based buffer overflow vulnerability in the ping service.
-"]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
         </author>
     </entry>
     <entry>
