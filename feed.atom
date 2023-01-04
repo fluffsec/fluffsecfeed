@@ -2,10 +2,111 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-04T13:25:44.751Z</updated>
+    <updated>2023-01-04T19:18:40.889Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[What Are Some Ways to Make APIs More Secure?]]></title>
+        <id>https://www.darkreading.com/edge-ask-the-experts/what-are-some-ways-to-make-apis-more-secure-</id>
+        <link href="https://www.darkreading.com/edge-ask-the-experts/what-are-some-ways-to-make-apis-more-secure-"/>
+        <updated>2023-01-04T18:33:00.000Z</updated>
+        <summary type="html"><![CDATA[Developers should go beyond the basics to make it harder to exploit the API.]]></summary>
+        <author>
+            <name>Rory Blundell, CEO, Gravitee</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Effective and Efficient Automation for Security Teams]]></title>
+        <id>https://www.darkreading.com/dr-tech/effective-and-efficient-automation-for-security-teams</id>
+        <link href="https://www.darkreading.com/dr-tech/effective-and-efficient-automation-for-security-teams"/>
+        <updated>2023-01-04T18:27:00.000Z</updated>
+        <summary type="html"><![CDATA[Even very short tasks may be worth automating if you do them frequently. Here's how to decide what to tackle first.]]></summary>
+        <author>
+            <name>Bob Bregant II, Co-founder &amp; COO, OpsHelm</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Live Demo] Ridiculously Easy Security Awareness Training and Phishing]]></title>
+        <id>https://blog.knowbe4.com/live-demo-security-awareness-training-and-phishing</id>
+        <link href="https://blog.knowbe4.com/live-demo-security-awareness-training-and-phishing"/>
+        <updated>2023-01-04T17:48:31.000Z</updated>
+        <summary type="html"><![CDATA[Old-school awareness training does not hack it anymore. Your email filters have an average 7-10% failure rate; you need a strong human firewall as your last line of defense.]]></summary>
+        <author>
+            <name>Stu Sjouwerman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CORL Technologies Introduces Proactive Third-Party Incident Response Solution for Healthcare]]></title>
+        <id>https://www.darkreading.com/attacks-breaches/corl-technologies-introduces-proactive-third-party-incident-response-solution-for-healthcare</id>
+        <link href="https://www.darkreading.com/attacks-breaches/corl-technologies-introduces-proactive-third-party-incident-response-solution-for-healthcare"/>
+        <updated>2023-01-04T16:29:00.000Z</updated>
+        <author>
+            <name>Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BitRat Malware Gnaws at Victims With Bank Heist Data]]></title>
+        <id>https://www.darkreading.com/attacks-breaches/bitrat-malware-victims-bank-heist-data</id>
+        <link href="https://www.darkreading.com/attacks-breaches/bitrat-malware-victims-bank-heist-data"/>
+        <updated>2023-01-04T15:46:00.000Z</updated>
+        <summary type="html"><![CDATA[Attackers have compromised a Colombian financial institution and are using a bevy of leaked customer details in further malicious activity to spread an info-gathering remote access Trojan (RAT).]]></summary>
+        <author>
+            <name>Elizabeth Montalbano, Contributor, Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fortinet Releases Security Updates for FortiADC]]></title>
+        <id>18257 at https://us-cert.cisa.gov</id>
+        <link href="https://us-cert.cisa.gov/ncas/current-activity/2023/01/04/fortinet-releases-security-updates-fortiadc"/>
+        <updated>2023-01-04T15:35:00.000Z</updated>
+        <summary type="html"><![CDATA[Original release date: January 4, 2023
+Fortinet has released a security advisory to address a vulnerability in multiple versions of FortiADC. This vulnerability may allow a remote attacker “to execute unauthorized code or commands via specifically crafted HTTP requests.”
+CISA encourages users and administrators to review Fortinet security advisory FG-IR-22-061 and apply the recommended updates.
+This product is provided subject to this Notification and this Privacy & Use policy.]]></summary>
+        <author>
+            <name>CISA</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Understanding Infrastructure-as-Code Risks in the Cloud]]></title>
+        <id>https://www.darkreading.com/cloud/understanding-infrastructure-as-code-risks-in-the-cloud</id>
+        <link href="https://www.darkreading.com/cloud/understanding-infrastructure-as-code-risks-in-the-cloud"/>
+        <updated>2023-01-04T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Improve overall IT administration and establish a framework to identify misconfigurations and automate the process of checking IaC before it makes it into the production environment.]]></summary>
+        <author>
+            <name>Igal Gofman, Head of Research, Ermetic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CyberheistNews Vol 13 #01 [Heads Up] Giant LastPass Breach Can Supercharge Spear Phishing Attacks]]></title>
+        <id>https://blog.knowbe4.com/cyberheistnews-vol-13-01-heads-up-giant-lastpass-breach-can-supercharge-spear-phishing-attacks</id>
+        <link href="https://blog.knowbe4.com/cyberheistnews-vol-13-01-heads-up-giant-lastpass-breach-can-supercharge-spear-phishing-attacks"/>
+        <updated>2023-01-04T14:30:00.000Z</updated>
+        <summary type="html"><![CDATA[CyberheistNews Vol 13 #01 [Heads Up] Giant LastPass Breach Can Supercharge Spear Phishing Attacks]]></summary>
+        <author>
+            <name>Stu Sjouwerman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Insights On the Mobile Biometrics Global Market To 2028 - Increase In Platforms Using Biometric Authentication Drives Growth]]></title>
+        <id>https://www.darkreading.com/endpoint/insights-on-the-mobile-biometrics-global-market-to-2028---increase-in-platforms-using-biometric-authentication-drives-growth</id>
+        <link href="https://www.darkreading.com/endpoint/insights-on-the-mobile-biometrics-global-market-to-2028---increase-in-platforms-using-biometric-authentication-drives-growth"/>
+        <updated>2023-01-04T14:25:00.000Z</updated>
+        <author>
+            <name>Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Using AI Large Language Models to Craft Phishing Campaigns]]></title>
+        <id>https://blog.knowbe4.com/using-ai-large-language-models-to-craft-phishing-campaigns</id>
+        <link href="https://blog.knowbe4.com/using-ai-large-language-models-to-craft-phishing-campaigns"/>
+        <updated>2023-01-04T13:41:49.000Z</updated>
+        <summary type="html"><![CDATA[Researchers at Check Point have shown that Large Language Models (LLMs) like OpenAI’s ChatGPT can be used to generate entire infection chains, beginning with a spear phishing email. The publicly available AI can be asked to write a targeted phishing email with perfect grammar. The researchers generated two emails, one of which directed the recipient to click on a link. The other email asked the user to download a malicious document.]]></summary>
+        <author>
+            <name>Stu Sjouwerman</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Qualcomm Chipsets and Lenovo BIOS Get Security Updates to Fix Multiple Flaws]]></title>
         <id>https://thehackernews.com/2023/01/qualcomm-chipsets-and-lenovo-bios-get.html</id>
@@ -3887,17 +3988,6 @@ According to a recent RSM survey, 62% of mid-market companies believe they are a
         <summary type="html"><![CDATA[A persistent intrusion campaign has set its eyes on telecommunications and business process outsourcing (BPO) companies at lease since June 2022.
 "The end objective of this campaign appears to be to gain access to mobile carrier networks and, as evidenced in two investigations, perform SIM swapping activity," CrowdStrike researcher Tim Parisi said in an analysis published last week.
 The]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Open Source Ransomware Toolkit Cryptonite Turns Into Accidental Wiper Malware]]></title>
-        <id>https://thehackernews.com/2022/12/open-source-ransomware-toolkit.html</id>
-        <link href="https://thehackernews.com/2022/12/open-source-ransomware-toolkit.html"/>
-        <updated>2022-12-06T06:11:00.000Z</updated>
-        <summary type="html"><![CDATA[A version of an open source ransomware toolkit called Cryptonite has been observed in the wild with wiper capabilities due to its "weak architecture and programming."
-Cryptonite, unlike other ransomware strains, is not available for sale on the cybercriminal underground, and was instead offered for free by an actor named CYBERDEVILZ until recently through a GitHub repository. The source code and]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
