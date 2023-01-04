@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-04T02:18:05.966Z</updated>
+    <updated>2023-01-04T07:17:48.409Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Synology Releases Patch for Critical RCE Vulnerability Affecting VPN Plus Servers]]></title>
+        <id>https://thehackernews.com/2023/01/synology-releases-patch-for-critical.html</id>
+        <link href="https://thehackernews.com/2023/01/synology-releases-patch-for-critical.html"/>
+        <updated>2023-01-04T04:28:00.000Z</updated>
+        <summary type="html"><![CDATA[Synology has released security updates to address a critical flaw impacting VPN Plus Server that could be exploited to take over affected systems.
+Tracked as CVE-2022-43931, the vulnerability carries a maximum severity rating of 10 on the CVSS scale and has been described as an out-of-bounds write bug in the remote desktop functionality in Synology VPN Plus Server.
+Successful exploitation of the]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2023 Will See Renewed Focus on Quantum Computing]]></title>
         <id>https://www.darkreading.com/tech-trends/2023-will-see-more-focus-on-quantum-computing</id>
@@ -3884,90 +3896,6 @@ Cryptonite, unlike other ransomware strains, is not available for sale on the cy
         <summary type="html"><![CDATA[Preventing all data breaches is an unrealistic goal. Instead, focus on finding and minimizing the greatest risks.]]></summary>
         <author>
             <name>Tiago Henriques, Director of Engineering, Coalition</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cyberattack Shuts Down French Hospital]]></title>
-        <id>https://www.darkreading.com/attacks-breaches/cyberattack-shuts-down-french-hospital</id>
-        <link href="https://www.darkreading.com/attacks-breaches/cyberattack-shuts-down-french-hospital"/>
-        <updated>2022-12-05T19:15:00.000Z</updated>
-        <summary type="html"><![CDATA[Patients transferred and operations canceled following a recent network breach at a hospital in the outskirts of Paris.]]></summary>
-        <author>
-            <name>Dark Reading Staff, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CISA Adds One Known Exploited Vulnerability to Catalog]]></title>
-        <id>18191 at https://us-cert.cisa.gov</id>
-        <link href="https://us-cert.cisa.gov/ncas/current-activity/2022/12/05/cisa-adds-one-known-exploited-vulnerability-catalog"/>
-        <updated>2022-12-05T18:13:13.000Z</updated>
-        <summary type="html"><![CDATA[Original release date: December 5, 2022
-CISA has added one new vulnerability to its Known Exploited Vulnerabilities Catalog, based on evidence of active exploitation. This type of vulnerability is a frequent attack vector for malicious cyber actors and pose significant risk to the federal enterprise. Note: To view the newly added vulnerabilities in the catalog, click on the arrow in the "Date Added to Catalog" column, which will sort by descending dates.
-Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the Known Exploited Vulnerabilities Catalog as a living list of known CVEs that carry significant risk to the federal enterprise. BOD 22-01 requires FCEB agencies to remediate identified vulnerabilities by the due date to protect FCEB networks against active threats. See the BOD 22-01 Fact Sheet for more information.   
-Although BOD 22-01 only applies to FCEB agencies, CISA strongly urges all organizations to reduce their exposure to cyberattacks by prioritizing timely remediation of Catalog vulnerabilities as part of their vulnerability management practice. CISA will continue to add vulnerabilities to the Catalog that meet the specified criteria. 
-This product is provided subject to this Notification and this Privacy & Use policy.]]></summary>
-        <author>
-            <name>CISA</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The New External Attack Surface: 3 Elements Every Organization Should Monitor]]></title>
-        <id>https://www.darkreading.com/microsoft/the-new-external-attack-surface-3-elements-every-organization-should-monitor</id>
-        <link href="https://www.darkreading.com/microsoft/the-new-external-attack-surface-3-elements-every-organization-should-monitor"/>
-        <updated>2022-12-05T16:54:49.000Z</updated>
-        <summary type="html"><![CDATA[In short, the global Internet is now part of your external attack surface. Here’s how to better protect your users and data.]]></summary>
-        <author>
-            <name>Microsoft Security, Microsoft</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Palo Alto Networks Announces Medical IoT Security to Protect Connected Devices Critical to Patient Care]]></title>
-        <id>https://www.darkreading.com/iot/palo-alto-networks-announces-medical-iot-security-to-protect-connected-devices-critical-to-patient-care</id>
-        <link href="https://www.darkreading.com/iot/palo-alto-networks-announces-medical-iot-security-to-protect-connected-devices-critical-to-patient-care"/>
-        <updated>2022-12-05T16:27:24.000Z</updated>
-        <summary type="html"><![CDATA[The comprehensive zero trust security solution for medical devices lets healthcare organizations automate zero trust policy recommendations and manage new connected technologies quickly and securely.]]></summary>
-        <author>
-            <name>Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OpenSSF Membership Exceeds 100, With Many New Members Dedicated to Securing Open Source Software]]></title>
-        <id>https://www.darkreading.com/application-security/openssf-membership-exceeds-100-with-many-new-members-dedicated-to-securing-open-source-software</id>
-        <link href="https://www.darkreading.com/application-security/openssf-membership-exceeds-100-with-many-new-members-dedicated-to-securing-open-source-software"/>
-        <updated>2022-12-05T16:01:18.000Z</updated>
-        <summary type="html"><![CDATA[Introduces a "Developing Secure Software" training course in Japanese at OpenSSF Day Japan.]]></summary>
-        <author>
-            <name>Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Infostealer Malware Market Booms, as MFA Fatigue Sets In]]></title>
-        <id>https://www.darkreading.com/threat-intelligence/infostealer-malware-market-booms-mfa-fatigue</id>
-        <link href="https://www.darkreading.com/threat-intelligence/infostealer-malware-market-booms-mfa-fatigue"/>
-        <updated>2022-12-05T15:10:19.000Z</updated>
-        <summary type="html"><![CDATA[The successful combo of stolen credentials and social engineering to breach networks is increasing demand for infostealers on the Dark Web.]]></summary>
-        <author>
-            <name>Nathan Eddy, Contributing Writer, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Privacy War Is Coming]]></title>
-        <id>https://www.darkreading.com/endpoint/the-privacy-war-is-coming</id>
-        <link href="https://www.darkreading.com/endpoint/the-privacy-war-is-coming"/>
-        <updated>2022-12-05T15:00:22.000Z</updated>
-        <summary type="html"><![CDATA[Privacy standards are only going to increase. It's time for organizations to get ahead of the coming reckoning.]]></summary>
-        <author>
-            <name>Damian Tommasino, Principal Security Engineer, Feroot Security</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ransomware Professionalization Grows as RaaS Takes Hold]]></title>
-        <id>https://www.darkreading.com/threat-intelligence/ransomware-professionalization-grows-as-raas-takes-hold</id>
-        <link href="https://www.darkreading.com/threat-intelligence/ransomware-professionalization-grows-as-raas-takes-hold"/>
-        <updated>2022-12-05T14:44:49.000Z</updated>
-        <summary type="html"><![CDATA[As ransomware's prevalence has grown over the past decade, leading ransomware groups such as Conti have added services and features as part of a growing trend toward professionalization.]]></summary>
-        <author>
-            <name>Nathan Eddy, Contributing Writer, Dark Reading</name>
         </author>
     </entry>
     <entry>

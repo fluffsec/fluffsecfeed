@@ -230,16 +230,6 @@
           "wordCount": 882,
           "title": "CISA Releases Three Industrial Control Advisories",
           "imageUrl": null
-        },
-        {
-          "id": "18191 at https://us-cert.cisa.gov",
-          "author": "CISA",
-          "description": "Original release date: December 5, 2022\nCISA has added one new vulnerability to its Known Exploited Vulnerabilities Catalog, based on evidence of active exploitation. This type of vulnerability is a frequent attack vector for malicious cyber actors and pose significant risk to the federal enterprise. Note: To view the newly added vulnerabilities in the catalog, click on the arrow in the \"Date Added to Catalog\" column, which will sort by descending dates.\nBinding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the Known Exploited Vulnerabilities Catalog as a living list of known CVEs that carry significant risk to the federal enterprise. BOD 22-01 requires FCEB agencies to remediate identified vulnerabilities by the due date to protect FCEB networks against active threats. See the BOD 22-01 Fact Sheet for more information.   \nAlthough BOD 22-01 only applies to FCEB agencies, CISA strongly urges all organizations to reduce their exposure to cyberattacks by prioritizing timely remediation of Catalog vulnerabilities as part of their vulnerability management practice. CISA will continue to add vulnerabilities to the Catalog that meet the specified criteria. \nThis product is provided subject to this Notification and this Privacy & Use policy.",
-          "link": "https://us-cert.cisa.gov/ncas/current-activity/2022/12/05/cisa-adds-one-known-exploited-vulnerability-catalog",
-          "publishedOn": "2022-12-05T18:13:13.000Z",
-          "wordCount": 1006,
-          "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-          "imageUrl": null
         }
       ]
     },
@@ -2882,101 +2872,6 @@
             "length": "0"
           },
           "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltd6ce393c7804e870/62ab7b5bc1faf73773f6d747/coalition-tiago.jpg"
-        },
-        {
-          "id": "https://www.darkreading.com/attacks-breaches/cyberattack-shuts-down-french-hospital",
-          "author": "Dark Reading Staff, Dark Reading",
-          "description": "Patients transferred and operations canceled following a recent network breach at a hospital in the outskirts of Paris.",
-          "link": "https://www.darkreading.com/attacks-breaches/cyberattack-shuts-down-french-hospital",
-          "publishedOn": "2022-12-05T19:15:00.000Z",
-          "wordCount": 8922,
-          "title": "Cyberattack Shuts Down French Hospital",
-          "enclosure": {
-            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blte161b23f0fd3a84b/60b1ea374e7eb868c4c6a293/dr_staff_125x125.jpg",
-            "type": "image/*",
-            "length": "0"
-          },
-          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blte161b23f0fd3a84b/60b1ea374e7eb868c4c6a293/dr_staff_125x125.jpg"
-        },
-        {
-          "id": "https://www.darkreading.com/microsoft/the-new-external-attack-surface-3-elements-every-organization-should-monitor",
-          "author": "Microsoft Security, Microsoft",
-          "description": "In short, the global Internet is now part of your external attack surface. Here’s how to better protect your users and data.",
-          "link": "https://www.darkreading.com/microsoft/the-new-external-attack-surface-3-elements-every-organization-should-monitor",
-          "publishedOn": "2022-12-05T16:54:49.000Z",
-          "wordCount": 11626,
-          "title": "The New External Attack Surface: 3 Elements Every Organization Should Monitor",
-          "enclosure": {
-            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt8fe4479bc32f84b4/6321f5362769d078008692a9/MS-Security_logo.png",
-            "type": "image/*",
-            "length": "0"
-          },
-          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt8fe4479bc32f84b4/6321f5362769d078008692a9/MS-Security_logo.png"
-        },
-        {
-          "id": "https://www.darkreading.com/iot/palo-alto-networks-announces-medical-iot-security-to-protect-connected-devices-critical-to-patient-care",
-          "author": null,
-          "description": "The comprehensive zero trust security solution for medical devices lets healthcare organizations automate zero trust policy recommendations and manage new connected technologies quickly and securely.",
-          "link": "https://www.darkreading.com/iot/palo-alto-networks-announces-medical-iot-security-to-protect-connected-devices-critical-to-patient-care",
-          "publishedOn": "2022-12-05T16:27:24.000Z",
-          "wordCount": 13249,
-          "title": "Palo Alto Networks Announces Medical IoT Security to Protect Connected Devices Critical to Patient Care",
-          "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
-        },
-        {
-          "id": "https://www.darkreading.com/application-security/openssf-membership-exceeds-100-with-many-new-members-dedicated-to-securing-open-source-software",
-          "author": null,
-          "description": "Introduces a \"Developing Secure Software\" training course in Japanese at OpenSSF Day Japan.",
-          "link": "https://www.darkreading.com/application-security/openssf-membership-exceeds-100-with-many-new-members-dedicated-to-securing-open-source-software",
-          "publishedOn": "2022-12-05T16:01:18.000Z",
-          "wordCount": 16027,
-          "title": "OpenSSF Membership Exceeds 100, With Many New Members Dedicated to Securing Open Source Software",
-          "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
-        },
-        {
-          "id": "https://www.darkreading.com/threat-intelligence/infostealer-malware-market-booms-mfa-fatigue",
-          "author": "Nathan Eddy, Contributing Writer, Dark Reading",
-          "description": "The successful combo of stolen credentials and social engineering to breach networks is increasing demand for infostealers on the Dark Web.",
-          "link": "https://www.darkreading.com/threat-intelligence/infostealer-malware-market-booms-mfa-fatigue",
-          "publishedOn": "2022-12-05T15:10:19.000Z",
-          "wordCount": 12661,
-          "title": "Infostealer Malware Market Booms, as MFA Fatigue Sets In",
-          "enclosure": {
-            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltf8b5a94afa71c53a/628e3799daa31875dc0c9fc0/NathanEddyHeadshot.PNG",
-            "type": "image/*",
-            "length": "0"
-          },
-          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltf8b5a94afa71c53a/628e3799daa31875dc0c9fc0/NathanEddyHeadshot.PNG"
-        },
-        {
-          "id": "https://www.darkreading.com/endpoint/the-privacy-war-is-coming",
-          "author": "Damian Tommasino, Principal Security Engineer, Feroot Security",
-          "description": "Privacy standards are only going to increase. It's time for organizations to get ahead of the coming reckoning.",
-          "link": "https://www.darkreading.com/endpoint/the-privacy-war-is-coming",
-          "publishedOn": "2022-12-05T15:00:22.000Z",
-          "wordCount": 12168,
-          "title": "The Privacy War Is Coming",
-          "enclosure": {
-            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltaedc7cde7d30ef06/6388dac599e0755fda509c29/Tommasino.jpg",
-            "type": "image/*",
-            "length": "0"
-          },
-          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltaedc7cde7d30ef06/6388dac599e0755fda509c29/Tommasino.jpg"
-        },
-        {
-          "id": "https://www.darkreading.com/threat-intelligence/ransomware-professionalization-grows-as-raas-takes-hold",
-          "author": "Nathan Eddy, Contributing Writer, Dark Reading",
-          "description": "As ransomware's prevalence has grown over the past decade, leading ransomware groups such as Conti have added services and features as part of a growing trend toward professionalization.",
-          "link": "https://www.darkreading.com/threat-intelligence/ransomware-professionalization-grows-as-raas-takes-hold",
-          "publishedOn": "2022-12-05T14:44:49.000Z",
-          "wordCount": 11562,
-          "title": "Ransomware Professionalization Grows as RaaS Takes Hold",
-          "enclosure": {
-            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltf8b5a94afa71c53a/628e3799daa31875dc0c9fc0/NathanEddyHeadshot.PNG",
-            "type": "image/*",
-            "length": "0"
-          },
-          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltf8b5a94afa71c53a/628e3799daa31875dc0c9fc0/NathanEddyHeadshot.PNG"
         }
       ]
     },
@@ -3498,6 +3393,22 @@
       "feedUrl": "https://thehackernews.com/feeds/posts/default",
       "siteUrl": "https://thehackernews.com",
       "articles": [
+        {
+          "id": "https://thehackernews.com/2023/01/synology-releases-patch-for-critical.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Synology has released security updates to address a critical flaw impacting VPN Plus Server that could be exploited to take over affected systems.\nTracked as CVE-2022-43931, the vulnerability carries a maximum severity rating of 10 on the CVSS scale and has been described as an out-of-bounds write bug in the remote desktop functionality in Synology VPN Plus Server.\nSuccessful exploitation of the",
+          "link": "https://thehackernews.com/2023/01/synology-releases-patch-for-critical.html",
+          "publishedOn": "2023-01-04T04:28:00.000Z",
+          "wordCount": null,
+          "title": "Synology Releases Patch for Critical RCE Vulnerability Affecting VPN Plus Servers",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJRzl4EcfF6Ywp36jEobGQhrAmKUk8aru7sjUvVfmaeQeMiiEbFaLdU5uhGfbVmTdc-aMKFN1sbdeXfExXlCMzOlX8MqH-sJia3rxen-yQGUiAbO81KyKbKgnHCy2K87OOAV0tRfHp4nr_zzR-5pGHZXKliOFr8yBu0o1skR45FscpXtdjMDX0xsQj/s1600/Synology.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJRzl4EcfF6Ywp36jEobGQhrAmKUk8aru7sjUvVfmaeQeMiiEbFaLdU5uhGfbVmTdc-aMKFN1sbdeXfExXlCMzOlX8MqH-sJia3rxen-yQGUiAbO81KyKbKgnHCy2K87OOAV0tRfHp4nr_zzR-5pGHZXKliOFr8yBu0o1skR45FscpXtdjMDX0xsQj/s1600/Synology.png"
+        },
         {
           "id": "https://thehackernews.com/2023/01/enforcement-vs-enrollment-based.html",
           "author": "info@thehackernews.com (The Hacker News)",
