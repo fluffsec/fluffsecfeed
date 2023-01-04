@@ -2,10 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-04T07:17:48.409Z</updated>
+    <updated>2023-01-04T13:25:44.751Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Qualcomm Chipsets and Lenovo BIOS Get Security Updates to Fix Multiple Flaws]]></title>
+        <id>https://thehackernews.com/2023/01/qualcomm-chipsets-and-lenovo-bios-get.html</id>
+        <link href="https://thehackernews.com/2023/01/qualcomm-chipsets-and-lenovo-bios-get.html"/>
+        <updated>2023-01-04T10:47:00.000Z</updated>
+        <summary type="html"><![CDATA[Qualcomm on Tuesday released patches to address multiple security flaws in its chipsets, some of which could be exploited to cause information disclosure and memory corruption.
+The five vulnerabilities -- tracked from CVE-2022-40516 through CVE-2022-40520 -- also impact Lenovo ThinkPad X13s laptops, prompting the Chinese PC maker to issue BIOS updates to plug the security holes.
+The list of]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The FBI's Perspective on Ransomware]]></title>
+        <id>https://thehackernews.com/2023/01/the-fbis-perspective-on-ransomware.html</id>
+        <link href="https://thehackernews.com/2023/01/the-fbis-perspective-on-ransomware.html"/>
+        <updated>2023-01-04T10:24:00.000Z</updated>
+        <summary type="html"><![CDATA[Ransomware: contemporary threats, how to prevent them and how the FBI can help
+In April 2021, Dutch supermarkets faced a food shortage. The cause wasn't a drought or a sudden surge in the demand for avocados. Rather, the reason was a ransomware attack. In the past years, companies, universities, schools, medical facilities and other organizations have been targeted by ransomware threat actors,]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New shc-based Linux Malware Targeting Systems with Cryptocurrency Miner]]></title>
+        <id>https://thehackernews.com/2023/01/new-shc-based-linux-malware-targeting.html</id>
+        <link href="https://thehackernews.com/2023/01/new-shc-based-linux-malware-targeting.html"/>
+        <updated>2023-01-04T08:32:00.000Z</updated>
+        <summary type="html"><![CDATA[A new Linux malware developed using the shell script compiler (shc) has been observed deploying a cryptocurrency miner on compromised systems.
+"It is presumed that after successful authentication through a dictionary attack on inadequately managed Linux SSH servers, various malware were installed on the target system," AhnLab Security Emergency Response Center (ASEC) said in a report published]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Synology Releases Patch for Critical RCE Vulnerability Affecting VPN Plus Servers]]></title>
         <id>https://thehackernews.com/2023/01/synology-releases-patch-for-critical.html</id>
@@ -3866,36 +3900,6 @@ The]]></summary>
 Cryptonite, unlike other ransomware strains, is not available for sale on the cybercriminal underground, and was instead offered for free by an actor named CYBERDEVILZ until recently through a GitHub repository. The source code and]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Wiper, Disguised as Fake Ransomware, Targets Russian Orgs]]></title>
-        <id>https://www.darkreading.com/threat-intelligence/wiper-disguised-fake-ransomware-targets-russian-orgs</id>
-        <link href="https://www.darkreading.com/threat-intelligence/wiper-disguised-fake-ransomware-targets-russian-orgs"/>
-        <updated>2022-12-05T21:09:48.000Z</updated>
-        <summary type="html"><![CDATA[The program, dubbed CryWiper, is aimed at Russian targets; it requests a ransom but has no way to decrypt any overwritten files.]]></summary>
-        <author>
-            <name>Robert Lemos, Contributing Writer, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hive Social Buzzing With Security Flaws, Analysts Warn]]></title>
-        <id>https://www.darkreading.com/application-security/hive-social-buzzing-with-security-flaws</id>
-        <link href="https://www.darkreading.com/application-security/hive-social-buzzing-with-security-flaws"/>
-        <updated>2022-12-05T20:54:00.000Z</updated>
-        <summary type="html"><![CDATA[Twitter alternative Hive Social took down its servers after researchers discovered several critical vulnerabilities.]]></summary>
-        <author>
-            <name>Dark Reading Staff, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cybersecurity Should Focus on Managing Risk]]></title>
-        <id>https://www.darkreading.com/edge-articles/cybersecurity-should-focus-on-managing-risk</id>
-        <link href="https://www.darkreading.com/edge-articles/cybersecurity-should-focus-on-managing-risk"/>
-        <updated>2022-12-05T19:43:00.000Z</updated>
-        <summary type="html"><![CDATA[Preventing all data breaches is an unrealistic goal. Instead, focus on finding and minimizing the greatest risks.]]></summary>
-        <author>
-            <name>Tiago Henriques, Director of Engineering, Coalition</name>
         </author>
     </entry>
     <entry>
