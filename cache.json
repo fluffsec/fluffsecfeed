@@ -12,6 +12,16 @@
       "siteUrl": "https://us-cert.cisa.gov/",
       "articles": [
         {
+          "id": "18262 at https://us-cert.cisa.gov",
+          "author": "CISA",
+          "description": "Original release date: January 5, 2023\nCISA released three Industrial Control Systems (ICS) advisories on January 5 2023. These advisories provide timely information about current security issues, vulnerabilities, and exploits surrounding ICS.\nCISA encourages users and administrators to review the newly released ICS advisories for technical details and mitigations:\nICSA-23-005-01 Hitachi Energy UNEM\nICSA-23-005-02 Hitachi Energy FOXMAN-UN\nICSA-23-005-03 Hitachi Energy Lumada Asset Performance Management\nThis product is provided subject to this Notification and this Privacy & Use policy.",
+          "link": "https://us-cert.cisa.gov/ncas/current-activity/2023/01/05/cisa-releases-three-industrial-systems-control-advisories",
+          "publishedOn": "2023-01-05T16:00:00.000Z",
+          "wordCount": 966,
+          "title": "CISA Releases Three Industrial Systems Control Advisories",
+          "imageUrl": null
+        },
+        {
           "id": "18257 at https://us-cert.cisa.gov",
           "author": "CISA",
           "description": "Original release date: January 4, 2023\nFortinet has released a security advisory to address a vulnerability in multiple versions of FortiADC. This vulnerability may allow a remote attacker “to execute unauthorized code or commands via specifically crafted HTTP requests.”\nCISA encourages users and administrators to review Fortinet security advisory FG-IR-22-061 and apply the recommended updates.\nThis product is provided subject to this Notification and this Privacy & Use policy.",
@@ -278,6 +288,116 @@
       "feedUrl": "https://www.darkreading.com/rss.xml",
       "siteUrl": "https://www.darkreading.com",
       "articles": [
+        {
+          "id": "https://www.darkreading.com/attacks-breaches/bluebottle-bank-heist-assault-fresh-lol-tactics",
+          "author": "Elizabeth Montalbano, Contributor, Dark Reading",
+          "description": "The financially motivated threat group, also known as OPERA1ER, demonstrated an evolution in tactics in its compromise of three Francophone financial institutions in Africa, likely adding to its $11 million to-date haul.",
+          "link": "https://www.darkreading.com/attacks-breaches/bluebottle-bank-heist-assault-fresh-lol-tactics",
+          "publishedOn": "2023-01-05T18:02:00.000Z",
+          "wordCount": 14919,
+          "title": "Bluebottle Continues Bank Heist Assault With Signed Malware",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltbfd004d139d42d70/6303bca6236c2476a257760e/ElizabethMontalbano.jpg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltbfd004d139d42d70/6303bca6236c2476a257760e/ElizabethMontalbano.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/dr-tech/threat-actors-evade-detection-through-geofencing-fingerprinting",
+          "author": "Jan Miller, Director of Engineering of Malware Analysis Solutions, Opswat",
+          "description": "Security teams may be missing targeted attacks and advanced exploits if attackers are using evasive techniques to avoid detection. Defenders need to up their game.",
+          "link": "https://www.darkreading.com/dr-tech/threat-actors-evade-detection-through-geofencing-fingerprinting",
+          "publishedOn": "2023-01-05T16:09:51.000Z",
+          "wordCount": 13710,
+          "title": "Threat Actors Evade Detection Through Geofencing & Fingerprinting",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt516b5703e8be8a26/63b61d5856e411103e9e415b/Jan_Miller_Headshot.jpeg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt516b5703e8be8a26/63b61d5856e411103e9e415b/Jan_Miller_Headshot.jpeg"
+        },
+        {
+          "id": "https://www.darkreading.com/attacks-breaches/maternal-family-health-services-issues-notice-of-cybersecurity-incident",
+          "author": null,
+          "description": "",
+          "link": "https://www.darkreading.com/attacks-breaches/maternal-family-health-services-issues-notice-of-cybersecurity-incident",
+          "publishedOn": "2023-01-05T15:24:00.000Z",
+          "wordCount": 12890,
+          "title": "Maternal & Family Health Services Issues Notice Of Cybersecurity Incident",
+          "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/operations/directtrust-and-ehnac-announce-closing-of-merger",
+          "author": null,
+          "description": "",
+          "link": "https://www.darkreading.com/operations/directtrust-and-ehnac-announce-closing-of-merger",
+          "publishedOn": "2023-01-05T15:20:00.000Z",
+          "wordCount": 13145,
+          "title": "DirectTrust and EHNAC Announce Closing Of Merger",
+          "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/perimeter/us-based-icoin-technology-announces-secure-messaging-solution-using-hardware-wallet-encryption",
+          "author": null,
+          "description": "",
+          "link": "https://www.darkreading.com/perimeter/us-based-icoin-technology-announces-secure-messaging-solution-using-hardware-wallet-encryption",
+          "publishedOn": "2023-01-05T15:12:00.000Z",
+          "wordCount": 12522,
+          "title": "US Based ICOIN Technology Announces Secure Messaging Solution Using Hardware Wallet Encryption",
+          "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/ics-ot/space-race-defenses-satellite-cyberattacks",
+          "author": "Robert Lemos, Contributing Writer, Dark Reading",
+          "description": "Amid escalating cyber activity, two separate cybersecurity frameworks are targeting the satellite arena, highlighting the ease in attacking the infrastructure and the difficulty in defending it.",
+          "link": "https://www.darkreading.com/ics-ot/space-race-defenses-satellite-cyberattacks",
+          "publishedOn": "2023-01-05T15:11:27.000Z",
+          "wordCount": 14935,
+          "title": "Space Race: Defenses Emerge as Satellite-Focused Cyberattacks Ramp Up",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt58481326324d6911/60b1e9a55d34de550780a990/Robert-Lemos.png",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt58481326324d6911/60b1e9a55d34de550780a990/Robert-Lemos.png"
+        },
+        {
+          "id": "https://www.darkreading.com/cloud/netscope-receives-401m-in-new-funding",
+          "author": null,
+          "description": "",
+          "link": "https://www.darkreading.com/cloud/netscope-receives-401m-in-new-funding",
+          "publishedOn": "2023-01-05T15:06:00.000Z",
+          "wordCount": 16343,
+          "title": "Netskope Receives $401M In New Funding",
+          "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/attacks-breaches/how-to-ensure-cybersecurity-investments-remain-a-priority-across-your-organization",
+          "author": "Dan Dennis, Chief Information Security Officer, Hyland",
+          "description": "Collaboration across all business units is key to building a robust cybersecurity program.",
+          "link": "https://www.darkreading.com/attacks-breaches/how-to-ensure-cybersecurity-investments-remain-a-priority-across-your-organization",
+          "publishedOn": "2023-01-05T15:00:00.000Z",
+          "wordCount": 14010,
+          "title": "How to Ensure Cybersecurity Investments Remain a Priority Across Your Organization",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blta34bc60881ff72e7/63b4590a166db9325e1f2fe4/Hyland_Dan_Dennis_CISO.jpg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blta34bc60881ff72e7/63b4590a166db9325e1f2fe4/Hyland_Dan_Dennis_CISO.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/vulnerabilities-threats/trend-micro-announces-new-subsidiary-for-5g-cybersecurity",
+          "author": null,
+          "description": "",
+          "link": "https://www.darkreading.com/vulnerabilities-threats/trend-micro-announces-new-subsidiary-for-5g-cybersecurity",
+          "publishedOn": "2023-01-05T14:37:00.000Z",
+          "wordCount": 13270,
+          "title": "Trend Micro Announces New Subsidiary for 5G Cybersecurity",
+          "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
+        },
         {
           "id": "https://www.darkreading.com/cloud/rackspace-ransomware-attack-microsoft-exchange-server-zero-day-exploit",
           "author": "Kelly Jackson Higgins, Editor-in-Chief",
@@ -2822,6 +2942,36 @@
       "siteUrl": "https://blog.knowbe4.com",
       "articles": [
         {
+          "id": "https://blog.knowbe4.com/new-crypto-scam-targets-flipper-zero-buyers-impersonating-legitimate-shops",
+          "author": "Stu Sjouwerman",
+          "description": "Interest in the handheld open-source multi-function cybersecurity tool by techies has risen to a new campaign seeking to steal crypto funds through illegitimate “sales” of the device.",
+          "link": "https://blog.knowbe4.com/new-crypto-scam-targets-flipper-zero-buyers-impersonating-legitimate-shops",
+          "publishedOn": "2023-01-05T18:40:59.000Z",
+          "wordCount": 2205,
+          "title": "New Crypto Scam Targets Flipper Zero Buyers Impersonating Legitimate Shops",
+          "imageUrl": "https://blog.knowbe4.com/hubfs/Flipper.jpg#keepProtocol"
+        },
+        {
+          "id": "https://blog.knowbe4.com/phishing-campaigns-impersonate-the-uk-government",
+          "author": "Stu Sjouwerman",
+          "description": "The UK’s National Cyber Security Centre (NCSC) has outlined the top six most impersonated UK government agencies in 2022. The most impersonated entity was the National Health Service (NHS), followed by TV Licensing, HM Revenue & Customs, Gov.uk, DVLA, and Ofgem.",
+          "link": "https://blog.knowbe4.com/phishing-campaigns-impersonate-the-uk-government",
+          "publishedOn": "2023-01-05T13:34:42.000Z",
+          "wordCount": 2269,
+          "title": "Phishing Campaigns Impersonate the UK Government",
+          "imageUrl": "https://blog.knowbe4.com/hubfs/UK%20Phishing%20Attack.jpg#keepProtocol"
+        },
+        {
+          "id": "https://blog.knowbe4.com/these-grim-figures-show-that-the-ransomware-problem-isnt-going-away",
+          "author": "Stu Sjouwerman",
+          "description": "ZDNet summarized the problem as follows: \"Up to 1,981 schools, 290 hospitals, 105 local governments and 44 universities and colleges were hit with ransomware in the US alone during 2022, demonstrating how ransomware attacks remain a significant cyber threat to the public sector and civil society.",
+          "link": "https://blog.knowbe4.com/these-grim-figures-show-that-the-ransomware-problem-isnt-going-away",
+          "publishedOn": "2023-01-05T13:32:40.000Z",
+          "wordCount": 2111,
+          "title": "These grim figures show that the ransomware problem isn't going away",
+          "imageUrl": "https://blog.knowbe4.com/hubfs/Ransomware-Attack-Warning-2022.jpg#keepProtocol"
+        },
+        {
           "id": "https://blog.knowbe4.com/live-demo-security-awareness-training-and-phishing",
           "author": "Stu Sjouwerman",
           "description": "Old-school awareness training does not hack it anymore. Your email filters have an average 7-10% failure rate; you need a strong human firewall as your last line of defense.",
@@ -3308,6 +3458,22 @@
       "feedUrl": "https://thehackernews.com/feeds/posts/default",
       "siteUrl": "https://thehackernews.com",
       "articles": [
+        {
+          "id": "https://thehackernews.com/2023/01/blind-eagle-hackers-return-with-refined.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "A financially motivated threat actor tracked as Blind Eagle has resurfaced with a refined toolset and an elaborate infection chain as part of its attacks targeting organizations in Colombia and Ecuador.\nCheck Point's latest research offers new insights into the Spanish-speaking group's tactics and techniques, including the use of sophisticated tools and government-themed lures to activate the",
+          "link": "https://thehackernews.com/2023/01/blind-eagle-hackers-return-with-refined.html",
+          "publishedOn": "2023-01-05T14:55:00.000Z",
+          "wordCount": null,
+          "title": "Blind Eagle Hackers Return with Refined Tools and Sophisticated Infection Chain",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhUge21n5t12HNout0Mm2LwLSsF8h22iAkVO3RDrcBYX1Oi75BG7BlK_qXX2DpKye93AzS40oBpExrCxbiCqaybz9KapMs02UYsaOX2-ippug289q401Ftl1o08fJJ8_YR1b1RzbMPxCtDUZ7D8qmNmoAzgSb1jrab5nlJQjY4jE0Y_z0fHx443-tca/s1600/bot.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhUge21n5t12HNout0Mm2LwLSsF8h22iAkVO3RDrcBYX1Oi75BG7BlK_qXX2DpKye93AzS40oBpExrCxbiCqaybz9KapMs02UYsaOX2-ippug289q401Ftl1o08fJJ8_YR1b1RzbMPxCtDUZ7D8qmNmoAzgSb1jrab5nlJQjY4jE0Y_z0fHx443-tca/s1600/bot.png"
+        },
         {
           "id": "https://thehackernews.com/2023/01/bluebottle-cybercrime-group-preys-on.html",
           "author": "info@thehackernews.com (The Hacker News)",
@@ -5083,22 +5249,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiIaD6H0r0xhslaRDWEHaAi2oulIDYrssMbY4RJbASKhfME-s-1PsBj2hgdAA1Bs609EsJrryx7ldon0fcfeC9rOeIioHcOdt197kwrjxMst-hAEnUKMySoDx_sqkjoF4jlPZxaIOalf2OSAEiW9MAYbQDgN-NXfrTFEHhjcY3f8dPGCoA3i8_bD9Hn/s1600/ms.png"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiIaD6H0r0xhslaRDWEHaAi2oulIDYrssMbY4RJbASKhfME-s-1PsBj2hgdAA1Bs609EsJrryx7ldon0fcfeC9rOeIioHcOdt197kwrjxMst-hAEnUKMySoDx_sqkjoF4jlPZxaIOalf2OSAEiW9MAYbQDgN-NXfrTFEHhjcY3f8dPGCoA3i8_bD9Hn/s1600/ms.png"
-        },
-        {
-          "id": "https://thehackernews.com/2022/12/new-go-based-zerobot-botnet-exploiting.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "A novel Go-based botnet called Zerobot has been observed in the wild proliferating by taking advantage of nearly two dozen security vulnerabilities in the internet of things (IoT) devices and other software.\nThe botnet \"contains several modules, including self-replication, attacks for different protocols, and self-propagation,\" Fortinet FortiGuard Labs researcher Cara Lin said. \"It also",
-          "link": "https://thehackernews.com/2022/12/new-go-based-zerobot-botnet-exploiting.html",
-          "publishedOn": "2022-12-07T04:03:00.000Z",
-          "wordCount": null,
-          "title": "New Go-based Zerobot Botnet Exploiting Dozen of IoT Vulnerabilities to Expand its Network",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiiN7P-JbzDiqMiJ5aMyYzbPj10BSDjFXMvPw3ZyXZgZ4ddehVpZGTJqe3NCavOxqmM5LGXQtYlY04ZVd4WktIHIGML-uIrRBHvX2yr7U5KeEKHbTZwv51ACwjiR6P71KSuJB7DbfuZ8egRXMscsMalfWkYWfXhd92L4QUJ_HkVYH1MeYOgjKObWBdx/s1600/botnet.png"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiiN7P-JbzDiqMiJ5aMyYzbPj10BSDjFXMvPw3ZyXZgZ4ddehVpZGTJqe3NCavOxqmM5LGXQtYlY04ZVd4WktIHIGML-uIrRBHvX2yr7U5KeEKHbTZwv51ACwjiR6P71KSuJB7DbfuZ8egRXMscsMalfWkYWfXhd92L4QUJ_HkVYH1MeYOgjKObWBdx/s1600/botnet.png"
         }
       ]
     }
