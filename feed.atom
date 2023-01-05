@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-05T02:18:32.444Z</updated>
+    <updated>2023-01-05T07:17:53.731Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Irish Regulators Fine Facebook $414 Million for Forcing Users to Accept Targeted Ads]]></title>
+        <id>https://thehackernews.com/2023/01/irish-regulators-fine-facebook-414.html</id>
+        <link href="https://thehackernews.com/2023/01/irish-regulators-fine-facebook-414.html"/>
+        <updated>2023-01-05T04:33:00.000Z</updated>
+        <summary type="html"><![CDATA[The Irish Data Protection Commission (DPC) has fined Meta Platforms €390 million (roughly $414 million) over its handling of user data for serving personalized ads in what could be a major blow to its ad-fueled business model.
+To that end, the privacy regulator has ordered Meta Ireland to pay two fines – a €210 million ($222.5 million) fine over violations of the E.U. General Data Protection]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Rackspace: Ransomware Attack Bypassed ProxyNotShell Mitigations]]></title>
         <id>https://www.darkreading.com/cloud/rackspace-ransomware-attack-microsoft-exchange-server-zero-day-exploit</id>
@@ -3844,127 +3855,6 @@ The botnet "contains several modules, including self-replication, attacks for di
         <summary type="html"><![CDATA[Microsoft warns that the Kremlin is ramping up cyberattacks against infrastructure and supply chains and starting disinformation campaigns as Russian troops lose on the battlefield.]]></summary>
         <author>
             <name>Dark Reading Staff, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What Will It Take to Secure Critical Infrastructure?]]></title>
-        <id>https://www.darkreading.com/ics-ot/what-will-it-take-to-secure-critical-infrastructure</id>
-        <link href="https://www.darkreading.com/ics-ot/what-will-it-take-to-secure-critical-infrastructure"/>
-        <updated>2022-12-06T18:00:00.000Z</updated>
-        <summary type="html"><![CDATA[There's no quick fix after decades of underinvestment, but the process has started. Cybersecurity grants, mandatory reporting protocols, and beefed-up authentication requirements are being put in place.]]></summary>
-        <author>
-            <name>Tony Anscombe, Chief Security Evangelist, ESET</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Name That Edge Toon: Not Your Average Bear]]></title>
-        <id>https://www.darkreading.com/edge-articles/name-that-edge-toon-not-your-average-bear</id>
-        <link href="https://www.darkreading.com/edge-articles/name-that-edge-toon-not-your-average-bear"/>
-        <updated>2022-12-06T17:41:40.000Z</updated>
-        <summary type="html"><![CDATA[Come up with a clever caption, and our panel of experts will reward the winner with a $25 Amazon gift card.]]></summary>
-        <author>
-            <name>John Klossner, Cartoonist</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chinese Hackers Target Middle East Telecoms in Latest Cyber Attacks]]></title>
-        <id>https://thehackernews.com/2022/12/chinese-hackers-target-middle-east.html</id>
-        <link href="https://thehackernews.com/2022/12/chinese-hackers-target-middle-east.html"/>
-        <updated>2022-12-06T16:08:00.000Z</updated>
-        <summary type="html"><![CDATA[A malicious campaign targeting the Middle East is likely linked to BackdoorDiplomacy, an advanced persistent threat (APT) group with ties to China.
-The espionage activity, directed against a telecom company in the region, is said to have commenced on August 19, 2021 through the successful exploitation of ProxyShell flaws in the Microsoft Exchange Server.
-Initial compromise leveraged binaries]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Intellicene Brand Launches After Completion of Acquisition by Volaris Group]]></title>
-        <id>https://www.darkreading.com/threat-intelligence/intellicene-brand-launches-after-completion-of-acquisition-by-volaris-group</id>
-        <link href="https://www.darkreading.com/threat-intelligence/intellicene-brand-launches-after-completion-of-acquisition-by-volaris-group"/>
-        <updated>2022-12-06T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Global security technology provider with 20+ years of experience embraces the next evolution of its business with refreshed brand and invigorated leadership.]]></summary>
-        <author>
-            <name>Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Iranian State Hackers Targeting Key Figures in Activism, Journalism, and Politics]]></title>
-        <id>https://thehackernews.com/2022/12/iranian-state-hackers-targeting-key.html</id>
-        <link href="https://thehackernews.com/2022/12/iranian-state-hackers-targeting-key.html"/>
-        <updated>2022-12-06T15:52:00.000Z</updated>
-        <summary type="html"><![CDATA[Hackers with ties to the Iranian government have been linked to an ongoing social engineering and credential phishing campaign directed against human rights activists, journalists, researchers, academics, diplomats, and politicians working in the Middle East.
-At least 20 individuals are believed to have been targeted, Human Rights Watch (HRW) said in a report published Monday, attributing the]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hardening Identities With Phish-Resistant MFA]]></title>
-        <id>https://www.darkreading.com/microsoft/hardening-identities-with-phish-resistant-mfa</id>
-        <link href="https://www.darkreading.com/microsoft/hardening-identities-with-phish-resistant-mfa"/>
-        <updated>2022-12-06T15:27:07.000Z</updated>
-        <summary type="html"><![CDATA[Extending multifactor authentication to include device identity assurance offers more authentication confidence than what multiple user-identity factors can by themselves.]]></summary>
-        <author>
-            <name>Microsoft Security, Microsoft</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Applying the OODA Loop to Cybersecurity and Secure Access Service Edge]]></title>
-        <id>https://www.darkreading.com/attacks-breaches/applying-the-ooda-loop-to-cybersecurity-and-secure-access-service-edge</id>
-        <link href="https://www.darkreading.com/attacks-breaches/applying-the-ooda-loop-to-cybersecurity-and-secure-access-service-edge"/>
-        <updated>2022-12-06T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Organizations can best defend themselves on the cyber battlefield by adopting a military-style defense.]]></summary>
-        <author>
-            <name>Etay Maor, Senior Director of Security Strategy, Cato Networks</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Russian Actors Use Compromised Healthcare Networks Against Ukrainian Orgs]]></title>
-        <id>https://www.darkreading.com/threat-intelligence/russian-actors-compromised-healthcare-networks-ukrainian-orgs</id>
-        <link href="https://www.darkreading.com/threat-intelligence/russian-actors-compromised-healthcare-networks-ukrainian-orgs"/>
-        <updated>2022-12-06T14:44:08.000Z</updated>
-        <summary type="html"><![CDATA[Victims include at least 15 healthcare organizations, one Fortune 500 company, and other organizations in multiple countries, security vendor says.]]></summary>
-        <author>
-            <name>Jai Vijayan, Contributing Writer, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AlgoSec Acquires Prevasio To Disrupt Agentless Cloud Security Market]]></title>
-        <id>https://www.darkreading.com/cloud/algosec-acquires-prevasio-to-disrupt-agentless-cloud-security-market</id>
-        <link href="https://www.darkreading.com/cloud/algosec-acquires-prevasio-to-disrupt-agentless-cloud-security-market"/>
-        <updated>2022-12-06T14:34:00.000Z</updated>
-        <summary type="html"><![CDATA[Organizations of all sizes can now protect their cloud-native applications easily and cost-effectively across containers and all other cloud assets.]]></summary>
-        <author>
-            <name>Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CyberheistNews Vol 12 #49 [Keep An Eye Out] Beware of New Holiday Gift Card Scams]]></title>
-        <id>https://blog.knowbe4.com/cyberheistnews-vol-12-49-keep-an-eye-out-beware-of-new-holiday-gift-card-scams</id>
-        <link href="https://blog.knowbe4.com/cyberheistnews-vol-12-49-keep-an-eye-out-beware-of-new-holiday-gift-card-scams"/>
-        <updated>2022-12-06T14:30:00.000Z</updated>
-        <summary type="html"><![CDATA[CyberheistNews Vol 12 #49  |   December 6th, 2022  
- 
-  
- 
- 
-  
-[Keep An Eye Out] Beware of New Holiday Gift Card Scams
- 
-  
-By Roger A. Grimes
- 
-  
-Every holiday season brings on an increase in gift card scams. Most people love to buy and use gift cards. They are convenient, easy to buy, easy to use, easy to gift, usually allow the receiver to pick just what they want, and are often received as a reward for doing something.
- 
-  
-The gift card market is estimated in the many hundreds of BILLIONS of dollars. Who doesn't like to get a free gift card? Unfortunately, scammers often use gift cards as a way to steal value from their victims. There are dozens of ways gift cards can be used by scammers to steal money.
- 
-  
-Roger covers these three scams in a short [VIDEO] and in detail on t…]]></summary>
-        <author>
-            <name>Stu Sjouwerman</name>
         </author>
     </entry>
     <entry>
