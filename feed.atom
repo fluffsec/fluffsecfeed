@@ -2,10 +2,76 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-05T07:17:53.731Z</updated>
+    <updated>2023-01-05T13:28:27.458Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Bluebottle Cybercrime Group Preys on Financial Sector in French-Speaking African Nations]]></title>
+        <id>https://thehackernews.com/2023/01/bluebottle-cybercrime-group-preys-on.html</id>
+        <link href="https://thehackernews.com/2023/01/bluebottle-cybercrime-group-preys-on.html"/>
+        <updated>2023-01-05T12:34:00.000Z</updated>
+        <summary type="html"><![CDATA[A cybercrime group dubbed Bluebottle has been linked to a set of targeted attacks against the financial sector in Francophone countries located in Africa from at least July 2022 to September 2022.
+"The group makes extensive use of living-off-the-land, dual use tools, and commodity malware, with no custom malware deployed in this campaign," Symantec, a division of Broadcom Software, said in a]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SpyNote Strikes Again: Android Spyware Targeting Financial Institutions]]></title>
+        <id>https://thehackernews.com/2023/01/spynote-strikes-again-android-spyware.html</id>
+        <link href="https://thehackernews.com/2023/01/spynote-strikes-again-android-spyware.html"/>
+        <updated>2023-01-05T11:05:00.000Z</updated>
+        <summary type="html"><![CDATA[Financial institutions are being targeted by a new version of Android malware called SpyNote at least since October 2022.
+"The reason behind this increase is that the developer of the spyware, who was previously selling it to other actors, made the source code public," ThreatFabric said in a report shared with The Hacker News. "This has helped other actors [in] developing and distributing the]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mitigate the LastPass Attack Surface in Your Environment with this Free Tool]]></title>
+        <id>https://thehackernews.com/2023/01/mitigate-lastpass-attack-surface-in.html</id>
+        <link href="https://thehackernews.com/2023/01/mitigate-lastpass-attack-surface-in.html"/>
+        <updated>2023-01-05T10:51:00.000Z</updated>
+        <summary type="html"><![CDATA[The latest breach announced by LastPass is a major cause for concern to security stakeholders. As often occurs, we are at a security limbo – on the one hand, as LastPass has noted, users who followed LastPass best practices would be exposed to practically zero to extremely low risk. However, to say that password best practices are not followed is a wild understatement. The reality is that there]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CircleCI Urges Customers to Rotate Secrets Following Security Incident]]></title>
+        <id>https://thehackernews.com/2023/01/circleci-urges-customers-to-rotate.html</id>
+        <link href="https://thehackernews.com/2023/01/circleci-urges-customers-to-rotate.html"/>
+        <updated>2023-01-05T09:12:00.000Z</updated>
+        <summary type="html"><![CDATA[DevOps platform CircleCI on Wednesday urged its customers to rotate all their secrets following an unspecified security incident.
+The company said an investigation is currently ongoing, but emphasized that "there are no unauthorized actors active in our systems." Additional details are expected to be shared in the coming days.
+"Immediately rotate any and all secrets stored in CircleCI,"]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Evolving Tactics of Vidar Stealer: From Phishing Emails to Social Media]]></title>
+        <id>https://thehackernews.com/2023/01/the-evolving-tactics-of-vidar-stealer.html</id>
+        <link href="https://thehackernews.com/2023/01/the-evolving-tactics-of-vidar-stealer.html"/>
+        <updated>2023-01-05T08:48:00.000Z</updated>
+        <summary type="html"><![CDATA[The notorious information-stealer known as Vidar is continuing to leverage popular social media services such as TikTok, Telegram, Steam, and Mastodon as an intermediate command-and-control (C2) server.
+"When a user creates an account on an online platform, a unique account page that can be accessed by anyone is generated," AhnLab Security Emergency Response Center (ASEC) disclosed in a]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fortinet and Zoho Urge Customers to Patch Enterprise Software Vulnerabilities]]></title>
+        <id>https://thehackernews.com/2023/01/fortinet-and-zoho-urge-customers-to.html</id>
+        <link href="https://thehackernews.com/2023/01/fortinet-and-zoho-urge-customers-to.html"/>
+        <updated>2023-01-05T07:52:00.000Z</updated>
+        <summary type="html"><![CDATA[Fortinet has warned of a high-severity flaw affecting multiple versions of FortiADC application delivery controller that could lead to the execution of arbitrary code.
+"An improper neutralization of special elements used in an OS command vulnerability in FortiADC may allow an authenticated attacker with access to the web GUI to execute unauthorized code or commands via specifically crafted HTTP]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Irish Regulators Fine Facebook $414 Million for Forcing Users to Accept Targeted Ads]]></title>
         <id>https://thehackernews.com/2023/01/irish-regulators-fine-facebook-414.html</id>
@@ -3806,55 +3872,6 @@ Microsoft's Security Threat Intelligence Center (MSTIC) is tracking the activity
 The botnet "contains several modules, including self-replication, attacks for different protocols, and self-propagation," Fortinet FortiGuard Labs researcher Cara Lin said. "It also]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Shift to Memory-Safe Languages Gains Momentum]]></title>
-        <id>https://www.darkreading.com/application-security/shift-memory-safe-languages-gains-momentum</id>
-        <link href="https://www.darkreading.com/application-security/shift-memory-safe-languages-gains-momentum"/>
-        <updated>2022-12-07T00:03:00.000Z</updated>
-        <summary type="html"><![CDATA[Software firms and the National Security Agency urge developers to move to memory-safe programming languages to eliminate a major source of high-severity flaws.]]></summary>
-        <author>
-            <name>Robert Lemos, Contributing Writer, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ASM Can Fill Gaps While Working to Implement SBOM]]></title>
-        <id>https://www.darkreading.com/dr-tech/waiting-for-sbom-take-a-look-at-asm</id>
-        <link href="https://www.darkreading.com/dr-tech/waiting-for-sbom-take-a-look-at-asm"/>
-        <updated>2022-12-06T23:07:00.000Z</updated>
-        <summary type="html"><![CDATA[If compiling a software bill of materials seems daunting, attack surface management tools can provide many of the benefits.]]></summary>
-        <author>
-            <name>Jonathan Care, Contributing Writer, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cambridge Centre for Risk Studies and Kivu Release Benchmark of Cost-Effective Responses to Cybercrime]]></title>
-        <id>https://www.darkreading.com/risk/cambridge-centre-for-risk-studies-and-kivu-release-benchmark-of-cost-effective-responses-to-cybercrime</id>
-        <link href="https://www.darkreading.com/risk/cambridge-centre-for-risk-studies-and-kivu-release-benchmark-of-cost-effective-responses-to-cybercrime"/>
-        <updated>2022-12-06T20:50:00.000Z</updated>
-        <author>
-            <name>Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google Chrome Flaw Added to CISA Patch List]]></title>
-        <id>https://www.darkreading.com/vulnerabilities-threats/google-chrome-flaw-added-to-cisa-patch-list</id>
-        <link href="https://www.darkreading.com/vulnerabilities-threats/google-chrome-flaw-added-to-cisa-patch-list"/>
-        <updated>2022-12-06T20:05:00.000Z</updated>
-        <summary type="html"><![CDATA[CISA gives agencies deadline to patch against Google Chrome bug being actively exploited in the wild.]]></summary>
-        <author>
-            <name>Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Russia Readies Winter Cyberattacks As Troops Retreat From Ukraine]]></title>
-        <id>https://www.darkreading.com/threat-intelligence/russia-readies-winter-cyberattacks-as-troops-retreat-from-ukraine</id>
-        <link href="https://www.darkreading.com/threat-intelligence/russia-readies-winter-cyberattacks-as-troops-retreat-from-ukraine"/>
-        <updated>2022-12-06T19:54:00.000Z</updated>
-        <summary type="html"><![CDATA[Microsoft warns that the Kremlin is ramping up cyberattacks against infrastructure and supply chains and starting disinformation campaigns as Russian troops lose on the battlefield.]]></summary>
-        <author>
-            <name>Dark Reading Staff, Dark Reading</name>
         </author>
     </entry>
     <entry>
