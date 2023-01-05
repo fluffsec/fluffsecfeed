@@ -279,6 +279,36 @@
       "siteUrl": "https://www.darkreading.com",
       "articles": [
         {
+          "id": "https://www.darkreading.com/cloud/rackspace-ransomware-attack-microsoft-exchange-server-zero-day-exploit",
+          "author": "Kelly Jackson Higgins, Editor-in-Chief",
+          "description": "The hosting provider had not applied Microsoft's new patch due to publicly reported issues with the update.",
+          "link": "https://www.darkreading.com/cloud/rackspace-ransomware-attack-microsoft-exchange-server-zero-day-exploit",
+          "publishedOn": "2023-01-04T23:21:00.000Z",
+          "wordCount": 12829,
+          "title": "Rackspace: Ransomware Attack Bypassed ProxyNotShell Mitigations",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltb0e0f8e307c2012b/615dfe95486c9a5b53695aa0/KJH.PNG",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltb0e0f8e307c2012b/615dfe95486c9a5b53695aa0/KJH.PNG"
+        },
+        {
+          "id": "https://www.darkreading.com/attacks-breaches/five-guys-data-breach-hr-data",
+          "author": "Tara Seals, Managing Editor, News, Dark Reading",
+          "description": "Job applicants could face a raft of follow-on attacks after cyber intruders accessed their data in an opportunistic attack.",
+          "link": "https://www.darkreading.com/attacks-breaches/five-guys-data-breach-hr-data",
+          "publishedOn": "2023-01-04T22:01:56.000Z",
+          "wordCount": 16276,
+          "title": "Five Guys Data Breach Puts HR Data Under a Heat Lamp",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltea67136f81f32eca/626a9eb4726e3315b16b3c64/Tara-Seals-Headshot2.jpg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltea67136f81f32eca/626a9eb4726e3315b16b3c64/Tara-Seals-Headshot2.jpg"
+        },
+        {
           "id": "https://www.darkreading.com/edge-ask-the-experts/what-are-some-ways-to-make-apis-more-secure-",
           "author": "Rory Blundell, CEO, Gravitee",
           "description": "Developers should go beyond the basics to make it harder to exploit the API.",
@@ -2897,21 +2927,6 @@
           "wordCount": 10552,
           "title": "AlgoSec Acquires Prevasio To Disrupt Agentless Cloud Security Market",
           "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
-        },
-        {
-          "id": "https://www.darkreading.com/threat-intelligence/machine-learning-models-dangerous-new-attack-vector",
-          "author": "Elizabeth Montalbano, Contributor, Dark Reading",
-          "description": "Threat actors can weaponize code within AI technology to gain initial network access, move laterally, deploy malware, steal data, or even poison an organization's supply chain.",
-          "link": "https://www.darkreading.com/threat-intelligence/machine-learning-models-dangerous-new-attack-vector",
-          "publishedOn": "2022-12-06T14:01:28.000Z",
-          "wordCount": 12541,
-          "title": "Machine Learning Models: A Dangerous New Attack Vector",
-          "enclosure": {
-            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltbfd004d139d42d70/6303bca6236c2476a257760e/ElizabethMontalbano.jpg",
-            "type": "image/*",
-            "length": "0"
-          },
-          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltbfd004d139d42d70/6303bca6236c2476a257760e/ElizabethMontalbano.jpg"
         }
       ]
     },
@@ -5174,54 +5189,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhygbF_4uOcqHCnRuuVUDczBpW3DpwEDCUnF8sEEHn36Q8IiYbtrQPaiUaVeH7avNwBh2RW2W2bFqve7jrtVdD0io_my4ih2rmy2Nz76rH2AX3NJSQqSxkt286Ec73Gy6egIsSOhEf5-e8dQXipmVnXD1KnN3g0hsbr4h2YEXNN7p2yvs3JppQVQCKb/s1600/iran-hackers.jpg"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhygbF_4uOcqHCnRuuVUDczBpW3DpwEDCUnF8sEEHn36Q8IiYbtrQPaiUaVeH7avNwBh2RW2W2bFqve7jrtVdD0io_my4ih2rmy2Nz76rH2AX3NJSQqSxkt286Ec73Gy6egIsSOhEf5-e8dQXipmVnXD1KnN3g0hsbr4h2YEXNN7p2yvs3JppQVQCKb/s1600/iran-hackers.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2022/12/darknets-largest-mobile-malware.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Cybersecurity researchers have shed light on a darknet marketplace called InTheBox that's designed to specifically cater to mobile malware operators.\nThe actor behind the criminal storefront, believed to be available since at least January 2020, has been offering over 400 custom web injects grouped by geography that can be purchased by other adversaries looking to mount attacks of their own.\n\"",
-          "link": "https://thehackernews.com/2022/12/darknets-largest-mobile-malware.html",
-          "publishedOn": "2022-12-06T12:38:00.000Z",
-          "wordCount": null,
-          "title": "Darknet's Largest Mobile Malware Marketplace Threatens Users Worldwide",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgcGjZ7VVT9SpIPc5PGDRzE8rgV9mrSqeI1sAzk8snC6vJE_DwiAk3aYyT7aobqSZ8KCmVjuBvh2N0FkuJxWWjLwOzUBe-SgrL8j2eV_BIKJc2TzcpmY_JPV-QkDATjW19zKzYo0w_r5LgUuWs7zq50gv_9FwXtRbNsVp4uQI58JapE0t7sLW9ydxXz/s1600/web-injects.png"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgcGjZ7VVT9SpIPc5PGDRzE8rgV9mrSqeI1sAzk8snC6vJE_DwiAk3aYyT7aobqSZ8KCmVjuBvh2N0FkuJxWWjLwOzUBe-SgrL8j2eV_BIKJc2TzcpmY_JPV-QkDATjW19zKzYo0w_r5LgUuWs7zq50gv_9FwXtRbNsVp4uQI58JapE0t7sLW9ydxXz/s1600/web-injects.png"
-        },
-        {
-          "id": "https://thehackernews.com/2022/12/understanding-nist-csf-to-assess-your.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Ransomware attacks keep increasing in volume and impact largely due to organizations' weak security controls. Mid-market companies are targeted as they possess a significant amount of valuable data but lack the level of protective controls and staffing of larger organizations.\nAccording to a recent RSM survey, 62% of mid-market companies believe they are at risk of ransomware in the next 12",
-          "link": "https://thehackernews.com/2022/12/understanding-nist-csf-to-assess-your.html",
-          "publishedOn": "2022-12-06T12:15:00.000Z",
-          "wordCount": null,
-          "title": "Understanding NIST CSF to assess your organization's Ransomware readiness",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhazEbim19IOjdq6sYe7fiyWEYqMDxI31nMBDoHDdw5LK5O4l5zffPVDbloSwuz9XHAWv18-GucAdrN6GWgztVmXt-F5HxlI9KkPt_UEzmTYTHbNLy4IpvC0HLPXYI4y1Wc38r7PO0gzgTo42BfqeYrio2pAMUcipRHX4VQN2AykYIzUyxdS61oH0pd/s1600/cynet.png"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhazEbim19IOjdq6sYe7fiyWEYqMDxI31nMBDoHDdw5LK5O4l5zffPVDbloSwuz9XHAWv18-GucAdrN6GWgztVmXt-F5HxlI9KkPt_UEzmTYTHbNLy4IpvC0HLPXYI4y1Wc38r7PO0gzgTo42BfqeYrio2pAMUcipRHX4VQN2AykYIzUyxdS61oH0pd/s1600/cynet.png"
-        },
-        {
-          "id": "https://thehackernews.com/2022/12/telcom-and-bpo-companies-under-attack.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "A persistent intrusion campaign has set its eyes on telecommunications and business process outsourcing (BPO) companies at lease since June 2022.\n\"The end objective of this campaign appears to be to gain access to mobile carrier networks and, as evidenced in two investigations, perform SIM swapping activity,\" CrowdStrike researcher Tim Parisi said in an analysis published last week.\nThe",
-          "link": "https://thehackernews.com/2022/12/telcom-and-bpo-companies-under-attack.html",
-          "publishedOn": "2022-12-06T11:00:00.000Z",
-          "wordCount": null,
-          "title": "Telcom and BPO Companies Under Attack by SIM Swapping Hackers",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhJRNzIX92Xdj41-KPPjbySdiHaYLK4b9_N3T4vdb2EeNQTa-eD4DNUEIibrs8iw7-QN68Y_7mUg-79kgaMX8jK5JDIuRVlTTjX5ok3PfSG8XsSARIvwcxICD2XAIWLU-eRoZlHFjvZ7Dlp2Z_qa9aBFMbz5M0nqm21rGXJQ5X4dDg0b19k0fOmYA2M/s1600/sim-hacking.png"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhJRNzIX92Xdj41-KPPjbySdiHaYLK4b9_N3T4vdb2EeNQTa-eD4DNUEIibrs8iw7-QN68Y_7mUg-79kgaMX8jK5JDIuRVlTTjX5ok3PfSG8XsSARIvwcxICD2XAIWLU-eRoZlHFjvZ7Dlp2Z_qa9aBFMbz5M0nqm21rGXJQ5X4dDg0b19k0fOmYA2M/s1600/sim-hacking.png"
         }
       ]
     }
