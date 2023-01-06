@@ -2,10 +2,33 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-06T07:16:52.587Z</updated>
+    <updated>2023-01-06T13:25:27.268Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Rackspace Confirms Play Ransomware Gang Responsible for Recent Breach]]></title>
+        <id>https://thehackernews.com/2023/01/rackspace-confirms-play-ransomware-gang.html</id>
+        <link href="https://thehackernews.com/2023/01/rackspace-confirms-play-ransomware-gang.html"/>
+        <updated>2023-01-06T09:01:00.000Z</updated>
+        <summary type="html"><![CDATA[Cloud services provider Rackspace on Thursday confirmed that the ransomware gang known as Play was responsible for last month's breach.
+The security incident, which took place on December 2, 2022, leveraged a previously unknown security exploit to gain initial access to the Rackspace Hosted Exchange email environment.
+"This zero-day exploit is associated with CVE-2022-41080," the Texas-based]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WhatsApp Introduces Proxy Support to Help Users Bypass Internet Censorship]]></title>
+        <id>https://thehackernews.com/2023/01/whatsapp-introduces-proxy-support-to.html</id>
+        <link href="https://thehackernews.com/2023/01/whatsapp-introduces-proxy-support-to.html"/>
+        <updated>2023-01-06T08:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Popular instant messaging service WhatsApp has launched support for proxy servers in the latest version of its Android and iOS apps, letting users circumvent government-imposed censorship and internet shutdowns.
+"Choosing a proxy enables you to connect to WhatsApp through servers set up by volunteers and organizations around the world dedicated to helping people communicate freely," the]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Rackspace Sunsets Email Service Downed in Ransomware Attack]]></title>
         <id>https://www.darkreading.com/attacks-breaches/rackspace-discontinues-email-service-downed-in-ransomware-attack</id>
@@ -3847,56 +3870,6 @@ The wiper, referred to as Fantasy by ESET, is believed to have been delivered vi
         <summary type="html"><![CDATA[Security researchers share their biggest initial screwups in some of their key vulnerability discoveries.]]></summary>
         <author>
             <name>Kelly Jackson Higgins, Editor-in-Chief, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rackspace Incident Highlights How Disruptive Attacks on Cloud Providers Can Be]]></title>
-        <id>https://www.darkreading.com/cloud/rackspace-incident-highlights-disruptive-attacks-on-cloud-providers</id>
-        <link href="https://www.darkreading.com/cloud/rackspace-incident-highlights-disruptive-attacks-on-cloud-providers"/>
-        <updated>2022-12-07T22:40:00.000Z</updated>
-        <summary type="html"><![CDATA[A ransomware attack on the company's Hosted Exchange environment disrupted email for thousands of mostly small and midsize businesses.]]></summary>
-        <author>
-            <name>Jai Vijayan, Contributing Writer, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fraudsters Siphon $360M From Retailers Using 50M Fake Shoppers]]></title>
-        <id>https://www.darkreading.com/threat-intelligence/fraudsters-siphon-360m-fake-shoppers</id>
-        <link href="https://www.darkreading.com/threat-intelligence/fraudsters-siphon-360m-fake-shoppers"/>
-        <updated>2022-12-07T22:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Cyberattackers focused on ad fraud and clickjacking stole millions during Black Friday by hijacking shopper accounts and tying up transactions.]]></summary>
-        <author>
-            <name>Robert Lemos, Contributing Writer, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Android Serves Up a Slew of Security Updates, 4 Critical]]></title>
-        <id>https://www.darkreading.com/application-security/android-serves-up-slew-security-updates-4-critical</id>
-        <link href="https://www.darkreading.com/application-security/android-serves-up-slew-security-updates-4-critical"/>
-        <updated>2022-12-07T21:42:21.000Z</updated>
-        <summary type="html"><![CDATA[Out of more than 80 flaws fixed this month, the most critical was a system component bug that could allow RCE over Bluetooth.]]></summary>
-        <author>
-            <name>Dark Reading Staff, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Key Security Announcements From AWS re:Invent 2022]]></title>
-        <id>https://www.darkreading.com/dr-tech/key-security-announcements-from-aws-re-invent-2022</id>
-        <link href="https://www.darkreading.com/dr-tech/key-security-announcements-from-aws-re-invent-2022"/>
-        <updated>2022-12-07T21:18:00.000Z</updated>
-        <summary type="html"><![CDATA[At AWS re:Invent last week, the cloud giant previewed security services including Amazon Security Lake for security telemetry, Verified Permissions for developers, and a VPN bypass service.]]></summary>
-        <author>
-            <name>Jeffrey Schwartz, Contributing Writer, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[4 Arrested for Filing Fake Tax Returns With Stolen Data]]></title>
-        <id>https://www.darkreading.com/attacks-breaches/4-arrested-for-filing-fake-tax-returns-with-stolen-data</id>
-        <link href="https://www.darkreading.com/attacks-breaches/4-arrested-for-filing-fake-tax-returns-with-stolen-data"/>
-        <updated>2022-12-07T20:05:00.000Z</updated>
-        <summary type="html"><![CDATA[Cybercrooks allegedly stole personal data, used it to file IRS tax documents, and routed refunds to bank accounts under their control.]]></summary>
-        <author>
-            <name>Dark Reading Staff, Dark Reading</name>
         </author>
     </entry>
     <entry>
