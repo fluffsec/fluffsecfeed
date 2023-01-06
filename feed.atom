@@ -2,10 +2,79 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-05T19:16:09.414Z</updated>
+    <updated>2023-01-06T02:21:36.443Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Rackspace Sunsets Email Service Downed in Ransomware Attack]]></title>
+        <id>https://www.darkreading.com/attacks-breaches/rackspace-discontinues-email-service-downed-in-ransomware-attack</id>
+        <link href="https://www.darkreading.com/attacks-breaches/rackspace-discontinues-email-service-downed-in-ransomware-attack"/>
+        <updated>2023-01-05T23:53:00.000Z</updated>
+        <summary type="html"><![CDATA[The hosting services provider shared new details on the breach that took down its Hosted Exchange Email service.]]></summary>
+        <author>
+            <name>Kelly Jackson Higgins, Editor-in-Chief, Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Confidential Computing Can Change Cybersecurity]]></title>
+        <id>https://www.darkreading.com/edge-articles/how-confidential-computing-can-change-cybersecurity</id>
+        <link href="https://www.darkreading.com/edge-articles/how-confidential-computing-can-change-cybersecurity"/>
+        <updated>2023-01-05T22:45:00.000Z</updated>
+        <summary type="html"><![CDATA[Encrypting data while in use, not just in transit and at rest, closes one more avenue of cyberattack.]]></summary>
+        <author>
+            <name>Kolawole Samuel Adebayo, Contributing Writer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[200M Twitter Profiles, with Email Addys, Dumped on Dark Web for Free]]></title>
+        <id>https://www.darkreading.com/application-security/200m-twitter-profiles-dumped-dark-web-free-including-emails</id>
+        <link href="https://www.darkreading.com/application-security/200m-twitter-profiles-dumped-dark-web-free-including-emails"/>
+        <updated>2023-01-05T22:08:00.000Z</updated>
+        <summary type="html"><![CDATA[A data dump of Twitter user details on an underground forum appears to stem from an API endpoint compromise and large-scale data scraping.]]></summary>
+        <author>
+            <name>Tara Seals, Managing Editor, News, Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LogRhythm Enhances Security Analytics With Expanded Security Operations Capabilities]]></title>
+        <id>https://www.darkreading.com/operations/logrhythm-enhances-security-analytics-with-expanded-security-operations-capabilities</id>
+        <link href="https://www.darkreading.com/operations/logrhythm-enhances-security-analytics-with-expanded-security-operations-capabilities"/>
+        <updated>2023-01-05T20:35:00.000Z</updated>
+        <summary type="html"><![CDATA[New platform features and integrations enable analysts to quickly detect and remediate threats.]]></summary>
+        <author>
+            <name>Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New Survey: One In Four Schools Were Victims Of Cyber Attacks In the Last Year; Administrators To Increase Spending On Privacy and Security]]></title>
+        <id>https://www.darkreading.com/attacks-breaches/new-survey-one-in-four-schools-were-victims-of-cyber-attacks-in-the-last-year-administrators-to-increase-spending-on-privacy-and-security</id>
+        <link href="https://www.darkreading.com/attacks-breaches/new-survey-one-in-four-schools-were-victims-of-cyber-attacks-in-the-last-year-administrators-to-increase-spending-on-privacy-and-security"/>
+        <updated>2023-01-05T20:21:00.000Z</updated>
+        <summary type="html"><![CDATA[In a new survey from Clever, 3 out of 4 school districts say they will increase their spending on security and privacy in the next two to three years; 1 in 4 teachers report that cybersecurity training is missing in their district.]]></summary>
+        <author>
+            <name>Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Check Point Research Reports a 38% Increase In 2022 Global Cyberattacks]]></title>
+        <id>https://www.darkreading.com/attacks-breaches/check-point-research-reports-a-38-increase-in-2022-global-cyberattacks</id>
+        <link href="https://www.darkreading.com/attacks-breaches/check-point-research-reports-a-38-increase-in-2022-global-cyberattacks"/>
+        <updated>2023-01-05T20:09:00.000Z</updated>
+        <author>
+            <name>Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CircleCI: Rotate Stored Secrets ASAP]]></title>
+        <id>https://www.darkreading.com/application-security/circleci-rotate-stored-secrets-asap</id>
+        <link href="https://www.darkreading.com/application-security/circleci-rotate-stored-secrets-asap"/>
+        <updated>2023-01-05T19:20:00.000Z</updated>
+        <summary type="html"><![CDATA[DevOps platform warns customers of a "security incident" under investigation.]]></summary>
+        <author>
+            <name>Dark Reading Staff, Dark Reading</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[New Crypto Scam Targets Flipper Zero Buyers Impersonating Legitimate Shops]]></title>
         <id>https://blog.knowbe4.com/new-crypto-scam-targets-flipper-zero-buyers-impersonating-legitimate-shops</id>
@@ -3919,90 +3988,6 @@ Other prominent industry verticals targeted include healthcare, governments, man
         <summary type="html"><![CDATA[Ransomware strikes organizations almost every two seconds. Tales of bad actors doing their worst fill the InfoSec news cycle, but what happens when the hackers get hacked?]]></summary>
         <author>
             <name>Stu Sjouwerman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Russian Threat Actor Impersonates Aerospace and Defense Companies]]></title>
-        <id>https://blog.knowbe4.com/russian-threat-actor-impersonates-aerospace-and-defense-companies</id>
-        <link href="https://blog.knowbe4.com/russian-threat-actor-impersonates-aerospace-and-defense-companies"/>
-        <updated>2022-12-07T13:54:58.000Z</updated>
-        <summary type="html"><![CDATA[A Russia-linked threat actor tracked as TAG-53 is running phishing campaigns impersonating various defense, aerospace, and logistic companies, according to The Record by Recorded Future. Recorded Future’s Insikt Group identified overlaps with a threat actor tracked by other companies as Callisto Group, COLDRIVER, and SEABORGIUM.]]></summary>
-        <author>
-            <name>Stu Sjouwerman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Holiday Shopping Scams Online Are Too Good to be True]]></title>
-        <id>https://blog.knowbe4.com/holiday-shopping-scams-online-are-too-good-to-be-true</id>
-        <link href="https://blog.knowbe4.com/holiday-shopping-scams-online-are-too-good-to-be-true"/>
-        <updated>2022-12-07T13:54:49.000Z</updated>
-        <summary type="html"><![CDATA[It's three weeks before Christmas, and the latest video game console is getting harder and harder to find in stores. You've checked all the large retail stores online and visited them locally as well. You've talked to the retail workers to see if they know when more game consoles are coming in, and they don't even know. You've seen them on the various auction sites, but at three, four, and ten times the actual cost, you know they're worth online. You've checked your social media platforms and see that other people are having the same issues finding the game console.]]></summary>
-        <author>
-            <name>James McQuiggan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How XDR Helps Protect Critical Infrastructure]]></title>
-        <id>https://thehackernews.com/2022/12/how-xdr-helps-protect-critical.html</id>
-        <link href="https://thehackernews.com/2022/12/how-xdr-helps-protect-critical.html"/>
-        <updated>2022-12-07T13:39:00.000Z</updated>
-        <summary type="html"><![CDATA[Critical infrastructure is important for societal existence, growth, and development. Societies are reliant on the services provided by critical infrastructure sectors like telecommunication, energy, healthcare, transportation, and information technology. Safety and security are necessary for the optimal operation of these critical infrastructures. Critical infrastructure is made up of digital]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chinese Hackers Using Russo-Ukrainian War Decoys to Target APAC and European Entities]]></title>
-        <id>https://thehackernews.com/2022/12/chinese-hackers-using-russo-ukrainian.html</id>
-        <link href="https://thehackernews.com/2022/12/chinese-hackers-using-russo-ukrainian.html"/>
-        <updated>2022-12-07T12:14:00.000Z</updated>
-        <summary type="html"><![CDATA[The China-linked nation-state hacking group referred to as Mustang Panda is using lures related to the ongoing Russo-Ukrainian War to attack entities in Europe and the Asia Pacific.
-That's according to the BlackBerry Research and Intelligence Team, which analyzed a RAR archive file titled "Political Guidance for the new EU approach towards Russia.rar." Some of the targeted countries include]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Russian Hackers Spotted Targeting U.S. Military Weapons and Hardware Supplier]]></title>
-        <id>https://thehackernews.com/2022/12/russian-hackers-spotted-targeting-us.html</id>
-        <link href="https://thehackernews.com/2022/12/russian-hackers-spotted-targeting-us.html"/>
-        <updated>2022-12-07T11:58:00.000Z</updated>
-        <summary type="html"><![CDATA[A state-sponsored hacking group with links to Russia has been linked to attack infrastructure that spoofs the Microsoft login page of Global Ordnance, a legitimate U.S.-based military weapons and hardware supplier.
-Recorded Future attributed the new infrastructure to a threat activity group it tracks under the name TAG-53, and is broadly known by the cybersecurity community as Blue Callisto,]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Zerobot Weaponizes Numerous Flaws in Slew of IoT Devices]]></title>
-        <id>https://www.darkreading.com/remote-workforce/zerobot-weaponizes-numerous-flaws-iot-devices</id>
-        <link href="https://www.darkreading.com/remote-workforce/zerobot-weaponizes-numerous-flaws-iot-devices"/>
-        <updated>2022-12-07T10:35:34.000Z</updated>
-        <summary type="html"><![CDATA[The botnet exploits flaws in various routers, firewalls, network-attached storage, webcams, and other products and allows attackers to take over affected systems.]]></summary>
-        <author>
-            <name>Elizabeth Montalbano, Contributor, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[For Cyberattackers, Popular EDR Tools Can Turn into Destructive Data Wipers]]></title>
-        <id>https://www.darkreading.com/vulnerabilities-threats/cyberattackers-popular-edr-tools-destructive-data-wipers</id>
-        <link href="https://www.darkreading.com/vulnerabilities-threats/cyberattackers-popular-edr-tools-destructive-data-wipers"/>
-        <updated>2022-12-07T10:30:36.000Z</updated>
-        <summary type="html"><![CDATA[Microsoft, three others release patches to fix a vulnerability in their respective products that enables such manipulation. Potentially other EDR products affected as well.]]></summary>
-        <author>
-            <name>Jai Vijayan, Contributing Writer, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft Alerts Cryptocurrency Industry of Targeted Cyberattacks]]></title>
-        <id>https://thehackernews.com/2022/12/microsoft-alerts-cryptocurrency.html</id>
-        <link href="https://thehackernews.com/2022/12/microsoft-alerts-cryptocurrency.html"/>
-        <updated>2022-12-07T09:22:00.000Z</updated>
-        <summary type="html"><![CDATA[Cryptocurrency investment companies are the target of a developing threat cluster that uses Telegram groups to seek out potential victims.
-Microsoft's Security Threat Intelligence Center (MSTIC) is tracking the activity under the name DEV-0139, and builds upon a recent report from Volexity that attributed the same set of attacks to North Korea's Lazarus Group.
-"DEV-0139 joined Telegram groups]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
         </author>
     </entry>
     <entry>
