@@ -220,16 +220,6 @@
           "wordCount": 885,
           "title": "Fortinet Releases Security Updates for FortiOS",
           "imageUrl": null
-        },
-        {
-          "id": "18198 at https://us-cert.cisa.gov",
-          "author": "CISA",
-          "description": "Original release date: December 9, 2022\nCisco released a security advisory for a vulnerability affecting IP Phone 7800 and 8800 Series. A remote attacker could exploit this vulnerability to cause a denial-of-service condition. For more information, see the Cisco Security Advisories page.\nCISA encourages users and administrators to review Cisco IP Phone 7800 and 8800 Series Cisco Discovery Protocol Stack Overflow Vulnerability and apply the necessary updates.\nThis product is provided subject to this Notification and this Privacy & Use policy.",
-          "link": "https://us-cert.cisa.gov/ncas/current-activity/2022/12/09/cisco-releases-security-advisory-ip-phone-7800-and-8800-series",
-          "publishedOn": "2022-12-09T15:59:30.000Z",
-          "wordCount": 900,
-          "title": "Cisco Releases Security Advisory for IP Phone 7800 and 8800 Series",
-          "imageUrl": null
         }
       ]
     },
@@ -2637,66 +2627,6 @@
             "length": "0"
           },
           "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blte161b23f0fd3a84b/60b1ea374e7eb868c4c6a293/dr_staff_125x125.jpg"
-        },
-        {
-          "id": "https://www.darkreading.com/application-security/7-ways-gaming-companies-battle-cybercrime-platforms",
-          "author": "Ericka Chickowski, Contributing Writer, Dark Reading",
-          "description": "Balancing gameplay and security can drive down risks and improve gamers' trust and loyalty.",
-          "link": "https://www.darkreading.com/application-security/7-ways-gaming-companies-battle-cybercrime-platforms",
-          "publishedOn": "2022-12-09T18:06:00.000Z",
-          "wordCount": 10377,
-          "title": "7 Ways Gaming Companies Can Battle Cybercrime on Their Platforms",
-          "enclosure": {
-            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt1fa01ab14787f501/60b1e9a77f791568be5e0dbb/ErickaChick_125x125.jpeg",
-            "type": "image/*",
-            "length": "0"
-          },
-          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt1fa01ab14787f501/60b1e9a77f791568be5e0dbb/ErickaChick_125x125.jpeg"
-        },
-        {
-          "id": "https://www.darkreading.com/microsoft/43-trillion-security-data-points-illuminate-our-most-pressing-threats",
-          "author": "Microsoft Security, Microsoft",
-          "description": "A new report helps companies understand an ever-changing threat landscape and how to strengthen their defenses against emerging cybersecurity trends.",
-          "link": "https://www.darkreading.com/microsoft/43-trillion-security-data-points-illuminate-our-most-pressing-threats",
-          "publishedOn": "2022-12-09T16:36:09.000Z",
-          "wordCount": 10724,
-          "title": "43 Trillion Security Data Points Illuminate Our Most Pressing Threats",
-          "enclosure": {
-            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt8fe4479bc32f84b4/6321f5362769d078008692a9/MS-Security_logo.png",
-            "type": "image/*",
-            "length": "0"
-          },
-          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt8fe4479bc32f84b4/6321f5362769d078008692a9/MS-Security_logo.png"
-        },
-        {
-          "id": "https://www.darkreading.com/threat-intelligence/iranian-apt-targets-us-drokbk-spyware-github",
-          "author": "Nathan Eddy, Contributing Writer, Dark Reading",
-          "description": "The custom malware used by the state-backed Iranian threat group Drokbk has so far flown under the radar by using GitHub as a \"dead-drop resolver\" to more easily evade detection.",
-          "link": "https://www.darkreading.com/threat-intelligence/iranian-apt-targets-us-drokbk-spyware-github",
-          "publishedOn": "2022-12-09T15:04:44.000Z",
-          "wordCount": 10517,
-          "title": "Iranian APT Targets US With Drokbk Spyware via GitHub",
-          "enclosure": {
-            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltf8b5a94afa71c53a/628e3799daa31875dc0c9fc0/NathanEddyHeadshot.PNG",
-            "type": "image/*",
-            "length": "0"
-          },
-          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltf8b5a94afa71c53a/628e3799daa31875dc0c9fc0/NathanEddyHeadshot.PNG"
-        },
-        {
-          "id": "https://www.darkreading.com/vulnerabilities-threats/how-naming-can-change-the-game-in-software-supply-chain-security",
-          "author": "Curtis Yanko,  Principal Solutions Architect, GrammaTech",
-          "description": "A reliance on CPE names currently makes accurate searching for high-risk security vulnerabilities difficult.",
-          "link": "https://www.darkreading.com/vulnerabilities-threats/how-naming-can-change-the-game-in-software-supply-chain-security",
-          "publishedOn": "2022-12-09T15:00:00.000Z",
-          "wordCount": 11212,
-          "title": "How Naming Can Change the Game in Software Supply Chain Security",
-          "enclosure": {
-            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltd0cb3d4317020ffe/63593b95ae3002077dc38082/Curtis_Yanko_Photo.jpg",
-            "type": "image/*",
-            "length": "0"
-          },
-          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltd0cb3d4317020ffe/63593b95ae3002077dc38082/Curtis_Yanko_Photo.jpg"
         }
       ]
     },
@@ -3208,6 +3138,22 @@
       "feedUrl": "https://thehackernews.com/feeds/posts/default",
       "siteUrl": "https://thehackernews.com",
       "articles": [
+        {
+          "id": "https://thehackernews.com/2023/01/russian-turla-hackers-hijack-decade-old.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "The Russian cyberespionage group known as Turla has been observed piggybacking on attack infrastructure used by a decade-old malware to deliver its own reconnaissance and backdoor tools to targets in Ukraine.\nGoogle-owned Mandiant, which is tracking the operation under the uncategorized cluster moniker UNC4210, said the hijacked servers correspond to a variant of a commodity malware called",
+          "link": "https://thehackernews.com/2023/01/russian-turla-hackers-hijack-decade-old.html",
+          "publishedOn": "2023-01-08T06:15:00.000Z",
+          "wordCount": null,
+          "title": "Russian Turla Hackers Hijack Decade-Old Malware Infrastructure to Deploy New Backdoors",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgHWgyFm7fUTm-Cra-2X00SErg__2a7C1XJQwaEc9iJ7TWoQY1HCy_f3UJlKoP9gyyTj0xUbToAPmBqvLG6K3IsEQtxSoEFPI6D-d8t5QNesrQSYeL5WsiSdM1d_Zy25eYabntkKVqnl3fg0YBYO2Wz8ig1MSY-T1U5MOkw-wxdbxXiIZaGOFs1Og-3/s1600/hackers.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgHWgyFm7fUTm-Cra-2X00SErg__2a7C1XJQwaEc9iJ7TWoQY1HCy_f3UJlKoP9gyyTj0xUbToAPmBqvLG6K3IsEQtxSoEFPI6D-d8t5QNesrQSYeL5WsiSdM1d_Zy25eYabntkKVqnl3fg0YBYO2Wz8ig1MSY-T1U5MOkw-wxdbxXiIZaGOFs1Og-3/s1600/hackers.png"
+        },
         {
           "id": "https://thehackernews.com/2023/01/hackers-using-captcha-bypass-tactics-in.html",
           "author": "info@thehackernews.com (The Hacker News)",
@@ -4807,38 +4753,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg74Qw8xnMGDesKJ9RG6vIb7BCCz4ByuSZenzTRoctwIU3Zry1M1z7V5e0YvCKQv7UHw4X5scCr-4WH4Rvc-qc8gem-oczmMxCnllb8AYiiLoXL6u5OuGguW6CPyb5P0Jd5gOQ0RjDMs0qemXVHhDuey41qp822u7Y2ANGq66PXpzWRGQ_uiC5fzklI/s1600/phone-hacking.png"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg74Qw8xnMGDesKJ9RG6vIb7BCCz4ByuSZenzTRoctwIU3Zry1M1z7V5e0YvCKQv7UHw4X5scCr-4WH4Rvc-qc8gem-oczmMxCnllb8AYiiLoXL6u5OuGguW6CPyb5P0Jd5gOQ0RjDMs0qemXVHhDuey41qp822u7Y2ANGq66PXpzWRGQ_uiC5fzklI/s1600/phone-hacking.png"
-        },
-        {
-          "id": "https://thehackernews.com/2022/12/using-xdr-to-consolidate-and-optimize.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Businesses know they need cybersecurity, but it seems like a new acronym and system is popping up every day. Professionals that aren’t actively researching these technologies can struggle to keep up. As the cybersecurity landscape becomes more complicated, organizations are desperate to simplify it. Frustrated with the inefficiencies that come with using multiple vendors for cybersecurity, often",
-          "link": "https://thehackernews.com/2022/12/using-xdr-to-consolidate-and-optimize.html",
-          "publishedOn": "2022-12-09T17:50:00.000Z",
-          "wordCount": null,
-          "title": "Using XDR to Consolidate and Optimize Cybersecurity Technology",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjkQZuMW6-SoAXnxviDT042QoFW9kGATHZMY3tsDvTLziab313inNRWuSKkLxLF_UkTOlL2Y0se_vUtjOkRZ55DlfiIsx83a4IOpP61a83b7a9Lj4DX-L5F6-SogqDf5WlFavyMf_AS-20IZ7DXQzhtLq2QjVF35H9KSfIduYjzlN-qznwi-3Q3jHGd/s1600/cynet.png"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjkQZuMW6-SoAXnxviDT042QoFW9kGATHZMY3tsDvTLziab313inNRWuSKkLxLF_UkTOlL2Y0se_vUtjOkRZ55DlfiIsx83a4IOpP61a83b7a9Lj4DX-L5F6-SogqDf5WlFavyMf_AS-20IZ7DXQzhtLq2QjVF35H9KSfIduYjzlN-qznwi-3Q3jHGd/s1600/cynet.png"
-        },
-        {
-          "id": "https://thehackernews.com/2022/12/new-truebot-malware-variant-leveraging.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Cybersecurity researchers have reported an increase in TrueBot infections, primarily targeting Mexico, Brazil, Pakistan, and the U.S.\nCisco Talos said the attackers behind the operation have moved from using malicious emails to alternative delivery methods such as the exploitation of a now-patched remote code execution (RCE) flaw in Netwrix auditor as well as the Raspberry Robin worm.\n\"",
-          "link": "https://thehackernews.com/2022/12/new-truebot-malware-variant-leveraging.html",
-          "publishedOn": "2022-12-09T17:16:00.000Z",
-          "wordCount": null,
-          "title": "New Truebot Malware Variant Leveraging Netwrix Auditor Bug and Raspberry Robin Worm",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtmEQPKuIji3B59d4vI4qx8IgBt8R_-wVylbUTvf6_HvIUFoGcJzG-Y62Z0M4UcRe1U6lVHkzmIQy3bRDV4dvemmKXtGEnUo43hIKYMb73Tjl4AkPVwlPdBsWxGF-WV6qLTgBOzkHO2VbPTsyE09-5mixzHSiYn8PNHtHmfpzCkbGy1Aamrg4Eb0A5/s1600/notnet-2.png"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtmEQPKuIji3B59d4vI4qx8IgBt8R_-wVylbUTvf6_HvIUFoGcJzG-Y62Z0M4UcRe1U6lVHkzmIQy3bRDV4dvemmKXtGEnUo43hIKYMb73Tjl4AkPVwlPdBsWxGF-WV6qLTgBOzkHO2VbPTsyE09-5mixzHSiYn8PNHtHmfpzCkbGy1Aamrg4Eb0A5/s1600/notnet-2.png"
         }
       ]
     }

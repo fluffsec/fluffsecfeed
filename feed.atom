@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-08T02:22:36.242Z</updated>
+    <updated>2023-01-08T07:16:50.056Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Russian Turla Hackers Hijack Decade-Old Malware Infrastructure to Deploy New Backdoors]]></title>
+        <id>https://thehackernews.com/2023/01/russian-turla-hackers-hijack-decade-old.html</id>
+        <link href="https://thehackernews.com/2023/01/russian-turla-hackers-hijack-decade-old.html"/>
+        <updated>2023-01-08T06:15:00.000Z</updated>
+        <summary type="html"><![CDATA[The Russian cyberespionage group known as Turla has been observed piggybacking on attack infrastructure used by a decade-old malware to deliver its own reconnaissance and backdoor tools to targets in Ukraine.
+Google-owned Mandiant, which is tracking the operation under the uncategorized cluster moniker UNC4210, said the hijacked servers correspond to a variant of a commodity malware called]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[In Memoriam: Remembering Those Who Passed]]></title>
         <id>https://www.darkreading.com/edge-slideshows/in-memoriam-remembering-those-who-passed</id>
@@ -3611,81 +3622,6 @@ The networking equipment major said it's working on a patch to address the vulne
         <summary type="html"><![CDATA[MuddyWater joins threat groups BatLoader and Luna Moth, which have also been using Syncro to take over devices.]]></summary>
         <author>
             <name>Dark Reading Staff, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[7 Ways Gaming Companies Can Battle Cybercrime on Their Platforms]]></title>
-        <id>https://www.darkreading.com/application-security/7-ways-gaming-companies-battle-cybercrime-platforms</id>
-        <link href="https://www.darkreading.com/application-security/7-ways-gaming-companies-battle-cybercrime-platforms"/>
-        <updated>2022-12-09T18:06:00.000Z</updated>
-        <summary type="html"><![CDATA[Balancing gameplay and security can drive down risks and improve gamers' trust and loyalty.]]></summary>
-        <author>
-            <name>Ericka Chickowski, Contributing Writer, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Using XDR to Consolidate and Optimize Cybersecurity Technology]]></title>
-        <id>https://thehackernews.com/2022/12/using-xdr-to-consolidate-and-optimize.html</id>
-        <link href="https://thehackernews.com/2022/12/using-xdr-to-consolidate-and-optimize.html"/>
-        <updated>2022-12-09T17:50:00.000Z</updated>
-        <summary type="html"><![CDATA[Businesses know they need cybersecurity, but it seems like a new acronym and system is popping up every day. Professionals that aren’t actively researching these technologies can struggle to keep up. As the cybersecurity landscape becomes more complicated, organizations are desperate to simplify it. Frustrated with the inefficiencies that come with using multiple vendors for cybersecurity, often]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Truebot Malware Variant Leveraging Netwrix Auditor Bug and Raspberry Robin Worm]]></title>
-        <id>https://thehackernews.com/2022/12/new-truebot-malware-variant-leveraging.html</id>
-        <link href="https://thehackernews.com/2022/12/new-truebot-malware-variant-leveraging.html"/>
-        <updated>2022-12-09T17:16:00.000Z</updated>
-        <summary type="html"><![CDATA[Cybersecurity researchers have reported an increase in TrueBot infections, primarily targeting Mexico, Brazil, Pakistan, and the U.S.
-Cisco Talos said the attackers behind the operation have moved from using malicious emails to alternative delivery methods such as the exploitation of a now-patched remote code execution (RCE) flaw in Netwrix auditor as well as the Raspberry Robin worm.
-"]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[43 Trillion Security Data Points Illuminate Our Most Pressing Threats]]></title>
-        <id>https://www.darkreading.com/microsoft/43-trillion-security-data-points-illuminate-our-most-pressing-threats</id>
-        <link href="https://www.darkreading.com/microsoft/43-trillion-security-data-points-illuminate-our-most-pressing-threats"/>
-        <updated>2022-12-09T16:36:09.000Z</updated>
-        <summary type="html"><![CDATA[A new report helps companies understand an ever-changing threat landscape and how to strengthen their defenses against emerging cybersecurity trends.]]></summary>
-        <author>
-            <name>Microsoft Security, Microsoft</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cisco Releases Security Advisory for IP Phone 7800 and 8800 Series]]></title>
-        <id>18198 at https://us-cert.cisa.gov</id>
-        <link href="https://us-cert.cisa.gov/ncas/current-activity/2022/12/09/cisco-releases-security-advisory-ip-phone-7800-and-8800-series"/>
-        <updated>2022-12-09T15:59:30.000Z</updated>
-        <summary type="html"><![CDATA[Original release date: December 9, 2022
-Cisco released a security advisory for a vulnerability affecting IP Phone 7800 and 8800 Series. A remote attacker could exploit this vulnerability to cause a denial-of-service condition. For more information, see the Cisco Security Advisories page.
-CISA encourages users and administrators to review Cisco IP Phone 7800 and 8800 Series Cisco Discovery Protocol Stack Overflow Vulnerability and apply the necessary updates.
-This product is provided subject to this Notification and this Privacy & Use policy.]]></summary>
-        <author>
-            <name>CISA</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Iranian APT Targets US With Drokbk Spyware via GitHub]]></title>
-        <id>https://www.darkreading.com/threat-intelligence/iranian-apt-targets-us-drokbk-spyware-github</id>
-        <link href="https://www.darkreading.com/threat-intelligence/iranian-apt-targets-us-drokbk-spyware-github"/>
-        <updated>2022-12-09T15:04:44.000Z</updated>
-        <summary type="html"><![CDATA[The custom malware used by the state-backed Iranian threat group Drokbk has so far flown under the radar by using GitHub as a "dead-drop resolver" to more easily evade detection.]]></summary>
-        <author>
-            <name>Nathan Eddy, Contributing Writer, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Naming Can Change the Game in Software Supply Chain Security]]></title>
-        <id>https://www.darkreading.com/vulnerabilities-threats/how-naming-can-change-the-game-in-software-supply-chain-security</id>
-        <link href="https://www.darkreading.com/vulnerabilities-threats/how-naming-can-change-the-game-in-software-supply-chain-security"/>
-        <updated>2022-12-09T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A reliance on CPE names currently makes accurate searching for high-risk security vulnerabilities difficult.]]></summary>
-        <author>
-            <name>Curtis Yanko,  Principal Solutions Architect, GrammaTech</name>
         </author>
     </entry>
     <entry>
