@@ -2,10 +2,102 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-09T13:27:29.507Z</updated>
+    <updated>2023-01-09T19:16:40.027Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA['Copyright Infringement' Lure Used for Facebook Credential Harvesting]]></title>
+        <id>https://www.darkreading.com/attacks-breaches/-copyright-infringement-lure-facebook-credential-harvesting</id>
+        <link href="https://www.darkreading.com/attacks-breaches/-copyright-infringement-lure-facebook-credential-harvesting"/>
+        <updated>2023-01-09T19:00:59.000Z</updated>
+        <summary type="html"><![CDATA[Business users receive a message from Facebook warning their accounts will be permanently suspended for using photos illegally if they don't appeal within 24 hours, leading victims to a credential-harvesting page instead.]]></summary>
+        <author>
+            <name>Nathan Eddy, Contributing Writer, Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JsonWebToken Security Bug Opens Servers to RCE]]></title>
+        <id>https://www.darkreading.com/vulnerabilities-threats/jsonwebtoken-security-bug-opens-servers-rce</id>
+        <link href="https://www.darkreading.com/vulnerabilities-threats/jsonwebtoken-security-bug-opens-servers-rce"/>
+        <updated>2023-01-09T17:45:00.000Z</updated>
+        <summary type="html"><![CDATA[The JsonWebToken package plays a big role in the authentication and authorization functionality for many applications.]]></summary>
+        <author>
+            <name>Nathan Eddy, Contributing Writer, Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Schneider Electric and BitSight Announce Partnership to Improve Detection of Operational Technology (OT) Cybersecurity Exposure]]></title>
+        <id>https://www.darkreading.com/ics-ot/schneider-electric-and-bitsight-announce-partnership-to-improve-detection-of-operational-technology-ot-cybersecurity-exposure</id>
+        <link href="https://www.darkreading.com/ics-ot/schneider-electric-and-bitsight-announce-partnership-to-improve-detection-of-operational-technology-ot-cybersecurity-exposure"/>
+        <updated>2023-01-09T16:03:00.000Z</updated>
+        <author>
+            <name>Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Good, the Bad and the Truth About Password Managers]]></title>
+        <id>https://blog.knowbe4.com/the-good-the-bad-and-the-truth-about-password-managers</id>
+        <link href="https://blog.knowbe4.com/the-good-the-bad-and-the-truth-about-password-managers"/>
+        <updated>2023-01-09T15:36:23.000Z</updated>
+        <summary type="html"><![CDATA[We strongly recommend that you use a password manager to reduce password reuse and improve complexity, but you may be wondering if it’s really worth the risk. Is it safe to store all of your passwords in one place? Can cybercriminals hack them? Are password managers a single point of failure?]]></summary>
+        <author>
+            <name>Stu Sjouwerman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[7 Use Cases for Distributed Cloud Environments]]></title>
+        <id>https://www.darkreading.com/edge-articles/7-use-cases-for-distributed-cloud-environments</id>
+        <link href="https://www.darkreading.com/edge-articles/7-use-cases-for-distributed-cloud-environments"/>
+        <updated>2023-01-09T15:30:00.000Z</updated>
+        <summary type="html"><![CDATA[As infrastructure has grown more complex, the need to effectively manage it has grown, too – particularly for applications and APIs.]]></summary>
+        <author>
+            <name>Joshua Goldfarb, Security and Fraud Architect, F5</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Web 3.0 Shifts Attack Surface and Highlights Need for Continuous Security]]></title>
+        <id>https://www.darkreading.com/attacks-breaches/web-3-0-shifts-attack-surface-and-highlights-need-for-continuous-security-</id>
+        <link href="https://www.darkreading.com/attacks-breaches/web-3-0-shifts-attack-surface-and-highlights-need-for-continuous-security-"/>
+        <updated>2023-01-09T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A model of continuous authentication and identification is needed to keep consumers safe.]]></summary>
+        <author>
+            <name>Sameer Hajarnis, Chief Product Officer, OneSpan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Phishing in the Service of Espionage]]></title>
+        <id>https://blog.knowbe4.com/phishing-in-the-service-of-espionage</id>
+        <link href="https://blog.knowbe4.com/phishing-in-the-service-of-espionage"/>
+        <updated>2023-01-09T14:14:12.000Z</updated>
+        <summary type="html"><![CDATA[Reuters describes a cyberespionage campaign carried out by the hitherto little-known threat group researchers track as "Cold River." The group is circumstantially but convincingly linked to Russian intelligence services (possibly the FSB, although that's unclear) through its Russophone operations and the location of at least one of its personnel in the northern city of Syktyvkar, capital of the Komi region.]]></summary>
+        <author>
+            <name>Stu Sjouwerman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kinsing Cryptojacking Hits Kubernetes Clusters via Misconfigured PostgreSQL]]></title>
+        <id>https://thehackernews.com/2023/01/kinsing-cryptojacking-hits-kubernetes.html</id>
+        <link href="https://thehackernews.com/2023/01/kinsing-cryptojacking-hits-kubernetes.html"/>
+        <updated>2023-01-09T14:03:00.000Z</updated>
+        <summary type="html"><![CDATA[The threat actors behind the Kinsing cryptojacking operation have been spotted exploiting misconfigured and exposed PostgreSQL servers to obtain initial access to Kubernetes environments.
+A second initial access vector technique entails the use of vulnerable images, Sunders Bruskin, security researcher at Microsoft Defender for Cloud, said in a report last week.
+Kinsing has a storied history of]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New Study Uncovers Text-to-SQL Model Vulnerabilities Allowing Data Theft and DoS Attacks]]></title>
+        <id>https://thehackernews.com/2023/01/new-study-uncovers-text-to-sql-model.html</id>
+        <link href="https://thehackernews.com/2023/01/new-study-uncovers-text-to-sql-model.html"/>
+        <updated>2023-01-09T13:37:00.000Z</updated>
+        <summary type="html"><![CDATA[A group of academics has demonstrated novel attacks that leverage Text-to-SQL models to produce malicious code that could enable adversaries to glean sensitive information and stage denial-of-service (DoS) attacks.
+"To better interact with users, a wide range of database applications employ AI techniques that can translate human questions into SQL queries (namely Text-to-SQL)," Xutan Peng, a]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Why Do User Permissions Matter for SaaS Security?]]></title>
         <id>https://thehackernews.com/2023/01/why-do-user-permissions-matter-for-saas.html</id>
