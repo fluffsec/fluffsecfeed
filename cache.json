@@ -12,6 +12,16 @@
       "siteUrl": "https://us-cert.cisa.gov/",
       "articles": [
         {
+          "id": "18264 at https://us-cert.cisa.gov",
+          "author": "CISA",
+          "description": "Original release date: January 10, 2023\nCISA released two Industrial Control Systems (ICS) advisories on January 10, 2023. These advisories provide timely information about current security issues, vulnerabilities, and exploits surrounding ICS.\nCISA encourages users and administrators to review the newly released ICS advisories for technical details and mitigations:\nICSA-23-010-01 Black Box KVM\nICSA-22-298-07 Delta Electronics InfraSuite Device Master (Update A)\nThis product is provided subject to this Notification and this Privacy & Use policy.",
+          "link": "https://us-cert.cisa.gov/ncas/current-activity/2023/01/10/cisa-releases-two-industrial-control-systems-advisories",
+          "publishedOn": "2023-01-10T13:53:07.000Z",
+          "wordCount": 963,
+          "title": "CISA Releases Two Industrial Control Systems Advisories",
+          "imageUrl": null
+        },
+        {
           "id": "18262 at https://us-cert.cisa.gov",
           "author": "CISA",
           "description": "Original release date: January 5, 2023\nCISA released three Industrial Control Systems (ICS) advisories on January 5 2023. These advisories provide timely information about current security issues, vulnerabilities, and exploits surrounding ICS.\nCISA encourages users and administrators to review the newly released ICS advisories for technical details and mitigations:\nICSA-23-005-01 Hitachi Energy UNEM\nICSA-23-005-02 Hitachi Energy FOXMAN-UN\nICSA-23-005-03 Hitachi Energy Lumada Asset Performance Management\nThis product is provided subject to this Notification and this Privacy & Use policy.",
@@ -258,6 +268,126 @@
       "feedUrl": "https://www.darkreading.com/rss.xml",
       "siteUrl": "https://www.darkreading.com",
       "articles": [
+        {
+          "id": "https://www.darkreading.com/vulnerabilities-threats/quantum-decryption-breakthrough-not-so-fast",
+          "author": "Robert Lemos, Contributing Writer, Dark Reading",
+          "description": "A paper by two dozen Chinese researchers maintains that near-future quantum computers could crack RSA-2048 encryption, but experts call the claims misleading.",
+          "link": "https://www.darkreading.com/vulnerabilities-threats/quantum-decryption-breakthrough-not-so-fast",
+          "publishedOn": "2023-01-10T18:05:00.000Z",
+          "wordCount": 14428,
+          "title": "Quantum Decryption Breakthrough? Not So Fast",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt58481326324d6911/60b1e9a55d34de550780a990/Robert-Lemos.png",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt58481326324d6911/60b1e9a55d34de550780a990/Robert-Lemos.png"
+        },
+        {
+          "id": "https://www.darkreading.com/cloud/microsoft-kinsing-malware-kubernetes-containers-postgresql",
+          "author": "Elizabeth Montalbano, Contributor, Dark Reading",
+          "description": "The cryptomining malware, which typically targets Linux, is exploiting weaknesses in an open source container tool for initial access to cloud environments.",
+          "link": "https://www.darkreading.com/cloud/microsoft-kinsing-malware-kubernetes-containers-postgresql",
+          "publishedOn": "2023-01-10T17:00:00.000Z",
+          "wordCount": 14296,
+          "title": "Microsoft: Kinsing Targets Kubernetes via Containers, PostgreSQL",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltbfd004d139d42d70/6303bca6236c2476a257760e/ElizabethMontalbano.jpg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltbfd004d139d42d70/6303bca6236c2476a257760e/ElizabethMontalbano.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/vulnerabilities-threats/netspi-acquires-nvisium",
+          "author": null,
+          "description": "nVisium's cloud and application security experts join NetSPI to support, scale, and deliver the most comprehensive suite of offensive security solutions.",
+          "link": "https://www.darkreading.com/vulnerabilities-threats/netspi-acquires-nvisium",
+          "publishedOn": "2023-01-10T15:39:00.000Z",
+          "wordCount": 13022,
+          "title": "NetSPI Acquires nVisium",
+          "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/threat-intelligence/vade-releases-advanced-threat-intel-investigation-capabilities",
+          "author": null,
+          "description": "New Add-On Empowers SOCs and MSPs to Automate & Orchestrate Incident Response for Microsoft 365.",
+          "link": "https://www.darkreading.com/threat-intelligence/vade-releases-advanced-threat-intel-investigation-capabilities",
+          "publishedOn": "2023-01-10T15:30:00.000Z",
+          "wordCount": 13968,
+          "title": "Vade Releases Advanced Threat Intel & Investigation Capabilities",
+          "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/attacks-breaches/65-of-organizations-plan-to-adopt-a-security-service-edge-platform-in-next-2-years-axis-security",
+          "author": null,
+          "description": "2023 Security Service Edge (SSE) Adoption Report finds that SSE technology addresses key pain points including much-needed solution consolidation, transition to hybrid work and need for hardened security.",
+          "link": "https://www.darkreading.com/attacks-breaches/65-of-organizations-plan-to-adopt-a-security-service-edge-platform-in-next-2-years-axis-security",
+          "publishedOn": "2023-01-10T15:18:00.000Z",
+          "wordCount": 14096,
+          "title": "65% of Organizations Plan to Adopt a Security Service Edge Platform in Next 2 Years: Axis Security",
+          "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/cloud/netskope-threat-research-malware-delivering-cloud-apps-nearly-tripled-in-2022",
+          "author": null,
+          "description": "401 distinct cloud apps shown to deliver malware; Microsoft OneDrive delivered 30% of all cloud malware downloads.",
+          "link": "https://www.darkreading.com/cloud/netskope-threat-research-malware-delivering-cloud-apps-nearly-tripled-in-2022",
+          "publishedOn": "2023-01-10T15:04:00.000Z",
+          "wordCount": 14225,
+          "title": "Netskope Threat Research: Malware-Delivering Cloud Apps Nearly Tripled in 2022",
+          "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/vulnerabilities-threats/preparing-for-the-effects-of-quantum-centric-supercomputing",
+          "author": "Richard Searle, Vice President of Confidential Computing, Fortanix",
+          "description": "While it has been a perennial forecast that efficient universal quantum computers are “a decade away,” that prospect now seems a legitimate possibility. Organizations need to get ready now.",
+          "link": "https://www.darkreading.com/vulnerabilities-threats/preparing-for-the-effects-of-quantum-centric-supercomputing",
+          "publishedOn": "2023-01-10T15:00:00.000Z",
+          "wordCount": 15088,
+          "title": "Preparing for the Effects Of Quantum-Centric Supercomputing",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt13de8f216d3b1d66/60fae9c9138d416455fdc124/RichardSearle.png",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt13de8f216d3b1d66/60fae9c9138d416455fdc124/RichardSearle.png"
+        },
+        {
+          "id": "https://www.darkreading.com/attacks-breaches/delinea-2022-state-of-ransomware-report-reveals-that-attacks-are-down-61-from-the-previous-year-and-ransom-payments-are-also-on-the-decline",
+          "author": null,
+          "description": "Annual survey uncovers surprising data but warns against complacency.",
+          "link": "https://www.darkreading.com/attacks-breaches/delinea-2022-state-of-ransomware-report-reveals-that-attacks-are-down-61-from-the-previous-year-and-ransom-payments-are-also-on-the-decline",
+          "publishedOn": "2023-01-10T15:00:00.000Z",
+          "wordCount": 12875,
+          "title": "Delinea 2022 State of Ransomware Report Reveals That Attacks Are Down 61% From the Previous Year, and Ransom Payments Are Also on the Decline",
+          "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/endpoint/moving-analytics-launches-single-sign-on-to-strengthen-data-security-and-improve-user-experience",
+          "author": null,
+          "description": "Moving Analytics, leading provider of virtual cardiac rehabilitation and prevention, announced that it is launching single sign on authentication for its entire software platform.",
+          "link": "https://www.darkreading.com/endpoint/moving-analytics-launches-single-sign-on-to-strengthen-data-security-and-improve-user-experience",
+          "publishedOn": "2023-01-10T14:52:00.000Z",
+          "wordCount": 12447,
+          "title": "Moving Analytics Launches Single Sign on to Strengthen Data Security and Improve User Experience",
+          "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/iot/black-hat-flashback-deadly-consequences-weak-medical-device-security",
+          "author": "Becky Bracken, Editor, Dark Reading",
+          "description": "Hacking to kill: Dark Reading's Fahmida Y. Rashid reflects on the monumental Black Hat 2011 moment when Jay Radcliffe showed how to hack his insulin pump.",
+          "link": "https://www.darkreading.com/iot/black-hat-flashback-deadly-consequences-weak-medical-device-security",
+          "publishedOn": "2023-01-10T14:00:00.000Z",
+          "wordCount": 11943,
+          "title": "Black Hat Flashback: The Deadly Consequences of Weak Medical Device Security",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt8e7bd143d726930b/627271268681151716941064/BeckyB.jpg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt8e7bd143d726930b/627271268681151716941064/BeckyB.jpg"
+        },
         {
           "id": "https://www.darkreading.com/dr-tech/firmware-vulnerability-in-chips-helps-hackers-take-control-of-systems",
           "author": "Agam Shah, Contributing Writer",
@@ -2717,31 +2847,6 @@
           "wordCount": 10987,
           "title": "Palo Alto Networks Xpanse Active Attack Surface Management Automatically Remediates Cyber Risks Before They Lead to Cyberattacks",
           "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
-        },
-        {
-          "id": "https://www.darkreading.com/remote-workforce/nearly-4-500-pulse-connect-secure-vpns-unpatched-vulnerable-",
-          "author": "Dark Reading Staff, Dark Reading",
-          "description": "Pulse Connect VPN server software received several updates over the years, and thousands of hosts haven't patched.",
-          "link": "https://www.darkreading.com/remote-workforce/nearly-4-500-pulse-connect-secure-vpns-unpatched-vulnerable-",
-          "publishedOn": "2022-12-12T07:00:00.000Z",
-          "wordCount": 8738,
-          "title": "Nearly 4,500 Pulse Connect Secure VPNs Left Unpatched and Vulnerable",
-          "enclosure": {
-            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blte161b23f0fd3a84b/60b1ea374e7eb868c4c6a293/dr_staff_125x125.jpg",
-            "type": "image/*",
-            "length": "0"
-          },
-          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blte161b23f0fd3a84b/60b1ea374e7eb868c4c6a293/dr_staff_125x125.jpg"
-        },
-        {
-          "id": "https://www.darkreading.com/cloud/trilio-raises-17m-appoints-massood-zarrabian-as-ceo",
-          "author": null,
-          "description": "Funding and new leadership to drive innovation and growth in cloud-native application resiliency; round led by SKK Ventures with T-Mobile and Telefonica.",
-          "link": "https://www.darkreading.com/cloud/trilio-raises-17m-appoints-massood-zarrabian-as-ceo",
-          "publishedOn": "2022-12-12T05:00:00.000Z",
-          "wordCount": 10802,
-          "title": "Trilio Raises $17M, Appoints Massood Zarrabian as CEO",
-          "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
         }
       ]
     },
@@ -2806,6 +2911,16 @@
       "feedUrl": "https://blog.knowbe4.com/rss.xml",
       "siteUrl": "https://blog.knowbe4.com",
       "articles": [
+        {
+          "id": "https://blog.knowbe4.com/cyberheistnews-vol-13-02-bad-taste-there-is-a-new-trend-in-social-engineering-with-a-disgusting-name-pig-butchering",
+          "author": "Stu Sjouwerman",
+          "description": "CyberheistNews Vol 13 #02 [Bad Taste] There Is a New Trend in Social Engineering With a Disgusting Name; 'Pig-butchering'",
+          "link": "https://blog.knowbe4.com/cyberheistnews-vol-13-02-bad-taste-there-is-a-new-trend-in-social-engineering-with-a-disgusting-name-pig-butchering",
+          "publishedOn": "2023-01-10T14:00:00.000Z",
+          "wordCount": 4844,
+          "title": "CyberheistNews Vol 13 #02 [Bad Taste] There Is a New Trend in Social Engineering With a Disgusting Name; 'Pig-butchering'",
+          "imageUrl": "https://blog.knowbe4.com/hubfs/CHN-Social.jpg#keepProtocol"
+        },
         {
           "id": "https://blog.knowbe4.com/the-good-the-bad-and-the-truth-about-password-managers",
           "author": "Stu Sjouwerman",
@@ -3263,6 +3378,54 @@
       "feedUrl": "https://thehackernews.com/feeds/posts/default",
       "siteUrl": "https://thehackernews.com",
       "articles": [
+        {
+          "id": "https://thehackernews.com/2023/01/strongpity-hackers-distribute.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "The advanced persistent threat (APT) group known as StrongPity has targeted Android users with a trojanized version of the Telegram app through a fake website that impersonates a video chat service called Shagle.\n\"A copycat website, mimicking the Shagle service, is used to distribute StrongPity's mobile backdoor app,\" ESET malware researcher Lukáš Štefanko said in a technical report. \"The app is",
+          "link": "https://thehackernews.com/2023/01/strongpity-hackers-distribute.html",
+          "publishedOn": "2023-01-10T16:40:00.000Z",
+          "wordCount": null,
+          "title": "StrongPity Hackers Distribute Trojanized Telegram App to Target Android Users",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgxXu91CqjstWs8eDcZG0xJP0bH1IqpEM8doI_Eqss85qE47ID0OxGyfLgsnbzmatGwBGm3w_UrbSC_igpqSGL0Da0EBRasbULNRmcyIz622_9HKrFSXeoljcDAoUd-m3WnhIkQsZ5J_th-slhlj58oXA3Ku0tsWPsyalffq8cpVbxEnkzuwntAlscq/s1600/telegram.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgxXu91CqjstWs8eDcZG0xJP0bH1IqpEM8doI_Eqss85qE47ID0OxGyfLgsnbzmatGwBGm3w_UrbSC_igpqSGL0Da0EBRasbULNRmcyIz622_9HKrFSXeoljcDAoUd-m3WnhIkQsZ5J_th-slhlj58oXA3Ku0tsWPsyalffq8cpVbxEnkzuwntAlscq/s1600/telegram.png"
+        },
+        {
+          "id": "https://thehackernews.com/2023/01/expert-analysis-reveals-cryptographic.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "A comprehensive analysis of the cryptographic protocols used in the Swiss encrypted messaging application Threema has revealed a number of loopholes that could be exploited to break authentication protections and even recover users' private keys.\nThe seven attacks span three different threat models, according to ETH Zurich researchers Kenneth G. Paterson, Matteo Scarlata, and Kien Tuong Truong,",
+          "link": "https://thehackernews.com/2023/01/expert-analysis-reveals-cryptographic.html",
+          "publishedOn": "2023-01-10T13:59:00.000Z",
+          "wordCount": null,
+          "title": "Expert Analysis Reveals Cryptographic Weaknesses in Threema Messaging App",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpaE_D5nfmlvXEHXDjvdPSmY2PacrnU08gK7a-BRzKtrb_7jwUeJgxCO2szrK0AObUq6et7nk_nvMB-RarmpXHoipNxH2C_rxDfzzZ-tA6INCN1bmAtF8ufShWIf0RkKqaiWvgDLPZ6EMtxMXbztGlRH-lsenG13wDb79Y-zr4IWxQXGzEBgCiatoH/s1600/hacking.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpaE_D5nfmlvXEHXDjvdPSmY2PacrnU08gK7a-BRzKtrb_7jwUeJgxCO2szrK0AObUq6et7nk_nvMB-RarmpXHoipNxH2C_rxDfzzZ-tA6INCN1bmAtF8ufShWIf0RkKqaiWvgDLPZ6EMtxMXbztGlRH-lsenG13wDb79Y-zr4IWxQXGzEBgCiatoH/s1600/hacking.png"
+        },
+        {
+          "id": "https://thehackernews.com/2023/01/italian-users-warned-of-malware-attack.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "A new malware campaign has been observed targeting Italy with phishing emails designed to deploy an information stealer on compromised Windows systems.\n\"The info-stealer malware steals sensitive information like system info, crypto wallet and browser histories, cookies, and credentials of crypto wallets from victim machines,\" Uptycs security researcher Karthickkumar Kathiresan said in a report.",
+          "link": "https://thehackernews.com/2023/01/italian-users-warned-of-malware-attack.html",
+          "publishedOn": "2023-01-10T12:54:00.000Z",
+          "wordCount": null,
+          "title": "Italian Users Warned of Malware Attack Targeting Sensitive Information",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgcRTHoXPV2g_bfn5JZc1ylF6KFOtOMS43yGjO2HFZibZXMrWd9QIUDtkdcBowSjFmv5Eoni6YmBzD9aCHTDVzHIGEL4ZgFSQmec61TpP4k6_kf3pH_iUbERMsIVwslUpPu1UPJLmevBuSfwk7mJRAkoqKgaCO6fqtALTuWWR2B8rt2Osb3LlF8mJyY/s1600/hack.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgcRTHoXPV2g_bfn5JZc1ylF6KFOtOMS43yGjO2HFZibZXMrWd9QIUDtkdcBowSjFmv5Eoni6YmBzD9aCHTDVzHIGEL4ZgFSQmec61TpP4k6_kf3pH_iUbERMsIVwslUpPu1UPJLmevBuSfwk7mJRAkoqKgaCO6fqtALTuWWR2B8rt2Osb3LlF8mJyY/s1600/hack.png"
+        },
         {
           "id": "https://thehackernews.com/2023/01/critical-security-flaw-found-in.html",
           "author": "info@thehackernews.com (The Hacker News)",
