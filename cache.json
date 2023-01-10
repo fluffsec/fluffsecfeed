@@ -3264,6 +3264,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2023/01/critical-security-flaw-found-in.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "A high-severity security flaw has been disclosed in the open source jsonwebtoken (JWT) library that, if successfully exploited, could lead to remote code execution on a target server.\n\"By exploiting this vulnerability, attackers could achieve remote code execution (RCE) on a server verifying a maliciously crafted JSON web token (JWT) request,\" Palo Alto Networks Unit 42 researcher Artur Oleyarsh",
+          "link": "https://thehackernews.com/2023/01/critical-security-flaw-found-in.html",
+          "publishedOn": "2023-01-10T08:54:00.000Z",
+          "wordCount": null,
+          "title": "Severe Security Flaw Found in \"jsonwebtoken\" Library Used by 22,000+ Projects",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5LcBYzGpiZdVnYmwrcLsf152DDY3nLQTYRETW_R3U1IN_ZezhDUut1IiqziXbz51S6_bCjrJ1hjD0_lAags912yJnU_T1jxDMT3JjJTYOCC152EMfQrjofIeDn8BhmO6SZtQjI9scL0Xae4186kSTga71gVL5y0hqdvGYfhdFG_Z9TDErs2bnxn8Z/s1600/json.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5LcBYzGpiZdVnYmwrcLsf152DDY3nLQTYRETW_R3U1IN_ZezhDUut1IiqziXbz51S6_bCjrJ1hjD0_lAags912yJnU_T1jxDMT3JjJTYOCC152EMfQrjofIeDn8BhmO6SZtQjI9scL0Xae4186kSTga71gVL5y0hqdvGYfhdFG_Z9TDErs2bnxn8Z/s1600/json.png"
+        },
+        {
           "id": "https://thehackernews.com/2023/01/kinsing-cryptojacking-hits-kubernetes.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "The threat actors behind the Kinsing cryptojacking operation have been spotted exploiting misconfigured and exposed PostgreSQL servers to obtain initial access to Kubernetes environments.\nA second initial access vector technique entails the use of vulnerable images, Sunders Bruskin, security researcher at Microsoft Defender for Cloud, said in a report last week.\nKinsing has a storied history of",

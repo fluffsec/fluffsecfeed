@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-10T07:17:43.770Z</updated>
+    <updated>2023-01-10T13:27:22.572Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Severe Security Flaw Found in "jsonwebtoken" Library Used by 22,000+ Projects]]></title>
+        <id>https://thehackernews.com/2023/01/critical-security-flaw-found-in.html</id>
+        <link href="https://thehackernews.com/2023/01/critical-security-flaw-found-in.html"/>
+        <updated>2023-01-10T08:54:00.000Z</updated>
+        <summary type="html"><![CDATA[A high-severity security flaw has been disclosed in the open source jsonwebtoken (JWT) library that, if successfully exploited, could lead to remote code execution on a target server.
+"By exploiting this vulnerability, attackers could achieve remote code execution (RCE) on a server verifying a maliciously crafted JSON web token (JWT) request," Palo Alto Networks Unit 42 researcher Artur Oleyarsh]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Firmware Vulnerability in Chips Helps Hackers Take Control of Systems]]></title>
         <id>https://www.darkreading.com/dr-tech/firmware-vulnerability-in-chips-helps-hackers-take-control-of-systems</id>
