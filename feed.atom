@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-09T19:16:40.027Z</updated>
+    <updated>2023-01-10T02:23:09.304Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Firmware Vulnerability in Chips Helps Hackers Take Control of Systems]]></title>
+        <id>https://www.darkreading.com/dr-tech/firmware-vulnerability-in-chips-helps-hackers-take-control-of-systems</id>
+        <link href="https://www.darkreading.com/dr-tech/firmware-vulnerability-in-chips-helps-hackers-take-control-of-systems"/>
+        <updated>2023-01-09T23:41:00.000Z</updated>
+        <summary type="html"><![CDATA[The issue concerns the boot layer of ARM chips, which are driving a low-power mobile ecosystem that includes 5G smartphones and base stations.]]></summary>
+        <author>
+            <name>Agam Shah, Contributing Writer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Attackers Are Already Exploiting ChatGPT to Write Malicious Code]]></title>
+        <id>https://www.darkreading.com/attacks-breaches/attackers-are-already-exploiting-chatgpt-to-write-malicious-code</id>
+        <link href="https://www.darkreading.com/attacks-breaches/attackers-are-already-exploiting-chatgpt-to-write-malicious-code"/>
+        <updated>2023-01-09T22:55:00.000Z</updated>
+        <summary type="html"><![CDATA[The AI-based chatbot is allowing bad actors with absolutely no coding experience to develop malware.]]></summary>
+        <author>
+            <name>Jai Vijayan, Contributing Writer, Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Serbia Slammed With DDoS Attacks]]></title>
+        <id>https://www.darkreading.com/attacks-breaches/serbia-slammed-ddos-attack</id>
+        <link href="https://www.darkreading.com/attacks-breaches/serbia-slammed-ddos-attack"/>
+        <updated>2023-01-09T21:45:00.000Z</updated>
+        <summary type="html"><![CDATA[The Serbian government reports that it staved off five attacks aimed at crippling Serbian infrastructure.]]></summary>
+        <author>
+            <name>Dark Reading Staff, Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rackspace Ransomware Incident Highlights Risks of Relying on Mitigation Alone]]></title>
+        <id>https://www.darkreading.com/vulnerabilities-threats/rackspace-ransomware-incident-highlights-risks-mitigation-alone</id>
+        <link href="https://www.darkreading.com/vulnerabilities-threats/rackspace-ransomware-incident-highlights-risks-mitigation-alone"/>
+        <updated>2023-01-09T20:33:00.000Z</updated>
+        <summary type="html"><![CDATA[Organizations often defer patching because of business disruption fears — but that didn't work out very well for Rackspace's Hosted Exchange service.]]></summary>
+        <author>
+            <name>Jai Vijayan, Contributing Writer, Dark Reading</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA['Copyright Infringement' Lure Used for Facebook Credential Harvesting]]></title>
         <id>https://www.darkreading.com/attacks-breaches/-copyright-infringement-lure-facebook-credential-harvesting</id>
