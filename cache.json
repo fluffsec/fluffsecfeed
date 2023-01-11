@@ -2917,61 +2917,6 @@
           "wordCount": 10109,
           "title": "Shopify Plus Stores Can Easily Add Passwordless Login With Passkeys Support",
           "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
-        },
-        {
-          "id": "https://www.darkreading.com/edge-articles/what-we-can-t-see-can-hurt-us",
-          "author": "Joshua Goldfarb, Fraud Solutions Architect - EMEA and APCJ, F5",
-          "description": "Visibility into every environment, including cloud, enables businesses to mitigate operating risks.",
-          "link": "https://www.darkreading.com/edge-articles/what-we-can-t-see-can-hurt-us",
-          "publishedOn": "2022-12-12T16:11:26.000Z",
-          "wordCount": 10973,
-          "title": "What We Can't See Can Hurt Us",
-          "enclosure": {
-            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blte566b6aacec0a3ec/60d4347890ef0d39a2f3f97e/Joshua-Goldfarb2.png",
-            "type": "image/*",
-            "length": "0"
-          },
-          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blte566b6aacec0a3ec/60d4347890ef0d39a2f3f97e/Joshua-Goldfarb2.png"
-        },
-        {
-          "id": "https://www.darkreading.com/application-security/popular-wafs-json-bypass",
-          "author": "Robert Lemos, Contributing Writer, Dark Reading",
-          "description": "Web application firewalls from AWS, Cloudflare, F5, Imperva, and Palo Alto Networks are vulnerable to a database attack using the popular JavaScript Object Notation (JSON) format.",
-          "link": "https://www.darkreading.com/application-security/popular-wafs-json-bypass",
-          "publishedOn": "2022-12-12T15:21:36.000Z",
-          "wordCount": 10278,
-          "title": "Popular WAFs Subverted by JSON Bypass",
-          "enclosure": {
-            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt58481326324d6911/60b1e9a55d34de550780a990/Robert-Lemos.png",
-            "type": "image/*",
-            "length": "0"
-          },
-          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt58481326324d6911/60b1e9a55d34de550780a990/Robert-Lemos.png"
-        },
-        {
-          "id": "https://www.darkreading.com/attacks-breaches/when-companies-compensate-the-hackers-we-all-foot-the-bill",
-          "author": "Bat El Azerad, CEO and Co-founder, novoShield",
-          "description": "Ensuring stronger in-house defenses is integral to retaining customer loyalty.",
-          "link": "https://www.darkreading.com/attacks-breaches/when-companies-compensate-the-hackers-we-all-foot-the-bill",
-          "publishedOn": "2022-12-12T15:00:00.000Z",
-          "wordCount": 10761,
-          "title": "When Companies Compensate the Hackers, We All Foot the Bill",
-          "enclosure": {
-            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltab4bcdff24b7d2cb/63920f87c77d39110830ecf2/Bat_El_Azerad_Headshot.jpg",
-            "type": "image/*",
-            "length": "0"
-          },
-          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltab4bcdff24b7d2cb/63920f87c77d39110830ecf2/Bat_El_Azerad_Headshot.jpg"
-        },
-        {
-          "id": "https://www.darkreading.com/attacks-breaches/palo-alto-networks-xpanse-active-attack-surface-management-automatically-remediates-cyber-risks-before-they-lead-to-cyberattacks-",
-          "author": null,
-          "description": "New Cortex Xpanse features give organizations visibility and control of their attack surfaces to discover, evaluate, and address cyber risks.",
-          "link": "https://www.darkreading.com/attacks-breaches/palo-alto-networks-xpanse-active-attack-surface-management-automatically-remediates-cyber-risks-before-they-lead-to-cyberattacks-",
-          "publishedOn": "2022-12-12T15:00:00.000Z",
-          "wordCount": 10987,
-          "title": "Palo Alto Networks Xpanse Active Attack Surface Management Automatically Remediates Cyber Risks Before They Lead to Cyberattacks",
-          "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
         }
       ]
     },
@@ -3495,16 +3440,6 @@
           "wordCount": 3356,
           "title": "CISA Phishing Infographic Contains a Lot of Good Information",
           "imageUrl": "https://blog.knowbe4.com/hubfs/Social%20Image%20Repository/Evangelist%20Blog%20Social%20Graphics/Evangelists-Roger%20Grimes.jpg#keepProtocol"
-        },
-        {
-          "id": "https://blog.knowbe4.com/case-study-new-school-approach-to-training-and-simulated-phishing-shines-over-traditional-lms",
-          "author": "Stu Sjouwerman",
-          "description": "A U.S.-based enterprise manufacturing organization cut their Phish-prone Percentage™ (PPP) by more than 80% after five months using the KnowBe4 security awareness training and simulated phishing platform.",
-          "link": "https://blog.knowbe4.com/case-study-new-school-approach-to-training-and-simulated-phishing-shines-over-traditional-lms",
-          "publishedOn": "2022-12-12T18:49:34.000Z",
-          "wordCount": 2441,
-          "title": "[CASE STUDY] New-school Approach to Training and Simulated Phishing Shines Over Traditional LMS",
-          "imageUrl": "https://blog.knowbe4.com/hubfs/Case-Study-SM%20%281%29.jpg#keepProtocol"
         }
       ]
     },
@@ -3513,6 +3448,22 @@
       "feedUrl": "https://thehackernews.com/feeds/posts/default",
       "siteUrl": "https://thehackernews.com",
       "articles": [
+        {
+          "id": "https://thehackernews.com/2023/01/microsoft-issues-january-2023-patch.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "The first Patch Tuesday fixes shipped by Microsoft for 2023 have addressed a total of 98 security flaws, including one bug that the company said is being actively exploited in the wild.\n11 of the 98 issues are rated Critical and 87 are rated Important in severity, with one of the vulnerabilities also listed as publicly known at the time of release. Separately, the Windows maker is expected to",
+          "link": "https://thehackernews.com/2023/01/microsoft-issues-january-2023-patch.html",
+          "publishedOn": "2023-01-11T05:32:00.000Z",
+          "wordCount": null,
+          "title": "Microsoft Issues January 2023 Patch Tuesday Updates, Warns of Zero-Day Exploit",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiyHkYYSkQLNfTkF5U2rPnqNGFZUMkIy3f0RZbhFjdIX7tmfMoZAnLTO5tTtHc8qiDDpNC8JDj9VzMmKIQS6HBhXGMoQIJz_eeKA1sCzmutgT7KiSLUdjs3i7SLgNmp0rhOS5BCMXf_vBhitRLfbJY-xYMkziNda8Bm8K0sgBZBRvMned8E3gAUQJ8k/s1600/windows-update.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiyHkYYSkQLNfTkF5U2rPnqNGFZUMkIy3f0RZbhFjdIX7tmfMoZAnLTO5tTtHc8qiDDpNC8JDj9VzMmKIQS6HBhXGMoQIJz_eeKA1sCzmutgT7KiSLUdjs3i7SLgNmp0rhOS5BCMXf_vBhitRLfbJY-xYMkziNda8Bm8K0sgBZBRvMned8E3gAUQJ8k/s1600/windows-update.png"
+        },
         {
           "id": "https://thehackernews.com/2023/01/strongpity-hackers-distribute.html",
           "author": "info@thehackernews.com (The Hacker News)",
@@ -5160,54 +5111,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhe15H23NVWUj17wKQs7g1cRCttkjBWcqbY9eP-NsNXW3cM-BR_z8x86dLDak0PYGaWxANAxbOkFtyeAaCGijuP_f8pJO5n8_oeID2ziguIclHR2kG82hq6lXshAXpyifEEXMkdFuMdmVxQWrl6EkBgHtrXxUgtTLQ2UWjr3C6fvxpZI8lTMpbrVkiT/s1600/Fortinet-zero-day.jpg"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhe15H23NVWUj17wKQs7g1cRCttkjBWcqbY9eP-NsNXW3cM-BR_z8x86dLDak0PYGaWxANAxbOkFtyeAaCGijuP_f8pJO5n8_oeID2ziguIclHR2kG82hq6lXshAXpyifEEXMkdFuMdmVxQWrl6EkBgHtrXxUgtTLQ2UWjr3C6fvxpZI8lTMpbrVkiT/s1600/Fortinet-zero-day.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2022/12/researchers-demonstrate-how-edr-and.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "High-severity security vulnerabilities have been disclosed in different endpoint detection and response (EDR) and antivirus (AV) products that could be exploited to turn them into data wipers.\n\"This wiper runs with the permissions of an unprivileged user yet has the ability to wipe almost any file on a system, including system files, and make a computer completely unbootable,\" SafeBreach Labs",
-          "link": "https://thehackernews.com/2022/12/researchers-demonstrate-how-edr-and.html",
-          "publishedOn": "2022-12-12T17:28:00.000Z",
-          "wordCount": null,
-          "title": "Researchers Demonstrate How EDR and Antivirus Can Be Weaponized Against Users",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjj9qNzO0SqHJMEn9ZW2rXcsVX38_K-q9qMcex2-iDsE8ke9ik__AZsU4G_OwvS1aHghqf09oc21uEbI1R2LLJKuzXBVvE1-abXAHQlxGzNZR0gOrK9FKdfGYA_Ff4NQJiETlvqy367PPl0DFA1gPpjuBUHY8dT40OBHOQSpgHG5GF2Jm4Cmqn4RfkS/s1600/av.png"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjj9qNzO0SqHJMEn9ZW2rXcsVX38_K-q9qMcex2-iDsE8ke9ik__AZsU4G_OwvS1aHghqf09oc21uEbI1R2LLJKuzXBVvE1-abXAHQlxGzNZR0gOrK9FKdfGYA_Ff4NQJiETlvqy367PPl0DFA1gPpjuBUHY8dT40OBHOQSpgHG5GF2Jm4Cmqn4RfkS/s1600/av.png"
-        },
-        {
-          "id": "https://thehackernews.com/2022/12/top-4-saas-security-threats-for-2023.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "With 2022 coming to a close, there is no better time to buckle down and prepare to face the security challenges in the year to come. This past year has seen its fair share of breaches, attacks, and leaks, forcing organizations to scramble to protect their SaaS stacks. March alone saw three different breaches from Microsoft, Hubspot, and Okta. \nWith SaaS sprawl ever growing and becoming more",
-          "link": "https://thehackernews.com/2022/12/top-4-saas-security-threats-for-2023.html",
-          "publishedOn": "2022-12-12T15:24:00.000Z",
-          "wordCount": null,
-          "title": "Top 4 SaaS Security Threats for 2023",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg3Ey4AoEUVsO-nl4YhNmG1UEyOR3dMtPsOjgt0x2xKXMf9RnTNl5LWRSMMmO33JLMDfLsV21A-63f5q8iv9yeiQReYLJzDB9HyHxIJTnK34eA6ZXEfTccDvdM5rSnptzvgcrYzRS7oEmof5hvnEPCeMpVUgK9c1KlVQORTzcNm9U5_2Gw18q9Dq7K7wQ/s1600/2023.png"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg3Ey4AoEUVsO-nl4YhNmG1UEyOR3dMtPsOjgt0x2xKXMf9RnTNl5LWRSMMmO33JLMDfLsV21A-63f5q8iv9yeiQReYLJzDB9HyHxIJTnK34eA6ZXEfTccDvdM5rSnptzvgcrYzRS7oEmof5hvnEPCeMpVUgK9c1KlVQORTzcNm9U5_2Gw18q9Dq7K7wQ/s1600/2023.png"
-        },
-        {
-          "id": "https://thehackernews.com/2022/12/google-adds-passkey-support-to-chrome.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Google has officially begun rolling out support for passkeys, the next-generation passwordless login standard, to its stable version of Chrome web browser.\n\"Passkeys are a significantly safer replacement for passwords and other phishable authentication factors,\" the tech giant's Ali Sarraf said. \"They cannot be reused, don't leak in server breaches, and protect users from phishing attacks.\"\nThe",
-          "link": "https://thehackernews.com/2022/12/google-adds-passkey-support-to-chrome.html",
-          "publishedOn": "2022-12-12T14:24:00.000Z",
-          "wordCount": null,
-          "title": "Google Adds Passkey Support to Chrome for Windows, macOS and Android",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpbq-VJYQIHq-dkwcEoQQeboqNNhOWHIAk78dq6P9IAspoZsSQ38XX68diDsMRyxI1yyX5kR8kkgjKMQXXNlsVUCrL5p0qWj3c9HfFDgWvL9vg_I7rZvq6OgyKxMJkMScYvgCxbTyN9TN5W3ObBM3jM3Zn5Wz55uIxrbGnfbxPmkad5IRlgTkJEpRS/s1600/google-1.gif"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpbq-VJYQIHq-dkwcEoQQeboqNNhOWHIAk78dq6P9IAspoZsSQ38XX68diDsMRyxI1yyX5kR8kkgjKMQXXNlsVUCrL5p0qWj3c9HfFDgWvL9vg_I7rZvq6OgyKxMJkMScYvgCxbTyN9TN5W3ObBM3jM3Zn5Wz55uIxrbGnfbxPmkad5IRlgTkJEpRS/s1600/google-1.gif"
         }
       ]
     }
