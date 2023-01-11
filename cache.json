@@ -12,6 +12,36 @@
       "siteUrl": "https://us-cert.cisa.gov/",
       "articles": [
         {
+          "id": "18268 at https://us-cert.cisa.gov",
+          "author": "CISA",
+          "description": "Original release date: January 10, 2023\nAdobe has released security updates to address multiple vulnerabilities in Adobe software. An attacker could exploit some of these vulnerabilities to take control of an affected system.\nCISA encourages users and administrators to review the following Adobe Security Bulletins and apply the necessary updates.\nAdobe Acrobat and Reader APSB23-01\nAdobe InDesign APSB23-07\nAdobe InCopy APSB23-08\nAdobe Dimension APSB23-10\nThis product is provided subject to this Notification and this Privacy & Use policy.",
+          "link": "https://us-cert.cisa.gov/ncas/current-activity/2023/01/10/adobe-releases-security-updates-multiple-products",
+          "publishedOn": "2023-01-10T22:25:07.000Z",
+          "wordCount": 966,
+          "title": "Adobe Releases Security Updates for Multiple Products",
+          "imageUrl": null
+        },
+        {
+          "id": "18267 at https://us-cert.cisa.gov",
+          "author": "CISA",
+          "description": "Original release date: January 10, 2023\nMicrosoft has released updates to address multiple vulnerabilities in Microsoft software. An attacker could exploit some of these vulnerabilities to take control of an affected system.\nCISA encourages users and administrators to review Microsoft’s January 2023 Security Update Guide and Deployment Information and apply the necessary updates.\nThis product is provided subject to this Notification and this Privacy & Use policy.",
+          "link": "https://us-cert.cisa.gov/ncas/current-activity/2023/01/10/microsoft-releases-january-2023-security-updates",
+          "publishedOn": "2023-01-10T22:22:15.000Z",
+          "wordCount": 952,
+          "title": "Microsoft Releases January 2023 Security Updates",
+          "imageUrl": null
+        },
+        {
+          "id": "18266 at https://us-cert.cisa.gov",
+          "author": "CISA",
+          "description": "Original release date: January 10, 2023\nCISA has added two new vulnerabilities to its Known Exploited Vulnerabilities Catalog, based on evidence of active exploitation. These types of vulnerabilities are frequent attack vectors for malicious cyber actors and pose significant risks to the federal enterprise. Note: To view the newly added vulnerabilities in the catalog, click on the arrow in the \"Date Added to Catalog\" column, which will sort by descending dates.\nBinding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the Known Exploited Vulnerabilities Catalog as a living list of known CVEs that carry significant risk to the federal enterprise. BOD 22-01 requires FCEB agencies to remediate identified vulnerabilities by the due date to protect FCEB networks against active threats. See the BOD 22-01 Fact Sheet for more information.\nAlthough BOD 22-01 only applies to FCEB agencies, CISA strongly urges all organizations to reduce their exposure to cyberattacks by prioritizing timely remediation of Catalog vulnerabilities as part of their vulnerability management practice. CISA will continue to add vulnerabilities to the Catalog that meet the specified criteria.\nThis product is provided subject to this Notification and this Privacy & Use policy.",
+          "link": "https://us-cert.cisa.gov/ncas/current-activity/2023/01/10/cisa-adds-two-known-exploited-vulnerabilities-catalog",
+          "publishedOn": "2023-01-10T19:53:00.000Z",
+          "wordCount": 1086,
+          "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
+          "imageUrl": null
+        },
+        {
           "id": "18264 at https://us-cert.cisa.gov",
           "author": "CISA",
           "description": "Original release date: January 10, 2023\nCISA released two Industrial Control Systems (ICS) advisories on January 10, 2023. These advisories provide timely information about current security issues, vulnerabilities, and exploits surrounding ICS.\nCISA encourages users and administrators to review the newly released ICS advisories for technical details and mitigations:\nICSA-23-010-01 Black Box KVM\nICSA-22-298-07 Delta Electronics InfraSuite Device Master (Update A)\nThis product is provided subject to this Notification and this Privacy & Use policy.",
@@ -268,6 +298,101 @@
       "feedUrl": "https://www.darkreading.com/rss.xml",
       "siteUrl": "https://www.darkreading.com",
       "articles": [
+        {
+          "id": "https://www.darkreading.com/dr-tech/intel-new-xeon-chip-pushes-confidential-computing-cloud",
+          "author": "Agam Shah, Contributing Writer",
+          "description": "After a delay of more than a year, Intel's on-chip confidential computing feature is coming to all the major cloud providers, starting with Microsoft's Azure.",
+          "link": "https://www.darkreading.com/dr-tech/intel-new-xeon-chip-pushes-confidential-computing-cloud",
+          "publishedOn": "2023-01-11T00:44:00.000Z",
+          "wordCount": 14033,
+          "title": "Intel's New Xeon Chip Pushes Confidential Computing to the Cloud",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt3b296baaaaccbc2a/61bbb7b4ac124d4b2e71583a/WriterDefault_vladwel_Adobe.jpg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt3b296baaaaccbc2a/61bbb7b4ac124d4b2e71583a/WriterDefault_vladwel_Adobe.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/edge-articles/security-planning-ask-what-could-go-wrong",
+          "author": "Dave Lewis, Global Advisory CISO, Cisco Security",
+          "description": "Are you asking the right questions about potential scenarios when thinking about disaster recovery and business continuity?",
+          "link": "https://www.darkreading.com/edge-articles/security-planning-ask-what-could-go-wrong",
+          "publishedOn": "2023-01-10T23:24:00.000Z",
+          "wordCount": 13334,
+          "title": "Security Planning: Ask What Could Go Wrong",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltbbd88cc86619d26e/63be00a99d2de17aa34aab11/dave-lewis-cisco.jpg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltbbd88cc86619d26e/63be00a99d2de17aa34aab11/dave-lewis-cisco.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/vulnerabilities-threats/microsoft-new-year-patches-98-security-fixes",
+          "author": "Jai Vijayan, Contributing Writer, Dark Reading",
+          "description": "Microsoft's January 2023 Patch Tuesday security update contains fixes for bugs in multiple products. Here's what you need to patch now.",
+          "link": "https://www.darkreading.com/vulnerabilities-threats/microsoft-new-year-patches-98-security-fixes",
+          "publishedOn": "2023-01-10T22:30:00.000Z",
+          "wordCount": 15015,
+          "title": "98 Patches: Microsoft Greets New Year With Zero-Day Security Fixes",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt02d79fb9a44a4258/60b1e9dd2a25046b35110696/Jai-Vijayan.jpeg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt02d79fb9a44a4258/60b1e9dd2a25046b35110696/Jai-Vijayan.jpeg"
+        },
+        {
+          "id": "https://www.darkreading.com/attacks-breaches/bay-bridge-administrators-llc-notifies-individuals-of-data-breach",
+          "author": null,
+          "description": "",
+          "link": "https://www.darkreading.com/attacks-breaches/bay-bridge-administrators-llc-notifies-individuals-of-data-breach",
+          "publishedOn": "2023-01-10T22:03:00.000Z",
+          "wordCount": 12464,
+          "title": "Bay Bridge Administrators, LLC Notifies Individuals of Data Breach",
+          "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/application-security/scotus-oks-whatsapp-suit-against-nso-group-",
+          "author": "Dark Reading Staff, Dark Reading",
+          "description": "Supreme Court rules WhatsApp can sue NSO Group for damages caused by unauthorized Pegasus spyware installations.",
+          "link": "https://www.darkreading.com/application-security/scotus-oks-whatsapp-suit-against-nso-group-",
+          "publishedOn": "2023-01-10T21:22:00.000Z",
+          "wordCount": 11398,
+          "title": "SCOTUS OKs WhatsApp Suit Against NSO Group",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blte161b23f0fd3a84b/60b1ea374e7eb868c4c6a293/dr_staff_125x125.jpg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blte161b23f0fd3a84b/60b1ea374e7eb868c4c6a293/dr_staff_125x125.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/ics-ot/san-fran-bart-investigates-vice-society-data-breach",
+          "author": "Dark Reading Staff, Dark Reading",
+          "description": "Vice Society is boasting that it compromised the San Francisco transportation system, while BART maintains operations and mounts an investigation.",
+          "link": "https://www.darkreading.com/ics-ot/san-fran-bart-investigates-vice-society-data-breach",
+          "publishedOn": "2023-01-10T19:43:00.000Z",
+          "wordCount": 11553,
+          "title": "San Fran's BART Investigates Vice Society Data Breach Claims",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blte161b23f0fd3a84b/60b1ea374e7eb868c4c6a293/dr_staff_125x125.jpg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blte161b23f0fd3a84b/60b1ea374e7eb868c4c6a293/dr_staff_125x125.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/risk/cerberus-sentinel-to-acquire-ran-security",
+          "author": null,
+          "description": "US cybersecurity services firm continues expansion into Latin America.",
+          "link": "https://www.darkreading.com/risk/cerberus-sentinel-to-acquire-ran-security",
+          "publishedOn": "2023-01-10T19:35:00.000Z",
+          "wordCount": 14484,
+          "title": "Cerberus Sentinel to Acquire RAN Security",
+          "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
+        },
         {
           "id": "https://www.darkreading.com/vulnerabilities-threats/quantum-decryption-breakthrough-not-so-fast",
           "author": "Robert Lemos, Contributing Writer, Dark Reading",
@@ -2912,6 +3037,16 @@
       "siteUrl": "https://blog.knowbe4.com",
       "articles": [
         {
+          "id": "https://blog.knowbe4.com/password-managers-can-be-hacked",
+          "author": "Roger Grimes",
+          "description": "The recent hack (at least 7th) of the LastPass password manager has lots of people wondering if they should use a password manager.",
+          "link": "https://blog.knowbe4.com/password-managers-can-be-hacked",
+          "publishedOn": "2023-01-10T21:43:49.000Z",
+          "wordCount": 4326,
+          "title": "Password Managers Can Be Hacked Lots of Ways and Yes, You Should Still Use Them",
+          "imageUrl": "https://blog.knowbe4.com/hubfs/Social%20Image%20Repository/Evangelist%20Blog%20Social%20Graphics/Evangelists-Roger%20Grimes.jpg#keepProtocol"
+        },
+        {
           "id": "https://blog.knowbe4.com/cyberheistnews-vol-13-02-bad-taste-there-is-a-new-trend-in-social-engineering-with-a-disgusting-name-pig-butchering",
           "author": "Stu Sjouwerman",
           "description": "CyberheistNews Vol 13 #02 [Bad Taste] There Is a New Trend in Social Engineering With a Disgusting Name; 'Pig-butchering'",
@@ -5073,54 +5208,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpbq-VJYQIHq-dkwcEoQQeboqNNhOWHIAk78dq6P9IAspoZsSQ38XX68diDsMRyxI1yyX5kR8kkgjKMQXXNlsVUCrL5p0qWj3c9HfFDgWvL9vg_I7rZvq6OgyKxMJkMScYvgCxbTyN9TN5W3ObBM3jM3Zn5Wz55uIxrbGnfbxPmkad5IRlgTkJEpRS/s1600/google-1.gif"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpbq-VJYQIHq-dkwcEoQQeboqNNhOWHIAk78dq6P9IAspoZsSQ38XX68diDsMRyxI1yyX5kR8kkgjKMQXXNlsVUCrL5p0qWj3c9HfFDgWvL9vg_I7rZvq6OgyKxMJkMScYvgCxbTyN9TN5W3ObBM3jM3Zn5Wz55uIxrbGnfbxPmkad5IRlgTkJEpRS/s1600/google-1.gif"
-        },
-        {
-          "id": "https://thehackernews.com/2022/12/cryptocurrency-mining-campaign-hits.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "A cryptocurrency mining attack targeting the Linux operating system also involved the use of an open source remote access trojan (RAT) dubbed CHAOS.\nThe threat, which was spotted by Trend Micro in November 2022, remains virtually unchanged in all other aspects, including when it comes to terminating competing malware, security software, and deploying the Monero (XMR) cryptocurrency miner.\n\"The",
-          "link": "https://thehackernews.com/2022/12/cryptocurrency-mining-campaign-hits.html",
-          "publishedOn": "2022-12-12T13:51:00.000Z",
-          "wordCount": null,
-          "title": "Cryptocurrency Mining Campaign Hits Linux Users with Go-based CHAOS Malware",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi7wS_QUlDorGK9OF13x5AyjeNoAQP2QnLLju1P6VyAJPZxYDHoUH_9Fj-WuER0Yv4CU8OziJEr1Hd6og6uO5kX4wWyX0hbH9qQsp7pl67IjqgZnEgM64jUskeMmTeZswQr1O06bP-HXvL1YG1R4BiEAZ20eXxJNSK4rjILKxJaqlYxximTcg6COGIz/s1600/malware.png"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi7wS_QUlDorGK9OF13x5AyjeNoAQP2QnLLju1P6VyAJPZxYDHoUH_9Fj-WuER0Yv4CU8OziJEr1Hd6og6uO5kX4wWyX0hbH9qQsp7pl67IjqgZnEgM64jUskeMmTeZswQr1O06bP-HXvL1YG1R4BiEAZ20eXxJNSK4rjILKxJaqlYxximTcg6COGIz/s1600/malware.png"
-        },
-        {
-          "id": "https://thehackernews.com/2022/12/keep-your-grinch-at-bay-heres-how-to.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "As the holiday season approaches, online shopping and gift-giving are at the top of many people's to-do lists. But before you hit the \"buy\" button, it's important to remember that this time of year is also the peak season for cybercriminals.\nIn fact, cybercriminals often ramp up their efforts during the holidays, taking advantage of the influx of online shoppers and the general hustle and bustle",
-          "link": "https://thehackernews.com/2022/12/keep-your-grinch-at-bay-heres-how-to.html",
-          "publishedOn": "2022-12-12T11:51:00.000Z",
-          "wordCount": null,
-          "title": "Keep Your Grinch at Bay: Here's How to Stay Safe Online this Holiday Season",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEigx0Vot2pWpvdYSA2V5E-kun1Yjm4WpYfKXjDAnDe9LSz88ezi0MwX-06EZ0Blzvh3pXj0i8CkWf43nOLYZ8-88Wn4jLrl1M7hy7kzNJ2G6ARGusWlngMLa2Gg2C6l8YwNLc5mezzN9dhOfWkja39foGyJKIbwgFlOHk9c6mEfN8xgqVZHZ5uNW_LoDA/s1600/dns.png"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEigx0Vot2pWpvdYSA2V5E-kun1Yjm4WpYfKXjDAnDe9LSz88ezi0MwX-06EZ0Blzvh3pXj0i8CkWf43nOLYZ8-88Wn4jLrl1M7hy7kzNJ2G6ARGusWlngMLa2Gg2C6l8YwNLc5mezzN9dhOfWkja39foGyJKIbwgFlOHk9c6mEfN8xgqVZHZ5uNW_LoDA/s1600/dns.png"
-        },
-        {
-          "id": "https://thehackernews.com/2022/12/royal-ransomware-threat-takes-aim-at-us.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "The U.S. Department of Health and Human Services (HHS) has cautioned of ongoing Royal ransomware attacks targeting healthcare entities in the country.\n\"While most of the known ransomware operators have performed Ransomware-as-a-Service, Royal appears to be a private group without any affiliates while maintaining financial motivation as their goal,\" the agency's Health Sector Cybersecurity",
-          "link": "https://thehackernews.com/2022/12/royal-ransomware-threat-takes-aim-at-us.html",
-          "publishedOn": "2022-12-12T07:57:00.000Z",
-          "wordCount": null,
-          "title": "Royal Ransomware Threat Takes Aim at U.S. Healthcare System",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhPk_dsf6BcC-4TkKbJnPRGC7ZCd3h8KAl-mRwNza7IFj_OaSNV6JOe3UveEF26IBjLJVyMu_8m7vtv0N-W4D9-6nMDFS9iioSnr7Jn8-hL0mh6fnmypb5UOuhCM_BMHdbgT6___iPtnOlPSCRcekD95qmmitllLdSpVsogXgalu76tuqNg0z0vKnha/s1600/royal.png"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhPk_dsf6BcC-4TkKbJnPRGC7ZCd3h8KAl-mRwNza7IFj_OaSNV6JOe3UveEF26IBjLJVyMu_8m7vtv0N-W4D9-6nMDFS9iioSnr7Jn8-hL0mh6fnmypb5UOuhCM_BMHdbgT6___iPtnOlPSCRcekD95qmmitllLdSpVsogXgalu76tuqNg0z0vKnha/s1600/royal.png"
         }
       ]
     }
