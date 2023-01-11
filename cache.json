@@ -250,16 +250,6 @@
           "wordCount": 894,
           "title": "CISA Releases Three Industrial Control Systems Advisories",
           "imageUrl": null
-        },
-        {
-          "id": "18201 at https://us-cert.cisa.gov",
-          "author": "CISA",
-          "description": "Original release date: December 12, 2022\nFortinet has released security updates to address a heap-based buffer overflow vulnerability (CVE-2022-42475) in FortiOS. An attacker could exploit this vulnerability to take control of an affected system. This vulnerability has been exploited in the wild. \nCISA encourages users and administrators to review Fortinet security advisory FG-IR-22-368, apply the necessary updates, and validate systems against the IOCs listed in the advisory. \nThis product is provided subject to this Notification and this Privacy & Use policy.",
-          "link": "https://us-cert.cisa.gov/ncas/current-activity/2022/12/12/fortinet-releases-security-updates-fortios",
-          "publishedOn": "2022-12-12T19:57:42.000Z",
-          "wordCount": 885,
-          "title": "Fortinet Releases Security Updates for FortiOS",
-          "imageUrl": null
         }
       ]
     },
@@ -2862,61 +2852,6 @@
             "length": "0"
           },
           "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltbfd004d139d42d70/6303bca6236c2476a257760e/ElizabethMontalbano.jpg"
-        },
-        {
-          "id": "https://www.darkreading.com/remote-workforce/rash-new-ransomware-variants-in-the-wild",
-          "author": "Jai Vijayan, Contributing Writer, Dark Reading",
-          "description": "Vohuk, ScareCrow, and AESRT add to the ransomware chaos that organizations have to contend with on a daily basis.",
-          "link": "https://www.darkreading.com/remote-workforce/rash-new-ransomware-variants-in-the-wild",
-          "publishedOn": "2022-12-12T23:10:41.000Z",
-          "wordCount": 11895,
-          "title": "Rash of New Ransomware Variants Springs Up in the Wild",
-          "enclosure": {
-            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt02d79fb9a44a4258/60b1e9dd2a25046b35110696/Jai-Vijayan.jpeg",
-            "type": "image/*",
-            "length": "0"
-          },
-          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt02d79fb9a44a4258/60b1e9dd2a25046b35110696/Jai-Vijayan.jpeg"
-        },
-        {
-          "id": "https://www.darkreading.com/threat-intelligence/metaparasites-the-dark-web-scammers-turn-on-their-own",
-          "author": "Tara Seals, Managing Editor, News, Dark Reading",
-          "description": "Sophos research unveiled at Black Hat Europe details a thriving subeconomy of fraud on the cybercrime underground, aimed at Dark Web forum users.",
-          "link": "https://www.darkreading.com/threat-intelligence/metaparasites-the-dark-web-scammers-turn-on-their-own",
-          "publishedOn": "2022-12-12T22:30:11.000Z",
-          "wordCount": 13253,
-          "title": "Metaparasites & the Dark Web: Scammers Turn on Their Own",
-          "enclosure": {
-            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltea67136f81f32eca/626a9eb4726e3315b16b3c64/Tara-Seals-Headshot2.jpg",
-            "type": "image/*",
-            "length": "0"
-          },
-          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltea67136f81f32eca/626a9eb4726e3315b16b3c64/Tara-Seals-Headshot2.jpg"
-        },
-        {
-          "id": "https://www.darkreading.com/remote-workforce/amid-outrage-rackspace-sends-users-email-touting-incident-response",
-          "author": "Becky Bracken, Editor, Dark Reading",
-          "description": "More than 10 days after a ransomware attack, affected Rackspace customers are being told the incident had a \"limited impact,\" and have been invited to a webinar for additional details.",
-          "link": "https://www.darkreading.com/remote-workforce/amid-outrage-rackspace-sends-users-email-touting-incident-response",
-          "publishedOn": "2022-12-12T22:05:06.000Z",
-          "wordCount": 9132,
-          "title": "Amid Outrage, Rackspace Sends Users Email Touting Its Incident Response",
-          "enclosure": {
-            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt8e7bd143d726930b/627271268681151716941064/BeckyB.jpg",
-            "type": "image/*",
-            "length": "0"
-          },
-          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt8e7bd143d726930b/627271268681151716941064/BeckyB.jpg"
-        },
-        {
-          "id": "https://www.darkreading.com/endpoint/shopify-plus-stores-can-easily-add-passwordless-login-with-passkeys-support",
-          "author": null,
-          "description": "Shopify Plus stores can now easily implement passwordless login with Passkeys support to help reduce drop rate and increase conversion using the free OwnID plug-in.",
-          "link": "https://www.darkreading.com/endpoint/shopify-plus-stores-can-easily-add-passwordless-login-with-passkeys-support",
-          "publishedOn": "2022-12-12T20:10:00.000Z",
-          "wordCount": 10109,
-          "title": "Shopify Plus Stores Can Easily Add Passwordless Login With Passkeys Support",
-          "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
         }
       ]
     },
@@ -3448,6 +3383,38 @@
       "feedUrl": "https://thehackernews.com/feeds/posts/default",
       "siteUrl": "https://thehackernews.com",
       "articles": [
+        {
+          "id": "https://thehackernews.com/2023/01/unlock-your-potential-get-9-online.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Are you looking to take your career in the information security industry to the next level? Look no further than the 2023 Certified Technology Professional Bundle!\nThis unparalleled offer grants you lifetime access to nine comprehensive courses in information security, hacking, and cybersecurity at a remarkable price of just $49.99.\nYes, you heard me right. Instead of paying the full price of $",
+          "link": "https://thehackernews.com/2023/01/unlock-your-potential-get-9-online.html",
+          "publishedOn": "2023-01-11T10:35:00.000Z",
+          "wordCount": null,
+          "title": "Unlock Your Potential: Get 9 Online Cyber Security Courses for Just $49.99",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjYPRVaKgNM2evgksr3M13MdJp_qcAh5FU2zqYHXxhNW64L-5APx2HjfLmimVAfg31695w5KPobJcg0-UULXpW3Np0uB3xq6oTXuM-utf1gLMWtLTmSp4ysBsdqF6Vt-1SXeUjlFEzJMLk4BZkAkX01LlTnVCCJ7FxnmDfE0dLNfNbW8lo5pQV6nql0/s1600/learn-hacking.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjYPRVaKgNM2evgksr3M13MdJp_qcAh5FU2zqYHXxhNW64L-5APx2HjfLmimVAfg31695w5KPobJcg0-UULXpW3Np0uB3xq6oTXuM-utf1gLMWtLTmSp4ysBsdqF6Vt-1SXeUjlFEzJMLk4BZkAkX01LlTnVCCJ7FxnmDfE0dLNfNbW8lo5pQV6nql0/s1600/learn-hacking.png"
+        },
+        {
+          "id": "https://thehackernews.com/2023/01/dark-pink-apt-group-targets-governments.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Government and military organizations in the Asia-Pacific region are being targeted by a previously unknown advanced persistent threat (APT) actor, per the latest research.\nSingapore-headquartered Group-IB, in a report shared with The Hacker News, said it's tracking the ongoing campaign under the name Dark Pink and attributed seven successful attacks to the adversarial collective between June",
+          "link": "https://thehackernews.com/2023/01/dark-pink-apt-group-targets-governments.html",
+          "publishedOn": "2023-01-11T09:32:00.000Z",
+          "wordCount": null,
+          "title": "Dark Pink APT Group Targets Governments and Military in APAC Region",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjI7Tpx-9JSaDkHRXnPdDu54KVsH-4ESvnCu4QDpPFIs1NxQdkKwcNDk6MGr1fEsgEzhB0P0ef7BN_wZ2f_zGgWsKNvbsKKX9XsYDNoDUzS9p4dU9mO6s2VNNMRe1-RRazTjWca0QdRLz9uANn02i9q7zGRzZrKpMYEYxD4JLdXPUKl2kg7tlcwAEyEog/s1600/pink.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjI7Tpx-9JSaDkHRXnPdDu54KVsH-4ESvnCu4QDpPFIs1NxQdkKwcNDk6MGr1fEsgEzhB0P0ef7BN_wZ2f_zGgWsKNvbsKKX9XsYDNoDUzS9p4dU9mO6s2VNNMRe1-RRazTjWca0QdRLz9uANn02i9q7zGRzZrKpMYEYxD4JLdXPUKl2kg7tlcwAEyEog/s1600/pink.png"
+        },
         {
           "id": "https://thehackernews.com/2023/01/microsoft-issues-january-2023-patch.html",
           "author": "info@thehackernews.com (The Hacker News)",
