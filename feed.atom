@@ -2,10 +2,84 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-11T19:17:15.647Z</updated>
+    <updated>2023-01-12T02:19:14.204Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Why Analyzing Past Incidents Helps Teams More Than Usual Security Metrics]]></title>
+        <id>https://www.darkreading.com/edge-articles/why-analyzing-past-incidents-helps-teams-more-than-usual-security-metrics</id>
+        <link href="https://www.darkreading.com/edge-articles/why-analyzing-past-incidents-helps-teams-more-than-usual-security-metrics"/>
+        <updated>2023-01-12T00:27:00.000Z</updated>
+        <summary type="html"><![CDATA[Traditional metrics don't reflect real-world severity. Instead, analyzing previously reported incidents can help teams decide how to react, a new report says.]]></summary>
+        <author>
+            <name>Nathan Eddy, Contributing Writer, Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Catchpoint Announces Solution to Monitor and Protect Companies From BGP Incidents]]></title>
+        <id>https://www.darkreading.com/perimeter/catchpoint-announces-solution-to-monitor-and-protect-companies-from-bgp-incidents</id>
+        <link href="https://www.darkreading.com/perimeter/catchpoint-announces-solution-to-monitor-and-protect-companies-from-bgp-incidents"/>
+        <updated>2023-01-11T22:45:00.000Z</updated>
+        <summary type="html"><![CDATA[Catchpoint’s Internet Performance Monitoring Platform helps IT teams identify and mitigate BGP incidents, including hijack attempts and routing issues, with the industry’s broadest network of vantage points in the world drawing on real-time BGP monitoring.]]></summary>
+        <author>
+            <name>Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Better Phishing, Easy Malicious Implants: How AI Could Change Cyberattacks]]></title>
+        <id>https://www.darkreading.com/vulnerabilities-threats/phishing-malicious-implants-ai-cyberattacks</id>
+        <link href="https://www.darkreading.com/vulnerabilities-threats/phishing-malicious-implants-ai-cyberattacks"/>
+        <updated>2023-01-11T22:40:00.000Z</updated>
+        <summary type="html"><![CDATA[Current defenses are able to protect against today's AI-enhanced cybersecurity threats, but that won't be the case for long as these attacks become more effective and sophisticated.]]></summary>
+        <author>
+            <name>Robert Lemos, Contributing Writer, Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Governance in the Cloud Shifts Left]]></title>
+        <id>https://www.darkreading.com/risk/governance-in-the-cloud-shifts-left</id>
+        <link href="https://www.darkreading.com/risk/governance-in-the-cloud-shifts-left"/>
+        <updated>2023-01-11T22:00:00.000Z</updated>
+        <summary type="html"><![CDATA[CISOs' top cloud challenge is harmonizing standards, policies, and procedures across blended environments.]]></summary>
+        <author>
+            <name>Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cyberattack Cancels Classes for Des Moines Public Schools]]></title>
+        <id>https://www.darkreading.com/attacks-breaches/cyberattack-cancels-classes-for-des-moines-public-schools</id>
+        <link href="https://www.darkreading.com/attacks-breaches/cyberattack-cancels-classes-for-des-moines-public-schools"/>
+        <updated>2023-01-11T21:01:00.000Z</updated>
+        <summary type="html"><![CDATA[School to resume Thursday, Jan. 12, after Iowa school district detected unusual network activity and pulled the plug.]]></summary>
+        <author>
+            <name>Dark Reading Staff, Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NCSC-UK Releases Guidance on Using MSP for Administering Cloud Services]]></title>
+        <id>18269 at https://us-cert.cisa.gov</id>
+        <link href="https://us-cert.cisa.gov/ncas/current-activity/2023/01/11/ncsc-uk-releases-guidance-using-msp-administering-cloud-services"/>
+        <updated>2023-01-11T19:37:45.000Z</updated>
+        <summary type="html"><![CDATA[Original release date: January 11, 2023
+The United Kingdom’s National Cyber Security Centre (NCSC-UK) has released a blog post, Using MSPs to administer your cloud services, that provides organizations security considerations for using a third party, such as a managed service provider (MSP), to administer cloud services. Contracting with an MSP for cloud service management has become an increasingly appealing option for organizations.
+The post discusses the trade-offs involved as well as specific security checks organizations should make to confirm the MSP’s ability to defend against cyber threats.
+CISA encourages organizations using MSPs for administering cloud services to implement the guidance NCSC-UK provides in the blog post.
+This product is provided subject to this Notification and this Privacy & Use policy.]]></summary>
+        <author>
+            <name>CISA</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[5 Ways Cybersecurity for Cloud Workloads Will Evolve in 2023]]></title>
+        <id>https://www.darkreading.com/zscaler/5-ways-cybersecurity-for-cloud-workloads-will-evolve-in-2023</id>
+        <link href="https://www.darkreading.com/zscaler/5-ways-cybersecurity-for-cloud-workloads-will-evolve-in-2023"/>
+        <updated>2023-01-11T19:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Organizations are looking for new methods to safeguard the virtual machines, containers, and workload services they use in the cloud.]]></summary>
+        <author>
+            <name>Sakthi Chandra, Senior Director, Product Marketing, Zscaler</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Cyber Jobs of the Future: Sleuth, Bodyguard, 'Immunity' Developer]]></title>
         <id>https://www.darkreading.com/operations/cyber-jobs-of-the-future-sleuth-bodyguard-immunity-developer</id>
@@ -3890,77 +3964,6 @@ This product is provided subject to this Notification and this Privacy & Use pol
         <summary type="html"><![CDATA[Research from Marlin Hawk also shows a 15% increase in CISOs holding STEM-related degrees year-over-year, diversifying the succession talent pool.]]></summary>
         <author>
             <name>Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Uber Breached, Again, After Attackers Compromise Third-Party Cloud]]></title>
-        <id>https://www.darkreading.com/attacks-breaches/uber-breached-again-attackers-compromise-third-party-cloud</id>
-        <link href="https://www.darkreading.com/attacks-breaches/uber-breached-again-attackers-compromise-third-party-cloud"/>
-        <updated>2022-12-13T14:08:23.000Z</updated>
-        <summary type="html"><![CDATA[Threat actors leak employee email addresses, corporate reports, and IT asset information on a hacker forum after an attack on an Uber technology partner.]]></summary>
-        <author>
-            <name>Elizabeth Montalbano, Contributor, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Serious Attacks Could Have Been Staged Through This Amazon ECR Public Gallery Vulnerability]]></title>
-        <id>https://thehackernews.com/2022/12/serious-attacks-could-have-been-staged.html</id>
-        <link href="https://thehackernews.com/2022/12/serious-attacks-could-have-been-staged.html"/>
-        <updated>2022-12-13T13:58:00.000Z</updated>
-        <summary type="html"><![CDATA[A critical security flaw has been disclosed in Amazon Elastic Container Registry (ECR) Public Gallery that could have been potentially exploited to stage a multitude of attacks, according to cloud security firm Lightspin.
-"By exploiting this vulnerability, a malicious actor could delete all images in the Amazon ECR Public Gallery or update the image contents to inject malicious code," Gafnit]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CISA Phishing Infographic Contains a Lot of Good Information]]></title>
-        <id>https://blog.knowbe4.com/cisa-phishing-infographic-contains-a-lot-of-good-information</id>
-        <link href="https://blog.knowbe4.com/cisa-phishing-infographic-contains-a-lot-of-good-information"/>
-        <updated>2022-12-13T13:54:06.000Z</updated>
-        <summary type="html"><![CDATA[On December 8th, the Cybersecurity & Infrastructure Security Agency (CISA) released a great phishing infographic about data collected, lessons learned and recommendations learned from simulated phishing attacks that CISA has done for organizations. It is a great, independent, unbiased infographic with a lot of good data and recommendations. If you and your organization follow the included recommendations, you will be better off.]]></summary>
-        <author>
-            <name>Roger Grimes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NSA, CISA, and ODNI Release Guidance on Potential Threats to 5G Network Slicing]]></title>
-        <id>18206 at https://us-cert.cisa.gov</id>
-        <link href="https://us-cert.cisa.gov/ncas/current-activity/2022/12/13/nsa-cisa-and-odni-release-guidance-potential-threats-5g-network"/>
-        <updated>2022-12-13T13:51:42.000Z</updated>
-        <summary type="html"><![CDATA[Original release date: December 13, 2022
-Today, the National Security Agency (NSA), CISA, and the Office of the Director of National Intelligence (ODNI), published Potential Threats to 5G Network Slicing. This guidance—created by the Enduring Security Framework (ESF), a public-private cross-sector working group led by the NSA and CISA—presents both the benefits and risks associated with 5G network slicing. It also provides mitigation strategies that address potential threats to 5G network slicing. The guidance builds upon ESF’s Potential Threat Vectors to 5G Infrastructure, published in 2021.
-CISA encourages 5G providers, integrators, and network operators to review this guidance and implement the recommended mitigations. For additional 5G guidance, visit CISA.gov/5G-library.
-This product is provided subject to this Notification and this Privacy & Use policy.]]></summary>
-        <author>
-            <name>CISA</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CISA Releases Three Industrial Control Systems Advisories]]></title>
-        <id>18205 at https://us-cert.cisa.gov</id>
-        <link href="https://us-cert.cisa.gov/ncas/current-activity/2022/12/13/cisa-releases-three-industrial-control-systems-advisories"/>
-        <updated>2022-12-13T13:37:20.000Z</updated>
-        <summary type="html"><![CDATA[Original release date: December 13, 2022
-CISA has released three (3) Industrial Control Systems (ICS) advisories on December 13, 2022. These advisories provide timely information about current security issues, vulnerabilities, and exploits surrounding ICS.
-CISA encourages users and administrators to review the newly released ICS advisories for technical details and mitigations:
-•    ICSA-22-347-01 ICONICS and Mitsubishi Electric Products
-Schneider Electric APC Easy UPS Online
-Contec CONPROSSYS HMI System (CHS)
-This product is provided subject to this Notification and this Privacy & Use policy.]]></summary>
-        <author>
-            <name>CISA</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cybersecurity Experts Uncover Inner Workings of Destructive Azov Ransomware]]></title>
-        <id>https://thehackernews.com/2022/12/cybersecurity-experts-uncover-inner.html</id>
-        <link href="https://thehackernews.com/2022/12/cybersecurity-experts-uncover-inner.html"/>
-        <updated>2022-12-13T09:08:00.000Z</updated>
-        <summary type="html"><![CDATA[Cybersecurity researchers have published the inner workings of a new wiper called Azov Ransomware that's deliberately designed to corrupt data and "inflict impeccable damage" to compromised systems.
-Distributed through another malware loader known as SmokeLoader, the malware has been described as an "effective, fast, and unfortunately unrecoverable data wiper," by Israeli cybersecurity company]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
         </author>
     </entry>
     <entry>
