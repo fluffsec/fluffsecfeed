@@ -12,6 +12,26 @@
       "siteUrl": "https://us-cert.cisa.gov/",
       "articles": [
         {
+          "id": "18275 at https://us-cert.cisa.gov",
+          "author": "CISA",
+          "description": "Original release date: January 12, 2023\nDrupal has released a security update to address a vulnerability affecting private vocabulary modules for Drupal 8.x. An unauthorized user could exploit this vulnerability to bypass access permissions to create, modify, and delete private vocabulary terms.\nCISA encourages users and administrators to review Drupal’s security advisory SA-CONTRIB-2023-001 and apply the necessary update.\nThis product is provided subject to this Notification and this Privacy & Use policy.",
+          "link": "https://us-cert.cisa.gov/ncas/current-activity/2023/01/12/drupal-releases-security-update-address-vulnerability-private",
+          "publishedOn": "2023-01-12T16:04:25.000Z",
+          "wordCount": 972,
+          "title": "Drupal Releases Security Update to Address Vulnerability in Private Taxonomy Terms",
+          "imageUrl": null
+        },
+        {
+          "id": "18281 at https://us-cert.cisa.gov",
+          "author": "CISA",
+          "description": "Original release date: January 12, 2023\nCISA released twelve Industrial Control Systems (ICS) advisories on January 12, 2023. These advisories provide timely information about current security issues, vulnerabilities, and exploits surrounding ICS. \nCISA encourages users and administrators to review the newly released ICS advisories for technical details and mitigations:\nICSA-23-012-01 Sewio RTLS Studio\nICSA-23-012-02 RONDS Equipment Predictive Maintenance Solution\nICSA-23-012-03 InHand Networks InRouter\nICSA-23-012-04 Panasonic Sanyo CCTV Network Camera\nICSA-23-012-05 SAUTER Controls Nova 200 – 220 Series (PLC 6)\nICSA-23-012-06 Johnson Controls Metasys\nICSA-22-012-07 Hitachi Energy Lumada APM\nICSA-23-012-08 Siemens S7-1500 CPU devices\nICSA-23-012-09 Siemens Mendix SAML Module\nICSA-23-012-10 Siemens Automation License Manager\nICSA-23-012-11 Siemens Solid Edge before V2023 MP1\nICSMA-21-322-02 Philips Patient Information Center iX (PIC iX) and Efficia CM Series (Update A)\nThis product is provided subject to this Notification and this Privacy & Use policy.",
+          "link": "https://us-cert.cisa.gov/ncas/current-activity/2023/01/12/cisa-releases-twelve-industrial-control-systems-advisories",
+          "publishedOn": "2023-01-12T05:00:00.000Z",
+          "wordCount": 1026,
+          "title": "CISA Releases Twelve Industrial Control Systems Advisories",
+          "imageUrl": null
+        },
+        {
           "id": "18269 at https://us-cert.cisa.gov",
           "author": "CISA",
           "description": "Original release date: January 11, 2023\nThe United Kingdom’s National Cyber Security Centre (NCSC-UK) has released a blog post, Using MSPs to administer your cloud services, that provides organizations security considerations for using a third party, such as a managed service provider (MSP), to administer cloud services. Contracting with an MSP for cloud service management has become an increasingly appealing option for organizations.\nThe post discusses the trade-offs involved as well as specific security checks organizations should make to confirm the MSP’s ability to defend against cyber threats.\nCISA encourages organizations using MSPs for administering cloud services to implement the guidance NCSC-UK provides in the blog post.\nThis product is provided subject to this Notification and this Privacy & Use policy.",
@@ -208,6 +228,91 @@
       "feedUrl": "https://www.darkreading.com/rss.xml",
       "siteUrl": "https://www.darkreading.com",
       "articles": [
+        {
+          "id": "https://www.darkreading.com/attacks-breaches/prizes-cash-ddosia-ukraine-ddos-cyberattack-project",
+          "author": "Elizabeth Montalbano, Contributor, Dark Reading",
+          "description": "Russia's NoName057(16) group offers incentives and prizes via Telegram channel for \"heroes\" to mount attacks against targets within Ukraine and pro-Ukrainian countries.",
+          "link": "https://www.darkreading.com/attacks-breaches/prizes-cash-ddosia-ukraine-ddos-cyberattack-project",
+          "publishedOn": "2023-01-12T16:17:00.000Z",
+          "wordCount": 15014,
+          "title": "Big Prizes, Cash on Offer for Joining 'DDosia' Anti-Ukraine Cyberattack Project",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltbfd004d139d42d70/6303bca6236c2476a257760e/ElizabethMontalbano.jpg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltbfd004d139d42d70/6303bca6236c2476a257760e/ElizabethMontalbano.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/vulnerabilities-threats/kubernetes-related-security-projects-to-watch-in-2023",
+          "author": "Kirsten Newcomer, Director, Cloud and DevSecOps Strategy, Red Hat",
+          "description": "Organizations must be vigilant about balancing performance gains with security, governance, and compliance as they expand their use of Kubernetes.",
+          "link": "https://www.darkreading.com/vulnerabilities-threats/kubernetes-related-security-projects-to-watch-in-2023",
+          "publishedOn": "2023-01-12T15:00:00.000Z",
+          "wordCount": 14700,
+          "title": "Kubernetes-Related Security Projects to Watch in 2023",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt451d0459fd1ea1fe/635076bda168480f84d3f3c8/Newcomer.jpg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt451d0459fd1ea1fe/635076bda168480f84d3f3c8/Newcomer.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/physical-security/securing-the-world-s-energy-systems-where-physical-security-and-cybersecurity-must-meet",
+          "author": "IFSEC Global, Staff",
+          "description": "Energy has become the new battleground for both physical and cyber security warfare, driven by nation state actors, increasing financial rewards for ransomware gangs and decentralized devices. Chris Price reports.",
+          "link": "https://www.darkreading.com/physical-security/securing-the-world-s-energy-systems-where-physical-security-and-cybersecurity-must-meet",
+          "publishedOn": "2023-01-12T15:00:00.000Z",
+          "wordCount": 17566,
+          "title": "Securing the World's Energy Systems: Where Physical Security and Cybersecurity Must Meet",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt92d593cc2d401bf4/60d447e6993b04384638fd98/IFSEC-Global.png",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt92d593cc2d401bf4/60d447e6993b04384638fd98/IFSEC-Global.png"
+        },
+        {
+          "id": "https://www.darkreading.com/vulnerabilities-threats/1-in-3-organizations-do-not-provide-any-cybersecurity-training-to-remote-workers-despite-a-majority-of-employees-having-access-to-critical-data",
+          "author": null,
+          "description": "",
+          "link": "https://www.darkreading.com/vulnerabilities-threats/1-in-3-organizations-do-not-provide-any-cybersecurity-training-to-remote-workers-despite-a-majority-of-employees-having-access-to-critical-data",
+          "publishedOn": "2023-01-12T14:57:00.000Z",
+          "wordCount": 13587,
+          "title": "1 in 3 Organizations Do Not Provide Any Cybersecurity Training to Remote Workers Despite a Majority of Employees Having Access to Critical Data",
+          "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/operations/hack-the-box-secures-55-million-in-series-b-funding-led-by-carlyle",
+          "author": null,
+          "description": "",
+          "link": "https://www.darkreading.com/operations/hack-the-box-secures-55-million-in-series-b-funding-led-by-carlyle",
+          "publishedOn": "2023-01-12T14:42:00.000Z",
+          "wordCount": 13417,
+          "title": "Hack the Box Secures $55 Million in Series B Funding Led by Carlyle",
+          "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/attacks-breaches/man-sentenced-for-role-in-international-telemarketing-scheme",
+          "author": null,
+          "description": "",
+          "link": "https://www.darkreading.com/attacks-breaches/man-sentenced-for-role-in-international-telemarketing-scheme",
+          "publishedOn": "2023-01-12T14:33:00.000Z",
+          "wordCount": 13009,
+          "title": "Man Sentenced for Role in International Telemarketing Scheme",
+          "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/vulnerabilities-threats/hacker-space-rogue-to-release-book-on-hacking-group-l0pht-heavy-industries-in-february",
+          "author": null,
+          "description": "Space Rogue gives a behind the scenes look at the famous hacking group, their senate testimony, and how their legacy continues to shape the security of the online world today.",
+          "link": "https://www.darkreading.com/vulnerabilities-threats/hacker-space-rogue-to-release-book-on-hacking-group-l0pht-heavy-industries-in-february",
+          "publishedOn": "2023-01-12T14:30:00.000Z",
+          "wordCount": 13396,
+          "title": "Hacker Space Rogue to Release Book on Hacking Group L0pht Heavy Industries in February",
+          "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
+        },
         {
           "id": "https://www.darkreading.com/dr-tech/use-circleci-here-are-3-steps-you-need-to-take",
           "author": "Dark Reading Staff, Dark Reading",
@@ -2797,6 +2902,16 @@
       "siteUrl": "https://blog.knowbe4.com",
       "articles": [
         {
+          "id": "https://blog.knowbe4.com/government-workers-as-phishing-targets",
+          "author": "Stu Sjouwerman",
+          "description": "Government workers are prime targets for social engineering attacks, according to Kaitlyn Levinson at GCN. Attackers use different tactics to target government employees in specific roles. Levinson quotes Rita Reynolds, Chief Information Officer for the National Association of Counties, as saying that customer-facing county employees might be more likely to assume that requests are legitimate, since they deal with so many people each day.",
+          "link": "https://blog.knowbe4.com/government-workers-as-phishing-targets",
+          "publishedOn": "2023-01-12T13:56:34.000Z",
+          "wordCount": 2220,
+          "title": "Government Workers as Phishing Targets",
+          "imageUrl": "https://blog.knowbe4.com/hubfs/Phishing%20Attacks%20Target%20IT%20Professionals.jpg#keepProtocol"
+        },
+        {
           "id": "https://blog.knowbe4.com/21-of-federal-agency-passwords-cracked-in-their-security-audit",
           "author": "Stu Sjouwerman",
           "description": "Some excellent work here. An internal US Government agency audit audit showed that a fifth of passwords were easy to crack. Their recently published study showed that hashes for well over 80,000 AD accounts included passwords like Password1234, Password1234!, and ChangeItN0w!",
@@ -3263,6 +3378,38 @@
       "feedUrl": "https://thehackernews.com/feeds/posts/default",
       "siteUrl": "https://thehackernews.com",
       "articles": [
+        {
+          "id": "https://thehackernews.com/2023/01/icedid-malware-strikes-again-active.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "A recent IcedID malware attack enabled the threat actor to compromise the Active Directory domain of an unnamed target less than 24 hours after gaining initial access.\n\"Throughout the attack, the attacker followed a routine of recon commands, credential theft, lateral movement by abusing Windows protocols, and executing Cobalt Strike on the newly compromised host,\" Cybereason researchers said in",
+          "link": "https://thehackernews.com/2023/01/icedid-malware-strikes-again-active.html",
+          "publishedOn": "2023-01-12T14:46:00.000Z",
+          "wordCount": null,
+          "title": "IcedID Malware Strikes Again: Active Directory Domain Compromised in Under 24 Hours",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwbSraWgTs0WLVXYJnB0muKqUqDElap4m8tBdGbp2kjGC6NcJ7JdYFn1jIPOosmw1O0KdXc4l7imL77HA3FcWsglwf9WPtObxu34oR5FpXW7zZU42cREs5nyj6AnFYFjT5q9ubvRZ7ajzVKNvjTp96kCe6qmdNkGbOyDUk8fnLecdFt5_sQLmbIpyI/s1600/banking-malware.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwbSraWgTs0WLVXYJnB0muKqUqDElap4m8tBdGbp2kjGC6NcJ7JdYFn1jIPOosmw1O0KdXc4l7imL77HA3FcWsglwf9WPtObxu34oR5FpXW7zZU42cREs5nyj6AnFYFjT5q9ubvRZ7ajzVKNvjTp96kCe6qmdNkGbOyDUk8fnLecdFt5_sQLmbIpyI/s1600/banking-malware.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2023/01/over-100-siemens-plc-models-found.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Security researchers have disclosed multiple architectural vulnerabilities in Siemens SIMATIC and SIPLUS S7-1500 programmable logic controllers (PLCs) that could be exploited by a malicious actor to stealthily install firmware on affected devices and take control of them.\nDiscovered by Red Balloon Security, the issues are tracked as CVE-2022-38773 (CVSS score: 4.6), with the low severity",
+          "link": "https://thehackernews.com/2023/01/over-100-siemens-plc-models-found.html",
+          "publishedOn": "2023-01-12T14:27:00.000Z",
+          "wordCount": null,
+          "title": "Over 100 Siemens PLC Models Found Vulnerable to Firmware Takeover",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhSsX18iy_077wIP0FzszUkbxWZw72JD-lipv9So9SMDcC48hz-b1m0pq5BRx9pB6VuJSLx9-SkFchhT8MuOKYPhzW9xley9uQQc1y5yE3oGY-T1lhA27z35vj3kLc1KxLMu_nR8hLTXdrdbzVRcRTpadU6V71IRJNWsLsI0RMbMGTS3ny1m-cKmFAd/s1600/plc.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhSsX18iy_077wIP0FzszUkbxWZw72JD-lipv9So9SMDcC48hz-b1m0pq5BRx9pB6VuJSLx9-SkFchhT8MuOKYPhzW9xley9uQQc1y5yE3oGY-T1lhA27z35vj3kLc1KxLMu_nR8hLTXdrdbzVRcRTpadU6V71IRJNWsLsI0RMbMGTS3ny1m-cKmFAd/s1600/plc.png"
+        },
         {
           "id": "https://thehackernews.com/2023/01/experts-detail-chromium-browser.html",
           "author": "info@thehackernews.com (The Hacker News)",
@@ -4942,38 +5089,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRbgwLqZwKl8WbC_KGx4gxaKO_xw8xLb0wcK55QizXmNg8y6iC4DH_Mu-WSdIdlHvzlEyNkMYzMj_rb-_Ff_Mz_Na0blyUjLDxvg_8pTNCGF5b7w2WrdmJjE_S4OiO12SQfDRB2vTTwHNAGk5dfTtJw5hn9KgZxBQzz-mHJ-AfLhccacvrp9tYFcwm/s1600/patch-tuesday.png"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRbgwLqZwKl8WbC_KGx4gxaKO_xw8xLb0wcK55QizXmNg8y6iC4DH_Mu-WSdIdlHvzlEyNkMYzMj_rb-_Ff_Mz_Na0blyUjLDxvg_8pTNCGF5b7w2WrdmJjE_S4OiO12SQfDRB2vTTwHNAGk5dfTtJw5hn9KgZxBQzz-mHJ-AfLhccacvrp9tYFcwm/s1600/patch-tuesday.png"
-        },
-        {
-          "id": "https://thehackernews.com/2022/12/hackers-actively-exploiting-citrix-adc.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "The U.S. National Security Agency (NSA) on Tuesday said a threat actor tracked as APT5 has been actively exploiting a zero-day flaw in Citrix Application Delivery Controller (ADC) and Gateway to take over affected systems.\nThe critical remote code execution vulnerability, identified as CVE-2022-27518, could allow an unauthenticated attacker to execute commands remotely on vulnerable devices and",
-          "link": "https://thehackernews.com/2022/12/hackers-actively-exploiting-citrix-adc.html",
-          "publishedOn": "2022-12-14T04:40:00.000Z",
-          "wordCount": null,
-          "title": "Hackers Actively Exploiting Citrix ADC and Gateway Zero-Day Vulnerability",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjr59qmqtiHLJ5ysArJFpum2amz-BrdBVy4n1-eGmfvF1-HSyizQEqEdUg3wMSSewjDIjE-Azvv3dpRwso_NzIcwUT1uJLepvNlbjYoN_oVhR48qQSc0nqOdX5STOtZ0cbt6K0qEajLTgZ54KmfluIcA7t8gytuFX4h5Bay8d67tzIIqv3WMsAAOFad/s1600/citrix.png"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjr59qmqtiHLJ5ysArJFpum2amz-BrdBVy4n1-eGmfvF1-HSyizQEqEdUg3wMSSewjDIjE-Azvv3dpRwso_NzIcwUT1uJLepvNlbjYoN_oVhR48qQSc0nqOdX5STOtZ0cbt6K0qEajLTgZ54KmfluIcA7t8gytuFX4h5Bay8d67tzIIqv3WMsAAOFad/s1600/citrix.png"
-        },
-        {
-          "id": "https://thehackernews.com/2022/12/new-actively-exploited-zero-day.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Apple on Tuesday rolled out security updates to iOS, iPadOS, macOS, tvOS, and Safari web browser to address a new zero-day vulnerability that could result in the execution of malicious code.\nTracked as CVE-2022-42856, the issue has been described by the tech giant as a type confusion issue in the WebKit browser engine that could be triggered when processing specially crafted content, leading to",
-          "link": "https://thehackernews.com/2022/12/new-actively-exploited-zero-day.html",
-          "publishedOn": "2022-12-14T03:44:00.000Z",
-          "wordCount": null,
-          "title": "New Actively Exploited Zero-Day Vulnerability Discovered in Apple Products",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgoCPCCOzJCgi-nOCQAqAQg46fLbD3eNO6pq7T-DQyf-SX-6jNvv0GYdNkE5YYeQDG_SL2FaxnexqUnN1cSbFmVjD64JBZiBXR5gS5DtbrO6oC-wto8yG1Fl0sg39ZcM9suGiVjGMsXYhj2KUTDp0mmfES_LspF8eSX-JlZPR3C9Pv6cKyityz7MmKx/s1600/apple.png"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgoCPCCOzJCgi-nOCQAqAQg46fLbD3eNO6pq7T-DQyf-SX-6jNvv0GYdNkE5YYeQDG_SL2FaxnexqUnN1cSbFmVjD64JBZiBXR5gS5DtbrO6oC-wto8yG1Fl0sg39ZcM9suGiVjGMsXYhj2KUTDp0mmfES_LspF8eSX-JlZPR3C9Pv6cKyityz7MmKx/s1600/apple.png"
         }
       ]
     }
