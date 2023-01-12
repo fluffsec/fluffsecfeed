@@ -170,26 +170,6 @@
           "wordCount": 1085,
           "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
           "imageUrl": null
-        },
-        {
-          "id": "18212 at https://us-cert.cisa.gov",
-          "author": "CISA",
-          "description": "Original release date: December 13, 2022\nApple has released security updates to address vulnerabilities in multiple products. An attacker could exploit some of these vulnerabilities to take control of an affected device.\nCISA encourages users and administrators to review the Apple security updates page for the following products and apply the necessary updates as soon as possible:\niCloud for Windows 14.1\nSafari 16.2\nmacOS Monterey 12.6.2\nmacOS Big Sur 11.7.2\ntvOS 16.2\nwatchOS 9.2\niOS 15.7.2 and iPadOS 15.7.2\niOS 16.2 and iPadOS 16.2\nmacOS Ventura 13.1\nThis product is provided subject to this Notification and this Privacy & Use policy.",
-          "link": "https://us-cert.cisa.gov/ncas/current-activity/2022/12/13/apple-releases-security-updates-multiple-products",
-          "publishedOn": "2022-12-13T20:43:17.000Z",
-          "wordCount": 986,
-          "title": "Apple Releases Security Updates for Multiple Products",
-          "imageUrl": null
-        },
-        {
-          "id": "18211 at https://us-cert.cisa.gov",
-          "author": "CISA",
-          "description": "Original release date: December 13, 2022\nMicrosoft has released updates to address multiple vulnerabilities in Microsoft software. An attacker can exploit some of these vulnerabilities to take control of an affected system.\nCISA encourages users and administrators to review Microsoft’s December 2022 Security Update Guide and Deployment Information and apply the necessary updates.\nThis product is provided subject to this Notification and this Privacy & Use policy.",
-          "link": "https://us-cert.cisa.gov/ncas/current-activity/2022/12/13/microsoft-releases-december-2022-security-updates",
-          "publishedOn": "2022-12-13T19:43:28.000Z",
-          "wordCount": 949,
-          "title": "Microsoft Releases December 2022 Security Updates",
-          "imageUrl": null
         }
       ]
     },
@@ -228,6 +208,21 @@
       "feedUrl": "https://www.darkreading.com/rss.xml",
       "siteUrl": "https://www.darkreading.com",
       "articles": [
+        {
+          "id": "https://www.darkreading.com/dr-tech/use-circleci-here-are-3-steps-you-need-to-take",
+          "author": "Dark Reading Staff, Dark Reading",
+          "description": "This Tech Tip outlines the steps enterprise defenders should take as they protect their data in cloud environments in response to the security incident with the CI/CD platform.",
+          "link": "https://www.darkreading.com/dr-tech/use-circleci-here-are-3-steps-you-need-to-take",
+          "publishedOn": "2023-01-12T02:00:00.000Z",
+          "wordCount": 11312,
+          "title": "Use CircleCI? Here Are 3 Steps You Need to Take",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blte161b23f0fd3a84b/60b1ea374e7eb868c4c6a293/dr_staff_125x125.jpg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blte161b23f0fd3a84b/60b1ea374e7eb868c4c6a293/dr_staff_125x125.jpg"
+        },
         {
           "id": "https://www.darkreading.com/edge-articles/why-analyzing-past-incidents-helps-teams-more-than-usual-security-metrics",
           "author": "Nathan Eddy, Contributing Writer, Dark Reading",
@@ -2737,51 +2732,6 @@
             "length": "0"
           },
           "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt58481326324d6911/60b1e9a55d34de550780a990/Robert-Lemos.png"
-        },
-        {
-          "id": "https://www.darkreading.com/edge-threat-monitor/cybersecurity-drives-improvements-in-business-goals",
-          "author": "Edge Editors, Dark Reading",
-          "description": "Deloitte's Future of Cyber study highlights the fact that cybersecurity is an essential part of business success and should not be limited to just mitigating IT risks.",
-          "link": "https://www.darkreading.com/edge-threat-monitor/cybersecurity-drives-improvements-in-business-goals",
-          "publishedOn": "2022-12-13T23:00:00.000Z",
-          "wordCount": null,
-          "title": "Cybersecurity Drives Improvements in Business Goals",
-          "enclosure": {
-            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltbeb30fde8ec73a32/60d4432c2446e93b5b5a0e0c/Edge-Editors.png",
-            "type": "image/*",
-            "length": "0"
-          },
-          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltbeb30fde8ec73a32/60d4432c2446e93b5b5a0e0c/Edge-Editors.png"
-        },
-        {
-          "id": "https://www.darkreading.com/application-security/microsoft-squashes-zero-day-actively-exploited-bugs-dec-update",
-          "author": "Jai Vijayan, Contributing Writer, Dark Reading",
-          "description": "Here's what you need to patch now, including six critical updates for Microsoft's final Patch Tuesday of the year.",
-          "link": "https://www.darkreading.com/application-security/microsoft-squashes-zero-day-actively-exploited-bugs-dec-update",
-          "publishedOn": "2022-12-13T22:18:27.000Z",
-          "wordCount": 12300,
-          "title": "Microsoft Squashes Zero-Day, Actively Exploited Bugs in Dec. Update",
-          "enclosure": {
-            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt02d79fb9a44a4258/60b1e9dd2a25046b35110696/Jai-Vijayan.jpeg",
-            "type": "image/*",
-            "length": "0"
-          },
-          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt02d79fb9a44a4258/60b1e9dd2a25046b35110696/Jai-Vijayan.jpeg"
-        },
-        {
-          "id": "https://www.darkreading.com/dr-tech/google-launches-scanner-to-uncover-open-source-vulnerabilities",
-          "author": "Dark Reading Staff, Dark Reading",
-          "description": "OSV-Scanner generates a list of dependencies in a project and checks the OSV database for known vulnerabilities, Google says.",
-          "link": "https://www.darkreading.com/dr-tech/google-launches-scanner-to-uncover-open-source-vulnerabilities",
-          "publishedOn": "2022-12-13T22:00:00.000Z",
-          "wordCount": null,
-          "title": "Google Launches Scanner to Uncover Open Source Vulnerabilities",
-          "enclosure": {
-            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blte161b23f0fd3a84b/60b1ea374e7eb868c4c6a293/dr_staff_125x125.jpg",
-            "type": "image/*",
-            "length": "0"
-          },
-          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blte161b23f0fd3a84b/60b1ea374e7eb868c4c6a293/dr_staff_125x125.jpg"
         }
       ]
     },
@@ -3313,6 +3263,54 @@
       "feedUrl": "https://thehackernews.com/feeds/posts/default",
       "siteUrl": "https://thehackernews.com",
       "articles": [
+        {
+          "id": "https://thehackernews.com/2023/01/experts-detail-chromium-browser.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Details have emerged about a now-patched vulnerability in Google Chrome and Chromium-based browsers that, if successfully exploited, could have made it possible to siphon files containing confidential data.\n\"The issue arose from the way the browser interacted with symlinks when processing files and directories,\" Imperva researcher Ron Masas said. \"Specifically, the browser did not properly check",
+          "link": "https://thehackernews.com/2023/01/experts-detail-chromium-browser.html",
+          "publishedOn": "2023-01-12T09:42:00.000Z",
+          "wordCount": null,
+          "title": "Experts Detail Chromium Browser Security Flaw Putting Confidential Data at Risk",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4JB1ilrp9TgAvbmVT9xJuRCtIvyD6PSQE8jZBBkumgoQoCQ6O8Nqao5MOTgyBCgKC0yWZBJ7EZsk2gBuCTkn0CkeOkzHbf3GAYvpUUAea5UHM01cnDnGDTrFY2KCDCefol49hVB-GiRhDXLVqMaoXcE4AxGEAaSdH_uhWQp-XRgdMn9cROF1RCP3H/s1600/chrome-hacking.gif"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4JB1ilrp9TgAvbmVT9xJuRCtIvyD6PSQE8jZBBkumgoQoCQ6O8Nqao5MOTgyBCgKC0yWZBJ7EZsk2gBuCTkn0CkeOkzHbf3GAYvpUUAea5UHM01cnDnGDTrFY2KCDCefol49hVB-GiRhDXLVqMaoXcE4AxGEAaSdH_uhWQp-XRgdMn9cROF1RCP3H/s1600/chrome-hacking.gif"
+        },
+        {
+          "id": "https://thehackernews.com/2023/01/patch-where-it-hurts-effective.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "A recently published Security Navigator report data shows that businesses are still taking 215 days to patch a reported vulnerability. Even for critical vulnerabilities, it generally takes more than 6 months to patch.\nGood vulnerability management is not about being fast enough in patching all potential breaches. It's about focusing on the real risk using vulnerability prioritization to correct",
+          "link": "https://thehackernews.com/2023/01/patch-where-it-hurts-effective.html",
+          "publishedOn": "2023-01-12T09:40:00.000Z",
+          "wordCount": null,
+          "title": "Patch where it Hurts: Effective Vulnerability Management in 2023",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzINCrYFtBujsD4GbgEOQEmIN825faMcgZfAXZheKvBzqfLSjGG66s3mrv7weBTaXGw0_vyjjnXp7Qpy4ryxCodsEx8m5Shxrk0279JdZo1ZlaByDz2yLm21QOmZsjWLsZk0tXl2yYKZtllEYFtpL7mTp44nmsTHGgCJCvb2k12UiSLqRXY-M36kk8/s1600/orangecyberdefense.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzINCrYFtBujsD4GbgEOQEmIN825faMcgZfAXZheKvBzqfLSjGG66s3mrv7weBTaXGw0_vyjjnXp7Qpy4ryxCodsEx8m5Shxrk0279JdZo1ZlaByDz2yLm21QOmZsjWLsZk0tXl2yYKZtllEYFtpL7mTp44nmsTHGgCJCvb2k12UiSLqRXY-M36kk8/s1600/orangecyberdefense.png"
+        },
+        {
+          "id": "https://thehackernews.com/2023/01/twitter-denies-hacking-claims-assures.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Twitter on Wednesday said that its investigation found \"no evidence\" that users' data sold online was obtained by exploiting any security vulnerabilities in its systems.\n\"Based on information and intel analyzed to investigate the issue, there is no evidence that the data being sold online was obtained by exploiting a vulnerability of Twitter systems,\" the company said in a statement. \"The data",
+          "link": "https://thehackernews.com/2023/01/twitter-denies-hacking-claims-assures.html",
+          "publishedOn": "2023-01-12T07:21:00.000Z",
+          "wordCount": null,
+          "title": "Twitter Denies Hacking Claims, Assures Leaked User Data Not from its System",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-EjNB8saueIlKJ1GvE3Sing5aZjOhWsKxRz7peyIzrPgsmxTNbj1D7sepAJbv4Mb7ubUIpLEUbbAn9S1-DIFn02Wh_oczc3HsT7GDwdyBz2n03CFFQg_8fsFvUa7No-fkrYC5hdGHsSrkdLMtUyDpdQcdgt-VPY-KIR5dwWletGeFiPoHik7dYDHs/s1600/twitter-spying.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-EjNB8saueIlKJ1GvE3Sing5aZjOhWsKxRz7peyIzrPgsmxTNbj1D7sepAJbv4Mb7ubUIpLEUbbAn9S1-DIFn02Wh_oczc3HsT7GDwdyBz2n03CFFQg_8fsFvUa7No-fkrYC5hdGHsSrkdLMtUyDpdQcdgt-VPY-KIR5dwWletGeFiPoHik7dYDHs/s1600/twitter-spying.jpg"
+        },
         {
           "id": "https://thehackernews.com/2023/01/alert-hackers-actively-exploiting.html",
           "author": "info@thehackernews.com (The Hacker News)",
