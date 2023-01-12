@@ -190,56 +190,6 @@
           "wordCount": 949,
           "title": "Microsoft Releases December 2022 Security Updates",
           "imageUrl": null
-        },
-        {
-          "id": "18199 at https://us-cert.cisa.gov",
-          "author": "CISA",
-          "description": "Original release date: December 13, 2022\nThe Federal Bureau of Investigation (FBI) and CISA have updated joint Cybersecurity Advisory AA22-335A: #StopRansomware: Cuba Ransomware, originally released on December 01, 2022. The advisory has been updated to include additional indicators of compromise (IOCs).\nCISA encourages organizations to review the latest update to AA22-335A and apply the recommended mitigations.\nThis product is provided subject to this Notification and this Privacy & Use policy.",
-          "link": "https://us-cert.cisa.gov/ncas/current-activity/2022/12/13/cisa-updates-advisory-stopransomware-cuba-ransomware",
-          "publishedOn": "2022-12-13T17:59:00.000Z",
-          "wordCount": 877,
-          "title": "CISA Updates Advisory on #StopRansomware: Cuba Ransomware",
-          "imageUrl": null
-        },
-        {
-          "id": "18210 at https://us-cert.cisa.gov",
-          "author": "CISA",
-          "description": "Original release date: December 13, 2022\nCitrix has released security updates to address a critical vulnerability (CVE-2022-27518) in Citrix ADC and Citrix Gateway. An attacker could exploit this vulnerability to take control of an affected system. This vulnerability has been exploited in the wild.\nCISA encourages users and administrators to review Citrix security bulletin CTX457836 and Citrix’s blog post for more information and to apply the necessary updates. Additionally, CISA urges organizations to review NSA’s advisory APT5: Citrix ADC Threat Hunting Guidance for detection and mitigation guidance against tools employed by a malicious actor targeting vulnerable Citrix ADC systems.\nThis product is provided subject to this Notification and this Privacy & Use policy.",
-          "link": "https://us-cert.cisa.gov/ncas/current-activity/2022/12/13/citrix-releases-security-updates-citrix-adc-citrix-gateway",
-          "publishedOn": "2022-12-13T17:02:31.000Z",
-          "wordCount": 926,
-          "title": "Citrix Releases Security Updates for Citrix ADC, Citrix Gateway",
-          "imageUrl": null
-        },
-        {
-          "id": "18209 at https://us-cert.cisa.gov",
-          "author": "CISA",
-          "description": "Original release date: December 13, 2022\nMozilla has released security updates to address vulnerabilities in Thunderbird, Firefox ESR, and Firefox. An attacker could exploit these vulnerabilities to take control of an affected system. \nCISA encourages users and administrators to review Mozilla’s security advisories for Thunderbird 102.6, Firefox ESR 102.6, and Firefox 108 for more information and apply the necessary updates.\nThis product is provided subject to this Notification and this Privacy & Use policy.",
-          "link": "https://us-cert.cisa.gov/ncas/current-activity/2022/12/13/mozilla-releases-security-updates-thunderbird-and-firefox",
-          "publishedOn": "2022-12-13T17:00:47.000Z",
-          "wordCount": 962,
-          "title": "Mozilla Releases Security Updates for Thunderbird and Firefox",
-          "imageUrl": null
-        },
-        {
-          "id": "18207 at https://us-cert.cisa.gov",
-          "author": "CISA",
-          "description": "Original release date: December 13, 2022\nVVMware has released security updates to address multiple vulnerabilities in multiple products. A remote attacker could exploit some of these vulnerabilities to take control of an affected system.\nCISA encourages users and administrators to review VMware Security Advisories VMSA-2022-0031, VMSA-2022-0033, and apply the necessary updates.\nThis product is provided subject to this Notification and this Privacy & Use policy.",
-          "link": "https://us-cert.cisa.gov/ncas/current-activity/2022/12/13/vmware-releases-security-updates-multiple-products",
-          "publishedOn": "2022-12-13T16:56:22.000Z",
-          "wordCount": 950,
-          "title": "VMware Releases Security Updates for Multiple products",
-          "imageUrl": null
-        },
-        {
-          "id": "18208 at https://us-cert.cisa.gov",
-          "author": "CISA",
-          "description": "Original release date: December 13, 2022\nCISA has added five new vulnerabilities to its Known Exploited Vulnerabilities Catalog, based on evidence of active exploitation. These types of vulnerabilities are frequent attack vectors for malicious cyber actors and pose a significant risk to the federal enterprise. Note: To view newly added vulnerabilities in the catalog, click on the arrow in the \"Date Added to Catalog\" column, which will sort by descending dates.\nBinding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the Known Exploited Vulnerabilities Catalog as a living list of known CVEs that carry significant risk to the federal enterprise. BOD 22-01 requires FCEB agencies to remediate identified vulnerabilities by the due date to protect FCEB networks against active threats. See the BOD 22-01 Fact Sheet for more information.\nAlthough BOD 22-01 only applies to FCEB agencies, CISA strongly urges all organizations to reduce their exposure to cyberattacks by prioritizing timely remediation of Catalog vulnerabilities as part of their vulnerability management practice. CISA will continue to add vulnerabilities to the Catalog that meet the specified criteria.\nThis product is provided subject to this Notification and this Privacy & Use policy.",
-          "link": "https://us-cert.cisa.gov/ncas/current-activity/2022/12/13/cisa-adds-five-known-exploited-vulnerabilities-catalog",
-          "publishedOn": "2022-12-13T16:42:06.000Z",
-          "wordCount": 1083,
-          "title": "CISA Adds Five Known Exploited Vulnerabilities to Catalog",
-          "imageUrl": null
         }
       ]
     },
@@ -2832,141 +2782,6 @@
             "length": "0"
           },
           "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blte161b23f0fd3a84b/60b1ea374e7eb868c4c6a293/dr_staff_125x125.jpg"
-        },
-        {
-          "id": "https://www.darkreading.com/attacks-breaches/citrix-adc-gateway-users-race-against-hackers-patch-critical-flaw",
-          "author": "Dark Reading Staff, Dark Reading",
-          "description": "Citrix issues a critical update as NSA warns that the APT5 threat group is actively trying to target ADC environments.",
-          "link": "https://www.darkreading.com/attacks-breaches/citrix-adc-gateway-users-race-against-hackers-patch-critical-flaw",
-          "publishedOn": "2022-12-13T18:38:00.000Z",
-          "wordCount": 8901,
-          "title": "Citrix ADC, Gateway Users Race Against Hackers to Patch Critical Flaw",
-          "enclosure": {
-            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blte161b23f0fd3a84b/60b1ea374e7eb868c4c6a293/dr_staff_125x125.jpg",
-            "type": "image/*",
-            "length": "0"
-          },
-          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blte161b23f0fd3a84b/60b1ea374e7eb868c4c6a293/dr_staff_125x125.jpg"
-        },
-        {
-          "id": "https://www.darkreading.com/vulnerabilities-threats/accelerating-vulnerability-identification-and-remediation-",
-          "author": "Eylam Milner, Senior Director, Software Supply Chain, Aqua Security",
-          "description": "Software teams can now fix bugs faster with faster release cycles, but breach pressure is increasing. Using SBOM and automation will help better detect, prevent, and remediate security issues throughout the software development life cycle.",
-          "link": "https://www.darkreading.com/vulnerabilities-threats/accelerating-vulnerability-identification-and-remediation-",
-          "publishedOn": "2022-12-13T18:00:00.000Z",
-          "wordCount": 11889,
-          "title": "Accelerating Vulnerability Identification and Remediation",
-          "enclosure": {
-            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt841db47f9767a474/639605fe9091c10928894a8d/Eylam_Milner.jpg",
-            "type": "image/*",
-            "length": "0"
-          },
-          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt841db47f9767a474/639605fe9091c10928894a8d/Eylam_Milner.jpg"
-        },
-        {
-          "id": "https://www.darkreading.com/threat-intelligence/security-flaw-in-atlassian-products-affecting-multiple-companies",
-          "author": null,
-          "description": "Jira, Confluence,Trello, and BitBucket affected.",
-          "link": "https://www.darkreading.com/threat-intelligence/security-flaw-in-atlassian-products-affecting-multiple-companies",
-          "publishedOn": "2022-12-13T17:00:00.000Z",
-          "wordCount": 10189,
-          "title": "Security Flaw in Atlassian Products Affecting Multiple Companies",
-          "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
-        },
-        {
-          "id": "https://www.darkreading.com/cloud/niels-provos-joins-lacework-as-head-of-security-efficacy",
-          "author": null,
-          "description": "Former Head of Security at Stripe and Distinguished Security Engineer at Google joins cloud security leader to help scale security excellence across customer base.",
-          "link": "https://www.darkreading.com/cloud/niels-provos-joins-lacework-as-head-of-security-efficacy",
-          "publishedOn": "2022-12-13T15:43:00.000Z",
-          "wordCount": 10297,
-          "title": "Niels Provos Joins Lacework as Head of Security Efficacy",
-          "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
-        },
-        {
-          "id": "https://www.darkreading.com/remote-workforce/google-cloud-and-palo-alto-networks-team-to-protect-the-modern-workforce",
-          "author": null,
-          "description": "Enterprises can now adopt the industry's most comprehensive Zero Trust Network Access 2.0 to secure access to all applications from any device.",
-          "link": "https://www.darkreading.com/remote-workforce/google-cloud-and-palo-alto-networks-team-to-protect-the-modern-workforce",
-          "publishedOn": "2022-12-13T15:37:00.000Z",
-          "wordCount": 10695,
-          "title": "Google Cloud and Palo Alto Networks Team to Protect the Modern Workforce",
-          "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
-        },
-        {
-          "id": "https://www.darkreading.com/vulnerabilities-threats/knowbe4-supports-metaverse-safety-week",
-          "author": null,
-          "description": ".",
-          "link": "https://www.darkreading.com/vulnerabilities-threats/knowbe4-supports-metaverse-safety-week",
-          "publishedOn": "2022-12-13T15:32:00.000Z",
-          "wordCount": 10160,
-          "title": "KnowBe4 Supports Metaverse Safety Week",
-          "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
-        },
-        {
-          "id": "https://www.darkreading.com/vulnerabilities-threats/report-79-of-employees-are-distracted-at-work-amid-a-year-of-permacrisis",
-          "author": null,
-          "description": "1Password's annual State of Access report reveals that distracted employees are twice as likely to do the bare minimum for security at work.",
-          "link": "https://www.darkreading.com/vulnerabilities-threats/report-79-of-employees-are-distracted-at-work-amid-a-year-of-permacrisis",
-          "publishedOn": "2022-12-13T15:25:00.000Z",
-          "wordCount": 12117,
-          "title": "Report: 79% of Employees Are Distracted at Work Amid a Year of Permacrisis",
-          "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
-        },
-        {
-          "id": "https://www.darkreading.com/application-security/hackers-score-nearly-1-million-at-device-focused-pwn2own-contest",
-          "author": "Robert Lemos, Contributing Writer, Dark Reading",
-          "description": "Offensive security researchers found 63 previously unreported vulnerabilities in printers, phones, and network-attached storage devices in the Zero Day Initiative's latest hackathon.",
-          "link": "https://www.darkreading.com/application-security/hackers-score-nearly-1-million-at-device-focused-pwn2own-contest",
-          "publishedOn": "2022-12-13T15:10:00.000Z",
-          "wordCount": 10746,
-          "title": "Hackers Score Nearly $1M at Device-Focused Pwn2Own Contest",
-          "enclosure": {
-            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt58481326324d6911/60b1e9a55d34de550780a990/Robert-Lemos.png",
-            "type": "image/*",
-            "length": "0"
-          },
-          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt58481326324d6911/60b1e9a55d34de550780a990/Robert-Lemos.png"
-        },
-        {
-          "id": "https://www.darkreading.com/dr-tech/improve-confidence-and-context-to-sell-the-soc-on-automating",
-          "author": "Sanjay Raja, VP of Product Marketing and Solutions, Gurucul",
-          "description": "SIEM and XDE made a lot of promises, but they don't quite live up to the SOC team's standards.",
-          "link": "https://www.darkreading.com/dr-tech/improve-confidence-and-context-to-sell-the-soc-on-automating",
-          "publishedOn": "2022-12-13T15:00:00.000Z",
-          "wordCount": 12691,
-          "title": "Improve Confidence and Context to Sell the SOC on Automating",
-          "enclosure": {
-            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltf1b269b44fa06d53/6390dd814fc6ea2e71863efd/Sanjay_Raja_Headshot.jpg",
-            "type": "image/*",
-            "length": "0"
-          },
-          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltf1b269b44fa06d53/6390dd814fc6ea2e71863efd/Sanjay_Raja_Headshot.jpg"
-        },
-        {
-          "id": "https://www.darkreading.com/operations/the-cybersecurity-industry-doesn-t-have-a-stress-problem-it-has-a-leadership-problem",
-          "author": "Tyler Farrar, CISO, Exabeam",
-          "description": "Organizations need servant leaders to step forward and make their teams' professional effectiveness and happiness a priority.",
-          "link": "https://www.darkreading.com/operations/the-cybersecurity-industry-doesn-t-have-a-stress-problem-it-has-a-leadership-problem",
-          "publishedOn": "2022-12-13T15:00:00.000Z",
-          "wordCount": 11715,
-          "title": "The Cybersecurity Industry Doesn't Have a Stress Problem — It Has a Leadership Problem",
-          "enclosure": {
-            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltf3aebd51e47348f2/626aa9531b8c3465b79a4585/tyler-farrar-300x300_(002).jpeg",
-            "type": "image/*",
-            "length": "0"
-          },
-          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltf3aebd51e47348f2/626aa9531b8c3465b79a4585/tyler-farrar-300x300_(002).jpeg"
-        },
-        {
-          "id": "https://www.darkreading.com/operations/third-annual-global-ciso-report-identifies-significant-shifts-in-hiring-and-retaining-security-talent",
-          "author": null,
-          "description": "Research from Marlin Hawk also shows a 15% increase in CISOs holding STEM-related degrees year-over-year, diversifying the succession talent pool.",
-          "link": "https://www.darkreading.com/operations/third-annual-global-ciso-report-identifies-significant-shifts-in-hiring-and-retaining-security-talent",
-          "publishedOn": "2022-12-13T14:25:00.000Z",
-          "wordCount": 12494,
-          "title": "Third Annual Global CISO Report Identifies Significant Shifts in Hiring and Retaining Security Talent",
-          "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
         }
       ]
     },
@@ -3490,16 +3305,6 @@
           "wordCount": 2273,
           "title": "Ughh. FBI’s Vetted Threat Sharing Network ‘InfraGard’ Hacked",
           "imageUrl": "https://blog.knowbe4.com/hubfs/Welcome-to-Infragard.png#keepProtocol"
-        },
-        {
-          "id": "https://blog.knowbe4.com/cyberheistnews-vol-12-50-eye-opener-how-chatgpt-can-be-used-for-social-engineering",
-          "author": "Stu Sjouwerman",
-          "description": "CyberheistNews Vol 12 #50 [EYE OPENER] How ChatGPT Can Be Used for Social Engineering",
-          "link": "https://blog.knowbe4.com/cyberheistnews-vol-12-50-eye-opener-how-chatgpt-can-be-used-for-social-engineering",
-          "publishedOn": "2022-12-13T14:30:00.000Z",
-          "wordCount": 4946,
-          "title": "CyberheistNews Vol 12 #50 [EYE OPENER] How ChatGPT Can Be Used for Social Engineering",
-          "imageUrl": "https://blog.knowbe4.com/hubfs/CHN-Social.jpg#keepProtocol"
         }
       ]
     },
@@ -3508,6 +3313,22 @@
       "feedUrl": "https://thehackernews.com/feeds/posts/default",
       "siteUrl": "https://thehackernews.com",
       "articles": [
+        {
+          "id": "https://thehackernews.com/2023/01/alert-hackers-actively-exploiting.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Malicious actors are actively attempting to exploit a recently patched critical vulnerability in Control Web Panel (CWP) that enables elevated privileges and unauthenticated remote code execution (RCE) on susceptible servers.\nTracked as CVE-2022-44877 (CVSS score: 9.8), the bug impacts all versions of the software before 0.9.8.1147 and was patched by its maintainers on October 25, 2022.\nControl",
+          "link": "https://thehackernews.com/2023/01/alert-hackers-actively-exploiting.html",
+          "publishedOn": "2023-01-12T06:48:00.000Z",
+          "wordCount": null,
+          "title": "Alert: Hackers Actively Exploiting Critical \"Control Web Panel\" RCE Vulnerability",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjmpaDlrc3W7FZ2tniRFPvGTg-rgoGAR-CN_W_JM48FmvJLI2MXSYbGMXfDWZ29dJGgU9Up_uFUjwsaqwgpUkxGgUE9Bi5RSsAM8Wxc6muyAq8M3xqs1Hf5-1pWL5ImizHkKJXjNq5JyF_LOAHpsG8M17ntPAVhuIjHf16Cv_knBqMEbnto638-wRbU/s1600/hacking.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjmpaDlrc3W7FZ2tniRFPvGTg-rgoGAR-CN_W_JM48FmvJLI2MXSYbGMXfDWZ29dJGgU9Up_uFUjwsaqwgpUkxGgUE9Bi5RSsAM8Wxc6muyAq8M3xqs1Hf5-1pWL5ImizHkKJXjNq5JyF_LOAHpsG8M17ntPAVhuIjHf16Cv_knBqMEbnto638-wRbU/s1600/hacking.png"
+        },
         {
           "id": "https://thehackernews.com/2023/01/new-analysis-reveals-raspberry-robin.html",
           "author": "info@thehackernews.com (The Hacker News)",
@@ -5155,22 +4976,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgoCPCCOzJCgi-nOCQAqAQg46fLbD3eNO6pq7T-DQyf-SX-6jNvv0GYdNkE5YYeQDG_SL2FaxnexqUnN1cSbFmVjD64JBZiBXR5gS5DtbrO6oC-wto8yG1Fl0sg39ZcM9suGiVjGMsXYhj2KUTDp0mmfES_LspF8eSX-JlZPR3C9Pv6cKyityz7MmKx/s1600/apple.png"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgoCPCCOzJCgi-nOCQAqAQg46fLbD3eNO6pq7T-DQyf-SX-6jNvv0GYdNkE5YYeQDG_SL2FaxnexqUnN1cSbFmVjD64JBZiBXR5gS5DtbrO6oC-wto8yG1Fl0sg39ZcM9suGiVjGMsXYhj2KUTDp0mmfES_LspF8eSX-JlZPR3C9Pv6cKyityz7MmKx/s1600/apple.png"
-        },
-        {
-          "id": "https://thehackernews.com/2022/12/google-launches-largest-distributed.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Google on Tuesday announced the open source availability of OSV-Scanner, a scanner that aims to offer easy access to vulnerability information about various projects.\nThe Go-based tool, powered by the Open Source Vulnerabilities (OSV) database, is designed to connect \"a project's list of dependencies with the vulnerabilities that affect them,\" Google software engineer Rex Pan in a post shared",
-          "link": "https://thehackernews.com/2022/12/google-launches-largest-distributed.html",
-          "publishedOn": "2022-12-13T18:22:00.000Z",
-          "wordCount": null,
-          "title": "Google Launches Largest Distributed Database of Open Source Vulnerabilities",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEis6oAWStQsLIkq7eQ6yKYLfR9X7BAk70-AhJERFb7YRdEsu2xKG-0YqkBQ85JWGckWc6_ZLnN_mwFOTMsOQ07faoSNtA47RZOVCv3eEVel-EAduFV3dRS4Y8aoyDW7aTs2DGG0jQ5NTcdEHUZHCfEcHnAxq-80IOcKwJKLZ-N0lTLHPWy2NQBrTE9i/s1600/OSV.png"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEis6oAWStQsLIkq7eQ6yKYLfR9X7BAk70-AhJERFb7YRdEsu2xKG-0YqkBQ85JWGckWc6_ZLnN_mwFOTMsOQ07faoSNtA47RZOVCv3eEVel-EAduFV3dRS4Y8aoyDW7aTs2DGG0jQ5NTcdEHUZHCfEcHnAxq-80IOcKwJKLZ-N0lTLHPWy2NQBrTE9i/s1600/OSV.png"
         }
       ]
     }
