@@ -2,10 +2,55 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-13T07:17:53.293Z</updated>
+    <updated>2023-01-13T13:26:26.307Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[[Heads Up] Phishing Attacks Are Now The Top Vector For Ransomware Delivery]]></title>
+        <id>https://blog.knowbe4.com/heads-up-phishing-attacks-are-now-the-top-vector-for-ransomware-delivery</id>
+        <link href="https://blog.knowbe4.com/heads-up-phishing-attacks-are-now-the-top-vector-for-ransomware-delivery"/>
+        <updated>2023-01-13T11:57:21.000Z</updated>
+        <summary type="html"><![CDATA[Phishing attacks are now the top vector for ransomware delivery, according to researchers at Digital Defense. Phishing emails can be highly tailored to specific employees in order to trick them into downloading malicious files.]]></summary>
+        <author>
+            <name>Stu Sjouwerman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cybercriminals Using Polyglot Files in Malware Distribution to Fly Under the Radar]]></title>
+        <id>https://thehackernews.com/2023/01/cybercriminals-using-polyglot-files-in.html</id>
+        <link href="https://thehackernews.com/2023/01/cybercriminals-using-polyglot-files-in.html"/>
+        <updated>2023-01-13T11:26:00.000Z</updated>
+        <summary type="html"><![CDATA[Remote access trojans such as StrRAT and Ratty are being distributed as a combination of polyglot and malicious Java archive (JAR) files, once again highlighting how threat actors are continuously finding new ways to fly under the radar.
+"Attackers now use the polyglot technique to confuse security solutions that don't properly validate the JAR file format," Deep Instinct security researcher]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Get Unified Cloud and Endpoint Security: Only $1 for 1,000 Assets for all of 2023!]]></title>
+        <id>https://thehackernews.com/2023/01/get-unified-cloud-and-endpoint-security.html</id>
+        <link href="https://thehackernews.com/2023/01/get-unified-cloud-and-endpoint-security.html"/>
+        <updated>2023-01-13T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[As the new year begins, it's more important than ever to protect your business from the constantly evolving cyber threats that could compromise your valuable assets. 
+But who wants to pay an arm and a leg for top-tier security? With this Uptycs introductory offer, you do not have to.
+Kickstart the new year by securing your business with Uptycs. Starting now, for just $1, you can get]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FortiOS Flaw Exploited as Zero-Day in Attacks on Government and Organizations]]></title>
+        <id>https://thehackernews.com/2023/01/fortios-flaw-exploited-as-zero-day-in.html</id>
+        <link href="https://thehackernews.com/2023/01/fortios-flaw-exploited-as-zero-day-in.html"/>
+        <updated>2023-01-13T09:41:00.000Z</updated>
+        <summary type="html"><![CDATA[A zero-day vulnerability in FortiOS SSL-VPN that Fortinet addressed last month was exploited by unknown actors in attacks targeting the government and other large organizations.
+"The complexity of the exploit suggests an advanced actor and that it is highly targeted at governmental or government-related targets," Fortinet researchers said in a post-mortem analysis published this week.
+The]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Researchers Find 'Digital Crime Haven' While Investigating Magecart Activity]]></title>
         <id>https://www.darkreading.com/threat-intelligence/digital-crime-haven-investigating-magecart-activity</id>
@@ -3716,58 +3761,6 @@ The new distribution method was spotted by Cisco Talos, which said it identifi
 HTML smuggling is a technique that relies on using legitimate features of]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NSA Slices Up 5G Mobile Security Risks]]></title>
-        <id>https://www.darkreading.com/mobile/nsa-slices-up-5g-mobile-security-risks</id>
-        <link href="https://www.darkreading.com/mobile/nsa-slices-up-5g-mobile-security-risks"/>
-        <updated>2022-12-14T22:00:20.000Z</updated>
-        <summary type="html"><![CDATA[The feds' mobile service provider guidance details cybersecurity threat vectors associated with 5G network slicing.]]></summary>
-        <author>
-            <name>Dark Reading Staff, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cybereason Warns Global Organizations Against Destructive Ransomware Attacks From Black Basta Gang]]></title>
-        <id>https://www.darkreading.com/attacks-breaches/cybereason-warns-global-organizations-against-destructive-ransomware-attacks-from-black-basta-gang</id>
-        <link href="https://www.darkreading.com/attacks-breaches/cybereason-warns-global-organizations-against-destructive-ransomware-attacks-from-black-basta-gang"/>
-        <updated>2022-12-14T21:20:00.000Z</updated>
-        <summary type="html"><![CDATA[The Royal Ransomware Group has emerged as a threat to companies in 2022 and they have carried out dozens of successful attacks on global companies. Cybereason suggests that companies raise their awareness of this potential pending threat.]]></summary>
-        <author>
-            <name>Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CISA Adds One Known Exploited Vulnerability to Catalog]]></title>
-        <id>18214 at https://us-cert.cisa.gov</id>
-        <link href="https://us-cert.cisa.gov/ncas/current-activity/2022/12/14/cisa-adds-one-known-exploited-vulnerability-catalog"/>
-        <updated>2022-12-14T20:20:53.000Z</updated>
-        <summary type="html"><![CDATA[Original release date: December 14, 2022
-CISA has added one new vulnerability to its Known Exploited Vulnerabilities Catalog, based on evidence of active exploitation. This type of vulnerability is a frequent attack vector for malicious cyber actors and poses a significant risk to the federal enterprise. Note: To view the newly added vulnerabilities in the catalog, click on the arrow in the "Date Added to Catalog" column, which will sort by descending dates.
-Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the Known Exploited Vulnerabilities Catalog as a living list of known CVEs that carry significant risk to the federal enterprise. BOD 22-01 requires FCEB agencies to remediate identified vulnerabilities by the due date to protect FCEB networks against active threats. See the BOD 22-01 Fact Sheet for more information.
-Although BOD 22-01 only applies to FCEB agencies, CISA strongly urges all organizations to reduce their exposure to cyberattacks by prioritizing timely remediation of Catalog vulnerabilities as part of their vulnerability management practice. CISA will continue to add vulnerabilities to the Catalog that meet the specified criteria. 
-This product is provided subject to this Notification and this Privacy & Use policy.]]></summary>
-        <author>
-            <name>CISA</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Keysight Announces 400GE Network Cybersecurity Test Platform]]></title>
-        <id>https://www.darkreading.com/vulnerabilities-threats/keysight-announces-400ge-network-cybersecurity-test-platform</id>
-        <link href="https://www.darkreading.com/vulnerabilities-threats/keysight-announces-400ge-network-cybersecurity-test-platform"/>
-        <updated>2022-12-14T20:09:00.000Z</updated>
-        <author>
-            <name>Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Epic Management Provides Notice of Data Security Incident]]></title>
-        <id>https://www.darkreading.com/attacks-breaches/epic-management-provides-notice-of-data-security-incident</id>
-        <link href="https://www.darkreading.com/attacks-breaches/epic-management-provides-notice-of-data-security-incident"/>
-        <updated>2022-12-14T19:46:00.000Z</updated>
-        <author>
-            <name>Dark Reading</name>
         </author>
     </entry>
     <entry>
