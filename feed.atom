@@ -2,10 +2,62 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-13T13:26:26.307Z</updated>
+    <updated>2023-01-13T19:15:54.983Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Sneaky New Stealer Woos Corporate Workers Through Fake Zoom Downloads]]></title>
+        <id>https://www.darkreading.com/threat-intelligence/sneaky-stealer-woos-remote-workers-fake-zoom-downloads</id>
+        <link href="https://www.darkreading.com/threat-intelligence/sneaky-stealer-woos-remote-workers-fake-zoom-downloads"/>
+        <updated>2023-01-13T18:25:00.000Z</updated>
+        <summary type="html"><![CDATA[Rhadamanthys spreads through Google Ads that redirect to bogus download sites for popular workforce software — as well as through more typical malicious emails.]]></summary>
+        <author>
+            <name>Elizabeth Montalbano, Contributor, Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CircleCI, LastPass, Okta, and Slack: Cyberattackers Pivot to Target Core Enterprise Tools]]></title>
+        <id>https://www.darkreading.com/attacks-breaches/circleci-lastpass-okta-slack-cyberattackers-target-enterprise-tools</id>
+        <link href="https://www.darkreading.com/attacks-breaches/circleci-lastpass-okta-slack-cyberattackers-target-enterprise-tools"/>
+        <updated>2023-01-13T18:03:04.000Z</updated>
+        <summary type="html"><![CDATA[High-profile software provider compromises in the past few months show that threat actors are actively targeting the services underpinning corporate infrastructure. Here's what to do about it.]]></summary>
+        <author>
+            <name>Robert Lemos, Contributing Writer, Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cloudflare Wins CISA Contract for Registry and Authoritative Domain Name System (DNS) Services]]></title>
+        <id>https://www.darkreading.com/attacks-breaches/cloudflare-wins-cisa-contract-for-registry-and-authoritative-domain-name-system-dns-services</id>
+        <link href="https://www.darkreading.com/attacks-breaches/cloudflare-wins-cisa-contract-for-registry-and-authoritative-domain-name-system-dns-services"/>
+        <updated>2023-01-13T17:22:00.000Z</updated>
+        <summary type="html"><![CDATA[With the $7.2M contract, Cloudflare will enhance resilience and simplify security for .gov domain users.]]></summary>
+        <author>
+            <name>Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Beware: Tainted VPNs Being Used to Spread EyeSpy Surveillanceware]]></title>
+        <id>https://thehackernews.com/2023/01/beware-tainted-vpns-being-used-to.html</id>
+        <link href="https://thehackernews.com/2023/01/beware-tainted-vpns-being-used-to.html"/>
+        <updated>2023-01-13T16:39:00.000Z</updated>
+        <summary type="html"><![CDATA[Tainted VPN installers are being used to deliver a piece of surveillanceware dubbed EyeSpy as part of a malware campaign that started in May 2022.
+It uses "components of SecondEye – a legitimate monitoring application – to spy on users of 20Speed VPN, an Iranian-based VPN service, via trojanized installers," Bitdefender said in an analysis.
+A majority of the infections are said to originate in]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fast-Track Secure Development Using Lite Threat Modeling]]></title>
+        <id>https://www.darkreading.com/vulnerabilities-threats/fast-track-secure-development-using-lite-threat-modeling</id>
+        <link href="https://www.darkreading.com/vulnerabilities-threats/fast-track-secure-development-using-lite-threat-modeling"/>
+        <updated>2023-01-13T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Establish clear and consistent processes and standards to scale lite threat modeling's streamlined approach across your organization.]]></summary>
+        <author>
+            <name>David Lindner, Chief Information Security Officer, Contrast Security</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[Heads Up] Phishing Attacks Are Now The Top Vector For Ransomware Delivery]]></title>
         <id>https://blog.knowbe4.com/heads-up-phishing-attacks-are-now-the-top-vector-for-ransomware-delivery</id>
@@ -25,6 +77,16 @@
 "Attackers now use the polyglot technique to confuse security solutions that don't properly validate the JAR file format," Deep Instinct security researcher]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WEF's Global Risks Report 2023 Keeps Cybersecurity on the Agenda]]></title>
+        <id>https://www.darkreading.com/omdia/wef-s-global-risks-report-2023-keeps-cybersecurity-on-the-agenda</id>
+        <link href="https://www.darkreading.com/omdia/wef-s-global-risks-report-2023-keeps-cybersecurity-on-the-agenda"/>
+        <updated>2023-01-13T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Critical national infrastructure, widespread cybercrime, and cyber insecurity are major risks in the report]]></summary>
+        <author>
+            <name>Maxine Holt, Research Director, Omdia</name>
         </author>
     </entry>
     <entry>
@@ -118,6 +180,16 @@ This product is provided subject to this Notification and this Privacy & Use pol
         <id>https://www.darkreading.com/remote-workforce/cloudflare-expands-relationship-with-microsoft</id>
         <link href="https://www.darkreading.com/remote-workforce/cloudflare-expands-relationship-with-microsoft"/>
         <updated>2023-01-12T19:23:00.000Z</updated>
+        <author>
+            <name>Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SailPoint Acquires SecZetta to Provide Identity Security for Non-Employee Identities]]></title>
+        <id>https://www.darkreading.com/endpoint/sailpoint-acquires-seczetta-to-provide-comprehensive-identity-security-for-non-employee-identities-</id>
+        <link href="https://www.darkreading.com/endpoint/sailpoint-acquires-seczetta-to-provide-comprehensive-identity-security-for-non-employee-identities-"/>
+        <updated>2023-01-12T19:15:00.000Z</updated>
+        <summary type="html"><![CDATA[This move accelerates the company’s vision of becoming the de facto identity security platform of choice for the modern enterprise.]]></summary>
         <author>
             <name>Dark Reading</name>
         </author>
@@ -3747,18 +3819,6 @@ Of the 144,294]]></summary>
         <updated>2022-12-15T07:50:00.000Z</updated>
         <summary type="html"><![CDATA[The U.S. Department of Justice (DoJ) on Wednesday announced the seizure of 48 domains that offered services to conduct distributed denial-of-service (DDoS) attacks on behalf of other threat actors, effectively lowering the barrier to entry for malicious activity.
 It also charged six suspects – Jeremiah Sam Evans Miller (23), Angel Manuel Colon Jr. (37), Shamar Shattock (19), Cory Anthony Palmer]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hacking Using SVG Files to Smuggle QBot Malware onto Windows Systems]]></title>
-        <id>https://thehackernews.com/2022/12/hacking-using-svg-files-to-smuggle-qbot.html</id>
-        <link href="https://thehackernews.com/2022/12/hacking-using-svg-files-to-smuggle-qbot.html"/>
-        <updated>2022-12-15T06:02:00.000Z</updated>
-        <summary type="html"><![CDATA[Phishing campaigns involving the Qakbot malware are using Scalable Vector Graphics (SVG) images embedded in HTML email attachments.
-The new distribution method was spotted by Cisco Talos, which said it identified fraudulent email messages featuring HTML attachments with encoded SVG images that incorporate HTML script tags.
-HTML smuggling is a technique that relies on using legitimate features of]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
