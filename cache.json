@@ -12,6 +12,16 @@
       "siteUrl": "https://us-cert.cisa.gov/",
       "articles": [
         {
+          "id": "18283 at https://us-cert.cisa.gov",
+          "author": "CISA",
+          "description": "Original release date: January 12, 2023\nJuniper Networks has released security updates to address vulnerabilities affecting multiple products. An attacker could exploit some of these vulnerabilities to take control of an affected system. \nCISA encourages users and administrators to review Juniper Networks’ security advisories page and apply the necessary updates. \nThis product is provided subject to this Notification and this Privacy & Use policy.",
+          "link": "https://us-cert.cisa.gov/ncas/current-activity/2023/01/12/juniper-networks-releases-security-updates-multiple-products",
+          "publishedOn": "2023-01-12T20:33:53.000Z",
+          "wordCount": 955,
+          "title": "Juniper Networks Releases Security Updates for Multiple Products",
+          "imageUrl": null
+        },
+        {
           "id": "18275 at https://us-cert.cisa.gov",
           "author": "CISA",
           "description": "Original release date: January 12, 2023\nDrupal has released a security update to address a vulnerability affecting private vocabulary modules for Drupal 8.x. An unauthorized user could exploit this vulnerability to bypass access permissions to create, modify, and delete private vocabulary terms.\nCISA encourages users and administrators to review Drupal’s security advisory SA-CONTRIB-2023-001 and apply the necessary update.\nThis product is provided subject to this Notification and this Privacy & Use policy.",
@@ -228,6 +238,106 @@
       "feedUrl": "https://www.darkreading.com/rss.xml",
       "siteUrl": "https://www.darkreading.com",
       "articles": [
+        {
+          "id": "https://www.darkreading.com/threat-intelligence/digital-crime-haven-investigating-magecart-activity",
+          "author": "Jai Vijayan, Contributing Writer, Dark Reading",
+          "description": "A security vendor's investigation of infrastructure associated with a new, crypto-focused Magecart skimmer leads to discovery of cryptoscam sites, malware distribution marketplace, Bitcoin mixers, and more.",
+          "link": "https://www.darkreading.com/threat-intelligence/digital-crime-haven-investigating-magecart-activity",
+          "publishedOn": "2023-01-12T22:20:00.000Z",
+          "wordCount": 14054,
+          "title": "Researchers Find 'Digital Crime Haven' While Investigating Magecart Activity",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt02d79fb9a44a4258/60b1e9dd2a25046b35110696/Jai-Vijayan.jpeg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt02d79fb9a44a4258/60b1e9dd2a25046b35110696/Jai-Vijayan.jpeg"
+        },
+        {
+          "id": "https://www.darkreading.com/attacks-breaches/20k-buys-insider-access-telegram-servers-dark-web-ad-claims",
+          "author": "Becky Bracken, Editor, Dark Reading",
+          "description": "In the ad, cybercriminals are offering to sell employee-level access to Telegram, researchers warn.",
+          "link": "https://www.darkreading.com/attacks-breaches/20k-buys-insider-access-telegram-servers-dark-web-ad-claims",
+          "publishedOn": "2023-01-12T21:41:00.000Z",
+          "wordCount": 12106,
+          "title": "$20K Buys Insider Access to Telegram Servers, Dark Web Ad Claims",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt8e7bd143d726930b/627271268681151716941064/BeckyB.jpg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt8e7bd143d726930b/627271268681151716941064/BeckyB.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/dr-tech/software-supply-chain-security-needs-bigger-picture",
+          "author": "Ericka Chickowski, Contributing Writer, Dark Reading",
+          "description": "SBOMs aren't enough. OpenSSF's Alpha-Omega brings in new blood to help secure the open source projects most impactful to the software supply chain.",
+          "link": "https://www.darkreading.com/dr-tech/software-supply-chain-security-needs-bigger-picture",
+          "publishedOn": "2023-01-12T21:40:00.000Z",
+          "wordCount": 16937,
+          "title": "Software Supply Chain Security Needs a Bigger Picture",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt1fa01ab14787f501/60b1e9a77f791568be5e0dbb/ErickaChick_125x125.jpeg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt1fa01ab14787f501/60b1e9a77f791568be5e0dbb/ErickaChick_125x125.jpeg"
+        },
+        {
+          "id": "https://www.darkreading.com/attacks-breaches/darktrace-publishes-2022-cyberattack-trend-data-for-energy-healthcare-retail-sectors-globally",
+          "author": null,
+          "description": "",
+          "link": "https://www.darkreading.com/attacks-breaches/darktrace-publishes-2022-cyberattack-trend-data-for-energy-healthcare-retail-sectors-globally",
+          "publishedOn": "2023-01-12T21:17:00.000Z",
+          "wordCount": 14010,
+          "title": "Darktrace Publishes 2022 Cyberattack Trend Data For Energy, Healthcare & Retail Sectors Globally",
+          "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/attacks-breaches/new-survey-sheds-light-on-why-enterprises-struggle-to-thwart-api-attacks",
+          "author": null,
+          "description": "Corsha’s Annual State of API Secrets Management Report finds over 50% of respondents suffered a data breach due to compromised API secrets.",
+          "link": "https://www.darkreading.com/attacks-breaches/new-survey-sheds-light-on-why-enterprises-struggle-to-thwart-api-attacks",
+          "publishedOn": "2023-01-12T20:15:00.000Z",
+          "wordCount": 15405,
+          "title": "New Survey Sheds Light on Why Enterprises Struggle to Thwart API Attacks",
+          "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/remote-workforce/cloudflare-expands-relationship-with-microsoft",
+          "author": null,
+          "description": "",
+          "link": "https://www.darkreading.com/remote-workforce/cloudflare-expands-relationship-with-microsoft",
+          "publishedOn": "2023-01-12T19:23:00.000Z",
+          "wordCount": 15233,
+          "title": "Cloudflare Expands Relationship With Microsoft",
+          "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/press-release/sailpoint-acquires-seczetta-to-provide-comprehensive-identity-security-for-non-employee-identities-",
+          "author": null,
+          "description": "This move accelerates the company’s vision of becoming the de facto identity security platform of choice for the modern enterprise.",
+          "link": "https://www.darkreading.com/press-release/sailpoint-acquires-seczetta-to-provide-comprehensive-identity-security-for-non-employee-identities-",
+          "publishedOn": "2023-01-12T19:15:00.000Z",
+          "wordCount": null,
+          "title": "SailPoint Acquires SecZetta to Provide Comprehensive Identity Security for Non-Employee Identities",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.darkreading.com/remote-workforce/critical-cisco-smb-router-bug-authentication-bypass-poc-available",
+          "author": "Tara Seals, Managing Editor, News, Dark Reading",
+          "description": "Unpatched Cisco bugs, tracked as CVE-2023-20025 and CVE-2023-20026, allow lateral movement, data theft, and malware infestations.",
+          "link": "https://www.darkreading.com/remote-workforce/critical-cisco-smb-router-bug-authentication-bypass-poc-available",
+          "publishedOn": "2023-01-12T19:11:00.000Z",
+          "wordCount": 13259,
+          "title": "Critical Cisco SMB Router Flaw Allows Authentication Bypass, PoC Available",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltea67136f81f32eca/626a9eb4726e3315b16b3c64/Tara-Seals-Headshot2.jpg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltea67136f81f32eca/626a9eb4726e3315b16b3c64/Tara-Seals-Headshot2.jpg"
+        },
         {
           "id": "https://www.darkreading.com/attacks-breaches/prizes-cash-ddosia-ukraine-ddos-cyberattack-project",
           "author": "Elizabeth Montalbano, Contributor, Dark Reading",
@@ -2822,21 +2932,6 @@
             "length": "0"
           },
           "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltbfd004d139d42d70/6303bca6236c2476a257760e/ElizabethMontalbano.jpg"
-        },
-        {
-          "id": "https://www.darkreading.com/edge-threat-monitor/analysis-shows-attackers-favor-powershell-file-obfuscation",
-          "author": "Robert Lemos, Contributing Writer, Dark Reading",
-          "description": "Aiming to give threat hunters a list of popular attack tactics, a cybersecurity team analyzed collections of real-world threat data to find attackers' most popular techniques.",
-          "link": "https://www.darkreading.com/edge-threat-monitor/analysis-shows-attackers-favor-powershell-file-obfuscation",
-          "publishedOn": "2022-12-14T13:00:00.000Z",
-          "wordCount": 11143,
-          "title": "Analysis Shows Attackers Favor PowerShell, File Obfuscation",
-          "enclosure": {
-            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt58481326324d6911/60b1e9a55d34de550780a990/Robert-Lemos.png",
-            "type": "image/*",
-            "length": "0"
-          },
-          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt58481326324d6911/60b1e9a55d34de550780a990/Robert-Lemos.png"
         }
       ]
     },
@@ -3340,36 +3435,6 @@
           "wordCount": 2207,
           "title": "October and November Have Been the Two Busiest Months for Ransomware",
           "imageUrl": "https://blog.knowbe4.com/hubfs/Busiest%20Month%20for%20Ransomware.jpg#keepProtocol"
-        },
-        {
-          "id": "https://blog.knowbe4.com/utility-bill-is-the-new-phishbait-for-cybercriminals",
-          "author": "Stu Sjouwerman",
-          "description": "An SMS phishing (smishing) campaign is impersonating utility providers in the US, Cybernews reports. Researchers at Enea AdaptiveMobile Security spotted the campaign, which informs recipients of offers to save money. The text messages contain offers related to gas prices, electricity bills, concert tickets, car insurance policies. If a user clicks the link, they’ll be taken to a website designed to steal their personal and financial information.",
-          "link": "https://blog.knowbe4.com/utility-bill-is-the-new-phishbait-for-cybercriminals",
-          "publishedOn": "2022-12-14T14:12:45.000Z",
-          "wordCount": 2281,
-          "title": "Utility Bill is the New Phishbait for Cybercriminals",
-          "imageUrl": "https://blog.knowbe4.com/hubfs/Next%20Phishbait.jpg#keepProtocol"
-        },
-        {
-          "id": "https://blog.knowbe4.com/look-out-for-scammers-this-holiday-season-on-social-media",
-          "author": "Erich Kron",
-          "description": "You know how some gifts are insanely sought after each year, selling out in mere minutes? Well, these are great tools for scammers, especially on social media.",
-          "link": "https://blog.knowbe4.com/look-out-for-scammers-this-holiday-season-on-social-media",
-          "publishedOn": "2022-12-14T14:12:39.000Z",
-          "wordCount": 2272,
-          "title": "Look Out For Scammers This Holiday Season on Social Media",
-          "imageUrl": "https://blog.knowbe4.com/hubfs/Erich%20Kron%20KnowBe4%20Holiday.jpg#keepProtocol"
-        },
-        {
-          "id": "https://blog.knowbe4.com/ughh.-fbis-vetted-threat-sharing-network-infragard-hacked",
-          "author": "Stu Sjouwerman",
-          "description": "Investigative reported Brian Krebs reported December 13, 2022 that \"InfraGard, a program run by the U.S. Federal Bureau of Investigation (FBI) to build cyber and physical threat information sharing partnerships with the private sector, this week saw its database of contact information on more than 80,000 members go up for sale on an English-language cybercrime forum. Meanwhile, the hackers responsible are communicating directly with members through the InfraGard portal online — using a new account under the assumed identity of a financial industry CEO that was vetted by the FBI itself.\"",
-          "link": "https://blog.knowbe4.com/ughh.-fbis-vetted-threat-sharing-network-infragard-hacked",
-          "publishedOn": "2022-12-14T11:12:35.000Z",
-          "wordCount": 2273,
-          "title": "Ughh. FBI’s Vetted Threat Sharing Network ‘InfraGard’ Hacked",
-          "imageUrl": "https://blog.knowbe4.com/hubfs/Welcome-to-Infragard.png#keepProtocol"
         }
       ]
     },
@@ -5025,70 +5090,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjq2psrxhonuHIaKTAyuiBwnewQd7CXXy9kv0zkuPLEt8D_lbl7tI__fsqSQ_iYunrQ2i75VhXFW6YGZ10RGuR4rv_KbRIgyGztMN9CiVb5Ledq3JD0EwpP4F50acWf9SbAxXFZmt6y-NWx0jMrSEEKfqaM18Brs_YLdi60vL3g4t_WZHxElXKIDwwW/s1600/malware-attack.png"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjq2psrxhonuHIaKTAyuiBwnewQd7CXXy9kv0zkuPLEt8D_lbl7tI__fsqSQ_iYunrQ2i75VhXFW6YGZ10RGuR4rv_KbRIgyGztMN9CiVb5Ledq3JD0EwpP4F50acWf9SbAxXFZmt6y-NWx0jMrSEEKfqaM18Brs_YLdi60vL3g4t_WZHxElXKIDwwW/s1600/malware-attack.png"
-        },
-        {
-          "id": "https://thehackernews.com/2022/12/new-gotrim-botnet-attempting-to-break.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "A new Go-based botnet has been spotted scanning and brute-forcing self-hosted websites using the WordPress content management system (CMS) to seize control of the targeted systems.\n\"This new brute forcer is part of a new campaign we have named GoTrim because it was written in Go and uses ':::trim:::' to split data communicated to and from the C2 server,\" Fortinet FortiGuard Labs researchers",
-          "link": "https://thehackernews.com/2022/12/new-gotrim-botnet-attempting-to-break.html",
-          "publishedOn": "2022-12-14T14:12:00.000Z",
-          "wordCount": null,
-          "title": "New GoTrim Botnet Attempting to Break into WordPress Sites' Admin Accounts",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLDsaZup-0fIMwaCBan8Pjf4vn1Hd6l8SikNBI6zu8djwFCKPJIYSHEeWjUH495qOryfM69e9o8Ka7w_5sppey45_-qHplBISweasZYqURy2_PKFc_czRjjl4si94y5Tp5vHAW4c3eaMy2AYa6pIz6CgeyUi_v6tB-tiVNXwtRZjY5EGjnpfb_ligK/s1600/wordpress.png"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLDsaZup-0fIMwaCBan8Pjf4vn1Hd6l8SikNBI6zu8djwFCKPJIYSHEeWjUH495qOryfM69e9o8Ka7w_5sppey45_-qHplBISweasZYqURy2_PKFc_czRjjl4si94y5Tp5vHAW4c3eaMy2AYa6pIz6CgeyUi_v6tB-tiVNXwtRZjY5EGjnpfb_ligK/s1600/wordpress.png"
-        },
-        {
-          "id": "https://thehackernews.com/2022/12/ransomware-attackers-use-microsoft.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Microsoft on Tuesday disclosed it took steps to suspend accounts that were used to publish malicious drivers that were certified by its Windows Hardware Developer Program were used to sign malware.\nThe tech giant said its investigation revealed the activity was restricted to a number of developer program accounts and that no further compromise was detected.\nCryptographically signing malware is",
-          "link": "https://thehackernews.com/2022/12/ransomware-attackers-use-microsoft.html",
-          "publishedOn": "2022-12-14T13:08:00.000Z",
-          "wordCount": null,
-          "title": "Ransomware Attackers Use Microsoft-Signed Drivers to Gain Access to Systems",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhC0YFxPW0F2EEjjLE6yM4RNDX9FSsFi1dhqg80hvGRh9VoIyJAM7Hzps5d7KucdYEoH5bTuw-6PgEyd3ahi5H9PZvqC0bYVPYXggOWPeUNn4n116GZgb-TtmjmbWAKq5bi7Yd1T7Ni5j7uDCGc71vAGp6_KGUzCS6SuPGTHdrzzqPLvzXMmDgHGFYy/s1600/windows.png"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhC0YFxPW0F2EEjjLE6yM4RNDX9FSsFi1dhqg80hvGRh9VoIyJAM7Hzps5d7KucdYEoH5bTuw-6PgEyd3ahi5H9PZvqC0bYVPYXggOWPeUNn4n116GZgb-TtmjmbWAKq5bi7Yd1T7Ni5j7uDCGc71vAGp6_KGUzCS6SuPGTHdrzzqPLvzXMmDgHGFYy/s1600/windows.png"
-        },
-        {
-          "id": "https://thehackernews.com/2022/12/why-pci-dss-40-should-be-on-your-radar.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Protecting customer data is critical for any business accepting online payment information. The Payment Card Industry Data Security Standard (PCI DSS), created by leading credit card companies, establishes best practices for protecting consumers' information. By adhering to these standards, businesses can ensure that their customer's personal and financial information is secure. \nThe PCI DSS",
-          "link": "https://thehackernews.com/2022/12/why-pci-dss-40-should-be-on-your-radar.html",
-          "publishedOn": "2022-12-14T12:30:00.000Z",
-          "wordCount": null,
-          "title": "Why PCI DSS 4.0 Should Be on Your Radar in 2023",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg9U5zauu7aSMsYyMXpYp9ny7ivTbPycnbSGir9EkN-GfK0o0iF1_jg2mJDZZX5UNEAvudlUh6JZjgTOTfBOoAahSB7YExjNr3RYHx52qCnPIi0ESk0JOq6P9kdmLGOe13dj1nptxRBAisR7N2upMRhPJzoS3MP0z6ZvJ3U8-B3OBmIUaDLpVsX1DZV/s1600/pcidss.png"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg9U5zauu7aSMsYyMXpYp9ny7ivTbPycnbSGir9EkN-GfK0o0iF1_jg2mJDZZX5UNEAvudlUh6JZjgTOTfBOoAahSB7YExjNr3RYHx52qCnPIi0ESk0JOq6P9kdmLGOe13dj1nptxRBAisR7N2upMRhPJzoS3MP0z6ZvJ3U8-B3OBmIUaDLpVsX1DZV/s1600/pcidss.png"
-        },
-        {
-          "id": "https://thehackernews.com/2022/12/december-2022-patch-tuesday-get-latest.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Tech giant Microsoft released its last set of monthly security updates for 2022 with fixes for 49 vulnerabilities across its software products.\nOf the 49 bugs, six are rated Critical, 40 are rated Important, and three are rated Moderate in severity. The updates are in addition to 24 vulnerabilities that have been addressed in the Chromium-based Edge browser since the start of the month.",
-          "link": "https://thehackernews.com/2022/12/december-2022-patch-tuesday-get-latest.html",
-          "publishedOn": "2022-12-14T07:53:00.000Z",
-          "wordCount": null,
-          "title": "December 2022 Patch Tuesday: Get Latest Security Updates from Microsoft and More",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRbgwLqZwKl8WbC_KGx4gxaKO_xw8xLb0wcK55QizXmNg8y6iC4DH_Mu-WSdIdlHvzlEyNkMYzMj_rb-_Ff_Mz_Na0blyUjLDxvg_8pTNCGF5b7w2WrdmJjE_S4OiO12SQfDRB2vTTwHNAGk5dfTtJw5hn9KgZxBQzz-mHJ-AfLhccacvrp9tYFcwm/s1600/patch-tuesday.png"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRbgwLqZwKl8WbC_KGx4gxaKO_xw8xLb0wcK55QizXmNg8y6iC4DH_Mu-WSdIdlHvzlEyNkMYzMj_rb-_Ff_Mz_Na0blyUjLDxvg_8pTNCGF5b7w2WrdmJjE_S4OiO12SQfDRB2vTTwHNAGk5dfTtJw5hn9KgZxBQzz-mHJ-AfLhccacvrp9tYFcwm/s1600/patch-tuesday.png"
         }
       ]
     }
