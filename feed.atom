@@ -2,10 +2,33 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-14T07:16:51.352Z</updated>
+    <updated>2023-01-14T13:22:08.163Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Malware Attack on CircleCI Engineer's Laptop Leads to Recent Security Incident]]></title>
+        <id>https://thehackernews.com/2023/01/malware-attack-on-circleci-engineers.html</id>
+        <link href="https://thehackernews.com/2023/01/malware-attack-on-circleci-engineers.html"/>
+        <updated>2023-01-14T08:41:00.000Z</updated>
+        <summary type="html"><![CDATA[DevOps platform CircleCI on Friday disclosed that unidentified threat actors compromised an employee's laptop and leveraged malware to steal their two-factor authentication-backed credentials to breach the company's systems and data last month.
+The CI/CD service CircleCI said the "sophisticated attack" took place on December 16, 2022, and that the malware went undetected by its antivirus]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cacti Servers Under Attack as Majority Fail to Patch Critical Vulnerability]]></title>
+        <id>https://thehackernews.com/2023/01/cacti-servers-under-attack-as-majority.html</id>
+        <link href="https://thehackernews.com/2023/01/cacti-servers-under-attack-as-majority.html"/>
+        <updated>2023-01-14T08:11:00.000Z</updated>
+        <summary type="html"><![CDATA[A majority of internet-exposed Cacti servers have not been patched against a recently patched critical security vulnerability that has come under active exploitation in the wild.
+That's according to attack surface management platform Censys, which found only 26 out of a total of 6,427 servers to be running a patched version of Cacti (1.2.23 and 1.3.0).
+The issue in question relates to]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[TikTok Fined $5.4 Million by French Regulator for Violating Cookie Laws]]></title>
         <id>https://thehackernews.com/2023/01/tiktok-fined-54-million-by-french.html</id>
@@ -3655,46 +3678,6 @@ Called MCCrash, the botnet is characterized by a unique spreading mechanism tha
 The now-patched critical flaws, tracked as CVE-2022-26500 and CVE-2022-26501, are both rated 9.8 on the CVSS scoring system, and could be leveraged to]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NIST Finally Retires SHA-1, Kind Of]]></title>
-        <id>https://www.darkreading.com/dr-tech/nist-finally-retires-sha-1</id>
-        <link href="https://www.darkreading.com/dr-tech/nist-finally-retires-sha-1"/>
-        <updated>2022-12-15T23:00:00.000Z</updated>
-        <summary type="html"><![CDATA[SHA-1 was deprecated in 2011. NIST has set the hashing algorithm's final retirement date to Dec. 31, 2030.]]></summary>
-        <author>
-            <name>Dark Reading Staff, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Zero Trust Shouldn’t Be The New Normal]]></title>
-        <id>https://www.darkreading.com/edge-ask-the-experts/zero-trust-shouldnt-be-the-new-normal</id>
-        <link href="https://www.darkreading.com/edge-ask-the-experts/zero-trust-shouldnt-be-the-new-normal"/>
-        <updated>2022-12-15T22:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Zero trust is useful in some situations, but organizations should not be trying to fit zero trust everywhere. In some cases, identity-based networking is an appropriate alternative.]]></summary>
-        <author>
-            <name>Jonathan Care, Contributing Writer, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Axonius Bolsters SaaS Management Offering With New Behavioral Analytics and SaaS User-Device Association Capabilities to Help Teams Address SaaS Application Risk]]></title>
-        <id>https://www.darkreading.com/application-security/axonius-bolsters-saas-management-offering-with-new-behavioral-analytics-and-saas-user-device-association-capabilities-to-help-teams-address-saas-application-risk</id>
-        <link href="https://www.darkreading.com/application-security/axonius-bolsters-saas-management-offering-with-new-behavioral-analytics-and-saas-user-device-association-capabilities-to-help-teams-address-saas-application-risk"/>
-        <updated>2022-12-15T21:07:00.000Z</updated>
-        <summary type="html"><![CDATA[New features bring greater visibility and context into SaaS applications access and activity.]]></summary>
-        <author>
-            <name>Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stolen Data on 80K+ Members of FBI-Run InfraGard Reportedly for Sale on Dark Web Forum]]></title>
-        <id>https://www.darkreading.com/attacks-breaches/stolen-data-on-80k-members-of-fbi-run-infragard-reportedly-for-sale-on-dark-web-forum</id>
-        <link href="https://www.darkreading.com/attacks-breaches/stolen-data-on-80k-members-of-fbi-run-infragard-reportedly-for-sale-on-dark-web-forum"/>
-        <updated>2022-12-15T21:00:00.000Z</updated>
-        <summary type="html"><![CDATA[InfraGard's members include key security decision-makers and stakeholders from all 16 US civilian critical-infrastructure sectors.]]></summary>
-        <author>
-            <name>Jai Vijayan, Contributing Writer, Dark Reading</name>
         </author>
     </entry>
     <entry>
