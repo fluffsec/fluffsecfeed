@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-14T13:22:08.163Z</updated>
+    <updated>2023-01-14T19:15:05.986Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[[Ache In the Head] The Problems With Your Not-So-Secure Email Gateway]]></title>
+        <id>https://blog.knowbe4.com/ache-in-the-head-the-problems-with-your-not-so-secure-email-gateway</id>
+        <link href="https://blog.knowbe4.com/ache-in-the-head-the-problems-with-your-not-so-secure-email-gateway"/>
+        <updated>2023-01-14T14:59:24.000Z</updated>
+        <summary type="html"><![CDATA[I have been doing some research on Secure Email Gateways. The picture is not that pretty.  Below I will summarize what I found.]]></summary>
+        <author>
+            <name>Stu Sjouwerman</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Malware Attack on CircleCI Engineer's Laptop Leads to Recent Security Incident]]></title>
         <id>https://thehackernews.com/2023/01/malware-attack-on-circleci-engineers.html</id>
@@ -3653,29 +3663,6 @@ Secret scanning is designed to examine repositories for access tokens, private
         <summary type="html"><![CDATA[The U.S. National Institute of Standards and Technology (NIST), an agency within the Department of Commerce, announced Thursday that it's formally retiring the SHA-1 cryptographic algorithm.
 SHA-1, short for Secure Hash Algorithm 1, is a 27-year-old hash function used in cryptography and has since been deemed broken owing to the risk of collision attacks.
 While hashes are designed to be]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Minecraft Servers Under Attack: Microsoft Warns About Cross-Platform DDoS Botnet]]></title>
-        <id>https://thehackernews.com/2022/12/minecraft-servers-under-attack.html</id>
-        <link href="https://thehackernews.com/2022/12/minecraft-servers-under-attack.html"/>
-        <updated>2022-12-16T07:10:00.000Z</updated>
-        <summary type="html"><![CDATA[Microsoft on Thursday flagged a cross-platform botnet that's primarily designed to launch distributed denial-of-service (DDoS) attacks against private Minecraft servers.
-Called MCCrash, the botnet is characterized by a unique spreading mechanism that allows it to propagate to Linux-based devices despite originating from malicious software downloads on Windows hosts.
-"The botnet spreads by]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CISA Alert: Veeam Backup and Replication Vulnerabilities Being Exploited in Attacks]]></title>
-        <id>https://thehackernews.com/2022/12/cisa-alert-veeam-backup-and-replication.html</id>
-        <link href="https://thehackernews.com/2022/12/cisa-alert-veeam-backup-and-replication.html"/>
-        <updated>2022-12-16T05:45:00.000Z</updated>
-        <summary type="html"><![CDATA[The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added two vulnerabilities impacting Veeam Backup & Replication software to its Known Exploited Vulnerabilities (KEV) Catalog, citing evidence of active exploitation in the wild.
-The now-patched critical flaws, tracked as CVE-2022-26500 and CVE-2022-26501, are both rated 9.8 on the CVSS scoring system, and could be leveraged to]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>

@@ -2792,6 +2792,16 @@
       "siteUrl": "https://blog.knowbe4.com",
       "articles": [
         {
+          "id": "https://blog.knowbe4.com/ache-in-the-head-the-problems-with-your-not-so-secure-email-gateway",
+          "author": "Stu Sjouwerman",
+          "description": "I have been doing some research on Secure Email Gateways. The picture is not that pretty.  Below I will summarize what I found.",
+          "link": "https://blog.knowbe4.com/ache-in-the-head-the-problems-with-your-not-so-secure-email-gateway",
+          "publishedOn": "2023-01-14T14:59:24.000Z",
+          "wordCount": 2466,
+          "title": "[Ache In the Head] The Problems With Your Not-So-Secure Email Gateway",
+          "imageUrl": "https://blog.knowbe4.com/hubfs/Phishing%20for%20Feds.jpg#keepProtocol"
+        },
+        {
           "id": "https://blog.knowbe4.com/heads-up-phishing-attacks-are-now-the-top-vector-for-ransomware-delivery",
           "author": "Stu Sjouwerman",
           "description": "Phishing attacks are now the top vector for ransomware delivery, according to researchers at Digital Defense. Phishing emails can be highly tailored to specific employees in order to trick them into downloading malicious files.",
@@ -4839,38 +4849,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjS63RPyCCmqTsrKDunKx8BK738LSTdA-q7VMtWWRPGysA2yZCCr2TsVPMlypAxCojp0_QXknUdNILTBEY5fT2kEHjKc7ykQMn5QtGoOssb5gVT1hRvWPgCuGHr-8fNmMIgpkT6Y0SJiK3UNT_5SmYbhEmgcvHA36Tky3m0eCT2b6vAUhuer9LpWUey/s1600/sha1.png"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjS63RPyCCmqTsrKDunKx8BK738LSTdA-q7VMtWWRPGysA2yZCCr2TsVPMlypAxCojp0_QXknUdNILTBEY5fT2kEHjKc7ykQMn5QtGoOssb5gVT1hRvWPgCuGHr-8fNmMIgpkT6Y0SJiK3UNT_5SmYbhEmgcvHA36Tky3m0eCT2b6vAUhuer9LpWUey/s1600/sha1.png"
-        },
-        {
-          "id": "https://thehackernews.com/2022/12/minecraft-servers-under-attack.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Microsoft on Thursday flagged a cross-platform botnet that's primarily designed to launch distributed denial-of-service (DDoS) attacks against private Minecraft servers.\nCalled MCCrash, the botnet is characterized by a unique spreading mechanism that allows it to propagate to Linux-based devices despite originating from malicious software downloads on Windows hosts.\n\"The botnet spreads by",
-          "link": "https://thehackernews.com/2022/12/minecraft-servers-under-attack.html",
-          "publishedOn": "2022-12-16T07:10:00.000Z",
-          "wordCount": null,
-          "title": "Minecraft Servers Under Attack: Microsoft Warns About Cross-Platform DDoS Botnet",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEijHp6HLAxY5_9Ebf7eDGCnoLv-IfiweMuwzggWMSgxZV5fodqa3xdNQn6BeAhOwTX6fSYMpaosIEPJpOOqX7CZvaDqfcLQ8-Oa7QZyXdnELfpI-VkqA-5wexMnqbgKVxQef41c5Eh9-wUufI9ONBDQMjDrWiFBCwJtkiiog_DNFQWL3rfaecQX7jlX/s1600/minecraft.png"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEijHp6HLAxY5_9Ebf7eDGCnoLv-IfiweMuwzggWMSgxZV5fodqa3xdNQn6BeAhOwTX6fSYMpaosIEPJpOOqX7CZvaDqfcLQ8-Oa7QZyXdnELfpI-VkqA-5wexMnqbgKVxQef41c5Eh9-wUufI9ONBDQMjDrWiFBCwJtkiiog_DNFQWL3rfaecQX7jlX/s1600/minecraft.png"
-        },
-        {
-          "id": "https://thehackernews.com/2022/12/cisa-alert-veeam-backup-and-replication.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added two vulnerabilities impacting Veeam Backup & Replication software to its Known Exploited Vulnerabilities (KEV) Catalog, citing evidence of active exploitation in the wild.\nThe now-patched critical flaws, tracked as CVE-2022-26500 and CVE-2022-26501, are both rated 9.8 on the CVSS scoring system, and could be leveraged to",
-          "link": "https://thehackernews.com/2022/12/cisa-alert-veeam-backup-and-replication.html",
-          "publishedOn": "2022-12-16T05:45:00.000Z",
-          "wordCount": null,
-          "title": "CISA Alert: Veeam Backup and Replication Vulnerabilities Being Exploited in Attacks",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhipTgszlTYwFj_AONo9C2lRQxAg6vTcz7G6oFzXNL4ZItrznU-iYvUjSAWkRj8093vFBfqAazb-yWVTWaHuyW6X8r2dpMoPmK6G_LY9NpZBuKptb90Nkq9UEXeMhtop80yQXpZxE4XP2tdhfYTNqmh0tO8oTLRFKBgiaAg-EBQSGVEYLvv3uwxu4Xp/s1600/veeam.png"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhipTgszlTYwFj_AONo9C2lRQxAg6vTcz7G6oFzXNL4ZItrznU-iYvUjSAWkRj8093vFBfqAazb-yWVTWaHuyW6X8r2dpMoPmK6G_LY9NpZBuKptb90Nkq9UEXeMhtop80yQXpZxE4XP2tdhfYTNqmh0tO8oTLRFKBgiaAg-EBQSGVEYLvv3uwxu4Xp/s1600/veeam.png"
         }
       ]
     }
