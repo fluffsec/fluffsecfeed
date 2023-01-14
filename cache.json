@@ -160,36 +160,6 @@
           "wordCount": 1105,
           "title": "FBI, FDA OCI, and USDA Release Joint Cybersecurity Advisory Regarding Business Email Compromise Schemes Used to Steal Food",
           "imageUrl": null
-        },
-        {
-          "id": "18239 at https://us-cert.cisa.gov",
-          "author": "CISA",
-          "description": "Original release date: December 15, 2022\nCISA has released forty-one (41) Industrial Control Systems (ICS) advisories on 15 December 2022. These advisories provide timely information about current security issues, vulnerabilities, and exploits surrounding ICS.\nCISA encourages users and administrators to review the newly released ICS advisories for technical details and mitigations:\nICSA-22-349-01 Prosys OPC UA Simulation\nICSA-22-349-02 Siemens SCALANCE X-200RNA Switch Devices\nICSA-22-349-03 Siemens Multiple Denial of Service Vulnerabilities in Industrial Products\nICSA-22-349-04 Siemens Multiple Vulnerabilities in SCALANCE Products\nICSA-22-349-05 Siemens PLM Help Server\nICSA-22-349-06 Siemens SIMATIC WinCC OA Ultralight Client\nICSA-22-349-07 Siemens Simcenter STAR-CCM+\nICSA-22-349-08 Siemen…",
-          "link": "https://us-cert.cisa.gov/ncas/current-activity/2022/12/15/cisa-releases-forty-one-industrial-control-systems-advisories",
-          "publishedOn": "2022-12-15T18:44:51.000Z",
-          "wordCount": 1228,
-          "title": "CISA Releases Forty-One Industrial Control Systems Advisories",
-          "imageUrl": null
-        },
-        {
-          "id": "18236 at https://us-cert.cisa.gov",
-          "author": "CISA",
-          "description": "Original release date: December 15, 2022\nDrupal has released security updates to address vulnerabilities affecting H5P and the File (Field) Paths modules for Drupal 7.x. An attacker could exploit these vulnerabilities to access sensitive information and remotely execute code.\nCISA encourages users and administrators to review Drupal’s security advisories SA-CONTRIB-2022-064 and SA-CONTRIB-2022-065 and apply the necessary update.\nThis product is provided subject to this Notification and this Privacy & Use policy.",
-          "link": "https://us-cert.cisa.gov/ncas/current-activity/2022/12/15/drupal-releases-security-updates-address-vulnerabilities-h5p-and",
-          "publishedOn": "2022-12-15T15:02:13.000Z",
-          "wordCount": 974,
-          "title": "Drupal Releases Security Updates to Address Vulnerabilities in H5P and File (Field) Paths",
-          "imageUrl": null
-        },
-        {
-          "id": "18215 at https://us-cert.cisa.gov",
-          "author": "CISA",
-          "description": "Original release date: December 15, 2022\nCISA has consolidated its social media presence on Twitter. Three accounts — @ICSCERT, @Cyber, and @CISAInfraSec — are no longer active. Additionally, the @USCERT_gov Twitter account is now renamed @CISACyber. The following current active Twitter accounts will include posts on content previously covered on the now-inactive accounts.\n@CISACyber will cover updates relevant to the industrial control systems community along with the latest vulnerability management info, threat analysis, and other info relevant to the cybersecurity community.\n@CISAgov will continue to provide agencywide content or non-urgent ICS updates.\n@CISAJen will continue to include posts across a variety of topics coming straight from the CISA director.\n@CISACyber and @CISAgovTwitter accounts to keep receiving important CISA messages and information.\nThis product is provided subject to this Notification and this Privacy & Use policy.",
-          "link": "https://us-cert.cisa.gov/ncas/current-activity/2022/12/15/cisa-consolidates-twitter-accounts",
-          "publishedOn": "2022-12-15T14:34:00.000Z",
-          "wordCount": 1024,
-          "title": "CISA Consolidates Twitter Accounts",
-          "imageUrl": null
         }
       ]
     },
@@ -2812,91 +2782,6 @@
             "length": "0"
           },
           "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt02d79fb9a44a4258/60b1e9dd2a25046b35110696/Jai-Vijayan.jpeg"
-        },
-        {
-          "id": "https://www.darkreading.com/vulnerabilities-threats/meta-300k-bounty-mobile-rce-vulnerabilities-facebook",
-          "author": "Jai Vijayan, Contributing Writer, Dark Reading",
-          "description": "Facebook's parent company has also expanded bug-bounty payouts to include Oculus and other \"metaverse\" gadgets for AR/VR.",
-          "link": "https://www.darkreading.com/vulnerabilities-threats/meta-300k-bounty-mobile-rce-vulnerabilities-facebook",
-          "publishedOn": "2022-12-15T19:07:38.000Z",
-          "wordCount": 11809,
-          "title": "Meta Ponies Up $300K Bounty for Zero-Click Mobile RCE Bugs in Facebook",
-          "enclosure": {
-            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt02d79fb9a44a4258/60b1e9dd2a25046b35110696/Jai-Vijayan.jpeg",
-            "type": "image/*",
-            "length": "0"
-          },
-          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt02d79fb9a44a4258/60b1e9dd2a25046b35110696/Jai-Vijayan.jpeg"
-        },
-        {
-          "id": "https://www.darkreading.com/attacks-breaches/watchguard-threat-lab-report-finds-top-threat-arriving-exclusively-over-encrypted-connections",
-          "author": null,
-          "description": "New research also analyzes the commoditization of adversary-in-the-middle attacks, JavaScript obfuscation in exploit kits, and a malware family with Gothic Panda ties.",
-          "link": "https://www.darkreading.com/attacks-breaches/watchguard-threat-lab-report-finds-top-threat-arriving-exclusively-over-encrypted-connections",
-          "publishedOn": "2022-12-15T19:06:00.000Z",
-          "wordCount": 14317,
-          "title": "WatchGuard Threat Lab Report Finds Top Threat Arriving Exclusively Over Encrypted Connections",
-          "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
-        },
-        {
-          "id": "https://www.darkreading.com/attacks-breaches/ddos-attack-platforms-shut-down-in-global-law-enforcement-crackdown",
-          "author": "Dark Reading Staff, Dark Reading",
-          "description": "Sweeping operation took down around 50 popular DDoS platforms, just one of which was used in 30M attacks, Europol says.",
-          "link": "https://www.darkreading.com/attacks-breaches/ddos-attack-platforms-shut-down-in-global-law-enforcement-crackdown",
-          "publishedOn": "2022-12-15T19:00:00.000Z",
-          "wordCount": 9351,
-          "title": "DDoS Attack Platforms Shut Down in Global Law Enforcement Operation",
-          "enclosure": {
-            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blte161b23f0fd3a84b/60b1ea374e7eb868c4c6a293/dr_staff_125x125.jpg",
-            "type": "image/*",
-            "length": "0"
-          },
-          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blte161b23f0fd3a84b/60b1ea374e7eb868c4c6a293/dr_staff_125x125.jpg"
-        },
-        {
-          "id": "https://www.darkreading.com/vulnerabilities-threats/blackmailing-moneymonger-malware-hides-flutter-mobile-apps",
-          "author": "Nathan Eddy, Contributing Writer, Dark Reading",
-          "description": "Money-lending apps built using the Flutter software development kit hide a predatory spyware threat and highlight a growing trend of using personal data for blackmail.",
-          "link": "https://www.darkreading.com/vulnerabilities-threats/blackmailing-moneymonger-malware-hides-flutter-mobile-apps",
-          "publishedOn": "2022-12-15T16:20:20.000Z",
-          "wordCount": 12210,
-          "title": "Blackmailing MoneyMonger Malware Hides in Flutter Mobile Apps",
-          "enclosure": {
-            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltf8b5a94afa71c53a/628e3799daa31875dc0c9fc0/NathanEddyHeadshot.PNG",
-            "type": "image/*",
-            "length": "0"
-          },
-          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltf8b5a94afa71c53a/628e3799daa31875dc0c9fc0/NathanEddyHeadshot.PNG"
-        },
-        {
-          "id": "https://www.darkreading.com/cloud/data-destruction-policies-in-the-age-of-cloud-computing-",
-          "author": "Tony Howlett, CISO, UniSec Cybersecurity",
-          "description": "It's time for on-the-record answers to questions about data destruction in cloud environments. Without access, how do you verify data has been destroyed? Do processes meet DoD standards, or do we need to adjust standards to meet reality?",
-          "link": "https://www.darkreading.com/cloud/data-destruction-policies-in-the-age-of-cloud-computing-",
-          "publishedOn": "2022-12-15T15:00:00.000Z",
-          "wordCount": 11810,
-          "title": "Data Destruction Policies in the Age of Cloud Computing",
-          "enclosure": {
-            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt9195c697831e0756/6193f3915613955659d6649b/Tony-Howlett2.jpeg",
-            "type": "image/*",
-            "length": "0"
-          },
-          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt9195c697831e0756/6193f3915613955659d6649b/Tony-Howlett2.jpeg"
-        },
-        {
-          "id": "https://www.darkreading.com/vulnerabilities-threats/api-flaws-lego-marketplace-user-accounts-data-at-risk",
-          "author": "Elizabeth Montalbano, Contributor, Dark Reading",
-          "description": "Attackers also could breach internal production data to compromise a corporate network using vulnerabilities found in the BrickLink online platform.",
-          "link": "https://www.darkreading.com/vulnerabilities-threats/api-flaws-lego-marketplace-user-accounts-data-at-risk",
-          "publishedOn": "2022-12-15T14:59:21.000Z",
-          "wordCount": 13474,
-          "title": "API Flaws in Lego Marketplace Put User Accounts, Data at Risk",
-          "enclosure": {
-            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltbfd004d139d42d70/6303bca6236c2476a257760e/ElizabethMontalbano.jpg",
-            "type": "image/*",
-            "length": "0"
-          },
-          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltbfd004d139d42d70/6303bca6236c2476a257760e/ElizabethMontalbano.jpg"
         }
       ]
     },
@@ -3378,6 +3263,38 @@
       "feedUrl": "https://thehackernews.com/feeds/posts/default",
       "siteUrl": "https://thehackernews.com",
       "articles": [
+        {
+          "id": "https://thehackernews.com/2023/01/tiktok-fined-54-million-by-french.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Popular short-form video hosting service TikTok has been fined €5 million (about $5.4 million) by the French data protection watchdog for breaking cookie consent rules, making it the latest platform to face similar penalties after Amazon, Google, Meta, and Microsoft since 2020.\n\"Users of 'tiktok[.]com' could not refuse cookies as easily as accepting them and they were not informed in a",
+          "link": "https://thehackernews.com/2023/01/tiktok-fined-54-million-by-french.html",
+          "publishedOn": "2023-01-14T05:01:00.000Z",
+          "wordCount": null,
+          "title": "TikTok Fined $5.4 Million by French Regulator for Violating Cookie Laws",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgTR9czMaAPgT-TWbu_W7950I3wWHHp_HhPcJw6VTbRXEmdC3zHZqwE3uydduJ1DeOsWi9m9Kl8vQ5im0rUZ8AgEzOrn6eppP55MVHGdxODCfgLnhpPtemr14jIIvvdlKewEpu6hadTql15jiv-ft1_ZWcK8gAR6okG4FWZd2WDuGmyX9dzIsWxPoEG/s1600/tiktok-cookie.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgTR9czMaAPgT-TWbu_W7950I3wWHHp_HhPcJw6VTbRXEmdC3zHZqwE3uydduJ1DeOsWi9m9Kl8vQ5im0rUZ8AgEzOrn6eppP55MVHGdxODCfgLnhpPtemr14jIIvvdlKewEpu6hadTql15jiv-ft1_ZWcK8gAR6okG4FWZd2WDuGmyX9dzIsWxPoEG/s1600/tiktok-cookie.png"
+        },
+        {
+          "id": "https://thehackernews.com/2023/01/cisco-issues-warning-for-unpatched.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Cisco has warned of two security vulnerabilities affecting end-of-life (EoL) Small Business RV016, RV042, RV042G, and RV082 routers that it said will not be fixed, even as it acknowledged the public availability of proof-of-concept (PoC) exploit.\nThe issues are rooted in the router's web-based management interface, enabling a remote adversary to sidestep authentication or execute malicious",
+          "link": "https://thehackernews.com/2023/01/cisco-issues-warning-for-unpatched.html",
+          "publishedOn": "2023-01-14T04:11:00.000Z",
+          "wordCount": null,
+          "title": "Cisco Issues Warning for Unpatched Vulnerabilities in EoL Business Routers",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhIAtROloGI6Tt-u2jH243k2dxz9poGMQN3wiy4CuJRJLejT8XXe7WUolNWNUzHu0aiQlsBydrxD9aWAhZnUj8oAmzqRSKQmFb2Welo811wVchr9hYC-c7BV_4VgEZsy249AT6nHYrG5f22fl77Poa7hF4MYug-EAfdqo-q87ixKtQYPkbyzLrm6CT_/s1600/cisco.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhIAtROloGI6Tt-u2jH243k2dxz9poGMQN3wiy4CuJRJLejT8XXe7WUolNWNUzHu0aiQlsBydrxD9aWAhZnUj8oAmzqRSKQmFb2Welo811wVchr9hYC-c7BV_4VgEZsy249AT6nHYrG5f22fl77Poa7hF4MYug-EAfdqo-q87ixKtQYPkbyzLrm6CT_/s1600/cisco.jpg"
+        },
         {
           "id": "https://thehackernews.com/2023/01/beware-tainted-vpns-being-used-to.html",
           "author": "info@thehackernews.com (The Hacker News)",

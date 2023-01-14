@@ -2,10 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-14T02:12:09.162Z</updated>
+    <updated>2023-01-14T07:16:51.352Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[TikTok Fined $5.4 Million by French Regulator for Violating Cookie Laws]]></title>
+        <id>https://thehackernews.com/2023/01/tiktok-fined-54-million-by-french.html</id>
+        <link href="https://thehackernews.com/2023/01/tiktok-fined-54-million-by-french.html"/>
+        <updated>2023-01-14T05:01:00.000Z</updated>
+        <summary type="html"><![CDATA[Popular short-form video hosting service TikTok has been fined €5 million (about $5.4 million) by the French data protection watchdog for breaking cookie consent rules, making it the latest platform to face similar penalties after Amazon, Google, Meta, and Microsoft since 2020.
+"Users of 'tiktok[.]com' could not refuse cookies as easily as accepting them and they were not informed in a]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cisco Issues Warning for Unpatched Vulnerabilities in EoL Business Routers]]></title>
+        <id>https://thehackernews.com/2023/01/cisco-issues-warning-for-unpatched.html</id>
+        <link href="https://thehackernews.com/2023/01/cisco-issues-warning-for-unpatched.html"/>
+        <updated>2023-01-14T04:11:00.000Z</updated>
+        <summary type="html"><![CDATA[Cisco has warned of two security vulnerabilities affecting end-of-life (EoL) Small Business RV016, RV042, RV042G, and RV082 routers that it said will not be fixed, even as it acknowledged the public availability of proof-of-concept (PoC) exploit.
+The issues are rooted in the router's web-based management interface, enabling a remote adversary to sidestep authentication or execute malicious]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Why Mean Time to Repair Is Not Always A Useful Security Metric]]></title>
         <id>https://www.darkreading.com/edge-articles/why-mean-time-to-repair-no-longer-serves-as-a-useful-security-metric</id>
@@ -3673,115 +3695,6 @@ The now-patched critical flaws, tracked as CVE-2022-26500 and CVE-2022-26501, a
         <summary type="html"><![CDATA[InfraGard's members include key security decision-makers and stakeholders from all 16 US civilian critical-infrastructure sectors.]]></summary>
         <author>
             <name>Jai Vijayan, Contributing Writer, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meta Ponies Up $300K Bounty for Zero-Click Mobile RCE Bugs in Facebook]]></title>
-        <id>https://www.darkreading.com/vulnerabilities-threats/meta-300k-bounty-mobile-rce-vulnerabilities-facebook</id>
-        <link href="https://www.darkreading.com/vulnerabilities-threats/meta-300k-bounty-mobile-rce-vulnerabilities-facebook"/>
-        <updated>2022-12-15T19:07:38.000Z</updated>
-        <summary type="html"><![CDATA[Facebook's parent company has also expanded bug-bounty payouts to include Oculus and other "metaverse" gadgets for AR/VR.]]></summary>
-        <author>
-            <name>Jai Vijayan, Contributing Writer, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WatchGuard Threat Lab Report Finds Top Threat Arriving Exclusively Over Encrypted Connections]]></title>
-        <id>https://www.darkreading.com/attacks-breaches/watchguard-threat-lab-report-finds-top-threat-arriving-exclusively-over-encrypted-connections</id>
-        <link href="https://www.darkreading.com/attacks-breaches/watchguard-threat-lab-report-finds-top-threat-arriving-exclusively-over-encrypted-connections"/>
-        <updated>2022-12-15T19:06:00.000Z</updated>
-        <summary type="html"><![CDATA[New research also analyzes the commoditization of adversary-in-the-middle attacks, JavaScript obfuscation in exploit kits, and a malware family with Gothic Panda ties.]]></summary>
-        <author>
-            <name>Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DDoS Attack Platforms Shut Down in Global Law Enforcement Operation]]></title>
-        <id>https://www.darkreading.com/attacks-breaches/ddos-attack-platforms-shut-down-in-global-law-enforcement-crackdown</id>
-        <link href="https://www.darkreading.com/attacks-breaches/ddos-attack-platforms-shut-down-in-global-law-enforcement-crackdown"/>
-        <updated>2022-12-15T19:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Sweeping operation took down around 50 popular DDoS platforms, just one of which was used in 30M attacks, Europol says.]]></summary>
-        <author>
-            <name>Dark Reading Staff, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CISA Releases Forty-One Industrial Control Systems Advisories]]></title>
-        <id>18239 at https://us-cert.cisa.gov</id>
-        <link href="https://us-cert.cisa.gov/ncas/current-activity/2022/12/15/cisa-releases-forty-one-industrial-control-systems-advisories"/>
-        <updated>2022-12-15T18:44:51.000Z</updated>
-        <summary type="html"><![CDATA[Original release date: December 15, 2022
-CISA has released forty-one (41) Industrial Control Systems (ICS) advisories on 15 December 2022. These advisories provide timely information about current security issues, vulnerabilities, and exploits surrounding ICS.
-CISA encourages users and administrators to review the newly released ICS advisories for technical details and mitigations:
-ICSA-22-349-01 Prosys OPC UA Simulation
-ICSA-22-349-02 Siemens SCALANCE X-200RNA Switch Devices
-ICSA-22-349-03 Siemens Multiple Denial of Service Vulnerabilities in Industrial Products
-ICSA-22-349-04 Siemens Multiple Vulnerabilities in SCALANCE Products
-ICSA-22-349-05 Siemens PLM Help Server
-ICSA-22-349-06 Siemens SIMATIC WinCC OA Ultralight Client
-ICSA-22-349-07 Siemens Simcenter STAR-CCM+
-ICSA-22-349-08 Siemen…]]></summary>
-        <author>
-            <name>CISA</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Blackmailing MoneyMonger Malware Hides in Flutter Mobile Apps]]></title>
-        <id>https://www.darkreading.com/vulnerabilities-threats/blackmailing-moneymonger-malware-hides-flutter-mobile-apps</id>
-        <link href="https://www.darkreading.com/vulnerabilities-threats/blackmailing-moneymonger-malware-hides-flutter-mobile-apps"/>
-        <updated>2022-12-15T16:20:20.000Z</updated>
-        <summary type="html"><![CDATA[Money-lending apps built using the Flutter software development kit hide a predatory spyware threat and highlight a growing trend of using personal data for blackmail.]]></summary>
-        <author>
-            <name>Nathan Eddy, Contributing Writer, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Drupal Releases Security Updates to Address Vulnerabilities in H5P and File (Field) Paths]]></title>
-        <id>18236 at https://us-cert.cisa.gov</id>
-        <link href="https://us-cert.cisa.gov/ncas/current-activity/2022/12/15/drupal-releases-security-updates-address-vulnerabilities-h5p-and"/>
-        <updated>2022-12-15T15:02:13.000Z</updated>
-        <summary type="html"><![CDATA[Original release date: December 15, 2022
-Drupal has released security updates to address vulnerabilities affecting H5P and the File (Field) Paths modules for Drupal 7.x. An attacker could exploit these vulnerabilities to access sensitive information and remotely execute code.
-CISA encourages users and administrators to review Drupal’s security advisories SA-CONTRIB-2022-064 and SA-CONTRIB-2022-065 and apply the necessary update.
-This product is provided subject to this Notification and this Privacy & Use policy.]]></summary>
-        <author>
-            <name>CISA</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Data Destruction Policies in the Age of Cloud Computing]]></title>
-        <id>https://www.darkreading.com/cloud/data-destruction-policies-in-the-age-of-cloud-computing-</id>
-        <link href="https://www.darkreading.com/cloud/data-destruction-policies-in-the-age-of-cloud-computing-"/>
-        <updated>2022-12-15T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[It's time for on-the-record answers to questions about data destruction in cloud environments. Without access, how do you verify data has been destroyed? Do processes meet DoD standards, or do we need to adjust standards to meet reality?]]></summary>
-        <author>
-            <name>Tony Howlett, CISO, UniSec Cybersecurity</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[API Flaws in Lego Marketplace Put User Accounts, Data at Risk]]></title>
-        <id>https://www.darkreading.com/vulnerabilities-threats/api-flaws-lego-marketplace-user-accounts-data-at-risk</id>
-        <link href="https://www.darkreading.com/vulnerabilities-threats/api-flaws-lego-marketplace-user-accounts-data-at-risk"/>
-        <updated>2022-12-15T14:59:21.000Z</updated>
-        <summary type="html"><![CDATA[Attackers also could breach internal production data to compromise a corporate network using vulnerabilities found in the BrickLink online platform.]]></summary>
-        <author>
-            <name>Elizabeth Montalbano, Contributor, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CISA Consolidates Twitter Accounts]]></title>
-        <id>18215 at https://us-cert.cisa.gov</id>
-        <link href="https://us-cert.cisa.gov/ncas/current-activity/2022/12/15/cisa-consolidates-twitter-accounts"/>
-        <updated>2022-12-15T14:34:00.000Z</updated>
-        <summary type="html"><![CDATA[Original release date: December 15, 2022
-CISA has consolidated its social media presence on Twitter. Three accounts — @ICSCERT, @Cyber, and @CISAInfraSec — are no longer active. Additionally, the @USCERT_gov Twitter account is now renamed @CISACyber. The following current active Twitter accounts will include posts on content previously covered on the now-inactive accounts.
-@CISACyber will cover updates relevant to the industrial control systems community along with the latest vulnerability management info, threat analysis, and other info relevant to the cybersecurity community.
-@CISAgov will continue to provide agencywide content or non-urgent ICS updates.
-@CISAJen will continue to include posts across a variety of topics coming straight from the CISA director.
-@CISACyber and @CISAgovTwitter accounts to keep receiving important CISA messages and information.
-This product is provided subject to this Notification and this Privacy & Use policy.]]></summary>
-        <author>
-            <name>CISA</name>
         </author>
     </entry>
     <entry>
