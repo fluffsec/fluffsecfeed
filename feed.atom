@@ -2,10 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-16T07:18:33.346Z</updated>
+    <updated>2023-01-16T13:27:45.772Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[A Secure User Authentication Method – Planning is More Important than Ever]]></title>
+        <id>https://thehackernews.com/2023/01/a-secure-user-authentication-method.html</id>
+        <link href="https://thehackernews.com/2023/01/a-secure-user-authentication-method.html"/>
+        <updated>2023-01-16T12:22:00.000Z</updated>
+        <summary type="html"><![CDATA[When considering authentication providers, many organizations consider the ease of configuration, ubiquity of usage, and technical stability. Organizations cannot always be judged on those metrics alone. There is an increasing need to evaluate company ownership, policies and the stability, or instability, that it brings.
+How Leadership Change Affects Stability
+In recent months, a salient example]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CISA Warns for Flaws Affecting Industrial Control Systems from Major Manufacturers]]></title>
+        <id>https://thehackernews.com/2023/01/cisa-warns-for-flaws-affecting.html</id>
+        <link href="https://thehackernews.com/2023/01/cisa-warns-for-flaws-affecting.html"/>
+        <updated>2023-01-16T10:47:00.000Z</updated>
+        <summary type="html"><![CDATA[The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has released several Industrial Control Systems (ICS) advisories warning of critical security flaws affecting products from Sewio, InHand Networks, Sauter Controls, and Siemens.
+The most severe of the flaws relate to Sewio's RTLS Studio, which could be exploited by an attacker to "obtain unauthorized access to the server, alter]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New Backdoor Created Using Leaked CIA's Hive Malware Discovered in the Wild]]></title>
+        <id>https://thehackernews.com/2023/01/new-backdoor-created-using-leaked-cias.html</id>
+        <link href="https://thehackernews.com/2023/01/new-backdoor-created-using-leaked-cias.html"/>
+        <updated>2023-01-16T10:09:00.000Z</updated>
+        <summary type="html"><![CDATA[Unidentified threat actors have deployed a new backdoor that borrows its features from the U.S. Central Intelligence Agency (CIA)'s Hive multi-platform malware suite, the source code of which was released by WikiLeaks in November 2017.
+"This is the first time we caught a variant of the CIA Hive attack kit in the wild, and we named it xdr33 based on its embedded Bot-side certificate CN=xdr33,"]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[Ache In the Head] The Problems With Your Not-So-Secure Email Gateway]]></title>
         <id>https://blog.knowbe4.com/ache-in-the-head-the-problems-with-your-not-so-secure-email-gateway</id>
