@@ -2,10 +2,71 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-16T13:27:45.772Z</updated>
+    <updated>2023-01-16T19:15:43.443Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The Dangers of Default Cloud Configurations]]></title>
+        <id>https://www.darkreading.com/cloud/the-dangers-of-default-cloud-configurations</id>
+        <link href="https://www.darkreading.com/cloud/the-dangers-of-default-cloud-configurations"/>
+        <updated>2023-01-16T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Default settings can leave blind spots but avoiding this issue can be done.]]></summary>
+        <author>
+            <name>Nathan Schmidt, Principal Security Architect, Sonrai Security</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[INFOGRAPHIC] PhishER by the Numbers]]></title>
+        <id>https://blog.knowbe4.com/infographic-phisher-by-the-numbers</id>
+        <link href="https://blog.knowbe4.com/infographic-phisher-by-the-numbers"/>
+        <updated>2023-01-16T14:22:16.000Z</updated>
+        <summary type="html"><![CDATA[PhishER, KnowBe4’s industry-leading Security Orchestration, Automation and Response (SOAR) platform, takes an otherwise complicated and inefficient threat management workflow and allows admins to quickly reduce risk and train users.]]></summary>
+        <author>
+            <name>Stu Sjouwerman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[New Feature] Continuously Monitor for Any Detected Password Vulnerabilities Within Your User Base with PasswordIQ]]></title>
+        <id>https://blog.knowbe4.com/continuously-monitor-password-vulnerabilities-passwordiq</id>
+        <link href="https://blog.knowbe4.com/continuously-monitor-password-vulnerabilities-passwordiq"/>
+        <updated>2023-01-16T14:21:53.000Z</updated>
+        <summary type="html"><![CDATA[We’re thrilled to announce that the power of KnowBe4’s most popular free password security tool has been brought to your KnowBe4 console as a new feature!]]></summary>
+        <author>
+            <name>Stu Sjouwerman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Java, .NET Developers Prone to More Frequent Vulnerabilities]]></title>
+        <id>https://www.darkreading.com/threat-intelligence/java-net-developers-frequent-vulnerabilities</id>
+        <link href="https://www.darkreading.com/threat-intelligence/java-net-developers-frequent-vulnerabilities"/>
+        <updated>2023-01-16T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[About three-quarters of Java and .NET applications have vulnerabilities from the OWASP Top 10 list, while only 55% of JavaScript codebases have such flaws, according to testing data.]]></summary>
+        <author>
+            <name>Robert Lemos, Contributing Writer, Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Check Point Software: "2022 Saw A Huge Rise In Cyberattacks"]]></title>
+        <id>https://blog.knowbe4.com/check-point-software-2022-saw-a-huge-rise-in-cyberattacks</id>
+        <link href="https://blog.knowbe4.com/check-point-software-2022-saw-a-huge-rise-in-cyberattacks"/>
+        <updated>2023-01-16T13:42:12.000Z</updated>
+        <summary type="html"><![CDATA[Techradar reported that cyberattacks saw a significant rise in 2022, mostly due to the increase in organizations going virtual to combat the effects of the Covid-19 pandemic, and the rise of smaller and more agile hacker and ransomware groups, new research has said.]]></summary>
+        <author>
+            <name>Stu Sjouwerman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Raccoon and Vidar Stealers Spreading via Massive Network of Fake Cracked Software]]></title>
+        <id>https://thehackernews.com/2023/01/raccoon-and-vidar-stealers-spreading.html</id>
+        <link href="https://thehackernews.com/2023/01/raccoon-and-vidar-stealers-spreading.html"/>
+        <updated>2023-01-16T12:47:00.000Z</updated>
+        <summary type="html"><![CDATA[A "large and resilient infrastructure" comprising over 250 domains is being used to distribute information-stealing malware such as Raccoon and Vidar since early 2020.
+The infection chain "uses about a hundred of fake cracked software catalogue websites that redirect to several links before downloading the payload hosted on file share platforms, such as GitHub," cybersecurity firm SEKOIA said in]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[A Secure User Authentication Method – Planning is More Important than Ever]]></title>
         <id>https://thehackernews.com/2023/01/a-secure-user-authentication-method.html</id>
@@ -3445,18 +3506,6 @@ Agenda, attributed to an operator named Qilin, is a ransomware-as-a-service (Raa
         <summary type="html"><![CDATA[Meta Platforms disclosed that it took down no less than 200 covert influence operations since 2017 spanning roughly 70 countries across 42 languages.
 The social media conglomerate also took steps to disable accounts and block infrastructure operated by spyware vendors, including in China, Russia, Israel, the U.S. and India, that targeted individuals in about 200 countries.
 "The global]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google Takes Gmail Security to the Next Level with Client-Side Encryption]]></title>
-        <id>https://thehackernews.com/2022/12/gmail-encryption.html</id>
-        <link href="https://thehackernews.com/2022/12/gmail-encryption.html"/>
-        <updated>2022-12-18T04:41:00.000Z</updated>
-        <summary type="html"><![CDATA[Google on Friday announced that its client-side encryption for Gmail is in beta to its Workspace and education customers to secure emails sent using the web version of the platform.
-This development comes at a time when concerns about online privacy and data security are at an all-time high, and it is certainly welcomed by users who value the protection of their personal data.
-To that end,]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>

@@ -179,6 +179,36 @@
       "siteUrl": "https://www.darkreading.com",
       "articles": [
         {
+          "id": "https://www.darkreading.com/cloud/the-dangers-of-default-cloud-configurations",
+          "author": "Nathan Schmidt, Principal Security Architect, Sonrai Security",
+          "description": "Default settings can leave blind spots but avoiding this issue can be done.",
+          "link": "https://www.darkreading.com/cloud/the-dangers-of-default-cloud-configurations",
+          "publishedOn": "2023-01-16T15:00:00.000Z",
+          "wordCount": 14639,
+          "title": "The Dangers of Default Cloud Configurations",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt6dcb640b9f3d17f3/63b853d63567ce08f02ab554/N_Schmidt.jpg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt6dcb640b9f3d17f3/63b853d63567ce08f02ab554/N_Schmidt.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/threat-intelligence/java-net-developers-frequent-vulnerabilities",
+          "author": "Robert Lemos, Contributing Writer, Dark Reading",
+          "description": "About three-quarters of Java and .NET applications have vulnerabilities from the OWASP Top 10 list, while only 55% of JavaScript codebases have such flaws, according to testing data.",
+          "link": "https://www.darkreading.com/threat-intelligence/java-net-developers-frequent-vulnerabilities",
+          "publishedOn": "2023-01-16T14:00:00.000Z",
+          "wordCount": 14463,
+          "title": "Java, .NET Developers Prone to More Frequent Vulnerabilities",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt58481326324d6911/60b1e9a55d34de550780a990/Robert-Lemos.png",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt58481326324d6911/60b1e9a55d34de550780a990/Robert-Lemos.png"
+        },
+        {
           "id": "https://www.darkreading.com/edge-articles/why-mean-time-to-repair-no-longer-serves-as-a-useful-security-metric",
           "author": "Nathan Eddy, Contributing Writer, Dark Reading",
           "description": "Analyzing and learning from incidents is the ideal path to finding more insightful data and metrics, according to the VOID report.",
@@ -2597,6 +2627,36 @@
       "siteUrl": "https://blog.knowbe4.com",
       "articles": [
         {
+          "id": "https://blog.knowbe4.com/infographic-phisher-by-the-numbers",
+          "author": "Stu Sjouwerman",
+          "description": "PhishER, KnowBe4’s industry-leading Security Orchestration, Automation and Response (SOAR) platform, takes an otherwise complicated and inefficient threat management workflow and allows admins to quickly reduce risk and train users.",
+          "link": "https://blog.knowbe4.com/infographic-phisher-by-the-numbers",
+          "publishedOn": "2023-01-16T14:22:16.000Z",
+          "wordCount": 2293,
+          "title": "[INFOGRAPHIC] PhishER by the Numbers",
+          "imageUrl": "https://blog.knowbe4.com/hubfs/PhishER-Infographic-Social-Graphic.jpg#keepProtocol"
+        },
+        {
+          "id": "https://blog.knowbe4.com/continuously-monitor-password-vulnerabilities-passwordiq",
+          "author": "Stu Sjouwerman",
+          "description": "We’re thrilled to announce that the power of KnowBe4’s most popular free password security tool has been brought to your KnowBe4 console as a new feature!",
+          "link": "https://blog.knowbe4.com/continuously-monitor-password-vulnerabilities-passwordiq",
+          "publishedOn": "2023-01-16T14:21:53.000Z",
+          "wordCount": 2102,
+          "title": "[New Feature] Continuously Monitor for Any Detected Password Vulnerabilities Within Your User Base with PasswordIQ",
+          "imageUrl": "https://blog.knowbe4.com/hubfs/Password-IQ-SM-1-noCTA.jpg#keepProtocol"
+        },
+        {
+          "id": "https://blog.knowbe4.com/check-point-software-2022-saw-a-huge-rise-in-cyberattacks",
+          "author": "Stu Sjouwerman",
+          "description": "Techradar reported that cyberattacks saw a significant rise in 2022, mostly due to the increase in organizations going virtual to combat the effects of the Covid-19 pandemic, and the rise of smaller and more agile hacker and ransomware groups, new research has said.",
+          "link": "https://blog.knowbe4.com/check-point-software-2022-saw-a-huge-rise-in-cyberattacks",
+          "publishedOn": "2023-01-16T13:42:12.000Z",
+          "wordCount": 2305,
+          "title": "Check Point Software: \"2022 Saw A Huge Rise In Cyberattacks\"",
+          "imageUrl": "https://blog.knowbe4.com/hubfs/CheckPoint-Graph-courtesy-Checkpoint-Software.jpg#keepProtocol"
+        },
+        {
           "id": "https://blog.knowbe4.com/ache-in-the-head-the-problems-with-your-not-so-secure-email-gateway",
           "author": "Stu Sjouwerman",
           "description": "I have been doing some research on Secure Email Gateways. The picture is not that pretty.  Below I will summarize what I found.",
@@ -3003,6 +3063,22 @@
       "feedUrl": "https://thehackernews.com/feeds/posts/default",
       "siteUrl": "https://thehackernews.com",
       "articles": [
+        {
+          "id": "https://thehackernews.com/2023/01/raccoon-and-vidar-stealers-spreading.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "A \"large and resilient infrastructure\" comprising over 250 domains is being used to distribute information-stealing malware such as Raccoon and Vidar since early 2020.\nThe infection chain \"uses about a hundred of fake cracked software catalogue websites that redirect to several links before downloading the payload hosted on file share platforms, such as GitHub,\" cybersecurity firm SEKOIA said in",
+          "link": "https://thehackernews.com/2023/01/raccoon-and-vidar-stealers-spreading.html",
+          "publishedOn": "2023-01-16T12:47:00.000Z",
+          "wordCount": null,
+          "title": "Raccoon and Vidar Stealers Spreading via Massive Network of Fake Cracked Software",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhqGHm2tKVqe1ygvC80UDqIRgjK8bT4henHVZbuLc4-u9FVP9kR8H2kfBAcb9xImph5q4sKSPqlrWW0hiTTWLzdaPPt6OFBUHw7JnZloHJ_M1SahpRx2mxnCloqVdOczbG7NETUqoAfluE3avm3-EDmrkc1xh9n8nTc9kjd0bM12DETyMHsWkBJf2WZ/s1600/cracked-software.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhqGHm2tKVqe1ygvC80UDqIRgjK8bT4henHVZbuLc4-u9FVP9kR8H2kfBAcb9xImph5q4sKSPqlrWW0hiTTWLzdaPPt6OFBUHw7JnZloHJ_M1SahpRx2mxnCloqVdOczbG7NETUqoAfluE3avm3-EDmrkc1xh9n8nTc9kjd0bM12DETyMHsWkBJf2WZ/s1600/cracked-software.png"
+        },
         {
           "id": "https://thehackernews.com/2023/01/a-secure-user-authentication-method.html",
           "author": "info@thehackernews.com (The Hacker News)",
@@ -4570,22 +4646,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhYglcGDGN5QNJc61RjAC8Qd8bqrO5EFCcuVcXwcjGJaa0m3zVRGBIOYfCAVIxPWwhh4ULIt0m8jTgyPShy7JTgUmjn9rSVi09C306XmboMnCLXTdZEC2u6kCHTCwl8anxHUVnDoxsZCfcQROsR85wcfAfNPiw58OgPX2afmeKGvrHhsYTtcrD1LMV9/s1600/hacker.png"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhYglcGDGN5QNJc61RjAC8Qd8bqrO5EFCcuVcXwcjGJaa0m3zVRGBIOYfCAVIxPWwhh4ULIt0m8jTgyPShy7JTgUmjn9rSVi09C306XmboMnCLXTdZEC2u6kCHTCwl8anxHUVnDoxsZCfcQROsR85wcfAfNPiw58OgPX2afmeKGvrHhsYTtcrD1LMV9/s1600/hacker.png"
-        },
-        {
-          "id": "https://thehackernews.com/2022/12/gmail-encryption.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Google on Friday announced that its client-side encryption for Gmail is in beta to its Workspace and education customers to secure emails sent using the web version of the platform.\nThis development comes at a time when concerns about online privacy and data security are at an all-time high, and it is certainly welcomed by users who value the protection of their personal data.\nTo that end,",
-          "link": "https://thehackernews.com/2022/12/gmail-encryption.html",
-          "publishedOn": "2022-12-18T04:41:00.000Z",
-          "wordCount": null,
-          "title": "Google Takes Gmail Security to the Next Level with Client-Side Encryption",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjh5ScFnGPyjEzMWtj02IG8Hr2VwK9r9qCFQCt9xY-BAibwfGLK9h_OQZeBwEbEZRsXaVzjCQeQSjX1urP_CGVPMWTeJ-08lO53yNsUeWnVH_reSFT22zCorEbLZLBZcHhAhOQ05NYyJ2fG_SdL4216uP6cRljOkljHRrixbj1jC87LkkKNh51rj9mB/s1600/gmail-end-to-end-encryption.png"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjh5ScFnGPyjEzMWtj02IG8Hr2VwK9r9qCFQCt9xY-BAibwfGLK9h_OQZeBwEbEZRsXaVzjCQeQSjX1urP_CGVPMWTeJ-08lO53yNsUeWnVH_reSFT22zCorEbLZLBZcHhAhOQ05NYyJ2fG_SdL4216uP6cRljOkljHRrixbj1jC87LkkKNh51rj9mB/s1600/gmail-end-to-end-encryption.png"
         }
       ]
     }
