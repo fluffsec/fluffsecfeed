@@ -12,6 +12,16 @@
       "siteUrl": "https://us-cert.cisa.gov/",
       "articles": [
         {
+          "id": "18289 at https://us-cert.cisa.gov",
+          "author": "CISA",
+          "description": "Original release date: January 17, 2023\nCISA released four Industrial Control Systems (ICS) advisories on January 17, 2023. These advisories provide timely information about current security issues, vulnerabilities, and exploits surrounding ICS. \nCISA encourages users and administrators to review the newly released ICS advisories for technical details and mitigations:\nICSA-23-017-01 GE Proficy Historian\nICSA-23-017-02 Mitsubishi Electric MELSEC iQ-F, iQ-R Series\nICSA-23-017-03 Siemens SINEC INS\nICSA-22-347-03 Contec CONPROSYS HMI System (CHS) (Update A)\nThis product is provided subject to this Notification and this Privacy & Use policy.",
+          "link": "https://us-cert.cisa.gov/ncas/current-activity/2023/01/17/cisa-releases-four-industrial-control-systems-advisories",
+          "publishedOn": "2023-01-17T18:00:00.000Z",
+          "wordCount": 967,
+          "title": "CISA Releases Four Industrial Control Systems Advisories",
+          "imageUrl": null
+        },
+        {
           "id": "18283 at https://us-cert.cisa.gov",
           "author": "CISA",
           "description": "Original release date: January 12, 2023\nJuniper Networks has released security updates to address vulnerabilities affecting multiple products. An attacker could exploit some of these vulnerabilities to take control of an affected system. \nCISA encourages users and administrators to review Juniper Networks’ security advisories page and apply the necessary updates. \nThis product is provided subject to this Notification and this Privacy & Use policy.",
@@ -178,6 +188,111 @@
       "feedUrl": "https://www.darkreading.com/rss.xml",
       "siteUrl": "https://www.darkreading.com",
       "articles": [
+        {
+          "id": "https://www.darkreading.com/remote-workforce/vipre-security-group-launches-new-endpoint-detection-and-response-edr-technology-built-for-smes",
+          "author": null,
+          "description": "VIPRE Endpoint Detection & Response (EDR) delivers streamlined, sophisticated, high-performing cloud-based EDR management in a single, easy-to-navigate console.",
+          "link": "https://www.darkreading.com/remote-workforce/vipre-security-group-launches-new-endpoint-detection-and-response-edr-technology-built-for-smes",
+          "publishedOn": "2023-01-17T19:03:00.000Z",
+          "wordCount": 14529,
+          "title": "VIPRE Security Group Launches New Endpoint Detection and Response (EDR) Technology Built for SMEs",
+          "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/application-security/unpatched-zoho-mangeengine-products-under-active-attack",
+          "author": "Dark Reading Staff, Dark Reading",
+          "description": "The latest critical bug is exploitable in dozens of ManageEngine products and exposes systems to catastrophic risks, researchers warn.",
+          "link": "https://www.darkreading.com/application-security/unpatched-zoho-mangeengine-products-under-active-attack",
+          "publishedOn": "2023-01-17T19:00:00.000Z",
+          "wordCount": 12242,
+          "title": "Unpatched Zoho MangeEngine Products Under Active Cyberattack",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blte161b23f0fd3a84b/60b1ea374e7eb868c4c6a293/dr_staff_125x125.jpg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blte161b23f0fd3a84b/60b1ea374e7eb868c4c6a293/dr_staff_125x125.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/cloud/a-new-era-is-dawning-in-cybersecurity-but-only-the-best-algorithms-will-win",
+          "author": null,
+          "description": "Open source AI is lowering the barrier of entry for cybercriminals. Security teams must consider the right way to apply defensive AI to counter this threat.",
+          "link": "https://www.darkreading.com/cloud/a-new-era-is-dawning-in-cybersecurity-but-only-the-best-algorithms-will-win",
+          "publishedOn": "2023-01-17T18:00:00.000Z",
+          "wordCount": 15151,
+          "title": "A New Era Is Dawning in Cybersecurity, but Only the Best Algorithms Will Win",
+          "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/attacks-breaches/why-businesses-need-to-think-like-hackers-this-year",
+          "author": "Haris Pylarinos, Founder and CEO, Hack The Box",
+          "description": "Security professionals must update their skill sets and be proactive to stay ahead of cybercriminals. It's time to learn to think and act like an attacker to cope with the cyber \"new normal.\"",
+          "link": "https://www.darkreading.com/attacks-breaches/why-businesses-need-to-think-like-hackers-this-year",
+          "publishedOn": "2023-01-17T18:00:00.000Z",
+          "wordCount": 15206,
+          "title": "Why Businesses Need to Think Like Hackers This Year",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blte0310df04b064795/6321e32684a575440c1200a1/H_Pylarions.png",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blte0310df04b064795/6321e32684a575440c1200a1/H_Pylarions.png"
+        },
+        {
+          "id": "https://www.darkreading.com/vulnerabilities-threats/cygna-labs-introduces-entitlement-and-security-for-active-directory",
+          "author": null,
+          "description": "Standalone product provides permission insights for Active Directory security and compliance.",
+          "link": "https://www.darkreading.com/vulnerabilities-threats/cygna-labs-introduces-entitlement-and-security-for-active-directory",
+          "publishedOn": "2023-01-17T15:40:00.000Z",
+          "wordCount": 12767,
+          "title": "Cygna Labs Introduces Entitlement and Security for Active Directory",
+          "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/vulnerabilities-threats/microsoft-patches-four-ssrf-flaws-in-separate-azure-cloud-services",
+          "author": "Elizabeth Montalbano, Contributor, Dark Reading",
+          "description": "Two of the vulnerabilities — in Azure Functions and Azure Digital Twins — required no account authentication for an attacker to exploit them.",
+          "link": "https://www.darkreading.com/vulnerabilities-threats/microsoft-patches-four-ssrf-flaws-in-separate-azure-cloud-services",
+          "publishedOn": "2023-01-17T15:13:00.000Z",
+          "wordCount": 14933,
+          "title": "Microsoft Patches 4 SSRF Flaws in Separate Azure Cloud Services",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltbfd004d139d42d70/6303bca6236c2476a257760e/ElizabethMontalbano.jpg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltbfd004d139d42d70/6303bca6236c2476a257760e/ElizabethMontalbano.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/vulnerabilities-threats/5-cybersecurity-tips-for-higher-education-institutions",
+          "author": "William J. Kyrouz, Director of Information Security, Jenzabar",
+          "description": "Following these basic cybersecurity hygiene policies can help make data more secure and protect colleges and universities from becoming the next ransomware headline. The steps aren't complicated, and they won't break the bank.",
+          "link": "https://www.darkreading.com/vulnerabilities-threats/5-cybersecurity-tips-for-higher-education-institutions",
+          "publishedOn": "2023-01-17T15:00:00.000Z",
+          "wordCount": 14938,
+          "title": "5 Cybersecurity Tips for Higher Education Institutions",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt8829d6feecbd5db3/63bc2f92306a8e0bcb489266/Bill_Kyrouz_Headshot.jpg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt8829d6feecbd5db3/63bc2f92306a8e0bcb489266/Bill_Kyrouz_Headshot.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/edge-articles/3-lessons-learned-in-vulnerability-management",
+          "author": "Tiago Henriques, Vice President of Research, Coalition",
+          "description": "In 2022, multiple high-profile vulnerabilities like Log4j and OpenSSL provided important takeaways for future public reporting.",
+          "link": "https://www.darkreading.com/edge-articles/3-lessons-learned-in-vulnerability-management",
+          "publishedOn": "2023-01-17T15:00:00.000Z",
+          "wordCount": 14803,
+          "title": "3 Lessons Learned in Vulnerability Management",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltd6ce393c7804e870/62ab7b5bc1faf73773f6d747/coalition-tiago.jpg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltd6ce393c7804e870/62ab7b5bc1faf73773f6d747/coalition-tiago.jpg"
+        },
         {
           "id": "https://www.darkreading.com/cloud/the-dangers-of-default-cloud-configurations",
           "author": "Nathan Schmidt, Principal Security Architect, Sonrai Security",
@@ -2594,6 +2709,16 @@
       "siteUrl": "https://msrc-blog.microsoft.com",
       "articles": [
         {
+          "id": "https://msrc-blog.microsoft.com/?p=15265",
+          "author": "msrc",
+          "description": "Summary  Microsoft recently fixed a set of Server-Side Request Forgery (SSRF) vulnerabilities in four Azure services (Azure API Management, Azure Functions, Azure Machine Learning, and Azure Digital Twins) reported by Orca Security. These SSRF vulnerabilities were determined to be low risk as they do not allow access to sensitive information or Azure backend services. Once …\n  Microsoft resolves four SSRF vulnerabilities in Azure cloud services Read More »",
+          "link": "https://msrc-blog.microsoft.com/2023/01/17/microsoft-resolves-four-ssrf-vulnerabilities-in-azure-cloud-services/",
+          "publishedOn": "2023-01-17T14:00:00.000Z",
+          "wordCount": 1934,
+          "title": "Microsoft resolves four SSRF vulnerabilities in Azure cloud services",
+          "imageUrl": null
+        },
+        {
           "id": "https://msrc-blog.microsoft.com/?p=15238",
           "author": "Japhet Debrah",
           "description": "Microsoft is pleased to announce that beginning January 11, 2023, we will publish CBL-Mariner CVEs in the Security Update Guide (SUG) Common Vulnerability Reporting Framework (CVRF) API. CBL-Mariner is a Linux distribution built by Microsoft to power Azure’s cloud and edge products and services and is currently in preview as an AKS Container Host. Sharing …\n  Publishing CBL-Mariner CVEs on the Security Update Guide CVRF API Read More »",
@@ -2626,6 +2751,66 @@
       "feedUrl": "https://blog.knowbe4.com/rss.xml",
       "siteUrl": "https://blog.knowbe4.com",
       "articles": [
+        {
+          "id": "https://blog.knowbe4.com/cyberheistnews-vol-13-03-eye-opener-password-managers-can-be-hacked-lots-of-ways-and-yes-you-should-still-use-them",
+          "author": "Stu Sjouwerman",
+          "description": "CyberheistNews Vol 13 #03 [Eye Opener] Password Managers Can Be Hacked Lots of Ways and Yes, You Should Still Use Them",
+          "link": "https://blog.knowbe4.com/cyberheistnews-vol-13-03-eye-opener-password-managers-can-be-hacked-lots-of-ways-and-yes-you-should-still-use-them",
+          "publishedOn": "2023-01-17T14:00:00.000Z",
+          "wordCount": 4718,
+          "title": "CyberheistNews Vol 13 #03 [Eye Opener] Password Managers Can Be Hacked Lots of Ways and Yes, You Should Still Use Them",
+          "imageUrl": "https://blog.knowbe4.com/hubfs/CHN-Social.jpg#keepProtocol"
+        },
+        {
+          "id": "https://blog.knowbe4.com/spear-phishing-campaign-targets-southeast-asia",
+          "author": "Stu Sjouwerman",
+          "description": "Researchers at Group-IB are tracking a previously unknown threat actor dubbed “Dark Pink” that’s using spear phishing attacks to target government, military, and religious organizations. Most of the attacks were focused on countries in Southeast Asia, though one of them targeted an entity in Bosnia and Herzegovina.",
+          "link": "https://blog.knowbe4.com/spear-phishing-campaign-targets-southeast-asia",
+          "publishedOn": "2023-01-17T13:52:07.000Z",
+          "wordCount": 2237,
+          "title": "Spear Phishing Campaign Targets Southeast Asia",
+          "imageUrl": "https://blog.knowbe4.com/hubfs/New%20Tactic%20Clone%20Phishing.jpg#keepProtocol"
+        },
+        {
+          "id": "https://blog.knowbe4.com/cybercriminals-mimic-victim-website-publish-exfiltrated-data",
+          "author": "Stu Sjouwerman",
+          "description": "In a new twist, threat actors use a typo squatted domain name to increase the chances that stolen data will be seen by the general public after not being paid the ransom.",
+          "link": "https://blog.knowbe4.com/cybercriminals-mimic-victim-website-publish-exfiltrated-data",
+          "publishedOn": "2023-01-17T13:51:59.000Z",
+          "wordCount": 2219,
+          "title": "Cybercriminals Mimic Victim Website to Publish Exfiltrated Data on the Public Web",
+          "imageUrl": "https://blog.knowbe4.com/hubfs/Ransomware%20Attacks%20Targeting.jpg#keepProtocol"
+        },
+        {
+          "id": "https://blog.knowbe4.com/government-higher-ed-healthcare-continue-to-be-victims-of-ransomware",
+          "author": "Stu Sjouwerman",
+          "description": "An analysis of the publicly-accessible data on ransomware attacks shows that these sectors that were a primary target of ransomware in 2021 continued as targets in 2022 to the same degree.",
+          "link": "https://blog.knowbe4.com/government-higher-ed-healthcare-continue-to-be-victims-of-ransomware",
+          "publishedOn": "2023-01-17T13:51:52.000Z",
+          "wordCount": 2190,
+          "title": "Government, Higher Ed, School Districts, and Healthcare Continue to be Victims of Ransomware Attacks",
+          "imageUrl": "https://blog.knowbe4.com/hubfs/Busiest%20Month%20for%20Ransomware.jpg#keepProtocol"
+        },
+        {
+          "id": "https://blog.knowbe4.com/cyberinsurer-beazley-introduces-a-45m-cyber-catastrophe-bond-to-offset-risk",
+          "author": "Stu Sjouwerman",
+          "description": "In a move designed to protect the insurer and allow for more cyber policies to be issued, this bond is new to cyberinsurance, but not to insurers as a whole.",
+          "link": "https://blog.knowbe4.com/cyberinsurer-beazley-introduces-a-45m-cyber-catastrophe-bond-to-offset-risk",
+          "publishedOn": "2023-01-17T13:51:45.000Z",
+          "wordCount": 2169,
+          "title": "Cyberinsurer Beazley Introduces a $45M Cyber Catastrophe Bond to Offset Risk",
+          "imageUrl": "https://blog.knowbe4.com/hubfs/Cyber%20Insurance%20Focus%20on%20Catastrophic%20Attacks.jpg#keepProtocol"
+        },
+        {
+          "id": "https://blog.knowbe4.com/kb4-con-2023-agenda-is-now-available",
+          "author": "Stu Sjouwerman",
+          "description": "Exciting news! We just released our full conference agenda for KB4-CON 2023, happening April 24-26 in Orlando, Florida. We’ve brought back some of your favorite sessions and have some new and exciting topics and speakers.",
+          "link": "https://blog.knowbe4.com/kb4-con-2023-agenda-is-now-available",
+          "publishedOn": "2023-01-17T13:40:44.000Z",
+          "wordCount": 2002,
+          "title": "KB4-CON 2023 Agenda is Now Available!",
+          "imageUrl": "https://blog.knowbe4.com/hubfs/KB4CON-2022-DmitriA-SM%20%281%29.jpg#keepProtocol"
+        },
         {
           "id": "https://blog.knowbe4.com/is-your-organizations-password-complexity-requirement-strong-enough-probably-not",
           "author": "Roger Grimes",
@@ -3073,6 +3258,22 @@
       "feedUrl": "https://thehackernews.com/feeds/posts/default",
       "siteUrl": "https://thehackernews.com",
       "articles": [
+        {
+          "id": "https://thehackernews.com/2023/01/microsoft-azure-services-flaws-couldve.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Four different Microsoft Azure services have been found vulnerable to server-side request forgery (SSRF) attacks that could be exploited to gain unauthorized access to cloud resources.\nThe security issues, which were discovered by Orca between October 8, 2022 and December 2, 2022 in Azure API Management, Azure Functions, Azure Machine Learning, and Azure Digital Twins, have since been addressed",
+          "link": "https://thehackernews.com/2023/01/microsoft-azure-services-flaws-couldve.html",
+          "publishedOn": "2023-01-17T14:12:00.000Z",
+          "wordCount": null,
+          "title": "Microsoft Azure Services Flaws Could've Exposed Cloud Resources to Unauthorized Access",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzDIX0mKDDTl8b5U35Cv72fGLjNOaay_fbcni0Zry8T-uu3Lps8y2eX2-YlPcaKiJ7ytY-JCFJGvhoh7eks922quPbKdIzPThjY7a2Rf7eFWECoxC2QVUIOcgHir73VMowg-uxBAEq-Qj4nXZhXC_NhQymWHn6XwLwHbT7RcKLCGbPLeHrEHAvXNfA/s1600/azure.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzDIX0mKDDTl8b5U35Cv72fGLjNOaay_fbcni0Zry8T-uu3Lps8y2eX2-YlPcaKiJ7ytY-JCFJGvhoh7eks922quPbKdIzPThjY7a2Rf7eFWECoxC2QVUIOcgHir73VMowg-uxBAEq-Qj4nXZhXC_NhQymWHn6XwLwHbT7RcKLCGbPLeHrEHAvXNfA/s1600/azure.png"
+        },
         {
           "id": "https://thehackernews.com/2023/01/hackers-can-abuse-legitimate-github.html",
           "author": "info@thehackernews.com (The Hacker News)",
