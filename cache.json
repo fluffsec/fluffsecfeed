@@ -2627,6 +2627,16 @@
       "siteUrl": "https://blog.knowbe4.com",
       "articles": [
         {
+          "id": "https://blog.knowbe4.com/is-your-organizations-password-complexity-requirement-strong-enough-probably-not",
+          "author": "Roger Grimes",
+          "description": "Is your organization’s password complexity strong enough?",
+          "link": "https://blog.knowbe4.com/is-your-organizations-password-complexity-requirement-strong-enough-probably-not",
+          "publishedOn": "2023-01-17T13:15:27.000Z",
+          "wordCount": 3894,
+          "title": "Is Your Organization’s Password Complexity Requirement Strong Enough? Probably Not",
+          "imageUrl": "https://blog.knowbe4.com/hubfs/Social%20Image%20Repository/Evangelist%20Blog%20Social%20Graphics/Evangelists-Roger%20Grimes.jpg#keepProtocol"
+        },
+        {
           "id": "https://blog.knowbe4.com/infographic-phisher-by-the-numbers",
           "author": "Stu Sjouwerman",
           "description": "PhishER, KnowBe4’s industry-leading Security Orchestration, Automation and Response (SOAR) platform, takes an otherwise complicated and inefficient threat management workflow and allows admins to quickly reduce risk and train users.",
@@ -3063,6 +3073,54 @@
       "feedUrl": "https://thehackernews.com/feeds/posts/default",
       "siteUrl": "https://thehackernews.com",
       "articles": [
+        {
+          "id": "https://thehackernews.com/2023/01/hackers-can-abuse-legitimate-github.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "New research has found that it is possible for threat actors to abuse a legitimate feature in GitHub Codespaces to deliver malware to victim systems.\nGitHub Codespaces is a cloud-based configurable development environment that allows users to debug, maintain, and commit changes to a given codebase from a web browser or via an integration in Visual Studio Code.\nIt also comes with a port",
+          "link": "https://thehackernews.com/2023/01/hackers-can-abuse-legitimate-github.html",
+          "publishedOn": "2023-01-17T12:45:00.000Z",
+          "wordCount": null,
+          "title": "Hackers Can Abuse Legitimate GitHub Codespaces Feature to Deliver Malware",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhgwSij-MkVZ18HCOurH_I8StPFYFFUSmkIqCTZqwttuPgR130om5oIqOoS7tK-522zFckx_2ALccorgN9mbZCexDVRlJMvsePdn4U2gytk8T2nRDshIv2n0_tdc23KY9FmY6XrwW09zwNsXoe6qvrCXbtkCJK8tUzX32ygma5ttT2Z70HZl_Yqgw-e/s1600/github.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhgwSij-MkVZ18HCOurH_I8StPFYFFUSmkIqCTZqwttuPgR130om5oIqOoS7tK-522zFckx_2ALccorgN9mbZCexDVRlJMvsePdn4U2gytk8T2nRDshIv2n0_tdc23KY9FmY6XrwW09zwNsXoe6qvrCXbtkCJK8tUzX32ygma5ttT2Z70HZl_Yqgw-e/s1600/github.png"
+        },
+        {
+          "id": "https://thehackernews.com/2023/01/4-places-to-supercharge-your-soc-with.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "It's no secret that the job of SOC teams continues to become increasingly difficult. Increased volume and sophistication of attacks are plaguing under-resourced teams with false positives and analyst burnout.\nHowever, like many other industries, cybersecurity is now beginning to lean on and benefit from advancements in automation to not only maintain the status quo, but to attain better security",
+          "link": "https://thehackernews.com/2023/01/4-places-to-supercharge-your-soc-with.html",
+          "publishedOn": "2023-01-17T11:07:00.000Z",
+          "wordCount": null,
+          "title": "4 Places to Supercharge Your SOC with Automation",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhyjorBBygHD0Xnbm182rLAcObgti_Qy_WmaJIXlhepfEJZn4RTu-7aGNcphdplY97Qnaa_JSSW9So-ppI3TdRCsl9zNN8rjTDP-C9Lvxmwm8TJxqFFTI-RqhC3w_EallLB0RVdsXhDu6aIGVK1GoXUD06DsnxVajExWEGKJ2Ie0DSGLTcB0qAqyzVZ/s1600/cyberhunter.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhyjorBBygHD0Xnbm182rLAcObgti_Qy_WmaJIXlhepfEJZn4RTu-7aGNcphdplY97Qnaa_JSSW9So-ppI3TdRCsl9zNN8rjTDP-C9Lvxmwm8TJxqFFTI-RqhC3w_EallLB0RVdsXhDu6aIGVK1GoXUD06DsnxVajExWEGKJ2Ie0DSGLTcB0qAqyzVZ/s1600/cyberhunter.png"
+        },
+        {
+          "id": "https://thehackernews.com/2023/01/zoho-manageengine-poc-exploit-to-be.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Users of Zoho ManageEngine are being urged to patch their instances against a critical security vulnerability ahead of the release of a proof-of-concept (PoC) exploit code.\nThe issue in question is CVE-2022-47966, an unauthenticated remote code execution vulnerability affecting several products due to the use of an outdated third-party dependency, Apache Santuario.\n\"This vulnerability allows an",
+          "link": "https://thehackernews.com/2023/01/zoho-manageengine-poc-exploit-to-be.html",
+          "publishedOn": "2023-01-17T10:38:00.000Z",
+          "wordCount": null,
+          "title": "Zoho ManageEngine PoC Exploit to be Released Soon - Patch Before It's Too Late!",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3XJsrtUI0wiOPWDuSR61qhSx1xnT_OYeK0o_-Hag1494t7jCIbwH0jckpWFnEkLdhKfLs4tFWSUwnI9wfFieUkw_Iruuzf72DDIsG_YIdiPDME2-lkj7VvPsxhsLAE1jDfei9HsKEsxjNXOfztQkbD8cYgL6p8H1287noZsCvWCbJttLPoPQiTxfP/s1600/zoho.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3XJsrtUI0wiOPWDuSR61qhSx1xnT_OYeK0o_-Hag1494t7jCIbwH0jckpWFnEkLdhKfLs4tFWSUwnI9wfFieUkw_Iruuzf72DDIsG_YIdiPDME2-lkj7VvPsxhsLAE1jDfei9HsKEsxjNXOfztQkbD8cYgL6p8H1287noZsCvWCbJttLPoPQiTxfP/s1600/zoho.png"
+        },
         {
           "id": "https://thehackernews.com/2023/01/researchers-uncover-3-pypi-packages.html",
           "author": "info@thehackernews.com (The Hacker News)",

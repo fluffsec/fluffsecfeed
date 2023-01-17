@@ -2,10 +2,55 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-17T07:18:17.999Z</updated>
+    <updated>2023-01-17T13:25:50.640Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Is Your Organization’s Password Complexity Requirement Strong Enough? Probably Not]]></title>
+        <id>https://blog.knowbe4.com/is-your-organizations-password-complexity-requirement-strong-enough-probably-not</id>
+        <link href="https://blog.knowbe4.com/is-your-organizations-password-complexity-requirement-strong-enough-probably-not"/>
+        <updated>2023-01-17T13:15:27.000Z</updated>
+        <summary type="html"><![CDATA[Is your organization’s password complexity strong enough?]]></summary>
+        <author>
+            <name>Roger Grimes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hackers Can Abuse Legitimate GitHub Codespaces Feature to Deliver Malware]]></title>
+        <id>https://thehackernews.com/2023/01/hackers-can-abuse-legitimate-github.html</id>
+        <link href="https://thehackernews.com/2023/01/hackers-can-abuse-legitimate-github.html"/>
+        <updated>2023-01-17T12:45:00.000Z</updated>
+        <summary type="html"><![CDATA[New research has found that it is possible for threat actors to abuse a legitimate feature in GitHub Codespaces to deliver malware to victim systems.
+GitHub Codespaces is a cloud-based configurable development environment that allows users to debug, maintain, and commit changes to a given codebase from a web browser or via an integration in Visual Studio Code.
+It also comes with a port]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[4 Places to Supercharge Your SOC with Automation]]></title>
+        <id>https://thehackernews.com/2023/01/4-places-to-supercharge-your-soc-with.html</id>
+        <link href="https://thehackernews.com/2023/01/4-places-to-supercharge-your-soc-with.html"/>
+        <updated>2023-01-17T11:07:00.000Z</updated>
+        <summary type="html"><![CDATA[It's no secret that the job of SOC teams continues to become increasingly difficult. Increased volume and sophistication of attacks are plaguing under-resourced teams with false positives and analyst burnout.
+However, like many other industries, cybersecurity is now beginning to lean on and benefit from advancements in automation to not only maintain the status quo, but to attain better security]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Zoho ManageEngine PoC Exploit to be Released Soon - Patch Before It's Too Late!]]></title>
+        <id>https://thehackernews.com/2023/01/zoho-manageengine-poc-exploit-to-be.html</id>
+        <link href="https://thehackernews.com/2023/01/zoho-manageengine-poc-exploit-to-be.html"/>
+        <updated>2023-01-17T10:38:00.000Z</updated>
+        <summary type="html"><![CDATA[Users of Zoho ManageEngine are being urged to patch their instances against a critical security vulnerability ahead of the release of a proof-of-concept (PoC) exploit code.
+The issue in question is CVE-2022-47966, an unauthenticated remote code execution vulnerability affecting several products due to the use of an outdated third-party dependency, Apache Santuario.
+"This vulnerability allows an]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Researchers Uncover 3 PyPI Packages Spreading Malware to Developer Systems]]></title>
         <id>https://thehackernews.com/2023/01/researchers-uncover-3-pypi-packages.html</id>
