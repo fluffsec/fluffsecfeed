@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-17T02:18:22.557Z</updated>
+    <updated>2023-01-17T07:18:17.999Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Researchers Uncover 3 PyPI Packages Spreading Malware to Developer Systems]]></title>
+        <id>https://thehackernews.com/2023/01/researchers-uncover-3-pypi-packages.html</id>
+        <link href="https://thehackernews.com/2023/01/researchers-uncover-3-pypi-packages.html"/>
+        <updated>2023-01-17T06:36:00.000Z</updated>
+        <summary type="html"><![CDATA[A threat actor by the name Lolip0p has uploaded three rogue packages to the Python Package Index (PyPI) repository that are designed to drop malware on compromised developer systems.
+The packages – named colorslib (versions 4.6.11 and 4.6.12), httpslib (versions 4.6.9 and 4.6.11), and libhttps (version 4.6.12) – by the author between January 7, 2023, and January 12, 2023. They have since been]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Dangers of Default Cloud Configurations]]></title>
         <id>https://www.darkreading.com/cloud/the-dangers-of-default-cloud-configurations</id>

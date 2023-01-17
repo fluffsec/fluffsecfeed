@@ -3064,6 +3064,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2023/01/researchers-uncover-3-pypi-packages.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "A threat actor by the name Lolip0p has uploaded three rogue packages to the Python Package Index (PyPI) repository that are designed to drop malware on compromised developer systems.\nThe packages – named colorslib (versions 4.6.11 and 4.6.12), httpslib (versions 4.6.9 and 4.6.11), and libhttps (version 4.6.12) – by the author between January 7, 2023, and January 12, 2023. They have since been",
+          "link": "https://thehackernews.com/2023/01/researchers-uncover-3-pypi-packages.html",
+          "publishedOn": "2023-01-17T06:36:00.000Z",
+          "wordCount": null,
+          "title": "Researchers Uncover 3 PyPI Packages Spreading Malware to Developer Systems",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhhdzNUp_3eRcuqueZQvaSmEWP8QvISag1ixK79f3tYSfWEYRd2v5XmCynyYGmlIHgNP6yJhhSMtF1sL0PwErNojkvBJmowGCbp0t0cHIEq9yN6mujXzeqvsbVhirjg1ad9cBv9LSJSojYYClucyOCF4KRMWDTLCQmyfPjY0QBfK4HNQSG35eae7xk5/s1600/python.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhhdzNUp_3eRcuqueZQvaSmEWP8QvISag1ixK79f3tYSfWEYRd2v5XmCynyYGmlIHgNP6yJhhSMtF1sL0PwErNojkvBJmowGCbp0t0cHIEq9yN6mujXzeqvsbVhirjg1ad9cBv9LSJSojYYClucyOCF4KRMWDTLCQmyfPjY0QBfK4HNQSG35eae7xk5/s1600/python.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2023/01/raccoon-and-vidar-stealers-spreading.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "A \"large and resilient infrastructure\" comprising over 250 domains is being used to distribute information-stealing malware such as Raccoon and Vidar since early 2020.\nThe infection chain \"uses about a hundred of fake cracked software catalogue websites that redirect to several links before downloading the payload hosted on file share platforms, such as GitHub,\" cybersecurity firm SEKOIA said in",
