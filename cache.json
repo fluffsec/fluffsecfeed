@@ -12,6 +12,26 @@
       "siteUrl": "https://us-cert.cisa.gov/",
       "articles": [
         {
+          "id": "18285 at https://us-cert.cisa.gov",
+          "author": "CISA",
+          "description": "Original release date: January 17, 2023\nCISA has added one new vulnerability to its Known Exploited Vulnerabilities Catalog, based on evidence of active exploitation. This type of vulnerability is a frequent attack vector for malicious cyber actors and poses a significant risk to the federal enterprise. Note: To view the newly added vulnerabilities in the catalog, click on the arrow in the \"Date Added to Catalog\" column, which will sort by descending dates.\nBinding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the Known Exploited Vulnerabilities Catalog as a living list of known CVEs that carry significant risk to the federal enterprise. BOD 22-01 requires FCEB agencies to remediate identified vulnerabilities by the due date to protect FCEB networks against active threats. See the BOD 22-01 Fact Sheet for more information.\nAlthough BOD 22-01 only applies to FCEB agencies, CISA strongly urges all organizations to reduce their exposure to cyberattacks by prioritizing timely remediation of Catalog vulnerabilities as part of their vulnerability management practice. CISA will continue to add vulnerabilities to the Catalog that meet the specified criteria. \nThis product is provided subject to this Notification and this Privacy & Use policy.",
+          "link": "https://us-cert.cisa.gov/ncas/current-activity/2023/01/17/cisa-adds-one-known-exploited-vulnerability-catalog",
+          "publishedOn": "2023-01-17T19:50:00.000Z",
+          "wordCount": 1081,
+          "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+          "imageUrl": null
+        },
+        {
+          "id": "18290 at https://us-cert.cisa.gov",
+          "author": "CISA",
+          "description": "Original release date: January 17, 2023\nToday, CISA updated Best Practices for MITRE ATT&CK® Mapping. The MITRE ATT&CK® framework is a lens through which network defenders can analyze adversary behavior and, as CISA Executive Assistant Director Eric Goldstein noted in his June 2021 blog post on the framework, it directly supports “robust, contextual bi-directional sharing of information to help strengthen the security of our systems, networks, and data.” CISA highly encourages the cybersecurity community to use the framework because it provides a common language for threat actor analysis.\nCISA coordinated this update of the best practices with the Homeland Security Systems Engineering and Development Institute™ (HSSEDI), a DHS-owned R&D center operated by MITRE. The update covers changes that the MITRE ATT&CK team made to the framework since CISA initially published the best practices in June 2021. The update also covers common analytical biases, mapping mistakes, and specific ATT&CK mapping guidance for industrial control systems (ICS).\n \nThis product is provided subject to this Notification and this Privacy & Use policy.",
+          "link": "https://us-cert.cisa.gov/ncas/current-activity/2023/01/17/cisa-updates-best-practices-mapping-mitre-attckr",
+          "publishedOn": "2023-01-17T19:23:55.000Z",
+          "wordCount": 1056,
+          "title": "CISA Updates Best Practices for Mapping to MITRE ATT&amp;CK®",
+          "imageUrl": null
+        },
+        {
           "id": "18289 at https://us-cert.cisa.gov",
           "author": "CISA",
           "description": "Original release date: January 17, 2023\nCISA released four Industrial Control Systems (ICS) advisories on January 17, 2023. These advisories provide timely information about current security issues, vulnerabilities, and exploits surrounding ICS. \nCISA encourages users and administrators to review the newly released ICS advisories for technical details and mitigations:\nICSA-23-017-01 GE Proficy Historian\nICSA-23-017-02 Mitsubishi Electric MELSEC iQ-F, iQ-R Series\nICSA-23-017-03 Siemens SINEC INS\nICSA-22-347-03 Contec CONPROSYS HMI System (CHS) (Update A)\nThis product is provided subject to this Notification and this Privacy & Use policy.",
@@ -188,6 +208,36 @@
       "feedUrl": "https://www.darkreading.com/rss.xml",
       "siteUrl": "https://www.darkreading.com",
       "articles": [
+        {
+          "id": "https://www.darkreading.com/threat-intelligence/initial-access-broker-market-booms-poses-growing-threat-to-enterprise-orgs-",
+          "author": "Jai Vijayan, Contributing Writer, Dark Reading",
+          "description": "A rapid increase in the number of operators in the space — the \"locksmiths\" of the cyber underground — has made it substantially cheaper for cybercriminals to buy access to target networks.",
+          "link": "https://www.darkreading.com/threat-intelligence/initial-access-broker-market-booms-poses-growing-threat-to-enterprise-orgs-",
+          "publishedOn": "2023-01-17T22:08:00.000Z",
+          "wordCount": 14552,
+          "title": "Initial Access Broker Market Booms, Posing Growing Threat to Enterprises",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt02d79fb9a44a4258/60b1e9dd2a25046b35110696/Jai-Vijayan.jpeg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt02d79fb9a44a4258/60b1e9dd2a25046b35110696/Jai-Vijayan.jpeg"
+        },
+        {
+          "id": "https://www.darkreading.com/application-security/secrets-rotation-recommended-after-circleci-security-incident",
+          "author": "Dark Reading Staff, Dark Reading",
+          "description": "Companies are being urged to update 0Auth, runner, and project API tokens, along with other secrets stashed with CircleCI.",
+          "link": "https://www.darkreading.com/application-security/secrets-rotation-recommended-after-circleci-security-incident",
+          "publishedOn": "2023-01-17T21:45:00.000Z",
+          "wordCount": 12190,
+          "title": "Secrets Rotation Recommended After CircleCI Security Incident",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blte161b23f0fd3a84b/60b1ea374e7eb868c4c6a293/dr_staff_125x125.jpg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blte161b23f0fd3a84b/60b1ea374e7eb868c4c6a293/dr_staff_125x125.jpg"
+        },
         {
           "id": "https://www.darkreading.com/remote-workforce/vipre-security-group-launches-new-endpoint-detection-and-response-edr-technology-built-for-smes",
           "author": null,
@@ -2662,21 +2712,6 @@
             "length": "0"
           },
           "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt4716c40dc72ac63b/639b4917ee88f305ffda3369/image001.jpg"
-        },
-        {
-          "id": "https://www.darkreading.com/attacks-breaches/holiday-spam-phishing-campaigns-challenge-retailers",
-          "author": "Nathan Eddy, Contributing Writer, Dark Reading",
-          "description": "Revived levels of holiday spending have caught the eye of threat actors who exploit consumer behaviors and prey on the surge of online payments and digital activities during the holidays.",
-          "link": "https://www.darkreading.com/attacks-breaches/holiday-spam-phishing-campaigns-challenge-retailers",
-          "publishedOn": "2022-12-19T14:00:00.000Z",
-          "wordCount": 13350,
-          "title": "Holiday Spam, Phishing Campaigns Challenge Retailers",
-          "enclosure": {
-            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltf8b5a94afa71c53a/628e3799daa31875dc0c9fc0/NathanEddyHeadshot.PNG",
-            "type": "image/*",
-            "length": "0"
-          },
-          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltf8b5a94afa71c53a/628e3799daa31875dc0c9fc0/NathanEddyHeadshot.PNG"
         }
       ]
     },
@@ -4857,70 +4892,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhe6FVqtp3OdWdhFrufG0NJ49souZoGhbbqTePSFAtz1uDm5ycQ45nqWYQCt8XjyEUObK6p6TH_C5YURPje5AkTbj2mOe8G_ruC6ZlMJw_tIBa8pzUzK_cN_HCE8fk5ZzGp7n1AE61qFHnE2Owp8QTyLO7cEAtM1Z3Rf_ZXKEu8Clb75nq-wHPVB0sZ/s1600/pypi-malware.png"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhe6FVqtp3OdWdhFrufG0NJ49souZoGhbbqTePSFAtz1uDm5ycQ45nqWYQCt8XjyEUObK6p6TH_C5YURPje5AkTbj2mOe8G_ruC6ZlMJw_tIBa8pzUzK_cN_HCE8fk5ZzGp7n1AE61qFHnE2Owp8QTyLO7cEAtM1Z3Rf_ZXKEu8Clb75nq-wHPVB0sZ/s1600/pypi-malware.png"
-        },
-        {
-          "id": "https://thehackernews.com/2022/12/glupteba-botnet-continues-to-thrive.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "The operators of the Glupteba botnet resurfaced in June 2022 as part of a renewed and \"upscaled\" campaign, months after Google disrupted the malicious activity.\nThe ongoing attack is suggestive of the malware's resilience in the face of takedowns, cybersecurity company Nozomi Networks said in a write-up. \"In addition, there was a tenfold increase in TOR hidden services being used as C2 servers",
-          "link": "https://thehackernews.com/2022/12/glupteba-botnet-continues-to-thrive.html",
-          "publishedOn": "2022-12-19T13:09:00.000Z",
-          "wordCount": null,
-          "title": "Glupteba Botnet Continues to Thrive Despite Google's Attempts to Disrupt It",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiNnQLSvhchGkVsJm3od8dE-N5eOaFUbDjEhwXrx8v9U9YQJuM0DAaftV2Nfr13DgSB6vs5o2SG67D1uKeoWzs2Y7kGzlzxDlxcunPMPax0Abl5OnlrvbHIcr1lDgC7zrXCoqUaQwdlRBYTDvdDi7HdQ7-6XrRgpG4mWhNSHAmQIQuMCsUFf_OvZRjR/s1600/blockchain-botnet.png"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiNnQLSvhchGkVsJm3od8dE-N5eOaFUbDjEhwXrx8v9U9YQJuM0DAaftV2Nfr13DgSB6vs5o2SG67D1uKeoWzs2Y7kGzlzxDlxcunPMPax0Abl5OnlrvbHIcr1lDgC7zrXCoqUaQwdlRBYTDvdDi7HdQ7-6XrRgpG4mWhNSHAmQIQuMCsUFf_OvZRjR/s1600/blockchain-botnet.png"
-        },
-        {
-          "id": "https://thehackernews.com/2022/12/cybercrime-and-security-predictions-for.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Threat actors continue to adapt to the latest technologies, practices, and even data privacy laws—and it's up to organizations to stay one step ahead by implementing strong cybersecurity measures and programs. \nHere's a look at how cybercrime will evolve in 2023 and what you can do to secure and protect your organization in the year ahead. \nIncrease in digital supply chain attacks \nWith the",
-          "link": "https://thehackernews.com/2022/12/cybercrime-and-security-predictions-for.html",
-          "publishedOn": "2022-12-19T12:52:00.000Z",
-          "wordCount": null,
-          "title": "Cybercrime (and Security) Predictions for 2023",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-oWvPs7uIQP4Bn5O3ZVemiildJoC_9KRd9BEb_GVyRG_cV4QUe0pAUWWlo8iZcXMONO1bmTYCkkd0ixdRu6dMuw4qiY_87TlFhloGw-tDp9yadwL4buLb-Y4pkQYuWPRJf85b4wld_4uKu7_p6VMMn39oPDWzL-Yo10Lc3hv9-P2A0vnfXy87rzEM/s1600/cybersecurity.png"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-oWvPs7uIQP4Bn5O3ZVemiildJoC_9KRd9BEb_GVyRG_cV4QUe0pAUWWlo8iZcXMONO1bmTYCkkd0ixdRu6dMuw4qiY_87TlFhloGw-tDp9yadwL4buLb-Y4pkQYuWPRJf85b4wld_4uKu7_p6VMMn39oPDWzL-Yo10Lc3hv9-P2A0vnfXy87rzEM/s1600/cybersecurity.png"
-        },
-        {
-          "id": "https://thehackernews.com/2022/12/new-agenda-ransomware-variant-written.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "A Rust variant of a ransomware strain known as Agenda has been observed in the wild, making it the latest malware to adopt the cross-platform programming language after BlackCat, Hive, Luna, and RansomExx.\nAgenda, attributed to an operator named Qilin, is a ransomware-as-a-service (RaaS) group that has been linked to a spate of attacks primarily targeting manufacturing and IT industries across",
-          "link": "https://thehackernews.com/2022/12/new-agenda-ransomware-variant-written.html",
-          "publishedOn": "2022-12-19T10:05:00.000Z",
-          "wordCount": null,
-          "title": "New Agenda Ransomware Variant, Written in Rust, Aiming at Critical Infrastructure",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg5KeDEDBr-aAoyF9pL9SP19MlpLNmSz1Rs9FJOF0TEk-oBXGljqcNYtZrTfTDMAedjc890dZe9zEOWnLAo_vyhl9pzViO0HcTJB72bxc0-dVe-O_UWQ77Vg-FJekx4NN3AELExQ4D_uznaWr3KoVmVYPyUoZbWK7leQdRcmQtSm1Ma9GVNL84lmk_j/s1600/ransomware.png"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg5KeDEDBr-aAoyF9pL9SP19MlpLNmSz1Rs9FJOF0TEk-oBXGljqcNYtZrTfTDMAedjc890dZe9zEOWnLAo_vyhl9pzViO0HcTJB72bxc0-dVe-O_UWQ77Vg-FJekx4NN3AELExQ4D_uznaWr3KoVmVYPyUoZbWK7leQdRcmQtSm1Ma9GVNL84lmk_j/s1600/ransomware.png"
-        },
-        {
-          "id": "https://thehackernews.com/2022/12/facebook-cracks-down-on-spyware-vendors.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Meta Platforms disclosed that it took down no less than 200 covert influence operations since 2017 spanning roughly 70 countries across 42 languages.\nThe social media conglomerate also took steps to disable accounts and block infrastructure operated by spyware vendors, including in China, Russia, Israel, the U.S. and India, that targeted individuals in about 200 countries.\n\"The global",
-          "link": "https://thehackernews.com/2022/12/facebook-cracks-down-on-spyware-vendors.html",
-          "publishedOn": "2022-12-19T09:46:00.000Z",
-          "wordCount": null,
-          "title": "Facebook Cracks Down on Spyware Vendors from U.S., China, Russia, Israel, and India",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhYglcGDGN5QNJc61RjAC8Qd8bqrO5EFCcuVcXwcjGJaa0m3zVRGBIOYfCAVIxPWwhh4ULIt0m8jTgyPShy7JTgUmjn9rSVi09C306XmboMnCLXTdZEC2u6kCHTCwl8anxHUVnDoxsZCfcQROsR85wcfAfNPiw58OgPX2afmeKGvrHhsYTtcrD1LMV9/s1600/hacker.png"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhYglcGDGN5QNJc61RjAC8Qd8bqrO5EFCcuVcXwcjGJaa0m3zVRGBIOYfCAVIxPWwhh4ULIt0m8jTgyPShy7JTgUmjn9rSVi09C306XmboMnCLXTdZEC2u6kCHTCwl8anxHUVnDoxsZCfcQROsR85wcfAfNPiw58OgPX2afmeKGvrHhsYTtcrD1LMV9/s1600/hacker.png"
         }
       ]
     }

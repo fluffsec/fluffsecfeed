@@ -2,10 +2,58 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-17T19:16:23.179Z</updated>
+    <updated>2023-01-18T02:21:58.031Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Initial Access Broker Market Booms, Posing Growing Threat to Enterprises]]></title>
+        <id>https://www.darkreading.com/threat-intelligence/initial-access-broker-market-booms-poses-growing-threat-to-enterprise-orgs-</id>
+        <link href="https://www.darkreading.com/threat-intelligence/initial-access-broker-market-booms-poses-growing-threat-to-enterprise-orgs-"/>
+        <updated>2023-01-17T22:08:00.000Z</updated>
+        <summary type="html"><![CDATA[A rapid increase in the number of operators in the space — the "locksmiths" of the cyber underground — has made it substantially cheaper for cybercriminals to buy access to target networks.]]></summary>
+        <author>
+            <name>Jai Vijayan, Contributing Writer, Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Secrets Rotation Recommended After CircleCI Security Incident]]></title>
+        <id>https://www.darkreading.com/application-security/secrets-rotation-recommended-after-circleci-security-incident</id>
+        <link href="https://www.darkreading.com/application-security/secrets-rotation-recommended-after-circleci-security-incident"/>
+        <updated>2023-01-17T21:45:00.000Z</updated>
+        <summary type="html"><![CDATA[Companies are being urged to update 0Auth, runner, and project API tokens, along with other secrets stashed with CircleCI.]]></summary>
+        <author>
+            <name>Dark Reading Staff, Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CISA Adds One Known Exploited Vulnerability to Catalog]]></title>
+        <id>18285 at https://us-cert.cisa.gov</id>
+        <link href="https://us-cert.cisa.gov/ncas/current-activity/2023/01/17/cisa-adds-one-known-exploited-vulnerability-catalog"/>
+        <updated>2023-01-17T19:50:00.000Z</updated>
+        <summary type="html"><![CDATA[Original release date: January 17, 2023
+CISA has added one new vulnerability to its Known Exploited Vulnerabilities Catalog, based on evidence of active exploitation. This type of vulnerability is a frequent attack vector for malicious cyber actors and poses a significant risk to the federal enterprise. Note: To view the newly added vulnerabilities in the catalog, click on the arrow in the "Date Added to Catalog" column, which will sort by descending dates.
+Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the Known Exploited Vulnerabilities Catalog as a living list of known CVEs that carry significant risk to the federal enterprise. BOD 22-01 requires FCEB agencies to remediate identified vulnerabilities by the due date to protect FCEB networks against active threats. See the BOD 22-01 Fact Sheet for more information.
+Although BOD 22-01 only applies to FCEB agencies, CISA strongly urges all organizations to reduce their exposure to cyberattacks by prioritizing timely remediation of Catalog vulnerabilities as part of their vulnerability management practice. CISA will continue to add vulnerabilities to the Catalog that meet the specified criteria. 
+This product is provided subject to this Notification and this Privacy & Use policy.]]></summary>
+        <author>
+            <name>CISA</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CISA Updates Best Practices for Mapping to MITRE ATT&amp;CK®]]></title>
+        <id>18290 at https://us-cert.cisa.gov</id>
+        <link href="https://us-cert.cisa.gov/ncas/current-activity/2023/01/17/cisa-updates-best-practices-mapping-mitre-attckr"/>
+        <updated>2023-01-17T19:23:55.000Z</updated>
+        <summary type="html"><![CDATA[Original release date: January 17, 2023
+Today, CISA updated Best Practices for MITRE ATT&CK® Mapping. The MITRE ATT&CK® framework is a lens through which network defenders can analyze adversary behavior and, as CISA Executive Assistant Director Eric Goldstein noted in his June 2021 blog post on the framework, it directly supports “robust, contextual bi-directional sharing of information to help strengthen the security of our systems, networks, and data.” CISA highly encourages the cybersecurity community to use the framework because it provides a common language for threat actor analysis.
+CISA coordinated this update of the best practices with the Homeland Security Systems Engineering and Development Institute™ (HSSEDI), a DHS-owned R&D center operated by MITRE. The update covers changes that the MITRE ATT&CK team made to the framework since CISA initially published the best practices in June 2021. The update also covers common analytical biases, mapping mistakes, and specific ATT&CK mapping guidance for industrial control systems (ICS).
+ 
+This product is provided subject to this Notification and this Privacy & Use policy.]]></summary>
+        <author>
+            <name>CISA</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[VIPRE Security Group Launches New Endpoint Detection and Response (EDR) Technology Built for SMEs]]></title>
         <id>https://www.darkreading.com/remote-workforce/vipre-security-group-launches-new-endpoint-detection-and-response-edr-technology-built-for-smes</id>
@@ -3686,63 +3734,6 @@ The package, named SentinelOne and now taken down, is said to have been publis
         <summary type="html"><![CDATA[Risk is no longer a single entity, but rather an interconnected web of resources, assets, and users.]]></summary>
         <author>
             <name>Tamir Hardof, Chief Marketing Officer, Cyberpion</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Holiday Spam, Phishing Campaigns Challenge Retailers]]></title>
-        <id>https://www.darkreading.com/attacks-breaches/holiday-spam-phishing-campaigns-challenge-retailers</id>
-        <link href="https://www.darkreading.com/attacks-breaches/holiday-spam-phishing-campaigns-challenge-retailers"/>
-        <updated>2022-12-19T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Revived levels of holiday spending have caught the eye of threat actors who exploit consumer behaviors and prey on the surge of online payments and digital activities during the holidays.]]></summary>
-        <author>
-            <name>Nathan Eddy, Contributing Writer, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Glupteba Botnet Continues to Thrive Despite Google's Attempts to Disrupt It]]></title>
-        <id>https://thehackernews.com/2022/12/glupteba-botnet-continues-to-thrive.html</id>
-        <link href="https://thehackernews.com/2022/12/glupteba-botnet-continues-to-thrive.html"/>
-        <updated>2022-12-19T13:09:00.000Z</updated>
-        <summary type="html"><![CDATA[The operators of the Glupteba botnet resurfaced in June 2022 as part of a renewed and "upscaled" campaign, months after Google disrupted the malicious activity.
-The ongoing attack is suggestive of the malware's resilience in the face of takedowns, cybersecurity company Nozomi Networks said in a write-up. "In addition, there was a tenfold increase in TOR hidden services being used as C2 servers]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cybercrime (and Security) Predictions for 2023]]></title>
-        <id>https://thehackernews.com/2022/12/cybercrime-and-security-predictions-for.html</id>
-        <link href="https://thehackernews.com/2022/12/cybercrime-and-security-predictions-for.html"/>
-        <updated>2022-12-19T12:52:00.000Z</updated>
-        <summary type="html"><![CDATA[Threat actors continue to adapt to the latest technologies, practices, and even data privacy laws—and it's up to organizations to stay one step ahead by implementing strong cybersecurity measures and programs. 
-Here's a look at how cybercrime will evolve in 2023 and what you can do to secure and protect your organization in the year ahead. 
-Increase in digital supply chain attacks 
-With the]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Agenda Ransomware Variant, Written in Rust, Aiming at Critical Infrastructure]]></title>
-        <id>https://thehackernews.com/2022/12/new-agenda-ransomware-variant-written.html</id>
-        <link href="https://thehackernews.com/2022/12/new-agenda-ransomware-variant-written.html"/>
-        <updated>2022-12-19T10:05:00.000Z</updated>
-        <summary type="html"><![CDATA[A Rust variant of a ransomware strain known as Agenda has been observed in the wild, making it the latest malware to adopt the cross-platform programming language after BlackCat, Hive, Luna, and RansomExx.
-Agenda, attributed to an operator named Qilin, is a ransomware-as-a-service (RaaS) group that has been linked to a spate of attacks primarily targeting manufacturing and IT industries across]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Facebook Cracks Down on Spyware Vendors from U.S., China, Russia, Israel, and India]]></title>
-        <id>https://thehackernews.com/2022/12/facebook-cracks-down-on-spyware-vendors.html</id>
-        <link href="https://thehackernews.com/2022/12/facebook-cracks-down-on-spyware-vendors.html"/>
-        <updated>2022-12-19T09:46:00.000Z</updated>
-        <summary type="html"><![CDATA[Meta Platforms disclosed that it took down no less than 200 covert influence operations since 2017 spanning roughly 70 countries across 42 languages.
-The social media conglomerate also took steps to disable accounts and block infrastructure operated by spyware vendors, including in China, Russia, Israel, the U.S. and India, that targeted individuals in about 200 countries.
-"The global]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
         </author>
     </entry>
     <entry>
