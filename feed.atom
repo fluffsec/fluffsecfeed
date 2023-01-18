@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-18T02:21:58.031Z</updated>
+    <updated>2023-01-18T07:18:27.538Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[CISA Warns of Flaws in Siemens, GE Digital, and Contec Industrial Control Systems]]></title>
+        <id>https://thehackernews.com/2023/01/cisa-warns-of-flaws-in-siemens-ge.html</id>
+        <link href="https://thehackernews.com/2023/01/cisa-warns-of-flaws-in-siemens-ge.html"/>
+        <updated>2023-01-18T05:56:00.000Z</updated>
+        <summary type="html"><![CDATA[The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has published four Industrial Control Systems (ICS) advisories, calling out several security flaws affecting products from Siemens, GE Digital, and Contec.
+The most critical of the issues have been identified in Siemens SINEC INS that could lead to remote code execution via a path traversal flaw (CVE-2022-45092, CVSS score: 9.9)]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Initial Access Broker Market Booms, Posing Growing Threat to Enterprises]]></title>
         <id>https://www.darkreading.com/threat-intelligence/initial-access-broker-market-booms-poses-growing-threat-to-enterprise-orgs-</id>
@@ -3663,77 +3674,6 @@ The shortcoming, dubbed Achilles (CVE-2022-42821, CVSS score: 5.5), was addres
         <summary type="html"><![CDATA[Bright Data CEO Or Lenchner discusses how security teams are utilizing public Web data networks to safeguard their organizations from digital risks.]]></summary>
         <author>
             <name>Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Researchers Discover Malicious PyPI Package Posing as SentinelOne SDK to Steal Data]]></title>
-        <id>https://thehackernews.com/2022/12/researchers-discover-malicious-pypi.html</id>
-        <link href="https://thehackernews.com/2022/12/researchers-discover-malicious-pypi.html"/>
-        <updated>2022-12-19T18:05:00.000Z</updated>
-        <summary type="html"><![CDATA[Cybersecurity researchers have discovered a new malicious package on the Python Package Index (PyPI) repository that impersonates a software development kit (SDK) for SentinelOne, a major cybersecurity company, as part of a campaign dubbed SentinelSneak.
-The package, named SentinelOne and now taken down, is said to have been published between December 8 and 11, 2022, with nearly two dozen]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fortnite Developer Epic Games Slapped With $275M Penalty]]></title>
-        <id>https://www.darkreading.com/application-security/fortnite-developer-epic-games-slapped-275m-penalty</id>
-        <link href="https://www.darkreading.com/application-security/fortnite-developer-epic-games-slapped-275m-penalty"/>
-        <updated>2022-12-19T18:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Epic Games has been fined for violating children's online privacy, banned from using collected data.]]></summary>
-        <author>
-            <name>Dark Reading Staff, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Malicious Python Trojan Impersonates SentinelOne Security Client]]></title>
-        <id>https://www.darkreading.com/vulnerabilities-threats/malicious-python-trojan-impersonates-sentinelone-security-client</id>
-        <link href="https://www.darkreading.com/vulnerabilities-threats/malicious-python-trojan-impersonates-sentinelone-security-client"/>
-        <updated>2022-12-19T17:40:59.000Z</updated>
-        <summary type="html"><![CDATA[A fully functional SentinelOne client is actually a Trojan horse that hides malicious code within; it was found lurking in the Python Package Index repository ecosystem.]]></summary>
-        <author>
-            <name>Robert Lemos, Contributing Writer, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Security Skills Command Premiums in Tight Market]]></title>
-        <id>https://www.darkreading.com/attacks-breaches/security-skills-command-premiums-tight-market</id>
-        <link href="https://www.darkreading.com/attacks-breaches/security-skills-command-premiums-tight-market"/>
-        <updated>2022-12-19T16:09:36.000Z</updated>
-        <summary type="html"><![CDATA[Recession fears notwithstanding, cybersecurity skills — both credentialed and noncredentialed — continue to attract higher pay and more job security.]]></summary>
-        <author>
-            <name>Robert Lemos, Contributing Writer, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bugcrowd Launches Bug Bounty Program for Australian-Based Navitas]]></title>
-        <id>https://www.darkreading.com/vulnerabilities-threats/bugcrowd-launches-bug-bounty-program-for-australian-based-navitas</id>
-        <link href="https://www.darkreading.com/vulnerabilities-threats/bugcrowd-launches-bug-bounty-program-for-australian-based-navitas"/>
-        <updated>2022-12-19T15:34:00.000Z</updated>
-        <summary type="html"><![CDATA[Leading global education provider engages with Bugcrowd Security Researchers to identify threats.]]></summary>
-        <author>
-            <name>Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Social Engineering, Money Mules, and Job Seekers]]></title>
-        <id>https://blog.knowbe4.com/social-engineering-money-mules-and-job-seekers</id>
-        <link href="https://blog.knowbe4.com/social-engineering-money-mules-and-job-seekers"/>
-        <updated>2022-12-19T15:32:37.000Z</updated>
-        <summary type="html"><![CDATA[A small town in Manitoba, WestLake-Gladstone (population about 3300), fell victim to a social engineering campaign. The municipal government seems to have been a target of opportunity, but it lost some $433 thousand to scammers.]]></summary>
-        <author>
-            <name>Stu Sjouwerman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rethinking Risk After the FTX Debacle]]></title>
-        <id>https://www.darkreading.com/risk/rethinking-risk-after-the-ftx-debacle</id>
-        <link href="https://www.darkreading.com/risk/rethinking-risk-after-the-ftx-debacle"/>
-        <updated>2022-12-19T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Risk is no longer a single entity, but rather an interconnected web of resources, assets, and users.]]></summary>
-        <author>
-            <name>Tamir Hardof, Chief Marketing Officer, Cyberpion</name>
         </author>
     </entry>
     <entry>
