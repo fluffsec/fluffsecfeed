@@ -12,6 +12,16 @@
       "siteUrl": "https://us-cert.cisa.gov/",
       "articles": [
         {
+          "id": "18291 at https://us-cert.cisa.gov",
+          "author": "CISA",
+          "description": "Original release date: January 18, 2023\nMozilla has released security updates to address vulnerabilities in Firefox ESR and Firefox. An attacker could exploit some of these vulnerabilities to take control of an affected system.\nCISA encourages users and administrators to review Mozilla’s security advisories for Firefox ESR 102.7 and Firefox 109 for more information and apply the necessary updates.\nThis product is provided subject to this Notification and this Privacy & Use policy.",
+          "link": "https://us-cert.cisa.gov/ncas/current-activity/2023/01/18/mozilla-releases-security-updates-firefox",
+          "publishedOn": "2023-01-18T13:00:00.000Z",
+          "wordCount": 951,
+          "title": "Mozilla Releases Security Updates for Firefox",
+          "imageUrl": null
+        },
+        {
           "id": "18285 at https://us-cert.cisa.gov",
           "author": "CISA",
           "description": "Original release date: January 17, 2023\nCISA has added one new vulnerability to its Known Exploited Vulnerabilities Catalog, based on evidence of active exploitation. This type of vulnerability is a frequent attack vector for malicious cyber actors and poses a significant risk to the federal enterprise. Note: To view the newly added vulnerabilities in the catalog, click on the arrow in the \"Date Added to Catalog\" column, which will sort by descending dates.\nBinding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the Known Exploited Vulnerabilities Catalog as a living list of known CVEs that carry significant risk to the federal enterprise. BOD 22-01 requires FCEB agencies to remediate identified vulnerabilities by the due date to protect FCEB networks against active threats. See the BOD 22-01 Fact Sheet for more information.\nAlthough BOD 22-01 only applies to FCEB agencies, CISA strongly urges all organizations to reduce their exposure to cyberattacks by prioritizing timely remediation of Catalog vulnerabilities as part of their vulnerability management practice. CISA will continue to add vulnerabilities to the Catalog that meet the specified criteria. \nThis product is provided subject to this Notification and this Privacy & Use policy.",
@@ -208,6 +218,111 @@
       "feedUrl": "https://www.darkreading.com/rss.xml",
       "siteUrl": "https://www.darkreading.com",
       "articles": [
+        {
+          "id": "https://www.darkreading.com/application-security/docontrol-announces-saas-security-platform-expansion-with-shadow-apps-module-launch",
+          "author": null,
+          "description": "New module introduces shadow SaaS application discovery, monitoring, and remediation to protect businesses from supply chain attacks.",
+          "link": "https://www.darkreading.com/application-security/docontrol-announces-saas-security-platform-expansion-with-shadow-apps-module-launch",
+          "publishedOn": "2023-01-18T18:13:00.000Z",
+          "wordCount": 13276,
+          "title": "DoControl Announces SaaS Security Platform Expansion With Shadow Apps Module Launch",
+          "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/remote-workforce/knowbe4-2022-phishing-test-report-confirms-business-related-emails-trend",
+          "author": null,
+          "description": "KnowBe4 releases overall 2022 and Q4 2022 global phishing test reports and finds business-related emails continue to be utilized as a phishing strategy and reveal top holiday email phishing subjects.",
+          "link": "https://www.darkreading.com/remote-workforce/knowbe4-2022-phishing-test-report-confirms-business-related-emails-trend",
+          "publishedOn": "2023-01-18T18:10:00.000Z",
+          "wordCount": 13799,
+          "title": "KnowBe4 2022 Phishing Test Report Confirms Business-Related Emails Trend",
+          "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/vulnerabilities-threats/chatgpt-opens-new-opportunities-for-cybercriminals-5-ways-for-organizations-to-get-ready",
+          "author": "Paul Trulove, CEO, SecureAuth",
+          "description": "From updating employee education and implementing stronger authentication protocols to monitoring corporate accounts and adopting a zero-trust model, companies can better prepare defenses against chatbot-augmented attacks.",
+          "link": "https://www.darkreading.com/vulnerabilities-threats/chatgpt-opens-new-opportunities-for-cybercriminals-5-ways-for-organizations-to-get-ready",
+          "publishedOn": "2023-01-18T18:00:00.000Z",
+          "wordCount": 14620,
+          "title": "ChatGPT Opens New Opportunities for Cybercriminals: 5 Ways for Organizations to Get Ready",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt4fe553037b6336d4/63c172036bad4b1046dafa79/Paul_Trulove_Headshot.jpeg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt4fe553037b6336d4/63c172036bad4b1046dafa79/Paul_Trulove_Headshot.jpeg"
+        },
+        {
+          "id": "https://www.darkreading.com/ics-ot/ics-confronted-by-attackers-armed-with-new-motives-tactics-and-malware",
+          "author": "Elizabeth Montalbano, Contributor, Dark Reading",
+          "description": "Threat actors are diversifying across all aspects to attack critical infrastructure, muddying the threat landscape, and forcing industrial organizations to rethink their security.",
+          "link": "https://www.darkreading.com/ics-ot/ics-confronted-by-attackers-armed-with-new-motives-tactics-and-malware",
+          "publishedOn": "2023-01-18T17:10:00.000Z",
+          "wordCount": 15040,
+          "title": "ICS Confronted by Attackers Armed With New Motives, Tactics, and Malware",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltbfd004d139d42d70/6303bca6236c2476a257760e/ElizabethMontalbano.jpg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltbfd004d139d42d70/6303bca6236c2476a257760e/ElizabethMontalbano.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/vulnerabilities-threats/abacus-group-acquires-gotham-security-and-govanguard-to-expand-cybersecurity-service-offerings",
+          "author": null,
+          "description": "",
+          "link": "https://www.darkreading.com/vulnerabilities-threats/abacus-group-acquires-gotham-security-and-govanguard-to-expand-cybersecurity-service-offerings",
+          "publishedOn": "2023-01-18T15:30:00.000Z",
+          "wordCount": 14339,
+          "title": "Abacus Group Acquires Gotham Security and GoVanguard to Expand Cybersecurity Service Offerings",
+          "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/attacks-breaches/perception-point-launches-advanced-threat-protection-and-rapid-remediation-for-zendesk-customers",
+          "author": null,
+          "description": "The integration provides crucial protection for businesses’ most vulnerable departments — help desks and customer support teams — preventing the most advanced threats sent by online users.",
+          "link": "https://www.darkreading.com/attacks-breaches/perception-point-launches-advanced-threat-protection-and-rapid-remediation-for-zendesk-customers",
+          "publishedOn": "2023-01-18T15:15:00.000Z",
+          "wordCount": 13822,
+          "title": "Perception Point Launches Advanced Threat Protection and Rapid Remediation for Zendesk Customers",
+          "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/threat-intelligence/new-coalfire-report-reveals-cisos-rising-influence",
+          "author": null,
+          "description": "",
+          "link": "https://www.darkreading.com/threat-intelligence/new-coalfire-report-reveals-cisos-rising-influence",
+          "publishedOn": "2023-01-18T15:04:00.000Z",
+          "wordCount": 13005,
+          "title": "New Coalfire Report Reveals CISOs Rising Influence",
+          "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/vulnerabilities-threats/cybersecurity-and-the-myth-of-quiet-quitting",
+          "author": "Lynsey Wolf, Global i3 Investigations Team Lead, DTEX",
+          "description": "People are working harder than ever, but they're not happy about it — and the insider threat is all too real.",
+          "link": "https://www.darkreading.com/vulnerabilities-threats/cybersecurity-and-the-myth-of-quiet-quitting",
+          "publishedOn": "2023-01-18T15:00:00.000Z",
+          "wordCount": 14702,
+          "title": "Cybersecurity and the Myth of Quiet Quitting",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt2d1aafc128f3d4b5/63bdbf3839ff885825778b4e/Lynsey_Wolf.jpg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt2d1aafc128f3d4b5/63bdbf3839ff885825778b4e/Lynsey_Wolf.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/vulnerabilities-threats/lares-research-highlights-top-5-penetration-test-findings-from-2022",
+          "author": null,
+          "description": "Range of Addressable Concerns Includes \"Brute Forcing Accounts with Weak Passwords\" and \"Excessive File System Permissions.\"",
+          "link": "https://www.darkreading.com/vulnerabilities-threats/lares-research-highlights-top-5-penetration-test-findings-from-2022",
+          "publishedOn": "2023-01-18T14:50:00.000Z",
+          "wordCount": 13723,
+          "title": "Lares Research Highlights Top 5 Penetration Test Findings From 2022",
+          "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
+        },
         {
           "id": "https://www.darkreading.com/dr-tech/okta-expands-no-code-offerings-for-identity-cloud",
           "author": "Dark Reading Staff, Dark Reading",
@@ -3174,6 +3289,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2023/01/earth-bogle-campaign-unleashes-njrat.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "An ongoing campaign dubbed Earth Bogle is leveraging geopolitical-themed lures to deliver the NjRAT remote access trojan to victims across the Middle East and North Africa.\n\"The threat actor uses public cloud storage services such as files[.]fm and failiem[.]lv to host malware, while compromised web servers distribute NjRAT,\" Trend Micro said in a report published Wednesday.\nPhishing emails,",
+          "link": "https://thehackernews.com/2023/01/earth-bogle-campaign-unleashes-njrat.html",
+          "publishedOn": "2023-01-18T17:24:00.000Z",
+          "wordCount": null,
+          "title": "Earth Bogle Campaign Unleashes NjRAT Trojan on Middle East and North Africa",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgvSRgJgJqU8UMBpiycjt5O0nettU_kGvD2uzF3AnuQAKRMZeqIYgGc3NpKRHXGItSOfK2E9NpH3dgq3MMdpn2n7HRThcIsJAcx0koxmoGumvIR9qCcWyKTKe63ksVHBMnflKn0pqku4gnOVZ5_czLCITBczTcR_ZyvyyfW69oet1DKyiGMwIen2LLk/s1600/cyberattack.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgvSRgJgJqU8UMBpiycjt5O0nettU_kGvD2uzF3AnuQAKRMZeqIYgGc3NpKRHXGItSOfK2E9NpH3dgq3MMdpn2n7HRThcIsJAcx0koxmoGumvIR9qCcWyKTKe63ksVHBMnflKn0pqku4gnOVZ5_czLCITBczTcR_ZyvyyfW69oet1DKyiGMwIen2LLk/s1600/cyberattack.png"
+        },
+        {
           "id": "https://thehackernews.com/2023/01/iranian-government-entities-under.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "The threat actor known as BackdoorDiplomacy has been linked to a new wave of attacks targeting Iranian government entities between July and late December 2022.\nPalo Alto Networks Unit 42, which is tracking the activity under its constellation-themed moniker Playful Taurus, said it observed the government domains attempting to connect to malware infrastructure previously identified as associated",
@@ -4804,38 +4935,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgbfPi6JkmeUzsg-HzFETPyLs687dzChlLgbjB4q4huWzHme8KXtY6HSJTqwSCoTeGXchK2-9F9b-3m3EMGjXs_wN8TGlwWfBjAlWNYrbKDjnzE1jTKJHBDHqL0dMlSidCIed93VVu4n1tIsIIRA_XVYRcqFyTGnVfZVY4daI3y6hxm6YG7xwI7p0zP/s1600/ddos.png"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgbfPi6JkmeUzsg-HzFETPyLs687dzChlLgbjB4q4huWzHme8KXtY6HSJTqwSCoTeGXchK2-9F9b-3m3EMGjXs_wN8TGlwWfBjAlWNYrbKDjnzE1jTKJHBDHqL0dMlSidCIed93VVu4n1tIsIIRA_XVYRcqFyTGnVfZVY4daI3y6hxm6YG7xwI7p0zP/s1600/ddos.png"
-        },
-        {
-          "id": "https://thehackernews.com/2022/12/ftc-fines-fortnite-maker-epic-games-275.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Epic Games has reached a $520 million settlement with the U.S. Federal Trade Commission (FTC) over allegations that the Fortnite creator violated online privacy laws for children and tricked users into making unintended purchases in the video game.\nTo that end, the company will pay a record $275 million monetary penalty for breaching the Children's Online Privacy Protection Act (COPPA) by",
-          "link": "https://thehackernews.com/2022/12/ftc-fines-fortnite-maker-epic-games-275.html",
-          "publishedOn": "2022-12-20T06:33:00.000Z",
-          "wordCount": null,
-          "title": "FTC Fines Fortnite Maker Epic Games $275 Million for Violating Children's Privacy Law",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgyK-ah0hjm-A2MIt2ALMQzfR-Jm6p9ljXNN_x5KC8v63ZNKZ5EJmLjn0Ka3lAGWlnOTiQNhOz8iRnzJvdp1zXQTWplPnH1lEhTBtxwMN3XonlCghx1HtIi8b7VMKpqIGeCxYqL_Z9R7YDNvOcSGGcVKPDFxPUuccBg-CpZFs1jv0wZBiIk9s7idLr5/s1600/epic-games.png"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgyK-ah0hjm-A2MIt2ALMQzfR-Jm6p9ljXNN_x5KC8v63ZNKZ5EJmLjn0Ka3lAGWlnOTiQNhOz8iRnzJvdp1zXQTWplPnH1lEhTBtxwMN3XonlCghx1HtIi8b7VMKpqIGeCxYqL_Z9R7YDNvOcSGGcVKPDFxPUuccBg-CpZFs1jv0wZBiIk9s7idLr5/s1600/epic-games.png"
-        },
-        {
-          "id": "https://thehackernews.com/2022/12/microsoft-details-gatekeeper-bypass.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Microsoft has disclosed details of a now-patched security flaw in Apple macOS that could be exploited by an attacker to get around security protections imposed to prevent the execution of malicious applications.\nThe shortcoming, dubbed Achilles (CVE-2022-42821, CVSS score: 5.5), was addressed by the iPhone maker in macOS Ventura 13, Monterey 12.6.2, and Big Sur 11.7.2, describing it as a logic",
-          "link": "https://thehackernews.com/2022/12/microsoft-details-gatekeeper-bypass.html",
-          "publishedOn": "2022-12-20T05:52:00.000Z",
-          "wordCount": null,
-          "title": "Microsoft Details Gatekeeper Bypass Vulnerability in Apple macOS Systems",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEho2vU3IGaedJ9gE7ogTYj9y9YY_Kmw9819BaRQz8P5LVNGglCNsifsjBYGLafItnAk9LSJyGRBJHPUhv1qpMwCNtMDtXzpRjYA15hxABsJweP5EE8ruV59NrOR7FN2RhvQCBUs1VabX-5wDkNrywoUm4i9wVwU_-5rib40IoUDsn2XNdGlGjk7yoNK/s1600/macos.png"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEho2vU3IGaedJ9gE7ogTYj9y9YY_Kmw9819BaRQz8P5LVNGglCNsifsjBYGLafItnAk9LSJyGRBJHPUhv1qpMwCNtMDtXzpRjYA15hxABsJweP5EE8ruV59NrOR7FN2RhvQCBUs1VabX-5wDkNrywoUm4i9wVwU_-5rib40IoUDsn2XNdGlGjk7yoNK/s1600/macos.png"
         }
       ]
     }
