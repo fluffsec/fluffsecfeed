@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-19T02:23:36.376Z</updated>
+    <updated>2023-01-19T07:18:36.783Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Mailchimp Suffers Another Security Breach Compromising Some Customers' Information]]></title>
+        <id>https://thehackernews.com/2023/01/mailchimp-suffers-another-security.html</id>
+        <link href="https://thehackernews.com/2023/01/mailchimp-suffers-another-security.html"/>
+        <updated>2023-01-19T05:33:00.000Z</updated>
+        <summary type="html"><![CDATA[Popular email marketing and newsletter service Mailchimp has disclosed yet another security breach that enabled threat actors to access an internal support and account admin tool to obtain information about 133 customers.
+"The unauthorized actor conducted a social engineering attack on Mailchimp employees and contractors, and obtained access to select Mailchimp accounts using employee]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How Would the FTC Rule on Noncompetes Affect Data Security?]]></title>
         <id>https://www.darkreading.com/edge-ask-the-experts/how-would-ftc-rule-noncompetes-affect-data-security</id>
@@ -3707,96 +3718,6 @@ The attacks, which have been attributed to a threat cluster dubbed UAC-0142, aim
         <summary type="html"><![CDATA[When properly designed and trained, artificial intelligence and machine learning can help improve the accuracy of DDoS detection and mitigation.]]></summary>
         <author>
             <name>Alex Pavlovic, Director, Product Marketing, Nokia Deepfield</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Coming to a SOC Near You: New Browsers, 'Posture' Management, Virtual Assistants]]></title>
-        <id>https://www.darkreading.com/operations/coming-soon-to-a-soc-near-you-posture-management-and-virtual-assisstants</id>
-        <link href="https://www.darkreading.com/operations/coming-soon-to-a-soc-near-you-posture-management-and-virtual-assisstants"/>
-        <updated>2022-12-20T18:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Startups are coalescing around effective data loss prevention, reducing data attack surfaces, and viable AI automation.]]></summary>
-        <author>
-            <name>Paul Shomo, Cybersecurity Analyst</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cybersecurity VMRay Extends Series B Investment to a Total of $34 million USD to Drive Growth Into New Markets]]></title>
-        <id>https://www.darkreading.com/attacks-breaches/cybersecurity-vmray-extends-series-b-investment-to-a-total-of-34-million-usd-to-drive-growth-into-new-markets</id>
-        <link href="https://www.darkreading.com/attacks-breaches/cybersecurity-vmray-extends-series-b-investment-to-a-total-of-34-million-usd-to-drive-growth-into-new-markets"/>
-        <updated>2022-12-20T17:52:00.000Z</updated>
-        <summary type="html"><![CDATA[VMRay announces the closing of a Series B led by global alternative asset manager Tikehau Capital, which will fuel further expansion of the product portfolio to target a broader set of market segments.]]></summary>
-        <author>
-            <name>Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CISA Releases Six Industrial Control Systems Advisories]]></title>
-        <id>18242 at https://us-cert.cisa.gov</id>
-        <link href="https://us-cert.cisa.gov/ncas/current-activity/2022/12/20/cisa-releases-six-industrial-control-systems-advisories"/>
-        <updated>2022-12-20T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Original release date: December 20, 2022
-CISA released six Industrial Control Systems (ICS) advisories on December 20, 2022. These advisories provide timely information about current security issues, vulnerabilities, and exploits surrounding ICS.
-CISA encourages users and administrators to review the newly released ICS advisories for technical details and mitigations:
-ICSA-22-354-01 Fuji Electric Tellus Lite V-Simulator
-ICSA-22-354-02 Rockwell Automation GuardLogix and ControlLogix
-ICSA-22-354-03 ARC Informatique PcVue
-ICSA-22-354-04 Rockwell Automation MicroLogix 1100 and 1400
-ICSA-22-354-05 Delta 4G Router DX-3021
-ICSA-22-349-01 Prosys OPC UA Simulation Server (Update A)
-This product is provided subject to this Notification and this Privacy & Use policy.]]></summary>
-        <author>
-            <name>CISA</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['Blindside' Attack Subverts EDR Platforms From Windows Kernel]]></title>
-        <id>https://www.darkreading.com/attacks-breaches/-blindside-attack-subverts-edr-platforms-windows-kernel</id>
-        <link href="https://www.darkreading.com/attacks-breaches/-blindside-attack-subverts-edr-platforms-windows-kernel"/>
-        <updated>2022-12-20T15:44:52.000Z</updated>
-        <summary type="html"><![CDATA[The technique loads a nonmonitored and unhooked DLL, and leverages debug techniques that could allow for running arbitrary code.]]></summary>
-        <author>
-            <name>Nathan Eddy, Contributing Writer, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Protecting Hospital Networks From 'Code Dark' Scenarios]]></title>
-        <id>https://www.darkreading.com/attacks-breaches/protecting-hospital-networks-from-code-dark-scenarios-</id>
-        <link href="https://www.darkreading.com/attacks-breaches/protecting-hospital-networks-from-code-dark-scenarios-"/>
-        <updated>2022-12-20T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Asset inventory, behavioral baselining, and automated response are all key to keeping patients healthy and safe.]]></summary>
-        <author>
-            <name>Danelle Au,  CMO, Ordr</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS Elastic IP Transfer Feature Gives Cyberattackers Free Range]]></title>
-        <id>https://www.darkreading.com/cloud/aws-elastic-ip-transfer-feature-cyberattackers-free-range</id>
-        <link href="https://www.darkreading.com/cloud/aws-elastic-ip-transfer-feature-cyberattackers-free-range"/>
-        <updated>2022-12-20T14:41:52.000Z</updated>
-        <summary type="html"><![CDATA[Threat actors can take over victims' cloud accounts to steal data, or use them for command-and-control for phishing attacks, denial of service, or other cyberattacks.]]></summary>
-        <author>
-            <name>Elizabeth Montalbano, Contributor, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Beware: Cybercriminals Launch New BrasDex Android Trojan Targeting Brazilian Banking Users]]></title>
-        <id>https://thehackernews.com/2022/12/beware-cybercriminals-launch-new.html</id>
-        <link href="https://thehackernews.com/2022/12/beware-cybercriminals-launch-new.html"/>
-        <updated>2022-12-20T14:33:00.000Z</updated>
-        <summary type="html"><![CDATA[The threat actors behind the Windows banking malware known as Casbaneiro has been attributed as behind a novel Android trojan called BrasDex that has been observed targeting Brazilian users as part of an ongoing multi-platform campaign.
-BrasDex features a "complex keylogging system designed to abuse Accessibility Services to extract credentials specifically from a set of Brazilian targeted apps,]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CyberheistNews Vol 12 #51 [Ughh] The FBI's Trusted Threat Sharing 'InfraGard' Network Was Hacked]]></title>
-        <id>https://blog.knowbe4.com/cyberheistnews-vol-12-51-ughh-the-fbis-trusted-threat-sharing-infragard-network-was-hacked</id>
-        <link href="https://blog.knowbe4.com/cyberheistnews-vol-12-51-ughh-the-fbis-trusted-threat-sharing-infragard-network-was-hacked"/>
-        <updated>2022-12-20T14:30:00.000Z</updated>
-        <summary type="html"><![CDATA[CyberheistNews Vol 12 #51 [Ughh] The FBI's Trusted Threat Sharing 'InfraGard' Network Was Hacked]]></summary>
-        <author>
-            <name>Stu Sjouwerman</name>
         </author>
     </entry>
     <entry>
