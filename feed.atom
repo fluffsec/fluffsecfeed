@@ -2,10 +2,43 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-19T07:18:36.783Z</updated>
+    <updated>2023-01-19T13:27:43.803Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[New Research Delves into the World of Malicious LNK Files and Hackers Behind Them]]></title>
+        <id>https://thehackernews.com/2023/01/new-research-delves-into-world-of.html</id>
+        <link href="https://thehackernews.com/2023/01/new-research-delves-into-world-of.html"/>
+        <updated>2023-01-19T13:01:00.000Z</updated>
+        <summary type="html"><![CDATA[Cybercriminals are increasingly leveraging malicious LNK files as an initial access method to download and execute payloads such as Bumblebee, IcedID, and Qakbot.
+A recent study by cybersecurity experts has shown that it is possible to identify relationships between different threat actors by analyzing the metadata of malicious LNK files, uncovering information such as the specific tools and]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[6 Types of Risk Assessment Methodologies + How to Choose]]></title>
+        <id>https://thehackernews.com/2023/01/6-types-of-risk-assessment.html</id>
+        <link href="https://thehackernews.com/2023/01/6-types-of-risk-assessment.html"/>
+        <updated>2023-01-19T12:04:00.000Z</updated>
+        <summary type="html"><![CDATA[An organization’s sensitive information is under constant threat. Identifying those security risks is critical to protecting that information. But some risks are bigger than others. Some mitigation options are more expensive than others. How do you make the right decision? Adopting a formal risk assessment process gives you the information you need to set priorities.
+There are many ways to]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bitzlato Crypto Exchange Founder Arrested for Aiding Cybercriminals]]></title>
+        <id>https://thehackernews.com/2023/01/bitzlato-crypto-exchange-founder.html</id>
+        <link href="https://thehackernews.com/2023/01/bitzlato-crypto-exchange-founder.html"/>
+        <updated>2023-01-19T10:43:00.000Z</updated>
+        <summary type="html"><![CDATA[The U.S. Department of Justice (DoJ) on Wednesday announced the arrest of Anatoly Legkodymov (aka Gandalf and Tolik), the cofounder of Hong Kong-registered cryptocurrency exchange Bitzlato, for allegedly processing $700 million in illicit funds.
+The 40-year-old Russian national, who was arrested in Miami, was charged in a U.S. federal court with "conducting a money transmitting business that]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Mailchimp Suffers Another Security Breach Compromising Some Customers' Information]]></title>
         <id>https://thehackernews.com/2023/01/mailchimp-suffers-another-security.html</id>
@@ -3638,86 +3671,6 @@ This includes 215 banks, 94 crypto wallet providers, and 110 crypto exchange pla
 The attacks, which have been attributed to a threat cluster dubbed UAC-0142, aimed to infect systems with two pieces of data-stealing malware referred to as FateGrab and]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Give Yourself the Gift of Secure Holiday E-Commerce]]></title>
-        <id>https://www.darkreading.com/edge-articles/give-yourself-the-gift-of-secure-holiday-ecommerce</id>
-        <link href="https://www.darkreading.com/edge-articles/give-yourself-the-gift-of-secure-holiday-ecommerce"/>
-        <updated>2022-12-20T23:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Automating your defenses can bring good tidings of great joy.]]></summary>
-        <author>
-            <name>Jonathan Care, Contributing Writer, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Paying Ransom: Why Manufacturers Shell Out to Cybercriminals]]></title>
-        <id>https://www.darkreading.com/zscaler/paying-ransom-why-manufacturers-shell-out-to-cybercriminals</id>
-        <link href="https://www.darkreading.com/zscaler/paying-ransom-why-manufacturers-shell-out-to-cybercriminals"/>
-        <updated>2022-12-20T23:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Lower cybersecurity awareness coupled with vulnerable OT gear makes manufacturers tempting targets, but zero trust can blunt attackers’ advantages.]]></summary>
-        <author>
-            <name>Ben Corll, CISO Americas, Zscaler</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bfore.Ai Releases 'The King, The Knight & The Snowball' - Cybersecurity Book for Children]]></title>
-        <id>https://www.darkreading.com/operations/bfore-ai-releases-the-king-the-knight-the-snowball---cybersecurity-book-for-children</id>
-        <link href="https://www.darkreading.com/operations/bfore-ai-releases-the-king-the-knight-the-snowball---cybersecurity-book-for-children"/>
-        <updated>2022-12-20T21:34:00.000Z</updated>
-        <summary type="html"><![CDATA[This unique fairytale is available for free just before Christmas to enjoy with the entire family.]]></summary>
-        <author>
-            <name>Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft Warns on 'Achilles' macOS Gatekeeper Bypass]]></title>
-        <id>https://www.darkreading.com/vulnerabilities-threats/microsoft-warns-on-achilles-macos-gatekeeper-bypass</id>
-        <link href="https://www.darkreading.com/vulnerabilities-threats/microsoft-warns-on-achilles-macos-gatekeeper-bypass"/>
-        <updated>2022-12-20T21:00:04.000Z</updated>
-        <summary type="html"><![CDATA[The latest bypass for Apple's application-safety feature could allow malicious takeover of Macs.]]></summary>
-        <author>
-            <name>Tara Seals, Managing Editor, News, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Raspberry Robin Worm Targets Telcos & Governments]]></title>
-        <id>https://www.darkreading.com/attacks-breaches/raspberry-robin-worm-targets-telcos-governments</id>
-        <link href="https://www.darkreading.com/attacks-breaches/raspberry-robin-worm-targets-telcos-governments"/>
-        <updated>2022-12-20T20:12:00.000Z</updated>
-        <summary type="html"><![CDATA[With 10 layers of obfuscation and fake payloads, the Raspberry Robin worm is nesting its way deep into organizations.]]></summary>
-        <author>
-            <name>Dark Reading Staff, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NATO-Member Oil Refinery Targeted in Russian APT Blitz Against Ukraine]]></title>
-        <id>https://www.darkreading.com/attacks-breaches/nato-oil-refinery-russian-apt-blitz-against-ukraine</id>
-        <link href="https://www.darkreading.com/attacks-breaches/nato-oil-refinery-russian-apt-blitz-against-ukraine"/>
-        <updated>2022-12-20T19:34:00.000Z</updated>
-        <summary type="html"><![CDATA[Security Service-backed Trident Ursa APT group shakes up tactics in its relentless cyberattacks against Ukraine.]]></summary>
-        <author>
-            <name>Dark Reading Staff, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Searchlight Security Changes Name to Searchlight Cyber and Launches New Brand]]></title>
-        <id>https://www.darkreading.com/threat-intelligence/searchlight-security-changes-name-to-searchlight-cyber-and-launches-new-brand</id>
-        <link href="https://www.darkreading.com/threat-intelligence/searchlight-security-changes-name-to-searchlight-cyber-and-launches-new-brand"/>
-        <updated>2022-12-20T19:22:00.000Z</updated>
-        <summary type="html"><![CDATA[Searchlight Cyber announces rebrand that reflects its status as a fast-growing cybersecurity business.]]></summary>
-        <author>
-            <name>Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How AI/ML Can Thwart DDoS Attacks]]></title>
-        <id>https://www.darkreading.com/dr-tech/how-ai-ml-can-thwart-ddos-attacks</id>
-        <link href="https://www.darkreading.com/dr-tech/how-ai-ml-can-thwart-ddos-attacks"/>
-        <updated>2022-12-20T19:20:00.000Z</updated>
-        <summary type="html"><![CDATA[When properly designed and trained, artificial intelligence and machine learning can help improve the accuracy of DDoS detection and mitigation.]]></summary>
-        <author>
-            <name>Alex Pavlovic, Director, Product Marketing, Nokia Deepfield</name>
         </author>
     </entry>
     <entry>
