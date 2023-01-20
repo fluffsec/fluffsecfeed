@@ -2,10 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-19T19:16:37.410Z</updated>
+    <updated>2023-01-20T02:23:46.344Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[PayPal Breach Exposed PII of Nearly 35K Accounts]]></title>
+        <id>https://www.darkreading.com/attacks-breaches/paypal-breach-exposed-pii-of-nearly-35k-accounts</id>
+        <link href="https://www.darkreading.com/attacks-breaches/paypal-breach-exposed-pii-of-nearly-35k-accounts"/>
+        <updated>2023-01-20T00:20:00.000Z</updated>
+        <summary type="html"><![CDATA[The credential-stuffing attack, likely fueled by password reuse, yielded personal identifiable information that can be used to verify the authenticity of previously stolen data.]]></summary>
+        <author>
+            <name>Becky Bracken, Editor, Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EmojiDeploy Attack Chain Targets Misconfigured Azure Service]]></title>
+        <id>https://www.darkreading.com/cloud/emojideploy-attack-chain-targets-misconfigured-azure-service</id>
+        <link href="https://www.darkreading.com/cloud/emojideploy-attack-chain-targets-misconfigured-azure-service"/>
+        <updated>2023-01-19T23:14:00.000Z</updated>
+        <summary type="html"><![CDATA[Multiple misconfigurations in a service that underpins many Azure features could have allowed an attacker to remotely compromise a cloud user's system.]]></summary>
+        <author>
+            <name>Robert Lemos, Contributing Writer, Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Massive Adware Campaign Shuttered]]></title>
+        <id>https://www.darkreading.com/attacks-breaches/massive-adware-campaign-shuttered</id>
+        <link href="https://www.darkreading.com/attacks-breaches/massive-adware-campaign-shuttered"/>
+        <updated>2023-01-19T22:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Mainly Apple iOS in-app ads were targeted, injecting malicious JavaScript code to rack up phony views.]]></summary>
+        <author>
+            <name>Dark Reading Staff, Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Attackers Crafted Custom Malware for Fortinet Zero-Day]]></title>
+        <id>https://www.darkreading.com/threat-intelligence/china-based-attacker-crafted-custom-malware-for-fortinet-zero-day</id>
+        <link href="https://www.darkreading.com/threat-intelligence/china-based-attacker-crafted-custom-malware-for-fortinet-zero-day"/>
+        <updated>2023-01-19T21:30:00.000Z</updated>
+        <summary type="html"><![CDATA[The "BoldMove" backdoor demonstrates a high level of knowledge of FortiOS, according to Mandiant researchers, who said the attacker appears to be based out of China.]]></summary>
+        <author>
+            <name>Jai Vijayan, Contributing Writer, Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How South Africa's Largest Law Firm Was Fined R5.5m for Not Educating Customers]]></title>
+        <id>https://blog.knowbe4.com/how-south-africas-largest-law-firm-was-fined-r5.5m-for-not-educating-customers</id>
+        <link href="https://blog.knowbe4.com/how-south-africas-largest-law-firm-was-fined-r5.5m-for-not-educating-customers"/>
+        <updated>2023-01-19T19:48:36.000Z</updated>
+        <summary type="html"><![CDATA[Africa’s largest law firmordered to pay R5.5 million to a woman who fell victim to a hacking syndicate. When Judith Hawarden was buying a house, hackers changed the bank account number in a PDF emailed to her by ENSafrica, the law firm handling the conveyancing.]]></summary>
+        <author>
+            <name>Javvad Malik</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Roaming Mantis Uses DNS Changers to Target Users via Compromised Public Routers]]></title>
         <id>https://www.darkreading.com/remote-workforce/roaming-mantis-uses-dns-changers-to-target-users-via-compromised-public-routers</id>
@@ -3783,70 +3833,6 @@ The security event, which was first]]></summary>
         <summary type="html"><![CDATA[A recent Ivanti report shows cybersecurity practitioners getting more focused on the threat landscape, but defenders may need to hone their attention to focus on the right threats.]]></summary>
         <author>
             <name>Roger Grimes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[’Tis the season for Scam-Folly Fa La La La La]]></title>
-        <id>https://blog.knowbe4.com/tis-the-season-for-scam-folly</id>
-        <link href="https://blog.knowbe4.com/tis-the-season-for-scam-folly"/>
-        <updated>2022-12-21T13:59:45.000Z</updated>
-        <summary type="html"><![CDATA[The festive season is my favorite time of the year. It is a time to celebrate and reconnect with our family, friends and community and the one time in the year where the whole country feels like it is on holiday. In the Southern Hemisphere, it is also called the silly season, on account of the higher than usual number of social engagements, slow down of work activities and general holiday mood.]]></summary>
-        <author>
-            <name>Anna Collard</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[XLL Files Used to Deliver Malware]]></title>
-        <id>https://blog.knowbe4.com/xll-files-used-to-deliver-malware</id>
-        <link href="https://blog.knowbe4.com/xll-files-used-to-deliver-malware"/>
-        <updated>2022-12-21T13:59:29.000Z</updated>
-        <summary type="html"><![CDATA[Attackers are using XLL files to embed malicious code in Office documents, according to researchers at Cisco Talos. Microsoft is phasing out the ability to execute VBA macros in Office documents. These macros have been one of the most popular ways to deliver malware, so attackers are turning to new ways to smuggle malicious code.]]></summary>
-        <author>
-            <name>Stu Sjouwerman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Raspberry Robin Worm Strikes Again, Targeting Telecom and Government Systems]]></title>
-        <id>https://thehackernews.com/2022/12/raspberry-robin-worm-strikes-again.html</id>
-        <link href="https://thehackernews.com/2022/12/raspberry-robin-worm-strikes-again.html"/>
-        <updated>2022-12-21T12:23:00.000Z</updated>
-        <summary type="html"><![CDATA[The Raspberry Robin worm has been used in attacks against telecommunications and government office systems across Latin America, Australia, and Europe since at least September 2022.
-"The main payload itself is packed with more than 10 layers for obfuscation and is capable of delivering a fake payload once it detects sandboxing and security analytics tools," Trend Micro researcher Christopher So]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Rise of the Rookie Hacker - A New Trend to Reckon With]]></title>
-        <id>https://thehackernews.com/2022/12/the-rise-of-rookie-hacker-new-trend-to.html</id>
-        <link href="https://thehackernews.com/2022/12/the-rise-of-rookie-hacker-new-trend-to.html"/>
-        <updated>2022-12-21T11:37:00.000Z</updated>
-        <summary type="html"><![CDATA[More zero knowledge attacks, more leaked credentials, more Gen-Z cyber crimes - 2022 trends and 2023 predictions.
-Cybercrime remains a major threat to individuals, businesses, and governments around the world. Cybercriminals continue to take advantage of the prevalence of digital devices and the internet to perpetrate their crimes. As the internet of things continues to develop, cybercriminals]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GodFather Android Banking Trojan Targeting Users of Over 400 Banking and Crypto Apps]]></title>
-        <id>https://thehackernews.com/2022/12/godfather-android-banking-trojan.html</id>
-        <link href="https://thehackernews.com/2022/12/godfather-android-banking-trojan.html"/>
-        <updated>2022-12-21T09:16:00.000Z</updated>
-        <summary type="html"><![CDATA[An Android banking trojan known as GodFather is being used to target users of more than 400 banking and cryptocurrency apps spanning across 16 countries.
-This includes 215 banks, 94 crypto wallet providers, and 110 crypto exchange platforms serving users in the U.S., Turkey, Spain, Italy, Canada, and Canada, among others, Singapore-headquartered Group-IB said in a report shared with The Hacker]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ransomware Hackers Using New Way to Bypass MS Exchange ProxyNotShell Mitigations]]></title>
-        <id>https://thehackernews.com/2022/12/ransomware-hackers-using-new-way-to.html</id>
-        <link href="https://thehackernews.com/2022/12/ransomware-hackers-using-new-way-to.html"/>
-        <updated>2022-12-21T07:41:00.000Z</updated>
-        <summary type="html"><![CDATA[Threat actors affiliated with a ransomware strain known as Play are leveraging a never-before-seen exploit chain that bypasses blocking rules for ProxyNotShell flaws in Microsoft Exchange Server to achieve remote code execution (RCE) through Outlook Web Access (OWA).
-"The new exploit method bypasses URL rewrite mitigations for the Autodiscover endpoint," CrowdStrike researchers Brian Pitchford,]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
         </author>
     </entry>
     <entry>
