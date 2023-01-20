@@ -2,10 +2,82 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-20T13:26:40.932Z</updated>
+    <updated>2023-01-20T19:16:27.877Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Roaming Mantis Spreading Mobile Malware That Hijacks Wi-Fi Routers' DNS Settings]]></title>
+        <id>https://thehackernews.com/2023/01/roaming-mantis-spreading-mobile-malware.html</id>
+        <link href="https://thehackernews.com/2023/01/roaming-mantis-spreading-mobile-malware.html"/>
+        <updated>2023-01-20T16:33:00.000Z</updated>
+        <summary type="html"><![CDATA[Threat actors associated with the Roaming Mantis attack campaign have been observed delivering an updated variant of their patent mobile malware known as Wroba to infiltrate Wi-Fi routers and undertake Domain Name System (DNS) hijacking.
+Kaspersky, which carried out an analysis of the malicious artifact, said the feature is designed to target specific Wi-Fi routers located in South Korea.]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Critical Manufacturing Sector in the Bull's-eye]]></title>
+        <id>https://www.darkreading.com/ics-ot/critical-manufacturing-sector-in-the-bulls-eye</id>
+        <link href="https://www.darkreading.com/ics-ot/critical-manufacturing-sector-in-the-bulls-eye"/>
+        <updated>2023-01-20T16:22:00.000Z</updated>
+        <summary type="html"><![CDATA[Serious security flaws go unpatched, and ransomware attacks increase against manufacturers.]]></summary>
+        <author>
+            <name>Nathan Eddy, Contributing Writer, Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Evolution of Account Takeover Attacks: Initial Access Brokers for IoT]]></title>
+        <id>https://www.darkreading.com/attacks-breaches/the-evolution-of-account-takeover-attacks-initial-access-brokers-for-iot</id>
+        <link href="https://www.darkreading.com/attacks-breaches/the-evolution-of-account-takeover-attacks-initial-access-brokers-for-iot"/>
+        <updated>2023-01-20T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Head off account takeover attacks by being proactive about IoT security. Start with designing and building better security protocols into IoT devices, always change weak default configurations, and regularly apply patches to ensure that IoT devices are secure.]]></summary>
+        <author>
+            <name>Daniel dos Santos, Head of Security Research, Forescout's Vedere Labs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ransomware Has SMBs Reprioritizing Their Cybersecurity Spending to Combat Attacks]]></title>
+        <id>https://blog.knowbe4.com/smbs-reprioritizing-cybersecurity-spending-to-combat-ransomware</id>
+        <link href="https://blog.knowbe4.com/smbs-reprioritizing-cybersecurity-spending-to-combat-ransomware"/>
+        <updated>2023-01-20T14:57:48.000Z</updated>
+        <summary type="html"><![CDATA[New data shows that SMBs can clearly see where they have cybersecurity issues and are taking great strides to put their devoted budget to security technology and services that actually have a chance at solving the problem!]]></summary>
+        <author>
+            <name>Stu Sjouwerman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Current State of Cybersecurity Should Fear AI Tools Like ChatGPT]]></title>
+        <id>https://blog.knowbe4.com/cybersecurity-should-fear-ai-tools-like-chatgpt</id>
+        <link href="https://blog.knowbe4.com/cybersecurity-should-fear-ai-tools-like-chatgpt"/>
+        <updated>2023-01-20T14:57:35.000Z</updated>
+        <summary type="html"><![CDATA[Malicious use of the text-based AI has already begun to be seen in the wild, and speculative ways attackers can use ChatGPT may spell temporary doom for cybersecurity solutions.]]></summary>
+        <author>
+            <name>Stu Sjouwerman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Blank-Image Attacks Impersonate DocuSign]]></title>
+        <id>https://blog.knowbe4.com/blank-image-attacks-impersonate-docusign</id>
+        <link href="https://blog.knowbe4.com/blank-image-attacks-impersonate-docusign"/>
+        <updated>2023-01-20T13:59:19.000Z</updated>
+        <summary type="html"><![CDATA[An unusual phishing technique has surfaced this week. Avanan, a Check Point Software company, released a blog Thursday morning detailing a new attack in which hackers hide malicious content inside a blank image within an HTML attachment in phishing emails claiming to be from DocuSign.]]></summary>
+        <author>
+            <name>Stu Sjouwerman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gamaredon Group Launches Cyberattacks Against Ukraine Using Telegram]]></title>
+        <id>https://thehackernews.com/2023/01/gamaredon-group-launches-cyberattacks.html</id>
+        <link href="https://thehackernews.com/2023/01/gamaredon-group-launches-cyberattacks.html"/>
+        <updated>2023-01-20T13:35:00.000Z</updated>
+        <summary type="html"><![CDATA[The Russian state-sponsored cyber espionage group known as Gamaredon has continued its digital onslaught against Ukraine, with recent attacks leveraging the popular messaging app Telegram to strike military and law enforcement sectors in the country.
+"The Gamaredon group's network infrastructure relies on multi-stage Telegram accounts for victim profiling and confirmation of geographic location,]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[WhatsApp Hit with €5.5 Million Fine for Violating Data Protection Laws]]></title>
         <id>https://thehackernews.com/2023/01/whatsapp-hit-with-55-million-fine-for.html</id>
@@ -3693,18 +3765,6 @@ Tracked as CVE-2022-41654 (CVSS score: 8.5), the authentication bypass vulnerabi
         <summary type="html"><![CDATA[The Zerobot DDoS botnet has received substantial updates that expand on its ability to target more internet-connected devices and scale its network.
 Microsoft Threat Intelligence Center (MSTIC) is tracking the ongoing threat under the moniker DEV-1061, its designation for unknown, emerging, or developing activity clusters.
 Zerobot, first documented by Fortinet FortiGuard Labs earlier this month,]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hackers Breach Okta's GitHub Repositories, Steal Source Code]]></title>
-        <id>https://thehackernews.com/2022/12/hackers-breach-oktas-github.html</id>
-        <link href="https://thehackernews.com/2022/12/hackers-breach-oktas-github.html"/>
-        <updated>2022-12-22T03:49:00.000Z</updated>
-        <summary type="html"><![CDATA[Okta, a company that provides identity and access management services, disclosed on Wednesday that some of its source code repositories were accessed in an unauthorized manner earlier this month.
-"There is no impact to any customers, including any HIPAA, FedRAMP or DoD customers," the company said in a public statement. "No action is required by customers."
-The security event, which was first]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>

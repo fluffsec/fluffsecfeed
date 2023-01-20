@@ -219,6 +219,36 @@
       "siteUrl": "https://www.darkreading.com",
       "articles": [
         {
+          "id": "https://www.darkreading.com/ics-ot/critical-manufacturing-sector-in-the-bulls-eye",
+          "author": "Nathan Eddy, Contributing Writer, Dark Reading",
+          "description": "Serious security flaws go unpatched, and ransomware attacks increase against manufacturers.",
+          "link": "https://www.darkreading.com/ics-ot/critical-manufacturing-sector-in-the-bulls-eye",
+          "publishedOn": "2023-01-20T16:22:00.000Z",
+          "wordCount": 12286,
+          "title": "Critical Manufacturing Sector in the Bull's-eye",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltf8b5a94afa71c53a/628e3799daa31875dc0c9fc0/NathanEddyHeadshot.PNG",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltf8b5a94afa71c53a/628e3799daa31875dc0c9fc0/NathanEddyHeadshot.PNG"
+        },
+        {
+          "id": "https://www.darkreading.com/attacks-breaches/the-evolution-of-account-takeover-attacks-initial-access-brokers-for-iot",
+          "author": "Daniel dos Santos, Head of Security Research, Forescout's Vedere Labs",
+          "description": "Head off account takeover attacks by being proactive about IoT security. Start with designing and building better security protocols into IoT devices, always change weak default configurations, and regularly apply patches to ensure that IoT devices are secure.",
+          "link": "https://www.darkreading.com/attacks-breaches/the-evolution-of-account-takeover-attacks-initial-access-brokers-for-iot",
+          "publishedOn": "2023-01-20T15:00:00.000Z",
+          "wordCount": 14409,
+          "title": "The Evolution of Account Takeover Attacks: Initial Access Brokers for IoT",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt7e04a106c6b38c7c/63c7086fdca28d3974fb95fb/Daniel_dos_Santos_2022_headshot.jpg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt7e04a106c6b38c7c/63c7086fdca28d3974fb95fb/Daniel_dos_Santos_2022_headshot.jpg"
+        },
+        {
           "id": "https://www.darkreading.com/attacks-breaches/paypal-breach-exposed-pii-of-nearly-35k-accounts",
           "author": "Becky Bracken, Editor, Dark Reading",
           "description": "The credential-stuffing attack, likely fueled by password reuse, yielded personal identifiable information that can be used to verify the authenticity of previously stolen data.",
@@ -2747,6 +2777,36 @@
       "siteUrl": "https://blog.knowbe4.com",
       "articles": [
         {
+          "id": "https://blog.knowbe4.com/smbs-reprioritizing-cybersecurity-spending-to-combat-ransomware",
+          "author": "Stu Sjouwerman",
+          "description": "New data shows that SMBs can clearly see where they have cybersecurity issues and are taking great strides to put their devoted budget to security technology and services that actually have a chance at solving the problem!",
+          "link": "https://blog.knowbe4.com/smbs-reprioritizing-cybersecurity-spending-to-combat-ransomware",
+          "publishedOn": "2023-01-20T14:57:48.000Z",
+          "wordCount": 2310,
+          "title": "Ransomware Has SMBs Reprioritizing Their Cybersecurity Spending to Combat Attacks",
+          "imageUrl": "https://blog.knowbe4.com/hubfs/BEC%2c%20Fraud%2c%20and%20Ransomware.jpg#keepProtocol"
+        },
+        {
+          "id": "https://blog.knowbe4.com/cybersecurity-should-fear-ai-tools-like-chatgpt",
+          "author": "Stu Sjouwerman",
+          "description": "Malicious use of the text-based AI has already begun to be seen in the wild, and speculative ways attackers can use ChatGPT may spell temporary doom for cybersecurity solutions.",
+          "link": "https://blog.knowbe4.com/cybersecurity-should-fear-ai-tools-like-chatgpt",
+          "publishedOn": "2023-01-20T14:57:35.000Z",
+          "wordCount": 2384,
+          "title": "The Current State of Cybersecurity Should Fear AI Tools Like ChatGPT",
+          "imageUrl": "https://blog.knowbe4.com/hubfs/ChatGPT%20Social%20Engineering.jpg#keepProtocol"
+        },
+        {
+          "id": "https://blog.knowbe4.com/blank-image-attacks-impersonate-docusign",
+          "author": "Stu Sjouwerman",
+          "description": "An unusual phishing technique has surfaced this week. Avanan, a Check Point Software company, released a blog Thursday morning detailing a new attack in which hackers hide malicious content inside a blank image within an HTML attachment in phishing emails claiming to be from DocuSign.",
+          "link": "https://blog.knowbe4.com/blank-image-attacks-impersonate-docusign",
+          "publishedOn": "2023-01-20T13:59:19.000Z",
+          "wordCount": 2270,
+          "title": "Blank-Image Attacks Impersonate DocuSign",
+          "imageUrl": "https://blog.knowbe4.com/hubfs/Phishing%20Attacks%20Aimed%20at%20Social%20Accounts.jpg#keepProtocol"
+        },
+        {
           "id": "https://blog.knowbe4.com/eye-popper-ransomware-victims-refused-to-pay-last-year",
           "author": "Stu Sjouwerman",
           "description": "Finally some good news from the ransomware front!  Despite bad actors launching a number of ransomware campaigns throughout 2022, organizations refused to submit and paid criminals an estimated $456.8 million - 40% less than the astounding total of $765 million in ransom payments from 2020 and 2021.",
@@ -3203,6 +3263,38 @@
       "feedUrl": "https://thehackernews.com/feeds/posts/default",
       "siteUrl": "https://thehackernews.com",
       "articles": [
+        {
+          "id": "https://thehackernews.com/2023/01/roaming-mantis-spreading-mobile-malware.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Threat actors associated with the Roaming Mantis attack campaign have been observed delivering an updated variant of their patent mobile malware known as Wroba to infiltrate Wi-Fi routers and undertake Domain Name System (DNS) hijacking.\nKaspersky, which carried out an analysis of the malicious artifact, said the feature is designed to target specific Wi-Fi routers located in South Korea.",
+          "link": "https://thehackernews.com/2023/01/roaming-mantis-spreading-mobile-malware.html",
+          "publishedOn": "2023-01-20T16:33:00.000Z",
+          "wordCount": null,
+          "title": "Roaming Mantis Spreading Mobile Malware That Hijacks Wi-Fi Routers' DNS Settings",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiMaFWe4EaSSiU4iXIpLaHMiaSpY5aFKWh7tXxIZBEdu_gqZC9kl6y6VjUaMzneqGppCzITMkgkakZxTQJSpk2DulXQO4box7uGIgbZvsLKMBH9ZYOobhpHCHsY8k8_G_WzybyjN_-Sa6d6e_k6UwL0RfJc_cRaVBfwlSojpbp7gjF44muevXACUSM6/s1600/dns-hackng.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiMaFWe4EaSSiU4iXIpLaHMiaSpY5aFKWh7tXxIZBEdu_gqZC9kl6y6VjUaMzneqGppCzITMkgkakZxTQJSpk2DulXQO4box7uGIgbZvsLKMBH9ZYOobhpHCHsY8k8_G_WzybyjN_-Sa6d6e_k6UwL0RfJc_cRaVBfwlSojpbp7gjF44muevXACUSM6/s1600/dns-hackng.png"
+        },
+        {
+          "id": "https://thehackernews.com/2023/01/gamaredon-group-launches-cyberattacks.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "The Russian state-sponsored cyber espionage group known as Gamaredon has continued its digital onslaught against Ukraine, with recent attacks leveraging the popular messaging app Telegram to strike military and law enforcement sectors in the country.\n\"The Gamaredon group's network infrastructure relies on multi-stage Telegram accounts for victim profiling and confirmation of geographic location,",
+          "link": "https://thehackernews.com/2023/01/gamaredon-group-launches-cyberattacks.html",
+          "publishedOn": "2023-01-20T13:35:00.000Z",
+          "wordCount": null,
+          "title": "Gamaredon Group Launches Cyberattacks Against Ukraine Using Telegram",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEigo210ObqgRzhoJott_rD-W6PlRZjR69UbRkcBHHEg2MfpRZcAVhc9mU1yVKjY2lbSSVuIJZyQJa0xjL78pqdWmJL6kdHlqm9wGDNLBE-OQWtM1rDQlkySi8U2M4lAgQ7ZyJlIrFB-JI_p31bBlqc473rf-jIOi-xZXbz_r9VRDOgVy5kx_XjLuvNc/s1600/telegram.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEigo210ObqgRzhoJott_rD-W6PlRZjR69UbRkcBHHEg2MfpRZcAVhc9mU1yVKjY2lbSSVuIJZyQJa0xjL78pqdWmJL6kdHlqm9wGDNLBE-OQWtM1rDQlkySi8U2M4lAgQ7ZyJlIrFB-JI_p31bBlqc473rf-jIOi-xZXbz_r9VRDOgVy5kx_XjLuvNc/s1600/telegram.png"
+        },
         {
           "id": "https://thehackernews.com/2023/01/whatsapp-hit-with-55-million-fine-for.html",
           "author": "info@thehackernews.com (The Hacker News)",
@@ -4818,22 +4910,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJBWFmrxDwR-sAo4MkstpZDQPMwx9CZoJ7eLDVV609rJ4xJiILdXB44Dafb3PyCE5s1Ri5Jc6Llzv9ukmTvySwFasYUJzauu1SqYJD4QX8qdHtcags8wJ6WoS1OaLCpXFYDBlpYFLUOeVxWgCihNnpgduGTo73ZJBiJ51PZ5t2Rm9dyerH2fDCOxle/s1600/zero-bot.png"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJBWFmrxDwR-sAo4MkstpZDQPMwx9CZoJ7eLDVV609rJ4xJiILdXB44Dafb3PyCE5s1Ri5Jc6Llzv9ukmTvySwFasYUJzauu1SqYJD4QX8qdHtcags8wJ6WoS1OaLCpXFYDBlpYFLUOeVxWgCihNnpgduGTo73ZJBiJ51PZ5t2Rm9dyerH2fDCOxle/s1600/zero-bot.png"
-        },
-        {
-          "id": "https://thehackernews.com/2022/12/hackers-breach-oktas-github.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Okta, a company that provides identity and access management services, disclosed on Wednesday that some of its source code repositories were accessed in an unauthorized manner earlier this month.\n\"There is no impact to any customers, including any HIPAA, FedRAMP or DoD customers,\" the company said in a public statement. \"No action is required by customers.\"\nThe security event, which was first",
-          "link": "https://thehackernews.com/2022/12/hackers-breach-oktas-github.html",
-          "publishedOn": "2022-12-22T03:49:00.000Z",
-          "wordCount": null,
-          "title": "Hackers Breach Okta's GitHub Repositories, Steal Source Code",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilQfw7Jk21M4fiiZAuEJWrTtbH1iLYU0ZcHiBq9KpI0mShA5PVYxgQ43pxbsoRtFGgZYjLZKHYNxGNF_28fZRcbZuOen9Aw4c6SI9mwWl_6eEQ9lCEEVoIoYptj2peMV6b6BgzIR0wvKeU-eRl2Z6k5zuGvxAC3hoqkZYrCbaFtC9P9qbtlROd6COX/s1600/okta.png"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilQfw7Jk21M4fiiZAuEJWrTtbH1iLYU0ZcHiBq9KpI0mShA5PVYxgQ43pxbsoRtFGgZYjLZKHYNxGNF_28fZRcbZuOen9Aw4c6SI9mwWl_6eEQ9lCEEVoIoYptj2peMV6b6BgzIR0wvKeU-eRl2Z6k5zuGvxAC3hoqkZYrCbaFtC9P9qbtlROd6COX/s1600/okta.png"
         }
       ]
     }
