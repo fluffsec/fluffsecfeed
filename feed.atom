@@ -2,10 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-20T07:18:20.558Z</updated>
+    <updated>2023-01-20T13:26:40.932Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[WhatsApp Hit with €5.5 Million Fine for Violating Data Protection Laws]]></title>
+        <id>https://thehackernews.com/2023/01/whatsapp-hit-with-55-million-fine-for.html</id>
+        <link href="https://thehackernews.com/2023/01/whatsapp-hit-with-55-million-fine-for.html"/>
+        <updated>2023-01-20T12:57:00.000Z</updated>
+        <summary type="html"><![CDATA[The Irish Data Protection Commission (DPC) on Thursday imposed fresh fines of €5.5 million against Meta's WhatsApp for violating data protection laws when processing users' personal information.
+At the heart of the ruling is an update to the messaging platform's Terms of Service that was enforced in the days leading to the enforcement of the General Data Protection Regulation (GDPR) in May 2018,]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Eye Popper] Ransomware Victims Refused To Pay Last Year]]></title>
+        <id>https://blog.knowbe4.com/eye-popper-ransomware-victims-refused-to-pay-last-year</id>
+        <link href="https://blog.knowbe4.com/eye-popper-ransomware-victims-refused-to-pay-last-year"/>
+        <updated>2023-01-20T12:03:01.000Z</updated>
+        <summary type="html"><![CDATA[Finally some good news from the ransomware front!  Despite bad actors launching a number of ransomware campaigns throughout 2022, organizations refused to submit and paid criminals an estimated $456.8 million - 40% less than the astounding total of $765 million in ransom payments from 2020 and 2021.]]></summary>
+        <author>
+            <name>Stu Sjouwerman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chinese Hackers Exploited Recent Fortinet Flaw as 0-Day to Drop Malware]]></title>
+        <id>https://thehackernews.com/2023/01/new-chinese-malware-spotted-exploiting.html</id>
+        <link href="https://thehackernews.com/2023/01/new-chinese-malware-spotted-exploiting.html"/>
+        <updated>2023-01-20T06:59:00.000Z</updated>
+        <summary type="html"><![CDATA[A suspected China-nexus threat actor exploited a recently patched vulnerability in Fortinet FortiOS SSL-VPN as a zero-day in attacks targeting a European government entity and a managed service provider (MSP) located in Africa.
+Telemetry evidence gathered by Google-owned Mandiant indicates that the exploitation occurred as early as October 2022, at least nearly two months before fixes were]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[PayPal Breach Exposed PII of Nearly 35K Accounts]]></title>
         <id>https://www.darkreading.com/attacks-breaches/paypal-breach-exposed-pii-of-nearly-35k-accounts</id>
@@ -3675,55 +3707,6 @@ Zerobot, first documented by Fortinet FortiGuard Labs earlier this month,]]></
 The security event, which was first]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Supply Chain Risks Got You Down? Keep Calm and Get Strategic!]]></title>
-        <id>https://www.darkreading.com/risk/supply-chain-risks-got-you-down-keep-calm-and-get-strategic-</id>
-        <link href="https://www.darkreading.com/risk/supply-chain-risks-got-you-down-keep-calm-and-get-strategic-"/>
-        <updated>2022-12-21T22:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Security leaders must maintain an effective cybersecurity strategy to help filter some of the noise on new vulnerabilities.]]></summary>
-        <author>
-            <name>Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["How I lost my dog and almost my Google credentials..."]]></title>
-        <id>https://blog.knowbe4.com/how-i-lost-my-dog-and-almost-my-google-credentials</id>
-        <link href="https://blog.knowbe4.com/how-i-lost-my-dog-and-almost-my-google-credentials"/>
-        <updated>2022-12-21T21:45:48.000Z</updated>
-        <summary type="html"><![CDATA[A well-trained Knowster posted: "I lost my dog this weekend and my mother in law was trying to be helpful and put my real phone number on a few social media posts she made. Now im getting these kinds of texts and it’s heartbreaking to think someone else may have fallen for this!]]></summary>
-        <author>
-            <name>Stu Sjouwerman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ransomware Attackers Bypass Microsoft's ProxyNotShell Mitigations With Fresh Exploit]]></title>
-        <id>https://www.darkreading.com/application-security/ransomware-attackers-bypass-microsoft-mitigation-proxynotshell-exploit</id>
-        <link href="https://www.darkreading.com/application-security/ransomware-attackers-bypass-microsoft-mitigation-proxynotshell-exploit"/>
-        <updated>2022-12-21T20:45:00.000Z</updated>
-        <summary type="html"><![CDATA[The Play ransomware group was spotted exploiting another little-known SSRF bug to trigger RCE on affected Exchange servers.]]></summary>
-        <author>
-            <name>Jai Vijayan, Contributing Writer, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Heartland Alliance Provides Notice of Data Security Incident]]></title>
-        <id>https://www.darkreading.com/attacks-breaches/heartland-alliance-provides-notice-of-data-security-incident</id>
-        <link href="https://www.darkreading.com/attacks-breaches/heartland-alliance-provides-notice-of-data-security-incident"/>
-        <updated>2022-12-21T20:12:00.000Z</updated>
-        <author>
-            <name>Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Best Practices for Securing and Governing Your Multicloud Deployment]]></title>
-        <id>https://www.darkreading.com/zscaler/best-practices-for-securing-and-governing-your-multicloud-deployment</id>
-        <link href="https://www.darkreading.com/zscaler/best-practices-for-securing-and-governing-your-multicloud-deployment"/>
-        <updated>2022-12-21T20:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Organizations can start by integrating functions like detection, prioritization, and remediation on to a single platform.]]></summary>
-        <author>
-            <name>Rich Campagna, senior vice-president and general manager, CNAPP, Zscaler</name>
         </author>
     </entry>
     <entry>

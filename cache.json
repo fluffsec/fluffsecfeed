@@ -2672,56 +2672,6 @@
             "length": "0"
           },
           "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltbfd004d139d42d70/6303bca6236c2476a257760e/ElizabethMontalbano.jpg"
-        },
-        {
-          "id": "https://www.darkreading.com/risk/supply-chain-risks-got-you-down-keep-calm-and-get-strategic-",
-          "author": null,
-          "description": "Security leaders must maintain an effective cybersecurity strategy to help filter some of the noise on new vulnerabilities.",
-          "link": "https://www.darkreading.com/risk/supply-chain-risks-got-you-down-keep-calm-and-get-strategic-",
-          "publishedOn": "2022-12-21T22:00:00.000Z",
-          "wordCount": 13001,
-          "title": "Supply Chain Risks Got You Down? Keep Calm and Get Strategic!",
-          "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
-        },
-        {
-          "id": "https://www.darkreading.com/application-security/ransomware-attackers-bypass-microsoft-mitigation-proxynotshell-exploit",
-          "author": "Jai Vijayan, Contributing Writer, Dark Reading",
-          "description": "The Play ransomware group was spotted exploiting another little-known SSRF bug to trigger RCE on affected Exchange servers.",
-          "link": "https://www.darkreading.com/application-security/ransomware-attackers-bypass-microsoft-mitigation-proxynotshell-exploit",
-          "publishedOn": "2022-12-21T20:45:00.000Z",
-          "wordCount": 12075,
-          "title": "Ransomware Attackers Bypass Microsoft's ProxyNotShell Mitigations With Fresh Exploit",
-          "enclosure": {
-            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt02d79fb9a44a4258/60b1e9dd2a25046b35110696/Jai-Vijayan.jpeg",
-            "type": "image/*",
-            "length": "0"
-          },
-          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt02d79fb9a44a4258/60b1e9dd2a25046b35110696/Jai-Vijayan.jpeg"
-        },
-        {
-          "id": "https://www.darkreading.com/attacks-breaches/heartland-alliance-provides-notice-of-data-security-incident",
-          "author": null,
-          "description": "",
-          "link": "https://www.darkreading.com/attacks-breaches/heartland-alliance-provides-notice-of-data-security-incident",
-          "publishedOn": "2022-12-21T20:12:00.000Z",
-          "wordCount": 10669,
-          "title": "Heartland Alliance Provides Notice of Data Security Incident",
-          "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
-        },
-        {
-          "id": "https://www.darkreading.com/zscaler/best-practices-for-securing-and-governing-your-multicloud-deployment",
-          "author": "Rich Campagna, senior vice-president and general manager, CNAPP, Zscaler",
-          "description": "Organizations can start by integrating functions like detection, prioritization, and remediation on to a single platform.",
-          "link": "https://www.darkreading.com/zscaler/best-practices-for-securing-and-governing-your-multicloud-deployment",
-          "publishedOn": "2022-12-21T20:00:00.000Z",
-          "wordCount": 13096,
-          "title": "Best Practices for Securing and Governing Your Multicloud Deployment",
-          "enclosure": {
-            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt071ec6475383627e/637ab01ec162df49beaad71c/Zscaler_Rich_Campagna2.png",
-            "type": "image/*",
-            "length": "0"
-          },
-          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt071ec6475383627e/637ab01ec162df49beaad71c/Zscaler_Rich_Campagna2.png"
         }
       ]
     },
@@ -2796,6 +2746,16 @@
       "feedUrl": "https://blog.knowbe4.com/rss.xml",
       "siteUrl": "https://blog.knowbe4.com",
       "articles": [
+        {
+          "id": "https://blog.knowbe4.com/eye-popper-ransomware-victims-refused-to-pay-last-year",
+          "author": "Stu Sjouwerman",
+          "description": "Finally some good news from the ransomware front!  Despite bad actors launching a number of ransomware campaigns throughout 2022, organizations refused to submit and paid criminals an estimated $456.8 million - 40% less than the astounding total of $765 million in ransom payments from 2020 and 2021.",
+          "link": "https://blog.knowbe4.com/eye-popper-ransomware-victims-refused-to-pay-last-year",
+          "publishedOn": "2023-01-20T12:03:01.000Z",
+          "wordCount": 2286,
+          "title": "[Eye Popper] Ransomware Victims Refused To Pay Last Year",
+          "imageUrl": "https://blog.knowbe4.com/hubfs/Ransomware-payments-graphic-courtesy-chainalysis-1.png#keepProtocol"
+        },
         {
           "id": "https://blog.knowbe4.com/how-south-africas-largest-law-firm-was-fined-r5.5m-for-not-educating-customers",
           "author": "Javvad Malik",
@@ -3235,16 +3195,6 @@
           "wordCount": 2331,
           "title": "Spear Phishing Campaign Targets Japanese Political Organizations",
           "imageUrl": "https://blog.knowbe4.com/hubfs/Spear%20Phishing%20Campaign%20Targets.jpg#keepProtocol"
-        },
-        {
-          "id": "https://blog.knowbe4.com/how-i-lost-my-dog-and-almost-my-google-credentials",
-          "author": "Stu Sjouwerman",
-          "description": "A well-trained Knowster posted: \"I lost my dog this weekend and my mother in law was trying to be helpful and put my real phone number on a few social media posts she made. Now im getting these kinds of texts and it’s heartbreaking to think someone else may have fallen for this!",
-          "link": "https://blog.knowbe4.com/how-i-lost-my-dog-and-almost-my-google-credentials",
-          "publishedOn": "2022-12-21T21:45:48.000Z",
-          "wordCount": 2174,
-          "title": "\"How I lost my dog and almost my Google credentials...\"",
-          "imageUrl": "https://blog.knowbe4.com/hubfs/DOG-2.jpg#keepProtocol"
         }
       ]
     },
@@ -3253,6 +3203,38 @@
       "feedUrl": "https://thehackernews.com/feeds/posts/default",
       "siteUrl": "https://thehackernews.com",
       "articles": [
+        {
+          "id": "https://thehackernews.com/2023/01/whatsapp-hit-with-55-million-fine-for.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "The Irish Data Protection Commission (DPC) on Thursday imposed fresh fines of €5.5 million against Meta's WhatsApp for violating data protection laws when processing users' personal information.\nAt the heart of the ruling is an update to the messaging platform's Terms of Service that was enforced in the days leading to the enforcement of the General Data Protection Regulation (GDPR) in May 2018,",
+          "link": "https://thehackernews.com/2023/01/whatsapp-hit-with-55-million-fine-for.html",
+          "publishedOn": "2023-01-20T12:57:00.000Z",
+          "wordCount": null,
+          "title": "WhatsApp Hit with €5.5 Million Fine for Violating Data Protection Laws",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRz4kDVm5VaETLiETLTj3VvmC3_5X6o5i5Cq9Iddg42Pa1B25uupzm6Yg01u8QzAJ5YC0GXVafkSdmjIMEXlnIuC4tdfsQmrhLXA2AXHxZPuHZsChKdL33rKCjpyG11Dc8TFW02L9vDCYjivXMR_TBrNEhTV_zLv44GoKgZb4bKpITZlALiRRRarn9/s1600/whatsapp-lock.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRz4kDVm5VaETLiETLTj3VvmC3_5X6o5i5Cq9Iddg42Pa1B25uupzm6Yg01u8QzAJ5YC0GXVafkSdmjIMEXlnIuC4tdfsQmrhLXA2AXHxZPuHZsChKdL33rKCjpyG11Dc8TFW02L9vDCYjivXMR_TBrNEhTV_zLv44GoKgZb4bKpITZlALiRRRarn9/s1600/whatsapp-lock.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2023/01/new-chinese-malware-spotted-exploiting.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "A suspected China-nexus threat actor exploited a recently patched vulnerability in Fortinet FortiOS SSL-VPN as a zero-day in attacks targeting a European government entity and a managed service provider (MSP) located in Africa.\nTelemetry evidence gathered by Google-owned Mandiant indicates that the exploitation occurred as early as October 2022, at least nearly two months before fixes were",
+          "link": "https://thehackernews.com/2023/01/new-chinese-malware-spotted-exploiting.html",
+          "publishedOn": "2023-01-20T06:59:00.000Z",
+          "wordCount": null,
+          "title": "Chinese Hackers Exploited Recent Fortinet Flaw as 0-Day to Drop Malware",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-E0mhwa5_OHdJ62OqBYhcaxkuoi-moj81nNUrh0UOHJm386L3icUjGFOdSwXXB8d6udDpJXF2qZ8ienmnlKXK5qhuXOFxIlrwxWBvS7CKVtpVf64tcE9ctXMah_LO0O0cMCPChY0E8fULbKDbHT0wBXgn8hxsqNAZJVEy-doG5sB9Vphm_v2ZHoBF/s1600/malware-attack.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-E0mhwa5_OHdJ62OqBYhcaxkuoi-moj81nNUrh0UOHJm386L3icUjGFOdSwXXB8d6udDpJXF2qZ8ienmnlKXK5qhuXOFxIlrwxWBvS7CKVtpVf64tcE9ctXMah_LO0O0cMCPChY0E8fULbKDbHT0wBXgn8hxsqNAZJVEy-doG5sB9Vphm_v2ZHoBF/s1600/malware-attack.png"
+        },
         {
           "id": "https://thehackernews.com/2023/01/new-microsoft-azure-vulnerability.html",
           "author": "info@thehackernews.com (The Hacker News)",
