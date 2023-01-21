@@ -12,6 +12,26 @@
       "siteUrl": "https://us-cert.cisa.gov/",
       "articles": [
         {
+          "id": "18296 at https://us-cert.cisa.gov",
+          "author": "CISA",
+          "description": "Original release date: January 20, 2023\nDrupal has released security advisories to address vulnerabilities affecting multiple products. An attacker could exploit these vulnerabilities to access sensitive information.\nCISA encourages users and administrators to review Drupal’s security advisories SA-CORE-2023-001, SA-CONTRIB-2023-002, SA-CONTRIB-2023-003, and SA-CONTRIB-2023-004 and apply the necessary updates.\nThis product is provided subject to this Notification and this Privacy & Use policy.",
+          "link": "https://us-cert.cisa.gov/ncas/current-activity/2023/01/20/drupal-releases-security-advisories-address-multiple",
+          "publishedOn": "2023-01-20T22:30:30.000Z",
+          "wordCount": 945,
+          "title": "Drupal Releases Security Advisories to Address Multiple Vulnerabilities",
+          "imageUrl": null
+        },
+        {
+          "id": "18295 at https://us-cert.cisa.gov",
+          "author": "CISA",
+          "description": "Original release date: January 20, 2023\nCisco released a security advisory for a vulnerability affecting Cisco Unified Communications Manager (Unified CM) and Cisco Unified Communications Manager Session Management Edition (Unified CM SME). A remote attacker could exploit this vulnerability to cause a denial-of-service condition. For updates addressing lower severity vulnerabilities, see the Cisco Security Advisories page.\nCISA encourages users and administrators to review the advisories and apply the necessary updates.\nThis product is provided subject to this Notification and this Privacy & Use policy.",
+          "link": "https://us-cert.cisa.gov/ncas/current-activity/2023/01/20/cisco-releases-security-advisory-unified-cm-and-unified-cm-sme",
+          "publishedOn": "2023-01-20T19:58:12.000Z",
+          "wordCount": 977,
+          "title": "Cisco Releases Security Advisory for Unified CM and Unified CM SME",
+          "imageUrl": null
+        },
+        {
           "id": "18294 at https://us-cert.cisa.gov",
           "author": "CISA",
           "description": "Original release date: January 19, 2023\nCISA released one Industrial Control Systems (ICS) advisory on January 19, 2023. This advisory provides timely information about current security issues, vulnerabilities, and exploits surrounding ICS.\nCISA encourages users and administrators to review the newly released ICS advisory for technical details and mitigations:\nICSA-23-019-01 Hitachi Energy PCU400\nThis product is provided subject to this Notification and this Privacy & Use policy.",
@@ -218,6 +238,66 @@
       "feedUrl": "https://www.darkreading.com/rss.xml",
       "siteUrl": "https://www.darkreading.com",
       "articles": [
+        {
+          "id": "https://www.darkreading.com/attacks-breaches/t-mobile-breached-again-exposing-37m-customers-data",
+          "author": "Becky Bracken, Editor, Dark Reading",
+          "description": "This time around, weak API security allowed a threat actor to access account information, the mobile phone giant reported.",
+          "link": "https://www.darkreading.com/attacks-breaches/t-mobile-breached-again-exposing-37m-customers-data",
+          "publishedOn": "2023-01-20T21:37:22.000Z",
+          "wordCount": 13160,
+          "title": "T-Mobile Breached Again, This Time Exposing 37M Customers' Data",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt8e7bd143d726930b/627271268681151716941064/BeckyB.jpg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt8e7bd143d726930b/627271268681151716941064/BeckyB.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/attacks-breaches/ransomware-profits-decline-victims-refuse-pay",
+          "author": "Jai Vijayan, Contributing Writer, Dark Reading",
+          "description": "Two new reports show ransomware revenues for threat actors dropped sharply in 2022 as more victims ignored ransom demands.",
+          "link": "https://www.darkreading.com/attacks-breaches/ransomware-profits-decline-victims-refuse-pay",
+          "publishedOn": "2023-01-20T21:18:04.000Z",
+          "wordCount": 16043,
+          "title": "Ransomware Profits Decline as Victims Dig In, Refuse to Pay",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt02d79fb9a44a4258/60b1e9dd2a25046b35110696/Jai-Vijayan.jpeg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt02d79fb9a44a4258/60b1e9dd2a25046b35110696/Jai-Vijayan.jpeg"
+        },
+        {
+          "id": "https://www.darkreading.com/application-security/compromised-zendesk-employee-credentials-breach",
+          "author": "Becky Bracken, Editor, Dark Reading",
+          "description": "Zendesk has alerted customers to a successful SMS phishing campaign that has exposed \"service data,\" but details remain scarce.",
+          "link": "https://www.darkreading.com/application-security/compromised-zendesk-employee-credentials-breach",
+          "publishedOn": "2023-01-20T21:10:26.000Z",
+          "wordCount": 11970,
+          "title": "Compromised Zendesk Employee Credentials Lead to Breach",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt8e7bd143d726930b/627271268681151716941064/BeckyB.jpg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt8e7bd143d726930b/627271268681151716941064/BeckyB.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/dr-tech/gpt-emerges-ai-tech-security-vendors",
+          "author": "Fahmida Y. Rashid, Managing Editor, Features, Dark Reading",
+          "description": "Orca Security is one of the companies integrating conversational AI technology into its products.",
+          "link": "https://www.darkreading.com/dr-tech/gpt-emerges-ai-tech-security-vendors",
+          "publishedOn": "2023-01-20T21:00:00.000Z",
+          "wordCount": 13805,
+          "title": "GPT Emerges as Key AI Tech for Security Vendors",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt93784ffee79538e7/60d4371522d24e38a3806ecf/fahmida.png",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt93784ffee79538e7/60d4371522d24e38a3806ecf/fahmida.png"
+        },
         {
           "id": "https://www.darkreading.com/ics-ot/critical-manufacturing-sector-in-the-bulls-eye",
           "author": "Nathan Eddy, Contributing Writer, Dark Reading",
@@ -2687,21 +2767,6 @@
             "length": "0"
           },
           "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltf8639682290475f4/63909fe0892ed9117ab61be4/Reuven_(Rubi)_Aronashvili_-_CYE_Founder_CEO_(Credit_Courtesy).png"
-        },
-        {
-          "id": "https://www.darkreading.com/threat-intelligence/zerobot-adds-brute-force-ddos-iot-attack-arsenal",
-          "author": "Elizabeth Montalbano, Contributor, Dark Reading",
-          "description": "Threat actors continue to evolve the malicious botnet, which has also added a list of new vulnerabilities it can use to target devices.",
-          "link": "https://www.darkreading.com/threat-intelligence/zerobot-adds-brute-force-ddos-iot-attack-arsenal",
-          "publishedOn": "2022-12-22T14:03:02.000Z",
-          "wordCount": 13435,
-          "title": "Zerobot Adds Brute Force, DDoS to Its IoT Attack Arsenal",
-          "enclosure": {
-            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltbfd004d139d42d70/6303bca6236c2476a257760e/ElizabethMontalbano.jpg",
-            "type": "image/*",
-            "length": "0"
-          },
-          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltbfd004d139d42d70/6303bca6236c2476a257760e/ElizabethMontalbano.jpg"
         }
       ]
     },
@@ -4830,86 +4895,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCTdxbQKamrLeVc8hOKLC92sJOQ58eChoyDPWiw2hlEPTuoWmCxQ34r8VEIAQ_2djIHM4_TUUWcuV46iloiI94oT2Zi6KYfs9SWDRzZjvw6708AY3Jh8S_Bx1UFHAZ08As4A3KCe4j-mGRRRx9iwnAOwMZWF_aRI0FmMaqgFdmTYG6WFoDI0qjxaCQ/s1600/lastpass.png"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCTdxbQKamrLeVc8hOKLC92sJOQ58eChoyDPWiw2hlEPTuoWmCxQ34r8VEIAQ_2djIHM4_TUUWcuV46iloiI94oT2Zi6KYfs9SWDRzZjvw6708AY3Jh8S_Bx1UFHAZ08As4A3KCe4j-mGRRRx9iwnAOwMZWF_aRI0FmMaqgFdmTYG6WFoDI0qjxaCQ/s1600/lastpass.png"
-        },
-        {
-          "id": "https://thehackernews.com/2022/12/fin7-cybercrime-syndicate-emerges-as.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "An exhaustive analysis of FIN7 has unmasked the cybercrime syndicate's organizational hierarchy, alongside unraveling its role as an affiliate for mounting ransomware attacks.\nIt has also exposed deeper associations between the group and the larger threat ecosystem comprising the now-defunct ransomware DarkSide, REvil, and LockBit families.\nThe highly active threat group, also known as Carbanak,",
-          "link": "https://thehackernews.com/2022/12/fin7-cybercrime-syndicate-emerges-as.html",
-          "publishedOn": "2022-12-22T13:13:00.000Z",
-          "wordCount": null,
-          "title": "FIN7 Cybercrime Syndicate Emerges as Major Player in Ransomware Landscape",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgu9YKd02vdFX9q7nH_mj_COAplqIClED8G3-bIqGZfD9uEAVx2YkW4pnR4oTHEKnrj9qtpM11W6mYLnGXvGxEt9IFdVd2PCh0jnop8BOe_IT_acIv-VKs3Q-JjeXkZPvJplINEolBZljwID-Ev26al_uOtbkyFHFd7atp9dyswl66CcZIVuWykjyr6wg/s1600/cyber.png"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgu9YKd02vdFX9q7nH_mj_COAplqIClED8G3-bIqGZfD9uEAVx2YkW4pnR4oTHEKnrj9qtpM11W6mYLnGXvGxEt9IFdVd2PCh0jnop8BOe_IT_acIv-VKs3Q-JjeXkZPvJplINEolBZljwID-Ev26al_uOtbkyFHFd7atp9dyswl66CcZIVuWykjyr6wg/s1600/cyber.png"
-        },
-        {
-          "id": "https://thehackernews.com/2022/12/the-era-of-cyber-threat-intelligence.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "We spent forty years defending ourselves as individuals. Trying to outsmart cybercriminals, outpower them, and when all our efforts failed, only then we considered banding together with our peers to outnumber them.\nCybercriminals don't reinvent themselves each time. Their resources are limited, and they have a limited budget. Therefore they use playbooks to attack many people. Meaning most of",
-          "link": "https://thehackernews.com/2022/12/the-era-of-cyber-threat-intelligence.html",
-          "publishedOn": "2022-12-22T12:39:00.000Z",
-          "wordCount": null,
-          "title": "The Era of Cyber Threat Intelligence Sharing",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg6TXiukTztUNl4dkKVwjBxTj-9gRMQqhzh3uB6v-njsmgPBTXr0cF02ZiuMjUWMJJbNE-Ih1XjGIagwNV89HiOCPZ_HvKLzo4j-TNcnjTyd_m-nMe6TFa66zB-YKhO8NoZ6EEeYtPv-cmt1p2kqDaFMok72FRwBkazZUzMt1YUM7t2i95GxJy8tN8y/s1600/cyberthreat.png"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg6TXiukTztUNl4dkKVwjBxTj-9gRMQqhzh3uB6v-njsmgPBTXr0cF02ZiuMjUWMJJbNE-Ih1XjGIagwNV89HiOCPZ_HvKLzo4j-TNcnjTyd_m-nMe6TFa66zB-YKhO8NoZ6EEeYtPv-cmt1p2kqDaFMok72FRwBkazZUzMt1YUM7t2i95GxJy8tN8y/s1600/cyberthreat.png"
-        },
-        {
-          "id": "https://thehackernews.com/2022/12/critical-security-flaw-reported-in.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Multiple high-severity vulnerabilities have been disclosed in Passwordstate password management solution that could be exploited by an unauthenticated remote adversary to obtain a user's plaintext passwords.\n\"Successful exploitation allows an unauthenticated attacker to exfiltrate passwords from an instance, overwrite all stored passwords within the database, or elevate their privileges within",
-          "link": "https://thehackernews.com/2022/12/critical-security-flaw-reported-in.html",
-          "publishedOn": "2022-12-22T12:02:00.000Z",
-          "wordCount": null,
-          "title": "Critical Security Flaw Reported in Passwordstate Enterprise Password Manager",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjgaCPSyzY1sDKD4a7YhOzTAgtYpKNWPslbv5UVX9ifToFSw6NPnkzcrmeIxV6p7oBgq8t5VrQ3NCGrRLgf5f3i1cAtzhkzd2_FsikfJSuyjjXl_H4yYSokSGVgBG-0anRNF7noeYvaTXopcxriyrle5Hc2iDIh87tPQ0HKgwz80loYsR3rmzTDtJp3ow/s1600/password.png"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjgaCPSyzY1sDKD4a7YhOzTAgtYpKNWPslbv5UVX9ifToFSw6NPnkzcrmeIxV6p7oBgq8t5VrQ3NCGrRLgf5f3i1cAtzhkzd2_FsikfJSuyjjXl_H4yYSokSGVgBG-0anRNF7noeYvaTXopcxriyrle5Hc2iDIh87tPQ0HKgwz80loYsR3rmzTDtJp3ow/s1600/password.png"
-        },
-        {
-          "id": "https://thehackernews.com/2022/12/two-new-security-flaws-reported-in.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Cybersecurity researchers have detailed two security flaws in the JavaScript-based blogging platform known as Ghost, one of which could be abused to elevate privileges via specially crafted HTTP requests.\nTracked as CVE-2022-41654 (CVSS score: 8.5), the authentication bypass vulnerability that allows unprivileged users (i.e., members) to make unauthorized modifications to newsletter settings.",
-          "link": "https://thehackernews.com/2022/12/two-new-security-flaws-reported-in.html",
-          "publishedOn": "2022-12-22T10:09:00.000Z",
-          "wordCount": null,
-          "title": "Two New Security Flaws Reported in Ghost CMS Blogging Software",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhFGDCfmj2ulxTT_aOBhz1mYaybmVN0KDOnq2eJZdz0u9KeNeTxlZPsxnMzLRzo60NfSgiBCDoMJ86HwXjm4fDdSNbl7Ev8odE88_oHB-YkUg_dAIT2ZGZpLF2ldEXcj2OEKJdJ3BTT8o5Dek52yZUMUXQ_vsPd40onj2zT7zhBJeDxAKkZR6lz6nXh/s1600/ghostcms.png"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhFGDCfmj2ulxTT_aOBhz1mYaybmVN0KDOnq2eJZdz0u9KeNeTxlZPsxnMzLRzo60NfSgiBCDoMJ86HwXjm4fDdSNbl7Ev8odE88_oHB-YkUg_dAIT2ZGZpLF2ldEXcj2OEKJdJ3BTT8o5Dek52yZUMUXQ_vsPd40onj2zT7zhBJeDxAKkZR6lz6nXh/s1600/ghostcms.png"
-        },
-        {
-          "id": "https://thehackernews.com/2022/12/zerobot-botnet-emerges-as-growing.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "The Zerobot DDoS botnet has received substantial updates that expand on its ability to target more internet-connected devices and scale its network.\nMicrosoft Threat Intelligence Center (MSTIC) is tracking the ongoing threat under the moniker DEV-1061, its designation for unknown, emerging, or developing activity clusters.\nZerobot, first documented by Fortinet FortiGuard Labs earlier this month,",
-          "link": "https://thehackernews.com/2022/12/zerobot-botnet-emerges-as-growing.html",
-          "publishedOn": "2022-12-22T09:39:00.000Z",
-          "wordCount": null,
-          "title": "Zerobot Botnet Emerges as a Growing Threat with New Exploits and Capabilities",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJBWFmrxDwR-sAo4MkstpZDQPMwx9CZoJ7eLDVV609rJ4xJiILdXB44Dafb3PyCE5s1Ri5Jc6Llzv9ukmTvySwFasYUJzauu1SqYJD4QX8qdHtcags8wJ6WoS1OaLCpXFYDBlpYFLUOeVxWgCihNnpgduGTo73ZJBiJ51PZ5t2Rm9dyerH2fDCOxle/s1600/zero-bot.png"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJBWFmrxDwR-sAo4MkstpZDQPMwx9CZoJ7eLDVV609rJ4xJiILdXB44Dafb3PyCE5s1Ri5Jc6Llzv9ukmTvySwFasYUJzauu1SqYJD4QX8qdHtcags8wJ6WoS1OaLCpXFYDBlpYFLUOeVxWgCihNnpgduGTo73ZJBiJ51PZ5t2Rm9dyerH2fDCOxle/s1600/zero-bot.png"
         }
       ]
     }

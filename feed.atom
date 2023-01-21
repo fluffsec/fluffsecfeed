@@ -2,10 +2,76 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-20T19:16:27.877Z</updated>
+    <updated>2023-01-21T02:16:57.072Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Drupal Releases Security Advisories to Address Multiple Vulnerabilities]]></title>
+        <id>18296 at https://us-cert.cisa.gov</id>
+        <link href="https://us-cert.cisa.gov/ncas/current-activity/2023/01/20/drupal-releases-security-advisories-address-multiple"/>
+        <updated>2023-01-20T22:30:30.000Z</updated>
+        <summary type="html"><![CDATA[Original release date: January 20, 2023
+Drupal has released security advisories to address vulnerabilities affecting multiple products. An attacker could exploit these vulnerabilities to access sensitive information.
+CISA encourages users and administrators to review Drupal’s security advisories SA-CORE-2023-001, SA-CONTRIB-2023-002, SA-CONTRIB-2023-003, and SA-CONTRIB-2023-004 and apply the necessary updates.
+This product is provided subject to this Notification and this Privacy & Use policy.]]></summary>
+        <author>
+            <name>CISA</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[T-Mobile Breached Again, This Time Exposing 37M Customers' Data]]></title>
+        <id>https://www.darkreading.com/attacks-breaches/t-mobile-breached-again-exposing-37m-customers-data</id>
+        <link href="https://www.darkreading.com/attacks-breaches/t-mobile-breached-again-exposing-37m-customers-data"/>
+        <updated>2023-01-20T21:37:22.000Z</updated>
+        <summary type="html"><![CDATA[This time around, weak API security allowed a threat actor to access account information, the mobile phone giant reported.]]></summary>
+        <author>
+            <name>Becky Bracken, Editor, Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ransomware Profits Decline as Victims Dig In, Refuse to Pay]]></title>
+        <id>https://www.darkreading.com/attacks-breaches/ransomware-profits-decline-victims-refuse-pay</id>
+        <link href="https://www.darkreading.com/attacks-breaches/ransomware-profits-decline-victims-refuse-pay"/>
+        <updated>2023-01-20T21:18:04.000Z</updated>
+        <summary type="html"><![CDATA[Two new reports show ransomware revenues for threat actors dropped sharply in 2022 as more victims ignored ransom demands.]]></summary>
+        <author>
+            <name>Jai Vijayan, Contributing Writer, Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Compromised Zendesk Employee Credentials Lead to Breach]]></title>
+        <id>https://www.darkreading.com/application-security/compromised-zendesk-employee-credentials-breach</id>
+        <link href="https://www.darkreading.com/application-security/compromised-zendesk-employee-credentials-breach"/>
+        <updated>2023-01-20T21:10:26.000Z</updated>
+        <summary type="html"><![CDATA[Zendesk has alerted customers to a successful SMS phishing campaign that has exposed "service data," but details remain scarce.]]></summary>
+        <author>
+            <name>Becky Bracken, Editor, Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GPT Emerges as Key AI Tech for Security Vendors]]></title>
+        <id>https://www.darkreading.com/dr-tech/gpt-emerges-ai-tech-security-vendors</id>
+        <link href="https://www.darkreading.com/dr-tech/gpt-emerges-ai-tech-security-vendors"/>
+        <updated>2023-01-20T21:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Orca Security is one of the companies integrating conversational AI technology into its products.]]></summary>
+        <author>
+            <name>Fahmida Y. Rashid, Managing Editor, Features, Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cisco Releases Security Advisory for Unified CM and Unified CM SME]]></title>
+        <id>18295 at https://us-cert.cisa.gov</id>
+        <link href="https://us-cert.cisa.gov/ncas/current-activity/2023/01/20/cisco-releases-security-advisory-unified-cm-and-unified-cm-sme"/>
+        <updated>2023-01-20T19:58:12.000Z</updated>
+        <summary type="html"><![CDATA[Original release date: January 20, 2023
+Cisco released a security advisory for a vulnerability affecting Cisco Unified Communications Manager (Unified CM) and Cisco Unified Communications Manager Session Management Edition (Unified CM SME). A remote attacker could exploit this vulnerability to cause a denial-of-service condition. For updates addressing lower severity vulnerabilities, see the Cisco Security Advisories page.
+CISA encourages users and administrators to review the advisories and apply the necessary updates.
+This product is provided subject to this Notification and this Privacy & Use policy.]]></summary>
+        <author>
+            <name>CISA</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Roaming Mantis Spreading Mobile Malware That Hijacks Wi-Fi Routers' DNS Settings]]></title>
         <id>https://thehackernews.com/2023/01/roaming-mantis-spreading-mobile-malware.html</id>
@@ -3700,73 +3766,6 @@ This product is provided subject to this Notification and this Privacy & Use pol
         <summary type="html"><![CDATA[Researchers at ESET warn that a Chinese-speaking threat actor dubbed “MirrorFace” targeted Japanese political organizations with spear phishing emails in the run-up to the Japanese House of Councillors election in July 2022.]]></summary>
         <author>
             <name>Stu Sjouwerman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Zerobot Adds Brute Force, DDoS to Its IoT Attack Arsenal]]></title>
-        <id>https://www.darkreading.com/threat-intelligence/zerobot-adds-brute-force-ddos-iot-attack-arsenal</id>
-        <link href="https://www.darkreading.com/threat-intelligence/zerobot-adds-brute-force-ddos-iot-attack-arsenal"/>
-        <updated>2022-12-22T14:03:02.000Z</updated>
-        <summary type="html"><![CDATA[Threat actors continue to evolve the malicious botnet, which has also added a list of new vulnerabilities it can use to target devices.]]></summary>
-        <author>
-            <name>Elizabeth Montalbano, Contributor, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FIN7 Cybercrime Syndicate Emerges as Major Player in Ransomware Landscape]]></title>
-        <id>https://thehackernews.com/2022/12/fin7-cybercrime-syndicate-emerges-as.html</id>
-        <link href="https://thehackernews.com/2022/12/fin7-cybercrime-syndicate-emerges-as.html"/>
-        <updated>2022-12-22T13:13:00.000Z</updated>
-        <summary type="html"><![CDATA[An exhaustive analysis of FIN7 has unmasked the cybercrime syndicate's organizational hierarchy, alongside unraveling its role as an affiliate for mounting ransomware attacks.
-It has also exposed deeper associations between the group and the larger threat ecosystem comprising the now-defunct ransomware DarkSide, REvil, and LockBit families.
-The highly active threat group, also known as Carbanak,]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Era of Cyber Threat Intelligence Sharing]]></title>
-        <id>https://thehackernews.com/2022/12/the-era-of-cyber-threat-intelligence.html</id>
-        <link href="https://thehackernews.com/2022/12/the-era-of-cyber-threat-intelligence.html"/>
-        <updated>2022-12-22T12:39:00.000Z</updated>
-        <summary type="html"><![CDATA[We spent forty years defending ourselves as individuals. Trying to outsmart cybercriminals, outpower them, and when all our efforts failed, only then we considered banding together with our peers to outnumber them.
-Cybercriminals don't reinvent themselves each time. Their resources are limited, and they have a limited budget. Therefore they use playbooks to attack many people. Meaning most of]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Critical Security Flaw Reported in Passwordstate Enterprise Password Manager]]></title>
-        <id>https://thehackernews.com/2022/12/critical-security-flaw-reported-in.html</id>
-        <link href="https://thehackernews.com/2022/12/critical-security-flaw-reported-in.html"/>
-        <updated>2022-12-22T12:02:00.000Z</updated>
-        <summary type="html"><![CDATA[Multiple high-severity vulnerabilities have been disclosed in Passwordstate password management solution that could be exploited by an unauthenticated remote adversary to obtain a user's plaintext passwords.
-"Successful exploitation allows an unauthenticated attacker to exfiltrate passwords from an instance, overwrite all stored passwords within the database, or elevate their privileges within]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Two New Security Flaws Reported in Ghost CMS Blogging Software]]></title>
-        <id>https://thehackernews.com/2022/12/two-new-security-flaws-reported-in.html</id>
-        <link href="https://thehackernews.com/2022/12/two-new-security-flaws-reported-in.html"/>
-        <updated>2022-12-22T10:09:00.000Z</updated>
-        <summary type="html"><![CDATA[Cybersecurity researchers have detailed two security flaws in the JavaScript-based blogging platform known as Ghost, one of which could be abused to elevate privileges via specially crafted HTTP requests.
-Tracked as CVE-2022-41654 (CVSS score: 8.5), the authentication bypass vulnerability that allows unprivileged users (i.e., members) to make unauthorized modifications to newsletter settings.]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Zerobot Botnet Emerges as a Growing Threat with New Exploits and Capabilities]]></title>
-        <id>https://thehackernews.com/2022/12/zerobot-botnet-emerges-as-growing.html</id>
-        <link href="https://thehackernews.com/2022/12/zerobot-botnet-emerges-as-growing.html"/>
-        <updated>2022-12-22T09:39:00.000Z</updated>
-        <summary type="html"><![CDATA[The Zerobot DDoS botnet has received substantial updates that expand on its ability to target more internet-connected devices and scale its network.
-Microsoft Threat Intelligence Center (MSTIC) is tracking the ongoing threat under the moniker DEV-1061, its designation for unknown, emerging, or developing activity clusters.
-Zerobot, first documented by Fortinet FortiGuard Labs earlier this month,]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
         </author>
     </entry>
     <entry>
