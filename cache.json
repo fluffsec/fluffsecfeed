@@ -12,6 +12,16 @@
       "siteUrl": "https://us-cert.cisa.gov/",
       "articles": [
         {
+          "id": "18298 at https://us-cert.cisa.gov",
+          "author": "CISA",
+          "description": "Original release date: January 23, 2023\nCISA has added one new vulnerability to its Known Exploited Vulnerabilities Catalog, based on evidence of active exploitation. This type of vulnerability is a frequent attack vector for malicious cyber actors and poses a significant risk to the federal enterprise. Note: To view the newly added vulnerabilities in the catalog, click on the arrow in the \"Date Added to Catalog\" column, which will sort by descending dates.\nBinding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the Known Exploited Vulnerabilities Catalog as a living list of known CVEs that carry significant risk to the federal enterprise. BOD 22-01 requires FCEB agencies to remediate identified vulnerabilities by the due date to protect FCEB networks against active threats. See the BOD 22-01 Fact Sheet for more information.\nAlthough BOD 22-01 only applies to FCEB agencies, CISA strongly urges all organizations to reduce their exposure to cyberattacks by prioritizing timely remediation of Catalog vulnerabilities as part of their vulnerability management practice. CISA will continue to add vulnerabilities to the Catalog that meet the specified criteria. \nThis product is provided subject to this Notification and this Privacy & Use policy.",
+          "link": "https://us-cert.cisa.gov/ncas/current-activity/2023/01/23/cisa-adds-one-known-exploited-vulnerability-catalog",
+          "publishedOn": "2023-01-23T16:23:00.000Z",
+          "wordCount": 1081,
+          "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+          "imageUrl": null
+        },
+        {
           "id": "18296 at https://us-cert.cisa.gov",
           "author": "CISA",
           "description": "Original release date: January 20, 2023\nDrupal has released security advisories to address vulnerabilities affecting multiple products. An attacker could exploit these vulnerabilities to access sensitive information.\nCISA encourages users and administrators to review Drupal’s security advisories SA-CORE-2023-001, SA-CONTRIB-2023-002, SA-CONTRIB-2023-003, and SA-CONTRIB-2023-004 and apply the necessary updates.\nThis product is provided subject to this Notification and this Privacy & Use policy.",
@@ -228,6 +238,81 @@
       "feedUrl": "https://www.darkreading.com/rss.xml",
       "siteUrl": "https://www.darkreading.com",
       "articles": [
+        {
+          "id": "https://www.darkreading.com/application-security/fanduel-sportsbook-bettors-exposed-in-mailchimp-breach",
+          "author": "Dark Reading Staff, Dark Reading",
+          "description": "Amid all the NFL playoff action, FanDuel has sent an email warning to gamblers that their data was exposed in its third-party breach, putting them at risk for phishing attacks.",
+          "link": "https://www.darkreading.com/application-security/fanduel-sportsbook-bettors-exposed-in-mailchimp-breach",
+          "publishedOn": "2023-01-23T17:48:00.000Z",
+          "wordCount": 12247,
+          "title": "FanDuel Sportsbook Bettors Exposed in Mailchimp Breach",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blte161b23f0fd3a84b/60b1ea374e7eb868c4c6a293/dr_staff_125x125.jpg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blte161b23f0fd3a84b/60b1ea374e7eb868c4c6a293/dr_staff_125x125.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/edge-articles/no-one-wants-to-be-governed-everyone-wants-to-be-helped",
+          "author": "Michael Bargury, CTO & Co-Founder, Zenity",
+          "description": "Here's how a security team can present itself to citizen developers as a valuable resource rather than a bureaucratic roadblock.",
+          "link": "https://www.darkreading.com/edge-articles/no-one-wants-to-be-governed-everyone-wants-to-be-helped",
+          "publishedOn": "2023-01-23T17:32:00.000Z",
+          "wordCount": 14784,
+          "title": "No One Wants to Be Governed, Everyone Wants to Be Helped",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt88c0ce1b9ac54b6e/6197abd85da8f858d58cdb06/Michael_Bargury_zenity.jpg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt88c0ce1b9ac54b6e/6197abd85da8f858d58cdb06/Michael_Bargury_zenity.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/threat-intelligence/hunting-insider-threats-on-the-dark-web",
+          "author": "Jim Simpson, Director of Threat Intelligence, Searchlight Cyber",
+          "description": "Use threat intelligence to reduce chance of success for malicious insider and Dark Web threats.",
+          "link": "https://www.darkreading.com/threat-intelligence/hunting-insider-threats-on-the-dark-web",
+          "publishedOn": "2023-01-23T15:00:00.000Z",
+          "wordCount": 14602,
+          "title": "Hunting Insider Threats on the Dark Web",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt40de7c344a503110/63c17ccc446ecf3973074108/JimSimpson.jpg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt40de7c344a503110/63c17ccc446ecf3973074108/JimSimpson.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/operations/gartner-predicts-10-of-large-enterprises-will-have-a-mature-and-measurable-zero-trust-program-in-place-by-2026",
+          "author": null,
+          "description": "",
+          "link": "https://www.darkreading.com/operations/gartner-predicts-10-of-large-enterprises-will-have-a-mature-and-measurable-zero-trust-program-in-place-by-2026",
+          "publishedOn": "2023-01-23T15:00:00.000Z",
+          "wordCount": 13643,
+          "title": "Gartner Predicts 10% of Large Enterprises Will Have a Mature and Measurable Zero-Trust Program in Place by 2026",
+          "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/remote-workforce/cybersecurity-worries-around-hybrid-working-drop-but-many-it-leaders-still-concerned-over-cyber-skills-gap",
+          "author": null,
+          "description": "S-RM reports show that cybersecurity concerns surrounding hybrid work prevail for 37% of organizations.",
+          "link": "https://www.darkreading.com/remote-workforce/cybersecurity-worries-around-hybrid-working-drop-but-many-it-leaders-still-concerned-over-cyber-skills-gap",
+          "publishedOn": "2023-01-23T14:50:00.000Z",
+          "wordCount": 13005,
+          "title": "Cybersecurity Worries Around Hybrid Working Drop, but Many IT Leaders Still Concerned Over Cyber-Skills Gap",
+          "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/vulnerabilities-threats/supply-chain-security-global-market-report-2022-sector-to-reach-3-5-billion-by-2027-at-an-11-cagr",
+          "author": null,
+          "description": "",
+          "link": "https://www.darkreading.com/vulnerabilities-threats/supply-chain-security-global-market-report-2022-sector-to-reach-3-5-billion-by-2027-at-an-11-cagr",
+          "publishedOn": "2023-01-23T14:23:00.000Z",
+          "wordCount": 12980,
+          "title": "Supply Chain Security Global Market Report 2022: Sector to Reach $3.5 Billion by 2027 at an 11% CAGR",
+          "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
+        },
         {
           "id": "https://www.darkreading.com/attacks-breaches/t-mobile-breached-again-exposing-37m-customers-data",
           "author": "Becky Bracken, Editor, Dark Reading",
