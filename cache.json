@@ -2566,7 +2566,28 @@
       "title": "Public KB",
       "feedUrl": "https://kb.pulsesecure.net/pkb_RSS?q=Pulse_Security_Advisories__kav;10",
       "siteUrl": "https://kb.pulsesecure.net/?q=Pulse_Security_Advisories__kav%3B10&l=en_US",
-      "articles": []
+      "articles": [
+        {
+          "id": "OpenSSL-Security-Advisory-CVE-2022-2588",
+          "author": null,
+          "description": "",
+          "link": "https://kb.pulsesecure.net/articles/Pulse_Security_Advisories/OpenSSL-Security-Advisory-CVE-2022-2588",
+          "publishedOn": "2023-01-23T03:40:37.000Z",
+          "wordCount": 3365,
+          "title": "SA45609 - OpenSSL Security Advisory CVE-2022-2588",
+          "imageUrl": null
+        },
+        {
+          "id": "OpenSSL-Security-Advisory-CVE-2021-4154",
+          "author": null,
+          "description": "",
+          "link": "https://kb.pulsesecure.net/articles/Pulse_Security_Advisories/OpenSSL-Security-Advisory-CVE-2021-4154",
+          "publishedOn": "2023-01-23T03:38:14.000Z",
+          "wordCount": 3340,
+          "title": "SA45470 - OpenSSL Security Advisory CVE-2021-4154",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "Microsoft Security Response Center",
@@ -3073,6 +3094,22 @@
       "feedUrl": "https://thehackernews.com/feeds/posts/default",
       "siteUrl": "https://thehackernews.com",
       "articles": [
+        {
+          "id": "https://thehackernews.com/2023/01/massive-ad-fraud-scheme-targeted-over.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Researchers have shut down an \"expansive\" ad fraud scheme that spoofed more than 1,700 applications from 120 publishers and impacted roughly 11 million devices. \n\"VASTFLUX was a malvertising attack that injected malicious JavaScript code into digital ad creatives, allowing the fraudsters to stack numerous invisible video ad players behind one another and register ad views,\" fraud prevention firm",
+          "link": "https://thehackernews.com/2023/01/massive-ad-fraud-scheme-targeted-over.html",
+          "publishedOn": "2023-01-23T06:35:00.000Z",
+          "wordCount": null,
+          "title": "Massive Ad Fraud Scheme Targeted Over 11 Million Devices with 1,700 Spoofed Apps",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-aXXZ4ZhMnxWjWAK1ON1hdUiGzwXdIYm3-1DJnXHjgQxpyqWz_0e60cA3kF0x5otQzKkrPAKeXa_92r6BUEH4Cgs5mV52f3p_mLaa0gBlfwT0Mx9qne5QObc8MiY_0Bl0-HcDgqzEV_DgFroeUqI_ArNwTETkhugXomFggxKcC-yH6U0zCEVi92ev/s1600/ads.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-aXXZ4ZhMnxWjWAK1ON1hdUiGzwXdIYm3-1DJnXHjgQxpyqWz_0e60cA3kF0x5otQzKkrPAKeXa_92r6BUEH4Cgs5mV52f3p_mLaa0gBlfwT0Mx9qne5QObc8MiY_0Bl0-HcDgqzEV_DgFroeUqI_ArNwTETkhugXomFggxKcC-yH6U0zCEVi92ev/s1600/ads.png"
+        },
         {
           "id": "https://thehackernews.com/2023/01/roaming-mantis-spreading-mobile-malware.html",
           "author": "info@thehackernews.com (The Hacker News)",
