@@ -2,10 +2,179 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-25T13:25:09.476Z</updated>
+    <updated>2023-01-25T19:16:03.569Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Do Not Get Fooled Twice: Mailchimp's Latest Breach Raises Alarm Bells – Protect Yourself Now!]]></title>
+        <id>https://blog.knowbe4.com/mailchimps-latest-breach-raises-alarm-bells</id>
+        <link href="https://blog.knowbe4.com/mailchimps-latest-breach-raises-alarm-bells"/>
+        <updated>2023-01-25T18:23:12.000Z</updated>
+        <summary type="html"><![CDATA[For the second time in less than a year, Mailchimp has found itself in a precarious situation, having to admit that it has been breached. It appears that a social engineering attack tricked Mailchimp employees and contractors into giving up their login credentials, which were then used to access 133 Mailchimp accounts.]]></summary>
+        <author>
+            <name>Javvad Malik</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CISA, NSA, and MS-ISAC Release Advisory on the Malicious Use of RMM Software]]></title>
+        <id>18305 at https://us-cert.cisa.gov</id>
+        <link href="https://us-cert.cisa.gov/ncas/current-activity/2023/01/25/cisa-nsa-and-ms-isac-release-advisory-malicious-use-rmm-software"/>
+        <updated>2023-01-25T18:02:00.000Z</updated>
+        <summary type="html"><![CDATA[Original release date: January 25, 2023
+Today, the Cybersecurity and Infrastructure Security Agency (CISA), the National Security Agency (NSA), and the Multi-State Information Sharing and Analysis Center (MS-ISAC) released joint Cybersecurity Advisory (CSA) Protecting Against Malicious Use of Remote Monitoring and Management Software. The advisory describes a phishing scam in which cyber threat actors maliciously use legitimate remote monitoring and management (RMM) software to steal money from victim bank accounts.
+CISA encourages network defenders to review the advisory for indicators of compromise, best practices, and recommended mitigations, which highlights the threat of additional types of malicious activity using RMM, including its use as a backdoor for persistence and/or command and control (C2).
+This product is provided subject to this Notification and this Privacy & Use policy.]]></summary>
+        <author>
+            <name>CISA</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Log4j Vulnerabilities Are Here to Stay — Are You Prepared?]]></title>
+        <id>https://www.darkreading.com/attacks-breaches/log4j-vulnerabilities-are-here-to-stay-are-you-prepared-</id>
+        <link href="https://www.darkreading.com/attacks-breaches/log4j-vulnerabilities-are-here-to-stay-are-you-prepared-"/>
+        <updated>2023-01-25T18:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Don't make perfect the enemy of good in vulnerability management. Context is key — prioritize vulnerabilities that are actually exploitable. Act quickly if the vulnerability is on a potential attack path to a critical asset.]]></summary>
+        <author>
+            <name>Zur Ulianitzky, Head of Security Research, XM Cyber</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AA23-025A: Protecting Against Malicious Use of Remote Monitoring and Management Software]]></title>
+        <id>18304 at https://us-cert.cisa.gov</id>
+        <link href="https://us-cert.cisa.gov/ncas/alerts/aa23-025a"/>
+        <updated>2023-01-25T17:55:00.000Z</updated>
+        <summary type="html"><![CDATA[Original release date: January 25, 2023
+Summary
+The Cybersecurity and Infrastructure Security Agency (CISA), National Security Agency (NSA), and Multi-State Information Sharing and Analysis Center (MS-ISAC) (hereafter referred to as the “authoring organizations”) are releasing this joint Cybersecurity Advisory (CSA) to warn network defenders about malicious use of legitimate remote monitoring and management (RMM) software. In October 2022, CISA identified a widespread cyber campaign involving the malicious use of legitimate RMM software. Specifically, cyber criminal actors sent phishing emails that led to the download of legitimate RMM software—ScreenConnect (now ConnectWise Control) and AnyDesk—which the actors used in a refund scam to steal money from victim bank accounts.
+Although this …]]></summary>
+        <author>
+            <name>CISA</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[North Korea's Top APT Swindled $1B From Crypto Investors in 2022]]></title>
+        <id>https://www.darkreading.com/remote-workforce/north-korea-apt-swindled-1b-crypto-investors-2022</id>
+        <link href="https://www.darkreading.com/remote-workforce/north-korea-apt-swindled-1b-crypto-investors-2022"/>
+        <updated>2023-01-25T17:45:00.000Z</updated>
+        <summary type="html"><![CDATA[The DPRK has turned crypto scams into big business to replenish its depleted state coffers.]]></summary>
+        <author>
+            <name>Nate Nelson, Contributing Writer, Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Multicloud Security Challenges Will Persist in 2023]]></title>
+        <id>https://www.darkreading.com/zscaler/multicloud-security-challenges-will-persist-in-2023</id>
+        <link href="https://www.darkreading.com/zscaler/multicloud-security-challenges-will-persist-in-2023"/>
+        <updated>2023-01-25T17:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Some predictions about impending security challenges, with a few tips for proactively addressing them.]]></summary>
+        <author>
+            <name>Rich Campagna, Senior Vice President and General Manager, CNAPP, Zscaler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[VMware Releases Security Updates for VMware vRealize Log Insight]]></title>
+        <id>18306 at https://us-cert.cisa.gov</id>
+        <link href="https://us-cert.cisa.gov/ncas/current-activity/2023/01/25/vmware-releases-security-updates-vmware-vrealize-log-insight"/>
+        <updated>2023-01-25T16:42:34.000Z</updated>
+        <summary type="html"><![CDATA[Original release date: January 25, 2023
+VMware released security updates to address multiple vulnerabilities in VMware vRealize Log Insight. A remote attacker could exploit these vulnerabilities to take control of an affected system.
+CISA encourages users and administrators to review VMware Security Advisory VMSA-2023-0001 and apply the necessary updates.
+This product is provided subject to this Notification and this Privacy & Use policy.]]></summary>
+        <author>
+            <name>CISA</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ThreatConnect Extends Threat Intelligence Platform to Enable Threat Intelligence Operations (TI Ops)]]></title>
+        <id>https://www.darkreading.com/threat-intelligence/threatconnect-extends-threat-intelligence-platform-to-enable-threat-intelligence-operations-ti-ops-</id>
+        <link href="https://www.darkreading.com/threat-intelligence/threatconnect-extends-threat-intelligence-platform-to-enable-threat-intelligence-operations-ti-ops-"/>
+        <updated>2023-01-25T16:22:00.000Z</updated>
+        <author>
+            <name>Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BD Publishes 2022 Cybersecurity Annual Report]]></title>
+        <id>https://www.darkreading.com/attacks-breaches/bd-publishes-2022-cybersecurity-annual-report</id>
+        <link href="https://www.darkreading.com/attacks-breaches/bd-publishes-2022-cybersecurity-annual-report"/>
+        <updated>2023-01-25T16:15:00.000Z</updated>
+        <author>
+            <name>Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Over 4,500 WordPress Sites Hacked to Redirect Visitors to Sketchy Ad Pages]]></title>
+        <id>https://thehackernews.com/2023/01/over-4500-wordpress-sites-hacked-to.html</id>
+        <link href="https://thehackernews.com/2023/01/over-4500-wordpress-sites-hacked-to.html"/>
+        <updated>2023-01-25T16:11:00.000Z</updated>
+        <summary type="html"><![CDATA[A massive campaign has infected over 4,500 WordPress websites as part of a long-running operation that's been believed to be active since at least 2017.
+According to GoDaddy-owned Sucuri, the infections involve the injection of obfuscated JavaScript hosted on a malicious domain named "track[.]violetlovelines[.]com" that's designed to redirect visitors to unwanted sites.
+The latest operation is]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cybersecurity Budgets Increase for Retail & Hospitality Industry]]></title>
+        <id>https://www.darkreading.com/attacks-breaches/cybersecurity-budgets-increase-for-retail-hospitality-industry</id>
+        <link href="https://www.darkreading.com/attacks-breaches/cybersecurity-budgets-increase-for-retail-hospitality-industry"/>
+        <updated>2023-01-25T16:10:00.000Z</updated>
+        <summary type="html"><![CDATA[Despite economic headwinds and layoffs in other areas, most retail and hospitality CISOs expect to add staff in 2023, according to a new report.]]></summary>
+        <author>
+            <name>Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Security Masterminds] Breaking It Down to Bits & Bytes: Analyzing Malware To Understand the Cybercriminal]]></title>
+        <id>https://blog.knowbe4.com/security-masterminds-analyzing-malware-to-understand-the-cybercriminal</id>
+        <link href="https://blog.knowbe4.com/security-masterminds-analyzing-malware-to-understand-the-cybercriminal"/>
+        <updated>2023-01-25T15:50:54.000Z</updated>
+        <summary type="html"><![CDATA[In our latest episode of Security Masterminds, we have the pleasure of interviewing Roger Grimes, Data-Driven Defense Evangelist for KnowBe4, who has held various roles throughout his career. In the episode, Roger discusses his early days of malware disassembly, the trials and tribulations of public speaking, and his magnum opus, his book about data-driven defense.]]></summary>
+        <author>
+            <name>James McQuiggan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Phishing Campaign Impersonates Japanese Rail Company]]></title>
+        <id>https://blog.knowbe4.com/phishing-campaign-impersonates-japanese-rail-company</id>
+        <link href="https://blog.knowbe4.com/phishing-campaign-impersonates-japanese-rail-company"/>
+        <updated>2023-01-25T15:49:17.000Z</updated>
+        <summary type="html"><![CDATA[Researchers at Safeguard Cyber describe a phishing campaign that’s posing as a Japanese rail ticket reservation company.]]></summary>
+        <author>
+            <name>Stu Sjouwerman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BlackBerry's Inaugural Quarterly Threat Intelligence Report Reveals Threat Actors Launch One Malicious Threat Every Minute]]></title>
+        <id>https://www.darkreading.com/attacks-breaches/blackberry-s-inaugural-quarterly-threat-intelligence-report-reveals-threat-actors-launch-one-malicious-threat-every-minute</id>
+        <link href="https://www.darkreading.com/attacks-breaches/blackberry-s-inaugural-quarterly-threat-intelligence-report-reveals-threat-actors-launch-one-malicious-threat-every-minute"/>
+        <updated>2023-01-25T15:38:00.000Z</updated>
+        <summary type="html"><![CDATA[Report identifies 1.75m cyberattacks were stopped by BlackBerry in the last 90 days.]]></summary>
+        <author>
+            <name>Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Can't Fill Open Positions? Rewrite Your Minimum Requirements]]></title>
+        <id>https://www.darkreading.com/operations/can-t-fill-open-positions-rewrite-your-minimum-requirements</id>
+        <link href="https://www.darkreading.com/operations/can-t-fill-open-positions-rewrite-your-minimum-requirements"/>
+        <updated>2023-01-25T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[If you or your company can't find good infosec candidates, consider changing up the qualifications to find more nontraditional talent.]]></summary>
+        <author>
+            <name>Robin Hicks, Manager, Assurance and Advisory, Technology, Cox Enterprises</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Definitive Browser Security Checklist]]></title>
+        <id>https://thehackernews.com/2023/01/the-definitive-browser-security.html</id>
+        <link href="https://thehackernews.com/2023/01/the-definitive-browser-security.html"/>
+        <updated>2023-01-25T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Security stakeholders have come to realize that the prominent role the browser has in the modern corporate environment requires a re-evaluation of how it is managed and protected. While not long-ago web-borne risks were still addressed by a patchwork of endpoint, network, and cloud solutions, it is now clear that the partial protection these solutions provided is no longer sufficient. Therefore,]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[North Korean Hackers Turn to Credential Harvesting in Latest Wave of Cyberattacks]]></title>
         <id>https://thehackernews.com/2023/01/north-korean-hackers-turn-to-credential.html</id>
@@ -3944,17 +4113,6 @@ This includes the use of optical disk image (.ISO extension) and virtual hard di
         <summary type="html"><![CDATA[A variety of initiatives — such as memory-safe languages and software bills of materials — promise more secure applications, but sustained improvements will require that vendors do much better, researchers agree.]]></summary>
         <author>
             <name>Robert Lemos, Contributing Writer, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Facebook to Pay $725 Million to settle Lawsuit Over Cambridge Analytica Data Leak]]></title>
-        <id>https://thehackernews.com/2022/12/facebook-to-pay-725-million-to-settle.html</id>
-        <link href="https://thehackernews.com/2022/12/facebook-to-pay-725-million-to-settle.html"/>
-        <updated>2022-12-27T06:18:00.000Z</updated>
-        <summary type="html"><![CDATA[Meta Platforms, the parent company of Facebook, Instagram, and WhatsApp, has agreed to pay $725 million to settle a long-running class-action lawsuit filed in 2018.
-The legal dispute sprang up in response to revelations that the social media giant allowed third-party apps such as those, including Cambridge Analytica to access users' personal information without their consent for political]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
         </author>
     </entry>
     <entry>

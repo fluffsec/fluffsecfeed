@@ -4,13 +4,44 @@
       "title": "CISA Alerts",
       "feedUrl": "https://us-cert.cisa.gov/ncas/alerts.xml",
       "siteUrl": "https://us-cert.cisa.gov/",
-      "articles": []
+      "articles": [
+        {
+          "id": "18304 at https://us-cert.cisa.gov",
+          "author": "CISA",
+          "description": "Original release date: January 25, 2023\nSummary\nThe Cybersecurity and Infrastructure Security Agency (CISA), National Security Agency (NSA), and Multi-State Information Sharing and Analysis Center (MS-ISAC) (hereafter referred to as the “authoring organizations”) are releasing this joint Cybersecurity Advisory (CSA) to warn network defenders about malicious use of legitimate remote monitoring and management (RMM) software. In October 2022, CISA identified a widespread cyber campaign involving the malicious use of legitimate RMM software. Specifically, cyber criminal actors sent phishing emails that led to the download of legitimate RMM software—ScreenConnect (now ConnectWise Control) and AnyDesk—which the actors used in a refund scam to steal money from victim bank accounts.\nAlthough this …",
+          "link": "https://us-cert.cisa.gov/ncas/alerts/aa23-025a",
+          "publishedOn": "2023-01-25T17:55:00.000Z",
+          "wordCount": 2478,
+          "title": "AA23-025A: Protecting Against Malicious Use of Remote Monitoring and Management Software",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "CISA Current Activity",
       "feedUrl": "https://us-cert.cisa.gov/ncas/current-activity.xml",
       "siteUrl": "https://us-cert.cisa.gov/",
       "articles": [
+        {
+          "id": "18305 at https://us-cert.cisa.gov",
+          "author": "CISA",
+          "description": "Original release date: January 25, 2023\nToday, the Cybersecurity and Infrastructure Security Agency (CISA), the National Security Agency (NSA), and the Multi-State Information Sharing and Analysis Center (MS-ISAC) released joint Cybersecurity Advisory (CSA) Protecting Against Malicious Use of Remote Monitoring and Management Software. The advisory describes a phishing scam in which cyber threat actors maliciously use legitimate remote monitoring and management (RMM) software to steal money from victim bank accounts.\nCISA encourages network defenders to review the advisory for indicators of compromise, best practices, and recommended mitigations, which highlights the threat of additional types of malicious activity using RMM, including its use as a backdoor for persistence and/or command and control (C2).\nThis product is provided subject to this Notification and this Privacy & Use policy.",
+          "link": "https://us-cert.cisa.gov/ncas/current-activity/2023/01/25/cisa-nsa-and-ms-isac-release-advisory-malicious-use-rmm-software",
+          "publishedOn": "2023-01-25T18:02:00.000Z",
+          "wordCount": 1023,
+          "title": "CISA, NSA, and MS-ISAC Release Advisory on the Malicious Use of RMM Software",
+          "imageUrl": null
+        },
+        {
+          "id": "18306 at https://us-cert.cisa.gov",
+          "author": "CISA",
+          "description": "Original release date: January 25, 2023\nVMware released security updates to address multiple vulnerabilities in VMware vRealize Log Insight. A remote attacker could exploit these vulnerabilities to take control of an affected system.\nCISA encourages users and administrators to review VMware Security Advisory VMSA-2023-0001 and apply the necessary updates.\nThis product is provided subject to this Notification and this Privacy & Use policy.",
+          "link": "https://us-cert.cisa.gov/ncas/current-activity/2023/01/25/vmware-releases-security-updates-vmware-vrealize-log-insight",
+          "publishedOn": "2023-01-25T16:42:34.000Z",
+          "wordCount": 948,
+          "title": "VMware Releases Security Updates for VMware vRealize Log Insight",
+          "imageUrl": null
+        },
         {
           "id": "18303 at https://us-cert.cisa.gov",
           "author": "CISA",
@@ -268,6 +299,106 @@
       "feedUrl": "https://www.darkreading.com/rss.xml",
       "siteUrl": "https://www.darkreading.com",
       "articles": [
+        {
+          "id": "https://www.darkreading.com/attacks-breaches/log4j-vulnerabilities-are-here-to-stay-are-you-prepared-",
+          "author": "Zur Ulianitzky, Head of Security Research, XM Cyber",
+          "description": "Don't make perfect the enemy of good in vulnerability management. Context is key — prioritize vulnerabilities that are actually exploitable. Act quickly if the vulnerability is on a potential attack path to a critical asset.",
+          "link": "https://www.darkreading.com/attacks-breaches/log4j-vulnerabilities-are-here-to-stay-are-you-prepared-",
+          "publishedOn": "2023-01-25T18:00:00.000Z",
+          "wordCount": 14938,
+          "title": "Log4j Vulnerabilities Are Here to Stay — Are You Prepared?",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt14458dd350a3bf9c/63a5e4c15b37da1ce63c98cb/Zur-Ulianitzky.jpg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt14458dd350a3bf9c/63a5e4c15b37da1ce63c98cb/Zur-Ulianitzky.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/remote-workforce/north-korea-apt-swindled-1b-crypto-investors-2022",
+          "author": "Nate Nelson, Contributing Writer, Dark Reading",
+          "description": "The DPRK has turned crypto scams into big business to replenish its depleted state coffers.",
+          "link": "https://www.darkreading.com/remote-workforce/north-korea-apt-swindled-1b-crypto-investors-2022",
+          "publishedOn": "2023-01-25T17:45:00.000Z",
+          "wordCount": 13927,
+          "title": "North Korea's Top APT Swindled $1B From Crypto Investors in 2022",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt91e5f91ce3f0cdd9/63d0288ac98dbe55ece1d0a9/Nate-Nelson_(1).jpg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt91e5f91ce3f0cdd9/63d0288ac98dbe55ece1d0a9/Nate-Nelson_(1).jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/zscaler/multicloud-security-challenges-will-persist-in-2023",
+          "author": "Rich Campagna, Senior Vice President and General Manager, CNAPP, Zscaler",
+          "description": "Some predictions about impending security challenges, with a few tips for proactively addressing them.",
+          "link": "https://www.darkreading.com/zscaler/multicloud-security-challenges-will-persist-in-2023",
+          "publishedOn": "2023-01-25T17:00:00.000Z",
+          "wordCount": 14197,
+          "title": "Multicloud Security Challenges Will Persist in 2023",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt071ec6475383627e/637ab01ec162df49beaad71c/Zscaler_Rich_Campagna2.png",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt071ec6475383627e/637ab01ec162df49beaad71c/Zscaler_Rich_Campagna2.png"
+        },
+        {
+          "id": "https://www.darkreading.com/threat-intelligence/threatconnect-extends-threat-intelligence-platform-to-enable-threat-intelligence-operations-ti-ops-",
+          "author": null,
+          "description": "",
+          "link": "https://www.darkreading.com/threat-intelligence/threatconnect-extends-threat-intelligence-platform-to-enable-threat-intelligence-operations-ti-ops-",
+          "publishedOn": "2023-01-25T16:22:00.000Z",
+          "wordCount": 13633,
+          "title": "ThreatConnect Extends Threat Intelligence Platform to Enable Threat Intelligence Operations (TI Ops)",
+          "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/attacks-breaches/bd-publishes-2022-cybersecurity-annual-report",
+          "author": null,
+          "description": "",
+          "link": "https://www.darkreading.com/attacks-breaches/bd-publishes-2022-cybersecurity-annual-report",
+          "publishedOn": "2023-01-25T16:15:00.000Z",
+          "wordCount": 12877,
+          "title": "BD Publishes 2022 Cybersecurity Annual Report",
+          "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/attacks-breaches/cybersecurity-budgets-increase-for-retail-hospitality-industry",
+          "author": null,
+          "description": "Despite economic headwinds and layoffs in other areas, most retail and hospitality CISOs expect to add staff in 2023, according to a new report.",
+          "link": "https://www.darkreading.com/attacks-breaches/cybersecurity-budgets-increase-for-retail-hospitality-industry",
+          "publishedOn": "2023-01-25T16:10:00.000Z",
+          "wordCount": 12867,
+          "title": "Cybersecurity Budgets Increase for Retail & Hospitality Industry",
+          "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/attacks-breaches/blackberry-s-inaugural-quarterly-threat-intelligence-report-reveals-threat-actors-launch-one-malicious-threat-every-minute",
+          "author": null,
+          "description": "Report identifies 1.75m cyberattacks were stopped by BlackBerry in the last 90 days.",
+          "link": "https://www.darkreading.com/attacks-breaches/blackberry-s-inaugural-quarterly-threat-intelligence-report-reveals-threat-actors-launch-one-malicious-threat-every-minute",
+          "publishedOn": "2023-01-25T15:38:00.000Z",
+          "wordCount": 13864,
+          "title": "BlackBerry's Inaugural Quarterly Threat Intelligence Report Reveals Threat Actors Launch One Malicious Threat Every Minute",
+          "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/operations/can-t-fill-open-positions-rewrite-your-minimum-requirements",
+          "author": "Robin Hicks, Manager, Assurance and Advisory, Technology, Cox Enterprises",
+          "description": "If you or your company can't find good infosec candidates, consider changing up the qualifications to find more nontraditional talent.",
+          "link": "https://www.darkreading.com/operations/can-t-fill-open-positions-rewrite-your-minimum-requirements",
+          "publishedOn": "2023-01-25T15:00:00.000Z",
+          "wordCount": 14660,
+          "title": "Can't Fill Open Positions? Rewrite Your Minimum Requirements",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt77f93e14c73f6e7e/63c01491f0c8344d202d0847/R_Hicks.jpg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt77f93e14c73f6e7e/63c01491f0c8344d202d0847/R_Hicks.jpg"
+        },
         {
           "id": "https://www.darkreading.com/dr-tech/skyhawk-security-launches-multicloud-runtime-threat-detection-and-response-platform",
           "author": "Dark Reading Staff, Dark Reading",
@@ -2983,6 +3114,36 @@
       "siteUrl": "https://blog.knowbe4.com",
       "articles": [
         {
+          "id": "https://blog.knowbe4.com/mailchimps-latest-breach-raises-alarm-bells",
+          "author": "Javvad Malik",
+          "description": "For the second time in less than a year, Mailchimp has found itself in a precarious situation, having to admit that it has been breached. It appears that a social engineering attack tricked Mailchimp employees and contractors into giving up their login credentials, which were then used to access 133 Mailchimp accounts.",
+          "link": "https://blog.knowbe4.com/mailchimps-latest-breach-raises-alarm-bells",
+          "publishedOn": "2023-01-25T18:23:12.000Z",
+          "wordCount": 2330,
+          "title": "Do Not Get Fooled Twice: Mailchimp's Latest Breach Raises Alarm Bells – Protect Yourself Now!",
+          "imageUrl": "https://blog.knowbe4.com/hubfs/Social%20Image%20Repository/Evangelist%20Blog%20Social%20Graphics/Evangelists-Javvad%20Malik.jpg#keepProtocol"
+        },
+        {
+          "id": "https://blog.knowbe4.com/security-masterminds-analyzing-malware-to-understand-the-cybercriminal",
+          "author": "James McQuiggan",
+          "description": "In our latest episode of Security Masterminds, we have the pleasure of interviewing Roger Grimes, Data-Driven Defense Evangelist for KnowBe4, who has held various roles throughout his career. In the episode, Roger discusses his early days of malware disassembly, the trials and tribulations of public speaking, and his magnum opus, his book about data-driven defense.",
+          "link": "https://blog.knowbe4.com/security-masterminds-analyzing-malware-to-understand-the-cybercriminal",
+          "publishedOn": "2023-01-25T15:50:54.000Z",
+          "wordCount": 2448,
+          "title": "[Security Masterminds] Breaking It Down to Bits & Bytes: Analyzing Malware To Understand the Cybercriminal",
+          "imageUrl": "https://blog.knowbe4.com/hubfs/Screen%20Shot%202023-01-25%20at%209.40.35%20AM.png#keepProtocol"
+        },
+        {
+          "id": "https://blog.knowbe4.com/phishing-campaign-impersonates-japanese-rail-company",
+          "author": "Stu Sjouwerman",
+          "description": "Researchers at Safeguard Cyber describe a phishing campaign that’s posing as a Japanese rail ticket reservation company.",
+          "link": "https://blog.knowbe4.com/phishing-campaign-impersonates-japanese-rail-company",
+          "publishedOn": "2023-01-25T15:49:17.000Z",
+          "wordCount": 2238,
+          "title": "Phishing Campaign Impersonates Japanese Rail Company",
+          "imageUrl": "https://blog.knowbe4.com/hubfs/Phishing%20French%20Government.jpg#keepProtocol"
+        },
+        {
           "id": "https://blog.knowbe4.com/2022-report-confirms-business-related-phishing-emails-trend-infographic",
           "author": "Stu Sjouwerman",
           "description": "KnowBe4's latest reports on top-clicked phishing email subjects have been released for 2022 and Q4 2022. We analyze 'in the wild' attacks reported via our Phish Alert Button, top subjects globally clicked on in phishing tests, top attack vector types, and holiday email phishing subjects.",
@@ -3469,6 +3630,38 @@
       "feedUrl": "https://thehackernews.com/feeds/posts/default",
       "siteUrl": "https://thehackernews.com",
       "articles": [
+        {
+          "id": "https://thehackernews.com/2023/01/over-4500-wordpress-sites-hacked-to.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "A massive campaign has infected over 4,500 WordPress websites as part of a long-running operation that's been believed to be active since at least 2017.\nAccording to GoDaddy-owned Sucuri, the infections involve the injection of obfuscated JavaScript hosted on a malicious domain named \"track[.]violetlovelines[.]com\" that's designed to redirect visitors to unwanted sites.\nThe latest operation is",
+          "link": "https://thehackernews.com/2023/01/over-4500-wordpress-sites-hacked-to.html",
+          "publishedOn": "2023-01-25T16:11:00.000Z",
+          "wordCount": null,
+          "title": "Over 4,500 WordPress Sites Hacked to Redirect Visitors to Sketchy Ad Pages",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh6fbefyc6Sxt_01sChOycIIV18-08HOOFB8_JIHP7sKJ8nK45QvCXJotwyz-8DQdSzHQ7wrTzVf594F_W9yYz6F62qNlkluPPEKAY0jwhx_Eik068Vc-XAm9mbJsTKBrRZXnC6ZCbSg1VBTsuZ1VtNfgNTpAOsxb_C9BC3p4LdqLhFiBjNSSboA-k0/s1600/wordpress.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh6fbefyc6Sxt_01sChOycIIV18-08HOOFB8_JIHP7sKJ8nK45QvCXJotwyz-8DQdSzHQ7wrTzVf594F_W9yYz6F62qNlkluPPEKAY0jwhx_Eik068Vc-XAm9mbJsTKBrRZXnC6ZCbSg1VBTsuZ1VtNfgNTpAOsxb_C9BC3p4LdqLhFiBjNSSboA-k0/s1600/wordpress.png"
+        },
+        {
+          "id": "https://thehackernews.com/2023/01/the-definitive-browser-security.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Security stakeholders have come to realize that the prominent role the browser has in the modern corporate environment requires a re-evaluation of how it is managed and protected. While not long-ago web-borne risks were still addressed by a patchwork of endpoint, network, and cloud solutions, it is now clear that the partial protection these solutions provided is no longer sufficient. Therefore,",
+          "link": "https://thehackernews.com/2023/01/the-definitive-browser-security.html",
+          "publishedOn": "2023-01-25T13:00:00.000Z",
+          "wordCount": null,
+          "title": "The Definitive Browser Security Checklist",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjLIbEcq1I8irXJK6zlrrCBQazBpspYrMXMoCBzGU9MG9PLUgXvFhhRSsg4XQNC93eCtlLnY5t1lpRPq3s0ip27P2-MjJ971AU2tQJM3Qorwn16vlX5DDxOCtL2skDM1BQPJKP8WEYbL8ZiAgTo53YL2ESEA6SjtdsaCEOU1IZmwmKAmCQBQGa0XZEC-Q/s1600/LAYERX.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjLIbEcq1I8irXJK6zlrrCBQazBpspYrMXMoCBzGU9MG9PLUgXvFhhRSsg4XQNC93eCtlLnY5t1lpRPq3s0ip27P2-MjJ971AU2tQJM3Qorwn16vlX5DDxOCtL2skDM1BQPJKP8WEYbL8ZiAgTo53YL2ESEA6SjtdsaCEOU1IZmwmKAmCQBQGa0XZEC-Q/s1600/LAYERX.png"
+        },
         {
           "id": "https://thehackernews.com/2023/01/north-korean-hackers-turn-to-credential.html",
           "author": "info@thehackernews.com (The Hacker News)",
@@ -5068,22 +5261,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgBHYtEMVlKngXEE9EL7TbcZfU5p7_ymhs0vtM3ATlHfh0xTDoYGnup6Ex5Chb4frKU_vyYoKwyGRFkEQQdOsHVqJThyOP8teA41Oxnarr1E8kQEJRT6mlOWdi9LEaByS7rLYB8tawSjFNqjTxw7FO25x6sD2Y7C8F0Dw9ScUFVR0-j7PE9J_VkoAPc/s1600/windows-security.png"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgBHYtEMVlKngXEE9EL7TbcZfU5p7_ymhs0vtM3ATlHfh0xTDoYGnup6Ex5Chb4frKU_vyYoKwyGRFkEQQdOsHVqJThyOP8teA41Oxnarr1E8kQEJRT6mlOWdi9LEaByS7rLYB8tawSjFNqjTxw7FO25x6sD2Y7C8F0Dw9ScUFVR0-j7PE9J_VkoAPc/s1600/windows-security.png"
-        },
-        {
-          "id": "https://thehackernews.com/2022/12/facebook-to-pay-725-million-to-settle.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Meta Platforms, the parent company of Facebook, Instagram, and WhatsApp, has agreed to pay $725 million to settle a long-running class-action lawsuit filed in 2018.\nThe legal dispute sprang up in response to revelations that the social media giant allowed third-party apps such as those, including Cambridge Analytica to access users' personal information without their consent for political",
-          "link": "https://thehackernews.com/2022/12/facebook-to-pay-725-million-to-settle.html",
-          "publishedOn": "2022-12-27T06:18:00.000Z",
-          "wordCount": null,
-          "title": "Facebook to Pay $725 Million to settle Lawsuit Over Cambridge Analytica Data Leak",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiuhCwvYyZFq2jaHShD5dEvQ7GPRfzMUAMf3Kpe9yrvNdyb0unq4ROkVXN_MVj8rFQSo9Rj7FEd1mI125rnicDQZm4DVbpeWGemOO7dFIesqotP5XKH0Ey5YJtIE98hl8jakxCeiJdabpGayEy-2qs-fOE4BqldfmVwconD2ArVpnUd1Yr4u9WDcYVk/s1600/facebook.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiuhCwvYyZFq2jaHShD5dEvQ7GPRfzMUAMf3Kpe9yrvNdyb0unq4ROkVXN_MVj8rFQSo9Rj7FEd1mI125rnicDQZm4DVbpeWGemOO7dFIesqotP5XKH0Ey5YJtIE98hl8jakxCeiJdabpGayEy-2qs-fOE4BqldfmVwconD2ArVpnUd1Yr4u9WDcYVk/s1600/facebook.jpg"
         }
       ]
     }
