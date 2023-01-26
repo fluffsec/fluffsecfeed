@@ -2,10 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-26T02:18:02.571Z</updated>
+    <updated>2023-01-26T07:18:28.325Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[PY#RATION: New Python-based RAT Uses WebSocket for C2 and Data Exfiltration]]></title>
+        <id>https://thehackernews.com/2023/01/pyration-new-python-based-rat-utilizes.html</id>
+        <link href="https://thehackernews.com/2023/01/pyration-new-python-based-rat-utilizes.html"/>
+        <updated>2023-01-26T06:01:00.000Z</updated>
+        <summary type="html"><![CDATA[Cybersecurity researchers have unearthed a new Python-based attack campaign that leverages a Python-based remote access trojan (RAT) to gain control over compromised systems since at least August 2022.
+"This malware is unique in its utilization of WebSockets to avoid detection and for both command-and-control (C2) communication and exfiltration," Securonix said in a report shared with The Hacker]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[U.S. Federal Agencies Fall Victim to Cyber Attack Utilizing Legitimate RMM Software]]></title>
+        <id>https://thehackernews.com/2023/01/us-federal-agencies-fall-victim-to.html</id>
+        <link href="https://thehackernews.com/2023/01/us-federal-agencies-fall-victim-to.html"/>
+        <updated>2023-01-26T04:27:00.000Z</updated>
+        <summary type="html"><![CDATA[At least two federal agencies in the U.S. fell victim to a "widespread cyber campaign" that involved the use of legitimate remote monitoring and management (RMM) software to perpetuate a phishing scam.
+"Specifically, cyber criminal actors sent phishing emails that led to the download of legitimate RMM software – ScreenConnect (now ConnectWise Control) and AnyDesk – which the actors used in a]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Snyk Gets Nod of Approval With ServiceNow Strategic Investment]]></title>
         <id>https://www.darkreading.com/dr-tech/snyk-gets-nod-of-approval-with-servicenow-strategic-investment</id>
@@ -4158,68 +4180,6 @@ Now according to Cisco Talos, advanced persistent threat (APT) actors and commod
         <summary type="html"><![CDATA[Digital transformation initiatives are challenging because IT still has to make sure performance doesn't suffer by making applications available from anywhere.]]></summary>
         <author>
             <name>undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Get the Most out of UEBA]]></title>
-        <id>https://www.darkreading.com/dr-tech/how-to-get-the-most-out-of-ueba</id>
-        <link href="https://www.darkreading.com/dr-tech/how-to-get-the-most-out-of-ueba"/>
-        <updated>2022-12-27T17:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Security teams are considering how to get the most out of user entity behavioral analytics by taking advantage of its strengths and augmenting its limitations.]]></summary>
-        <author>
-            <name>Nathan Eddy, Contributing Writer, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why Attackers Target GitHub, and How You Can Secure It]]></title>
-        <id>https://www.darkreading.com/edge-articles/why-attackers-target-github-and-how-you-can-secure-it</id>
-        <link href="https://www.darkreading.com/edge-articles/why-attackers-target-github-and-how-you-can-secure-it"/>
-        <updated>2022-12-27T17:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The unfettered collaboration of the GitHub model creates a security headache. Follow these seven principles to help relieve the pain.]]></summary>
-        <author>
-            <name>Matt Caulfield, Founder &amp; CEO, Oort</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Threat of Predictive Policing to Data Privacy and Personal Liberty]]></title>
-        <id>https://www.darkreading.com/endpoint/the-threat-of-predictive-policing-to-data-privacy-and-personal-liberty</id>
-        <link href="https://www.darkreading.com/endpoint/the-threat-of-predictive-policing-to-data-privacy-and-personal-liberty"/>
-        <updated>2022-12-27T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Inaccurate information from data brokers can damage careers and reputations. It's time for US privacy laws to change how law enforcement and legal agencies obtain and act on data.]]></summary>
-        <author>
-            <name>Arjun Bhatnagar, CEO, Cloaked</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BlueNoroff APT Hackers Using New Ways to Bypass Windows MotW Protection]]></title>
-        <id>https://thehackernews.com/2022/12/bluenoroff-apt-hackers-using-new-ways.html</id>
-        <link href="https://thehackernews.com/2022/12/bluenoroff-apt-hackers-using-new-ways.html"/>
-        <updated>2022-12-27T14:57:00.000Z</updated>
-        <summary type="html"><![CDATA[BlueNoroff, a subcluster of the notorious Lazarus Group, has been observed adopting new techniques into its playbook that enable it to bypass Windows Mark of the Web (MotW) protections.
-This includes the use of optical disk image (.ISO extension) and virtual hard disk (.VHD extension) file formats as part of a novel infection chain, Kaspersky disclosed in a report published today.
-"BlueNoroff]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Attackers Pose as Facebook Support Using Legitimate Facebook Posts to Bypass Security Solutions]]></title>
-        <id>https://blog.knowbe4.com/attackers-pose-as-facebook-support-bypass-security-solutions</id>
-        <link href="https://blog.knowbe4.com/attackers-pose-as-facebook-support-bypass-security-solutions"/>
-        <updated>2022-12-27T14:24:49.000Z</updated>
-        <summary type="html"><![CDATA[Impersonating Facebook using its own platform against them, a new phishing attack takes advantage of victim’s inability to distinguish legitimate from illegitimate.]]></summary>
-        <author>
-            <name>Stu Sjouwerman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[QBot Malware Attacks Use SVG files to Perform HTML Smuggling]]></title>
-        <id>https://blog.knowbe4.com/qbot-malware-attacks-use-svg-files-to-perform-html-smuggling</id>
-        <link href="https://blog.knowbe4.com/qbot-malware-attacks-use-svg-files-to-perform-html-smuggling"/>
-        <updated>2022-12-27T14:20:16.000Z</updated>
-        <summary type="html"><![CDATA[QBot malware phishing campaigns have adopted a new distribution method using SVG files to perform HTML smuggling that locally creates a malicious installer for Windows.]]></summary>
-        <author>
-            <name>Stu Sjouwerman</name>
         </author>
     </entry>
     <entry>

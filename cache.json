@@ -3098,51 +3098,6 @@
           "wordCount": 13510,
           "title": "Securing and Improving User Experience for the Future of Hybrid Work",
           "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt7a5319da8e96dd01/63ad1e09de61af37ca157e4e/AI-soccer-datarobot-youtube.png"
-        },
-        {
-          "id": "https://www.darkreading.com/dr-tech/how-to-get-the-most-out-of-ueba",
-          "author": "Nathan Eddy, Contributing Writer, Dark Reading",
-          "description": "Security teams are considering how to get the most out of user entity behavioral analytics by taking advantage of its strengths and augmenting its limitations.",
-          "link": "https://www.darkreading.com/dr-tech/how-to-get-the-most-out-of-ueba",
-          "publishedOn": "2022-12-27T17:00:00.000Z",
-          "wordCount": 13267,
-          "title": "How to Get the Most out of UEBA",
-          "enclosure": {
-            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltf8b5a94afa71c53a/628e3799daa31875dc0c9fc0/NathanEddyHeadshot.PNG",
-            "type": "image/*",
-            "length": "0"
-          },
-          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltf8b5a94afa71c53a/628e3799daa31875dc0c9fc0/NathanEddyHeadshot.PNG"
-        },
-        {
-          "id": "https://www.darkreading.com/edge-articles/why-attackers-target-github-and-how-you-can-secure-it",
-          "author": "Matt Caulfield, Founder & CEO, Oort",
-          "description": "The unfettered collaboration of the GitHub model creates a security headache. Follow these seven principles to help relieve the pain.",
-          "link": "https://www.darkreading.com/edge-articles/why-attackers-target-github-and-how-you-can-secure-it",
-          "publishedOn": "2022-12-27T17:00:00.000Z",
-          "wordCount": 13907,
-          "title": "Why Attackers Target GitHub, and How You Can Secure It",
-          "enclosure": {
-            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt8c7db4e14cafeed6/63a624b9f51cd31ec22ff729/Matt_Caulfield_Headshot.png",
-            "type": "image/*",
-            "length": "0"
-          },
-          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt8c7db4e14cafeed6/63a624b9f51cd31ec22ff729/Matt_Caulfield_Headshot.png"
-        },
-        {
-          "id": "https://www.darkreading.com/endpoint/the-threat-of-predictive-policing-to-data-privacy-and-personal-liberty",
-          "author": "Arjun Bhatnagar, CEO, Cloaked",
-          "description": "Inaccurate information from data brokers can damage careers and reputations. It's time for US privacy laws to change how law enforcement and legal agencies obtain and act on data.",
-          "link": "https://www.darkreading.com/endpoint/the-threat-of-predictive-policing-to-data-privacy-and-personal-liberty",
-          "publishedOn": "2022-12-27T15:00:00.000Z",
-          "wordCount": 12974,
-          "title": "The Threat of Predictive Policing to Data Privacy and Personal Liberty",
-          "enclosure": {
-            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blte7db8c8f3ad89454/63a319ea176cdf3260ba5bb6/ArjunProfile-HighRes.jpg",
-            "type": "image/*",
-            "length": "0"
-          },
-          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blte7db8c8f3ad89454/63a319ea176cdf3260ba5bb6/ArjunProfile-HighRes.jpg"
         }
       ]
     },
@@ -3737,26 +3692,6 @@
           "wordCount": 2172,
           "title": "[Eye Opener] Insurance policy doesn’t cover ransomware attack, Ohio Supreme Court says",
           "imageUrl": "https://blog.knowbe4.com/hubfs/Ransomware-Attack-Warning-2022.jpg#keepProtocol"
-        },
-        {
-          "id": "https://blog.knowbe4.com/attackers-pose-as-facebook-support-bypass-security-solutions",
-          "author": "Stu Sjouwerman",
-          "description": "Impersonating Facebook using its own platform against them, a new phishing attack takes advantage of victim’s inability to distinguish legitimate from illegitimate.",
-          "link": "https://blog.knowbe4.com/attackers-pose-as-facebook-support-bypass-security-solutions",
-          "publishedOn": "2022-12-27T14:24:49.000Z",
-          "wordCount": 2283,
-          "title": "Attackers Pose as Facebook Support Using Legitimate Facebook Posts to Bypass Security Solutions",
-          "imageUrl": "https://blog.knowbe4.com/hubfs/Facebook-phishing.jpg#keepProtocol"
-        },
-        {
-          "id": "https://blog.knowbe4.com/qbot-malware-attacks-use-svg-files-to-perform-html-smuggling",
-          "author": "Stu Sjouwerman",
-          "description": "QBot malware phishing campaigns have adopted a new distribution method using SVG files to perform HTML smuggling that locally creates a malicious installer for Windows.",
-          "link": "https://blog.knowbe4.com/qbot-malware-attacks-use-svg-files-to-perform-html-smuggling",
-          "publishedOn": "2022-12-27T14:20:16.000Z",
-          "wordCount": 2206,
-          "title": "QBot Malware Attacks Use SVG files to Perform HTML Smuggling",
-          "imageUrl": "https://blog.knowbe4.com/hubfs/Social%20Engineering%20Attackers.jpg#keepProtocol"
         }
       ]
     },
@@ -3765,6 +3700,38 @@
       "feedUrl": "https://thehackernews.com/feeds/posts/default",
       "siteUrl": "https://thehackernews.com",
       "articles": [
+        {
+          "id": "https://thehackernews.com/2023/01/pyration-new-python-based-rat-utilizes.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Cybersecurity researchers have unearthed a new Python-based attack campaign that leverages a Python-based remote access trojan (RAT) to gain control over compromised systems since at least August 2022.\n\"This malware is unique in its utilization of WebSockets to avoid detection and for both command-and-control (C2) communication and exfiltration,\" Securonix said in a report shared with The Hacker",
+          "link": "https://thehackernews.com/2023/01/pyration-new-python-based-rat-utilizes.html",
+          "publishedOn": "2023-01-26T06:01:00.000Z",
+          "wordCount": null,
+          "title": "PY#RATION: New Python-based RAT Uses WebSocket for C2 and Data Exfiltration",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi47NeO4QZdAl9Sa064nvEK-3pzud3_jbcaSJkcAzBAGSUstlImn8rqNqdeJM7Ovakfw8WZGjlrL2Ek7hBYzaxQTDR_8tAxwS9DJsjAyCo-e5oZC-lAHw886MzsxRXUzDnW2NHHuJcBFMdsRDydZkgHfp9tKFrI3MYKXPyBHJWeed9aOXgf43vqHgZm/s1600/hackin.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi47NeO4QZdAl9Sa064nvEK-3pzud3_jbcaSJkcAzBAGSUstlImn8rqNqdeJM7Ovakfw8WZGjlrL2Ek7hBYzaxQTDR_8tAxwS9DJsjAyCo-e5oZC-lAHw886MzsxRXUzDnW2NHHuJcBFMdsRDydZkgHfp9tKFrI3MYKXPyBHJWeed9aOXgf43vqHgZm/s1600/hackin.png"
+        },
+        {
+          "id": "https://thehackernews.com/2023/01/us-federal-agencies-fall-victim-to.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "At least two federal agencies in the U.S. fell victim to a \"widespread cyber campaign\" that involved the use of legitimate remote monitoring and management (RMM) software to perpetuate a phishing scam.\n\"Specifically, cyber criminal actors sent phishing emails that led to the download of legitimate RMM software – ScreenConnect (now ConnectWise Control) and AnyDesk – which the actors used in a",
+          "link": "https://thehackernews.com/2023/01/us-federal-agencies-fall-victim-to.html",
+          "publishedOn": "2023-01-26T04:27:00.000Z",
+          "wordCount": null,
+          "title": "U.S. Federal Agencies Fall Victim to Cyber Attack Utilizing Legitimate RMM Software",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgWOCl1OSvpVHqIIlbLUZkPv_Ymt8BgGGFmw_UHL3FQBZJ7HSAsPKj_sS8Em3IjU2p7ZPJIu6jiw2tXeKzweUG4OzcUOZy4hU5u-FmSFLTdtouV5FXEf2wuKlqGWrprQenjZnj4A72FH5S39Nflm26igmrnuRAk7KCNHz2TSyYz6Ddef9lND6X8FJ9e/s1600/cybercrime.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgWOCl1OSvpVHqIIlbLUZkPv_Ymt8BgGGFmw_UHL3FQBZJ7HSAsPKj_sS8Em3IjU2p7ZPJIu6jiw2tXeKzweUG4OzcUOZy4hU5u-FmSFLTdtouV5FXEf2wuKlqGWrprQenjZnj4A72FH5S39Nflm26igmrnuRAk7KCNHz2TSyYz6Ddef9lND6X8FJ9e/s1600/cybercrime.jpg"
+        },
         {
           "id": "https://thehackernews.com/2023/01/over-4500-wordpress-sites-hacked-to.html",
           "author": "info@thehackernews.com (The Hacker News)",
@@ -5380,22 +5347,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgdwpNONhOXqfIJMC7x-JbFNWf2lqEvq0BTe-YvdoR_3jCNmbjF9HaPh8i1ML8TqMUoHbWVp9rNYQrZZs4dhBbtvPfmz5WKUgN6MDk9985ZFCUTGCbycYRmwguthyH76aDZPGB298TTmZZidMm7Jm8jyfvV8dukqB1FJasUbEuyLjITtvY5_Swvidr3/s1600/VBA.png"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgdwpNONhOXqfIJMC7x-JbFNWf2lqEvq0BTe-YvdoR_3jCNmbjF9HaPh8i1ML8TqMUoHbWVp9rNYQrZZs4dhBbtvPfmz5WKUgN6MDk9985ZFCUTGCbycYRmwguthyH76aDZPGB298TTmZZidMm7Jm8jyfvV8dukqB1FJasUbEuyLjITtvY5_Swvidr3/s1600/VBA.png"
-        },
-        {
-          "id": "https://thehackernews.com/2022/12/bluenoroff-apt-hackers-using-new-ways.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "BlueNoroff, a subcluster of the notorious Lazarus Group, has been observed adopting new techniques into its playbook that enable it to bypass Windows Mark of the Web (MotW) protections.\nThis includes the use of optical disk image (.ISO extension) and virtual hard disk (.VHD extension) file formats as part of a novel infection chain, Kaspersky disclosed in a report published today.\n\"BlueNoroff",
-          "link": "https://thehackernews.com/2022/12/bluenoroff-apt-hackers-using-new-ways.html",
-          "publishedOn": "2022-12-27T14:57:00.000Z",
-          "wordCount": null,
-          "title": "BlueNoroff APT Hackers Using New Ways to Bypass Windows MotW Protection",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgBHYtEMVlKngXEE9EL7TbcZfU5p7_ymhs0vtM3ATlHfh0xTDoYGnup6Ex5Chb4frKU_vyYoKwyGRFkEQQdOsHVqJThyOP8teA41Oxnarr1E8kQEJRT6mlOWdi9LEaByS7rLYB8tawSjFNqjTxw7FO25x6sD2Y7C8F0Dw9ScUFVR0-j7PE9J_VkoAPc/s1600/windows-security.png"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgBHYtEMVlKngXEE9EL7TbcZfU5p7_ymhs0vtM3ATlHfh0xTDoYGnup6Ex5Chb4frKU_vyYoKwyGRFkEQQdOsHVqJThyOP8teA41Oxnarr1E8kQEJRT6mlOWdi9LEaByS7rLYB8tawSjFNqjTxw7FO25x6sD2Y7C8F0Dw9ScUFVR0-j7PE9J_VkoAPc/s1600/windows-security.png"
         }
       ]
     }
