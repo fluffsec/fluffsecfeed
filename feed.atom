@@ -2,10 +2,80 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-26T19:15:50.816Z</updated>
+    <updated>2023-01-27T02:20:45.047Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Riot Games Latest Video-Game Maker to Suffer Breach]]></title>
+        <id>https://www.darkreading.com/attacks-breaches/not-playing-games-riot-games-latest-video-game-maker-to-suffer-breach</id>
+        <link href="https://www.darkreading.com/attacks-breaches/not-playing-games-riot-games-latest-video-game-maker-to-suffer-breach"/>
+        <updated>2023-01-26T22:25:00.000Z</updated>
+        <summary type="html"><![CDATA[Highlighting continued attacks on game developers, attackers stole source code from and issued a ransom demand to the maker of League of Legends.]]></summary>
+        <author>
+            <name>Robert Lemos, Contributing Writer, Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Child's Garden of Cybersecurity]]></title>
+        <id>https://www.darkreading.com/edge-slideshows/a-child-s-garden-of-cybersecurity</id>
+        <link href="https://www.darkreading.com/edge-slideshows/a-child-s-garden-of-cybersecurity"/>
+        <updated>2023-01-26T22:02:00.000Z</updated>
+        <summary type="html"><![CDATA[Whether you dream of your child growing into a CISO or just want them to improve their security hygiene, consider this roundup of literary geekery.]]></summary>
+        <author>
+            <name>Karen Spiegelman, Features Editor</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Federal Agencies Infested by Cyberattackers via Legit Remote Management Systems]]></title>
+        <id>https://www.darkreading.com/attacks-breaches/federal-agencies-infested-cyberattackers-legit-remote-management-systems</id>
+        <link href="https://www.darkreading.com/attacks-breaches/federal-agencies-infested-cyberattackers-legit-remote-management-systems"/>
+        <updated>2023-01-26T20:13:00.000Z</updated>
+        <summary type="html"><![CDATA[Hackers don't need a key to get past your defenses, if they can essentially teleport using RMMs, warns CISA and the NSA.]]></summary>
+        <author>
+            <name>Nate Nelson, Contributing Writer, Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dutchman Detained for Dealing Details of Tens of Millions of People]]></title>
+        <id>https://www.darkreading.com/attacks-breaches/dutchman-detained-dealing-details-millions-people</id>
+        <link href="https://www.darkreading.com/attacks-breaches/dutchman-detained-dealing-details-millions-people"/>
+        <updated>2023-01-26T20:00:42.000Z</updated>
+        <summary type="html"><![CDATA[The accused sold an enormous data set stolen from the Austrian radio and television licensing authority — to an undercover cop.]]></summary>
+        <author>
+            <name>Dark Reading Staff, Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SaaS RootKit Exploits Hidden Rules in Microsoft 365]]></title>
+        <id>https://www.darkreading.com/vulnerabilities-threats/saas-rootkit-exploits-hidden-rules-in-microsoft-365-</id>
+        <link href="https://www.darkreading.com/vulnerabilities-threats/saas-rootkit-exploits-hidden-rules-in-microsoft-365-"/>
+        <updated>2023-01-26T20:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A vulnerability within Microsoft's OAuth application registration allows an attacker to create hidden forwarding rules that act as a malicious SaaS rootkit.]]></summary>
+        <author>
+            <name>Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hive Ransomware Gang Loses Its Honeycomb, Thanks to DoJ]]></title>
+        <id>https://www.darkreading.com/vulnerabilities-threats/hive-ransomware-gang-loses-honeycomb</id>
+        <link href="https://www.darkreading.com/vulnerabilities-threats/hive-ransomware-gang-loses-honeycomb"/>
+        <updated>2023-01-26T19:40:00.000Z</updated>
+        <summary type="html"><![CDATA[The US Department of Justice hacked into Hive's infrastructure, made off with hundreds of decryptors, and seized the gang's operations.]]></summary>
+        <author>
+            <name>Tara Seals, Managing Editor, News, Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[German Government, Airports, Banks Hit With Killnet DDoS Attacks]]></title>
+        <id>https://www.darkreading.com/ics-ot/german-government-airports-banks-hit-killnet-ddos-attacks</id>
+        <link href="https://www.darkreading.com/ics-ot/german-government-airports-banks-hit-killnet-ddos-attacks"/>
+        <updated>2023-01-26T19:26:07.000Z</updated>
+        <summary type="html"><![CDATA[After Berlin pledged tanks for Ukraine, some German websites were knocked offline temporarily by Killnet DDoS attacks.]]></summary>
+        <author>
+            <name>Dark Reading Staff, Dark Reading</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[7 Insights From a Ransomware Negotiator]]></title>
         <id>https://www.darkreading.com/attacks-breaches/7-insights-from-a-ransomware-negotiator</id>
@@ -4335,37 +4405,6 @@ The activity makes use of seemingly credible websites with typosquatted domain n
         <summary type="html"><![CDATA[CyberheistNews Vol 12 #52 [Heads Up] Top 10 Cyber Security Predictions for Next Year. Read It, This Is a Good One]]></summary>
         <author>
             <name>Stu Sjouwerman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Will the Crypto Crash Impact Cybersecurity in 2023? Maybe.]]></title>
-        <id>https://www.darkreading.com/threat-intelligence/crypto-crash-impact-cybersecurity-2023-maybe</id>
-        <link href="https://www.darkreading.com/threat-intelligence/crypto-crash-impact-cybersecurity-2023-maybe"/>
-        <updated>2022-12-28T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Will the bottom falling out of the cryptocurrency market have a profound impact on cybercriminal tactics and business models? Experts weigh in on what to expect.]]></summary>
-        <author>
-            <name>Ericka Chickowski, Contributing Writer, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Eye Opener] Insurance policy doesn’t cover ransomware attack, Ohio Supreme Court says]]></title>
-        <id>https://blog.knowbe4.com/eye-opener-insurance-policy-doesnt-cover-ransomware-attack-ohio-supreme-court-says</id>
-        <link href="https://blog.knowbe4.com/eye-opener-insurance-policy-doesnt-cover-ransomware-attack-ohio-supreme-court-says"/>
-        <updated>2022-12-28T12:15:35.000Z</updated>
-        <summary type="html"><![CDATA[Dec. 27, 2022, The Ohio Supreme Court ruled in favor of an insurance company, determining that its contract to cover any direct physical loss or damage to property did not encompass ransom payments made when a hacker illegally gained access to medical billing software company EMOIs systems and data.]]></summary>
-        <author>
-            <name>Stu Sjouwerman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BitKeep Confirms Cyber Attack, Loses Over $9 Million in Digital Currencies]]></title>
-        <id>https://thehackernews.com/2022/12/bitkeep-confirms-cyber-attack-loses.html</id>
-        <link href="https://thehackernews.com/2022/12/bitkeep-confirms-cyber-attack-loses.html"/>
-        <updated>2022-12-28T10:16:00.000Z</updated>
-        <summary type="html"><![CDATA[Decentralized multi-chain crypto wallet BitKeep on Wednesday confirmed a cyberattack that allowed threat actors to distribute fraudulent versions of its Android app with the goal of stealing users' digital currencies.
-"With maliciously implanted code, the altered APK led to the leak of user's private keys and enabled the hacker to move funds," BitKeep CEO Kevin Como said, describing it as a "]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
         </author>
     </entry>
     <entry>
