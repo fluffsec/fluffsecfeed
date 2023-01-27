@@ -2,10 +2,62 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-27T13:25:03.233Z</updated>
+    <updated>2023-01-27T19:15:45.307Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Critical RCE Lexmark Printer Bug Has Public Exploit]]></title>
+        <id>https://www.darkreading.com/cloud/critical-rce-lexmark-printer-bug-has-public-exploit</id>
+        <link href="https://www.darkreading.com/cloud/critical-rce-lexmark-printer-bug-has-public-exploit"/>
+        <updated>2023-01-27T18:02:00.000Z</updated>
+        <summary type="html"><![CDATA[A nasty SSRF bug in Web Services plagues a laundry list of enterprise printers.]]></summary>
+        <author>
+            <name>Dark Reading Staff, Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google: Influence Operator Dragonbridge Floods Social Media in Sprawling Cyber Campaign]]></title>
+        <id>https://www.darkreading.com/vulnerabilities-threats/google-influence-operator-dragonbridge-floods-social-media-sprawling-cyber-campaign</id>
+        <link href="https://www.darkreading.com/vulnerabilities-threats/google-influence-operator-dragonbridge-floods-social-media-sprawling-cyber-campaign"/>
+        <updated>2023-01-27T16:11:00.000Z</updated>
+        <summary type="html"><![CDATA[Google has mounted a massive takedown, but Dragonbridge's extensive capabilities for generating and distributing vast amounts of largely spammy content calls into question the motivation behind the group.]]></summary>
+        <author>
+            <name>Nathan Eddy, Contributing Writer, Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Noob Website Hackers Can Become Persistent Threats]]></title>
+        <id>https://www.darkreading.com/attacks-breaches/noob-hackers-become-persistent-threats</id>
+        <link href="https://www.darkreading.com/attacks-breaches/noob-hackers-become-persistent-threats"/>
+        <updated>2023-01-27T15:49:00.000Z</updated>
+        <summary type="html"><![CDATA[An academic analysis of website defacement behavior by 241 new hackers shows there are four clear trajectories they can take in future, researchers say.]]></summary>
+        <author>
+            <name>Jai Vijayan, Contributing Writer, Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[3 Ways ChatGPT Will Change Infosec in 2023]]></title>
+        <id>https://www.darkreading.com/vulnerabilities-threats/3-ways-chatgpt-will-change-infosec-in-2023</id>
+        <link href="https://www.darkreading.com/vulnerabilities-threats/3-ways-chatgpt-will-change-infosec-in-2023"/>
+        <updated>2023-01-27T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[OpenAI's chatbot has the promise to revolutionize how security practitioners work.]]></summary>
+        <author>
+            <name>Matt Georgy, Chief Technology Officer, Redacted</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Experts Uncover the Identity of Mastermind Behind Golden Chickens Malware Service]]></title>
+        <id>https://thehackernews.com/2023/01/experts-uncover-identity-of-mastermind.html</id>
+        <link href="https://thehackernews.com/2023/01/experts-uncover-identity-of-mastermind.html"/>
+        <updated>2023-01-27T13:50:00.000Z</updated>
+        <summary type="html"><![CDATA[Cybersecurity researchers have discovered the real-world identity of the threat actor behind Golden Chickens malware-as-a-service, who goes by the online persona "badbullzvenom."
+eSentire's Threat Response Unit (TRU), in an exhaustive report published following a 16-month-long investigation, said it "found multiple mentions of the badbullzvenom account being shared between two people."
+The]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Researchers Discover New PlugX Malware Variant Spreading via Removable USB Devices]]></title>
         <id>https://thehackernews.com/2023/01/researchers-discover-new-plugx-malware.html</id>
