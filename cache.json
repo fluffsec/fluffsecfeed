@@ -3349,6 +3349,16 @@
       "siteUrl": "https://blog.knowbe4.com",
       "articles": [
         {
+          "id": "https://blog.knowbe4.com/hackers-movie-guide-the-complete-list-of-hacker-and-cybersecurity-movies",
+          "author": "Stu Sjouwerman",
+          "description": "Is alert fatigue getting to you? I found a guide that allows you some well-deserved personal downtime, and still has something to do with work so that you can justify getting away with taking some PTO and veg out. But sometimes there are 1,000 channels and it still looks like there is nothing to watch. This might help...",
+          "link": "https://blog.knowbe4.com/hackers-movie-guide-the-complete-list-of-hacker-and-cybersecurity-movies",
+          "publishedOn": "2023-01-27T11:36:05.000Z",
+          "wordCount": 2173,
+          "title": "Hacker's Movie Guide: The Complete List of Hacker and Cybersecurity Movies",
+          "imageUrl": "https://blog.knowbe4.com/hubfs/hackersmovieguide.png#keepProtocol"
+        },
+        {
           "id": "https://blog.knowbe4.com/stus-law-you-get-the-future-you-ignore",
           "author": "Stu Sjouwerman",
           "description": "I have read a lot of Sci-fi. Thousands of books actually. You can't help but start recognizing patterns. One of my favorite movies is Blade Runner. Main character Rick Deckard states: “Replicants are like any other machine - they're either a benefit or a hazard. If they're a benefit, it's not my problem.” Blade Runner (1982)",
@@ -3837,16 +3847,6 @@
           "wordCount": 2252,
           "title": "Phishing Activity Rose 130% in the Second Half of 2022, Representing Three-Quarters of All Email-Based Attacks",
           "imageUrl": "https://blog.knowbe4.com/hubfs/Phishing%20Attacks%20Misuse.jpg#keepProtocol"
-        },
-        {
-          "id": "https://blog.knowbe4.com/heads-up-lastpass-attack-could-supercharge-spear-phishing-attacks",
-          "author": "Roger Grimes",
-          "description": "By Roger A. Grimes. KnowBe4 recommends that everyone use a password manager to create and use strong passwords as a part of their password policy https://info.knowbe4.com/wp-password-policy-should-be",
-          "link": "https://blog.knowbe4.com/heads-up-lastpass-attack-could-supercharge-spear-phishing-attacks",
-          "publishedOn": "2022-12-28T19:27:36.000Z",
-          "wordCount": 2444,
-          "title": "[Heads Up] LastPass Attack Could Supercharge Spear Phishing Attacks",
-          "imageUrl": "https://blog.knowbe4.com/hubfs/Roger-Grimes-HD_Cutout.png#keepProtocol"
         }
       ]
     },
@@ -3855,6 +3855,54 @@
       "feedUrl": "https://thehackernews.com/feeds/posts/default",
       "siteUrl": "https://thehackernews.com",
       "articles": [
+        {
+          "id": "https://thehackernews.com/2023/01/researchers-discover-new-plugx-malware.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Cybersecurity researchers have uncovered a PlugX sample that employs sneaky methods to infect attached removable USB media devices in order to propagate the malware to additional systems.\n\"This PlugX variant is wormable and infects USB devices in such a way that it conceals itself from the Windows operating file system,\" Palo Alto Networks Unit 42 researchers Mike Harbison and Jen Miller-Osborn",
+          "link": "https://thehackernews.com/2023/01/researchers-discover-new-plugx-malware.html",
+          "publishedOn": "2023-01-27T11:53:00.000Z",
+          "wordCount": null,
+          "title": "Researchers Discover New PlugX Malware Variant Spreading via Removable USB Devices",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEibvkbUn6eNehSV6uZAcF-pBZRQo59EWjtMRFJKZI8i83VbZbxvQJrHCB-6FaeewAzT3TBCRa6ERo6a7uUWwRbTovW-TP0VDhKCkCryTDpAfWjeIQL0lCeFRqiQQ5eB6IsvkssMVa5t0xdMJwhlIZNFUBcvnZqFjlBTTxUKEE5CDCyUrU3CtlkVWZPB/s1600/hacking.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEibvkbUn6eNehSV6uZAcF-pBZRQo59EWjtMRFJKZI8i83VbZbxvQJrHCB-6FaeewAzT3TBCRa6ERo6a7uUWwRbTovW-TP0VDhKCkCryTDpAfWjeIQL0lCeFRqiQQ5eB6IsvkssMVa5t0xdMJwhlIZNFUBcvnZqFjlBTTxUKEE5CDCyUrU3CtlkVWZPB/s1600/hacking.png"
+        },
+        {
+          "id": "https://thehackernews.com/2023/01/3-lifehacks-while-analyzing-orcus-rat.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Orcus is a Remote Access Trojan with some distinctive characteristics. The RAT allows attackers to create plugins and offers a robust core feature set that makes it quite a dangerous malicious program in its class.\nRAT is quite a stable type that always makes it to the top.\nANY.RUN’s top malware types in 2022\nThat's why you'll definitely come across this type in your practice, and the Orcus",
+          "link": "https://thehackernews.com/2023/01/3-lifehacks-while-analyzing-orcus-rat.html",
+          "publishedOn": "2023-01-27T10:55:00.000Z",
+          "wordCount": null,
+          "title": "3 Lifehacks While Analyzing Orcus RAT in a Malware Sandbox",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrFhbL4_gv03Ob61jFjbxqzxtH1UvQKfPrBn15lnl2dvpSNFuADuNUWhrIb5eC4z619av6MQq4PgywUMXwsfOvollbvkief8uqjKCdtIQtW4Ro1v3Eo10v7Kv3hhf7J4yyrb0LDZWCRLvqUHccFRqzK3-X2URmRimiQ6_e9cycdwxEBjpReikHPBb9/s1600/orcus-rat.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrFhbL4_gv03Ob61jFjbxqzxtH1UvQKfPrBn15lnl2dvpSNFuADuNUWhrIb5eC4z619av6MQq4PgywUMXwsfOvollbvkief8uqjKCdtIQtW4Ro1v3Eo10v7Kv3hhf7J4yyrb0LDZWCRLvqUHccFRqzK3-X2URmRimiQ6_e9cycdwxEBjpReikHPBb9/s1600/orcus-rat.png"
+        },
+        {
+          "id": "https://thehackernews.com/2023/01/british-cyber-agency-warns-of-russian.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "The U.K. National Cyber Security Centre (NCSC) on Thursday warned of spear-phishing attacks mounted by Russian and Iranian state-sponsored actors for information-gathering operations.\n\"The attacks are not aimed at the general public but targets in specified sectors, including academia, defense, government organizations, NGOs, think tanks, as well as politicians, journalists and activists,\" the",
+          "link": "https://thehackernews.com/2023/01/british-cyber-agency-warns-of-russian.html",
+          "publishedOn": "2023-01-27T10:37:00.000Z",
+          "wordCount": null,
+          "title": "British Cyber Agency Warns of Russian and Iranian Hackers Targeting Key Industries",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhUhijG-eLij6vW-J2RYprZ_dYmzFaUgihPHU05u_chcMTT1flfodLQB5d_jepw5JHO6x1_476R1GeGGYyOsZOnXKam_RwATFsmyy-xwsT4OvBztB8edd4pTBgq6FVpWL7xjLmvqj_FyOBK2DsqKscGxTiy-wmeCdLHkeNtA5H9Tu-ZGmA_TOJhQGnh/s1600/cyber.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhUhijG-eLij6vW-J2RYprZ_dYmzFaUgihPHU05u_chcMTT1flfodLQB5d_jepw5JHO6x1_476R1GeGGYyOsZOnXKam_RwATFsmyy-xwsT4OvBztB8edd4pTBgq6FVpWL7xjLmvqj_FyOBK2DsqKscGxTiy-wmeCdLHkeNtA5H9Tu-ZGmA_TOJhQGnh/s1600/cyber.jpg"
+        },
         {
           "id": "https://thehackernews.com/2023/01/hive-ransomware-infrastructure-seized.html",
           "author": "info@thehackernews.com (The Hacker News)",
