@@ -2,10 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-28T02:20:28.653Z</updated>
+    <updated>2023-01-28T07:17:00.468Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Ukraine Hit with New Golang-based 'SwiftSlicer' Wiper Malware in Latest Cyber Attack]]></title>
+        <id>https://thehackernews.com/2023/01/ukraine-hit-with-new-golang-based.html</id>
+        <link href="https://thehackernews.com/2023/01/ukraine-hit-with-new-golang-based.html"/>
+        <updated>2023-01-28T05:49:00.000Z</updated>
+        <summary type="html"><![CDATA[Ukraine has come under a fresh cyber onslaught from Russia that involved the deployment of a previously undocumented Golang-based data wiper dubbed SwiftSlicer.
+ESET attributed the attack to Sandworm, a nation-state group linked to Military Unit 74455 of the Main Intelligence Directorate of the General Staff of the Armed Forces of the Russian Federation (GRU).
+"Once executed it deletes shadow]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Enterprises Need to Do More to Assure Consumers About Privacy]]></title>
+        <id>https://www.darkreading.com/edge-threat-monitor/enterprises-need-to-do-more-to-assure-consumers-about-privacy</id>
+        <link href="https://www.darkreading.com/edge-threat-monitor/enterprises-need-to-do-more-to-assure-consumers-about-privacy"/>
+        <updated>2023-01-27T22:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Organizations care about data privacy, but their priorities appear to be different from what their customers think are important.]]></summary>
+        <author>
+            <name>Edge Editors, Dark Reading</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Why Most Companies Still Don’t Know What’s on Their Network]]></title>
         <id>https://www.darkreading.com/risk/why-most-companies-still-don-t-know-what-s-on-their-network</id>
@@ -4402,56 +4424,6 @@ Although BOD 22-01 only applies to FCEB agencies, CISA strongly urges all organi
 This product is provided subject to this Notification and this Privacy & Use policy.]]></summary>
         <author>
             <name>CISA</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[6 Ways to Protect Your Organization Against LAPSUS$]]></title>
-        <id>https://www.darkreading.com/microsoft/6-ways-to-protect-your-organization-against-lapsus-</id>
-        <link href="https://www.darkreading.com/microsoft/6-ways-to-protect-your-organization-against-lapsus-"/>
-        <updated>2022-12-29T19:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Businesses need to educate employees the type of social engineering attacks used by hacking group DEV-0537 (LAPSUS$) and strengthen their security posture.]]></summary>
-        <author>
-            <name>Microsoft Security, Microsoft</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[3 Industries, 3 Security Programs]]></title>
-        <id>https://www.darkreading.com/edge-articles/3-industries-3-security-programs</id>
-        <link href="https://www.darkreading.com/edge-articles/3-industries-3-security-programs"/>
-        <updated>2022-12-29T17:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Security leaders from a media corporation, a commercial real estate company, and an automotive technology company share how they address cyber-risk.]]></summary>
-        <author>
-            <name>Sue Poremba, Contributing Writer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Extracting Encrypted Credentials From Common Tools]]></title>
-        <id>https://www.darkreading.com/dr-tech/extracting-encrypted-credentials-from-common-tools</id>
-        <link href="https://www.darkreading.com/dr-tech/extracting-encrypted-credentials-from-common-tools"/>
-        <updated>2022-12-29T17:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Attackers are harvesting credentials from compromised systems. Here's how some commonly used tools can enable this.]]></summary>
-        <author>
-            <name>David Azria, Security Research Team Leader, XM Cyber</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Phishing Activity Rose 130% in the Second Half of 2022, Representing Three-Quarters of All Email-Based Attacks]]></title>
-        <id>https://blog.knowbe4.com/phishing-activity-rose-130-in-the-second-half-of-2022-representing-three-quarters-of-all-email-based-attacks</id>
-        <link href="https://blog.knowbe4.com/phishing-activity-rose-130-in-the-second-half-of-2022-representing-three-quarters-of-all-email-based-attacks"/>
-        <updated>2022-12-29T15:22:48.000Z</updated>
-        <summary type="html"><![CDATA[New data focused on cyberattacks in the second half of the year-to-date shows phishing taking the overwhelming lead as the initial attack vector of choice.]]></summary>
-        <author>
-            <name>Stu Sjouwerman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[After the Uber Breach: 3 Questions All CISOs Should Ask Themselves]]></title>
-        <id>https://www.darkreading.com/vulnerabilities-threats/after-the-uber-breach-3-questions-all-cisos-should-ask-themselves-</id>
-        <link href="https://www.darkreading.com/vulnerabilities-threats/after-the-uber-breach-3-questions-all-cisos-should-ask-themselves-"/>
-        <updated>2022-12-29T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[How CISOs handle the ethical issues around data breaches can make or break their careers. Don't wait until a breach happens to plot the course forward.]]></summary>
-        <author>
-            <name>Avishai Avivi, Chief Information Security Officer, SafeBreach</name>
         </author>
     </entry>
     <entry>
