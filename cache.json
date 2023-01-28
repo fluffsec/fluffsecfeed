@@ -291,16 +291,6 @@
           "wordCount": 954,
           "title": "Fortinet Releases Security Updates for FortiADC",
           "imageUrl": null
-        },
-        {
-          "id": "18255 at https://us-cert.cisa.gov",
-          "author": "CISA",
-          "description": "Original release date: December 29, 2022\nCISA has added two new vulnerabilities to its Known Exploited Vulnerabilities Catalog, based on evidence of active exploitation. These types of vulnerabilities are frequent attack vectors for malicious cyber actors and pose significant risks to the federal enterprise. Note: To view the newly added vulnerabilities in the catalog, click on the arrow in the \"Date Added to Catalog\" column, which will sort by descending dates.\nBinding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the Known Exploited Vulnerabilities Catalog as a living list of known CVEs that carry significant risk to the federal enterprise. BOD 22-01 requires FCEB agencies to remediate identified vulnerabilities by the due date to protect FCEB networks against active threats. See the BOD 22-01 Fact Sheet for more information.\nAlthough BOD 22-01 only applies to FCEB agencies, CISA strongly urges all organizations to reduce their exposure to cyberattacks by prioritizing timely remediation of Catalog vulnerabilities as part of their vulnerability management practice. CISA will continue to add vulnerabilities to the Catalog that meet the specified criteria.\nThis product is provided subject to this Notification and this Privacy & Use policy.",
-          "link": "https://us-cert.cisa.gov/ncas/current-activity/2022/12/29/cisa-adds-two-known-exploited-vulnerabilities-catalog",
-          "publishedOn": "2022-12-29T20:39:16.000Z",
-          "wordCount": 1083,
-          "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
-          "imageUrl": null
         }
       ]
     },
@@ -339,6 +329,21 @@
       "feedUrl": "https://www.darkreading.com/rss.xml",
       "siteUrl": "https://www.darkreading.com",
       "articles": [
+        {
+          "id": "https://www.darkreading.com/tech-trends/enterprises-don-t-know-what-to-buy-for-responsible-ai",
+          "author": "Dark Reading Staff, Dark Reading",
+          "description": "Organizations are struggling to procure appropriate technical tools to address responsible AI, such as consistent bias detection in AI applications.",
+          "link": "https://www.darkreading.com/tech-trends/enterprises-don-t-know-what-to-buy-for-responsible-ai",
+          "publishedOn": "2023-01-27T22:30:00.000Z",
+          "wordCount": 12420,
+          "title": "Enterprises Don't Know What to Buy for Responsible AI",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blte161b23f0fd3a84b/60b1ea374e7eb868c4c6a293/dr_staff_125x125.jpg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blte161b23f0fd3a84b/60b1ea374e7eb868c4c6a293/dr_staff_125x125.jpg"
+        },
         {
           "id": "https://www.darkreading.com/edge-threat-monitor/enterprises-need-to-do-more-to-assure-consumers-about-privacy",
           "author": "Edge Editors, Dark Reading",
@@ -3364,16 +3369,6 @@
           "wordCount": 1778,
           "title": "Publishing CBL-Mariner CVEs on the Security Update Guide CVRF API",
           "imageUrl": null
-        },
-        {
-          "id": "https://msrc-blog.microsoft.com/?p=15230",
-          "author": "Lisa Olson",
-          "description": "Today we are updating the way Microsoft Security Update Guide (SUG) represents the Windows Hotpatch feature to make it easier for users to identify the hotpatch and security updates. Hotpatching was introduced a year ago as a new way to install updates on supported Windows Server Azure Edition virtual machines (VMs) without requiring a reboot …\n  Security Update Guide Improvement – Representing Hotpatch Updates Read More »",
-          "link": "https://msrc-blog.microsoft.com/2022/12/29/security-update-guide-improvement-representing-hotpatch-updates/",
-          "publishedOn": "2022-12-29T21:21:27.000Z",
-          "wordCount": 1627,
-          "title": "Security Update Guide Improvement – Representing Hotpatch Updates",
-          "imageUrl": null
         }
       ]
     },
@@ -3885,6 +3880,54 @@
       "feedUrl": "https://thehackernews.com/feeds/posts/default",
       "siteUrl": "https://thehackernews.com",
       "articles": [
+        {
+          "id": "https://thehackernews.com/2023/01/microsoft-urges-customers-to-secure-on.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Microsoft is urging customers to keep their Exchange servers updated as well as take steps to bolster the environment, such as enabling Windows Extended Protection and configuring certificate-based signing of PowerShell serialization payloads.\n\"Attackers looking to exploit unpatched Exchange servers are not going to go away,\" the tech giant's Exchange Team said in a post. \"There are too many",
+          "link": "https://thehackernews.com/2023/01/microsoft-urges-customers-to-secure-on.html",
+          "publishedOn": "2023-01-28T10:42:00.000Z",
+          "wordCount": null,
+          "title": "Microsoft Urges Customers to Secure On-Premises Exchange Servers",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjtCvtIFlhsusZcNAmW8l0YPhLzOTXV5itAxHswUMuEyBXhYO4TJ_njWK-eDWGv57Ac6xiHmGOW2Ocx4OpRCPi3e31H1gQTR3tUMVUHdAZ8HPRmysVg60Ulqhc-E1cNzex1ICFiXldin4GddrvfACcD4IvtpvfB-f_pJIlSIrooBM6Dzdl2yy0_WSVP/s1600/ms.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjtCvtIFlhsusZcNAmW8l0YPhLzOTXV5itAxHswUMuEyBXhYO4TJ_njWK-eDWGv57Ac6xiHmGOW2Ocx4OpRCPi3e31H1gQTR3tUMVUHdAZ8HPRmysVg60Ulqhc-E1cNzex1ICFiXldin4GddrvfACcD4IvtpvfB-f_pJIlSIrooBM6Dzdl2yy0_WSVP/s1600/ms.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2023/01/eliminating-saas-shadow-it-is-now.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "The use of software as a service (SaaS) is experiencing rapid growth and shows no signs of slowing down. Its decentralized and easy-to-use nature is beneficial for increasing employee productivity, but it also poses many security and IT challenges. Keeping track of all the SaaS applications that have been granted access to an organization's data is a difficult task. Understanding the risks that",
+          "link": "https://thehackernews.com/2023/01/eliminating-saas-shadow-it-is-now.html",
+          "publishedOn": "2023-01-28T10:41:00.000Z",
+          "wordCount": null,
+          "title": "Eliminating SaaS Shadow IT is Now Available via a Self-Service Product, Free of Charge",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjx5vNZfvolnGE9wdViQegXJ7PaOH9Wd9yMSykOCTvvCCjqQoxl_KGX84pntYyorz7J1138Gm924LVBkQ_f6SsfF65uqMEREZfVs68bSqC7_sfSGw0CTQI6RMUtYy69c50UoBewR5lmiIP3gsmXpcY-y5fb8InUmRiB-JUv64vl70ZwNRY39-buqeln/s1600/saas.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjx5vNZfvolnGE9wdViQegXJ7PaOH9Wd9yMSykOCTvvCCjqQoxl_KGX84pntYyorz7J1138Gm924LVBkQ_f6SsfF65uqMEREZfVs68bSqC7_sfSGw0CTQI6RMUtYy69c50UoBewR5lmiIP3gsmXpcY-y5fb8InUmRiB-JUv64vl70ZwNRY39-buqeln/s1600/saas.png"
+        },
+        {
+          "id": "https://thehackernews.com/2023/01/isc-releases-security-patches-for-new.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "The Internet Systems Consortium (ISC) has released patches to address multiple security vulnerabilities in the Berkeley Internet Name Domain (BIND) 9 Domain Name System (DNS) software suite that could lead to a denial-of-service (DoS) condition.\n\"A remote attacker could exploit these vulnerabilities to potentially cause denial-of-service conditions and system failures,\" the U.S. Cybersecurity",
+          "link": "https://thehackernews.com/2023/01/isc-releases-security-patches-for-new.html",
+          "publishedOn": "2023-01-28T07:55:00.000Z",
+          "wordCount": null,
+          "title": "ISC Releases Security Patches for New BIND DNS Software Vulnerabilities",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi14s0aPtBLTfnxre-Tcy_0iJw4wKjyvJXdFmpmytL0iK3U2TG9iuShttu03onhVu90xXRkXyG1E8mZIUEB9-7zYBLGuBeyKDyDYoawof_VJyCzvlcvt25P4_hpimE0q8pU9UlOphEkLyIh5IR5Wsar48_Dfmp2K3oVoP_5JrZ3_b48XH1-8RuGdnAW/s1600/dns.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi14s0aPtBLTfnxre-Tcy_0iJw4wKjyvJXdFmpmytL0iK3U2TG9iuShttu03onhVu90xXRkXyG1E8mZIUEB9-7zYBLGuBeyKDyDYoawof_VJyCzvlcvt25P4_hpimE0q8pU9UlOphEkLyIh5IR5Wsar48_Dfmp2K3oVoP_5JrZ3_b48XH1-8RuGdnAW/s1600/dns.jpg"
+        },
         {
           "id": "https://thehackernews.com/2023/01/ukraine-hit-with-new-golang-based.html",
           "author": "info@thehackernews.com (The Hacker News)",

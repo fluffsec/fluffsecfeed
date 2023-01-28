@@ -2,10 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-28T07:17:00.468Z</updated>
+    <updated>2023-01-28T13:22:44.746Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Urges Customers to Secure On-Premises Exchange Servers]]></title>
+        <id>https://thehackernews.com/2023/01/microsoft-urges-customers-to-secure-on.html</id>
+        <link href="https://thehackernews.com/2023/01/microsoft-urges-customers-to-secure-on.html"/>
+        <updated>2023-01-28T10:42:00.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft is urging customers to keep their Exchange servers updated as well as take steps to bolster the environment, such as enabling Windows Extended Protection and configuring certificate-based signing of PowerShell serialization payloads.
+"Attackers looking to exploit unpatched Exchange servers are not going to go away," the tech giant's Exchange Team said in a post. "There are too many]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Eliminating SaaS Shadow IT is Now Available via a Self-Service Product, Free of Charge]]></title>
+        <id>https://thehackernews.com/2023/01/eliminating-saas-shadow-it-is-now.html</id>
+        <link href="https://thehackernews.com/2023/01/eliminating-saas-shadow-it-is-now.html"/>
+        <updated>2023-01-28T10:41:00.000Z</updated>
+        <summary type="html"><![CDATA[The use of software as a service (SaaS) is experiencing rapid growth and shows no signs of slowing down. Its decentralized and easy-to-use nature is beneficial for increasing employee productivity, but it also poses many security and IT challenges. Keeping track of all the SaaS applications that have been granted access to an organization's data is a difficult task. Understanding the risks that]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ISC Releases Security Patches for New BIND DNS Software Vulnerabilities]]></title>
+        <id>https://thehackernews.com/2023/01/isc-releases-security-patches-for-new.html</id>
+        <link href="https://thehackernews.com/2023/01/isc-releases-security-patches-for-new.html"/>
+        <updated>2023-01-28T07:55:00.000Z</updated>
+        <summary type="html"><![CDATA[The Internet Systems Consortium (ISC) has released patches to address multiple security vulnerabilities in the Berkeley Internet Name Domain (BIND) 9 Domain Name System (DNS) software suite that could lead to a denial-of-service (DoS) condition.
+"A remote attacker could exploit these vulnerabilities to potentially cause denial-of-service conditions and system failures," the U.S. Cybersecurity]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ukraine Hit with New Golang-based 'SwiftSlicer' Wiper Malware in Latest Cyber Attack]]></title>
         <id>https://thehackernews.com/2023/01/ukraine-hit-with-new-golang-based.html</id>
@@ -16,6 +48,16 @@ ESET attributed the attack to Sandworm, a nation-state group linked to Military 
 "Once executed it deletes shadow]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Enterprises Don't Know What to Buy for Responsible AI]]></title>
+        <id>https://www.darkreading.com/tech-trends/enterprises-don-t-know-what-to-buy-for-responsible-ai</id>
+        <link href="https://www.darkreading.com/tech-trends/enterprises-don-t-know-what-to-buy-for-responsible-ai"/>
+        <updated>2023-01-27T22:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Organizations are struggling to procure appropriate technical tools to address responsible AI, such as consistent bias detection in AI applications.]]></summary>
+        <author>
+            <name>Dark Reading Staff, Dark Reading</name>
         </author>
     </entry>
     <entry>
@@ -4399,31 +4441,6 @@ The flaws "allowed an attacker within wireless proximity to install a 'backdoor'
 The flaws, tracked as CVE-2018-5430 (CVSS score: 7.7) and CVE-2018-18809 (CVSS score: 9.9), were addressed by TIBCO in April 2018 and March 2019,]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Security Update Guide Improvement – Representing Hotpatch Updates]]></title>
-        <id>https://msrc-blog.microsoft.com/?p=15230</id>
-        <link href="https://msrc-blog.microsoft.com/2022/12/29/security-update-guide-improvement-representing-hotpatch-updates/"/>
-        <updated>2022-12-29T21:21:27.000Z</updated>
-        <summary type="html"><![CDATA[Today we are updating the way Microsoft Security Update Guide (SUG) represents the Windows Hotpatch feature to make it easier for users to identify the hotpatch and security updates. Hotpatching was introduced a year ago as a new way to install updates on supported Windows Server Azure Edition virtual machines (VMs) without requiring a reboot …
-  Security Update Guide Improvement – Representing Hotpatch Updates Read More »]]></summary>
-        <author>
-            <name>Lisa Olson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CISA Adds Two Known Exploited Vulnerabilities to Catalog]]></title>
-        <id>18255 at https://us-cert.cisa.gov</id>
-        <link href="https://us-cert.cisa.gov/ncas/current-activity/2022/12/29/cisa-adds-two-known-exploited-vulnerabilities-catalog"/>
-        <updated>2022-12-29T20:39:16.000Z</updated>
-        <summary type="html"><![CDATA[Original release date: December 29, 2022
-CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities Catalog, based on evidence of active exploitation. These types of vulnerabilities are frequent attack vectors for malicious cyber actors and pose significant risks to the federal enterprise. Note: To view the newly added vulnerabilities in the catalog, click on the arrow in the "Date Added to Catalog" column, which will sort by descending dates.
-Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the Known Exploited Vulnerabilities Catalog as a living list of known CVEs that carry significant risk to the federal enterprise. BOD 22-01 requires FCEB agencies to remediate identified vulnerabilities by the due date to protect FCEB networks against active threats. See the BOD 22-01 Fact Sheet for more information.
-Although BOD 22-01 only applies to FCEB agencies, CISA strongly urges all organizations to reduce their exposure to cyberattacks by prioritizing timely remediation of Catalog vulnerabilities as part of their vulnerability management practice. CISA will continue to add vulnerabilities to the Catalog that meet the specified criteria.
-This product is provided subject to this Notification and this Privacy & Use policy.]]></summary>
-        <author>
-            <name>CISA</name>
         </author>
     </entry>
     <entry>
