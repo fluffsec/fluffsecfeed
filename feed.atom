@@ -2,10 +2,43 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-27T19:15:45.307Z</updated>
+    <updated>2023-01-28T02:20:28.653Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Why Most Companies Still Don’t Know What’s on Their Network]]></title>
+        <id>https://www.darkreading.com/risk/why-most-companies-still-don-t-know-what-s-on-their-network</id>
+        <link href="https://www.darkreading.com/risk/why-most-companies-still-don-t-know-what-s-on-their-network"/>
+        <updated>2023-01-27T21:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Chris Kirsch, CEO of runZero, sits down with Dark Reading’sTerry Sweeney for a Fast Chat on the importance of asset discovery.]]></summary>
+        <author>
+            <name>Terry Sweeney, Contributing Editor</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[On Data Privacy Day, Organizations Fail Data Privacy Expectations]]></title>
+        <id>https://www.darkreading.com/omdia/on-data-privacy-day-organizations-fail-data-privacy-expectations</id>
+        <link href="https://www.darkreading.com/omdia/on-data-privacy-day-organizations-fail-data-privacy-expectations"/>
+        <updated>2023-01-27T20:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Data Privacy Day rolls around year after year, and data privacy breaches likewise. Two-thirds of data breaches result in data exposure.]]></summary>
+        <author>
+            <name>Maxine Holt, Research Director, Omdia</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ISC Releases Security Advisories for Multiple Versions of BIND 9]]></title>
+        <id>18319 at https://us-cert.cisa.gov</id>
+        <link href="https://us-cert.cisa.gov/ncas/current-activity/2023/01/27/isc-releases-security-advisories-multiple-versions-bind-9"/>
+        <updated>2023-01-27T18:33:35.000Z</updated>
+        <summary type="html"><![CDATA[Original release date: January 27, 2023
+The Internet Systems Consortium (ISC) has released security advisories that address vulnerabilities affecting multiple versions of the ISC’s Berkeley Internet Name Domain (BIND) 9. A remote attacker could exploit these vulnerabilities to potentially cause denial-of-service conditions and system failures.
+CISA encourages users and administrators to review the following ISC advisories CVE-2022-3094, CVE-2022-3488, CVE-2022-3736, and CVE-2022-3924 and apply the necessary mitigations.
+This product is provided subject to this Notification and this Privacy & Use policy.]]></summary>
+        <author>
+            <name>CISA</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Critical RCE Lexmark Printer Bug Has Public Exploit]]></title>
         <id>https://www.darkreading.com/cloud/critical-rce-lexmark-printer-bug-has-public-exploit</id>
@@ -4419,39 +4452,6 @@ This product is provided subject to this Notification and this Privacy & Use pol
         <summary type="html"><![CDATA[How CISOs handle the ethical issues around data breaches can make or break their careers. Don't wait until a breach happens to plot the course forward.]]></summary>
         <author>
             <name>Avishai Avivi, Chief Information Security Officer, SafeBreach</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Year's Surprise: Cybersecurity M&A, Funding Activity Snowballs in Q4]]></title>
-        <id>https://www.darkreading.com/threat-intelligence/cybersecurity-ma-funding-activity-snowballs-q4</id>
-        <link href="https://www.darkreading.com/threat-intelligence/cybersecurity-ma-funding-activity-snowballs-q4"/>
-        <updated>2022-12-29T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Concerns about recessionary trends impacting the cybersecurity sector in 2022 remained largely unfounded in Q4, as investment activity surged after a Q3 slowdown.]]></summary>
-        <author>
-            <name>Jai Vijayan, Contributing Writer, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Thousands of Citrix Servers Still Unpatched for Critical Vulnerabilities]]></title>
-        <id>https://thehackernews.com/2022/12/thousands-of-citrix-servers-still.html</id>
-        <link href="https://thehackernews.com/2022/12/thousands-of-citrix-servers-still.html"/>
-        <updated>2022-12-29T09:43:00.000Z</updated>
-        <summary type="html"><![CDATA[Thousands of Citrix Application Delivery Controller (ADC) and Gateway endpoints remain vulnerable to two critical security flaws disclosed by the company over the last few months.
-The issues in question are CVE-2022-27510 and CVE-2022-27518 (CVSS scores: 9.8), which were addressed by the virtualization services provider on November 8 and December 13, 2022, respectively.
-While CVE-2022-27510]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Malvertising Campaign via Google Ads Targets Users Searching for Popular Software]]></title>
-        <id>https://thehackernews.com/2022/12/new-malvertising-campaign-via-google.html</id>
-        <link href="https://thehackernews.com/2022/12/new-malvertising-campaign-via-google.html"/>
-        <updated>2022-12-29T07:48:00.000Z</updated>
-        <summary type="html"><![CDATA[Users searching for popular software are being targeted by a new malvertising campaign that abuses Google Ads to serve trojanized variants that deploy malware, such as Raccoon Stealer and Vidar.
-The activity makes use of seemingly credible websites with typosquatted domain names that are surfaced on top of Google search results in the form of malicious ads by hijacking searches for specific]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
         </author>
     </entry>
     <entry>

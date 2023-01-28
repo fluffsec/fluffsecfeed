@@ -23,6 +23,16 @@
       "siteUrl": "https://us-cert.cisa.gov/",
       "articles": [
         {
+          "id": "18319 at https://us-cert.cisa.gov",
+          "author": "CISA",
+          "description": "Original release date: January 27, 2023\nThe Internet Systems Consortium (ISC) has released security advisories that address vulnerabilities affecting multiple versions of the ISC’s Berkeley Internet Name Domain (BIND) 9. A remote attacker could exploit these vulnerabilities to potentially cause denial-of-service conditions and system failures.\nCISA encourages users and administrators to review the following ISC advisories CVE-2022-3094, CVE-2022-3488, CVE-2022-3736, and CVE-2022-3924 and apply the necessary mitigations.\nThis product is provided subject to this Notification and this Privacy & Use policy.",
+          "link": "https://us-cert.cisa.gov/ncas/current-activity/2023/01/27/isc-releases-security-advisories-multiple-versions-bind-9",
+          "publishedOn": "2023-01-27T18:33:35.000Z",
+          "wordCount": 971,
+          "title": "ISC Releases Security Advisories for Multiple Versions of BIND 9",
+          "imageUrl": null
+        },
+        {
           "id": "18315 at https://us-cert.cisa.gov",
           "author": "CISA",
           "description": "Original release date: January 26, 2023\nToday, the Joint Cyber Defense Collaborative (JCDC) announced its 2023 Planning Agenda. This release marks a major milestone in the continued evolution and maturation of the collaborative’s planning efforts. JCDC’s Planning Agenda brings together government and private sector partners to develop and execute cyber defense plans that achieve specific risk reduction goals focused on systemic risk, collective cyber response, and high-risk communities.\nThrough this effort, CISA and partners across government and the private sector will take steps to measurably reduce some of the most significant cyber risks facing the global cyber community. This effort also aims to deepen our collaborative capabilities to enable more rapid action when the need arises.\nCISA encourages organizations to review JCDC’s Planning Agenda webpage and CISA Executive Assistant Director Eric Goldstein’s blog post on this effort for a deeper understanding of the collaborative’s joint cyber defense plans. Visit CISA.gov/JCDC to learn about other ways JCDC is uniting the global cyber community in the collective defense of cyberspace.\nThis product is provided subject to this Notification and this Privacy & Use policy.",
@@ -329,6 +339,36 @@
       "feedUrl": "https://www.darkreading.com/rss.xml",
       "siteUrl": "https://www.darkreading.com",
       "articles": [
+        {
+          "id": "https://www.darkreading.com/risk/why-most-companies-still-don-t-know-what-s-on-their-network",
+          "author": "Terry Sweeney, Contributing Editor",
+          "description": "Chris Kirsch, CEO of runZero, sits down with Dark Reading’sTerry Sweeney for a Fast Chat on the importance of asset discovery.",
+          "link": "https://www.darkreading.com/risk/why-most-companies-still-don-t-know-what-s-on-their-network",
+          "publishedOn": "2023-01-27T21:00:00.000Z",
+          "wordCount": 11473,
+          "title": "Why Most Companies Still Don’t Know What’s on Their Network",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt73a307a92ef52195/60d43224467112384c711548/terry-sweeney.png",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt73a307a92ef52195/60d43224467112384c711548/terry-sweeney.png"
+        },
+        {
+          "id": "https://www.darkreading.com/omdia/on-data-privacy-day-organizations-fail-data-privacy-expectations",
+          "author": "Maxine Holt, Research Director, Omdia",
+          "description": "Data Privacy Day rolls around year after year, and data privacy breaches likewise. Two-thirds of data breaches result in data exposure.",
+          "link": "https://www.darkreading.com/omdia/on-data-privacy-day-organizations-fail-data-privacy-expectations",
+          "publishedOn": "2023-01-27T20:00:00.000Z",
+          "wordCount": 14364,
+          "title": "On Data Privacy Day, Organizations Fail Data Privacy Expectations",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt71f9b1af3155aabd/60d44303d9a5243b66925de8/Maxine-Holt.png",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt71f9b1af3155aabd/60d44303d9a5243b66925de8/Maxine-Holt.png"
+        },
         {
           "id": "https://www.darkreading.com/cloud/critical-rce-lexmark-printer-bug-has-public-exploit",
           "author": "Dark Reading Staff, Dark Reading",
@@ -3288,21 +3328,6 @@
             "length": "0"
           },
           "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt180fd28c5b82fab9/63a5eb9fc8903b4f1dc22cb8/SafeBreach_CISO_Avishai_Avivi.jpg"
-        },
-        {
-          "id": "https://www.darkreading.com/threat-intelligence/cybersecurity-ma-funding-activity-snowballs-q4",
-          "author": "Jai Vijayan, Contributing Writer, Dark Reading",
-          "description": "Concerns about recessionary trends impacting the cybersecurity sector in 2022 remained largely unfounded in Q4, as investment activity surged after a Q3 slowdown.",
-          "link": "https://www.darkreading.com/threat-intelligence/cybersecurity-ma-funding-activity-snowballs-q4",
-          "publishedOn": "2022-12-29T14:00:00.000Z",
-          "wordCount": 13948,
-          "title": "New Year's Surprise: Cybersecurity M&A, Funding Activity Snowballs in Q4",
-          "enclosure": {
-            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt02d79fb9a44a4258/60b1e9dd2a25046b35110696/Jai-Vijayan.jpeg",
-            "type": "image/*",
-            "length": "0"
-          },
-          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt02d79fb9a44a4258/60b1e9dd2a25046b35110696/Jai-Vijayan.jpeg"
         }
       ]
     },
@@ -5642,38 +5667,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhxst_aJPoEoRl7hrP7RjIDRUvCdINj8eiCHVKK-VTQvbnegpH7PCvnBuVnUtrsLhawZ5TdHN-LzEyq0A-EtTPutqrbMu27ILrUMepelKqKuzRgqKEtbW2n2VrVgFvUe4aVomzo3UxpiiW2206WFxyeCOI5wLMwtavjcnffVBqtLEsYa_L9PNbaEjlQ/s1600/breach.png"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhxst_aJPoEoRl7hrP7RjIDRUvCdINj8eiCHVKK-VTQvbnegpH7PCvnBuVnUtrsLhawZ5TdHN-LzEyq0A-EtTPutqrbMu27ILrUMepelKqKuzRgqKEtbW2n2VrVgFvUe4aVomzo3UxpiiW2206WFxyeCOI5wLMwtavjcnffVBqtLEsYa_L9PNbaEjlQ/s1600/breach.png"
-        },
-        {
-          "id": "https://thehackernews.com/2022/12/thousands-of-citrix-servers-still.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Thousands of Citrix Application Delivery Controller (ADC) and Gateway endpoints remain vulnerable to two critical security flaws disclosed by the company over the last few months.\nThe issues in question are CVE-2022-27510 and CVE-2022-27518 (CVSS scores: 9.8), which were addressed by the virtualization services provider on November 8 and December 13, 2022, respectively.\nWhile CVE-2022-27510",
-          "link": "https://thehackernews.com/2022/12/thousands-of-citrix-servers-still.html",
-          "publishedOn": "2022-12-29T09:43:00.000Z",
-          "wordCount": null,
-          "title": "Thousands of Citrix Servers Still Unpatched for Critical Vulnerabilities",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhrDYA1RJDc8PF_V9A6C4OWwfPlvpTShu5irRdAFQzopqCFahx-3b3FbXdMr2wYHJq_KWdlkXoJyXAUfEPiyabvFToO-Usk0FMMx-kmNRl0f4toVWau1_BklBmvZ3Wuos_eQG0K4k6bqzSCrtK7h4MhPARU0m0hrJsugQUWzXr5EpFgan3Yr-4Lw688/s1600/citrix-software.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhrDYA1RJDc8PF_V9A6C4OWwfPlvpTShu5irRdAFQzopqCFahx-3b3FbXdMr2wYHJq_KWdlkXoJyXAUfEPiyabvFToO-Usk0FMMx-kmNRl0f4toVWau1_BklBmvZ3Wuos_eQG0K4k6bqzSCrtK7h4MhPARU0m0hrJsugQUWzXr5EpFgan3Yr-4Lw688/s1600/citrix-software.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2022/12/new-malvertising-campaign-via-google.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Users searching for popular software are being targeted by a new malvertising campaign that abuses Google Ads to serve trojanized variants that deploy malware, such as Raccoon Stealer and Vidar.\nThe activity makes use of seemingly credible websites with typosquatted domain names that are surfaced on top of Google search results in the form of malicious ads by hijacking searches for specific",
-          "link": "https://thehackernews.com/2022/12/new-malvertising-campaign-via-google.html",
-          "publishedOn": "2022-12-29T07:48:00.000Z",
-          "wordCount": null,
-          "title": "New Malvertising Campaign via Google Ads Targets Users Searching for Popular Software",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9hvR3y_6NdTYP3YNP4Z9Kw3snQjzDgjot-JNLvJ8fovZZou8JuCNfHvIy6JooeT3zwyfNqk_cNcal2mhfHr98HvjBlj_soRAOeATvwKh7yQ3NbyFlcu3gf9dUGVQ7cwL6U9l9tdDMoJE1Ok_BcajEUEcPMWbI-lpYzoMVX9yYgWIfZ62wc13evEu3/s1600/google-ads.png"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9hvR3y_6NdTYP3YNP4Z9Kw3snQjzDgjot-JNLvJ8fovZZou8JuCNfHvIy6JooeT3zwyfNqk_cNcal2mhfHr98HvjBlj_soRAOeATvwKh7yQ3NbyFlcu3gf9dUGVQ7cwL6U9l9tdDMoJE1Ok_BcajEUEcPMWbI-lpYzoMVX9yYgWIfZ62wc13evEu3/s1600/google-ads.png"
         }
       ]
     }
