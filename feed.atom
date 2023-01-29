@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-29T02:23:35.974Z</updated>
+    <updated>2023-01-29T07:17:07.188Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Gootkit Malware Continues to Evolve with New Components and Obfuscations]]></title>
+        <id>https://thehackernews.com/2023/01/gootkit-malware-continues-to-evolve.html</id>
+        <link href="https://thehackernews.com/2023/01/gootkit-malware-continues-to-evolve.html"/>
+        <updated>2023-01-29T05:47:00.000Z</updated>
+        <summary type="html"><![CDATA[The threat actors associated with the Gootkit malware have made "notable changes" to their toolset, adding new components and obfuscations to their infection chains.
+Google-owned Mandiant is monitoring the activity cluster under the moniker UNC2565, noting that the usage of the malware is "exclusive to this group."
+Gootkit, also called Gootloader, is spread through compromised websites that]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Microsoft Urges Customers to Secure On-Premises Exchange Servers]]></title>
         <id>https://thehackernews.com/2023/01/microsoft-urges-customers-to-secure-on.html</id>
@@ -4369,36 +4381,6 @@ The]]></summary>
         <summary type="html"><![CDATA[Despite good intentions, layered security measures, and efficacy claims by security solution vendors, new data shows that email-based threats are still getting all the way to the Inbox.]]></summary>
         <author>
             <name>Stu Sjouwerman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[API Security Is the New Black]]></title>
-        <id>https://www.darkreading.com/dr-tech/api-security-is-the-new-black</id>
-        <link href="https://www.darkreading.com/dr-tech/api-security-is-the-new-black"/>
-        <updated>2022-12-30T17:00:00.000Z</updated>
-        <summary type="html"><![CDATA[API security is so hot right now.]]></summary>
-        <author>
-            <name>Jonathan Care, Contributing Writer, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[War and Geopolitical Conflict: The New Battleground for DDoS Attacks]]></title>
-        <id>https://www.darkreading.com/attacks-breaches/war-and-geopolitical-conflict-the-new-battleground-for-ddos-attacks</id>
-        <link href="https://www.darkreading.com/attacks-breaches/war-and-geopolitical-conflict-the-new-battleground-for-ddos-attacks"/>
-        <updated>2022-12-30T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The effectiveness of attacks largely depends on organizations' distributed denial-of-service defenses.]]></summary>
-        <author>
-            <name>Gary Sockrider, Director, Security Solutions, Netscout</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Adobe, Apple, Cisco, Microsoft Flaws Make Up Half of KEV Catalog]]></title>
-        <id>https://www.darkreading.com/edge-threat-monitor/adobe-apple-cisco-microsoft-flaws-make-up-half-of-kev-catalog</id>
-        <link href="https://www.darkreading.com/edge-threat-monitor/adobe-apple-cisco-microsoft-flaws-make-up-half-of-kev-catalog"/>
-        <updated>2022-12-30T14:50:00.000Z</updated>
-        <summary type="html"><![CDATA[CISA’s Known Exploited Vulnerabilities Catalog has become a valuable repository of vulnerabilities to be patched. A pair of reports analyze the vulnerabilities under attack to understand the kind of threats organizations should be prioritizing.]]></summary>
-        <author>
-            <name>Fahmida Y. Rashid, Managing Editor, Features, Dark Reading</name>
         </author>
     </entry>
     <entry>
