@@ -2,10 +2,33 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-30T07:18:19.788Z</updated>
+    <updated>2023-01-30T13:29:06.878Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Titan Stealer: A New Golang-Based Information Stealer Malware Emerges]]></title>
+        <id>https://thehackernews.com/2023/01/titan-stealer-new-golang-based.html</id>
+        <link href="https://thehackernews.com/2023/01/titan-stealer-new-golang-based.html"/>
+        <updated>2023-01-30T11:26:00.000Z</updated>
+        <summary type="html"><![CDATA[A new Golang-based information stealer malware dubbed Titan Stealer is being advertised by threat actors through their Telegram channel.
+"The stealer is capable of stealing a variety of information from infected Windows machines, including credential data from browsers and crypto wallets, FTP client details, screenshots, system information, and grabbed files," Uptycs security researchers]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Realtek Vulnerability Under Attack: Over 134 Million Attempts to Hack IoT Devices]]></title>
+        <id>https://thehackernews.com/2023/01/realtek-vulnerability-under-attack-134.html</id>
+        <link href="https://thehackernews.com/2023/01/realtek-vulnerability-under-attack-134.html"/>
+        <updated>2023-01-30T09:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Researchers are warning about a spike in exploitation attempts weaponizing a critical remote code execution flaw in Realtek Jungle SDK since the start of August 2022.
+According to Palo Alto Networks Unit 42, the ongoing campaign is said to have recorded 134 million exploit attempts as of December 2022, with 97% of the attacks occurring in the past four months.
+Close to 50% of the attacks]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Gootkit Malware Continues to Evolve with New Components and Obfuscations]]></title>
         <id>https://thehackernews.com/2023/01/gootkit-malware-continues-to-evolve.html</id>
