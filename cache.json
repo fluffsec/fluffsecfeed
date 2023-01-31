@@ -23,6 +23,16 @@
       "siteUrl": "https://us-cert.cisa.gov/",
       "articles": [
         {
+          "id": "18322 at https://us-cert.cisa.gov",
+          "author": "CISA",
+          "description": "Original release date: January 31, 2023\nCISA released one Industrial Control Systems (ICS) advisory on January 31, 2023. This advisory provides timely information about current security issues, vulnerabilities, and exploits surrounding ICS.\nCISA encourages users and administrators to review the newly released ICS advisory for technical details and mitigations:\nICSA-23-31-01 Delta Electronics DOPSoft\nThis product is provided subject to this Notification and this Privacy & Use policy.",
+          "link": "https://us-cert.cisa.gov/ncas/current-activity/2023/01/31/cisa-releases-one-industrial-control-systems-advisory",
+          "publishedOn": "2023-01-31T16:00:00.000Z",
+          "wordCount": 949,
+          "title": "CISA Releases One Industrial Control Systems Advisory",
+          "imageUrl": null
+        },
+        {
           "id": "18319 at https://us-cert.cisa.gov",
           "author": "CISA",
           "description": "Original release date: January 27, 2023\nThe Internet Systems Consortium (ISC) has released security advisories that address vulnerabilities affecting multiple versions of the ISC’s Berkeley Internet Name Domain (BIND) 9. A remote attacker could exploit these vulnerabilities to potentially cause denial-of-service conditions and system failures.\nCISA encourages users and administrators to review the following ISC advisories CVE-2022-3094, CVE-2022-3488, CVE-2022-3736, and CVE-2022-3924 and apply the necessary mitigations.\nThis product is provided subject to this Notification and this Privacy & Use policy.",
@@ -329,6 +339,76 @@
       "feedUrl": "https://www.darkreading.com/rss.xml",
       "siteUrl": "https://www.darkreading.com",
       "articles": [
+        {
+          "id": "https://www.darkreading.com/operations/will-cybersecurity-remain-recession-proof-in-2023",
+          "author": "Jamal Elmellas , Chief Operating Officer, Focus on Security",
+          "description": "Demand for skilled professionals will remain high, but cyber budgets will be eaten away.",
+          "link": "https://www.darkreading.com/operations/will-cybersecurity-remain-recession-proof-in-2023",
+          "publishedOn": "2023-01-31T18:00:00.000Z",
+          "wordCount": 14409,
+          "title": "Will Cybersecurity Remain Recession-Proof in 2023?",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt7fea41690d86edde/63d43224ba840d40d879bcfc/JamalElmellas2022-square.jpg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt7fea41690d86edde/63d43224ba840d40d879bcfc/JamalElmellas2022-square.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/ics-ot/nanolock-addresses-global-industrial-ot-cyber-demand-with-expansions-into-europe-and-north-america",
+          "author": null,
+          "description": "To meet a pressing demand for industrial and OT security, zero-trust, device-level cybersecurity provider expands with strategic hires in new and established markets.",
+          "link": "https://www.darkreading.com/ics-ot/nanolock-addresses-global-industrial-ot-cyber-demand-with-expansions-into-europe-and-north-america",
+          "publishedOn": "2023-01-31T16:15:00.000Z",
+          "wordCount": 12761,
+          "title": "NanoLock Addresses Global Industrial & OT Cyber Demand with Expansions into Europe and North America",
+          "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/attacks-breaches/new-survey-reveals-40-of-companies-experienced-a-data-leak-in-the-past-year",
+          "author": null,
+          "description": "SysKit report highlighting effects of digital transformation on IT admins and governance landscape released.",
+          "link": "https://www.darkreading.com/attacks-breaches/new-survey-reveals-40-of-companies-experienced-a-data-leak-in-the-past-year",
+          "publishedOn": "2023-01-31T16:09:00.000Z",
+          "wordCount": 12668,
+          "title": "New Survey Reveals 40% of Companies Experienced a Data Leak in the Past Year",
+          "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/operations/aura-and-nonprofit-cyversity-partner-to-support-a-more-inclusive-cyber-workforce",
+          "author": null,
+          "description": "Mentoring, scholarships, and professional development opportunities will be offered to those underrepresented in the industry through the collaboration.",
+          "link": "https://www.darkreading.com/operations/aura-and-nonprofit-cyversity-partner-to-support-a-more-inclusive-cyber-workforce",
+          "publishedOn": "2023-01-31T15:58:00.000Z",
+          "wordCount": 13128,
+          "title": "Aura and Nonprofit Cyversity Partner to Support a More Inclusive Cyber Workforce",
+          "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/cloud/sentra-raises-30-million-series-a-financing-to-meet-growing-demand-for-data-security-in-the-cloud",
+          "author": null,
+          "description": "Standard Investments leads round with participation from Munich Re Ventures, Moore Strategic Ventures, Bessemer Venture Partners, and Zeev Ventures.",
+          "link": "https://www.darkreading.com/cloud/sentra-raises-30-million-series-a-financing-to-meet-growing-demand-for-data-security-in-the-cloud",
+          "publishedOn": "2023-01-31T15:45:00.000Z",
+          "wordCount": 13747,
+          "title": "Sentra Raises $30 Million Series A Financing to Meet Growing Demand for Data Security in the Cloud",
+          "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/operations/are-your-employees-thinking-critically-about-their-online-behaviors",
+          "author": "Jonathan Watson, Chief Technology Officer, Clio",
+          "description": "Three mindset shifts will help employees build a habit of vigilance and make better security decisions. Move past security theater to reframe thinking so employees understand data's value, act with intention, and follow data best practices.",
+          "link": "https://www.darkreading.com/operations/are-your-employees-thinking-critically-about-their-online-behaviors",
+          "publishedOn": "2023-01-31T15:00:00.000Z",
+          "wordCount": 15033,
+          "title": "Are Your Employees Thinking Critically About Their Online Behaviors?",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt5af03e4bf934d2ff/63d19c8fb406216703ab1dd9/Headshots_Jonathan_Watson_1-550x551.png",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt5af03e4bf934d2ff/63d19c8fb406216703ab1dd9/Headshots_Jonathan_Watson_1-550x551.png"
+        },
         {
           "id": "https://www.darkreading.com/attacks-breaches/russia-sandworm-apt-swarm-wiper-attacks-ukraine",
           "author": "Jai Vijayan, Contributing Writer, Dark Reading",
@@ -3514,6 +3594,16 @@
       "siteUrl": "https://blog.knowbe4.com",
       "articles": [
         {
+          "id": "https://blog.knowbe4.com/cyberheistnews-vol-13-05-eye-opener-is-cybercrime-the-worlds-third-largest-economy-after-the-us-and-china",
+          "author": "Stu Sjouwerman",
+          "description": "CyberheistNews Vol 13 #05 [Eye Opener] Is Cybercrime the World's Third Largest Economy After the U.S. and China?",
+          "link": "https://blog.knowbe4.com/cyberheistnews-vol-13-05-eye-opener-is-cybercrime-the-worlds-third-largest-economy-after-the-us-and-china",
+          "publishedOn": "2023-01-31T14:00:00.000Z",
+          "wordCount": 4534,
+          "title": "CyberheistNews Vol 13 #05 [Eye Opener] Is Cybercrime the World's Third Largest Economy After the U.S. and China?",
+          "imageUrl": "https://blog.knowbe4.com/hubfs/CHN-Social.jpg#keepProtocol"
+        },
+        {
           "id": "https://blog.knowbe4.com/russian-iranian-spear-phishing-campaigns-in-uk",
           "author": "Stu Sjouwerman",
           "description": "The UK’s National Cyber Security Centre (NCSC) has described two separate spear phishing campaigns launched by Russia’s SEABORGIUM threat actor and Iran’s TA453 (also known as Charming Kitten). The NCSC says both threat actors have targeted entities in the UK, including “academia, defence, governmental organisations, NGOs, think-tanks, as well as politicians, journalists, and activists.\"",
@@ -5871,22 +5961,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiTUquCDupuidISohJ9k62_ZLKwbt_9KITtQiRYTld1XSsrA-SB0VFWc7USseq9OSM0Y-SCw3pL27Qwwiz0vwwhUA71L_ua7LVU4nByIHqqdFjAUzxUTw-FdoMbzygtIXIcQwzb1awaIxG7S1ymtI19f2MV5AFHc12YtJ4DUJkCUUPbSjlLmbYROVyz/s1600/wordpress.jpg"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiTUquCDupuidISohJ9k62_ZLKwbt_9KITtQiRYTld1XSsrA-SB0VFWc7USseq9OSM0Y-SCw3pL27Qwwiz0vwwhUA71L_ua7LVU4nByIHqqdFjAUzxUTw-FdoMbzygtIXIcQwzb1awaIxG7S1ymtI19f2MV5AFHc12YtJ4DUJkCUUPbSjlLmbYROVyz/s1600/wordpress.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2023/01/google-to-pay-295-million-to-settle.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Google has agreed to pay a total of $29.5 million to settle two different lawsuits brought by Indiana and Washington, D.C., over its \"deceptive\" location tracking practices.\nThe search and advertising giant is required to pay $9.5 million to D.C. and $20 million to Indiana after the states sued the company for charges that the company tracked users' locations without their express consent.\nThe",
-          "link": "https://thehackernews.com/2023/01/google-to-pay-295-million-to-settle.html",
-          "publishedOn": "2023-01-02T04:15:00.000Z",
-          "wordCount": null,
-          "title": "Google to Pay $29.5 Million to Settle Lawsuits Over User Location Tracking",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjjyZFCkL3Oo5_XxT765IwAFESlryHmbhSkhTPntQ1otN3AWD0Dtnkpbemdf5LQuKI6y8ifbGvDQqF8rUNe6-34degT61zikhB2EoNuWnTilASuRkqEXblNIQ7p34Ywr3Zw_ik2ApdjBVmQvhrVTsiwKhhxMq2JkUZXoMpAE2S6UiRyrgNAItOQpp9j/s1600/google-tracking.png"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjjyZFCkL3Oo5_XxT765IwAFESlryHmbhSkhTPntQ1otN3AWD0Dtnkpbemdf5LQuKI6y8ifbGvDQqF8rUNe6-34degT61zikhB2EoNuWnTilASuRkqEXblNIQ7p34Ywr3Zw_ik2ApdjBVmQvhrVTsiwKhhxMq2JkUZXoMpAE2S6UiRyrgNAItOQpp9j/s1600/google-tracking.png"
         }
       ]
     }
