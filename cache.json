@@ -3991,6 +3991,38 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2023/01/qnap-fixes-critical-vulnerability-in.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Taiwanese company QNAP has released updates to remediate a critical security flaw affecting its network-attached storage (NAS) devices that could lead to arbitrary code injection.\nTracked as CVE-2022-27596, the vulnerability is rated 9.8 out of a maximum of 10 on the CVSS scoring scale. It affects QTS 5.0.1 and QuTS hero h5.0.1.\n\"If exploited, this vulnerability allows remote attackers to inject",
+          "link": "https://thehackernews.com/2023/01/qnap-fixes-critical-vulnerability-in.html",
+          "publishedOn": "2023-01-31T04:06:00.000Z",
+          "wordCount": null,
+          "title": "QNAP Fixes Critical Vulnerability in NAS Devices with Latest Security Updates",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEguBIDv1JB2bsbziTRoV2LVyxVxnZNyXzfmPTP4m_iiO3XkzRyP4SVyzAxQSrOJiSoiT4VKwyK3MsgmClMk8x9qdjiPlcWtOmzLXaLFsefibALWi3lI8RWz7eAkuvuXUiIfDyOjvOIn_CGNoynANVcL4N6c3jaarWySmSDbLY34X_bMDp69hn7I1eTj/s1600/QNAP.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEguBIDv1JB2bsbziTRoV2LVyxVxnZNyXzfmPTP4m_iiO3XkzRyP4SVyzAxQSrOJiSoiT4VKwyK3MsgmClMk8x9qdjiPlcWtOmzLXaLFsefibALWi3lI8RWz7eAkuvuXUiIfDyOjvOIn_CGNoynANVcL4N6c3jaarWySmSDbLY34X_bMDp69hn7I1eTj/s1600/QNAP.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2023/01/github-breach-hackers-stole-code.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "GitHub on Monday disclosed that unknown threat actors managed to exfiltrate encrypted code signing certificates pertaining to some versions of GitHub Desktop for Mac and Atom apps.\nAs a result, the company is taking the step of revoking the exposed certificates out of abundance of caution. The following versions of GitHub Desktop for Mac have been invalidated: 3.0.2, 3.0.3, 3.0.4, 3.0.5, 3.0.6,",
+          "link": "https://thehackernews.com/2023/01/github-breach-hackers-stole-code.html",
+          "publishedOn": "2023-01-31T03:37:00.000Z",
+          "wordCount": null,
+          "title": "GitHub Breach: Hackers Stole Code-Signing Certificates for GitHub Desktop and Atom",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-cw_mRjni2aCB0SFStY1lK4OZair3ReHeI2QzLXPADxFi-MUk_rBLOYI9pHenIBVVvsjEnOs72mQxHVBPIhgzJWSWmLAXSS2Jdw1SOaZVAX50Iubm7uNcvJoBfOn887paOmgsb0FhtoOS1OWAWjeeKWVU3-IK5a8E_SOPCuk_BBO2W-0McjfUlOkW/s1600/github.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-cw_mRjni2aCB0SFStY1lK4OZair3ReHeI2QzLXPADxFi-MUk_rBLOYI9pHenIBVVvsjEnOs72mQxHVBPIhgzJWSWmLAXSS2Jdw1SOaZVAX50Iubm7uNcvJoBfOn887paOmgsb0FhtoOS1OWAWjeeKWVU3-IK5a8E_SOPCuk_BBO2W-0McjfUlOkW/s1600/github.png"
+        },
+        {
           "id": "https://thehackernews.com/2023/01/titan-stealer-new-golang-based.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "A new Golang-based information stealer malware dubbed Titan Stealer is being advertised by threat actors through their Telegram channel.\n\"The stealer is capable of stealing a variety of information from infected Windows machines, including credential data from browsers and crypto wallets, FTP client details, screenshots, system information, and grabbed files,\" Uptycs security researchers",
