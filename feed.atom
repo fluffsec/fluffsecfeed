@@ -2,10 +2,55 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-31T07:17:53.376Z</updated>
+    <updated>2023-01-31T13:29:41.432Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[You Don't Know Where Your Secrets Are]]></title>
+        <id>https://thehackernews.com/2023/01/you-dont-know-where-your-secrets-are.html</id>
+        <link href="https://thehackernews.com/2023/01/you-dont-know-where-your-secrets-are.html"/>
+        <updated>2023-01-31T12:46:00.000Z</updated>
+        <summary type="html"><![CDATA[Do you know where your secrets are? If not, I can tell you: you are not alone.
+Hundreds of CISOs, CSOs, and security leaders, whether from small or large companies, don't know either. No matter the organization's size, the certifications, tools, people, and processes: secrets are not visible in 99% of cases.
+It might sound ridiculous at first: keeping secrets is an obvious first thought when]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New Report Reveals NikoWiper Malware That Targeted Ukraine Energy Sector]]></title>
+        <id>https://thehackernews.com/2023/01/new-report-reveals-nikowiper-malware.html</id>
+        <link href="https://thehackernews.com/2023/01/new-report-reveals-nikowiper-malware.html"/>
+        <updated>2023-01-31T11:08:00.000Z</updated>
+        <summary type="html"><![CDATA[The Russia-affiliated Sandworm used yet another wiper malware strain dubbed NikoWiper as part of an attack that took place in October 2022 targeting an energy sector company in Ukraine.
+"The NikoWiper is based on SDelete, a command line utility from Microsoft that is used for securely deleting files," cybersecurity company ESET revealed in its latest APT Activity Report shared with The Hacker]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Researchers Uncover Packer Used by Several Malware to Evade Detection for 6 Years]]></title>
+        <id>https://thehackernews.com/2023/01/researchers-uncover-packer-that-helped.html</id>
+        <link href="https://thehackernews.com/2023/01/researchers-uncover-packer-that-helped.html"/>
+        <updated>2023-01-31T10:39:00.000Z</updated>
+        <summary type="html"><![CDATA[A shellcode-based packer dubbed TrickGate has been successfully operating without attracting notice for over six years, while enabling threat actors to deploy a wide range of malware such as TrickBot, Emotet, AZORult, Agent Tesla, FormBook, Cerber, Maze, and REvil over the years.
+"TrickGate managed to stay under the radar for years because it is transformative – it undergoes changes periodically]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Investigation – Threat actor consent phishing campaign abusing the verified publisher process]]></title>
+        <id>https://msrc-blog.microsoft.com/?p=15290</id>
+        <link href="https://msrc-blog.microsoft.com/2023/01/31/threat-actor-consent-phishing-campaign-abusing-the-verified-publisher-process/"/>
+        <updated>2023-01-31T10:15:00.000Z</updated>
+        <summary type="html"><![CDATA[Summary On December 15th, 2022, Microsoft became aware of a consent phishing campaign involving threat actors fraudulently impersonating legitimate companies when enrolling in the Microsoft Cloud Partner Program (MCPP) (formerly known as Microsoft Partner Network (MPN)). The actor used fraudulent partner accounts to add a verified publisher to OAuth app registrations they created in Azure …
+  Microsoft Investigation – Threat actor consent phishing campaign abusing the verified publisher process Read More »]]></summary>
+        <author>
+            <name>msrc</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[QNAP Fixes Critical Vulnerability in NAS Devices with Latest Security Updates]]></title>
         <id>https://thehackernews.com/2023/01/qnap-fixes-critical-vulnerability-in.html</id>

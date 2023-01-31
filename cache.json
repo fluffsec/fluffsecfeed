@@ -3461,6 +3461,16 @@
       "siteUrl": "https://msrc-blog.microsoft.com",
       "articles": [
         {
+          "id": "https://msrc-blog.microsoft.com/?p=15290",
+          "author": "msrc",
+          "description": "Summary On December 15th, 2022, Microsoft became aware of a consent phishing campaign involving threat actors fraudulently impersonating legitimate companies when enrolling in the Microsoft Cloud Partner Program (MCPP) (formerly known as Microsoft Partner Network (MPN)). The actor used fraudulent partner accounts to add a verified publisher to OAuth app registrations they created in Azure …\n  Microsoft Investigation – Threat actor consent phishing campaign abusing the verified publisher process Read More »",
+          "link": "https://msrc-blog.microsoft.com/2023/01/31/threat-actor-consent-phishing-campaign-abusing-the-verified-publisher-process/",
+          "publishedOn": "2023-01-31T10:15:00.000Z",
+          "wordCount": 1940,
+          "title": "Microsoft Investigation – Threat actor consent phishing campaign abusing the verified publisher process",
+          "imageUrl": null
+        },
+        {
           "id": "https://msrc-blog.microsoft.com/?p=15300",
           "author": "msrc",
           "description": "Congratulations to all the researchers recognized in this quarter’s Microsoft Researcher Recognition Program leaderboard! Thank you to everyone for your hard work and continued partnership to secure customers. The top three researchers of the 2022 Q4 Security Researcher Leaderboard are: goodbyeselene, Jarvis_1oop, and kap0k! Check out the full list of researchers recognized this quarter here. …\n  Congratulations to the Top MSRC 2022 Q4 Security Researchers! Read More »",
@@ -3990,6 +4000,54 @@
       "feedUrl": "https://thehackernews.com/feeds/posts/default",
       "siteUrl": "https://thehackernews.com",
       "articles": [
+        {
+          "id": "https://thehackernews.com/2023/01/you-dont-know-where-your-secrets-are.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Do you know where your secrets are? If not, I can tell you: you are not alone.\nHundreds of CISOs, CSOs, and security leaders, whether from small or large companies, don't know either. No matter the organization's size, the certifications, tools, people, and processes: secrets are not visible in 99% of cases.\nIt might sound ridiculous at first: keeping secrets is an obvious first thought when",
+          "link": "https://thehackernews.com/2023/01/you-dont-know-where-your-secrets-are.html",
+          "publishedOn": "2023-01-31T12:46:00.000Z",
+          "wordCount": null,
+          "title": "You Don't Know Where Your Secrets Are",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhq0WHe2t0zN31XdVJPPAC2r29Ouw1_FeYjuYaDb1iUueVkOezh2eKzIsKEPtx8DGIBSQlhLgYvtSiEoAZ79TFzs2cWyadR2oQbsn4Qy3s59VlwZW1lNljV8YQvNy4gby1bxsBnvpJNmxiodaJIwft1moNqFB5tXmkMJJC2UNz1Pg2s37BDAu3gH_b0hg/s1600/saas.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhq0WHe2t0zN31XdVJPPAC2r29Ouw1_FeYjuYaDb1iUueVkOezh2eKzIsKEPtx8DGIBSQlhLgYvtSiEoAZ79TFzs2cWyadR2oQbsn4Qy3s59VlwZW1lNljV8YQvNy4gby1bxsBnvpJNmxiodaJIwft1moNqFB5tXmkMJJC2UNz1Pg2s37BDAu3gH_b0hg/s1600/saas.png"
+        },
+        {
+          "id": "https://thehackernews.com/2023/01/new-report-reveals-nikowiper-malware.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "The Russia-affiliated Sandworm used yet another wiper malware strain dubbed NikoWiper as part of an attack that took place in October 2022 targeting an energy sector company in Ukraine.\n\"The NikoWiper is based on SDelete, a command line utility from Microsoft that is used for securely deleting files,\" cybersecurity company ESET revealed in its latest APT Activity Report shared with The Hacker",
+          "link": "https://thehackernews.com/2023/01/new-report-reveals-nikowiper-malware.html",
+          "publishedOn": "2023-01-31T11:08:00.000Z",
+          "wordCount": null,
+          "title": "New Report Reveals NikoWiper Malware That Targeted Ukraine Energy Sector",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjnFhCoV_bkrjXUlZtHtNdrisEyRyifIa-OIB2tHuoudDmY35gA-hyBq0Sra5I4VE25CQOqNbxXtQfQOWgKisvDJFMrikV1mdN4T6NhPQETNU_UZIXmi1t_Bh6ry8T3-RD67qQpuArUB8YTbzcqkFAv15tNBIAKlTmLGDtHUvJKztsV1LMMymYaZS11/s1600/flag.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjnFhCoV_bkrjXUlZtHtNdrisEyRyifIa-OIB2tHuoudDmY35gA-hyBq0Sra5I4VE25CQOqNbxXtQfQOWgKisvDJFMrikV1mdN4T6NhPQETNU_UZIXmi1t_Bh6ry8T3-RD67qQpuArUB8YTbzcqkFAv15tNBIAKlTmLGDtHUvJKztsV1LMMymYaZS11/s1600/flag.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2023/01/researchers-uncover-packer-that-helped.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "A shellcode-based packer dubbed TrickGate has been successfully operating without attracting notice for over six years, while enabling threat actors to deploy a wide range of malware such as TrickBot, Emotet, AZORult, Agent Tesla, FormBook, Cerber, Maze, and REvil over the years.\n\"TrickGate managed to stay under the radar for years because it is transformative – it undergoes changes periodically",
+          "link": "https://thehackernews.com/2023/01/researchers-uncover-packer-that-helped.html",
+          "publishedOn": "2023-01-31T10:39:00.000Z",
+          "wordCount": null,
+          "title": "Researchers Uncover Packer Used by Several Malware to Evade Detection for 6 Years",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgq_hQ6N_VypxFSVt9Uuiccijt6Z1X7Yb6710sU7_4qCGZLMpoA_xFkglIz1UszSGpYY1xiSWvFg2dynXCvOJLHNgwHoHiWc3tIE8kk9uhmI01gvZjohQQRE5N9cSBrSt9-25EAuaEtpGVt_qdywJGHIFtAOymF7R2t4pxvO7Cw9SBh5vCIrMSLNErl/s1600/malware.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgq_hQ6N_VypxFSVt9Uuiccijt6Z1X7Yb6710sU7_4qCGZLMpoA_xFkglIz1UszSGpYY1xiSWvFg2dynXCvOJLHNgwHoHiWc3tIE8kk9uhmI01gvZjohQQRE5N9cSBrSt9-25EAuaEtpGVt_qdywJGHIFtAOymF7R2t4pxvO7Cw9SBh5vCIrMSLNErl/s1600/malware.png"
+        },
         {
           "id": "https://thehackernews.com/2023/01/qnap-fixes-critical-vulnerability-in.html",
           "author": "info@thehackernews.com (The Hacker News)",
