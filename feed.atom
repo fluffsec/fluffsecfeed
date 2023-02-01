@@ -2,10 +2,100 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-31T19:16:04.939Z</updated>
+    <updated>2023-02-01T02:37:16.697Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How Can Disrupting DNS Communications Thwart a Malware Attack?]]></title>
+        <id>https://www.darkreading.com/edge-ask-the-experts/how-can-disrupting-dns-communications-thwart-a-malware-attack-</id>
+        <link href="https://www.darkreading.com/edge-ask-the-experts/how-can-disrupting-dns-communications-thwart-a-malware-attack-"/>
+        <updated>2023-02-01T02:05:00.000Z</updated>
+        <summary type="html"><![CDATA[Malware eventually has to exfiltrate the data it accessed. By watching DNS traffic for suspicious activity, organizations can halt the damage.]]></summary>
+        <author>
+            <name>Dave Mitchell, CTO, HYAS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Firmware Flaws Could Spell 'Lights Out' for Servers]]></title>
+        <id>https://www.darkreading.com/vulnerabilities-threats/firmware-flaws-could-spell-lights-out-for-servers</id>
+        <link href="https://www.darkreading.com/vulnerabilities-threats/firmware-flaws-could-spell-lights-out-for-servers"/>
+        <updated>2023-01-31T22:35:00.000Z</updated>
+        <summary type="html"><![CDATA[Five vulnerabilities in the baseboard management controller (BMC) software used by 15 major vendors could allow remote code execution if attackers gain network access.]]></summary>
+        <author>
+            <name>Robert Lemos, Contributing Writer, Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Critical VMware RCE Vulnerabilities Targeted by Public Exploit Code]]></title>
+        <id>https://www.darkreading.com/application-security/critical-vmware-rce-vulnerabilities-targeted-public-exploit-code</id>
+        <link href="https://www.darkreading.com/application-security/critical-vmware-rce-vulnerabilities-targeted-public-exploit-code"/>
+        <updated>2023-01-31T21:30:33.000Z</updated>
+        <summary type="html"><![CDATA[Security vulnerabilities in VMware's vRealize Log Insight platform can be chained together to offer a cybercriminals a gaping hole to access corporate crown jewels.]]></summary>
+        <author>
+            <name>Tara Seals, Managing Editor, News, Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Travel-Themed Phishing Attacks Lure Victims with Promises of Free Tickets, Points, and Exclusive Deals]]></title>
+        <id>https://blog.knowbe4.com/travel-themed-phishing-attacks-lure-victims</id>
+        <link href="https://blog.knowbe4.com/travel-themed-phishing-attacks-lure-victims"/>
+        <updated>2023-01-31T20:04:34.000Z</updated>
+        <summary type="html"><![CDATA[New analysis of December and January emails shows massive spikes in attacks aimed at stealing personal information and credit cards under the guise of once-in-a-lifetime travel deals.]]></summary>
+        <author>
+            <name>Stu Sjouwerman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OneNote Attachments Used as Phish Hooks]]></title>
+        <id>https://blog.knowbe4.com/onenote-attachments-used-as-phish-hooks</id>
+        <link href="https://blog.knowbe4.com/onenote-attachments-used-as-phish-hooks"/>
+        <updated>2023-01-31T20:04:28.000Z</updated>
+        <summary type="html"><![CDATA[Threat actors are using malicious attachments in OneNote in order to distribute malware, BleepingComputer reports. The attackers attach VBS files that instruct the user to double-click on the file. Most of the phishing lures pose as shipping notifications, invoices, or mechanical drawings.]]></summary>
+        <author>
+            <name>Stu Sjouwerman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ransomware Targets are Getting Larger and Paying More as Fewer Victims Are Paying the Ransom]]></title>
+        <id>https://blog.knowbe4.com/ransomware-targets-getting-larger-fewer-victims-paying-ransom</id>
+        <link href="https://blog.knowbe4.com/ransomware-targets-getting-larger-fewer-victims-paying-ransom"/>
+        <updated>2023-01-31T20:04:22.000Z</updated>
+        <summary type="html"><![CDATA[New data showcasing the state of ransomware shows that while organizations are likely getting better at recovery (and not paying the ransom), cybercriminals are shifting focus to ensure the make money.]]></summary>
+        <author>
+            <name>Stu Sjouwerman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft OneNote Attachments Become the Latest Method to Spread Malware]]></title>
+        <id>https://blog.knowbe4.com/microsoft-onenote-attachments-spread-malware</id>
+        <link href="https://blog.knowbe4.com/microsoft-onenote-attachments-spread-malware"/>
+        <updated>2023-01-31T20:04:16.000Z</updated>
+        <summary type="html"><![CDATA[With Microsoft disabling macros by default on Office documents, cybercriminals are left needing another means to launch malware that’s victim-supported by default.]]></summary>
+        <author>
+            <name>Stu Sjouwerman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Phishers Trick Microsoft Into Granting Them 'Verified' Cloud Partner Status]]></title>
+        <id>https://www.darkreading.com/cloud/phishers-trick-microsoft-granting-verified-cloud-partner-status</id>
+        <link href="https://www.darkreading.com/cloud/phishers-trick-microsoft-granting-verified-cloud-partner-status"/>
+        <updated>2023-01-31T20:00:41.000Z</updated>
+        <summary type="html"><![CDATA[Everyone on Twitter wants a blue check mark. But Microsoft Azure's blue badges are even more valuable to a threat actor stealing your data via malicious OAuth apps.]]></summary>
+        <author>
+            <name>Nate Nelson, Contributing Writer, Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Poser Hackers Impersonate LockBit in SMB Cyberattacks]]></title>
+        <id>https://www.darkreading.com/application-security/poser-hackers-impersonate-lockbit-smb-cyberattacks</id>
+        <link href="https://www.darkreading.com/application-security/poser-hackers-impersonate-lockbit-smb-cyberattacks"/>
+        <updated>2023-01-31T19:44:43.000Z</updated>
+        <summary type="html"><![CDATA[Recent cyberattacks against SMBs across Europe have been traced back to copycat groups using leaked LockBit locker malware.]]></summary>
+        <author>
+            <name>Dark Reading Staff, Dark Reading</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Will Cybersecurity Remain Recession-Proof in 2023?]]></title>
         <id>https://www.darkreading.com/operations/will-cybersecurity-remain-recession-proof-in-2023</id>
@@ -4657,28 +4747,6 @@ The intrusions, observed against]]></summary>
         <updated>2023-01-02T16:10:00.000Z</updated>
         <summary type="html"><![CDATA[Chinese international students in the U.K. have been targeted by persistent Chinese-speaking scammers for over a year as part of an activity dubbed RedZei (aka RedThief).
 "The RedZei fraudsters have chosen their targets carefully, researched them and realized it was a rich victim group that is ripe for exploitation," cybersecurity researcher Will Thomas (@BushidoToken) said in a write-up]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PyTorch Machine Learning Framework Compromised with Malicious Dependency]]></title>
-        <id>https://thehackernews.com/2023/01/pytorch-machine-learning-framework.html</id>
-        <link href="https://thehackernews.com/2023/01/pytorch-machine-learning-framework.html"/>
-        <updated>2023-01-02T14:27:00.000Z</updated>
-        <summary type="html"><![CDATA[The maintainers of the PyTorch package have warned users who have installed the nightly builds of the library between December 25, 2022, and December 30, 2022, to uninstall and download the latest versions following a dependency confusion attack.
-"PyTorch-nightly Linux packages installed via pip during that time installed a dependency, torchtriton, which was compromised on the Python Package]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WordPress Security Alert: New Linux Malware Exploiting Over Two Dozen CMS Flaws]]></title>
-        <id>https://thehackernews.com/2023/01/wordpress-security-alert-new-linux.html</id>
-        <link href="https://thehackernews.com/2023/01/wordpress-security-alert-new-linux.html"/>
-        <updated>2023-01-02T07:50:00.000Z</updated>
-        <summary type="html"><![CDATA[WordPress sites are being targeted by a previously unknown strain of Linux malware that exploits flaws in over two dozen plugins and themes to compromise vulnerable systems.
-"If sites use outdated versions of such add-ons, lacking crucial fixes, the targeted web pages are injected with malicious JavaScripts," Russian security vendor Doctor Web said in a report published last week. "As a result,]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
