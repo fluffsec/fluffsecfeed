@@ -4226,6 +4226,54 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2023/02/new-sh1mmer-exploit-for-chromebook.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "A new exploit has been devised to \"unenroll\" enterprise- or school-managed Chromebooks from administrative control.\nEnrolling ChromeOS devices makes it possible to enforce device policies as set by the organization via the Google Admin console, including the features that are available to users.\n\"Each enrolled device complies with the policies you set until you wipe or deprovision it,\" Google",
+          "link": "https://thehackernews.com/2023/02/new-sh1mmer-exploit-for-chromebook.html",
+          "publishedOn": "2023-02-01T10:46:00.000Z",
+          "wordCount": null,
+          "title": "New SH1MMER Exploit for Chromebook Unenrolls Managed ChromeOS Devices",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0-CUfwjiBHFPhDPQFmKcyCCPzk1EAWUKvtw7bFzT1zfz2h0Iu4UCfNvx9jh4IU70k23Ssqz5Ozkfqnsh7ytuS48-BHOfsF0pzN1vEVt1BTmNs97HbV5EwCAFnRU1rzUdPmmesNxVlSs-Hg2elN8Y_yYsQI6mVI6KtUcpWJC4p0_b2nR2zGNIGDMJq/s1600/exploit.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0-CUfwjiBHFPhDPQFmKcyCCPzk1EAWUKvtw7bFzT1zfz2h0Iu4UCfNvx9jh4IU70k23Ssqz5Ozkfqnsh7ytuS48-BHOfsF0pzN1vEVt1BTmNs97HbV5EwCAFnRU1rzUdPmmesNxVlSs-Hg2elN8Y_yYsQI6mVI6KtUcpWJC4p0_b2nR2zGNIGDMJq/s1600/exploit.png"
+        },
+        {
+          "id": "https://thehackernews.com/2023/02/prilex-pos-malware-evolves-to-block.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "The Brazilian threat actors behind an advanced and modular point-of-sale (PoS) malware known as Prilex have reared their head once again with new updates that allow it to block contactless payment transactions.\nRussian cybersecurity firm Kaspersky said it detected three versions of Prilex (06.03.8080, 06.03.8072, and 06.03.8070) that are capable of targeting NFC-enabled credit cards, taking its",
+          "link": "https://thehackernews.com/2023/02/prilex-pos-malware-evolves-to-block.html",
+          "publishedOn": "2023-02-01T10:25:00.000Z",
+          "wordCount": null,
+          "title": "Prilex PoS Malware Evolves to Block Contactless Payments to Steal from NFC Cards",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhtzeD_g_-WsMVciMBP-MGZ3JE9pVoIOOiK2rd9vTV07lYvg8sUkrUCNWK_aSN85uC14WrLB16PTOSaD-ymFOzcnBj4Bynu-MzYNTRmI4-YfmDJ1R3bofiOi_J5DdYEZ8_dXsedEBjvrC7p3K8iUIO-pndxytHm0z2mMDjhS2s_d-7Wxq85Eu_LQcJ5/s1600/payment.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhtzeD_g_-WsMVciMBP-MGZ3JE9pVoIOOiK2rd9vTV07lYvg8sUkrUCNWK_aSN85uC14WrLB16PTOSaD-ymFOzcnBj4Bynu-MzYNTRmI4-YfmDJ1R3bofiOi_J5DdYEZ8_dXsedEBjvrC7p3K8iUIO-pndxytHm0z2mMDjhS2s_d-7Wxq85Eu_LQcJ5/s1600/payment.png"
+        },
+        {
+          "id": "https://thehackernews.com/2023/02/auditing-kubernetes-with-open-source.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Container technology has gained traction among businesses due to the increased efficiency it provides. In this regard, organizations widely use Kubernetes for deploying, scaling, and managing containerized applications. Organizations should audit Kubernetes to ensure compliance with regulations, find anomalies, and identify security risks. The Wazuh open source platform plays a critical role in",
+          "link": "https://thehackernews.com/2023/02/auditing-kubernetes-with-open-source.html",
+          "publishedOn": "2023-02-01T09:29:00.000Z",
+          "wordCount": null,
+          "title": "Auditing Kubernetes with Open Source SIEM and XDR",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi1rjaFk6Tftt19hJicagpIzaNfyEiEM3AU9H40dqCVnjIPb_HxIEvdapTKBgNOFjNWW2NEObN_DO3mga8cjrILGiAZeqLPUHc9Pt8jau1KuAcEKx-sCeS9b4mMAJZWAFElgJFAhsmwdGaHhhagy5lrFk-mTtgtyaG5Z-x1pOF5jYifst7jtWj7Hq-o/s1600/wazuh.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi1rjaFk6Tftt19hJicagpIzaNfyEiEM3AU9H40dqCVnjIPb_HxIEvdapTKBgNOFjNWW2NEObN_DO3mga8cjrILGiAZeqLPUHc9Pt8jau1KuAcEKx-sCeS9b4mMAJZWAFElgJFAhsmwdGaHhhagy5lrFk-mTtgtyaG5Z-x1pOF5jYifst7jtWj7Hq-o/s1600/wazuh.png"
+        },
+        {
           "id": "https://thehackernews.com/2023/02/hackers-abused-microsofts-verified.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Microsoft on Tuesday said it took steps to disable fake Microsoft Partner Network (MPN) accounts that were used for creating malicious OAuth applications as part of a malicious campaign designed to breach organizations' cloud environments and steal email.\n\"The applications created by these fraudulent actors were then used in a consent phishing campaign, which tricked users into granting",

@@ -2,10 +2,43 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-02-01T07:18:48.732Z</updated>
+    <updated>2023-02-01T13:26:58.628Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[New SH1MMER Exploit for Chromebook Unenrolls Managed ChromeOS Devices]]></title>
+        <id>https://thehackernews.com/2023/02/new-sh1mmer-exploit-for-chromebook.html</id>
+        <link href="https://thehackernews.com/2023/02/new-sh1mmer-exploit-for-chromebook.html"/>
+        <updated>2023-02-01T10:46:00.000Z</updated>
+        <summary type="html"><![CDATA[A new exploit has been devised to "unenroll" enterprise- or school-managed Chromebooks from administrative control.
+Enrolling ChromeOS devices makes it possible to enforce device policies as set by the organization via the Google Admin console, including the features that are available to users.
+"Each enrolled device complies with the policies you set until you wipe or deprovision it," Google]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Prilex PoS Malware Evolves to Block Contactless Payments to Steal from NFC Cards]]></title>
+        <id>https://thehackernews.com/2023/02/prilex-pos-malware-evolves-to-block.html</id>
+        <link href="https://thehackernews.com/2023/02/prilex-pos-malware-evolves-to-block.html"/>
+        <updated>2023-02-01T10:25:00.000Z</updated>
+        <summary type="html"><![CDATA[The Brazilian threat actors behind an advanced and modular point-of-sale (PoS) malware known as Prilex have reared their head once again with new updates that allow it to block contactless payment transactions.
+Russian cybersecurity firm Kaspersky said it detected three versions of Prilex (06.03.8080, 06.03.8072, and 06.03.8070) that are capable of targeting NFC-enabled credit cards, taking its]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Auditing Kubernetes with Open Source SIEM and XDR]]></title>
+        <id>https://thehackernews.com/2023/02/auditing-kubernetes-with-open-source.html</id>
+        <link href="https://thehackernews.com/2023/02/auditing-kubernetes-with-open-source.html"/>
+        <updated>2023-02-01T09:29:00.000Z</updated>
+        <summary type="html"><![CDATA[Container technology has gained traction among businesses due to the increased efficiency it provides. In this regard, organizations widely use Kubernetes for deploying, scaling, and managing containerized applications. Organizations should audit Kubernetes to ensure compliance with regulations, find anomalies, and identify security risks. The Wazuh open source platform plays a critical role in]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hackers Abused Microsoft's "Verified Publisher" OAuth Apps to Hack Corporate Email Accounts]]></title>
         <id>https://thehackernews.com/2023/02/hackers-abused-microsofts-verified.html</id>
