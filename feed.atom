@@ -2,10 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-02-01T02:37:16.697Z</updated>
+    <updated>2023-02-01T07:18:48.732Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Hackers Abused Microsoft's "Verified Publisher" OAuth Apps to Hack Corporate Email Accounts]]></title>
+        <id>https://thehackernews.com/2023/02/hackers-abused-microsofts-verified.html</id>
+        <link href="https://thehackernews.com/2023/02/hackers-abused-microsofts-verified.html"/>
+        <updated>2023-02-01T05:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft on Tuesday said it took steps to disable fake Microsoft Partner Network (MPN) accounts that were used for creating malicious OAuth applications as part of a malicious campaign designed to breach organizations' cloud environments and steal email.
+"The applications created by these fraudulent actors were then used in a consent phishing campaign, which tricked users into granting]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SA45653 - Cross-site Request Forgery in Login Form]]></title>
+        <id>Cross-site-Request-Forgery-in-Login-Form</id>
+        <link href="https://kb.pulsesecure.net/articles/Pulse_Security_Advisories/Cross-site-Request-Forgery-in-Login-Form"/>
+        <updated>2023-02-01T05:05:19.000Z</updated>
+        <author>
+            <name>Public KB</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SA45654 - Multiple OpenSSL Vulnerabilities in Layer 2 network filtering capabilities]]></title>
+        <id>Multiple-OpenSSL-Vulnerabilities-in-Layer-2-network-filtering-capabilities</id>
+        <link href="https://kb.pulsesecure.net/articles/Pulse_Security_Advisories/Multiple-OpenSSL-Vulnerabilities-in-Layer-2-network-filtering-capabilities"/>
+        <updated>2023-02-01T05:04:22.000Z</updated>
+        <author>
+            <name>Public KB</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Additional Supply Chain Vulnerabilities Uncovered in AMI MegaRAC BMC Software]]></title>
+        <id>https://thehackernews.com/2023/02/additional-supply-chain-vulnerabilities.html</id>
+        <link href="https://thehackernews.com/2023/02/additional-supply-chain-vulnerabilities.html"/>
+        <updated>2023-02-01T03:14:00.000Z</updated>
+        <summary type="html"><![CDATA[Two more supply chain security flaws have been disclosed in AMI MegaRAC Baseboard Management Controller (BMC) software, nearly two months after three security vulnerabilities were brought to light in the same product.
+Firmware security firm Eclypsium said the two shortcomings were held back until now to provide AMI additional time to engineer appropriate mitigations.
+The issues, collectively]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How Can Disrupting DNS Communications Thwart a Malware Attack?]]></title>
         <id>https://www.darkreading.com/edge-ask-the-experts/how-can-disrupting-dns-communications-thwart-a-malware-attack-</id>
@@ -4736,17 +4777,6 @@ The discovery]]></summary>
         <summary type="html"><![CDATA[Financial and insurance sectors in Europe have been targeted by the Raspberry Robin worm, as the malware continues to evolve its post-exploitation capabilities while remaining under the radar.
 "What is unique about the malware is that it is heavily obfuscated and highly complex to statically disassemble," Security Joes said in a new report published Monday.
 The intrusions, observed against]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RedZei Chinese Scammers Targeting Chinese Students in the U.K.]]></title>
-        <id>https://thehackernews.com/2023/01/redzei-chinese-scammers-targeting.html</id>
-        <link href="https://thehackernews.com/2023/01/redzei-chinese-scammers-targeting.html"/>
-        <updated>2023-01-02T16:10:00.000Z</updated>
-        <summary type="html"><![CDATA[Chinese international students in the U.K. have been targeted by persistent Chinese-speaking scammers for over a year as part of an activity dubbed RedZei (aka RedThief).
-"The RedZei fraudsters have chosen their targets carefully, researched them and realized it was a rich victim group that is ripe for exploitation," cybersecurity researcher Will Thomas (@BushidoToken) said in a write-up]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>

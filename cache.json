@@ -3589,6 +3589,26 @@
       "siteUrl": "https://kb.pulsesecure.net/?q=Pulse_Security_Advisories__kav%3B10&l=en_US",
       "articles": [
         {
+          "id": "Cross-site-Request-Forgery-in-Login-Form",
+          "author": null,
+          "description": "",
+          "link": "https://kb.pulsesecure.net/articles/Pulse_Security_Advisories/Cross-site-Request-Forgery-in-Login-Form",
+          "publishedOn": "2023-02-01T05:05:19.000Z",
+          "wordCount": 3459,
+          "title": "SA45653 - Cross-site Request Forgery in Login Form",
+          "imageUrl": null
+        },
+        {
+          "id": "Multiple-OpenSSL-Vulnerabilities-in-Layer-2-network-filtering-capabilities",
+          "author": null,
+          "description": "",
+          "link": "https://kb.pulsesecure.net/articles/Pulse_Security_Advisories/Multiple-OpenSSL-Vulnerabilities-in-Layer-2-network-filtering-capabilities",
+          "publishedOn": "2023-02-01T05:04:22.000Z",
+          "wordCount": 3506,
+          "title": "SA45654 - Multiple OpenSSL Vulnerabilities in Layer 2 network filtering capabilities",
+          "imageUrl": null
+        },
+        {
           "id": "OpenSSL-Security-Advisory-CVE-2022-2588",
           "author": null,
           "description": "",
@@ -4205,6 +4225,38 @@
       "feedUrl": "https://thehackernews.com/feeds/posts/default",
       "siteUrl": "https://thehackernews.com",
       "articles": [
+        {
+          "id": "https://thehackernews.com/2023/02/hackers-abused-microsofts-verified.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Microsoft on Tuesday said it took steps to disable fake Microsoft Partner Network (MPN) accounts that were used for creating malicious OAuth applications as part of a malicious campaign designed to breach organizations' cloud environments and steal email.\n\"The applications created by these fraudulent actors were then used in a consent phishing campaign, which tricked users into granting",
+          "link": "https://thehackernews.com/2023/02/hackers-abused-microsofts-verified.html",
+          "publishedOn": "2023-02-01T05:30:00.000Z",
+          "wordCount": null,
+          "title": "Hackers Abused Microsoft's \"Verified Publisher\" OAuth Apps to Hack Corporate Email Accounts",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi6xx_j9CYuzquVXuuDAM23W3Brj52Kbkfv7J_-dmCr6Mrf4naea1FtHEB2rdQjTutfx7kXnhY50wVTer6hMWkygha53hjqvcEUMf9_03y59ypJVB5r5EC7GFVHx_cw3hc50A0xQApCdA9PTznYvICSi0VpDtGMsDKmNxcYg7Qe1e5R4zWkAePDXzdF/s1600/ms.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi6xx_j9CYuzquVXuuDAM23W3Brj52Kbkfv7J_-dmCr6Mrf4naea1FtHEB2rdQjTutfx7kXnhY50wVTer6hMWkygha53hjqvcEUMf9_03y59ypJVB5r5EC7GFVHx_cw3hc50A0xQApCdA9PTznYvICSi0VpDtGMsDKmNxcYg7Qe1e5R4zWkAePDXzdF/s1600/ms.png"
+        },
+        {
+          "id": "https://thehackernews.com/2023/02/additional-supply-chain-vulnerabilities.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Two more supply chain security flaws have been disclosed in AMI MegaRAC Baseboard Management Controller (BMC) software, nearly two months after three security vulnerabilities were brought to light in the same product.\nFirmware security firm Eclypsium said the two shortcomings were held back until now to provide AMI additional time to engineer appropriate mitigations.\nThe issues, collectively",
+          "link": "https://thehackernews.com/2023/02/additional-supply-chain-vulnerabilities.html",
+          "publishedOn": "2023-02-01T03:14:00.000Z",
+          "wordCount": null,
+          "title": "Additional Supply Chain Vulnerabilities Uncovered in AMI MegaRAC BMC Software",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg3PVTa1kltLpsnOdDNb2zOa39L0toek5kLvG7ZHCo17u-89Mg0ABdOrMuOEQnRGnp3T8M9mkZOCKCtUQs3X80tqNRs5lN_MyOkRQC_jYZ93ESxrzG36YGGKr4-nxjjVwF6yI7oA1OMEDk1vzGFDnNQEMJbCeDCQLbYAsnCjjmsaCubbV7xRKyRJPx2/s1600/server.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg3PVTa1kltLpsnOdDNb2zOa39L0toek5kLvG7ZHCo17u-89Mg0ABdOrMuOEQnRGnp3T8M9mkZOCKCtUQs3X80tqNRs5lN_MyOkRQC_jYZ93ESxrzG36YGGKr4-nxjjVwF6yI7oA1OMEDk1vzGFDnNQEMJbCeDCQLbYAsnCjjmsaCubbV7xRKyRJPx2/s1600/server.png"
+        },
         {
           "id": "https://thehackernews.com/2023/01/you-dont-know-where-your-secrets-are.html",
           "author": "info@thehackernews.com (The Hacker News)",
@@ -6028,22 +6080,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjW9zhUW8cTVWuNjWMZHahDUrmASlPD9hAvqcvxSuPrPswDgM76DeMsfUCOyDEBieGFrnwNeRZ1Gqa_au2_flTZ_VeXOcm-54CN902n19OhSM0n7LyFRj-5ir594YvudTeotj51I7kyqsudq0fp7XpBRhhSPkN-O_qX9ldUik0CGZrcXQwGkY0dnu-T/s1600/hackers.png"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjW9zhUW8cTVWuNjWMZHahDUrmASlPD9hAvqcvxSuPrPswDgM76DeMsfUCOyDEBieGFrnwNeRZ1Gqa_au2_flTZ_VeXOcm-54CN902n19OhSM0n7LyFRj-5ir594YvudTeotj51I7kyqsudq0fp7XpBRhhSPkN-O_qX9ldUik0CGZrcXQwGkY0dnu-T/s1600/hackers.png"
-        },
-        {
-          "id": "https://thehackernews.com/2023/01/redzei-chinese-scammers-targeting.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Chinese international students in the U.K. have been targeted by persistent Chinese-speaking scammers for over a year as part of an activity dubbed RedZei (aka RedThief).\n\"The RedZei fraudsters have chosen their targets carefully, researched them and realized it was a rich victim group that is ripe for exploitation,\" cybersecurity researcher Will Thomas (@BushidoToken) said in a write-up",
-          "link": "https://thehackernews.com/2023/01/redzei-chinese-scammers-targeting.html",
-          "publishedOn": "2023-01-02T16:10:00.000Z",
-          "wordCount": null,
-          "title": "RedZei Chinese Scammers Targeting Chinese Students in the U.K.",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiWKfN5Jub5qS0bTIbfcVYGZQNCXhyef-koyNMPHntVSpXYpuqLxF9rztStyncEp3hXHR-o-rq9ImeLpq9_ggUWStH5DgUDf6ELFMaYvhbpbf3dwpcZIHgKiBHp6ULGK5Qoem8RJMUqRZt1zCvwm8hTFUX7fX7NMQUMXQi7fdJUzJDlCpNVCAJVNPPG/s1600/chinese.png"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiWKfN5Jub5qS0bTIbfcVYGZQNCXhyef-koyNMPHntVSpXYpuqLxF9rztStyncEp3hXHR-o-rq9ImeLpq9_ggUWStH5DgUDf6ELFMaYvhbpbf3dwpcZIHgKiBHp6ULGK5Qoem8RJMUqRZt1zCvwm8hTFUX7fX7NMQUMXQi7fdJUzJDlCpNVCAJVNPPG/s1600/chinese.png"
         }
       ]
     }
