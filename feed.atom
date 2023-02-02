@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-02-02T02:22:26.119Z</updated>
+    <updated>2023-02-02T07:17:56.906Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[New Threat: Stealthy HeadCrab Malware Compromised Over 1,200 Redis Servers]]></title>
+        <id>https://thehackernews.com/2023/02/new-threat-stealthy-headcrab-malware.html</id>
+        <link href="https://thehackernews.com/2023/02/new-threat-stealthy-headcrab-malware.html"/>
+        <updated>2023-02-02T06:47:00.000Z</updated>
+        <summary type="html"><![CDATA[At least 1,200 Redis database servers worldwide have been corralled into a botnet using an "elusive and severe threat" dubbed HeadCrab since early September 2021.
+"This advanced threat actor utilizes a state-of-the-art, custom-made malware that is undetectable by agentless and traditional anti-virus solutions to compromise a large number of Redis servers," Aqua security researcher Asaf Eitani]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Why CISOs Should Care About Brand Impersonation Scam Sites]]></title>
         <id>https://www.darkreading.com/edge-articles/why-cisos-should-care-about-brand-impersonation-scam-sites</id>
@@ -4933,76 +4944,6 @@ Successful exploitation of the]]></summary>
         <updated>2023-01-03T20:20:00.000Z</updated>
         <author>
             <name>Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WordPress Sites Under Attack from Newly Found Linux Trojan]]></title>
-        <id>https://www.darkreading.com/attacks-breaches/wordpress-under-attack-from-new-linux-backdoor-malware</id>
-        <link href="https://www.darkreading.com/attacks-breaches/wordpress-under-attack-from-new-linux-backdoor-malware"/>
-        <updated>2023-01-03T19:03:00.000Z</updated>
-        <summary type="html"><![CDATA[Researchers who discovered the backdoor Linux malware say it may have been around for more than three years — and it targets 30+ plugin bugs.]]></summary>
-        <author>
-            <name>Dark Reading Staff, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Holiday Spirit? LockBit Gives Children's Hospital Free Decryptor]]></title>
-        <id>https://www.darkreading.com/attacks-breaches/holiday-spirit-lockbit-children-s-hospital-free-decryptor</id>
-        <link href="https://www.darkreading.com/attacks-breaches/holiday-spirit-lockbit-children-s-hospital-free-decryptor"/>
-        <updated>2023-01-03T18:58:00.000Z</updated>
-        <summary type="html"><![CDATA[The Russian-speaking cybercrime gang said an affiliate violated its rules against attacks that could lead to bodily harm for medical patients.]]></summary>
-        <author>
-            <name>Tara Seals, Managing Editor, News, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[There is a New Trend in Social Engineering with a Disgusting Name; "Pig-butchering"]]></title>
-        <id>https://blog.knowbe4.com/there-is-a-new-trend-in-social-engineering-with-a-disgusting-name-pig-butchering</id>
-        <link href="https://blog.knowbe4.com/there-is-a-new-trend-in-social-engineering-with-a-disgusting-name-pig-butchering"/>
-        <updated>2023-01-03T18:52:21.000Z</updated>
-        <summary type="html"><![CDATA[The technique began in the Chinese underworld, and it amounts to an unusually protracted form of social engineering. The analogy is with fattening up a pig, then butchering it for all it’s worth. In this case the analogy is wayward, since the criminal doesn’t really fatten up the pig, not that much, anyway, but it works at least this far: they develop the marks slowly, and they get the marks to fatten up the accounts they ultimately drain.]]></summary>
-        <author>
-            <name>Stu Sjouwerman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Raspberry Robin Worm Hatches a Highly Complex Upgrade]]></title>
-        <id>https://www.darkreading.com/threat-intelligence/raspberry-robin-worm-highly-complex-upgrade</id>
-        <link href="https://www.darkreading.com/threat-intelligence/raspberry-robin-worm-highly-complex-upgrade"/>
-        <updated>2023-01-03T16:55:17.000Z</updated>
-        <summary type="html"><![CDATA[The Evil Corp-linked malware family has undergone an evolution, becoming more obfuscated and "several times more complex," as the group behind it tests how far the worm can be spread.]]></summary>
-        <author>
-            <name>Nathan Eddy, Contributing Writer, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chinese 'RedZei' Group Batters Victims With Incessant Vishing Effort]]></title>
-        <id>https://www.darkreading.com/attacks-breaches/chinese-redzei-victims-vishing</id>
-        <link href="https://www.darkreading.com/attacks-breaches/chinese-redzei-victims-vishing"/>
-        <updated>2023-01-03T16:43:00.000Z</updated>
-        <summary type="html"><![CDATA[The cybercriminals switch up carriers and SIM cards regularly, making it difficult for either mobile users or telecom companies to block the barrage of malicious calls and voicemails.]]></summary>
-        <author>
-            <name>Elizabeth Montalbano, Contributor, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Name That Edge Toon: The Upside Down]]></title>
-        <id>https://www.darkreading.com/edge-articles/name-that-edge-toon-the-upside-down</id>
-        <link href="https://www.darkreading.com/edge-articles/name-that-edge-toon-the-upside-down"/>
-        <updated>2023-01-03T16:01:21.000Z</updated>
-        <summary type="html"><![CDATA[Come up with a clever caption, and our panel of experts will reward the winner with a $25 Amazon gift card.]]></summary>
-        <author>
-            <name>John Klossner, Cartoonist</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Are Meta and Twitter Ushering in a New Age of Insider Threats?]]></title>
-        <id>https://www.darkreading.com/vulnerabilities-threats/are-meta-and-twitter-ushering-in-a-new-age-of-insider-threats-</id>
-        <link href="https://www.darkreading.com/vulnerabilities-threats/are-meta-and-twitter-ushering-in-a-new-age-of-insider-threats-"/>
-        <updated>2023-01-03T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The era of digital trust is broken, and constant vigilance is needed to get things back on track.]]></summary>
-        <author>
-            <name>Ian McShane, Vice President of Strategy, Arctic Wolf</name>
         </author>
     </entry>
     <entry>
