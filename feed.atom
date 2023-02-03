@@ -2,10 +2,63 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-02-03T13:25:44.468Z</updated>
+    <updated>2023-02-03T19:16:28.600Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Scores of Redis Servers Infested by Sophisticated Custom-Built Malware]]></title>
+        <id>https://www.darkreading.com/attacks-breaches/redis-servers-infested-sophisticated-custom-built-malware</id>
+        <link href="https://www.darkreading.com/attacks-breaches/redis-servers-infested-sophisticated-custom-built-malware"/>
+        <updated>2023-02-03T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[At least 1,200 Redis servers worldwide have been infected with "HeadCrab" cryptominers since 2021.]]></summary>
+        <author>
+            <name>Jai Vijayan, Contributing Writer, Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Is Your EV Charging Station Safe? New Security Vulnerabilities Uncovered]]></title>
+        <id>https://thehackernews.com/2023/02/is-your-ev-charging-station-safe-new.html</id>
+        <link href="https://thehackernews.com/2023/02/is-your-ev-charging-station-safe-new.html"/>
+        <updated>2023-02-03T15:36:00.000Z</updated>
+        <summary type="html"><![CDATA[Two new security weaknesses discovered in several electric vehicle (EV) charging systems could be exploited to remotely shut down charging stations and even expose them to data and energy theft.
+The findings, which come from Israel-based SaiFlow, once again demonstrate the potential risks facing the EV charging infrastructure.
+The issues have been identified in version 1.6J of the Open Charge]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Post-Macro World Sees Rise in Microsoft OneNote Documents Delivering Malware]]></title>
+        <id>https://thehackernews.com/2023/02/post-macro-world-sees-rise-in-microsoft.html</id>
+        <link href="https://thehackernews.com/2023/02/post-macro-world-sees-rise-in-microsoft.html"/>
+        <updated>2023-02-03T15:03:00.000Z</updated>
+        <summary type="html"><![CDATA[In a continuing sign that threat actors are adapting well to a post-macro world, it has emerged that the use of Microsoft OneNote documents to deliver malware via phishing attacks is on the rise.
+Some of the notable malware families that are being distributed using this method include AsyncRAT, RedLine Stealer, Agent Tesla, DOUBLEBACK, Quasar RAT, XWorm, Qakbot, BATLOADER, and FormBook.]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How the Cloud Is Shifting CISO Priorities]]></title>
+        <id>https://www.darkreading.com/cloud/how-the-cloud-is-shifting-ciso-priorities</id>
+        <link href="https://www.darkreading.com/cloud/how-the-cloud-is-shifting-ciso-priorities"/>
+        <updated>2023-02-03T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The greatly expanding attack surface created by the cloud needs to be protected.]]></summary>
+        <author>
+            <name>Shai Morag, CEO, Ermetic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Your KnowBe4 Fresh Content Updates from January 2023]]></title>
+        <id>https://blog.knowbe4.com/your-knowbe4-fresh-content-updates-from-january-2023</id>
+        <link href="https://blog.knowbe4.com/your-knowbe4-fresh-content-updates-from-january-2023"/>
+        <updated>2023-02-03T13:52:14.000Z</updated>
+        <summary type="html"><![CDATA[Check out the 39 new pieces of training content added in January, alongside the always fresh content update highlights, events and new features.]]></summary>
+        <author>
+            <name>Stu Sjouwerman</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Iranian OilRig Hackers Using New Backdoor to Exfiltrate Data from Govt. Organizations]]></title>
         <id>https://thehackernews.com/2023/02/iranian-oilrig-hackers-using-new.html</id>
@@ -68,6 +121,16 @@ The first of the two vulnerabilities is CVE-2022-21587 (CVSS score: 9.8), a cr
 "Oracle]]></summary>
         <author>
             <name>The Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MITRE Releases Tool to Design Cyber-Resilient Systems]]></title>
+        <id>https://www.darkreading.com/dr-tech/mitre-releases-tool-to-design-cyber-resilient-systems</id>
+        <link href="https://www.darkreading.com/dr-tech/mitre-releases-tool-to-design-cyber-resilient-systems"/>
+        <updated>2023-02-03T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Engineers can use the Cyber Resiliency Engineering Framework Navigator to visuzalize their cyber-resiliency capabilities.]]></summary>
+        <author>
+            <name>Dark Reading Staff, Dark Reading</name>
         </author>
     </entry>
     <entry>
@@ -5040,17 +5103,6 @@ The company said an investigation is currently ongoing, but emphasized that "the
         <updated>2023-01-05T07:52:00.000Z</updated>
         <summary type="html"><![CDATA[Fortinet has warned of a high-severity flaw affecting multiple versions of FortiADC application delivery controller that could lead to the execution of arbitrary code.
 "An improper neutralization of special elements used in an OS command vulnerability in FortiADC may allow an authenticated attacker with access to the web GUI to execute unauthorized code or commands via specifically crafted HTTP]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Irish Regulators Fine Facebook $414 Million for Forcing Users to Accept Targeted Ads]]></title>
-        <id>https://thehackernews.com/2023/01/irish-regulators-fine-facebook-414.html</id>
-        <link href="https://thehackernews.com/2023/01/irish-regulators-fine-facebook-414.html"/>
-        <updated>2023-01-05T04:33:00.000Z</updated>
-        <summary type="html"><![CDATA[The Irish Data Protection Commission (DPC) has fined Meta Platforms €390 million (roughly $414 million) over its handling of user data for serving personalized ads in what could be a major blow to its ad-fueled business model.
-To that end, the privacy regulator has ordered Meta Ireland to pay two fines – a €210 million ($222.5 million) fine over violations of the E.U. General Data Protection]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
