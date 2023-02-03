@@ -341,16 +341,6 @@
           "wordCount": 966,
           "title": "CISA Releases Three Industrial Systems Control Advisories",
           "imageUrl": null
-        },
-        {
-          "id": "18257 at https://us-cert.cisa.gov",
-          "author": "CISA",
-          "description": "Original release date: January 4, 2023\nFortinet has released a security advisory to address a vulnerability in multiple versions of FortiADC. This vulnerability may allow a remote attacker “to execute unauthorized code or commands via specifically crafted HTTP requests.”\nCISA encourages users and administrators to review Fortinet security advisory FG-IR-22-061 and apply the recommended updates.\nThis product is provided subject to this Notification and this Privacy & Use policy.",
-          "link": "https://us-cert.cisa.gov/ncas/current-activity/2023/01/04/fortinet-releases-security-updates-fortiadc",
-          "publishedOn": "2023-01-04T15:35:00.000Z",
-          "wordCount": 954,
-          "title": "Fortinet Releases Security Updates for FortiADC",
-          "imageUrl": null
         }
       ]
     },
@@ -3763,71 +3753,6 @@
             "length": "0"
           },
           "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltea67136f81f32eca/626a9eb4726e3315b16b3c64/Tara-Seals-Headshot2.jpg"
-        },
-        {
-          "id": "https://www.darkreading.com/edge-ask-the-experts/what-are-some-ways-to-make-apis-more-secure-",
-          "author": "Rory Blundell, CEO, Gravitee",
-          "description": "Developers should go beyond the basics to make it harder to exploit the API.",
-          "link": "https://www.darkreading.com/edge-ask-the-experts/what-are-some-ways-to-make-apis-more-secure-",
-          "publishedOn": "2023-01-04T18:33:00.000Z",
-          "wordCount": 13340,
-          "title": "What Are Some Ways to Make APIs More Secure?",
-          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt91df67a3e6806e72/63a5fba890cbbf236c41ac6c/mfasecurity-geniusstudio-AdobeStock.jpg"
-        },
-        {
-          "id": "https://www.darkreading.com/dr-tech/effective-and-efficient-automation-for-security-teams",
-          "author": "Bob Bregant II, Co-founder & COO, OpsHelm",
-          "description": "Even very short tasks may be worth automating if you do them frequently. Here's how to decide what to tackle first.",
-          "link": "https://www.darkreading.com/dr-tech/effective-and-efficient-automation-for-security-teams",
-          "publishedOn": "2023-01-04T18:27:00.000Z",
-          "wordCount": 16546,
-          "title": "Effective and Efficient Automation for Security Teams",
-          "enclosure": {
-            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltb9cabb57d8dd9858/63ac96cb176cdf3260ba65ff/bob-bregant.png",
-            "type": "image/*",
-            "length": "0"
-          },
-          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltb9cabb57d8dd9858/63ac96cb176cdf3260ba65ff/bob-bregant.png"
-        },
-        {
-          "id": "https://www.darkreading.com/attacks-breaches/corl-technologies-introduces-proactive-third-party-incident-response-solution-for-healthcare",
-          "author": null,
-          "description": "",
-          "link": "https://www.darkreading.com/attacks-breaches/corl-technologies-introduces-proactive-third-party-incident-response-solution-for-healthcare",
-          "publishedOn": "2023-01-04T16:29:00.000Z",
-          "wordCount": 13485,
-          "title": "CORL Technologies Introduces Proactive Third-Party Incident Response Solution for Healthcare",
-          "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
-        },
-        {
-          "id": "https://www.darkreading.com/attacks-breaches/bitrat-malware-victims-bank-heist-data",
-          "author": "Elizabeth Montalbano, Contributor, Dark Reading",
-          "description": "Attackers have compromised a Colombian financial institution and are using a bevy of leaked customer details in further malicious activity to spread an info-gathering remote access Trojan (RAT).",
-          "link": "https://www.darkreading.com/attacks-breaches/bitrat-malware-victims-bank-heist-data",
-          "publishedOn": "2023-01-04T15:46:00.000Z",
-          "wordCount": 13998,
-          "title": "BitRat Malware Gnaws at Victims With Bank Heist Data",
-          "enclosure": {
-            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltbfd004d139d42d70/6303bca6236c2476a257760e/ElizabethMontalbano.jpg",
-            "type": "image/*",
-            "length": "0"
-          },
-          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltbfd004d139d42d70/6303bca6236c2476a257760e/ElizabethMontalbano.jpg"
-        },
-        {
-          "id": "https://www.darkreading.com/cloud/understanding-infrastructure-as-code-risks-in-the-cloud",
-          "author": "Igal Gofman, Head of Research, Ermetic",
-          "description": "Improve overall IT administration and establish a framework to identify misconfigurations and automate the process of checking IaC before it makes it into the production environment.",
-          "link": "https://www.darkreading.com/cloud/understanding-infrastructure-as-code-risks-in-the-cloud",
-          "publishedOn": "2023-01-04T15:00:00.000Z",
-          "wordCount": 14864,
-          "title": "Understanding Infrastructure-as-Code Risks in the Cloud",
-          "enclosure": {
-            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt4d272bc5f0205dc4/639a3d93cde77010f9bb3a30/Igal_Gofman_Head_of_Research_Ermetic.png",
-            "type": "image/*",
-            "length": "0"
-          },
-          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt4d272bc5f0205dc4/639a3d93cde77010f9bb3a30/Igal_Gofman_Head_of_Research_Ermetic.png"
         }
       ]
     },
@@ -4502,34 +4427,24 @@
           "wordCount": 2111,
           "title": "These grim figures show that the ransomware problem isn't going away",
           "imageUrl": "https://blog.knowbe4.com/hubfs/Ransomware-Attack-Warning-2022.jpg#keepProtocol"
-        },
-        {
-          "id": "https://blog.knowbe4.com/live-demo-security-awareness-training-and-phishing",
-          "author": "Stu Sjouwerman",
-          "description": "Old-school awareness training does not hack it anymore. Your email filters have an average 7-10% failure rate; you need a strong human firewall as your last line of defense.",
-          "link": "https://blog.knowbe4.com/live-demo-security-awareness-training-and-phishing",
-          "publishedOn": "2023-01-04T17:48:31.000Z",
-          "wordCount": 1970,
-          "title": "[Live Demo] Ridiculously Easy Security Awareness Training and Phishing",
-          "imageUrl": "https://blog.knowbe4.com/hubfs/Social%20Image%20Repository/Live%20Demos/KMSAT-Demo-SM-2021-2.jpg#keepProtocol"
-        },
-        {
-          "id": "https://blog.knowbe4.com/cyberheistnews-vol-13-01-heads-up-giant-lastpass-breach-can-supercharge-spear-phishing-attacks",
-          "author": "Stu Sjouwerman",
-          "description": "CyberheistNews Vol 13 #01 [Heads Up] Giant LastPass Breach Can Supercharge Spear Phishing Attacks",
-          "link": "https://blog.knowbe4.com/cyberheistnews-vol-13-01-heads-up-giant-lastpass-breach-can-supercharge-spear-phishing-attacks",
-          "publishedOn": "2023-01-04T14:30:00.000Z",
-          "wordCount": 4594,
-          "title": "CyberheistNews Vol 13 #01 [Heads Up] Giant LastPass Breach Can Supercharge Spear Phishing Attacks",
-          "imageUrl": "https://blog.knowbe4.com/hubfs/CHN-Social.jpg#keepProtocol"
         }
       ]
     },
     {
-      "title": "The Hacker News",
+      "title": "The Hacker News | #1 Trusted Cybersecurity News Site",
       "feedUrl": "https://thehackernews.com/feeds/posts/default",
-      "siteUrl": "https://thehackernews.com",
+      "siteUrl": "https://thehackernews.com/",
       "articles": [
+        {
+          "id": "https://thehackernews.com/2023/02/cisa-alert-oracle-e-business-suite-and.html",
+          "author": null,
+          "description": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on February 2 added two security flaws to its Known Exploited Vulnerabilities (KEV) Catalog, citing evidence of active exploitation.\nThe first of the two vulnerabilities is CVE-2022-21587 (CVSS score: 9.8), a critical issue impacting versions 12.2.3 to 12.2.11 of the Oracle Web Applications Desktop Integrator product.\n\"Oracle",
+          "link": "https://thehackernews.com/2023/02/cisa-alert-oracle-e-business-suite-and.html",
+          "publishedOn": "2023-02-03T05:23:00.001Z",
+          "wordCount": 2373,
+          "title": "CISA Alert: Oracle E-Business Suite and SugarCRM Vulnerabilities Under Attack",
+          "imageUrl": "https://thehackernews.com/new-images/img/b/R29vZ2xl/AVvXsEimyue4RAUobLSPaohWuX32BxGD8BNCIv751w1ZahrzYwEdFlgLkf5p7t9WLvQi75_oWEaPEUPZ59NXh292XZYa1smVBKDoEsWqF-qfUYc1VGNWP0Os3Dnc5sqSVZ9exN0n0Zzo16RREkqYLv7cgQTuLj6nkli8bGpN3m53kdFaqHMnlXeuBeo4Y6AP/s728-e3650/oracle.png"
+        },
         {
           "id": "https://thehackernews.com/2023/02/new-russian-backed-gamaredons-spyware.html",
           "author": "info@thehackernews.com (The Hacker News)",
