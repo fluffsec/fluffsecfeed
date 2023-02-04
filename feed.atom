@@ -2,10 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-02-04T02:15:18.735Z</updated>
+    <updated>2023-02-04T07:17:07.975Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[New Wave of Ransomware Attacks Exploiting VMware Bug to Target ESXi Servers]]></title>
+        <id>https://thehackernews.com/2023/02/new-wave-of-ransomware-attacks.html</id>
+        <link href="https://thehackernews.com/2023/02/new-wave-of-ransomware-attacks.html"/>
+        <updated>2023-02-04T05:30:00.000Z</updated>
+        <summary type="html"><![CDATA[VMware ESXi hypervisors are the target of a new wave of attacks designed to deploy ransomware on compromised systems.
+"These attack campaigns appear to exploit CVE-2021-21974, for which a patch has been available since February 23, 2021," the Computer Emergency Response Team (CERT) of France said in an advisory on Friday.
+VMware, in its own alert released at the time, described the issue as an]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Warning: Hackers Actively Exploiting Zero-Day in Fortra's GoAnywhere MFT]]></title>
+        <id>https://thehackernews.com/2023/02/warning-hackers-actively-exploiting.html</id>
+        <link href="https://thehackernews.com/2023/02/warning-hackers-actively-exploiting.html"/>
+        <updated>2023-02-04T04:41:00.000Z</updated>
+        <summary type="html"><![CDATA[A zero-day vulnerability affecting Fortra's GoAnywhere MFT managed file transfer application is being actively exploited in the wild.
+Details of the flaw were first publicly shared by security reporter Brian Krebs on Mastodon. No public advisory has been published by Fortra.
+The vulnerability is a case of remote code injection that requires access to the administrative console of the application]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What CISOs Can Do About Brand Impersonation Scam Sites]]></title>
         <id>https://www.darkreading.com/edge-articles/what-cisos-can-do-about-brand-impersonation-scam-sites</id>
@@ -4917,128 +4941,6 @@ The security incident, which took place on December 2, 2022, leveraged a previou
         <summary type="html"><![CDATA[DevOps platform warns customers of a "security incident" under investigation.]]></summary>
         <author>
             <name>Dark Reading Staff, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Crypto Scam Targets Flipper Zero Buyers Impersonating Legitimate Shops]]></title>
-        <id>https://blog.knowbe4.com/new-crypto-scam-targets-flipper-zero-buyers-impersonating-legitimate-shops</id>
-        <link href="https://blog.knowbe4.com/new-crypto-scam-targets-flipper-zero-buyers-impersonating-legitimate-shops"/>
-        <updated>2023-01-05T18:40:59.000Z</updated>
-        <summary type="html"><![CDATA[Interest in the handheld open-source multi-function cybersecurity tool by techies has risen to a new campaign seeking to steal crypto funds through illegitimate “sales” of the device.]]></summary>
-        <author>
-            <name>Stu Sjouwerman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bluebottle Continues Bank Heist Assault With Signed Malware]]></title>
-        <id>https://www.darkreading.com/attacks-breaches/bluebottle-bank-heist-assault-fresh-lol-tactics</id>
-        <link href="https://www.darkreading.com/attacks-breaches/bluebottle-bank-heist-assault-fresh-lol-tactics"/>
-        <updated>2023-01-05T18:02:00.000Z</updated>
-        <summary type="html"><![CDATA[The financially motivated threat group, also known as OPERA1ER, demonstrated an evolution in tactics in its compromise of three Francophone financial institutions in Africa, likely adding to its $11 million to-date haul.]]></summary>
-        <author>
-            <name>Elizabeth Montalbano, Contributor, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Threat Actors Evade Detection Through Geofencing & Fingerprinting]]></title>
-        <id>https://www.darkreading.com/dr-tech/threat-actors-evade-detection-through-geofencing-fingerprinting</id>
-        <link href="https://www.darkreading.com/dr-tech/threat-actors-evade-detection-through-geofencing-fingerprinting"/>
-        <updated>2023-01-05T16:09:51.000Z</updated>
-        <summary type="html"><![CDATA[Security teams may be missing targeted attacks and advanced exploits if attackers are using evasive techniques to avoid detection. Defenders need to up their game.]]></summary>
-        <author>
-            <name>Jan Miller, Director of Engineering of Malware Analysis Solutions, Opswat</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CISA Releases Three Industrial Systems Control Advisories]]></title>
-        <id>18262 at https://us-cert.cisa.gov</id>
-        <link href="https://us-cert.cisa.gov/ncas/current-activity/2023/01/05/cisa-releases-three-industrial-systems-control-advisories"/>
-        <updated>2023-01-05T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Original release date: January 5, 2023
-CISA released three Industrial Control Systems (ICS) advisories on January 5 2023. These advisories provide timely information about current security issues, vulnerabilities, and exploits surrounding ICS.
-CISA encourages users and administrators to review the newly released ICS advisories for technical details and mitigations:
-ICSA-23-005-01 Hitachi Energy UNEM
-ICSA-23-005-02 Hitachi Energy FOXMAN-UN
-ICSA-23-005-03 Hitachi Energy Lumada Asset Performance Management
-This product is provided subject to this Notification and this Privacy & Use policy.]]></summary>
-        <author>
-            <name>CISA</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Maternal & Family Health Services Issues Notice Of Cybersecurity Incident]]></title>
-        <id>https://www.darkreading.com/attacks-breaches/maternal-family-health-services-issues-notice-of-cybersecurity-incident</id>
-        <link href="https://www.darkreading.com/attacks-breaches/maternal-family-health-services-issues-notice-of-cybersecurity-incident"/>
-        <updated>2023-01-05T15:24:00.000Z</updated>
-        <author>
-            <name>Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DirectTrust and EHNAC Announce Closing Of Merger]]></title>
-        <id>https://www.darkreading.com/operations/directtrust-and-ehnac-announce-closing-of-merger</id>
-        <link href="https://www.darkreading.com/operations/directtrust-and-ehnac-announce-closing-of-merger"/>
-        <updated>2023-01-05T15:20:00.000Z</updated>
-        <author>
-            <name>Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[US Based ICOIN Technology Announces Secure Messaging Solution Using Hardware Wallet Encryption]]></title>
-        <id>https://www.darkreading.com/perimeter/us-based-icoin-technology-announces-secure-messaging-solution-using-hardware-wallet-encryption</id>
-        <link href="https://www.darkreading.com/perimeter/us-based-icoin-technology-announces-secure-messaging-solution-using-hardware-wallet-encryption"/>
-        <updated>2023-01-05T15:12:00.000Z</updated>
-        <author>
-            <name>Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Space Race: Defenses Emerge as Satellite-Focused Cyberattacks Ramp Up]]></title>
-        <id>https://www.darkreading.com/ics-ot/space-race-defenses-satellite-cyberattacks</id>
-        <link href="https://www.darkreading.com/ics-ot/space-race-defenses-satellite-cyberattacks"/>
-        <updated>2023-01-05T15:11:27.000Z</updated>
-        <summary type="html"><![CDATA[Amid escalating cyber activity, two separate cybersecurity frameworks are targeting the satellite arena, highlighting the ease in attacking the infrastructure and the difficulty in defending it.]]></summary>
-        <author>
-            <name>Robert Lemos, Contributing Writer, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Netskope Receives $401M In New Funding]]></title>
-        <id>https://www.darkreading.com/cloud/netscope-receives-401m-in-new-funding</id>
-        <link href="https://www.darkreading.com/cloud/netscope-receives-401m-in-new-funding"/>
-        <updated>2023-01-05T15:06:00.000Z</updated>
-        <author>
-            <name>Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Ensure Cybersecurity Investments Remain a Priority Across Your Organization]]></title>
-        <id>https://www.darkreading.com/attacks-breaches/how-to-ensure-cybersecurity-investments-remain-a-priority-across-your-organization</id>
-        <link href="https://www.darkreading.com/attacks-breaches/how-to-ensure-cybersecurity-investments-remain-a-priority-across-your-organization"/>
-        <updated>2023-01-05T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Collaboration across all business units is key to building a robust cybersecurity program.]]></summary>
-        <author>
-            <name>Dan Dennis, Chief Information Security Officer, Hyland</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Blind Eagle Hackers Return with Refined Tools and Sophisticated Infection Chain]]></title>
-        <id>https://thehackernews.com/2023/01/blind-eagle-hackers-return-with-refined.html</id>
-        <link href="https://thehackernews.com/2023/01/blind-eagle-hackers-return-with-refined.html"/>
-        <updated>2023-01-05T14:55:00.000Z</updated>
-        <summary type="html"><![CDATA[A financially motivated threat actor tracked as Blind Eagle has resurfaced with a refined toolset and an elaborate infection chain as part of its attacks targeting organizations in Colombia and Ecuador.
-Check Point's latest research offers new insights into the Spanish-speaking group's tactics and techniques, including the use of sophisticated tools and government-themed lures to activate the]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Trend Micro Announces New Subsidiary for 5G Cybersecurity]]></title>
-        <id>https://www.darkreading.com/vulnerabilities-threats/trend-micro-announces-new-subsidiary-for-5g-cybersecurity</id>
-        <link href="https://www.darkreading.com/vulnerabilities-threats/trend-micro-announces-new-subsidiary-for-5g-cybersecurity"/>
-        <updated>2023-01-05T14:37:00.000Z</updated>
-        <author>
-            <name>Dark Reading</name>
         </author>
     </entry>
     <entry>
