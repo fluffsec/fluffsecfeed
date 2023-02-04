@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-02-04T13:22:30.271Z</updated>
+    <updated>2023-02-04T19:15:14.009Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[PixPirate: New Android Banking Trojan Targeting Brazilian Financial Institutions]]></title>
+        <id>https://thehackernews.com/2023/02/pixpirate-new-android-banking-trojan.html</id>
+        <link href="https://thehackernews.com/2023/02/pixpirate-new-android-banking-trojan.html"/>
+        <updated>2023-02-04T13:39:00.000Z</updated>
+        <summary type="html"><![CDATA[A new Android banking trojan has set its eyes on Brazilian financial institutions to commit fraud by leveraging the PIX payments platform.
+Italian cybersecurity company Cleafy, which discovered the malware between the end of 2022 and the beginning of 2023, is tracking it under the name PixPirate.
+"PixPirate belongs to the newest generation of Android banking trojan, as it can perform ATS (]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[New Wave of Ransomware Attacks Exploiting VMware Bug to Target ESXi Servers]]></title>
         <id>https://thehackernews.com/2023/02/new-wave-of-ransomware-attacks.html</id>
