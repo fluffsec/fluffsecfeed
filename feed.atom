@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-02-03T19:16:28.600Z</updated>
+    <updated>2023-02-04T02:15:18.735Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[What CISOs Can Do About Brand Impersonation Scam Sites]]></title>
+        <id>https://www.darkreading.com/edge-articles/what-cisos-can-do-about-brand-impersonation-scam-sites</id>
+        <link href="https://www.darkreading.com/edge-articles/what-cisos-can-do-about-brand-impersonation-scam-sites"/>
+        <updated>2023-02-03T22:04:00.000Z</updated>
+        <summary type="html"><![CDATA[Apply these nine tips to proactively fight fraudulent websites that use your brand to rip people off.]]></summary>
+        <author>
+            <name>Ericka Chickowski, Contributing Writer, Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Iran-Backed Actor Behind 'Holy Souls' Cyberattack on Charlie Hebdo, Microsoft Says]]></title>
+        <id>https://www.darkreading.com/attacks-breaches/iran-backed-actor-behind-cyberattack-charlie-hebdo-microsoft-says</id>
+        <link href="https://www.darkreading.com/attacks-breaches/iran-backed-actor-behind-cyberattack-charlie-hebdo-microsoft-says"/>
+        <updated>2023-02-03T21:41:00.000Z</updated>
+        <summary type="html"><![CDATA[The January attack was in retaliation for the satirical French magazine's decision to launch a cartoon contest to lampoon Iran's Supreme Leader.]]></summary>
+        <author>
+            <name>Jai Vijayan, Contributing Writer, Dark Reading</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Scores of Redis Servers Infested by Sophisticated Custom-Built Malware]]></title>
         <id>https://www.darkreading.com/attacks-breaches/redis-servers-infested-sophisticated-custom-built-malware</id>
@@ -5019,92 +5039,6 @@ Check Point's latest research offers new insights into the Spanish-speaking gr
         <updated>2023-01-05T14:37:00.000Z</updated>
         <author>
             <name>Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Phishing Campaigns Impersonate the UK Government]]></title>
-        <id>https://blog.knowbe4.com/phishing-campaigns-impersonate-the-uk-government</id>
-        <link href="https://blog.knowbe4.com/phishing-campaigns-impersonate-the-uk-government"/>
-        <updated>2023-01-05T13:34:42.000Z</updated>
-        <summary type="html"><![CDATA[The UK’s National Cyber Security Centre (NCSC) has outlined the top six most impersonated UK government agencies in 2022. The most impersonated entity was the National Health Service (NHS), followed by TV Licensing, HM Revenue & Customs, Gov.uk, DVLA, and Ofgem.]]></summary>
-        <author>
-            <name>Stu Sjouwerman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[These grim figures show that the ransomware problem isn't going away]]></title>
-        <id>https://blog.knowbe4.com/these-grim-figures-show-that-the-ransomware-problem-isnt-going-away</id>
-        <link href="https://blog.knowbe4.com/these-grim-figures-show-that-the-ransomware-problem-isnt-going-away"/>
-        <updated>2023-01-05T13:32:40.000Z</updated>
-        <summary type="html"><![CDATA[ZDNet summarized the problem as follows: "Up to 1,981 schools, 290 hospitals, 105 local governments and 44 universities and colleges were hit with ransomware in the US alone during 2022, demonstrating how ransomware attacks remain a significant cyber threat to the public sector and civil society.]]></summary>
-        <author>
-            <name>Stu Sjouwerman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bluebottle Cybercrime Group Preys on Financial Sector in French-Speaking African Nations]]></title>
-        <id>https://thehackernews.com/2023/01/bluebottle-cybercrime-group-preys-on.html</id>
-        <link href="https://thehackernews.com/2023/01/bluebottle-cybercrime-group-preys-on.html"/>
-        <updated>2023-01-05T12:34:00.000Z</updated>
-        <summary type="html"><![CDATA[A cybercrime group dubbed Bluebottle has been linked to a set of targeted attacks against the financial sector in Francophone countries located in Africa from at least July 2022 to September 2022.
-"The group makes extensive use of living-off-the-land, dual use tools, and commodity malware, with no custom malware deployed in this campaign," Symantec, a division of Broadcom Software, said in a]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SpyNote Strikes Again: Android Spyware Targeting Financial Institutions]]></title>
-        <id>https://thehackernews.com/2023/01/spynote-strikes-again-android-spyware.html</id>
-        <link href="https://thehackernews.com/2023/01/spynote-strikes-again-android-spyware.html"/>
-        <updated>2023-01-05T11:05:00.000Z</updated>
-        <summary type="html"><![CDATA[Financial institutions are being targeted by a new version of Android malware called SpyNote at least since October 2022.
-"The reason behind this increase is that the developer of the spyware, who was previously selling it to other actors, made the source code public," ThreatFabric said in a report shared with The Hacker News. "This has helped other actors [in] developing and distributing the]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mitigate the LastPass Attack Surface in Your Environment with this Free Tool]]></title>
-        <id>https://thehackernews.com/2023/01/mitigate-lastpass-attack-surface-in.html</id>
-        <link href="https://thehackernews.com/2023/01/mitigate-lastpass-attack-surface-in.html"/>
-        <updated>2023-01-05T10:51:00.000Z</updated>
-        <summary type="html"><![CDATA[The latest breach announced by LastPass is a major cause for concern to security stakeholders. As often occurs, we are at a security limbo – on the one hand, as LastPass has noted, users who followed LastPass best practices would be exposed to practically zero to extremely low risk. However, to say that password best practices are not followed is a wild understatement. The reality is that there]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CircleCI Urges Customers to Rotate Secrets Following Security Incident]]></title>
-        <id>https://thehackernews.com/2023/01/circleci-urges-customers-to-rotate.html</id>
-        <link href="https://thehackernews.com/2023/01/circleci-urges-customers-to-rotate.html"/>
-        <updated>2023-01-05T09:12:00.000Z</updated>
-        <summary type="html"><![CDATA[DevOps platform CircleCI on Wednesday urged its customers to rotate all their secrets following an unspecified security incident.
-The company said an investigation is currently ongoing, but emphasized that "there are no unauthorized actors active in our systems." Additional details are expected to be shared in the coming days.
-"Immediately rotate any and all secrets stored in CircleCI,"]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Evolving Tactics of Vidar Stealer: From Phishing Emails to Social Media]]></title>
-        <id>https://thehackernews.com/2023/01/the-evolving-tactics-of-vidar-stealer.html</id>
-        <link href="https://thehackernews.com/2023/01/the-evolving-tactics-of-vidar-stealer.html"/>
-        <updated>2023-01-05T08:48:00.000Z</updated>
-        <summary type="html"><![CDATA[The notorious information-stealer known as Vidar is continuing to leverage popular social media services such as TikTok, Telegram, Steam, and Mastodon as an intermediate command-and-control (C2) server.
-"When a user creates an account on an online platform, a unique account page that can be accessed by anyone is generated," AhnLab Security Emergency Response Center (ASEC) disclosed in a]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fortinet and Zoho Urge Customers to Patch Enterprise Software Vulnerabilities]]></title>
-        <id>https://thehackernews.com/2023/01/fortinet-and-zoho-urge-customers-to.html</id>
-        <link href="https://thehackernews.com/2023/01/fortinet-and-zoho-urge-customers-to.html"/>
-        <updated>2023-01-05T07:52:00.000Z</updated>
-        <summary type="html"><![CDATA[Fortinet has warned of a high-severity flaw affecting multiple versions of FortiADC application delivery controller that could lead to the execution of arbitrary code.
-"An improper neutralization of special elements used in an OS command vulnerability in FortiADC may allow an authenticated attacker with access to the web GUI to execute unauthorized code or commands via specifically crafted HTTP]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
         </author>
     </entry>
     <entry>
