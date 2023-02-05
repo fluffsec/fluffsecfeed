@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-02-05T02:25:04.223Z</updated>
+    <updated>2023-02-05T07:17:05.558Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
@@ -4756,78 +4756,6 @@ Google-owned Mandiant, which is tracking the operation under the uncategorized c
         <summary type="html"><![CDATA[A rise in the reliance on unmanaged mobile devices, matched with a lack of patching and increased attacks seeking solely to steal credentials was a perfect storm for government.]]></summary>
         <author>
             <name>Stu Sjouwerman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CISOs Are Focused on These 3 Trends. Are You?]]></title>
-        <id>https://www.darkreading.com/microsoft/cisos-are-focused-on-these-3-trends-are-you-</id>
-        <link href="https://www.darkreading.com/microsoft/cisos-are-focused-on-these-3-trends-are-you-"/>
-        <updated>2023-01-06T19:02:34.000Z</updated>
-        <summary type="html"><![CDATA[The macro issues shaping the threat landscape can help security pros reset their priorities and reformulate strategy.]]></summary>
-        <author>
-            <name>Microsoft Security, Microsoft</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PurpleUrchin Gang Embraces DevOps In Massive Cloud Malware Campaign]]></title>
-        <id>https://www.darkreading.com/attacks-breaches/purpleurchin-devops-cloud-malware-campaign</id>
-        <link href="https://www.darkreading.com/attacks-breaches/purpleurchin-devops-cloud-malware-campaign"/>
-        <updated>2023-01-06T18:46:00.000Z</updated>
-        <summary type="html"><![CDATA[The Automated Libra group is deploying all components of its campaign in an automated manner via containers, stealing free trial resources for cryptomining, but the threat could get larger.]]></summary>
-        <author>
-            <name>Jai Vijayan, Contributing Writer, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hackers Using CAPTCHA Bypass Tactics in Freejacking Campaign on GitHub]]></title>
-        <id>https://thehackernews.com/2023/01/hackers-using-captcha-bypass-tactics-in.html</id>
-        <link href="https://thehackernews.com/2023/01/hackers-using-captcha-bypass-tactics-in.html"/>
-        <updated>2023-01-06T17:42:00.000Z</updated>
-        <summary type="html"><![CDATA[A South Africa-based threat actor known as Automated Libra has been observed employing CAPTCHA bypass techniques to create GitHub accounts in a programmatic fashion as part of a freejacking campaign dubbed PURPLEURCHIN.
-The group "primarily targets cloud platforms offering limited-time trials of cloud resources in order to perform their crypto mining operations," Palo Alto Networks Unit 42]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Publishing CBL-Mariner CVEs on the Security Update Guide CVRF API]]></title>
-        <id>https://msrc-blog.microsoft.com/?p=15238</id>
-        <link href="https://msrc-blog.microsoft.com/2023/01/06/publishing-cbl-mariner-cves-on-the-security-update-guide-cvrf-api/"/>
-        <updated>2023-01-06T17:25:09.000Z</updated>
-        <summary type="html"><![CDATA[Microsoft is pleased to announce that beginning January 11, 2023, we will publish CBL-Mariner CVEs in the Security Update Guide (SUG) Common Vulnerability Reporting Framework (CVRF) API. CBL-Mariner is a Linux distribution built by Microsoft to power Azure’s cloud and edge products and services and is currently in preview as an AKS Container Host. Sharing …
-  Publishing CBL-Mariner CVEs on the Security Update Guide CVRF API Read More »]]></summary>
-        <author>
-            <name>Japhet Debrah</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[From Ferrari to Ford, Cybersecurity Bugs Plague Automotive Safety]]></title>
-        <id>https://www.darkreading.com/ics-ot/ferrari-ford-cybersecurity-bugs-automotive-safety</id>
-        <link href="https://www.darkreading.com/ics-ot/ferrari-ford-cybersecurity-bugs-automotive-safety"/>
-        <updated>2023-01-06T15:26:00.000Z</updated>
-        <summary type="html"><![CDATA[Security vulnerabilities plague automakers, and as vehicles become more connected, a more proactive stance on cybersecurity will be required — alongside regulations.]]></summary>
-        <author>
-            <name>Nathan Eddy, Contributing Writer, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Don't Be Blindsided by Software Bills of Materials]]></title>
-        <id>https://www.darkreading.com/vulnerabilities-threats/don-t-be-blindsided-by-software-bills-of-materials</id>
-        <link href="https://www.darkreading.com/vulnerabilities-threats/don-t-be-blindsided-by-software-bills-of-materials"/>
-        <updated>2023-01-06T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[It's imperative we collaborate and partner to improve software security. This may require developing tools and standards that can enrich SBOMs and provide deeper analysis.]]></summary>
-        <author>
-            <name>Kevin E. Greene, Public Sector CTO, CyberRes, a Micro Focus line of business</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ChatGPT Artificial Intelligence: An Upcoming Cybersecurity Threat?]]></title>
-        <id>https://www.darkreading.com/omdia/chatgpt-artificial-intelligence-an-upcoming-cybersecurity-threat-</id>
-        <link href="https://www.darkreading.com/omdia/chatgpt-artificial-intelligence-an-upcoming-cybersecurity-threat-"/>
-        <updated>2023-01-06T14:35:00.000Z</updated>
-        <summary type="html"><![CDATA[The role of artificial intelligence in cybersecurity is growing. A new AI model highlights the opportunities and challenges.]]></summary>
-        <author>
-            <name>Ketaki Borade, Senior Analyst, Omdia</name>
         </author>
     </entry>
     <entry>
