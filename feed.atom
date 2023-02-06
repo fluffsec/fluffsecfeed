@@ -2,10 +2,67 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-02-06T07:18:36.552Z</updated>
+    <updated>2023-02-06T13:33:06.005Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[GuLoader Malware Using Malicious NSIS Executable to Target E-Commerce Industry]]></title>
+        <id>https://thehackernews.com/2023/02/guloader-malware-using-malicious-nsis.html</id>
+        <link href="https://thehackernews.com/2023/02/guloader-malware-using-malicious-nsis.html"/>
+        <updated>2023-02-06T12:36:00.000Z</updated>
+        <summary type="html"><![CDATA[E-commerce industries in South Korea and the U.S. are at the receiving end of an ongoing GuLoader malware campaign, cybersecurity firm Trellix disclosed late last month.
+The malspam activity is notable for transitioning away from malware-laced Microsoft Word documents to NSIS executable files for loading the malware. Other countries targeted as part of the campaign include Germany, Saudi Arabia,]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft: Iranian Nation-State Group Sanctioned by U.S. Behind Charlie Hebdo Hack]]></title>
+        <id>https://thehackernews.com/2023/02/microsoft-iranian-nation-state-group.html</id>
+        <link href="https://thehackernews.com/2023/02/microsoft-iranian-nation-state-group.html"/>
+        <updated>2023-02-06T12:09:00.000Z</updated>
+        <summary type="html"><![CDATA[An Iranian nation-state group sanctioned by the U.S. government has been attributed to the hack of the French satirical magazine Charlie Hebdo in early January 2023.
+Microsoft, which disclosed details of the incident, is tracking the activity cluster under its chemical element-themed moniker NEPTUNIUM, which is an Iran-based company known as Emennet Pasargad.
+In January 2022, the U.S. Federal]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SaaS in the Real World: Who's Responsible to Secure this Data?]]></title>
+        <id>https://thehackernews.com/2023/02/saas-in-real-world-whos-responsible-to.html</id>
+        <link href="https://thehackernews.com/2023/02/saas-in-real-world-whos-responsible-to.html"/>
+        <updated>2023-02-06T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[When SaaS applications started growing in popularity, it was unclear who was responsible for securing the data. Today, most security and IT teams understand the shared responsibility model, in which the SaaS vendor is responsible for securing the application, while the organization is responsible for securing their data. 
+What’s far murkier, however, is where the data responsibility lies on the]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenSSH Releases Patch for New Pre-Auth Double Free Vulnerability]]></title>
+        <id>https://thehackernews.com/2023/02/openssh-releases-patch-for-new-pre-auth.html</id>
+        <link href="https://thehackernews.com/2023/02/openssh-releases-patch-for-new-pre-auth.html"/>
+        <updated>2023-02-06T09:55:00.000Z</updated>
+        <summary type="html"><![CDATA[The maintainers of OpenSSH have released OpenSSH 9.2 to address a number of security bugs, including a memory safety vulnerability in the OpenSSH server (sshd).
+Tracked as CVE-2023-25136, the shortcoming has been classified as a pre-authentication double free vulnerability that was introduced in version 9.1.
+"This is not believed to be exploitable, and it occurs in the unprivileged pre-auth]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FormBook Malware Spreads via Malvertising Using MalVirt Loader to Evade Detection]]></title>
+        <id>https://thehackernews.com/2023/02/formbook-malware-spreads-via.html</id>
+        <link href="https://thehackernews.com/2023/02/formbook-malware-spreads-via.html"/>
+        <updated>2023-02-06T08:11:00.000Z</updated>
+        <summary type="html"><![CDATA[An ongoing malvertising campaign is being used to distribute virtualized .NET loaders that are designed to deploy the FormBook information-stealing malware.
+"The loaders, dubbed MalVirt, use obfuscated virtualization for anti-analysis and evasion along with the Windows Process Explorer driver for terminating processes," SentinelOne researchers Aleksandar Milenkoski and Tom Hegel said in a]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[PixPirate: New Android Banking Trojan Targeting Brazilian Financial Institutions]]></title>
         <id>https://thehackernews.com/2023/02/pixpirate-new-android-banking-trojan.html</id>
