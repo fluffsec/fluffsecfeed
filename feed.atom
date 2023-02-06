@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-02-06T13:33:06.005Z</updated>
+    <updated>2023-02-06T19:16:21.065Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[A Close Call – PayPal Scam Warning]]></title>
+        <id>https://blog.knowbe4.com/paypal-scam-warning</id>
+        <link href="https://blog.knowbe4.com/paypal-scam-warning"/>
+        <updated>2023-02-06T19:00:39.000Z</updated>
+        <summary type="html"><![CDATA[On Sunday, I received an urgent message from a friend. PayPal had sent him an email saying that a co-worker had sent him money. This was not unexpected, as he was collecting contributions towards a farewell gift for another coworker. What struck him as odd were the instructions to claim the money by logging into his account or registering a new account. After all, he already had an account with the service. It turned out, the coworker had accidentally forgotten to include dots with his email address. So, there was indeed no PayPal account for that exact email address.]]></summary>
+        <author>
+            <name>Martin Kraemer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Students Phished with Bogus Job Offers]]></title>
+        <id>https://blog.knowbe4.com/students-phished-with-bogus-job-offers</id>
+        <link href="https://blog.knowbe4.com/students-phished-with-bogus-job-offers"/>
+        <updated>2023-02-06T15:14:44.000Z</updated>
+        <summary type="html"><![CDATA[A phishing campaign is targeting college students with phony part-time job opportunities, according to Jeremy Fuchs at Avanan. The emails purport to come from the colleges’ job placement department, stating, “Paying for college isn’t easy; your financial aid only covers some of the costs. Whether you want to cover more tuition, or you’d like to have some pocket-money for each week, a job will afford you that financial leeway. There is a remote job opportunity in accordance with the work and study regulations of the Institution.”]]></summary>
+        <author>
+            <name>Stu Sjouwerman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Cybercriminals Are Operationalizing Money Laundering and What to Do About It]]></title>
+        <id>https://www.darkreading.com/vulnerabilities-threats/how-cybercriminals-are-operationalizing-money-laundering-and-what-to-do-about-it</id>
+        <link href="https://www.darkreading.com/vulnerabilities-threats/how-cybercriminals-are-operationalizing-money-laundering-and-what-to-do-about-it"/>
+        <updated>2023-02-06T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[It's time to share threat intelligence and prioritize digital literacy and cyber hygiene to stem the rising money laundering tide.]]></summary>
+        <author>
+            <name>Derek Manky, Chief Security Strategist &amp; VP Global Threat Intelligence, FortiGuard Labs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Name That Edge Toon: For the Birds]]></title>
+        <id>https://www.darkreading.com/edge-articles/name-that-edge-toon-for-the-birds</id>
+        <link href="https://www.darkreading.com/edge-articles/name-that-edge-toon-for-the-birds"/>
+        <updated>2023-02-06T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Come up with a clever caption, and our panel of experts will reward the winner with a $25 Amazon gift card.]]></summary>
+        <author>
+            <name>John Klossner, Cartoonist</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[GuLoader Malware Using Malicious NSIS Executable to Target E-Commerce Industry]]></title>
         <id>https://thehackernews.com/2023/02/guloader-malware-using-malicious-nsis.html</id>
@@ -1026,6 +1066,26 @@ It might sound ridiculous at first: keeping secrets is an obvious first thought 
   Microsoft Investigation – Threat actor consent phishing campaign abusing the verified publisher process Read More »]]></summary>
         <author>
             <name>msrc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Predictions For Securing Today's Hybrid Workforce]]></title>
+        <id>https://www.darkreading.com/zscaler/predictions-for-securing-today-s-hybrid-workforce</id>
+        <link href="https://www.darkreading.com/zscaler/predictions-for-securing-today-s-hybrid-workforce"/>
+        <updated>2023-01-31T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Since requirements differ for users who work both from home and in the office, policies — and underlying technology — must adapt.]]></summary>
+        <author>
+            <name>Kanishka Pandit, Senior Product Marketing Manager, Zscaler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Unleash the Full Potential of Zero-Trust Security]]></title>
+        <id>https://www.darkreading.com/zscaler/unleash-the-full-potential-of-zero-trust-security</id>
+        <link href="https://www.darkreading.com/zscaler/unleash-the-full-potential-of-zero-trust-security"/>
+        <updated>2023-01-31T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The demand is unmistakeable and the business case is readily justified — it's time to implement zero trust.]]></summary>
+        <author>
+            <name>Emily Laufer, Senior Manager of Product Marketing, ThreatLabz, Zscaler</name>
         </author>
     </entry>
     <entry>
@@ -4760,17 +4820,6 @@ Web applications are at the core of what SaaS companies do and how they operate,
         <summary type="html"><![CDATA[A new attack vector targeting the Visual Studio Code extensions marketplace could be leveraged to upload rogue extensions masquerading as their legitimate counterparts with the goal of mounting supply chain attacks.
 The technique "could act as an entry point for an attack on many organizations," Aqua security researcher Ilay Goldman said in a report published last week.
 VS Code extensions,]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Russian Turla Hackers Hijack Decade-Old Malware Infrastructure to Deploy New Backdoors]]></title>
-        <id>https://thehackernews.com/2023/01/russian-turla-hackers-hijack-decade-old.html</id>
-        <link href="https://thehackernews.com/2023/01/russian-turla-hackers-hijack-decade-old.html"/>
-        <updated>2023-01-08T06:15:00.000Z</updated>
-        <summary type="html"><![CDATA[The Russian cyberespionage group known as Turla has been observed piggybacking on attack infrastructure used by a decade-old malware to deliver its own reconnaissance and backdoor tools to targets in Ukraine.
-Google-owned Mandiant, which is tracking the operation under the uncategorized cluster moniker UNC4210, said the hijacked servers correspond to a variant of a commodity malware called]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
