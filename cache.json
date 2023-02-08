@@ -23,6 +23,16 @@
       "siteUrl": "https://us-cert.cisa.gov/",
       "articles": [
         {
+          "id": "18337 at https://us-cert.cisa.gov",
+          "author": "CISA",
+          "description": "Original release date: February 7, 2023\nCISA has released a recovery script for organizations that have fallen victim to ESXiArgs ransomware. The ESXiArgs ransomware encrypts configuration files on vulnerable ESXi servers, potentially rendering virtual machines (VMs) unusable.\nCISA recommends organizations impacted by ESXiArgs evaluate the script and guidance provided in the accompanying README file to determine if it is fit for attempting to recover access to files in their environment.\nOrganizations can access the recovery script here: https://github.com/cisagov/ESXiArgs-Recover\nThis product is provided subject to this Notification and this Privacy & Use policy.",
+          "link": "https://us-cert.cisa.gov/ncas/current-activity/2023/02/07/cisa-releases-esxiargs-ransomware-recovery-script",
+          "publishedOn": "2023-02-07T23:27:16.000Z",
+          "wordCount": 971,
+          "title": "CISA Releases ESXiArgs Ransomware Recovery Script",
+          "imageUrl": null
+        },
+        {
           "id": "18336 at https://us-cert.cisa.gov",
           "author": "CISA",
           "description": "Original release date: February 7, 2023\nCISA released one Industrial Control Systems (ICS) advisory on February 7, 2023. This advisory provides timely information about current security issues, vulnerabilities, and exploits surrounding ICS.\nCISA encourages users and administrators to review the newly released ICS advisory for technical details and mitigations:\nICSA-23-037-01 EnOcean SmartServer\nThis product is provided subject to this Notification and this Privacy & Use policy.",
@@ -379,6 +389,81 @@
       "feedUrl": "https://www.darkreading.com/rss.xml",
       "siteUrl": "https://www.darkreading.com",
       "articles": [
+        {
+          "id": "https://www.darkreading.com/tech-trends/cloud-apps-still-demand-way-more-privileges-than-they-use",
+          "author": "Dark Reading Staff, Dark Reading",
+          "description": "Hackers can't steal a credential that doesn't exist.",
+          "link": "https://www.darkreading.com/tech-trends/cloud-apps-still-demand-way-more-privileges-than-they-use",
+          "publishedOn": "2023-02-07T23:35:00.000Z",
+          "wordCount": 11570,
+          "title": "Cloud Apps Still Demand Way More Privileges Than They Use",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blte161b23f0fd3a84b/60b1ea374e7eb868c4c6a293/dr_staff_125x125.jpg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blte161b23f0fd3a84b/60b1ea374e7eb868c4c6a293/dr_staff_125x125.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/application-security/-money-lover-finance-app-exposes-user-data",
+          "author": "Nate Nelson, Contributing Writer, Dark Reading",
+          "description": "A broken access control vulnerability could have led to dangerous follow-on attacks for users of the money-management app.",
+          "link": "https://www.darkreading.com/application-security/-money-lover-finance-app-exposes-user-data",
+          "publishedOn": "2023-02-07T22:54:00.000Z",
+          "wordCount": 12318,
+          "title": "'Money Lover' Finance App Exposes User Data",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt91e5f91ce3f0cdd9/63d0288ac98dbe55ece1d0a9/Nate-Nelson_(1).jpg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt91e5f91ce3f0cdd9/63d0288ac98dbe55ece1d0a9/Nate-Nelson_(1).jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/endpoint/fresh-buggy-clop-ransomware-variant-targets-linux-systems",
+          "author": "Jai Vijayan, Contributing Writer, Dark Reading",
+          "description": "For the moment, victims can decrypt data without paying a ransom. But Clop is a ransomware variant that has caused havoc on Windows systems, so that's bound to change.",
+          "link": "https://www.darkreading.com/endpoint/fresh-buggy-clop-ransomware-variant-targets-linux-systems",
+          "publishedOn": "2023-02-07T22:21:00.000Z",
+          "wordCount": 12838,
+          "title": "Fresh, Buggy Clop Ransomware Variant Targets Linux Systems",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt02d79fb9a44a4258/60b1e9dd2a25046b35110696/Jai-Vijayan.jpeg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt02d79fb9a44a4258/60b1e9dd2a25046b35110696/Jai-Vijayan.jpeg"
+        },
+        {
+          "id": "https://www.darkreading.com/remote-workforce/dprk-using-unpatched-zimbra-devices-to-spy-on-researchers-",
+          "author": "Dark Reading Staff, Dark Reading",
+          "description": "Lazarus Group used a known Zimbra bug to steal data from medical and energy researchers.",
+          "link": "https://www.darkreading.com/remote-workforce/dprk-using-unpatched-zimbra-devices-to-spy-on-researchers-",
+          "publishedOn": "2023-02-07T21:05:00.000Z",
+          "wordCount": 10347,
+          "title": "DPRK Using Unpatched Zimbra Devices to Spy on Researchers",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blte161b23f0fd3a84b/60b1ea374e7eb868c4c6a293/dr_staff_125x125.jpg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blte161b23f0fd3a84b/60b1ea374e7eb868c4c6a293/dr_staff_125x125.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/risk/new-bank-trojan-targeting-100m-pix-payment-platform-accounts",
+          "author": "Dark Reading Staff, Dark Reading",
+          "description": "New malware demonstrates how threat actors are pivoting toward payment platform attacks, researchers say.",
+          "link": "https://www.darkreading.com/risk/new-bank-trojan-targeting-100m-pix-payment-platform-accounts",
+          "publishedOn": "2023-02-07T19:18:00.000Z",
+          "wordCount": 10498,
+          "title": "New Banking Trojan Targeting 100M Pix Payment Platform Accounts",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blte161b23f0fd3a84b/60b1ea374e7eb868c4c6a293/dr_staff_125x125.jpg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blte161b23f0fd3a84b/60b1ea374e7eb868c4c6a293/dr_staff_125x125.jpg"
+        },
         {
           "id": "https://www.darkreading.com/ics-ot/industrial-cybersecurity-innovator-opscura-receives-9-4m-in-series-a-funding-as-critical-operations-transform",
           "author": null,
@@ -4507,16 +4592,6 @@
           "wordCount": 1962,
           "title": "The Good, the Bad and the Truth About Password Managers",
           "imageUrl": "https://blog.knowbe4.com/hubfs/TruthAboutPasswordManagers-SOCIAL-LIVE-ET.jpg#keepProtocol"
-        },
-        {
-          "id": "https://blog.knowbe4.com/phishing-in-the-service-of-espionage",
-          "author": "Stu Sjouwerman",
-          "description": "Reuters describes a cyberespionage campaign carried out by the hitherto little-known threat group researchers track as \"Cold River.\" The group is circumstantially but convincingly linked to Russian intelligence services (possibly the FSB, although that's unclear) through its Russophone operations and the location of at least one of its personnel in the northern city of Syktyvkar, capital of the Komi region.",
-          "link": "https://blog.knowbe4.com/phishing-in-the-service-of-espionage",
-          "publishedOn": "2023-01-09T14:14:12.000Z",
-          "wordCount": 2273,
-          "title": "Phishing in the Service of Espionage",
-          "imageUrl": "https://blog.knowbe4.com/hubfs/73%25%20Victim%20of%20Phishing%20Attack.jpg#keepProtocol"
         }
       ]
     },
@@ -6390,118 +6465,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5LcBYzGpiZdVnYmwrcLsf152DDY3nLQTYRETW_R3U1IN_ZezhDUut1IiqziXbz51S6_bCjrJ1hjD0_lAags912yJnU_T1jxDMT3JjJTYOCC152EMfQrjofIeDn8BhmO6SZtQjI9scL0Xae4186kSTga71gVL5y0hqdvGYfhdFG_Z9TDErs2bnxn8Z/s1600/json.png"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5LcBYzGpiZdVnYmwrcLsf152DDY3nLQTYRETW_R3U1IN_ZezhDUut1IiqziXbz51S6_bCjrJ1hjD0_lAags912yJnU_T1jxDMT3JjJTYOCC152EMfQrjofIeDn8BhmO6SZtQjI9scL0Xae4186kSTga71gVL5y0hqdvGYfhdFG_Z9TDErs2bnxn8Z/s1600/json.png"
-        },
-        {
-          "id": "https://thehackernews.com/2023/01/kinsing-cryptojacking-hits-kubernetes.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "The threat actors behind the Kinsing cryptojacking operation have been spotted exploiting misconfigured and exposed PostgreSQL servers to obtain initial access to Kubernetes environments.\nA second initial access vector technique entails the use of vulnerable images, Sunders Bruskin, security researcher at Microsoft Defender for Cloud, said in a report last week.\nKinsing has a storied history of",
-          "link": "https://thehackernews.com/2023/01/kinsing-cryptojacking-hits-kubernetes.html",
-          "publishedOn": "2023-01-09T14:03:00.000Z",
-          "wordCount": null,
-          "title": "Kinsing Cryptojacking Hits Kubernetes Clusters via Misconfigured PostgreSQL",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEipp97ofle-w8JdZjotEsuSYpK7tXS-MgqyuPdIEnwmnzIn8s28Bw8yRtVlR8tR0SM38euM9nH84aLDWftrfCmSK-mN8QrXJPEWUButPsXrsUtt9xXUZ-1X1oY1yxwZK9AjjJDFYkcjpQqdJRIMlQ9QmbF6fRqSsqDyBVKVMnRGlwr5l8Ov5QC9I86T/s1600/bitcoing.png"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEipp97ofle-w8JdZjotEsuSYpK7tXS-MgqyuPdIEnwmnzIn8s28Bw8yRtVlR8tR0SM38euM9nH84aLDWftrfCmSK-mN8QrXJPEWUButPsXrsUtt9xXUZ-1X1oY1yxwZK9AjjJDFYkcjpQqdJRIMlQ9QmbF6fRqSsqDyBVKVMnRGlwr5l8Ov5QC9I86T/s1600/bitcoing.png"
-        },
-        {
-          "id": "https://thehackernews.com/2023/01/new-study-uncovers-text-to-sql-model.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "A group of academics has demonstrated novel attacks that leverage Text-to-SQL models to produce malicious code that could enable adversaries to glean sensitive information and stage denial-of-service (DoS) attacks.\n\"To better interact with users, a wide range of database applications employ AI techniques that can translate human questions into SQL queries (namely Text-to-SQL),\" Xutan Peng, a",
-          "link": "https://thehackernews.com/2023/01/new-study-uncovers-text-to-sql-model.html",
-          "publishedOn": "2023-01-09T13:37:00.000Z",
-          "wordCount": null,
-          "title": "New Study Uncovers Text-to-SQL Model Vulnerabilities Allowing Data Theft and DoS Attacks",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2OimUivszEmv9gsVS2ZhHvKZLguEwHeRIG_L8FdImTssx0NgFW__d-A2Zfe51doLGTZ9ZQPzEMA-6gLcubPxQtJq-G6nzWYRBYOfuXO6soKbeDt-1gb11FTonkZ70f1fnoVOQ1wDw6Y4scT0EMHcGehmF3EBQFJtCnrLmSqLQFiu2jidncrFLyJok/s1600/txt-to-sql.png"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2OimUivszEmv9gsVS2ZhHvKZLguEwHeRIG_L8FdImTssx0NgFW__d-A2Zfe51doLGTZ9ZQPzEMA-6gLcubPxQtJq-G6nzWYRBYOfuXO6soKbeDt-1gb11FTonkZ70f1fnoVOQ1wDw6Y4scT0EMHcGehmF3EBQFJtCnrLmSqLQFiu2jidncrFLyJok/s1600/txt-to-sql.png"
-        },
-        {
-          "id": "https://thehackernews.com/2023/01/why-do-user-permissions-matter-for-saas.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Earlier this year, threat actors infiltrated Mailchimp, the popular SaaS email marketing platform. They viewed over 300 Mailchimp customer accounts and exported audience data from 102 of them. The breach was preceded by a successful phishing attempt and led to malicious attacks against Mailchimp’s customers’ end users.\nThree months later, Mailchimp was hit with another attack. Once again, an",
-          "link": "https://thehackernews.com/2023/01/why-do-user-permissions-matter-for-saas.html",
-          "publishedOn": "2023-01-09T12:57:00.000Z",
-          "wordCount": null,
-          "title": "Why Do User Permissions Matter for SaaS Security?",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiqpz_v6Yfp5vepVN-k8ZFoVsrmJRs3ck6734B9aQYgS9HTtFpsxBabbXckaZK2LeVrTU2KjVRqYBR7skxZW-LZZ8JJp5UYNwnT6iRmxQ_g5Tgusxm4lOHhiM4VPkb8XjcL_xWTBw2gi02r0GR8tSLHo1BB7YQNca0hKFEbXPY5jwGqxXJ87VNF6OP2/s1600/SAAS.png"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiqpz_v6Yfp5vepVN-k8ZFoVsrmJRs3ck6734B9aQYgS9HTtFpsxBabbXckaZK2LeVrTU2KjVRqYBR7skxZW-LZZ8JJp5UYNwnT6iRmxQ_g5Tgusxm4lOHhiM4VPkb8XjcL_xWTBw2gi02r0GR8tSLHo1BB7YQNca0hKFEbXPY5jwGqxXJ87VNF6OP2/s1600/SAAS.png"
-        },
-        {
-          "id": "https://thehackernews.com/2023/01/millions-of-vehicles-at-risk-api.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Multiple bugs affecting millions of vehicles from 16 different manufacturers could be abused to unlock, start, and track cars, plus impact the privacy of car owners.\nThe security vulnerabilities were found in the automotive APIs powering Acura, BMW, Ferrari, Ford, Genesis, Honda, Hyundai, Infiniti, Jaguar, Kia, Land Rover, Mercedes-Benz, Nissan, Porsche, Rolls Royce, Toyota as well as in",
-          "link": "https://thehackernews.com/2023/01/millions-of-vehicles-at-risk-api.html",
-          "publishedOn": "2023-01-09T10:30:00.000Z",
-          "wordCount": null,
-          "title": "Millions of Vehicles at Risk: API Vulnerabilities Uncovered in 16 Major Car Brands",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhCsk3O-sNUvfZwEHhMSCo9-vgrle7m5gz2ll34zAl4Zjv7qs3usmBrrj_HpFJpYnsxEEvlGmCMlJhu4JpU0VXkJP3IJzhG7lIA5H3JBx6cD8L4eZ5t2AK3dwuVvaXv2hhxPPIoPWlWHo8nVKJQHJuSM1SvRLfEpNm0QWRC0C5YaGyiKJkIVn_p_g-Q/s1600/car-hacking.png"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhCsk3O-sNUvfZwEHhMSCo9-vgrle7m5gz2ll34zAl4Zjv7qs3usmBrrj_HpFJpYnsxEEvlGmCMlJhu4JpU0VXkJP3IJzhG7lIA5H3JBx6cD8L4eZ5t2AK3dwuVvaXv2hhxPPIoPWlWHo8nVKJQHJuSM1SvRLfEpNm0QWRC0C5YaGyiKJkIVn_p_g-Q/s1600/car-hacking.png"
-        },
-        {
-          "id": "https://thehackernews.com/2023/01/malicious-pypi-packages-using.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "In yet another campaign targeting the Python Package Index (PyPI) repository, six malicious packages have been found deploying information stealers on developer systems.\nThe now-removed packages, which were discovered by Phylum between December 22 and December 31, 2022, include pyrologin, easytimestamp, discorder, discord-dev, style.py, and pythonstyles.\nThe malicious code, as is increasingly",
-          "link": "https://thehackernews.com/2023/01/malicious-pypi-packages-using.html",
-          "publishedOn": "2023-01-09T08:47:00.000Z",
-          "wordCount": null,
-          "title": "Malicious PyPI Packages Using Cloudflare Tunnels to Sneak Through Firewalls",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEioLScBPxvaWYxBOr1rsfntTQBybECKgpFxx-nGDPk_6IEFmhwQZZ76aF7moU9Hi_S2_w75CFEod-Eel2kD5OhdS_Fd1CYnfCmlWRNXkclQUd1Mf0EtKwb8KK4R-kUkZTZKFI3O3Bgb9zMEylSOk0RQh3dqwz0TbrSuzizWMfynsbG2edK8EdkKUswZ/s1600/cf.png"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEioLScBPxvaWYxBOr1rsfntTQBybECKgpFxx-nGDPk_6IEFmhwQZZ76aF7moU9Hi_S2_w75CFEod-Eel2kD5OhdS_Fd1CYnfCmlWRNXkclQUd1Mf0EtKwb8KK4R-kUkZTZKFI3O3Bgb9zMEylSOk0RQh3dqwz0TbrSuzizWMfynsbG2edK8EdkKUswZ/s1600/cf.png"
-        },
-        {
-          "id": "https://thehackernews.com/2023/01/top-saas-cybersecurity-threats-in-2023.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Cybercriminals will be as busy as ever this year. Stay safe and protect your systems and data by focusing on these 4 key areas to secure your environment and ensure success in 2023, and make sure your business is only in the headlines when you WANT it to be. 1 — Web application weaknesses\n\nWeb applications are at the core of what SaaS companies do and how they operate, and they can store some of",
-          "link": "https://thehackernews.com/2023/01/top-saas-cybersecurity-threats-in-2023.html",
-          "publishedOn": "2023-01-09T07:56:00.000Z",
-          "wordCount": null,
-          "title": "Top SaaS Cybersecurity Threats in 2023: Are You Ready?",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgkJlPhbvwUyj58oYrp4qxtQv1szZyPxdwhN2lxhKkZDk6t6BlSecSz1R5_D9z88e56h2OO6YNNzSACj-Y1rT87sKrwBOdw-NZXVhHm3vMHoEWFFK5CszgN33I-gJL0mdOfuxKySkfecRbx9xL_0Ed9qeltqNNqaKi7mD8SO3UG5nuUXVlIANSk3qnD/s1600/SAAS.png"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgkJlPhbvwUyj58oYrp4qxtQv1szZyPxdwhN2lxhKkZDk6t6BlSecSz1R5_D9z88e56h2OO6YNNzSACj-Y1rT87sKrwBOdw-NZXVhHm3vMHoEWFFK5CszgN33I-gJL0mdOfuxKySkfecRbx9xL_0Ed9qeltqNNqaKi7mD8SO3UG5nuUXVlIANSk3qnD/s1600/SAAS.png"
-        },
-        {
-          "id": "https://thehackernews.com/2023/01/hackers-distributing-malicious-visual.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "A new attack vector targeting the Visual Studio Code extensions marketplace could be leveraged to upload rogue extensions masquerading as their legitimate counterparts with the goal of mounting supply chain attacks.\nThe technique \"could act as an entry point for an attack on many organizations,\" Aqua security researcher Ilay Goldman said in a report published last week.\nVS Code extensions,",
-          "link": "https://thehackernews.com/2023/01/hackers-distributing-malicious-visual.html",
-          "publishedOn": "2023-01-09T07:21:00.000Z",
-          "wordCount": null,
-          "title": "Hackers Can Abuse Visual Studio Marketplace to Target Developers with Malicious Extensions",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjQYImd3jK7QwDHl0yksrSJhjJxODxFjqIOInHUdbSHQQ23AoxW5lCMCkTqScOJpoB6EcdJ2BI7lkaF2_3_HSAqlMowFUNNFuvOUeI9WThP2DiWjArnPYPE2r3f2WiFo9bS_rSgH327u5x_HcZ_bIloRlxVGc0HzdqqtKpL4338VBHqfQ9DZzKkARzT/s1600/Visual-studio-malware-code.png"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjQYImd3jK7QwDHl0yksrSJhjJxODxFjqIOInHUdbSHQQ23AoxW5lCMCkTqScOJpoB6EcdJ2BI7lkaF2_3_HSAqlMowFUNNFuvOUeI9WThP2DiWjArnPYPE2r3f2WiFo9bS_rSgH327u5x_HcZ_bIloRlxVGc0HzdqqtKpL4338VBHqfQ9DZzKkARzT/s1600/Visual-studio-malware-code.png"
         }
       ]
     }
