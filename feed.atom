@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-02-08T02:24:16.321Z</updated>
+    <updated>2023-02-08T07:18:57.475Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[CERT-UA Alerts Ukrainian State Authorities of Remcos Software-Fueled Cyber Attacks]]></title>
+        <id>https://thehackernews.com/2023/02/cert-ua-alerts-ukrainian-state.html</id>
+        <link href="https://thehackernews.com/2023/02/cert-ua-alerts-ukrainian-state.html"/>
+        <updated>2023-02-08T06:16:00.000Z</updated>
+        <summary type="html"><![CDATA[The Computer Emergency Response Team of Ukraine (CERT-UA) has issued an alert warning of cyber attacks against state authorities in the country that deploy a legitimate remote access software named Remcos.
+The mass phishing campaign has been attributed to a threat actor it tracks as UAC-0050, with the agency describing the activity as likely motivated by espionage given the toolset employed.
+The]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Cloud Apps Still Demand Way More Privileges Than They Use]]></title>
         <id>https://www.darkreading.com/tech-trends/cloud-apps-still-demand-way-more-privileges-than-they-use</id>
@@ -5076,65 +5088,6 @@ This product is provided subject to this Notification and this Privacy & Use pol
         <summary type="html"><![CDATA[Organizations often defer patching because of business disruption fears — but that didn't work out very well for Rackspace's Hosted Exchange service.]]></summary>
         <author>
             <name>Jai Vijayan, Contributing Writer, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['Copyright Infringement' Lure Used for Facebook Credential Harvesting]]></title>
-        <id>https://www.darkreading.com/attacks-breaches/-copyright-infringement-lure-facebook-credential-harvesting</id>
-        <link href="https://www.darkreading.com/attacks-breaches/-copyright-infringement-lure-facebook-credential-harvesting"/>
-        <updated>2023-01-09T19:00:59.000Z</updated>
-        <summary type="html"><![CDATA[Business users receive a message from Facebook warning their accounts will be permanently suspended for using photos illegally if they don't appeal within 24 hours, leading victims to a credential-harvesting page instead.]]></summary>
-        <author>
-            <name>Nathan Eddy, Contributing Writer, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JsonWebToken Security Bug Opens Servers to RCE]]></title>
-        <id>https://www.darkreading.com/vulnerabilities-threats/jsonwebtoken-security-bug-opens-servers-rce</id>
-        <link href="https://www.darkreading.com/vulnerabilities-threats/jsonwebtoken-security-bug-opens-servers-rce"/>
-        <updated>2023-01-09T17:45:00.000Z</updated>
-        <summary type="html"><![CDATA[The JsonWebToken package plays a big role in the authentication and authorization functionality for many applications.]]></summary>
-        <author>
-            <name>Nathan Eddy, Contributing Writer, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Schneider Electric and BitSight Announce Partnership to Improve Detection of Operational Technology (OT) Cybersecurity Exposure]]></title>
-        <id>https://www.darkreading.com/ics-ot/schneider-electric-and-bitsight-announce-partnership-to-improve-detection-of-operational-technology-ot-cybersecurity-exposure</id>
-        <link href="https://www.darkreading.com/ics-ot/schneider-electric-and-bitsight-announce-partnership-to-improve-detection-of-operational-technology-ot-cybersecurity-exposure"/>
-        <updated>2023-01-09T16:03:00.000Z</updated>
-        <author>
-            <name>Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Good, the Bad and the Truth About Password Managers]]></title>
-        <id>https://blog.knowbe4.com/the-good-the-bad-and-the-truth-about-password-managers</id>
-        <link href="https://blog.knowbe4.com/the-good-the-bad-and-the-truth-about-password-managers"/>
-        <updated>2023-01-09T15:36:23.000Z</updated>
-        <summary type="html"><![CDATA[We strongly recommend that you use a password manager to reduce password reuse and improve complexity, but you may be wondering if it’s really worth the risk. Is it safe to store all of your passwords in one place? Can cybercriminals hack them? Are password managers a single point of failure?]]></summary>
-        <author>
-            <name>Stu Sjouwerman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[7 Use Cases for Distributed Cloud Environments]]></title>
-        <id>https://www.darkreading.com/edge-articles/7-use-cases-for-distributed-cloud-environments</id>
-        <link href="https://www.darkreading.com/edge-articles/7-use-cases-for-distributed-cloud-environments"/>
-        <updated>2023-01-09T15:30:00.000Z</updated>
-        <summary type="html"><![CDATA[As infrastructure has grown more complex, the need to effectively manage it has grown, too – particularly for applications and APIs.]]></summary>
-        <author>
-            <name>Joshua Goldfarb, Security and Fraud Architect, F5</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Web 3.0 Shifts Attack Surface and Highlights Need for Continuous Security]]></title>
-        <id>https://www.darkreading.com/attacks-breaches/web-3-0-shifts-attack-surface-and-highlights-need-for-continuous-security-</id>
-        <link href="https://www.darkreading.com/attacks-breaches/web-3-0-shifts-attack-surface-and-highlights-need-for-continuous-security-"/>
-        <updated>2023-01-09T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A model of continuous authentication and identification is needed to keep consumers safe.]]></summary>
-        <author>
-            <name>Sameer Hajarnis, Chief Product Officer, OneSpan</name>
         </author>
     </entry>
     <entry>
