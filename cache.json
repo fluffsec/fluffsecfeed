@@ -331,36 +331,6 @@
           "wordCount": 1018,
           "title": "NCSC-UK Releases Guidance on Using MSP for Administering Cloud Services",
           "imageUrl": null
-        },
-        {
-          "id": "18268 at https://us-cert.cisa.gov",
-          "author": "CISA",
-          "description": "Original release date: January 10, 2023\nAdobe has released security updates to address multiple vulnerabilities in Adobe software. An attacker could exploit some of these vulnerabilities to take control of an affected system.\nCISA encourages users and administrators to review the following Adobe Security Bulletins and apply the necessary updates.\nAdobe Acrobat and Reader APSB23-01\nAdobe InDesign APSB23-07\nAdobe InCopy APSB23-08\nAdobe Dimension APSB23-10\nThis product is provided subject to this Notification and this Privacy & Use policy.",
-          "link": "https://us-cert.cisa.gov/ncas/current-activity/2023/01/10/adobe-releases-security-updates-multiple-products",
-          "publishedOn": "2023-01-10T22:25:07.000Z",
-          "wordCount": 966,
-          "title": "Adobe Releases Security Updates for Multiple Products",
-          "imageUrl": null
-        },
-        {
-          "id": "18267 at https://us-cert.cisa.gov",
-          "author": "CISA",
-          "description": "Original release date: January 10, 2023\nMicrosoft has released updates to address multiple vulnerabilities in Microsoft software. An attacker could exploit some of these vulnerabilities to take control of an affected system.\nCISA encourages users and administrators to review Microsoft’s January 2023 Security Update Guide and Deployment Information and apply the necessary updates.\nThis product is provided subject to this Notification and this Privacy & Use policy.",
-          "link": "https://us-cert.cisa.gov/ncas/current-activity/2023/01/10/microsoft-releases-january-2023-security-updates",
-          "publishedOn": "2023-01-10T22:22:15.000Z",
-          "wordCount": 952,
-          "title": "Microsoft Releases January 2023 Security Updates",
-          "imageUrl": null
-        },
-        {
-          "id": "18266 at https://us-cert.cisa.gov",
-          "author": "CISA",
-          "description": "Original release date: January 10, 2023\nCISA has added two new vulnerabilities to its Known Exploited Vulnerabilities Catalog, based on evidence of active exploitation. These types of vulnerabilities are frequent attack vectors for malicious cyber actors and pose significant risks to the federal enterprise. Note: To view the newly added vulnerabilities in the catalog, click on the arrow in the \"Date Added to Catalog\" column, which will sort by descending dates.\nBinding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the Known Exploited Vulnerabilities Catalog as a living list of known CVEs that carry significant risk to the federal enterprise. BOD 22-01 requires FCEB agencies to remediate identified vulnerabilities by the due date to protect FCEB networks against active threats. See the BOD 22-01 Fact Sheet for more information.\nAlthough BOD 22-01 only applies to FCEB agencies, CISA strongly urges all organizations to reduce their exposure to cyberattacks by prioritizing timely remediation of Catalog vulnerabilities as part of their vulnerability management practice. CISA will continue to add vulnerabilities to the Catalog that meet the specified criteria.\nThis product is provided subject to this Notification and this Privacy & Use policy.",
-          "link": "https://us-cert.cisa.gov/ncas/current-activity/2023/01/10/cisa-adds-two-known-exploited-vulnerabilities-catalog",
-          "publishedOn": "2023-01-10T19:53:00.000Z",
-          "wordCount": 1086,
-          "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
-          "imageUrl": null
         }
       ]
     },
@@ -3788,101 +3758,6 @@
           "wordCount": 15472,
           "title": "Cloudflare Announces Email Security & Data Protection Tools",
           "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
-        },
-        {
-          "id": "https://www.darkreading.com/dr-tech/intel-new-xeon-chip-pushes-confidential-computing-cloud",
-          "author": "Agam Shah, Contributing Writer",
-          "description": "After a delay of more than a year, Intel's on-chip confidential computing feature is coming to all the major cloud providers, starting with Microsoft's Azure.",
-          "link": "https://www.darkreading.com/dr-tech/intel-new-xeon-chip-pushes-confidential-computing-cloud",
-          "publishedOn": "2023-01-11T00:44:00.000Z",
-          "wordCount": 14033,
-          "title": "Intel's New Xeon Chip Pushes Confidential Computing to the Cloud",
-          "enclosure": {
-            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt3b296baaaaccbc2a/61bbb7b4ac124d4b2e71583a/WriterDefault_vladwel_Adobe.jpg",
-            "type": "image/*",
-            "length": "0"
-          },
-          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt3b296baaaaccbc2a/61bbb7b4ac124d4b2e71583a/WriterDefault_vladwel_Adobe.jpg"
-        },
-        {
-          "id": "https://www.darkreading.com/edge-articles/security-planning-ask-what-could-go-wrong",
-          "author": "Dave Lewis, Global Advisory CISO, Cisco Security",
-          "description": "Are you asking the right questions about potential scenarios when thinking about disaster recovery and business continuity?",
-          "link": "https://www.darkreading.com/edge-articles/security-planning-ask-what-could-go-wrong",
-          "publishedOn": "2023-01-10T23:24:00.000Z",
-          "wordCount": 13334,
-          "title": "Security Planning: Ask What Could Go Wrong",
-          "enclosure": {
-            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltbbd88cc86619d26e/63be00a99d2de17aa34aab11/dave-lewis-cisco.jpg",
-            "type": "image/*",
-            "length": "0"
-          },
-          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltbbd88cc86619d26e/63be00a99d2de17aa34aab11/dave-lewis-cisco.jpg"
-        },
-        {
-          "id": "https://www.darkreading.com/vulnerabilities-threats/microsoft-new-year-patches-98-security-fixes",
-          "author": "Jai Vijayan, Contributing Writer, Dark Reading",
-          "description": "Microsoft's January 2023 Patch Tuesday security update contains fixes for bugs in multiple products. Here's what you need to patch now.",
-          "link": "https://www.darkreading.com/vulnerabilities-threats/microsoft-new-year-patches-98-security-fixes",
-          "publishedOn": "2023-01-10T22:30:00.000Z",
-          "wordCount": 15015,
-          "title": "98 Patches: Microsoft Greets New Year With Zero-Day Security Fixes",
-          "enclosure": {
-            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt02d79fb9a44a4258/60b1e9dd2a25046b35110696/Jai-Vijayan.jpeg",
-            "type": "image/*",
-            "length": "0"
-          },
-          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt02d79fb9a44a4258/60b1e9dd2a25046b35110696/Jai-Vijayan.jpeg"
-        },
-        {
-          "id": "https://www.darkreading.com/attacks-breaches/bay-bridge-administrators-llc-notifies-individuals-of-data-breach",
-          "author": null,
-          "description": "",
-          "link": "https://www.darkreading.com/attacks-breaches/bay-bridge-administrators-llc-notifies-individuals-of-data-breach",
-          "publishedOn": "2023-01-10T22:03:00.000Z",
-          "wordCount": 12464,
-          "title": "Bay Bridge Administrators, LLC Notifies Individuals of Data Breach",
-          "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
-        },
-        {
-          "id": "https://www.darkreading.com/application-security/scotus-oks-whatsapp-suit-against-nso-group-",
-          "author": "Dark Reading Staff, Dark Reading",
-          "description": "Supreme Court rules WhatsApp can sue NSO Group for damages caused by unauthorized Pegasus spyware installations.",
-          "link": "https://www.darkreading.com/application-security/scotus-oks-whatsapp-suit-against-nso-group-",
-          "publishedOn": "2023-01-10T21:22:00.000Z",
-          "wordCount": 11398,
-          "title": "SCOTUS OKs WhatsApp Suit Against NSO Group",
-          "enclosure": {
-            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blte161b23f0fd3a84b/60b1ea374e7eb868c4c6a293/dr_staff_125x125.jpg",
-            "type": "image/*",
-            "length": "0"
-          },
-          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blte161b23f0fd3a84b/60b1ea374e7eb868c4c6a293/dr_staff_125x125.jpg"
-        },
-        {
-          "id": "https://www.darkreading.com/ics-ot/san-fran-bart-investigates-vice-society-data-breach",
-          "author": "Dark Reading Staff, Dark Reading",
-          "description": "Vice Society is boasting that it compromised the San Francisco transportation system, while BART maintains operations and mounts an investigation.",
-          "link": "https://www.darkreading.com/ics-ot/san-fran-bart-investigates-vice-society-data-breach",
-          "publishedOn": "2023-01-10T19:43:00.000Z",
-          "wordCount": 11553,
-          "title": "San Fran's BART Investigates Vice Society Data Breach Claims",
-          "enclosure": {
-            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blte161b23f0fd3a84b/60b1ea374e7eb868c4c6a293/dr_staff_125x125.jpg",
-            "type": "image/*",
-            "length": "0"
-          },
-          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blte161b23f0fd3a84b/60b1ea374e7eb868c4c6a293/dr_staff_125x125.jpg"
-        },
-        {
-          "id": "https://www.darkreading.com/risk/cerberus-sentinel-to-acquire-ran-security",
-          "author": null,
-          "description": "US cybersecurity services firm continues expansion into Latin America.",
-          "link": "https://www.darkreading.com/risk/cerberus-sentinel-to-acquire-ran-security",
-          "publishedOn": "2023-01-10T19:35:00.000Z",
-          "wordCount": 14484,
-          "title": "Cerberus Sentinel to Acquire RAN Security",
-          "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
         }
       ]
     },
@@ -4587,16 +4462,6 @@
           "wordCount": 2327,
           "title": "Italian Cybercriminal Pleads Guilty to Phishing for Book Manuscripts",
           "imageUrl": "https://blog.knowbe4.com/hubfs/Cybercriminal%20Uses%20Direct%20Social%20Engineering.jpg#keepProtocol"
-        },
-        {
-          "id": "https://blog.knowbe4.com/password-managers-can-be-hacked",
-          "author": "Roger Grimes",
-          "description": "The recent hack (at least 7th) of the LastPass password manager has lots of people wondering if they should use a password manager.",
-          "link": "https://blog.knowbe4.com/password-managers-can-be-hacked",
-          "publishedOn": "2023-01-10T21:43:49.000Z",
-          "wordCount": 4326,
-          "title": "Password Managers Can Be Hacked Lots of Ways and Yes, You Should Still Use Them",
-          "imageUrl": "https://blog.knowbe4.com/hubfs/Social%20Image%20Repository/Evangelist%20Blog%20Social%20Graphics/Evangelists-Roger%20Grimes.jpg#keepProtocol"
         }
       ]
     },
@@ -4605,6 +4470,86 @@
       "feedUrl": "https://thehackernews.com/feeds/posts/default",
       "siteUrl": "https://thehackernews.com",
       "articles": [
+        {
+          "id": "https://thehackernews.com/2023/02/thn-webinar-learn-how-to-comply-with.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "The Hacker News is thrilled to announce the launch of our new educational webinar series, in collaboration with the leading cybersecurity companies in the industry! Get ready to dive into the world of enterprise-level security with expert guests who will share their vast knowledge and provide you with valuable insights and information on various security topics.\nWhether you're a seasoned",
+          "link": "https://thehackernews.com/2023/02/thn-webinar-learn-how-to-comply-with.html",
+          "publishedOn": "2023-02-09T13:11:00.000Z",
+          "wordCount": null,
+          "title": "THN Webinar – Learn How to Comply with New Cyber Insurance Identity Security Requirements",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjGF_570bL2pvf5JMmBCzY2QNb3L_7Wdq2SgU-mQxwdqqQY1PiYK1VO7DNTllXoCNwOkvEOVl1k0wQaHDwwuNDz5V3bb1r3XQ97t0fUoGZzye7LOYK9ZWud98FIjnV1mxLZ6b2KkHLmfwPaiGsSYhoR2SDb2IAPfyfIkGZ_GYVtk8owx8zLVGlRymzB/s1600/Cyber-Insurance-Identity-Security.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjGF_570bL2pvf5JMmBCzY2QNb3L_7Wdq2SgU-mQxwdqqQY1PiYK1VO7DNTllXoCNwOkvEOVl1k0wQaHDwwuNDz5V3bb1r3XQ97t0fUoGZzye7LOYK9ZWud98FIjnV1mxLZ6b2KkHLmfwPaiGsSYhoR2SDb2IAPfyfIkGZ_GYVtk8owx8zLVGlRymzB/s1600/Cyber-Insurance-Identity-Security.png"
+        },
+        {
+          "id": "https://thehackernews.com/2023/02/newspenguin-threat-actor-emerges-with.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "A previously unknown threat actor dubbed NewsPenguin has been linked to a phishing campaign targeting Pakistani entities by leveraging the upcoming international maritime expo as a lure.\n\"The attacker sent out targeted phishing emails with a weaponized document attached that purports to be an exhibitor manual for PIMEC-23,\" the BlackBerry Research and Intelligence Team said.\nPIMEC, short for",
+          "link": "https://thehackernews.com/2023/02/newspenguin-threat-actor-emerges-with.html",
+          "publishedOn": "2023-02-09T11:06:00.000Z",
+          "wordCount": null,
+          "title": "NewsPenguin Threat Actor Emerges with Malicious Campaign Targeting Pakistani Entities",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiiOpviJY3F2-rGA1qv57BYnJTopWJpAuELWygbXvZ5VZJGjWcceM1bpsAiTK_XcbZ66ZGRuVl-2oGH6ZjCwRCyamf9o7bQpr9j13Vt36a3rvOKAQC3fvQNTJ297fB0Jd_Mqk8af6qzvPus_cPsldJo_l_phdplvSpbQj8jcrZ1TBXduykYeU41H4-i/s1600/marine.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiiOpviJY3F2-rGA1qv57BYnJTopWJpAuELWygbXvZ5VZJGjWcceM1bpsAiTK_XcbZ66ZGRuVl-2oGH6ZjCwRCyamf9o7bQpr9j13Vt36a3rvOKAQC3fvQNTJ297fB0Jd_Mqk8af6qzvPus_cPsldJo_l_phdplvSpbQj8jcrZ1TBXduykYeU41H4-i/s1600/marine.png"
+        },
+        {
+          "id": "https://thehackernews.com/2023/02/a-hackers-pot-of-gold-your-msps-data.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "A single ransomware attack on a New Zealand managed service provider (MSP) disrupted several of its clients' business operations overnight, most belonging to the healthcare sector. According to the country's privacy commissioner, \"a cyber security incident involving a ransomware attack\" in late November upended the daily operations of New Zealand's health ministry when it prevented the staff",
+          "link": "https://thehackernews.com/2023/02/a-hackers-pot-of-gold-your-msps-data.html",
+          "publishedOn": "2023-02-09T10:50:00.000Z",
+          "wordCount": null,
+          "title": "A Hackers Pot of Gold: Your MSP's Data",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCbMtlVTLWH3mO59TMpuA7-Wdotadf1XITmhidBjyOyIwvA525I7INXzY0a6luPvkq4xEmrgw5e9760OMB6mEzEoQyw8-7W1TlMC0C27EwM38Aryl3GY1h2s1NztIt7Cr6hbehkUzy0CfG0WoPjEpb_6tgOsR62pzL1YJA5zRyuxiYAUyfA0LbMSoZ/s1600/2fa.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCbMtlVTLWH3mO59TMpuA7-Wdotadf1XITmhidBjyOyIwvA525I7INXzY0a6luPvkq4xEmrgw5e9760OMB6mEzEoQyw8-7W1TlMC0C27EwM38Aryl3GY1h2s1NztIt7Cr6hbehkUzy0CfG0WoPjEpb_6tgOsR62pzL1YJA5zRyuxiYAUyfA0LbMSoZ/s1600/2fa.png"
+        },
+        {
+          "id": "https://thehackernews.com/2023/02/gootkit-malware-adopts-new-tactics-to.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "The Gootkit malware is prominently going after healthcare and finance organizations in the U.S., U.K., and Australia, according to new findings from Cybereason.\nThe cybersecurity firm said it investigated a Gootkit incident in December 2022 that adopted a new method of deployment, with the actors abusing the foothold to deliver Cobalt Strike and SystemBC for post-exploitation.\n\"The threat actor",
+          "link": "https://thehackernews.com/2023/02/gootkit-malware-adopts-new-tactics-to.html",
+          "publishedOn": "2023-02-09T10:38:00.000Z",
+          "wordCount": null,
+          "title": "Gootkit Malware Adopts New Tactics to Attack Healthcare and Finance Firms",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEguAA1WquQjQtOB3oIPh_37B6Q-FUsY8Z4G4OQ-MDINLbYS5LWG0WAzvuGFj3DhBCx06MKfQ33CVKh65DQDCchFS4wiUFF7UuqT7M9VoR8qFTJ_FK0fXAeZJGrTBpoBxuwSgtLIBETXnExxkfepw8EP-9qDnemc4v26helT_WnpTAzOp5gz4-x145GI/s1600/goot.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEguAA1WquQjQtOB3oIPh_37B6Q-FUsY8Z4G4OQ-MDINLbYS5LWG0WAzvuGFj3DhBCx06MKfQ33CVKh65DQDCchFS4wiUFF7UuqT7M9VoR8qFTJ_FK0fXAeZJGrTBpoBxuwSgtLIBETXnExxkfepw8EP-9qDnemc4v26helT_WnpTAzOp5gz4-x145GI/s1600/goot.png"
+        },
+        {
+          "id": "https://thehackernews.com/2023/02/openssl-fixes-multiple-new-security.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "The OpenSSL Project has released fixes to address several security flaws, including a high-severity bug in the open source encryption toolkit that could potentially expose users to malicious attacks.\nTracked as CVE-2023-0286, the issue relates to a case of type confusion that may permit an adversary to \"read memory contents or enact a denial-of-service,\" the maintainers said in an advisory.\nThe",
+          "link": "https://thehackernews.com/2023/02/openssl-fixes-multiple-new-security.html",
+          "publishedOn": "2023-02-09T09:51:00.000Z",
+          "wordCount": null,
+          "title": "OpenSSL Fixes Multiple New Security Flaws with Latest Update",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj2fd3OTmnadHxr-Z0uIYZhV_g6gmsKQIOAMfSKda0cfz_humOSvXRV2tgMqZOZwJdXm5Z-O6hlN9DktL8VPkAv3yMtCjJJVTOkXWLuwojB8MPvVuRUlhYeQORQ8amKIrPYKlYgjiXA7c_Zt_lNvnymOgbCTv_gxBZiNDfxkOtls3IuJUTVa3ZJwahK/s1600/openssl.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj2fd3OTmnadHxr-Z0uIYZhV_g6gmsKQIOAMfSKda0cfz_humOSvXRV2tgMqZOZwJdXm5Z-O6hlN9DktL8VPkAv3yMtCjJJVTOkXWLuwojB8MPvVuRUlhYeQORQ8amKIrPYKlYgjiXA7c_Zt_lNvnymOgbCTv_gxBZiNDfxkOtls3IuJUTVa3ZJwahK/s1600/openssl.png"
+        },
         {
           "id": "https://thehackernews.com/2023/02/nist-standardizes-ascon-cryptographic.html",
           "author": "info@thehackernews.com (The Hacker News)",
