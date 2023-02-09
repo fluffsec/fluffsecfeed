@@ -6,6 +6,16 @@
       "siteUrl": "https://us-cert.cisa.gov/",
       "articles": [
         {
+          "id": "18341 at https://us-cert.cisa.gov",
+          "author": "CISA",
+          "description": "Original release date: February 9, 2023\nSummary\nNote: This Cybersecurity Advisory (CSA) is part of an ongoing #StopRansomware effort to publish advisories for network defenders that detail various ransomware variants and various ransomware threat actors. These #StopRansomware advisories detail historically and recently observed tactics, techniques, and procedures (TTPs) and indicators of compromise (IOCs) to help organizations protect against ransomware. Visit stopransomware.gov to see all #StopRansomware advisories and to learn about other ransomware threats and no-cost resources.\nThe United States National Security Agency (NSA), the U.S. Federal Bureau of Investigation (FBI), the U.S. Cybersecurity and Infrastructure Security Agency (CISA), the U.S. Department of Health and Human Service…",
+          "link": "https://us-cert.cisa.gov/ncas/alerts/aa23-040a",
+          "publishedOn": "2023-02-09T18:00:00.000Z",
+          "wordCount": 4325,
+          "title": "AA23-040A: #StopRansomware: Ransomware Attacks on Critical Infrastructure Fund DPRK Malicious Cyber Activities",
+          "imageUrl": null
+        },
+        {
           "id": "18338 at https://us-cert.cisa.gov",
           "author": "CISA",
           "description": "Original release date: February 8, 2023\nSummary\nThe Cybersecurity and Infrastructure Security Agency (CISA) and the Federal Bureau of Investigation (FBI) are releasing this joint Cybersecurity Advisory (CSA) in response to the ongoing ransomware campaign, known as “ESXiArgs.” Malicious actors may be exploiting known vulnerabilities in VMware ESXi servers that are likely running unpatched and out-of-service or out-of-date versions of VMware ESXi software to gain access and deploy ransomware. The ESXiArgs ransomware encrypts configuration files on ESXi servers, potentially rendering virtual machines (VMs) unusable. \nCISA has released an ESXiArgs recovery script at github.com/cisagov/ESXiArgs-Recover. Organizations that have fallen victim to ESXiArgs ransomware can use this script to attempt …",
@@ -32,6 +42,36 @@
       "feedUrl": "https://us-cert.cisa.gov/ncas/current-activity.xml",
       "siteUrl": "https://us-cert.cisa.gov/",
       "articles": [
+        {
+          "id": "18348 at https://us-cert.cisa.gov",
+          "author": "CISA",
+          "description": "Original release date: February 9, 2023\nCISA, the National Security Agency (NSA), the Federal Bureau of Investigation (FBI), the Department of Health and Human Services (HHS), and Republic of Korea’s Defense Security Agency and National Intelligence Service have released a joint Cybersecurity Advisory (CSA), Ransomware Attacks on Critical Infrastructure Fund DPRK Espionage Activities, to provide information on ransomware activity used by North Korean state-sponsored cyber to target various critical infrastructure sectors, especially Healthcare and Public Health (HPH) Sector organizations.\nThe authoring agencies urge network defenders to examine their current cybersecurity posture and apply the recommended mitigations in this joint CSA, which include:\nTrain users to recognize and report phishing attempts.\nEnable and enforce phishing-resistant multifactor authentication. \nInstall and regularly update antivirus and antimalware software on all hosts. \nSee Ransomware Attacks on Critical Infrastructure Fund DPRK Espionage Activities for ransomware actor’s tactics, techniques, and procedures, indicators of compromise, and recommended mitigations. Additionally, review StopRansomware.gov for more guidance on ransomware protection, detection, and response.\nFor more information on state-sponsored North Korean malicious cyber activity, see CISA’s North Korea Cyber Threat Overview and Advisories webpage.\nThis product is provided subject to this Notification and this Privacy & Use policy.",
+          "link": "https://us-cert.cisa.gov/ncas/current-activity/2023/02/09/stopransomware-ransomware-attacks-critical-infrastructure-fund",
+          "publishedOn": "2023-02-09T18:02:00.000Z",
+          "wordCount": 1101,
+          "title": "#StopRansomware - Ransomware Attacks on Critical Infrastructure Fund DPRK Espionage Activities",
+          "imageUrl": null
+        },
+        {
+          "id": "18347 at https://us-cert.cisa.gov",
+          "author": "CISA",
+          "description": "Original release date: February 9, 2023\nCISA released six Industrial Control Systems (ICS) advisories on February 9, 2023. These advisories provide timely information about current security issues, vulnerabilities, and exploits surrounding ICS.\nCISA encourages users and administrators to review the newly released ICS advisories for technical details and mitigations:\nICSA-23-040-01 Control By Web X-400, X-600M\nICSA-23-040-02 LS Electric XBC-DN32U\nICSA-23-040-03 Johnson Controls System Configuration Tool (CST)\nICSA-23-040-04 Horner Automation Cscape Envision RV\nICSA-22-179-02 Omron SYSMAC CS-CJ-CP Series and NJ-NX Series (Update A)\nICSA-22-354-03 ARC Informatique PcVue (Update A)\nThis product is provided subject to this Notification and this Privacy & Use policy.",
+          "link": "https://us-cert.cisa.gov/ncas/current-activity/2023/02/09/cisa-releases-six-industrial-control-systems-advisories",
+          "publishedOn": "2023-02-09T15:00:01.000Z",
+          "wordCount": 995,
+          "title": "CISA Releases Six Industrial Control Systems Advisories",
+          "imageUrl": null
+        },
+        {
+          "id": "18342 at https://us-cert.cisa.gov",
+          "author": "CISA",
+          "description": "Original release date: February 9, 2023\nOpenSSL has released a security advisory to address multiple vulnerabilities affecting OpenSSL versions 3.0.0, 2.2.2, and 1.0.2. An attacker could exploit some of these vulnerabilities to obtain sensitive information.\nOpenSSL advisory and make the necessary updates.\nThis product is provided subject to this Notification and this Privacy & Use policy.",
+          "link": "https://us-cert.cisa.gov/ncas/current-activity/2023/02/09/openssl-releases-security-advisory",
+          "publishedOn": "2023-02-09T13:33:08.000Z",
+          "wordCount": 948,
+          "title": "OpenSSL Releases Security Advisory",
+          "imageUrl": null
+        },
         {
           "id": "18339 at https://us-cert.cisa.gov",
           "author": "CISA",
@@ -369,6 +409,81 @@
       "feedUrl": "https://www.darkreading.com/rss.xml",
       "siteUrl": "https://www.darkreading.com",
       "articles": [
+        {
+          "id": "https://www.darkreading.com/vulnerabilities-threats/bolstered-chatgpt-tools-phishing-surged-ahead",
+          "author": "Elizabeth Montalbano, Contributor, Dark Reading",
+          "description": "AI and phishing-as-a-service (PaaS) kits are making it easier for threat actors to create malicious email campaigns, which continue to target high-volume applications using popular brand names.",
+          "link": "https://www.darkreading.com/vulnerabilities-threats/bolstered-chatgpt-tools-phishing-surged-ahead",
+          "publishedOn": "2023-02-09T18:52:00.000Z",
+          "wordCount": 14153,
+          "title": "Phishing Surges Ahead, as ChatGPT & AI Loom",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltbfd004d139d42d70/6303bca6236c2476a257760e/ElizabethMontalbano.jpg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltbfd004d139d42d70/6303bca6236c2476a257760e/ElizabethMontalbano.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/ics-ot/nist-picks-iot-standard-lightweight-electronics-cybersecurity",
+          "author": "Dark Reading Staff, Dark Reading",
+          "description": "NIST announces that it will use Ascon as a cryptography standard for lightweight IoT device protection.",
+          "link": "https://www.darkreading.com/ics-ot/nist-picks-iot-standard-lightweight-electronics-cybersecurity",
+          "publishedOn": "2023-02-09T18:10:00.000Z",
+          "wordCount": 10018,
+          "title": "NIST Picks IoT Standard for Small Electronics Cybersecurity",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blte161b23f0fd3a84b/60b1ea374e7eb868c4c6a293/dr_staff_125x125.jpg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blte161b23f0fd3a84b/60b1ea374e7eb868c4c6a293/dr_staff_125x125.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/risk/prioritizing-cybersecurity-regulation-harmonization",
+          "author": "David Fairman, Chief Information Officer and Chief Security Officer APAC, Netskope",
+          "description": "By simplifying compliance management, security and risk teams can focus on managing operational risk, not compliance risk — and better counter threats.",
+          "link": "https://www.darkreading.com/risk/prioritizing-cybersecurity-regulation-harmonization",
+          "publishedOn": "2023-02-09T18:00:00.000Z",
+          "wordCount": 13051,
+          "title": "In Perfect Harmony: Cybersecurity Regulation Harmonization",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt8c819a61c1998fe6/63dd676883028910fafb86ec/DavidF-Security-Web-Color-595x597-0.jpg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt8c819a61c1998fe6/63dd676883028910fafb86ec/DavidF-Security-Web-Color-595x597-0.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/endpoint/twitter-api-paywall-solve-enormous-bot-crisis",
+          "author": "Nate Nelson, Contributing Writer, Dark Reading",
+          "description": "Restricting the Twitter API will have implications across Twitter, the broader Internet, and society, experts say. Is there a cybersecurity silver lining, or will threat actors pay to play?",
+          "link": "https://www.darkreading.com/endpoint/twitter-api-paywall-solve-enormous-bot-crisis",
+          "publishedOn": "2023-02-09T16:47:31.000Z",
+          "wordCount": 13774,
+          "title": "Twitter Implements API Paywall, but Will That Solve Its Enormous Bot Crisis?",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt91e5f91ce3f0cdd9/63d0288ac98dbe55ece1d0a9/Nate-Nelson_(1).jpg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt91e5f91ce3f0cdd9/63d0288ac98dbe55ece1d0a9/Nate-Nelson_(1).jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/vulnerabilities-threats/lessons-from-the-cold-war-how-quality-trumps-quantity-in-cybersecurity",
+          "author": "Mark Pelkoski, Senior Director of Solutions Architecture USA, CYE",
+          "description": "High-quality tools and standards remain critical components in cybersecurity efforts even as budgets decline. It's important that staff knows response procedures and their roles, and also communicates well.",
+          "link": "https://www.darkreading.com/vulnerabilities-threats/lessons-from-the-cold-war-how-quality-trumps-quantity-in-cybersecurity",
+          "publishedOn": "2023-02-09T15:00:00.000Z",
+          "wordCount": 13432,
+          "title": "Lessons From the Cold War: How Quality Trumps Quantity in Cybersecurity",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blta4731a930a23a6c9/63e168e3a3874149ce93226f/Mark_10062022.JPG",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blta4731a930a23a6c9/63e168e3a3874149ce93226f/Mark_10062022.JPG"
+        },
         {
           "id": "https://www.darkreading.com/operations/-isc-makes-certified-in-cybersecurity-exam-available-in-more-languages-to-address-global-workforce-shortage",
           "author": null,
@@ -3894,6 +4009,36 @@
       "siteUrl": "https://blog.knowbe4.com",
       "articles": [
         {
+          "id": "https://blog.knowbe4.com/spear-phishing-impersonation-attacks-increase-127-percent",
+          "author": "Stu Sjouwerman",
+          "description": "Impersonation of users, domains, and brands is on the rise, as is the use of malicious links, in response to security vendors improving their ability to detect malicious attachments.",
+          "link": "https://blog.knowbe4.com/spear-phishing-impersonation-attacks-increase-127-percent",
+          "publishedOn": "2023-02-09T13:51:35.000Z",
+          "wordCount": 2258,
+          "title": "Spear Phishing Attacks Increase 127% as Use of Impersonation Skyrockets",
+          "imageUrl": "https://blog.knowbe4.com/hubfs/Spear%20Phishing%20Campaign%20Targets.jpg#keepProtocol"
+        },
+        {
+          "id": "https://blog.knowbe4.com/u.k.-citizens-see-increase-in-advanced-fee-scams",
+          "author": "Stu Sjouwerman",
+          "description": "In the wake of the rising cost of living, new scams targeting those in less-than-optimal financial situations based on “deprived” areas throughout the country.",
+          "link": "https://blog.knowbe4.com/u.k.-citizens-see-increase-in-advanced-fee-scams",
+          "publishedOn": "2023-02-09T13:51:29.000Z",
+          "wordCount": 2174,
+          "title": "U.K. Citizens See 82% Increase in Advanced Fee Scams in the Last Year",
+          "imageUrl": "https://blog.knowbe4.com/hubfs/Scammer%20Group%20BEC.jpg#keepProtocol"
+        },
+        {
+          "id": "https://blog.knowbe4.com/hackers-work-around-chatgpt-malicious-content-restrictions-to-create-phishing-email-content",
+          "author": "Stu Sjouwerman",
+          "description": "Active discussions in hacker forums on the dark web showcase how using a mixture of the Open AI API and automated bot from the Telegram messenger platform can create malicious emails.",
+          "link": "https://blog.knowbe4.com/hackers-work-around-chatgpt-malicious-content-restrictions-to-create-phishing-email-content",
+          "publishedOn": "2023-02-09T13:51:21.000Z",
+          "wordCount": 2247,
+          "title": "Hackers Work Around ChatGPT Malicious Content Restrictions to Create Phishing Email Content",
+          "imageUrl": "https://blog.knowbe4.com/hubfs/ChatGPT%20Malicious%20Content%20Phishing.jpg#keepProtocol"
+        },
+        {
           "id": "https://blog.knowbe4.com/be-wary-of-survey-scams",
           "author": "Stu Sjouwerman",
           "description": "Online surveys are too often scams designed to steal personal or financial information, warns Phil Muncaster at ESET. Muncaster explains that these surveys are usually distributed via phishing or by ads on websites, impersonating trusted brands and offering phony rewards:",
@@ -4470,6 +4615,22 @@
       "feedUrl": "https://thehackernews.com/feeds/posts/default",
       "siteUrl": "https://thehackernews.com",
       "articles": [
+        {
+          "id": "https://thehackernews.com/2023/02/critical-infrastructure-at-risk-from.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "A set of 38 security vulnerabilities has been uncovered in wireless industrial internet of things (IIoT) devices from four different vendors that could pose a significant attack surface for threat actors looking to exploit operational technology (OT) environments.\n\"Threat actors can exploit vulnerabilities in Wireless IIoT devices to gain initial access to internal OT networks,\" Israeli",
+          "link": "https://thehackernews.com/2023/02/critical-infrastructure-at-risk-from.html",
+          "publishedOn": "2023-02-09T14:09:00.000Z",
+          "wordCount": null,
+          "title": "Critical Infrastructure at Risk from New Vulnerabilities Found in Wireless IIoT Devices",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjkLFzz-g5y2k5M909dE7PIUdeH-cZHmXKQ7mlbDjEBSP-aKCOcyvM0O-CeP1m5fY_f_oFyeRJq_goomxDYQthp8JGSqASNq-w_JMwF01691Iuduh6GrIDzGC_-dcy2d0YdTLppVhxHxlZ5otyoHTlsJyP0GgtOknifjfxQCHvTC6Lx-D9uJik3lS6J/s1600/ot.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjkLFzz-g5y2k5M909dE7PIUdeH-cZHmXKQ7mlbDjEBSP-aKCOcyvM0O-CeP1m5fY_f_oFyeRJq_goomxDYQthp8JGSqASNq-w_JMwF01691Iuduh6GrIDzGC_-dcy2d0YdTLppVhxHxlZ5otyoHTlsJyP0GgtOknifjfxQCHvTC6Lx-D9uJik3lS6J/s1600/ot.png"
+        },
         {
           "id": "https://thehackernews.com/2023/02/thn-webinar-learn-how-to-comply-with.html",
           "author": "info@thehackernews.com (The Hacker News)",
@@ -6447,22 +6608,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjI7Tpx-9JSaDkHRXnPdDu54KVsH-4ESvnCu4QDpPFIs1NxQdkKwcNDk6MGr1fEsgEzhB0P0ef7BN_wZ2f_zGgWsKNvbsKKX9XsYDNoDUzS9p4dU9mO6s2VNNMRe1-RRazTjWca0QdRLz9uANn02i9q7zGRzZrKpMYEYxD4JLdXPUKl2kg7tlcwAEyEog/s1600/pink.png"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjI7Tpx-9JSaDkHRXnPdDu54KVsH-4ESvnCu4QDpPFIs1NxQdkKwcNDk6MGr1fEsgEzhB0P0ef7BN_wZ2f_zGgWsKNvbsKKX9XsYDNoDUzS9p4dU9mO6s2VNNMRe1-RRazTjWca0QdRLz9uANn02i9q7zGRzZrKpMYEYxD4JLdXPUKl2kg7tlcwAEyEog/s1600/pink.png"
-        },
-        {
-          "id": "https://thehackernews.com/2023/01/microsoft-issues-january-2023-patch.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "The first Patch Tuesday fixes shipped by Microsoft for 2023 have addressed a total of 98 security flaws, including one bug that the company said is being actively exploited in the wild.\n11 of the 98 issues are rated Critical and 87 are rated Important in severity, with one of the vulnerabilities also listed as publicly known at the time of release. Separately, the Windows maker is expected to",
-          "link": "https://thehackernews.com/2023/01/microsoft-issues-january-2023-patch.html",
-          "publishedOn": "2023-01-11T05:32:00.000Z",
-          "wordCount": null,
-          "title": "Microsoft Issues January 2023 Patch Tuesday Updates, Warns of Zero-Day Exploit",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiyHkYYSkQLNfTkF5U2rPnqNGFZUMkIy3f0RZbhFjdIX7tmfMoZAnLTO5tTtHc8qiDDpNC8JDj9VzMmKIQS6HBhXGMoQIJz_eeKA1sCzmutgT7KiSLUdjs3i7SLgNmp0rhOS5BCMXf_vBhitRLfbJY-xYMkziNda8Bm8K0sgBZBRvMned8E3gAUQJ8k/s1600/windows-update.png"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiyHkYYSkQLNfTkF5U2rPnqNGFZUMkIy3f0RZbhFjdIX7tmfMoZAnLTO5tTtHc8qiDDpNC8JDj9VzMmKIQS6HBhXGMoQIJz_eeKA1sCzmutgT7KiSLUdjs3i7SLgNmp0rhOS5BCMXf_vBhitRLfbJY-xYMkziNda8Bm8K0sgBZBRvMned8E3gAUQJ8k/s1600/windows-update.png"
         }
       ]
     }
