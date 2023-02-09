@@ -361,16 +361,6 @@
           "wordCount": 1086,
           "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
           "imageUrl": null
-        },
-        {
-          "id": "18264 at https://us-cert.cisa.gov",
-          "author": "CISA",
-          "description": "Original release date: January 10, 2023\nCISA released two Industrial Control Systems (ICS) advisories on January 10, 2023. These advisories provide timely information about current security issues, vulnerabilities, and exploits surrounding ICS.\nCISA encourages users and administrators to review the newly released ICS advisories for technical details and mitigations:\nICSA-23-010-01 Black Box KVM\nICSA-22-298-07 Delta Electronics InfraSuite Device Master (Update A)\nThis product is provided subject to this Notification and this Privacy & Use policy.",
-          "link": "https://us-cert.cisa.gov/ncas/current-activity/2023/01/10/cisa-releases-two-industrial-control-systems-advisories",
-          "publishedOn": "2023-01-10T13:53:07.000Z",
-          "wordCount": 963,
-          "title": "CISA Releases Two Industrial Control Systems Advisories",
-          "imageUrl": null
         }
       ]
     },
@@ -409,6 +399,106 @@
       "feedUrl": "https://www.darkreading.com/rss.xml",
       "siteUrl": "https://www.darkreading.com",
       "articles": [
+        {
+          "id": "https://www.darkreading.com/operations/-isc-makes-certified-in-cybersecurity-exam-available-in-more-languages-to-address-global-workforce-shortage",
+          "author": null,
+          "description": "",
+          "link": "https://www.darkreading.com/operations/-isc-makes-certified-in-cybersecurity-exam-available-in-more-languages-to-address-global-workforce-shortage",
+          "publishedOn": "2023-02-08T22:45:00.000Z",
+          "wordCount": 11339,
+          "title": "(ISC)² Makes Certified in Cybersecurity Exam Available in More Languages to Address Global Workforce Shortage",
+          "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/vulnerabilities-threats/cisa-releases-recovery-script-for-victims-of-esxiargs-ransomware",
+          "author": "Jai Vijayan, Contributing Writer, Dark Reading",
+          "description": "The malware has affected thousands of VMware ESXi hypervisors in the last few days.",
+          "link": "https://www.darkreading.com/vulnerabilities-threats/cisa-releases-recovery-script-for-victims-of-esxiargs-ransomware",
+          "publishedOn": "2023-02-08T22:31:00.000Z",
+          "wordCount": 11770,
+          "title": "CISA Releases Recovery Script for Victims of ESXiArgs Ransomware",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt02d79fb9a44a4258/60b1e9dd2a25046b35110696/Jai-Vijayan.jpeg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt02d79fb9a44a4258/60b1e9dd2a25046b35110696/Jai-Vijayan.jpeg"
+        },
+        {
+          "id": "https://www.darkreading.com/application-security/chatgpt-content-safeguards-busted-with-new-jailbreak-trick-",
+          "author": "Dark Reading Staff, Dark Reading",
+          "description": "Jailbreak command creates ChatGPT alter ego DAN, willing to create content outside of its own content restriction controls.",
+          "link": "https://www.darkreading.com/application-security/chatgpt-content-safeguards-busted-with-new-jailbreak-trick-",
+          "publishedOn": "2023-02-08T22:05:00.000Z",
+          "wordCount": 10069,
+          "title": "Jailbreak Trick Breaks ChatGPT Content Safeguards",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blte161b23f0fd3a84b/60b1ea374e7eb868c4c6a293/dr_staff_125x125.jpg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blte161b23f0fd3a84b/60b1ea374e7eb868c4c6a293/dr_staff_125x125.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/dr-tech/building-up-iam-in-a-multicloud-world",
+          "author": "Karen Spiegelman, Features Editor",
+          "description": "In the cloud-first world, the security goal is to ensure only qualified users can access information across clouds.",
+          "link": "https://www.darkreading.com/dr-tech/building-up-iam-in-a-multicloud-world",
+          "publishedOn": "2023-02-08T21:37:00.000Z",
+          "wordCount": 11701,
+          "title": "Building Up IAM in a Multicloud World",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt05b5a13cf2fb2868/62473b097c2d1d030cd47dff/pink-headshot.jpg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt05b5a13cf2fb2868/62473b097c2d1d030cd47dff/pink-headshot.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/endpoint/exclu-shutdown-underscores-outsized-apps-messaging-apps-role-in-cybercrime",
+          "author": "Ericka Chickowski, Contributing Writer, Dark Reading",
+          "description": "Apps like Telegram, WhatsApp, and Discord are a hotbed of cybercriminal communication and scams.",
+          "link": "https://www.darkreading.com/endpoint/exclu-shutdown-underscores-outsized-apps-messaging-apps-role-in-cybercrime",
+          "publishedOn": "2023-02-08T21:07:00.000Z",
+          "wordCount": 12763,
+          "title": "Exclu Shutdown Underscores Outsized Role Messaging Apps Play in Cybercrime",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt1fa01ab14787f501/60b1e9a77f791568be5e0dbb/ErickaChick_125x125.jpeg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt1fa01ab14787f501/60b1e9a77f791568be5e0dbb/ErickaChick_125x125.jpeg"
+        },
+        {
+          "id": "https://www.darkreading.com/attacks-breaches/actzero-unveils-next-generation-mdr-platform",
+          "author": null,
+          "description": "Latest release gives small and mid-sized enterprises AI-driven analysis tools and unified visibility across IT environments for stronger ransomware protection.",
+          "link": "https://www.darkreading.com/attacks-breaches/actzero-unveils-next-generation-mdr-platform",
+          "publishedOn": "2023-02-08T20:20:00.000Z",
+          "wordCount": 11661,
+          "title": "ActZero Unveils Next-Generation MDR Platform",
+          "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/ics-ot/leading-energy-companies-tap-fortress-to-build-and-operate-industry-repository-to-identify-and-remediate-critical-software-vulnerabilities",
+          "author": null,
+          "description": "",
+          "link": "https://www.darkreading.com/ics-ot/leading-energy-companies-tap-fortress-to-build-and-operate-industry-repository-to-identify-and-remediate-critical-software-vulnerabilities",
+          "publishedOn": "2023-02-08T20:15:00.000Z",
+          "wordCount": 11475,
+          "title": "Leading Energy Companies Tap Fortress to Build and Operate Industry Repository to Identify and Remediate Critical Software Vulnerabilities",
+          "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/vulnerabilities-threats/skybox-security-appoints-cybersecurity-veteran-mordecai-rosen-as-ceo",
+          "author": null,
+          "description": "Skybox closes $50 million in financing to drive growth of its SaaS-based security platform.",
+          "link": "https://www.darkreading.com/vulnerabilities-threats/skybox-security-appoints-cybersecurity-veteran-mordecai-rosen-as-ceo",
+          "publishedOn": "2023-02-08T20:00:00.000Z",
+          "wordCount": 11175,
+          "title": "Skybox Security Appoints Cybersecurity Veteran Mordecai Rosen as CEO",
+          "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
+        },
         {
           "id": "https://www.darkreading.com/physical-security/securithings-brings-managed-service-capabilities-to-physical-security-with-new-managed-service-platform",
           "author": null,
@@ -3898,21 +3988,6 @@
           "wordCount": 12447,
           "title": "Moving Analytics Launches Single Sign on to Strengthen Data Security and Improve User Experience",
           "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
-        },
-        {
-          "id": "https://www.darkreading.com/iot/black-hat-flashback-deadly-consequences-weak-medical-device-security",
-          "author": "Becky Bracken, Editor, Dark Reading",
-          "description": "Hacking to kill: Dark Reading's Fahmida Y. Rashid reflects on the monumental Black Hat 2011 moment when Jay Radcliffe showed how to hack his insulin pump.",
-          "link": "https://www.darkreading.com/iot/black-hat-flashback-deadly-consequences-weak-medical-device-security",
-          "publishedOn": "2023-01-10T14:00:00.000Z",
-          "wordCount": 11943,
-          "title": "Black Hat Flashback: The Deadly Consequences of Weak Medical Device Security",
-          "enclosure": {
-            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt8e7bd143d726930b/627271268681151716941064/BeckyB.jpg",
-            "type": "image/*",
-            "length": "0"
-          },
-          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt8e7bd143d726930b/627271268681151716941064/BeckyB.jpg"
         }
       ]
     },
@@ -4627,16 +4702,6 @@
           "wordCount": 4326,
           "title": "Password Managers Can Be Hacked Lots of Ways and Yes, You Should Still Use Them",
           "imageUrl": "https://blog.knowbe4.com/hubfs/Social%20Image%20Repository/Evangelist%20Blog%20Social%20Graphics/Evangelists-Roger%20Grimes.jpg#keepProtocol"
-        },
-        {
-          "id": "https://blog.knowbe4.com/cyberheistnews-vol-13-02-bad-taste-there-is-a-new-trend-in-social-engineering-with-a-disgusting-name-pig-butchering",
-          "author": "Stu Sjouwerman",
-          "description": "CyberheistNews Vol 13 #02 [Bad Taste] There Is a New Trend in Social Engineering With a Disgusting Name; 'Pig-butchering'",
-          "link": "https://blog.knowbe4.com/cyberheistnews-vol-13-02-bad-taste-there-is-a-new-trend-in-social-engineering-with-a-disgusting-name-pig-butchering",
-          "publishedOn": "2023-01-10T14:00:00.000Z",
-          "wordCount": 4844,
-          "title": "CyberheistNews Vol 13 #02 [Bad Taste] There Is a New Trend in Social Engineering With a Disgusting Name; 'Pig-butchering'",
-          "imageUrl": "https://blog.knowbe4.com/hubfs/CHN-Social.jpg#keepProtocol"
         }
       ]
     },
@@ -6574,54 +6639,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgxXu91CqjstWs8eDcZG0xJP0bH1IqpEM8doI_Eqss85qE47ID0OxGyfLgsnbzmatGwBGm3w_UrbSC_igpqSGL0Da0EBRasbULNRmcyIz622_9HKrFSXeoljcDAoUd-m3WnhIkQsZ5J_th-slhlj58oXA3Ku0tsWPsyalffq8cpVbxEnkzuwntAlscq/s1600/telegram.png"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgxXu91CqjstWs8eDcZG0xJP0bH1IqpEM8doI_Eqss85qE47ID0OxGyfLgsnbzmatGwBGm3w_UrbSC_igpqSGL0Da0EBRasbULNRmcyIz622_9HKrFSXeoljcDAoUd-m3WnhIkQsZ5J_th-slhlj58oXA3Ku0tsWPsyalffq8cpVbxEnkzuwntAlscq/s1600/telegram.png"
-        },
-        {
-          "id": "https://thehackernews.com/2023/01/expert-analysis-reveals-cryptographic.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "A comprehensive analysis of the cryptographic protocols used in the Swiss encrypted messaging application Threema has revealed a number of loopholes that could be exploited to break authentication protections and even recover users' private keys.\nThe seven attacks span three different threat models, according to ETH Zurich researchers Kenneth G. Paterson, Matteo Scarlata, and Kien Tuong Truong,",
-          "link": "https://thehackernews.com/2023/01/expert-analysis-reveals-cryptographic.html",
-          "publishedOn": "2023-01-10T13:59:00.000Z",
-          "wordCount": null,
-          "title": "Expert Analysis Reveals Cryptographic Weaknesses in Threema Messaging App",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpaE_D5nfmlvXEHXDjvdPSmY2PacrnU08gK7a-BRzKtrb_7jwUeJgxCO2szrK0AObUq6et7nk_nvMB-RarmpXHoipNxH2C_rxDfzzZ-tA6INCN1bmAtF8ufShWIf0RkKqaiWvgDLPZ6EMtxMXbztGlRH-lsenG13wDb79Y-zr4IWxQXGzEBgCiatoH/s1600/hacking.png"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpaE_D5nfmlvXEHXDjvdPSmY2PacrnU08gK7a-BRzKtrb_7jwUeJgxCO2szrK0AObUq6et7nk_nvMB-RarmpXHoipNxH2C_rxDfzzZ-tA6INCN1bmAtF8ufShWIf0RkKqaiWvgDLPZ6EMtxMXbztGlRH-lsenG13wDb79Y-zr4IWxQXGzEBgCiatoH/s1600/hacking.png"
-        },
-        {
-          "id": "https://thehackernews.com/2023/01/italian-users-warned-of-malware-attack.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "A new malware campaign has been observed targeting Italy with phishing emails designed to deploy an information stealer on compromised Windows systems.\n\"The info-stealer malware steals sensitive information like system info, crypto wallet and browser histories, cookies, and credentials of crypto wallets from victim machines,\" Uptycs security researcher Karthickkumar Kathiresan said in a report.",
-          "link": "https://thehackernews.com/2023/01/italian-users-warned-of-malware-attack.html",
-          "publishedOn": "2023-01-10T12:54:00.000Z",
-          "wordCount": null,
-          "title": "Italian Users Warned of Malware Attack Targeting Sensitive Information",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgcRTHoXPV2g_bfn5JZc1ylF6KFOtOMS43yGjO2HFZibZXMrWd9QIUDtkdcBowSjFmv5Eoni6YmBzD9aCHTDVzHIGEL4ZgFSQmec61TpP4k6_kf3pH_iUbERMsIVwslUpPu1UPJLmevBuSfwk7mJRAkoqKgaCO6fqtALTuWWR2B8rt2Osb3LlF8mJyY/s1600/hack.png"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgcRTHoXPV2g_bfn5JZc1ylF6KFOtOMS43yGjO2HFZibZXMrWd9QIUDtkdcBowSjFmv5Eoni6YmBzD9aCHTDVzHIGEL4ZgFSQmec61TpP4k6_kf3pH_iUbERMsIVwslUpPu1UPJLmevBuSfwk7mJRAkoqKgaCO6fqtALTuWWR2B8rt2Osb3LlF8mJyY/s1600/hack.png"
-        },
-        {
-          "id": "https://thehackernews.com/2023/01/critical-security-flaw-found-in.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "A high-severity security flaw has been disclosed in the open source jsonwebtoken (JWT) library that, if successfully exploited, could lead to remote code execution on a target server.\n\"By exploiting this vulnerability, attackers could achieve remote code execution (RCE) on a server verifying a maliciously crafted JSON web token (JWT) request,\" Palo Alto Networks Unit 42 researcher Artur Oleyarsh",
-          "link": "https://thehackernews.com/2023/01/critical-security-flaw-found-in.html",
-          "publishedOn": "2023-01-10T08:54:00.000Z",
-          "wordCount": null,
-          "title": "Severe Security Flaw Found in \"jsonwebtoken\" Library Used by 22,000+ Projects",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5LcBYzGpiZdVnYmwrcLsf152DDY3nLQTYRETW_R3U1IN_ZezhDUut1IiqziXbz51S6_bCjrJ1hjD0_lAags912yJnU_T1jxDMT3JjJTYOCC152EMfQrjofIeDn8BhmO6SZtQjI9scL0Xae4186kSTga71gVL5y0hqdvGYfhdFG_Z9TDErs2bnxn8Z/s1600/json.png"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5LcBYzGpiZdVnYmwrcLsf152DDY3nLQTYRETW_R3U1IN_ZezhDUut1IiqziXbz51S6_bCjrJ1hjD0_lAags912yJnU_T1jxDMT3JjJTYOCC152EMfQrjofIeDn8BhmO6SZtQjI9scL0Xae4186kSTga71gVL5y0hqdvGYfhdFG_Z9TDErs2bnxn8Z/s1600/json.png"
         }
       ]
     }
