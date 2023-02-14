@@ -2,10 +2,186 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-02-14T13:30:30.899Z</updated>
+    <updated>2023-02-14T19:17:02.120Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Configuration Issues in SaltStack IT Tool Put Enterprises at Risk]]></title>
+        <id>https://www.darkreading.com/endpoint/configuration-issues-in-saltstack-put-enterprises-at-risk</id>
+        <link href="https://www.darkreading.com/endpoint/configuration-issues-in-saltstack-put-enterprises-at-risk"/>
+        <updated>2023-02-14T19:08:00.000Z</updated>
+        <summary type="html"><![CDATA[Researchers flag common misconfiguration errors and a template injection technique that could let an attacker take over the IT management network and connected systems.]]></summary>
+        <author>
+            <name>Elizabeth Montalbano, Contributor, Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hospitals Sued for Using Meta's Ad-Tracking Code, Violating HIPAA]]></title>
+        <id>https://www.darkreading.com/attacks-breaches/hospitals-sued-for-using-facebook-ad-tracking-code-violating-hippa</id>
+        <link href="https://www.darkreading.com/attacks-breaches/hospitals-sued-for-using-facebook-ad-tracking-code-violating-hippa"/>
+        <updated>2023-02-14T18:59:00.000Z</updated>
+        <summary type="html"><![CDATA[Lawsuits say hospitals using Meta Pixel code violated patient privacy — sharing conditions, medications, and more with Facebook.]]></summary>
+        <author>
+            <name>Dark Reading Staff, Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why SecDataOps Is the Future of Your Security Program]]></title>
+        <id>https://www.darkreading.com/risk/why-secdataops-is-the-future-of-your-security-program</id>
+        <link href="https://www.darkreading.com/risk/why-secdataops-is-the-future-of-your-security-program"/>
+        <updated>2023-02-14T18:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The goal: Ensure that data is always finely curated and accessible, and that security decisions get made with high-fidelity data.]]></summary>
+        <author>
+            <name>Jonathan Rau, CISO, Lightspin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Massive AdSense Fraud Campaign Uncovered - 10,000+ WordPress Sites Infected]]></title>
+        <id>https://thehackernews.com/2023/02/massive-adsense-fraud-campaign.html</id>
+        <link href="https://thehackernews.com/2023/02/massive-adsense-fraud-campaign.html"/>
+        <updated>2023-02-14T16:51:00.000Z</updated>
+        <summary type="html"><![CDATA[The threat actors behind the black hat redirect malware campaign have scaled up their campaign to use more than 70 bogus domains mimicking URL shorteners and infected over 10,800 websites.
+"The main objective is still ad fraud by artificially increasing traffic to pages which contain the AdSense ID which contain Google ads for revenue generation," Sucuri researcher Ben Martin said in a report]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vaultree Appoints Technology Industry Veteran Rinki Sethi to Its Board of Directors]]></title>
+        <id>https://www.darkreading.com/operations/vaultree-appoints-technology-industry-veteran-rinki-sethi-to-its-board-of-directors</id>
+        <link href="https://www.darkreading.com/operations/vaultree-appoints-technology-industry-veteran-rinki-sethi-to-its-board-of-directors"/>
+        <updated>2023-02-14T16:25:00.000Z</updated>
+        <author>
+            <name>Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cyber-Physical Systems Vulnerability Disclosures Reach Peak, While Disclosures by Internal Teams Increase 80% Over 18 Months]]></title>
+        <id>https://www.darkreading.com/ics-ot/cyber-physical-systems-vulnerability-disclosures-reach-peak-while-disclosures-by-internal-teams-increase-80-over-18-months</id>
+        <link href="https://www.darkreading.com/ics-ot/cyber-physical-systems-vulnerability-disclosures-reach-peak-while-disclosures-by-internal-teams-increase-80-over-18-months"/>
+        <updated>2023-02-14T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[State of XIoT Security Report: 2H 2022 from Claroty's Team82 reveals positive impact by researchers on strengthening XIoT security and increased investment among XIoT vendors in securing their products.]]></summary>
+        <author>
+            <name>Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ping Identity and Deloitte Forge Alliance to Give Organizations Advanced Identity and Access Solutions]]></title>
+        <id>https://www.darkreading.com/endpoint/ping-identity-and-deloitte-forge-alliance-to-give-organizations-advanced-identity-and-access-solutions</id>
+        <link href="https://www.darkreading.com/endpoint/ping-identity-and-deloitte-forge-alliance-to-give-organizations-advanced-identity-and-access-solutions"/>
+        <updated>2023-02-14T15:38:00.000Z</updated>
+        <author>
+            <name>Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple Releases Security Updates for Multiple Products]]></title>
+        <id>18356 at https://us-cert.cisa.gov</id>
+        <link href="https://us-cert.cisa.gov/ncas/current-activity/2023/02/14/apple-releases-security-updates-multiple-products"/>
+        <updated>2023-02-14T15:28:45.000Z</updated>
+        <summary type="html"><![CDATA[Original release date: February 14, 2023
+Apple has released security updates to address vulnerabilities in multiple products. An attacker could exploit these vulnerabilities to take control of an affected device.
+CISA encourages users and administrators to review the Apple security updates page for the following products and apply the necessary updates as soon as possible:
+Safari 16.3.1
+iOS 16.3.1 and iPadOS 16.3.1
+macOS 13.2.1
+This product is provided subject to this Notification and this Privacy & Use policy.]]></summary>
+        <author>
+            <name>CISA</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ThreatConnect Closes 2022 with Accelerated Growth in Threat Intelligence Operations (TI Ops)]]></title>
+        <id>https://www.darkreading.com/threat-intelligence/threatconnect-closes-2022-with-accelerated-growth-in-threat-intelligence-operations-ti-ops-</id>
+        <link href="https://www.darkreading.com/threat-intelligence/threatconnect-closes-2022-with-accelerated-growth-in-threat-intelligence-operations-ti-ops-"/>
+        <updated>2023-02-14T15:27:00.000Z</updated>
+        <author>
+            <name>Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CISA Releases One Industrial Control Systems Advisory]]></title>
+        <id>18355 at https://us-cert.cisa.gov</id>
+        <link href="https://us-cert.cisa.gov/ncas/current-activity/2023/02/14/cisa-releases-one-industrial-control-systems-advisory"/>
+        <updated>2023-02-14T15:15:00.000Z</updated>
+        <summary type="html"><![CDATA[Original release date: February 14, 2023
+CISA released one Industrial Control Systems (ICS) advisory on February 14, 2023. This advisory provides timely information about current security issues, vulnerabilities, and exploits surrounding ICS.
+CISA encourages users and administrators to review the newly released ICS advisory for technical details and mitigations:
+ICSA-23-045-01 Weintek EasyBuilder Pro cMT Series
+This product is provided subject to this Notification and this Privacy & Use policy.]]></summary>
+        <author>
+            <name>CISA</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SynSaber Launches a Free OT PCAP Analyzer Tool for the Industrial Security Community]]></title>
+        <id>https://www.darkreading.com/ics-ot/synsaber-launches-a-free-ot-pcap-analyzer-tool-for-the-industrial-security-community</id>
+        <link href="https://www.darkreading.com/ics-ot/synsaber-launches-a-free-ot-pcap-analyzer-tool-for-the-industrial-security-community"/>
+        <updated>2023-02-14T15:10:00.000Z</updated>
+        <author>
+            <name>Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lessons All Industries Can Learn From Automotive Security]]></title>
+        <id>https://www.darkreading.com/risk/lessons-all-industries-can-learn-from-automotive-security</id>
+        <link href="https://www.darkreading.com/risk/lessons-all-industries-can-learn-from-automotive-security"/>
+        <updated>2023-02-14T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Industry standards must evolve as digital transformation makes all companies software companies. Security testing boosts development speed and software quality.]]></summary>
+        <author>
+            <name>Sergej Dechand, CEO and Co-Founder, Code Intelligence</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cybercriminals are Using Geotargeted Phishing to Target Victims]]></title>
+        <id>https://blog.knowbe4.com/geotargeted-phishing-attacks</id>
+        <link href="https://blog.knowbe4.com/geotargeted-phishing-attacks"/>
+        <updated>2023-02-14T14:06:54.000Z</updated>
+        <summary type="html"><![CDATA[Attackers are abusing a legitimate service called “GeoTargetly” to launch localized phishing attacks, according to Jeremy Fuchs at Avanan. GeoTargetly is meant to be used by advertisers to display ads in countries’ local languages. Avanan observed a phishing campaign that’s using phishing emails to target multiple countries in South America.]]></summary>
+        <author>
+            <name>Stu Sjouwerman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CyberheistNews Vol 13 #07 [Scam of the Week] The Turkey-Syria Earthquake]]></title>
+        <id>https://blog.knowbe4.com/cyberheistnews-vol-13-07-scam-of-the-week-the-turkey-syria-earthquake</id>
+        <link href="https://blog.knowbe4.com/cyberheistnews-vol-13-07-scam-of-the-week-the-turkey-syria-earthquake"/>
+        <updated>2023-02-14T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[CyberheistNews Vol 13 #07  |   February 14th, 2023  
+ 
+ 
+   
+ 
+ 
+  
+[Scam of the Week] The Turkey-Syria Earthquake
+ 
+  
+Just when you think they cannot sink any lower, criminal internet scum is now exploiting the recent earthquake in Turkey and Syria.
+ 
+  
+Less than 24 hours after two massive earthquakes claimed the lives of tens of thousands of people, cybercrooks are already piggybacking on the horrible humanitarian crisis. You need to alert your employees, friends and family... again.
+ 
+  
+Just one example are scammers that pose as representatives from a Ukrainian charity foundation that seeks money to help those affected by the natural disasters that struck in the early hours of Monday.
+ 
+  
+There are going to be a raft of scams varying from blood drives to pleas for charitable…]]></summary>
+        <author>
+            <name>Stu Sjouwerman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Embattled VMware ESXi Hypervisor Flaw Exploitable in Myriad Ways]]></title>
+        <id>https://www.darkreading.com/vulnerabilities-threats/attackers-can-exploit-flaw-in-vmware-esxi-hypervisor-in-multiple-ways</id>
+        <link href="https://www.darkreading.com/vulnerabilities-threats/attackers-can-exploit-flaw-in-vmware-esxi-hypervisor-in-multiple-ways"/>
+        <updated>2023-02-14T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[It's not just Internet-accessible hosts that are vulnerable, researchers say.]]></summary>
+        <author>
+            <name>Jai Vijayan, Contributing Writer, Dark Reading</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Python Developers Beware: Clipper Malware Found in 450+ PyPI Packages!]]></title>
         <id>https://thehackernews.com/2023/02/python-developers-beware-clipper.html</id>
