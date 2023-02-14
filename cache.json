@@ -1833,6 +1833,38 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2023/02/massive-http-ddos-attack-hits-record.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Web infrastructure company Cloudflare on Monday disclosed that it thwarted a record-breaking distributed denial-of-service (DDoS) attack that peaked at over 71 million requests per second (RPS).\n\"The majority of attacks peaked in the ballpark of 50-70 million requests per second (RPS) with the largest exceeding 71 million,\" the company said, calling it a \"hyper-volumetric\" DDoS attack.\nIt's also",
+          "link": "https://thehackernews.com/2023/02/massive-http-ddos-attack-hits-record.html",
+          "publishedOn": "2023-02-14T05:16:00.000Z",
+          "wordCount": null,
+          "title": "Massive HTTP DDoS Attack Hits Record High of 71 Million Requests/Second",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgvbi1QQjsrUvu028io_prKZSS4bZVXTTIDc9EEMGY9b7xm9IMxe3-mjc0KISlEciLY4_Sg4gUEEnclYB-6v5iBVphn7QXj4TPmve6tGgYWOpprGUBmI8eAeoViI_Da7KhYq5LR5zmj2S22rmK2tOTejE3IODOLFd6ylOPGEQvZAA0NZqNMuYmTx1Ha/s1600/cf.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgvbi1QQjsrUvu028io_prKZSS4bZVXTTIDc9EEMGY9b7xm9IMxe3-mjc0KISlEciLY4_Sg4gUEEnclYB-6v5iBVphn7QXj4TPmve6tGgYWOpprGUBmI8eAeoViI_Da7KhYq5LR5zmj2S22rmK2tOTejE3IODOLFd6ylOPGEQvZAA0NZqNMuYmTx1Ha/s1600/cf.png"
+        },
+        {
+          "id": "https://thehackernews.com/2023/02/patch-now-apples-ios-ipados-macos-and.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Apple on Monday rolled out security updates for iOS, iPadOS, macOS, and Safari to address a zero-day flaw that it said has been actively exploited in the wild.\nTracked as CVE-2023-23529, the issue relates to a type confusion bug in the WebKit browser engine that could be activated when processing maliciously crafted web content, culminating in arbitrary code execution.\nThe iPhone maker said the",
+          "link": "https://thehackernews.com/2023/02/patch-now-apples-ios-ipados-macos-and.html",
+          "publishedOn": "2023-02-14T04:44:00.000Z",
+          "wordCount": null,
+          "title": "Patch Now: Apple's iOS, iPadOS, macOS, and Safari Under Attack with New Zero-Day Flaw",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwLdHZcIgISVVe_p8sRJD55e2RHR8YhadA9x6ssYx0eC4eRUBser6oxe1WDZL81TA9ZxPlmqDzoe6fKj0vNn0Ag5otjIH60CBIe1qlr8MueqAK-LkOLZ_YaWIB8UAp9Vm9lFI2eXdko8QXlG6joMeS7B_qLdt4Ci5L-dsqRTu1cfJvbsPu2pxDbQ6n/s1600/apple.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwLdHZcIgISVVe_p8sRJD55e2RHR8YhadA9x6ssYx0eC4eRUBser6oxe1WDZL81TA9ZxPlmqDzoe6fKj0vNn0Ag5otjIH60CBIe1qlr8MueqAK-LkOLZ_YaWIB8UAp9Vm9lFI2eXdko8QXlG6joMeS7B_qLdt4Ci5L-dsqRTu1cfJvbsPu2pxDbQ6n/s1600/apple.png"
+        },
+        {
           "id": "https://thehackernews.com/2023/02/hackers-create-malicious-dota-2-game.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "An unknown threat actor created malicious game modes for the Dota 2 multiplayer online battle arena (MOBA) video game that could have been exploited to establish backdoor access to players' systems.\nThe modes exploited a high-severity flaw in the V8 JavaScript engine tracked as CVE-2021-38003 (CVSS score: 8.8), which was exploited as a zero-day and addressed by Google in October 2021.\n\"Since V8",

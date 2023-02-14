@@ -2,10 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-02-14T02:25:23.796Z</updated>
+    <updated>2023-02-14T07:19:42.896Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Massive HTTP DDoS Attack Hits Record High of 71 Million Requests/Second]]></title>
+        <id>https://thehackernews.com/2023/02/massive-http-ddos-attack-hits-record.html</id>
+        <link href="https://thehackernews.com/2023/02/massive-http-ddos-attack-hits-record.html"/>
+        <updated>2023-02-14T05:16:00.000Z</updated>
+        <summary type="html"><![CDATA[Web infrastructure company Cloudflare on Monday disclosed that it thwarted a record-breaking distributed denial-of-service (DDoS) attack that peaked at over 71 million requests per second (RPS).
+"The majority of attacks peaked in the ballpark of 50-70 million requests per second (RPS) with the largest exceeding 71 million," the company said, calling it a "hyper-volumetric" DDoS attack.
+It's also]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Patch Now: Apple's iOS, iPadOS, macOS, and Safari Under Attack with New Zero-Day Flaw]]></title>
+        <id>https://thehackernews.com/2023/02/patch-now-apples-ios-ipados-macos-and.html</id>
+        <link href="https://thehackernews.com/2023/02/patch-now-apples-ios-ipados-macos-and.html"/>
+        <updated>2023-02-14T04:44:00.000Z</updated>
+        <summary type="html"><![CDATA[Apple on Monday rolled out security updates for iOS, iPadOS, macOS, and Safari to address a zero-day flaw that it said has been actively exploited in the wild.
+Tracked as CVE-2023-23529, the issue relates to a type confusion bug in the WebKit browser engine that could be activated when processing maliciously crafted web content, culminating in arbitrary code execution.
+The iPhone maker said the]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Dark Web Revenue Down Dramatically After Hydra's Demise]]></title>
         <id>https://www.darkreading.com/threat-intelligence/dark-web-revenue-down-after-hydras-demise</id>
