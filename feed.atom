@@ -2,10 +2,45 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-02-14T07:19:42.896Z</updated>
+    <updated>2023-02-14T13:30:30.899Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Python Developers Beware: Clipper Malware Found in 450+ PyPI Packages!]]></title>
+        <id>https://thehackernews.com/2023/02/python-developers-beware-clipper.html</id>
+        <link href="https://thehackernews.com/2023/02/python-developers-beware-clipper.html"/>
+        <updated>2023-02-14T11:20:00.000Z</updated>
+        <summary type="html"><![CDATA[Malicious actors have published more than 451 unique Python packages on the official Python Package Index (PyPI) repository in an attempt to infect developer systems with clipper malware.
+Software supply chain security company Phylum, which spotted the libraries, said the ongoing activity is a follow-up to a campaign that was initially disclosed in November 2022.
+The initial vector entails using]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A CISOs Practical Guide to Storage and Backup Ransomware Resiliency]]></title>
+        <id>https://thehackernews.com/2023/02/a-cisos-practical-guide-to-storage-and.html</id>
+        <link href="https://thehackernews.com/2023/02/a-cisos-practical-guide-to-storage-and.html"/>
+        <updated>2023-02-14T10:12:00.000Z</updated>
+        <summary type="html"><![CDATA[One thing is clear. The "business value" of data continues to grow, making it an organization's primary piece of intellectual property.
+From a cyber risk perspective, attacks on data are the most prominent threat to organizations. 
+Regulators, cyber insurance firms, and auditors are paying much closer attention to the integrity, resilience, and recoverability of organization data – as well as]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chinese Hackers Targeting South American Diplomatic Entities with ShadowPad]]></title>
+        <id>https://thehackernews.com/2023/02/chinese-hackers-targeting-south.html</id>
+        <link href="https://thehackernews.com/2023/02/chinese-hackers-targeting-south.html"/>
+        <updated>2023-02-14T09:39:00.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft on Monday attributed a China-based cyber espionage actor to a set of attacks targeting diplomatic entities in South America.
+The tech giant's Security Intelligence team is tracking the cluster under the emerging moniker DEV-0147, describing the activity as an "expansion of the group's data exfiltration operations that traditionally targeted government agencies and think tanks in Asia]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Massive HTTP DDoS Attack Hits Record High of 71 Million Requests/Second]]></title>
         <id>https://thehackernews.com/2023/02/massive-http-ddos-attack-hits-record.html</id>
