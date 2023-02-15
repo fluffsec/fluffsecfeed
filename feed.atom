@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-02-15T02:25:51.108Z</updated>
+    <updated>2023-02-15T07:19:03.855Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Update Now: Microsoft Releases Patches for 3 Actively Exploited Windows Vulnerabilities]]></title>
+        <id>https://thehackernews.com/2023/02/update-now-microsoft-releases-patches.html</id>
+        <link href="https://thehackernews.com/2023/02/update-now-microsoft-releases-patches.html"/>
+        <updated>2023-02-15T04:21:00.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft on Tuesday released security updates to address 75 flaws spanning its product portfolio, three of which have come under active exploitation in the wild.
+The updates are in addition to 22 flaws the Windows maker patched in its Chromium-based Edge browser over the past month.
+Of the 75 vulnerabilities, nine are rated Critical and 66 are rated Important in severity. 37 out of 75 bugs are]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Expel Tackles Cloud Threats With MDR for Kubernetes]]></title>
         <id>https://www.darkreading.com/dr-tech/expel-tackles-cloud-threats-with-mdr-for-kubernetes</id>
