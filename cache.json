@@ -43,6 +43,56 @@
       "siteUrl": "https://us-cert.cisa.gov/",
       "articles": [
         {
+          "id": "18360 at https://us-cert.cisa.gov",
+          "author": "CISA",
+          "description": "Original release date: February 14, 2023\nAdobe has released security updates to address multiple vulnerabilities in Adobe software. An attacker can exploit these vulnerabilities to take control of an affected system.\nCISA encourages users and administrators to review the following Adobe Security Bulletins and apply the necessary updates.\nAfter Effects APSB23-02\nConnect APSB23-05\nFrameMaker APSB23-06\nBridge APSB23-09\nPhotoshop APSB23-11\nInDesign APSB23-12\n Premiere Rush APSB23-14\nAnimate APSB23-15\nSubstance 3D Stager APSB23-16\nThis product is provided subject to this Notification and this Privacy & Use policy.",
+          "link": "https://us-cert.cisa.gov/ncas/current-activity/2023/02/14/adobe-releases-security-updates-multiple-products",
+          "publishedOn": "2023-02-14T21:30:00.000Z",
+          "wordCount": 977,
+          "title": "Adobe Releases Security Updates for Multiple Products",
+          "imageUrl": null
+        },
+        {
+          "id": "18358 at https://us-cert.cisa.gov",
+          "author": "CISA",
+          "description": "Original release date: February 14, 2023\nMozilla has released security updates to address vulnerabilities in Firefox 110 and Firefox ESR. An attacker could exploit these vulnerabilities to take control of an affected system.\nCISA encourages users and administrators to review Mozilla’s security advisories for Firefox 110 and Firefox ESR 102.8 for more information and apply the necessary updates.\nThis product is provided subject to this Notification and this Privacy & Use policy.",
+          "link": "https://us-cert.cisa.gov/ncas/current-activity/2023/02/14/mozilla-releases-security-updates-firefox-110-and-firefox-esr",
+          "publishedOn": "2023-02-14T21:00:00.000Z",
+          "wordCount": 974,
+          "title": "Mozilla Releases Security Updates for Firefox 110 and Firefox ESR",
+          "imageUrl": null
+        },
+        {
+          "id": "18359 at https://us-cert.cisa.gov",
+          "author": "CISA",
+          "description": "Original release date: February 14, 2023\nCitrix has released security updates to address high-severity vulnerabilities (CVE-2023-24486, CVE-2023-24484, CVE-2023-24485, and CVE-2023-24483) in Citrix Workspace Apps, Virtual Apps and Desktops. A local user could exploit these vulnerabilities to take control of an affected system.\nCISA encourages users and administrators to review Citrix security bulletins CTX477618, CTX477617, and CTX477616 for more information and to apply the necessary updates.\nThis product is provided subject to this Notification and this Privacy & Use policy.",
+          "link": "https://us-cert.cisa.gov/ncas/current-activity/2023/02/14/citrix-releases-security-updates-workspace-apps-virtual-apps-and",
+          "publishedOn": "2023-02-14T20:35:00.000Z",
+          "wordCount": 984,
+          "title": "Citrix Releases Security Updates for Workspace Apps, Virtual Apps and Desktops",
+          "imageUrl": null
+        },
+        {
+          "id": "18354 at https://us-cert.cisa.gov",
+          "author": "CISA",
+          "description": "Original release date: February 14, 2023\nCISA has added four new vulnerabilities to its Known Exploited Vulnerabilities Catalog, based on evidence of active exploitation. These types of vulnerabilities are frequent attack vectors for malicious cyber actors and pose significant risks to the federal enterprise. Note: To view the newly added vulnerabilities in the catalog, click on the arrow in the \"Date Added to Catalog\" column, which will sort by descending dates.\nBinding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the Known Exploited Vulnerabilities Catalog as a living list of known CVEs that carry significant risk to the federal enterprise. BOD 22-01 requires FCEB agencies to remediate identified vulnerabilities by the due date to protect FCEB networks against active threats. See the BOD 22-01 Fact Sheet for more information.\nAlthough BOD 22-01 only applies to FCEB agencies, CISA strongly urges all organizations to reduce their exposure to cyberattacks by prioritizing timely remediation of Catalog vulnerabilities as part of their vulnerability management practice. CISA will continue to add vulnerabilities to the Catalog that meet the specified criteria.\nThis product is provided subject to this Notification and this Privacy & Use policy.",
+          "link": "https://us-cert.cisa.gov/ncas/current-activity/2023/02/14/cisa-adds-four-known-exploited-vulnerabilities-catalog",
+          "publishedOn": "2023-02-14T19:52:00.000Z",
+          "wordCount": 1091,
+          "title": "CISA Adds Four Known Exploited Vulnerabilities to Catalog",
+          "imageUrl": null
+        },
+        {
+          "id": "18357 at https://us-cert.cisa.gov",
+          "author": "CISA",
+          "description": "Original release date: February 14, 2023\nMicrosoft has released updates to address multiple vulnerabilities in Microsoft software. An attacker can exploit some of these vulnerabilities to take control of an affected system.\nCISA encourages users and administrators to review Microsoft’s February 2023 Security Update Guide and Deployment Information and apply the necessary updates.\nThis product is provided subject to this Notification and this Privacy & Use policy.",
+          "link": "https://us-cert.cisa.gov/ncas/current-activity/2023/02/14/microsoft-releases-february-2023-security-updates",
+          "publishedOn": "2023-02-14T19:30:00.000Z",
+          "wordCount": 957,
+          "title": "Microsoft Releases February 2023 Security Updates",
+          "imageUrl": null
+        },
+        {
           "id": "18356 at https://us-cert.cisa.gov",
           "author": "CISA",
           "description": "Original release date: February 14, 2023\nApple has released security updates to address vulnerabilities in multiple products. An attacker could exploit these vulnerabilities to take control of an affected device.\nCISA encourages users and administrators to review the Apple security updates page for the following products and apply the necessary updates as soon as possible:\nSafari 16.3.1\niOS 16.3.1 and iPadOS 16.3.1\nmacOS 13.2.1\nThis product is provided subject to this Notification and this Privacy & Use policy.",
@@ -199,6 +249,66 @@
       "feedUrl": "https://www.darkreading.com/rss.xml",
       "siteUrl": "https://www.darkreading.com",
       "articles": [
+        {
+          "id": "https://www.darkreading.com/dr-tech/expel-tackles-cloud-threats-with-mdr-for-kubernetes",
+          "author": "Dark Reading Staff, Dark Reading",
+          "description": "The new managed detection and response platform simplifies cloud security for Kubernetes applications.",
+          "link": "https://www.darkreading.com/dr-tech/expel-tackles-cloud-threats-with-mdr-for-kubernetes",
+          "publishedOn": "2023-02-15T01:00:00.000Z",
+          "wordCount": 10658,
+          "title": "Expel Tackles Cloud Threats With MDR for Kubernetes",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blte161b23f0fd3a84b/60b1ea374e7eb868c4c6a293/dr_staff_125x125.jpg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blte161b23f0fd3a84b/60b1ea374e7eb868c4c6a293/dr_staff_125x125.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/ics-ot/ot-network-security-myths-busted-in-a-pair-of-hacks",
+          "author": "Kelly Jackson Higgins, Editor-in-Chief, Dark Reading",
+          "description": "How newly exposed security weaknesses in industrial wireless, cloud-based interfaces, and nested PLCs serve as a wake-up call for hardening the physical process control layer of the OT network.",
+          "link": "https://www.darkreading.com/ics-ot/ot-network-security-myths-busted-in-a-pair-of-hacks",
+          "publishedOn": "2023-02-14T22:47:00.000Z",
+          "wordCount": 15793,
+          "title": "OT Network Security Myths Busted in a Pair of Hacks",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltb0e0f8e307c2012b/615dfe95486c9a5b53695aa0/KJH.PNG",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltb0e0f8e307c2012b/615dfe95486c9a5b53695aa0/KJH.PNG"
+        },
+        {
+          "id": "https://www.darkreading.com/endpoint/nine-new-microsoft-bugs-to-patch-now",
+          "author": "Jai Vijayan, Contributing Writer, Dark Reading",
+          "description": "78 new CVEs patched in this month's batch — nearly half of which are remotely executable and three of which attackers already are exploiting.",
+          "link": "https://www.darkreading.com/endpoint/nine-new-microsoft-bugs-to-patch-now",
+          "publishedOn": "2023-02-14T22:20:00.000Z",
+          "wordCount": 12426,
+          "title": "9 New Microsoft Bugs to Patch Now",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt02d79fb9a44a4258/60b1e9dd2a25046b35110696/Jai-Vijayan.jpeg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt02d79fb9a44a4258/60b1e9dd2a25046b35110696/Jai-Vijayan.jpeg"
+        },
+        {
+          "id": "https://www.darkreading.com/attacks-breaches/oakland-city-services-struggles-to-recover-from-ransomware-attack",
+          "author": "Dark Reading Staff, Dark Reading",
+          "description": "Fire emergency, 911 services functioning, along with Oakland financial systems, city says.",
+          "link": "https://www.darkreading.com/attacks-breaches/oakland-city-services-struggles-to-recover-from-ransomware-attack",
+          "publishedOn": "2023-02-14T19:50:00.000Z",
+          "wordCount": 10126,
+          "title": "Oakland City Services Struggle to Recover From Ransomware Attack",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blte161b23f0fd3a84b/60b1ea374e7eb868c4c6a293/dr_staff_125x125.jpg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blte161b23f0fd3a84b/60b1ea374e7eb868c4c6a293/dr_staff_125x125.jpg"
+        },
         {
           "id": "https://www.darkreading.com/endpoint/configuration-issues-in-saltstack-put-enterprises-at-risk",
           "author": "Elizabeth Montalbano, Contributor, Dark Reading",
@@ -1773,6 +1883,16 @@
       "feedUrl": "https://msrc-blog.microsoft.com/feed/",
       "siteUrl": "/blog/",
       "articles": [
+        {
+          "id": "/blog/2023/02/202302-security-update/",
+          "author": null,
+          "description": "2023 年 2 月 14 日 (米国時間) 、マイクロソフトは、マイクロソフト製品に影響する脆弱性を修正するために、セキ",
+          "link": "https://msrc-blog.microsoft.com/blog/2023/02/202302-security-update/",
+          "publishedOn": "2023-02-14T00:00:00.000Z",
+          "wordCount": 2113,
+          "title": "2023 年 2 月のセキュリティ更新プログラム (月例)",
+          "imageUrl": null
+        },
         {
           "id": "/blog/new-msrc-blog-site-ja/",
           "author": null,

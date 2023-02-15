@@ -2,10 +2,125 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-02-14T19:17:02.120Z</updated>
+    <updated>2023-02-15T02:25:51.108Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Expel Tackles Cloud Threats With MDR for Kubernetes]]></title>
+        <id>https://www.darkreading.com/dr-tech/expel-tackles-cloud-threats-with-mdr-for-kubernetes</id>
+        <link href="https://www.darkreading.com/dr-tech/expel-tackles-cloud-threats-with-mdr-for-kubernetes"/>
+        <updated>2023-02-15T01:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The new managed detection and response platform simplifies cloud security for Kubernetes applications.]]></summary>
+        <author>
+            <name>Dark Reading Staff, Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OT Network Security Myths Busted in a Pair of Hacks]]></title>
+        <id>https://www.darkreading.com/ics-ot/ot-network-security-myths-busted-in-a-pair-of-hacks</id>
+        <link href="https://www.darkreading.com/ics-ot/ot-network-security-myths-busted-in-a-pair-of-hacks"/>
+        <updated>2023-02-14T22:47:00.000Z</updated>
+        <summary type="html"><![CDATA[How newly exposed security weaknesses in industrial wireless, cloud-based interfaces, and nested PLCs serve as a wake-up call for hardening the physical process control layer of the OT network.]]></summary>
+        <author>
+            <name>Kelly Jackson Higgins, Editor-in-Chief, Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[9 New Microsoft Bugs to Patch Now]]></title>
+        <id>https://www.darkreading.com/endpoint/nine-new-microsoft-bugs-to-patch-now</id>
+        <link href="https://www.darkreading.com/endpoint/nine-new-microsoft-bugs-to-patch-now"/>
+        <updated>2023-02-14T22:20:00.000Z</updated>
+        <summary type="html"><![CDATA[78 new CVEs patched in this month's batch — nearly half of which are remotely executable and three of which attackers already are exploiting.]]></summary>
+        <author>
+            <name>Jai Vijayan, Contributing Writer, Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Adobe Releases Security Updates for Multiple Products]]></title>
+        <id>18360 at https://us-cert.cisa.gov</id>
+        <link href="https://us-cert.cisa.gov/ncas/current-activity/2023/02/14/adobe-releases-security-updates-multiple-products"/>
+        <updated>2023-02-14T21:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Original release date: February 14, 2023
+Adobe has released security updates to address multiple vulnerabilities in Adobe software. An attacker can exploit these vulnerabilities to take control of an affected system.
+CISA encourages users and administrators to review the following Adobe Security Bulletins and apply the necessary updates.
+After Effects APSB23-02
+Connect APSB23-05
+FrameMaker APSB23-06
+Bridge APSB23-09
+Photoshop APSB23-11
+InDesign APSB23-12
+ Premiere Rush APSB23-14
+Animate APSB23-15
+Substance 3D Stager APSB23-16
+This product is provided subject to this Notification and this Privacy & Use policy.]]></summary>
+        <author>
+            <name>CISA</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mozilla Releases Security Updates for Firefox 110 and Firefox ESR]]></title>
+        <id>18358 at https://us-cert.cisa.gov</id>
+        <link href="https://us-cert.cisa.gov/ncas/current-activity/2023/02/14/mozilla-releases-security-updates-firefox-110-and-firefox-esr"/>
+        <updated>2023-02-14T21:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Original release date: February 14, 2023
+Mozilla has released security updates to address vulnerabilities in Firefox 110 and Firefox ESR. An attacker could exploit these vulnerabilities to take control of an affected system.
+CISA encourages users and administrators to review Mozilla’s security advisories for Firefox 110 and Firefox ESR 102.8 for more information and apply the necessary updates.
+This product is provided subject to this Notification and this Privacy & Use policy.]]></summary>
+        <author>
+            <name>CISA</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Citrix Releases Security Updates for Workspace Apps, Virtual Apps and Desktops]]></title>
+        <id>18359 at https://us-cert.cisa.gov</id>
+        <link href="https://us-cert.cisa.gov/ncas/current-activity/2023/02/14/citrix-releases-security-updates-workspace-apps-virtual-apps-and"/>
+        <updated>2023-02-14T20:35:00.000Z</updated>
+        <summary type="html"><![CDATA[Original release date: February 14, 2023
+Citrix has released security updates to address high-severity vulnerabilities (CVE-2023-24486, CVE-2023-24484, CVE-2023-24485, and CVE-2023-24483) in Citrix Workspace Apps, Virtual Apps and Desktops. A local user could exploit these vulnerabilities to take control of an affected system.
+CISA encourages users and administrators to review Citrix security bulletins CTX477618, CTX477617, and CTX477616 for more information and to apply the necessary updates.
+This product is provided subject to this Notification and this Privacy & Use policy.]]></summary>
+        <author>
+            <name>CISA</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CISA Adds Four Known Exploited Vulnerabilities to Catalog]]></title>
+        <id>18354 at https://us-cert.cisa.gov</id>
+        <link href="https://us-cert.cisa.gov/ncas/current-activity/2023/02/14/cisa-adds-four-known-exploited-vulnerabilities-catalog"/>
+        <updated>2023-02-14T19:52:00.000Z</updated>
+        <summary type="html"><![CDATA[Original release date: February 14, 2023
+CISA has added four new vulnerabilities to its Known Exploited Vulnerabilities Catalog, based on evidence of active exploitation. These types of vulnerabilities are frequent attack vectors for malicious cyber actors and pose significant risks to the federal enterprise. Note: To view the newly added vulnerabilities in the catalog, click on the arrow in the "Date Added to Catalog" column, which will sort by descending dates.
+Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the Known Exploited Vulnerabilities Catalog as a living list of known CVEs that carry significant risk to the federal enterprise. BOD 22-01 requires FCEB agencies to remediate identified vulnerabilities by the due date to protect FCEB networks against active threats. See the BOD 22-01 Fact Sheet for more information.
+Although BOD 22-01 only applies to FCEB agencies, CISA strongly urges all organizations to reduce their exposure to cyberattacks by prioritizing timely remediation of Catalog vulnerabilities as part of their vulnerability management practice. CISA will continue to add vulnerabilities to the Catalog that meet the specified criteria.
+This product is provided subject to this Notification and this Privacy & Use policy.]]></summary>
+        <author>
+            <name>CISA</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Oakland City Services Struggle to Recover From Ransomware Attack]]></title>
+        <id>https://www.darkreading.com/attacks-breaches/oakland-city-services-struggles-to-recover-from-ransomware-attack</id>
+        <link href="https://www.darkreading.com/attacks-breaches/oakland-city-services-struggles-to-recover-from-ransomware-attack"/>
+        <updated>2023-02-14T19:50:00.000Z</updated>
+        <summary type="html"><![CDATA[Fire emergency, 911 services functioning, along with Oakland financial systems, city says.]]></summary>
+        <author>
+            <name>Dark Reading Staff, Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Releases February 2023 Security Updates]]></title>
+        <id>18357 at https://us-cert.cisa.gov</id>
+        <link href="https://us-cert.cisa.gov/ncas/current-activity/2023/02/14/microsoft-releases-february-2023-security-updates"/>
+        <updated>2023-02-14T19:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Original release date: February 14, 2023
+Microsoft has released updates to address multiple vulnerabilities in Microsoft software. An attacker can exploit some of these vulnerabilities to take control of an affected system.
+CISA encourages users and administrators to review Microsoft’s February 2023 Security Update Guide and Deployment Information and apply the necessary updates.
+This product is provided subject to this Notification and this Privacy & Use policy.]]></summary>
+        <author>
+            <name>CISA</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Configuration Issues in SaltStack IT Tool Put Enterprises at Risk]]></title>
         <id>https://www.darkreading.com/endpoint/configuration-issues-in-saltstack-put-enterprises-at-risk</id>
@@ -239,6 +354,16 @@ Tracked as CVE-2023-23529, the issue relates to a type confusion bug in the Web
 The iPhone maker said the]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2023 年 2 月のセキュリティ更新プログラム (月例)]]></title>
+        <id>/blog/2023/02/202302-security-update/</id>
+        <link href="https://msrc-blog.microsoft.com/blog/2023/02/202302-security-update/"/>
+        <updated>2023-02-14T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[2023 年 2 月 14 日 (米国時間) 、マイクロソフトは、マイクロソフト製品に影響する脆弱性を修正するために、セキ]]></summary>
+        <author>
+            <name>Microsoft Security Response Center</name>
         </author>
     </entry>
     <entry>
