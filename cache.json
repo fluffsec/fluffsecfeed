@@ -250,6 +250,21 @@
       "siteUrl": "https://www.darkreading.com",
       "articles": [
         {
+          "id": "https://www.darkreading.com/dr-tech/descope-handles-authentication-so-developers-don-t-have-to",
+          "author": "Fahmida Y. Rashid, Managing Editor, Features, Dark Reading",
+          "description": "Developers don't have to build authentication and user management from scratch, and can devote their energies to the core functions of the application, instead.",
+          "link": "https://www.darkreading.com/dr-tech/descope-handles-authentication-so-developers-don-t-have-to",
+          "publishedOn": "2023-02-16T02:00:00.000Z",
+          "wordCount": 11404,
+          "title": "Descope Handles Authentication So Developers Don't Have To",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt93784ffee79538e7/60d4371522d24e38a3806ecf/fahmida.png",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt93784ffee79538e7/60d4371522d24e38a3806ecf/fahmida.png"
+        },
+        {
           "id": "https://www.darkreading.com/dr-tech/oligo-security-takes-aim-at-open-source-vulnerabilities",
           "author": "Dark Reading Staff, Dark Reading",
           "description": "The startup's software helps organizations secure their containers in the cloud by teasing out which packages are running and which are vulnerable.",
@@ -2167,16 +2182,6 @@
           "wordCount": 2113,
           "title": "Congratulations to the Top MSRC 2022 Q4 Security Researchers!",
           "imageUrl": null
-        },
-        {
-          "id": "/blog/2023/01/microsoft-resolves-four-ssrf-vulnerabilities-in-azure-cloud-services-ja/",
-          "author": null,
-          "description": "本ブログは、Microsoft resolves four SSRF vulnerabilities in Azure cloud services の抄訳版です。最新の情報は原文を参照してください。 概要",
-          "link": "https://msrc-blog.microsoft.com/blog/2023/01/microsoft-resolves-four-ssrf-vulnerabilities-in-azure-cloud-services-ja/",
-          "publishedOn": "2023-01-18T00:00:00.000Z",
-          "wordCount": 2113,
-          "title": "Microsoft は、Azure クラウド サービスにおける 4 つの SSRF の脆弱性を解決しました。",
-          "imageUrl": null
         }
       ]
     },
@@ -2185,6 +2190,16 @@
       "feedUrl": "https://blog.knowbe4.com/rss.xml",
       "siteUrl": "https://blog.knowbe4.com",
       "articles": [
+        {
+          "id": "https://blog.knowbe4.com/live-demo-are-your-users-making-risky-security-mistakes-deliver-real-time-coaching-in-response-to-risky-user-behavior-with-securitycoach",
+          "author": "Stu Sjouwerman",
+          "description": "Do you need an easy, automated way to provide real-time feedback the moment your users make risky mistakes to help reinforce the training campaigns you manage today?",
+          "link": "https://blog.knowbe4.com/live-demo-are-your-users-making-risky-security-mistakes-deliver-real-time-coaching-in-response-to-risky-user-behavior-with-securitycoach",
+          "publishedOn": "2023-02-16T13:00:00.000Z",
+          "wordCount": 2112,
+          "title": "[LIVE DEMO] Are Your Users Making Risky Security Mistakes? Deliver Real-Time Coaching in Response to Risky User Behavior with SecurityCoach",
+          "imageUrl": "https://blog.knowbe4.com/hubfs/Social%20Image%20Repository/Live%20Demos/Live-Demo-SCH-SM-1.jpg#keepProtocol"
+        },
         {
           "id": "https://blog.knowbe4.com/security-awareness-the-top-trend-of-2023",
           "author": "Jelle Wieringa",
@@ -2372,6 +2387,70 @@
       "feedUrl": "https://thehackernews.com/feeds/posts/default",
       "siteUrl": "https://thehackernews.com",
       "articles": [
+        {
+          "id": "https://thehackernews.com/2023/02/researchers-warn-of-critical-security.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Security researchers have disclosed two new vulnerabilities affecting Schneider Electric Modicon programmable logic controllers (PLCs) that could allow for authentication bypass and remote code execution.\nThe flaws, tracked as CVE-2022-45788 (CVSS score: 7.5) and CVE-2022-45789 (CVSS score: 8.1), are part of a broader collection of security defects tracked by Forescout as OT:ICEFALL.\nSuccessful",
+          "link": "https://thehackernews.com/2023/02/researchers-warn-of-critical-security.html",
+          "publishedOn": "2023-02-16T13:18:00.000Z",
+          "wordCount": null,
+          "title": "Researchers Warn of Critical Security Bugs in Schneider Electric Modicon PLCs",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhpYornV7JDRvEFaFRJTX6E2foVdpE00NqMuOySAisJZoalR15gWIL07l0r795VTV0YKWRPdO_3DJBF5arZvGJiBQlWDACoxhnSrWHZ8OPUgnLXNZ6ZzxW9QwbiWyzgeZHqw8thTV4oSNAvUwKKoiT6q2dQZL3OUyuSGCTRrBlN6BPFErI30dqQVv0E/s1600/plc.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhpYornV7JDRvEFaFRJTX6E2foVdpE00NqMuOySAisJZoalR15gWIL07l0r795VTV0YKWRPdO_3DJBF5arZvGJiBQlWDACoxhnSrWHZ8OPUgnLXNZ6ZzxW9QwbiWyzgeZHqw8thTV4oSNAvUwKKoiT6q2dQZL3OUyuSGCTRrBlN6BPFErI30dqQVv0E/s1600/plc.png"
+        },
+        {
+          "id": "https://thehackernews.com/2023/02/breaking-security-black-box-in-dbs-data.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Security teams typically have great visibility over most areas, for example, the corporate network, endpoints, servers, and cloud infrastructure. They use this visibility to enforce the necessary security and compliance requirements. However, this is not the case when it comes to sensitive data sitting in production or analytic databases, data warehouses or data lakes.\nSecurity teams have to",
+          "link": "https://thehackernews.com/2023/02/breaking-security-black-box-in-dbs-data.html",
+          "publishedOn": "2023-02-16T11:12:00.000Z",
+          "wordCount": null,
+          "title": "Breaking the Security \"Black Box\" in DBs, Data Warehouses and Data Lakes",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiV4eq3SJl4OOpTa9q7WTntkbDIGWMB3_oVmQSGLBftDvoecLflnzXU6uyJZCfSOwrkmIQ5uzJ0ZDMK7ULjGEn9ECPBnHDy6yil0YKIv8NsAMG-JjzJT-xmKSuJ10-Yyoqr3rYU9ijgFt1Tw0vCE8DiK6gpOZVmkMvAPNdln-Ok3bv0mdvxwhbZ80qE/s1600/main.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiV4eq3SJl4OOpTa9q7WTntkbDIGWMB3_oVmQSGLBftDvoecLflnzXU6uyJZCfSOwrkmIQ5uzJ0ZDMK7ULjGEn9ECPBnHDy6yil0YKIv8NsAMG-JjzJT-xmKSuJ10-Yyoqr3rYU9ijgFt1Tw0vCE8DiK6gpOZVmkMvAPNdln-Ok3bv0mdvxwhbZ80qE/s1600/main.png"
+        },
+        {
+          "id": "https://thehackernews.com/2023/02/new-threat-actor-wip26-targeting.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Telecommunication service providers in the Middle East are being targeted by a previously undocumented threat actor as part of a suspected espionage-related campaign.\nCybersecurity firms SentinelOne and QGroup are tracking the activity cluster under the former's work-in-progress moniker WIP26.\n\"WIP26 relies heavily on public cloud infrastructure in an attempt to evade detection by making",
+          "link": "https://thehackernews.com/2023/02/new-threat-actor-wip26-targeting.html",
+          "publishedOn": "2023-02-16T10:59:00.000Z",
+          "wordCount": null,
+          "title": "New Threat Actor WIP26 Targeting Telecom Service Providers in the Middle East",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiuczo9JHqukyt8JvJzy6NILaYLF_jyBnScNLxmMIXxrXz628-BBbUzP40ILiu4IIIMT4EAf9lOt04DkYuVV4Wk_W_KiNQobAS1SwN4QabNuDPVhv3u2e0-h9A9A_K5NdakHHeT-x_cgKD_ESGfJmS8EUL4y4HHFA9BL3ct-x3Ct_E8eZjHzwO3YSgs/s1600/mappp.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiuczo9JHqukyt8JvJzy6NILaYLF_jyBnScNLxmMIXxrXz628-BBbUzP40ILiu4IIIMT4EAf9lOt04DkYuVV4Wk_W_KiNQobAS1SwN4QabNuDPVhv3u2e0-h9A9A_K5NdakHHeT-x_cgKD_ESGfJmS8EUL4y4HHFA9BL3ct-x3Ct_E8eZjHzwO3YSgs/s1600/mappp.png"
+        },
+        {
+          "id": "https://thehackernews.com/2023/02/esxiargs-ransomware-hits-over-500-new.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "More than 500 hosts have been newly compromised en masse by the ESXiArgs ransomware strain, most of which are located in France, Germany, the Netherlands, the U.K., and Ukraine.\nThe findings come from attack surface management firm Censys, which discovered \"two hosts with strikingly similar ransom notes dating back to mid-October 2022, just after ESXi versions 6.5 and 6.7 reached end of life.\"",
+          "link": "https://thehackernews.com/2023/02/esxiargs-ransomware-hits-over-500-new.html",
+          "publishedOn": "2023-02-16T10:13:00.000Z",
+          "wordCount": null,
+          "title": "ESXiArgs Ransomware Hits Over 500 New Targets in European Countries",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-74mCURYUmTDeZh6hGgrK3FH2_PPTQtx24TZ3Xc8WBN9U78o4AvQQmPVnqhE4fFH3_xSWzm15-ITgbCKmF2VGFcENOYRjVu46ZvpwTVjMRxVVzC-aLF7-9DqXbu1AVGPxQYNLQCR2XjInOyO0q8G7K6pCoP6hejhlE0OY6HFLVNhgRkF7k8vfnp2p/s1600/ransomware-malware.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-74mCURYUmTDeZh6hGgrK3FH2_PPTQtx24TZ3Xc8WBN9U78o4AvQQmPVnqhE4fFH3_xSWzm15-ITgbCKmF2VGFcENOYRjVu46ZvpwTVjMRxVVzC-aLF7-9DqXbu1AVGPxQYNLQCR2XjInOyO0q8G7K6pCoP6hejhlE0OY6HFLVNhgRkF7k8vfnp2p/s1600/ransomware-malware.png"
+        },
         {
           "id": "https://thehackernews.com/2023/02/north-koreas-apt37-targeting-southern.html",
           "author": "info@thehackernews.com (The Hacker News)",

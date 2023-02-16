@@ -2,10 +2,76 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-02-16T07:19:00.211Z</updated>
+    <updated>2023-02-16T13:33:59.491Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Researchers Warn of Critical Security Bugs in Schneider Electric Modicon PLCs]]></title>
+        <id>https://thehackernews.com/2023/02/researchers-warn-of-critical-security.html</id>
+        <link href="https://thehackernews.com/2023/02/researchers-warn-of-critical-security.html"/>
+        <updated>2023-02-16T13:18:00.000Z</updated>
+        <summary type="html"><![CDATA[Security researchers have disclosed two new vulnerabilities affecting Schneider Electric Modicon programmable logic controllers (PLCs) that could allow for authentication bypass and remote code execution.
+The flaws, tracked as CVE-2022-45788 (CVSS score: 7.5) and CVE-2022-45789 (CVSS score: 8.1), are part of a broader collection of security defects tracked by Forescout as OT:ICEFALL.
+Successful]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[LIVE DEMO] Are Your Users Making Risky Security Mistakes? Deliver Real-Time Coaching in Response to Risky User Behavior with SecurityCoach]]></title>
+        <id>https://blog.knowbe4.com/live-demo-are-your-users-making-risky-security-mistakes-deliver-real-time-coaching-in-response-to-risky-user-behavior-with-securitycoach</id>
+        <link href="https://blog.knowbe4.com/live-demo-are-your-users-making-risky-security-mistakes-deliver-real-time-coaching-in-response-to-risky-user-behavior-with-securitycoach"/>
+        <updated>2023-02-16T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Do you need an easy, automated way to provide real-time feedback the moment your users make risky mistakes to help reinforce the training campaigns you manage today?]]></summary>
+        <author>
+            <name>Stu Sjouwerman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Breaking the Security "Black Box" in DBs, Data Warehouses and Data Lakes]]></title>
+        <id>https://thehackernews.com/2023/02/breaking-security-black-box-in-dbs-data.html</id>
+        <link href="https://thehackernews.com/2023/02/breaking-security-black-box-in-dbs-data.html"/>
+        <updated>2023-02-16T11:12:00.000Z</updated>
+        <summary type="html"><![CDATA[Security teams typically have great visibility over most areas, for example, the corporate network, endpoints, servers, and cloud infrastructure. They use this visibility to enforce the necessary security and compliance requirements. However, this is not the case when it comes to sensitive data sitting in production or analytic databases, data warehouses or data lakes.
+Security teams have to]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New Threat Actor WIP26 Targeting Telecom Service Providers in the Middle East]]></title>
+        <id>https://thehackernews.com/2023/02/new-threat-actor-wip26-targeting.html</id>
+        <link href="https://thehackernews.com/2023/02/new-threat-actor-wip26-targeting.html"/>
+        <updated>2023-02-16T10:59:00.000Z</updated>
+        <summary type="html"><![CDATA[Telecommunication service providers in the Middle East are being targeted by a previously undocumented threat actor as part of a suspected espionage-related campaign.
+Cybersecurity firms SentinelOne and QGroup are tracking the activity cluster under the former's work-in-progress moniker WIP26.
+"WIP26 relies heavily on public cloud infrastructure in an attempt to evade detection by making]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ESXiArgs Ransomware Hits Over 500 New Targets in European Countries]]></title>
+        <id>https://thehackernews.com/2023/02/esxiargs-ransomware-hits-over-500-new.html</id>
+        <link href="https://thehackernews.com/2023/02/esxiargs-ransomware-hits-over-500-new.html"/>
+        <updated>2023-02-16T10:13:00.000Z</updated>
+        <summary type="html"><![CDATA[More than 500 hosts have been newly compromised en masse by the ESXiArgs ransomware strain, most of which are located in France, Germany, the Netherlands, the U.K., and Ukraine.
+The findings come from attack surface management firm Censys, which discovered "two hosts with strikingly similar ransom notes dating back to mid-October 2022, just after ESXi versions 6.5 and 6.7 reached end of life."]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Descope Handles Authentication So Developers Don't Have To]]></title>
+        <id>https://www.darkreading.com/dr-tech/descope-handles-authentication-so-developers-don-t-have-to</id>
+        <link href="https://www.darkreading.com/dr-tech/descope-handles-authentication-so-developers-don-t-have-to"/>
+        <updated>2023-02-16T02:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Developers don't have to build authentication and user management from scratch, and can devote their energies to the core functions of the application, instead.]]></summary>
+        <author>
+            <name>Fahmida Y. Rashid, Managing Editor, Features, Dark Reading</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Oligo Security Takes Aim at Open Source Vulnerabilities]]></title>
         <id>https://www.darkreading.com/dr-tech/oligo-security-takes-aim-at-open-source-vulnerabilities</id>
@@ -2670,16 +2736,6 @@ The Cybersecurity and Infrastructure Security Agency (CISA), National Security A
         <updated>2023-01-23T03:38:14.000Z</updated>
         <author>
             <name>Public KB</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft は、Azure クラウド サービスにおける 4 つの SSRF の脆弱性を解決しました。]]></title>
-        <id>/blog/2023/01/microsoft-resolves-four-ssrf-vulnerabilities-in-azure-cloud-services-ja/</id>
-        <link href="https://msrc-blog.microsoft.com/blog/2023/01/microsoft-resolves-four-ssrf-vulnerabilities-in-azure-cloud-services-ja/"/>
-        <updated>2023-01-18T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[本ブログは、Microsoft resolves four SSRF vulnerabilities in Azure cloud services の抄訳版です。最新の情報は原文を参照してください。 概要]]></summary>
-        <author>
-            <name>Microsoft Security Response Center</name>
         </author>
     </entry>
 </feed>
