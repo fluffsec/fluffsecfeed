@@ -43,6 +43,36 @@
       "siteUrl": "https://us-cert.cisa.gov/",
       "articles": [
         {
+          "id": "18376 at https://us-cert.cisa.gov",
+          "author": "CISA",
+          "description": "Original release date: February 16, 2023\nCISA released fifteen (15) Industrial Control Systems (ICS) advisories on February 16, 2023. These advisories provide timely information about current security issues, vulnerabilities, and exploits surrounding ICS.\nCISA encourages users and administrators to review the newly released ICS advisories for technical details and mitigations:\nICSA-23-047-01 Siemens Solid Edge\nICSA-23-047-02 Siemens SCALANCE X-200 IRT\nICSA-23-047-03 Siemens Brownfield Connectivity Client\nICSA-23-047-04 Siemens Brownfield Connectivity Gateway\nICSA-23-047-05 Siemens SiPass integrated AC5102/ACC-G2 and ACC-AP\nICSA-23-047-06 Siemens Simcenter Femap\nICSA-23-047-07 Siemens TIA Project Server\nICSA-23-047-08 Siemens RUGGEDCOM APE1808\nICSA-23-047-09 Siemens SIMATIC Industrial Products\nICSA-23-047-10 Siemens COMOS\nICSA-23-047-11 Siemens Mendix\nICSA-23-047-12 Siemens JT Open, JT Utilities, and Parasolid\nICSA-23-047-13 Sub-IoT DASH 7 Alliance Protocol\nICSA-22-298-06 Delta Electronic DIAEnergie (Update B)\nICSMA-23-047-01 BD Alaris Infusion Central\nThis product is provided subject to this Notification and this Privacy & Use policy.",
+          "link": "https://us-cert.cisa.gov/ncas/current-activity/2023/02/16/cisa-releases-fifteen-industrial-control-systems-advisories",
+          "publishedOn": "2023-02-16T17:00:00.000Z",
+          "wordCount": 1032,
+          "title": "CISA Releases Fifteen Industrial Control Systems Advisories",
+          "imageUrl": null
+        },
+        {
+          "id": "18375 at https://us-cert.cisa.gov",
+          "author": "CISA",
+          "description": "Original release date: February 16, 2023\nCISA has added one new vulnerability to its Known Exploited Vulnerabilities Catalog, based on evidence of active exploitation. This type of vulnerability is a frequent attack vector for malicious cyber actors and poses a significant risk to the federal enterprise. Note: To view the newly added vulnerabilities in the catalog, click on the arrow in the \"Date Added to Catalog\" column, which will sort by descending dates.\nBinding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the Known Exploited Vulnerabilities Catalog as a living list of known CVEs that carry significant risk to the federal enterprise. BOD 22-01 requires FCEB agencies to remediate identified vulnerabilities by the due date to protect FCEB networks against active threats. See the BOD 22-01 Fact Sheet for more information.\nAlthough BOD 22-01 only applies to FCEB agencies, CISA strongly urges all organizations to reduce their exposure to cyberattacks by prioritizing timely remediation of Catalog vulnerabilities as part of their vulnerability management practice. CISA will continue to add vulnerabilities to the Catalog that meet the specified criteria. \nThis product is provided subject to this Notification and this Privacy & Use policy.",
+          "link": "https://us-cert.cisa.gov/ncas/current-activity/2023/02/16/cisa-adds-one-known-exploited-vulnerability-catalog",
+          "publishedOn": "2023-02-16T16:14:00.000Z",
+          "wordCount": 1093,
+          "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+          "imageUrl": null
+        },
+        {
+          "id": "18374 at https://us-cert.cisa.gov",
+          "author": "CISA",
+          "description": "Original release date: February 16, 2023\nCisco has released security advisories for vulnerabilities affecting multiple Cisco products. A remote attacker could exploit some of these vulnerabilities to take control of an affected system. For updates addressing lower severity vulnerabilities, see the Cisco Security Advisories page.\nCISA encourages users and administrators to review the following advisories and apply the necessary updates.\nClamAV HFS+ Partition Scanning Buffer Overflow Vulnerability Affecting Cisco Products: February 2023 cisco-sa-clamav-q8DThCy\nCisco Nexus Dashboard Denial of Service Vulnerability cisco-sa-ndb-dnsdos-bYscZOsu\nCisco Email Security Appliance and Cisco Secure Email and Web Manager Vulnerabilities cisco-sa-esa-sma-privesc-9DVkFpJ8\nThis product is provided subject to this Notification and this Privacy & Use policy.",
+          "link": "https://us-cert.cisa.gov/ncas/current-activity/2023/02/16/cisco-releases-security-advisories-multiple-products",
+          "publishedOn": "2023-02-16T15:00:00.000Z",
+          "wordCount": 1001,
+          "title": "Cisco Releases Security Advisories for Multiple Products",
+          "imageUrl": null
+        },
+        {
           "id": "18360 at https://us-cert.cisa.gov",
           "author": "CISA",
           "description": "Original release date: February 14, 2023\nAdobe has released security updates to address multiple vulnerabilities in Adobe software. An attacker can exploit these vulnerabilities to take control of an affected system.\nCISA encourages users and administrators to review the following Adobe Security Bulletins and apply the necessary updates.\nAfter Effects APSB23-02\nConnect APSB23-05\nFrameMaker APSB23-06\nBridge APSB23-09\nPhotoshop APSB23-11\nInDesign APSB23-12\n Premiere Rush APSB23-14\nAnimate APSB23-15\nSubstance 3D Stager APSB23-16\nThis product is provided subject to this Notification and this Privacy & Use policy.",
@@ -249,6 +279,51 @@
       "feedUrl": "https://www.darkreading.com/rss.xml",
       "siteUrl": "https://www.darkreading.com",
       "articles": [
+        {
+          "id": "https://www.darkreading.com/endpoint/sidewinder-apt-linked-phishing-attacks-latest-rampage",
+          "author": "Elizabeth Montalbano, Contributor, Dark Reading",
+          "description": "The nation-state threat group has been attacking a wider range of victims and regions than previously thought.",
+          "link": "https://www.darkreading.com/endpoint/sidewinder-apt-linked-phishing-attacks-latest-rampage",
+          "publishedOn": "2023-02-16T16:41:00.000Z",
+          "wordCount": 12937,
+          "title": "SideWinder APT Spotted Stealing Crypto",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltbfd004d139d42d70/6303bca6236c2476a257760e/ElizabethMontalbano.jpg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltbfd004d139d42d70/6303bca6236c2476a257760e/ElizabethMontalbano.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/ics-ot/window-snyder-s-start-up-launches-security-platform-for-iot-device-manufacturers",
+          "author": "Jai Vijayan, Contributing Writer, Dark Reading",
+          "description": "Thistle's technology will give device makers a way to easily integrate features for secure updates, memory management, and communications into their products, Snyder says.",
+          "link": "https://www.darkreading.com/ics-ot/window-snyder-s-start-up-launches-security-platform-for-iot-device-manufacturers",
+          "publishedOn": "2023-02-16T15:35:00.000Z",
+          "wordCount": 13972,
+          "title": "Window Snyder's Startup Launches Security Platform for IoT Device Makers",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt02d79fb9a44a4258/60b1e9dd2a25046b35110696/Jai-Vijayan.jpeg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt02d79fb9a44a4258/60b1e9dd2a25046b35110696/Jai-Vijayan.jpeg"
+        },
+        {
+          "id": "https://www.darkreading.com/risk/simplify-to-survive-how-organizations-can-navigate-cyber-risk",
+          "author": "Richard Watson, Global and Asia-Pacific Cybersecurity Consulting Leader, EY",
+          "description": "Simplification can result in efficiencies, reduced overhead, and the ability to respond to cyber threats more quickly.",
+          "link": "https://www.darkreading.com/risk/simplify-to-survive-how-organizations-can-navigate-cyber-risk",
+          "publishedOn": "2023-02-16T15:00:00.000Z",
+          "wordCount": 12425,
+          "title": "Simplify to Survive: How Organizations Can Navigate Cyber-Risk",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt50d1991c5a78bd7c/63ea656a02ec1e692e7c469f/Richard_Watson.jpg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt50d1991c5a78bd7c/63ea656a02ec1e692e7c469f/Richard_Watson.jpg"
+        },
         {
           "id": "https://www.darkreading.com/dr-tech/descope-handles-authentication-so-developers-don-t-have-to",
           "author": "Fahmida Y. Rashid, Managing Editor, Features, Dark Reading",
@@ -2191,6 +2266,16 @@
       "siteUrl": "https://blog.knowbe4.com",
       "articles": [
         {
+          "id": "https://blog.knowbe4.com/heads-up-russian-hacker-group-launches-new-spear-phishing-campaign-with-targets-to-us-and-europe",
+          "author": "Stu Sjouwerman",
+          "description": "The Russian-based hacking group Seaborgium is at it again with increased spear phishing attacks targeting US and European countries in the last year.",
+          "link": "https://blog.knowbe4.com/heads-up-russian-hacker-group-launches-new-spear-phishing-campaign-with-targets-to-us-and-europe",
+          "publishedOn": "2023-02-16T14:17:56.000Z",
+          "wordCount": 2457,
+          "title": "[HEADS UP] Russian Hacker Group Launches New Spear Phishing Campaign with Targets in US and Europe",
+          "imageUrl": "https://blog.knowbe4.com/hubfs/hacker_Image.jpg#keepProtocol"
+        },
+        {
           "id": "https://blog.knowbe4.com/live-demo-are-your-users-making-risky-security-mistakes-deliver-real-time-coaching-in-response-to-risky-user-behavior-with-securitycoach",
           "author": "Stu Sjouwerman",
           "description": "Do you need an easy, automated way to provide real-time feedback the moment your users make risky mistakes to help reinforce the training campaigns you manage today?",
@@ -2387,6 +2472,54 @@
       "feedUrl": "https://thehackernews.com/feeds/posts/default",
       "siteUrl": "https://thehackernews.com",
       "articles": [
+        {
+          "id": "https://thehackernews.com/2023/02/researchers-hijack-popular-npm-package.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "A popular npm package with more than 3.5 million weekly downloads has been found vulnerable to an account takeover attack.\n\"The package can be taken over by recovering an expired domain name for one of its maintainers and resetting the password,\" software supply chain security company Illustria said in a report.\nWhile npm's security protections limit users to have only one active email address",
+          "link": "https://thehackernews.com/2023/02/researchers-hijack-popular-npm-package.html",
+          "publishedOn": "2023-02-16T18:30:00.000Z",
+          "wordCount": null,
+          "title": "Researchers Hijack Popular NPM Package with Millions of Downloads",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgrpUTdAxuYym2X7U9P7i51yplVFxB2x35Ng1TFBZV0fuwcqE2DoUoktBTnyzNZKV7gAGXNWy4mccjamKqeAQVzsyqwt13M1POW2bPDkkUo4y99QtMuqIzvzzXveWbplcT-Lbkoq0ZHij5qxqAAEQgqIhxSbXvSWBmhlfONa4VbVL068gZrFIYsAV4w/s1600/npm.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgrpUTdAxuYym2X7U9P7i51yplVFxB2x35Ng1TFBZV0fuwcqE2DoUoktBTnyzNZKV7gAGXNWy4mccjamKqeAQVzsyqwt13M1POW2bPDkkUo4y99QtMuqIzvzzXveWbplcT-Lbkoq0ZHij5qxqAAEQgqIhxSbXvSWBmhlfONa4VbVL068gZrFIYsAV4w/s1600/npm.png"
+        },
+        {
+          "id": "https://thehackernews.com/2023/02/researchers-link-sidewinder-group-to.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "The prolific SideWinder group has been attributed as the nation-state actor behind attempted attacks against 61 entities in Afghanistan, Bhutan, Myanmar, Nepal, and Sri Lanka between June and November 2021.\nTargets included government, military, law enforcement, banks, and other organizations, according to an exhaustive report published by Group-IB, which also found links between the adversary",
+          "link": "https://thehackernews.com/2023/02/researchers-link-sidewinder-group-to.html",
+          "publishedOn": "2023-02-16T18:16:00.000Z",
+          "wordCount": null,
+          "title": "Researchers Link SideWinder Group to Dozens of Targeted Attacks in Multiple Countries",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhGqVRA_swx-rn4BNCkJNmxt53MkreP6h97KlfACuE2eR5No1jMTfx9ZXFPzuTIlg1PKgx4_2uzUmqwkCl3RYZZisaPisYq1zLzHMbqHiOBmbiGbDu8wRsO8SO9jvEHUVfRMRlynAnUgNLQkwahD0VdaiUz7p_-r46kF8AucHaVAH2Trv-_2bg0tyLI/s1600/hacker.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhGqVRA_swx-rn4BNCkJNmxt53MkreP6h97KlfACuE2eR5No1jMTfx9ZXFPzuTIlg1PKgx4_2uzUmqwkCl3RYZZisaPisYq1zLzHMbqHiOBmbiGbDu8wRsO8SO9jvEHUVfRMRlynAnUgNLQkwahD0VdaiUz7p_-r46kF8AucHaVAH2Trv-_2bg0tyLI/s1600/hacker.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2023/02/hackers-using-google-ads-to-spread.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Chinese-speaking individuals in Southeast and East Asia are the targets of a new rogue Google Ads campaign that delivers remote access trojans such as FatalRAT to compromised machines.\nThe attacks involve purchasing ad slots to appear in Google search results that direct users searching for popular applications to rogue websites hosting trojanized installers, ESET said in a report published",
+          "link": "https://thehackernews.com/2023/02/hackers-using-google-ads-to-spread.html",
+          "publishedOn": "2023-02-16T13:42:00.000Z",
+          "wordCount": null,
+          "title": "Hackers Using Google Ads to Spread FatalRAT Malware Disguised as Popular Apps",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiluoj8hbb8-QqwXC2QzaXGhQrbzT9BDiHcChQtTKZKstJH7CdbjEWu12sMxba5ZDf5OXfVGHTbaO0vLp-ZhJkcXZ41E6jSJqbNQMBkJbWxPvFKz9JwWREKbyfjtaaXNWl6qfVlvBeie_z4ZE_YfbzQ55wXCTbiGEn5v_kq_Ai-Amh9uxirUA1psXlh/s1600/download-malware.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiluoj8hbb8-QqwXC2QzaXGhQrbzT9BDiHcChQtTKZKstJH7CdbjEWu12sMxba5ZDf5OXfVGHTbaO0vLp-ZhJkcXZ41E6jSJqbNQMBkJbWxPvFKz9JwWREKbyfjtaaXNWl6qfVlvBeie_z4ZE_YfbzQ55wXCTbiGEn5v_kq_Ai-Amh9uxirUA1psXlh/s1600/download-malware.png"
+        },
         {
           "id": "https://thehackernews.com/2023/02/researchers-warn-of-critical-security.html",
           "author": "info@thehackernews.com (The Hacker News)",
