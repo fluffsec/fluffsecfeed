@@ -2563,6 +2563,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2023/02/critical-rce-vulnerability-discovered.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Cisco has rolled out security updates to address a critical flaw reported in the ClamAV open source antivirus engine that could lead to remote code execution on susceptible devices.\nTracked as CVE-2023-20032 (CVSS score: 9.8), the issue relates to a case of remote code execution residing in the HFS+ file parser component.\nThe flaw affects versions 1.0.0 and earlier, 0.105.1 and earlier, and",
+          "link": "https://thehackernews.com/2023/02/critical-rce-vulnerability-discovered.html",
+          "publishedOn": "2023-02-17T05:46:00.000Z",
+          "wordCount": null,
+          "title": "Critical RCE Vulnerability Discovered in ClamAV Open-Source Antivirus Software",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDPbBc2Wv4NMhhpVfG50lFnJLQhPXVlY7qZIDBO6HFBOJxY2llPBxwHBJNyV-etqpGICZ7P3GRw3eSJSX909U3bi6ZqNSJQfPTJDpe2WBjK43007Kh9o6aEu8gmYVDqQw3oJkpxDPNVqtH0ZpSB4vuAxbY_V94KN0DYv9nMboViz3woAJhpkKg-qS_/s1600/clamav.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDPbBc2Wv4NMhhpVfG50lFnJLQhPXVlY7qZIDBO6HFBOJxY2llPBxwHBJNyV-etqpGICZ7P3GRw3eSJSX909U3bi6ZqNSJQfPTJDpe2WBjK43007Kh9o6aEu8gmYVDqQw3oJkpxDPNVqtH0ZpSB4vuAxbY_V94KN0DYv9nMboViz3woAJhpkKg-qS_/s1600/clamav.png"
+        },
+        {
           "id": "https://thehackernews.com/2023/02/researchers-hijack-popular-npm-package.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "A popular npm package with more than 3.5 million weekly downloads has been found vulnerable to an account takeover attack.\n\"The package can be taken over by recovering an expired domain name for one of its maintainers and resetting the password,\" software supply chain security company Illustria said in a report.\nWhile npm's security protections limit users to have only one active email address",

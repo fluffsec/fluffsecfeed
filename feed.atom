@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-02-17T02:29:51.104Z</updated>
+    <updated>2023-02-17T07:18:51.459Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Critical RCE Vulnerability Discovered in ClamAV Open-Source Antivirus Software]]></title>
+        <id>https://thehackernews.com/2023/02/critical-rce-vulnerability-discovered.html</id>
+        <link href="https://thehackernews.com/2023/02/critical-rce-vulnerability-discovered.html"/>
+        <updated>2023-02-17T05:46:00.000Z</updated>
+        <summary type="html"><![CDATA[Cisco has rolled out security updates to address a critical flaw reported in the ClamAV open source antivirus engine that could lead to remote code execution on susceptible devices.
+Tracked as CVE-2023-20032 (CVSS score: 9.8), the issue relates to a case of remote code execution residing in the HFS+ file parser component.
+The flaw affects versions 1.0.0 and earlier, 0.105.1 and earlier, and]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ESXi Ransomware Update Outfoxes CISA Recovery Script]]></title>
         <id>https://www.darkreading.com/endpoint/esxi-malware-update-outfoxes-cisa-recovery-script</id>
