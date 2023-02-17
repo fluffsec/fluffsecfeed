@@ -43,6 +43,16 @@
       "siteUrl": "https://us-cert.cisa.gov/",
       "articles": [
         {
+          "id": "18378 at https://us-cert.cisa.gov",
+          "author": "CISA",
+          "description": "Original release date: February 17, 2023\nMozilla has released security updates to address vulnerabilities in Thunderbird 102.8. An attacker could exploit some of these vulnerabilities to take control of an affected system.\nCISA encourages users and administrators to review Mozilla’s security advisory for Thunderbird 102.8 for more information and apply the necessary updates.\nThis product is provided subject to this Notification and this Privacy & Use policy.",
+          "link": "https://us-cert.cisa.gov/ncas/current-activity/2023/02/17/mozilla-releases-security-updates-thunderbird-1028",
+          "publishedOn": "2023-02-17T18:00:00.000Z",
+          "wordCount": 960,
+          "title": "Mozilla Releases Security Updates for Thunderbird 102.8",
+          "imageUrl": null
+        },
+        {
           "id": "18376 at https://us-cert.cisa.gov",
           "author": "CISA",
           "description": "Original release date: February 16, 2023\nCISA released fifteen (15) Industrial Control Systems (ICS) advisories on February 16, 2023. These advisories provide timely information about current security issues, vulnerabilities, and exploits surrounding ICS.\nCISA encourages users and administrators to review the newly released ICS advisories for technical details and mitigations:\nICSA-23-047-01 Siemens Solid Edge\nICSA-23-047-02 Siemens SCALANCE X-200 IRT\nICSA-23-047-03 Siemens Brownfield Connectivity Client\nICSA-23-047-04 Siemens Brownfield Connectivity Gateway\nICSA-23-047-05 Siemens SiPass integrated AC5102/ACC-G2 and ACC-AP\nICSA-23-047-06 Siemens Simcenter Femap\nICSA-23-047-07 Siemens TIA Project Server\nICSA-23-047-08 Siemens RUGGEDCOM APE1808\nICSA-23-047-09 Siemens SIMATIC Industrial Products\nICSA-23-047-10 Siemens COMOS\nICSA-23-047-11 Siemens Mendix\nICSA-23-047-12 Siemens JT Open, JT Utilities, and Parasolid\nICSA-23-047-13 Sub-IoT DASH 7 Alliance Protocol\nICSA-22-298-06 Delta Electronic DIAEnergie (Update B)\nICSMA-23-047-01 BD Alaris Infusion Central\nThis product is provided subject to this Notification and this Privacy & Use policy.",
@@ -280,6 +290,66 @@
       "siteUrl": "https://www.darkreading.com",
       "articles": [
         {
+          "id": "https://www.darkreading.com/operations/inglis-resigns-national-cyber-director-biden-cybersecurity-eo",
+          "author": "Dark Reading Staff, Dark Reading",
+          "description": "The long-time NSA and cyber specialist says he's exiting the public sector.",
+          "link": "https://www.darkreading.com/operations/inglis-resigns-national-cyber-director-biden-cybersecurity-eo",
+          "publishedOn": "2023-02-17T19:00:40.000Z",
+          "wordCount": 11689,
+          "title": "Inglis Retires as National Cyber Director Ahead of Biden's Cybersecurity EO",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blte161b23f0fd3a84b/60b1ea374e7eb868c4c6a293/dr_staff_125x125.jpg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blte161b23f0fd3a84b/60b1ea374e7eb868c4c6a293/dr_staff_125x125.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/cloud/burton-snowboards-online-orders-disrupted-cyberattack",
+          "author": "Dark Reading Staff, Dark Reading",
+          "description": "The snow sports specialist is investigating to see what caused the operations-disrupting \"cyber incident.\"",
+          "link": "https://www.darkreading.com/cloud/burton-snowboards-online-orders-disrupted-cyberattack",
+          "publishedOn": "2023-02-17T18:20:00.000Z",
+          "wordCount": 11017,
+          "title": "Not Stoked: Burton Snowboards' Online Orders Disrupted After Cyberattack",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blte161b23f0fd3a84b/60b1ea374e7eb868c4c6a293/dr_staff_125x125.jpg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blte161b23f0fd3a84b/60b1ea374e7eb868c4c6a293/dr_staff_125x125.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/endpoint/massive-goanywhere-rce-exploit",
+          "author": "Nate Nelson, Contributing Writer, Dark Reading",
+          "description": "Weeks after an exploit was first announced in a popular cloud-based file transfer service, could some organizations still be vulnerable? The answer is yes.",
+          "link": "https://www.darkreading.com/endpoint/massive-goanywhere-rce-exploit",
+          "publishedOn": "2023-02-17T17:35:00.000Z",
+          "wordCount": 14742,
+          "title": "Massive GoAnywhere RCE Exploit: Everything You Need to Know",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt91e5f91ce3f0cdd9/63d0288ac98dbe55ece1d0a9/Nate-Nelson_(1).jpg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt91e5f91ce3f0cdd9/63d0288ac98dbe55ece1d0a9/Nate-Nelson_(1).jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/application-security/appsec-threats-deserve-their-own-incident-response-plan",
+          "author": "Omer Yaron, Head of Research, Enso Security",
+          "description": "With a rearranging of priorities and good incident response plans, organizations can be ready to face the future of software attacks.",
+          "link": "https://www.darkreading.com/application-security/appsec-threats-deserve-their-own-incident-response-plan",
+          "publishedOn": "2023-02-17T15:00:00.000Z",
+          "wordCount": 13893,
+          "title": "AppSec Threats Deserve Their Own Incident Response Plan",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt0813be09b0795d91/63ebe58ed827cf6e51d6d67a/Omer-Yaron.jpeg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt0813be09b0795d91/63ebe58ed827cf6e51d6d67a/Omer-Yaron.jpeg"
+        },
+        {
           "id": "https://www.darkreading.com/endpoint/esxi-malware-update-outfoxes-cisa-recovery-script",
           "author": "Dark Reading Staff, Dark Reading",
           "description": "New ESXiArgs-ransomware attacks include a workaround for CISA's decryptor, researchers find.",
@@ -398,6 +468,21 @@
             "length": "0"
           },
           "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt50d1991c5a78bd7c/63ea656a02ec1e692e7c469f/Richard_Watson.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/zscaler/encrypted-traffic-once-thought-safe-now-responsible-for-most-cyberthreats",
+          "author": "Deepen Desai, CISO and VP, Security Research, Zscaler",
+          "description": "It's a classic attacker move: Use security protections against those who deploy them. But organizations can still defuse and prevent these encrypted attacks.",
+          "link": "https://www.darkreading.com/zscaler/encrypted-traffic-once-thought-safe-now-responsible-for-most-cyberthreats",
+          "publishedOn": "2023-02-16T08:00:00.000Z",
+          "wordCount": 14236,
+          "title": "Encrypted Traffic, Once Thought Safe, Now Responsible For Most Cyberthreats",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt68e6427659409bf9/63d7fdf6e44d630a4e107033/Deepen_Desai.png",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt68e6427659409bf9/63d7fdf6e44d630a4e107033/Deepen_Desai.png"
         },
         {
           "id": "https://www.darkreading.com/dr-tech/descope-handles-authentication-so-developers-don-t-have-to",
@@ -2356,6 +2441,26 @@
       "siteUrl": "https://blog.knowbe4.com",
       "articles": [
         {
+          "id": "https://blog.knowbe4.com/the-curse-of-cybersecurity-knowledge",
+          "author": "Javvad Malik",
+          "description": "The curse of knowledge is a cognitive bias that occurs when someone is trying to communicate information to another person, but falsely assumes that the other person has the same level of knowledge or understanding of the topic. This can lead to the communicator overestimating the other person's understanding of the subject, and thus not providing enough detail or explanation. As a result, the message may not be understood or interpreted correctly, leading to confusion and frustration.",
+          "link": "https://blog.knowbe4.com/the-curse-of-cybersecurity-knowledge",
+          "publishedOn": "2023-02-17T15:54:25.000Z",
+          "wordCount": 2484,
+          "title": "The Curse of Cybersecurity Knowledge",
+          "imageUrl": "https://blog.knowbe4.com/hubfs/Social%20Image%20Repository/Evangelist%20Blog%20Social%20Graphics/Evangelists-Javvad%20Malik.jpg#keepProtocol"
+        },
+        {
+          "id": "https://blog.knowbe4.com/will-ai-and-deepfakes-weaken-biometric-mfa",
+          "author": "Roger Grimes",
+          "description": "You should use phishing-resistant multi-factor authentication (MFA) when you can to protect valuable data and systems. But most biometrics and MFA are not as strong as touted and much of it can easily be hacked and bypassed. It doesn’t necessarily mean you shouldn’t use it, just pick strong, more trustworthy implementations and don’t ever think they can’t be hacked.",
+          "link": "https://blog.knowbe4.com/will-ai-and-deepfakes-weaken-biometric-mfa",
+          "publishedOn": "2023-02-17T14:31:39.000Z",
+          "wordCount": 2881,
+          "title": "Will AI and Deepfakes Weaken Biometric MFA",
+          "imageUrl": "https://blog.knowbe4.com/hubfs/Social%20Image%20Repository/Evangelist%20Blog%20Social%20Graphics/Evangelists-Roger%20Grimes.jpg#keepProtocol"
+        },
+        {
           "id": "https://blog.knowbe4.com/heads-up-russian-hacker-group-launches-new-spear-phishing-campaign-with-targets-to-us-and-europe",
           "author": "Stu Sjouwerman",
           "description": "The Russian-based hacking group Seaborgium is at it again with increased spear phishing attacks targeting US and European countries in the last year.",
@@ -2562,6 +2667,38 @@
       "feedUrl": "https://thehackernews.com/feeds/posts/default",
       "siteUrl": "https://thehackernews.com",
       "articles": [
+        {
+          "id": "https://thehackernews.com/2023/02/experts-warn-of-rambleon-android.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Suspected North Korean nation-state actors targeted a journalist in South Korea with a malware-laced Android app as part of a social engineering campaign.\nThe findings come from South Korea-based non-profit Interlab, which coined the new malware RambleOn.\nThe malicious functionalities include the \"ability to read and leak target's contact list, SMS, voice call content, location and others from",
+          "link": "https://thehackernews.com/2023/02/experts-warn-of-rambleon-android.html",
+          "publishedOn": "2023-02-17T15:51:00.000Z",
+          "wordCount": null,
+          "title": "Experts Warn of RambleOn Android Malware Targeting South Korean Journalists",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhanjKJdfLJtNYlj1IMBnBdDFyUDsnlMvTtEn4JC23VaHHI-hSa5Tt2lrPijjXI8eIRVS3slZjv5rVj41G8K4kXBR8m8vFSNECAXNy-HkrB-yHomziAlg6mYTyWMG9SC4ZXqcjephrx6vG4aA7k_4p5zKBNmkT9fVUGerhvw9Mz09ReaH8pvX_aqPCd/s1600/android.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhanjKJdfLJtNYlj1IMBnBdDFyUDsnlMvTtEn4JC23VaHHI-hSa5Tt2lrPijjXI8eIRVS3slZjv5rVj41G8K4kXBR8m8vFSNECAXNy-HkrB-yHomziAlg6mYTyWMG9SC4ZXqcjephrx6vG4aA7k_4p5zKBNmkT9fVUGerhvw9Mz09ReaH8pvX_aqPCd/s1600/android.png"
+        },
+        {
+          "id": "https://thehackernews.com/2023/02/top-cybersecurity-news-stories-this.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Hey 👋 there, cyber friends!\nWelcome to this week's cybersecurity newsletter, where we aim to keep you informed and empowered in the ever-changing world of cyber threats.\nIn today's edition, we will cover some interesting developments in the cybersecurity landscape and share some insightful analysis of each to help you protect yourself against potential attacks.\n1. Apple 📱 Devices Hacked with",
+          "link": "https://thehackernews.com/2023/02/top-cybersecurity-news-stories-this.html",
+          "publishedOn": "2023-02-17T13:16:00.000Z",
+          "wordCount": null,
+          "title": "⚡Top Cybersecurity News Stories This Week — Cybersecurity Newsletter",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjsfmhh_pFybjdbIWu_Rqc03tVygTbdBPYyxuo964MGhscOBaqnB4NWJeP0HjH0B1-6pwuqdFZE6wsl8v2fI_pf6EDWXnll8K-l_Co8wi2d_av6SV3w9nTWTIIC8OtjZyTDKk2SU3H4bT46S8btfJf12LL4IUSosm7LdCUeh9Y3tJ0Rpg4q7gEpIZdCqg/s1600/weekly-news.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjsfmhh_pFybjdbIWu_Rqc03tVygTbdBPYyxuo964MGhscOBaqnB4NWJeP0HjH0B1-6pwuqdFZE6wsl8v2fI_pf6EDWXnll8K-l_Co8wi2d_av6SV3w9nTWTIIC8OtjZyTDKk2SU3H4bT46S8btfJf12LL4IUSosm7LdCUeh9Y3tJ0Rpg4q7gEpIZdCqg/s1600/weekly-news.png"
+        },
         {
           "id": "https://thehackernews.com/2023/02/armenian-entities-hit-by-new-version-of.html",
           "author": "info@thehackernews.com (The Hacker News)",
