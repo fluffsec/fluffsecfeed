@@ -2,10 +2,33 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-02-17T07:18:51.459Z</updated>
+    <updated>2023-02-17T13:27:21.925Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Armenian Entities Hit by New Version of OxtaRAT Spying Tool]]></title>
+        <id>https://thehackernews.com/2023/02/armenian-entities-hit-by-new-version-of.html</id>
+        <link href="https://thehackernews.com/2023/02/armenian-entities-hit-by-new-version-of.html"/>
+        <updated>2023-02-17T12:47:00.000Z</updated>
+        <summary type="html"><![CDATA[Entities in Armenia have come under a cyber attack using an updated version of a backdoor called OxtaRAT that allows remote access and desktop surveillance.
+"The tool capabilities include searching for and exfiltrating files from the infected machine, recording the video from the web camera and desktop, remotely controlling the compromised machine with TightVNC, installing a web shell,]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New Mirai Botnet Variant 'V3G4' Exploiting 13 Flaws to Target Linux and IoT Devices]]></title>
+        <id>https://thehackernews.com/2023/02/new-mirai-botnet-variant-v3g4.html</id>
+        <link href="https://thehackernews.com/2023/02/new-mirai-botnet-variant-v3g4.html"/>
+        <updated>2023-02-17T09:25:00.000Z</updated>
+        <summary type="html"><![CDATA[A new variant of the notorious Mirai botnet has been found leveraging several security vulnerabilities to propagate itself to Linux and IoT devices.
+Observed during the second half of 2022, the new version has been dubbed V3G4 by Palo Alto Networks Unit 42, which identified three different campaigns likely conducted by the same threat actor.
+"Once the vulnerable devices are compromised, they]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Critical RCE Vulnerability Discovered in ClamAV Open-Source Antivirus Software]]></title>
         <id>https://thehackernews.com/2023/02/critical-rce-vulnerability-discovered.html</id>
