@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-02-19T02:25:59.477Z</updated>
+    <updated>2023-02-19T07:18:04.762Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Fortinet Issues Patches for 40 Flaws Affecting FortiWeb, FortiOS, FortiOS, and FortiProxy]]></title>
+        <id>https://thehackernews.com/2023/02/fortinet-issues-patches-for-40-flaws.html</id>
+        <link href="https://thehackernews.com/2023/02/fortinet-issues-patches-for-40-flaws.html"/>
+        <updated>2023-02-19T06:27:00.000Z</updated>
+        <summary type="html"><![CDATA[Fortinet has released security updates to address 40 vulnerabilities in its software lineup, including FortiWeb, FortiOS, FortiNAS, and FortiProxy, among others.
+Two of the 40 flaws are rated Critical, 15 are rated High, 22 are rated Medium, and one is rated Low in severity.
+Top of the list is a severe bug residing in the FortiNAC network access control solution (CVE-2022-39952, CVSS score: 9.8)]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Twitter Limits SMS-Based 2-Factor Authentication to Blue Subscribers Only]]></title>
         <id>https://thehackernews.com/2023/02/twitter-limits-sms-based-2-factor.html</id>
