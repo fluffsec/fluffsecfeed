@@ -2,10 +2,66 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-02-22T07:19:09.320Z</updated>
+    <updated>2023-02-22T13:29:13.044Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Attackers Flood NPM Repository with Over 15,000 Spam Packages Containing Phishing Links]]></title>
+        <id>https://thehackernews.com/2023/02/attackers-flood-npm-repository-with.html</id>
+        <link href="https://thehackernews.com/2023/02/attackers-flood-npm-repository-with.html"/>
+        <updated>2023-02-22T11:17:00.000Z</updated>
+        <summary type="html"><![CDATA[In what's a continuing assault on the open source ecosystem, over 15,000 spam packages have flooded the npm repository in an attempt to distribute phishing links.
+"The packages were created using automated processes, with project descriptions and auto-generated names that closely resembled one another," Checkmarx researcher Yehuda Gelb said in a Tuesday report.
+"The attackers referred to retail]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[3 Steps to Automate Your Third-Party Risk Management Program]]></title>
+        <id>https://thehackernews.com/2023/02/3-steps-to-automate-your-third-party.html</id>
+        <link href="https://thehackernews.com/2023/02/3-steps-to-automate-your-third-party.html"/>
+        <updated>2023-02-22T11:03:00.000Z</updated>
+        <summary type="html"><![CDATA[If you Google "third-party data breaches" you will find many recent reports of data breaches that were either caused by an attack at a third party or sensitive information stored at a third-party location was exposed. Third-party data breaches don't discriminate by industry because almost every company is operating with some sort of vendor relationship – whether it be a business partner,]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hydrochasma: New Threat Actor Targets Shipping Companies and Medical Labs in Asia]]></title>
+        <id>https://thehackernews.com/2023/02/hydrochasma-new-threat-actor-targets.html</id>
+        <link href="https://thehackernews.com/2023/02/hydrochasma-new-threat-actor-targets.html"/>
+        <updated>2023-02-22T10:59:00.000Z</updated>
+        <summary type="html"><![CDATA[Shipping companies and medical laboratories in Asia have been the subject of a suspected espionage campaign carried out by a never-before-seen threat actor dubbed Hydrochasma.
+The activity, which has been ongoing since October 2022, "relies exclusively on publicly available and living-off-the-land tools," Symantec, by Broadcom Software, said in a report shared with The Hacker News.
+There is no]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Threat Actors Adopt Havoc Framework for Post-Exploitation in Targeted Attacks]]></title>
+        <id>https://thehackernews.com/2023/02/threat-actors-adopt-havoc-framework-for.html</id>
+        <link href="https://thehackernews.com/2023/02/threat-actors-adopt-havoc-framework-for.html"/>
+        <updated>2023-02-22T07:18:00.000Z</updated>
+        <summary type="html"><![CDATA[An open source command-and-control (C2) framework known as Havoc is being adopted by threat actors as an alternative to other well-known legitimate toolkits like Cobalt Strike, Sliver, and Brute Ratel.
+Cybersecurity firm Zscaler said it observed a new campaign in the beginning of January 2023 targeting an unnamed government organization that utilized Havoc.
+"While C2 frameworks are prolific, the]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gcore Thwarts Massive 650 Gbps DDoS Attack on Free Plan Client]]></title>
+        <id>https://thehackernews.com/2023/02/gcore-thwarts-massive-650-gbps-ddos.html</id>
+        <link href="https://thehackernews.com/2023/02/gcore-thwarts-massive-650-gbps-ddos.html"/>
+        <updated>2023-02-22T06:51:00.000Z</updated>
+        <summary type="html"><![CDATA[At the beginning of January, Gcore faced an incident involving several L3/L4 DDoS attacks with a peak volume of 650 Gbps. Attackers exploited over 2000 servers belonging to one of the top three cloud providers worldwide and targeted a client who was using a free CDN plan. However, due to Gcore’s distribution of infrastructure and a large number of peering partners, the attacks were mitigated,]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[U.S. Cybersecurity Agency CISA Adds Three New Vulnerabilities in KEV Catalog]]></title>
         <id>https://thehackernews.com/2023/02/us-cybersecurity-agency-cisa-adds-three.html</id>
