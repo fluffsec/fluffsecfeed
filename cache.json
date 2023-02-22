@@ -310,6 +310,21 @@
       "siteUrl": "https://www.darkreading.com",
       "articles": [
         {
+          "id": "https://www.darkreading.com/dr-tech/how-to-stop-attackers-that-target-healthcare-imaging-data",
+          "author": "Kolawole Samuel Adebayo, Contributing Writer",
+          "description": "Attribute-based encryption could help keep sensitive metadata off of the Dark Web.",
+          "link": "https://www.darkreading.com/dr-tech/how-to-stop-attackers-that-target-healthcare-imaging-data",
+          "publishedOn": "2023-02-22T03:30:00.000Z",
+          "wordCount": 14807,
+          "title": "How to Stop Attackers That Target Healthcare Imaging Data",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt0e633cacbfbbf0c2/6305337a9b7ae964b1821d09/kolawole-samuel-adebayo.jpg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt0e633cacbfbbf0c2/6305337a9b7ae964b1821d09/kolawole-samuel-adebayo.jpg"
+        },
+        {
           "id": "https://www.darkreading.com/risk/scrut-automation-raises-funding-of-7-5m-led-by-massmutual-ventures-lightspeed-and-endiya-partners",
           "author": null,
           "description": "With the fresh capital, Scrut aims to focus on simplifying risk management and infosec compliance for cloud-native SaaS, Fintech, and Healthtech companies",
@@ -2992,6 +3007,38 @@
       "feedUrl": "https://thehackernews.com/feeds/posts/default",
       "siteUrl": "https://thehackernews.com",
       "articles": [
+        {
+          "id": "https://thehackernews.com/2023/02/us-cybersecurity-agency-cisa-adds-three.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added three security flaws to its Known Exploited Vulnerabilities (KEV) catalog, based on evidence of active exploitation.\nThe list of shortcomings is as follows -\n\nCVE-2022-47986 (CVSS score: 9.8) - IBM Aspera Faspex Code Execution Vulnerability\nCVE-2022-41223 (CVSS score: 6.8) - Mitel MiVoice Connect Code Injection",
+          "link": "https://thehackernews.com/2023/02/us-cybersecurity-agency-cisa-adds-three.html",
+          "publishedOn": "2023-02-22T05:38:00.000Z",
+          "wordCount": null,
+          "title": "U.S. Cybersecurity Agency CISA Adds Three New Vulnerabilities in KEV Catalog",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjsTbkhmQY6cmLyAjAvG44wic-0kaH1AzEg2lvEcROX2oXfJb0vwaD9bDEVDT19ppqD8mbRJom_rb6ifgjDRy67QN_AODpGZhZmJeky4elDWy2I7LX6_U-R8U0VP9u0fGheiyMnht9keMXCb2G_ezPZON-K-p9Te77Po4qaruW5RleKpaY1B1zOnBak/s1600/cisa.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjsTbkhmQY6cmLyAjAvG44wic-0kaH1AzEg2lvEcROX2oXfJb0vwaD9bDEVDT19ppqD8mbRJom_rb6ifgjDRy67QN_AODpGZhZmJeky4elDWy2I7LX6_U-R8U0VP9u0fGheiyMnht9keMXCb2G_ezPZON-K-p9Te77Po4qaruW5RleKpaY1B1zOnBak/s1600/cisa.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2023/02/vmware-patches-critical-vulnerability.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "VMware on Tuesday released patches to address a critical security vulnerability affecting its Carbon Black App Control product.\nTracked as CVE-2023-20858, the shortcoming carries a CVSS score of 9.1 out of a maximum of 10 and impacts App Control versions 8.7.x, 8.8.x, and 8.9.x.\nThe virtualization services provider describes the issue as an injection vulnerability. Security researcher Jari",
+          "link": "https://thehackernews.com/2023/02/vmware-patches-critical-vulnerability.html",
+          "publishedOn": "2023-02-22T04:55:00.000Z",
+          "wordCount": null,
+          "title": "VMware Patches Critical Vulnerability in Carbon Black App Control Product",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhp5l0X9bWwwy-mjQkIk81a4TjxAWJheoLDbatqVQprXnohqe_-zqVUM0ZHOQuAuDCYcu8BqSHP8Clh9clsxPJkjmz2Bzo-1EAr_mGVUwWt5Q1JeOhe3gJcdb6GWM92f6xd_jqzG2LvFLmOkqYzqACRiyk-2OP2e1CWg-dNDcY8a7-6u74W87nn2pWG/s1600/vmware.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhp5l0X9bWwwy-mjQkIk81a4TjxAWJheoLDbatqVQprXnohqe_-zqVUM0ZHOQuAuDCYcu8BqSHP8Clh9clsxPJkjmz2Bzo-1EAr_mGVUwWt5Q1JeOhe3gJcdb6GWM92f6xd_jqzG2LvFLmOkqYzqACRiyk-2OP2e1CWg-dNDcY8a7-6u74W87nn2pWG/s1600/vmware.png"
+        },
         {
           "id": "https://thehackernews.com/2023/02/mylobot-botnet-spreading-rapidly.html",
           "author": "info@thehackernews.com (The Hacker News)",

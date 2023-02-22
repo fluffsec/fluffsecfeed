@@ -2,10 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-02-22T02:24:46.287Z</updated>
+    <updated>2023-02-22T07:19:09.320Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[U.S. Cybersecurity Agency CISA Adds Three New Vulnerabilities in KEV Catalog]]></title>
+        <id>https://thehackernews.com/2023/02/us-cybersecurity-agency-cisa-adds-three.html</id>
+        <link href="https://thehackernews.com/2023/02/us-cybersecurity-agency-cisa-adds-three.html"/>
+        <updated>2023-02-22T05:38:00.000Z</updated>
+        <summary type="html"><![CDATA[The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added three security flaws to its Known Exploited Vulnerabilities (KEV) catalog, based on evidence of active exploitation.
+The list of shortcomings is as follows -
+
+CVE-2022-47986 (CVSS score: 9.8) - IBM Aspera Faspex Code Execution Vulnerability
+CVE-2022-41223 (CVSS score: 6.8) - Mitel MiVoice Connect Code Injection]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[VMware Patches Critical Vulnerability in Carbon Black App Control Product]]></title>
+        <id>https://thehackernews.com/2023/02/vmware-patches-critical-vulnerability.html</id>
+        <link href="https://thehackernews.com/2023/02/vmware-patches-critical-vulnerability.html"/>
+        <updated>2023-02-22T04:55:00.000Z</updated>
+        <summary type="html"><![CDATA[VMware on Tuesday released patches to address a critical security vulnerability affecting its Carbon Black App Control product.
+Tracked as CVE-2023-20858, the shortcoming carries a CVSS score of 9.1 out of a maximum of 10 and impacts App Control versions 8.7.x, 8.8.x, and 8.9.x.
+The virtualization services provider describes the issue as an injection vulnerability. Security researcher Jari]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Stop Attackers That Target Healthcare Imaging Data]]></title>
+        <id>https://www.darkreading.com/dr-tech/how-to-stop-attackers-that-target-healthcare-imaging-data</id>
+        <link href="https://www.darkreading.com/dr-tech/how-to-stop-attackers-that-target-healthcare-imaging-data"/>
+        <updated>2023-02-22T03:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Attribute-based encryption could help keep sensitive metadata off of the Dark Web.]]></summary>
+        <author>
+            <name>Kolawole Samuel Adebayo, Contributing Writer</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Scrut Automation Raises Funding of $7.5M, Led by MassMutual Ventures, Lightspeed, and Endiya Partners]]></title>
         <id>https://www.darkreading.com/risk/scrut-automation-raises-funding-of-7-5m-led-by-massmutual-ventures-lightspeed-and-endiya-partners</id>
