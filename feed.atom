@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-02-23T02:22:35.863Z</updated>
+    <updated>2023-02-23T07:19:01.686Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Python Developers Warned of Trojanized PyPI Packages Mimicking Popular Libraries]]></title>
+        <id>https://thehackernews.com/2023/02/python-developers-warned-of-trojanized.html</id>
+        <link href="https://thehackernews.com/2023/02/python-developers-warned-of-trojanized.html"/>
+        <updated>2023-02-23T06:25:00.000Z</updated>
+        <summary type="html"><![CDATA[Cybersecurity researchers are warning of "imposter packages" mimicking popular libraries available on the Python Package Index (PyPI) repository.
+The 41 malicious PyPI packages have been found to pose as typosquatted variants of legitimate modules such as HTTP, AIOHTTP, requests, urllib, and urllib3.
+The names of the packages are as follows:
+aio5, aio6, htps1, httiop, httops, httplat, httpscolor]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[UL Solutions Advances Automotive Safety and Security]]></title>
         <id>https://www.darkreading.com/iot/ul-solutions-advances-automotive-safety-and-security-</id>

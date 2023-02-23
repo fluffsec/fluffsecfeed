@@ -3223,6 +3223,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2023/02/python-developers-warned-of-trojanized.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Cybersecurity researchers are warning of \"imposter packages\" mimicking popular libraries available on the Python Package Index (PyPI) repository.\nThe 41 malicious PyPI packages have been found to pose as typosquatted variants of legitimate modules such as HTTP, AIOHTTP, requests, urllib, and urllib3.\nThe names of the packages are as follows:\naio5, aio6, htps1, httiop, httops, httplat, httpscolor",
+          "link": "https://thehackernews.com/2023/02/python-developers-warned-of-trojanized.html",
+          "publishedOn": "2023-02-23T06:25:00.000Z",
+          "wordCount": null,
+          "title": "Python Developers Warned of Trojanized PyPI Packages Mimicking Popular Libraries",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiazTQMlfThRc-v-iN1LevdcwGC9-Dx9e4cCsqzSOpfEBSZpJT0R98zBiqXtjC-dNBDm0Q1axUMgAFeonb07pB5mJpU26V-uqGQA7wEeLoTldaksU_5fDV2-wj-ljeo6Ps-nuWzKd-g6j-X2AtjohX3LwDDl9QQz6HbobHKl7TpKZmjtVEMhFCTogZ4/s1600/python.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiazTQMlfThRc-v-iN1LevdcwGC9-Dx9e4cCsqzSOpfEBSZpJT0R98zBiqXtjC-dNBDm0Q1axUMgAFeonb07pB5mJpU26V-uqGQA7wEeLoTldaksU_5fDV2-wj-ljeo6Ps-nuWzKd-g6j-X2AtjohX3LwDDl9QQz6HbobHKl7TpKZmjtVEMhFCTogZ4/s1600/python.png"
+        },
+        {
           "id": "https://thehackernews.com/2023/02/apple-warns-of-3-new-vulnerabilities.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Apple has revised the security advisories it released last month to include three new vulnerabilities impacting iOS, iPadOS, and macOS.\nThe first flaw is a race condition in the Crash Reporter component (CVE-2023-23520) that could enable a malicious actor to read arbitrary files as root. The iPhone maker said it addressed the issue with additional validation.\nThe two other vulnerabilities,",
