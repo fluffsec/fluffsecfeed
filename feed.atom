@@ -2,10 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-02-24T07:19:18.713Z</updated>
+    <updated>2023-02-24T13:28:39.887Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Use AI in Cybersecurity and Avoid Being Trapped]]></title>
+        <id>https://thehackernews.com/2023/02/how-to-use-ai-in-cybersecurity-and.html</id>
+        <link href="https://thehackernews.com/2023/02/how-to-use-ai-in-cybersecurity-and.html"/>
+        <updated>2023-02-24T13:22:00.000Z</updated>
+        <summary type="html"><![CDATA[The use of AI in cybersecurity is growing rapidly and is having a significant impact on threat detection, incident response, fraud detection, and vulnerability management. According to a report by Juniper Research, the use of AI for fraud detection and prevention is expected to save businesses $11 billion annually by 2023. But how to integrate AI into business cybersecurity infrastructure]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CISA Sounds Alarm on Cybersecurity Threats Amid Russia's Invasion Anniversary]]></title>
+        <id>https://thehackernews.com/2023/02/cisa-sounds-alarm-on-cybersecurity.html</id>
+        <link href="https://thehackernews.com/2023/02/cisa-sounds-alarm-on-cybersecurity.html"/>
+        <updated>2023-02-24T13:10:00.000Z</updated>
+        <summary type="html"><![CDATA[The U.S. Cybersecurity and Infrastructure Security Agency (CISA) is urging organizations and individuals to increase their cyber vigilance, as Russia's military invasion of Ukraine officially enters one year.
+"CISA assesses that the United States and European nations may experience disruptive and defacement attacks against websites in an attempt to sow chaos and societal discord on February 24,]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Even Top-Ranked Android Apps in Google Play Store Provide Misleading Data Safety Labels]]></title>
+        <id>https://thehackernews.com/2023/02/majority-of-android-apps-on-google-play.html</id>
+        <link href="https://thehackernews.com/2023/02/majority-of-android-apps-on-google-play.html"/>
+        <updated>2023-02-24T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[An investigation into data safety labels for Android apps available on the Google Play Store has uncovered "serious loopholes" that allow apps to provide misleading or outright false information.
+The study, conducted by the Mozilla Foundation as part of its *Privacy Not Included initiative, compared the privacy policies and labels of the 20 most popular paid apps and the 20 most popular free]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[87% of Container Images in Production Have Critical or High-Severity Vulnerabilities]]></title>
         <id>https://www.darkreading.com/dr-tech/87-of-container-images-in-production-have-critical-or-high-severity-vulnerabilities</id>
@@ -4117,17 +4149,6 @@ A]]></summary>
         <link href="https://msrc-blog.microsoft.com/blog/2023/01/20230201_cybersecurityawareness/"/>
         <updated>2023-01-31T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[政府では、サイバーセキュリティに関する普及啓発強化のため、2 月 1 日から 3 月 18 日までを 「サイバーセキュ]]></summary>
-        <author>
-            <name>Microsoft Security Response Center</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Congratulations to the Top MSRC 2022 Q4 Security Researchers!]]></title>
-        <id>/blog/2023/01/congratulations-to-the-top-msrc-2022-q4-security-researchers/</id>
-        <link href="https://msrc-blog.microsoft.com/blog/2023/01/congratulations-to-the-top-msrc-2022-q4-security-researchers/"/>
-        <updated>2023-01-26T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Congratulations to all the researchers recognized in this quarter’s Microsoft Researcher Recognition Program leaderboard! Thank you to everyone for your hard work and continued partnership to secure customers.
-The top three researchers of the 2022 Q4 Security Researcher Leaderboard are: goodbyeselene, Jarvis_1oop, and kap0k! Check out the full list of researchers recognized this quarter here.]]></summary>
         <author>
             <name>Microsoft Security Response Center</name>
         </author>
