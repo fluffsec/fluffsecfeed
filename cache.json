@@ -3643,6 +3643,70 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2023/02/chromeloader-malware-targeting-gamers.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "A new ChromeLoader malware campaign has been observed being distributed via virtual hard disk (VHD) files, marking a deviation from the ISO optical disc image format.\n\"These VHD files are being distributed with filenames that make them appear like either hacks or cracks for Nintendo and Steam games,\" AhnLab Security Emergency response Center (ASEC) said in a report last week.\nChromeLoader (aka",
+          "link": "https://thehackernews.com/2023/02/chromeloader-malware-targeting-gamers.html",
+          "publishedOn": "2023-02-27T10:53:00.000Z",
+          "wordCount": null,
+          "title": "ChromeLoader Malware Targeting Gamers via Fake Nintendo and Steam Game Hacks",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh5C1hT61O7uySdtawGLPWVjV6ONu19bJOx-huUGq0GXxFRbysLNxfo0O8xeaXXN4ilYQrBn_UY4QOh1XjRP5_iCHpo23QETv9MWuJtOYcPh5Z0E4s1pL7qv0_rlMEDx4yLSsuLD1XIQZa6UnhQIjSnPVzArx1oEH0d3xgPWGBfhG7ORyIX6XaIzkBd/s1600/game-hack.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh5C1hT61O7uySdtawGLPWVjV6ONu19bJOx-huUGq0GXxFRbysLNxfo0O8xeaXXN4ilYQrBn_UY4QOh1XjRP5_iCHpo23QETv9MWuJtOYcPh5Z0E4s1pL7qv0_rlMEDx4yLSsuLD1XIQZa6UnhQIjSnPVzArx1oEH0d3xgPWGBfhG7ORyIX6XaIzkBd/s1600/game-hack.png"
+        },
+        {
+          "id": "https://thehackernews.com/2023/02/purecrypter-malware-targets-government.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Government entities in Asia-Pacific and North America are being targeted by an unknown threat actor with an off-the-shelf malware downloader known as PureCrypter to deliver an array of information stealers and ransomware.\n\"The PureCrypter campaign uses the domain of a compromised non-profit organization as a command-and-control (C2) to deliver a secondary payload,\" Menlo Security researcher",
+          "link": "https://thehackernews.com/2023/02/purecrypter-malware-targets-government.html",
+          "publishedOn": "2023-02-27T10:22:00.000Z",
+          "wordCount": null,
+          "title": "PureCrypter Malware Targets Government Entities in Asia-Pacific and North America",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgYTTjYUXSTL5xMUBkV1VgU5KrfeAH2zGsF28dLYgW_JlwFkkPQcEi2zLe2IdRBs_JyCsukowr7_h4xATf2Rvtv7zEU_UhlUMfQRQKvGliYPdQkhd8pDq4axxkX5tB6rmh1ZJxWrWeXD1PsKrxE4Fp4oTipj_QFeFBiuC_g79UJ2Fa34n9SqohT4kZ3/s1600/ransomware.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgYTTjYUXSTL5xMUBkV1VgU5KrfeAH2zGsF28dLYgW_JlwFkkPQcEi2zLe2IdRBs_JyCsukowr7_h4xATf2Rvtv7zEU_UhlUMfQRQKvGliYPdQkhd8pDq4axxkX5tB6rmh1ZJxWrWeXD1PsKrxE4Fp4oTipj_QFeFBiuC_g79UJ2Fa34n9SqohT4kZ3/s1600/ransomware.png"
+        },
+        {
+          "id": "https://thehackernews.com/2023/02/plugx-trojan-disguised-as-legitimate.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "The PlugX remote access trojan has been observed masquerading as an open source Windows debugger tool called x64dbg in an attempt to circumvent security protections and gain control of a target system.\n\"This file is a legitimate open-source debugger tool for Windows that is generally used to examine kernel-mode and user-mode code, crash dumps, or CPU registers,\" Trend Micro researchers Buddy",
+          "link": "https://thehackernews.com/2023/02/plugx-trojan-disguised-as-legitimate.html",
+          "publishedOn": "2023-02-27T10:04:00.000Z",
+          "wordCount": null,
+          "title": "PlugX Trojan Disguised as Legitimate Windows Debugger Tool in Latest Attacks",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgw9G_A8t0Hm-JbSh3N8OOINj4q3DTeBAhfN1WXfpMr_xBtW5AnBiIeVLcqF1m1LZMuwmQOR2HrFx44tkgh7NPd1JvwWX4AgMpm8vzj_IM0dMU9JWH3SjKe-MpPLhdb7RivH4R6L-0lCqlkDH02QZa94GjgflijowfSbGCEqhjij37dMMMxRgX60FtO/s1600/plugx.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgw9G_A8t0Hm-JbSh3N8OOINj4q3DTeBAhfN1WXfpMr_xBtW5AnBiIeVLcqF1m1LZMuwmQOR2HrFx44tkgh7NPd1JvwWX4AgMpm8vzj_IM0dMU9JWH3SjKe-MpPLhdb7RivH4R6L-0lCqlkDH02QZa94GjgflijowfSbGCEqhjij37dMMMxRgX60FtO/s1600/plugx.png"
+        },
+        {
+          "id": "https://thehackernews.com/2023/02/dutch-police-arrest-3-hackers-involved.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "The Dutch police announced the arrest of three individuals in connection with a \"large-scale\" criminal operation involving data theft, extortion, and money laundering.\nThe suspects include two 21-year-old men from Zandvoort and Rotterdam and an 18-year-old man without a permanent residence. The arrests were made on January 23, 2023.\nIt's estimated that the hackers stole personal data belonging",
+          "link": "https://thehackernews.com/2023/02/dutch-police-arrest-3-hackers-involved.html",
+          "publishedOn": "2023-02-27T07:12:00.000Z",
+          "wordCount": null,
+          "title": "Dutch Police Arrest 3 Hackers Involved in Massive Data Theft and Extortion Scheme",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhshERWbJRGaUOIwHpMB2YiviLmvsi7-yjQ6QBPdR4YZPzHaiztcrr-iTcgtF2V_rHTFPDEip44TzZ74nsEaKEfdQu9WkgCzzjvAKAGgCd4oJJVNgrqqqEatyAGitieJlU2p5TOCSSQQi_S0e_9g_LpC5S2UZu-ZEEqbQuMWLFtgZ9cQcJ7DKRJYUtL/s1600/hacker-arrested.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhshERWbJRGaUOIwHpMB2YiviLmvsi7-yjQ6QBPdR4YZPzHaiztcrr-iTcgtF2V_rHTFPDEip44TzZ74nsEaKEfdQu9WkgCzzjvAKAGgCd4oJJVNgrqqqEatyAGitieJlU2p5TOCSSQQi_S0e_9g_LpC5S2UZu-ZEEqbQuMWLFtgZ9cQcJ7DKRJYUtL/s1600/hacker-arrested.png"
+        },
+        {
           "id": "https://thehackernews.com/2023/02/google-teams-up-with-ecosystem-partners.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Google said it's working with ecosystem partners to harden the security of firmware that interacts with Android.\nWhile the Android operating system runs on what's called the application processor (AP), it's just one of the many processors of a system-on-chip (SoC) that cater to various tasks like cellular communications and multimedia processing.\n\"Securing the Android Platform requires going",

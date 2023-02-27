@@ -2,10 +2,56 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-02-27T07:19:38.920Z</updated>
+    <updated>2023-02-27T13:30:46.755Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ChromeLoader Malware Targeting Gamers via Fake Nintendo and Steam Game Hacks]]></title>
+        <id>https://thehackernews.com/2023/02/chromeloader-malware-targeting-gamers.html</id>
+        <link href="https://thehackernews.com/2023/02/chromeloader-malware-targeting-gamers.html"/>
+        <updated>2023-02-27T10:53:00.000Z</updated>
+        <summary type="html"><![CDATA[A new ChromeLoader malware campaign has been observed being distributed via virtual hard disk (VHD) files, marking a deviation from the ISO optical disc image format.
+"These VHD files are being distributed with filenames that make them appear like either hacks or cracks for Nintendo and Steam games," AhnLab Security Emergency response Center (ASEC) said in a report last week.
+ChromeLoader (aka]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PureCrypter Malware Targets Government Entities in Asia-Pacific and North America]]></title>
+        <id>https://thehackernews.com/2023/02/purecrypter-malware-targets-government.html</id>
+        <link href="https://thehackernews.com/2023/02/purecrypter-malware-targets-government.html"/>
+        <updated>2023-02-27T10:22:00.000Z</updated>
+        <summary type="html"><![CDATA[Government entities in Asia-Pacific and North America are being targeted by an unknown threat actor with an off-the-shelf malware downloader known as PureCrypter to deliver an array of information stealers and ransomware.
+"The PureCrypter campaign uses the domain of a compromised non-profit organization as a command-and-control (C2) to deliver a secondary payload," Menlo Security researcher]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PlugX Trojan Disguised as Legitimate Windows Debugger Tool in Latest Attacks]]></title>
+        <id>https://thehackernews.com/2023/02/plugx-trojan-disguised-as-legitimate.html</id>
+        <link href="https://thehackernews.com/2023/02/plugx-trojan-disguised-as-legitimate.html"/>
+        <updated>2023-02-27T10:04:00.000Z</updated>
+        <summary type="html"><![CDATA[The PlugX remote access trojan has been observed masquerading as an open source Windows debugger tool called x64dbg in an attempt to circumvent security protections and gain control of a target system.
+"This file is a legitimate open-source debugger tool for Windows that is generally used to examine kernel-mode and user-mode code, crash dumps, or CPU registers," Trend Micro researchers Buddy]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dutch Police Arrest 3 Hackers Involved in Massive Data Theft and Extortion Scheme]]></title>
+        <id>https://thehackernews.com/2023/02/dutch-police-arrest-3-hackers-involved.html</id>
+        <link href="https://thehackernews.com/2023/02/dutch-police-arrest-3-hackers-involved.html"/>
+        <updated>2023-02-27T07:12:00.000Z</updated>
+        <summary type="html"><![CDATA[The Dutch police announced the arrest of three individuals in connection with a "large-scale" criminal operation involving data theft, extortion, and money laundering.
+The suspects include two 21-year-old men from Zandvoort and Rotterdam and an 18-year-old man without a permanent residence. The arrests were made on January 23, 2023.
+It's estimated that the hackers stole personal data belonging]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Tackling Software Supply Chain Issues With CNAPP]]></title>
         <id>https://www.darkreading.com/dr-tech/tackling-software-supply-chain-issues-with-cnapp</id>
