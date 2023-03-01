@@ -340,6 +340,81 @@
       "siteUrl": "https://www.darkreading.com",
       "articles": [
         {
+          "id": "https://www.darkreading.com/cloud/what-happened-cyberattack-cloud-services-you-may-never-know",
+          "author": "Robert Lemos, Contributing Writer, Dark Reading",
+          "description": "More cyberattackers are targeting organizations' cloud environments, but some cloud services, such as Google Cloud Platform's storage, fail to create adequate logs for forensics.",
+          "link": "https://www.darkreading.com/cloud/what-happened-cyberattack-cloud-services-you-may-never-know",
+          "publishedOn": "2023-03-01T18:33:26.000Z",
+          "wordCount": 14365,
+          "title": "What Happened in That Cyberattack? With Some Cloud Services, You May Never Know",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt58481326324d6911/60b1e9a55d34de550780a990/Robert-Lemos.png",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt58481326324d6911/60b1e9a55d34de550780a990/Robert-Lemos.png"
+        },
+        {
+          "id": "https://www.darkreading.com/operations/the-importance-of-recession-proofing-security-operations",
+          "author": "Leonid Belkind, Co-Founder & CTO, Torq",
+          "description": "Make sure cybersecurity is taken seriously and consistently across the board. Educate the ecosystem beyond your own organization to mitigate security risks for everyone.",
+          "link": "https://www.darkreading.com/operations/the-importance-of-recession-proofing-security-operations",
+          "publishedOn": "2023-03-01T18:00:00.000Z",
+          "wordCount": 13453,
+          "title": "The Importance of Recession-Proofing Security Operations",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltd02cafa698d55159/63fe3c5348c01055feff4a5d/image002.png",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltd02cafa698d55159/63fe3c5348c01055feff4a5d/image002.png"
+        },
+        {
+          "id": "https://www.darkreading.com/risk/cisa-zk-java-framework-rce-flaw-under-active-exploit",
+          "author": "Elizabeth Montalbano, Contributor, Dark Reading",
+          "description": "The flaw, which drew attention in October when it was found in ConnectWise products, could pose a significant risk to the supply chain if not patched immediately.",
+          "link": "https://www.darkreading.com/risk/cisa-zk-java-framework-rce-flaw-under-active-exploit",
+          "publishedOn": "2023-03-01T15:30:00.000Z",
+          "wordCount": 14342,
+          "title": "CISA: ZK Java Framework RCE Flaw Under Active Exploit",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltbfd004d139d42d70/6303bca6236c2476a257760e/ElizabethMontalbano.jpg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltbfd004d139d42d70/6303bca6236c2476a257760e/ElizabethMontalbano.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/endpoint/without-fido2-mfa-falls-short",
+          "author": "Tony Lauro, Director of Security Technology & Strategy, Akamai",
+          "description": "The open authentication standard addresses existing multifactor authentication security vulnerabilities.",
+          "link": "https://www.darkreading.com/endpoint/without-fido2-mfa-falls-short",
+          "publishedOn": "2023-03-01T15:00:00.000Z",
+          "wordCount": 14507,
+          "title": "Without FIDO2, MFA Falls Short",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltfe8fbd455e7e9885/63fe58d25038391034a332f2/Tony_Lauro_Headshot.png",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltfe8fbd455e7e9885/63fe58d25038391034a332f2/Tony_Lauro_Headshot.png"
+        },
+        {
+          "id": "https://www.darkreading.com/threat-intelligence/cyberattackers-double-down-bypassing-mfa",
+          "author": "Robert Lemos, Contributing Writer, Dark Reading",
+          "description": "As companies increasingly adopt MFA, cybercriminals are developing a variety of strategies to steal credentials and gain access to high-value accounts anyway.",
+          "link": "https://www.darkreading.com/threat-intelligence/cyberattackers-double-down-bypassing-mfa",
+          "publishedOn": "2023-03-01T14:59:02.000Z",
+          "wordCount": 14812,
+          "title": "Cyberattackers Double Down on Bypassing MFA",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt58481326324d6911/60b1e9a55d34de550780a990/Robert-Lemos.png",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt58481326324d6911/60b1e9a55d34de550780a990/Robert-Lemos.png"
+        },
+        {
           "id": "https://www.darkreading.com/edge-articles/cisos-share-their-3-top-challenges-for-cybersecurity-management",
           "author": "Jeffrey Schwartz, Contributing Writer, Dark Reading",
           "description": "The biggest dilemmas in running a modern cybersecurity team are not all about software, said CISOs from HSBC, Citi, and Sepio.",
@@ -3596,6 +3671,26 @@
       "siteUrl": "https://blog.knowbe4.com",
       "articles": [
         {
+          "id": "https://blog.knowbe4.com/remediating-email-based-cyberattacks-cost-1-million",
+          "author": "Stu Sjouwerman",
+          "description": "With the average cost of the most expensive successful email attack at over $1 million, it’s necessary to begin to zero in on where the material sources of risk exist to keep these attacks from succeeding.",
+          "link": "https://blog.knowbe4.com/remediating-email-based-cyberattacks-cost-1-million",
+          "publishedOn": "2023-03-01T18:52:30.000Z",
+          "wordCount": 2193,
+          "title": "Remote Workers Significantly Increase the Cost of Remediating Email-Based Cyberattacks as Costs Average $1 Million",
+          "imageUrl": "https://blog.knowbe4.com/hubfs/Remote%20Work%20Training%20Employees%202022.jpg#keepProtocol"
+        },
+        {
+          "id": "https://blog.knowbe4.com/namecheaps-sendgrid-email-account-compromised",
+          "author": "Stu Sjouwerman",
+          "description": "Since phishing attacks need legitimacy to increase their deliverability, this latest twist shows how phishing scammers and hackers are working together to ensure phishing attacks continue.",
+          "link": "https://blog.knowbe4.com/namecheaps-sendgrid-email-account-compromised",
+          "publishedOn": "2023-03-01T18:52:16.000Z",
+          "wordCount": 2213,
+          "title": "NameCheap’s SendGrid Email Account Compromised, Used to Send Phishing Emails",
+          "imageUrl": "https://blog.knowbe4.com/hubfs/Phishing%20as%20a%20Service%20Kit.jpg#keepProtocol"
+        },
+        {
           "id": "https://blog.knowbe4.com/business-email-compromise-gang-gets-jail-time-for-stealing-millions",
           "author": "Stu Sjouwerman",
           "description": "An international cybercriminal operation responsible for millions of dollars in business email compromise (BEC) scams has finally been dismantled.",
@@ -3992,6 +4087,22 @@
       "feedUrl": "https://thehackernews.com/feeds/posts/default",
       "siteUrl": "https://thehackernews.com",
       "articles": [
+        {
+          "id": "https://thehackernews.com/2023/03/cybercriminals-targeting-law-firms-with.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Six different law firms were targeted in January and February 2023 as part of two disparate threat campaigns distributing GootLoader and FakeUpdates (aka SocGholish) malware strains.\nGootLoader, active since late 2020, is a first-stage downloader that's capable of delivering a wide range of secondary payloads such as Cobalt Strike and ransomware.\nIt notably employs search engine optimization (",
+          "link": "https://thehackernews.com/2023/03/cybercriminals-targeting-law-firms-with.html",
+          "publishedOn": "2023-03-01T14:02:00.000Z",
+          "wordCount": null,
+          "title": "Cybercriminals Targeting Law Firms with GootLoader and FakeUpdates Malware",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhDqLmAPUtj8Xx4bqe80pvg7aztEJUU8sUyKvHGs4S1tpSKamLX1McTzu-cmiuNYOWn4rrAf05yJEmCEvZeC40sz6XD52IJDmU1ytFz8lK1tbWckFMPttIn3U79RKaZVHC6cyGWwLVOiXuaKlO5tBulB_J-LClFARsCRUzRXS8-Hv775XWfLJsTSx9T/s1600/law.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhDqLmAPUtj8Xx4bqe80pvg7aztEJUU8sUyKvHGs4S1tpSKamLX1McTzu-cmiuNYOWn4rrAf05yJEmCEvZeC40sz6XD52IJDmU1ytFz8lK1tbWckFMPttIn3U79RKaZVHC6cyGWwLVOiXuaKlO5tBulB_J-LClFARsCRUzRXS8-Hv775XWfLJsTSx9T/s1600/law.png"
+        },
         {
           "id": "https://thehackernews.com/2023/03/blacklotus-becomes-first-uefi-bootkit.html",
           "author": "info@thehackernews.com (The Hacker News)",
