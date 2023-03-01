@@ -2,10 +2,56 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-03-01T07:18:32.396Z</updated>
+    <updated>2023-03-01T13:30:15.011Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[BlackLotus Becomes First UEFI Bootkit Malware to Bypass Secure Boot on Windows 11]]></title>
+        <id>https://thehackernews.com/2023/03/blacklotus-becomes-first-uefi-bootkit.html</id>
+        <link href="https://thehackernews.com/2023/03/blacklotus-becomes-first-uefi-bootkit.html"/>
+        <updated>2023-03-01T11:32:00.000Z</updated>
+        <summary type="html"><![CDATA[A stealthy Unified Extensible Firmware Interface (UEFI) bootkit called BlackLotus has become the first publicly known malware capable of bypassing Secure Boot defenses, making it a potent threat in the cyber landscape.
+"This bootkit can run even on fully up-to-date Windows 11 systems with UEFI Secure Boot enabled," Slovak cybersecurity company ESET said in a report shared with The Hacker News.]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CISOs Are Stressed Out and It's Putting Companies at Risk]]></title>
+        <id>https://thehackernews.com/2023/03/cisos-are-stressed-out-and-its-putting.html</id>
+        <link href="https://thehackernews.com/2023/03/cisos-are-stressed-out-and-its-putting.html"/>
+        <updated>2023-03-01T11:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Employee well-being has become a primary focus for many businesses. Even before the pandemic, the C-suite was acutely aware of how employee mental health impacts business outcomes. 
+But for cybersecurity professionals, stress has always been a part of the job.
+A new survey revealed that one of the most concerning aspects of employee mental health is how it impacts cybersecurity programs and,]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gmail and Google Calendar Now Support Client-Side Encryption (CSE) to Boost Data Privacy]]></title>
+        <id>https://thehackernews.com/2023/03/gmail-and-google-calendar-now-support.html</id>
+        <link href="https://thehackernews.com/2023/03/gmail-and-google-calendar-now-support.html"/>
+        <updated>2023-03-01T09:55:00.000Z</updated>
+        <summary type="html"><![CDATA[Google has announced the general availability of client-side encryption (CSE) for Gmail and Calendar, months after piloting the feature in late 2022.
+The data privacy controls enable "even more organizations to become arbiters of their own data and the sole party deciding who has access to it," Google's Ganesh Chilakapati and Andy Wen said.
+To that end, users can send and receive emails or]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Parallax RAT Targeting Cryptocurrency Firms with Sophisticated Injection Techniques]]></title>
+        <id>https://thehackernews.com/2023/03/parallax-rat-targeting-cryptocurrency.html</id>
+        <link href="https://thehackernews.com/2023/03/parallax-rat-targeting-cryptocurrency.html"/>
+        <updated>2023-03-01T06:11:00.000Z</updated>
+        <summary type="html"><![CDATA[Cryptocurrency companies are being targeted as part of a new campaign that delivers a remote access trojan called Parallax RAT.
+The malware "uses injection techniques to hide within legitimate processes, making it difficult to detect," Uptycs said in a new report. "Once it has been successfully injected, attackers can interact with their victim via Windows Notepad that likely serves as a]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CISOs Share Their 3 Top Challenges for Cybersecurity Management]]></title>
         <id>https://www.darkreading.com/edge-articles/cisos-share-their-3-top-challenges-for-cybersecurity-management</id>
@@ -4665,26 +4711,6 @@ A]]></summary>
         <link href="https://msrc-blog.microsoft.com/blog/2023/02/threat-actor-consent-phishing-campaign-abusing-the-verified-publisher-process-ja/"/>
         <updated>2023-02-01T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[本ブログは、Microsoft Investigation – Threat actor consent phishing campaign abusing the verified publisher process の抄訳版です。最新の情報は原文を参照してくださ]]></summary>
-        <author>
-            <name>Microsoft Security Response Center</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft Investigation - Threat actor consent phishing campaign abusing the verified publisher process]]></title>
-        <id>/blog/2023/01/threat-actor-consent-phishing-campaign-abusing-the-verified-publisher-process/</id>
-        <link href="https://msrc-blog.microsoft.com/blog/2023/01/threat-actor-consent-phishing-campaign-abusing-the-verified-publisher-process/"/>
-        <updated>2023-01-31T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Summary Summary On December 15th, 2022, Microsoft became aware of a consent phishing campaign involving threat actors fraudulently impersonating legitimate companies when enrolling in the Microsoft Cloud Partner Program (MCPP) (formerly known as Microsoft Partner Network (MPN)). The actor used fraudulent partner accounts to add a verified publisher to OAuth app registrations they created in Azure AD.]]></summary>
-        <author>
-            <name>Microsoft Security Response Center</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[サイバーセキュリティ月間 2023]]></title>
-        <id>/blog/2023/01/20230201_cybersecurityawareness/</id>
-        <link href="https://msrc-blog.microsoft.com/blog/2023/01/20230201_cybersecurityawareness/"/>
-        <updated>2023-01-31T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[政府では、サイバーセキュリティに関する普及啓発強化のため、2 月 1 日から 3 月 18 日までを 「サイバーセキュ]]></summary>
         <author>
             <name>Microsoft Security Response Center</name>
         </author>

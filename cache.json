@@ -3587,26 +3587,6 @@
           "wordCount": 2113,
           "title": "Microsoft の調査 – 検証済みの発行者確認を悪用する脅威アクターの同意フィッシング キャンペーンについて",
           "imageUrl": null
-        },
-        {
-          "id": "/blog/2023/01/threat-actor-consent-phishing-campaign-abusing-the-verified-publisher-process/",
-          "author": null,
-          "description": "Summary Summary On December 15th, 2022, Microsoft became aware of a consent phishing campaign involving threat actors fraudulently impersonating legitimate companies when enrolling in the Microsoft Cloud Partner Program (MCPP) (formerly known as Microsoft Partner Network (MPN)). The actor used fraudulent partner accounts to add a verified publisher to OAuth app registrations they created in Azure AD.",
-          "link": "https://msrc-blog.microsoft.com/blog/2023/01/threat-actor-consent-phishing-campaign-abusing-the-verified-publisher-process/",
-          "publishedOn": "2023-01-31T00:00:00.000Z",
-          "wordCount": 2113,
-          "title": "Microsoft Investigation - Threat actor consent phishing campaign abusing the verified publisher process",
-          "imageUrl": null
-        },
-        {
-          "id": "/blog/2023/01/20230201_cybersecurityawareness/",
-          "author": null,
-          "description": "政府では、サイバーセキュリティに関する普及啓発強化のため、2 月 1 日から 3 月 18 日までを 「サイバーセキュ",
-          "link": "https://msrc-blog.microsoft.com/blog/2023/01/20230201_cybersecurityawareness/",
-          "publishedOn": "2023-01-31T00:00:00.000Z",
-          "wordCount": 2113,
-          "title": "サイバーセキュリティ月間 2023",
-          "imageUrl": null
         }
       ]
     },
@@ -4012,6 +3992,70 @@
       "feedUrl": "https://thehackernews.com/feeds/posts/default",
       "siteUrl": "https://thehackernews.com",
       "articles": [
+        {
+          "id": "https://thehackernews.com/2023/03/blacklotus-becomes-first-uefi-bootkit.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "A stealthy Unified Extensible Firmware Interface (UEFI) bootkit called BlackLotus has become the first publicly known malware capable of bypassing Secure Boot defenses, making it a potent threat in the cyber landscape.\n\"This bootkit can run even on fully up-to-date Windows 11 systems with UEFI Secure Boot enabled,\" Slovak cybersecurity company ESET said in a report shared with The Hacker News.",
+          "link": "https://thehackernews.com/2023/03/blacklotus-becomes-first-uefi-bootkit.html",
+          "publishedOn": "2023-03-01T11:32:00.000Z",
+          "wordCount": null,
+          "title": "BlackLotus Becomes First UEFI Bootkit Malware to Bypass Secure Boot on Windows 11",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgCcfmjjBldi6aBNhYzb-X_i3YeDhmp49_MQcmJ5s3Z-PR1_9gdzQfsAkGwTwVULvUVBHbyMTujsBFpLYGQDNkooKgvmfabVDtUdaTTyNpyD0rrB5R32WxKz-Y5SHQDV3PUcsFMjNOpDG3K2arz8WWQoR0KgR882Gqx53zc3MEhB-_EFe1-8ScpJmm_/s1600/secure-boor.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgCcfmjjBldi6aBNhYzb-X_i3YeDhmp49_MQcmJ5s3Z-PR1_9gdzQfsAkGwTwVULvUVBHbyMTujsBFpLYGQDNkooKgvmfabVDtUdaTTyNpyD0rrB5R32WxKz-Y5SHQDV3PUcsFMjNOpDG3K2arz8WWQoR0KgR882Gqx53zc3MEhB-_EFe1-8ScpJmm_/s1600/secure-boor.png"
+        },
+        {
+          "id": "https://thehackernews.com/2023/03/cisos-are-stressed-out-and-its-putting.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Employee well-being has become a primary focus for many businesses. Even before the pandemic, the C-suite was acutely aware of how employee mental health impacts business outcomes. \nBut for cybersecurity professionals, stress has always been a part of the job.\nA new survey revealed that one of the most concerning aspects of employee mental health is how it impacts cybersecurity programs and,",
+          "link": "https://thehackernews.com/2023/03/cisos-are-stressed-out-and-its-putting.html",
+          "publishedOn": "2023-03-01T11:30:00.000Z",
+          "wordCount": null,
+          "title": "CISOs Are Stressed Out and It's Putting Companies at Risk",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjdIDAz_jv4nzLo4jY6zEugmmsGCikBMzg4TcS5cKofMga9YTfwhl6R9XLDZkphE3p2am6ALNORRu6BReeMLuNpUSiuRX5HVejqMG8cqi9QoNkTILcv5IfnqsnUMW8eQuV957MDN9tqK-PeEGAgu7KKffu9spOmO_tDqx4eTZ1RRybgLXFfjQJGtAtJ/s1600/cynet.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjdIDAz_jv4nzLo4jY6zEugmmsGCikBMzg4TcS5cKofMga9YTfwhl6R9XLDZkphE3p2am6ALNORRu6BReeMLuNpUSiuRX5HVejqMG8cqi9QoNkTILcv5IfnqsnUMW8eQuV957MDN9tqK-PeEGAgu7KKffu9spOmO_tDqx4eTZ1RRybgLXFfjQJGtAtJ/s1600/cynet.png"
+        },
+        {
+          "id": "https://thehackernews.com/2023/03/gmail-and-google-calendar-now-support.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Google has announced the general availability of client-side encryption (CSE) for Gmail and Calendar, months after piloting the feature in late 2022.\nThe data privacy controls enable \"even more organizations to become arbiters of their own data and the sole party deciding who has access to it,\" Google's Ganesh Chilakapati and Andy Wen said.\nTo that end, users can send and receive emails or",
+          "link": "https://thehackernews.com/2023/03/gmail-and-google-calendar-now-support.html",
+          "publishedOn": "2023-03-01T09:55:00.000Z",
+          "wordCount": null,
+          "title": "Gmail and Google Calendar Now Support Client-Side Encryption (CSE) to Boost Data Privacy",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjwv7wEiti91GsOEl2_1qHKxkSNs7dTWyvrpGnExN23loi3UR2CuKYEDcTmzJeISLZ2TXBsybjCJjGsHAwqD64rNFWq5oSd1-W5EGGFCWISh__cGwzc8A_XPUlpOo2TKLhJIk8fUNGRh2ndWkmhFTKJbmDofB_KrPXVoML9jZvBMi-MeJ0DCOA8g3Ax/s1600/Google.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjwv7wEiti91GsOEl2_1qHKxkSNs7dTWyvrpGnExN23loi3UR2CuKYEDcTmzJeISLZ2TXBsybjCJjGsHAwqD64rNFWq5oSd1-W5EGGFCWISh__cGwzc8A_XPUlpOo2TKLhJIk8fUNGRh2ndWkmhFTKJbmDofB_KrPXVoML9jZvBMi-MeJ0DCOA8g3Ax/s1600/Google.png"
+        },
+        {
+          "id": "https://thehackernews.com/2023/03/parallax-rat-targeting-cryptocurrency.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Cryptocurrency companies are being targeted as part of a new campaign that delivers a remote access trojan called Parallax RAT.\nThe malware \"uses injection techniques to hide within legitimate processes, making it difficult to detect,\" Uptycs said in a new report. \"Once it has been successfully injected, attackers can interact with their victim via Windows Notepad that likely serves as a",
+          "link": "https://thehackernews.com/2023/03/parallax-rat-targeting-cryptocurrency.html",
+          "publishedOn": "2023-03-01T06:11:00.000Z",
+          "wordCount": null,
+          "title": "Parallax RAT Targeting Cryptocurrency Firms with Sophisticated Injection Techniques",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqezNklGIEGTNJ1fW7JaSrKf7hSGeIT0gv5ICchgiijntx86BgoYj3KuFP3agp0ImetqqOPDzx2d3JRdMh-OvxLdIZyYIz9lYCh9ya9iFFXhznXCws2S7ug_znCyRHQnp6IiyRAXwksS-Js7XJG_uvBcV5I6m6SBX9Xeu8MruV_wrxQ0w-SKT8OgSb/s1600/trojan.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqezNklGIEGTNJ1fW7JaSrKf7hSGeIT0gv5ICchgiijntx86BgoYj3KuFP3agp0ImetqqOPDzx2d3JRdMh-OvxLdIZyYIz9lYCh9ya9iFFXhznXCws2S7ug_znCyRHQnp6IiyRAXwksS-Js7XJG_uvBcV5I6m6SBX9Xeu8MruV_wrxQ0w-SKT8OgSb/s1600/trojan.png"
+        },
         {
           "id": "https://thehackernews.com/2023/02/bitdefender-releases-free-decryptor-for.html",
           "author": "info@thehackernews.com (The Hacker News)",
