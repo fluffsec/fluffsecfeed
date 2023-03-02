@@ -54,76 +54,6 @@
           "wordCount": 2819,
           "title": "AA23-039A: ESXiArgs Ransomware Virtual Machine Recovery Guidance",
           "imageUrl": null
-        },
-        {
-          "id": "/node/17121",
-          "author": "CISA",
-          "description": "",
-          "link": "https://www.cisa.gov/news-events/cybersecurity-advisories/aa23-025a",
-          "publishedOn": "2023-01-31T21:32:46.000Z",
-          "wordCount": 2198,
-          "title": "Untitled",
-          "imageUrl": null
-        },
-        {
-          "id": "/node/17120",
-          "author": "CISA",
-          "description": "",
-          "link": "https://www.cisa.gov/news-events/cybersecurity-advisories/aa22-335a",
-          "publishedOn": "2023-01-31T21:32:46.000Z",
-          "wordCount": 3451,
-          "title": "Untitled",
-          "imageUrl": null
-        },
-        {
-          "id": "/node/17118",
-          "author": "CISA",
-          "description": "",
-          "link": "https://www.cisa.gov/news-events/cybersecurity-advisories/aa22-321a",
-          "publishedOn": "2023-01-31T21:32:46.000Z",
-          "wordCount": 3515,
-          "title": "Untitled",
-          "imageUrl": null
-        },
-        {
-          "id": "/node/17117",
-          "author": "CISA",
-          "description": "",
-          "link": "https://www.cisa.gov/news-events/cybersecurity-advisories/aa22-320a",
-          "publishedOn": "2023-01-31T21:32:46.000Z",
-          "wordCount": 4014,
-          "title": "Untitled",
-          "imageUrl": null
-        },
-        {
-          "id": "/node/17116",
-          "author": "CISA",
-          "description": "",
-          "link": "https://www.cisa.gov/news-events/cybersecurity-advisories/aa22-294a",
-          "publishedOn": "2023-01-31T21:32:46.000Z",
-          "wordCount": 2928,
-          "title": "Untitled",
-          "imageUrl": null
-        },
-        {
-          "id": "/node/17114",
-          "author": "CISA",
-          "description": "",
-          "link": "https://www.cisa.gov/news-events/cybersecurity-advisories/aa22-279a",
-          "publishedOn": "2023-01-31T21:32:46.000Z",
-          "wordCount": 3341,
-          "title": "Untitled",
-          "imageUrl": null
-        },
-        {
-          "id": "/node/17113",
-          "author": "CISA",
-          "description": "",
-          "link": "https://www.cisa.gov/news-events/cybersecurity-advisories/aa22-277a",
-          "publishedOn": "2023-01-31T21:32:46.000Z",
-          "wordCount": 5137,
-          "title": "Untitled",
-          "imageUrl": null
         }
       ]
     },
@@ -3972,16 +3902,6 @@
           "wordCount": 2113,
           "title": "BlueHat 2023: Connecting the security research community with Microsoft",
           "imageUrl": null
-        },
-        {
-          "id": "/blog/2023/02/threat-actor-consent-phishing-campaign-abusing-the-verified-publisher-process-ja/",
-          "author": null,
-          "description": "本ブログは、Microsoft Investigation – Threat actor consent phishing campaign abusing the verified publisher process の抄訳版です。最新の情報は原文を参照してくださ",
-          "link": "https://msrc-blog.microsoft.com/blog/2023/02/threat-actor-consent-phishing-campaign-abusing-the-verified-publisher-process-ja/",
-          "publishedOn": "2023-02-01T00:00:00.000Z",
-          "wordCount": 2113,
-          "title": "Microsoft の調査 – 検証済みの発行者確認を悪用する脅威アクターの同意フィッシング キャンペーンについて",
-          "imageUrl": null
         }
       ]
     },
@@ -3990,6 +3910,16 @@
       "feedUrl": "https://blog.knowbe4.com/rss.xml",
       "siteUrl": "https://blog.knowbe4.com",
       "articles": [
+        {
+          "id": "https://blog.knowbe4.com/eye-opener-businessweek-the-satellite-hack-everyone-is-finally-talking-about",
+          "author": "Stu Sjouwerman",
+          "description": "This morning, Bloomberg News pointed at a brand new article at BusinessWeek, one of their media properties. This is an excellent article that exposes the vulnerabilities when communications systems are designed without built-in security from the get-go. It is an excellent wake-up call for your C-level execs and powerful budget ammo.",
+          "link": "https://blog.knowbe4.com/eye-opener-businessweek-the-satellite-hack-everyone-is-finally-talking-about",
+          "publishedOn": "2023-03-02T12:09:33.000Z",
+          "wordCount": 2295,
+          "title": "[Eye Opener] Businessweek: The Satellite Hack Everyone Is Finally Talking About",
+          "imageUrl": "https://blog.knowbe4.com/hubfs/satellites-over-europe-courtesy-Airbus.jpg#keepProtocol"
+        },
         {
           "id": "https://blog.knowbe4.com/remediating-email-based-cyberattacks-cost-1-million",
           "author": "Stu Sjouwerman",
@@ -4407,6 +4337,70 @@
       "feedUrl": "https://thehackernews.com/feeds/posts/default",
       "siteUrl": "https://thehackernews.com",
       "articles": [
+        {
+          "id": "https://thehackernews.com/2023/03/new-cryptojacking-campaign-leverages.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Misconfigured Redis database servers are the target of a novel cryptojacking campaign that leverages a legitimate and open source command-line file transfer service to implement its attack.\n\"Underpinning this campaign was the use of transfer[.]sh,\" Cado Security said in a report shared with The Hacker News. \"It's possible that it's an attempt at evading detections based on other common code",
+          "link": "https://thehackernews.com/2023/03/new-cryptojacking-campaign-leverages.html",
+          "publishedOn": "2023-03-02T11:39:00.000Z",
+          "wordCount": null,
+          "title": "New Cryptojacking Campaign Leverages Misconfigured Redis Database Servers",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhuI3j8HG3_G4EANm4h34ocUQZFAa01h981bdDsW9Kdc4ZJg21HOmdyBJHxUohyzMoNG8KXo4JXio4q0Fjw-9fmS0IrSRDdrHNKKjxbQRwtBt5zB4Vl4_-s3a0J4Fr6d5Z-z1__d_Y-HQY3GhhJb8mr4ZNtQqLSU9jzRGJj49PvxOhIUDdzIwCv_h62/s1600/redis.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhuI3j8HG3_G4EANm4h34ocUQZFAa01h981bdDsW9Kdc4ZJg21HOmdyBJHxUohyzMoNG8KXo4JXio4q0Fjw-9fmS0IrSRDdrHNKKjxbQRwtBt5zB4Vl4_-s3a0J4Fr6d5Z-z1__d_Y-HQY3GhhJb8mr4ZNtQqLSU9jzRGJj49PvxOhIUDdzIwCv_h62/s1600/redis.png"
+        },
+        {
+          "id": "https://thehackernews.com/2023/03/2023-browser-security-report-uncovers.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "As a primary working interface, the browser plays a significant role in today's corporate environment. The browser is constantly used by employees to access websites, SaaS applications and internal applications, from both managed and unmanaged devices. A new report published by LayerX, a browser security vendor, finds that attackers are exploiting this reality and are targeting it in increasing",
+          "link": "https://thehackernews.com/2023/03/2023-browser-security-report-uncovers.html",
+          "publishedOn": "2023-03-02T11:35:00.000Z",
+          "wordCount": null,
+          "title": "2023 Browser Security Report Uncovers Major Browsing Risks and Blind Spots",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiTgzUJ85WIs0n4hjHN_DMdHX9p6nOJtWsBm-KSbcvMrU9XdiHPgtba5lK4IgbodjkI-BFdrYfDfjSGTotYF2p1JOYpYXjTzMTgBO91nhPYUd3oi8UX6UA_Ifb2VqVA2qh7T4rDh9cGIW5Bi25EjCUL56xYq42ZBn5ho_1qj2fHn7DAEmB6cwoXAgoKzQ/s1600/layerx.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiTgzUJ85WIs0n4hjHN_DMdHX9p6nOJtWsBm-KSbcvMrU9XdiHPgtba5lK4IgbodjkI-BFdrYfDfjSGTotYF2p1JOYpYXjTzMTgBO91nhPYUd3oi8UX6UA_Ifb2VqVA2qh7T4rDh9cGIW5Bi25EjCUL56xYq42ZBn5ho_1qj2fHn7DAEmB6cwoXAgoKzQ/s1600/layerx.png"
+        },
+        {
+          "id": "https://thehackernews.com/2023/03/experts-identify-fully-featured-info.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "A malicious Python package uploaded to the Python Package Index (PyPI) has been found to contain a fully-featured information stealer and remote access trojan.\nThe package, named colourfool, was identified by Kroll's Cyber Threat Intelligence team, with the company calling the malware Colour-Blind.\n\"The 'Colour-Blind' malware points to the democratization of cybercrime that could lead to an",
+          "link": "https://thehackernews.com/2023/03/experts-identify-fully-featured-info.html",
+          "publishedOn": "2023-03-02T11:21:00.000Z",
+          "wordCount": null,
+          "title": "Experts Identify Fully-Featured Info Stealer and Trojan in Python Package on PyPI",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgj07sG1daECtzoh5GovzhXuUeHZGaALlsSvTVUobQhXFE_bTeJubKrSR2NbIiOBj5WUMJlz0RRKrqw_dNyBYxFfEbQj-IbjkVVRF1S7TuqemiY3VnoYV-EtrMrhamCBH8QbH6cutnEAz8mAxg3WEqtunruLRpT8fnAEmXYcGHRRtcyy3Wb1veAPZsV/s1600/python.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgj07sG1daECtzoh5GovzhXuUeHZGaALlsSvTVUobQhXFE_bTeJubKrSR2NbIiOBj5WUMJlz0RRKrqw_dNyBYxFfEbQj-IbjkVVRF1S7TuqemiY3VnoYV-EtrMrhamCBH8QbH6cutnEAz8mAxg3WEqtunruLRpT8fnAEmXYcGHRRtcyy3Wb1veAPZsV/s1600/python.png"
+        },
+        {
+          "id": "https://thehackernews.com/2023/03/sysupdate-malware-strikes-again-with.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "The threat actor known as Lucky Mouse has developed a Linux version of a malware toolkit called SysUpdate, expanding on its ability to target devices running the operating system.\nThe oldest version of the updated artifact dates back to July 2022, with the malware incorporating new features designed to evade security software and resist reverse engineering.\nCybersecurity company Trend Micro said",
+          "link": "https://thehackernews.com/2023/03/sysupdate-malware-strikes-again-with.html",
+          "publishedOn": "2023-03-02T08:03:00.000Z",
+          "wordCount": null,
+          "title": "SysUpdate Malware Strikes Again with Linux Version and New Evasion Tactics",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgP0tpznne8bs4XumK8ubKrsMK2QaVG_QowmWGoIQZgyWakbVMe_6YpNUOkq4VjYY5qPOCXQe7cAqnMTrSCSJcj7Ls6bJJj2CpfqT3OjmLaIV2NkaflnrQVaDQX1aYTUHREgx7QneDlZy2WU-BlJbD6vddHJgUMV4phWXm9luxQFLcCaEHunAeRMT1Y/s1600/linux.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgP0tpznne8bs4XumK8ubKrsMK2QaVG_QowmWGoIQZgyWakbVMe_6YpNUOkq4VjYY5qPOCXQe7cAqnMTrSCSJcj7Ls6bJJj2CpfqT3OjmLaIV2NkaflnrQVaDQX1aYTUHREgx7QneDlZy2WU-BlJbD6vddHJgUMV4phWXm9luxQFLcCaEHunAeRMT1Y/s1600/linux.jpg"
+        },
         {
           "id": "https://thehackernews.com/2023/03/critical-flaw-in-cisco-ip-phone-series.html",
           "author": "info@thehackernews.com (The Hacker News)",

@@ -2,10 +2,65 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-03-02T07:19:37.837Z</updated>
+    <updated>2023-03-02T13:34:48.859Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[[Eye Opener] Businessweek: The Satellite Hack Everyone Is Finally Talking About]]></title>
+        <id>https://blog.knowbe4.com/eye-opener-businessweek-the-satellite-hack-everyone-is-finally-talking-about</id>
+        <link href="https://blog.knowbe4.com/eye-opener-businessweek-the-satellite-hack-everyone-is-finally-talking-about"/>
+        <updated>2023-03-02T12:09:33.000Z</updated>
+        <summary type="html"><![CDATA[This morning, Bloomberg News pointed at a brand new article at BusinessWeek, one of their media properties. This is an excellent article that exposes the vulnerabilities when communications systems are designed without built-in security from the get-go. It is an excellent wake-up call for your C-level execs and powerful budget ammo.]]></summary>
+        <author>
+            <name>Stu Sjouwerman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New Cryptojacking Campaign Leverages Misconfigured Redis Database Servers]]></title>
+        <id>https://thehackernews.com/2023/03/new-cryptojacking-campaign-leverages.html</id>
+        <link href="https://thehackernews.com/2023/03/new-cryptojacking-campaign-leverages.html"/>
+        <updated>2023-03-02T11:39:00.000Z</updated>
+        <summary type="html"><![CDATA[Misconfigured Redis database servers are the target of a novel cryptojacking campaign that leverages a legitimate and open source command-line file transfer service to implement its attack.
+"Underpinning this campaign was the use of transfer[.]sh," Cado Security said in a report shared with The Hacker News. "It's possible that it's an attempt at evading detections based on other common code]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2023 Browser Security Report Uncovers Major Browsing Risks and Blind Spots]]></title>
+        <id>https://thehackernews.com/2023/03/2023-browser-security-report-uncovers.html</id>
+        <link href="https://thehackernews.com/2023/03/2023-browser-security-report-uncovers.html"/>
+        <updated>2023-03-02T11:35:00.000Z</updated>
+        <summary type="html"><![CDATA[As a primary working interface, the browser plays a significant role in today's corporate environment. The browser is constantly used by employees to access websites, SaaS applications and internal applications, from both managed and unmanaged devices. A new report published by LayerX, a browser security vendor, finds that attackers are exploiting this reality and are targeting it in increasing]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Experts Identify Fully-Featured Info Stealer and Trojan in Python Package on PyPI]]></title>
+        <id>https://thehackernews.com/2023/03/experts-identify-fully-featured-info.html</id>
+        <link href="https://thehackernews.com/2023/03/experts-identify-fully-featured-info.html"/>
+        <updated>2023-03-02T11:21:00.000Z</updated>
+        <summary type="html"><![CDATA[A malicious Python package uploaded to the Python Package Index (PyPI) has been found to contain a fully-featured information stealer and remote access trojan.
+The package, named colourfool, was identified by Kroll's Cyber Threat Intelligence team, with the company calling the malware Colour-Blind.
+"The 'Colour-Blind' malware points to the democratization of cybercrime that could lead to an]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SysUpdate Malware Strikes Again with Linux Version and New Evasion Tactics]]></title>
+        <id>https://thehackernews.com/2023/03/sysupdate-malware-strikes-again-with.html</id>
+        <link href="https://thehackernews.com/2023/03/sysupdate-malware-strikes-again-with.html"/>
+        <updated>2023-03-02T08:03:00.000Z</updated>
+        <summary type="html"><![CDATA[The threat actor known as Lucky Mouse has developed a Linux version of a malware toolkit called SysUpdate, expanding on its ability to target devices running the operating system.
+The oldest version of the updated artifact dates back to July 2022, with the malware incorporating new features designed to evade security software and resist reverse engineering.
+Cybersecurity company Trend Micro said]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Critical Flaw in Cisco IP Phone Series Exposes Users to Command Injection Attack]]></title>
         <id>https://thehackernews.com/2023/03/critical-flaw-in-cisco-ip-phone-series.html</id>
@@ -5023,79 +5078,6 @@ A]]></summary>
         <updated>2023-02-01T05:04:22.000Z</updated>
         <author>
             <name>Public KB</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft の調査 – 検証済みの発行者確認を悪用する脅威アクターの同意フィッシング キャンペーンについて]]></title>
-        <id>/blog/2023/02/threat-actor-consent-phishing-campaign-abusing-the-verified-publisher-process-ja/</id>
-        <link href="https://msrc-blog.microsoft.com/blog/2023/02/threat-actor-consent-phishing-campaign-abusing-the-verified-publisher-process-ja/"/>
-        <updated>2023-02-01T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[本ブログは、Microsoft Investigation – Threat actor consent phishing campaign abusing the verified publisher process の抄訳版です。最新の情報は原文を参照してくださ]]></summary>
-        <author>
-            <name>Microsoft Security Response Center</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Untitled]]></title>
-        <id>/node/17121</id>
-        <link href="https://www.cisa.gov/news-events/cybersecurity-advisories/aa23-025a"/>
-        <updated>2023-01-31T21:32:46.000Z</updated>
-        <author>
-            <name>CISA</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Untitled]]></title>
-        <id>/node/17120</id>
-        <link href="https://www.cisa.gov/news-events/cybersecurity-advisories/aa22-335a"/>
-        <updated>2023-01-31T21:32:46.000Z</updated>
-        <author>
-            <name>CISA</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Untitled]]></title>
-        <id>/node/17118</id>
-        <link href="https://www.cisa.gov/news-events/cybersecurity-advisories/aa22-321a"/>
-        <updated>2023-01-31T21:32:46.000Z</updated>
-        <author>
-            <name>CISA</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Untitled]]></title>
-        <id>/node/17117</id>
-        <link href="https://www.cisa.gov/news-events/cybersecurity-advisories/aa22-320a"/>
-        <updated>2023-01-31T21:32:46.000Z</updated>
-        <author>
-            <name>CISA</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Untitled]]></title>
-        <id>/node/17116</id>
-        <link href="https://www.cisa.gov/news-events/cybersecurity-advisories/aa22-294a"/>
-        <updated>2023-01-31T21:32:46.000Z</updated>
-        <author>
-            <name>CISA</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Untitled]]></title>
-        <id>/node/17114</id>
-        <link href="https://www.cisa.gov/news-events/cybersecurity-advisories/aa22-279a"/>
-        <updated>2023-01-31T21:32:46.000Z</updated>
-        <author>
-            <name>CISA</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Untitled]]></title>
-        <id>/node/17113</id>
-        <link href="https://www.cisa.gov/news-events/cybersecurity-advisories/aa22-277a"/>
-        <updated>2023-01-31T21:32:46.000Z</updated>
-        <author>
-            <name>CISA</name>
         </author>
     </entry>
 </feed>
