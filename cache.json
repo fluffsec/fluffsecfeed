@@ -1,10 +1,40 @@
 {
   "sources": [
     {
-      "title": "CISA Alerts",
+      "title": "CISA Cybersecurity Advisories",
       "feedUrl": "https://us-cert.cisa.gov/ncas/alerts.xml",
-      "siteUrl": "https://us-cert.cisa.gov/",
+      "siteUrl": "https://www.cisa.gov/",
       "articles": [
+        {
+          "id": "/node/17470",
+          "author": "CISA",
+          "description": "",
+          "link": "https://www.cisa.gov/news-events/cybersecurity-advisories/aa23-059a",
+          "publishedOn": "2023-02-24T19:04:05.000Z",
+          "wordCount": 8592,
+          "title": "Untitled",
+          "imageUrl": null
+        },
+        {
+          "id": "/node/17286",
+          "author": "CISA",
+          "description": "",
+          "link": "https://www.cisa.gov/news-events/cybersecurity-advisories/aa23-040a",
+          "publishedOn": "2023-02-16T20:45:26.000Z",
+          "wordCount": 3949,
+          "title": "Untitled",
+          "imageUrl": null
+        },
+        {
+          "id": "/node/17270",
+          "author": "CISA",
+          "description": "",
+          "link": "https://www.cisa.gov/news-events/cybersecurity-advisories/aa23-039a",
+          "publishedOn": "2023-02-16T18:50:04.000Z",
+          "wordCount": 2537,
+          "title": "Untitled",
+          "imageUrl": null
+        },
         {
           "id": "18341 at https://us-cert.cisa.gov",
           "author": "CISA",
@@ -26,22 +56,182 @@
           "imageUrl": null
         },
         {
-          "id": "18304 at https://us-cert.cisa.gov",
+          "id": "/node/17121",
           "author": "CISA",
-          "description": "Original release date: January 25, 2023 | Last revised: January 26, 2023\nSummary\nThe Cybersecurity and Infrastructure Security Agency (CISA), National Security Agency (NSA), and Multi-State Information Sharing and Analysis Center (MS-ISAC) (hereafter referred to as the “authoring organizations”) are releasing this joint Cybersecurity Advisory (CSA) to warn network defenders about malicious use of legitimate remote monitoring and management (RMM) software. In October 2022, CISA identified a widespread cyber campaign involving the malicious use of legitimate RMM software. Specifically, cyber criminal actors sent phishing emails that led to the download of legitimate RMM software—ScreenConnect (now ConnectWise Control) and AnyDesk—which the actors used in a refund scam to steal money from vic…",
-          "link": "https://us-cert.cisa.gov/ncas/alerts/aa23-025a",
-          "publishedOn": "2023-01-25T17:55:00.000Z",
-          "wordCount": 2484,
-          "title": "AA23-025A: Protecting Against Malicious Use of Remote Monitoring and Management Software",
+          "description": "",
+          "link": "https://www.cisa.gov/news-events/cybersecurity-advisories/aa23-025a",
+          "publishedOn": "2023-01-31T21:32:46.000Z",
+          "wordCount": 2198,
+          "title": "Untitled",
+          "imageUrl": null
+        },
+        {
+          "id": "/node/17120",
+          "author": "CISA",
+          "description": "",
+          "link": "https://www.cisa.gov/news-events/cybersecurity-advisories/aa22-335a",
+          "publishedOn": "2023-01-31T21:32:46.000Z",
+          "wordCount": 3451,
+          "title": "Untitled",
+          "imageUrl": null
+        },
+        {
+          "id": "/node/17118",
+          "author": "CISA",
+          "description": "",
+          "link": "https://www.cisa.gov/news-events/cybersecurity-advisories/aa22-321a",
+          "publishedOn": "2023-01-31T21:32:46.000Z",
+          "wordCount": 3515,
+          "title": "Untitled",
+          "imageUrl": null
+        },
+        {
+          "id": "/node/17117",
+          "author": "CISA",
+          "description": "",
+          "link": "https://www.cisa.gov/news-events/cybersecurity-advisories/aa22-320a",
+          "publishedOn": "2023-01-31T21:32:46.000Z",
+          "wordCount": 4014,
+          "title": "Untitled",
+          "imageUrl": null
+        },
+        {
+          "id": "/node/17116",
+          "author": "CISA",
+          "description": "",
+          "link": "https://www.cisa.gov/news-events/cybersecurity-advisories/aa22-294a",
+          "publishedOn": "2023-01-31T21:32:46.000Z",
+          "wordCount": 2928,
+          "title": "Untitled",
+          "imageUrl": null
+        },
+        {
+          "id": "/node/17114",
+          "author": "CISA",
+          "description": "",
+          "link": "https://www.cisa.gov/news-events/cybersecurity-advisories/aa22-279a",
+          "publishedOn": "2023-01-31T21:32:46.000Z",
+          "wordCount": 3341,
+          "title": "Untitled",
+          "imageUrl": null
+        },
+        {
+          "id": "/node/17113",
+          "author": "CISA",
+          "description": "",
+          "link": "https://www.cisa.gov/news-events/cybersecurity-advisories/aa22-277a",
+          "publishedOn": "2023-01-31T21:32:46.000Z",
+          "wordCount": 5137,
+          "title": "Untitled",
           "imageUrl": null
         }
       ]
     },
     {
-      "title": "CISA Current Activity",
+      "title": "Alerts",
       "feedUrl": "https://us-cert.cisa.gov/ncas/current-activity.xml",
-      "siteUrl": "https://us-cert.cisa.gov/",
+      "siteUrl": "https://www.cisa.gov/",
       "articles": [
+        {
+          "id": "/node/17458",
+          "author": "CISA",
+          "description": "",
+          "link": "https://www.cisa.gov/news-events/alerts/2023/02/24/us-cert-and-ics-cert-transition-cisa",
+          "publishedOn": "2023-03-02T02:34:04.354Z",
+          "wordCount": 557,
+          "title": "Untitled",
+          "imageUrl": null
+        },
+        {
+          "id": "/node/17467",
+          "author": "CISA",
+          "description": "",
+          "link": "https://www.cisa.gov/news-events/alerts/2023/02/23/cisco-releases-security-advisories-multiple-products",
+          "publishedOn": "2023-03-02T02:34:04.342Z",
+          "wordCount": 583,
+          "title": "Untitled",
+          "imageUrl": null
+        },
+        {
+          "id": "/node/17482",
+          "author": "CISA",
+          "description": "",
+          "link": "https://www.cisa.gov/news-events/alerts/2023/02/28/cisa-releases-three-industrial-control-systems-advisories",
+          "publishedOn": "2023-03-02T02:34:03.666Z",
+          "wordCount": 544,
+          "title": "Untitled",
+          "imageUrl": null
+        },
+        {
+          "id": "/node/17476",
+          "author": "CISA",
+          "description": "",
+          "link": "https://www.cisa.gov/news-events/alerts/2023/02/27/cisa-adds-one-known-exploited-vulnerability-catalog",
+          "publishedOn": "2023-03-02T02:34:03.627Z",
+          "wordCount": 657,
+          "title": "Untitled",
+          "imageUrl": null
+        },
+        {
+          "id": "/node/17481",
+          "author": "CISA",
+          "description": "",
+          "link": "https://www.cisa.gov/news-events/alerts/2023/02/28/cisa-red-team-shares-key-findings-improve-monitoring-and-hardening-networks",
+          "publishedOn": "2023-03-02T02:34:03.606Z",
+          "wordCount": 649,
+          "title": "Untitled",
+          "imageUrl": null
+        },
+        {
+          "id": "/node/17407",
+          "author": "CISA",
+          "description": "",
+          "link": "https://www.cisa.gov/news-events/alerts/2023/02/21/cisa-adds-three-known-exploited-vulnerabilities-catalog",
+          "publishedOn": "2023-03-02T02:34:03.576Z",
+          "wordCount": 672,
+          "title": "Untitled",
+          "imageUrl": null
+        },
+        {
+          "id": "/node/17465",
+          "author": "CISA",
+          "description": "",
+          "link": "https://www.cisa.gov/news-events/alerts/2023/02/23/cisa-releases-three-industrial-control-systems-advisories",
+          "publishedOn": "2023-03-02T02:34:03.517Z",
+          "wordCount": 543,
+          "title": "Untitled",
+          "imageUrl": null
+        },
+        {
+          "id": "/node/17455",
+          "author": "CISA",
+          "description": "",
+          "link": "https://www.cisa.gov/news-events/alerts/2023/02/23/cisa-urges-increased-vigilance-one-year-after-russias-invasion-ukraine",
+          "publishedOn": "2023-03-02T02:34:03.462Z",
+          "wordCount": 618,
+          "title": "Untitled",
+          "imageUrl": null
+        },
+        {
+          "id": "/node/17469",
+          "author": "CISA",
+          "description": "",
+          "link": "https://www.cisa.gov/news-events/alerts/2023/02/23/vmware-releases-security-updates-carbon-black-app-control",
+          "publishedOn": "2023-03-02T02:34:03.407Z",
+          "wordCount": 542,
+          "title": "Untitled",
+          "imageUrl": null
+        },
+        {
+          "id": "/node/17491",
+          "author": "CISA",
+          "description": "",
+          "link": "https://www.cisa.gov/news-events/alerts/2023/03/01/cisa-releases-decider-tool-help-mitre-attck-mapping",
+          "publishedOn": "2023-03-02T02:34:03.367Z",
+          "wordCount": 590,
+          "title": "Untitled",
+          "imageUrl": null
+        },
         {
           "id": "18387 at https://us-cert.cisa.gov",
           "author": "CISA",
@@ -339,6 +529,116 @@
       "feedUrl": "https://www.darkreading.com/rss.xml",
       "siteUrl": "https://www.darkreading.com",
       "articles": [
+        {
+          "id": "https://www.darkreading.com/dr-tech/ermetic-adds-kubernetes-security-to-cnapp",
+          "author": "Dark Reading Staff, Dark Reading",
+          "description": "The automated capabilities can discover misconfigurations, compliance violations, and risk or excessive privileges in Kubernetes clusters.",
+          "link": "https://www.darkreading.com/dr-tech/ermetic-adds-kubernetes-security-to-cnapp",
+          "publishedOn": "2023-03-01T23:50:00.000Z",
+          "wordCount": 11965,
+          "title": "Ermetic Adds Kubernetes Security to CNAPP",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blte161b23f0fd3a84b/60b1ea374e7eb868c4c6a293/dr_staff_125x125.jpg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blte161b23f0fd3a84b/60b1ea374e7eb868c4c6a293/dr_staff_125x125.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/operations/octillo-launches-women-s-cybersecurity-scholarship-in-partnership-with-the-center-for-cyber-safety-and-education",
+          "author": null,
+          "description": "",
+          "link": "https://www.darkreading.com/operations/octillo-launches-women-s-cybersecurity-scholarship-in-partnership-with-the-center-for-cyber-safety-and-education",
+          "publishedOn": "2023-03-01T22:58:00.000Z",
+          "wordCount": 12353,
+          "title": "Octillo Launches Women's Cybersecurity Scholarship in Partnership With the Center for Cyber Safety and Education",
+          "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/threat-intelligence/docontrol-s-2023-saas-security-threat-landscape-report-finds-50-of-enterprises-and-75-of-mid-market-organizations-have-exposed-public-saas-assets",
+          "author": null,
+          "description": "Volume of SaaS assets and events magnifies risks associated with manual management and remediation.",
+          "link": "https://www.darkreading.com/threat-intelligence/docontrol-s-2023-saas-security-threat-landscape-report-finds-50-of-enterprises-and-75-of-mid-market-organizations-have-exposed-public-saas-assets",
+          "publishedOn": "2023-03-01T22:50:00.000Z",
+          "wordCount": 15298,
+          "title": "DoControl's 2023 SaaS Security Threat Landscape Report Finds Enterprises and Mid-Market Organizations Have Exposed Public SaaS Assets",
+          "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/edge-articles/visibility-is-as-vital-as-zero-trust-for-low-code-no-code-security",
+          "author": "Manav Mital, CEO, Cyral",
+          "description": "By authenticating and authorizing every application, and by maintaining data lineage for auditing, enterprises can reduce the chances of data exfiltration.",
+          "link": "https://www.darkreading.com/edge-articles/visibility-is-as-vital-as-zero-trust-for-low-code-no-code-security",
+          "publishedOn": "2023-03-01T22:40:00.000Z",
+          "wordCount": 13695,
+          "title": "Visibility Is as Vital as Zero Trust for Low-Code/No-Code Security",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blte386aa35c47e8fcb/63fe67ae5038391034a332fc/manav-mital-sq.png",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blte386aa35c47e8fcb/63fe67ae5038391034a332fc/manav-mital-sq.png"
+        },
+        {
+          "id": "https://www.darkreading.com/attacks-breaches/forescout-addresses-modern-secops-challenges-with-launch-of-forescout-xdr",
+          "author": null,
+          "description": "New eXtended Detection and Response Solution is 450X more efficient than typical SOCs at converting telemetry and logs into actionable alerts.",
+          "link": "https://www.darkreading.com/attacks-breaches/forescout-addresses-modern-secops-challenges-with-launch-of-forescout-xdr",
+          "publishedOn": "2023-03-01T22:40:00.000Z",
+          "wordCount": 13615,
+          "title": "Forescout Addresses Modern SecOps Challenges With Launch of Forescout XDR",
+          "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/application-security/fastly-launches-managed-security-service-to-protect-enterprises-from-rising-web-application-attacks",
+          "author": null,
+          "description": "",
+          "link": "https://www.darkreading.com/application-security/fastly-launches-managed-security-service-to-protect-enterprises-from-rising-web-application-attacks",
+          "publishedOn": "2023-03-01T22:30:00.000Z",
+          "wordCount": 13318,
+          "title": "Fastly Launches Managed Security Service to Protect Enterprises From Rising Web Application Attacks",
+          "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/threat-intelligence/dish-blames-ransomware-attack-disruptions-internal-systems-call-center-services",
+          "author": "Jai Vijayan, Contributing Writer, Dark Reading",
+          "description": "The cyberattackers might have potentially accessed customer information, the service provider warns.",
+          "link": "https://www.darkreading.com/threat-intelligence/dish-blames-ransomware-attack-disruptions-internal-systems-call-center-services",
+          "publishedOn": "2023-03-01T22:25:00.000Z",
+          "wordCount": 13996,
+          "title": "Dish Blames Ransomware Attack for Disruptions of Internal Systems, Call Center Services",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt02d79fb9a44a4258/60b1e9dd2a25046b35110696/Jai-Vijayan.jpeg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt02d79fb9a44a4258/60b1e9dd2a25046b35110696/Jai-Vijayan.jpeg"
+        },
+        {
+          "id": "https://www.darkreading.com/endpoint/offensive-security-is-now-offsec---refreshed-brand-reflects-future-of-cybersecurity-learning-and-skills-development",
+          "author": null,
+          "description": "Updated OffSec™ identity substantiates the company's commitment to expanding its cybersecurity content and resources to prepare infosec professionals for the future.",
+          "link": "https://www.darkreading.com/endpoint/offensive-security-is-now-offsec---refreshed-brand-reflects-future-of-cybersecurity-learning-and-skills-development",
+          "publishedOn": "2023-03-01T20:40:00.000Z",
+          "wordCount": 13828,
+          "title": "Offensive Security Is Now OffSec - Refresh Reflects Future of Cybersecurity Learning and Skills Development",
+          "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/threat-intelligence/linux-support-expands-cyber-spy-groups-arsenal",
+          "author": "Dark Reading Staff, Dark Reading",
+          "description": "An infamous Chinese cyber-hacking team has extended its SysUpdate malware framework to target Linux systems.",
+          "link": "https://www.darkreading.com/threat-intelligence/linux-support-expands-cyber-spy-groups-arsenal",
+          "publishedOn": "2023-03-01T19:34:00.000Z",
+          "wordCount": 11458,
+          "title": "Linux Support Expands Cyber Spy Group's Arsenal",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blte161b23f0fd3a84b/60b1ea374e7eb868c4c6a293/dr_staff_125x125.jpg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blte161b23f0fd3a84b/60b1ea374e7eb868c4c6a293/dr_staff_125x125.jpg"
+        },
         {
           "id": "https://www.darkreading.com/cloud/what-happened-cyberattack-cloud-services-you-may-never-know",
           "author": "Robert Lemos, Contributing Writer, Dark Reading",
@@ -3603,6 +3903,26 @@
       "feedUrl": "https://msrc-blog.microsoft.com/feed/",
       "siteUrl": "/blog/",
       "articles": [
+        {
+          "id": "/blog/2023/03/azure-kubernetes-service-aks-threat-hunting/",
+          "author": null,
+          "description": "As more businesses shift away from running workloads on dedicated virtual machines to running them inside containers using workload orchestrators like Kubernetes, adversaries have become more interested in them as targets. Moreover, the benefits Kubernetes provides for managing workloads are also extended to adversaries. As adversaries leverage Kubernetes to run their workloads, their understanding of how these platforms work and can be exploited increases.",
+          "link": "https://msrc-blog.microsoft.com/blog/2023/03/azure-kubernetes-service-aks-threat-hunting/",
+          "publishedOn": "2023-03-01T00:00:00.000Z",
+          "wordCount": 2109,
+          "title": "Azure Kubernetes Service (AKS) Threat Hunting",
+          "imageUrl": null
+        },
+        {
+          "id": "/blog/2023/03/configuring-host-level-audit-logging-for-aks-vmss/",
+          "author": null,
+          "description": "This blog post runs you through how to enable and configure Linux audit logging on your Azure Kubernetes Service (AKS) Virtual Machine Scale Set (VMSS) using the Linux auditing subsystem, also known as auditd.\nWarning The information provided below is accurate as of the release date of this blog post (2023-03) and guidance may change in future.",
+          "link": "https://msrc-blog.microsoft.com/blog/2023/03/configuring-host-level-audit-logging-for-aks-vmss/",
+          "publishedOn": "2023-03-01T00:00:00.000Z",
+          "wordCount": 2109,
+          "title": "Configuring host-level audit logging for AKS VMSS",
+          "imageUrl": null
+        },
         {
           "id": "/blog/2023/02/first-steps-in-cheriot-security-research/",
           "author": null,
