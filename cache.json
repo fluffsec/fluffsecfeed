@@ -4408,6 +4408,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2023/03/critical-flaw-in-cisco-ip-phone-series.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Cisco on Wednesday rolled out security updates to address a critical flaw impacting its IP Phone 6800, 7800, 7900, and 8800 Series products.\nThe vulnerability, tracked as CVE-2023-20078, is rated 9.8 out of 10 on the CVSS scoring system and is described as a command injection bug in the web-based management interface arising due to insufficient validation of user-supplied input.\nSuccessful",
+          "link": "https://thehackernews.com/2023/03/critical-flaw-in-cisco-ip-phone-series.html",
+          "publishedOn": "2023-03-02T04:17:00.000Z",
+          "wordCount": null,
+          "title": "Critical Flaw in Cisco IP Phone Series Exposes Users to Command Injection Attack",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgl-qohNH4V4gI0u-vsrL_3MAAflocpEghlUoSOFrFRpzVYba1VnfaGnupQBOklMO1B0hn03bvuiDoysw0c36oirplhz-n_PbvXZWCVEMTS2Lt4xvW5g6_kTggj_FGMKXGy8UqznxN0EnEJ6op4GvonLE5_ApDK2lgg-Qt4JXDCv9yg7z2yKo79cRIR/s1600/ip-phone.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgl-qohNH4V4gI0u-vsrL_3MAAflocpEghlUoSOFrFRpzVYba1VnfaGnupQBOklMO1B0hn03bvuiDoysw0c36oirplhz-n_PbvXZWCVEMTS2Lt4xvW5g6_kTggj_FGMKXGy8UqznxN0EnEJ6op4GvonLE5_ApDK2lgg-Qt4JXDCv9yg7z2yKo79cRIR/s1600/ip-phone.png"
+        },
+        {
           "id": "https://thehackernews.com/2023/03/cybercriminals-targeting-law-firms-with.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Six different law firms were targeted in January and February 2023 as part of two disparate threat campaigns distributing GootLoader and FakeUpdates (aka SocGholish) malware strains.\nGootLoader, active since late 2020, is a first-stage downloader that's capable of delivering a wide range of secondary payloads such as Cobalt Strike and ransomware.\nIt notably employs search engine optimization (",

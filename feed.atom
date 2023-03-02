@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-03-02T02:34:23.909Z</updated>
+    <updated>2023-03-02T07:19:37.837Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Critical Flaw in Cisco IP Phone Series Exposes Users to Command Injection Attack]]></title>
+        <id>https://thehackernews.com/2023/03/critical-flaw-in-cisco-ip-phone-series.html</id>
+        <link href="https://thehackernews.com/2023/03/critical-flaw-in-cisco-ip-phone-series.html"/>
+        <updated>2023-03-02T04:17:00.000Z</updated>
+        <summary type="html"><![CDATA[Cisco on Wednesday rolled out security updates to address a critical flaw impacting its IP Phone 6800, 7800, 7900, and 8800 Series products.
+The vulnerability, tracked as CVE-2023-20078, is rated 9.8 out of 10 on the CVSS scoring system and is described as a command injection bug in the web-based management interface arising due to insufficient validation of user-supplied input.
+Successful]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Untitled]]></title>
         <id>/node/17458</id>
