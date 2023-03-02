@@ -2,10 +2,139 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-03-02T13:34:48.859Z</updated>
+    <updated>2023-03-02T19:17:32.109Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Untitled]]></title>
+        <id>/node/17505</id>
+        <link href="https://www.cisa.gov/news-events/alerts/2023/03/02/cisa-releases-five-industrial-control-systems-advisories"/>
+        <updated>2023-03-02T19:17:16.514Z</updated>
+        <author>
+            <name>CISA</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Untitled]]></title>
+        <id>/node/17496</id>
+        <link href="https://www.cisa.gov/news-events/alerts/2023/03/02/fbi-and-cisa-release-stopransomware-royal-ransomware"/>
+        <updated>2023-03-02T19:17:16.505Z</updated>
+        <author>
+            <name>CISA</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Untitled]]></title>
+        <id>/node/17503</id>
+        <link href="https://www.cisa.gov/news-events/alerts/2023/03/02/cisco-releases-security-advisory-cisco-ip-phones"/>
+        <updated>2023-03-02T19:17:16.470Z</updated>
+        <author>
+            <name>CISA</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What GoDaddy's Years-Long Breach Means for Millions of Clients]]></title>
+        <id>https://www.darkreading.com/risk/what-godaddy-years-long-breach-means-millions-clients</id>
+        <link href="https://www.darkreading.com/risk/what-godaddy-years-long-breach-means-millions-clients"/>
+        <updated>2023-03-02T18:24:00.000Z</updated>
+        <summary type="html"><![CDATA[The same "sophisticated" threat actor has pummeled the domain host on an ongoing basis since 2020, making off with customer logins, source code, and more. Here's what to do.]]></summary>
+        <author>
+            <name>Nate Nelson, Contributing Writer, Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sale of Stolen Credentials and Initial Access Dominate Dark Web Markets]]></title>
+        <id>https://www.darkreading.com/threat-intelligence/sale-of-stolen-credentials-and-initial-access-dominate-dark-web-markets</id>
+        <link href="https://www.darkreading.com/threat-intelligence/sale-of-stolen-credentials-and-initial-access-dominate-dark-web-markets"/>
+        <updated>2023-03-02T18:00:25.000Z</updated>
+        <summary type="html"><![CDATA[Access-as-a-service took off in underground markets with more than 775 million credentials for sale and thousands of ads for access-as-a-service.]]></summary>
+        <author>
+            <name>Robert Lemos, Contributing Writer, Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Everybody Wants Least Privilege, So Why Isn't Anyone Achieving It?]]></title>
+        <id>https://www.darkreading.com/attacks-breaches/everybody-wants-least-privilege-so-why-isn-t-anyone-achieving-it</id>
+        <link href="https://www.darkreading.com/attacks-breaches/everybody-wants-least-privilege-so-why-isn-t-anyone-achieving-it"/>
+        <updated>2023-03-02T18:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Overcoming the obstacles of this security principle can mitigate the damages of an attack.]]></summary>
+        <author>
+            <name>Tarun Thakur, CEO &amp; Co-Founder, Veza</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[5 Ways PhishER Saves You Time and Money]]></title>
+        <id>https://blog.knowbe4.com/5-ways-phisher-saves-you-time-and-money</id>
+        <link href="https://blog.knowbe4.com/5-ways-phisher-saves-you-time-and-money"/>
+        <updated>2023-03-02T17:01:03.000Z</updated>
+        <summary type="html"><![CDATA[Time is the one resource you never get back. Cutting the amount of time between the moment your user reports a suspicious email and when your InfoSec team responds can mean the difference between a risk mitigated and a catastrophic security incident.]]></summary>
+        <author>
+            <name>Stu Sjouwerman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New Report: Inside the High Risk of Third-Party SaaS Apps]]></title>
+        <id>https://www.darkreading.com/cloud/new-report-inside-the-high-risk-of-third-party-saas-apps</id>
+        <link href="https://www.darkreading.com/cloud/new-report-inside-the-high-risk-of-third-party-saas-apps"/>
+        <updated>2023-03-02T17:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A new report from Adaptive Shield looks at the how volume of applications being connected to the SaaS stack and the risk they represent to company data.]]></summary>
+        <author>
+            <name>Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Booking.com's OAuth Implementation Allows Full Account Takeover]]></title>
+        <id>https://www.darkreading.com/vulnerabilities-threats/booking-com-oauth-implementation-full-account-takeover</id>
+        <link href="https://www.darkreading.com/vulnerabilities-threats/booking-com-oauth-implementation-full-account-takeover"/>
+        <updated>2023-03-02T16:16:00.000Z</updated>
+        <summary type="html"><![CDATA[Researchers exploited issues in the authentication protocol to force an open redirection from the popular hotel reservations site when users used Facebook to log in to accounts.]]></summary>
+        <author>
+            <name>Elizabeth Montalbano, Contributor, Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hackers Target Young Gamers: How Your Child Can Cause Business Compromise]]></title>
+        <id>https://www.darkreading.com/remote-workforce/hackers-young-gamers-child-cause-business-compromise</id>
+        <link href="https://www.darkreading.com/remote-workforce/hackers-young-gamers-child-cause-business-compromise"/>
+        <updated>2023-03-02T16:10:59.000Z</updated>
+        <summary type="html"><![CDATA[It's 10 p.m. Do you know what your children are playing? In the age of remote work, hackers are actively targeting kids, with implications for enterprises.]]></summary>
+        <author>
+            <name>Nate Nelson, Contributing Writer, Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[On Shaky Ground: Why Dependencies Will Be Your Downfall]]></title>
+        <id>https://www.darkreading.com/vulnerabilities-threats/on-shaky-ground-why-dependencies-will-be-your-downfall</id>
+        <link href="https://www.darkreading.com/vulnerabilities-threats/on-shaky-ground-why-dependencies-will-be-your-downfall"/>
+        <updated>2023-03-02T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[There's never enough time or staff to scan code repositories. To avoid dependency confusion attacks, use automated CI/CD tools to make fixes in hard-to-manage software dependencies.]]></summary>
+        <author>
+            <name>Nicholas Lang, Threat Research Engineer, Sysdig</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Customer Care Numbers as Phishbait]]></title>
+        <id>https://blog.knowbe4.com/customer-care-numbers-as-phishbait</id>
+        <link href="https://blog.knowbe4.com/customer-care-numbers-as-phishbait"/>
+        <updated>2023-03-02T13:50:50.000Z</updated>
+        <summary type="html"><![CDATA[Researchers at CloudSEK have published a report looking at fraudulent customer service phone numbers in India. The researchers found around 20,000 of these phone numbers targeting users in India. The scammers purchase SIM cards from dark web markets, then trick people into handing over their financial information.]]></summary>
+        <author>
+            <name>Stu Sjouwerman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hackers Exploit Containerized Environments to Steals Proprietary Data and Software]]></title>
+        <id>https://thehackernews.com/2023/03/hackers-exploit-containerized.html</id>
+        <link href="https://thehackernews.com/2023/03/hackers-exploit-containerized.html"/>
+        <updated>2023-03-02T13:40:00.000Z</updated>
+        <summary type="html"><![CDATA[A sophisticated attack campaign dubbed SCARLETEEL is targeting containerized environments to perpetrate theft of proprietary data and software.
+"The attacker exploited a containerized workload and then leveraged it to perform privilege escalation into an AWS account in order to steal proprietary software and credentials," Sysdig said in a new report.
+The advanced cloud attack also entailed the]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[Eye Opener] Businessweek: The Satellite Hack Everyone Is Finally Talking About]]></title>
         <id>https://blog.knowbe4.com/eye-opener-businessweek-the-satellite-hack-everyone-is-finally-talking-about</id>
@@ -898,6 +1027,15 @@ It's estimated that the hackers stole personal data belonging]]></summary>
         <id>/node/17470</id>
         <link href="https://www.cisa.gov/news-events/cybersecurity-advisories/aa23-059a"/>
         <updated>2023-02-24T19:04:05.000Z</updated>
+        <author>
+            <name>CISA</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Untitled]]></title>
+        <id>/node/17466</id>
+        <link href="https://www.cisa.gov/news-events/cybersecurity-advisories/aa23-061a"/>
+        <updated>2023-02-24T17:30:43.000Z</updated>
         <author>
             <name>CISA</name>
         </author>
@@ -5060,24 +5198,6 @@ A]]></summary>
         <summary type="html"><![CDATA[KnowBe4 partners with the Center for Cyber Safety and Education to support Black Americans in recognition of Black History Month to help further education.]]></summary>
         <author>
             <name>Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SA45653 - Cross-site Request Forgery in Login Form]]></title>
-        <id>Cross-site-Request-Forgery-in-Login-Form</id>
-        <link href="https://kb.pulsesecure.net/articles/Pulse_Security_Advisories/Cross-site-Request-Forgery-in-Login-Form"/>
-        <updated>2023-02-01T05:05:19.000Z</updated>
-        <author>
-            <name>Public KB</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SA45654 - Multiple OpenSSL Vulnerabilities in Layer 2 network filtering capabilities]]></title>
-        <id>Multiple-OpenSSL-Vulnerabilities-in-Layer-2-network-filtering-capabilities</id>
-        <link href="https://kb.pulsesecure.net/articles/Pulse_Security_Advisories/Multiple-OpenSSL-Vulnerabilities-in-Layer-2-network-filtering-capabilities"/>
-        <updated>2023-02-01T05:04:22.000Z</updated>
-        <author>
-            <name>Public KB</name>
         </author>
     </entry>
 </feed>
