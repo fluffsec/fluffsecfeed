@@ -2,10 +2,63 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-03-03T07:19:30.243Z</updated>
+    <updated>2023-03-03T13:27:26.489Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Your KnowBe4 Fresh Content Updates from February 2023]]></title>
+        <id>https://blog.knowbe4.com/your-knowbe4-fresh-content-updates-from-february-2023</id>
+        <link href="https://blog.knowbe4.com/your-knowbe4-fresh-content-updates-from-february-2023"/>
+        <updated>2023-03-03T13:01:00.000Z</updated>
+        <summary type="html"><![CDATA[Check out the 24 new pieces of training content added in February, alongside the always fresh content update highlights, events and new features.]]></summary>
+        <author>
+            <name>Stu Sjouwerman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Financial Services Sector at Risk of More Significant Impacts of Email-Based Cyberattacks]]></title>
+        <id>https://blog.knowbe4.com/financial-services-sector-risk-email-based-cyberattacks</id>
+        <link href="https://blog.knowbe4.com/financial-services-sector-risk-email-based-cyberattacks"/>
+        <updated>2023-03-03T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Financial services businesses are already in the sights of cybercriminals, and understanding how cyberattacks impact this sector specifically can help establish the need for improved preventative measures.]]></summary>
+        <author>
+            <name>Stu Sjouwerman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CISA's latest ransomware warning promotes fighting social engineering at the top of the document, once again]]></title>
+        <id>https://blog.knowbe4.com/cisas-latest-ransomware-warning-promotes-fighting-social-engineering-at-the-top-of-the-document-once-again</id>
+        <link href="https://blog.knowbe4.com/cisas-latest-ransomware-warning-promotes-fighting-social-engineering-at-the-top-of-the-document-once-again"/>
+        <updated>2023-03-03T11:58:12.000Z</updated>
+        <summary type="html"><![CDATA[So, today CISA released another ransomware notice. The Cybersecurity and Infrastructure Security Agency is an agency of the United States Department of Homeland Security that is responsible for strengthening cybersecurity and infrastructure protection.]]></summary>
+        <author>
+            <name>Stu Sjouwerman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New Flaws in TPM 2.0 Library Pose Threat to Billions of IoT and Enterprise Devices]]></title>
+        <id>https://thehackernews.com/2023/03/new-flaws-in-tpm-20-library-pose-threat.html</id>
+        <link href="https://thehackernews.com/2023/03/new-flaws-in-tpm-20-library-pose-threat.html"/>
+        <updated>2023-03-03T10:18:00.000Z</updated>
+        <summary type="html"><![CDATA[A pair of serious security defects has been disclosed in the Trusted Platform Module (TPM) 2.0 reference library specification that could potentially lead to information disclosure or privilege escalation.
+One of the vulnerabilities, CVE-2023-1017, concerns an out-of-bounds write, while the other, CVE-2023-1018, is described as an out-of-bounds read. Credited with discovering and reporting the]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chinese Hackers Targeting European Entities with New MQsTTang Backdoor]]></title>
+        <id>https://thehackernews.com/2023/03/chinese-hackers-targeting-european.html</id>
+        <link href="https://thehackernews.com/2023/03/chinese-hackers-targeting-european.html"/>
+        <updated>2023-03-03T09:56:00.000Z</updated>
+        <summary type="html"><![CDATA[The China-aligned Mustang Panda actor has been observed using a hitherto unseen custom backdoor called MQsTTang as part of an ongoing social engineering campaign that commenced in January 2023.
+"Unlike most of the group's malware, MQsTTang doesn't seem to be based on existing families or publicly available projects," ESET researcher Alexandre Côté Cyr said in a new report.
+Attack chains]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[U.S. Cybersecurity Agency Raises Alarm Over Royal Ransomware's Deadly Capabilities]]></title>
         <id>https://thehackernews.com/2023/03/us-cybersecurity-agency-raises-alarm.html</id>
@@ -5104,89 +5157,6 @@ Targets of]]></summary>
         <updated>2023-02-02T06:47:00.000Z</updated>
         <summary type="html"><![CDATA[At least 1,200 Redis database servers worldwide have been corralled into a botnet using an "elusive and severe threat" dubbed HeadCrab since early September 2021.
 "This advanced threat actor utilizes a state-of-the-art, custom-made malware that is undetectable by agentless and traditional anti-virus solutions to compromise a large number of Redis servers," Aqua security researcher Asaf Eitani]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why CISOs Should Care About Brand Impersonation Scam Sites]]></title>
-        <id>https://www.darkreading.com/edge-articles/why-cisos-should-care-about-brand-impersonation-scam-sites</id>
-        <link href="https://www.darkreading.com/edge-articles/why-cisos-should-care-about-brand-impersonation-scam-sites"/>
-        <updated>2023-02-01T23:36:00.000Z</updated>
-        <summary type="html"><![CDATA[Enterprises often don't know whose responsibility it is to monitor for spoofed brand sites and scams that steal customers' trust, money, and personally identifiable information.]]></summary>
-        <author>
-            <name>Ericka Chickowski, Contributing Writer, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nearly All Firms Have Ties With Breached Third Parties]]></title>
-        <id>https://www.darkreading.com/cloud/nearly-all-firms-have-ties-breached-third-parties</id>
-        <link href="https://www.darkreading.com/cloud/nearly-all-firms-have-ties-breached-third-parties"/>
-        <updated>2023-02-01T22:12:13.000Z</updated>
-        <summary type="html"><![CDATA[The average organization does business with 11 third parties, and 98% of organizations do business with a third party who has suffered a breach, an analysis finds.]]></summary>
-        <author>
-            <name>Robert Lemos, Contributing Writer, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CISA to Open Supply Chain Risk Management Office]]></title>
-        <id>https://www.darkreading.com/application-security/cisa-to-open-supply-chain-risk-management-office</id>
-        <link href="https://www.darkreading.com/application-security/cisa-to-open-supply-chain-risk-management-office"/>
-        <updated>2023-02-01T21:31:56.000Z</updated>
-        <summary type="html"><![CDATA[A new supply chain risk management office aims to help public and private sectors implement recent CISA policies and guidance.]]></summary>
-        <author>
-            <name>Dark Reading Staff, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Greater Incident Complexity, Shift in How Threat Actors Use Stolen Data, Will Drive the Cyber Threat Landscape in 2023, Says Beazley Report]]></title>
-        <id>https://www.darkreading.com/attacks-breaches/greater-incident-complexity-a-shift-in-the-way-threat-actors-use-stolen-data-and-a-rise-in-us-class-actions-will-drive-the-cyber-threat-landscape-in-2023-according-to-beazley-report</id>
-        <link href="https://www.darkreading.com/attacks-breaches/greater-incident-complexity-a-shift-in-the-way-threat-actors-use-stolen-data-and-a-rise-in-us-class-actions-will-drive-the-cyber-threat-landscape-in-2023-according-to-beazley-report"/>
-        <updated>2023-02-01T20:58:00.000Z</updated>
-        <summary type="html"><![CDATA[Noting 13% year-over-year growth in fraudulent instruction as a cause of loss, report predicts organizations must get smarter about educating employees to spot fraudulent tactics.]]></summary>
-        <author>
-            <name>Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Radiant Logic Signs Definitive Agreement to Acquire Brainwave GRC]]></title>
-        <id>https://www.darkreading.com/risk/radiant-logic-signs-definitive-agreement-to-acquire-brainwave-grc</id>
-        <link href="https://www.darkreading.com/risk/radiant-logic-signs-definitive-agreement-to-acquire-brainwave-grc"/>
-        <updated>2023-02-01T20:32:00.000Z</updated>
-        <summary type="html"><![CDATA[Move will strengthen position as a leader in the identity governance and analytics market.]]></summary>
-        <author>
-            <name>Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vista Equity Partners Completes Acquisition of KnowBe4]]></title>
-        <id>https://www.darkreading.com/remote-workforce/vista-equity-partners-completes-acquisition-of-knowbe4</id>
-        <link href="https://www.darkreading.com/remote-workforce/vista-equity-partners-completes-acquisition-of-knowbe4"/>
-        <updated>2023-02-01T20:29:00.000Z</updated>
-        <summary type="html"><![CDATA[.]]></summary>
-        <author>
-            <name>Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Inside Killnet: Pro-Russia Hacktivist Group's Support and Influence Grows]]></title>
-        <id>https://www.darkreading.com/ics-ot/killnet-pro-russia-hacktivist-group-support-influence-grows</id>
-        <link href="https://www.darkreading.com/ics-ot/killnet-pro-russia-hacktivist-group-support-influence-grows"/>
-        <updated>2023-02-01T20:20:55.000Z</updated>
-        <summary type="html"><![CDATA[Killnet is building its profile, inspiring jewelry sales and rap anthems. But the impact of its DDoS attacks, like the ones that targeted 14 major US hospitals this week, remain largely questionable.]]></summary>
-        <author>
-            <name>Jai Vijayan, Contributing Writer, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Researchers Uncover New Bugs in Popular ImageMagick Image Processing Utility]]></title>
-        <id>https://thehackernews.com/2023/02/researchers-uncover-new-bugs-in-popular.html</id>
-        <link href="https://thehackernews.com/2023/02/researchers-uncover-new-bugs-in-popular.html"/>
-        <updated>2023-02-01T19:59:00.000Z</updated>
-        <summary type="html"><![CDATA[Cybersecurity researchers have disclosed details of two security flaws in the open source ImageMagick software that could potentially lead to a denial-of-service (DoS) and information disclosure.
-The two issues, which were identified by Latin American cybersecurity firm Metabase Q in version 7.1.0-49, were addressed in ImageMagick version 7.1.0-52, released in November 2022.
-
-A]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
