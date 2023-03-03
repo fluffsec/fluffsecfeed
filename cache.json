@@ -500,6 +500,76 @@
       "siteUrl": "https://www.darkreading.com",
       "articles": [
         {
+          "id": "https://www.darkreading.com/dr-tech/ibm-contributes-supply-chain-security-tools-to-owasp",
+          "author": "Jeffrey Schwartz, Contributing Writer, Dark Reading",
+          "description": "License Scanner and SBOM Utility will boost the capabilities of OWASP's CycloneDX Software Bill of Materials standard.",
+          "link": "https://www.darkreading.com/dr-tech/ibm-contributes-supply-chain-security-tools-to-owasp",
+          "publishedOn": "2023-03-03T02:44:00.000Z",
+          "wordCount": 13280,
+          "title": "IBM Contributes Supply Chain Security Tools to OWASP",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blta28fcad87ff558b7/627c0108726e3315b16b464c/Jeff_Schwartz_headshot-sq.png",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blta28fcad87ff558b7/627c0108726e3315b16b464c/Jeff_Schwartz_headshot-sq.png"
+        },
+        {
+          "id": "https://www.darkreading.com/cloud/axis-security-acquisition-strengthens-aruba-s-sase-solutions-with-integrated-cloud-security-and-sd-wan",
+          "author": null,
+          "description": "",
+          "link": "https://www.darkreading.com/cloud/axis-security-acquisition-strengthens-aruba-s-sase-solutions-with-integrated-cloud-security-and-sd-wan",
+          "publishedOn": "2023-03-02T23:26:00.000Z",
+          "wordCount": 12453,
+          "title": "Axis Security Acquisition Strengthens Aruba's SASE Solutions With Integrated Cloud Security and SD-WAN",
+          "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/threat-intelligence/cisa-mitre-look-to-takeattack-framework-out-of-the-weeds",
+          "author": "Tara Seals, Managing Editor, News, Dark Reading",
+          "description": "The Decider tool is designed to make the ATT&CK framework more accessible and usable for security analysts of every level, with an intuitive interface and simplified language.",
+          "link": "https://www.darkreading.com/threat-intelligence/cisa-mitre-look-to-takeattack-framework-out-of-the-weeds",
+          "publishedOn": "2023-03-02T23:06:00.000Z",
+          "wordCount": 14167,
+          "title": "CISA, MITRE Look to Take ATT&CK Framework Out of the Weeds",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltea67136f81f32eca/626a9eb4726e3315b16b3c64/Tara-Seals-Headshot2.jpg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltea67136f81f32eca/626a9eb4726e3315b16b3c64/Tara-Seals-Headshot2.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/ics-ot/bidens-cybersecurity-strategy-calls-for-software-liability-tighter-critical-infastructure-security",
+          "author": "Jai Vijayan, Contributing Writer, Dark Reading",
+          "description": "The new White House plan outlines proposed minimum security requirements in critical infrastructure — and for shifting liability for software products to vendors.",
+          "link": "https://www.darkreading.com/ics-ot/bidens-cybersecurity-strategy-calls-for-software-liability-tighter-critical-infastructure-security",
+          "publishedOn": "2023-03-02T22:06:00.000Z",
+          "wordCount": 14677,
+          "title": "Biden's Cybersecurity Strategy Calls for Software Liability, Tighter Critical Infrastructure Security",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt02d79fb9a44a4258/60b1e9dd2a25046b35110696/Jai-Vijayan.jpeg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt02d79fb9a44a4258/60b1e9dd2a25046b35110696/Jai-Vijayan.jpeg"
+        },
+        {
+          "id": "https://www.darkreading.com/endpoint/blacklotus-uefi-bootkit-can-have-its-way-with-updated-windows-11-systems",
+          "author": "Dark Reading Staff, Dark Reading",
+          "description": "Sold for around $5,000 in hacking forums, the BlackLotus UEFI bootkit is capable of targeting even updated systems, researchers find.",
+          "link": "https://www.darkreading.com/endpoint/blacklotus-uefi-bootkit-can-have-its-way-with-updated-windows-11-systems",
+          "publishedOn": "2023-03-02T22:00:00.000Z",
+          "wordCount": 10562,
+          "title": "BlackLotus Bookit Found Targeting Windows 11",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blte161b23f0fd3a84b/60b1ea374e7eb868c4c6a293/dr_staff_125x125.jpg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blte161b23f0fd3a84b/60b1ea374e7eb868c4c6a293/dr_staff_125x125.jpg"
+        },
+        {
           "id": "https://www.darkreading.com/risk/what-godaddy-years-long-breach-means-millions-clients",
           "author": "Nate Nelson, Contributing Writer, Dark Reading",
           "description": "The same \"sophisticated\" threat actor has pummeled the domain host on an ongoing basis since 2020, making off with customer logins, source code, and more. Here's what to do.",
@@ -3893,51 +3963,6 @@
             "length": "0"
           },
           "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt91e5f91ce3f0cdd9/63d0288ac98dbe55ece1d0a9/Nate-Nelson_(1).jpg"
-        },
-        {
-          "id": "https://www.darkreading.com/attacks-breaches/contrast-security-launches-alliance-program-to-change-the-way-customers-scale-their-security-solutions",
-          "author": null,
-          "description": "The Security Innovation Alliance (SIA) empowers customers to create holistic security programs by leveraging robust end-to-end integration partnerships.",
-          "link": "https://www.darkreading.com/attacks-breaches/contrast-security-launches-alliance-program-to-change-the-way-customers-scale-their-security-solutions",
-          "publishedOn": "2023-02-01T15:45:00.000Z",
-          "wordCount": 12683,
-          "title": "Contrast Security Launches Alliance Program to Change the Way Customers Scale Their Security Solutions",
-          "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
-        },
-        {
-          "id": "https://www.darkreading.com/attacks-breaches/fortra-s-terranova-security-2022-gone-phishing-tournament-results-reveal-large-organizations-at-highest-risk-of-compromising-data",
-          "author": null,
-          "description": "Findings underscore security awareness training that leverages practical, hands-on exercises is essential to creating a security-aware culture.",
-          "link": "https://www.darkreading.com/attacks-breaches/fortra-s-terranova-security-2022-gone-phishing-tournament-results-reveal-large-organizations-at-highest-risk-of-compromising-data",
-          "publishedOn": "2023-02-01T15:08:00.000Z",
-          "wordCount": 13314,
-          "title": "Fortra's Terranova Security 2022 Gone Phishing Tournament Results Reveal Large Organizations at Highest Risk of Compromising Data",
-          "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
-        },
-        {
-          "id": "https://www.darkreading.com/application-security/application-security-must-be-nonnegotiable",
-          "author": "Shiva Nathan, Founder and CEO, Onymos",
-          "description": "Companies need to keep security priorities top of mind during economic downturns so all-important revenue generation doesn't come with a heaping side order of security problems.",
-          "link": "https://www.darkreading.com/application-security/application-security-must-be-nonnegotiable",
-          "publishedOn": "2023-02-01T15:00:00.000Z",
-          "wordCount": 12753,
-          "title": "Application Security Must Be Nonnegotiable",
-          "enclosure": {
-            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt205370bb2c708879/63d99d80a86348425bba6429/shiva_Headshot.png",
-            "type": "image/*",
-            "length": "0"
-          },
-          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt205370bb2c708879/63d99d80a86348425bba6429/shiva_Headshot.png"
-        },
-        {
-          "id": "https://www.darkreading.com/operations/knowbe4-to-offer-10-000-to-black-americans-in-cybersecurity-scholarship",
-          "author": null,
-          "description": "KnowBe4 partners with the Center for Cyber Safety and Education to support Black Americans in recognition of Black History Month to help further education.",
-          "link": "https://www.darkreading.com/operations/knowbe4-to-offer-10-000-to-black-americans-in-cybersecurity-scholarship",
-          "publishedOn": "2023-02-01T15:00:00.000Z",
-          "wordCount": 10960,
-          "title": "KnowBe4 to Offer $10,000 to Black Americans in Cybersecurity Scholarship",
-          "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
         }
       ]
     },
