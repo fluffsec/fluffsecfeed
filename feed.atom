@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-03-03T13:27:26.489Z</updated>
+    <updated>2023-03-03T19:17:05.403Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[3 Ways Security Teams Can Use IP Data Context]]></title>
+        <id>https://www.darkreading.com/dr-tech/3-ways-security-teams-can-use-ip-data-context</id>
+        <link href="https://www.darkreading.com/dr-tech/3-ways-security-teams-can-use-ip-data-context"/>
+        <updated>2023-03-03T18:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Innocently or not, residential proxy networks can obscure the actual geolocation of an access point. Here's why that's not great and what you can do about it.]]></summary>
+        <author>
+            <name>Jonathan Tomek, VP of Research and Development, Digital Element</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chick-fil-A Customers Have a Bone to Pick After Account Takeovers]]></title>
+        <id>https://www.darkreading.com/endpoint/chick-fil-a-customers-bone-to-pick-data-breach</id>
+        <link href="https://www.darkreading.com/endpoint/chick-fil-a-customers-bone-to-pick-data-breach"/>
+        <updated>2023-03-03T17:17:00.000Z</updated>
+        <summary type="html"><![CDATA[A two-month-long automated credential-stuffing campaign exposed personal information of Chick-fil-A customers, including birthdays, phone numbers, and membership details.]]></summary>
+        <author>
+            <name>Nathan Eddy, Contributing Writer, Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[It's Time to Assess the Potential Dangers of an Increasingly Connected World]]></title>
+        <id>https://www.darkreading.com/risk/it-s-time-to-assess-the-potential-dangers-of-an-increasingly-connected-world-</id>
+        <link href="https://www.darkreading.com/risk/it-s-time-to-assess-the-potential-dangers-of-an-increasingly-connected-world-"/>
+        <updated>2023-03-03T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[With critical infrastructures ever more dependent on the cloud connectivity, the world needs a more stable infrastructure to avoid a crippling cyberattack.]]></summary>
+        <author>
+            <name>Jackie McGuire, Senior Market Strategy Manager, Cribl</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Your KnowBe4 Fresh Content Updates from February 2023]]></title>
         <id>https://blog.knowbe4.com/your-knowbe4-fresh-content-updates-from-february-2023</id>
@@ -5148,17 +5178,6 @@ Targets of]]></summary>
         <summary type="html"><![CDATA[An OpSec slip from the North Korean threat group helps researchers attribute what was first suspected as a ransomware attack to nation-state espionage.]]></summary>
         <author>
             <name>Ericka Chickowski, Contributing Writer, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Threat: Stealthy HeadCrab Malware Compromised Over 1,200 Redis Servers]]></title>
-        <id>https://thehackernews.com/2023/02/new-threat-stealthy-headcrab-malware.html</id>
-        <link href="https://thehackernews.com/2023/02/new-threat-stealthy-headcrab-malware.html"/>
-        <updated>2023-02-02T06:47:00.000Z</updated>
-        <summary type="html"><![CDATA[At least 1,200 Redis database servers worldwide have been corralled into a botnet using an "elusive and severe threat" dubbed HeadCrab since early September 2021.
-"This advanced threat actor utilizes a state-of-the-art, custom-made malware that is undetectable by agentless and traditional anti-virus solutions to compromise a large number of Redis servers," Aqua security researcher Asaf Eitani]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
         </author>
     </entry>
 </feed>
