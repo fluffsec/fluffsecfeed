@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-03-03T03:56:15.895Z</updated>
+    <updated>2023-03-03T07:19:30.243Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[U.S. Cybersecurity Agency Raises Alarm Over Royal Ransomware's Deadly Capabilities]]></title>
+        <id>https://thehackernews.com/2023/03/us-cybersecurity-agency-raises-alarm.html</id>
+        <link href="https://thehackernews.com/2023/03/us-cybersecurity-agency-raises-alarm.html"/>
+        <updated>2023-03-03T06:42:00.000Z</updated>
+        <summary type="html"><![CDATA[The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has released a new advisory about Royal ransomware, which emerged in the threat landscape last year.
+"After gaining access to victims' networks, Royal actors disable antivirus software and exfiltrate large amounts of data before ultimately deploying the ransomware and encrypting the systems," CISA said.
+The custom ransomware]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[IBM Contributes Supply Chain Security Tools to OWASP]]></title>
         <id>https://www.darkreading.com/dr-tech/ibm-contributes-supply-chain-security-tools-to-owasp</id>
@@ -5177,36 +5189,6 @@ The two issues, which were identified by Latin American cybersecurity firm Metab
 A]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Beating the Odds: 3 Challenges Women Face in the Cybersecurity Industry]]></title>
-        <id>https://www.darkreading.com/operations/beating-the-odds-3-challenges-women-face-in-the-cybersecurity-industry</id>
-        <link href="https://www.darkreading.com/operations/beating-the-odds-3-challenges-women-face-in-the-cybersecurity-industry"/>
-        <updated>2023-02-01T18:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Companies need to be aware of the work culture they foster. Diversity and inclusion aren't just buzzwords. Increasing female visibility and improving female mentoring to help women enter and advance within the cybersecurity industry are key steps forward.]]></summary>
-        <author>
-            <name>Shikha Kothari, Senior Security Adviser, Eden Data</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gem Security Emerges From Stealth With $11M, Unveils Cloud TDIR Platform for Faster Response to Cloud Threats]]></title>
-        <id>https://www.darkreading.com/cloud/gem-security-emerges-from-stealth-with-11m-unveils-cloud-tdir-platform-for-faster-response-to-cloud-threats</id>
-        <link href="https://www.darkreading.com/cloud/gem-security-emerges-from-stealth-with-11m-unveils-cloud-tdir-platform-for-faster-response-to-cloud-threats"/>
-        <updated>2023-02-01T16:05:00.000Z</updated>
-        <summary type="html"><![CDATA[Gem Security provides the world's first holistic approach for Cloud TDIR, bridging the gap between cloud complexity and security operations.]]></summary>
-        <author>
-            <name>Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Command-Injection Bug in Cisco Industrial Gear Opens Devices to Complete Takeover]]></title>
-        <id>https://www.darkreading.com/ics-ot/command-injection-bug-cisco-industrial-gear-devices-complete-takeover</id>
-        <link href="https://www.darkreading.com/ics-ot/command-injection-bug-cisco-industrial-gear-devices-complete-takeover"/>
-        <updated>2023-02-01T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Two security holes — one particularly gnarly — could allow hackers the freedom to do as they wish with the popular edge equipment.]]></summary>
-        <author>
-            <name>Nate Nelson, Contributing Writer, Dark Reading</name>
         </author>
     </entry>
 </feed>
