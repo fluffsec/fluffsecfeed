@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-03-04T02:21:47.429Z</updated>
+    <updated>2023-03-04T07:18:19.864Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
@@ -5049,121 +5049,6 @@ The first of the two vulnerabilities is CVE-2022-21587 (CVSS score: 9.8), a cr
         <summary type="html"><![CDATA[The Russia-linked LockBit ransomware group claims to be behind the attack that fouled automated transactions for dozens of clients of financial technology firm ION Group.]]></summary>
         <author>
             <name>Robert Lemos, Contributing Writer, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[6 Examples of the Evolution of a Scam Site]]></title>
-        <id>https://www.darkreading.com/attacks-breaches/6-examples-of-the-evolution-of-a-scam-site</id>
-        <link href="https://www.darkreading.com/attacks-breaches/6-examples-of-the-evolution-of-a-scam-site"/>
-        <updated>2023-02-02T19:01:00.000Z</updated>
-        <summary type="html"><![CDATA[Examining some key examples of recently found fraud sites that target the lucrative retail shoe industry helps us understand how brand impersonation sites evolve.]]></summary>
-        <author>
-            <name>Ericka Chickowski, Contributing Writer, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rising 'Firebrick Ostrich' BEC Group Launches Industrial-Scale Cyberattacks]]></title>
-        <id>https://www.darkreading.com/remote-workforce/rising-firebrick-ostrich-bec-group-launches-industrial-scale-cyberattacks</id>
-        <link href="https://www.darkreading.com/remote-workforce/rising-firebrick-ostrich-bec-group-launches-industrial-scale-cyberattacks"/>
-        <updated>2023-02-02T18:23:00.000Z</updated>
-        <summary type="html"><![CDATA[The group's wanton attacks demonstrate that business email compromise is everything a hacker can want in one package: low risk, high reward, quick, easy, and low effort.]]></summary>
-        <author>
-            <name>Nate Nelson, Contributing Writer, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CISA Releases Six Industrial Control Systems Advisories]]></title>
-        <id>18326 at https://us-cert.cisa.gov</id>
-        <link href="https://us-cert.cisa.gov/ncas/current-activity/2023/02/02/cisa-releases-six-industrial-control-systems-advisories"/>
-        <updated>2023-02-02T18:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Original release date: February 2, 2023 | Last revised: February 9, 2023
-CISA released six Industrial Control Systems (ICS) advisories on February 2, 2023. These advisories provide timely information about current security issues, vulnerabilities, and exploits surrounding ICS.
-CISA encourages users and administrators to review the newly released ICS advisories for technical details and mitigations:
-ICSA-23-033-01 Delta Electronics DIAScreen
-ICSA-23-033-02 Mitsubishi Electric GOT2000 Series and GT SoftGOT2000
-ICSA-23-033-03 Baicells Nova
-ICSA-23-033-04 Delta Electronics DVW-W02W2-E2
-ICSA-23-033-05 Delta Electronics DX-2100-L1-CN
-ICSA-22-221-01 Mitsubishi Electric Multiple Factory Automation Products (Update D)
-This product is provided subject to this Notification and this Privacy & Use policy.]]></summary>
-        <author>
-            <name>CISA</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CISA Adds Two Known Exploited Vulnerabilities to Catalog]]></title>
-        <id>18331 at https://us-cert.cisa.gov</id>
-        <link href="https://us-cert.cisa.gov/ncas/current-activity/2023/02/02/cisa-adds-two-known-exploited-vulnerabilities-catalog"/>
-        <updated>2023-02-02T17:15:00.000Z</updated>
-        <summary type="html"><![CDATA[Original release date: February 2, 2023
-CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities Catalog, based on evidence of active exploitation. These types of vulnerabilities are frequent attack vectors for malicious cyber actors and pose significant risks to the federal enterprise. Note: To view the newly added vulnerabilities in the catalog, click on the arrow in the "Date Added to Catalog" column, which will sort by descending dates.
-Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the Known Exploited Vulnerabilities Catalog as a living list of known CVEs that carry significant risk to the federal enterprise. BOD 22-01 requires FCEB agencies to remediate identified vulnerabilities by the due date to protect FCEB networks against active threats. See the BOD 22-01 Fact Sheet for more information.
-Although BOD 22-01 only applies to FCEB agencies, CISA strongly urges all organizations to reduce their exposure to cyberattacks by prioritizing timely remediation of Catalog vulnerabilities as part of their vulnerability management practice. CISA will continue to add vulnerabilities to the Catalog that meet the specified criteria.
-This product is provided subject to this Notification and this Privacy & Use policy.]]></summary>
-        <author>
-            <name>CISA</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Patch Critical Bug Now: QNAP NAS Devices Ripe for the Slaughter]]></title>
-        <id>https://www.darkreading.com/remote-workforce/patch-critical-bug-qnap-nas-devices-ripe-slaughter</id>
-        <link href="https://www.darkreading.com/remote-workforce/patch-critical-bug-qnap-nas-devices-ripe-slaughter"/>
-        <updated>2023-02-02T16:08:00.000Z</updated>
-        <summary type="html"><![CDATA[QNAP NAS devices are vulnerable to CVE-2022-27596, which allows unauthenticated, remote SQL code injection.]]></summary>
-        <author>
-            <name>Dark Reading Staff, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Managing the Governance Model for Software Development in a No-Code Ecosystem]]></title>
-        <id>https://www.darkreading.com/application-security/managing-the-governance-model-for-software-development-in-a-no-code-ecosystem</id>
-        <link href="https://www.darkreading.com/application-security/managing-the-governance-model-for-software-development-in-a-no-code-ecosystem"/>
-        <updated>2023-02-02T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Forward-leading business and technology leaders are seeing the value of the "do-It-yourself" approach.]]></summary>
-        <author>
-            <name>Katherine Kostereva, CEO, Creatio</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AppSec Playbook 2023: Study of 829M Attacks on 1,400 Websites]]></title>
-        <id>https://www.darkreading.com/application-security/appsec-playbook-2023-study-of-829m-attacks-on-1-400-websites</id>
-        <link href="https://www.darkreading.com/application-security/appsec-playbook-2023-study-of-829m-attacks-on-1-400-websites"/>
-        <updated>2023-02-02T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The total number of 61,000 open vulnerabilities, including 1,700 critical ones that have been open for 180+ days, exposes businesses to potential attacks.]]></summary>
-        <author>
-            <name>Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cybersecurity Leaders Launch First Attack Matrix for Software Supply Chain Security]]></title>
-        <id>https://www.darkreading.com/attacks-breaches/cybersecurity-leaders-launch-first-attack-matrix-for-software-supply-chain-security</id>
-        <link href="https://www.darkreading.com/attacks-breaches/cybersecurity-leaders-launch-first-attack-matrix-for-software-supply-chain-security"/>
-        <updated>2023-02-02T14:50:00.000Z</updated>
-        <summary type="html"><![CDATA[Current and former cybersecurity leaders from Microsoft, Google, GitLab, Check Point, OWASP, Fortinet and others have already joined the open framework initiative, which is being led by OX Security.]]></summary>
-        <author>
-            <name>Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ChatGPT May Already Be Used In Nation State Cyberattacks, Say IT Decision Makers in BlackBerry Global Research]]></title>
-        <id>https://www.darkreading.com/attacks-breaches/chatgpt-may-already-be-used-in-nation-state-cyberattacks-say-it-decision-makers-in-blackberry-global-research</id>
-        <link href="https://www.darkreading.com/attacks-breaches/chatgpt-may-already-be-used-in-nation-state-cyberattacks-say-it-decision-makers-in-blackberry-global-research"/>
-        <updated>2023-02-02T14:40:00.000Z</updated>
-        <author>
-            <name>Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cisco Releases Security Advisories for Multiple Products]]></title>
-        <id>18327 at https://us-cert.cisa.gov</id>
-        <link href="https://us-cert.cisa.gov/ncas/current-activity/2023/02/02/cisco-releases-security-advisories-multiple-products"/>
-        <updated>2023-02-02T14:32:51.000Z</updated>
-        <summary type="html"><![CDATA[Original release date: February 2, 2023
-Cisco released security updates for vulnerabilities affecting multiple products. A remote attacker could exploit these vulnerabilities to take control of an affected system.
-CISA encourages users and administrators to review the Cisco Security Advisories page and apply the necessary updates.
-This product is provided subject to this Notification and this Privacy & Use policy.]]></summary>
-        <author>
-            <name>CISA</name>
         </author>
     </entry>
 </feed>
