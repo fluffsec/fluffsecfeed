@@ -2,10 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-03-04T07:18:19.864Z</updated>
+    <updated>2023-03-04T13:23:49.752Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Security and IT Teams No Longer Need To Pay For SaaS-Shadow IT Discovery]]></title>
+        <id>https://thehackernews.com/2023/03/security-and-it-teams-no-longer-need-to.html</id>
+        <link href="https://thehackernews.com/2023/03/security-and-it-teams-no-longer-need-to.html"/>
+        <updated>2023-03-04T11:33:00.000Z</updated>
+        <summary type="html"><![CDATA[This past January, a SaaS Security Posture Management (SSPM) company named Wing Security (Wing) made waves with the launch of its free SaaS-Shadow IT discovery solution. Cloud-based companies were invited to gain insight into their employees' SaaS usage through a completely free, self-service product that operates on a "freemium" model. If a user is impressed with the solution and wants to gain]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New FiXS ATM Malware Targeting Mexican Banks]]></title>
+        <id>https://thehackernews.com/2023/03/new-fixs-atm-malware-targeting-mexican.html</id>
+        <link href="https://thehackernews.com/2023/03/new-fixs-atm-malware-targeting-mexican.html"/>
+        <updated>2023-03-04T11:18:00.000Z</updated>
+        <summary type="html"><![CDATA[A new ATM malware strain dubbed FiXS has been observed targeting Mexican banks since the start of February 2023.
+"The ATM malware is hidden inside another not-malicious-looking program," Latin American cybersecurity firm Metabase Q said in a report shared with The Hacker News.
+Besides requiring interaction via an external keyboard, the Windows-based ATM malware is also vendor-agnostic and is]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Rapid7 Brings Threat Intel Data to USF Cybersecurity Lab]]></title>
         <id>https://www.darkreading.com/edge-articles/rapid7-brings-threat-intel-data-to-usf-cybersecurity-lab</id>
@@ -5020,35 +5042,6 @@ The first of the two vulnerabilities is CVE-2022-21587 (CVSS score: 9.8), a cr
         <summary type="html"><![CDATA[Engineers can use the Cyber Resiliency Engineering Framework Navigator to visuzalize their cyber-resiliency capabilities.]]></summary>
         <author>
             <name>Dark Reading Staff, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hornetsecurity Combats QR Code Phishing With Launch of New Technology]]></title>
-        <id>https://www.darkreading.com/mobile/hornetsecurity-combats-qr-code-phishing-with-launch-of-new-technology</id>
-        <link href="https://www.darkreading.com/mobile/hornetsecurity-combats-qr-code-phishing-with-launch-of-new-technology"/>
-        <updated>2023-02-02T21:20:00.000Z</updated>
-        <author>
-            <name>Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Korelock Launches IOT Smart Lock Technology Company]]></title>
-        <id>https://www.darkreading.com/iot/korelock-launches-iot-smart-lock-technology-company</id>
-        <link href="https://www.darkreading.com/iot/korelock-launches-iot-smart-lock-technology-company"/>
-        <updated>2023-02-02T21:05:00.000Z</updated>
-        <summary type="html"><![CDATA[Denver-based business secures Series A Funding through partnerships with Iron Gate Capital and Kozo Keikaku Engineering.]]></summary>
-        <author>
-            <name>Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cyberattack on Fintech Firm Disrupts Derivatives Trading Globally]]></title>
-        <id>https://www.darkreading.com/attacks-breaches/cyberattack-fintech-firm-disrupts-derivatives-trading</id>
-        <link href="https://www.darkreading.com/attacks-breaches/cyberattack-fintech-firm-disrupts-derivatives-trading"/>
-        <updated>2023-02-02T20:53:00.000Z</updated>
-        <summary type="html"><![CDATA[The Russia-linked LockBit ransomware group claims to be behind the attack that fouled automated transactions for dozens of clients of financial technology firm ION Group.]]></summary>
-        <author>
-            <name>Robert Lemos, Contributing Writer, Dark Reading</name>
         </author>
     </entry>
 </feed>
