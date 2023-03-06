@@ -3770,6 +3770,16 @@
       "siteUrl": "https://blog.knowbe4.com",
       "articles": [
         {
+          "id": "https://blog.knowbe4.com/cybersecurity-master-class-data-driven-defense",
+          "author": "Stu Sjouwerman",
+          "description": "Even the world’s most successful organizations have significant weaknesses in their cybersecurity defenses, which determined hackers can exploit at will. There’s even a term for it: Assume Breach.",
+          "link": "https://blog.knowbe4.com/cybersecurity-master-class-data-driven-defense",
+          "publishedOn": "2023-03-06T13:00:00.000Z",
+          "wordCount": 2003,
+          "title": "A Master Class on Cybersecurity: Roger Grimes Teaches Data-Driven Defense",
+          "imageUrl": "https://blog.knowbe4.com/hubfs/Data%20Driven%20Defense%20Webinar%20KnowBe4.jpg#keepProtocol"
+        },
+        {
           "id": "https://blog.knowbe4.com/your-knowbe4-fresh-content-updates-from-february-2023",
           "author": "Stu Sjouwerman",
           "description": "Check out the 24 new pieces of training content added in February, alongside the always fresh content update highlights, events and new features.",
@@ -4246,6 +4256,54 @@
       "feedUrl": "https://thehackernews.com/feeds/posts/default",
       "siteUrl": "https://thehackernews.com",
       "articles": [
+        {
+          "id": "https://thehackernews.com/2023/03/core-members-of-doppelpaymer-ransomware.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Law enforcement authorities from Germany and Ukraine have targeted suspected core members of a cybercrime group that has been behind large-scale attacks using DoppelPaymer ransomware.\nThe operation, which took place on February 28, 2023, was carried out with support from the Dutch National Police (Politie) and the U.S. Federal Bureau of Investigation (FBI), according to Europol.\nThis encompassed",
+          "link": "https://thehackernews.com/2023/03/core-members-of-doppelpaymer-ransomware.html",
+          "publishedOn": "2023-03-06T12:13:00.000Z",
+          "wordCount": null,
+          "title": "Core Members of DoppelPaymer Ransomware Gang Targeted in Germany and Ukraine",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhAq6YdZh8sNmSrzahbxZVdMYNVss5B2XhVpN0ETFma1SO4-J3egG-1n8nXyoOuz3DvHUqRE0lHJZ8M5zrNQ9SZw1IlB_3wKaDw8Vs4_YEN-8IVIPLsClw8xm1D4fM8zjQPmDW6X_W088OWWkVfTTH_umvYqmH7PZzX645lZtZS1O4cpmy3X4d1MG2y/s1600/ransomware.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhAq6YdZh8sNmSrzahbxZVdMYNVss5B2XhVpN0ETFma1SO4-J3egG-1n8nXyoOuz3DvHUqRE0lHJZ8M5zrNQ9SZw1IlB_3wKaDw8Vs4_YEN-8IVIPLsClw8xm1D4fM8zjQPmDW6X_W088OWWkVfTTH_umvYqmH7PZzX645lZtZS1O4cpmy3X4d1MG2y/s1600/ransomware.png"
+        },
+        {
+          "id": "https://thehackernews.com/2023/03/experts-reveal-google-cloud-platforms.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Malicious actors can take advantage of \"insufficient\" forensic visibility into Google Cloud Platform (GCP) to exfiltrate sensitive data, a new research has found.\n\"Unfortunately, GCP does not provide the level of visibility in its storage logs that is needed to allow any effective forensic investigation, making organizations blind to potential data exfiltration attacks,\" cloud incident response",
+          "link": "https://thehackernews.com/2023/03/experts-reveal-google-cloud-platforms.html",
+          "publishedOn": "2023-03-06T11:51:00.000Z",
+          "wordCount": null,
+          "title": "Experts Reveal Google Cloud Platform's Blind Spot for Data Exfiltration Attacks",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg0PMpGRIvSHCt1Hw-np7fZEO5z-QkvPpzs9xoE4bUbI-iviths4IvQa-EpUdgBublbgsXVbHsgXer72bRdOjoLqMRpIui5GP6xp2tqV2dzpOY--ZuSk0I5u7twSGD6MrjYaPyBxufp-Z5PASSnZbcaX7V0ChUQU5WhPN45Ogjloxz5soB3scGiizvD/s1600/Google.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg0PMpGRIvSHCt1Hw-np7fZEO5z-QkvPpzs9xoE4bUbI-iviths4IvQa-EpUdgBublbgsXVbHsgXer72bRdOjoLqMRpIui5GP6xp2tqV2dzpOY--ZuSk0I5u7twSGD6MrjYaPyBxufp-Z5PASSnZbcaX7V0ChUQU5WhPN45Ogjloxz5soB3scGiizvD/s1600/Google.png"
+        },
+        {
+          "id": "https://thehackernews.com/2023/03/experts-discover-flaw-in-us-govts.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "A group of researchers has revealed what it says is a vulnerability in a specific implementation of CRYSTALS-Kyber, one of the encryption algorithms chosen by the U.S. government as quantum-resistant last year.\nThe exploit relates to \"side-channel attacks on up to the fifth-order masked implementations of CRYSTALS-Kyber in ARM Cortex-M4 CPU,\" Elena Dubrova, Kalle Ngo, and Joel Gärtner of KTH",
+          "link": "https://thehackernews.com/2023/03/experts-discover-flaw-in-us-govts.html",
+          "publishedOn": "2023-03-06T08:30:00.000Z",
+          "wordCount": null,
+          "title": "Experts Discover Flaw in U.S. Govt's Chosen Quantum-Resistant Encryption Algorithm",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjTeVs-6hkK26bO0mqaxPJASPH1R_C6SmrsYmz578cb9UAPQ6MsQ1Rs-QbFs_VYj2NxwwQRYH3uBEtIqShtv-knncuDInHQZm2mRzt6Xh_lmanP35XI0vYAVrmHgvc8ID4itvh0xc66rYY4k94JEt_x0wrN0uv0BF3Bno-E9Sj1simME-zXPO24n5Sc9g/s1600/keys.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjTeVs-6hkK26bO0mqaxPJASPH1R_C6SmrsYmz578cb9UAPQ6MsQ1Rs-QbFs_VYj2NxwwQRYH3uBEtIqShtv-knncuDInHQZm2mRzt6Xh_lmanP35XI0vYAVrmHgvc8ID4itvh0xc66rYY4k94JEt_x0wrN0uv0BF3Bno-E9Sj1simME-zXPO24n5Sc9g/s1600/keys.png"
+        },
         {
           "id": "https://thehackernews.com/2023/03/security-and-it-teams-no-longer-need-to.html",
           "author": "info@thehackernews.com (The Hacker News)",

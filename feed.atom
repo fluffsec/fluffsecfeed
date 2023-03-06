@@ -2,10 +2,54 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-03-06T07:19:45.313Z</updated>
+    <updated>2023-03-06T13:29:57.124Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[A Master Class on Cybersecurity: Roger Grimes Teaches Data-Driven Defense]]></title>
+        <id>https://blog.knowbe4.com/cybersecurity-master-class-data-driven-defense</id>
+        <link href="https://blog.knowbe4.com/cybersecurity-master-class-data-driven-defense"/>
+        <updated>2023-03-06T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Even the world’s most successful organizations have significant weaknesses in their cybersecurity defenses, which determined hackers can exploit at will. There’s even a term for it: Assume Breach.]]></summary>
+        <author>
+            <name>Stu Sjouwerman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Core Members of DoppelPaymer Ransomware Gang Targeted in Germany and Ukraine]]></title>
+        <id>https://thehackernews.com/2023/03/core-members-of-doppelpaymer-ransomware.html</id>
+        <link href="https://thehackernews.com/2023/03/core-members-of-doppelpaymer-ransomware.html"/>
+        <updated>2023-03-06T12:13:00.000Z</updated>
+        <summary type="html"><![CDATA[Law enforcement authorities from Germany and Ukraine have targeted suspected core members of a cybercrime group that has been behind large-scale attacks using DoppelPaymer ransomware.
+The operation, which took place on February 28, 2023, was carried out with support from the Dutch National Police (Politie) and the U.S. Federal Bureau of Investigation (FBI), according to Europol.
+This encompassed]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Experts Reveal Google Cloud Platform's Blind Spot for Data Exfiltration Attacks]]></title>
+        <id>https://thehackernews.com/2023/03/experts-reveal-google-cloud-platforms.html</id>
+        <link href="https://thehackernews.com/2023/03/experts-reveal-google-cloud-platforms.html"/>
+        <updated>2023-03-06T11:51:00.000Z</updated>
+        <summary type="html"><![CDATA[Malicious actors can take advantage of "insufficient" forensic visibility into Google Cloud Platform (GCP) to exfiltrate sensitive data, a new research has found.
+"Unfortunately, GCP does not provide the level of visibility in its storage logs that is needed to allow any effective forensic investigation, making organizations blind to potential data exfiltration attacks," cloud incident response]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Experts Discover Flaw in U.S. Govt's Chosen Quantum-Resistant Encryption Algorithm]]></title>
+        <id>https://thehackernews.com/2023/03/experts-discover-flaw-in-us-govts.html</id>
+        <link href="https://thehackernews.com/2023/03/experts-discover-flaw-in-us-govts.html"/>
+        <updated>2023-03-06T08:30:00.000Z</updated>
+        <summary type="html"><![CDATA[A group of researchers has revealed what it says is a vulnerability in a specific implementation of CRYSTALS-Kyber, one of the encryption algorithms chosen by the U.S. government as quantum-resistant last year.
+The exploit relates to "side-channel attacks on up to the fifth-order masked implementations of CRYSTALS-Kyber in ARM Cortex-M4 CPU," Elena Dubrova, Kalle Ngo, and Joel Gärtner of KTH]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Security and IT Teams No Longer Need To Pay For SaaS-Shadow IT Discovery]]></title>
         <id>https://thehackernews.com/2023/03/security-and-it-teams-no-longer-need-to.html</id>
