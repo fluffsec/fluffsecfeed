@@ -470,6 +470,61 @@
       "siteUrl": "https://www.darkreading.com",
       "articles": [
         {
+          "id": "https://www.darkreading.com/threat-intelligence/nist-quantum-proof-algorithm-bug-analysts",
+          "author": "Dark Reading Staff, Dark Reading",
+          "description": "A team has found that the Crystals-Kyber encryption algorithm is open to side-channel attacks, under certain implementations.",
+          "link": "https://www.darkreading.com/threat-intelligence/nist-quantum-proof-algorithm-bug-analysts",
+          "publishedOn": "2023-03-06T18:40:00.000Z",
+          "wordCount": 10649,
+          "title": "NIST's Quantum-Proof Algorithm Has a Bug, Analysts Say",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blte161b23f0fd3a84b/60b1ea374e7eb868c4c6a293/dr_staff_125x125.jpg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blte161b23f0fd3a84b/60b1ea374e7eb868c4c6a293/dr_staff_125x125.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/cloud/sans-institute-partners-with-google-to-launch-cloud-diversity-academy",
+          "author": null,
+          "description": "",
+          "link": "https://www.darkreading.com/cloud/sans-institute-partners-with-google-to-launch-cloud-diversity-academy",
+          "publishedOn": "2023-03-06T18:10:00.000Z",
+          "wordCount": 12413,
+          "title": "SANS Institute Partners With Google to Launch Cloud Diversity Academy",
+          "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/vulnerabilities-threats/the-role-of-verifiable-credentials-in-preventing-account-compromise",
+          "author": "Granville Schmidt, CISSP, CCSP, HCISPP, & CIPT, Principal Architect & Member of the Office of the CTO, Strata Identity",
+          "description": "As digital identity verification challenges grow, organizations need to adopt a more advanced and forward-focused approach to preventing hacks.",
+          "link": "https://www.darkreading.com/vulnerabilities-threats/the-role-of-verifiable-credentials-in-preventing-account-compromise",
+          "publishedOn": "2023-03-06T15:00:00.000Z",
+          "wordCount": 12625,
+          "title": "The Role of Verifiable Credentials In Preventing Account Compromise",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltfc87b6d8dc395e1e/64024ef163d5af53eefe92d1/Granville_Schmidt_Headshot.jpeg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltfc87b6d8dc395e1e/64024ef163d5af53eefe92d1/Granville_Schmidt_Headshot.jpeg"
+        },
+        {
+          "id": "https://www.darkreading.com/edge-articles/name-that-edge-toon-domino-effect",
+          "author": "John Klossner, Cartoonist",
+          "description": "Come up with a clever caption, and our panel of experts will reward the winner with a $25 Amazon gift card.",
+          "link": "https://www.darkreading.com/edge-articles/name-that-edge-toon-domino-effect",
+          "publishedOn": "2023-03-06T15:00:00.000Z",
+          "wordCount": 10336,
+          "title": "Name That Edge Toon: Domino Effect",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltf97d71984b60d7ed/60b1e88b5d34de550780a96e/Klossner_iwk_photo.gif",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltf97d71984b60d7ed/60b1e88b5d34de550780a96e/Klossner_iwk_photo.gif"
+        },
+        {
           "id": "https://www.darkreading.com/edge-articles/rapid7-brings-threat-intel-data-to-usf-cybersecurity-lab",
           "author": "Fahmida Y. Rashid, Managing Editor, Features, Dark Reading",
           "description": "The Rapid7 Cyber Threat Intelligence Laboratory at the University of South Florida will provide data on real-world threats for faculty and students to use in their research.",
@@ -3770,6 +3825,36 @@
       "siteUrl": "https://blog.knowbe4.com",
       "articles": [
         {
+          "id": "https://blog.knowbe4.com/coping-with-double-extortion-royal-ransomware",
+          "author": "Stu Sjouwerman",
+          "description": "The US Cybersecurity and Infrastructure Security Agency (CISA) and the FBI last week issued a joint advisory on Royal ransomware. Royal is noteworthy for its ability to disable various anti-virus tools in the course of exfiltrating data in its double-extortion attacks.",
+          "link": "https://blog.knowbe4.com/coping-with-double-extortion-royal-ransomware",
+          "publishedOn": "2023-03-06T14:10:12.000Z",
+          "wordCount": 2339,
+          "title": "Coping With “Double-Extortion” Royal Ransomware",
+          "imageUrl": "https://blog.knowbe4.com/hubfs/Ransomware%20Attacks%20Targeting.jpg#keepProtocol"
+        },
+        {
+          "id": "https://blog.knowbe4.com/ransomware-industrial-infrastructure-attacks",
+          "author": "Stu Sjouwerman",
+          "description": "Since the goal of ransomware is to initially disrupt operations, the targeting of industrial control systems has been an increasing focus for specific ransomware groups.",
+          "link": "https://blog.knowbe4.com/ransomware-industrial-infrastructure-attacks",
+          "publishedOn": "2023-03-06T14:09:51.000Z",
+          "wordCount": 2185,
+          "title": "Ransomware Attacks on Industrial Infrastructure Climb 87% Despite Security Improvements to ICS Environments",
+          "imageUrl": "https://blog.knowbe4.com/hubfs/ransomware-2.jpg#keepProtocol"
+        },
+        {
+          "id": "https://blog.knowbe4.com/worldwide-business-email-compromise-attacks",
+          "author": "Stu Sjouwerman",
+          "description": "Despite hearing mostly about BEC attacks in English-speaking countries, analysis of new attack groups highlight the threat of these kinds of attacks in other languages.",
+          "link": "https://blog.knowbe4.com/worldwide-business-email-compromise-attacks",
+          "publishedOn": "2023-03-06T14:09:47.000Z",
+          "wordCount": 2144,
+          "title": "Executive Impersonation Business Email Compromise Attacks Go Beyond English Worldwide",
+          "imageUrl": "https://blog.knowbe4.com/hubfs/global-supply-chain-cyber-attacks.jpg#keepProtocol"
+        },
+        {
           "id": "https://blog.knowbe4.com/cybersecurity-master-class-data-driven-defense",
           "author": "Stu Sjouwerman",
           "description": "Even the world’s most successful organizations have significant weaknesses in their cybersecurity defenses, which determined hackers can exploit at will. There’s even a term for it: Assume Breach.",
@@ -4256,6 +4341,38 @@
       "feedUrl": "https://thehackernews.com/feeds/posts/default",
       "siteUrl": "https://thehackernews.com",
       "articles": [
+        {
+          "id": "https://thehackernews.com/2023/03/new-hiatusrat-malware-targets-business.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "A never-before-seen complex malware is targeting business-grade routers to covertly spy on victims in Latin America, Europe, and North America at least since July 2022.\nThe elusive campaign, dubbed Hiatus by Lumen Black Lotus Labs, has been found to deploy two malicious binaries, a remote access trojan dubbed HiatusRAT and a variant of tcpdump that makes it possible to capture packet capture on",
+          "link": "https://thehackernews.com/2023/03/new-hiatusrat-malware-targets-business.html",
+          "publishedOn": "2023-03-06T14:18:00.000Z",
+          "wordCount": null,
+          "title": "New HiatusRAT Malware Targets Business-Grade Routers to Covertly Spy on Victims",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpFwlHDKR4hqJS-62Ezpv5R8vd2ZAFhM2ALXbRnGnq7fAoRG8OOiEfSlYw6zXNuGuea1NsoJ8egXT9Gj5HVLt3KAAtTUrJXiNWfeUnV0Vpan15kWB5lH8EClju5ldJoJOxtVua5KXsgRT8OIo1Ozgaq1RECUz8_qbzu6laGRePmXS7xT_vWOz3xwyc/s1600/router.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpFwlHDKR4hqJS-62Ezpv5R8vd2ZAFhM2ALXbRnGnq7fAoRG8OOiEfSlYw6zXNuGuea1NsoJ8egXT9Gj5HVLt3KAAtTUrJXiNWfeUnV0Vpan15kWB5lH8EClju5ldJoJOxtVua5KXsgRT8OIo1Ozgaq1RECUz8_qbzu6laGRePmXS7xT_vWOz3xwyc/s1600/router.png"
+        },
+        {
+          "id": "https://thehackernews.com/2023/03/from-disinformation-to-deep-fakes-how.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Deep fakes are expected to become a more prominent attack vector. Here's how to identify them.\nWhat are Deep Fakes?\nA deep fake is the act of maliciously replacing real images and videos with fabricated ones to perform information manipulation. To create images, video and audio that are high quality enough to be used in deep fakes, AI and ML are required. Such use of AI, ML and image replacement",
+          "link": "https://thehackernews.com/2023/03/from-disinformation-to-deep-fakes-how.html",
+          "publishedOn": "2023-03-06T14:04:00.000Z",
+          "wordCount": null,
+          "title": "From Disinformation to Deep Fakes: How Threat Actors Manipulate Reality",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg5ox7hG1ObRQRyCL4b7W0LybrxhyB0BAAuCfJKITan6zbSrVRdlOaL4I4elRMr8zGtqGiRU-B2TvNTgZcCyJpZyqMdZ2KNX4lSzwJu21qAsXT3m-c7yugIwcsPoawwYEv0VOHuGlTx-GrS92wFS8Vu7cMJ6fbPZHcgBJYrhctpbdO9kXgz1nT_ePCo/s1600/deep.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg5ox7hG1ObRQRyCL4b7W0LybrxhyB0BAAuCfJKITan6zbSrVRdlOaL4I4elRMr8zGtqGiRU-B2TvNTgZcCyJpZyqMdZ2KNX4lSzwJu21qAsXT3m-c7yugIwcsPoawwYEv0VOHuGlTx-GrS92wFS8Vu7cMJ6fbPZHcgBJYrhctpbdO9kXgz1nT_ePCo/s1600/deep.png"
+        },
         {
           "id": "https://thehackernews.com/2023/03/core-members-of-doppelpaymer-ransomware.html",
           "author": "info@thehackernews.com (The Hacker News)",

@@ -2,10 +2,102 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-03-06T13:29:57.124Z</updated>
+    <updated>2023-03-06T19:17:36.299Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[NIST's Quantum-Proof Algorithm Has a Bug, Analysts Say]]></title>
+        <id>https://www.darkreading.com/threat-intelligence/nist-quantum-proof-algorithm-bug-analysts</id>
+        <link href="https://www.darkreading.com/threat-intelligence/nist-quantum-proof-algorithm-bug-analysts"/>
+        <updated>2023-03-06T18:40:00.000Z</updated>
+        <summary type="html"><![CDATA[A team has found that the Crystals-Kyber encryption algorithm is open to side-channel attacks, under certain implementations.]]></summary>
+        <author>
+            <name>Dark Reading Staff, Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SANS Institute Partners With Google to Launch Cloud Diversity Academy]]></title>
+        <id>https://www.darkreading.com/cloud/sans-institute-partners-with-google-to-launch-cloud-diversity-academy</id>
+        <link href="https://www.darkreading.com/cloud/sans-institute-partners-with-google-to-launch-cloud-diversity-academy"/>
+        <updated>2023-03-06T18:10:00.000Z</updated>
+        <author>
+            <name>Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Role of Verifiable Credentials In Preventing Account Compromise]]></title>
+        <id>https://www.darkreading.com/vulnerabilities-threats/the-role-of-verifiable-credentials-in-preventing-account-compromise</id>
+        <link href="https://www.darkreading.com/vulnerabilities-threats/the-role-of-verifiable-credentials-in-preventing-account-compromise"/>
+        <updated>2023-03-06T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[As digital identity verification challenges grow, organizations need to adopt a more advanced and forward-focused approach to preventing hacks.]]></summary>
+        <author>
+            <name>Granville Schmidt, CISSP, CCSP, HCISPP, &amp; CIPT, Principal Architect &amp; Member of the Office of the CTO, Strata Identity</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Name That Edge Toon: Domino Effect]]></title>
+        <id>https://www.darkreading.com/edge-articles/name-that-edge-toon-domino-effect</id>
+        <link href="https://www.darkreading.com/edge-articles/name-that-edge-toon-domino-effect"/>
+        <updated>2023-03-06T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Come up with a clever caption, and our panel of experts will reward the winner with a $25 Amazon gift card.]]></summary>
+        <author>
+            <name>John Klossner, Cartoonist</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New HiatusRAT Malware Targets Business-Grade Routers to Covertly Spy on Victims]]></title>
+        <id>https://thehackernews.com/2023/03/new-hiatusrat-malware-targets-business.html</id>
+        <link href="https://thehackernews.com/2023/03/new-hiatusrat-malware-targets-business.html"/>
+        <updated>2023-03-06T14:18:00.000Z</updated>
+        <summary type="html"><![CDATA[A never-before-seen complex malware is targeting business-grade routers to covertly spy on victims in Latin America, Europe, and North America at least since July 2022.
+The elusive campaign, dubbed Hiatus by Lumen Black Lotus Labs, has been found to deploy two malicious binaries, a remote access trojan dubbed HiatusRAT and a variant of tcpdump that makes it possible to capture packet capture on]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Coping With “Double-Extortion” Royal Ransomware]]></title>
+        <id>https://blog.knowbe4.com/coping-with-double-extortion-royal-ransomware</id>
+        <link href="https://blog.knowbe4.com/coping-with-double-extortion-royal-ransomware"/>
+        <updated>2023-03-06T14:10:12.000Z</updated>
+        <summary type="html"><![CDATA[The US Cybersecurity and Infrastructure Security Agency (CISA) and the FBI last week issued a joint advisory on Royal ransomware. Royal is noteworthy for its ability to disable various anti-virus tools in the course of exfiltrating data in its double-extortion attacks.]]></summary>
+        <author>
+            <name>Stu Sjouwerman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ransomware Attacks on Industrial Infrastructure Climb 87% Despite Security Improvements to ICS Environments]]></title>
+        <id>https://blog.knowbe4.com/ransomware-industrial-infrastructure-attacks</id>
+        <link href="https://blog.knowbe4.com/ransomware-industrial-infrastructure-attacks"/>
+        <updated>2023-03-06T14:09:51.000Z</updated>
+        <summary type="html"><![CDATA[Since the goal of ransomware is to initially disrupt operations, the targeting of industrial control systems has been an increasing focus for specific ransomware groups.]]></summary>
+        <author>
+            <name>Stu Sjouwerman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Executive Impersonation Business Email Compromise Attacks Go Beyond English Worldwide]]></title>
+        <id>https://blog.knowbe4.com/worldwide-business-email-compromise-attacks</id>
+        <link href="https://blog.knowbe4.com/worldwide-business-email-compromise-attacks"/>
+        <updated>2023-03-06T14:09:47.000Z</updated>
+        <summary type="html"><![CDATA[Despite hearing mostly about BEC attacks in English-speaking countries, analysis of new attack groups highlight the threat of these kinds of attacks in other languages.]]></summary>
+        <author>
+            <name>Stu Sjouwerman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[From Disinformation to Deep Fakes: How Threat Actors Manipulate Reality]]></title>
+        <id>https://thehackernews.com/2023/03/from-disinformation-to-deep-fakes-how.html</id>
+        <link href="https://thehackernews.com/2023/03/from-disinformation-to-deep-fakes-how.html"/>
+        <updated>2023-03-06T14:04:00.000Z</updated>
+        <summary type="html"><![CDATA[Deep fakes are expected to become a more prominent attack vector. Here's how to identify them.
+What are Deep Fakes?
+A deep fake is the act of maliciously replacing real images and videos with fabricated ones to perform information manipulation. To create images, video and audio that are high quality enough to be used in deep fakes, AI and ML are required. Such use of AI, ML and image replacement]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[A Master Class on Cybersecurity: Roger Grimes Teaches Data-Driven Defense]]></title>
         <id>https://blog.knowbe4.com/cybersecurity-master-class-data-driven-defense</id>
