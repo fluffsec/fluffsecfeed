@@ -2,10 +2,65 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-03-07T07:18:48.118Z</updated>
+    <updated>2023-03-07T13:30:36.893Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Three out of Four Organizations Have Experienced a Successful Email-Based Attack as Impacts Increase]]></title>
+        <id>https://blog.knowbe4.com/75-percent-organizations-experienced-successful-email-based-attac</id>
+        <link href="https://blog.knowbe4.com/75-percent-organizations-experienced-successful-email-based-attac"/>
+        <updated>2023-03-07T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[New data shows just how impactful these attacks are, with 98% of victim organizations reporting some form of impact from email-based cyber attacks.]]></summary>
+        <author>
+            <name>Stu Sjouwerman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Transparent Tribe Hackers Distribute CapraRAT via Trojanized Messaging Apps]]></title>
+        <id>https://thehackernews.com/2023/03/transparent-tribe-hackers-distribute.html</id>
+        <link href="https://thehackernews.com/2023/03/transparent-tribe-hackers-distribute.html"/>
+        <updated>2023-03-07T11:39:00.000Z</updated>
+        <summary type="html"><![CDATA[A suspected Pakistan-aligned advanced persistent threat (APT) group known as Transparent Tribe has been linked to an ongoing cyber espionage campaign targeting Indian and Pakistani Android users with a backdoor called CapraRAT.
+"Transparent Tribe distributed the Android CapraRAT backdoor via trojanized secure messaging and calling apps branded as MeetsApp and MeetUp," ESET said in a report]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Healthcare Can't Afford to Ignore Digital Identity]]></title>
+        <id>https://thehackernews.com/2023/03/why-healthcare-cant-afford-to-ignore.html</id>
+        <link href="https://thehackernews.com/2023/03/why-healthcare-cant-afford-to-ignore.html"/>
+        <updated>2023-03-07T11:23:00.000Z</updated>
+        <summary type="html"><![CDATA[Investing in digital identity can improve security, increase clinical productivity, and boost healthcare's bottom line. — by Gus Malezis, CEO of Imprivata
+Digitalization has created immeasurable opportunities for businesses over the past two decades. But the growth of hybrid work and expansion of Internet of Things (IoT) has outpaced traditional 'castle and moat' cybersecurity, introducing]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Theme park giant Parques Reunidos hit by a ransomware cyber attack]]></title>
+        <id>https://securityreport.com/?p=4702</id>
+        <link href="https://securityreport.com/theme-park-giant-parques-reunidos-hit-by-a-ransomware-cyber-attack/"/>
+        <updated>2023-03-07T07:50:35.000Z</updated>
+        <summary type="html"><![CDATA[One of the world's largest theme park operators, Parques Reunidos has disclosed a cybersecurity incident. Bian Lian ransomware group has claimed responsibility.
+The post Theme park giant Parques Reunidos hit by a ransomware cyber attack appeared first on Security Report.]]></summary>
+        <author>
+            <name>Ax Sharma</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Shein's Android App Caught Transmitting Clipboard Data to Remote Servers]]></title>
+        <id>https://thehackernews.com/2023/03/sheins-android-app-caught-transmitting.html</id>
+        <link href="https://thehackernews.com/2023/03/sheins-android-app-caught-transmitting.html"/>
+        <updated>2023-03-07T07:42:00.000Z</updated>
+        <summary type="html"><![CDATA[An older version of Shein's Android application suffered from a bug that periodically captured and transmitted clipboard contents to a remote server.
+The Microsoft 365 Defender Research Team said it discovered the problem in version 7.9.2 of the app that was released on December 16, 2021. The issue has since been addressed as of May 2022.
+Shein, originally named ZZKKO, is a Chinese online fast]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[LastPass Hack: Engineer's Failure to Update Plex Software Led to Massive Data Breach]]></title>
         <id>https://thehackernews.com/2023/03/lastpass-hack-engineers-failure-to.html</id>
@@ -5036,16 +5091,6 @@ Tracked as CVE-2023-25136, the shortcoming has been classified as a pre-authent
 "The loaders, dubbed MalVirt, use obfuscated virtualization for anti-analysis and evasion along with the Windows Process Explorer driver for terminating processes," SentinelOne researchers Aleksandar Milenkoski and Tom Hegel said in a]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BlueHat 2023: Connecting the security research community with Microsoft]]></title>
-        <id>/blog/2023/02/bluehat-2023-connecting-the-security-research-community-with-microsoft/</id>
-        <link href="https://msrc-blog.microsoft.com/blog/2023/02/bluehat-2023-connecting-the-security-research-community-with-microsoft/"/>
-        <updated>2023-02-06T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[We’re excited to welcome more than 400 members of the security research community from around the world to Redmond, Washington for BlueHat 2023. Hosted by the Microsoft Security Response Center (MSRC), BlueHat is where the security research community, and Microsoft security professionals, come together as peers to connect, share, learn, and exchange ideas in the interest of creating a safer and more secure world for all.]]></summary>
-        <author>
-            <name>Microsoft Security Response Center</name>
         </author>
     </entry>
 </feed>

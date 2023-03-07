@@ -438,7 +438,18 @@
       "title": "Security Report",
       "feedUrl": "https://securityreport.com/rss",
       "siteUrl": "https://securityreport.com/",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://securityreport.com/?p=4702",
+          "author": "Ax Sharma",
+          "description": "One of the world's largest theme park operators, Parques Reunidos has disclosed a cybersecurity incident. Bian Lian ransomware group has claimed responsibility.\nThe post Theme park giant Parques Reunidos hit by a ransomware cyber attack appeared first on Security Report.",
+          "link": "https://securityreport.com/theme-park-giant-parques-reunidos-hit-by-a-ransomware-cyber-attack/",
+          "publishedOn": "2023-03-07T07:50:35.000Z",
+          "wordCount": 1890,
+          "title": "Theme park giant Parques Reunidos hit by a ransomware cyber attack",
+          "imageUrl": "https://securityreport.com/wp-content/uploads/2023/03/Screenshot-2023-03-07-at-12.14.10-1024x568.png"
+        }
+      ]
     },
     {
       "title": "Critical Infrastructure – Threatpost",
@@ -3851,16 +3862,6 @@
           "wordCount": 2113,
           "title": "New MSRC Blog Site",
           "imageUrl": null
-        },
-        {
-          "id": "/blog/2023/02/bluehat-2023-connecting-the-security-research-community-with-microsoft/",
-          "author": null,
-          "description": "We’re excited to welcome more than 400 members of the security research community from around the world to Redmond, Washington for BlueHat 2023. Hosted by the Microsoft Security Response Center (MSRC), BlueHat is where the security research community, and Microsoft security professionals, come together as peers to connect, share, learn, and exchange ideas in the interest of creating a safer and more secure world for all.",
-          "link": "https://msrc-blog.microsoft.com/blog/2023/02/bluehat-2023-connecting-the-security-research-community-with-microsoft/",
-          "publishedOn": "2023-02-06T00:00:00.000Z",
-          "wordCount": 2113,
-          "title": "BlueHat 2023: Connecting the security research community with Microsoft",
-          "imageUrl": null
         }
       ]
     },
@@ -3869,6 +3870,16 @@
       "feedUrl": "https://blog.knowbe4.com/rss.xml",
       "siteUrl": "https://blog.knowbe4.com",
       "articles": [
+        {
+          "id": "https://blog.knowbe4.com/75-percent-organizations-experienced-successful-email-based-attac",
+          "author": "Stu Sjouwerman",
+          "description": "New data shows just how impactful these attacks are, with 98% of victim organizations reporting some form of impact from email-based cyber attacks.",
+          "link": "https://blog.knowbe4.com/75-percent-organizations-experienced-successful-email-based-attac",
+          "publishedOn": "2023-03-07T13:00:00.000Z",
+          "wordCount": 2204,
+          "title": "Three out of Four Organizations Have Experienced a Successful Email-Based Attack as Impacts Increase",
+          "imageUrl": "https://blog.knowbe4.com/hubfs/Modern%20Email%20Attacks.jpg#keepProtocol"
+        },
         {
           "id": "https://blog.knowbe4.com/coping-with-double-extortion-royal-ransomware",
           "author": "Stu Sjouwerman",
@@ -4386,6 +4397,54 @@
       "feedUrl": "https://thehackernews.com/feeds/posts/default",
       "siteUrl": "https://thehackernews.com",
       "articles": [
+        {
+          "id": "https://thehackernews.com/2023/03/transparent-tribe-hackers-distribute.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "A suspected Pakistan-aligned advanced persistent threat (APT) group known as Transparent Tribe has been linked to an ongoing cyber espionage campaign targeting Indian and Pakistani Android users with a backdoor called CapraRAT.\n\"Transparent Tribe distributed the Android CapraRAT backdoor via trojanized secure messaging and calling apps branded as MeetsApp and MeetUp,\" ESET said in a report",
+          "link": "https://thehackernews.com/2023/03/transparent-tribe-hackers-distribute.html",
+          "publishedOn": "2023-03-07T11:39:00.000Z",
+          "wordCount": null,
+          "title": "Transparent Tribe Hackers Distribute CapraRAT via Trojanized Messaging Apps",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjNNmPk11Bi3ZSy2Ie2mYNp4GaZdKTu9nQR3mTpIw4Ftwcs_DlPpFaI-WIgjxdv377fSGcMXIPESYOI8XywtrmnjZW4h6FVs4JRB-DhLKzgm5eVz8rmxiC0WyUk2uuFzHAlELSVnsW3Y9QeNtUSIU3wmUfieyftW5Zv8lWbYtTmqEFdyv2PhC-mK9zf/s1600/hackers.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjNNmPk11Bi3ZSy2Ie2mYNp4GaZdKTu9nQR3mTpIw4Ftwcs_DlPpFaI-WIgjxdv377fSGcMXIPESYOI8XywtrmnjZW4h6FVs4JRB-DhLKzgm5eVz8rmxiC0WyUk2uuFzHAlELSVnsW3Y9QeNtUSIU3wmUfieyftW5Zv8lWbYtTmqEFdyv2PhC-mK9zf/s1600/hackers.png"
+        },
+        {
+          "id": "https://thehackernews.com/2023/03/why-healthcare-cant-afford-to-ignore.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Investing in digital identity can improve security, increase clinical productivity, and boost healthcare's bottom line. — by Gus Malezis, CEO of Imprivata\nDigitalization has created immeasurable opportunities for businesses over the past two decades. But the growth of hybrid work and expansion of Internet of Things (IoT) has outpaced traditional 'castle and moat' cybersecurity, introducing",
+          "link": "https://thehackernews.com/2023/03/why-healthcare-cant-afford-to-ignore.html",
+          "publishedOn": "2023-03-07T11:23:00.000Z",
+          "wordCount": null,
+          "title": "Why Healthcare Can't Afford to Ignore Digital Identity",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiXYWx4_n7O3rAz_60VVEOXWRXKfhLYXJb281YdU3gjla5fPJvrM6r-XDsPqteafK1v_9qNkkWmswJz7tSoRJrBUucT62ck32GHOvmD0xIgKLx0AMJ10_d7kXO-6BZAdnFGMTPX0YqJZT8YALXJUpNPD1ftQE7OW7-3Qb2OIxbqcBFgdZf_5iextX1M/s1600/healthcare-cybersecurity.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiXYWx4_n7O3rAz_60VVEOXWRXKfhLYXJb281YdU3gjla5fPJvrM6r-XDsPqteafK1v_9qNkkWmswJz7tSoRJrBUucT62ck32GHOvmD0xIgKLx0AMJ10_d7kXO-6BZAdnFGMTPX0YqJZT8YALXJUpNPD1ftQE7OW7-3Qb2OIxbqcBFgdZf_5iextX1M/s1600/healthcare-cybersecurity.png"
+        },
+        {
+          "id": "https://thehackernews.com/2023/03/sheins-android-app-caught-transmitting.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "An older version of Shein's Android application suffered from a bug that periodically captured and transmitted clipboard contents to a remote server.\nThe Microsoft 365 Defender Research Team said it discovered the problem in version 7.9.2 of the app that was released on December 16, 2021. The issue has since been addressed as of May 2022.\nShein, originally named ZZKKO, is a Chinese online fast",
+          "link": "https://thehackernews.com/2023/03/sheins-android-app-caught-transmitting.html",
+          "publishedOn": "2023-03-07T07:42:00.000Z",
+          "wordCount": null,
+          "title": "Shein's Android App Caught Transmitting Clipboard Data to Remote Servers",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjqFSyAjx7LzBBQ0D-0qOlJBRJbVTRHJMcMAkXOIAbMn3XfqfNvCsK0s2qiGVy7I7ZEZEqwONvYZztL4xnarkx9mDzPK09mLvwkPhaEpMO4TJAIPbJWF4jXLd93-d2WLo1w0au3ck49bgR5n20W5vJhfZUqf8fbD_CQNlRf8QMRyuunbxK0fHaljijn/s1600/shein.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjqFSyAjx7LzBBQ0D-0qOlJBRJbVTRHJMcMAkXOIAbMn3XfqfNvCsK0s2qiGVy7I7ZEZEqwONvYZztL4xnarkx9mDzPK09mLvwkPhaEpMO4TJAIPbJWF4jXLd93-d2WLo1w0au3ck49bgR5n20W5vJhfZUqf8fbD_CQNlRf8QMRyuunbxK0fHaljijn/s1600/shein.png"
+        },
         {
           "id": "https://thehackernews.com/2023/03/lastpass-hack-engineers-failure-to.html",
           "author": "info@thehackernews.com (The Hacker News)",
