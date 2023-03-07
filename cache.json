@@ -470,6 +470,51 @@
       "siteUrl": "https://www.darkreading.com",
       "articles": [
         {
+          "id": "https://www.darkreading.com/emerging-tech/machine-learning-improves-prediction-of-exploited-vulnerabilities",
+          "author": "Robert Lemos, Contributing Writer, Dark Reading",
+          "description": "The third iteration of the Exploit Prediction Scoring System (EPSS) performs 82% better than previous versions, giving companies a better tool for evaluating vulnerabilities and prioritizing patching.",
+          "link": "https://www.darkreading.com/emerging-tech/machine-learning-improves-prediction-of-exploited-vulnerabilities",
+          "publishedOn": "2023-03-07T00:46:00.000Z",
+          "wordCount": 14564,
+          "title": "Machine Learning Improves Prediction of Exploited Vulnerabilities",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt58481326324d6911/60b1e9a55d34de550780a990/Robert-Lemos.png",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt58481326324d6911/60b1e9a55d34de550780a990/Robert-Lemos.png"
+        },
+        {
+          "id": "https://www.darkreading.com/threat-intelligence/shein-shopping-app-glitch-copies-android-clipboard-context",
+          "author": "Dark Reading Staff, Dark Reading",
+          "description": "The Android app unnecessarily accessed clipboard device contents, which often includes passwords and other sensitive data.",
+          "link": "https://www.darkreading.com/threat-intelligence/shein-shopping-app-glitch-copies-android-clipboard-context",
+          "publishedOn": "2023-03-06T21:30:00.000Z",
+          "wordCount": 11109,
+          "title": "Shein Shopping App Glitch Copies Android Clipboard Contents",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blte161b23f0fd3a84b/60b1ea374e7eb868c4c6a293/dr_staff_125x125.jpg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blte161b23f0fd3a84b/60b1ea374e7eb868c4c6a293/dr_staff_125x125.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/threat-intelligence/police-raid-alleged-core-members-of-doppelpaymer-ransomware-gang",
+          "author": "Nate Nelson, Contributing Writer, Dark Reading",
+          "description": "This is the latest in a line of law-enforcement actions busting up the ransomware scene.",
+          "link": "https://www.darkreading.com/threat-intelligence/police-raid-alleged-core-members-of-doppelpaymer-ransomware-gang",
+          "publishedOn": "2023-03-06T19:25:00.000Z",
+          "wordCount": 12732,
+          "title": "Police Raid Rounds Up Core Members of DoppelPaymer Ransomware Gang",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt91e5f91ce3f0cdd9/63d0288ac98dbe55ece1d0a9/Nate-Nelson_(1).jpg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt91e5f91ce3f0cdd9/63d0288ac98dbe55ece1d0a9/Nate-Nelson_(1).jpg"
+        },
+        {
           "id": "https://www.darkreading.com/threat-intelligence/nist-quantum-proof-algorithm-bug-analysts",
           "author": "Dark Reading Staff, Dark Reading",
           "description": "A team has found that the Crystals-Kyber encryption algorithm is open to side-channel attacks, under certain implementations.",
