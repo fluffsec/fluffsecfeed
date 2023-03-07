@@ -73,6 +73,16 @@
       "siteUrl": "https://www.cisa.gov/",
       "articles": [
         {
+          "id": "/node/17534",
+          "author": "CISA",
+          "description": "CISA has added three new vulnerabilities to its Known Exploited Vulnerabilities Catalog, based on evidence of active exploitation.\nCVE-2022-28810 Zoho ManageEngine ADSelfService Plus Remote Code Execution Vulnerability\nCVE-2022-33891 Apache Spark Command Injection Vulnerability\nCVE-2022-35914 Teclib GLPI Remote Code Execution Vulnerability\nThese types of vulnerabilities are frequent attack vectors for malicious cyber actors and pose significant risks to the federal enterprise. Note: To view other newly added vulnerabilities in the catalog, click on the arrow in the \"Date Added to Catalog\" column—which will sort by descending dates.\nBinding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the Known Exploited Vulnerabilities Catalog as a living list of known Common Vulnerabilities and Exposures (CVEs) that carry significant risk to the federal enterprise. BOD 22-01 requires Federal Civilian Executive Branch (FCEB) agencies to remediate identified vulnerabilities by the due date to protect FCEB networks against active threats. See the BOD 22-01 Fact Sheet for more information.\nAlthough BOD 22-01 only applies to FCEB agencies, CISA strongly urges all organizations to reduce their exposure to cyberattacks by prioritizing timely remediation of Catalog vulnerabilities as part of their vulnerability management practice. CISA will continue to add vulnerabilities to the catalog that meet the specified criteria.\nPlease share your thoughts. We recently updated our anonymous Product Feedback Survey and we'd welcome your feedback.",
+          "link": "https://www.cisa.gov/news-events/alerts/2023/03/07/cisa-adds-three-known-exploited-vulnerabilities-catalog",
+          "publishedOn": "2023-03-07T19:17:11.922Z",
+          "wordCount": 684,
+          "title": "Untitled",
+          "imageUrl": null
+        },
+        {
           "id": "/node/17505",
           "author": "CISA",
           "description": "",
@@ -480,6 +490,141 @@
       "feedUrl": "https://www.darkreading.com/rss.xml",
       "siteUrl": "https://www.darkreading.com",
       "articles": [
+        {
+          "id": "https://www.darkreading.com/risk/manageengine-launches-security-and-risk-posture-management-in-its-siem-solution-",
+          "author": null,
+          "description": "",
+          "link": "https://www.darkreading.com/risk/manageengine-launches-security-and-risk-posture-management-in-its-siem-solution-",
+          "publishedOn": "2023-03-07T18:40:00.000Z",
+          "wordCount": 12658,
+          "title": "ManageEngine Launches Security and Risk Posture Management in its SIEM Solution",
+          "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/risk/employees-feeding-sensitive-business-data-chatgpt-raising-security-fears",
+          "author": "Robert Lemos, Contributing Writer, Dark Reading",
+          "description": "More than 4% of employees have put sensitive corporate data into the large language model, raising concerns that its popularity may result in massive leaks of proprietary information.",
+          "link": "https://www.darkreading.com/risk/employees-feeding-sensitive-business-data-chatgpt-raising-security-fears",
+          "publishedOn": "2023-03-07T18:37:00.000Z",
+          "wordCount": 14900,
+          "title": "Employees Are Feeding Sensitive Biz Data to ChatGPT, Raising Security Fears",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt58481326324d6911/60b1e9a55d34de550780a990/Robert-Lemos.png",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt58481326324d6911/60b1e9a55d34de550780a990/Robert-Lemos.png"
+        },
+        {
+          "id": "https://www.darkreading.com/risk/scams-security-pros-almost-fell-for",
+          "author": "Adam Caudill, Security Architect, 1Password",
+          "description": "By working together as an industry, we can develop the technologies needed to account for human error.",
+          "link": "https://www.darkreading.com/risk/scams-security-pros-almost-fell-for",
+          "publishedOn": "2023-03-07T18:00:00.000Z",
+          "wordCount": 13984,
+          "title": "Scams Security Pros Almost Fell For",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltfdab5a9b66a6ca9d/64025e979640484a6033b595/Adam-Caudill.png",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltfdab5a9b66a6ca9d/64025e979640484a6033b595/Adam-Caudill.png"
+        },
+        {
+          "id": "https://www.darkreading.com/endpoint/99-of-cybersecurity-leaders-are-stressed-about-email-security",
+          "author": null,
+          "description": "",
+          "link": "https://www.darkreading.com/endpoint/99-of-cybersecurity-leaders-are-stressed-about-email-security",
+          "publishedOn": "2023-03-07T17:54:00.000Z",
+          "wordCount": 14067,
+          "title": "99% of Cybersecurity Leaders Are Stressed About Email Security",
+          "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/cloud/palo-alto-networks-global-state-of-cloud-native-security-survey-reveals-90-of-organizations-cannot-detect-contain-and-resolve-cyberthreats-within-an-hour",
+          "author": null,
+          "description": "Third annual report identifies top security gaps and challenges for organizations operating in the cloud.",
+          "link": "https://www.darkreading.com/cloud/palo-alto-networks-global-state-of-cloud-native-security-survey-reveals-90-of-organizations-cannot-detect-contain-and-resolve-cyberthreats-within-an-hour",
+          "publishedOn": "2023-03-07T17:38:00.000Z",
+          "wordCount": 14226,
+          "title": "Palo Alto Survey Reveals 90% of Organizations Cannot Resolve Cyberthreats Within an Hour",
+          "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/threat-intelligence/remcos-rat-spyware-machines-cloud-servers",
+          "author": "Elizabeth Montalbano, Contributor, Dark Reading",
+          "description": "Attackers use phishing emails that appear to come from reputable organizations, dropping the payload using public cloud servers and an old Windows UAC bypass technique.",
+          "link": "https://www.darkreading.com/threat-intelligence/remcos-rat-spyware-machines-cloud-servers",
+          "publishedOn": "2023-03-07T16:07:22.000Z",
+          "wordCount": 14016,
+          "title": "Remcos RAT Spyware Scurries Into Machines via Cloud Servers",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltbfd004d139d42d70/6303bca6236c2476a257760e/ElizabethMontalbano.jpg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltbfd004d139d42d70/6303bca6236c2476a257760e/ElizabethMontalbano.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/operations/delinea-adds-new-features-for-its-privilege-manager-and-devops-secrets-vault",
+          "author": null,
+          "description": "",
+          "link": "https://www.darkreading.com/operations/delinea-adds-new-features-for-its-privilege-manager-and-devops-secrets-vault",
+          "publishedOn": "2023-03-07T16:00:00.000Z",
+          "wordCount": 12565,
+          "title": "Delinea Adds New features for its Privilege Manager and DevOps Secrets Vault",
+          "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/risk/key-proposals-in-biden-cybersecurity-strategy-face-congressional-challenges",
+          "author": "Jai Vijayan, Contributing Writer, Dark Reading",
+          "description": "The strategy document does nothing to change things on the ground in the near term; legislation, regulation, and follow-up executive action are all going to be key to moving forward the administration's agenda.",
+          "link": "https://www.darkreading.com/risk/key-proposals-in-biden-cybersecurity-strategy-face-congressional-challenges",
+          "publishedOn": "2023-03-07T15:46:00.000Z",
+          "wordCount": 15280,
+          "title": "Key Proposals in Biden's Cybersecurity Strategy Face Congressional Challenges",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt02d79fb9a44a4258/60b1e9dd2a25046b35110696/Jai-Vijayan.jpeg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt02d79fb9a44a4258/60b1e9dd2a25046b35110696/Jai-Vijayan.jpeg"
+        },
+        {
+          "id": "https://www.darkreading.com/ics-ot/ransomware-s-favorite-target-critical-infrastructure-and-its-industrial-control-systems",
+          "author": "Aaron Sandeen, CEO & Co-Founder, Securin",
+          "description": "The health, manufacturing, and energy sectors are the most vulnerable to ransomware.",
+          "link": "https://www.darkreading.com/ics-ot/ransomware-s-favorite-target-critical-infrastructure-and-its-industrial-control-systems",
+          "publishedOn": "2023-03-07T15:00:00.000Z",
+          "wordCount": 13484,
+          "title": "Ransomware's Favorite Target: Critical Infrastructure and Its Industrial Control Systems",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt207a89fee76630be/6319284a443e8155087ee39f/Aaron_Sandeen_copy.png",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt207a89fee76630be/6319284a443e8155087ee39f/Aaron_Sandeen_copy.png"
+        },
+        {
+          "id": "https://www.darkreading.com/ics-ot/optiv-launches-full-suite-of-operational-technology-services",
+          "author": null,
+          "description": "",
+          "link": "https://www.darkreading.com/ics-ot/optiv-launches-full-suite-of-operational-technology-services",
+          "publishedOn": "2023-03-07T14:57:00.000Z",
+          "wordCount": 12115,
+          "title": "Optiv Launches Full Suite of Operational Technology Services",
+          "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/vulnerabilities-threats/cyber-security-works-to-rebrand-as-securin-inc-",
+          "author": null,
+          "description": "Securin Inc. will provide tech-enabled security solutions, vulnerability\nintelligence and deep domain expertise.",
+          "link": "https://www.darkreading.com/vulnerabilities-threats/cyber-security-works-to-rebrand-as-securin-inc-",
+          "publishedOn": "2023-03-07T14:40:00.000Z",
+          "wordCount": 12334,
+          "title": "Cyber Security Works to Rebrand As Securin Inc.",
+          "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
+        },
         {
           "id": "https://www.darkreading.com/emerging-tech/machine-learning-improves-prediction-of-exploited-vulnerabilities",
           "author": "Robert Lemos, Contributing Writer, Dark Reading",
@@ -3871,6 +4016,26 @@
       "siteUrl": "https://blog.knowbe4.com",
       "articles": [
         {
+          "id": "https://blog.knowbe4.com/is-chatgpt-your-next-financial-advisor",
+          "author": "Stu Sjouwerman",
+          "description": "ChatGPT, an artificial intelligence (AI) chatbot created by OpenAI, has risen in popularity since its release last year. Now, cybercriminals are using ChatGPT’s popularity to lure you into phishing scams. In one of these scams, cybercriminals try to trick you with a fake new ChatGPT feature.",
+          "link": "https://blog.knowbe4.com/is-chatgpt-your-next-financial-advisor",
+          "publishedOn": "2023-03-07T14:07:00.000Z",
+          "wordCount": 2206,
+          "title": "[SCAM OF THE WEEK] Is ChatGPT Your Next Financial Advisor?",
+          "imageUrl": "https://blog.knowbe4.com/hubfs/ChatGPT%20Malicious%20Content%20Phishing.jpg#keepProtocol"
+        },
+        {
+          "id": "https://blog.knowbe4.com/cyberheistnews-vol-13-10-eye-opener-businessweek-the-satellite-hack-everyone-is-finally-talking-about",
+          "author": "Stu Sjouwerman",
+          "description": "CyberheistNews Vol 13 #10  |   March 7th, 2023  \r\n \n \r\n   \r\n \n \r\n  \n[Eye Opener] BusinessWeek: The Satellite Hack Everyone Is Finally Talking About\n \r\n  \nThis week, Bloomberg News pointed at a brand-new article at BusinessWeek, one of their media properties. This is an excellent article that exposes the vulnerabilities when communications systems are not secure by design. It is an excellent wake-up call for your C-level execs and powerful budget ammo.\n \r\n  \nThey started out with: \"As Putin began his invasion of Ukraine, a network used throughout Europe—and by the Ukrainian military—faced an unprecedented cyberattack that doubled as an industrywide wake-up call. What they refer to is the Viasat hack. The KnowBe4 blog initially reported on this hack on March 24, 2022 here: https://blog.knowb…",
+          "link": "https://blog.knowbe4.com/cyberheistnews-vol-13-10-eye-opener-businessweek-the-satellite-hack-everyone-is-finally-talking-about",
+          "publishedOn": "2023-03-07T14:00:00.000Z",
+          "wordCount": 5303,
+          "title": "CyberheistNews Vol 13 #10 [Eye Opener] BusinessWeek: The Satellite Hack Everyone Is Finally Talking About",
+          "imageUrl": "https://blog.knowbe4.com/hubfs/CHN-Social.jpg#keepProtocol"
+        },
+        {
           "id": "https://blog.knowbe4.com/75-percent-organizations-experienced-successful-email-based-attac",
           "author": "Stu Sjouwerman",
           "description": "New data shows just how impactful these attacks are, with 98% of victim organizations reporting some form of impact from email-based cyber attacks.",
@@ -4397,6 +4562,22 @@
       "feedUrl": "https://thehackernews.com/feeds/posts/default",
       "siteUrl": "https://thehackernews.com",
       "articles": [
+        {
+          "id": "https://thehackernews.com/2023/03/sys01stealer-new-threat-using-facebook.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Cybersecurity researchers have discovered a new information stealer dubbed SYS01stealer targeting critical government infrastructure employees, manufacturing companies, and other sectors.\n\"The threat actors behind the campaign are targeting Facebook business accounts by using Google ads and fake Facebook profiles that promote things like games, adult content, and cracked software, etc. to lure",
+          "link": "https://thehackernews.com/2023/03/sys01stealer-new-threat-using-facebook.html",
+          "publishedOn": "2023-03-07T13:58:00.000Z",
+          "wordCount": null,
+          "title": "SYS01stealer: New Threat Using Facebook Ads to Target Critical Infrastructure Firms",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgm_RcpcYRWGgR0iTxHwyUpJVHhSi7GsKA3WeQTIs2-3JNSBKEoPwtxN_PnH-IwzwkqIIx_8TEjMKYakRK6x1QbK44csSYaUOvogDNAfTNSiZ6ZH6ejhxyVS6OjSbPiSlyqWERo01AoDvLwZLXW7PGCtLbdF7lm8GMHCk856FYiftaaPmvC9yJTLx0a/s1600/cyberattack.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgm_RcpcYRWGgR0iTxHwyUpJVHhSi7GsKA3WeQTIs2-3JNSBKEoPwtxN_PnH-IwzwkqIIx_8TEjMKYakRK6x1QbK44csSYaUOvogDNAfTNSiZ6ZH6ejhxyVS6OjSbPiSlyqWERo01AoDvLwZLXW7PGCtLbdF7lm8GMHCk856FYiftaaPmvC9yJTLx0a/s1600/cyberattack.png"
+        },
         {
           "id": "https://thehackernews.com/2023/03/transparent-tribe-hackers-distribute.html",
           "author": "info@thehackernews.com (The Hacker News)",

@@ -2,10 +2,178 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-03-07T13:30:36.893Z</updated>
+    <updated>2023-03-07T19:17:28.564Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Untitled]]></title>
+        <id>/node/17534</id>
+        <link href="https://www.cisa.gov/news-events/alerts/2023/03/07/cisa-adds-three-known-exploited-vulnerabilities-catalog"/>
+        <updated>2023-03-07T19:17:11.922Z</updated>
+        <summary type="html"><![CDATA[CISA has added three new vulnerabilities to its Known Exploited Vulnerabilities Catalog, based on evidence of active exploitation.
+CVE-2022-28810 Zoho ManageEngine ADSelfService Plus Remote Code Execution Vulnerability
+CVE-2022-33891 Apache Spark Command Injection Vulnerability
+CVE-2022-35914 Teclib GLPI Remote Code Execution Vulnerability
+These types of vulnerabilities are frequent attack vectors for malicious cyber actors and pose significant risks to the federal enterprise. Note: To view other newly added vulnerabilities in the catalog, click on the arrow in the "Date Added to Catalog" column—which will sort by descending dates.
+Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the Known Exploited Vulnerabilities Catalog as a living list of known Common Vulnerabilities and Exposures (CVEs) that carry significant risk to the federal enterprise. BOD 22-01 requires Federal Civilian Executive Branch (FCEB) agencies to remediate identified vulnerabilities by the due date to protect FCEB networks against active threats. See the BOD 22-01 Fact Sheet for more information.
+Although BOD 22-01 only applies to FCEB agencies, CISA strongly urges all organizations to reduce their exposure to cyberattacks by prioritizing timely remediation of Catalog vulnerabilities as part of their vulnerability management practice. CISA will continue to add vulnerabilities to the catalog that meet the specified criteria.
+Please share your thoughts. We recently updated our anonymous Product Feedback Survey and we'd welcome your feedback.]]></summary>
+        <author>
+            <name>CISA</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ManageEngine Launches Security and Risk Posture Management in its SIEM Solution]]></title>
+        <id>https://www.darkreading.com/risk/manageengine-launches-security-and-risk-posture-management-in-its-siem-solution-</id>
+        <link href="https://www.darkreading.com/risk/manageengine-launches-security-and-risk-posture-management-in-its-siem-solution-"/>
+        <updated>2023-03-07T18:40:00.000Z</updated>
+        <author>
+            <name>Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Employees Are Feeding Sensitive Biz Data to ChatGPT, Raising Security Fears]]></title>
+        <id>https://www.darkreading.com/risk/employees-feeding-sensitive-business-data-chatgpt-raising-security-fears</id>
+        <link href="https://www.darkreading.com/risk/employees-feeding-sensitive-business-data-chatgpt-raising-security-fears"/>
+        <updated>2023-03-07T18:37:00.000Z</updated>
+        <summary type="html"><![CDATA[More than 4% of employees have put sensitive corporate data into the large language model, raising concerns that its popularity may result in massive leaks of proprietary information.]]></summary>
+        <author>
+            <name>Robert Lemos, Contributing Writer, Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Scams Security Pros Almost Fell For]]></title>
+        <id>https://www.darkreading.com/risk/scams-security-pros-almost-fell-for</id>
+        <link href="https://www.darkreading.com/risk/scams-security-pros-almost-fell-for"/>
+        <updated>2023-03-07T18:00:00.000Z</updated>
+        <summary type="html"><![CDATA[By working together as an industry, we can develop the technologies needed to account for human error.]]></summary>
+        <author>
+            <name>Adam Caudill, Security Architect, 1Password</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[99% of Cybersecurity Leaders Are Stressed About Email Security]]></title>
+        <id>https://www.darkreading.com/endpoint/99-of-cybersecurity-leaders-are-stressed-about-email-security</id>
+        <link href="https://www.darkreading.com/endpoint/99-of-cybersecurity-leaders-are-stressed-about-email-security"/>
+        <updated>2023-03-07T17:54:00.000Z</updated>
+        <author>
+            <name>Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Palo Alto Survey Reveals 90% of Organizations Cannot Resolve Cyberthreats Within an Hour]]></title>
+        <id>https://www.darkreading.com/cloud/palo-alto-networks-global-state-of-cloud-native-security-survey-reveals-90-of-organizations-cannot-detect-contain-and-resolve-cyberthreats-within-an-hour</id>
+        <link href="https://www.darkreading.com/cloud/palo-alto-networks-global-state-of-cloud-native-security-survey-reveals-90-of-organizations-cannot-detect-contain-and-resolve-cyberthreats-within-an-hour"/>
+        <updated>2023-03-07T17:38:00.000Z</updated>
+        <summary type="html"><![CDATA[Third annual report identifies top security gaps and challenges for organizations operating in the cloud.]]></summary>
+        <author>
+            <name>Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Remcos RAT Spyware Scurries Into Machines via Cloud Servers]]></title>
+        <id>https://www.darkreading.com/threat-intelligence/remcos-rat-spyware-machines-cloud-servers</id>
+        <link href="https://www.darkreading.com/threat-intelligence/remcos-rat-spyware-machines-cloud-servers"/>
+        <updated>2023-03-07T16:07:22.000Z</updated>
+        <summary type="html"><![CDATA[Attackers use phishing emails that appear to come from reputable organizations, dropping the payload using public cloud servers and an old Windows UAC bypass technique.]]></summary>
+        <author>
+            <name>Elizabeth Montalbano, Contributor, Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Delinea Adds New features for its Privilege Manager and DevOps Secrets Vault]]></title>
+        <id>https://www.darkreading.com/operations/delinea-adds-new-features-for-its-privilege-manager-and-devops-secrets-vault</id>
+        <link href="https://www.darkreading.com/operations/delinea-adds-new-features-for-its-privilege-manager-and-devops-secrets-vault"/>
+        <updated>2023-03-07T16:00:00.000Z</updated>
+        <author>
+            <name>Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Key Proposals in Biden's Cybersecurity Strategy Face Congressional Challenges]]></title>
+        <id>https://www.darkreading.com/risk/key-proposals-in-biden-cybersecurity-strategy-face-congressional-challenges</id>
+        <link href="https://www.darkreading.com/risk/key-proposals-in-biden-cybersecurity-strategy-face-congressional-challenges"/>
+        <updated>2023-03-07T15:46:00.000Z</updated>
+        <summary type="html"><![CDATA[The strategy document does nothing to change things on the ground in the near term; legislation, regulation, and follow-up executive action are all going to be key to moving forward the administration's agenda.]]></summary>
+        <author>
+            <name>Jai Vijayan, Contributing Writer, Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ransomware's Favorite Target: Critical Infrastructure and Its Industrial Control Systems]]></title>
+        <id>https://www.darkreading.com/ics-ot/ransomware-s-favorite-target-critical-infrastructure-and-its-industrial-control-systems</id>
+        <link href="https://www.darkreading.com/ics-ot/ransomware-s-favorite-target-critical-infrastructure-and-its-industrial-control-systems"/>
+        <updated>2023-03-07T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The health, manufacturing, and energy sectors are the most vulnerable to ransomware.]]></summary>
+        <author>
+            <name>Aaron Sandeen, CEO &amp; Co-Founder, Securin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Optiv Launches Full Suite of Operational Technology Services]]></title>
+        <id>https://www.darkreading.com/ics-ot/optiv-launches-full-suite-of-operational-technology-services</id>
+        <link href="https://www.darkreading.com/ics-ot/optiv-launches-full-suite-of-operational-technology-services"/>
+        <updated>2023-03-07T14:57:00.000Z</updated>
+        <author>
+            <name>Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cyber Security Works to Rebrand As Securin Inc.]]></title>
+        <id>https://www.darkreading.com/vulnerabilities-threats/cyber-security-works-to-rebrand-as-securin-inc-</id>
+        <link href="https://www.darkreading.com/vulnerabilities-threats/cyber-security-works-to-rebrand-as-securin-inc-"/>
+        <updated>2023-03-07T14:40:00.000Z</updated>
+        <summary type="html"><![CDATA[Securin Inc. will provide tech-enabled security solutions, vulnerability
+intelligence and deep domain expertise.]]></summary>
+        <author>
+            <name>Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[SCAM OF THE WEEK] Is ChatGPT Your Next Financial Advisor?]]></title>
+        <id>https://blog.knowbe4.com/is-chatgpt-your-next-financial-advisor</id>
+        <link href="https://blog.knowbe4.com/is-chatgpt-your-next-financial-advisor"/>
+        <updated>2023-03-07T14:07:00.000Z</updated>
+        <summary type="html"><![CDATA[ChatGPT, an artificial intelligence (AI) chatbot created by OpenAI, has risen in popularity since its release last year. Now, cybercriminals are using ChatGPT’s popularity to lure you into phishing scams. In one of these scams, cybercriminals try to trick you with a fake new ChatGPT feature.]]></summary>
+        <author>
+            <name>Stu Sjouwerman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CyberheistNews Vol 13 #10 [Eye Opener] BusinessWeek: The Satellite Hack Everyone Is Finally Talking About]]></title>
+        <id>https://blog.knowbe4.com/cyberheistnews-vol-13-10-eye-opener-businessweek-the-satellite-hack-everyone-is-finally-talking-about</id>
+        <link href="https://blog.knowbe4.com/cyberheistnews-vol-13-10-eye-opener-businessweek-the-satellite-hack-everyone-is-finally-talking-about"/>
+        <updated>2023-03-07T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[CyberheistNews Vol 13 #10  |   March 7th, 2023  
+ 
+ 
+   
+ 
+ 
+  
+[Eye Opener] BusinessWeek: The Satellite Hack Everyone Is Finally Talking About
+ 
+  
+This week, Bloomberg News pointed at a brand-new article at BusinessWeek, one of their media properties. This is an excellent article that exposes the vulnerabilities when communications systems are not secure by design. It is an excellent wake-up call for your C-level execs and powerful budget ammo.
+ 
+  
+They started out with: "As Putin began his invasion of Ukraine, a network used throughout Europe—and by the Ukrainian military—faced an unprecedented cyberattack that doubled as an industrywide wake-up call. What they refer to is the Viasat hack. The KnowBe4 blog initially reported on this hack on March 24, 2022 here: https://blog.knowb…]]></summary>
+        <author>
+            <name>Stu Sjouwerman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SYS01stealer: New Threat Using Facebook Ads to Target Critical Infrastructure Firms]]></title>
+        <id>https://thehackernews.com/2023/03/sys01stealer-new-threat-using-facebook.html</id>
+        <link href="https://thehackernews.com/2023/03/sys01stealer-new-threat-using-facebook.html"/>
+        <updated>2023-03-07T13:58:00.000Z</updated>
+        <summary type="html"><![CDATA[Cybersecurity researchers have discovered a new information stealer dubbed SYS01stealer targeting critical government infrastructure employees, manufacturing companies, and other sectors.
+"The threat actors behind the campaign are targeting Facebook business accounts by using Google ads and fake Facebook profiles that promote things like games, adult content, and cracked software, etc. to lure]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Three out of Four Organizations Have Experienced a Successful Email-Based Attack as Impacts Increase]]></title>
         <id>https://blog.knowbe4.com/75-percent-organizations-experienced-successful-email-based-attac</id>
