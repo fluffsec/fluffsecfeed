@@ -2,10 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-03-08T02:33:46.834Z</updated>
+    <updated>2023-03-08T07:19:10.599Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[CISA's KEV Catalog Updated with 3 New Flaws Threatening IT Management Systems]]></title>
+        <id>https://thehackernews.com/2023/03/cisas-kev-catalog-updated-with-3-new.html</id>
+        <link href="https://thehackernews.com/2023/03/cisas-kev-catalog-updated-with-3-new.html"/>
+        <updated>2023-03-08T06:30:00.000Z</updated>
+        <summary type="html"><![CDATA[The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added three security flaws to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation.
+The list of vulnerabilities is below -
+
+CVE-2022-35914 (CVSS score: 9.8) - Teclib GLPI Remote Code Execution Vulnerability
+CVE-2022-33891 (CVSS score: 8.8) - Apache Spark Command Injection Vulnerability]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Akamai Technologies Releases New Service and Tools to Stop Advanced Threats and Drive Zero Trust Adoption]]></title>
         <id>https://www.darkreading.com/cloud/akamai-technologies-releases-new-service-and-tools-to-stop-advanced-threats-and-drive-zero-trust-adoption</id>
@@ -5211,36 +5225,6 @@ The findings come from AhnLab Security Emergency response Center (ASEC), which d
         <summary type="html"><![CDATA[Look for recent trends in attacks, strategies, and vulnerabilities to continue gaining steam throughout 2023.]]></summary>
         <author>
             <name>Emily Laufer, Senior Manager of Product Marketing, ThreatLabz, Zscaler</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Patching & Passwords Lead the Problem Pack for Cyber-Teams]]></title>
-        <id>https://www.darkreading.com/cloud/patching-passwords-problem-pack-cyber-teams</id>
-        <link href="https://www.darkreading.com/cloud/patching-passwords-problem-pack-cyber-teams"/>
-        <updated>2023-02-06T19:18:00.000Z</updated>
-        <summary type="html"><![CDATA[Despite growing awareness, organizations remain plagued with unpatched vulnerabilities and weaknesses in credential policies.]]></summary>
-        <author>
-            <name>Nathan Eddy, Contributing Writer, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Cybercriminals Are Operationalizing Money Laundering and What to Do About It]]></title>
-        <id>https://www.darkreading.com/vulnerabilities-threats/how-cybercriminals-are-operationalizing-money-laundering-and-what-to-do-about-it</id>
-        <link href="https://www.darkreading.com/vulnerabilities-threats/how-cybercriminals-are-operationalizing-money-laundering-and-what-to-do-about-it"/>
-        <updated>2023-02-06T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[It's time to share threat intelligence and prioritize digital literacy and cyber hygiene to stem the rising money laundering tide.]]></summary>
-        <author>
-            <name>Derek Manky, Chief Security Strategist &amp; VP Global Threat Intelligence, FortiGuard Labs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Name That Edge Toon: For the Birds]]></title>
-        <id>https://www.darkreading.com/edge-articles/name-that-edge-toon-for-the-birds</id>
-        <link href="https://www.darkreading.com/edge-articles/name-that-edge-toon-for-the-birds"/>
-        <updated>2023-02-06T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Come up with a clever caption, and our panel of experts will reward the winner with a $25 Amazon gift card.]]></summary>
-        <author>
-            <name>John Klossner, Cartoonist</name>
         </author>
     </entry>
 </feed>
