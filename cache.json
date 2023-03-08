@@ -491,6 +491,61 @@
       "siteUrl": "https://www.darkreading.com",
       "articles": [
         {
+          "id": "https://www.darkreading.com/cloud/akamai-technologies-releases-new-service-and-tools-to-stop-advanced-threats-and-drive-zero-trust-adoption",
+          "author": null,
+          "description": "",
+          "link": "https://www.darkreading.com/cloud/akamai-technologies-releases-new-service-and-tools-to-stop-advanced-threats-and-drive-zero-trust-adoption",
+          "publishedOn": "2023-03-07T21:48:00.000Z",
+          "wordCount": 12722,
+          "title": "Akamai Technologies Releases New Service and Tools to Stop Advanced Threats and Drive Zero Trust Adoption",
+          "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/threat-intelligence/hiatusrat-campaign-draytek-gear-cyber-espionage-proxy-control",
+          "author": "Tara Seals, Managing Editor, News, Dark Reading",
+          "description": "Two novel malware binaries, including \"HiatusRAT,\" offer unique capabilities that point to the need for better security for companies' router infrastructure.",
+          "link": "https://www.darkreading.com/threat-intelligence/hiatusrat-campaign-draytek-gear-cyber-espionage-proxy-control",
+          "publishedOn": "2023-03-07T20:40:24.000Z",
+          "wordCount": 14010,
+          "title": "Hiatus Campaign Infects DrayTek Routers for Cyber Espionage, Proxy Control",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltea67136f81f32eca/626a9eb4726e3315b16b3c64/Tara-Seals-Headshot2.jpg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltea67136f81f32eca/626a9eb4726e3315b16b3c64/Tara-Seals-Headshot2.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/application-security/acer-confirms-data-offered-for-sale-stolen",
+          "author": "Dark Reading Staff, Dark Reading",
+          "description": "An Acer statement confirms that a document server for repair techs was compromised, but says customer data doesn't appear to be part of the leak.",
+          "link": "https://www.darkreading.com/application-security/acer-confirms-data-offered-for-sale-stolen",
+          "publishedOn": "2023-03-07T20:18:00.000Z",
+          "wordCount": 10949,
+          "title": "Acer Confirms Data Offered Up for Sale Was Stolen",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blte161b23f0fd3a84b/60b1ea374e7eb868c4c6a293/dr_staff_125x125.jpg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blte161b23f0fd3a84b/60b1ea374e7eb868c4c6a293/dr_staff_125x125.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/application-security/hacker-cracks-toyota-customer-search-tool",
+          "author": "Dark Reading Staff, Dark Reading",
+          "description": "Flaw in Toyota's C360 customer relationship management tool exposed personal data of unknown number of customers in Mexico, a disclosure says.",
+          "link": "https://www.darkreading.com/application-security/hacker-cracks-toyota-customer-search-tool",
+          "publishedOn": "2023-03-07T19:50:00.000Z",
+          "wordCount": 10855,
+          "title": "Hacker Cracks Toyota Customer Search Tool",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blte161b23f0fd3a84b/60b1ea374e7eb868c4c6a293/dr_staff_125x125.jpg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blte161b23f0fd3a84b/60b1ea374e7eb868c4c6a293/dr_staff_125x125.jpg"
+        },
+        {
           "id": "https://www.darkreading.com/risk/manageengine-launches-security-and-risk-posture-management-in-its-siem-solution-",
           "author": null,
           "description": "",
@@ -6577,86 +6632,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg9gz1N_Tfcwx3TpyJ6JJCoDrXIa0NxqqiHA41VSkVhw3b5qsw1_gtSmtFuFZhCjpgb7A_UUyaG_wOf7jQVVlQpPESQJCxmV59Ly7LmpUugObqea-N5wN5Tu15U9kGmAN6qxJNj90Qq4bOSgeDu9c3BH8Qo70CzXcycryUVBIUbNF4VW9LLrhWnmB1i/s1600/vmware.png"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg9gz1N_Tfcwx3TpyJ6JJCoDrXIa0NxqqiHA41VSkVhw3b5qsw1_gtSmtFuFZhCjpgb7A_UUyaG_wOf7jQVVlQpPESQJCxmV59Ly7LmpUugObqea-N5wN5Tu15U9kGmAN6qxJNj90Qq4bOSgeDu9c3BH8Qo70CzXcycryUVBIUbNF4VW9LLrhWnmB1i/s1600/vmware.png"
-        },
-        {
-          "id": "https://thehackernews.com/2023/02/guloader-malware-using-malicious-nsis.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "E-commerce industries in South Korea and the U.S. are at the receiving end of an ongoing GuLoader malware campaign, cybersecurity firm Trellix disclosed late last month.\nThe malspam activity is notable for transitioning away from malware-laced Microsoft Word documents to NSIS executable files for loading the malware. Other countries targeted as part of the campaign include Germany, Saudi Arabia,",
-          "link": "https://thehackernews.com/2023/02/guloader-malware-using-malicious-nsis.html",
-          "publishedOn": "2023-02-06T12:36:00.000Z",
-          "wordCount": null,
-          "title": "GuLoader Malware Using Malicious NSIS Executables to Target E-Commerce Industry",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh5237AtvjTt1tO9h1YoejniKzOBGkg7A3Lh3Gvlf_xpHT5WL7V60VSt5gjmuMGVgDJUMq6_f8UBHvF4lAzn5KWQEbeT7EsCTV8w5Yxu1GJcVsLTinn9uoJiq75hxXlwAmEiFJTiN1DCk74yQjYE7AuGI8ZI_8RfFVoyADjjW_QB1aHfpKja3S9Yyvw/s1600/malware.png"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh5237AtvjTt1tO9h1YoejniKzOBGkg7A3Lh3Gvlf_xpHT5WL7V60VSt5gjmuMGVgDJUMq6_f8UBHvF4lAzn5KWQEbeT7EsCTV8w5Yxu1GJcVsLTinn9uoJiq75hxXlwAmEiFJTiN1DCk74yQjYE7AuGI8ZI_8RfFVoyADjjW_QB1aHfpKja3S9Yyvw/s1600/malware.png"
-        },
-        {
-          "id": "https://thehackernews.com/2023/02/microsoft-iranian-nation-state-group.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "An Iranian nation-state group sanctioned by the U.S. government has been attributed to the hack of the French satirical magazine Charlie Hebdo in early January 2023.\nMicrosoft, which disclosed details of the incident, is tracking the activity cluster under its chemical element-themed moniker NEPTUNIUM, which is an Iran-based company known as Emennet Pasargad.\nIn January 2022, the U.S. Federal",
-          "link": "https://thehackernews.com/2023/02/microsoft-iranian-nation-state-group.html",
-          "publishedOn": "2023-02-06T12:09:00.000Z",
-          "wordCount": null,
-          "title": "Microsoft: Iranian Nation-State Group Sanctioned by U.S. Behind Charlie Hebdo Hack",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgSfNZu2pQl11V_cSzir_rotdurLMzW2DESu5pLH-N-bynTtRv7xE2wd9vUuxFqQ_cDOyyJAxhqEh5KOy_B0hU0zscctHKxf7DfvIblQbte8GVWC5b4zK0yVB1WWHpsDVpZATm8b5mf11BDwqj59U7uZEspnw03HtbiTmTTxe11DsgRumgy-yt7t7t9/s1600/hacking.png"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgSfNZu2pQl11V_cSzir_rotdurLMzW2DESu5pLH-N-bynTtRv7xE2wd9vUuxFqQ_cDOyyJAxhqEh5KOy_B0hU0zscctHKxf7DfvIblQbte8GVWC5b4zK0yVB1WWHpsDVpZATm8b5mf11BDwqj59U7uZEspnw03HtbiTmTTxe11DsgRumgy-yt7t7t9/s1600/hacking.png"
-        },
-        {
-          "id": "https://thehackernews.com/2023/02/saas-in-real-world-whos-responsible-to.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "When SaaS applications started growing in popularity, it was unclear who was responsible for securing the data. Today, most security and IT teams understand the shared responsibility model, in which the SaaS vendor is responsible for securing the application, while the organization is responsible for securing their data. \nWhat’s far murkier, however, is where the data responsibility lies on the",
-          "link": "https://thehackernews.com/2023/02/saas-in-real-world-whos-responsible-to.html",
-          "publishedOn": "2023-02-06T10:00:00.000Z",
-          "wordCount": null,
-          "title": "SaaS in the Real World: Who's Responsible to Secure this Data?",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYyYQ6AYDkTcPuSkWH8uD3IpvvNszv3Us2QAXWagOr_hO0SF-WyPDG8RatU58gVgVa46hS1AHrgaEs9ZhVFUlCDvFtcrtV3GbsWVFJUIOw3Zay_qGKziZH9OO3NGgI1jOZm55weD4kjYu7oZZcdelOLryEFnpDSaKQbsNoiABblTjseilqdUeYXX9S/s1600/saas.png"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYyYQ6AYDkTcPuSkWH8uD3IpvvNszv3Us2QAXWagOr_hO0SF-WyPDG8RatU58gVgVa46hS1AHrgaEs9ZhVFUlCDvFtcrtV3GbsWVFJUIOw3Zay_qGKziZH9OO3NGgI1jOZm55weD4kjYu7oZZcdelOLryEFnpDSaKQbsNoiABblTjseilqdUeYXX9S/s1600/saas.png"
-        },
-        {
-          "id": "https://thehackernews.com/2023/02/openssh-releases-patch-for-new-pre-auth.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "The maintainers of OpenSSH have released OpenSSH 9.2 to address a number of security bugs, including a memory safety vulnerability in the OpenSSH server (sshd).\nTracked as CVE-2023-25136, the shortcoming has been classified as a pre-authentication double free vulnerability that was introduced in version 9.1.\n\"This is not believed to be exploitable, and it occurs in the unprivileged pre-auth",
-          "link": "https://thehackernews.com/2023/02/openssh-releases-patch-for-new-pre-auth.html",
-          "publishedOn": "2023-02-06T09:55:00.000Z",
-          "wordCount": null,
-          "title": "OpenSSH Releases Patch for New Pre-Auth Double Free Vulnerability",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEidgUNKwZ69VxtHk-O-yNZMhK-upjV-mhF39EV5g154YmiqTuI33rMzd0h8vXjocgXFwEFsu1yCipS9EkCjKHHAXRc7w7jyyJTL_qaTMwe7oA-6UT-CwwatS3v2_m9Yyt4SVtzhnOyETnPk8QTfv-cvoxX6-zj_-z81FjmBPjkL0WbVV7GLYLrpy2xW/s1600/ssh.png"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEidgUNKwZ69VxtHk-O-yNZMhK-upjV-mhF39EV5g154YmiqTuI33rMzd0h8vXjocgXFwEFsu1yCipS9EkCjKHHAXRc7w7jyyJTL_qaTMwe7oA-6UT-CwwatS3v2_m9Yyt4SVtzhnOyETnPk8QTfv-cvoxX6-zj_-z81FjmBPjkL0WbVV7GLYLrpy2xW/s1600/ssh.png"
-        },
-        {
-          "id": "https://thehackernews.com/2023/02/formbook-malware-spreads-via.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "An ongoing malvertising campaign is being used to distribute virtualized .NET loaders that are designed to deploy the FormBook information-stealing malware.\n\"The loaders, dubbed MalVirt, use obfuscated virtualization for anti-analysis and evasion along with the Windows Process Explorer driver for terminating processes,\" SentinelOne researchers Aleksandar Milenkoski and Tom Hegel said in a",
-          "link": "https://thehackernews.com/2023/02/formbook-malware-spreads-via.html",
-          "publishedOn": "2023-02-06T08:11:00.000Z",
-          "wordCount": null,
-          "title": "FormBook Malware Spreads via Malvertising Using MalVirt Loader to Evade Detection",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgGRnPtCcucSTY5Mfwo59bTX-LiM8-_P6xL73ospfLTXM09McnG6rGb5nKK41wNyKkjlA9AYT8vVbbTmou6jG6Ukbdn9rMP6fEca25P3nx9BlSzGJvVpGkN-_iCJDRUjWB4syVSI58VZYBJWWV5ZdrTK65FOH1Ap-1qiRC2_B16-d7MVMTXeG3gA9DJ/s1600/malware.png"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgGRnPtCcucSTY5Mfwo59bTX-LiM8-_P6xL73ospfLTXM09McnG6rGb5nKK41wNyKkjlA9AYT8vVbbTmou6jG6Ukbdn9rMP6fEca25P3nx9BlSzGJvVpGkN-_iCJDRUjWB4syVSI58VZYBJWWV5ZdrTK65FOH1Ap-1qiRC2_B16-d7MVMTXeG3gA9DJ/s1600/malware.png"
         }
       ]
     }
