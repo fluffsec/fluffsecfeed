@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-03-09T02:33:31.323Z</updated>
+    <updated>2023-03-09T07:19:33.860Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[New Critical Flaw in FortiOS and FortiProxy Could Give Hackers Remote Access]]></title>
+        <id>https://thehackernews.com/2023/03/new-critical-flaw-in-fortios-and.html</id>
+        <link href="https://thehackernews.com/2023/03/new-critical-flaw-in-fortios-and.html"/>
+        <updated>2023-03-09T05:23:00.000Z</updated>
+        <summary type="html"><![CDATA[Fortinet has released fixes to address 15 security flaws, including one critical vulnerability impacting FortiOS and FortiProxy that could enable a threat actor to take control of affected systems.
+The issue, tracked as CVE-2023-25610, is rated 9.3 out of 10 for severity and was internally discovered and reported by its security teams.
+"A buffer underwrite ('buffer underflow') vulnerability in]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA['Skinny' Cyber Insurance Policies Create Compliance Path]]></title>
         <id>https://www.darkreading.com/edge-articles/-skinny-cyber-insurance-policies-create-compliance-path</id>
@@ -5100,183 +5112,6 @@ This product is provided subject to this Notification and this Privacy & Use pol
         <summary type="html"><![CDATA[Lazarus Group used a known Zimbra bug to steal data from medical and energy researchers.]]></summary>
         <author>
             <name>Dark Reading Staff, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Banking Trojan Targeting 100M Pix Payment Platform Accounts]]></title>
-        <id>https://www.darkreading.com/risk/new-bank-trojan-targeting-100m-pix-payment-platform-accounts</id>
-        <link href="https://www.darkreading.com/risk/new-bank-trojan-targeting-100m-pix-payment-platform-accounts"/>
-        <updated>2023-02-07T19:18:00.000Z</updated>
-        <summary type="html"><![CDATA[New malware demonstrates how threat actors are pivoting toward payment platform attacks, researchers say.]]></summary>
-        <author>
-            <name>Dark Reading Staff, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Do Not Fall Victim to Cyber Attacks – Find Out What the Latest Hiscox Report Reveals!]]></title>
-        <id>https://blog.knowbe4.com/do-not-fall-victim-to-cyber-attacks-hiscox-report</id>
-        <link href="https://blog.knowbe4.com/do-not-fall-victim-to-cyber-attacks-hiscox-report"/>
-        <updated>2023-02-07T18:52:22.000Z</updated>
-        <summary type="html"><![CDATA[Insurance provider Hiscox has published its fifth annual cyber readiness report, which has some eye-opening statistics.]]></summary>
-        <author>
-            <name>Javvad Malik</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Industrial Cybersecurity Innovator Opscura Receives $9.4M in Series A Funding as Critical Operations Transform]]></title>
-        <id>https://www.darkreading.com/ics-ot/industrial-cybersecurity-innovator-opscura-receives-9-4m-in-series-a-funding-as-critical-operations-transform</id>
-        <link href="https://www.darkreading.com/ics-ot/industrial-cybersecurity-innovator-opscura-receives-9-4m-in-series-a-funding-as-critical-operations-transform"/>
-        <updated>2023-02-07T18:10:00.000Z</updated>
-        <author>
-            <name>Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ongoing VMware ESXi Ransomware Attack Highlights Inherent Virtualization Risks]]></title>
-        <id>https://www.darkreading.com/cloud/ongoing-vmware-esxi-ransomware-attack-virtualization-risks</id>
-        <link href="https://www.darkreading.com/cloud/ongoing-vmware-esxi-ransomware-attack-virtualization-risks"/>
-        <updated>2023-02-07T18:06:00.000Z</updated>
-        <summary type="html"><![CDATA[The global assault on vulnerable VMware hypervisors may have been mitigated by updating to the latest version of the product, but patch management is only part of the story.]]></summary>
-        <author>
-            <name>Elizabeth Montalbano, Contributor, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[With TikTok Bans, the Time for Operational Governance Is Now]]></title>
-        <id>https://www.darkreading.com/operations/with-tiktok-bans-the-time-for-operational-governance-is-now</id>
-        <link href="https://www.darkreading.com/operations/with-tiktok-bans-the-time-for-operational-governance-is-now"/>
-        <updated>2023-02-07T18:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Emerging risks and trends need to be monitored, but cybersecurity challenges can be fixed with a focus on the fundamentals.]]></summary>
-        <author>
-            <name>Barrett Lyon, Co-Founder and Chief Architect, Netography</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Backdoor in Dingo Cryptocurrency Allows Creator to Steal (Nearly) Everything]]></title>
-        <id>https://www.darkreading.com/risk/backdoor-dingo-cryptocurrency-allows-creator-steal-nearly-everything</id>
-        <link href="https://www.darkreading.com/risk/backdoor-dingo-cryptocurrency-allows-creator-steal-nearly-everything"/>
-        <updated>2023-02-07T17:44:00.000Z</updated>
-        <summary type="html"><![CDATA[A tax variable in the software implementing the Dingo Token allows the creators to charge 99% in fees per transaction, essentially stealing funds, an analysis finds.]]></summary>
-        <author>
-            <name>Robert Lemos, Contributing Writer, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Encrypted Messaging App Exclu Used by Criminal Groups Cracked by Joint Law Enforcement]]></title>
-        <id>https://thehackernews.com/2023/02/encrypted-messaging-app-exclu-used-by.html</id>
-        <link href="https://thehackernews.com/2023/02/encrypted-messaging-app-exclu-used-by.html"/>
-        <updated>2023-02-07T17:35:00.000Z</updated>
-        <summary type="html"><![CDATA[A joint law enforcement operation conducted by Germany, the Netherlands, and Poland has cracked yet another encrypted messaging application named Exclu used by organized crime groups.
-Eurojust, in a press statement, said the February 3 exercise resulted in the arrests of 45 individuals across Belgium and the Netherlands, some of whom include users as well as the administrators and owners of the]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Coalfire Compliance Essentials Optimized for Automated Evidence Collection]]></title>
-        <id>https://www.darkreading.com/risk/coalfire-compliance-essentials-optimized-for-automated-evidence-collection</id>
-        <link href="https://www.darkreading.com/risk/coalfire-compliance-essentials-optimized-for-automated-evidence-collection"/>
-        <updated>2023-02-07T17:10:00.000Z</updated>
-        <author>
-            <name>Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ARMO Integrates ChatGPT to Help Users Secure Kubernetes]]></title>
-        <id>https://www.darkreading.com/application-security/armo-integrates-chatgpt-to-help-users-secure-kubernetes</id>
-        <link href="https://www.darkreading.com/application-security/armo-integrates-chatgpt-to-help-users-secure-kubernetes"/>
-        <updated>2023-02-07T17:05:00.000Z</updated>
-        <author>
-            <name>Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Intel 471 Announces Powerful and Scalable Attack Surface Protection Solution Suite]]></title>
-        <id>https://www.darkreading.com/attacks-breaches/intel-471-announces-powerful-and-scalable-attack-surface-protection-solution-suite</id>
-        <link href="https://www.darkreading.com/attacks-breaches/intel-471-announces-powerful-and-scalable-attack-surface-protection-solution-suite"/>
-        <updated>2023-02-07T16:33:00.000Z</updated>
-        <author>
-            <name>Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Infosec Launches New Office Comedy Themed Security Awareness Training Series]]></title>
-        <id>https://www.darkreading.com/remote-workforce/infosec-launches-new-office-comedy-themed-security-awareness-training-series</id>
-        <link href="https://www.darkreading.com/remote-workforce/infosec-launches-new-office-comedy-themed-security-awareness-training-series"/>
-        <updated>2023-02-07T16:30:00.000Z</updated>
-        <author>
-            <name>Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Financial Institutions Are Suffering From Increasingly Sophisticated Cyberattacks, According to Contrast Security]]></title>
-        <id>https://www.darkreading.com/attacks-breaches/financial-institutions-are-suffering-from-increasingly-sophisticated-cyberattacks-according-to-contrast-security</id>
-        <link href="https://www.darkreading.com/attacks-breaches/financial-institutions-are-suffering-from-increasingly-sophisticated-cyberattacks-according-to-contrast-security"/>
-        <updated>2023-02-07T16:11:00.000Z</updated>
-        <author>
-            <name>Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Valtix Survey: 95% of Organizations Say Multi-cloud Is a 'Strategic Priority' but Only 58% Have the Security Architecture to Support It]]></title>
-        <id>https://www.darkreading.com/cloud/valtix-survey-95-of-organizations-say-multi-cloud-is-a-strategic-priority-but-only-58-have-the-security-architecture-to-support-it</id>
-        <link href="https://www.darkreading.com/cloud/valtix-survey-95-of-organizations-say-multi-cloud-is-a-strategic-priority-but-only-58-have-the-security-architecture-to-support-it"/>
-        <updated>2023-02-07T16:05:00.000Z</updated>
-        <author>
-            <name>Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DataDome's Inaugural E-Commerce Holiday Bot & Online Fraud Report Reveals the U.S. as the Top Source of Bot Attacks]]></title>
-        <id>https://www.darkreading.com/attacks-breaches/datadome-s-inaugural-e-commerce-holiday-bot-online-fraud-report-reveals-the-u-s-as-the-top-source-of-bot-attacks</id>
-        <link href="https://www.darkreading.com/attacks-breaches/datadome-s-inaugural-e-commerce-holiday-bot-online-fraud-report-reveals-the-u-s-as-the-top-source-of-bot-attacks"/>
-        <updated>2023-02-07T16:00:00.000Z</updated>
-        <author>
-            <name>Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CISA Releases One Industrial Control Systems Advisory]]></title>
-        <id>18336 at https://us-cert.cisa.gov</id>
-        <link href="https://us-cert.cisa.gov/ncas/current-activity/2023/02/07/cisa-releases-one-industrial-control-systems-advisory"/>
-        <updated>2023-02-07T15:00:01.000Z</updated>
-        <summary type="html"><![CDATA[Original release date: February 7, 2023
-CISA released one Industrial Control Systems (ICS) advisory on February 7, 2023. This advisory provides timely information about current security issues, vulnerabilities, and exploits surrounding ICS.
-CISA encourages users and administrators to review the newly released ICS advisory for technical details and mitigations:
-ICSA-23-037-01 EnOcean SmartServer
-This product is provided subject to this Notification and this Privacy & Use policy.]]></summary>
-        <author>
-            <name>CISA</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[5 Ways to Survive Scam Season — or Rather, Tax Season]]></title>
-        <id>https://www.darkreading.com/edge-articles/5-ways-to-survive-scam-season-or-rather-tax-season</id>
-        <link href="https://www.darkreading.com/edge-articles/5-ways-to-survive-scam-season-or-rather-tax-season"/>
-        <updated>2023-02-07T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Security pros need to look beyond user education to find and disarm fraudulent actors.]]></summary>
-        <author>
-            <name>Joshua Goldfarb, Security and Fraud Architect, F5</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Optimizing Cybersecurity Investments in a Constrained Spending Environment]]></title>
-        <id>https://www.darkreading.com/operations/optimizing-cybersecurity-investments-in-a-constrained-spending-environment</id>
-        <link href="https://www.darkreading.com/operations/optimizing-cybersecurity-investments-in-a-constrained-spending-environment"/>
-        <updated>2023-02-07T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Three ways to stay safe in an economically uncertain 2023.]]></summary>
-        <author>
-            <name>Adam Isles, Principal and Head of Cybersecurity Practice, The Chertoff Group</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Scam Of The Week] The Turkey-Syria Earthquake]]></title>
-        <id>https://blog.knowbe4.com/scam-of-the-week-the-turkey-syria-earthquake</id>
-        <link href="https://blog.knowbe4.com/scam-of-the-week-the-turkey-syria-earthquake"/>
-        <updated>2023-02-07T14:51:32.000Z</updated>
-        <summary type="html"><![CDATA[Just when you think they cannot sink any lower, criminal internet scum is now exploiting the recent earthquake in Turkey and Syria.]]></summary>
-        <author>
-            <name>Stu Sjouwerman</name>
         </author>
     </entry>
 </feed>
