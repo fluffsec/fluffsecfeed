@@ -73,6 +73,36 @@
       "siteUrl": "https://www.cisa.gov/",
       "articles": [
         {
+          "id": "/node/17556",
+          "author": "CISA",
+          "description": "Cisco has released a security advisory for a vulnerability affecting IOS XR Software for ASR 9000 Series Routers. A remote attacker could exploit this vulnerability to cause a denial-of-service condition. For updates addressing lower severity vulnerabilities, see the Cisco Security Advisories page. \nCisco IOS XR Software for ASR 9000 Series Routers Bidirectional Forwarding Detection Denial of Service Vulnerability cisco-sa-bfd-XmRescbT\nPlease share your thoughts. We recently updated our anonymous Product Feedback Survey and we'd welcome your feedback.",
+          "link": "https://www.cisa.gov/news-events/alerts/2023/03/09/cisco-releases-security-advisory-ios-xr-software",
+          "publishedOn": "2023-03-09T19:17:12.846Z",
+          "wordCount": 550,
+          "title": "Untitled",
+          "imageUrl": null
+        },
+        {
+          "id": "/node/17557",
+          "author": "CISA",
+          "description": "Fortinet has released its March 2023 Vulnerability Advisories to address vulnerabilities affecting multiple products. An attacker could exploit one of these vulnerabilities to take control of an affected system. \nMarch 2023 Vulnerability Advisories page for more information and apply the necessary updates.\nPlease share your thoughts. We recently updated our anonymous Product Feedback Survey and we'd welcome your feedback.",
+          "link": "https://www.cisa.gov/news-events/alerts/2023/03/09/fortinet-releases-march-2023-vulnerability-advisories",
+          "publishedOn": "2023-03-09T19:17:12.340Z",
+          "wordCount": 508,
+          "title": "Untitled",
+          "imageUrl": null
+        },
+        {
+          "id": "/node/17560",
+          "author": "CISA",
+          "description": "CISA released five Industrial Control Systems (ICS) advisories on March 9, 2023. These advisories provide timely information about current security issues, vulnerabilities, and exploits surrounding ICS.\nCISA encourages users and administrators to review the newly released ICS advisories for technical details and mitigations:\nICSA-23-068-01 Akuvox E11 Publication\nICSA-23-068-02 B&R Systems Diagnostics Manager\nICSA-23-068-03 ABB Ability Symphony Plus\nICSA-23-068-04 STEP Tools Third-Party\nICSA-23-068-05 Hitachi Energy Relion 670, 650 and SAM600-IO Series\nPlease share your thoughts. We recently updated our anonymous Product Feedback Survey and we'd welcome your feedback.​​​​​​​",
+          "link": "https://www.cisa.gov/news-events/alerts/2023/03/09/cisa-releases-five-industrial-control-systems-advisories",
+          "publishedOn": "2023-03-09T19:17:12.252Z",
+          "wordCount": 528,
+          "title": "Untitled",
+          "imageUrl": null
+        },
+        {
           "id": "/node/17534",
           "author": "CISA",
           "description": "CISA has added three new vulnerabilities to its Known Exploited Vulnerabilities Catalog, based on evidence of active exploitation.\nCVE-2022-28810 Zoho ManageEngine ADSelfService Plus Remote Code Execution Vulnerability\nCVE-2022-33891 Apache Spark Command Injection Vulnerability\nCVE-2022-35914 Teclib GLPI Remote Code Execution Vulnerability\nThese types of vulnerabilities are frequent attack vectors for malicious cyber actors and pose significant risks to the federal enterprise. Note: To view other newly added vulnerabilities in the catalog, click on the arrow in the \"Date Added to Catalog\" column—which will sort by descending dates.\nBinding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the Known Exploited Vulnerabilities Catalog as a living list of known Common Vulnerabilities and Exposures (CVEs) that carry significant risk to the federal enterprise. BOD 22-01 requires Federal Civilian Executive Branch (FCEB) agencies to remediate identified vulnerabilities by the due date to protect FCEB networks against active threats. See the BOD 22-01 Fact Sheet for more information.\nAlthough BOD 22-01 only applies to FCEB agencies, CISA strongly urges all organizations to reduce their exposure to cyberattacks by prioritizing timely remediation of Catalog vulnerabilities as part of their vulnerability management practice. CISA will continue to add vulnerabilities to the catalog that meet the specified criteria.\nPlease share your thoughts. We recently updated our anonymous Product Feedback Survey and we'd welcome your feedback.",
@@ -470,6 +500,81 @@
       "feedUrl": "https://www.darkreading.com/rss.xml",
       "siteUrl": "https://www.darkreading.com",
       "articles": [
+        {
+          "id": "https://www.darkreading.com/application-security/inside-threat-developers-leaked-10m-credentials-passwords-2022",
+          "author": "Robert Lemos, Contributing Writer, Dark Reading",
+          "description": "More than five out of every 1,000 commits to GitHub included a software secret, half again the rate in 2021, putting applications and businesses at risk.",
+          "link": "https://www.darkreading.com/application-security/inside-threat-developers-leaked-10m-credentials-passwords-2022",
+          "publishedOn": "2023-03-09T18:41:00.000Z",
+          "wordCount": 13178,
+          "title": "Inside Threat: Developers Leaked 10M Credentials, Passwords in 2022",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt58481326324d6911/60b1e9a55d34de550780a990/Robert-Lemos.png",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt58481326324d6911/60b1e9a55d34de550780a990/Robert-Lemos.png"
+        },
+        {
+          "id": "https://www.darkreading.com/operations/how-to-jump-start-your-cybersecurity-career",
+          "author": "Dara Gibson , Senior Cyber Insurability Services Manager, Optiv",
+          "description": "With more than 700,000 cybersecurity jobs available, now is a good time to consider a career change.",
+          "link": "https://www.darkreading.com/operations/how-to-jump-start-your-cybersecurity-career",
+          "publishedOn": "2023-03-09T18:00:00.000Z",
+          "wordCount": 14211,
+          "title": "How to Jump-Start Your Cybersecurity Career",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt151017ebf6542719/6409471fcda8ad126c8154a6/DaraGibsonOptiv[78].jpg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt151017ebf6542719/6409471fcda8ad126c8154a6/DaraGibsonOptiv[78].jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/threat-intelligence/iranian-apt-uses-mahsa-amini-protests-to-target-female-activists",
+          "author": "Elizabeth Montalbano, Contributor, Dark Reading",
+          "description": "A top Iranian, state-sponsored threat is a spear-phishing campaign that uses a fake Twitter persona to target women interested in Iranian political affairs and human rights.",
+          "link": "https://www.darkreading.com/threat-intelligence/iranian-apt-uses-mahsa-amini-protests-to-target-female-activists",
+          "publishedOn": "2023-03-09T16:56:00.000Z",
+          "wordCount": 13993,
+          "title": "Iranian APT Targets Female Activists With Mahsa Amini Protest Lures",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltbfd004d139d42d70/6303bca6236c2476a257760e/ElizabethMontalbano.jpg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltbfd004d139d42d70/6303bca6236c2476a257760e/ElizabethMontalbano.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/application-security/critical-rce-bug-fortinet-secure-web-gateway-takeover",
+          "author": "Dark Reading Staff, Dark Reading",
+          "description": "Users should patch an unauthenticated remote code execution bug impacting FortiOS and FortiProxy administrative interfaces ASAP, Fortinet says.",
+          "link": "https://www.darkreading.com/application-security/critical-rce-bug-fortinet-secure-web-gateway-takeover",
+          "publishedOn": "2023-03-09T15:11:33.000Z",
+          "wordCount": 11386,
+          "title": "Critical RCE Bug Opens Fortinet's Secure Web Gateway to Takeover",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blte161b23f0fd3a84b/60b1ea374e7eb868c4c6a293/dr_staff_125x125.jpg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blte161b23f0fd3a84b/60b1ea374e7eb868c4c6a293/dr_staff_125x125.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/ics-ot/5-critical-components-of-effective-ics-ot-security-",
+          "author": "Dean Parsons, SANS Certified Instructor and CEO & Principal Consultant, ICS Defense Force",
+          "description": "These agile controls and processes can help critical infrastructure organizations build an ICS security program tailored to their own risk profile.",
+          "link": "https://www.darkreading.com/ics-ot/5-critical-components-of-effective-ics-ot-security-",
+          "publishedOn": "2023-03-09T15:00:00.000Z",
+          "wordCount": 14695,
+          "title": "5 Critical Components of Effective ICS/OT Security",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt2d171a6ae530d201/64063eda63d5af53eefe9451/Dean_Parsons.gif",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt2d171a6ae530d201/64063eda63d5af53eefe9451/Dean_Parsons.gif"
+        },
         {
           "id": "https://www.darkreading.com/edge-articles/-skinny-cyber-insurance-policies-create-compliance-path",
           "author": "Stephen Lawton, Contributing Writer",
@@ -3821,6 +3926,26 @@
       "siteUrl": "https://blog.knowbe4.com",
       "articles": [
         {
+          "id": "https://blog.knowbe4.com/the-education-sector-must-act-now",
+          "author": "Martin Kraemer",
+          "description": "The education sector remains vulnerable as ransomware shame sites continue to feature teaching institutions from around the world. Some of the latest victims were universities from Ireland and Israel, but why are such institutions so vulnerable?",
+          "link": "https://blog.knowbe4.com/the-education-sector-must-act-now",
+          "publishedOn": "2023-03-09T14:17:18.000Z",
+          "wordCount": 2573,
+          "title": "The Education Sector Must Act Now",
+          "imageUrl": "https://blog.knowbe4.com/hubfs/Social%20Image%20Repository/Evangelist%20Blog%20Social%20Graphics/Evangelists-Martin%20Kraemer.jpg#keepProtocol"
+        },
+        {
+          "id": "https://blog.knowbe4.com/phishing-for-ring-customers",
+          "author": "Stu Sjouwerman",
+          "description": "INKY warns that a phishing campaign is targeting users of the Ring video security system. The scammers are sending brief phishing emails instructing recipients to click on the attached HTML file in order to update their membership. The file will open a webpage hosted locally on the victim’s machine, which helps the attackers avoid detection by security filters.",
+          "link": "https://blog.knowbe4.com/phishing-for-ring-customers",
+          "publishedOn": "2023-03-09T14:17:15.000Z",
+          "wordCount": 2325,
+          "title": "Phishing for Ring Customers",
+          "imageUrl": "https://blog.knowbe4.com/hubfs/Phishing%20Ring%20Camera.jpg#keepProtocol"
+        },
+        {
           "id": "https://blog.knowbe4.com/most-ransomware-vulnerabilities-discovered-before-2020",
           "author": "Stu Sjouwerman",
           "description": "Despite a lot of focus on phishing and remote access as initial access vectors, new data shows the use of vulnerabilities is not only on the rise, but simply isn’t being properly addressed.",
@@ -4357,6 +4482,38 @@
       "feedUrl": "https://thehackernews.com/feeds/posts/default",
       "siteUrl": "https://thehackernews.com",
       "articles": [
+        {
+          "id": "https://thehackernews.com/2023/03/hackers-exploiting-remote-desktop.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Security vulnerabilities in remote desktop programs such as Sunlogin and AweSun are being exploited by threat actors to deploy the PlugX malware.\nAhnLab Security Emergency Response Center (ASEC), in a new analysis, said it marks the continued abuse of the flaws to deliver a variety of payloads on compromised systems.\nThis includes the Sliver post-exploitation framework, XMRig cryptocurrency",
+          "link": "https://thehackernews.com/2023/03/hackers-exploiting-remote-desktop.html",
+          "publishedOn": "2023-03-09T14:54:00.000Z",
+          "wordCount": null,
+          "title": "Hackers Exploiting Remote Desktop Software Flaws to Deploy PlugX Malware",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgNIrlmKINQMwTmctRJSTCw-5STtwImKmfDDz5PURLXffzolaUsAr3Ufu7n_g_JSHL7tAyzvkNKgWuSQjWyzBFhOSDdlKK0cTxmSSEUYe2rhQGpIr8vmIYkLx1Cz1vlSM6ach-HxAka1tvT8TzFWsY7d4oCc12zhgpexOazhhv50rz0Sp5Te6ykb02E/s1600/remote.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgNIrlmKINQMwTmctRJSTCw-5STtwImKmfDDz5PURLXffzolaUsAr3Ufu7n_g_JSHL7tAyzvkNKgWuSQjWyzBFhOSDdlKK0cTxmSSEUYe2rhQGpIr8vmIYkLx1Cz1vlSM6ach-HxAka1tvT8TzFWsY7d4oCc12zhgpexOazhhv50rz0Sp5Te6ykb02E/s1600/remote.png"
+        },
+        {
+          "id": "https://thehackernews.com/2023/03/icefire-linux-ransomware.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "A previously known Windows-based ransomware strain known as IceFire has expanded its focus to target Linux enterprise networks belonging to several media and entertainment sector organizations across the world.\nThe intrusions entail the exploitation of a recently disclosed deserialization vulnerability in IBM Aspera Faspex file-sharing software (CVE-2022-47986, CVSS score: 9.8), according to",
+          "link": "https://thehackernews.com/2023/03/icefire-linux-ransomware.html",
+          "publishedOn": "2023-03-09T14:01:00.000Z",
+          "wordCount": null,
+          "title": "IceFire Ransomware Exploits IBM Aspera Faspex to Attack Linux-Powered Enterprise Networks",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgauGg6csf_is2Z3OlYOkgIyU3SK2cAcV27iXZHzOzwmFtUzG3AmobrH9-lHrqFyNSF_YgPAfvW614frEpzFf3-x0m63bwdLUwU5xQKgMF_ENSy12GWOPshoaG61wt-IKi_9grcjcVvviqo0utsmWD1mqveaKRjMB8Qm9DrUNBoX30oFFPJhCdtl3Ge/s1600/linux.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgauGg6csf_is2Z3OlYOkgIyU3SK2cAcV27iXZHzOzwmFtUzG3AmobrH9-lHrqFyNSF_YgPAfvW614frEpzFf3-x0m63bwdLUwU5xQKgMF_ENSy12GWOPshoaG61wt-IKi_9grcjcVvviqo0utsmWD1mqveaKRjMB8Qm9DrUNBoX30oFFPJhCdtl3Ge/s1600/linux.png"
+        },
         {
           "id": "https://thehackernews.com/2023/03/does-your-help-desk-know-whos-calling.html",
           "author": "info@thehackernews.com (The Hacker News)",
@@ -6420,22 +6577,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhYuWSfwVe8MJz2HrgleJagRz8YH3wkPWF2xIqULLmW7F3Z28ETiOTVV_u6bN82h5FDcICy_SxOwpMQ1c34JhI37BJaVvPafF3tKowBf1geK-FWY6V2-NzHY0RSqN_9e5eTjR95SOgHv2kcpLYrNcu0vO_mDrsXw2LN1Ei7wZ8ru0UJJhzJcggRpwth/s1600/ransomware.png"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhYuWSfwVe8MJz2HrgleJagRz8YH3wkPWF2xIqULLmW7F3Z28ETiOTVV_u6bN82h5FDcICy_SxOwpMQ1c34JhI37BJaVvPafF3tKowBf1geK-FWY6V2-NzHY0RSqN_9e5eTjR95SOgHv2kcpLYrNcu0vO_mDrsXw2LN1Ei7wZ8ru0UJJhzJcggRpwth/s1600/ransomware.png"
-        },
-        {
-          "id": "https://thehackernews.com/2023/02/cert-ua-alerts-ukrainian-state.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "The Computer Emergency Response Team of Ukraine (CERT-UA) has issued an alert warning of cyber attacks against state authorities in the country that deploy a legitimate remote access software named Remcos.\nThe mass phishing campaign has been attributed to a threat actor it tracks as UAC-0050, with the agency describing the activity as likely motivated by espionage given the toolset employed.\nThe",
-          "link": "https://thehackernews.com/2023/02/cert-ua-alerts-ukrainian-state.html",
-          "publishedOn": "2023-02-08T06:16:00.000Z",
-          "wordCount": null,
-          "title": "CERT-UA Alerts Ukrainian State Authorities of Remcos Software-Fueled Cyber Attacks",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhuDkoPtajbzYvA9uZ3ZE0y8_Hu9uhaEtqG09XwKg6kdu20gGU79WA3D6JgBRvF9BNEnk_qcJZAZohD0WXQ3OOrIq9wuZxGZb1_dyvjM2SWPr1g1XnmmHhTG5fjacYZ01qPR0ENk90XS4_09QpeLL25OBkOKeYuIkI_PZ1N8TpCrKbJBfIUyadiBz_e/s1600/rat.png"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhuDkoPtajbzYvA9uZ3ZE0y8_Hu9uhaEtqG09XwKg6kdu20gGU79WA3D6JgBRvF9BNEnk_qcJZAZohD0WXQ3OOrIq9wuZxGZb1_dyvjM2SWPr1g1XnmmHhTG5fjacYZ01qPR0ENk90XS4_09QpeLL25OBkOKeYuIkI_PZ1N8TpCrKbJBfIUyadiBz_e/s1600/rat.png"
         }
       ]
     }
