@@ -2,10 +2,43 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-03-10T07:19:40.165Z</updated>
+    <updated>2023-03-10T13:29:57.757Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[When Partial Protection is Zero Protection: The MFA Blind Spots No One Talks About]]></title>
+        <id>https://thehackernews.com/2023/03/when-partial-protection-is-zero.html</id>
+        <link href="https://thehackernews.com/2023/03/when-partial-protection-is-zero.html"/>
+        <updated>2023-03-10T12:56:00.000Z</updated>
+        <summary type="html"><![CDATA[Multi-factor Authentication (MFA) has long ago become a standard security practice. With a wide consensus on its ability to fend off more than 99% percent of account takeover attacks, it's no wonder why security architects regard it as a must-have in their environments. However, what seems to be less known are the inherent coverage limitations of traditional MFA solutions. While compatible with]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Xenomorph Android Banking Trojan Returns with a New and More Powerful Variant]]></title>
+        <id>https://thehackernews.com/2023/03/xenomorph-android-banking-trojan.html</id>
+        <link href="https://thehackernews.com/2023/03/xenomorph-android-banking-trojan.html"/>
+        <updated>2023-03-10T10:03:00.000Z</updated>
+        <summary type="html"><![CDATA[A new variant of the Android banking trojan named Xenomorph has surfaced in the wild, the latest findings from ThreatFabric reveal.
+Named "Xenomorph 3rd generation" by the Hadoken Security Group, the threat actor behind the operation, the updated version comes with new features that allow it to perform financial fraud in a seamless manner.
+"This new version of the malware adds many new]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[North Korean UNC2970 Hackers Expands Operations with New Malware Families]]></title>
+        <id>https://thehackernews.com/2023/03/north-korean-unc2970-hackers-expands.html</id>
+        <link href="https://thehackernews.com/2023/03/north-korean-unc2970-hackers-expands.html"/>
+        <updated>2023-03-10T07:43:00.000Z</updated>
+        <summary type="html"><![CDATA[A North Korean espionage group tracked as UNC2970 has been observed employing previously undocumented malware families as part of a spear-phishing campaign targeting U.S. and European media and technology organizations since June 2022.
+Google-owned Mandiant said the threat cluster shares "multiple overlaps" with a long-running operation dubbed "Dream Job" that employs job recruitment lures in]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Proposed FCC Rule Redefines Data Breaches for Communications Carriers]]></title>
         <id>https://www.darkreading.com/edge-articles/proposed-fcc-rule-redefines-data-breaches-for-communications-carriers</id>
@@ -5010,84 +5043,6 @@ Tracked as CVE-2023-0286, the issue relates to a case of type confusion that ma
 The]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(ISC)² Makes Certified in Cybersecurity Exam Available in More Languages to Address Global Workforce Shortage]]></title>
-        <id>https://www.darkreading.com/operations/-isc-makes-certified-in-cybersecurity-exam-available-in-more-languages-to-address-global-workforce-shortage</id>
-        <link href="https://www.darkreading.com/operations/-isc-makes-certified-in-cybersecurity-exam-available-in-more-languages-to-address-global-workforce-shortage"/>
-        <updated>2023-02-08T22:45:00.000Z</updated>
-        <author>
-            <name>Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CISA Releases Recovery Script for Victims of ESXiArgs Ransomware]]></title>
-        <id>https://www.darkreading.com/vulnerabilities-threats/cisa-releases-recovery-script-for-victims-of-esxiargs-ransomware</id>
-        <link href="https://www.darkreading.com/vulnerabilities-threats/cisa-releases-recovery-script-for-victims-of-esxiargs-ransomware"/>
-        <updated>2023-02-08T22:31:00.000Z</updated>
-        <summary type="html"><![CDATA[The malware has affected thousands of VMware ESXi hypervisors in the last few days.]]></summary>
-        <author>
-            <name>Jai Vijayan, Contributing Writer, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Jailbreak Trick Breaks ChatGPT Content Safeguards]]></title>
-        <id>https://www.darkreading.com/application-security/chatgpt-content-safeguards-busted-with-new-jailbreak-trick-</id>
-        <link href="https://www.darkreading.com/application-security/chatgpt-content-safeguards-busted-with-new-jailbreak-trick-"/>
-        <updated>2023-02-08T22:05:00.000Z</updated>
-        <summary type="html"><![CDATA[Jailbreak command creates ChatGPT alter ego DAN, willing to create content outside of its own content restriction controls.]]></summary>
-        <author>
-            <name>Dark Reading Staff, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Building Up IAM in a Multicloud World]]></title>
-        <id>https://www.darkreading.com/dr-tech/building-up-iam-in-a-multicloud-world</id>
-        <link href="https://www.darkreading.com/dr-tech/building-up-iam-in-a-multicloud-world"/>
-        <updated>2023-02-08T21:37:00.000Z</updated>
-        <summary type="html"><![CDATA[In the cloud-first world, the security goal is to ensure only qualified users can access information across clouds.]]></summary>
-        <author>
-            <name>Karen Spiegelman, Features Editor</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Exclu Shutdown Underscores Outsized Role Messaging Apps Play in Cybercrime]]></title>
-        <id>https://www.darkreading.com/endpoint/exclu-shutdown-underscores-outsized-apps-messaging-apps-role-in-cybercrime</id>
-        <link href="https://www.darkreading.com/endpoint/exclu-shutdown-underscores-outsized-apps-messaging-apps-role-in-cybercrime"/>
-        <updated>2023-02-08T21:07:00.000Z</updated>
-        <summary type="html"><![CDATA[Apps like Telegram, WhatsApp, and Discord are a hotbed of cybercriminal communication and scams.]]></summary>
-        <author>
-            <name>Ericka Chickowski, Contributing Writer, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ActZero Unveils Next-Generation MDR Platform]]></title>
-        <id>https://www.darkreading.com/attacks-breaches/actzero-unveils-next-generation-mdr-platform</id>
-        <link href="https://www.darkreading.com/attacks-breaches/actzero-unveils-next-generation-mdr-platform"/>
-        <updated>2023-02-08T20:20:00.000Z</updated>
-        <summary type="html"><![CDATA[Latest release gives small and mid-sized enterprises AI-driven analysis tools and unified visibility across IT environments for stronger ransomware protection.]]></summary>
-        <author>
-            <name>Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Leading Energy Companies Tap Fortress to Build and Operate Industry Repository to Identify and Remediate Critical Software Vulnerabilities]]></title>
-        <id>https://www.darkreading.com/ics-ot/leading-energy-companies-tap-fortress-to-build-and-operate-industry-repository-to-identify-and-remediate-critical-software-vulnerabilities</id>
-        <link href="https://www.darkreading.com/ics-ot/leading-energy-companies-tap-fortress-to-build-and-operate-industry-repository-to-identify-and-remediate-critical-software-vulnerabilities"/>
-        <updated>2023-02-08T20:15:00.000Z</updated>
-        <author>
-            <name>Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Skybox Security Appoints Cybersecurity Veteran Mordecai Rosen as CEO]]></title>
-        <id>https://www.darkreading.com/vulnerabilities-threats/skybox-security-appoints-cybersecurity-veteran-mordecai-rosen-as-ceo</id>
-        <link href="https://www.darkreading.com/vulnerabilities-threats/skybox-security-appoints-cybersecurity-veteran-mordecai-rosen-as-ceo"/>
-        <updated>2023-02-08T20:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Skybox closes $50 million in financing to drive growth of its SaaS-based security platform.]]></summary>
-        <author>
-            <name>Dark Reading</name>
         </author>
     </entry>
 </feed>
