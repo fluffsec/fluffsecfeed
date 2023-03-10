@@ -2,10 +2,111 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-03-10T13:29:57.757Z</updated>
+    <updated>2023-03-10T19:16:09.195Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Untitled]]></title>
+        <id>/node/17580</id>
+        <link href="https://www.cisa.gov/news-events/alerts/2023/03/10/cisa-adds-two-known-exploited-vulnerabilities-catalog"/>
+        <updated>2023-03-10T19:15:54.633Z</updated>
+        <summary type="html"><![CDATA[CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities Catalog, based on evidence of active exploitation.
+CVE-2020-5741 Plex Media Server Remote Code Execution Vulnerability
+CVE-2021-39144 XStream Remote Code Execution Vulnerability
+These types of vulnerabilities are frequent attack vectors for malicious cyber actors and pose significant risks to the federal enterprise. Note: To view other newly added vulnerabilities in the catalog, click on the arrow in the "Date Added to Catalog" column—which will sort by descending dates.
+Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the Known Exploited Vulnerabilities Catalog as a living list of known Common Vulnerabilities and Exposures (CVEs) that carry significant risk to the federal enterprise. BOD 22-01 requires Federal Civilian Executive Branch (FCEB) agencies to remediate identified vulnerabilities by the due date to protect FCEB networks against active threats. See the BOD 22-01 Fact Sheet for more information.
+Although BOD 22-01 only applies to FCEB agencies, CISA strongly urges all organizations to reduce their exposure to cyberattacks by prioritizing timely remediation of Catalog vulnerabilities as part of their vulnerability management practice. CISA will continue to add vulnerabilities to the catalog that meet the specified criteria.
+Please share your thoughts. We recently updated our anonymous Product Feedback Survey and we'd welcome your feedback.]]></summary>
+        <author>
+            <name>CISA</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Unpatched Zero-Day Bugs in Smart Intercom Allow Remote Eavesdropping]]></title>
+        <id>https://www.darkreading.com/cloud/unpatched-zero-day-bugs-smart-intercom-remote-eavesdropping</id>
+        <link href="https://www.darkreading.com/cloud/unpatched-zero-day-bugs-smart-intercom-remote-eavesdropping"/>
+        <updated>2023-03-10T18:36:00.000Z</updated>
+        <summary type="html"><![CDATA[A video-enabled smart intercom made by Chinese company Akuvox has major security vulnerabilities that allow audio and video spying, and the company has so far been unresponsive to the discoveries.]]></summary>
+        <author>
+            <name>Nathan Eddy, Contributing Writer, Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Make Sure Your Cybersecurity Budget Stays Flexible]]></title>
+        <id>https://www.darkreading.com/operations/make-sure-your-cybersecurity-budget-stays-flexible</id>
+        <link href="https://www.darkreading.com/operations/make-sure-your-cybersecurity-budget-stays-flexible"/>
+        <updated>2023-03-10T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[CISOs' ability to pivot tight budgets is key to defense plans that can stand up to attackers.]]></summary>
+        <author>
+            <name>Almog Apirion, CEO &amp; Co-Founder, Cyolo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[One-Quarter of Users Fall for Online Scams Despite an Overconfidence in an Ability to Spot Them]]></title>
+        <id>https://blog.knowbe4.com/users-fall-for-scams-despite-overconfidence</id>
+        <link href="https://blog.knowbe4.com/users-fall-for-scams-despite-overconfidence"/>
+        <updated>2023-03-10T14:46:46.000Z</updated>
+        <summary type="html"><![CDATA[A new survey of individuals across seven countries shows that users may have had luck on their side, as a majority aren’t sure about their device security or how to spot malicious sites online.]]></summary>
+        <author>
+            <name>Stu Sjouwerman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google: Analysis of Cyberattacks Targeting Ukraine Shed Light on What a Cyberwar Strategy Looks Like]]></title>
+        <id>https://blog.knowbe4.com/cyberattacks-targeting-ukraine-cyberwar-strategy</id>
+        <link href="https://blog.knowbe4.com/cyberattacks-targeting-ukraine-cyberwar-strategy"/>
+        <updated>2023-03-10T14:46:29.000Z</updated>
+        <summary type="html"><![CDATA[A look back at the last year of attacks on Ukraine by Google’s Threat Analysis Group (TAG) provides insight into attacks on NATO countries to gain a cyberspace advantage.]]></summary>
+        <author>
+            <name>Stu Sjouwerman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Use of Malware Decreases in Cyber Attacks as Exploit Usage Skyrockets]]></title>
+        <id>https://blog.knowbe4.com/malware-decreases-exploits-skyrocket</id>
+        <link href="https://blog.knowbe4.com/malware-decreases-exploits-skyrocket"/>
+        <updated>2023-03-10T14:46:12.000Z</updated>
+        <summary type="html"><![CDATA[New data on cyberattacks from last quarter provides a lens of what kinds of attack techniques to expect to see from cyber attackers this year.]]></summary>
+        <author>
+            <name>Stu Sjouwerman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New Version of Prometei Botnet Infects Over 10,000 Systems Worldwide]]></title>
+        <id>https://thehackernews.com/2023/03/new-version-of-prometei-botnet-infects.html</id>
+        <link href="https://thehackernews.com/2023/03/new-version-of-prometei-botnet-infects.html"/>
+        <updated>2023-03-10T14:02:00.000Z</updated>
+        <summary type="html"><![CDATA[An updated version of a botnet malware called Prometei has infected more than 10,000 systems worldwide since November 2022.
+The infections are both geographically indiscriminate and opportunistic, with a majority of the victims reported in Brazil, Indonesia, and Turkey.
+Prometei, first observed in 2016, is a modular botnet that features a large repertoire of components and several proliferation]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[China-linked Hackers Targeting Unpatched SonicWall SMA Devices with Malware]]></title>
+        <id>https://thehackernews.com/2023/03/china-linked-hackers-targeting.html</id>
+        <link href="https://thehackernews.com/2023/03/china-linked-hackers-targeting.html"/>
+        <updated>2023-03-10T13:50:00.000Z</updated>
+        <summary type="html"><![CDATA[A suspecting China-linked hacking campaign has been observed targeting unpatched SonicWall Secure Mobile Access (SMA) 100 appliances to drop malware and establish long-term persistence.
+"The malware has functionality to steal user credentials, provide shell access, and persist through firmware upgrades," cybersecurity company Mandiant said in a technical report published this week.
+The]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[International Law Enforcement Takes Down Infamous NetWire Cross-Platform RAT]]></title>
+        <id>https://thehackernews.com/2023/03/international-law-enforcement-takes.html</id>
+        <link href="https://thehackernews.com/2023/03/international-law-enforcement-takes.html"/>
+        <updated>2023-03-10T13:39:00.000Z</updated>
+        <summary type="html"><![CDATA[A coordinated international law enforcement exercise has taken down the online infrastructure associated with a cross-platform remote access trojan (RAT) known as NetWire.
+Coinciding with the seizure of the sales website www.worldwiredlabs[.]com, a Croatian national who is suspected to be the website's administrator has been arrested. While the suspect's name was not released, investigative]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[When Partial Protection is Zero Protection: The MFA Blind Spots No One Talks About]]></title>
         <id>https://thehackernews.com/2023/03/when-partial-protection-is-zero.html</id>

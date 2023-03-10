@@ -63,6 +63,16 @@
       "siteUrl": "https://www.cisa.gov/",
       "articles": [
         {
+          "id": "/node/17580",
+          "author": "CISA",
+          "description": "CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities Catalog, based on evidence of active exploitation.\nCVE-2020-5741 Plex Media Server Remote Code Execution Vulnerability\nCVE-2021-39144 XStream Remote Code Execution Vulnerability\nThese types of vulnerabilities are frequent attack vectors for malicious cyber actors and pose significant risks to the federal enterprise. Note: To view other newly added vulnerabilities in the catalog, click on the arrow in the \"Date Added to Catalog\" column—which will sort by descending dates.\nBinding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the Known Exploited Vulnerabilities Catalog as a living list of known Common Vulnerabilities and Exposures (CVEs) that carry significant risk to the federal enterprise. BOD 22-01 requires Federal Civilian Executive Branch (FCEB) agencies to remediate identified vulnerabilities by the due date to protect FCEB networks against active threats. See the BOD 22-01 Fact Sheet for more information.\nAlthough BOD 22-01 only applies to FCEB agencies, CISA strongly urges all organizations to reduce their exposure to cyberattacks by prioritizing timely remediation of Catalog vulnerabilities as part of their vulnerability management practice. CISA will continue to add vulnerabilities to the catalog that meet the specified criteria.\nPlease share your thoughts. We recently updated our anonymous Product Feedback Survey and we'd welcome your feedback.",
+          "link": "https://www.cisa.gov/news-events/alerts/2023/03/10/cisa-adds-two-known-exploited-vulnerabilities-catalog",
+          "publishedOn": "2023-03-10T19:15:54.633Z",
+          "wordCount": 673,
+          "title": "Untitled",
+          "imageUrl": null
+        },
+        {
           "id": "/node/17556",
           "author": "CISA",
           "description": "Cisco has released a security advisory for a vulnerability affecting IOS XR Software for ASR 9000 Series Routers. A remote attacker could exploit this vulnerability to cause a denial-of-service condition. For updates addressing lower severity vulnerabilities, see the Cisco Security Advisories page. \nCisco IOS XR Software for ASR 9000 Series Routers Bidirectional Forwarding Detection Denial of Service Vulnerability cisco-sa-bfd-XmRescbT\nPlease share your thoughts. We recently updated our anonymous Product Feedback Survey and we'd welcome your feedback.",
@@ -480,6 +490,36 @@
       "feedUrl": "https://www.darkreading.com/rss.xml",
       "siteUrl": "https://www.darkreading.com",
       "articles": [
+        {
+          "id": "https://www.darkreading.com/cloud/unpatched-zero-day-bugs-smart-intercom-remote-eavesdropping",
+          "author": "Nathan Eddy, Contributing Writer, Dark Reading",
+          "description": "A video-enabled smart intercom made by Chinese company Akuvox has major security vulnerabilities that allow audio and video spying, and the company has so far been unresponsive to the discoveries.",
+          "link": "https://www.darkreading.com/cloud/unpatched-zero-day-bugs-smart-intercom-remote-eavesdropping",
+          "publishedOn": "2023-03-10T18:36:00.000Z",
+          "wordCount": 13058,
+          "title": "Unpatched Zero-Day Bugs in Smart Intercom Allow Remote Eavesdropping",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltf8b5a94afa71c53a/628e3799daa31875dc0c9fc0/NathanEddyHeadshot.PNG",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltf8b5a94afa71c53a/628e3799daa31875dc0c9fc0/NathanEddyHeadshot.PNG"
+        },
+        {
+          "id": "https://www.darkreading.com/operations/make-sure-your-cybersecurity-budget-stays-flexible",
+          "author": "Almog Apirion, CEO & Co-Founder, Cyolo",
+          "description": "CISOs' ability to pivot tight budgets is key to defense plans that can stand up to attackers.",
+          "link": "https://www.darkreading.com/operations/make-sure-your-cybersecurity-budget-stays-flexible",
+          "publishedOn": "2023-03-10T15:00:00.000Z",
+          "wordCount": 13679,
+          "title": "Make Sure Your Cybersecurity Budget Stays Flexible",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltb3d9482893413437/640a4c2a74527c102927ad45/Almog_Apirion_Cyolo_headshot.jpg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltb3d9482893413437/640a4c2a74527c102927ad45/Almog_Apirion_Cyolo_headshot.jpg"
+        },
         {
           "id": "https://www.darkreading.com/edge-articles/proposed-fcc-rule-redefines-data-breaches-for-communications-carriers",
           "author": "Stephen Lawton, Contributing Writer",
@@ -3796,6 +3836,36 @@
       "siteUrl": "https://blog.knowbe4.com",
       "articles": [
         {
+          "id": "https://blog.knowbe4.com/users-fall-for-scams-despite-overconfidence",
+          "author": "Stu Sjouwerman",
+          "description": "A new survey of individuals across seven countries shows that users may have had luck on their side, as a majority aren’t sure about their device security or how to spot malicious sites online.",
+          "link": "https://blog.knowbe4.com/users-fall-for-scams-despite-overconfidence",
+          "publishedOn": "2023-03-10T14:46:46.000Z",
+          "wordCount": 2352,
+          "title": "One-Quarter of Users Fall for Online Scams Despite an Overconfidence in an Ability to Spot Them",
+          "imageUrl": "https://blog.knowbe4.com/hubfs/user%20training.jpg#keepProtocol"
+        },
+        {
+          "id": "https://blog.knowbe4.com/cyberattacks-targeting-ukraine-cyberwar-strategy",
+          "author": "Stu Sjouwerman",
+          "description": "A look back at the last year of attacks on Ukraine by Google’s Threat Analysis Group (TAG) provides insight into attacks on NATO countries to gain a cyberspace advantage.",
+          "link": "https://blog.knowbe4.com/cyberattacks-targeting-ukraine-cyberwar-strategy",
+          "publishedOn": "2023-03-10T14:46:29.000Z",
+          "wordCount": 2222,
+          "title": "Google: Analysis of Cyberattacks Targeting Ukraine Shed Light on What a Cyberwar Strategy Looks Like",
+          "imageUrl": "https://blog.knowbe4.com/hubfs/Timely%20Help%20Ukraine%20Online%20Crypto%20Scams.jpg#keepProtocol"
+        },
+        {
+          "id": "https://blog.knowbe4.com/malware-decreases-exploits-skyrocket",
+          "author": "Stu Sjouwerman",
+          "description": "New data on cyberattacks from last quarter provides a lens of what kinds of attack techniques to expect to see from cyber attackers this year.",
+          "link": "https://blog.knowbe4.com/malware-decreases-exploits-skyrocket",
+          "publishedOn": "2023-03-10T14:46:12.000Z",
+          "wordCount": 2295,
+          "title": "Use of Malware Decreases in Cyber Attacks as Exploit Usage Skyrockets",
+          "imageUrl": "https://blog.knowbe4.com/hubfs/Popular%20File%20Types%20Malware.jpg#keepProtocol"
+        },
+        {
           "id": "https://blog.knowbe4.com/the-education-sector-must-act-now",
           "author": "Martin Kraemer",
           "description": "The education sector remains vulnerable as ransomware shame sites continue to feature teaching institutions from around the world. Some of the latest victims were universities from Ireland and Israel, but why are such institutions so vulnerable?",
@@ -4332,6 +4402,54 @@
       "feedUrl": "https://thehackernews.com/feeds/posts/default",
       "siteUrl": "https://thehackernews.com",
       "articles": [
+        {
+          "id": "https://thehackernews.com/2023/03/new-version-of-prometei-botnet-infects.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "An updated version of a botnet malware called Prometei has infected more than 10,000 systems worldwide since November 2022.\nThe infections are both geographically indiscriminate and opportunistic, with a majority of the victims reported in Brazil, Indonesia, and Turkey.\nPrometei, first observed in 2016, is a modular botnet that features a large repertoire of components and several proliferation",
+          "link": "https://thehackernews.com/2023/03/new-version-of-prometei-botnet-infects.html",
+          "publishedOn": "2023-03-10T14:02:00.000Z",
+          "wordCount": null,
+          "title": "New Version of Prometei Botnet Infects Over 10,000 Systems Worldwide",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjqv961TEQDaqfU4ifnpZv9CcwRCvLOH0_JOvDrWW_ivOwYKq0IDcG7YKApmxg8OEqRZOJ1UW2LTilDm7Lpg0JF3zMAIDOPiHv_qslnbd3Uqj0EKztLcZIyLlUuosi7Q1kCbAAGFGmy2bPrYHgxlrf1Ivjq2GIwdU0gCizeleuudOXgUZBWbKqBHIz3/s1600/botnet.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjqv961TEQDaqfU4ifnpZv9CcwRCvLOH0_JOvDrWW_ivOwYKq0IDcG7YKApmxg8OEqRZOJ1UW2LTilDm7Lpg0JF3zMAIDOPiHv_qslnbd3Uqj0EKztLcZIyLlUuosi7Q1kCbAAGFGmy2bPrYHgxlrf1Ivjq2GIwdU0gCizeleuudOXgUZBWbKqBHIz3/s1600/botnet.png"
+        },
+        {
+          "id": "https://thehackernews.com/2023/03/china-linked-hackers-targeting.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "A suspecting China-linked hacking campaign has been observed targeting unpatched SonicWall Secure Mobile Access (SMA) 100 appliances to drop malware and establish long-term persistence.\n\"The malware has functionality to steal user credentials, provide shell access, and persist through firmware upgrades,\" cybersecurity company Mandiant said in a technical report published this week.\nThe",
+          "link": "https://thehackernews.com/2023/03/china-linked-hackers-targeting.html",
+          "publishedOn": "2023-03-10T13:50:00.000Z",
+          "wordCount": null,
+          "title": "China-linked Hackers Targeting Unpatched SonicWall SMA Devices with Malware",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjaBBs1CM-J-6MSJsPiCbIrmjHWyW0gEsCN3cdC2TPvhkhUkFlmt4BrjPv_th6WpyUBChmH_Ww64r6_R0Jzhs-rxU7AdIXYqDj7RXvLEQWgMGDFfLkaJYT_j5MqSX5KPdEXqFdDZVevV5cbrdTEftOgv8NxV8SRSm-yP5uBDSh0pksMwXjOYHRyB1u0/s1600/sonicwall.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjaBBs1CM-J-6MSJsPiCbIrmjHWyW0gEsCN3cdC2TPvhkhUkFlmt4BrjPv_th6WpyUBChmH_Ww64r6_R0Jzhs-rxU7AdIXYqDj7RXvLEQWgMGDFfLkaJYT_j5MqSX5KPdEXqFdDZVevV5cbrdTEftOgv8NxV8SRSm-yP5uBDSh0pksMwXjOYHRyB1u0/s1600/sonicwall.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2023/03/international-law-enforcement-takes.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "A coordinated international law enforcement exercise has taken down the online infrastructure associated with a cross-platform remote access trojan (RAT) known as NetWire.\nCoinciding with the seizure of the sales website www.worldwiredlabs[.]com, a Croatian national who is suspected to be the website's administrator has been arrested. While the suspect's name was not released, investigative",
+          "link": "https://thehackernews.com/2023/03/international-law-enforcement-takes.html",
+          "publishedOn": "2023-03-10T13:39:00.000Z",
+          "wordCount": null,
+          "title": "International Law Enforcement Takes Down Infamous NetWire Cross-Platform RAT",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjOfHZ306SC0HrCkONsYXdnUA77kHiwspbsnZNE5RpqLEJpDGg_nzKbnNUnui_mwVkCs9nrZiitKT6HyV2h6EnEUsAOEprAieC5XqLeRYxw9u9sb1J_Qm_gErEnD1g0wr6l4wBMXEJ6eP5Oy0OMrO_NB87qvjqW8lEnRMLs7zANRlZ5QSeSFRqcnJPW/s1600/fbi.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjOfHZ306SC0HrCkONsYXdnUA77kHiwspbsnZNE5RpqLEJpDGg_nzKbnNUnui_mwVkCs9nrZiitKT6HyV2h6EnEUsAOEprAieC5XqLeRYxw9u9sb1J_Qm_gErEnD1g0wr6l4wBMXEJ6eP5Oy0OMrO_NB87qvjqW8lEnRMLs7zANRlZ5QSeSFRqcnJPW/s1600/fbi.png"
+        },
         {
           "id": "https://thehackernews.com/2023/03/when-partial-protection-is-zero.html",
           "author": "info@thehackernews.com (The Hacker News)",
