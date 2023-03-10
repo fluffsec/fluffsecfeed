@@ -54,16 +54,6 @@
           "wordCount": 4279,
           "title": "AA23-040A: #StopRansomware: Ransomware Attacks on Critical Infrastructure Fund DPRK Malicious Cyber Activities",
           "imageUrl": null
-        },
-        {
-          "id": "18338 at https://us-cert.cisa.gov",
-          "author": "CISA",
-          "description": "Original release date: February 8, 2023\nSummary\nThe Cybersecurity and Infrastructure Security Agency (CISA) and the Federal Bureau of Investigation (FBI) are releasing this joint Cybersecurity Advisory (CSA) in response to the ongoing ransomware campaign, known as “ESXiArgs.” Malicious actors may be exploiting known vulnerabilities in VMware ESXi servers that are likely running unpatched and out-of-service or out-of-date versions of VMware ESXi software to gain access and deploy ransomware. The ESXiArgs ransomware encrypts configuration files on ESXi servers, potentially rendering virtual machines (VMs) unusable. \nCISA has released an ESXiArgs recovery script at github.com/cisagov/ESXiArgs-Recover. Organizations that have fallen victim to ESXiArgs ransomware can use this script to attempt …",
-          "link": "https://us-cert.cisa.gov/ncas/alerts/aa23-039a",
-          "publishedOn": "2023-02-08T16:14:50.000Z",
-          "wordCount": 2819,
-          "title": "AA23-039A: ESXiArgs Ransomware Virtual Machine Recovery Guidance",
-          "imageUrl": null
         }
       ]
     },
@@ -440,16 +430,6 @@
           "publishedOn": "2023-02-09T13:33:08.000Z",
           "wordCount": 948,
           "title": "OpenSSL Releases Security Advisory",
-          "imageUrl": null
-        },
-        {
-          "id": "18339 at https://us-cert.cisa.gov",
-          "author": "CISA",
-          "description": "Original release date: February 8, 2023\nToday, CISA and the Federal Bureau of Investigation (FBI) released a joint Cybersecurity Advisory, ESXiArgs Ransomware Virtual Machine Recovery Guidance. This advisory describes the ongoing ransomware campaign known as “ESXiArgs.” Malicious cyber actors may be exploiting known vulnerabilities in unpatched and out-of-service or out-of-date versions of VMware ESXi software to gain access to ESXi servers and deploy ESXiArgs ransomware. The ransomware encrypts configuration files on ESXi servers, potentially rendering virtual machines unusable.\nAs detailed in the advisory, CISA has created and released an ESXiArgs recovery script at https://github.com/cisagov/ESXiArgs-Recover. CISA and FBI encourage organizations that have fallen victim to ESXiArgs ransomware to consider using the script to attempt to recover their files.\nAdditionally, CISA and FBI encourage all organizations to review the advisory and incorporate the recommendations for protecting against ESXiArgs ransomware.\nThis product is provided subject to this Notification and this Privacy & Use policy.",
-          "link": "https://us-cert.cisa.gov/ncas/current-activity/2023/02/08/cisa-and-fbi-release-esxiargs-ransomware-recovery-guidance",
-          "publishedOn": "2023-02-08T18:20:15.000Z",
-          "wordCount": 1047,
-          "title": "CISA and FBI Release ESXiArgs Ransomware Recovery Guidance",
           "imageUrl": null
         }
       ]
@@ -3844,111 +3824,6 @@
           "wordCount": 11115,
           "title": "Skybox Security Appoints Cybersecurity Veteran Mordecai Rosen as CEO",
           "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
-        },
-        {
-          "id": "https://www.darkreading.com/physical-security/securithings-brings-managed-service-capabilities-to-physical-security-with-new-managed-service-platform",
-          "author": null,
-          "description": "Platform opens new opportunities for managed service providers to manage, visualize, and secure customer devices from a single pane of glass, including automated maintenance and other operations.",
-          "link": "https://www.darkreading.com/physical-security/securithings-brings-managed-service-capabilities-to-physical-security-with-new-managed-service-platform",
-          "publishedOn": "2023-02-08T18:50:00.000Z",
-          "wordCount": 11124,
-          "title": "SecuriThings Brings Managed Service Capabilities to Physical Security, With New Managed Service Platform",
-          "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
-        },
-        {
-          "id": "https://www.darkreading.com/ics-ot/gao-calls-for-action-to-protect-cybersecurity-of-critical-infrastructure-",
-          "author": "Dark Reading Staff, Dark Reading",
-          "description": "Enhanced industrial control systems cybersecurity for energy and communications sector among top recommendations in new GAO cybersecurity assessment.",
-          "link": "https://www.darkreading.com/ics-ot/gao-calls-for-action-to-protect-cybersecurity-of-critical-infrastructure-",
-          "publishedOn": "2023-02-08T18:45:00.000Z",
-          "wordCount": 10496,
-          "title": "GAO Calls for Action to Protect Cybersecurity of Critical Energy, Communications Networks",
-          "enclosure": {
-            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blte161b23f0fd3a84b/60b1ea374e7eb868c4c6a293/dr_staff_125x125.jpg",
-            "type": "image/*",
-            "length": "0"
-          },
-          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blte161b23f0fd3a84b/60b1ea374e7eb868c4c6a293/dr_staff_125x125.jpg"
-        },
-        {
-          "id": "https://www.darkreading.com/cloud/corelight-expands-partnership-with-crowdstrike-to-provide-network-detection-and-response-technology-for-crowdstrike-services",
-          "author": null,
-          "description": "",
-          "link": "https://www.darkreading.com/cloud/corelight-expands-partnership-with-crowdstrike-to-provide-network-detection-and-response-technology-for-crowdstrike-services",
-          "publishedOn": "2023-02-08T18:35:00.000Z",
-          "wordCount": 11106,
-          "title": "Corelight Expands Partnership With CrowdStrike to Provide Network Detection and Response Technology for CrowdStrike Services",
-          "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
-        },
-        {
-          "id": "https://www.darkreading.com/attacks-breaches/almost-half-of-executives-expect-a-rise-in-cyber-events-targeting-accounting-and-financial-data-in-year-ahead",
-          "author": null,
-          "description": "",
-          "link": "https://www.darkreading.com/attacks-breaches/almost-half-of-executives-expect-a-rise-in-cyber-events-targeting-accounting-and-financial-data-in-year-ahead",
-          "publishedOn": "2023-02-08T18:30:00.000Z",
-          "wordCount": 12181,
-          "title": "Almost Half of Executives Expect a Rise in Cyber Events Targeting Accounting and Financial Data in Year Ahead",
-          "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
-        },
-        {
-          "id": "https://www.darkreading.com/omdia/gigamon-exits-ndr-market-sells-threatinsight-business-to-fortinet",
-          "author": "Andrew Braunberg, Principal Analyst, SecOps, Omdia",
-          "description": "Omdia has learned that Gigamon sold its ThreatInsight NDR business to Fortinet for approximately $31 million. The deal highlights what may be a pivot point for the NDR market.",
-          "link": "https://www.darkreading.com/omdia/gigamon-exits-ndr-market-sells-threatinsight-business-to-fortinet",
-          "publishedOn": "2023-02-08T18:10:00.000Z",
-          "wordCount": 12987,
-          "title": "Gigamon Exits NDR Market, Sells ThreatInsight Business to Fortinet",
-          "enclosure": {
-            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltd5bdb2abbf9c49ff/62bb447b7c47440e14f7bb80/Braunberg_Bio_Pic.jpeg",
-            "type": "image/*",
-            "length": "0"
-          },
-          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltd5bdb2abbf9c49ff/62bb447b7c47440e14f7bb80/Braunberg_Bio_Pic.jpeg"
-        },
-        {
-          "id": "https://www.darkreading.com/vulnerabilities-threats/it-isn-t-time-to-worry-about-quantum-computing-just-yet",
-          "author": "Rob Jenks, Senior Vice President, Corporate Strategy, Tanium",
-          "description": "Don't let something that's a decade away distract you from today's cyber threats.",
-          "link": "https://www.darkreading.com/vulnerabilities-threats/it-isn-t-time-to-worry-about-quantum-computing-just-yet",
-          "publishedOn": "2023-02-08T18:00:00.000Z",
-          "wordCount": 12780,
-          "title": "It Isn't Time to Worry About Quantum Computing Just Yet",
-          "enclosure": {
-            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltf41b101392fd54a3/63a2185d6b5dc8574c55d8bc/Rob_Jenks.jpg",
-            "type": "image/*",
-            "length": "0"
-          },
-          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltf41b101392fd54a3/63a2185d6b5dc8574c55d8bc/Rob_Jenks.jpg"
-        },
-        {
-          "id": "https://www.darkreading.com/attacks-breaches/researcher-finds-backdoor-in-toyota-global-supply-chain-application",
-          "author": "Elizabeth Montalbano, Contributor, Dark Reading",
-          "description": "The automaker closed a hole that allowed a security researcher to gain system administrator access to more than 14,000 corporate and partner accounts and troves of sensitive data.",
-          "link": "https://www.darkreading.com/attacks-breaches/researcher-finds-backdoor-in-toyota-global-supply-chain-application",
-          "publishedOn": "2023-02-08T18:00:00.000Z",
-          "wordCount": 14088,
-          "title": "Toyota Global Supply Chain Portal Flaw Put Hacker in the Driver's Seat",
-          "enclosure": {
-            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltbfd004d139d42d70/6303bca6236c2476a257760e/ElizabethMontalbano.jpg",
-            "type": "image/*",
-            "length": "0"
-          },
-          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltbfd004d139d42d70/6303bca6236c2476a257760e/ElizabethMontalbano.jpg"
-        },
-        {
-          "id": "https://www.darkreading.com/vulnerabilities-threats/why-chatgpt-isn-t-a-death-sentence-for-cyber-defenders",
-          "author": "Jose Lopez, Principal Data Scientist, Mimecast",
-          "description": "Generative AI combined with user awareness training creates a security alliance that can let organizations work protected from ChatGPT.",
-          "link": "https://www.darkreading.com/vulnerabilities-threats/why-chatgpt-isn-t-a-death-sentence-for-cyber-defenders",
-          "publishedOn": "2023-02-08T15:00:00.000Z",
-          "wordCount": 13568,
-          "title": "Why ChatGPT Isn't a Death Sentence for Cyber Defenders",
-          "enclosure": {
-            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt2f63956166baf169/63e12935527d5910c39bacd5/JoseLopez_2.png",
-            "type": "image/*",
-            "length": "0"
-          },
-          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt2f63956166baf169/63e12935527d5910c39bacd5/JoseLopez_2.png"
         }
       ]
     },
@@ -6556,54 +6431,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj2fd3OTmnadHxr-Z0uIYZhV_g6gmsKQIOAMfSKda0cfz_humOSvXRV2tgMqZOZwJdXm5Z-O6hlN9DktL8VPkAv3yMtCjJJVTOkXWLuwojB8MPvVuRUlhYeQORQ8amKIrPYKlYgjiXA7c_Zt_lNvnymOgbCTv_gxBZiNDfxkOtls3IuJUTVa3ZJwahK/s1600/openssl.png"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj2fd3OTmnadHxr-Z0uIYZhV_g6gmsKQIOAMfSKda0cfz_humOSvXRV2tgMqZOZwJdXm5Z-O6hlN9DktL8VPkAv3yMtCjJJVTOkXWLuwojB8MPvVuRUlhYeQORQ8amKIrPYKlYgjiXA7c_Zt_lNvnymOgbCTv_gxBZiNDfxkOtls3IuJUTVa3ZJwahK/s1600/openssl.png"
-        },
-        {
-          "id": "https://thehackernews.com/2023/02/nist-standardizes-ascon-cryptographic.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "The U.S. National Institute of Standards and Technology (NIST) has announced that a family of authenticated encryption and hashing algorithms known as Ascon will be standardized for lightweight cryptography applications.\n\"The chosen algorithms are designed to protect information created and transmitted by the Internet of Things (IoT), including its myriad tiny sensors and actuators,\" NIST said.",
-          "link": "https://thehackernews.com/2023/02/nist-standardizes-ascon-cryptographic.html",
-          "publishedOn": "2023-02-08T17:18:00.000Z",
-          "wordCount": null,
-          "title": "NIST Standardizes Ascon Cryptographic Algorithm for IoT and Other Lightweight Devices",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi42dS62dJPo0QuD2ENcasjCyih6i1o1y9uCEthdu6h2dRipDB7aeFX_lPvrarmCsHjkJBXrioHQdW1sGszdS93V-MUvgnTdQPM2uxpCWfWScJLTffJZKh4ZhdhVK-4PqyBy68tpZkVWExzLQizoA6TSAHfwYFgKsF1tclBXaQPEDndSekVCYVE3AFk/s1600/iot.png"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi42dS62dJPo0QuD2ENcasjCyih6i1o1y9uCEthdu6h2dRipDB7aeFX_lPvrarmCsHjkJBXrioHQdW1sGszdS93V-MUvgnTdQPM2uxpCWfWScJLTffJZKh4ZhdhVK-4PqyBy68tpZkVWExzLQizoA6TSAHfwYFgKsF1tclBXaQPEDndSekVCYVE3AFk/s1600/iot.png"
-        },
-        {
-          "id": "https://thehackernews.com/2023/02/unpatched-security-flaws-disclosed-in.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Multiple unpatched security flaws have been disclosed in open source and freemium Document Management System (DMS) offerings from four vendors LogicalDOC, Mayan, ONLYOFFICE, and OpenKM.\nCybersecurity firm Rapid7 said the eight vulnerabilities offer a mechanism through which \"an attacker can convince a human operator to save a malicious document on the platform and, once the document is indexed",
-          "link": "https://thehackernews.com/2023/02/unpatched-security-flaws-disclosed-in.html",
-          "publishedOn": "2023-02-08T15:15:00.000Z",
-          "wordCount": null,
-          "title": "Unpatched Security Flaws Disclosed in Multiple Document Management Systems",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9T3JRZ5PUDi1Oj0T1gsvJYsb_ApAnqIYkWBDdPK1AJdWQ5hUWZMJDTOgtajWRBs178tx8zViXxoxxhsFGJDg4H3kLRHNvcfBr82hUbQQ2H7W5T_6yx2DZjD_BhV5cvjV1Ws0tHGvTFvEPz_9kQwo_S7c6mG4_3rrzD8XHedJohA0WvqyhpYNjtY4G/s1600/docs.png"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9T3JRZ5PUDi1Oj0T1gsvJYsb_ApAnqIYkWBDdPK1AJdWQ5hUWZMJDTOgtajWRBs178tx8zViXxoxxhsFGJDg4H3kLRHNvcfBr82hUbQQ2H7W5T_6yx2DZjD_BhV5cvjV1Ws0tHGvTFvEPz_9kQwo_S7c6mG4_3rrzD8XHedJohA0WvqyhpYNjtY4G/s1600/docs.png"
-        },
-        {
-          "id": "https://thehackernews.com/2023/02/sydney-man-sentenced-for-blackmailing.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "A Sydney man has been sentenced to an 18-month Community Correction Order (CCO) and 100 hours of community service for attempting to take advantage of the Optus data breach last year to blackmail its customers.\nThe unnamed individual, 19 when arrested in October 2022 and now 20, used the leaked records stolen from the security lapse to orchestrate an SMS-based extortion scheme.\nThe suspect",
-          "link": "https://thehackernews.com/2023/02/sydney-man-sentenced-for-blackmailing.html",
-          "publishedOn": "2023-02-08T15:00:00.000Z",
-          "wordCount": null,
-          "title": "Sydney Man Sentenced for Blackmailing Optus Customers After Data Breach",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgIlpoHU7K7XlmdPDcFuxq9s7SMA78cwj6Y-XuCAqnNm0VG8OaTsMDrErNRHILigKDsAaS82PqQvV2rVIJZUj8N6iytSedc36vyfq1YAMUqaHwexavZt5YXgNQTad11xUAccaz1DB4JaHQUBIr8GOOU65U71Mn_TG8It0Gcw39DjvTV5nAvyBxPYwcQ/s1600/optus.png"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgIlpoHU7K7XlmdPDcFuxq9s7SMA78cwj6Y-XuCAqnNm0VG8OaTsMDrErNRHILigKDsAaS82PqQvV2rVIJZUj8N6iytSedc36vyfq1YAMUqaHwexavZt5YXgNQTad11xUAccaz1DB4JaHQUBIr8GOOU65U71Mn_TG8It0Gcw39DjvTV5nAvyBxPYwcQ/s1600/optus.png"
         }
       ]
     }
