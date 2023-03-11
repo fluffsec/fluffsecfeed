@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-03-11T02:12:38.697Z</updated>
+    <updated>2023-03-11T07:17:09.095Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
@@ -4963,106 +4963,6 @@ The attack]]></summary>
         <summary type="html"><![CDATA[Nearly a half-millennium after her execution, encrypted letters from the imprisoned royal offer a fascinating look into early cryptography.]]></summary>
         <author>
             <name>Dark Reading Staff, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Phishing Surges Ahead, as ChatGPT & AI Loom]]></title>
-        <id>https://www.darkreading.com/vulnerabilities-threats/bolstered-chatgpt-tools-phishing-surged-ahead</id>
-        <link href="https://www.darkreading.com/vulnerabilities-threats/bolstered-chatgpt-tools-phishing-surged-ahead"/>
-        <updated>2023-02-09T18:52:00.000Z</updated>
-        <summary type="html"><![CDATA[AI and phishing-as-a-service (PaaS) kits are making it easier for threat actors to create malicious email campaigns, which continue to target high-volume applications using popular brand names.]]></summary>
-        <author>
-            <name>Elizabeth Montalbano, Contributor, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NIST Picks IoT Standard for Small Electronics Cybersecurity]]></title>
-        <id>https://www.darkreading.com/ics-ot/nist-picks-iot-standard-lightweight-electronics-cybersecurity</id>
-        <link href="https://www.darkreading.com/ics-ot/nist-picks-iot-standard-lightweight-electronics-cybersecurity"/>
-        <updated>2023-02-09T18:10:00.000Z</updated>
-        <summary type="html"><![CDATA[NIST announces that it will use Ascon as a cryptography standard for lightweight IoT device protection.]]></summary>
-        <author>
-            <name>Dark Reading Staff, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[#StopRansomware - Ransomware Attacks on Critical Infrastructure Fund DPRK Espionage Activities]]></title>
-        <id>18348 at https://us-cert.cisa.gov</id>
-        <link href="https://us-cert.cisa.gov/ncas/current-activity/2023/02/09/stopransomware-ransomware-attacks-critical-infrastructure-fund"/>
-        <updated>2023-02-09T18:02:00.000Z</updated>
-        <summary type="html"><![CDATA[Original release date: February 9, 2023
-CISA, the National Security Agency (NSA), the Federal Bureau of Investigation (FBI), the Department of Health and Human Services (HHS), and Republic of Korea’s Defense Security Agency and National Intelligence Service have released a joint Cybersecurity Advisory (CSA), Ransomware Attacks on Critical Infrastructure Fund DPRK Espionage Activities, to provide information on ransomware activity used by North Korean state-sponsored cyber to target various critical infrastructure sectors, especially Healthcare and Public Health (HPH) Sector organizations.
-The authoring agencies urge network defenders to examine their current cybersecurity posture and apply the recommended mitigations in this joint CSA, which include:
-Train users to recognize and report phishing attempts.
-Enable and enforce phishing-resistant multifactor authentication. 
-Install and regularly update antivirus and antimalware software on all hosts. 
-See Ransomware Attacks on Critical Infrastructure Fund DPRK Espionage Activities for ransomware actor’s tactics, techniques, and procedures, indicators of compromise, and recommended mitigations. Additionally, review StopRansomware.gov for more guidance on ransomware protection, detection, and response.
-For more information on state-sponsored North Korean malicious cyber activity, see CISA’s North Korea Cyber Threat Overview and Advisories webpage.
-This product is provided subject to this Notification and this Privacy & Use policy.]]></summary>
-        <author>
-            <name>CISA</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AA23-040A: #StopRansomware: Ransomware Attacks on Critical Infrastructure Fund DPRK Malicious Cyber Activities]]></title>
-        <id>18341 at https://us-cert.cisa.gov</id>
-        <link href="https://us-cert.cisa.gov/ncas/alerts/aa23-040a"/>
-        <updated>2023-02-09T18:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Original release date: February 9, 2023 | Last revised: February 10, 2023
-Summary
-Note: This Cybersecurity Advisory (CSA) is part of an ongoing #StopRansomware effort to publish advisories for network defenders that detail various ransomware variants and various ransomware threat actors. These #StopRansomware advisories detail historically and recently observed tactics, techniques, and procedures (TTPs) and indicators of compromise (IOCs) to help organizations protect against ransomware. Visit stopransomware.gov to see all #StopRansomware advisories and to learn about other ransomware threats and no-cost resources.
-The United States National Security Agency (NSA), the U.S. Federal Bureau of Investigation (FBI), the U.S. Cybersecurity and Infrastructure Security Agency (CISA), the U.S. Depa…]]></summary>
-        <author>
-            <name>CISA</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[In Perfect Harmony: Cybersecurity Regulation Harmonization]]></title>
-        <id>https://www.darkreading.com/risk/prioritizing-cybersecurity-regulation-harmonization</id>
-        <link href="https://www.darkreading.com/risk/prioritizing-cybersecurity-regulation-harmonization"/>
-        <updated>2023-02-09T18:00:00.000Z</updated>
-        <summary type="html"><![CDATA[By simplifying compliance management, security and risk teams can focus on managing operational risk, not compliance risk — and better counter threats.]]></summary>
-        <author>
-            <name>David Fairman, Chief Information Officer and Chief Security Officer APAC, Netskope</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Twitter Implements API Paywall, but Will That Solve Its Enormous Bot Crisis?]]></title>
-        <id>https://www.darkreading.com/endpoint/twitter-api-paywall-solve-enormous-bot-crisis</id>
-        <link href="https://www.darkreading.com/endpoint/twitter-api-paywall-solve-enormous-bot-crisis"/>
-        <updated>2023-02-09T16:47:31.000Z</updated>
-        <summary type="html"><![CDATA[Restricting the Twitter API will have implications across Twitter, the broader Internet, and society, experts say. Is there a cybersecurity silver lining, or will threat actors pay to play?]]></summary>
-        <author>
-            <name>Nate Nelson, Contributing Writer, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CISA Releases Six Industrial Control Systems Advisories]]></title>
-        <id>18347 at https://us-cert.cisa.gov</id>
-        <link href="https://us-cert.cisa.gov/ncas/current-activity/2023/02/09/cisa-releases-six-industrial-control-systems-advisories"/>
-        <updated>2023-02-09T15:00:01.000Z</updated>
-        <summary type="html"><![CDATA[Original release date: February 9, 2023
-CISA released six Industrial Control Systems (ICS) advisories on February 9, 2023. These advisories provide timely information about current security issues, vulnerabilities, and exploits surrounding ICS.
-CISA encourages users and administrators to review the newly released ICS advisories for technical details and mitigations:
-ICSA-23-040-01 Control By Web X-400, X-600M
-ICSA-23-040-02 LS Electric XBC-DN32U
-ICSA-23-040-03 Johnson Controls System Configuration Tool (CST)
-ICSA-23-040-04 Horner Automation Cscape Envision RV
-ICSA-22-179-02 Omron SYSMAC CS-CJ-CP Series and NJ-NX Series (Update A)
-ICSA-22-354-03 ARC Informatique PcVue (Update A)
-This product is provided subject to this Notification and this Privacy & Use policy.]]></summary>
-        <author>
-            <name>CISA</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lessons From the Cold War: How Quality Trumps Quantity in Cybersecurity]]></title>
-        <id>https://www.darkreading.com/vulnerabilities-threats/lessons-from-the-cold-war-how-quality-trumps-quantity-in-cybersecurity</id>
-        <link href="https://www.darkreading.com/vulnerabilities-threats/lessons-from-the-cold-war-how-quality-trumps-quantity-in-cybersecurity"/>
-        <updated>2023-02-09T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[High-quality tools and standards remain critical components in cybersecurity efforts even as budgets decline. It's important that staff knows response procedures and their roles, and also communicates well.]]></summary>
-        <author>
-            <name>Mark Pelkoski, Senior Director of Solutions Architecture USA, CYE</name>
         </author>
     </entry>
 </feed>

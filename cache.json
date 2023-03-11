@@ -44,16 +44,6 @@
           "wordCount": 2537,
           "title": "Untitled",
           "imageUrl": null
-        },
-        {
-          "id": "18341 at https://us-cert.cisa.gov",
-          "author": "CISA",
-          "description": "Original release date: February 9, 2023 | Last revised: February 10, 2023\nSummary\nNote: This Cybersecurity Advisory (CSA) is part of an ongoing #StopRansomware effort to publish advisories for network defenders that detail various ransomware variants and various ransomware threat actors. These #StopRansomware advisories detail historically and recently observed tactics, techniques, and procedures (TTPs) and indicators of compromise (IOCs) to help organizations protect against ransomware. Visit stopransomware.gov to see all #StopRansomware advisories and to learn about other ransomware threats and no-cost resources.\nThe United States National Security Agency (NSA), the U.S. Federal Bureau of Investigation (FBI), the U.S. Cybersecurity and Infrastructure Security Agency (CISA), the U.S. Depa…",
-          "link": "https://us-cert.cisa.gov/ncas/alerts/aa23-040a",
-          "publishedOn": "2023-02-09T18:00:00.000Z",
-          "wordCount": 4279,
-          "title": "AA23-040A: #StopRansomware: Ransomware Attacks on Critical Infrastructure Fund DPRK Malicious Cyber Activities",
-          "imageUrl": null
         }
       ]
     },
@@ -410,26 +400,6 @@
           "publishedOn": "2023-02-10T16:12:00.000Z",
           "wordCount": 1091,
           "title": "CISA Adds Three Known Exploited Vulnerabilities to Catalog",
-          "imageUrl": null
-        },
-        {
-          "id": "18348 at https://us-cert.cisa.gov",
-          "author": "CISA",
-          "description": "Original release date: February 9, 2023\nCISA, the National Security Agency (NSA), the Federal Bureau of Investigation (FBI), the Department of Health and Human Services (HHS), and Republic of Korea’s Defense Security Agency and National Intelligence Service have released a joint Cybersecurity Advisory (CSA), Ransomware Attacks on Critical Infrastructure Fund DPRK Espionage Activities, to provide information on ransomware activity used by North Korean state-sponsored cyber to target various critical infrastructure sectors, especially Healthcare and Public Health (HPH) Sector organizations.\nThe authoring agencies urge network defenders to examine their current cybersecurity posture and apply the recommended mitigations in this joint CSA, which include:\nTrain users to recognize and report phishing attempts.\nEnable and enforce phishing-resistant multifactor authentication. \nInstall and regularly update antivirus and antimalware software on all hosts. \nSee Ransomware Attacks on Critical Infrastructure Fund DPRK Espionage Activities for ransomware actor’s tactics, techniques, and procedures, indicators of compromise, and recommended mitigations. Additionally, review StopRansomware.gov for more guidance on ransomware protection, detection, and response.\nFor more information on state-sponsored North Korean malicious cyber activity, see CISA’s North Korea Cyber Threat Overview and Advisories webpage.\nThis product is provided subject to this Notification and this Privacy & Use policy.",
-          "link": "https://us-cert.cisa.gov/ncas/current-activity/2023/02/09/stopransomware-ransomware-attacks-critical-infrastructure-fund",
-          "publishedOn": "2023-02-09T18:02:00.000Z",
-          "wordCount": 1101,
-          "title": "#StopRansomware - Ransomware Attacks on Critical Infrastructure Fund DPRK Espionage Activities",
-          "imageUrl": null
-        },
-        {
-          "id": "18347 at https://us-cert.cisa.gov",
-          "author": "CISA",
-          "description": "Original release date: February 9, 2023\nCISA released six Industrial Control Systems (ICS) advisories on February 9, 2023. These advisories provide timely information about current security issues, vulnerabilities, and exploits surrounding ICS.\nCISA encourages users and administrators to review the newly released ICS advisories for technical details and mitigations:\nICSA-23-040-01 Control By Web X-400, X-600M\nICSA-23-040-02 LS Electric XBC-DN32U\nICSA-23-040-03 Johnson Controls System Configuration Tool (CST)\nICSA-23-040-04 Horner Automation Cscape Envision RV\nICSA-22-179-02 Omron SYSMAC CS-CJ-CP Series and NJ-NX Series (Update A)\nICSA-22-354-03 ARC Informatique PcVue (Update A)\nThis product is provided subject to this Notification and this Privacy & Use policy.",
-          "link": "https://us-cert.cisa.gov/ncas/current-activity/2023/02/09/cisa-releases-six-industrial-control-systems-advisories",
-          "publishedOn": "2023-02-09T15:00:01.000Z",
-          "wordCount": 995,
-          "title": "CISA Releases Six Industrial Control Systems Advisories",
           "imageUrl": null
         }
       ]
@@ -3744,81 +3714,6 @@
             "length": "0"
           },
           "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blte161b23f0fd3a84b/60b1ea374e7eb868c4c6a293/dr_staff_125x125.jpg"
-        },
-        {
-          "id": "https://www.darkreading.com/vulnerabilities-threats/bolstered-chatgpt-tools-phishing-surged-ahead",
-          "author": "Elizabeth Montalbano, Contributor, Dark Reading",
-          "description": "AI and phishing-as-a-service (PaaS) kits are making it easier for threat actors to create malicious email campaigns, which continue to target high-volume applications using popular brand names.",
-          "link": "https://www.darkreading.com/vulnerabilities-threats/bolstered-chatgpt-tools-phishing-surged-ahead",
-          "publishedOn": "2023-02-09T18:52:00.000Z",
-          "wordCount": 13888,
-          "title": "Phishing Surges Ahead, as ChatGPT & AI Loom",
-          "enclosure": {
-            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltbfd004d139d42d70/6303bca6236c2476a257760e/ElizabethMontalbano.jpg",
-            "type": "image/*",
-            "length": "0"
-          },
-          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltbfd004d139d42d70/6303bca6236c2476a257760e/ElizabethMontalbano.jpg"
-        },
-        {
-          "id": "https://www.darkreading.com/ics-ot/nist-picks-iot-standard-lightweight-electronics-cybersecurity",
-          "author": "Dark Reading Staff, Dark Reading",
-          "description": "NIST announces that it will use Ascon as a cryptography standard for lightweight IoT device protection.",
-          "link": "https://www.darkreading.com/ics-ot/nist-picks-iot-standard-lightweight-electronics-cybersecurity",
-          "publishedOn": "2023-02-09T18:10:00.000Z",
-          "wordCount": 10109,
-          "title": "NIST Picks IoT Standard for Small Electronics Cybersecurity",
-          "enclosure": {
-            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blte161b23f0fd3a84b/60b1ea374e7eb868c4c6a293/dr_staff_125x125.jpg",
-            "type": "image/*",
-            "length": "0"
-          },
-          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blte161b23f0fd3a84b/60b1ea374e7eb868c4c6a293/dr_staff_125x125.jpg"
-        },
-        {
-          "id": "https://www.darkreading.com/risk/prioritizing-cybersecurity-regulation-harmonization",
-          "author": "David Fairman, Chief Information Officer and Chief Security Officer APAC, Netskope",
-          "description": "By simplifying compliance management, security and risk teams can focus on managing operational risk, not compliance risk — and better counter threats.",
-          "link": "https://www.darkreading.com/risk/prioritizing-cybersecurity-regulation-harmonization",
-          "publishedOn": "2023-02-09T18:00:00.000Z",
-          "wordCount": 13009,
-          "title": "In Perfect Harmony: Cybersecurity Regulation Harmonization",
-          "enclosure": {
-            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt8c819a61c1998fe6/63dd676883028910fafb86ec/DavidF-Security-Web-Color-595x597-0.jpg",
-            "type": "image/*",
-            "length": "0"
-          },
-          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt8c819a61c1998fe6/63dd676883028910fafb86ec/DavidF-Security-Web-Color-595x597-0.jpg"
-        },
-        {
-          "id": "https://www.darkreading.com/endpoint/twitter-api-paywall-solve-enormous-bot-crisis",
-          "author": "Nate Nelson, Contributing Writer, Dark Reading",
-          "description": "Restricting the Twitter API will have implications across Twitter, the broader Internet, and society, experts say. Is there a cybersecurity silver lining, or will threat actors pay to play?",
-          "link": "https://www.darkreading.com/endpoint/twitter-api-paywall-solve-enormous-bot-crisis",
-          "publishedOn": "2023-02-09T16:47:31.000Z",
-          "wordCount": 13636,
-          "title": "Twitter Implements API Paywall, but Will That Solve Its Enormous Bot Crisis?",
-          "enclosure": {
-            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt91e5f91ce3f0cdd9/63d0288ac98dbe55ece1d0a9/Nate-Nelson_(1).jpg",
-            "type": "image/*",
-            "length": "0"
-          },
-          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt91e5f91ce3f0cdd9/63d0288ac98dbe55ece1d0a9/Nate-Nelson_(1).jpg"
-        },
-        {
-          "id": "https://www.darkreading.com/vulnerabilities-threats/lessons-from-the-cold-war-how-quality-trumps-quantity-in-cybersecurity",
-          "author": "Mark Pelkoski, Senior Director of Solutions Architecture USA, CYE",
-          "description": "High-quality tools and standards remain critical components in cybersecurity efforts even as budgets decline. It's important that staff knows response procedures and their roles, and also communicates well.",
-          "link": "https://www.darkreading.com/vulnerabilities-threats/lessons-from-the-cold-war-how-quality-trumps-quantity-in-cybersecurity",
-          "publishedOn": "2023-02-09T15:00:00.000Z",
-          "wordCount": 13390,
-          "title": "Lessons From the Cold War: How Quality Trumps Quantity in Cybersecurity",
-          "enclosure": {
-            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blta4731a930a23a6c9/63e168e3a3874149ce93226f/Mark_10062022.JPG",
-            "type": "image/*",
-            "length": "0"
-          },
-          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blta4731a930a23a6c9/63e168e3a3874149ce93226f/Mark_10062022.JPG"
         }
       ]
     },
