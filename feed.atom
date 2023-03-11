@@ -2,10 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-03-11T13:22:26.975Z</updated>
+    <updated>2023-03-11T19:15:22.443Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The interesting history and origin of the word "Bankruptcy"]]></title>
+        <id>https://blog.knowbe4.com/the-interesting-history-and-origin-of-the-word-bankruptcy</id>
+        <link href="https://blog.knowbe4.com/the-interesting-history-and-origin-of-the-word-bankruptcy"/>
+        <updated>2023-03-11T15:18:05.000Z</updated>
+        <summary type="html"><![CDATA[Regarding the current SVB meltdown, the English word "bankruptcy" has its roots in medieval Italy. It comes from the word "banca rotta," which means "broken bench." This term was used when a money lender ran out of funds, and the bench or table they were doing business on was physically broken in half.]]></summary>
+        <author>
+            <name>Stu Sjouwerman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BATLOADER Malware Uses Google Ads to Deliver Vidar Stealer and Ursnif Payloads]]></title>
+        <id>https://thehackernews.com/2023/03/batloader-malware-uses-google-ads-to.html</id>
+        <link href="https://thehackernews.com/2023/03/batloader-malware-uses-google-ads-to.html"/>
+        <updated>2023-03-11T13:32:00.000Z</updated>
+        <summary type="html"><![CDATA[The malware downloader known as BATLOADER has been observed abusing Google Ads to deliver secondary payloads like Vidar Stealer and Ursnif.
+According to cybersecurity company eSentire, malicious ads are used to spoof a wide range of legitimate apps and services such as Adobe, OpenAPI's ChatGPT, Spotify, Tableau, and Zoom.
+BATLOADER, as the name suggests, is a loader that's responsible for]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[And the Cyberattack Goes To ... Oscar-Nominated Film Fans]]></title>
         <id>https://www.darkreading.com/application-security/and-the-cyberattack-goes-to-oscar-nominated-film-fans</id>
@@ -4862,28 +4884,6 @@ Ransomware as a service is a type of attack in which the ransomware software and
 The individuals designated under sanctions are Vitaly Kovalev (aka Alex Konor, Bentley, or Bergen), Maksim Mikhailov (aka Baget), Valentin Karyagin (aka Globus), Mikhail Iskritskiy (aka]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Reddit Suffers Security Breach Exposing Internal Documents and Source Code]]></title>
-        <id>https://thehackernews.com/2023/02/reddit-suffers-security-breach-exposing.html</id>
-        <link href="https://thehackernews.com/2023/02/reddit-suffers-security-breach-exposing.html"/>
-        <updated>2023-02-10T04:28:00.000Z</updated>
-        <summary type="html"><![CDATA[Popular social news aggregation platform Reddit has disclosed that it was the victim of a security incident that enabled unidentified threat actors to gain unauthorized access to internal documents, code, and some unspecified business systems.
-The company blamed it on a "sophisticated and highly-targeted phishing attack" that took place on February 5, 2023, aimed at its employees.
-The attack]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google Cloud Connects Chronicle to Health ISAC Feed]]></title>
-        <id>https://www.darkreading.com/dr-tech/google-cloud-connects-chronicle-to-health-isac-feed</id>
-        <link href="https://www.darkreading.com/dr-tech/google-cloud-connects-chronicle-to-health-isac-feed"/>
-        <updated>2023-02-10T02:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Members of the Health-ISAC can ingest threat indicators directly into Chronicle to investigate whether the threat is present in their environment.]]></summary>
-        <author>
-            <name>Dark Reading Staff, Dark Reading</name>
         </author>
     </entry>
 </feed>
