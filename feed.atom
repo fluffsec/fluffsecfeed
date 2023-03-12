@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-03-12T07:17:15.284Z</updated>
+    <updated>2023-03-12T13:23:01.982Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[[Heads Up] The SVB Bankruptcy Is A Social Engineering Bonanza]]></title>
+        <id>https://blog.knowbe4.com/heads-up-the-svb-bankruptcy-is-a-social-engineering-bonanza</id>
+        <link href="https://blog.knowbe4.com/heads-up-the-svb-bankruptcy-is-a-social-engineering-bonanza"/>
+        <updated>2023-03-12T11:53:43.000Z</updated>
+        <summary type="html"><![CDATA[Saturday March 11, 2023 -- Over the last 24 hours, the Federal Deposit Insurance Corporation has established the FDIC Bank of Santa Clara and insured depositors will have access to funds no later than Monday morning.]]></summary>
+        <author>
+            <name>Stu Sjouwerman</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The interesting history and origin of the word "Bankruptcy"]]></title>
         <id>https://blog.knowbe4.com/the-interesting-history-and-origin-of-the-word-bankruptcy</id>
@@ -4756,26 +4766,6 @@ Included among the three is CVE-2022-24990, a bug affecting TerraMaster network
 Details]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Reddit Hack Shows Limits of MFA, Strengths of Security Training]]></title>
-        <id>https://www.darkreading.com/risk/reddit-hack-shows-limits-mfa-strengths-security-training</id>
-        <link href="https://www.darkreading.com/risk/reddit-hack-shows-limits-mfa-strengths-security-training"/>
-        <updated>2023-02-10T21:36:00.000Z</updated>
-        <summary type="html"><![CDATA[A tailored spear-phishing attack successfully convinced a Reddit employee to hand over their credentials and their one-time password, but soon after, the same worker notified security.]]></summary>
-        <author>
-            <name>Robert Lemos, Contributing Writer, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Trickbot Members Sanctioned for Pandemic-Era Ransomware Hits]]></title>
-        <id>https://www.darkreading.com/endpoint/trickbot-members-sanctioned-pandemic-era-ransomware-hits</id>
-        <link href="https://www.darkreading.com/endpoint/trickbot-members-sanctioned-pandemic-era-ransomware-hits"/>
-        <updated>2023-02-10T19:25:00.000Z</updated>
-        <summary type="html"><![CDATA[The US Treasury Department linked the notorious cybercrime gang to Russian Intelligence Services because cyberattacks that disrupted hospitals and other critical infrastructure align with Russian state interests.]]></summary>
-        <author>
-            <name>Tara Seals, Managing Editor, News, Dark Reading</name>
         </author>
     </entry>
 </feed>
