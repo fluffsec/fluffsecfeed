@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-03-12T02:24:19.375Z</updated>
+    <updated>2023-03-12T07:17:15.284Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
@@ -4776,80 +4776,6 @@ Details]]></summary>
         <summary type="html"><![CDATA[The US Treasury Department linked the notorious cybercrime gang to Russian Intelligence Services because cyberattacks that disrupted hospitals and other critical infrastructure align with Russian state interests.]]></summary>
         <author>
             <name>Tara Seals, Managing Editor, News, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Integreon Launches Cyber Incident Response Offering with Development of AI-Based Review and Integration of RadarFirst]]></title>
-        <id>https://www.darkreading.com/attacks-breaches/integreon-launches-cyber-incident-response-offering-with-development-of-ai-based-review-and-integration-of-radarfirst</id>
-        <link href="https://www.darkreading.com/attacks-breaches/integreon-launches-cyber-incident-response-offering-with-development-of-ai-based-review-and-integration-of-radarfirst"/>
-        <updated>2023-02-10T18:55:00.000Z</updated>
-        <author>
-            <name>Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MagicWeb Mystery Highlights Nobelium Attacker's Sophistication]]></title>
-        <id>https://www.darkreading.com/vulnerabilities-threats/magicweb-mystery-highlights-nobelium-attacker-sophistication</id>
-        <link href="https://www.darkreading.com/vulnerabilities-threats/magicweb-mystery-highlights-nobelium-attacker-sophistication"/>
-        <updated>2023-02-10T18:21:00.000Z</updated>
-        <summary type="html"><![CDATA[The authentication bypass used by the Nobelium group, best known for the supply chain attack on SolarWinds, required a massive, real-time investigation to uncover, Microsoft says.]]></summary>
-        <author>
-            <name>Robert Lemos, Contributing Writer, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Malicious Game Mods Target Dota 2 Game Users]]></title>
-        <id>https://www.darkreading.com/cloud/malicious-game-mods-target-dota-2-game-users</id>
-        <link href="https://www.darkreading.com/cloud/malicious-game-mods-target-dota-2-game-users"/>
-        <updated>2023-02-10T17:38:00.000Z</updated>
-        <summary type="html"><![CDATA[Valve's unpatched JavaScript engine and incomplete modification vetting process for Steam-delivered mods led to user systems being backdoored.]]></summary>
-        <author>
-            <name>Jai Vijayan, Contributing Writer, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Attacker Allure: A Look at the Super Bowl's Operational Cyber-Risks]]></title>
-        <id>https://www.darkreading.com/ics-ot/super-bowl-operational-cyber-risks-attackers-allure</id>
-        <link href="https://www.darkreading.com/ics-ot/super-bowl-operational-cyber-risks-attackers-allure"/>
-        <updated>2023-02-10T17:25:00.000Z</updated>
-        <summary type="html"><![CDATA[Event organizers should be exercising various cyberattack scenarios to ensure they have the proper checks and balances in place to respond accordingly and maintain resilience.]]></summary>
-        <author>
-            <name>Nathan Eddy, Contributing Writer, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Researchers Uncover Obfuscated Malicious Code in PyPI Python Packages]]></title>
-        <id>https://thehackernews.com/2023/02/researchers-uncover-obfuscated.html</id>
-        <link href="https://thehackernews.com/2023/02/researchers-uncover-obfuscated.html"/>
-        <updated>2023-02-10T16:44:00.000Z</updated>
-        <summary type="html"><![CDATA[Four different rogue packages in the Python Package Index (PyPI) have been found to carry out a number of malicious actions, including dropping malware, deleting the netstat utility, and manipulating the SSH authorized_keys file.
-The packages in question are aptx, bingchilling2, httops, and tkint3rs, all of which were collectively downloaded about 450 times before they were taken down. While]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CISA Adds Three Known Exploited Vulnerabilities to Catalog]]></title>
-        <id>18349 at https://us-cert.cisa.gov</id>
-        <link href="https://us-cert.cisa.gov/ncas/current-activity/2023/02/10/cisa-adds-three-known-exploited-vulnerabilities-catalog"/>
-        <updated>2023-02-10T16:12:00.000Z</updated>
-        <summary type="html"><![CDATA[Original release date: February 10, 2023
-CISA has added three new vulnerabilities to its Known Exploited Vulnerabilities Catalog, based on evidence of active exploitation. These types of vulnerabilities are frequent attack vectors for malicious cyber actors and pose significant risks to the federal enterprise. Note: To view the newly added vulnerabilities in the catalog, click on the arrow in the "Date Added to Catalog" column, which will sort by descending dates.
-Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the Known Exploited Vulnerabilities Catalog as a living list of known CVEs that carry significant risk to the federal enterprise. BOD 22-01 requires FCEB agencies to remediate identified vulnerabilities by the due date to protect FCEB networks against active threats. See the BOD 22-01 Fact Sheet for more information.
-Although BOD 22-01 only applies to FCEB agencies, CISA strongly urges all organizations to reduce their exposure to cyberattacks by prioritizing timely remediation of Catalog vulnerabilities as part of their vulnerability management practice. CISA will continue to add vulnerabilities to the Catalog that meet the specified criteria.
-This product is provided subject to this Notification and this Privacy & Use policy.]]></summary>
-        <author>
-            <name>CISA</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Addressing the Elephant in the Room: Getting Developers & Security Teams to Work Together]]></title>
-        <id>https://www.darkreading.com/application-security/addressing-the-elephant-in-the-room-getting-developers-and-security-teams-to-work-together</id>
-        <link href="https://www.darkreading.com/application-security/addressing-the-elephant-in-the-room-getting-developers-and-security-teams-to-work-together"/>
-        <updated>2023-02-10T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Bridging the divide between developers and security can create a culture change organically.]]></summary>
-        <author>
-            <name>Idan Tendler, Senior Vice President of Code &amp; Application Security, Palo Alto Networks</name>
         </author>
     </entry>
 </feed>

@@ -391,16 +391,6 @@
           "wordCount": 962,
           "title": "CISA Releases One Industrial Control Systems Advisory",
           "imageUrl": null
-        },
-        {
-          "id": "18349 at https://us-cert.cisa.gov",
-          "author": "CISA",
-          "description": "Original release date: February 10, 2023\nCISA has added three new vulnerabilities to its Known Exploited Vulnerabilities Catalog, based on evidence of active exploitation. These types of vulnerabilities are frequent attack vectors for malicious cyber actors and pose significant risks to the federal enterprise. Note: To view the newly added vulnerabilities in the catalog, click on the arrow in the \"Date Added to Catalog\" column, which will sort by descending dates.\nBinding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the Known Exploited Vulnerabilities Catalog as a living list of known CVEs that carry significant risk to the federal enterprise. BOD 22-01 requires FCEB agencies to remediate identified vulnerabilities by the due date to protect FCEB networks against active threats. See the BOD 22-01 Fact Sheet for more information.\nAlthough BOD 22-01 only applies to FCEB agencies, CISA strongly urges all organizations to reduce their exposure to cyberattacks by prioritizing timely remediation of Catalog vulnerabilities as part of their vulnerability management practice. CISA will continue to add vulnerabilities to the Catalog that meet the specified criteria.\nThis product is provided subject to this Notification and this Privacy & Use policy.",
-          "link": "https://us-cert.cisa.gov/ncas/current-activity/2023/02/10/cisa-adds-three-known-exploited-vulnerabilities-catalog",
-          "publishedOn": "2023-02-10T16:12:00.000Z",
-          "wordCount": 1091,
-          "title": "CISA Adds Three Known Exploited Vulnerabilities to Catalog",
-          "imageUrl": null
         }
       ]
     },
@@ -3529,76 +3519,6 @@
             "length": "0"
           },
           "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltea67136f81f32eca/626a9eb4726e3315b16b3c64/Tara-Seals-Headshot2.jpg"
-        },
-        {
-          "id": "https://www.darkreading.com/attacks-breaches/integreon-launches-cyber-incident-response-offering-with-development-of-ai-based-review-and-integration-of-radarfirst",
-          "author": null,
-          "description": "",
-          "link": "https://www.darkreading.com/attacks-breaches/integreon-launches-cyber-incident-response-offering-with-development-of-ai-based-review-and-integration-of-radarfirst",
-          "publishedOn": "2023-02-10T18:55:00.000Z",
-          "wordCount": 12448,
-          "title": "Integreon Launches Cyber Incident Response Offering with Development of AI-Based Review and Integration of RadarFirst",
-          "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
-        },
-        {
-          "id": "https://www.darkreading.com/vulnerabilities-threats/magicweb-mystery-highlights-nobelium-attacker-sophistication",
-          "author": "Robert Lemos, Contributing Writer, Dark Reading",
-          "description": "The authentication bypass used by the Nobelium group, best known for the supply chain attack on SolarWinds, required a massive, real-time investigation to uncover, Microsoft says.",
-          "link": "https://www.darkreading.com/vulnerabilities-threats/magicweb-mystery-highlights-nobelium-attacker-sophistication",
-          "publishedOn": "2023-02-10T18:21:00.000Z",
-          "wordCount": 11584,
-          "title": "MagicWeb Mystery Highlights Nobelium Attacker's Sophistication",
-          "enclosure": {
-            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt58481326324d6911/60b1e9a55d34de550780a990/Robert-Lemos.png",
-            "type": "image/*",
-            "length": "0"
-          },
-          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt58481326324d6911/60b1e9a55d34de550780a990/Robert-Lemos.png"
-        },
-        {
-          "id": "https://www.darkreading.com/cloud/malicious-game-mods-target-dota-2-game-users",
-          "author": "Jai Vijayan, Contributing Writer, Dark Reading",
-          "description": "Valve's unpatched JavaScript engine and incomplete modification vetting process for Steam-delivered mods led to user systems being backdoored.",
-          "link": "https://www.darkreading.com/cloud/malicious-game-mods-target-dota-2-game-users",
-          "publishedOn": "2023-02-10T17:38:00.000Z",
-          "wordCount": 13076,
-          "title": "Malicious Game Mods Target Dota 2 Game Users",
-          "enclosure": {
-            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt02d79fb9a44a4258/60b1e9dd2a25046b35110696/Jai-Vijayan.jpeg",
-            "type": "image/*",
-            "length": "0"
-          },
-          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt02d79fb9a44a4258/60b1e9dd2a25046b35110696/Jai-Vijayan.jpeg"
-        },
-        {
-          "id": "https://www.darkreading.com/ics-ot/super-bowl-operational-cyber-risks-attackers-allure",
-          "author": "Nathan Eddy, Contributing Writer, Dark Reading",
-          "description": "Event organizers should be exercising various cyberattack scenarios to ensure they have the proper checks and balances in place to respond accordingly and maintain resilience.",
-          "link": "https://www.darkreading.com/ics-ot/super-bowl-operational-cyber-risks-attackers-allure",
-          "publishedOn": "2023-02-10T17:25:00.000Z",
-          "wordCount": 12397,
-          "title": "Attacker Allure: A Look at the Super Bowl's Operational Cyber-Risks",
-          "enclosure": {
-            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltf8b5a94afa71c53a/628e3799daa31875dc0c9fc0/NathanEddyHeadshot.PNG",
-            "type": "image/*",
-            "length": "0"
-          },
-          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltf8b5a94afa71c53a/628e3799daa31875dc0c9fc0/NathanEddyHeadshot.PNG"
-        },
-        {
-          "id": "https://www.darkreading.com/application-security/addressing-the-elephant-in-the-room-getting-developers-and-security-teams-to-work-together",
-          "author": "Idan Tendler, Senior Vice President of Code & Application Security, Palo Alto Networks",
-          "description": "Bridging the divide between developers and security can create a culture change organically.",
-          "link": "https://www.darkreading.com/application-security/addressing-the-elephant-in-the-room-getting-developers-and-security-teams-to-work-together",
-          "publishedOn": "2023-02-10T15:00:00.000Z",
-          "wordCount": 12213,
-          "title": "Addressing the Elephant in the Room: Getting Developers & Security Teams to Work Together",
-          "enclosure": {
-            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt9a323fa79b2caec1/63e2aae8933db53d66f72e87/idan_tendler_headshot_.png",
-            "type": "image/*",
-            "length": "0"
-          },
-          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt9a323fa79b2caec1/63e2aae8933db53d66f72e87/idan_tendler_headshot_.png"
         }
       ]
     },
@@ -6142,22 +6062,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhmRFG6Xp2cUYbmQgYLPwJuEEH2i8lUIEEtMoycnyzKS4e_KBv14tfmALTtvYtvJnFKo9OUzj7LFyd1u8FTd3Nd2lgFa4dp2s3eO2lpolSYcLaiX0aUXs6DKPYgW5akbJlbKA6aC043prrHMAlJ0zZMxRu-r-eCdfJQTrJ90bjDOBQuCpMrAhn_n5-s/s1600/cisa.png"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhmRFG6Xp2cUYbmQgYLPwJuEEH2i8lUIEEtMoycnyzKS4e_KBv14tfmALTtvYtvJnFKo9OUzj7LFyd1u8FTd3Nd2lgFa4dp2s3eO2lpolSYcLaiX0aUXs6DKPYgW5akbJlbKA6aC043prrHMAlJ0zZMxRu-r-eCdfJQTrJ90bjDOBQuCpMrAhn_n5-s/s1600/cisa.png"
-        },
-        {
-          "id": "https://thehackernews.com/2023/02/researchers-uncover-obfuscated.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Four different rogue packages in the Python Package Index (PyPI) have been found to carry out a number of malicious actions, including dropping malware, deleting the netstat utility, and manipulating the SSH authorized_keys file.\nThe packages in question are aptx, bingchilling2, httops, and tkint3rs, all of which were collectively downloaded about 450 times before they were taken down. While",
-          "link": "https://thehackernews.com/2023/02/researchers-uncover-obfuscated.html",
-          "publishedOn": "2023-02-10T16:44:00.000Z",
-          "wordCount": null,
-          "title": "Researchers Uncover Obfuscated Malicious Code in PyPI Python Packages",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhKlBMLQviBS_AqU4IbZxjofkcfjKNRFAv3KDCQF0flRAUcMPHsy1Y0MmC-nIh2zunu8fq9f28BemYMjkqrB4yH6kzIyHbe6w66d3W_SyTCYATJovrUKC8xG3qp20zqgaM81jnGua8m21kg4K9TTrclbLhVzYf59mRj6osJ4FL9Hp_4UMCvYB_YDMyT/s1600/malware.png"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhKlBMLQviBS_AqU4IbZxjofkcfjKNRFAv3KDCQF0flRAUcMPHsy1Y0MmC-nIh2zunu8fq9f28BemYMjkqrB4yH6kzIyHbe6w66d3W_SyTCYATJovrUKC8xG3qp20zqgaM81jnGua8m21kg4K9TTrclbLhVzYf59mRj6osJ4FL9Hp_4UMCvYB_YDMyT/s1600/malware.png"
         }
       ]
     }
