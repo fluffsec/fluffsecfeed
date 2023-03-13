@@ -2,10 +2,75 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-03-13T13:28:01.850Z</updated>
+    <updated>2023-03-13T19:16:47.190Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Untitled]]></title>
+        <id>/node/17594</id>
+        <link href="https://www.cisa.gov/news-events/alerts/2023/03/13/cisa-announces-ransomware-vulnerability-warning-pilot"/>
+        <updated>2023-03-13T19:16:20.486Z</updated>
+        <summary type="html"><![CDATA[Today, CISA is announcing the creation of the Ransomware Vulnerability Warning Pilot (RVWP). Through the RVWP, CISA:
+Proactively identifies information systems—belonging to critical infrastructure entities—that contain vulnerabilities commonly associated with ransomware intrusions.
+Notifies the owners of the affected information systems, which enables the owners to mitigate the vulnerabilities before damaging intrusions occur.
+Review the RVWP webpage for details, including information on the authorities and services CISA leverages to enable RVWP notifications.
+Please share your thoughts. We recently updated our anonymous Product Feedback Survey and we'd welcome your feedback.]]></summary>
+        <author>
+            <name>CISA</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hike in AI-Created YouTube Videos Loaded With Malware]]></title>
+        <id>https://www.darkreading.com/application-security/ai-creating-compelling-youtube-videos-loaded-with-malware-</id>
+        <link href="https://www.darkreading.com/application-security/ai-creating-compelling-youtube-videos-loaded-with-malware-"/>
+        <updated>2023-03-13T18:38:00.000Z</updated>
+        <summary type="html"><![CDATA[AI-generated videos pose as tutorials on how to get cracked versions of Photoshop, Premiere Pro, and more.]]></summary>
+        <author>
+            <name>Dark Reading Staff, Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Threat Actors are Using FINRA Impersonation For Their Attacks]]></title>
+        <id>https://blog.knowbe4.com/threat-actors-impersonate-finra</id>
+        <link href="https://blog.knowbe4.com/threat-actors-impersonate-finra"/>
+        <updated>2023-03-13T17:13:47.000Z</updated>
+        <summary type="html"><![CDATA[DomainTools warns that a sophisticated West Africa-based fraud group is impersonating the Financial Industry Regulatory Authority (FINRA) to target users in the United States, according to researchers at DomainTools. The threat actors are attempting to trick investors into providing sensitive documents in order to verify their identities. Users can avoid falling for these attacks if they’re familiar with FINRA’s legitimate roles.]]></summary>
+        <author>
+            <name>Stu Sjouwerman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Warns of Business Email Compromise Attacks Taking Hours]]></title>
+        <id>https://blog.knowbe4.com/business-email-compromise-attacks-take-hours</id>
+        <link href="https://blog.knowbe4.com/business-email-compromise-attacks-take-hours"/>
+        <updated>2023-03-13T17:13:45.000Z</updated>
+        <summary type="html"><![CDATA[According to Microsoft's Security Intelligence team, a recent business email compromise attack (BEC) has shown that threat actors are quickening the pace of these attacks, with certain elements only taking a few minutes.]]></summary>
+        <author>
+            <name>Stu Sjouwerman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[5 Lessons Learned From Hundreds of Penetration Tests]]></title>
+        <id>https://www.darkreading.com/application-security/5-lessons-learned-from-hundreds-of-penetration-tests</id>
+        <link href="https://www.darkreading.com/application-security/5-lessons-learned-from-hundreds-of-penetration-tests"/>
+        <updated>2023-03-13T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Developers must balance creativity with security frameworks to keep applications safe. Correlating business logic with security logic will pay in safety dividends.]]></summary>
+        <author>
+            <name>Nick Merritt, Vice President of Security Products and Services, Halo Security</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Large-scale Cyber Attack Hijacks East Asian Websites for Adult Content Redirects]]></title>
+        <id>https://thehackernews.com/2023/03/large-scale-cyber-attack-hijacks-east.html</id>
+        <link href="https://thehackernews.com/2023/03/large-scale-cyber-attack-hijacks-east.html"/>
+        <updated>2023-03-13T14:59:00.000Z</updated>
+        <summary type="html"><![CDATA[A widespread malicious cyber operation has hijacked thousands of websites aimed at East Asian audiences to redirect visitors to adult-themed content since early September 2022.
+The ongoing campaign entails injecting malicious JavaScript code to the hacked websites, often connecting to the target web server using legitimate FTP credentials the threat actor previously obtained via an unknown]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Fake ChatGPT Chrome Extension Hijacking Facebook Accounts for Malicious Advertising]]></title>
         <id>https://thehackernews.com/2023/03/fake-chatgpt-chrome-extension-hijacking.html</id>
