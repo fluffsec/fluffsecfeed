@@ -53,6 +53,26 @@
       "siteUrl": "https://www.cisa.gov/",
       "articles": [
         {
+          "id": "/node/17618",
+          "author": "CISA",
+          "description": "CISA has added three new vulnerabilities to its Known Exploited Vulnerabilities Catalog, based on evidence of active exploitation.\nCVE-2023-23397 Microsoft Office Outlook Spoofing Vulnerability\nCVE-2023-24880 Microsoft Windows SmartScreen Security Feature Bypass Vulnerability\nCVE-2022-41328 Fortinet FortiOS Path Traversal Vulnerability\nThese types of vulnerabilities are frequent attack vectors for malicious cyber actors and pose significant risks to the federal enterprise. Note: To view other newly added vulnerabilities in the catalog, click on the arrow in the \"Date Added to Catalog\" column—which will sort by descending dates.\nBinding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the Known Exploited Vulnerabilities Catalog as a living list of known Common Vulnerabilities and Exposures (CVEs) that carry significant risk to the federal enterprise. BOD 22-01 requires Federal Civilian Executive Branch (FCEB) agencies to remediate identified vulnerabilities by the due date to protect FCEB networks against active threats. See the BOD 22-01 Fact Sheet for more information.\nAlthough BOD 22-01 only applies to FCEB agencies, CISA strongly urges all organizations to reduce their exposure to cyberattacks by prioritizing timely remediation of Catalog vulnerabilities as part of their vulnerability management practice. CISA will continue to add vulnerabilities to the catalog that meet the specified criteria.\nPlease share your thoughts. We recently updated our anonymous Product Feedback Survey and we'd welcome your feedback.",
+          "link": "https://www.cisa.gov/news-events/alerts/2023/03/14/cisa-adds-three-known-exploited-vulnerabilities-catalog",
+          "publishedOn": "2023-03-14T19:20:49.838Z",
+          "wordCount": 678,
+          "title": "Untitled",
+          "imageUrl": null
+        },
+        {
+          "id": "/node/17607",
+          "author": "CISA",
+          "description": "CISA released four Industrial Control Systems (ICS) advisories on March 14, 2023. These advisories provide timely information about current security issues, vulnerabilities, and exploits surrounding ICS.\nCISA encourages users and administrators to review the newly released ICS advisories for technical details and mitigations:\nICSA-23-073-01 Omron CJ1m PLC\nICSA-23-073-02 Autodesk FBX SDK\nICSA-23-073-03 GE iFIX\nICSA-23-073-04 AVEVA Plant SCADA and AVEVA Telemetry Server",
+          "link": "https://www.cisa.gov/news-events/alerts/2023/03/14/cisa-releases-four-industrial-control-systems-advisories",
+          "publishedOn": "2023-03-14T19:20:49.816Z",
+          "wordCount": 519,
+          "title": "Untitled",
+          "imageUrl": null
+        },
+        {
           "id": "/node/17594",
           "author": "CISA",
           "description": "Today, CISA is announcing the creation of the Ransomware Vulnerability Warning Pilot (RVWP). Through the RVWP, CISA:\nProactively identifies information systems—belonging to critical infrastructure entities—that contain vulnerabilities commonly associated with ransomware intrusions.\nNotifies the owners of the affected information systems, which enables the owners to mitigate the vulnerabilities before damaging intrusions occur.\nReview the RVWP webpage for details, including information on the authorities and services CISA leverages to enable RVWP notifications.\nPlease share your thoughts. We recently updated our anonymous Product Feedback Survey and we'd welcome your feedback.",
@@ -450,6 +470,81 @@
       "feedUrl": "https://www.darkreading.com/rss.xml",
       "siteUrl": "https://www.darkreading.com",
       "articles": [
+        {
+          "id": "https://www.darkreading.com/risk/access-control-gap-microsoft-active-directory-enterprise-attack-surface",
+          "author": "Nate Nelson, Contributing Writer, Dark Reading",
+          "description": "One researcher thinks trust is broken in AD. Microsoft disagrees that there's a security vulnerability. But enterprise IT environments should be aware of an authentication gap either way.",
+          "link": "https://www.darkreading.com/risk/access-control-gap-microsoft-active-directory-enterprise-attack-surface",
+          "publishedOn": "2023-03-14T17:53:00.000Z",
+          "wordCount": 13044,
+          "title": "Access Control Gap in Microsoft Active Directory Widens Enterprise Attack Surface",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt91e5f91ce3f0cdd9/63d0288ac98dbe55ece1d0a9/Nate-Nelson_(1).jpg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt91e5f91ce3f0cdd9/63d0288ac98dbe55ece1d0a9/Nate-Nelson_(1).jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/risk/how-businesses-can-get-ready-for-ai-powered-security-threats",
+          "author": "Musa Ishaq, Security Engineer &  Senior Insider Threat Analyst, DTEX Systems",
+          "description": "Organizations need to take steps now to strengthen their cyber defenses.",
+          "link": "https://www.darkreading.com/risk/how-businesses-can-get-ready-for-ai-powered-security-threats",
+          "publishedOn": "2023-03-14T17:00:00.000Z",
+          "wordCount": 13430,
+          "title": "How Businesses Can Get Ready for AI-Powered Security Threats",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt2726497e97980cc1/640e12ee2313b73b1f0b79bd/MusaIshaq.jpg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt2726497e97980cc1/640e12ee2313b73b1f0b79bd/MusaIshaq.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/microsoft/deepfakes-synthetic-media-how-digital-propaganda-undermines-trust",
+          "author": "Microsoft Security, Microsoft",
+          "description": "Organizations must educate themselves and their users on how to detect, disrupt, and defend against the increasing volume of online disinformation.",
+          "link": "https://www.darkreading.com/microsoft/deepfakes-synthetic-media-how-digital-propaganda-undermines-trust",
+          "publishedOn": "2023-03-14T16:10:00.000Z",
+          "wordCount": 12800,
+          "title": "Deepfakes, Synthetic Media: How Digital Propaganda Undermines Trust",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt8fe4479bc32f84b4/6321f5362769d078008692a9/MS-Security_logo.png",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt8fe4479bc32f84b4/6321f5362769d078008692a9/MS-Security_logo.png"
+        },
+        {
+          "id": "https://www.darkreading.com/threat-intelligence/dns-autobahn-malicious-network-traffic",
+          "author": "Elizabeth Montalbano, Contributor, Dark Reading",
+          "description": "An analysis of trillions of DNS requests shows a shocking amount of malicious traffic inside enterprise networks, with threats using DNS as a sort of malicious Autobahn.",
+          "link": "https://www.darkreading.com/threat-intelligence/dns-autobahn-malicious-network-traffic",
+          "publishedOn": "2023-03-14T15:54:30.000Z",
+          "wordCount": 13350,
+          "title": "Emotet, QSnatch Malware Dominate Malicious DNS Traffic",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltbfd004d139d42d70/6303bca6236c2476a257760e/ElizabethMontalbano.jpg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltbfd004d139d42d70/6303bca6236c2476a257760e/ElizabethMontalbano.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/attacks-breaches/why-healthcare-boards-lag-other-industries-in-preparing-for-cyberattacks",
+          "author": "Ryan Witt, Healthcare Cybersecurity Leader, Proofpoint",
+          "description": "Only by working collaboratively can boards and security leaders make progress and agree about cybersecurity threats and priorities.",
+          "link": "https://www.darkreading.com/attacks-breaches/why-healthcare-boards-lag-other-industries-in-preparing-for-cyberattacks",
+          "publishedOn": "2023-03-14T14:00:00.000Z",
+          "wordCount": 12678,
+          "title": "Why Healthcare Boards Lag Other Industries in Preparing for Cyberattacks",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt15e13eeb22c0b605/640b8ea8555d2b2d09cef03a/Ryan_Witt_Headshot_(2).jpeg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt15e13eeb22c0b605/640b8ea8555d2b2d09cef03a/Ryan_Witt_Headshot_(2).jpeg"
+        },
         {
           "id": "https://www.darkreading.com/tech-trends/orgs-have-a-long-way-to-go-in-securing-remote-workforce",
           "author": "Dark Reading Staff, Dark Reading",
@@ -3614,6 +3709,16 @@
       "siteUrl": "/blog/",
       "articles": [
         {
+          "id": "/blog/2023/03/microsoft-mitigates-outlook-elevation-of-privilege-vulnerability/",
+          "author": null,
+          "description": "Summary Summary Microsoft Threat Intelligence discovered limited, targeted abuse of a vulnerability in Microsoft Outlook for Windows that allows for new technology LAN manager (NTLM) credential theft. Microsoft has released CVE-2023-23397 to address the critical elevation of privilege (EoP) vulnerability affecting Microsoft Outlook for Windows. We strongly recommend all customers update Microsoft Outlook for Windows to remain secure.",
+          "link": "https://msrc-blog.microsoft.com/blog/2023/03/microsoft-mitigates-outlook-elevation-of-privilege-vulnerability/",
+          "publishedOn": "2023-03-14T13:00:00.000Z",
+          "wordCount": 2108,
+          "title": "Microsoft Mitigates Outlook Elevation of Privilege Vulnerability",
+          "imageUrl": null
+        },
+        {
           "id": "/blog/2023/03/azure-kubernetes-service-aks-threat-hunting/",
           "author": null,
           "description": "As more businesses shift away from running workloads on dedicated virtual machines to running them inside containers using workload orchestrators like Kubernetes, adversaries have become more interested in them as targets. Moreover, the benefits Kubernetes provides for managing workloads are also extended to adversaries. As adversaries leverage Kubernetes to run their workloads, their understanding of how these platforms work and can be exploited increases.",
@@ -3660,6 +3765,16 @@
       "feedUrl": "https://blog.knowbe4.com/rss.xml",
       "siteUrl": "https://blog.knowbe4.com",
       "articles": [
+        {
+          "id": "https://blog.knowbe4.com/10b-in-losses-internet-scams-2022",
+          "author": "Stu Sjouwerman",
+          "description": "The 2022 Internet Crime Report by the FBI reported at least $10.3 billion in losses due to internet scams last year.",
+          "link": "https://blog.knowbe4.com/10b-in-losses-internet-scams-2022",
+          "publishedOn": "2023-03-14T18:15:30.000Z",
+          "wordCount": 2214,
+          "title": "Newest FBI Report Shows $10B in Losses Last Year Due to Internet Scams",
+          "imageUrl": "https://blog.knowbe4.com/hubfs/FBI%20Warns%20of%20Financial%20Extortion.jpg#keepProtocol"
+        },
         {
           "id": "https://blog.knowbe4.com/5-reasons-securitycoach-is-awesome",
           "author": "Roger Grimes",

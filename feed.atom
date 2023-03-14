@@ -2,10 +2,102 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-03-14T13:38:07.961Z</updated>
+    <updated>2023-03-14T19:21:04.978Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Untitled]]></title>
+        <id>/node/17618</id>
+        <link href="https://www.cisa.gov/news-events/alerts/2023/03/14/cisa-adds-three-known-exploited-vulnerabilities-catalog"/>
+        <updated>2023-03-14T19:20:49.838Z</updated>
+        <summary type="html"><![CDATA[CISA has added three new vulnerabilities to its Known Exploited Vulnerabilities Catalog, based on evidence of active exploitation.
+CVE-2023-23397 Microsoft Office Outlook Spoofing Vulnerability
+CVE-2023-24880 Microsoft Windows SmartScreen Security Feature Bypass Vulnerability
+CVE-2022-41328 Fortinet FortiOS Path Traversal Vulnerability
+These types of vulnerabilities are frequent attack vectors for malicious cyber actors and pose significant risks to the federal enterprise. Note: To view other newly added vulnerabilities in the catalog, click on the arrow in the "Date Added to Catalog" column—which will sort by descending dates.
+Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the Known Exploited Vulnerabilities Catalog as a living list of known Common Vulnerabilities and Exposures (CVEs) that carry significant risk to the federal enterprise. BOD 22-01 requires Federal Civilian Executive Branch (FCEB) agencies to remediate identified vulnerabilities by the due date to protect FCEB networks against active threats. See the BOD 22-01 Fact Sheet for more information.
+Although BOD 22-01 only applies to FCEB agencies, CISA strongly urges all organizations to reduce their exposure to cyberattacks by prioritizing timely remediation of Catalog vulnerabilities as part of their vulnerability management practice. CISA will continue to add vulnerabilities to the catalog that meet the specified criteria.
+Please share your thoughts. We recently updated our anonymous Product Feedback Survey and we'd welcome your feedback.]]></summary>
+        <author>
+            <name>CISA</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Untitled]]></title>
+        <id>/node/17607</id>
+        <link href="https://www.cisa.gov/news-events/alerts/2023/03/14/cisa-releases-four-industrial-control-systems-advisories"/>
+        <updated>2023-03-14T19:20:49.816Z</updated>
+        <summary type="html"><![CDATA[CISA released four Industrial Control Systems (ICS) advisories on March 14, 2023. These advisories provide timely information about current security issues, vulnerabilities, and exploits surrounding ICS.
+CISA encourages users and administrators to review the newly released ICS advisories for technical details and mitigations:
+ICSA-23-073-01 Omron CJ1m PLC
+ICSA-23-073-02 Autodesk FBX SDK
+ICSA-23-073-03 GE iFIX
+ICSA-23-073-04 AVEVA Plant SCADA and AVEVA Telemetry Server]]></summary>
+        <author>
+            <name>CISA</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Newest FBI Report Shows $10B in Losses Last Year Due to Internet Scams]]></title>
+        <id>https://blog.knowbe4.com/10b-in-losses-internet-scams-2022</id>
+        <link href="https://blog.knowbe4.com/10b-in-losses-internet-scams-2022"/>
+        <updated>2023-03-14T18:15:30.000Z</updated>
+        <summary type="html"><![CDATA[The 2022 Internet Crime Report by the FBI reported at least $10.3 billion in losses due to internet scams last year.]]></summary>
+        <author>
+            <name>Stu Sjouwerman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Access Control Gap in Microsoft Active Directory Widens Enterprise Attack Surface]]></title>
+        <id>https://www.darkreading.com/risk/access-control-gap-microsoft-active-directory-enterprise-attack-surface</id>
+        <link href="https://www.darkreading.com/risk/access-control-gap-microsoft-active-directory-enterprise-attack-surface"/>
+        <updated>2023-03-14T17:53:00.000Z</updated>
+        <summary type="html"><![CDATA[One researcher thinks trust is broken in AD. Microsoft disagrees that there's a security vulnerability. But enterprise IT environments should be aware of an authentication gap either way.]]></summary>
+        <author>
+            <name>Nate Nelson, Contributing Writer, Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Businesses Can Get Ready for AI-Powered Security Threats]]></title>
+        <id>https://www.darkreading.com/risk/how-businesses-can-get-ready-for-ai-powered-security-threats</id>
+        <link href="https://www.darkreading.com/risk/how-businesses-can-get-ready-for-ai-powered-security-threats"/>
+        <updated>2023-03-14T17:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Organizations need to take steps now to strengthen their cyber defenses.]]></summary>
+        <author>
+            <name>Musa Ishaq, Security Engineer &amp;  Senior Insider Threat Analyst, DTEX Systems</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Deepfakes, Synthetic Media: How Digital Propaganda Undermines Trust]]></title>
+        <id>https://www.darkreading.com/microsoft/deepfakes-synthetic-media-how-digital-propaganda-undermines-trust</id>
+        <link href="https://www.darkreading.com/microsoft/deepfakes-synthetic-media-how-digital-propaganda-undermines-trust"/>
+        <updated>2023-03-14T16:10:00.000Z</updated>
+        <summary type="html"><![CDATA[Organizations must educate themselves and their users on how to detect, disrupt, and defend against the increasing volume of online disinformation.]]></summary>
+        <author>
+            <name>Microsoft Security, Microsoft</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Emotet, QSnatch Malware Dominate Malicious DNS Traffic]]></title>
+        <id>https://www.darkreading.com/threat-intelligence/dns-autobahn-malicious-network-traffic</id>
+        <link href="https://www.darkreading.com/threat-intelligence/dns-autobahn-malicious-network-traffic"/>
+        <updated>2023-03-14T15:54:30.000Z</updated>
+        <summary type="html"><![CDATA[An analysis of trillions of DNS requests shows a shocking amount of malicious traffic inside enterprise networks, with threats using DNS as a sort of malicious Autobahn.]]></summary>
+        <author>
+            <name>Elizabeth Montalbano, Contributor, Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Healthcare Boards Lag Other Industries in Preparing for Cyberattacks]]></title>
+        <id>https://www.darkreading.com/attacks-breaches/why-healthcare-boards-lag-other-industries-in-preparing-for-cyberattacks</id>
+        <link href="https://www.darkreading.com/attacks-breaches/why-healthcare-boards-lag-other-industries-in-preparing-for-cyberattacks"/>
+        <updated>2023-03-14T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Only by working collaboratively can boards and security leaders make progress and agree about cybersecurity threats and priorities.]]></summary>
+        <author>
+            <name>Ryan Witt, Healthcare Cybersecurity Leader, Proofpoint</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[5 Reasons Why SecurityCoach Is Awesome]]></title>
         <id>https://blog.knowbe4.com/5-reasons-securitycoach-is-awesome</id>
@@ -16,6 +108,16 @@
 What I have seen is a lot of new products that claimed to be game-changers, but most ended up being slightly different variations of existing products with a lot of new marketing hype. How many times can I read “Next Generation”, “AI-Enabled”, or “Zero-Trust-Enabled” slapped on the same old tired products and not become a bit of a cybersecurity curmudgeon?]]></summary>
         <author>
             <name>Roger Grimes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Mitigates Outlook Elevation of Privilege Vulnerability]]></title>
+        <id>/blog/2023/03/microsoft-mitigates-outlook-elevation-of-privilege-vulnerability/</id>
+        <link href="https://msrc-blog.microsoft.com/blog/2023/03/microsoft-mitigates-outlook-elevation-of-privilege-vulnerability/"/>
+        <updated>2023-03-14T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Summary Summary Microsoft Threat Intelligence discovered limited, targeted abuse of a vulnerability in Microsoft Outlook for Windows that allows for new technology LAN manager (NTLM) credential theft. Microsoft has released CVE-2023-23397 to address the critical elevation of privilege (EoP) vulnerability affecting Microsoft Outlook for Windows. We strongly recommend all customers update Microsoft Outlook for Windows to remain secure.]]></summary>
+        <author>
+            <name>Microsoft Security Response Center</name>
         </author>
     </entry>
     <entry>
