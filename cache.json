@@ -53,6 +53,36 @@
       "siteUrl": "https://www.cisa.gov/",
       "articles": [
         {
+          "id": "/node/17632",
+          "author": "CISA",
+          "description": "Mozilla has released security updates to address vulnerabilities in Firefox 111 and Firefox ESR 102.9. An attacker could exploit some of these vulnerabilities to take control of an affected system.\nCISA encourages users and administrators to review Mozilla’s security advisories for Firefox 111 and Firefox ESR 102.9 for more information and apply the necessary updates.\nPlease share your thoughts. We recently updated our anonymous Product Feedback Survey and we'd welcome your feedback.",
+          "link": "https://www.cisa.gov/news-events/alerts/2023/03/14/mozilla-releases-security-updates-firefox-111-and-firefox-esr-1029",
+          "publishedOn": "2023-03-15T02:14:55.487Z",
+          "wordCount": 537,
+          "title": "Untitled",
+          "imageUrl": null
+        },
+        {
+          "id": "/node/17631",
+          "author": "CISA",
+          "description": "Microsoft has released updates to address multiple vulnerabilities in Microsoft software. An attacker can exploit some of these vulnerabilities to take control of an affected system.\nCISA encourages users and administrators to review Microsoft’s March 2023 Security Update Guide and Deployment Information and apply the necessary updates.\nPlease share your thoughts. We recently updated our anonymous Product Feedback Survey and we'd welcome your feedback.",
+          "link": "https://www.cisa.gov/news-events/alerts/2023/03/14/microsoft-releases-march-2023-security-updates",
+          "publishedOn": "2023-03-15T02:14:55.476Z",
+          "wordCount": 524,
+          "title": "Untitled",
+          "imageUrl": null
+        },
+        {
+          "id": "/node/17636",
+          "author": "CISA",
+          "description": "Adobe has released security updates to address multiple vulnerabilities in Adobe software. An attacker can exploit these vulnerabilities to take control of an affected system.\nCISA encourages users and administrators to review the following Adobe Security Bulletins and apply the necessary updates.\nCommerce APSB23-17\nExperience Manager APSB23-18\nIllustrator APSB23-19\nDimension APSB23-20\nCreative Cloud Desktop Application APSB23-21\nSubstance 3D Stager APSB23-22\nPhotoshop APSB23-23\nColdFusion APSB23-25\nPlease share your thoughts. We recently updated our anonymous Product Feedback Survey and we'd welcome your feedback.",
+          "link": "https://www.cisa.gov/news-events/alerts/2023/03/14/adobe-releases-security-updates-multiple-products",
+          "publishedOn": "2023-03-15T02:14:55.442Z",
+          "wordCount": 542,
+          "title": "Untitled",
+          "imageUrl": null
+        },
+        {
           "id": "/node/17618",
           "author": "CISA",
           "description": "CISA has added three new vulnerabilities to its Known Exploited Vulnerabilities Catalog, based on evidence of active exploitation.\nCVE-2023-23397 Microsoft Office Outlook Spoofing Vulnerability\nCVE-2023-24880 Microsoft Windows SmartScreen Security Feature Bypass Vulnerability\nCVE-2022-41328 Fortinet FortiOS Path Traversal Vulnerability\nThese types of vulnerabilities are frequent attack vectors for malicious cyber actors and pose significant risks to the federal enterprise. Note: To view other newly added vulnerabilities in the catalog, click on the arrow in the \"Date Added to Catalog\" column—which will sort by descending dates.\nBinding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the Known Exploited Vulnerabilities Catalog as a living list of known Common Vulnerabilities and Exposures (CVEs) that carry significant risk to the federal enterprise. BOD 22-01 requires Federal Civilian Executive Branch (FCEB) agencies to remediate identified vulnerabilities by the due date to protect FCEB networks against active threats. See the BOD 22-01 Fact Sheet for more information.\nAlthough BOD 22-01 only applies to FCEB agencies, CISA strongly urges all organizations to reduce their exposure to cyberattacks by prioritizing timely remediation of Catalog vulnerabilities as part of their vulnerability management practice. CISA will continue to add vulnerabilities to the catalog that meet the specified criteria.\nPlease share your thoughts. We recently updated our anonymous Product Feedback Survey and we'd welcome your feedback.",
@@ -470,6 +500,96 @@
       "feedUrl": "https://www.darkreading.com/rss.xml",
       "siteUrl": "https://www.darkreading.com",
       "articles": [
+        {
+          "id": "https://www.darkreading.com/edge-articles/how-patch-tuesday-keeps-the-beat-after-20-years",
+          "author": "Andrada Fiscutean, Contributing Writer, Dark Reading",
+          "description": "Patch Tuesday turned security updates from chaotic events into a routine. Here's how we got here, and where things might be heading.",
+          "link": "https://www.darkreading.com/edge-articles/how-patch-tuesday-keeps-the-beat-after-20-years",
+          "publishedOn": "2023-03-15T00:20:00.000Z",
+          "wordCount": 17545,
+          "title": "How Patch Tuesday Keeps the Beat After 20 Years",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltd0e79fcb89fbb7c6/618316f9df6311623a20dbbe/Andrada-Fiscutean.jpg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltd0e79fcb89fbb7c6/618316f9df6311623a20dbbe/Andrada-Fiscutean.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/risk/optiv-more-than-doubles-federal-presence-with-clearshark-acquisition",
+          "author": null,
+          "description": "Convergence of two leading cybersecurity companies creates federal sector powerhouse.",
+          "link": "https://www.darkreading.com/risk/optiv-more-than-doubles-federal-presence-with-clearshark-acquisition",
+          "publishedOn": "2023-03-14T22:12:00.000Z",
+          "wordCount": 12221,
+          "title": "Optiv More Than Doubles Federal Presence With ClearShark Acquisition",
+          "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/ics-ot/camozzi-group-and-radiflow-announce-collaboration-on-industrial-systems-cybersecurity",
+          "author": null,
+          "description": "",
+          "link": "https://www.darkreading.com/ics-ot/camozzi-group-and-radiflow-announce-collaboration-on-industrial-systems-cybersecurity",
+          "publishedOn": "2023-03-14T21:48:00.000Z",
+          "wordCount": 11746,
+          "title": "Camozzi Group and Radiflow Announce Collaboration on Industrial Systems Cybersecurity",
+          "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/vulnerabilities-threats/microsoft-zero-day-bugs-security-feature-bypass",
+          "author": "Jai Vijayan, Contributing Writer, Dark Reading",
+          "description": "Security vendors urge organizations to fix the actively exploited bugs, in Microsoft Outlook and the Mark of the Web feature, immediately.",
+          "link": "https://www.darkreading.com/vulnerabilities-threats/microsoft-zero-day-bugs-security-feature-bypass",
+          "publishedOn": "2023-03-14T21:10:48.000Z",
+          "wordCount": 13468,
+          "title": "Microsoft Zero-Day Bugs Allow Security Feature Bypass",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt02d79fb9a44a4258/60b1e9dd2a25046b35110696/Jai-Vijayan.jpeg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt02d79fb9a44a4258/60b1e9dd2a25046b35110696/Jai-Vijayan.jpeg"
+        },
+        {
+          "id": "https://www.darkreading.com/cloud/samsung-next-invests-in-mitiga-brings-total-funding-to-45m",
+          "author": null,
+          "description": "Financing will help support increasing customer demand while continuing to transform incident response for cloud and SaaS environments",
+          "link": "https://www.darkreading.com/cloud/samsung-next-invests-in-mitiga-brings-total-funding-to-45m",
+          "publishedOn": "2023-03-14T21:05:00.000Z",
+          "wordCount": 11781,
+          "title": "Samsung Next Invests in Mitiga, Brings Total Funding to $45M",
+          "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/ics-ot/lockbit-threatens-leak-stolen-spacex-schematics",
+          "author": "Dark Reading Staff, Dark Reading",
+          "description": "The ransomware group sent a message directly to Elon Musk: Pay or the confidential SpaceX information goes up for grabs on the Dark Web.",
+          "link": "https://www.darkreading.com/ics-ot/lockbit-threatens-leak-stolen-spacex-schematics",
+          "publishedOn": "2023-03-14T19:58:00.000Z",
+          "wordCount": 10786,
+          "title": "LockBit Threatens to Leak Stolen SpaceX Schematics",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blte161b23f0fd3a84b/60b1ea374e7eb868c4c6a293/dr_staff_125x125.jpg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blte161b23f0fd3a84b/60b1ea374e7eb868c4c6a293/dr_staff_125x125.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/ics-ot/cisa-ransomware-warning-system-critical-infrastructure",
+          "author": "Dark Reading Staff, Dark Reading",
+          "description": "An agency team will identify vulnerabilities being exploited by ransomware groups and alert organizations ahead of attacks, CISA says.",
+          "link": "https://www.darkreading.com/ics-ot/cisa-ransomware-warning-system-critical-infrastructure",
+          "publishedOn": "2023-03-14T19:51:27.000Z",
+          "wordCount": 10806,
+          "title": "CISA Trials Ransomware Warning System for Critical Infrastructure Orgs",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blte161b23f0fd3a84b/60b1ea374e7eb868c4c6a293/dr_staff_125x125.jpg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blte161b23f0fd3a84b/60b1ea374e7eb868c4c6a293/dr_staff_125x125.jpg"
+        },
         {
           "id": "https://www.darkreading.com/risk/access-control-gap-microsoft-active-directory-enterprise-attack-surface",
           "author": "Nate Nelson, Contributing Writer, Dark Reading",
@@ -6371,54 +6491,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZ5EqGS9M-uWz6i8kYOjBKdLpSXrkKSk6QNM-jbWSUnjAa0fMoI-9Jo9UWv4Hhrt7PKl1E8_KhYdxQu-1EEKyXUbalRCjNiUSmVYb7Y3OwGbHb3GCieFJCSGkvxMOMWSIhqWGTQcRRSHSiPgQLQKDXfl03fJ53evbWAIGV2FbKx7UTCAUWvp2MDL9a/s1600/dota2.png"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZ5EqGS9M-uWz6i8kYOjBKdLpSXrkKSk6QNM-jbWSUnjAa0fMoI-9Jo9UWv4Hhrt7PKl1E8_KhYdxQu-1EEKyXUbalRCjNiUSmVYb7Y3OwGbHb3GCieFJCSGkvxMOMWSIhqWGTQcRRSHSiPgQLQKDXfl03fJ53evbWAIGV2FbKx7UTCAUWvp2MDL9a/s1600/dota2.png"
-        },
-        {
-          "id": "https://thehackernews.com/2023/02/honeypot-factory-use-of-deception-in.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "There have been a number of reports of attacks on industrial control systems (ICS) in the past few years. Looking a bit closer, most of the attacks seem to have spilt over from traditional IT. That's to be expected, as production systems are commonly connected to ordinary corporate networks at this point. Though our data does not indicate at this point that a lot of threat actors specifically",
-          "link": "https://thehackernews.com/2023/02/honeypot-factory-use-of-deception-in.html",
-          "publishedOn": "2023-02-13T09:59:00.000Z",
-          "wordCount": null,
-          "title": "Honeypot-Factory: The Use of Deception in ICS/OT Environments",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEheTRuXLR34T447pGZgFN03OQ3Pvb84nZ4wJp_h5CEIym_-G6KLf9Ccdeo9MKymjR45aQn2yJ7IBhOUm68M4SmRblEV_Eb2MvfK7_CUfV7hmiKqsq_AASN18oR1BUBXANissOVj325bWQFGXLvCg2ay_mVQPHNqocNU7xnTZ0350xyeyJgsF5vSQB5m/s1600/orange.png"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEheTRuXLR34T447pGZgFN03OQ3Pvb84nZ4wJp_h5CEIym_-G6KLf9Ccdeo9MKymjR45aQn2yJ7IBhOUm68M4SmRblEV_Eb2MvfK7_CUfV7hmiKqsq_AASN18oR1BUBXANissOVj325bWQFGXLvCg2ay_mVQPHNqocNU7xnTZ0350xyeyJgsF5vSQB5m/s1600/orange.png"
-        },
-        {
-          "id": "https://thehackernews.com/2023/02/chinese-tonto-team-hackers-second.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "The advanced persistent threat (APT) actor known as Tonto Team carried out an unsuccessful attack on cybersecurity company Group-IB in June 2022.\nThe Singapore-headquartered firm said that it detected and blocked malicious phishing emails originating from the group targeting its employees. It's also the second attack aimed at Group-IB, the first of which took place in March 2021.\nTonto Team,",
-          "link": "https://thehackernews.com/2023/02/chinese-tonto-team-hackers-second.html",
-          "publishedOn": "2023-02-13T07:58:00.000Z",
-          "wordCount": null,
-          "title": "Chinese Tonto Team Hackers' Second Attempt to Target Cybersecurity Firm Group-IB Fails",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgbEHNfOsuH_WgdbcVRngv8SlbP7usK-RYfpaB709v78ElytnPezD_tOeqvPPG27BmYOdmYRA4sSTVigsjKdWwEJEDtI4b4ASMThYkZcu02a8I4j3rg9U1hR5VEMDUfPQUo6T2VthfttvGz8b_7nX-2CfDjHSBKd3ZL0hPwxi6gAdujrT7GOmvOHuHA/s1600/hacker.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgbEHNfOsuH_WgdbcVRngv8SlbP7usK-RYfpaB709v78ElytnPezD_tOeqvPPG27BmYOdmYRA4sSTVigsjKdWwEJEDtI4b4ASMThYkZcu02a8I4j3rg9U1hR5VEMDUfPQUo6T2VthfttvGz8b_7nX-2CfDjHSBKd3ZL0hPwxi6gAdujrT7GOmvOHuHA/s1600/hacker.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2023/02/hackers-targeting-us-and-german-firms.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "A previously unknown threat actor has been targeting companies in the U.S. and Germany with bespoke malware designed to steal confidential information.\nEnterprise security company Proofpoint, which is tracking the activity cluster under the name Screentime, said the group, dubbed TA866, is likely financially motivated.\n\"TA866 is an organized actor able to perform well thought-out attacks at",
-          "link": "https://thehackernews.com/2023/02/hackers-targeting-us-and-german-firms.html",
-          "publishedOn": "2023-02-13T07:44:00.000Z",
-          "wordCount": null,
-          "title": "Hackers Targeting U.S. and German Firms Monitor Victims' Desktops with Screenshotter",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-t65CPCdOmL4W0GO4ZUeWynZscuox8dEL-_B0ROxpF0Dblk545dxLea1ej68BFNKzJYJFE9WdSwfWrxqLcXAVT4z-K1PtBaPlbh8LbMRs5bqWG0L5XcnCxoqPEhBjSpMLTsJ7SPYycaC91gOKw1pQrpzORxQS3V7ufhq2OjyCN9w6xAUeSyFMxufT/s1600/malwareee.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-t65CPCdOmL4W0GO4ZUeWynZscuox8dEL-_B0ROxpF0Dblk545dxLea1ej68BFNKzJYJFE9WdSwfWrxqLcXAVT4z-K1PtBaPlbh8LbMRs5bqWG0L5XcnCxoqPEhBjSpMLTsJ7SPYycaC91gOKw1pQrpzORxQS3V7ufhq2OjyCN9w6xAUeSyFMxufT/s1600/malwareee.jpg"
         }
       ]
     }
