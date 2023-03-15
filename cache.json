@@ -3799,21 +3799,6 @@
             "length": "0"
           },
           "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blte161b23f0fd3a84b/60b1ea374e7eb868c4c6a293/dr_staff_125x125.jpg"
-        },
-        {
-          "id": "https://www.darkreading.com/attacks-breaches/what-happened-to-oprussia",
-          "author": "Alex Haynes, Chief Information Security Officer, IBS Software",
-          "description": "The cyberwar to attack Russia has never really stopped, despite a decreasing interest from the West.",
-          "link": "https://www.darkreading.com/attacks-breaches/what-happened-to-oprussia",
-          "publishedOn": "2023-02-13T15:00:00.000Z",
-          "wordCount": 13383,
-          "title": "What Happened to #OpRussia?",
-          "enclosure": {
-            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt197ddbe38d78de9e/61e49443c7d3075811820b39/A_Haynes.png",
-            "type": "image/*",
-            "length": "0"
-          },
-          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt197ddbe38d78de9e/61e49443c7d3075811820b39/A_Haynes.png"
         }
       ]
     },
@@ -3836,6 +3821,26 @@
           "publishedOn": "2023-03-14T13:00:00.000Z",
           "wordCount": 2108,
           "title": "Microsoft Mitigates Outlook Elevation of Privilege Vulnerability",
+          "imageUrl": null
+        },
+        {
+          "id": "/blog/2023/03/202303-security-update/",
+          "author": null,
+          "description": "2023 年 3 月 14 日 (米国時間) 、マイクロソフトは、マイクロソフト製品に影響する脆弱性を修正するために、セキ",
+          "link": "https://msrc-blog.microsoft.com/blog/2023/03/202303-security-update/",
+          "publishedOn": "2023-03-14T07:00:00.000Z",
+          "wordCount": 2108,
+          "title": "2023 年 3 月のセキュリティ更新プログラム (月例)",
+          "imageUrl": null
+        },
+        {
+          "id": "/blog/2023/03/microsoft-mitigates-outlook-elevation-of-privilege-vulnerability-jp/",
+          "author": null,
+          "description": "本ブログは、Microsoft Mitigates Outlook Elevation of Privilege Vulnerability の抄訳版です。最新の情報は原文を参照してください。 Microsoft Threat Intelligence は",
+          "link": "https://msrc-blog.microsoft.com/blog/2023/03/microsoft-mitigates-outlook-elevation-of-privilege-vulnerability-jp/",
+          "publishedOn": "2023-03-14T07:00:00.000Z",
+          "wordCount": 2108,
+          "title": "マイクロソフトは Outlook の 特権昇格の脆弱性を緩和します",
           "imageUrl": null
         },
         {
@@ -4492,6 +4497,22 @@
       "feedUrl": "https://thehackernews.com/feeds/posts/default",
       "siteUrl": "https://thehackernews.com",
       "articles": [
+        {
+          "id": "https://thehackernews.com/2023/03/microsoft-rolls-out-patches-for-80-new.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Microsoft's Patch Tuesday update for March 2023 is rolling out with remediations for a set of 80 security flaws, two of which have come under active exploitation in the wild.\nEight of the 80 bugs are rated Critical, 71 are rated Important, and one is rated Moderate in severity. The updates are in addition to 29 flaws the tech giant fixed in its Chromium-based Edge browser in recent weeks.\nThe",
+          "link": "https://thehackernews.com/2023/03/microsoft-rolls-out-patches-for-80-new.html",
+          "publishedOn": "2023-03-15T05:26:00.000Z",
+          "wordCount": null,
+          "title": "Microsoft Rolls Out Patches for 80 New Security Flaws — Two Under Active Attack",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYLlUAr0ruzgKuzoHoe1e0B8I4qsuhNp0XiA-FfqB6QFh3Aa4J0x4W0015PvXO6_-wLDns2apQkiblNma4ax6vJ3hNIfz6MSsxDPLIAUvgUk5gMjurzSI-0rwUwYe9rBJRxWQKbXqWFFzZAMGqCG12X0aivvmUmU6xFvbwG8g2ST4LOTBt3e521HfX/s1600/windows-update.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYLlUAr0ruzgKuzoHoe1e0B8I4qsuhNp0XiA-FfqB6QFh3Aa4J0x4W0015PvXO6_-wLDns2apQkiblNma4ax6vJ3hNIfz6MSsxDPLIAUvgUk5gMjurzSI-0rwUwYe9rBJRxWQKbXqWFFzZAMGqCG12X0aivvmUmU6xFvbwG8g2ST4LOTBt3e521HfX/s1600/windows-update.jpg"
+        },
         {
           "id": "https://thehackernews.com/2023/03/gobruteforcer-new-golang-based-malware.html",
           "author": "info@thehackernews.com (The Hacker News)",
@@ -6475,22 +6496,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwLdHZcIgISVVe_p8sRJD55e2RHR8YhadA9x6ssYx0eC4eRUBser6oxe1WDZL81TA9ZxPlmqDzoe6fKj0vNn0Ag5otjIH60CBIe1qlr8MueqAK-LkOLZ_YaWIB8UAp9Vm9lFI2eXdko8QXlG6joMeS7B_qLdt4Ci5L-dsqRTu1cfJvbsPu2pxDbQ6n/s1600/apple.png"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwLdHZcIgISVVe_p8sRJD55e2RHR8YhadA9x6ssYx0eC4eRUBser6oxe1WDZL81TA9ZxPlmqDzoe6fKj0vNn0Ag5otjIH60CBIe1qlr8MueqAK-LkOLZ_YaWIB8UAp9Vm9lFI2eXdko8QXlG6joMeS7B_qLdt4Ci5L-dsqRTu1cfJvbsPu2pxDbQ6n/s1600/apple.png"
-        },
-        {
-          "id": "https://thehackernews.com/2023/02/hackers-create-malicious-dota-2-game.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "An unknown threat actor created malicious game modes for the Dota 2 multiplayer online battle arena (MOBA) video game that could have been exploited to establish backdoor access to players' systems.\nThe modes exploited a high-severity flaw in the V8 JavaScript engine tracked as CVE-2021-38003 (CVSS score: 8.8), which was exploited as a zero-day and addressed by Google in October 2021.\n\"Since V8",
-          "link": "https://thehackernews.com/2023/02/hackers-create-malicious-dota-2-game.html",
-          "publishedOn": "2023-02-13T15:31:00.000Z",
-          "wordCount": null,
-          "title": "Hackers Create Malicious Dota 2 Game Modes to Secretly Access Players' Systems",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZ5EqGS9M-uWz6i8kYOjBKdLpSXrkKSk6QNM-jbWSUnjAa0fMoI-9Jo9UWv4Hhrt7PKl1E8_KhYdxQu-1EEKyXUbalRCjNiUSmVYb7Y3OwGbHb3GCieFJCSGkvxMOMWSIhqWGTQcRRSHSiPgQLQKDXfl03fJ53evbWAIGV2FbKx7UTCAUWvp2MDL9a/s1600/dota2.png"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZ5EqGS9M-uWz6i8kYOjBKdLpSXrkKSk6QNM-jbWSUnjAa0fMoI-9Jo9UWv4Hhrt7PKl1E8_KhYdxQu-1EEKyXUbalRCjNiUSmVYb7Y3OwGbHb3GCieFJCSGkvxMOMWSIhqWGTQcRRSHSiPgQLQKDXfl03fJ53evbWAIGV2FbKx7UTCAUWvp2MDL9a/s1600/dota2.png"
         }
       ]
     }

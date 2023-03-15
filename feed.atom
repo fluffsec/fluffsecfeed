@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-03-15T02:15:10.206Z</updated>
+    <updated>2023-03-15T07:18:41.103Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Rolls Out Patches for 80 New Security Flaws — Two Under Active Attack]]></title>
+        <id>https://thehackernews.com/2023/03/microsoft-rolls-out-patches-for-80-new.html</id>
+        <link href="https://thehackernews.com/2023/03/microsoft-rolls-out-patches-for-80-new.html"/>
+        <updated>2023-03-15T05:26:00.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft's Patch Tuesday update for March 2023 is rolling out with remediations for a set of 80 security flaws, two of which have come under active exploitation in the wild.
+Eight of the 80 bugs are rated Critical, 71 are rated Important, and one is rated Moderate in severity. The updates are in addition to 29 flaws the tech giant fixed in its Chromium-based Edge browser in recent weeks.
+The]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Untitled]]></title>
         <id>/node/17632</id>
@@ -292,6 +304,26 @@ Microsoft Threat Intelligence is tracking the threat actor behind the developmen
 An AiTM phishing attack typically involves a threat actor attempting to steal and intercept a target's]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2023 年 3 月のセキュリティ更新プログラム (月例)]]></title>
+        <id>/blog/2023/03/202303-security-update/</id>
+        <link href="https://msrc-blog.microsoft.com/blog/2023/03/202303-security-update/"/>
+        <updated>2023-03-14T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[2023 年 3 月 14 日 (米国時間) 、マイクロソフトは、マイクロソフト製品に影響する脆弱性を修正するために、セキ]]></summary>
+        <author>
+            <name>Microsoft Security Response Center</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[マイクロソフトは Outlook の 特権昇格の脆弱性を緩和します]]></title>
+        <id>/blog/2023/03/microsoft-mitigates-outlook-elevation-of-privilege-vulnerability-jp/</id>
+        <link href="https://msrc-blog.microsoft.com/blog/2023/03/microsoft-mitigates-outlook-elevation-of-privilege-vulnerability-jp/"/>
+        <updated>2023-03-14T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[本ブログは、Microsoft Mitigates Outlook Elevation of Privilege Vulnerability の抄訳版です。最新の情報は原文を参照してください。 Microsoft Threat Intelligence は]]></summary>
+        <author>
+            <name>Microsoft Security Response Center</name>
         </author>
     </entry>
     <entry>
@@ -5145,28 +5177,6 @@ The iPhone maker said the]]></summary>
         <summary type="html"><![CDATA[Killnet claims DDoS attack against NATO Special Operations Headquarters, Strategic Airlift Capability, and more.]]></summary>
         <author>
             <name>Dark Reading Staff, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hackers Create Malicious Dota 2 Game Modes to Secretly Access Players' Systems]]></title>
-        <id>https://thehackernews.com/2023/02/hackers-create-malicious-dota-2-game.html</id>
-        <link href="https://thehackernews.com/2023/02/hackers-create-malicious-dota-2-game.html"/>
-        <updated>2023-02-13T15:31:00.000Z</updated>
-        <summary type="html"><![CDATA[An unknown threat actor created malicious game modes for the Dota 2 multiplayer online battle arena (MOBA) video game that could have been exploited to establish backdoor access to players' systems.
-The modes exploited a high-severity flaw in the V8 JavaScript engine tracked as CVE-2021-38003 (CVSS score: 8.8), which was exploited as a zero-day and addressed by Google in October 2021.
-"Since V8]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What Happened to #OpRussia?]]></title>
-        <id>https://www.darkreading.com/attacks-breaches/what-happened-to-oprussia</id>
-        <link href="https://www.darkreading.com/attacks-breaches/what-happened-to-oprussia"/>
-        <updated>2023-02-13T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The cyberwar to attack Russia has never really stopped, despite a decreasing interest from the West.]]></summary>
-        <author>
-            <name>Alex Haynes, Chief Information Security Officer, IBS Software</name>
         </author>
     </entry>
 </feed>
