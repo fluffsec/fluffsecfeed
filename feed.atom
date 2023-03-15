@@ -2,10 +2,73 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-03-15T07:18:41.103Z</updated>
+    <updated>2023-03-15T13:27:27.490Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[SMBs Orgs Want Help, but Cybersecurity Expertise Is Scarce]]></title>
+        <id>https://www.darkreading.com/operations/midsize-orgs-want-help-cybersecurity-pros-scarce</id>
+        <link href="https://www.darkreading.com/operations/midsize-orgs-want-help-cybersecurity-pros-scarce"/>
+        <updated>2023-03-15T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Smaller firms are boosting cybersecurity budgets, but there's a long way to go to address a deep lack of cyber preparedness among SMBs.]]></summary>
+        <author>
+            <name>Robert Lemos, Contributing Writer, Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Are We Doing Enough to Protect Our Unstructured Data?]]></title>
+        <id>https://www.darkreading.com/omdia/are-we-doing-enough-to-protect-our-unstructured-data-</id>
+        <link href="https://www.darkreading.com/omdia/are-we-doing-enough-to-protect-our-unstructured-data-"/>
+        <updated>2023-03-15T12:15:00.000Z</updated>
+        <summary type="html"><![CDATA[Organizations are coming under pressure to protect their data, but does all data need the same security? To secure it, you first need to know what and where it is.]]></summary>
+        <author>
+            <name>Adam Strange, Principal Analyst, Data Security</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Season 5 of ‘The Inside Man’ From KnowBe4 Is Less Than a Month Away!]]></title>
+        <id>https://blog.knowbe4.com/knowbe4-season-5-the-inside-man-less-than-one-month-away</id>
+        <link href="https://blog.knowbe4.com/knowbe4-season-5-the-inside-man-less-than-one-month-away"/>
+        <updated>2023-03-15T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[We’re thrilled to announce that Season 5 of the award-winning Knowbe4 Original Series - “The Inside Man” is less than a month away!]]></summary>
+        <author>
+            <name>Stu Sjouwerman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New Cryptojacking Operation Targeting Kubernetes Clusters for Dero Mining]]></title>
+        <id>https://thehackernews.com/2023/03/new-cryptojacking-operation-targeting.html</id>
+        <link href="https://thehackernews.com/2023/03/new-cryptojacking-operation-targeting.html"/>
+        <updated>2023-03-15T10:11:00.000Z</updated>
+        <summary type="html"><![CDATA[Cybersecurity researchers have discovered the first-ever illicit cryptocurrency mining campaign used to mint Dero since the start of February 2023.
+"The novel Dero cryptojacking operation concentrates on locating Kubernetes clusters with anonymous access enabled on a Kubernetes API and listening on non-standard ports accessible from the internet," CrowdStrike said in a new report shared with The]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Different Methods and Stages of Penetration Testing]]></title>
+        <id>https://thehackernews.com/2023/03/the-different-methods-and-stages-of.html</id>
+        <link href="https://thehackernews.com/2023/03/the-different-methods-and-stages-of.html"/>
+        <updated>2023-03-15T09:43:00.000Z</updated>
+        <summary type="html"><![CDATA[The stakes could not be higher for cyber defenders. With the vast amounts of sensitive information, intellectual property, and financial data at risk, the consequences of a data breach can be devastating. According to a report released by Ponemon institute, the cost of data breaches has reached an all-time high, averaging $4.35 million in 2022.
+Vulnerabilities in web applications are often the]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tick APT Targeted High-Value Customers of East Asian Data-Loss Prevention Company]]></title>
+        <id>https://thehackernews.com/2023/03/tick-apt-targeted-high-value-customers.html</id>
+        <link href="https://thehackernews.com/2023/03/tick-apt-targeted-high-value-customers.html"/>
+        <updated>2023-03-15T09:23:00.000Z</updated>
+        <summary type="html"><![CDATA[A cyberespionage actor known as Tick has been attributed with high confidence to a compromise of an East Asian data-loss prevention (DLP) company that caters to government and military entities.
+"The attackers compromised the DLP company's internal update servers to deliver malware inside the software developer's network, and trojanized installers of legitimate tools used by the company, which]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Microsoft Rolls Out Patches for 80 New Security Flaws — Two Under Active Attack]]></title>
         <id>https://thehackernews.com/2023/03/microsoft-rolls-out-patches-for-80-new.html</id>
@@ -60,6 +123,16 @@ ColdFusion APSB23-25
 Please share your thoughts. We recently updated our anonymous Product Feedback Survey and we'd welcome your feedback.]]></summary>
         <author>
             <name>CISA</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google Proposes Reducing TLS Cert Lifespan to 90 Days]]></title>
+        <id>https://www.darkreading.com/dr-tech/google-proposes-reducing-tls-cert-lifespan-to-90-days</id>
+        <link href="https://www.darkreading.com/dr-tech/google-proposes-reducing-tls-cert-lifespan-to-90-days"/>
+        <updated>2023-03-15T01:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Organizations will likely have until the end of 2024 to gain visibility and control over their keys and certificates.]]></summary>
+        <author>
+            <name>Dark Reading Staff, Dark Reading</name>
         </author>
     </entry>
     <entry>
@@ -5117,66 +5190,6 @@ Tracked as CVE-2023-23529, the issue relates to a type confusion bug in the Web
 The iPhone maker said the]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2023 年 2 月のセキュリティ更新プログラム (月例)]]></title>
-        <id>/blog/2023/02/202302-security-update/</id>
-        <link href="https://msrc-blog.microsoft.com/blog/2023/02/202302-security-update/"/>
-        <updated>2023-02-14T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[2023 年 2 月 14 日 (米国時間) 、マイクロソフトは、マイクロソフト製品に影響する脆弱性を修正するために、セキ]]></summary>
-        <author>
-            <name>Microsoft Security Response Center</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dark Web Revenue Down Dramatically After Hydra's Demise]]></title>
-        <id>https://www.darkreading.com/threat-intelligence/dark-web-revenue-down-after-hydras-demise</id>
-        <link href="https://www.darkreading.com/threat-intelligence/dark-web-revenue-down-after-hydras-demise"/>
-        <updated>2023-02-13T22:51:00.000Z</updated>
-        <summary type="html"><![CDATA[Competitor markets working to replace Hydra's money-laundering services for cybercriminals.]]></summary>
-        <author>
-            <name>Becky Bracken, Editor, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[9 Scammers Busted for 5M Euro Phishing Fraud Ring]]></title>
-        <id>https://www.darkreading.com/attacks-breaches/9-scammers-busted-for-5m-euro-phishing-fraud-ring</id>
-        <link href="https://www.darkreading.com/attacks-breaches/9-scammers-busted-for-5m-euro-phishing-fraud-ring"/>
-        <updated>2023-02-13T22:24:00.000Z</updated>
-        <summary type="html"><![CDATA[The network is alleged to have operated 100 bank accounts and stolen millions from American people and companies.]]></summary>
-        <author>
-            <name>Dark Reading Staff, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Accenture Acquires Morphus, Brazil-Based Cybersecurity Company]]></title>
-        <id>https://www.darkreading.com/risk/accenture-acquires-morphus-brazil-based-cybersecurity-company</id>
-        <link href="https://www.darkreading.com/risk/accenture-acquires-morphus-brazil-based-cybersecurity-company"/>
-        <updated>2023-02-13T21:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Morphus's deep cybersecurity research expertise, cyber defense and threat intelligence services widen Accenture's cybersecurity footprint in Latin America.]]></summary>
-        <author>
-            <name>Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Healthcare in the Crosshairs of North Korean Cyber Operations]]></title>
-        <id>https://www.darkreading.com/attacks-breaches/healthcare-in-the-crosshairs-of-north-korean-cyber-operations</id>
-        <link href="https://www.darkreading.com/attacks-breaches/healthcare-in-the-crosshairs-of-north-korean-cyber-operations"/>
-        <updated>2023-02-13T20:50:00.000Z</updated>
-        <summary type="html"><![CDATA[CISA, FBI, and South Korean intelligence agencies warn that the North Korean government is sponsoring ransomware attacks to fund its cyber-espionage activities.]]></summary>
-        <author>
-            <name>Jai Vijayan, Contributing Writer, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Russian Hackers Disrupt NATO Earthquake Relief Operations]]></title>
-        <id>https://www.darkreading.com/attacks-breaches/russian-hackers-disrupt-nato-earthquake-relief-operations-</id>
-        <link href="https://www.darkreading.com/attacks-breaches/russian-hackers-disrupt-nato-earthquake-relief-operations-"/>
-        <updated>2023-02-13T19:50:00.000Z</updated>
-        <summary type="html"><![CDATA[Killnet claims DDoS attack against NATO Special Operations Headquarters, Strategic Airlift Capability, and more.]]></summary>
-        <author>
-            <name>Dark Reading Staff, Dark Reading</name>
         </author>
     </entry>
 </feed>
