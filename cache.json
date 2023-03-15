@@ -6,6 +6,16 @@
       "siteUrl": "https://www.cisa.gov/",
       "articles": [
         {
+          "id": "/node/17602",
+          "author": "CISA",
+          "description": "SUMMARY\nFrom November 2022 through early January 2023, the Cybersecurity and Infrastructure Security Agency (CISA) and authoring organizations identified the presence of indicators of compromise (IOCs) at a federal civilian executive branch (FCEB) agency. Analysts determined that multiple cyber threat actors, including an APT actor, were able to exploit a .NET deserialization vulnerability (CVE-2019-18935) in Progress Telerik user interface (UI) for ASP.NET AJAX, located in the agency’s Microsoft Internet Information Services (IIS) web server. Successful exploitation of this vulnerability allows for remote code execution. According to Progress Software, Telerik UI for ASP.NET AJAX builds before R1 2020 (2020.1.114) are vulnerable to this exploit.[1]\nActions to take today to mitigate malici…",
+          "link": "https://www.cisa.gov/news-events/cybersecurity-advisories/aa23-074a",
+          "publishedOn": "2023-03-13T17:57:57.000Z",
+          "wordCount": 5474,
+          "title": "Untitled",
+          "imageUrl": null
+        },
+        {
           "id": "/node/17470",
           "author": "CISA",
           "description": "",
@@ -52,6 +62,46 @@
       "feedUrl": "https://us-cert.cisa.gov/ncas/current-activity.xml",
       "siteUrl": "https://www.cisa.gov/",
       "articles": [
+        {
+          "id": "/node/17633",
+          "author": "CISA",
+          "description": "In light of recent bank failures, CISA warns consumers to beware of potential scams requesting your money or sensitive personal information. Exercise caution in handling emails with bank-related subject lines, attachments, or links. In addition, be wary of social media pleas, texts, or door-to-door solicitations relating to any failed bank.\nThe Federal Deposit Insurance Corporation (FDIC), the \"Receiver\" of failed banks, would never contact you asking for personal details, such as bank account information, credit and debit card numbers, social security numbers, or passwords.\nTo avoid becoming victims of scams, consumers should review the following resources and take preventative measures:\nCISA: Avoiding Social Engineering and Phishing Attacks\nFDIC Consumer News: Beware, It’s a Scam!\nFDIC Consumer News: Scammers Pretending to be the FDIC\nFDIC: Failed Bank Information for Silicon Valley Bank, Santa Clara, CA\nFDIC: Failed Bank Information for Signature Bank, New York, NY\nCISA: Phishing Infographic \nConsider reporting scams and fraud to the police and file a report with the Federal Trade Commission.\nPlease share your thoughts. We recently updated our anonymous Product Feedback Survey and we'd welcome your feedback.",
+          "link": "https://www.cisa.gov/news-events/alerts/2023/03/15/beware-bank-related-scams",
+          "publishedOn": "2023-03-15T19:16:32.996Z",
+          "wordCount": 637,
+          "title": "Untitled",
+          "imageUrl": null
+        },
+        {
+          "id": "/node/17642",
+          "author": "CISA",
+          "description": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities Catalog, based on evidence of active exploitation.\nCVE-2023-26360 Adobe ColdFusion Improper Access Control Vulnerability\nThese types of vulnerabilities are frequent attack vectors for malicious cyber actors and pose significant risks to the federal enterprise. Note: To view other newly added vulnerabilities in the catalog, click on the arrow in the \"Date Added to Catalog\" column—which will sort by descending dates.\nBinding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the Known Exploited Vulnerabilities Catalog as a living list of known Common Vulnerabilities and Exposures (CVEs) that carry significant risk to the federal enterprise. BOD 22-01 requires Federal Civilian Executive Branch (FCEB) agencies to remediate identified vulnerabilities by the due date to protect FCEB networks against active threats. See the BOD 22-01 Fact Sheet for more information.\nAlthough BOD 22-01 only applies to FCEB agencies, CISA strongly urges all organizations to reduce their exposure to cyberattacks by prioritizing timely remediation of Catalog vulnerabilities as part of their vulnerability management practice. CISA will continue to add vulnerabilities to the catalog that meet the specified criteria.\nPlease share your thoughts. We recently updated our anonymous Product Feedback Survey and we'd welcome your feedback.",
+          "link": "https://www.cisa.gov/news-events/alerts/2023/03/15/cisa-adds-one-known-exploited-vulnerability-catalog",
+          "publishedOn": "2023-03-15T19:16:32.989Z",
+          "wordCount": 670,
+          "title": "Untitled",
+          "imageUrl": null
+        },
+        {
+          "id": "/node/17608",
+          "author": "CISA",
+          "description": "Today, the CISA, Federal Bureau of Investigation (FBI), and Multi-State Information Sharing and Analysis Center (MS-ISAC) released a joint Cybersecurity Advisory (CSA), Threat Actors Exploit Progress Telerik Vulnerability in U.S. Government IIS Server. This joint CSA provides IT infrastructure defenders with tactics, techniques, and procedures (TTPs), indicators of compromise (IOCs), and methods to detect and protect against similar, successful CVE-2019-18935 exploitation.\nAs detailed in the advisory, CISA analysts determined that multiple cyber threat actors, including an Advanced Persistent Threat (APT) actor, exploited a .NET deserialization vulnerability in Progress Telerik user interface for ASP.NET AJAX. Exploitation of this vulnerability allowed malicious actors to successfully execute remote code on a federal civilian executive branch (FCEB) agency’s Microsoft Internet Information Services (IIS) web server. Actors were then able to upload malicious dynamic-link library (DLL) files (some masqueraded as portable network graphics [PNG] files) to the C:\\Windows\\Temp\\ directory. \nCISA, FBI, and MS-ISAC encourage network defenders to review the Detection and Mitigations sections of this advisory, as well as refer to the accompanying Malware Analysis Report, MAR-10413062-1.v1 Telerik Vulnerability in U.S. Government IIS Server, to reference CISA's analysis for the identified malicious files.\nPlease share your thoughts. We recently updated our anonymous Product Feedback Survey and we'd welcome your feedback.",
+          "link": "https://www.cisa.gov/news-events/alerts/2023/03/15/threat-actors-exploited-progress-telerik-vulnerability-us-government-iis-server",
+          "publishedOn": "2023-03-15T19:16:32.979Z",
+          "wordCount": 668,
+          "title": "Untitled",
+          "imageUrl": null
+        },
+        {
+          "id": "/node/17634",
+          "author": "CISA",
+          "description": "The Water Information Sharing and Analysis Center (WaterISAC) has released an advisory, Potential for Mandatory Microsoft DCOM Patch to Disrupt SCADA. ICS/OT/SCADA engineers and operators should assess the use of the Distributed Component Object Model (DCOM) protocol in their industrial environments. According to WaterISAC, “failure to address could result in loss of critical communications between impacted ICS/OT/SCADA devices.”\nCISA urges operators to review the WaterISAC advisory and apply recommended compensating controls. See Microsoft KB5004442—Manage changes for Windows DCOM Server Security Feature Bypass (CVE-2021-26414) for more information.",
+          "link": "https://www.cisa.gov/news-events/alerts/2023/03/15/waterisac-releases-advisory-microsoft-dcom-patch",
+          "publishedOn": "2023-03-15T19:16:31.813Z",
+          "wordCount": 545,
+          "title": "Untitled",
+          "imageUrl": null
+        },
         {
           "id": "/node/17632",
           "author": "CISA",
@@ -500,6 +550,51 @@
       "feedUrl": "https://www.darkreading.com/rss.xml",
       "siteUrl": "https://www.darkreading.com",
       "articles": [
+        {
+          "id": "https://www.darkreading.com/risk/meet-data-privacy-mandates-with-cybersecurity-frameworks",
+          "author": "Chris Strand, Chief Risk and Compliance Officer, Cybersixgill",
+          "description": "Protection laws are always evolving. Here's how you can streamline your compliance efforts     .",
+          "link": "https://www.darkreading.com/risk/meet-data-privacy-mandates-with-cybersecurity-frameworks",
+          "publishedOn": "2023-03-15T17:00:00.000Z",
+          "wordCount": 14160,
+          "title": "Meet Data Privacy Mandates With Cybersecurity Frameworks",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt32ff70f1047ae6c5/6367f75a5ca01b33f19e5d0a/Chris_strand.jpg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt32ff70f1047ae6c5/6367f75a5ca01b33f19e5d0a/Chris_strand.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/attacks-breaches/goatrat-android-trojan-targets-mobile-banking-automated-payment-system",
+          "author": "Elizabeth Montalbano, Contributor, Dark Reading",
+          "description": "The new malware was discovered targeting three banks in Brazil.",
+          "link": "https://www.darkreading.com/attacks-breaches/goatrat-android-trojan-targets-mobile-banking-automated-payment-system",
+          "publishedOn": "2023-03-15T16:30:00.000Z",
+          "wordCount": 12835,
+          "title": "GoatRAT Android Banking Trojan Targets Mobile Automated Payment System",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltbfd004d139d42d70/6303bca6236c2476a257760e/ElizabethMontalbano.jpg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltbfd004d139d42d70/6303bca6236c2476a257760e/ElizabethMontalbano.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/risk/why-security-practitioners-should-understand-their-business",
+          "author": "Ross Haleliuk , Product Leader and Head of Product, LimaCharlie",
+          "description": "The sooner CISOs become proactive in understanding the flip side of the organizations they protect, the better they'll be at their jobs.",
+          "link": "https://www.darkreading.com/risk/why-security-practitioners-should-understand-their-business",
+          "publishedOn": "2023-03-15T14:00:00.000Z",
+          "wordCount": 13916,
+          "title": "Why Security Practitioners Should Understand Their Business",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blteec8358b7a28625d/64108c37be1d645e0898438b/6351XGBW_1_sm.jpg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blteec8358b7a28625d/64108c37be1d645e0898438b/6351XGBW_1_sm.jpg"
+        },
         {
           "id": "https://www.darkreading.com/operations/midsize-orgs-want-help-cybersecurity-pros-scarce",
           "author": "Robert Lemos, Contributing Writer, Dark Reading",
@@ -3847,6 +3942,16 @@
           "wordCount": 2089,
           "title": "First steps in CHERIoT Security Research",
           "imageUrl": null
+        },
+        {
+          "id": "/blog/2023/02/202302-security-update/",
+          "author": null,
+          "description": "2023 年 2 月 14 日 (米国時間) 、マイクロソフトは、マイクロソフト製品に影響する脆弱性を修正するために、セキ",
+          "link": "https://msrc-blog.microsoft.com/blog/2023/02/202302-security-update/",
+          "publishedOn": "2023-02-14T08:00:00.000Z",
+          "wordCount": 2108,
+          "title": "2023 年 2 月のセキュリティ更新プログラム (月例)",
+          "imageUrl": null
         }
       ]
     },
@@ -3855,6 +3960,36 @@
       "feedUrl": "https://blog.knowbe4.com/rss.xml",
       "siteUrl": "https://blog.knowbe4.com",
       "articles": [
+        {
+          "id": "https://blog.knowbe4.com/three-quarters-of-organizations-have-experienced-an-increase-in-email-based-threats",
+          "author": "Stu Sjouwerman",
+          "description": "New data on the state of email security shows that nearly every organization has been the target of a phishing attack as attacks increase in sophistication.",
+          "link": "https://blog.knowbe4.com/three-quarters-of-organizations-have-experienced-an-increase-in-email-based-threats",
+          "publishedOn": "2023-03-15T17:43:42.000Z",
+          "wordCount": 2260,
+          "title": "Three-Quarters of Organizations Have Experienced an Increase in Email-Based Threats",
+          "imageUrl": "https://blog.knowbe4.com/hubfs/Phishing%20and%20Malicious%20Emails.jpg#keepProtocol"
+        },
+        {
+          "id": "https://blog.knowbe4.com/79-of-employee-reported-phishing-emails-go-completely-undetected-by-cybersecurity-solutions",
+          "author": "Stu Sjouwerman",
+          "description": "As cybercriminals increasingly turn to malwareless phishing attacks, the ability for security solutions to correctly identify a malicious email is becoming more and more difficult.",
+          "link": "https://blog.knowbe4.com/79-of-employee-reported-phishing-emails-go-completely-undetected-by-cybersecurity-solutions",
+          "publishedOn": "2023-03-15T17:43:39.000Z",
+          "wordCount": 2302,
+          "title": "79% of Employee-Reported Phishing Emails Go Completely Undetected by Cybersecurity Solutions",
+          "imageUrl": "https://blog.knowbe4.com/hubfs/Phishing%20Attacks%20Aimed%20at%20Social%20Accounts.jpg#keepProtocol"
+        },
+        {
+          "id": "https://blog.knowbe4.com/university-of-sydney-avoiding-social-engineering-advice",
+          "author": "Stu Sjouwerman",
+          "description": "The University of Sydney has issued advice to help students and staff avoid falling for social engineering attacks.",
+          "link": "https://blog.knowbe4.com/university-of-sydney-avoiding-social-engineering-advice",
+          "publishedOn": "2023-03-15T13:25:51.000Z",
+          "wordCount": 2380,
+          "title": "University of Sydney Gives Students and Staff Advice on Avoiding Social Engineering Scams",
+          "imageUrl": "https://blog.knowbe4.com/hubfs/Traditional%20Security%20Awareness%20Training%20is%20Risk.jpg#keepProtocol"
+        },
         {
           "id": "https://blog.knowbe4.com/knowbe4-season-5-the-inside-man-less-than-one-month-away",
           "author": "Stu Sjouwerman",
@@ -4472,6 +4607,22 @@
       "feedUrl": "https://thehackernews.com/feeds/posts/default",
       "siteUrl": "https://thehackernews.com",
       "articles": [
+        {
+          "id": "https://thehackernews.com/2023/03/yorotrooper-stealing-credentials-and.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "A previously undocumented threat actor dubbed YoroTrooper has been targeting government, energy, and international organizations across Europe as part of a cyber espionage campaign that has been active since at least June 2022.\n\"Information stolen from successful compromises include credentials from multiple applications, browser histories and cookies, system information and screenshots,\" Cisco",
+          "link": "https://thehackernews.com/2023/03/yorotrooper-stealing-credentials-and.html",
+          "publishedOn": "2023-03-15T13:49:00.000Z",
+          "wordCount": null,
+          "title": "YoroTrooper Stealing Credentials and Information from Government and Energy Organizations",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhrvAHCeUCjHtoZwQfrdV_OzrNHEU1Ip34dT3Ly5LsGLZNRw1PJ4--ZpU-WrxBD5aMr0LxEm6iHnDPoHcZDwjrwu8FrIF-2Zr8tkPpFcHsoM0Eep6bpyAiJZmFbxwWzmiFNyVuysxcJxygQY5oZea4srH1cvzW9DtNPobMTXjC3VIe5RcvbAloct02_/s1600/python.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhrvAHCeUCjHtoZwQfrdV_OzrNHEU1Ip34dT3Ly5LsGLZNRw1PJ4--ZpU-WrxBD5aMr0LxEm6iHnDPoHcZDwjrwu8FrIF-2Zr8tkPpFcHsoM0Eep6bpyAiJZmFbxwWzmiFNyVuysxcJxygQY5oZea4srH1cvzW9DtNPobMTXjC3VIe5RcvbAloct02_/s1600/python.png"
+        },
         {
           "id": "https://thehackernews.com/2023/03/new-cryptojacking-operation-targeting.html",
           "author": "info@thehackernews.com (The Hacker News)",
@@ -6487,38 +6638,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgmTmLbF2-5grhaL55ekh2GIMy1tyfgRlQDMrede2TjVZYOMcNDVdQFhb4ho0Ogf_pEDAQxgyuVv1GijfDrPnDLPCmU1gvuwm4kMuNa-6Ox2o-J9xuhIWg0tyokJqNhz5DNiM-t8DPFahqN2p4J3uwJ_7Mlx-xxHnFx3p2wG4BDLSEjfDyWxyjB3qEo/s1600/chinese-hackers.jpg"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgmTmLbF2-5grhaL55ekh2GIMy1tyfgRlQDMrede2TjVZYOMcNDVdQFhb4ho0Ogf_pEDAQxgyuVv1GijfDrPnDLPCmU1gvuwm4kMuNa-6Ox2o-J9xuhIWg0tyokJqNhz5DNiM-t8DPFahqN2p4J3uwJ_7Mlx-xxHnFx3p2wG4BDLSEjfDyWxyjB3qEo/s1600/chinese-hackers.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2023/02/massive-http-ddos-attack-hits-record.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Web infrastructure company Cloudflare on Monday disclosed that it thwarted a record-breaking distributed denial-of-service (DDoS) attack that peaked at over 71 million requests per second (RPS).\n\"The majority of attacks peaked in the ballpark of 50-70 million requests per second (RPS) with the largest exceeding 71 million,\" the company said, calling it a \"hyper-volumetric\" DDoS attack.\nIt's also",
-          "link": "https://thehackernews.com/2023/02/massive-http-ddos-attack-hits-record.html",
-          "publishedOn": "2023-02-14T05:16:00.000Z",
-          "wordCount": null,
-          "title": "Massive HTTP DDoS Attack Hits Record High of 71 Million Requests/Second",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgvbi1QQjsrUvu028io_prKZSS4bZVXTTIDc9EEMGY9b7xm9IMxe3-mjc0KISlEciLY4_Sg4gUEEnclYB-6v5iBVphn7QXj4TPmve6tGgYWOpprGUBmI8eAeoViI_Da7KhYq5LR5zmj2S22rmK2tOTejE3IODOLFd6ylOPGEQvZAA0NZqNMuYmTx1Ha/s1600/cf.png"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgvbi1QQjsrUvu028io_prKZSS4bZVXTTIDc9EEMGY9b7xm9IMxe3-mjc0KISlEciLY4_Sg4gUEEnclYB-6v5iBVphn7QXj4TPmve6tGgYWOpprGUBmI8eAeoViI_Da7KhYq5LR5zmj2S22rmK2tOTejE3IODOLFd6ylOPGEQvZAA0NZqNMuYmTx1Ha/s1600/cf.png"
-        },
-        {
-          "id": "https://thehackernews.com/2023/02/patch-now-apples-ios-ipados-macos-and.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Apple on Monday rolled out security updates for iOS, iPadOS, macOS, and Safari to address a zero-day flaw that it said has been actively exploited in the wild.\nTracked as CVE-2023-23529, the issue relates to a type confusion bug in the WebKit browser engine that could be activated when processing maliciously crafted web content, culminating in arbitrary code execution.\nThe iPhone maker said the",
-          "link": "https://thehackernews.com/2023/02/patch-now-apples-ios-ipados-macos-and.html",
-          "publishedOn": "2023-02-14T04:44:00.000Z",
-          "wordCount": null,
-          "title": "Patch Now: Apple's iOS, iPadOS, macOS, and Safari Under Attack with New Zero-Day Flaw",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwLdHZcIgISVVe_p8sRJD55e2RHR8YhadA9x6ssYx0eC4eRUBser6oxe1WDZL81TA9ZxPlmqDzoe6fKj0vNn0Ag5otjIH60CBIe1qlr8MueqAK-LkOLZ_YaWIB8UAp9Vm9lFI2eXdko8QXlG6joMeS7B_qLdt4Ci5L-dsqRTu1cfJvbsPu2pxDbQ6n/s1600/apple.png"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwLdHZcIgISVVe_p8sRJD55e2RHR8YhadA9x6ssYx0eC4eRUBser6oxe1WDZL81TA9ZxPlmqDzoe6fKj0vNn0Ag5otjIH60CBIe1qlr8MueqAK-LkOLZ_YaWIB8UAp9Vm9lFI2eXdko8QXlG6joMeS7B_qLdt4Ci5L-dsqRTu1cfJvbsPu2pxDbQ6n/s1600/apple.png"
         }
       ]
     }
