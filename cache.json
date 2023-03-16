@@ -63,6 +63,16 @@
       "siteUrl": "https://www.cisa.gov/",
       "articles": [
         {
+          "id": "/node/17644",
+          "author": "CISA",
+          "description": "CISA has released a draft Secure Cloud Business Applications (SCuBA) Hybrid Identity Solutions Architecture guidance document for public comment. The request for comment period is open until April 17, 2023. Comments may be submitted to CyberSharedServices@cisa.dhs.gov.\nIn accordance with Executive Order 14028, CISA’s SCuBA project aims to develop consistent, effective, modern, and manageable security that will help secure agency information assets stored within cloud operations. This guidance will help federal civilian departments and agencies securely and efficiently integrate their traditional on-premises enterprise networks with cloud-based solutions.\nCISA encourages federal program and project managers involved in identity management interoperability and vulnerability mitigation to review and provide comment. Visit CISA’s SCuBA project page for more information and to review the guidance document.",
+          "link": "https://www.cisa.gov/news-events/alerts/2023/03/15/cisa-releases-scuba-hybrid-identity-solutions-architecture-guidance-document-public-comment",
+          "publishedOn": "2023-03-16T02:15:46.935Z",
+          "wordCount": 589,
+          "title": "Untitled",
+          "imageUrl": null
+        },
+        {
           "id": "/node/17633",
           "author": "CISA",
           "description": "In light of recent bank failures, CISA warns consumers to beware of potential scams requesting your money or sensitive personal information. Exercise caution in handling emails with bank-related subject lines, attachments, or links. In addition, be wary of social media pleas, texts, or door-to-door solicitations relating to any failed bank.\nThe Federal Deposit Insurance Corporation (FDIC), the \"Receiver\" of failed banks, would never contact you asking for personal details, such as bank account information, credit and debit card numbers, social security numbers, or passwords.\nTo avoid becoming victims of scams, consumers should review the following resources and take preventative measures:\nCISA: Avoiding Social Engineering and Phishing Attacks\nFDIC Consumer News: Beware, It’s a Scam!\nFDIC Consumer News: Scammers Pretending to be the FDIC\nFDIC: Failed Bank Information for Silicon Valley Bank, Santa Clara, CA\nFDIC: Failed Bank Information for Signature Bank, New York, NY\nCISA: Phishing Infographic \nConsider reporting scams and fraud to the police and file a report with the Federal Trade Commission.\nPlease share your thoughts. We recently updated our anonymous Product Feedback Survey and we'd welcome your feedback.",
@@ -550,6 +560,91 @@
       "feedUrl": "https://www.darkreading.com/rss.xml",
       "siteUrl": "https://www.darkreading.com",
       "articles": [
+        {
+          "id": "https://www.darkreading.com/cloud/hornetsecurity-launches-vm-backup-v9",
+          "author": null,
+          "description": "Hornetsecurity research highlights that more than 1 in 4 companies have fallen victim to ransomware attacks, with 14.1% losing data and 6.6% paying a ransom.",
+          "link": "https://www.darkreading.com/cloud/hornetsecurity-launches-vm-backup-v9",
+          "publishedOn": "2023-03-15T21:12:00.000Z",
+          "wordCount": 11601,
+          "title": "Hornetsecurity Launches VM Backup V9",
+          "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/endpoint/directdefense-reports-the-top-threats-from-2022-and-what-s-trending-for-2023",
+          "author": null,
+          "description": "Research found that phishing threats were low in 2022, while foreign login activity and application process analysis accounted for nearly 50% of incident alerts.",
+          "link": "https://www.darkreading.com/endpoint/directdefense-reports-the-top-threats-from-2022-and-what-s-trending-for-2023",
+          "publishedOn": "2023-03-15T21:08:00.000Z",
+          "wordCount": 12715,
+          "title": "DirectDefense Reports the Top Threats From 2022 and What's Trending for 2023",
+          "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/vulnerabilities-threats/cyberattackers-continue-assault-against-fortinet-devices",
+          "author": "Robert Lemos, Contributing Writer, Dark Reading",
+          "description": "Patched earlier this month, a code-execution vulnerability is the latest FortiOS weakness to be exploited by attackers, who see the devices as well-placed targets for initial access operations.",
+          "link": "https://www.darkreading.com/vulnerabilities-threats/cyberattackers-continue-assault-against-fortinet-devices",
+          "publishedOn": "2023-03-15T20:53:00.000Z",
+          "wordCount": 12869,
+          "title": "Cyberattackers Continue Assault Against Fortinet Devices",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt58481326324d6911/60b1e9a55d34de550780a990/Robert-Lemos.png",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt58481326324d6911/60b1e9a55d34de550780a990/Robert-Lemos.png"
+        },
+        {
+          "id": "https://www.darkreading.com/operations/securityscorecard-appoints-former-us-congressman-john-katko-as-senior-advisor",
+          "author": null,
+          "description": "Capitol Hill cybersecurity leader joins the company’s Cybersecurity Advisory Board to drive further adoption of security ratings in the public and private sectors.",
+          "link": "https://www.darkreading.com/operations/securityscorecard-appoints-former-us-congressman-john-katko-as-senior-advisor",
+          "publishedOn": "2023-03-15T20:19:00.000Z",
+          "wordCount": 12533,
+          "title": "SecurityScorecard Appoints Former US Congressman John Katko As Senior Advisor",
+          "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/attacks-breaches/vile-gang-duo-breaches-police-database-impersonates-officers-extortion",
+          "author": null,
+          "description": "Two gang members are being charged for allegedly threatening to release personal information and impersonating law enforcement in an effort to dox victims.",
+          "link": "https://www.darkreading.com/attacks-breaches/vile-gang-duo-breaches-police-database-impersonates-officers-extortion",
+          "publishedOn": "2023-03-15T19:40:00.000Z",
+          "wordCount": 11192,
+          "title": "'Vile' Gang Duo Breaches Police Database, Impersonates Officers in Extortion Gambit",
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blta9e7dd23d66796b0/641220d7c04577555f6f4115/Doxxing_wsf_AL_Alamy.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/application-security/telerik-bug-exploited-steal-federal-agency-data-cisa-warns",
+          "author": "Dark Reading Staff, Dark Reading",
+          "description": "An unpatched Microsoft Web server allowed multiple cybersecurity threat groups to steal data from a federal civilian executive branch.",
+          "link": "https://www.darkreading.com/application-security/telerik-bug-exploited-steal-federal-agency-data-cisa-warns",
+          "publishedOn": "2023-03-15T19:37:00.000Z",
+          "wordCount": 10995,
+          "title": "Telerik Bug Exploited to Steal Federal Agency Data, CISA Warns",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blte161b23f0fd3a84b/60b1ea374e7eb868c4c6a293/dr_staff_125x125.jpg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blte161b23f0fd3a84b/60b1ea374e7eb868c4c6a293/dr_staff_125x125.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/threat-intelligence/analysts-wave-svb-cyber-fraud-striking-business-sector",
+          "author": "Nate Nelson, Contributing Writer, Dark Reading",
+          "description": "Over the weekend, cybercriminals laid the groundwork for Silicon Valley Bank-related fraud attacks that they're now starting to cash in on. Businesses are the targets and, sometimes, the enablers.",
+          "link": "https://www.darkreading.com/threat-intelligence/analysts-wave-svb-cyber-fraud-striking-business-sector",
+          "publishedOn": "2023-03-15T18:47:17.000Z",
+          "wordCount": 13874,
+          "title": "Analysts Spot a Wave of SVB-Related Cyber Fraud Striking the Business Sector",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt91e5f91ce3f0cdd9/63d0288ac98dbe55ece1d0a9/Nate-Nelson_(1).jpg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt91e5f91ce3f0cdd9/63d0288ac98dbe55ece1d0a9/Nate-Nelson_(1).jpg"
+        },
         {
           "id": "https://www.darkreading.com/risk/meet-data-privacy-mandates-with-cybersecurity-frameworks",
           "author": "Chris Strand, Chief Risk and Compliance Officer, Cybersixgill",
@@ -3854,21 +3949,6 @@
             "length": "0"
           },
           "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt4e3c684e8c80c109/63e6780fe889cb769badf7d2/Sergej_Dechand_%C2%A9Sandra_Then.jpg"
-        },
-        {
-          "id": "https://www.darkreading.com/vulnerabilities-threats/attackers-can-exploit-flaw-in-vmware-esxi-hypervisor-in-multiple-ways",
-          "author": "Jai Vijayan, Contributing Writer, Dark Reading",
-          "description": "It's not just Internet-accessible hosts that are vulnerable, researchers say.",
-          "link": "https://www.darkreading.com/vulnerabilities-threats/attackers-can-exploit-flaw-in-vmware-esxi-hypervisor-in-multiple-ways",
-          "publishedOn": "2023-02-14T13:00:00.000Z",
-          "wordCount": 12133,
-          "title": "Embattled VMware ESXi Hypervisor Flaw Exploitable in Myriad Ways",
-          "enclosure": {
-            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt02d79fb9a44a4258/60b1e9dd2a25046b35110696/Jai-Vijayan.jpeg",
-            "type": "image/*",
-            "length": "0"
-          },
-          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt02d79fb9a44a4258/60b1e9dd2a25046b35110696/Jai-Vijayan.jpeg"
         }
       ]
     },
@@ -3941,16 +4021,6 @@
           "publishedOn": "2023-02-28T00:00:00.000Z",
           "wordCount": 2089,
           "title": "First steps in CHERIoT Security Research",
-          "imageUrl": null
-        },
-        {
-          "id": "/blog/2023/02/202302-security-update/",
-          "author": null,
-          "description": "2023 年 2 月 14 日 (米国時間) 、マイクロソフトは、マイクロソフト製品に影響する脆弱性を修正するために、セキ",
-          "link": "https://msrc-blog.microsoft.com/blog/2023/02/202302-security-update/",
-          "publishedOn": "2023-02-14T08:00:00.000Z",
-          "wordCount": 2108,
-          "title": "2023 年 2 月のセキュリティ更新プログラム (月例)",
           "imageUrl": null
         }
       ]
@@ -4579,26 +4649,6 @@
           "wordCount": 2178,
           "title": "Deepfake Crackdown After 4Chan Users Make Celebrity Voices Say Racist, Transphobic, and Violent Things",
           "imageUrl": "https://blog.knowbe4.com/hubfs/Deepfake.jpg#keepProtocol"
-        },
-        {
-          "id": "https://blog.knowbe4.com/geotargeted-phishing-attacks",
-          "author": "Stu Sjouwerman",
-          "description": "Attackers are abusing a legitimate service called “GeoTargetly” to launch localized phishing attacks, according to Jeremy Fuchs at Avanan. GeoTargetly is meant to be used by advertisers to display ads in countries’ local languages. Avanan observed a phishing campaign that’s using phishing emails to target multiple countries in South America.",
-          "link": "https://blog.knowbe4.com/geotargeted-phishing-attacks",
-          "publishedOn": "2023-02-14T14:06:54.000Z",
-          "wordCount": 2276,
-          "title": "Cybercriminals are Using Geotargeted Phishing to Target Victims",
-          "imageUrl": "https://blog.knowbe4.com/hubfs/UK%20Phishing%20Attack.jpg#keepProtocol"
-        },
-        {
-          "id": "https://blog.knowbe4.com/cyberheistnews-vol-13-07-scam-of-the-week-the-turkey-syria-earthquake",
-          "author": "Stu Sjouwerman",
-          "description": "CyberheistNews Vol 13 #07  |   February 14th, 2023  \r\n \n \r\n   \r\n \n \r\n  \n[Scam of the Week] The Turkey-Syria Earthquake\n \r\n  \nJust when you think they cannot sink any lower, criminal internet scum is now exploiting the recent earthquake in Turkey and Syria.\n \r\n  \nLess than 24 hours after two massive earthquakes claimed the lives of tens of thousands of people, cybercrooks are already piggybacking on the horrible humanitarian crisis. You need to alert your employees, friends and family... again.\n \r\n  \nJust one example are scammers that pose as representatives from a Ukrainian charity foundation that seeks money to help those affected by the natural disasters that struck in the early hours of Monday.\n \r\n  \nThere are going to be a raft of scams varying from blood drives to pleas for charitable…",
-          "link": "https://blog.knowbe4.com/cyberheistnews-vol-13-07-scam-of-the-week-the-turkey-syria-earthquake",
-          "publishedOn": "2023-02-14T14:00:00.000Z",
-          "wordCount": 4752,
-          "title": "CyberheistNews Vol 13 #07 [Scam of the Week] The Turkey-Syria Earthquake",
-          "imageUrl": "https://blog.knowbe4.com/hubfs/CHN-Social.jpg#keepProtocol"
         }
       ]
     },
@@ -6590,54 +6640,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzA0LBEdEjtGAgIbWli10Xo1ncBXUjcXU9O_uVlbl5r0YFm-cPo80jOkbRAF1kUYbRi3lJLtGXYsOCMrTbduv0fi-geo_VzbSSO6xTboj9vS6CxAnpm2UwiWwDEuDaxbqlokNfpIinI7GXuDAmRfTLhKgUV09PUYr6VXB4U0eQfmc1fbHZYzG5QCA-/s1600/WordPress.png"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzA0LBEdEjtGAgIbWli10Xo1ncBXUjcXU9O_uVlbl5r0YFm-cPo80jOkbRAF1kUYbRi3lJLtGXYsOCMrTbduv0fi-geo_VzbSSO6xTboj9vS6CxAnpm2UwiWwDEuDaxbqlokNfpIinI7GXuDAmRfTLhKgUV09PUYr6VXB4U0eQfmc1fbHZYzG5QCA-/s1600/WordPress.png"
-        },
-        {
-          "id": "https://thehackernews.com/2023/02/python-developers-beware-clipper.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Malicious actors have published more than 451 unique Python packages on the official Python Package Index (PyPI) repository in an attempt to infect developer systems with clipper malware.\nSoftware supply chain security company Phylum, which spotted the libraries, said the ongoing activity is a follow-up to a campaign that was initially disclosed in November 2022.\nThe initial vector entails using",
-          "link": "https://thehackernews.com/2023/02/python-developers-beware-clipper.html",
-          "publishedOn": "2023-02-14T11:20:00.000Z",
-          "wordCount": null,
-          "title": "Python Developers Beware: Clipper Malware Found in 450+ PyPI Packages!",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQNyfL3gINA-eAn_UjNGntpmawXVN3Tlu_hPAkenf1L32_EoOrSMzxAwcDoU-vjdjjaYADJ2KjBzk-pe5pj1PpDcpmUc_RR34v0Iqj6OlmQaUZeWKUcF0sYiXt2eCe8RqG1_g0ptK6zFILx73Bq7KP-wkuQGSZjqnXVLMVC-pETowti7ermDVXY1sz/s1600/python-.png"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQNyfL3gINA-eAn_UjNGntpmawXVN3Tlu_hPAkenf1L32_EoOrSMzxAwcDoU-vjdjjaYADJ2KjBzk-pe5pj1PpDcpmUc_RR34v0Iqj6OlmQaUZeWKUcF0sYiXt2eCe8RqG1_g0ptK6zFILx73Bq7KP-wkuQGSZjqnXVLMVC-pETowti7ermDVXY1sz/s1600/python-.png"
-        },
-        {
-          "id": "https://thehackernews.com/2023/02/a-cisos-practical-guide-to-storage-and.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "One thing is clear. The \"business value\" of data continues to grow, making it an organization's primary piece of intellectual property.\nFrom a cyber risk perspective, attacks on data are the most prominent threat to organizations. \nRegulators, cyber insurance firms, and auditors are paying much closer attention to the integrity, resilience, and recoverability of organization data – as well as",
-          "link": "https://thehackernews.com/2023/02/a-cisos-practical-guide-to-storage-and.html",
-          "publishedOn": "2023-02-14T10:12:00.000Z",
-          "wordCount": null,
-          "title": "A CISOs Practical Guide to Storage and Backup Ransomware Resiliency",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEidL4DZhG5MTV0U0dzXcCGdnTvvlHaNE1mHjeTAKLqTdRIFK_SiDP-b--RJOd80D7sumFBya-XfI35Y12S_psCNXgUebjOQ0NIWJ8XT520hPcbQlF5eybBZaOcCRB2eX40TAfCPHRvCEzimUEDnuNOgQR3WOyhMJhCursdZHbC3toc09wEfT0jlQUbw/s1600/ciso.png"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEidL4DZhG5MTV0U0dzXcCGdnTvvlHaNE1mHjeTAKLqTdRIFK_SiDP-b--RJOd80D7sumFBya-XfI35Y12S_psCNXgUebjOQ0NIWJ8XT520hPcbQlF5eybBZaOcCRB2eX40TAfCPHRvCEzimUEDnuNOgQR3WOyhMJhCursdZHbC3toc09wEfT0jlQUbw/s1600/ciso.png"
-        },
-        {
-          "id": "https://thehackernews.com/2023/02/chinese-hackers-targeting-south.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Microsoft on Monday attributed a China-based cyber espionage actor to a set of attacks targeting diplomatic entities in South America.\nThe tech giant's Security Intelligence team is tracking the cluster under the emerging moniker DEV-0147, describing the activity as an \"expansion of the group's data exfiltration operations that traditionally targeted government agencies and think tanks in Asia",
-          "link": "https://thehackernews.com/2023/02/chinese-hackers-targeting-south.html",
-          "publishedOn": "2023-02-14T09:39:00.000Z",
-          "wordCount": null,
-          "title": "Chinese Hackers Targeting South American Diplomatic Entities with ShadowPad",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgmTmLbF2-5grhaL55ekh2GIMy1tyfgRlQDMrede2TjVZYOMcNDVdQFhb4ho0Ogf_pEDAQxgyuVv1GijfDrPnDLPCmU1gvuwm4kMuNa-6Ox2o-J9xuhIWg0tyokJqNhz5DNiM-t8DPFahqN2p4J3uwJ_7Mlx-xxHnFx3p2wG4BDLSEjfDyWxyjB3qEo/s1600/chinese-hackers.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgmTmLbF2-5grhaL55ekh2GIMy1tyfgRlQDMrede2TjVZYOMcNDVdQFhb4ho0Ogf_pEDAQxgyuVv1GijfDrPnDLPCmU1gvuwm4kMuNa-6Ox2o-J9xuhIWg0tyokJqNhz5DNiM-t8DPFahqN2p4J3uwJ_7Mlx-xxHnFx3p2wG4BDLSEjfDyWxyjB3qEo/s1600/chinese-hackers.jpg"
         }
       ]
     }

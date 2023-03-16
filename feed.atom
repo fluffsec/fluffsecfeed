@@ -2,10 +2,82 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-03-15T19:16:48.506Z</updated>
+    <updated>2023-03-16T02:16:01.311Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Untitled]]></title>
+        <id>/node/17644</id>
+        <link href="https://www.cisa.gov/news-events/alerts/2023/03/15/cisa-releases-scuba-hybrid-identity-solutions-architecture-guidance-document-public-comment"/>
+        <updated>2023-03-16T02:15:46.935Z</updated>
+        <summary type="html"><![CDATA[CISA has released a draft Secure Cloud Business Applications (SCuBA) Hybrid Identity Solutions Architecture guidance document for public comment. The request for comment period is open until April 17, 2023. Comments may be submitted to CyberSharedServices@cisa.dhs.gov.
+In accordance with Executive Order 14028, CISA’s SCuBA project aims to develop consistent, effective, modern, and manageable security that will help secure agency information assets stored within cloud operations. This guidance will help federal civilian departments and agencies securely and efficiently integrate their traditional on-premises enterprise networks with cloud-based solutions.
+CISA encourages federal program and project managers involved in identity management interoperability and vulnerability mitigation to review and provide comment. Visit CISA’s SCuBA project page for more information and to review the guidance document.]]></summary>
+        <author>
+            <name>CISA</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hornetsecurity Launches VM Backup V9]]></title>
+        <id>https://www.darkreading.com/cloud/hornetsecurity-launches-vm-backup-v9</id>
+        <link href="https://www.darkreading.com/cloud/hornetsecurity-launches-vm-backup-v9"/>
+        <updated>2023-03-15T21:12:00.000Z</updated>
+        <summary type="html"><![CDATA[Hornetsecurity research highlights that more than 1 in 4 companies have fallen victim to ransomware attacks, with 14.1% losing data and 6.6% paying a ransom.]]></summary>
+        <author>
+            <name>Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DirectDefense Reports the Top Threats From 2022 and What's Trending for 2023]]></title>
+        <id>https://www.darkreading.com/endpoint/directdefense-reports-the-top-threats-from-2022-and-what-s-trending-for-2023</id>
+        <link href="https://www.darkreading.com/endpoint/directdefense-reports-the-top-threats-from-2022-and-what-s-trending-for-2023"/>
+        <updated>2023-03-15T21:08:00.000Z</updated>
+        <summary type="html"><![CDATA[Research found that phishing threats were low in 2022, while foreign login activity and application process analysis accounted for nearly 50% of incident alerts.]]></summary>
+        <author>
+            <name>Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cyberattackers Continue Assault Against Fortinet Devices]]></title>
+        <id>https://www.darkreading.com/vulnerabilities-threats/cyberattackers-continue-assault-against-fortinet-devices</id>
+        <link href="https://www.darkreading.com/vulnerabilities-threats/cyberattackers-continue-assault-against-fortinet-devices"/>
+        <updated>2023-03-15T20:53:00.000Z</updated>
+        <summary type="html"><![CDATA[Patched earlier this month, a code-execution vulnerability is the latest FortiOS weakness to be exploited by attackers, who see the devices as well-placed targets for initial access operations.]]></summary>
+        <author>
+            <name>Robert Lemos, Contributing Writer, Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SecurityScorecard Appoints Former US Congressman John Katko As Senior Advisor]]></title>
+        <id>https://www.darkreading.com/operations/securityscorecard-appoints-former-us-congressman-john-katko-as-senior-advisor</id>
+        <link href="https://www.darkreading.com/operations/securityscorecard-appoints-former-us-congressman-john-katko-as-senior-advisor"/>
+        <updated>2023-03-15T20:19:00.000Z</updated>
+        <summary type="html"><![CDATA[Capitol Hill cybersecurity leader joins the company’s Cybersecurity Advisory Board to drive further adoption of security ratings in the public and private sectors.]]></summary>
+        <author>
+            <name>Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['Vile' Gang Duo Breaches Police Database, Impersonates Officers in Extortion Gambit]]></title>
+        <id>https://www.darkreading.com/attacks-breaches/vile-gang-duo-breaches-police-database-impersonates-officers-extortion</id>
+        <link href="https://www.darkreading.com/attacks-breaches/vile-gang-duo-breaches-police-database-impersonates-officers-extortion"/>
+        <updated>2023-03-15T19:40:00.000Z</updated>
+        <summary type="html"><![CDATA[Two gang members are being charged for allegedly threatening to release personal information and impersonating law enforcement in an effort to dox victims.]]></summary>
+        <author>
+            <name>Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Telerik Bug Exploited to Steal Federal Agency Data, CISA Warns]]></title>
+        <id>https://www.darkreading.com/application-security/telerik-bug-exploited-steal-federal-agency-data-cisa-warns</id>
+        <link href="https://www.darkreading.com/application-security/telerik-bug-exploited-steal-federal-agency-data-cisa-warns"/>
+        <updated>2023-03-15T19:37:00.000Z</updated>
+        <summary type="html"><![CDATA[An unpatched Microsoft Web server allowed multiple cybersecurity threat groups to steal data from a federal civilian executive branch.]]></summary>
+        <author>
+            <name>Dark Reading Staff, Dark Reading</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Untitled]]></title>
         <id>/node/17633</id>
@@ -63,6 +135,16 @@ Please share your thoughts. We recently updated our anonymous Product Feedback�
 CISA urges operators to review the WaterISAC advisory and apply recommended compensating controls. See Microsoft KB5004442—Manage changes for Windows DCOM Server Security Feature Bypass (CVE-2021-26414) for more information.]]></summary>
         <author>
             <name>CISA</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Analysts Spot a Wave of SVB-Related Cyber Fraud Striking the Business Sector]]></title>
+        <id>https://www.darkreading.com/threat-intelligence/analysts-wave-svb-cyber-fraud-striking-business-sector</id>
+        <link href="https://www.darkreading.com/threat-intelligence/analysts-wave-svb-cyber-fraud-striking-business-sector"/>
+        <updated>2023-03-15T18:47:17.000Z</updated>
+        <summary type="html"><![CDATA[Over the weekend, cybercriminals laid the groundwork for Silicon Valley Bank-related fraud attacks that they're now starting to cash in on. Businesses are the targets and, sometimes, the enablers.]]></summary>
+        <author>
+            <name>Nate Nelson, Contributing Writer, Dark Reading</name>
         </author>
     </entry>
     <entry>
@@ -5224,100 +5306,6 @@ This product is provided subject to this Notification and this Privacy & Use pol
         <summary type="html"><![CDATA[Industry standards must evolve as digital transformation makes all companies software companies. Security testing boosts development speed and software quality.]]></summary>
         <author>
             <name>Sergej Dechand, CEO and Co-Founder, Code Intelligence</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cybercriminals are Using Geotargeted Phishing to Target Victims]]></title>
-        <id>https://blog.knowbe4.com/geotargeted-phishing-attacks</id>
-        <link href="https://blog.knowbe4.com/geotargeted-phishing-attacks"/>
-        <updated>2023-02-14T14:06:54.000Z</updated>
-        <summary type="html"><![CDATA[Attackers are abusing a legitimate service called “GeoTargetly” to launch localized phishing attacks, according to Jeremy Fuchs at Avanan. GeoTargetly is meant to be used by advertisers to display ads in countries’ local languages. Avanan observed a phishing campaign that’s using phishing emails to target multiple countries in South America.]]></summary>
-        <author>
-            <name>Stu Sjouwerman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CyberheistNews Vol 13 #07 [Scam of the Week] The Turkey-Syria Earthquake]]></title>
-        <id>https://blog.knowbe4.com/cyberheistnews-vol-13-07-scam-of-the-week-the-turkey-syria-earthquake</id>
-        <link href="https://blog.knowbe4.com/cyberheistnews-vol-13-07-scam-of-the-week-the-turkey-syria-earthquake"/>
-        <updated>2023-02-14T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[CyberheistNews Vol 13 #07  |   February 14th, 2023  
- 
- 
-   
- 
- 
-  
-[Scam of the Week] The Turkey-Syria Earthquake
- 
-  
-Just when you think they cannot sink any lower, criminal internet scum is now exploiting the recent earthquake in Turkey and Syria.
- 
-  
-Less than 24 hours after two massive earthquakes claimed the lives of tens of thousands of people, cybercrooks are already piggybacking on the horrible humanitarian crisis. You need to alert your employees, friends and family... again.
- 
-  
-Just one example are scammers that pose as representatives from a Ukrainian charity foundation that seeks money to help those affected by the natural disasters that struck in the early hours of Monday.
- 
-  
-There are going to be a raft of scams varying from blood drives to pleas for charitable…]]></summary>
-        <author>
-            <name>Stu Sjouwerman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Embattled VMware ESXi Hypervisor Flaw Exploitable in Myriad Ways]]></title>
-        <id>https://www.darkreading.com/vulnerabilities-threats/attackers-can-exploit-flaw-in-vmware-esxi-hypervisor-in-multiple-ways</id>
-        <link href="https://www.darkreading.com/vulnerabilities-threats/attackers-can-exploit-flaw-in-vmware-esxi-hypervisor-in-multiple-ways"/>
-        <updated>2023-02-14T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[It's not just Internet-accessible hosts that are vulnerable, researchers say.]]></summary>
-        <author>
-            <name>Jai Vijayan, Contributing Writer, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Python Developers Beware: Clipper Malware Found in 450+ PyPI Packages!]]></title>
-        <id>https://thehackernews.com/2023/02/python-developers-beware-clipper.html</id>
-        <link href="https://thehackernews.com/2023/02/python-developers-beware-clipper.html"/>
-        <updated>2023-02-14T11:20:00.000Z</updated>
-        <summary type="html"><![CDATA[Malicious actors have published more than 451 unique Python packages on the official Python Package Index (PyPI) repository in an attempt to infect developer systems with clipper malware.
-Software supply chain security company Phylum, which spotted the libraries, said the ongoing activity is a follow-up to a campaign that was initially disclosed in November 2022.
-The initial vector entails using]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A CISOs Practical Guide to Storage and Backup Ransomware Resiliency]]></title>
-        <id>https://thehackernews.com/2023/02/a-cisos-practical-guide-to-storage-and.html</id>
-        <link href="https://thehackernews.com/2023/02/a-cisos-practical-guide-to-storage-and.html"/>
-        <updated>2023-02-14T10:12:00.000Z</updated>
-        <summary type="html"><![CDATA[One thing is clear. The "business value" of data continues to grow, making it an organization's primary piece of intellectual property.
-From a cyber risk perspective, attacks on data are the most prominent threat to organizations. 
-Regulators, cyber insurance firms, and auditors are paying much closer attention to the integrity, resilience, and recoverability of organization data – as well as]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chinese Hackers Targeting South American Diplomatic Entities with ShadowPad]]></title>
-        <id>https://thehackernews.com/2023/02/chinese-hackers-targeting-south.html</id>
-        <link href="https://thehackernews.com/2023/02/chinese-hackers-targeting-south.html"/>
-        <updated>2023-02-14T09:39:00.000Z</updated>
-        <summary type="html"><![CDATA[Microsoft on Monday attributed a China-based cyber espionage actor to a set of attacks targeting diplomatic entities in South America.
-The tech giant's Security Intelligence team is tracking the cluster under the emerging moniker DEV-0147, describing the activity as an "expansion of the group's data exfiltration operations that traditionally targeted government agencies and think tanks in Asia]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2023 年 2 月のセキュリティ更新プログラム (月例)]]></title>
-        <id>/blog/2023/02/202302-security-update/</id>
-        <link href="https://msrc-blog.microsoft.com/blog/2023/02/202302-security-update/"/>
-        <updated>2023-02-14T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[2023 年 2 月 14 日 (米国時間) 、マイクロソフトは、マイクロソフト製品に影響する脆弱性を修正するために、セキ]]></summary>
-        <author>
-            <name>Microsoft Security Response Center</name>
         </author>
     </entry>
 </feed>
