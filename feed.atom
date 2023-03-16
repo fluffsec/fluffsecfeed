@@ -2,10 +2,56 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-03-16T07:18:47.324Z</updated>
+    <updated>2023-03-16T13:32:33.770Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[[FREE RESOURCE KIT] New Phishing Security Resource Kit Now Available!]]></title>
+        <id>https://blog.knowbe4.com/free-phishing-security-resource-kit</id>
+        <link href="https://blog.knowbe4.com/free-phishing-security-resource-kit"/>
+        <updated>2023-03-16T13:06:29.000Z</updated>
+        <summary type="html"><![CDATA[Phishing emails increase in volume every month and every year, so we created this free resource kit to help you defend against attacks.
+ 
+Request your kit now to learn phishing mitigation strategies, what new trends and attack vectors you need to be prepared for, and our best advice on how to protect your users and your organization.
+ 
+Javvad Malik, Lead Security Awareness Advocate at KnowBe4, explains more about why you need this kit and details on what is included:]]></summary>
+        <author>
+            <name>Stu Sjouwerman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Rise in Dynamic Phishing]]></title>
+        <id>https://blog.knowbe4.com/a-rise-in-dynamic-phishing</id>
+        <link href="https://blog.knowbe4.com/a-rise-in-dynamic-phishing"/>
+        <updated>2023-03-16T12:44:16.000Z</updated>
+        <summary type="html"><![CDATA[Attackers are increasingly using techniques to prevent their phishing pages from being detected by security firms, a new report from BlueVoyant has found. The report found that in 2022 there was a 240% increase in phishing pages that attempted to redirect potential security researchers and bots away from the sites.]]></summary>
+        <author>
+            <name>Stu Sjouwerman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Authorities Shut Down ChipMixer Platform Tied to Crypto Laundering Scheme]]></title>
+        <id>https://thehackernews.com/2023/03/authorities-shut-down-chipmixer.html</id>
+        <link href="https://thehackernews.com/2023/03/authorities-shut-down-chipmixer.html"/>
+        <updated>2023-03-16T09:46:00.000Z</updated>
+        <summary type="html"><![CDATA[A coalition of law enforcement agencies across Europe and the U.S. announced the takedown of ChipMixer, an unlicensed cryptocurrency mixer that began its operations in August 2017.
+"The ChipMixer software blocked the blockchain trail of the funds, making it attractive for cybercriminals looking to launder illegal proceeds from criminal activities such as drug trafficking, weapons trafficking,]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What's Wrong with Manufacturing?]]></title>
+        <id>https://thehackernews.com/2023/03/whats-wrong-with-manufacturing.html</id>
+        <link href="https://thehackernews.com/2023/03/whats-wrong-with-manufacturing.html"/>
+        <updated>2023-03-16T07:12:00.000Z</updated>
+        <summary type="html"><![CDATA[In last year's edition of the Security Navigator we noted that the Manufacturing Industry appeared to be totally over-represented in our dataset of Cyber Extortion victims. Neither the number of businesses nor their average revenue particularly stood out to explain this.
+Manufacturing was also the most represented Industry in our CyberSOC dataset – contributing more Incidents than any other]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Multiple Hacker Groups Exploit 3-Year-Old Vulnerability to Breach U.S. Federal Agency]]></title>
         <id>https://thehackernews.com/2023/03/multiple-hacker-groups-exploit-3-year.html</id>
@@ -5097,121 +5143,6 @@ The updates are in addition to 22 flaws the Windows maker patched in its Chrom
 Of the 75 vulnerabilities, nine are rated Critical and 66 are rated Important in severity. 37 out of 75 bugs are]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Expel Tackles Cloud Threats With MDR for Kubernetes]]></title>
-        <id>https://www.darkreading.com/dr-tech/expel-tackles-cloud-threats-with-mdr-for-kubernetes</id>
-        <link href="https://www.darkreading.com/dr-tech/expel-tackles-cloud-threats-with-mdr-for-kubernetes"/>
-        <updated>2023-02-15T01:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The new managed detection and response platform simplifies cloud security for Kubernetes applications.]]></summary>
-        <author>
-            <name>Dark Reading Staff, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OT Network Security Myths Busted in a Pair of Hacks]]></title>
-        <id>https://www.darkreading.com/ics-ot/ot-network-security-myths-busted-in-a-pair-of-hacks</id>
-        <link href="https://www.darkreading.com/ics-ot/ot-network-security-myths-busted-in-a-pair-of-hacks"/>
-        <updated>2023-02-14T22:47:00.000Z</updated>
-        <summary type="html"><![CDATA[How newly exposed security weaknesses in industrial wireless, cloud-based interfaces, and nested PLCs serve as a wake-up call for hardening the physical process control layer of the OT network.]]></summary>
-        <author>
-            <name>Kelly Jackson Higgins, Editor-in-Chief, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[9 New Microsoft Bugs to Patch Now]]></title>
-        <id>https://www.darkreading.com/endpoint/nine-new-microsoft-bugs-to-patch-now</id>
-        <link href="https://www.darkreading.com/endpoint/nine-new-microsoft-bugs-to-patch-now"/>
-        <updated>2023-02-14T22:20:00.000Z</updated>
-        <summary type="html"><![CDATA[78 new CVEs patched in this month's batch — nearly half of which are remotely executable and three of which attackers already are exploiting.]]></summary>
-        <author>
-            <name>Jai Vijayan, Contributing Writer, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Adobe Releases Security Updates for Multiple Products]]></title>
-        <id>18360 at https://us-cert.cisa.gov</id>
-        <link href="https://us-cert.cisa.gov/ncas/current-activity/2023/02/14/adobe-releases-security-updates-multiple-products"/>
-        <updated>2023-02-14T21:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Original release date: February 14, 2023
-Adobe has released security updates to address multiple vulnerabilities in Adobe software. An attacker can exploit these vulnerabilities to take control of an affected system.
-CISA encourages users and administrators to review the following Adobe Security Bulletins and apply the necessary updates.
-After Effects APSB23-02
-Connect APSB23-05
-FrameMaker APSB23-06
-Bridge APSB23-09
-Photoshop APSB23-11
-InDesign APSB23-12
- Premiere Rush APSB23-14
-Animate APSB23-15
-Substance 3D Stager APSB23-16
-This product is provided subject to this Notification and this Privacy & Use policy.]]></summary>
-        <author>
-            <name>CISA</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mozilla Releases Security Updates for Firefox 110 and Firefox ESR]]></title>
-        <id>18358 at https://us-cert.cisa.gov</id>
-        <link href="https://us-cert.cisa.gov/ncas/current-activity/2023/02/14/mozilla-releases-security-updates-firefox-110-and-firefox-esr"/>
-        <updated>2023-02-14T21:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Original release date: February 14, 2023
-Mozilla has released security updates to address vulnerabilities in Firefox 110 and Firefox ESR. An attacker could exploit these vulnerabilities to take control of an affected system.
-CISA encourages users and administrators to review Mozilla’s security advisories for Firefox 110 and Firefox ESR 102.8 for more information and apply the necessary updates.
-This product is provided subject to this Notification and this Privacy & Use policy.]]></summary>
-        <author>
-            <name>CISA</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Citrix Releases Security Updates for Workspace Apps, Virtual Apps and Desktops]]></title>
-        <id>18359 at https://us-cert.cisa.gov</id>
-        <link href="https://us-cert.cisa.gov/ncas/current-activity/2023/02/14/citrix-releases-security-updates-workspace-apps-virtual-apps-and"/>
-        <updated>2023-02-14T20:35:00.000Z</updated>
-        <summary type="html"><![CDATA[Original release date: February 14, 2023
-Citrix has released security updates to address high-severity vulnerabilities (CVE-2023-24486, CVE-2023-24484, CVE-2023-24485, and CVE-2023-24483) in Citrix Workspace Apps, Virtual Apps and Desktops. A local user could exploit these vulnerabilities to take control of an affected system.
-CISA encourages users and administrators to review Citrix security bulletins CTX477618, CTX477617, and CTX477616 for more information and to apply the necessary updates.
-This product is provided subject to this Notification and this Privacy & Use policy.]]></summary>
-        <author>
-            <name>CISA</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CISA Adds Four Known Exploited Vulnerabilities to Catalog]]></title>
-        <id>18354 at https://us-cert.cisa.gov</id>
-        <link href="https://us-cert.cisa.gov/ncas/current-activity/2023/02/14/cisa-adds-four-known-exploited-vulnerabilities-catalog"/>
-        <updated>2023-02-14T19:52:00.000Z</updated>
-        <summary type="html"><![CDATA[Original release date: February 14, 2023
-CISA has added four new vulnerabilities to its Known Exploited Vulnerabilities Catalog, based on evidence of active exploitation. These types of vulnerabilities are frequent attack vectors for malicious cyber actors and pose significant risks to the federal enterprise. Note: To view the newly added vulnerabilities in the catalog, click on the arrow in the "Date Added to Catalog" column, which will sort by descending dates.
-Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the Known Exploited Vulnerabilities Catalog as a living list of known CVEs that carry significant risk to the federal enterprise. BOD 22-01 requires FCEB agencies to remediate identified vulnerabilities by the due date to protect FCEB networks against active threats. See the BOD 22-01 Fact Sheet for more information.
-Although BOD 22-01 only applies to FCEB agencies, CISA strongly urges all organizations to reduce their exposure to cyberattacks by prioritizing timely remediation of Catalog vulnerabilities as part of their vulnerability management practice. CISA will continue to add vulnerabilities to the Catalog that meet the specified criteria.
-This product is provided subject to this Notification and this Privacy & Use policy.]]></summary>
-        <author>
-            <name>CISA</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Oakland City Services Struggle to Recover From Ransomware Attack]]></title>
-        <id>https://www.darkreading.com/attacks-breaches/oakland-city-services-struggles-to-recover-from-ransomware-attack</id>
-        <link href="https://www.darkreading.com/attacks-breaches/oakland-city-services-struggles-to-recover-from-ransomware-attack"/>
-        <updated>2023-02-14T19:50:00.000Z</updated>
-        <summary type="html"><![CDATA[Fire emergency, 911 services functioning, along with Oakland financial systems, city says.]]></summary>
-        <author>
-            <name>Dark Reading Staff, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft Releases February 2023 Security Updates]]></title>
-        <id>18357 at https://us-cert.cisa.gov</id>
-        <link href="https://us-cert.cisa.gov/ncas/current-activity/2023/02/14/microsoft-releases-february-2023-security-updates"/>
-        <updated>2023-02-14T19:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Original release date: February 14, 2023
-Microsoft has released updates to address multiple vulnerabilities in Microsoft software. An attacker can exploit some of these vulnerabilities to take control of an affected system.
-CISA encourages users and administrators to review Microsoft’s February 2023 Security Update Guide and Deployment Information and apply the necessary updates.
-This product is provided subject to this Notification and this Privacy & Use policy.]]></summary>
-        <author>
-            <name>CISA</name>
         </author>
     </entry>
 </feed>
