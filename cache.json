@@ -6,6 +6,16 @@
       "siteUrl": "https://www.cisa.gov/",
       "articles": [
         {
+          "id": "/node/17648",
+          "author": "CISA",
+          "description": "SUMMARY\nNote: this joint Cybersecurity Advisory (CSA) is part of an ongoing #StopRansomware effort to publish advisories for network defenders that detail ransomware variants and ransomware threat actors. These #StopRansomware advisories include recently and historically observed tactics, techniques, and procedures (TTPs) and indicators of compromise (IOCs) to help organizations protect against ransomware. Visit stopransomware.gov to see all #StopRansomware advisories and to learn more about other ransomware threats and no-cost resources.\nActions to take today to mitigate cyber threats from ransomware:\nPrioritize remediating known exploited vulnerabilities.\nTrain users to recognize and report phishing attempts.\nEnable and enforce phishing- resistant multifactor authentication.\nThe Federal …",
+          "link": "https://www.cisa.gov/news-events/cybersecurity-advisories/aa23-075a",
+          "publishedOn": "2023-03-15T19:20:17.000Z",
+          "wordCount": 4562,
+          "title": "#StopRansomware: LockBit 3.0",
+          "imageUrl": null
+        },
+        {
           "id": "/node/17602",
           "author": "CISA",
           "description": "SUMMARY\nFrom November 2022 through early January 2023, the Cybersecurity and Infrastructure Security Agency (CISA) and authoring organizations identified the presence of indicators of compromise (IOCs) at a federal civilian executive branch (FCEB) agency. Analysts determined that multiple cyber threat actors, including an APT actor, were able to exploit a .NET deserialization vulnerability (CVE-2019-18935) in Progress Telerik user interface (UI) for ASP.NET AJAX, located in the agency’s Microsoft Internet Information Services (IIS) web server. Successful exploitation of this vulnerability allows for remote code execution. According to Progress Software, Telerik UI for ASP.NET AJAX builds before R1 2020 (2020.1.114) are vulnerable to this exploit.[1]\nActions to take today to mitigate malici…",
@@ -62,6 +72,26 @@
       "feedUrl": "https://us-cert.cisa.gov/ncas/current-activity.xml",
       "siteUrl": "https://www.cisa.gov/",
       "articles": [
+        {
+          "id": "/node/17649",
+          "author": "CISA",
+          "description": "The Federal Bureau of Investigation (FBI), CISA, and the Multi-State Information Sharing and Analysis Center (MS-ISAC) has released a joint cybersecurity advisory (CSA), #StopRansomware: LockBit 3.0. This joint advisory details known indicators of compromise (IOCs) and tactics, techniques, and procedures (TTPs) that FBI investigations correlated with LockBit 3.0 ransomware as recently as March 2023. LockBit 3.0 functions as an affiliate-based ransomware variant and is a continuation of LockBit 2.0 and LockBit.\nCISA encourages network defenders to review and apply the recommendations in the Mitigations section of this CSA. See StopRansomware.gov for additional guidance on ransomware protection, detection, and response.",
+          "link": "https://www.cisa.gov/news-events/alerts/2023/03/16/fbi-cisa-and-ms-isac-release-stopransomware-lockbit-30",
+          "publishedOn": "2023-03-16T12:00:00.000Z",
+          "wordCount": 560,
+          "title": "FBI, CISA, and MS-ISAC Release #StopRansomware: LockBit 3.0",
+          "imageUrl": null
+        },
+        {
+          "id": "/node/17660",
+          "author": "CISA",
+          "description": "CISA released eight Industrial Control Systems (ICS) advisories on March 16, 2023. These advisories provide timely information about current security issues, vulnerabilities, and exploits surrounding ICS.  \nICSA-23-075-01 Siemens SCALANCE, RUGGEDCOM Third-Party\nICSA-23-075-02 Siemens RUGGEDCOM CROSSBOW V5.3 \nICSA-23-075-03 Siemens RUGGEDCOM CROSSBOW V5.2\nICSA-23-075-04 Siemens SCALANCE W1750D Devices\nICSA-23-075-05 Siemens Mendix SMAL Module\nICSA-23-075-06 Honeywell OneWireless Wireless Device Manager\nICSA-23-075-07 Rockwell Automation Modbus TCP AOI Server\nICSA-22-342-02 AVEVA InTouch Access Anywhere and Plant SCADA Access Anywhere (Update A)\nPlease share your thoughts. We recently updated our anonymous Product Feedback Survey and we'd welcome your feedback.",
+          "link": "https://www.cisa.gov/news-events/alerts/2023/03/16/cisa-releases-eight-industrial-control-systems-advisories",
+          "publishedOn": "2023-03-16T12:00:00.000Z",
+          "wordCount": 570,
+          "title": "CISA Releases Eight Industrial Control Systems Advisories",
+          "imageUrl": null
+        },
         {
           "id": "/node/17644",
           "author": "CISA",
@@ -160,6 +190,16 @@
           "publishedOn": "2023-03-14T19:20:49.816Z",
           "wordCount": 519,
           "title": "Untitled",
+          "imageUrl": null
+        },
+        {
+          "id": "/node/17632",
+          "author": "CISA",
+          "description": "Mozilla has released security updates to address vulnerabilities in Firefox 111, Firefox ESR 102.9, and Thunderbird 102.9. An attacker could exploit some of these vulnerabilities to take control of an affected system.\nCISA encourages users and administrators to review Mozilla’s security advisories for Firefox 111, Firefox ESR 102.9, and Thunderbird 102.9 for more information and apply the necessary updates.\nPlease share your thoughts. We recently updated our anonymous Product Feedback Survey and we'd welcome your feedback.",
+          "link": "https://www.cisa.gov/news-events/alerts/2023/03/14/mozilla-releases-security-updates-firefox-111-firefox-esr-1029-and-thunderbird-1029",
+          "publishedOn": "2023-03-14T12:00:00.000Z",
+          "wordCount": 544,
+          "title": "Mozilla Releases Security Updates for Firefox 111, Firefox ESR 102.9, and Thunderbird 102.9",
           "imageUrl": null
         },
         {
@@ -490,6 +530,76 @@
       "feedUrl": "https://www.darkreading.com/rss.xml",
       "siteUrl": "https://www.darkreading.com",
       "articles": [
+        {
+          "id": "https://www.darkreading.com/application-security/-3b-crypto-money-laundering-operation-seized-by-cops-",
+          "author": "Dark Reading Staff, Dark Reading",
+          "description": "The 'ChipMixer' cryptocurrency service for cybercriminals was shut down by law enforcement, and its alleged operator has been charged.",
+          "link": "https://www.darkreading.com/application-security/-3b-crypto-money-laundering-operation-seized-by-cops-",
+          "publishedOn": "2023-03-16T18:51:00.000Z",
+          "wordCount": 11693,
+          "title": "$3B Crypto-Mixer Money Laundering Operation Seized by Cops",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blte161b23f0fd3a84b/60b1ea374e7eb868c4c6a293/dr_staff_125x125.jpg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blte161b23f0fd3a84b/60b1ea374e7eb868c4c6a293/dr_staff_125x125.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/omdia/change-is-coming-to-the-network-detection-and-response-ndr-market",
+          "author": "Andrew Braunberg, Principal Analyst, SecOps, Omdia",
+          "description": "After years of relative stability and steady growth, Omdia research indicates the NDR segment is poised for rapid change.",
+          "link": "https://www.darkreading.com/omdia/change-is-coming-to-the-network-detection-and-response-ndr-market",
+          "publishedOn": "2023-03-16T17:00:00.000Z",
+          "wordCount": 13157,
+          "title": "Change Is Coming to the Network Detection and Response (NDR) Market",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltd5bdb2abbf9c49ff/62bb447b7c47440e14f7bb80/Braunberg_Bio_Pic.jpeg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltd5bdb2abbf9c49ff/62bb447b7c47440e14f7bb80/Braunberg_Bio_Pic.jpeg"
+        },
+        {
+          "id": "https://www.darkreading.com/risk/bianlian-ransomware-pivots-encryption-pure-data-theft-extortion",
+          "author": "Elizabeth Montalbano, Contributor, Dark Reading",
+          "description": "The ransomware group has already claimed 116 victim organizations so far on its site, and it continues to mature as a thriving cybercriminal business, researchers said.",
+          "link": "https://www.darkreading.com/risk/bianlian-ransomware-pivots-encryption-pure-data-theft-extortion",
+          "publishedOn": "2023-03-16T15:32:00.000Z",
+          "wordCount": 14429,
+          "title": "BianLian Ransomware Pivots From Encryption to Pure Data-Theft Extortion",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltbfd004d139d42d70/6303bca6236c2476a257760e/ElizabethMontalbano.jpg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltbfd004d139d42d70/6303bca6236c2476a257760e/ElizabethMontalbano.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/endpoint/rapid7-acquires-minerva-labs-to-extend-leading-managed-detection-and-response-service",
+          "author": null,
+          "description": "Minerva's robust technology and talented engineering team extend Rapid7's end-to-end managed threat detection and orchestration capabilities from the endpoint to the cloud.",
+          "link": "https://www.darkreading.com/endpoint/rapid7-acquires-minerva-labs-to-extend-leading-managed-detection-and-response-service",
+          "publishedOn": "2023-03-16T15:00:00.000Z",
+          "wordCount": 15075,
+          "title": "Rapid7 Acquires Minerva Labs to Extend Leading Managed Detection and Response Service",
+          "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/attacks-breaches/5-ways-to-fight-school-ransomware-attacks",
+          "author": "Anneka Gupta, Chief Product Officer, Rubrik",
+          "description": "The challenges are steep, but school districts can fight back with planning.",
+          "link": "https://www.darkreading.com/attacks-breaches/5-ways-to-fight-school-ransomware-attacks",
+          "publishedOn": "2023-03-16T14:00:00.000Z",
+          "wordCount": 14864,
+          "title": "5 Ways to Fight School Ransomware Attacks",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt7110d56e76bb0842/6410917af236b474997b1187/anneka_(4).jpg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt7110d56e76bb0842/6410917af236b474997b1187/anneka_(4).jpg"
+        },
         {
           "id": "https://www.darkreading.com/edge-ask-the-experts/how-do-attackers-hijack-old-domains-and-subdomains",
           "author": "Edge Editors, Dark Reading",
@@ -3806,6 +3916,16 @@
       "siteUrl": "https://blog.knowbe4.com",
       "articles": [
         {
+          "id": "https://blog.knowbe4.com/understanding-dmarc-better",
+          "author": "Roger Grimes",
+          "description": "I talk and present often about DMARC (and SPF and DKIM), including here. A lot of people who think they understand how DMARC works, do not really understand it as well as they think they do. This post is aimed to help clarify some common misunderstandings.",
+          "link": "https://blog.knowbe4.com/understanding-dmarc-better",
+          "publishedOn": "2023-03-16T14:30:19.000Z",
+          "wordCount": 3775,
+          "title": "Understanding DMARC Better",
+          "imageUrl": "https://blog.knowbe4.com/hubfs/Social%20Image%20Repository/Evangelist%20Blog%20Social%20Graphics/Evangelists-Roger%20Grimes.jpg#keepProtocol"
+        },
+        {
           "id": "https://blog.knowbe4.com/free-phishing-security-resource-kit",
           "author": "Stu Sjouwerman",
           "description": "Phishing emails increase in volume every month and every year, so we created this free resource kit to help you defend against attacks.\n \r\nRequest your kit now to learn phishing mitigation strategies, what new trends and attack vectors you need to be prepared for, and our best advice on how to protect your users and your organization.\n \r\nJavvad Malik, Lead Security Awareness Advocate at KnowBe4, explains more about why you need this kit and details on what is included:",
@@ -4452,6 +4572,38 @@
       "feedUrl": "https://thehackernews.com/feeds/posts/default",
       "siteUrl": "https://thehackernews.com",
       "articles": [
+        {
+          "id": "https://thehackernews.com/2023/03/chinese-and-russian-hackers-using.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Threat activity clusters affiliated with the Chinese and Russian cybercriminal ecosystems have been observed using a new piece of malware that's designed to load Cobalt Strike onto infected machines.\nDubbed SILKLOADER by Finnish cybersecurity company WithSecure, the malware leverages DLL side-loading techniques to deliver commercial adversary simulation software.\nThe development comes as",
+          "link": "https://thehackernews.com/2023/03/chinese-and-russian-hackers-using.html",
+          "publishedOn": "2023-03-16T15:30:00.000Z",
+          "wordCount": null,
+          "title": "Chinese and Russian Hackers Using SILKLOADER Malware to Evade Detection",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgvjx7jhnI64zGtr3mwvWZhKJesdDTGSZ-NT88iZ4YWw0uK-QNJ3kdcOpGhPu6y_JZOrhDUDQNHhgGhjQG8t-eSwnT_gP-Wnld6ynAak4YgDoG-oCz9M2bVku_O4ZuvOzRhDHfRKhgF7meOrLPKQQwTTXoQjmNhBLIT_0gh57RMSVumuSvUcbnK9ASl/s1600/cobalt.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgvjx7jhnI64zGtr3mwvWZhKJesdDTGSZ-NT88iZ4YWw0uK-QNJ3kdcOpGhPu6y_JZOrhDUDQNHhgGhjQG8t-eSwnT_gP-Wnld6ynAak4YgDoG-oCz9M2bVku_O4ZuvOzRhDHfRKhgF7meOrLPKQQwTTXoQjmNhBLIT_0gh57RMSVumuSvUcbnK9ASl/s1600/cobalt.png"
+        },
+        {
+          "id": "https://thehackernews.com/2023/03/cryptojacking-group-teamtnt-suspected.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "The cryptojacking group known as TeamTNT is suspected to be behind a previously undiscovered strain of malware used to mine Monero cryptocurrency on compromised systems.\nThat's according to Cado Security, which found the sample after Sysdig detailed a sophisticated attack known as SCARLETEEL aimed at containerized environments to ultimately steal proprietary data and software.\nSpecifically, the",
+          "link": "https://thehackernews.com/2023/03/cryptojacking-group-teamtnt-suspected.html",
+          "publishedOn": "2023-03-16T13:39:00.000Z",
+          "wordCount": null,
+          "title": "Cryptojacking Group TeamTNT Suspected of Using Decoy Miner to Conceal Data Exfiltration",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2Qb6QnUx-0NvP_-MNsNMIf2-NxyyGi9vTft5Rtw5I-KSOPbzDStPyOe1KMx92M5O3gmXOAqZ7M7Sojqfh2-JW5opd6-BRnKYZFqj8cvFIrwZrmL6qVQ3hZx6H7Zqtipyg-qLk-nEeUqghLw_MMRHA4aM10dabX-Ia_KZIKXB6O4OUIobzH_wy47Ox/s1600/hacking.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2Qb6QnUx-0NvP_-MNsNMIf2-NxyyGi9vTft5Rtw5I-KSOPbzDStPyOe1KMx92M5O3gmXOAqZ7M7Sojqfh2-JW5opd6-BRnKYZFqj8cvFIrwZrmL6qVQ3hZx6H7Zqtipyg-qLk-nEeUqghLw_MMRHA4aM10dabX-Ia_KZIKXB6O4OUIobzH_wy47Ox/s1600/hacking.png"
+        },
         {
           "id": "https://thehackernews.com/2023/03/authorities-shut-down-chipmixer.html",
           "author": "info@thehackernews.com (The Hacker News)",
@@ -6467,22 +6619,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgeQrz4riQCcmHTQ2DXxTtf1_zIDvkucO6u_h_uiiRMUvS8SzZPE2ibx7ON7kNMordG6YVVPDUBbi7hU1Px6lUY_HDDc544_RDAjW9OeukkEpA5lfX0cg1T9x_nQq2ORKz_7qAxJdBliRYUgc7DCM_mx6DfwuoBfMAdlw3pZllz33xEYp1EFnZMsbQK/s1600/privacy-sandbox.png"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgeQrz4riQCcmHTQ2DXxTtf1_zIDvkucO6u_h_uiiRMUvS8SzZPE2ibx7ON7kNMordG6YVVPDUBbi7hU1Px6lUY_HDDc544_RDAjW9OeukkEpA5lfX0cg1T9x_nQq2ORKz_7qAxJdBliRYUgc7DCM_mx6DfwuoBfMAdlw3pZllz33xEYp1EFnZMsbQK/s1600/privacy-sandbox.png"
-        },
-        {
-          "id": "https://thehackernews.com/2023/02/update-now-microsoft-releases-patches.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Microsoft on Tuesday released security updates to address 75 flaws spanning its product portfolio, three of which have come under active exploitation in the wild.\nThe updates are in addition to 22 flaws the Windows maker patched in its Chromium-based Edge browser over the past month.\nOf the 75 vulnerabilities, nine are rated Critical and 66 are rated Important in severity. 37 out of 75 bugs are",
-          "link": "https://thehackernews.com/2023/02/update-now-microsoft-releases-patches.html",
-          "publishedOn": "2023-02-15T04:21:00.000Z",
-          "wordCount": null,
-          "title": "Update Now: Microsoft Releases Patches for 3 Actively Exploited Windows Vulnerabilities",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhJcMd3_5v9AfJeccyNG75bWutsql3ZWUQopaddjFIniiwaHARP25cBu8hBIZVDJUIqPwdaIHPb7rSEvso0ThjD0TRU4MY2SHxjiVunEhFrlGstBY93fIcrVAr2SyU3lrCvFnaVvNPPA3mJM1cncQcVYJnaDqM2KEb4WvCFQ7qcZ9G10xetXKZcG63C/s1600/ms.png"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhJcMd3_5v9AfJeccyNG75bWutsql3ZWUQopaddjFIniiwaHARP25cBu8hBIZVDJUIqPwdaIHPb7rSEvso0ThjD0TRU4MY2SHxjiVunEhFrlGstBY93fIcrVAr2SyU3lrCvFnaVvNPPA3mJM1cncQcVYJnaDqM2KEb4WvCFQ7qcZ9G10xetXKZcG63C/s1600/ms.png"
         }
       ]
     }
