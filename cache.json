@@ -491,26 +491,6 @@
           "wordCount": 957,
           "title": "Microsoft Releases February 2023 Security Updates",
           "imageUrl": null
-        },
-        {
-          "id": "18356 at https://us-cert.cisa.gov",
-          "author": "CISA",
-          "description": "Original release date: February 14, 2023\nApple has released security updates to address vulnerabilities in multiple products. An attacker could exploit these vulnerabilities to take control of an affected device.\nCISA encourages users and administrators to review the Apple security updates page for the following products and apply the necessary updates as soon as possible:\nSafari 16.3.1\niOS 16.3.1 and iPadOS 16.3.1\nmacOS 13.2.1\nThis product is provided subject to this Notification and this Privacy & Use policy.",
-          "link": "https://us-cert.cisa.gov/ncas/current-activity/2023/02/14/apple-releases-security-updates-multiple-products",
-          "publishedOn": "2023-02-14T15:28:45.000Z",
-          "wordCount": 974,
-          "title": "Apple Releases Security Updates for Multiple Products",
-          "imageUrl": null
-        },
-        {
-          "id": "18355 at https://us-cert.cisa.gov",
-          "author": "CISA",
-          "description": "Original release date: February 14, 2023\nCISA released one Industrial Control Systems (ICS) advisory on February 14, 2023. This advisory provides timely information about current security issues, vulnerabilities, and exploits surrounding ICS.\nCISA encourages users and administrators to review the newly released ICS advisory for technical details and mitigations:\nICSA-23-045-01 Weintek EasyBuilder Pro cMT Series\nThis product is provided subject to this Notification and this Privacy & Use policy.",
-          "link": "https://us-cert.cisa.gov/ncas/current-activity/2023/02/14/cisa-releases-one-industrial-control-systems-advisory",
-          "publishedOn": "2023-02-14T15:15:00.000Z",
-          "wordCount": 962,
-          "title": "CISA Releases One Industrial Control Systems Advisory",
-          "imageUrl": null
         }
       ]
     },
@@ -560,6 +540,21 @@
       "feedUrl": "https://www.darkreading.com/rss.xml",
       "siteUrl": "https://www.darkreading.com",
       "articles": [
+        {
+          "id": "https://www.darkreading.com/edge-ask-the-experts/how-do-attackers-hijack-old-domains-and-subdomains",
+          "author": "Edge Editors, Dark Reading",
+          "description": "Here is a cautionary tale of what happens if side-projects or sections of the website becomes obsolete. If you don't remove them, someone might hijack your subdomain.",
+          "link": "https://www.darkreading.com/edge-ask-the-experts/how-do-attackers-hijack-old-domains-and-subdomains",
+          "publishedOn": "2023-03-16T01:00:00.000Z",
+          "wordCount": 11123,
+          "title": "How Do Attackers Hijack Old Domains and Subdomains?",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltbeb30fde8ec73a32/60d4432c2446e93b5b5a0e0c/Edge-Editors.png",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltbeb30fde8ec73a32/60d4432c2446e93b5b5a0e0c/Edge-Editors.png"
+        },
         {
           "id": "https://www.darkreading.com/cloud/hornetsecurity-launches-vm-backup-v9",
           "author": null,
@@ -3839,116 +3834,6 @@
             "length": "0"
           },
           "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blte161b23f0fd3a84b/60b1ea374e7eb868c4c6a293/dr_staff_125x125.jpg"
-        },
-        {
-          "id": "https://www.darkreading.com/endpoint/configuration-issues-in-saltstack-put-enterprises-at-risk",
-          "author": "Elizabeth Montalbano, Contributor, Dark Reading",
-          "description": "Researchers flag common misconfiguration errors and a template injection technique that could let an attacker take over the IT management network and connected systems.",
-          "link": "https://www.darkreading.com/endpoint/configuration-issues-in-saltstack-put-enterprises-at-risk",
-          "publishedOn": "2023-02-14T19:08:00.000Z",
-          "wordCount": 12433,
-          "title": "Configuration Issues in SaltStack IT Tool Put Enterprises at Risk",
-          "enclosure": {
-            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltbfd004d139d42d70/6303bca6236c2476a257760e/ElizabethMontalbano.jpg",
-            "type": "image/*",
-            "length": "0"
-          },
-          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltbfd004d139d42d70/6303bca6236c2476a257760e/ElizabethMontalbano.jpg"
-        },
-        {
-          "id": "https://www.darkreading.com/attacks-breaches/hospitals-sued-for-using-facebook-ad-tracking-code-violating-hippa",
-          "author": "Dark Reading Staff, Dark Reading",
-          "description": "Lawsuits say hospitals using Meta Pixel code violated patient privacy — sharing conditions, medications, and more with Facebook.",
-          "link": "https://www.darkreading.com/attacks-breaches/hospitals-sued-for-using-facebook-ad-tracking-code-violating-hippa",
-          "publishedOn": "2023-02-14T18:59:00.000Z",
-          "wordCount": 10241,
-          "title": "Hospitals Sued for Using Meta's Ad-Tracking Code, Violating HIPAA",
-          "enclosure": {
-            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blte161b23f0fd3a84b/60b1ea374e7eb868c4c6a293/dr_staff_125x125.jpg",
-            "type": "image/*",
-            "length": "0"
-          },
-          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blte161b23f0fd3a84b/60b1ea374e7eb868c4c6a293/dr_staff_125x125.jpg"
-        },
-        {
-          "id": "https://www.darkreading.com/risk/why-secdataops-is-the-future-of-your-security-program",
-          "author": "Jonathan Rau, CISO, Lightspin",
-          "description": "The goal: Ensure that data is always finely curated and accessible, and that security decisions get made with high-fidelity data.",
-          "link": "https://www.darkreading.com/risk/why-secdataops-is-the-future-of-your-security-program",
-          "publishedOn": "2023-02-14T18:00:00.000Z",
-          "wordCount": 12483,
-          "title": "Why SecDataOps Is the Future of Your Security Program",
-          "enclosure": {
-            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt3b296baaaaccbc2a/61bbb7b4ac124d4b2e71583a/WriterDefault_vladwel_Adobe.jpg",
-            "type": "image/*",
-            "length": "0"
-          },
-          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt3b296baaaaccbc2a/61bbb7b4ac124d4b2e71583a/WriterDefault_vladwel_Adobe.jpg"
-        },
-        {
-          "id": "https://www.darkreading.com/operations/vaultree-appoints-technology-industry-veteran-rinki-sethi-to-its-board-of-directors",
-          "author": null,
-          "description": "",
-          "link": "https://www.darkreading.com/operations/vaultree-appoints-technology-industry-veteran-rinki-sethi-to-its-board-of-directors",
-          "publishedOn": "2023-02-14T16:25:00.000Z",
-          "wordCount": 11523,
-          "title": "Vaultree Appoints Technology Industry Veteran Rinki Sethi to Its Board of Directors",
-          "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
-        },
-        {
-          "id": "https://www.darkreading.com/ics-ot/cyber-physical-systems-vulnerability-disclosures-reach-peak-while-disclosures-by-internal-teams-increase-80-over-18-months",
-          "author": null,
-          "description": "State of XIoT Security Report: 2H 2022 from Claroty's Team82 reveals positive impact by researchers on strengthening XIoT security and increased investment among XIoT vendors in securing their products.",
-          "link": "https://www.darkreading.com/ics-ot/cyber-physical-systems-vulnerability-disclosures-reach-peak-while-disclosures-by-internal-teams-increase-80-over-18-months",
-          "publishedOn": "2023-02-14T16:00:00.000Z",
-          "wordCount": 12048,
-          "title": "Cyber-Physical Systems Vulnerability Disclosures Reach Peak, While Disclosures by Internal Teams Increase 80% Over 18 Months",
-          "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
-        },
-        {
-          "id": "https://www.darkreading.com/endpoint/ping-identity-and-deloitte-forge-alliance-to-give-organizations-advanced-identity-and-access-solutions",
-          "author": null,
-          "description": "",
-          "link": "https://www.darkreading.com/endpoint/ping-identity-and-deloitte-forge-alliance-to-give-organizations-advanced-identity-and-access-solutions",
-          "publishedOn": "2023-02-14T15:38:00.000Z",
-          "wordCount": 11235,
-          "title": "Ping Identity and Deloitte Forge Alliance to Give Organizations Advanced Identity and Access Solutions",
-          "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
-        },
-        {
-          "id": "https://www.darkreading.com/threat-intelligence/threatconnect-closes-2022-with-accelerated-growth-in-threat-intelligence-operations-ti-ops-",
-          "author": null,
-          "description": "",
-          "link": "https://www.darkreading.com/threat-intelligence/threatconnect-closes-2022-with-accelerated-growth-in-threat-intelligence-operations-ti-ops-",
-          "publishedOn": "2023-02-14T15:27:00.000Z",
-          "wordCount": 13443,
-          "title": "ThreatConnect Closes 2022 with Accelerated Growth in Threat Intelligence Operations (TI Ops)",
-          "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
-        },
-        {
-          "id": "https://www.darkreading.com/ics-ot/synsaber-launches-a-free-ot-pcap-analyzer-tool-for-the-industrial-security-community",
-          "author": null,
-          "description": "",
-          "link": "https://www.darkreading.com/ics-ot/synsaber-launches-a-free-ot-pcap-analyzer-tool-for-the-industrial-security-community",
-          "publishedOn": "2023-02-14T15:10:00.000Z",
-          "wordCount": 10800,
-          "title": "SynSaber Launches a Free OT PCAP Analyzer Tool for the Industrial Security Community",
-          "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
-        },
-        {
-          "id": "https://www.darkreading.com/risk/lessons-all-industries-can-learn-from-automotive-security",
-          "author": "Sergej Dechand, CEO and Co-Founder, Code Intelligence",
-          "description": "Industry standards must evolve as digital transformation makes all companies software companies. Security testing boosts development speed and software quality.",
-          "link": "https://www.darkreading.com/risk/lessons-all-industries-can-learn-from-automotive-security",
-          "publishedOn": "2023-02-14T15:00:00.000Z",
-          "wordCount": 13080,
-          "title": "Lessons All Industries Can Learn From Automotive Security",
-          "enclosure": {
-            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt4e3c684e8c80c109/63e6780fe889cb769badf7d2/Sergej_Dechand_©Sandra_Then.jpg",
-            "type": "image/*",
-            "length": "0"
-          },
-          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt4e3c684e8c80c109/63e6780fe889cb769badf7d2/Sergej_Dechand_%C2%A9Sandra_Then.jpg"
         }
       ]
     },
@@ -4657,6 +4542,38 @@
       "feedUrl": "https://thehackernews.com/feeds/posts/default",
       "siteUrl": "https://thehackernews.com",
       "articles": [
+        {
+          "id": "https://thehackernews.com/2023/03/multiple-hacker-groups-exploit-3-year.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Multiple threat actors, including a nation-state group, exploited a critical three-year-old security flaw in Progress Telerik to break into an unnamed federal entity in the U.S.\nThe disclosure comes from a joint advisory issued by the Cybersecurity and Infrastructure Security Agency (CISA), Federal Bureau of Investigation (FBI), and Multi-State Information Sharing and Analysis Center (MS-ISAC).",
+          "link": "https://thehackernews.com/2023/03/multiple-hacker-groups-exploit-3-year.html",
+          "publishedOn": "2023-03-16T06:34:00.000Z",
+          "wordCount": null,
+          "title": "Multiple Hacker Groups Exploit 3-Year-Old Vulnerability to Breach U.S. Federal Agency",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEitNpFZ-FwCLnE7wwqvAOi4PyjoaRJ-Soa_w01roGQa-eaSzW5BQiT1c4LSlmx5ikxEyb8Qm8WX8h5rdLlu_DfGU-HSH4oaEyP5ZPYybWyhrmfd8zdzYilp4sKiCs_bnPNbrWchF9X7a8Fa0pVLrRSTt6NnQxAPzGh-Tm0V1HnAudhCzMfxVVmsNSXs/s1600/united.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEitNpFZ-FwCLnE7wwqvAOi4PyjoaRJ-Soa_w01roGQa-eaSzW5BQiT1c4LSlmx5ikxEyb8Qm8WX8h5rdLlu_DfGU-HSH4oaEyP5ZPYybWyhrmfd8zdzYilp4sKiCs_bnPNbrWchF9X7a8Fa0pVLrRSTt6NnQxAPzGh-Tm0V1HnAudhCzMfxVVmsNSXs/s1600/united.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2023/03/cisa-issues-urgent-warning-adobe.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on March 15 added a security vulnerability impacting Adobe ColdFusion to its Known Exploited Vulnerabilities (KEV) catalog, based on evidence of active exploitation.\nThe critical flaw in question is CVE-2023-26360 (CVSS score: 8.6), which could be exploited by a threat actor to achieve arbitrary code execution.\n\"Adobe ColdFusion",
+          "link": "https://thehackernews.com/2023/03/cisa-issues-urgent-warning-adobe.html",
+          "publishedOn": "2023-03-16T04:47:00.000Z",
+          "wordCount": null,
+          "title": "CISA Issues Urgent Warning: Adobe ColdFusion Vulnerability Exploited in the Wild",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjg8T1EAux0KjF2qw7H0gjPvv33p8vffhuoidvlZzQAXU8bJN3Nq5k5bM0kcjuLxKZop93NztZC75oLL4gBZQ0esCjwHeIfb7ItaCyRCe-DegY_7roFlj_V-9jA86hVciMrc8cTkPflp9xUYKw04ig9pO6BNhbFWAf5hCt6clL2R4eWcm80nFGB9SsD/s1600/alert.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjg8T1EAux0KjF2qw7H0gjPvv33p8vffhuoidvlZzQAXU8bJN3Nq5k5bM0kcjuLxKZop93NztZC75oLL4gBZQ0esCjwHeIfb7ItaCyRCe-DegY_7roFlj_V-9jA86hVciMrc8cTkPflp9xUYKw04ig9pO6BNhbFWAf5hCt6clL2R4eWcm80nFGB9SsD/s1600/alert.png"
+        },
         {
           "id": "https://thehackernews.com/2023/03/yorotrooper-stealing-credentials-and.html",
           "author": "info@thehackernews.com (The Hacker News)",
@@ -6624,22 +6541,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhJcMd3_5v9AfJeccyNG75bWutsql3ZWUQopaddjFIniiwaHARP25cBu8hBIZVDJUIqPwdaIHPb7rSEvso0ThjD0TRU4MY2SHxjiVunEhFrlGstBY93fIcrVAr2SyU3lrCvFnaVvNPPA3mJM1cncQcVYJnaDqM2KEb4WvCFQ7qcZ9G10xetXKZcG63C/s1600/ms.png"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhJcMd3_5v9AfJeccyNG75bWutsql3ZWUQopaddjFIniiwaHARP25cBu8hBIZVDJUIqPwdaIHPb7rSEvso0ThjD0TRU4MY2SHxjiVunEhFrlGstBY93fIcrVAr2SyU3lrCvFnaVvNPPA3mJM1cncQcVYJnaDqM2KEb4WvCFQ7qcZ9G10xetXKZcG63C/s1600/ms.png"
-        },
-        {
-          "id": "https://thehackernews.com/2023/02/massive-adsense-fraud-campaign.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "The threat actors behind the black hat redirect malware campaign have scaled up their campaign to use more than 70 bogus domains mimicking URL shorteners and infected over 10,800 websites.\n\"The main objective is still ad fraud by artificially increasing traffic to pages which contain the AdSense ID which contain Google ads for revenue generation,\" Sucuri researcher Ben Martin said in a report",
-          "link": "https://thehackernews.com/2023/02/massive-adsense-fraud-campaign.html",
-          "publishedOn": "2023-02-14T16:51:00.000Z",
-          "wordCount": null,
-          "title": "Massive AdSense Fraud Campaign Uncovered - 10,000+ WordPress Sites Infected",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzA0LBEdEjtGAgIbWli10Xo1ncBXUjcXU9O_uVlbl5r0YFm-cPo80jOkbRAF1kUYbRi3lJLtGXYsOCMrTbduv0fi-geo_VzbSSO6xTboj9vS6CxAnpm2UwiWwDEuDaxbqlokNfpIinI7GXuDAmRfTLhKgUV09PUYr6VXB4U0eQfmc1fbHZYzG5QCA-/s1600/WordPress.png"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzA0LBEdEjtGAgIbWli10Xo1ncBXUjcXU9O_uVlbl5r0YFm-cPo80jOkbRAF1kUYbRi3lJLtGXYsOCMrTbduv0fi-geo_VzbSSO6xTboj9vS6CxAnpm2UwiWwDEuDaxbqlokNfpIinI7GXuDAmRfTLhKgUV09PUYr6VXB4U0eQfmc1fbHZYzG5QCA-/s1600/WordPress.png"
         }
       ]
     }
