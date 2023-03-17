@@ -2,10 +2,55 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-03-17T07:18:34.009Z</updated>
+    <updated>2023-03-17T13:26:05.678Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[THN Webinar: 3 Research-Backed Ways to Secure Your Identity Perimeter]]></title>
+        <id>https://thehackernews.com/2023/03/thn-webinar-3-research-backed-ways-to.html</id>
+        <link href="https://thehackernews.com/2023/03/thn-webinar-3-research-backed-ways-to.html"/>
+        <updated>2023-03-17T12:11:00.000Z</updated>
+        <summary type="html"><![CDATA[Think of the typical portrayal of a cyberattack. Bad guy pounding furiously on a keyboard, his eyes peeking out from under a dark hoodie. At long last, his efforts pay off and he hits the right combination of keys. "I'm in!" he shouts in triumph.
+Clearly, there are many problems with this scenario – and it's not just the hoodie. What's even more inaccurate is that most cyber attackers today do]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New GoLang-Based HinataBot Exploiting Router and Server Flaws for DDoS Attacks]]></title>
+        <id>https://thehackernews.com/2023/03/new-golang-based-hinatabot-exploiting.html</id>
+        <link href="https://thehackernews.com/2023/03/new-golang-based-hinatabot-exploiting.html"/>
+        <updated>2023-03-17T12:07:00.000Z</updated>
+        <summary type="html"><![CDATA[A new Golang-based botnet dubbed HinataBot has been observed to leverage known flaws to compromise routers and servers and use them to stage distributed denial-of-service (DDoS) attacks.
+"The malware binaries appear to have been named by the malware author after a character from the popular anime series, Naruto, with file name structures such as 'Hinata--,'" Akamai said in a]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A New Security Category Addresses Web-borne Threats]]></title>
+        <id>https://thehackernews.com/2023/03/a-new-security-category-addresses-web.html</id>
+        <link href="https://thehackernews.com/2023/03/a-new-security-category-addresses-web.html"/>
+        <updated>2023-03-17T10:46:00.000Z</updated>
+        <summary type="html"><![CDATA[In the modern corporate IT environment, which relies on cloud connectivity, global connections and large volumes of data, the browser is now the most important work interface. The browser connects employees to managed resources, devices to the web, and the on-prem environment to the cloud one.
+Yet, and probably unsurprisingly, this browser prominence has significantly increased the number of]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lookalike Telegram and WhatsApp Websites Distributing Cryptocurrency Stealing Malware]]></title>
+        <id>https://thehackernews.com/2023/03/lookalike-telegram-and-whatsapp.html</id>
+        <link href="https://thehackernews.com/2023/03/lookalike-telegram-and-whatsapp.html"/>
+        <updated>2023-03-17T10:22:00.000Z</updated>
+        <summary type="html"><![CDATA[Copycat websites for instant messaging apps like Telegram and WhatApp are being used to distribute trojanized versions and infect Android and Windows users with cryptocurrency clipper malware.
+"All of them are after victims' cryptocurrency funds, with several targeting cryptocurrency wallets," ESET researchers Lukáš Štefanko and Peter Strýček said in a new analysis.
+While the first instance of]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Winter Vivern APT Group Targeting Indian, Lithuanian, Slovakian, and Vatican Officials]]></title>
         <id>https://thehackernews.com/2023/03/winter-vivern-apt-group-targeting.html</id>
@@ -5010,86 +5055,6 @@ The findings come from attack surface management firm Censys, which discovere
         <summary type="html"><![CDATA[Developers don't have to build authentication and user management from scratch, and can devote their energies to the core functions of the application, instead.]]></summary>
         <author>
             <name>Fahmida Y. Rashid, Managing Editor, Features, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Oligo Security Takes Aim at Open Source Vulnerabilities]]></title>
-        <id>https://www.darkreading.com/dr-tech/oligo-security-takes-aim-at-open-source-vulnerabilities</id>
-        <link href="https://www.darkreading.com/dr-tech/oligo-security-takes-aim-at-open-source-vulnerabilities"/>
-        <updated>2023-02-16T01:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The startup's software helps organizations secure their containers in the cloud by teasing out which packages are running and which are vulnerable.]]></summary>
-        <author>
-            <name>Dark Reading Staff, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ChatGPT Subs In as Security Analyst, Hallucinates Only Occasionally]]></title>
-        <id>https://www.darkreading.com/analytics/chatgpt-subs-security-analyst-hallucinates-occasionally</id>
-        <link href="https://www.darkreading.com/analytics/chatgpt-subs-security-analyst-hallucinates-occasionally"/>
-        <updated>2023-02-15T22:50:00.000Z</updated>
-        <summary type="html"><![CDATA[Incident response triage and software vulnerability discovery are two areas where the large language model has demonstrated success, although false positives are common.]]></summary>
-        <author>
-            <name>Robert Lemos, Contributing Writer, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Security Awareness: The Top Trend of 2023]]></title>
-        <id>https://blog.knowbe4.com/security-awareness-the-top-trend-of-2023</id>
-        <link href="https://blog.knowbe4.com/security-awareness-the-top-trend-of-2023"/>
-        <updated>2023-02-15T21:31:58.000Z</updated>
-        <summary type="html"><![CDATA[The Dutch organization Supply Value (a specialist in network optimalisation) together with the website Computable, published an article on their annual research into the top trends in IT for 2023.]]></summary>
-        <author>
-            <name>Jelle Wieringa</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Brivo Reveals Top Security Trends for 2023: Convenience Is King in Securing the Hybrid Workplaces of the Future]]></title>
-        <id>https://www.darkreading.com/remote-workforce/brivo-reveals-top-security-trends-for-2023-convenience-is-king-in-securing-the-hybrid-workplaces-of-the-future</id>
-        <link href="https://www.darkreading.com/remote-workforce/brivo-reveals-top-security-trends-for-2023-convenience-is-king-in-securing-the-hybrid-workplaces-of-the-future"/>
-        <updated>2023-02-15T20:47:00.000Z</updated>
-        <summary type="html"><![CDATA[Factoring user experience and convenience into how employees and tenants access buildings is top concern for security professionals says benchmark industry survey.]]></summary>
-        <author>
-            <name>Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Call for Speakers Now Open for the RH-ISAC Cyber Intelligence Summit]]></title>
-        <id>https://www.darkreading.com/threat-intelligence/call-for-speakers-now-open-for-the-rh-isac-cyber-intelligence-summit</id>
-        <link href="https://www.darkreading.com/threat-intelligence/call-for-speakers-now-open-for-the-rh-isac-cyber-intelligence-summit"/>
-        <updated>2023-02-15T20:45:00.000Z</updated>
-        <summary type="html"><![CDATA[Retail & Hospitality ISAC invites industry leaders, experts, and innovators to submit proposals for presentations and panel discussions.]]></summary>
-        <author>
-            <name>Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GAO Calls for Improved Data Privacy Protections]]></title>
-        <id>https://www.darkreading.com/application-security/gao-calls-for-improved-data-privacy-protections-</id>
-        <link href="https://www.darkreading.com/application-security/gao-calls-for-improved-data-privacy-protections-"/>
-        <updated>2023-02-15T20:18:00.000Z</updated>
-        <summary type="html"><![CDATA[US federal watchdog agency outlines key measures for better protecting sensitive data under the federal government's control.]]></summary>
-        <author>
-            <name>Dark Reading Staff, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2023 Is the Year of Risk: 5 Ways to Prepare]]></title>
-        <id>https://www.darkreading.com/risk/2023-is-the-year-of-risk-5-ways-to-prepare</id>
-        <link href="https://www.darkreading.com/risk/2023-is-the-year-of-risk-5-ways-to-prepare"/>
-        <updated>2023-02-15T20:00:00.000Z</updated>
-        <summary type="html"><![CDATA[2022 saw a record number of cyberattacks. In response, regulators are prescribing how companies should manage their risks. How do you prepare?]]></summary>
-        <author>
-            <name>Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[3 Ways CISOs Can Lead Effectively and Avoid Burnout]]></title>
-        <id>https://www.darkreading.com/edge-articles/3-ways-cisos-can-lead-effectively-and-avoid-burnout</id>
-        <link href="https://www.darkreading.com/edge-articles/3-ways-cisos-can-lead-effectively-and-avoid-burnout"/>
-        <updated>2023-02-15T19:55:00.000Z</updated>
-        <summary type="html"><![CDATA[Information security is a high-stakes field with sky-high expectations. Here's how CISOs can offset the pressures and stay healthy.]]></summary>
-        <author>
-            <name>Steve Shelton, CEO, Green Shoe Consulting</name>
         </author>
     </entry>
 </feed>
