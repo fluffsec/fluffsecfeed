@@ -2,10 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-03-17T02:13:31.379Z</updated>
+    <updated>2023-03-17T07:18:34.009Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Winter Vivern APT Group Targeting Indian, Lithuanian, Slovakian, and Vatican Officials]]></title>
+        <id>https://thehackernews.com/2023/03/winter-vivern-apt-group-targeting.html</id>
+        <link href="https://thehackernews.com/2023/03/winter-vivern-apt-group-targeting.html"/>
+        <updated>2023-03-17T07:06:00.000Z</updated>
+        <summary type="html"><![CDATA[The advanced persistent threat known as Winter Vivern has been linked to campaigns targeting government officials in India, Lithuania, Slovakia, and the Vatican since 2021.
+The activity targeted Polish government agencies, the Ukraine Ministry of Foreign Affairs, the Italy Ministry of Foreign Affairs, and individuals within the Indian government, SentinelOne said in a report shared with The]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google Uncovers 18 Severe Security Vulnerabilities in Samsung Exynos Chips]]></title>
+        <id>https://thehackernews.com/2023/03/google-uncovers-18-severe-security.html</id>
+        <link href="https://thehackernews.com/2023/03/google-uncovers-18-severe-security.html"/>
+        <updated>2023-03-17T06:53:00.000Z</updated>
+        <summary type="html"><![CDATA[Google is calling attention to a set of severe security flaws in Samsung's Exynos chips, some of which could be exploited remotely to completely compromise a phone without requiring any user interaction.
+The 18 zero-day vulnerabilities affect a wide range of Android smartphones from Samsung, Vivo, Google, wearables using the Exynos W920 chipset, and vehicles equipped with the Exynos Auto T5123]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Leveraging Behavioral Analysis to Catch Living-Off-the-Land Attacks]]></title>
         <id>https://www.darkreading.com/attacks-breaches/leveraging-behavioral-analysis-to-catch-living-off-the-land-attacks</id>
@@ -5068,114 +5090,6 @@ The findings come from attack surface management firm Censys, which discovere
         <summary type="html"><![CDATA[Information security is a high-stakes field with sky-high expectations. Here's how CISOs can offset the pressures and stay healthy.]]></summary>
         <author>
             <name>Steve Shelton, CEO, Green Shoe Consulting</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What Purple Teams Wish Companies Knew]]></title>
-        <id>https://www.darkreading.com/risk/what-purple-teams-wish-companies-knew</id>
-        <link href="https://www.darkreading.com/risk/what-purple-teams-wish-companies-knew"/>
-        <updated>2023-02-15T19:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Here are some of the easily avoidable mistakes most companies made last year, gleaned from hundreds of cybersecurity engagements by red and blue teams.]]></summary>
-        <author>
-            <name>Dark Reading Staff, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Build Cyber Resiliency With These Security Threat-Mitigation Considerations]]></title>
-        <id>https://www.darkreading.com/vulnerabilities-threats/build-cyber-resiliency-with-these-security-threat-mitigation-considerations-</id>
-        <link href="https://www.darkreading.com/vulnerabilities-threats/build-cyber-resiliency-with-these-security-threat-mitigation-considerations-"/>
-        <updated>2023-02-15T18:00:00.000Z</updated>
-        <summary type="html"><![CDATA[CISOs need to define their risk tolerance, identify specific critical data, and make changes based on strategic business goals.]]></summary>
-        <author>
-            <name>Steve Durbin, CEO, Information Security Forum</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[IGEL Unveils COSMOS, the Unified End User Computing Platform for Secure, Managed Access to Any Cloud Workspace]]></title>
-        <id>https://www.darkreading.com/cloud/igel-unveils-cosmos-the-unified-end-user-computing-platform-for-secure-managed-access-to-any-cloud-workspace</id>
-        <link href="https://www.darkreading.com/cloud/igel-unveils-cosmos-the-unified-end-user-computing-platform-for-secure-managed-access-to-any-cloud-workspace"/>
-        <updated>2023-02-15T17:05:00.000Z</updated>
-        <author>
-            <name>Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Report Reveals Record-Breaking Year for Cyber Threats]]></title>
-        <id>https://www.darkreading.com/attacks-breaches/report-reveals-record-breaking-year-for-cyber-threats</id>
-        <link href="https://www.darkreading.com/attacks-breaches/report-reveals-record-breaking-year-for-cyber-threats"/>
-        <updated>2023-02-15T16:40:00.000Z</updated>
-        <author>
-            <name>Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[5th State of CCPA, CPRA, and GDPR Compliance Report Shows More Than 90% of Companies Are Not Compliant]]></title>
-        <id>https://www.darkreading.com/risk/5th-state-of-ccpa-cpra-and-gdpr-compliance-report-shows-more-than-90-of-companies-are-not-compliant</id>
-        <link href="https://www.darkreading.com/risk/5th-state-of-ccpa-cpra-and-gdpr-compliance-report-shows-more-than-90-of-companies-are-not-compliant"/>
-        <updated>2023-02-15T16:21:00.000Z</updated>
-        <summary type="html"><![CDATA[As CPRA went into effect on January 1, latest CYTRIO research says 91% of companies still uncompliant with GDPR; 92% not compliant with CCPA and CPRA.]]></summary>
-        <author>
-            <name>Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[1898 & Co Launches New Cybersecurity Service for Critical Infrastructure]]></title>
-        <id>https://www.darkreading.com/ics-ot/1898-co-launches-new-cybersecurity-service-for-critical-infrastructure-</id>
-        <link href="https://www.darkreading.com/ics-ot/1898-co-launches-new-cybersecurity-service-for-critical-infrastructure-"/>
-        <updated>2023-02-15T16:00:00.000Z</updated>
-        <author>
-            <name>Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NIST's New Crypto Standard a Step Forward in IoT Security]]></title>
-        <id>https://www.darkreading.com/ics-ot/nists-new-crypto-standard-a-step-forward-in-iot-security</id>
-        <link href="https://www.darkreading.com/ics-ot/nists-new-crypto-standard-a-step-forward-in-iot-security"/>
-        <updated>2023-02-15T15:30:09.000Z</updated>
-        <summary type="html"><![CDATA[The National Institute of Standards and Technology has settled on a standard for encrypting Internet of Things (IoT) communications, but many devices remain vulnerable and unpatched.]]></summary>
-        <author>
-            <name>Robert Lemos, Contributing Writer, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[INFOGRAPHIC] 9 Cognitive Biases Hackers Exploit the Most]]></title>
-        <id>https://blog.knowbe4.com/infographic-9-cognitive-biases-hackers-exploit</id>
-        <link href="https://blog.knowbe4.com/infographic-9-cognitive-biases-hackers-exploit"/>
-        <updated>2023-02-15T15:18:50.000Z</updated>
-        <summary type="html"><![CDATA[Cybersecurity is not just a technological challenge, but increasingly a social and behavioral one.]]></summary>
-        <author>
-            <name>Stu Sjouwerman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Security Teams Can Protect Employees Beyond Corporate Walls]]></title>
-        <id>https://www.darkreading.com/vulnerabilities-threats/how-security-teams-can-protect-employees-beyond-corporate-walls</id>
-        <link href="https://www.darkreading.com/vulnerabilities-threats/how-security-teams-can-protect-employees-beyond-corporate-walls"/>
-        <updated>2023-02-15T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[De-shaming security mistakes and taking the blame and punishment out of incident reporting can strengthen security efforts both inside and outside of the workplace.]]></summary>
-        <author>
-            <name>Josh Yavor, CISO, Tessian</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[North Korea's APT37 Targeting Southern Counterpart with New M2RAT Malware]]></title>
-        <id>https://thehackernews.com/2023/02/north-koreas-apt37-targeting-southern.html</id>
-        <link href="https://thehackernews.com/2023/02/north-koreas-apt37-targeting-southern.html"/>
-        <updated>2023-02-15T14:59:00.000Z</updated>
-        <summary type="html"><![CDATA[The North Korea-linked threat actor tracked as APT37 has been linked to a piece of new malware dubbed M2RAT in attacks targeting its southern counterpart, suggesting continued evolution of the group's features and tactics.
-APT37, also tracked under the monikers Reaper, RedEyes, Ricochet Chollima, and ScarCruft, is linked to North Korea's Ministry of State Security (MSS) unlike the Lazarus and]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Survey Reveals Employees are the Attack Surface]]></title>
-        <id>https://blog.knowbe4.com/employees-are-the-attack-surface</id>
-        <link href="https://blog.knowbe4.com/employees-are-the-attack-surface"/>
-        <updated>2023-02-15T14:18:35.000Z</updated>
-        <summary type="html"><![CDATA[A survey by Tanium has found that IT security professionals in the UK say that 64% of avoidable cyber attacks are due to human error, which usually involves falling for phishing attacks. More than half of the respondents said that loss of productivity would be their main concern following a cyber attack.]]></summary>
-        <author>
-            <name>Stu Sjouwerman</name>
         </author>
     </entry>
 </feed>
