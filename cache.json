@@ -73,6 +73,16 @@
       "siteUrl": "https://www.cisa.gov/",
       "articles": [
         {
+          "id": "/node/17662",
+          "author": "CISA",
+          "description": "Drupal has released a security advisory to address an access bypass vulnerability affecting multiple Drupal versions. An attacker could exploit this vulnerability to take control of an affected system.\nCISA encourages users and administrators to review Drupal security advisory SA-CONTRIB- 2023-004 for more information and apply the necessary updates.",
+          "link": "https://www.cisa.gov/news-events/alerts/2023/03/17/drupal-releases-security-advisory-address-vulnerability-drupal-core",
+          "publishedOn": "2023-03-17T12:00:00.000Z",
+          "wordCount": 518,
+          "title": "Drupal Releases Security Advisory to Address Vulnerability in Drupal Core",
+          "imageUrl": null
+        },
+        {
           "id": "/node/17649",
           "author": "CISA",
           "description": "The Federal Bureau of Investigation (FBI), CISA, and the Multi-State Information Sharing and Analysis Center (MS-ISAC) has released a joint cybersecurity advisory (CSA), #StopRansomware: LockBit 3.0. This joint advisory details known indicators of compromise (IOCs) and tactics, techniques, and procedures (TTPs) that FBI investigations correlated with LockBit 3.0 ransomware as recently as March 2023. LockBit 3.0 functions as an affiliate-based ransomware variant and is a continuation of LockBit 2.0 and LockBit.\nCISA encourages network defenders to review and apply the recommendations in the Mitigations section of this CSA. See StopRansomware.gov for additional guidance on ransomware protection, detection, and response.",
@@ -530,6 +540,81 @@
       "feedUrl": "https://www.darkreading.com/rss.xml",
       "siteUrl": "https://www.darkreading.com",
       "articles": [
+        {
+          "id": "https://www.darkreading.com/application-security/microsoft-outlook-vulnerability-2023-it-bug",
+          "author": "Nathan Eddy, Contributing Writer, Dark Reading",
+          "description": "Snowballing PoC exploits for CVE-2023-23397 and a massive attack surface means almost business user could be a victim.",
+          "link": "https://www.darkreading.com/application-security/microsoft-outlook-vulnerability-2023-it-bug",
+          "publishedOn": "2023-03-17T18:23:11.000Z",
+          "wordCount": 15439,
+          "title": "Microsoft Outlook Vulnerability Could Be 2023’s 'It' Bug",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltf8b5a94afa71c53a/628e3799daa31875dc0c9fc0/NathanEddyHeadshot.PNG",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltf8b5a94afa71c53a/628e3799daa31875dc0c9fc0/NathanEddyHeadshot.PNG"
+        },
+        {
+          "id": "https://www.darkreading.com/emerging-tech/technology-firms-delivering-much-sought-encryption-in-use",
+          "author": "Robert Lemos, Contributing Writer, Dark Reading",
+          "description": "If the approaches stand up to scrutiny, companies may soon be able to encrypt most databases in a way that allows using data without needing to decrypt to plaintext.",
+          "link": "https://www.darkreading.com/emerging-tech/technology-firms-delivering-much-sought-encryption-in-use",
+          "publishedOn": "2023-03-17T17:07:00.000Z",
+          "wordCount": 16767,
+          "title": "Technology Firms Delivering Much-Sought Encryption-in-Use",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt58481326324d6911/60b1e9a55d34de550780a990/Robert-Lemos.png",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt58481326324d6911/60b1e9a55d34de550780a990/Robert-Lemos.png"
+        },
+        {
+          "id": "https://www.darkreading.com/risk/the-ethics-of-network-and-security-monitoring",
+          "author": "Jim Tiller, Global CISO, Nash Squared and Harvey Nash USA",
+          "description": "The chances of getting hacked are no longer low. Companies need to rethink their data collection and monitoring strategies to protect employee privacy and corporate integrity.",
+          "link": "https://www.darkreading.com/risk/the-ethics-of-network-and-security-monitoring",
+          "publishedOn": "2023-03-17T14:00:00.000Z",
+          "wordCount": 15891,
+          "title": "The Ethics of Network and Security Monitoring",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt8e95397ec3c0f525/62c70dd8cee0af77a93a2a6a/J_tiller.png",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt8e95397ec3c0f525/62c70dd8cee0af77a93a2a6a/J_tiller.png"
+        },
+        {
+          "id": "https://www.darkreading.com/threat-intelligence/low-budget-winter-vivern-apt-awakens-after-2-year-hibernation",
+          "author": "Nate Nelson, Contributing Writer, Dark Reading",
+          "description": "The \"underreported\" APT has returned to focus after attacks promoting Russian and Belarusian government interests and going after targets with humor, zest, and scrappiness.",
+          "link": "https://www.darkreading.com/threat-intelligence/low-budget-winter-vivern-apt-awakens-after-2-year-hibernation",
+          "publishedOn": "2023-03-17T14:00:00.000Z",
+          "wordCount": 15700,
+          "title": "Low-Budget 'Winter Vivern' APT Awakens After 2-Year Hibernation",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt91e5f91ce3f0cdd9/63d0288ac98dbe55ece1d0a9/Nate-Nelson_(1).jpg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt91e5f91ce3f0cdd9/63d0288ac98dbe55ece1d0a9/Nate-Nelson_(1).jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/application-security/meta-proposes-revamped-kill-chain-framework-online-threats",
+          "author": "Jai Vijayan, Contributing Writer, Dark Reading",
+          "description": "A more holistic model beyond MITRE et al is needed to help defenders better identify and understand commonalities in different online threat campaigns, the Facebook parent company says.",
+          "link": "https://www.darkreading.com/application-security/meta-proposes-revamped-kill-chain-framework-online-threats",
+          "publishedOn": "2023-03-17T13:41:55.000Z",
+          "wordCount": 16834,
+          "title": "Meta Proposes Revamped Approach to Online Kill Chain Frameworks",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt02d79fb9a44a4258/60b1e9dd2a25046b35110696/Jai-Vijayan.jpeg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt02d79fb9a44a4258/60b1e9dd2a25046b35110696/Jai-Vijayan.jpeg"
+        },
         {
           "id": "https://www.darkreading.com/attacks-breaches/leveraging-behavioral-analysis-to-catch-living-off-the-land-attacks",
           "author": null,
@@ -3609,21 +3694,6 @@
             "length": "0"
           },
           "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt68e6427659409bf9/63d7fdf6e44d630a4e107033/Deepen_Desai.png"
-        },
-        {
-          "id": "https://www.darkreading.com/dr-tech/descope-handles-authentication-so-developers-don-t-have-to",
-          "author": "Fahmida Y. Rashid, Managing Editor, Features, Dark Reading",
-          "description": "Developers don't have to build authentication and user management from scratch, and can devote their energies to the core functions of the application, instead.",
-          "link": "https://www.darkreading.com/dr-tech/descope-handles-authentication-so-developers-don-t-have-to",
-          "publishedOn": "2023-02-16T02:00:00.000Z",
-          "wordCount": 11404,
-          "title": "Descope Handles Authentication So Developers Don't Have To",
-          "enclosure": {
-            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt93784ffee79538e7/60d4371522d24e38a3806ecf/fahmida.png",
-            "type": "image/*",
-            "length": "0"
-          },
-          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt93784ffee79538e7/60d4371522d24e38a3806ecf/fahmida.png"
         }
       ]
     },
@@ -3705,6 +3775,26 @@
       "feedUrl": "https://blog.knowbe4.com/rss.xml",
       "siteUrl": "https://blog.knowbe4.com",
       "articles": [
+        {
+          "id": "https://blog.knowbe4.com/phishing-a-top-initial-access-vector",
+          "author": "Stu Sjouwerman",
+          "description": "New data looking back at the cyber attacks observed in 2022 shows that phishing continues to dominate as initial access brokers seem to be growing their business using backdoors.",
+          "link": "https://blog.knowbe4.com/phishing-a-top-initial-access-vector",
+          "publishedOn": "2023-03-17T18:19:15.000Z",
+          "wordCount": 2340,
+          "title": "Phishing Attacks Top List of Initial Access Vectors with Backdoor Deployment as Top Objective",
+          "imageUrl": "https://blog.knowbe4.com/hubfs/Phishing%20Remains%20Initial%20Infection%20Vector.jpg#keepProtocol"
+        },
+        {
+          "id": "https://blog.knowbe4.com/92-percent-organizations-phishing-victims",
+          "author": "Stu Sjouwerman",
+          "description": "New data shows that not only has just about every organization experienced a successful phishing attack, but that they are also paying the price in a number of impactful ways.",
+          "link": "https://blog.knowbe4.com/92-percent-organizations-phishing-victims",
+          "publishedOn": "2023-03-17T18:19:05.000Z",
+          "wordCount": 2302,
+          "title": "92% of Organizations Have Fallen Victim to Phishing as Nearly Every Org is Concerned with Email Security",
+          "imageUrl": "https://blog.knowbe4.com/hubfs/Phishing%20and%20Malicious%20Emails.jpg#keepProtocol"
+        },
         {
           "id": "https://blog.knowbe4.com/understanding-dmarc-better",
           "author": "Roger Grimes",
@@ -4302,6 +4392,22 @@
       "feedUrl": "https://thehackernews.com/feeds/posts/default",
       "siteUrl": "https://thehackernews.com",
       "articles": [
+        {
+          "id": "https://thehackernews.com/2023/03/fakecalls-vishing-malware-targets-south.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "An Android voice phishing (aka vishing) malware campaign known as FakeCalls has reared its head once again to target South Korean users under the guise of over 20 popular financial apps.\n\"FakeCalls malware possesses the functionality of a Swiss army knife, able not only to conduct its primary aim but also to extract private data from the victim's device,\" cybersecurity firm Check Point said.",
+          "link": "https://thehackernews.com/2023/03/fakecalls-vishing-malware-targets-south.html",
+          "publishedOn": "2023-03-17T18:15:00.000Z",
+          "wordCount": null,
+          "title": "FakeCalls Vishing Malware Targets South Korean Users via Popular Financial Apps",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjqxD45ThYLurjNO8lhCeLYCPQI5VEwc9SN4lJ56zkUPhdgc3iEr5kGF_SAm0Ocm3XGv1GbkZaFLE7ttlzLjLFlDSOeX2vtk0d-ukiOZdC_yjBXF_e2L-GWv472BUuPAkpKF1BQD6btJk4Kf3fCMh-IPGM2iAtU-lWvABzksnu-VTKKaZxia2eXL1GH/s1600/call.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjqxD45ThYLurjNO8lhCeLYCPQI5VEwc9SN4lJ56zkUPhdgc3iEr5kGF_SAm0Ocm3XGv1GbkZaFLE7ttlzLjLFlDSOeX2vtk0d-ukiOZdC_yjBXF_e2L-GWv472BUuPAkpKF1BQD6btJk4Kf3fCMh-IPGM2iAtU-lWvABzksnu-VTKKaZxia2eXL1GH/s1600/call.png"
+        },
         {
           "id": "https://thehackernews.com/2023/03/thn-webinar-3-research-backed-ways-to.html",
           "author": "info@thehackernews.com (The Hacker News)",

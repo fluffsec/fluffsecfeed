@@ -2,10 +2,91 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-03-17T13:26:05.678Z</updated>
+    <updated>2023-03-17T19:16:27.660Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Outlook Vulnerability Could Be 2023’s 'It' Bug]]></title>
+        <id>https://www.darkreading.com/application-security/microsoft-outlook-vulnerability-2023-it-bug</id>
+        <link href="https://www.darkreading.com/application-security/microsoft-outlook-vulnerability-2023-it-bug"/>
+        <updated>2023-03-17T18:23:11.000Z</updated>
+        <summary type="html"><![CDATA[Snowballing PoC exploits for CVE-2023-23397 and a massive attack surface means almost business user could be a victim.]]></summary>
+        <author>
+            <name>Nathan Eddy, Contributing Writer, Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Phishing Attacks Top List of Initial Access Vectors with Backdoor Deployment as Top Objective]]></title>
+        <id>https://blog.knowbe4.com/phishing-a-top-initial-access-vector</id>
+        <link href="https://blog.knowbe4.com/phishing-a-top-initial-access-vector"/>
+        <updated>2023-03-17T18:19:15.000Z</updated>
+        <summary type="html"><![CDATA[New data looking back at the cyber attacks observed in 2022 shows that phishing continues to dominate as initial access brokers seem to be growing their business using backdoors.]]></summary>
+        <author>
+            <name>Stu Sjouwerman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[92% of Organizations Have Fallen Victim to Phishing as Nearly Every Org is Concerned with Email Security]]></title>
+        <id>https://blog.knowbe4.com/92-percent-organizations-phishing-victims</id>
+        <link href="https://blog.knowbe4.com/92-percent-organizations-phishing-victims"/>
+        <updated>2023-03-17T18:19:05.000Z</updated>
+        <summary type="html"><![CDATA[New data shows that not only has just about every organization experienced a successful phishing attack, but that they are also paying the price in a number of impactful ways.]]></summary>
+        <author>
+            <name>Stu Sjouwerman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FakeCalls Vishing Malware Targets South Korean Users via Popular Financial Apps]]></title>
+        <id>https://thehackernews.com/2023/03/fakecalls-vishing-malware-targets-south.html</id>
+        <link href="https://thehackernews.com/2023/03/fakecalls-vishing-malware-targets-south.html"/>
+        <updated>2023-03-17T18:15:00.000Z</updated>
+        <summary type="html"><![CDATA[An Android voice phishing (aka vishing) malware campaign known as FakeCalls has reared its head once again to target South Korean users under the guise of over 20 popular financial apps.
+"FakeCalls malware possesses the functionality of a Swiss army knife, able not only to conduct its primary aim but also to extract private data from the victim's device," cybersecurity firm Check Point said.]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Technology Firms Delivering Much-Sought Encryption-in-Use]]></title>
+        <id>https://www.darkreading.com/emerging-tech/technology-firms-delivering-much-sought-encryption-in-use</id>
+        <link href="https://www.darkreading.com/emerging-tech/technology-firms-delivering-much-sought-encryption-in-use"/>
+        <updated>2023-03-17T17:07:00.000Z</updated>
+        <summary type="html"><![CDATA[If the approaches stand up to scrutiny, companies may soon be able to encrypt most databases in a way that allows using data without needing to decrypt to plaintext.]]></summary>
+        <author>
+            <name>Robert Lemos, Contributing Writer, Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Ethics of Network and Security Monitoring]]></title>
+        <id>https://www.darkreading.com/risk/the-ethics-of-network-and-security-monitoring</id>
+        <link href="https://www.darkreading.com/risk/the-ethics-of-network-and-security-monitoring"/>
+        <updated>2023-03-17T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The chances of getting hacked are no longer low. Companies need to rethink their data collection and monitoring strategies to protect employee privacy and corporate integrity.]]></summary>
+        <author>
+            <name>Jim Tiller, Global CISO, Nash Squared and Harvey Nash USA</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Low-Budget 'Winter Vivern' APT Awakens After 2-Year Hibernation]]></title>
+        <id>https://www.darkreading.com/threat-intelligence/low-budget-winter-vivern-apt-awakens-after-2-year-hibernation</id>
+        <link href="https://www.darkreading.com/threat-intelligence/low-budget-winter-vivern-apt-awakens-after-2-year-hibernation"/>
+        <updated>2023-03-17T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The "underreported" APT has returned to focus after attacks promoting Russian and Belarusian government interests and going after targets with humor, zest, and scrappiness.]]></summary>
+        <author>
+            <name>Nate Nelson, Contributing Writer, Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Meta Proposes Revamped Approach to Online Kill Chain Frameworks]]></title>
+        <id>https://www.darkreading.com/application-security/meta-proposes-revamped-kill-chain-framework-online-threats</id>
+        <link href="https://www.darkreading.com/application-security/meta-proposes-revamped-kill-chain-framework-online-threats"/>
+        <updated>2023-03-17T13:41:55.000Z</updated>
+        <summary type="html"><![CDATA[A more holistic model beyond MITRE et al is needed to help defenders better identify and understand commonalities in different online threat campaigns, the Facebook parent company says.]]></summary>
+        <author>
+            <name>Jai Vijayan, Contributing Writer, Dark Reading</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[THN Webinar: 3 Research-Backed Ways to Secure Your Identity Perimeter]]></title>
         <id>https://thehackernews.com/2023/03/thn-webinar-3-research-backed-ways-to.html</id>
@@ -26,6 +107,17 @@ Clearly, there are many problems with this scenario – and it's not just the ho
 "The malware binaries appear to have been named by the malware author after a character from the popular anime series, Naruto, with file name structures such as 'Hinata--,'" Akamai said in a]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Drupal Releases Security Advisory to Address Vulnerability in Drupal Core]]></title>
+        <id>/node/17662</id>
+        <link href="https://www.cisa.gov/news-events/alerts/2023/03/17/drupal-releases-security-advisory-address-vulnerability-drupal-core"/>
+        <updated>2023-03-17T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Drupal has released a security advisory to address an access bypass vulnerability affecting multiple Drupal versions. An attacker could exploit this vulnerability to take control of an affected system.
+CISA encourages users and administrators to review Drupal security advisory SA-CONTRIB- 2023-004 for more information and apply the necessary updates.]]></summary>
+        <author>
+            <name>CISA</name>
         </author>
     </entry>
     <entry>
@@ -5045,16 +5137,6 @@ The findings come from attack surface management firm Censys, which discovere
         <summary type="html"><![CDATA[It's a classic attacker move: Use security protections against those who deploy them. But organizations can still defuse and prevent these encrypted attacks.]]></summary>
         <author>
             <name>Deepen Desai, CISO and VP, Security Research, Zscaler</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Descope Handles Authentication So Developers Don't Have To]]></title>
-        <id>https://www.darkreading.com/dr-tech/descope-handles-authentication-so-developers-don-t-have-to</id>
-        <link href="https://www.darkreading.com/dr-tech/descope-handles-authentication-so-developers-don-t-have-to"/>
-        <updated>2023-02-16T02:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Developers don't have to build authentication and user management from scratch, and can devote their energies to the core functions of the application, instead.]]></summary>
-        <author>
-            <name>Fahmida Y. Rashid, Managing Editor, Features, Dark Reading</name>
         </author>
     </entry>
 </feed>
