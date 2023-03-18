@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-03-18T13:22:43.164Z</updated>
+    <updated>2023-03-18T19:15:19.003Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Warning Customers About Social Engineering.]]></title>
+        <id>https://blog.knowbe4.com/warning-customers-about-social-engineering</id>
+        <link href="https://blog.knowbe4.com/warning-customers-about-social-engineering"/>
+        <updated>2023-03-18T17:58:48.000Z</updated>
+        <summary type="html"><![CDATA[It’s a familiar story: scam artists impersonate a trusted brand, a trusted business or a trusted authority in emails and on bogus sites designed to exploit that very trust to commit fraud. Generally, this isn’t the fault of the person or organization being impersonated. But it’s worth remembering that there are practices and policies an organization can take to help keep their customers and other stakeholders protected from this kind of fraud.]]></summary>
+        <author>
+            <name>Stu Sjouwerman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Black Eye] The Lesson We Learned. Don't Let this Happen to You. #DMARC]]></title>
+        <id>https://blog.knowbe4.com/black-eye-the-lesson-we-learned.-dont-let-this-happen-to-you.-dmarc</id>
+        <link href="https://blog.knowbe4.com/black-eye-the-lesson-we-learned.-dont-let-this-happen-to-you.-dmarc"/>
+        <updated>2023-03-18T17:15:43.000Z</updated>
+        <summary type="html"><![CDATA[Mea Culpa. When you make a mistake, admit you made a mistake.]]></summary>
+        <author>
+            <name>Roger Grimes</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Chinese Hackers Exploit Fortinet Zero-Day Flaw for Cyber Espionage Attack]]></title>
         <id>https://thehackernews.com/2023/03/chinese-hackers-exploit-fortinet-zero.html</id>
@@ -332,6 +352,16 @@ Specifically, the]]></summary>
 Request your kit now to learn phishing mitigation strategies, what new trends and attack vectors you need to be prepared for, and our best advice on how to protect your users and your organization.
  
 Javvad Malik, Lead Security Awareness Advocate at KnowBe4, explains more about why you need this kit and details on what is included:]]></summary>
+        <author>
+            <name>Stu Sjouwerman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A 240% Rise in Dynamic Phishing]]></title>
+        <id>https://blog.knowbe4.com/a-240-rise-in-dynamic-phishing</id>
+        <link href="https://blog.knowbe4.com/a-240-rise-in-dynamic-phishing"/>
+        <updated>2023-03-16T12:44:16.000Z</updated>
+        <summary type="html"><![CDATA[Attackers are increasingly using techniques to prevent their phishing pages from being detected by security firms, a new report from BlueVoyant has found. The report found that in 2022 there was a 240% increase in phishing pages that attempted to redirect potential security researchers and bots away from the sites.]]></summary>
         <author>
             <name>Stu Sjouwerman</name>
         </author>
@@ -4911,18 +4941,6 @@ In today's edition, we will cover some interesting developments in the cybersecu
         <summary type="html"><![CDATA[A new variant of the notorious Mirai botnet has been found leveraging several security vulnerabilities to propagate itself to Linux and IoT devices.
 Observed during the second half of 2022, the new version has been dubbed V3G4 by Palo Alto Networks Unit 42, which identified three different campaigns likely conducted by the same threat actor.
 "Once the vulnerable devices are compromised, they]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Critical RCE Vulnerability Discovered in ClamAV Open-Source Antivirus Software]]></title>
-        <id>https://thehackernews.com/2023/02/critical-rce-vulnerability-discovered.html</id>
-        <link href="https://thehackernews.com/2023/02/critical-rce-vulnerability-discovered.html"/>
-        <updated>2023-02-17T05:46:00.000Z</updated>
-        <summary type="html"><![CDATA[Cisco has rolled out security updates to address a critical flaw reported in the ClamAV open source antivirus engine that could lead to remote code execution on susceptible devices.
-Tracked as CVE-2023-20032 (CVSS score: 9.8), the issue relates to a case of remote code execution residing in the HFS+ file parser component.
-The flaw affects versions 1.0.0 and earlier, 0.105.1 and earlier, and]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>

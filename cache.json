@@ -3631,6 +3631,26 @@
       "siteUrl": "https://blog.knowbe4.com",
       "articles": [
         {
+          "id": "https://blog.knowbe4.com/warning-customers-about-social-engineering",
+          "author": "Stu Sjouwerman",
+          "description": "It’s a familiar story: scam artists impersonate a trusted brand, a trusted business or a trusted authority in emails and on bogus sites designed to exploit that very trust to commit fraud. Generally, this isn’t the fault of the person or organization being impersonated. But it’s worth remembering that there are practices and policies an organization can take to help keep their customers and other stakeholders protected from this kind of fraud.",
+          "link": "https://blog.knowbe4.com/warning-customers-about-social-engineering",
+          "publishedOn": "2023-03-18T17:58:48.000Z",
+          "wordCount": 2324,
+          "title": "Warning Customers About Social Engineering.",
+          "imageUrl": "https://blog.knowbe4.com/hubfs/Social%20Engineering%20Attackers.jpg#keepProtocol"
+        },
+        {
+          "id": "https://blog.knowbe4.com/black-eye-the-lesson-we-learned.-dont-let-this-happen-to-you.-dmarc",
+          "author": "Roger Grimes",
+          "description": "Mea Culpa. When you make a mistake, admit you made a mistake.",
+          "link": "https://blog.knowbe4.com/black-eye-the-lesson-we-learned.-dont-let-this-happen-to-you.-dmarc",
+          "publishedOn": "2023-03-18T17:15:43.000Z",
+          "wordCount": 4585,
+          "title": "[Black Eye] The Lesson We Learned. Don't Let this Happen to You. #DMARC",
+          "imageUrl": "https://blog.knowbe4.com/hubfs/Social%20Image%20Repository/Evangelist%20Blog%20Social%20Graphics/Evangelists-Roger%20Grimes.jpg#keepProtocol"
+        },
+        {
           "id": "https://blog.knowbe4.com/phishing-a-top-initial-access-vector",
           "author": "Stu Sjouwerman",
           "description": "New data looking back at the cyber attacks observed in 2022 shows that phishing continues to dominate as initial access brokers seem to be growing their business using backdoors.",
@@ -3669,6 +3689,16 @@
           "wordCount": 2061,
           "title": "[FREE RESOURCE KIT] New Phishing Security Resource Kit Now Available!",
           "imageUrl": "https://blog.knowbe4.com/hubfs/Phishing-Kit-1200x675.jpg#keepProtocol"
+        },
+        {
+          "id": "https://blog.knowbe4.com/a-240-rise-in-dynamic-phishing",
+          "author": "Stu Sjouwerman",
+          "description": "Attackers are increasingly using techniques to prevent their phishing pages from being detected by security firms, a new report from BlueVoyant has found. The report found that in 2022 there was a 240% increase in phishing pages that attempted to redirect potential security researchers and bots away from the sites.",
+          "link": "https://blog.knowbe4.com/a-240-rise-in-dynamic-phishing",
+          "publishedOn": "2023-03-16T12:44:16.000Z",
+          "wordCount": 2359,
+          "title": "A 240% Rise in Dynamic Phishing",
+          "imageUrl": "https://blog.knowbe4.com/hubfs/Phishing%20Data%20Breaches.jpg#keepProtocol"
         },
         {
           "id": "https://blog.knowbe4.com/a-rise-in-dynamic-phishing",
@@ -6210,22 +6240,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg39jFZQVXsstzTeXUzlTiKzq9sgARiE4l2MaHJmMuoTw1mBlq5uysaY9n_w6yNhvGi8H92iDFuuiKagD_3az8j36uQyuyt5IfpoPpL_IrC5ETlU0gpIL79NIvzvMKzscN1wL6S_1phcWtrsMmeUaE93Fn-fxG9I9zVA0ZYYrao7matbpsEvqEhRWeZ/s1600/botnet.png"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg39jFZQVXsstzTeXUzlTiKzq9sgARiE4l2MaHJmMuoTw1mBlq5uysaY9n_w6yNhvGi8H92iDFuuiKagD_3az8j36uQyuyt5IfpoPpL_IrC5ETlU0gpIL79NIvzvMKzscN1wL6S_1phcWtrsMmeUaE93Fn-fxG9I9zVA0ZYYrao7matbpsEvqEhRWeZ/s1600/botnet.png"
-        },
-        {
-          "id": "https://thehackernews.com/2023/02/critical-rce-vulnerability-discovered.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Cisco has rolled out security updates to address a critical flaw reported in the ClamAV open source antivirus engine that could lead to remote code execution on susceptible devices.\nTracked as CVE-2023-20032 (CVSS score: 9.8), the issue relates to a case of remote code execution residing in the HFS+ file parser component.\nThe flaw affects versions 1.0.0 and earlier, 0.105.1 and earlier, and",
-          "link": "https://thehackernews.com/2023/02/critical-rce-vulnerability-discovered.html",
-          "publishedOn": "2023-02-17T05:46:00.000Z",
-          "wordCount": null,
-          "title": "Critical RCE Vulnerability Discovered in ClamAV Open-Source Antivirus Software",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDPbBc2Wv4NMhhpVfG50lFnJLQhPXVlY7qZIDBO6HFBOJxY2llPBxwHBJNyV-etqpGICZ7P3GRw3eSJSX909U3bi6ZqNSJQfPTJDpe2WBjK43007Kh9o6aEu8gmYVDqQw3oJkpxDPNVqtH0ZpSB4vuAxbY_V94KN0DYv9nMboViz3woAJhpkKg-qS_/s1600/clamav.png"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDPbBc2Wv4NMhhpVfG50lFnJLQhPXVlY7qZIDBO6HFBOJxY2llPBxwHBJNyV-etqpGICZ7P3GRw3eSJSX909U3bi6ZqNSJQfPTJDpe2WBjK43007Kh9o6aEu8gmYVDqQw3oJkpxDPNVqtH0ZpSB4vuAxbY_V94KN0DYv9nMboViz3woAJhpkKg-qS_/s1600/clamav.png"
         }
       ]
     }
