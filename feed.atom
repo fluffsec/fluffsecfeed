@@ -2,10 +2,39 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-03-17T19:16:27.660Z</updated>
+    <updated>2023-03-18T02:13:36.701Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How CISOs Can Work With the CFO to Get the Best Security Budget]]></title>
+        <id>https://www.darkreading.com/edge-articles/how-cisos-can-work-with-the-cfo-to-get-the-best-security-budget</id>
+        <link href="https://www.darkreading.com/edge-articles/how-cisos-can-work-with-the-cfo-to-get-the-best-security-budget"/>
+        <updated>2023-03-17T22:49:00.000Z</updated>
+        <summary type="html"><![CDATA[CISOs can and should push back when they're presented with budget costs that affect the business. Here's how.]]></summary>
+        <author>
+            <name>Evan Schuman, Contributing Writer, Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Azure Warns on Killnet's Growing DDoS Onslaught Against Healthcare]]></title>
+        <id>https://www.darkreading.com/attacks-breaches/microsoft-azure-killnet-dos-onslaught-healthcare</id>
+        <link href="https://www.darkreading.com/attacks-breaches/microsoft-azure-killnet-dos-onslaught-healthcare"/>
+        <updated>2023-03-17T20:15:57.000Z</updated>
+        <summary type="html"><![CDATA[DDoS cyberattack campaigns from the pro-Russian group have spiked significantly.]]></summary>
+        <author>
+            <name>Dark Reading Staff, Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Prancer Announces Integration With ChatGPT for Enhanced Security Assessments]]></title>
+        <id>https://www.darkreading.com/cloud/prancer-announces-integration-with-chatgpt-for-enhanced-security-assessments</id>
+        <link href="https://www.darkreading.com/cloud/prancer-announces-integration-with-chatgpt-for-enhanced-security-assessments"/>
+        <updated>2023-03-17T20:02:00.000Z</updated>
+        <author>
+            <name>Dark Reading</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Microsoft Outlook Vulnerability Could Be 2023’s 'It' Bug]]></title>
         <id>https://www.darkreading.com/application-security/microsoft-outlook-vulnerability-2023-it-bug</id>
@@ -5060,83 +5089,6 @@ This product is provided subject to this Notification and this Privacy & Use pol
         <summary type="html"><![CDATA[The Russian-based hacking group Seaborgium is at it again with increased spear phishing attacks targeting US and European countries in the last year.]]></summary>
         <author>
             <name>Stu Sjouwerman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hackers Using Google Ads to Spread FatalRAT Malware Disguised as Popular Apps]]></title>
-        <id>https://thehackernews.com/2023/02/hackers-using-google-ads-to-spread.html</id>
-        <link href="https://thehackernews.com/2023/02/hackers-using-google-ads-to-spread.html"/>
-        <updated>2023-02-16T13:42:00.000Z</updated>
-        <summary type="html"><![CDATA[Chinese-speaking individuals in Southeast and East Asia are the targets of a new rogue Google Ads campaign that delivers remote access trojans such as FatalRAT to compromised machines.
-The attacks involve purchasing ad slots to appear in Google search results that direct users searching for popular applications to rogue websites hosting trojanized installers, ESET said in a report published]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Researchers Warn of Critical Security Bugs in Schneider Electric Modicon PLCs]]></title>
-        <id>https://thehackernews.com/2023/02/researchers-warn-of-critical-security.html</id>
-        <link href="https://thehackernews.com/2023/02/researchers-warn-of-critical-security.html"/>
-        <updated>2023-02-16T13:18:00.000Z</updated>
-        <summary type="html"><![CDATA[Security researchers have disclosed two new vulnerabilities affecting Schneider Electric Modicon programmable logic controllers (PLCs) that could allow for authentication bypass and remote code execution.
-The flaws, tracked as CVE-2022-45788 (CVSS score: 7.5) and CVE-2022-45789 (CVSS score: 8.1), are part of a broader collection of security defects tracked by Forescout as OT:ICEFALL.
-Successful]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[LIVE DEMO] Are Your Users Making Risky Security Mistakes? Deliver Real-Time Coaching in Response to Risky User Behavior with SecurityCoach]]></title>
-        <id>https://blog.knowbe4.com/live-demo-are-your-users-making-risky-security-mistakes-deliver-real-time-coaching-in-response-to-risky-user-behavior-with-securitycoach</id>
-        <link href="https://blog.knowbe4.com/live-demo-are-your-users-making-risky-security-mistakes-deliver-real-time-coaching-in-response-to-risky-user-behavior-with-securitycoach"/>
-        <updated>2023-02-16T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Do you need an easy, automated way to provide real-time feedback the moment your users make risky mistakes to help reinforce the training campaigns you manage today?]]></summary>
-        <author>
-            <name>Stu Sjouwerman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Breaking the Security "Black Box" in DBs, Data Warehouses and Data Lakes]]></title>
-        <id>https://thehackernews.com/2023/02/breaking-security-black-box-in-dbs-data.html</id>
-        <link href="https://thehackernews.com/2023/02/breaking-security-black-box-in-dbs-data.html"/>
-        <updated>2023-02-16T11:12:00.000Z</updated>
-        <summary type="html"><![CDATA[Security teams typically have great visibility over most areas, for example, the corporate network, endpoints, servers, and cloud infrastructure. They use this visibility to enforce the necessary security and compliance requirements. However, this is not the case when it comes to sensitive data sitting in production or analytic databases, data warehouses or data lakes.
-Security teams have to]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Threat Actor WIP26 Targeting Telecom Service Providers in the Middle East]]></title>
-        <id>https://thehackernews.com/2023/02/new-threat-actor-wip26-targeting.html</id>
-        <link href="https://thehackernews.com/2023/02/new-threat-actor-wip26-targeting.html"/>
-        <updated>2023-02-16T10:59:00.000Z</updated>
-        <summary type="html"><![CDATA[Telecommunication service providers in the Middle East are being targeted by a previously undocumented threat actor as part of a suspected espionage-related campaign.
-Cybersecurity firms SentinelOne and QGroup are tracking the activity cluster under the former's work-in-progress moniker WIP26.
-"WIP26 relies heavily on public cloud infrastructure in an attempt to evade detection by making]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ESXiArgs Ransomware Hits Over 500 New Targets in European Countries]]></title>
-        <id>https://thehackernews.com/2023/02/esxiargs-ransomware-hits-over-500-new.html</id>
-        <link href="https://thehackernews.com/2023/02/esxiargs-ransomware-hits-over-500-new.html"/>
-        <updated>2023-02-16T10:13:00.000Z</updated>
-        <summary type="html"><![CDATA[More than 500 hosts have been newly compromised en masse by the ESXiArgs ransomware strain, most of which are located in France, Germany, the Netherlands, the U.K., and Ukraine.
-The findings come from attack surface management firm Censys, which discovered "two hosts with strikingly similar ransom notes dating back to mid-October 2022, just after ESXi versions 6.5 and 6.7 reached end of life."]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Encrypted Traffic, Once Thought Safe, Now Responsible For Most Cyberthreats]]></title>
-        <id>https://www.darkreading.com/zscaler/encrypted-traffic-once-thought-safe-now-responsible-for-most-cyberthreats</id>
-        <link href="https://www.darkreading.com/zscaler/encrypted-traffic-once-thought-safe-now-responsible-for-most-cyberthreats"/>
-        <updated>2023-02-16T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[It's a classic attacker move: Use security protections against those who deploy them. But organizations can still defuse and prevent these encrypted attacks.]]></summary>
-        <author>
-            <name>Deepen Desai, CISO and VP, Security Research, Zscaler</name>
         </author>
     </entry>
 </feed>
