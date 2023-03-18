@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-03-18T07:17:38.616Z</updated>
+    <updated>2023-03-18T13:22:43.164Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Chinese Hackers Exploit Fortinet Zero-Day Flaw for Cyber Espionage Attack]]></title>
+        <id>https://thehackernews.com/2023/03/chinese-hackers-exploit-fortinet-zero.html</id>
+        <link href="https://thehackernews.com/2023/03/chinese-hackers-exploit-fortinet-zero.html"/>
+        <updated>2023-03-18T11:30:00.000Z</updated>
+        <summary type="html"><![CDATA[The zero-day exploitation of a now-patched medium-severity security flaw in the Fortinet FortiOS operating system has been linked to a suspected Chinese hacking group.
+Threat intelligence firm Mandiant, which made the attribution, said the activity cluster is part of a broader campaign designed to deploy backdoors onto Fortinet and VMware solutions and maintain persistent access to victim]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Pompompurin Unmasked: Infamous BreachForums Mastermind Arrested in New York]]></title>
         <id>https://thehackernews.com/2023/03/pompompurin-unmasked-infamous.html</id>
@@ -4914,74 +4925,6 @@ Tracked as CVE-2023-20032 (CVSS score: 9.8), the issue relates to a case of re
 The flaw affects versions 1.0.0 and earlier, 0.105.1 and earlier, and]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ESXi Ransomware Update Outfoxes CISA Recovery Script]]></title>
-        <id>https://www.darkreading.com/endpoint/esxi-malware-update-outfoxes-cisa-recovery-script</id>
-        <link href="https://www.darkreading.com/endpoint/esxi-malware-update-outfoxes-cisa-recovery-script"/>
-        <updated>2023-02-16T22:34:00.000Z</updated>
-        <summary type="html"><![CDATA[New ESXiArgs-ransomware attacks include a workaround for CISA's decryptor, researchers find.]]></summary>
-        <author>
-            <name>Dark Reading Staff, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Atlassian: Leaked Data Stolen via Third-Party App]]></title>
-        <id>https://www.darkreading.com/endpoint/leaked-atlassian-data-stolen-from-third-party-app-company-says-</id>
-        <link href="https://www.darkreading.com/endpoint/leaked-atlassian-data-stolen-from-third-party-app-company-says-"/>
-        <updated>2023-02-16T22:10:00.000Z</updated>
-        <summary type="html"><![CDATA[SiegedSec threat group leaked data that Atlassian says was taken from app used to coordinate in-office resources.]]></summary>
-        <author>
-            <name>Dark Reading Staff, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SASE Market to Exceed Over $60B Between 2022 and 2027, According to Dell'Oro Group]]></title>
-        <id>https://www.darkreading.com/remote-workforce/sase-market-to-exceed-over-60-b-between-2022-and-2027-according-to-dell-oro-group</id>
-        <link href="https://www.darkreading.com/remote-workforce/sase-market-to-exceed-over-60-b-between-2022-and-2027-according-to-dell-oro-group"/>
-        <updated>2023-02-16T21:10:00.000Z</updated>
-        <author>
-            <name>Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MVP Vibe Fest Bridges Gap Between Athletics and Cybersecurity]]></title>
-        <id>https://www.darkreading.com/operations/mvp-vibe-fest-bridges-gap-between-athletics-and-cybersecurity</id>
-        <link href="https://www.darkreading.com/operations/mvp-vibe-fest-bridges-gap-between-athletics-and-cybersecurity"/>
-        <updated>2023-02-16T21:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Top athletes compete both on and off the track in a mix of track and field events and cyber games.]]></summary>
-        <author>
-            <name>Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Untitled]]></title>
-        <id>/node/17286</id>
-        <link href="https://www.cisa.gov/news-events/cybersecurity-advisories/aa23-040a"/>
-        <updated>2023-02-16T20:45:26.000Z</updated>
-        <author>
-            <name>CISA</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WatchGuard Launches New Line of Firewall Products to Enhance Unified Security for Remote and Distributed Businesses]]></title>
-        <id>https://www.darkreading.com/remote-workforce/watchguard-launches-new-line-of-firewall-products-to-enhance-unified-security-for-remote-and-distributed-businesses</id>
-        <link href="https://www.darkreading.com/remote-workforce/watchguard-launches-new-line-of-firewall-products-to-enhance-unified-security-for-remote-and-distributed-businesses"/>
-        <updated>2023-02-16T19:51:00.000Z</updated>
-        <summary type="html"><![CDATA[Powered by WatchGuard’s Unified Security Platform® architecture, new Fireboxes deliver enhanced performance and added security capabilities that MSPs and IT admins can easily manage in WatchGuard Cloud.]]></summary>
-        <author>
-            <name>Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cybersecurity Jobs Remain Secure Despite Recession Fears]]></title>
-        <id>https://www.darkreading.com/remote-workforce/cybersecurity-jobs-remain-secure-despite-recession-fears</id>
-        <link href="https://www.darkreading.com/remote-workforce/cybersecurity-jobs-remain-secure-despite-recession-fears"/>
-        <updated>2023-02-16T19:34:32.000Z</updated>
-        <summary type="html"><![CDATA[Only 10% of corporate executives expect to lay off members of cybersecurity teams in 2023, much lower than other areas, as companies protect hard-to-find skill sets.]]></summary>
-        <author>
-            <name>Robert Lemos, Contributing Writer, Dark Reading</name>
         </author>
     </entry>
 </feed>
