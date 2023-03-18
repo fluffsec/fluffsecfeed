@@ -54,16 +54,6 @@
           "wordCount": 3949,
           "title": "Untitled",
           "imageUrl": null
-        },
-        {
-          "id": "/node/17270",
-          "author": "CISA",
-          "description": "",
-          "link": "https://www.cisa.gov/news-events/cybersecurity-advisories/aa23-039a",
-          "publishedOn": "2023-02-16T18:50:04.000Z",
-          "wordCount": 2537,
-          "title": "Untitled",
-          "imageUrl": null
         }
       ]
     },
@@ -460,36 +450,6 @@
           "publishedOn": "2023-02-17T18:00:00.000Z",
           "wordCount": 960,
           "title": "Mozilla Releases Security Updates for Thunderbird 102.8",
-          "imageUrl": null
-        },
-        {
-          "id": "18376 at https://us-cert.cisa.gov",
-          "author": "CISA",
-          "description": "Original release date: February 16, 2023\nCISA released fifteen (15) Industrial Control Systems (ICS) advisories on February 16, 2023. These advisories provide timely information about current security issues, vulnerabilities, and exploits surrounding ICS.\nCISA encourages users and administrators to review the newly released ICS advisories for technical details and mitigations:\nICSA-23-047-01 Siemens Solid Edge\nICSA-23-047-02 Siemens SCALANCE X-200 IRT\nICSA-23-047-03 Siemens Brownfield Connectivity Client\nICSA-23-047-04 Siemens Brownfield Connectivity Gateway\nICSA-23-047-05 Siemens SiPass integrated AC5102/ACC-G2 and ACC-AP\nICSA-23-047-06 Siemens Simcenter Femap\nICSA-23-047-07 Siemens TIA Project Server\nICSA-23-047-08 Siemens RUGGEDCOM APE1808\nICSA-23-047-09 Siemens SIMATIC Industrial Products\nICSA-23-047-10 Siemens COMOS\nICSA-23-047-11 Siemens Mendix\nICSA-23-047-12 Siemens JT Open, JT Utilities, and Parasolid\nICSA-23-047-13 Sub-IoT DASH 7 Alliance Protocol\nICSA-22-298-06 Delta Electronic DIAEnergie (Update B)\nICSMA-23-047-01 BD Alaris Infusion Central\nThis product is provided subject to this Notification and this Privacy & Use policy.",
-          "link": "https://us-cert.cisa.gov/ncas/current-activity/2023/02/16/cisa-releases-fifteen-industrial-control-systems-advisories",
-          "publishedOn": "2023-02-16T17:00:00.000Z",
-          "wordCount": 1032,
-          "title": "CISA Releases Fifteen Industrial Control Systems Advisories",
-          "imageUrl": null
-        },
-        {
-          "id": "18375 at https://us-cert.cisa.gov",
-          "author": "CISA",
-          "description": "Original release date: February 16, 2023\nCISA has added one new vulnerability to its Known Exploited Vulnerabilities Catalog, based on evidence of active exploitation. This type of vulnerability is a frequent attack vector for malicious cyber actors and poses a significant risk to the federal enterprise. Note: To view the newly added vulnerabilities in the catalog, click on the arrow in the \"Date Added to Catalog\" column, which will sort by descending dates.\nBinding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the Known Exploited Vulnerabilities Catalog as a living list of known CVEs that carry significant risk to the federal enterprise. BOD 22-01 requires FCEB agencies to remediate identified vulnerabilities by the due date to protect FCEB networks against active threats. See the BOD 22-01 Fact Sheet for more information.\nAlthough BOD 22-01 only applies to FCEB agencies, CISA strongly urges all organizations to reduce their exposure to cyberattacks by prioritizing timely remediation of Catalog vulnerabilities as part of their vulnerability management practice. CISA will continue to add vulnerabilities to the Catalog that meet the specified criteria. \nThis product is provided subject to this Notification and this Privacy & Use policy.",
-          "link": "https://us-cert.cisa.gov/ncas/current-activity/2023/02/16/cisa-adds-one-known-exploited-vulnerability-catalog",
-          "publishedOn": "2023-02-16T16:14:00.000Z",
-          "wordCount": 1093,
-          "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-          "imageUrl": null
-        },
-        {
-          "id": "18374 at https://us-cert.cisa.gov",
-          "author": "CISA",
-          "description": "Original release date: February 16, 2023\nCisco has released security advisories for vulnerabilities affecting multiple Cisco products. A remote attacker could exploit some of these vulnerabilities to take control of an affected system. For updates addressing lower severity vulnerabilities, see the Cisco Security Advisories page.\nCISA encourages users and administrators to review the following advisories and apply the necessary updates.\nClamAV HFS+ Partition Scanning Buffer Overflow Vulnerability Affecting Cisco Products: February 2023 cisco-sa-clamav-q8DThCy\nCisco Nexus Dashboard Denial of Service Vulnerability cisco-sa-ndb-dnsdos-bYscZOsu\nCisco Email Security Appliance and Cisco Secure Email and Web Manager Vulnerabilities cisco-sa-esa-sma-privesc-9DVkFpJ8\nThis product is provided subject to this Notification and this Privacy & Use policy.",
-          "link": "https://us-cert.cisa.gov/ncas/current-activity/2023/02/16/cisco-releases-security-advisories-multiple-products",
-          "publishedOn": "2023-02-16T15:00:00.000Z",
-          "wordCount": 1001,
-          "title": "Cisco Releases Security Advisories for Multiple Products",
           "imageUrl": null
         }
       ]
@@ -3674,51 +3634,6 @@
             "length": "0"
           },
           "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt58481326324d6911/60b1e9a55d34de550780a990/Robert-Lemos.png"
-        },
-        {
-          "id": "https://www.darkreading.com/endpoint/sidewinder-apt-linked-phishing-attacks-latest-rampage",
-          "author": "Elizabeth Montalbano, Contributor, Dark Reading",
-          "description": "The nation-state threat group has been attacking a wider range of victims and regions than previously thought.",
-          "link": "https://www.darkreading.com/endpoint/sidewinder-apt-linked-phishing-attacks-latest-rampage",
-          "publishedOn": "2023-02-16T16:41:00.000Z",
-          "wordCount": 12937,
-          "title": "SideWinder APT Spotted Stealing Crypto",
-          "enclosure": {
-            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltbfd004d139d42d70/6303bca6236c2476a257760e/ElizabethMontalbano.jpg",
-            "type": "image/*",
-            "length": "0"
-          },
-          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltbfd004d139d42d70/6303bca6236c2476a257760e/ElizabethMontalbano.jpg"
-        },
-        {
-          "id": "https://www.darkreading.com/ics-ot/window-snyder-s-start-up-launches-security-platform-for-iot-device-manufacturers",
-          "author": "Jai Vijayan, Contributing Writer, Dark Reading",
-          "description": "Thistle's technology will give device makers a way to easily integrate features for secure updates, memory management, and communications into their products, Snyder says.",
-          "link": "https://www.darkreading.com/ics-ot/window-snyder-s-start-up-launches-security-platform-for-iot-device-manufacturers",
-          "publishedOn": "2023-02-16T15:35:00.000Z",
-          "wordCount": 13972,
-          "title": "Window Snyder's Startup Launches Security Platform for IoT Device Makers",
-          "enclosure": {
-            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt02d79fb9a44a4258/60b1e9dd2a25046b35110696/Jai-Vijayan.jpeg",
-            "type": "image/*",
-            "length": "0"
-          },
-          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt02d79fb9a44a4258/60b1e9dd2a25046b35110696/Jai-Vijayan.jpeg"
-        },
-        {
-          "id": "https://www.darkreading.com/risk/simplify-to-survive-how-organizations-can-navigate-cyber-risk",
-          "author": "Richard Watson, Global and Asia-Pacific Cybersecurity Consulting Leader, EY",
-          "description": "Simplification can result in efficiencies, reduced overhead, and the ability to respond to cyber threats more quickly.",
-          "link": "https://www.darkreading.com/risk/simplify-to-survive-how-organizations-can-navigate-cyber-risk",
-          "publishedOn": "2023-02-16T15:00:00.000Z",
-          "wordCount": 12425,
-          "title": "Simplify to Survive: How Organizations Can Navigate Cyber-Risk",
-          "enclosure": {
-            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt50d1991c5a78bd7c/63ea656a02ec1e692e7c469f/Richard_Watson.jpg",
-            "type": "image/*",
-            "length": "0"
-          },
-          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt50d1991c5a78bd7c/63ea656a02ec1e692e7c469f/Richard_Watson.jpg"
         }
       ]
     },
@@ -4389,16 +4304,6 @@
           "wordCount": 2881,
           "title": "Will AI and Deepfakes Weaken Biometric MFA",
           "imageUrl": "https://blog.knowbe4.com/hubfs/Social%20Image%20Repository/Evangelist%20Blog%20Social%20Graphics/Evangelists-Roger%20Grimes.jpg#keepProtocol"
-        },
-        {
-          "id": "https://blog.knowbe4.com/heads-up-russian-hacker-group-launches-new-spear-phishing-campaign-with-targets-to-us-and-europe",
-          "author": "Stu Sjouwerman",
-          "description": "The Russian-based hacking group Seaborgium is at it again with increased spear phishing attacks targeting US and European countries in the last year.",
-          "link": "https://blog.knowbe4.com/heads-up-russian-hacker-group-launches-new-spear-phishing-campaign-with-targets-to-us-and-europe",
-          "publishedOn": "2023-02-16T14:17:56.000Z",
-          "wordCount": 2457,
-          "title": "[HEADS UP] Russian Hacker Group Launches New Spear Phishing Campaign with Targets in US and Europe",
-          "imageUrl": "https://blog.knowbe4.com/hubfs/hacker_Image.jpg#keepProtocol"
         }
       ]
     },
@@ -4407,6 +4312,38 @@
       "feedUrl": "https://thehackernews.com/feeds/posts/default",
       "siteUrl": "https://thehackernews.com",
       "articles": [
+        {
+          "id": "https://thehackernews.com/2023/03/pompompurin-unmasked-infamous.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "U.S. law enforcement authorities have arrested a New York man in connection with running the infamous BreachForums hacking forum under the online alias \"Pompompurin.\"\nThe development, first reported by Bloomberg Law, comes after News 12 Westchester, earlier this week, said that federal investigators \"spent hours inside and outside of a home in Peekskill.\"\n\"At one point, investigators were seen",
+          "link": "https://thehackernews.com/2023/03/pompompurin-unmasked-infamous.html",
+          "publishedOn": "2023-03-18T05:59:00.000Z",
+          "wordCount": null,
+          "title": "Pompompurin Unmasked: Infamous BreachForums Mastermind Arrested in New York",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhpR7gfJM4e4dOKvgPL9fwnFlCF0PPPZXaetmPalyNN2X0Sj1FR31OHl0YM8zCtKiNpR3ttG1iKVKGJRUfXg7ZYkPfrb9SfnG3CgcaNq1BbURibIT01Bw4P7YOi5ukWF0HV6Dx8po0NwbVjkyXLXDiKKk39_YJlOOvaa-BvM5RRfN6KVUEeh8wJDXJQ/s1600/breached.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhpR7gfJM4e4dOKvgPL9fwnFlCF0PPPZXaetmPalyNN2X0Sj1FR31OHl0YM8zCtKiNpR3ttG1iKVKGJRUfXg7ZYkPfrb9SfnG3CgcaNq1BbURibIT01Bw4P7YOi5ukWF0HV6Dx8po0NwbVjkyXLXDiKKk39_YJlOOvaa-BvM5RRfN6KVUEeh8wJDXJQ/s1600/breached.png"
+        },
+        {
+          "id": "https://thehackernews.com/2023/03/lockbit-30-ransomware-inside.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "U.S. government agencies have released a joint cybersecurity advisory detailing the indicators of compromise (IoCs) and tactics, techniques, and procedures (TTPs) associated with the notorious LockBit 3.0 ransomware.\n\"The LockBit 3.0 ransomware operations function as a Ransomware-as-a-Service (RaaS) model and is a continuation of previous versions of the ransomware, LockBit 2.0, and LockBit,\"",
+          "link": "https://thehackernews.com/2023/03/lockbit-30-ransomware-inside.html",
+          "publishedOn": "2023-03-18T05:17:00.000Z",
+          "wordCount": null,
+          "title": "LockBit 3.0 Ransomware: Inside the Cyberthreat That's Costing Millions",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiq79HBBA8LS8E2xr4gPiDnGScNC4jYO-4A8gPKFqegEOWp_bsuoDvbWN2s0UKQiqwmEzw1hlGrvLcO82M4GuBfsiXYaVatejI5H45L1Nfzze6fbQAES1cPA2B4Tngk76-gmvC7gynFpA8eZdr0Z5HE7ZJlGPph8PdwvQwQcOq4YnGYcY_SYUktLrUN/s1600/lockbit-ransomware.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiq79HBBA8LS8E2xr4gPiDnGScNC4jYO-4A8gPKFqegEOWp_bsuoDvbWN2s0UKQiqwmEzw1hlGrvLcO82M4GuBfsiXYaVatejI5H45L1Nfzze6fbQAES1cPA2B4Tngk76-gmvC7gynFpA8eZdr0Z5HE7ZJlGPph8PdwvQwQcOq4YnGYcY_SYUktLrUN/s1600/lockbit-ransomware.png"
+        },
         {
           "id": "https://thehackernews.com/2023/03/fakecalls-vishing-malware-targets-south.html",
           "author": "info@thehackernews.com (The Hacker News)",
@@ -6358,38 +6295,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDPbBc2Wv4NMhhpVfG50lFnJLQhPXVlY7qZIDBO6HFBOJxY2llPBxwHBJNyV-etqpGICZ7P3GRw3eSJSX909U3bi6ZqNSJQfPTJDpe2WBjK43007Kh9o6aEu8gmYVDqQw3oJkpxDPNVqtH0ZpSB4vuAxbY_V94KN0DYv9nMboViz3woAJhpkKg-qS_/s1600/clamav.png"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDPbBc2Wv4NMhhpVfG50lFnJLQhPXVlY7qZIDBO6HFBOJxY2llPBxwHBJNyV-etqpGICZ7P3GRw3eSJSX909U3bi6ZqNSJQfPTJDpe2WBjK43007Kh9o6aEu8gmYVDqQw3oJkpxDPNVqtH0ZpSB4vuAxbY_V94KN0DYv9nMboViz3woAJhpkKg-qS_/s1600/clamav.png"
-        },
-        {
-          "id": "https://thehackernews.com/2023/02/researchers-hijack-popular-npm-package.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "A popular npm package with more than 3.5 million weekly downloads has been found vulnerable to an account takeover attack.\n\"The package can be taken over by recovering an expired domain name for one of its maintainers and resetting the password,\" software supply chain security company Illustria said in a report.\nWhile npm's security protections limit users to have only one active email address",
-          "link": "https://thehackernews.com/2023/02/researchers-hijack-popular-npm-package.html",
-          "publishedOn": "2023-02-16T18:30:00.000Z",
-          "wordCount": null,
-          "title": "Researchers Hijack Popular NPM Package with Millions of Downloads",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgrpUTdAxuYym2X7U9P7i51yplVFxB2x35Ng1TFBZV0fuwcqE2DoUoktBTnyzNZKV7gAGXNWy4mccjamKqeAQVzsyqwt13M1POW2bPDkkUo4y99QtMuqIzvzzXveWbplcT-Lbkoq0ZHij5qxqAAEQgqIhxSbXvSWBmhlfONa4VbVL068gZrFIYsAV4w/s1600/npm.png"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgrpUTdAxuYym2X7U9P7i51yplVFxB2x35Ng1TFBZV0fuwcqE2DoUoktBTnyzNZKV7gAGXNWy4mccjamKqeAQVzsyqwt13M1POW2bPDkkUo4y99QtMuqIzvzzXveWbplcT-Lbkoq0ZHij5qxqAAEQgqIhxSbXvSWBmhlfONa4VbVL068gZrFIYsAV4w/s1600/npm.png"
-        },
-        {
-          "id": "https://thehackernews.com/2023/02/researchers-link-sidewinder-group-to.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "The prolific SideWinder group has been attributed as the nation-state actor behind attempted attacks against 61 entities in Afghanistan, Bhutan, Myanmar, Nepal, and Sri Lanka between June and November 2021.\nTargets included government, military, law enforcement, banks, and other organizations, according to an exhaustive report published by Group-IB, which also found links between the adversary",
-          "link": "https://thehackernews.com/2023/02/researchers-link-sidewinder-group-to.html",
-          "publishedOn": "2023-02-16T18:16:00.000Z",
-          "wordCount": null,
-          "title": "Researchers Link SideWinder Group to Dozens of Targeted Attacks in Multiple Countries",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhGqVRA_swx-rn4BNCkJNmxt53MkreP6h97KlfACuE2eR5No1jMTfx9ZXFPzuTIlg1PKgx4_2uzUmqwkCl3RYZZisaPisYq1zLzHMbqHiOBmbiGbDu8wRsO8SO9jvEHUVfRMRlynAnUgNLQkwahD0VdaiUz7p_-r46kF8AucHaVAH2Trv-_2bg0tyLI/s1600/hacker.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhGqVRA_swx-rn4BNCkJNmxt53MkreP6h97KlfACuE2eR5No1jMTfx9ZXFPzuTIlg1PKgx4_2uzUmqwkCl3RYZZisaPisYq1zLzHMbqHiOBmbiGbDu8wRsO8SO9jvEHUVfRMRlynAnUgNLQkwahD0VdaiUz7p_-r46kF8AucHaVAH2Trv-_2bg0tyLI/s1600/hacker.jpg"
         }
       ]
     }
