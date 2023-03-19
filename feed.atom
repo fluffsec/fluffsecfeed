@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-03-18T19:15:19.003Z</updated>
+    <updated>2023-03-19T02:23:50.512Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
@@ -4907,42 +4907,6 @@ The malicious functionalities include the "ability to read and leak target's con
         <summary type="html"><![CDATA[You should use phishing-resistant multi-factor authentication (MFA) when you can to protect valuable data and systems. But most biometrics and MFA are not as strong as touted and much of it can easily be hacked and bypassed. It doesn’t necessarily mean you shouldn’t use it, just pick strong, more trustworthy implementations and don’t ever think they can’t be hacked.]]></summary>
         <author>
             <name>Roger Grimes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[⚡Top Cybersecurity News Stories This Week — Cybersecurity Newsletter]]></title>
-        <id>https://thehackernews.com/2023/02/top-cybersecurity-news-stories-this.html</id>
-        <link href="https://thehackernews.com/2023/02/top-cybersecurity-news-stories-this.html"/>
-        <updated>2023-02-17T13:16:00.000Z</updated>
-        <summary type="html"><![CDATA[Hey 👋 there, cyber friends!
-Welcome to this week's cybersecurity newsletter, where we aim to keep you informed and empowered in the ever-changing world of cyber threats.
-In today's edition, we will cover some interesting developments in the cybersecurity landscape and share some insightful analysis of each to help you protect yourself against potential attacks.
-1. Apple 📱 Devices Hacked with]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Armenian Entities Hit by New Version of OxtaRAT Spying Tool]]></title>
-        <id>https://thehackernews.com/2023/02/armenian-entities-hit-by-new-version-of.html</id>
-        <link href="https://thehackernews.com/2023/02/armenian-entities-hit-by-new-version-of.html"/>
-        <updated>2023-02-17T12:47:00.000Z</updated>
-        <summary type="html"><![CDATA[Entities in Armenia have come under a cyber attack using an updated version of a backdoor called OxtaRAT that allows remote access and desktop surveillance.
-"The tool capabilities include searching for and exfiltrating files from the infected machine, recording the video from the web camera and desktop, remotely controlling the compromised machine with TightVNC, installing a web shell,]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Mirai Botnet Variant 'V3G4' Exploiting 13 Flaws to Target Linux and IoT Devices]]></title>
-        <id>https://thehackernews.com/2023/02/new-mirai-botnet-variant-v3g4.html</id>
-        <link href="https://thehackernews.com/2023/02/new-mirai-botnet-variant-v3g4.html"/>
-        <updated>2023-02-17T09:25:00.000Z</updated>
-        <summary type="html"><![CDATA[A new variant of the notorious Mirai botnet has been found leveraging several security vulnerabilities to propagate itself to Linux and IoT devices.
-Observed during the second half of 2022, the new version has been dubbed V3G4 by Palo Alto Networks Unit 42, which identified three different campaigns likely conducted by the same threat actor.
-"Once the vulnerable devices are compromised, they]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
         </author>
     </entry>
 </feed>
