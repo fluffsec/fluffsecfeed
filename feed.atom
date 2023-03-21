@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-03-20T19:16:32.063Z</updated>
+    <updated>2023-03-21T02:06:30.734Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ChatGPT Gut Check: Cybersecurity Threats Overhyped or Not?]]></title>
+        <id>https://www.darkreading.com/attacks-breaches/chatgpt-gut-check-openai-cybersecurity-threat-overhyped</id>
+        <link href="https://www.darkreading.com/attacks-breaches/chatgpt-gut-check-openai-cybersecurity-threat-overhyped"/>
+        <updated>2023-03-20T23:00:00.000Z</updated>
+        <summary type="html"><![CDATA[UK cybersecurity authorities and researchers tamp down fears that ChatGPT will overwhelm current defenses, while the CEO of OpenAI worries about its use in cyberattacks.]]></summary>
+        <author>
+            <name>Becky Bracken, Editor, Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mirai Hackers Use Golang to Create a Bigger, Badder DDoS Botnet]]></title>
+        <id>https://www.darkreading.com/vulnerabilities-threats/mirai-hackers-golang-bigger-badder-ddos-botnet</id>
+        <link href="https://www.darkreading.com/vulnerabilities-threats/mirai-hackers-golang-bigger-badder-ddos-botnet"/>
+        <updated>2023-03-20T20:23:00.000Z</updated>
+        <summary type="html"><![CDATA[With HinataBot, malware authors have created a beast many times more efficient than even the scariest botnets of old, packing more than 3Tbit/s DDoS speeds.]]></summary>
+        <author>
+            <name>Nate Nelson, Contributing Writer, Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI Has Your Business Data]]></title>
+        <id>https://www.darkreading.com/edge-articles/ai-has-your-business-data</id>
+        <link href="https://www.darkreading.com/edge-articles/ai-has-your-business-data"/>
+        <updated>2023-03-20T20:14:00.000Z</updated>
+        <summary type="html"><![CDATA[No-code has lowered the barrier for non-developers to create applications. AI will completely eliminate it.]]></summary>
+        <author>
+            <name>Michael Bargury, CTO &amp; Co-Founder, Zenity</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Unpatched Samsung Chipset Vulnerabilities Open Android Users to RCE Attacks]]></title>
+        <id>https://www.darkreading.com/attacks-breaches/samsung-chipset-vulnerabilities-android-users-rce-attacks</id>
+        <link href="https://www.darkreading.com/attacks-breaches/samsung-chipset-vulnerabilities-android-users-rce-attacks"/>
+        <updated>2023-03-20T20:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Users of affected devices that want to mitigate risk from the security issues in the Exynos chipsets can turn off Wi-Fi and Voice-over-LTE settings, researchers from Google's Project Zero say.]]></summary>
+        <author>
+            <name>Jai Vijayan, Contributing Writer, Dark Reading</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Cops Nab BreachForums Boss in New York]]></title>
         <id>https://www.darkreading.com/threat-intelligence/cops-nab-breachforums-boss-new-york</id>
