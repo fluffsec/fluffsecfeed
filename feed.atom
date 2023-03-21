@@ -2,10 +2,94 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-03-21T07:17:41.428Z</updated>
+    <updated>2023-03-21T13:18:45.467Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[CyberheistNews Vol 13 #12 [Heads Up] This Week's New SVB Meltdown Social Engineering Attacks]]></title>
+        <id>https://blog.knowbe4.com/cyberheistnews-vol-13-12-heads-up-this-weeks-new-svb-meltdown-social-engineering-attacks</id>
+        <link href="https://blog.knowbe4.com/cyberheistnews-vol-13-12-heads-up-this-weeks-new-svb-meltdown-social-engineering-attacks"/>
+        <updated>2023-03-21T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[CyberheistNews Vol 13 #12  |   March 21st, 2023  
+ 
+ 
+   
+ 
+ 
+  
+[Heads Up] This Week's New SVB Meltdown Social Engineering Attacks
+ 
+  
+On Saturday March 11, I warned about the coming wave of phishing attacks that would undoubtedly follow the SVB collapse. We were not disappointed.
+ 
+  
+There is a raft of new registered domains that are SVB-related, for example login.svb[.]com and many others that will probably all be used for business email compromise (BEC) attacks.
+ 
+  
+Adi Ikan, CEO of Veriti, observed that "Phishing campaigns are leveraging SVB's recent collapse to impersonate the bank and its online services. We have observed an increase in the registration of fake phishing domains in the U.S. (88%), Spain (7%), France (3%) and Israel (2%), and we anticipate this number to gro…]]></summary>
+        <author>
+            <name>Stu Sjouwerman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New ShellBot DDoS Malware Variants Targeting Poorly Managed Linux Servers]]></title>
+        <id>https://thehackernews.com/2023/03/new-shellbot-ddos-malware-targeting.html</id>
+        <link href="https://thehackernews.com/2023/03/new-shellbot-ddos-malware-targeting.html"/>
+        <updated>2023-03-21T11:41:00.000Z</updated>
+        <summary type="html"><![CDATA[Poorly managed Linux SSH servers are being targeted as part of a new campaign that deploys different variants of a malware called ShellBot.
+"ShellBot, also known as PerlBot, is a DDoS Bot malware developed in Perl and characteristically uses IRC protocol to communicate with the C&C server," AhnLab Security Emergency response Center (ASEC) said in a report.
+ShellBot is installed on servers that]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Best Defense Against Cyber Threats for Lean Security Teams]]></title>
+        <id>https://thehackernews.com/2023/03/the-best-defense-against-cyber-threats.html</id>
+        <link href="https://thehackernews.com/2023/03/the-best-defense-against-cyber-threats.html"/>
+        <updated>2023-03-21T11:28:00.000Z</updated>
+        <summary type="html"><![CDATA[H0lyGh0st, Magecart, and a slew of state-sponsored hacker groups are diversifying their tactics and shifting their focus to…
+You.
+That is, if you're in charge of cybersecurity for a small-to-midsize enterprise (SME).
+Why? Bad actors know that SMEs typically have a smaller security budget, less infosec manpower, and possibly weak or missing security controls to protect their data and]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[From Ransomware to Cyber Espionage: 55 Zero-Day Vulnerabilities Weaponized in 2022]]></title>
+        <id>https://thehackernews.com/2023/03/from-ransomware-to-cyber-espionage-55.html</id>
+        <link href="https://thehackernews.com/2023/03/from-ransomware-to-cyber-espionage-55.html"/>
+        <updated>2023-03-21T09:54:00.000Z</updated>
+        <summary type="html"><![CDATA[As many as 55 zero-day vulnerabilities were exploited in the wild in 2022, with most of the flaws discovered in software from Microsoft, Google, and Apple.
+While this figure represents a decrease from the year before, when a staggering 81 zero-days were weaponized, it still represents a significant uptick in recent years of threat actors leveraging unknown security flaws to their advantage.
+The]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hackers Steal Over $1.6 Million in Crypto from General Bytes Bitcoin ATMs Using Zero-Day Flaw]]></title>
+        <id>https://thehackernews.com/2023/03/hackers-steal-over-16-million-in-crypto.html</id>
+        <link href="https://thehackernews.com/2023/03/hackers-steal-over-16-million-in-crypto.html"/>
+        <updated>2023-03-21T06:55:00.000Z</updated>
+        <summary type="html"><![CDATA[Bitcoin ATM maker General Bytes disclosed that unidentified threat actors stole cryptocurrency from hot wallets by exploiting a zero-day security flaw in its software.
+"The attacker was able to upload his own java application remotely via the master service interface used by terminals to upload videos and run it using 'batm' user privileges," the company said in an advisory published over the]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[IAM Startup Aembit Secures How Workloads Connect to Services]]></title>
+        <id>https://www.darkreading.com/dr-tech/new-iam-startup-aembit-secures-how-workloads-connect-to-services</id>
+        <link href="https://www.darkreading.com/dr-tech/new-iam-startup-aembit-secures-how-workloads-connect-to-services"/>
+        <updated>2023-03-21T01:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Aembit launches from stealth with a cloud-based identity access management platform for enterprise workloads.]]></summary>
+        <author>
+            <name>Fahmida Y. Rashid, Managing Editor, Features, Dark Reading</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ChatGPT Gut Check: Cybersecurity Threats Overhyped or Not?]]></title>
         <id>https://www.darkreading.com/attacks-breaches/chatgpt-gut-check-openai-cybersecurity-threat-overhyped</id>

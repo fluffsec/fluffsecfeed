@@ -481,6 +481,21 @@
       "siteUrl": "https://www.darkreading.com",
       "articles": [
         {
+          "id": "https://www.darkreading.com/dr-tech/new-iam-startup-aembit-secures-how-workloads-connect-to-services",
+          "author": "Fahmida Y. Rashid, Managing Editor, Features, Dark Reading",
+          "description": "Aembit launches from stealth with a cloud-based identity access management platform for enterprise workloads.",
+          "link": "https://www.darkreading.com/dr-tech/new-iam-startup-aembit-secures-how-workloads-connect-to-services",
+          "publishedOn": "2023-03-21T01:00:00.000Z",
+          "wordCount": 14010,
+          "title": "IAM Startup Aembit Secures How Workloads Connect to Services",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt93784ffee79538e7/60d4371522d24e38a3806ecf/fahmida.png",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt93784ffee79538e7/60d4371522d24e38a3806ecf/fahmida.png"
+        },
+        {
           "id": "https://www.darkreading.com/attacks-breaches/chatgpt-gut-check-openai-cybersecurity-threat-overhyped",
           "author": "Becky Bracken, Editor, Dark Reading",
           "description": "UK cybersecurity authorities and researchers tamp down fears that ChatGPT will overwhelm current defenses, while the CEO of OpenAI worries about its use in cyberattacks.",
@@ -3616,6 +3631,16 @@
       "siteUrl": "https://blog.knowbe4.com",
       "articles": [
         {
+          "id": "https://blog.knowbe4.com/cyberheistnews-vol-13-12-heads-up-this-weeks-new-svb-meltdown-social-engineering-attacks",
+          "author": "Stu Sjouwerman",
+          "description": "CyberheistNews Vol 13 #12  |   March 21st, 2023  \r\n \n \r\n   \r\n \n \r\n  \n[Heads Up] This Week's New SVB Meltdown Social Engineering Attacks\n \r\n  \nOn Saturday March 11, I warned about the coming wave of phishing attacks that would undoubtedly follow the SVB collapse. We were not disappointed.\n \r\n  \nThere is a raft of new registered domains that are SVB-related, for example login.svb[.]com and many others that will probably all be used for business email compromise (BEC) attacks.\n \r\n  \nAdi Ikan, CEO of Veriti, observed that \"Phishing campaigns are leveraging SVB's recent collapse to impersonate the bank and its online services. We have observed an increase in the registration of fake phishing domains in the U.S. (88%), Spain (7%), France (3%) and Israel (2%), and we anticipate this number to gro…",
+          "link": "https://blog.knowbe4.com/cyberheistnews-vol-13-12-heads-up-this-weeks-new-svb-meltdown-social-engineering-attacks",
+          "publishedOn": "2023-03-21T13:00:00.000Z",
+          "wordCount": 4409,
+          "title": "CyberheistNews Vol 13 #12 [Heads Up] This Week's New SVB Meltdown Social Engineering Attacks",
+          "imageUrl": "https://blog.knowbe4.com/hubfs/CHN-Social.jpg#keepProtocol"
+        },
+        {
           "id": "https://blog.knowbe4.com/bill-96-qu%C3%A9bec-important-point-training-native-language-everywhere",
           "author": "John Just",
           "description": "A new law in Québec, Canada, that goes into effect this June  will require all policies and training materials assigned to employees within the province be provided in French.",
@@ -4252,6 +4277,70 @@
       "feedUrl": "https://thehackernews.com/feeds/posts/default",
       "siteUrl": "https://thehackernews.com",
       "articles": [
+        {
+          "id": "https://thehackernews.com/2023/03/new-shellbot-ddos-malware-targeting.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Poorly managed Linux SSH servers are being targeted as part of a new campaign that deploys different variants of a malware called ShellBot.\n\"ShellBot, also known as PerlBot, is a DDoS Bot malware developed in Perl and characteristically uses IRC protocol to communicate with the C&C server,\" AhnLab Security Emergency response Center (ASEC) said in a report.\nShellBot is installed on servers that",
+          "link": "https://thehackernews.com/2023/03/new-shellbot-ddos-malware-targeting.html",
+          "publishedOn": "2023-03-21T11:41:00.000Z",
+          "wordCount": null,
+          "title": "New ShellBot DDoS Malware Variants Targeting Poorly Managed Linux Servers",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi27rfNT0z4wvMjt6_04KTOPP-d-3ZPZlaMnpg6g7mL059uFZCllMEwAMkIHy0KkxhLJ3670VOjm_9nf7eYRd3uFAvsGt8wRCNtDykojZdcjiLD5oZlpLDuyhnZlM0pwi_wGt5943pxVvgCsHl3kwgJ9ExaZBkD8mdGFjsUUmivGlhW3hWQYjAm4EK6/s1600/linux.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi27rfNT0z4wvMjt6_04KTOPP-d-3ZPZlaMnpg6g7mL059uFZCllMEwAMkIHy0KkxhLJ3670VOjm_9nf7eYRd3uFAvsGt8wRCNtDykojZdcjiLD5oZlpLDuyhnZlM0pwi_wGt5943pxVvgCsHl3kwgJ9ExaZBkD8mdGFjsUUmivGlhW3hWQYjAm4EK6/s1600/linux.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2023/03/the-best-defense-against-cyber-threats.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "H0lyGh0st, Magecart, and a slew of state-sponsored hacker groups are diversifying their tactics and shifting their focus to…\nYou.\nThat is, if you're in charge of cybersecurity for a small-to-midsize enterprise (SME).\nWhy? Bad actors know that SMEs typically have a smaller security budget, less infosec manpower, and possibly weak or missing security controls to protect their data and",
+          "link": "https://thehackernews.com/2023/03/the-best-defense-against-cyber-threats.html",
+          "publishedOn": "2023-03-21T11:28:00.000Z",
+          "wordCount": null,
+          "title": "The Best Defense Against Cyber Threats for Lean Security Teams",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZbSMYug0VE-JFg6406Tsn3WXHg1wNvRNsW4kau4lVqBWff3KUPXheArb7UAnuvyaYtLSySduMKMmU_M1utwl60Cwg3OPCGNHqJslEgbnGSTwCOdveu9T2U077Z1GnEVr3V6hLYka1faEvW1ir-0lQbt0_VR0S-XfLji9WVUWHLPst2VdogesBH0xC/s1600/cynet.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZbSMYug0VE-JFg6406Tsn3WXHg1wNvRNsW4kau4lVqBWff3KUPXheArb7UAnuvyaYtLSySduMKMmU_M1utwl60Cwg3OPCGNHqJslEgbnGSTwCOdveu9T2U077Z1GnEVr3V6hLYka1faEvW1ir-0lQbt0_VR0S-XfLji9WVUWHLPst2VdogesBH0xC/s1600/cynet.png"
+        },
+        {
+          "id": "https://thehackernews.com/2023/03/from-ransomware-to-cyber-espionage-55.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "As many as 55 zero-day vulnerabilities were exploited in the wild in 2022, with most of the flaws discovered in software from Microsoft, Google, and Apple.\nWhile this figure represents a decrease from the year before, when a staggering 81 zero-days were weaponized, it still represents a significant uptick in recent years of threat actors leveraging unknown security flaws to their advantage.\nThe",
+          "link": "https://thehackernews.com/2023/03/from-ransomware-to-cyber-espionage-55.html",
+          "publishedOn": "2023-03-21T09:54:00.000Z",
+          "wordCount": null,
+          "title": "From Ransomware to Cyber Espionage: 55 Zero-Day Vulnerabilities Weaponized in 2022",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgZHl6k4oDcDZIeMyn-D9yVl2cKVZR7gjBWh6bBxJbEULv_KWn-eqw49Sdb0Ka6xPayVaB4pIO5owFlURA0E9I2-PdvgDGtNMyKWCW8lzMxgiN3I9CHh0u1e9vo26FnnLw2b-Wdz8n1I88qc_gTttG0rvLYibyDjqN_RVBo3-wyWOnMMfwnp7ABBeAm/s1600/cyber.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgZHl6k4oDcDZIeMyn-D9yVl2cKVZR7gjBWh6bBxJbEULv_KWn-eqw49Sdb0Ka6xPayVaB4pIO5owFlURA0E9I2-PdvgDGtNMyKWCW8lzMxgiN3I9CHh0u1e9vo26FnnLw2b-Wdz8n1I88qc_gTttG0rvLYibyDjqN_RVBo3-wyWOnMMfwnp7ABBeAm/s1600/cyber.png"
+        },
+        {
+          "id": "https://thehackernews.com/2023/03/hackers-steal-over-16-million-in-crypto.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Bitcoin ATM maker General Bytes disclosed that unidentified threat actors stole cryptocurrency from hot wallets by exploiting a zero-day security flaw in its software.\n\"The attacker was able to upload his own java application remotely via the master service interface used by terminals to upload videos and run it using 'batm' user privileges,\" the company said in an advisory published over the",
+          "link": "https://thehackernews.com/2023/03/hackers-steal-over-16-million-in-crypto.html",
+          "publishedOn": "2023-03-21T06:55:00.000Z",
+          "wordCount": null,
+          "title": "Hackers Steal Over $1.6 Million in Crypto from General Bytes Bitcoin ATMs Using Zero-Day Flaw",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjVmPEIXvl4JK4K2CXrjYB6dP3aQoZPTsugEH32w9CULeaeqbEb26Bq52CX5wL4rEYcF9rR_ciJ3G0px_qAot3Kjb7DVFMJ-LUrT0AkYjvP7Yjmjb9GkiNPlOvl89owXx5D19rphx7d1I-xVLPNcJ53e24p9v_VnG22EJEXu-uhfX3YQ1HvfDNrU1ks/s1600/BITCOIN.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjVmPEIXvl4JK4K2CXrjYB6dP3aQoZPTsugEH32w9CULeaeqbEb26Bq52CX5wL4rEYcF9rR_ciJ3G0px_qAot3Kjb7DVFMJ-LUrT0AkYjvP7Yjmjb9GkiNPlOvl89owXx5D19rphx7d1I-xVLPNcJ53e24p9v_VnG22EJEXu-uhfX3YQ1HvfDNrU1ks/s1600/BITCOIN.png"
+        },
         {
           "id": "https://thehackernews.com/2023/03/new-dotrunpex-malware-delivers-multiple.html",
           "author": "info@thehackernews.com (The Hacker News)",
