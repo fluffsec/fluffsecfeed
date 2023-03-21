@@ -2,10 +2,61 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-03-21T13:18:45.467Z</updated>
+    <updated>2023-03-21T19:15:44.001Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Name That Toon: It's E-Live!]]></title>
+        <id>https://www.darkreading.com/vulnerabilities-threats/name-that-toon-it-s-e-live-</id>
+        <link href="https://www.darkreading.com/vulnerabilities-threats/name-that-toon-it-s-e-live-"/>
+        <updated>2023-03-21T17:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Feeling creative? Submit your caption and our panel of experts will reward the winner with a $25 Amazon gift card.]]></summary>
+        <author>
+            <name>John Klossner, Cartoonist</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New 'Bad Magic' Cyber Threat Disrupt Ukraine's Key Sectors Amid War]]></title>
+        <id>https://thehackernews.com/2023/03/new-bad-magic-cyber-threat-disrupt.html</id>
+        <link href="https://thehackernews.com/2023/03/new-bad-magic-cyber-threat-disrupt.html"/>
+        <updated>2023-03-21T15:01:00.000Z</updated>
+        <summary type="html"><![CDATA[Amid the ongoing war between Russia and Ukraine, government, agriculture, and transportation organizations located in Donetsk, Lugansk, and Crimea have been attacked as part of an active campaign that drops a previously unseen, modular framework dubbed CommonMagic.
+"Although the initial vector of compromise is unclear, the details of the next stage imply the use of spear phishing or similar]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Custom 'Naplistener' Malware a Nightmare for Network-Based Detection]]></title>
+        <id>https://www.darkreading.com/threat-intelligence/custom-naplistener-malware-network-based-detection-sleep</id>
+        <link href="https://www.darkreading.com/threat-intelligence/custom-naplistener-malware-network-based-detection-sleep"/>
+        <updated>2023-03-21T14:30:50.000Z</updated>
+        <summary type="html"><![CDATA[Threat actors are using legitimate network assets and open source code to fly under the radar in data-stealing attacks using a set of custom malware bent on evasion.]]></summary>
+        <author>
+            <name>Elizabeth Montalbano, Contributor, Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[An Overview of Silicon Valley Bank Themed Social Engineering]]></title>
+        <id>https://blog.knowbe4.com/silicon-valley-bank-social-engineering</id>
+        <link href="https://blog.knowbe4.com/silicon-valley-bank-social-engineering"/>
+        <updated>2023-03-21T14:21:00.000Z</updated>
+        <summary type="html"><![CDATA[Researchers at ReliaQuest warn that organizations should continue to be on the lookout for social engineering attacks related to Silicon Valley Bank (SVB).]]></summary>
+        <author>
+            <name>Stu Sjouwerman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Controlling Third-Party Data Risk Should Be a Top Cybersecurity Priority]]></title>
+        <id>https://www.darkreading.com/attacks-breaches/controlling-third-party-data-risk-should-be-a-top-cybersecurity-priority-</id>
+        <link href="https://www.darkreading.com/attacks-breaches/controlling-third-party-data-risk-should-be-a-top-cybersecurity-priority-"/>
+        <updated>2023-03-21T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Third-party breaches have a wide effect that legacy security practices can no longer detect.]]></summary>
+        <author>
+            <name>Erwan Keraudy, CEO, CybelAngel</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CyberheistNews Vol 13 #12 [Heads Up] This Week's New SVB Meltdown Social Engineering Attacks]]></title>
         <id>https://blog.knowbe4.com/cyberheistnews-vol-13-12-heads-up-this-weeks-new-svb-meltdown-social-engineering-attacks</id>
@@ -30,6 +81,54 @@ There is a raft of new registered domains that are SVB-related, for example logi
 Adi Ikan, CEO of Veriti, observed that "Phishing campaigns are leveraging SVB's recent collapse to impersonate the bank and its online services. We have observed an increase in the registration of fake phishing domains in the U.S. (88%), Spain (7%), France (3%) and Israel (2%), and we anticipate this number to gro…]]></summary>
         <author>
             <name>Stu Sjouwerman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CISA and NSA Release Enduring Security Framework Guidance on Identity and Access Management]]></title>
+        <id>/node/17713</id>
+        <link href="https://www.cisa.gov/news-events/alerts/2023/03/21/cisa-and-nsa-release-enduring-security-framework-guidance-identity-and-access-management"/>
+        <updated>2023-03-21T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[As part of the Enduring Security Framework (ESF), the Cybersecurity and Infrastructure Security Agency (CISA) and the National Security Agency (NSA) has released Identity and Access Management Recommended Best Practices Guide for Administrators. These recommended best practices provide system administrators with actionable recommendations to better secure their systems from threats to Identity and Access Management (IAM).
+IAM—a framework of business processes, policies, and technologies that facilitate the management of digital identities—ensures that users only gain access to data when they have the appropriate credentials. This paper provides recommended best practices and mitigations to counter threats to IAM related to:
+identity governance
+environmental hardening
+identity federation/single sign-on
+multifactor authentication
+IAM auditing and monitoring
+This guidance was developed and published by a CISA- and NSA-led working panel with ESF, a public-private cross-sector partnership that aims to address risks that threaten critical infrastructure and national security systems.]]></summary>
+        <author>
+            <name>CISA</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CISA Releases Eight Industrial Control Systems Advisories]]></title>
+        <id>/node/17705</id>
+        <link href="https://www.cisa.gov/news-events/alerts/2023/03/21/cisa-releases-eight-industrial-control-systems-advisories"/>
+        <updated>2023-03-21T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[CISA released eight Industrial Control Systems (ICS) advisories on March 21, 2023. These advisories provide timely information about current security issues, vulnerabilities, and exploits surrounding ICS. 
+ICSA-23-080-01 Keysight N6854A Geolocation Server and N6841A RF Sensor
+ICSA-23-080-02 Delta Electronics InfraSuite Device Master
+ICSA-23-080-03 Siemens RUGGEDCOM APE1808 Product Family 
+ICSA-23-080-04 Siemens RADIUS Client of SIPROTEC 5 Devices
+ICSA-23-080-05 VISAM VBASE Automation Base
+ICSA-23-080-06 Rockwell Automation ThinManager
+ICSA-23-080-07 Siemens SCALANCE Third-Party
+ICSA-21-343-01 Hitachi Energy GMS600, PWC600, and Relion (Update A)
+CISA encourages users and administrators to review the newly released ICS advisories for technical details and mitigations:  
+Please share your thoughts. We recently updated our anonymous Product Feedback Survey and we'd welcome your feedback.]]></summary>
+        <author>
+            <name>CISA</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CISA Releases Updated Cybersecurity Performance Goals]]></title>
+        <id>/node/17710</id>
+        <link href="https://www.cisa.gov/news-events/alerts/2023/03/21/cisa-releases-updated-cybersecurity-performance-goals"/>
+        <updated>2023-03-21T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Today, we published stakeholder-based updates to the Cybersecurity Performance Goals (CPGs). Originally released last October, the CPGs are voluntary practices that businesses and critical infrastructure owners can take to protect themselves against cyber threats. The CPGs have been reorganized, reordered and renumbered to align closely with NIST CSF functions (Identify, Protect, Detect, Respond, and Recover) to help organizations more easily use the CPGs to prioritize investments as part of a broader cybersecurity program built around the CSF. 
+CISA urges stakeholders to review and learn more by visiting Cross-Sector Cybersecurity Performance Goals.]]></summary>
+        <author>
+            <name>CISA</name>
         </author>
     </entry>
     <entry>
@@ -4984,18 +5083,6 @@ The targeting, which coincided and has since persisted following the country
         <updated>2023-02-20T10:11:00.000Z</updated>
         <summary type="html"><![CDATA[The cyber espionage threat actor tracked as Earth Kitsune has been observed deploying a new backdoor called WhiskerSpy as part of a social engineering campaign.
 Earth Kitsune, active since at least 2019, is known to primarily target individuals interested in North Korea with self-developed malware such as dneSpy and agfSpy. Previously documented intrusions have entailed the use of watering holes]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Samsung Introduces New Feature to Protect Users from Zero-Click Malware Attacks]]></title>
-        <id>https://thehackernews.com/2023/02/samsung-introduces-new-feature-to.html</id>
-        <link href="https://thehackernews.com/2023/02/samsung-introduces-new-feature-to.html"/>
-        <updated>2023-02-20T05:50:00.000Z</updated>
-        <summary type="html"><![CDATA[Samsung has announced a new feature called Message Guard that comes with safeguards to protect users from malware and spyware via what's referred to as zero-click attacks.
-The South Korean chaebol said the solution "preemptively" secures users' devices by "limiting exposure to invisible threats disguised as image attachments."
-The security feature, available on Samsung Messages and Google]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>

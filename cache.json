@@ -53,6 +53,36 @@
       "siteUrl": "https://www.cisa.gov/",
       "articles": [
         {
+          "id": "/node/17713",
+          "author": "CISA",
+          "description": "As part of the Enduring Security Framework (ESF), the Cybersecurity and Infrastructure Security Agency (CISA) and the National Security Agency (NSA) has released Identity and Access Management Recommended Best Practices Guide for Administrators. These recommended best practices provide system administrators with actionable recommendations to better secure their systems from threats to Identity and Access Management (IAM).\nIAM—a framework of business processes, policies, and technologies that facilitate the management of digital identities—ensures that users only gain access to data when they have the appropriate credentials. This paper provides recommended best practices and mitigations to counter threats to IAM related to:\nidentity governance\nenvironmental hardening\nidentity federation/single sign-on\nmultifactor authentication\nIAM auditing and monitoring\nThis guidance was developed and published by a CISA- and NSA-led working panel with ESF, a public-private cross-sector partnership that aims to address risks that threaten critical infrastructure and national security systems.",
+          "link": "https://www.cisa.gov/news-events/alerts/2023/03/21/cisa-and-nsa-release-enduring-security-framework-guidance-identity-and-access-management",
+          "publishedOn": "2023-03-21T12:00:00.000Z",
+          "wordCount": 616,
+          "title": "CISA and NSA Release Enduring Security Framework Guidance on Identity and Access Management",
+          "imageUrl": null
+        },
+        {
+          "id": "/node/17705",
+          "author": "CISA",
+          "description": "CISA released eight Industrial Control Systems (ICS) advisories on March 21, 2023. These advisories provide timely information about current security issues, vulnerabilities, and exploits surrounding ICS. \nICSA-23-080-01 Keysight N6854A Geolocation Server and N6841A RF Sensor\nICSA-23-080-02 Delta Electronics InfraSuite Device Master\nICSA-23-080-03 Siemens RUGGEDCOM APE1808 Product Family \nICSA-23-080-04 Siemens RADIUS Client of SIPROTEC 5 Devices\nICSA-23-080-05 VISAM VBASE Automation Base\nICSA-23-080-06 Rockwell Automation ThinManager\nICSA-23-080-07 Siemens SCALANCE Third-Party\nICSA-21-343-01 Hitachi Energy GMS600, PWC600, and Relion (Update A)\nCISA encourages users and administrators to review the newly released ICS advisories for technical details and mitigations:  \nPlease share your thoughts. We recently updated our anonymous Product Feedback Survey and we'd welcome your feedback.",
+          "link": "https://www.cisa.gov/news-events/alerts/2023/03/21/cisa-releases-eight-industrial-control-systems-advisories",
+          "publishedOn": "2023-03-21T12:00:00.000Z",
+          "wordCount": 577,
+          "title": "CISA Releases Eight Industrial Control Systems Advisories",
+          "imageUrl": null
+        },
+        {
+          "id": "/node/17710",
+          "author": "CISA",
+          "description": "Today, we published stakeholder-based updates to the Cybersecurity Performance Goals (CPGs). Originally released last October, the CPGs are voluntary practices that businesses and critical infrastructure owners can take to protect themselves against cyber threats. The CPGs have been reorganized, reordered and renumbered to align closely with NIST CSF functions (Identify, Protect, Detect, Respond, and Recover) to help organizations more easily use the CPGs to prioritize investments as part of a broader cybersecurity program built around the CSF. \nCISA urges stakeholders to review and learn more by visiting Cross-Sector Cybersecurity Performance Goals.",
+          "link": "https://www.cisa.gov/news-events/alerts/2023/03/21/cisa-releases-updated-cybersecurity-performance-goals",
+          "publishedOn": "2023-03-21T12:00:00.000Z",
+          "wordCount": 557,
+          "title": "CISA Releases Updated Cybersecurity Performance Goals",
+          "imageUrl": null
+        },
+        {
           "id": "/node/17662",
           "author": "CISA",
           "description": "Drupal has released a security advisory to address an access bypass vulnerability affecting multiple Drupal versions. An attacker could exploit this vulnerability to take control of an affected system.\nCISA encourages users and administrators to review Drupal security advisory SA-CONTRIB- 2023-004 for more information and apply the necessary updates.",
@@ -480,6 +510,51 @@
       "feedUrl": "https://www.darkreading.com/rss.xml",
       "siteUrl": "https://www.darkreading.com",
       "articles": [
+        {
+          "id": "https://www.darkreading.com/vulnerabilities-threats/name-that-toon-it-s-e-live-",
+          "author": "John Klossner, Cartoonist",
+          "description": "Feeling creative? Submit your caption and our panel of experts will reward the winner with a $25 Amazon gift card.",
+          "link": "https://www.darkreading.com/vulnerabilities-threats/name-that-toon-it-s-e-live-",
+          "publishedOn": "2023-03-21T17:00:00.000Z",
+          "wordCount": 12837,
+          "title": "Name That Toon: It's E-Live!",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltf97d71984b60d7ed/60b1e88b5d34de550780a96e/Klossner_iwk_photo.gif",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltf97d71984b60d7ed/60b1e88b5d34de550780a96e/Klossner_iwk_photo.gif"
+        },
+        {
+          "id": "https://www.darkreading.com/threat-intelligence/custom-naplistener-malware-network-based-detection-sleep",
+          "author": "Elizabeth Montalbano, Contributor, Dark Reading",
+          "description": "Threat actors are using legitimate network assets and open source code to fly under the radar in data-stealing attacks using a set of custom malware bent on evasion.",
+          "link": "https://www.darkreading.com/threat-intelligence/custom-naplistener-malware-network-based-detection-sleep",
+          "publishedOn": "2023-03-21T14:30:50.000Z",
+          "wordCount": 15124,
+          "title": "Custom 'Naplistener' Malware a Nightmare for Network-Based Detection",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltbfd004d139d42d70/6303bca6236c2476a257760e/ElizabethMontalbano.jpg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltbfd004d139d42d70/6303bca6236c2476a257760e/ElizabethMontalbano.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/attacks-breaches/controlling-third-party-data-risk-should-be-a-top-cybersecurity-priority-",
+          "author": "Erwan Keraudy, CEO, CybelAngel",
+          "description": "Third-party breaches have a wide effect that legacy security practices can no longer detect.",
+          "link": "https://www.darkreading.com/attacks-breaches/controlling-third-party-data-risk-should-be-a-top-cybersecurity-priority-",
+          "publishedOn": "2023-03-21T14:00:00.000Z",
+          "wordCount": 15004,
+          "title": "Controlling Third-Party Data Risk Should Be a Top Cybersecurity Priority",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt46059101e4d75eef/641609323823b10f0764d887/Erwan-Keraudy-300dpi-2000x3000.jpg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt46059101e4d75eef/641609323823b10f0764d887/Erwan-Keraudy-300dpi-2000x3000.jpg"
+        },
         {
           "id": "https://www.darkreading.com/dr-tech/new-iam-startup-aembit-secures-how-workloads-connect-to-services",
           "author": "Fahmida Y. Rashid, Managing Editor, Features, Dark Reading",
@@ -3631,6 +3706,16 @@
       "siteUrl": "https://blog.knowbe4.com",
       "articles": [
         {
+          "id": "https://blog.knowbe4.com/silicon-valley-bank-social-engineering",
+          "author": "Stu Sjouwerman",
+          "description": "Researchers at ReliaQuest warn that organizations should continue to be on the lookout for social engineering attacks related to Silicon Valley Bank (SVB).",
+          "link": "https://blog.knowbe4.com/silicon-valley-bank-social-engineering",
+          "publishedOn": "2023-03-21T14:21:00.000Z",
+          "wordCount": 2398,
+          "title": "An Overview of Silicon Valley Bank Themed Social Engineering",
+          "imageUrl": "https://blog.knowbe4.com/hubfs/social-engineering-2.jpg#keepProtocol"
+        },
+        {
           "id": "https://blog.knowbe4.com/cyberheistnews-vol-13-12-heads-up-this-weeks-new-svb-meltdown-social-engineering-attacks",
           "author": "Stu Sjouwerman",
           "description": "CyberheistNews Vol 13 #12  |   March 21st, 2023  \r\n \n \r\n   \r\n \n \r\n  \n[Heads Up] This Week's New SVB Meltdown Social Engineering Attacks\n \r\n  \nOn Saturday March 11, I warned about the coming wave of phishing attacks that would undoubtedly follow the SVB collapse. We were not disappointed.\n \r\n  \nThere is a raft of new registered domains that are SVB-related, for example login.svb[.]com and many others that will probably all be used for business email compromise (BEC) attacks.\n \r\n  \nAdi Ikan, CEO of Veriti, observed that \"Phishing campaigns are leveraging SVB's recent collapse to impersonate the bank and its online services. We have observed an increase in the registration of fake phishing domains in the U.S. (88%), Spain (7%), France (3%) and Israel (2%), and we anticipate this number to gro…",
@@ -4277,6 +4362,22 @@
       "feedUrl": "https://thehackernews.com/feeds/posts/default",
       "siteUrl": "https://thehackernews.com",
       "articles": [
+        {
+          "id": "https://thehackernews.com/2023/03/new-bad-magic-cyber-threat-disrupt.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Amid the ongoing war between Russia and Ukraine, government, agriculture, and transportation organizations located in Donetsk, Lugansk, and Crimea have been attacked as part of an active campaign that drops a previously unseen, modular framework dubbed CommonMagic.\n\"Although the initial vector of compromise is unclear, the details of the next stage imply the use of spear phishing or similar",
+          "link": "https://thehackernews.com/2023/03/new-bad-magic-cyber-threat-disrupt.html",
+          "publishedOn": "2023-03-21T15:01:00.000Z",
+          "wordCount": null,
+          "title": "New 'Bad Magic' Cyber Threat Disrupt Ukraine's Key Sectors Amid War",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhlNV28ZruCGm_-xVy5q2kQRVN-gP-MlaeAobAtNhUi-hM4Cy1hv2XLTHZ6I8bwOhk12VlcpPJGtPLLhjcHwkGJIeoFJK8as9mgqOoa9dk7RmlgINmk9TbPfOjd5gyrfop5UM63cC_Si4hOmS7Pz84Qc1e2ZEyYn6ShqgtwylmUgn0xgld1xCZ5E1fV/s1600/loader.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhlNV28ZruCGm_-xVy5q2kQRVN-gP-MlaeAobAtNhUi-hM4Cy1hv2XLTHZ6I8bwOhk12VlcpPJGtPLLhjcHwkGJIeoFJK8as9mgqOoa9dk7RmlgINmk9TbPfOjd5gyrfop5UM63cC_Si4hOmS7Pz84Qc1e2ZEyYn6ShqgtwylmUgn0xgld1xCZ5E1fV/s1600/loader.png"
+        },
         {
           "id": "https://thehackernews.com/2023/03/new-shellbot-ddos-malware-targeting.html",
           "author": "info@thehackernews.com (The Hacker News)",
@@ -6276,22 +6377,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgP8EmA64mqJbZdYVLq9nxSVXCI9M2XhAj4c0B8zNMGYUIYYXBrNKIDiJi3DUhZHti-JW1iuWq_hgH_KGkQT_pkqueXKc0WcPMVbLXmAIPg9BotGqpr9xFx0yMyAUyMDgNz_Ar4heB34OmTE4ThPz9VHq3QCC9EcZyyW_oQTKK5EvsbRCGK_sU_s3kC/s1600/trend.png"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgP8EmA64mqJbZdYVLq9nxSVXCI9M2XhAj4c0B8zNMGYUIYYXBrNKIDiJi3DUhZHti-JW1iuWq_hgH_KGkQT_pkqueXKc0WcPMVbLXmAIPg9BotGqpr9xFx0yMyAUyMDgNz_Ar4heB34OmTE4ThPz9VHq3QCC9EcZyyW_oQTKK5EvsbRCGK_sU_s3kC/s1600/trend.png"
-        },
-        {
-          "id": "https://thehackernews.com/2023/02/samsung-introduces-new-feature-to.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Samsung has announced a new feature called Message Guard that comes with safeguards to protect users from malware and spyware via what's referred to as zero-click attacks.\nThe South Korean chaebol said the solution \"preemptively\" secures users' devices by \"limiting exposure to invisible threats disguised as image attachments.\"\nThe security feature, available on Samsung Messages and Google",
-          "link": "https://thehackernews.com/2023/02/samsung-introduces-new-feature-to.html",
-          "publishedOn": "2023-02-20T05:50:00.000Z",
-          "wordCount": null,
-          "title": "Samsung Introduces New Feature to Protect Users from Zero-Click Malware Attacks",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhi_M_EBojDCM6VyXnEO0aXPT9WOgv3QZ6qYU0nMrq8qaxt6KRYnyfi40jqBZwSwsqa7kakcWjHYdUiS3cLr1B-bIiN8iB9bUsGVqhZHuk7hzP2WWEL9G87OELuBVYk0WxZkXZcPrPG1d7U1IyUZY2NG2dk29iX-ysoAnP0Nzbj92JCbqD4NeAaLBv_/s1600/Samsung-Message-Guard.png"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhi_M_EBojDCM6VyXnEO0aXPT9WOgv3QZ6qYU0nMrq8qaxt6KRYnyfi40jqBZwSwsqa7kakcWjHYdUiS3cLr1B-bIiN8iB9bUsGVqhZHuk7hzP2WWEL9G87OELuBVYk0WxZkXZcPrPG1d7U1IyUZY2NG2dk29iX-ysoAnP0Nzbj92JCbqD4NeAaLBv_/s1600/Samsung-Message-Guard.png"
         }
       ]
     }
