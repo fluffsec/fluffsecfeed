@@ -2,10 +2,80 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-03-22T13:23:54.872Z</updated>
+    <updated>2023-03-22T19:15:23.483Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[10 Vulnerabilities Types to Focus On This Year]]></title>
+        <id>https://www.darkreading.com/edge-articles/10-vulnerability-types-to-focus-on-this-year</id>
+        <link href="https://www.darkreading.com/edge-articles/10-vulnerability-types-to-focus-on-this-year"/>
+        <updated>2023-03-22T21:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A new Tech Insight report examines how the enterprise attack surface is expanding and how organizations must deal with vulnerabilities in emerging technologies.]]></summary>
+        <author>
+            <name>George V. Hulme, Contributor</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pipeline Cybersecurity Rules Show the Need for Public-Private Partnerships]]></title>
+        <id>https://www.darkreading.com/ics-ot/pipeline-cybersecurity-rules-show-the-need-for-public-private-partnerships</id>
+        <link href="https://www.darkreading.com/ics-ot/pipeline-cybersecurity-rules-show-the-need-for-public-private-partnerships"/>
+        <updated>2023-03-22T17:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The government should not issue infrastructure regulations without the involvement of the industries it's regulating.]]></summary>
+        <author>
+            <name>Ryan Kovar, Distinguished Security Strategist and Leader, Splunk SURGe</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Attackers Are Probing for Zero-Day Vulns in Edge Infrastructure Products]]></title>
+        <id>https://www.darkreading.com/attacks-breaches/attackers-probing-zero-day-vulns-edge-infrastructure</id>
+        <link href="https://www.darkreading.com/attacks-breaches/attackers-probing-zero-day-vulns-edge-infrastructure"/>
+        <updated>2023-03-22T17:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Nearly 20% of the zero-day flaws that attackers exploited in 2022 were in network, security, and IT management products, Mandiant says.]]></summary>
+        <author>
+            <name>Jai Vijayan, Contributing Writer, Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BreachForums Shuts Down in Wake of Leader's Arrest]]></title>
+        <id>https://www.darkreading.com/vulnerabilities-threats/breachforums-shuts-down-leaders-arrest</id>
+        <link href="https://www.darkreading.com/vulnerabilities-threats/breachforums-shuts-down-leaders-arrest"/>
+        <updated>2023-03-22T16:10:00.000Z</updated>
+        <summary type="html"><![CDATA[Administrator shutters the forum on fears that it had been breached by federal authorities but assured members it's not the end for the popular underground hacking site.]]></summary>
+        <author>
+            <name>Elizabeth Montalbano, Contributor, Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Keep Incident Response Plans Current]]></title>
+        <id>https://www.darkreading.com/attacks-breaches/how-to-keep-incident-response-plans-current</id>
+        <link href="https://www.darkreading.com/attacks-breaches/how-to-keep-incident-response-plans-current"/>
+        <updated>2023-03-22T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Review and update plans to minimize recovery time. Practice and a well-thumbed playbook that considers different scenarios will ensure faster recovery of critical data.]]></summary>
+        <author>
+            <name>Grayson Milbourne, Security Intelligence Director, OpenText Cybersecurity</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[When a USB Flash Drive is Actually a Bomb]]></title>
+        <id>https://blog.knowbe4.com/when-a-usb-flash-drive-is-actually-a-bomb</id>
+        <link href="https://blog.knowbe4.com/when-a-usb-flash-drive-is-actually-a-bomb"/>
+        <updated>2023-03-22T13:52:30.000Z</updated>
+        <summary type="html"><![CDATA[A journalist based in Ecuador recently used a USB flash drive that was actually a legitimate bomb.]]></summary>
+        <author>
+            <name>Stu Sjouwerman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Identifying AI-Enabled Phishing]]></title>
+        <id>https://blog.knowbe4.com/identifying-ai-enabled-phishing</id>
+        <link href="https://blog.knowbe4.com/identifying-ai-enabled-phishing"/>
+        <updated>2023-03-22T13:52:28.000Z</updated>
+        <summary type="html"><![CDATA[Users need to adapt to an evolving threat landscape in which attackers can use AI tools like ChatGPT to craft extremely convincing phishing emails, according to Matthew Tyson at CSO.]]></summary>
+        <author>
+            <name>Stu Sjouwerman</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CISA Alerts on Critical Security Vulnerabilities in Industrial Control Systems]]></title>
         <id>https://thehackernews.com/2023/03/cisa-alerts-on-critical-security.html</id>
@@ -5142,18 +5212,6 @@ The French cybersecurity company said it discovered more than 40]]></summary>
         <summary type="html"><![CDATA[Popular cryptocurrency exchange platform Coinbase disclosed that it experienced a cybersecurity attack that targeted its employees.
 The company said its "cyber controls prevented the attacker from gaining direct system access and prevented any loss of funds or compromise of customer information."
 The incident, which took place on February 5, 2023, resulted in the exposure of a "limited amount of]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Researchers Warn of ReverseRAT Backdoor Targeting Indian Government Agencies]]></title>
-        <id>https://thehackernews.com/2023/02/researchers-warn-of-reverserat-backdoor.html</id>
-        <link href="https://thehackernews.com/2023/02/researchers-warn-of-reverserat-backdoor.html"/>
-        <updated>2023-02-21T05:55:00.000Z</updated>
-        <summary type="html"><![CDATA[A spear-phishing campaign targeting Indian government entities aims to deploy an updated version of a backdoor called ReverseRAT.
-Cybersecurity firm ThreatMon attributed the activity to a threat actor tracked as SideCopy.
-SideCopy is a threat group of Pakistani origin that shares overlaps with another actor called Transparent Tribe. It is so named for mimicking the infection chains associated]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
