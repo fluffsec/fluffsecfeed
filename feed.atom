@@ -2,10 +2,47 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-03-22T19:15:23.483Z</updated>
+    <updated>2023-03-23T02:08:29.340Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Lightspin Launches Remediation Hub to Identify and Fix Cloud Security Threats]]></title>
+        <id>https://www.darkreading.com/cloud/lightspin-launches-remediation-hub-to-identify-and-fix-cloud-security-threats</id>
+        <link href="https://www.darkreading.com/cloud/lightspin-launches-remediation-hub-to-identify-and-fix-cloud-security-threats"/>
+        <updated>2023-03-22T22:13:00.000Z</updated>
+        <author>
+            <name>Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CISA Warns on Unpatched ICS Vulnerabilities Lurking in Critical Infrastructure]]></title>
+        <id>https://www.darkreading.com/vulnerabilities-threats/cisa-warns-unpatched-vulnerabilities-ics-critical-infrastructure</id>
+        <link href="https://www.darkreading.com/vulnerabilities-threats/cisa-warns-unpatched-vulnerabilities-ics-critical-infrastructure"/>
+        <updated>2023-03-22T21:55:00.000Z</updated>
+        <summary type="html"><![CDATA[The advisory comes the same week as a warning from the EU's ENISA about potential for ransomware attacks on OT systems in the transportation sector.]]></summary>
+        <author>
+            <name>Jai Vijayan, Contributing Writer, Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vectra Unifies AI-Driven Behavior-Based Detection and Signature-Based Detection]]></title>
+        <id>https://www.darkreading.com/attacks-breaches/vectra-unifies-ai-driven-behavior-based-detection-and-signature-based-detection</id>
+        <link href="https://www.darkreading.com/attacks-breaches/vectra-unifies-ai-driven-behavior-based-detection-and-signature-based-detection"/>
+        <updated>2023-03-22T21:31:00.000Z</updated>
+        <author>
+            <name>Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[XM Cyber Announces Acquisition of Confluera, Adding Run-Time Protection on Cloud Workloads]]></title>
+        <id>https://www.darkreading.com/cloud/xm-cyber-announces-acquisition-of-confluera-adding-run-time-protection-on-cloud-workloads</id>
+        <link href="https://www.darkreading.com/cloud/xm-cyber-announces-acquisition-of-confluera-adding-run-time-protection-on-cloud-workloads"/>
+        <updated>2023-03-22T21:06:00.000Z</updated>
+        <author>
+            <name>Dark Reading</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[10 Vulnerabilities Types to Focus On This Year]]></title>
         <id>https://www.darkreading.com/edge-articles/10-vulnerability-types-to-focus-on-this-year</id>
@@ -14,6 +51,35 @@
         <summary type="html"><![CDATA[A new Tech Insight report examines how the enterprise attack surface is expanding and how organizations must deal with vulnerabilities in emerging technologies.]]></summary>
         <author>
             <name>George V. Hulme, Contributor</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kaspersky Survey Finds One in Three Users Have Experienced CryptoTheft]]></title>
+        <id>https://www.darkreading.com/endpoint/kaspersky-survey-finds-one-in-three-users-have-experienced-cryptotheft</id>
+        <link href="https://www.darkreading.com/endpoint/kaspersky-survey-finds-one-in-three-users-have-experienced-cryptotheft"/>
+        <updated>2023-03-22T20:57:00.000Z</updated>
+        <author>
+            <name>Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[$36M BEC Fraud Attempt Narrowly Thwarted by AI]]></title>
+        <id>https://www.darkreading.com/risk/bec-fraud-attempt-thwarted-ai</id>
+        <link href="https://www.darkreading.com/risk/bec-fraud-attempt-thwarted-ai"/>
+        <updated>2023-03-22T19:49:00.000Z</updated>
+        <summary type="html"><![CDATA[With more than $36M nearly swindled away, an almost-successful BEC attempt in the commercial real estate space shows how sophisticated and convincing fraud attacks are becoming.]]></summary>
+        <author>
+            <name>Dark Reading Staff, Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chinese Warships Suspected of Signal-Jamming Passenger Jets]]></title>
+        <id>https://www.darkreading.com/ics-ot/chinese-warships-suspected-signal-jamming-passenger-jets</id>
+        <link href="https://www.darkreading.com/ics-ot/chinese-warships-suspected-signal-jamming-passenger-jets"/>
+        <updated>2023-03-22T19:20:34.000Z</updated>
+        <summary type="html"><![CDATA[Attackers claiming to be part of the Chinese navy are making calls to commercial Qantas pilots midair, while GPS, comms systems, and altimeter instruments are all experiencing denial of service.]]></summary>
+        <author>
+            <name>Tara Seals, Managing Editor, News, Dark Reading</name>
         </author>
     </entry>
     <entry>
@@ -5129,91 +5195,6 @@ This product is provided subject to this Notification and this Privacy & Use pol
         <summary type="html"><![CDATA[Cloudflare warns that business email compromise (BEC) phishing has assumed a new form: vendor email compromise (VEC). The classic BEC case involves the impersonation of someone within an organization, taking advantage of the trust that builds up among co-workers to induce the victims to take some action–usually transfering funds, compromising credentials, or installing malware–that’s harmful to the organization.]]></summary>
         <author>
             <name>Stu Sjouwerman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CyberheistNews Vol 13 #08 [Heads Up] Reddit Is the Latest Victim of a Spear Phishing Attack Resulting in a Data Breach]]></title>
-        <id>https://blog.knowbe4.com/cyberheistnews-vol-13-08-heads-up-reddit-is-the-latest-victim-of-a-spear-phishing-attack-resulting-in-a-data-breach</id>
-        <link href="https://blog.knowbe4.com/cyberheistnews-vol-13-08-heads-up-reddit-is-the-latest-victim-of-a-spear-phishing-attack-resulting-in-a-data-breach"/>
-        <updated>2023-02-21T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[CyberheistNews Vol 13 #08  |   February 21st, 2023  
- 
- 
-   
- 
- 
-  
-[Heads Up] Reddit Is the Latest Victim of a Spear Phishing Attack Resulting in a Data Breach
- 
-  
-There is a lot to learn from Reddit's recent data breach, which was the result of an employee falling for a "sophisticated and highly-targeted" spear phishing attack.
- 
-  
-I spend a lot of time talking about phishing attacks and the specifics that closely surround that pivotal action taken by the user once they are duped into believing the phishing email was legitimate.
- 
-  
-However, there are additional details about the attack we can analyze to see what kind of access the attacker was able to garner from this attack. But first, here are the basics:
- 
-  
-According to Reddit, an attacker set up a website that impersona…]]></summary>
-        <author>
-            <name>Stu Sjouwerman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MyloBot Botnet Spreading Rapidly Worldwide: Infecting Over 50,000 Devices Daily]]></title>
-        <id>https://thehackernews.com/2023/02/mylobot-botnet-spreading-rapidly.html</id>
-        <link href="https://thehackernews.com/2023/02/mylobot-botnet-spreading-rapidly.html"/>
-        <updated>2023-02-21T13:39:00.000Z</updated>
-        <summary type="html"><![CDATA[A sophisticated botnet known as MyloBot has compromised thousands of systems, with most of them located in India, the U.S., Indonesia, and Iran.
-That's according to new findings from BitSight, which said it's "currently seeing more than 50,000 unique infected systems every day," down from a high of 250,000 unique hosts in 2020.
-Furthermore, an analysis of MyloBot's infrastructure has found]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Live Demo] Ridiculously Easy Security Awareness Training and Phishing]]></title>
-        <id>https://blog.knowbe4.com/live-demo-security-awareness-training-and-phishing</id>
-        <link href="https://blog.knowbe4.com/live-demo-security-awareness-training-and-phishing"/>
-        <updated>2023-02-21T13:36:46.000Z</updated>
-        <summary type="html"><![CDATA[Old-school awareness training does not hack it anymore. Your email filters have an average 7-10% failure rate; you need a strong human firewall as your last line of defense.]]></summary>
-        <author>
-            <name>Stu Sjouwerman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Future of Network Security: Predictive Analytics and ML-Driven Solutions]]></title>
-        <id>https://thehackernews.com/2023/02/the-future-of-network-security.html</id>
-        <link href="https://thehackernews.com/2023/02/the-future-of-network-security.html"/>
-        <updated>2023-02-21T12:42:00.000Z</updated>
-        <summary type="html"><![CDATA[As the digital age evolves and continues to shape the business landscape, corporate networks have become increasingly complex and distributed. The amount of data a company collects to detect malicious behaviour constantly increases, making it challenging to detect deceptive and unknown attack patterns and the so-called "needle in the haystack". With a growing number of cybersecurity threats,]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Researchers Discover Numerous Samples of Information Stealer 'Stealc' in the Wild]]></title>
-        <id>https://thehackernews.com/2023/02/researchers-discover-dozens-samples-of.html</id>
-        <link href="https://thehackernews.com/2023/02/researchers-discover-dozens-samples-of.html"/>
-        <updated>2023-02-21T10:35:00.000Z</updated>
-        <summary type="html"><![CDATA[A new information stealer called Stealc that's being advertised on the dark web could emerge as a worthy competitor to other malware of its ilk.
-"The threat actor presents Stealc as a fully featured and ready-to-use stealer, whose development relied on Vidar, Raccoon, Mars, and RedLine stealers," SEKOIA said in a Monday report.
-The French cybersecurity company said it discovered more than 40]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Coinbase Employee Falls for SMS Scam in Cyber Attack, Limited Data Exposed]]></title>
-        <id>https://thehackernews.com/2023/02/coinbase-employee-falls-for-sms-scam-in.html</id>
-        <link href="https://thehackernews.com/2023/02/coinbase-employee-falls-for-sms-scam-in.html"/>
-        <updated>2023-02-21T10:13:00.000Z</updated>
-        <summary type="html"><![CDATA[Popular cryptocurrency exchange platform Coinbase disclosed that it experienced a cybersecurity attack that targeted its employees.
-The company said its "cyber controls prevented the attacker from gaining direct system access and prevented any loss of funds or compromise of customer information."
-The incident, which took place on February 5, 2023, resulted in the exposure of a "limited amount of]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
         </author>
     </entry>
 </feed>
