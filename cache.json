@@ -53,6 +53,46 @@
       "siteUrl": "https://www.cisa.gov/",
       "articles": [
         {
+          "id": "/node/17741",
+          "author": "CISA",
+          "description": "Today, CISA released the Untitled Goose Tool to help network defenders detect potentially malicious activity in Microsoft Azure, Azure Active Directory (AAD), and Microsoft 365 (M365) environments. The Untitled Goose Tool offers novel authentication and data gathering methods for network defenders to use as they interrogate and analyze their Microsoft cloud services. The tool enables users to:\nExport and review AAD sign-in and audit logs, M365 unified audit log (UAL), Azure activity logs, Microsoft Defender for IoT (internet of things) alerts, and Microsoft Defender for Endpoint (MDE) data for suspicious activity.\nQuery, export, and investigate AAD, M365, and Azure configurations.\nExtract cloud artifacts from Microsoft’s AAD, Azure, and M365 environments without performing additional analytics. \nPerform time bounding of the UAL.\nExtract data within those time bounds. \nCollect and review data using similar time bounding capabilities for MDE data.\nUntitled Goose Tool was developed by CISA with support from Sandia National Laboratories. Network defenders can see the Untitled Goose Tool fact sheet and visit the Untitled Goose Tool GitHub repository to get started.",
+          "link": "https://www.cisa.gov/news-events/alerts/2023/03/23/untitled-goose-tool-aids-hunt-and-incident-response-azure-azure-active-directory-and-microsoft-365",
+          "publishedOn": "2023-03-23T12:00:00.000Z",
+          "wordCount": 657,
+          "title": "Untitled Goose Tool Aids Hunt and Incident Response in Azure, Azure Active Directory, and Microsoft 365 Environments",
+          "imageUrl": null
+        },
+        {
+          "id": "/node/17734",
+          "author": "CISA",
+          "description": "In today’s blog post, Associate Director of the Joint Cyber Defense Collaborative (JCDC) Clayton Romans highlighted recent successes of pre-ransomware notification and its impact in reducing harm from ransomware intrusions. With pre-ransomware notifications, organizations can receive early warning and potentially evict threat actors before they can encrypt and hold critical data and systems for ransom. Using this proactive cyber defense capability, CISA has notified more than 60 entities of early-stage ransomware intrusions since January 2023, including critical infrastructure organizations in the Energy, Healthcare and Public Health, Water and Wastewater Systems sectors, as well as the education community.\nThe pre-ransomware notification was cultivated with the help of the cybersecurity research community and through CISA’s relationships with infrastructure providers and cyber threat intelligence companies.\nFor more information, visit #StopRansomware. To report early-stage ransomware activity, visit Report Ransomware. CISA also encourages stakeholders and network defenders to review associate director Romans’ post, Getting Ahead of the Ransomware Epidemic: CISA’s Pre-Ransomware Notifications Help Organizations Stop Attacks Before Damage Occurs, to learn more about CISA’s Pre-Ransomware Notification Initiative.\nPlease share your thoughts. We recently updated our anonymous Product Feedback Survey and we'd welcome your feedback.",
+          "link": "https://www.cisa.gov/news-events/alerts/2023/03/23/jcdc-cultivates-pre-ransomware-notification-capability",
+          "publishedOn": "2023-03-23T12:00:00.000Z",
+          "wordCount": 662,
+          "title": "JCDC Cultivates Pre-Ransomware Notification Capability",
+          "imageUrl": null
+        },
+        {
+          "id": "/node/17747",
+          "author": "CISA",
+          "description": "Cisco has released security advisories for vulnerabilities affecting multiple Cisco products. A remote cyber threat actor could exploit these vulnerabilities to take control of an affected system.\nCISA encourages users and administrators to review the following advisories and apply the necessary updates:\nCisco IOS XE Software Virtual Fragmentation Reassembly Denial of Service Vulnerability cisco-sa-ipv4-vfr-dos-CXxtFacb\nCisco IOS XE Software IOx Application Hosting Environment Privilege Escalation Vulnerability cisco-sa-iox-priv-escalate-Xg8zkyPk\nCisco IOS XE SD-WAN Software Command Injection Vulnerability cisco-sa-ios-xe-sdwan-VQAhEjYw\nCisco IOS XE Software Fragmented Tunnel Protocol Packet Denial of Service Vulnerability cisco-sa-ios-gre-crash-p6nE5Sq5\nCisco IOS and IOS XE Software IPv6 DHCP (DHCPv6) Relay and Server Denial of Service Vulnerability cisco-sa-ios-dhcpv6-dos-44cMvdDK\nCisco IOS XE Software for Wireless LAN Controllers HTTP Client Profiling Denial of Service Vulnerability cisco-sa-ewlc-dos-wFujBHKw\nCisco DNA Center Privilege Escalation Vulnerability cisco-sa-dnac-privesc-QFXe74RS\nCisco IOS XE Software for Cisco Catalyst 9300 Series Switches Secure Boot Bypass Vulnerability cisco-sa-c9300-spi-ace-yejYgnNQ\nCisco Access Point Software Association Request Denial of Service Vulnerability cisco-sa-ap-assoc-dos-D2SunWK2\nFor updates addressing lower severity vulnerabilities, see the Cisco Security Advisories page.\nPlease share your thoughts. We recently updated our anonymous Product Feedback Survey; we'd welcome your feedback.",
+          "link": "https://www.cisa.gov/news-events/alerts/2023/03/23/cisco-releases-security-advisories-multiple-products",
+          "publishedOn": "2023-03-23T12:00:00.000Z",
+          "wordCount": 657,
+          "title": "Cisco Releases Security Advisories for Multiple Products",
+          "imageUrl": null
+        },
+        {
+          "id": "/node/17736",
+          "author": "CISA",
+          "description": "CISA released six Industrial Control Systems (ICS) advisories on March 23, 2023. These advisories provide timely information about current security issues, vulnerabilities, and exploits surrounding ICS. \nICSA-23-082-01 RoboDK\nICSA-23-082-02 CP-Plus KVMS Pro\nICSA-23-082-03 SAUTER EY-modulo 5 Building Automation Stations\nICSA-23-082-04 Schneider Electric IGSS\nICSA-23-082-05 ABB Pulsar Plus Controller\nICSA-23-082-06 ProPump and Controls Osprey Pump Controller\nCISA encourages users and administrators to review the newly released ICS advisories for technical details and mitigations:  \nPlease share your thoughts. We recently updated our anonymous Product Feedback Survey and we'd welcome your feedback.",
+          "link": "https://www.cisa.gov/news-events/alerts/2023/03/23/cisa-releases-six-industrial-control-systems-advisories",
+          "publishedOn": "2023-03-23T12:00:00.000Z",
+          "wordCount": 564,
+          "title": "CISA Releases Six Industrial Control Systems Advisories",
+          "imageUrl": null
+        },
+        {
           "id": "/node/17713",
           "author": "CISA",
           "description": "As part of the Enduring Security Framework (ESF), the Cybersecurity and Infrastructure Security Agency (CISA) and the National Security Agency (NSA) has released Identity and Access Management Recommended Best Practices Guide for Administrators. These recommended best practices provide system administrators with actionable recommendations to better secure their systems from threats to Identity and Access Management (IAM).\nIAM—a framework of business processes, policies, and technologies that facilitate the management of digital identities—ensures that users only gain access to data when they have the appropriate credentials. This paper provides recommended best practices and mitigations to counter threats to IAM related to:\nidentity governance\nenvironmental hardening\nidentity federation/single sign-on\nmultifactor authentication\nIAM auditing and monitoring\nThis guidance was developed and published by a CISA- and NSA-led working panel with ESF, a public-private cross-sector partnership that aims to address risks that threaten critical infrastructure and national security systems.",
@@ -490,6 +530,121 @@
       "feedUrl": "https://www.darkreading.com/rss.xml",
       "siteUrl": "https://www.darkreading.com",
       "articles": [
+        {
+          "id": "https://www.darkreading.com/vulnerabilities-threats/bundestag-bungle-political-microtargeting-of-facebook-users-draws-ire",
+          "author": "Nate Nelson, Contributing Writer, Dark Reading",
+          "description": "With shades of the Cambridge Analytica scandal, German political parties skirted consumer data privacy regulations during the country's last parliamentary election, a privacy watchdog warns.",
+          "link": "https://www.darkreading.com/vulnerabilities-threats/bundestag-bungle-political-microtargeting-of-facebook-users-draws-ire",
+          "publishedOn": "2023-03-23T18:12:01.000Z",
+          "wordCount": 13505,
+          "title": "Bundestag Bungle: Political Microtargeting of Facebook Users Draws Ire",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt91e5f91ce3f0cdd9/63d0288ac98dbe55ece1d0a9/Nate-Nelson_(1).jpg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt91e5f91ce3f0cdd9/63d0288ac98dbe55ece1d0a9/Nate-Nelson_(1).jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/risk/the-board-of-directors-will-see-you-now",
+          "author": "Marc Gaffan, CEO, Ionix",
+          "description": "Help the board understand where the business is vulnerable, where controls end, and where exposure begins.",
+          "link": "https://www.darkreading.com/risk/the-board-of-directors-will-see-you-now",
+          "publishedOn": "2023-03-23T17:00:00.000Z",
+          "wordCount": 13822,
+          "title": "The Board of Directors Will See You Now",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blte1972d2f41d65a03/6419e25ee93f7214fdda9b5e/Gaffan_Headshot1_.jpg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blte1972d2f41d65a03/6419e25ee93f7214fdda9b5e/Gaffan_Headshot1_.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/risk/epidemic-insecure-storage-backup-devices-cybercriminals",
+          "author": "Robert Lemos, Contributing Writer, Dark Reading",
+          "description": "Enterprise storage devices have 14 security weaknesses on average, putting them at risk of compromise by cyberattackers and especially ransomware attacks.",
+          "link": "https://www.darkreading.com/risk/epidemic-insecure-storage-backup-devices-cybercriminals",
+          "publishedOn": "2023-03-23T17:00:00.000Z",
+          "wordCount": 13624,
+          "title": "Epidemic of Insecure Storage, Backup Devices Is a Windfall for Cybercriminals",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt58481326324d6911/60b1e9a55d34de550780a990/Robert-Lemos.png",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt58481326324d6911/60b1e9a55d34de550780a990/Robert-Lemos.png"
+        },
+        {
+          "id": "https://www.darkreading.com/risk/mitre-rolls-out-supply-chain-security-prototype",
+          "author": "Kelly Jackson Higgins, Editor-in-Chief, Dark Reading",
+          "description": "Cloud-based System of Trust application now available for test-driving quantitative risk assessment of suppliers of hardware, software, services.",
+          "link": "https://www.darkreading.com/risk/mitre-rolls-out-supply-chain-security-prototype",
+          "publishedOn": "2023-03-23T16:15:00.000Z",
+          "wordCount": 14519,
+          "title": "MITRE Rolls Out Supply Chain Security Prototype",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltb0e0f8e307c2012b/615dfe95486c9a5b53695aa0/KJH.PNG",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltb0e0f8e307c2012b/615dfe95486c9a5b53695aa0/KJH.PNG"
+        },
+        {
+          "id": "https://www.darkreading.com/risk/human-detection-and-response-a-new-approach-to-building-a-strong-security-culture",
+          "author": null,
+          "description": "Jelle Wieringa analyzes the differences between HDR and security awareness training and how HDR addresses the security layer of human risk management.",
+          "link": "https://www.darkreading.com/risk/human-detection-and-response-a-new-approach-to-building-a-strong-security-culture",
+          "publishedOn": "2023-03-23T16:00:00.000Z",
+          "wordCount": 13333,
+          "title": "Human Detection and Response: A New Approach to Building a Strong Security Culture",
+          "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/endpoint/okta-post-exploit-method-exposes-user-passwords",
+          "author": "Elizabeth Montalbano, Contributor, Dark Reading",
+          "description": "Accidentally typing a password in the username field of the platform saves them to audit logs, to which threat actors can gain access and use to compromise enterprise services.",
+          "link": "https://www.darkreading.com/endpoint/okta-post-exploit-method-exposes-user-passwords",
+          "publishedOn": "2023-03-23T15:18:39.000Z",
+          "wordCount": 13694,
+          "title": "Okta Post-Exploitation Method Exposes User Passwords",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltbfd004d139d42d70/6303bca6236c2476a257760e/ElizabethMontalbano.jpg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltbfd004d139d42d70/6303bca6236c2476a257760e/ElizabethMontalbano.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/attacks-breaches/nonprofit-domains-basic-dmarc-impersonation-protections",
+          "author": "Dark Reading Staff, Dark Reading",
+          "description": "DMARC blocks spam and phishing emails sent from spoofed domains, and it's vastly underutilized, a new report says.",
+          "link": "https://www.darkreading.com/attacks-breaches/nonprofit-domains-basic-dmarc-impersonation-protections",
+          "publishedOn": "2023-03-23T14:18:54.000Z",
+          "wordCount": 10653,
+          "title": "Just 1% of Nonprofit Domains Have Basic DMARC Email Security Protections",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blte161b23f0fd3a84b/60b1ea374e7eb868c4c6a293/dr_staff_125x125.jpg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blte161b23f0fd3a84b/60b1ea374e7eb868c4c6a293/dr_staff_125x125.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/vulnerabilities-threats/are-you-talking-to-a-carbon-silicon-or-artificial-identity-",
+          "author": "Jeff Reich, Executive Director, the Identity Defined Security Alliance (IDSA)",
+          "description": "In the triumvirate of identity types, protecting the identity, privacy, and data of carbon-based forms — humans — is key. Safeguards must be in place as AI becomes more interactive.",
+          "link": "https://www.darkreading.com/vulnerabilities-threats/are-you-talking-to-a-carbon-silicon-or-artificial-identity-",
+          "publishedOn": "2023-03-23T14:00:00.000Z",
+          "wordCount": 13418,
+          "title": "Are You Talking to a Carbon, Silicon, or Artificial Identity?",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltdc654b11d26789cc/64162c3efd8eb80fa717767f/Jeff_Reich_Headshot_.jpg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltdc654b11d26789cc/64162c3efd8eb80fa717767f/Jeff_Reich_Headshot_.jpg"
+        },
         {
           "id": "https://www.darkreading.com/cloud/lightspin-launches-remediation-hub-to-identify-and-fix-cloud-security-threats",
           "author": null,
@@ -3654,21 +3809,6 @@
             "length": "0"
           },
           "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt9e5e941d00e31d5b/63e2a9e987a1a336607f7d71/Anna_Larkina.png"
-        },
-        {
-          "id": "https://www.darkreading.com/dr-tech/how-to-stop-attackers-that-target-healthcare-imaging-data",
-          "author": "Kolawole Samuel Adebayo, Contributing Writer",
-          "description": "Attribute-based encryption could help keep sensitive metadata off of the Dark Web.",
-          "link": "https://www.darkreading.com/dr-tech/how-to-stop-attackers-that-target-healthcare-imaging-data",
-          "publishedOn": "2023-02-22T03:30:00.000Z",
-          "wordCount": 14807,
-          "title": "How to Stop Attackers That Target Healthcare Imaging Data",
-          "enclosure": {
-            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt0e633cacbfbbf0c2/6305337a9b7ae964b1821d09/kolawole-samuel-adebayo.jpg",
-            "type": "image/*",
-            "length": "0"
-          },
-          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt0e633cacbfbbf0c2/6305337a9b7ae964b1821d09/kolawole-samuel-adebayo.jpg"
         }
       ]
     },
@@ -3750,6 +3890,26 @@
       "feedUrl": "https://blog.knowbe4.com/rss.xml",
       "siteUrl": "https://blog.knowbe4.com",
       "articles": [
+        {
+          "id": "https://blog.knowbe4.com/live-demo-compliance-training",
+          "author": "Stu Sjouwerman",
+          "description": "Linking compliance training to specific outcomes is hard. Compliance training has a reputation for being challenging for organizations to offer, difficult to do right and employees are not engaged.",
+          "link": "https://blog.knowbe4.com/live-demo-compliance-training",
+          "publishedOn": "2023-03-23T14:52:07.000Z",
+          "wordCount": 2069,
+          "title": "[Live Demo] Customizing Your Compliance Training to Increase Effectiveness",
+          "imageUrl": "https://blog.knowbe4.com/hubfs/Social%20Image%20Repository/Live%20Demos/Live-Demo-CompPlus-SM-2.jpg#keepProtocol"
+        },
+        {
+          "id": "https://blog.knowbe4.com/security-masterminds-enhance-capabilities-coverage-culture",
+          "author": "James McQuiggan",
+          "description": "Do you ever feel like you are always playing catch up regarding cybersecurity? That it is a never-ending game; no matter what you do, you are always one step behind. You are not alone. Joanna Burkey, the CISO for HP, Inc., has seen the field's evolution firsthand.",
+          "link": "https://blog.knowbe4.com/security-masterminds-enhance-capabilities-coverage-culture",
+          "publishedOn": "2023-03-23T14:44:37.000Z",
+          "wordCount": 2795,
+          "title": "[Security Masterminds] Unlock Maximum Cybersecurity: 3 Crucial Steps to Enhance Your Capabilities, Coverage, and Culture",
+          "imageUrl": "https://blog.knowbe4.com/hubfs/Sec-Masterminds-SM-4%20%281%29.jpg#keepProtocol"
+        },
         {
           "id": "https://blog.knowbe4.com/users-click-multiple-mobile-phishing-links",
           "author": "Stu Sjouwerman",
@@ -4417,6 +4577,22 @@
       "feedUrl": "https://thehackernews.com/feeds/posts/default",
       "siteUrl": "https://thehackernews.com",
       "articles": [
+        {
+          "id": "https://thehackernews.com/2023/03/fake-chatgpt-chrome-browser-extension.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Google has stepped in to remove a bogus Chrome browser extension from the official Web Store that masqueraded as OpenAI's ChatGPT service to harvest Facebook session cookies and hijack the accounts.\nThe \"ChatGPT For Google\" extension, a trojanized version of a legitimate open source browser add-on, attracted over 9,000 installations since March 14, 2023, prior to its removal. It was originally",
+          "link": "https://thehackernews.com/2023/03/fake-chatgpt-chrome-browser-extension.html",
+          "publishedOn": "2023-03-23T16:29:00.000Z",
+          "wordCount": null,
+          "title": "Fake ChatGPT Chrome Browser Extension Caught Hijacking Facebook Accounts",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_vl3iveKduJHDN_hYWW1wM2rvsY3U6jWelLB9a2WX-NZ87m1DbXoRwHBwVFOP0twNOzF-s0r68n8kF1tWbIirxEw_JKXOwlKHCQbdjtgERTzFXxt7YqC4EUuFX2oLlFnn1Zzy_fPyjoA9EPblYb8HjvEvqYLxH2lBNL5DqMrKdsKRUZRczrK2D6PE/s1600/chatgpt.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_vl3iveKduJHDN_hYWW1wM2rvsY3U6jWelLB9a2WX-NZ87m1DbXoRwHBwVFOP0twNOzF-s0r68n8kF1tWbIirxEw_JKXOwlKHCQbdjtgERTzFXxt7YqC4EUuFX2oLlFnn1Zzy_fPyjoA9EPblYb8HjvEvqYLxH2lBNL5DqMrKdsKRUZRczrK2D6PE/s1600/chatgpt.png"
+        },
         {
           "id": "https://thehackernews.com/2023/03/nexus-new-rising-android-banking-trojan.html",
           "author": "info@thehackernews.com (The Hacker News)",
@@ -6400,54 +6576,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiL_iLzz-L_PCllSzpa-DQEzJWRPQOrVdAWHW-yclIYdU4b3JMxQ5yYNS0opN0GiC517nRw9C9elUu4CiVNo8Rn0yACBA1Ng63ZCOYTWIFZbKL-T2ETqM4-2N65VDeA00Woe97Yls3C4FUA0uWhyD2w9Sh1-Ilo80nkswOKaN1OEBLVLBkrNFUwTUc_/s1600/havoc.png"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiL_iLzz-L_PCllSzpa-DQEzJWRPQOrVdAWHW-yclIYdU4b3JMxQ5yYNS0opN0GiC517nRw9C9elUu4CiVNo8Rn0yACBA1Ng63ZCOYTWIFZbKL-T2ETqM4-2N65VDeA00Woe97Yls3C4FUA0uWhyD2w9Sh1-Ilo80nkswOKaN1OEBLVLBkrNFUwTUc_/s1600/havoc.png"
-        },
-        {
-          "id": "https://thehackernews.com/2023/02/gcore-thwarts-massive-650-gbps-ddos.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "At the beginning of January, Gcore faced an incident involving several L3/L4 DDoS attacks with a peak volume of 650 Gbps. Attackers exploited over 2000 servers belonging to one of the top three cloud providers worldwide and targeted a client who was using a free CDN plan. However, due to Gcore’s distribution of infrastructure and a large number of peering partners, the attacks were mitigated,",
-          "link": "https://thehackernews.com/2023/02/gcore-thwarts-massive-650-gbps-ddos.html",
-          "publishedOn": "2023-02-22T06:51:00.000Z",
-          "wordCount": null,
-          "title": "Gcore Thwarts Massive 650 Gbps DDoS Attack on Free Plan Client",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjahqLfwcfuIvZiTLTld5cOubhocJEpUcqHHJR0yy1gE3aFo7Y9ilzzkX2Pls6l_-NcRERBcq2LxzfDiC61fw5k6qGoRAooEpgpE-hOpoIzzLFJ-rveBOAPs0o4K4ZnfaZK9zscu_XtNjKy1XwBQQR5J1yMKa3s2nFVgWllsV29X8kevN14f9RiOblz/s1600/ddos.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjahqLfwcfuIvZiTLTld5cOubhocJEpUcqHHJR0yy1gE3aFo7Y9ilzzkX2Pls6l_-NcRERBcq2LxzfDiC61fw5k6qGoRAooEpgpE-hOpoIzzLFJ-rveBOAPs0o4K4ZnfaZK9zscu_XtNjKy1XwBQQR5J1yMKa3s2nFVgWllsV29X8kevN14f9RiOblz/s1600/ddos.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2023/02/us-cybersecurity-agency-cisa-adds-three.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added three security flaws to its Known Exploited Vulnerabilities (KEV) catalog, based on evidence of active exploitation.\nThe list of shortcomings is as follows -\n\nCVE-2022-47986 (CVSS score: 9.8) - IBM Aspera Faspex Code Execution Vulnerability\nCVE-2022-41223 (CVSS score: 6.8) - Mitel MiVoice Connect Code Injection",
-          "link": "https://thehackernews.com/2023/02/us-cybersecurity-agency-cisa-adds-three.html",
-          "publishedOn": "2023-02-22T05:38:00.000Z",
-          "wordCount": null,
-          "title": "U.S. Cybersecurity Agency CISA Adds Three New Vulnerabilities in KEV Catalog",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjsTbkhmQY6cmLyAjAvG44wic-0kaH1AzEg2lvEcROX2oXfJb0vwaD9bDEVDT19ppqD8mbRJom_rb6ifgjDRy67QN_AODpGZhZmJeky4elDWy2I7LX6_U-R8U0VP9u0fGheiyMnht9keMXCb2G_ezPZON-K-p9Te77Po4qaruW5RleKpaY1B1zOnBak/s1600/cisa.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjsTbkhmQY6cmLyAjAvG44wic-0kaH1AzEg2lvEcROX2oXfJb0vwaD9bDEVDT19ppqD8mbRJom_rb6ifgjDRy67QN_AODpGZhZmJeky4elDWy2I7LX6_U-R8U0VP9u0fGheiyMnht9keMXCb2G_ezPZON-K-p9Te77Po4qaruW5RleKpaY1B1zOnBak/s1600/cisa.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2023/02/vmware-patches-critical-vulnerability.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "VMware on Tuesday released patches to address a critical security vulnerability affecting its Carbon Black App Control product.\nTracked as CVE-2023-20858, the shortcoming carries a CVSS score of 9.1 out of a maximum of 10 and impacts App Control versions 8.7.x, 8.8.x, and 8.9.x.\nThe virtualization services provider describes the issue as an injection vulnerability. Security researcher Jari",
-          "link": "https://thehackernews.com/2023/02/vmware-patches-critical-vulnerability.html",
-          "publishedOn": "2023-02-22T04:55:00.000Z",
-          "wordCount": null,
-          "title": "VMware Patches Critical Vulnerability in Carbon Black App Control Product",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhp5l0X9bWwwy-mjQkIk81a4TjxAWJheoLDbatqVQprXnohqe_-zqVUM0ZHOQuAuDCYcu8BqSHP8Clh9clsxPJkjmz2Bzo-1EAr_mGVUwWt5Q1JeOhe3gJcdb6GWM92f6xd_jqzG2LvFLmOkqYzqACRiyk-2OP2e1CWg-dNDcY8a7-6u74W87nn2pWG/s1600/vmware.png"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhp5l0X9bWwwy-mjQkIk81a4TjxAWJheoLDbatqVQprXnohqe_-zqVUM0ZHOQuAuDCYcu8BqSHP8Clh9clsxPJkjmz2Bzo-1EAr_mGVUwWt5Q1JeOhe3gJcdb6GWM92f6xd_jqzG2LvFLmOkqYzqACRiyk-2OP2e1CWg-dNDcY8a7-6u74W87nn2pWG/s1600/vmware.png"
         }
       ]
     }
