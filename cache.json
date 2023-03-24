@@ -531,6 +531,31 @@
       "siteUrl": "https://www.darkreading.com",
       "articles": [
         {
+          "id": "https://www.darkreading.com/application-security/open-source-vulnerabilities-still-pose-a-big-challenge-for-security-teams",
+          "author": null,
+          "description": "Open source software continues to pose a challenge for companies. With the proper security practices, you can reduce your open source risk and manage it.",
+          "link": "https://www.darkreading.com/application-security/open-source-vulnerabilities-still-pose-a-big-challenge-for-security-teams",
+          "publishedOn": "2023-03-23T22:00:00.000Z",
+          "wordCount": 13453,
+          "title": "Open Source Vulnerabilities Still Pose a Big Challenge for Security Teams",
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt47f0ca08a14cc9e4/641cd1379ab7c464fadf2c0b/DO_NOT_REUSE-THIS_IS_FOR_A_SPONSORED_POST.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/mobile/new-android-malware-targets-customers-of-450-financial-institutions-worldwide",
+          "author": "Jai Vijayan, Contributing Writer, Dark Reading",
+          "description": "\"Nexus\" is the latest in a vast and growing array of Trojans targeting mobile banking and cryptocurrency applications.",
+          "link": "https://www.darkreading.com/mobile/new-android-malware-targets-customers-of-450-financial-institutions-worldwide",
+          "publishedOn": "2023-03-23T21:30:00.000Z",
+          "wordCount": 13680,
+          "title": "New Android Malware Targets Customers of 450 Financial Institutions Worldwide",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt02d79fb9a44a4258/60b1e9dd2a25046b35110696/Jai-Vijayan.jpeg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt02d79fb9a44a4258/60b1e9dd2a25046b35110696/Jai-Vijayan.jpeg"
+        },
+        {
           "id": "https://www.darkreading.com/vulnerabilities-threats/bundestag-bungle-political-microtargeting-of-facebook-users-draws-ire",
           "author": "Nate Nelson, Contributing Writer, Dark Reading",
           "description": "With shades of the Cambridge Analytica scandal, German political parties skirted consumer data privacy regulations during the country's last parliamentary election, a privacy watchdog warns.",
@@ -4559,16 +4584,6 @@
           "wordCount": 2797,
           "title": "What Is a Good Survey Rating for Security and Compliance Training?",
           "imageUrl": "https://blog.knowbe4.com/hubfs/Good-Survey-Rating-Security-Awarreness-Compliance-Training-Content-Image.png#keepProtocol"
-        },
-        {
-          "id": "https://blog.knowbe4.com/coinbase-attack-used-social-engineering",
-          "author": "Stu Sjouwerman",
-          "description": "Coinbase describes a targeted social engineering attack that led to the theft of some employee data. The attacker first sent smishing messages to several Coinbase employees, urging them to click a link and log in to their Coinbase work account. One employee fell for the attack, and the threat actor then attempted to use the victim’s account to gain access to Coinbase’s internal systems. Fortunately, the company’s security solutions prevented this.",
-          "link": "https://blog.knowbe4.com/coinbase-attack-used-social-engineering",
-          "publishedOn": "2023-02-22T13:48:30.000Z",
-          "wordCount": 2336,
-          "title": "Coinbase Attack Used Social Engineering",
-          "imageUrl": "https://blog.knowbe4.com/hubfs/Coinbase%20Phishing%20Campaign.jpg#keepProtocol"
         }
       ]
     },
@@ -6496,86 +6511,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiazTQMlfThRc-v-iN1LevdcwGC9-Dx9e4cCsqzSOpfEBSZpJT0R98zBiqXtjC-dNBDm0Q1axUMgAFeonb07pB5mJpU26V-uqGQA7wEeLoTldaksU_5fDV2-wj-ljeo6Ps-nuWzKd-g6j-X2AtjohX3LwDDl9QQz6HbobHKl7TpKZmjtVEMhFCTogZ4/s1600/python.png"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiazTQMlfThRc-v-iN1LevdcwGC9-Dx9e4cCsqzSOpfEBSZpJT0R98zBiqXtjC-dNBDm0Q1axUMgAFeonb07pB5mJpU26V-uqGQA7wEeLoTldaksU_5fDV2-wj-ljeo6Ps-nuWzKd-g6j-X2AtjohX3LwDDl9QQz6HbobHKl7TpKZmjtVEMhFCTogZ4/s1600/python.png"
-        },
-        {
-          "id": "https://thehackernews.com/2023/02/apple-warns-of-3-new-vulnerabilities.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Apple has revised the security advisories it released last month to include three new vulnerabilities impacting iOS, iPadOS, and macOS.\nThe first flaw is a race condition in the Crash Reporter component (CVE-2023-23520) that could enable a malicious actor to read arbitrary files as root. The iPhone maker said it addressed the issue with additional validation.\nThe two other vulnerabilities,",
-          "link": "https://thehackernews.com/2023/02/apple-warns-of-3-new-vulnerabilities.html",
-          "publishedOn": "2023-02-22T12:56:00.000Z",
-          "wordCount": null,
-          "title": "Apple Warns of 3 New Vulnerabilities Affecting iPhone, iPad, and Mac Devices",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEih7mJXv6IXXF3ENs2cS4vwpCPQoSFdI3A4Zt83tVp-K8Tc3CrTDuT0d4nHyAiTj_v_-sHmGCvNszFDRyS6Me2omtCGc35R6oJ7eszH2t9QktE-ERWfP21sErA4gRTO-beNveLRuT-wYghgnOjfb_0zhEOCNaN5rA225F8SRRooEq0LCK3gDCJQZt7r/s1600/apple.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEih7mJXv6IXXF3ENs2cS4vwpCPQoSFdI3A4Zt83tVp-K8Tc3CrTDuT0d4nHyAiTj_v_-sHmGCvNszFDRyS6Me2omtCGc35R6oJ7eszH2t9QktE-ERWfP21sErA4gRTO-beNveLRuT-wYghgnOjfb_0zhEOCNaN5rA225F8SRRooEq0LCK3gDCJQZt7r/s1600/apple.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2023/02/attackers-flood-npm-repository-with.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "In what's a continuing assault on the open source ecosystem, over 15,000 spam packages have flooded the npm repository in an attempt to distribute phishing links.\n\"The packages were created using automated processes, with project descriptions and auto-generated names that closely resembled one another,\" Checkmarx researcher Yehuda Gelb said in a Tuesday report.\n\"The attackers referred to retail",
-          "link": "https://thehackernews.com/2023/02/attackers-flood-npm-repository-with.html",
-          "publishedOn": "2023-02-22T11:17:00.000Z",
-          "wordCount": null,
-          "title": "Attackers Flood NPM Repository with Over 15,000 Spam Packages Containing Phishing Links",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgN8s0kA6lEnh4cdbPEACkiYeGRAwlRwARe7ffrpmmrMZ8CWzLm6h0GWX2AFfC_cJeAxG6E_x4QknT8Nx-FG7n6f6M1a0wMj5pG9asnc96__wYgzL6byOXWrWbg_ORUK5SOgjDOYvYIFl3S2y5XkHWplkikgmjDHe8JDDAbLuqanBXVqNOLlkf0fSxk/s1600/npnn.png"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgN8s0kA6lEnh4cdbPEACkiYeGRAwlRwARe7ffrpmmrMZ8CWzLm6h0GWX2AFfC_cJeAxG6E_x4QknT8Nx-FG7n6f6M1a0wMj5pG9asnc96__wYgzL6byOXWrWbg_ORUK5SOgjDOYvYIFl3S2y5XkHWplkikgmjDHe8JDDAbLuqanBXVqNOLlkf0fSxk/s1600/npnn.png"
-        },
-        {
-          "id": "https://thehackernews.com/2023/02/3-steps-to-automate-your-third-party.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "If you Google \"third-party data breaches\" you will find many recent reports of data breaches that were either caused by an attack at a third party or sensitive information stored at a third-party location was exposed. Third-party data breaches don't discriminate by industry because almost every company is operating with some sort of vendor relationship – whether it be a business partner,",
-          "link": "https://thehackernews.com/2023/02/3-steps-to-automate-your-third-party.html",
-          "publishedOn": "2023-02-22T11:03:00.000Z",
-          "wordCount": null,
-          "title": "3 Steps to Automate Your Third-Party Risk Management Program",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg3ulFMaaaDtOI-qVmasrJlKZ-nmw35LxnfWyaVMPoiHfw4TeUfw1OuNSOFbkRpEfntdCtHF6lqZlwFKQoXbRoSMygZImsn7-wiL4NXt0BUlqO84L1V-nK2dPkYbBX5ojACvQtT68Kp_9MZMFiwkfx-26l2rJENZB2vPGOO9FQHQxD7WMiMDwiD8DD_/s1600/ciso.png"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg3ulFMaaaDtOI-qVmasrJlKZ-nmw35LxnfWyaVMPoiHfw4TeUfw1OuNSOFbkRpEfntdCtHF6lqZlwFKQoXbRoSMygZImsn7-wiL4NXt0BUlqO84L1V-nK2dPkYbBX5ojACvQtT68Kp_9MZMFiwkfx-26l2rJENZB2vPGOO9FQHQxD7WMiMDwiD8DD_/s1600/ciso.png"
-        },
-        {
-          "id": "https://thehackernews.com/2023/02/hydrochasma-new-threat-actor-targets.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Shipping companies and medical laboratories in Asia have been the subject of a suspected espionage campaign carried out by a never-before-seen threat actor dubbed Hydrochasma.\nThe activity, which has been ongoing since October 2022, \"relies exclusively on publicly available and living-off-the-land tools,\" Symantec, by Broadcom Software, said in a report shared with The Hacker News.\nThere is no",
-          "link": "https://thehackernews.com/2023/02/hydrochasma-new-threat-actor-targets.html",
-          "publishedOn": "2023-02-22T10:59:00.000Z",
-          "wordCount": null,
-          "title": "Hydrochasma: New Threat Actor Targets Shipping Companies and Medical Labs in Asia",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhxX2cQyiGbLt3ZE_4iSd9Js_lB_aTyAFEhxP7mXWZ02l8be3NfowqgAQqdspk-VVUziISyb3hybwE_Hay2OdjQd4yIV0AMfX6iqI_-NNKfT1dJQnKlx-eRu2dYKtbkzSMUfZ8YdM6qflxqxxsbQEdQP4UEl6L1L8nZs7XYKWN-C8W1BAK4A9S2Gv8N/s1600/ship.png"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhxX2cQyiGbLt3ZE_4iSd9Js_lB_aTyAFEhxP7mXWZ02l8be3NfowqgAQqdspk-VVUziISyb3hybwE_Hay2OdjQd4yIV0AMfX6iqI_-NNKfT1dJQnKlx-eRu2dYKtbkzSMUfZ8YdM6qflxqxxsbQEdQP4UEl6L1L8nZs7XYKWN-C8W1BAK4A9S2Gv8N/s1600/ship.png"
-        },
-        {
-          "id": "https://thehackernews.com/2023/02/threat-actors-adopt-havoc-framework-for.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "An open source command-and-control (C2) framework known as Havoc is being adopted by threat actors as an alternative to other well-known legitimate toolkits like Cobalt Strike, Sliver, and Brute Ratel.\nCybersecurity firm Zscaler said it observed a new campaign in the beginning of January 2023 targeting an unnamed government organization that utilized Havoc.\n\"While C2 frameworks are prolific, the",
-          "link": "https://thehackernews.com/2023/02/threat-actors-adopt-havoc-framework-for.html",
-          "publishedOn": "2023-02-22T07:18:00.000Z",
-          "wordCount": null,
-          "title": "Threat Actors Adopt Havoc Framework for Post-Exploitation in Targeted Attacks",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiL_iLzz-L_PCllSzpa-DQEzJWRPQOrVdAWHW-yclIYdU4b3JMxQ5yYNS0opN0GiC517nRw9C9elUu4CiVNo8Rn0yACBA1Ng63ZCOYTWIFZbKL-T2ETqM4-2N65VDeA00Woe97Yls3C4FUA0uWhyD2w9Sh1-Ilo80nkswOKaN1OEBLVLBkrNFUwTUc_/s1600/havoc.png"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiL_iLzz-L_PCllSzpa-DQEzJWRPQOrVdAWHW-yclIYdU4b3JMxQ5yYNS0opN0GiC517nRw9C9elUu4CiVNo8Rn0yACBA1Ng63ZCOYTWIFZbKL-T2ETqM4-2N65VDeA00Woe97Yls3C4FUA0uWhyD2w9Sh1-Ilo80nkswOKaN1OEBLVLBkrNFUwTUc_/s1600/havoc.png"
         }
       ]
     }
