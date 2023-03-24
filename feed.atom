@@ -2,10 +2,76 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-03-24T07:16:59.143Z</updated>
+    <updated>2023-03-24T13:23:43.035Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Ransomware Data Theft Extortion Goes up 40% to 70% From ‘21 to ’22]]></title>
+        <id>https://blog.knowbe4.com/ransomware-data-theft-extortion-goes-up</id>
+        <link href="https://blog.knowbe4.com/ransomware-data-theft-extortion-goes-up"/>
+        <updated>2023-03-24T12:15:00.000Z</updated>
+        <summary type="html"><![CDATA[A report from Palo Alto Networks’ Unit 42 found that data theft extortion occurred in 70% of ransomware attacks in 2022, compared to 40% in 2021. The researchers examined the four most common methods of cyber extortion (encryption, data theft, harassment, and DDoS attacks) noting that threat actors often combine these tactics within a single attack campaign.]]></summary>
+        <author>
+            <name>Stu Sjouwerman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Dangers of Vishing Campaigns and How To Protect Yourself]]></title>
+        <id>https://blog.knowbe4.com/vishing-campaign-dangers</id>
+        <link href="https://blog.knowbe4.com/vishing-campaign-dangers"/>
+        <updated>2023-03-24T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In recent years, cybercrime has evolved to become more sophisticated than ever before. One of the up and coming methods used by criminals is vishing (voice phishing). This is where an attacker phones up a victim to simulate a trusted source such as a bank to phish for sensitive information. No one is immune from a vishing attack, even the Social Security Administration.]]></summary>
+        <author>
+            <name>Javvad Malik</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[THN Webinar: Inside the High Risk of 3rd-Party SaaS Apps]]></title>
+        <id>https://thehackernews.com/2023/03/thn-webinar-inside-high-risk-of-3rd.html</id>
+        <link href="https://thehackernews.com/2023/03/thn-webinar-inside-high-risk-of-3rd.html"/>
+        <updated>2023-03-24T11:43:00.000Z</updated>
+        <summary type="html"><![CDATA[Any app that can improve business operations is quickly added to the SaaS stack. However, employees don't realize that this SaaS-to-SaaS connectivity, which typically takes place outside the view of the security team, significantly increases risk.
+Whether employees connect through Microsoft 365, Google Workspace, Slack, Salesforce, or any other app, security teams have no way to quantify their]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GitHub Swiftly Replaces Exposed RSA SSH Key to Protect Git Operations]]></title>
+        <id>https://thehackernews.com/2023/03/github-swiftly-replaces-exposed-rsa-ssh.html</id>
+        <link href="https://thehackernews.com/2023/03/github-swiftly-replaces-exposed-rsa-ssh.html"/>
+        <updated>2023-03-24T11:06:00.000Z</updated>
+        <summary type="html"><![CDATA[Cloud-based repository hosting service GitHub said it took the step of replacing its RSA SSH host key used to secure Git operations "out of an abundance of caution" after it was briefly exposed in a public repository.
+The activity, which was carried out at 05:00 UTC on March 24, 2023, is said to have been undertaken as a measure to prevent any bad actor from impersonating the service or]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Researchers Uncover Chinese Nation State Hackers' Deceptive Attack Strategies]]></title>
+        <id>https://thehackernews.com/2023/03/researchers-uncover-chinese-nation.html</id>
+        <link href="https://thehackernews.com/2023/03/researchers-uncover-chinese-nation.html"/>
+        <updated>2023-03-24T09:59:00.000Z</updated>
+        <summary type="html"><![CDATA[A recent campaign undertaken by Earth Preta indicates that nation-state groups aligned with China are getting increasingly proficient at bypassing security solutions.
+The threat actor, active since at least 2012, is tracked by the broader cybersecurity community under Bronze President, HoneyMyte, Mustang Panda, RedDelta, and Red Lich.
+Attack chains mounted by the group commence with a]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Critical WooCommerce Payments Plugin Flaw Patched for 500,000+ WordPress Sites]]></title>
+        <id>https://thehackernews.com/2023/03/critical-woocommerce-payments-plugin.html</id>
+        <link href="https://thehackernews.com/2023/03/critical-woocommerce-payments-plugin.html"/>
+        <updated>2023-03-24T07:51:00.000Z</updated>
+        <summary type="html"><![CDATA[Patches have been released for a critical security flaw impacting the WooCommerce Payments plugin for WordPress, which is installed on over 500,000 websites.
+The flaw, if left unresolved, could enable a bad actor to gain unauthorized admin access to impacted stores, the company said in an advisory on March 23, 2023. It impacts versions 4.8.0 through 5.6.1.
+Put differently, the issue could permit]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Open Source Vulnerabilities Still Pose a Big Challenge for Security Teams]]></title>
         <id>https://www.darkreading.com/application-security/open-source-vulnerabilities-still-pose-a-big-challenge-for-security-teams</id>
@@ -290,6 +356,16 @@ The intrusion set has been attributed to a Chinese cyber espionage actor associa
 The joint advisory comes from Germany's domestic intelligence apparatus, the Federal Office for the Protection of the Constitution (BfV), and South Korea's National Intelligence Service of the Republic of Korea (NIS]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[IoT Startup OP[4] Launches With Firmware Security Platform]]></title>
+        <id>https://www.darkreading.com/dr-tech/iot-startup-op-4-launches-with-firmware-security-platform</id>
+        <link href="https://www.darkreading.com/dr-tech/iot-startup-op-4-launches-with-firmware-security-platform"/>
+        <updated>2023-03-23T01:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Op[4]'s firmware security platform detects, prioritizes, and remediates exploitable vulnerabilities Internet of Things and embedded systems.]]></summary>
+        <author>
+            <name>Dark Reading Staff, Dark Reading</name>
         </author>
     </entry>
     <entry>
@@ -5047,76 +5123,6 @@ The names of the packages are as follows:
 aio5, aio6, htps1, httiop, httops, httplat, httpscolor]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[UL Solutions Advances Automotive Safety and Security]]></title>
-        <id>https://www.darkreading.com/iot/ul-solutions-advances-automotive-safety-and-security-</id>
-        <link href="https://www.darkreading.com/iot/ul-solutions-advances-automotive-safety-and-security-"/>
-        <updated>2023-02-22T22:10:00.000Z</updated>
-        <summary type="html"><![CDATA[A combined team of UL Solutions safety science experts will address automotive cybersecurity, functional safety, automated driving and software development processes to help customers bring safer, more secure innovations to market.]]></summary>
-        <author>
-            <name>Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Scammers Mimic ChatGPT to Steal Business Credentials]]></title>
-        <id>https://www.darkreading.com/endpoint/scammers-mimic-chatgpt-steal-business-credentials</id>
-        <link href="https://www.darkreading.com/endpoint/scammers-mimic-chatgpt-steal-business-credentials"/>
-        <updated>2023-02-22T21:55:00.000Z</updated>
-        <summary type="html"><![CDATA[Hackers will take anything newsworthy and turn it against you, including the world's most advanced AI-enabled chatbot.]]></summary>
-        <author>
-            <name>Nate Nelson, Contributing Writer, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Half of Apps Have High-Risk Vulnerabilities Due to Open Source]]></title>
-        <id>https://www.darkreading.com/ics-ot/half-apps-high-risk-vulnerabilities-open-source</id>
-        <link href="https://www.darkreading.com/ics-ot/half-apps-high-risk-vulnerabilities-open-source"/>
-        <updated>2023-02-22T20:40:00.000Z</updated>
-        <summary type="html"><![CDATA[Open source software dependencies are affecting the software security of different industries in different ways, with mature industries becoming more selective in their open source usage.]]></summary>
-        <author>
-            <name>Robert Lemos, Contributing Writer, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Entitle Brings Fine-Grained Cloud Permissions Management Out of Stealth]]></title>
-        <id>https://www.darkreading.com/dr-tech/entitle-fine-grained-cloud-permissions-management-out-stealth</id>
-        <link href="https://www.darkreading.com/dr-tech/entitle-fine-grained-cloud-permissions-management-out-stealth"/>
-        <updated>2023-02-22T20:30:00.000Z</updated>
-        <summary type="html"><![CDATA[The platform uses no-code policy workflows to automate the provisioning and revoking of permissions.]]></summary>
-        <author>
-            <name>Karen Spiegelman, Features Editor</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[1 in 4 CISOs Wants to Say Sayonara to Security]]></title>
-        <id>https://www.darkreading.com/risk/1-in-4-cisos-will-leave-cybersecurity-by-2025</id>
-        <link href="https://www.darkreading.com/risk/1-in-4-cisos-will-leave-cybersecurity-by-2025"/>
-        <updated>2023-02-22T19:59:11.000Z</updated>
-        <summary type="html"><![CDATA[Thanks to burnout and stress, Gartner predicts churn and even departure from profession among half of today's security leaders by 2025.]]></summary>
-        <author>
-            <name>Ericka Chickowski, Contributing Writer, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What Is a Good Survey Rating for Security and Compliance Training?]]></title>
-        <id>https://blog.knowbe4.com/good-survey-rating-for-security-compliance-training</id>
-        <link href="https://blog.knowbe4.com/good-survey-rating-for-security-compliance-training"/>
-        <updated>2023-02-22T19:53:32.000Z</updated>
-        <summary type="html"><![CDATA[We received great feedback from many of you after sharing data about completion percentages last month so much that we thought, “What other things can we share from our vast amount of training data?”]]></summary>
-        <author>
-            <name>John Just</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[US Military Emails Exposed via Cloud Account]]></title>
-        <id>https://www.darkreading.com/cloud/us-military-emails-exposed-via-cloud-account</id>
-        <link href="https://www.darkreading.com/cloud/us-military-emails-exposed-via-cloud-account"/>
-        <updated>2023-02-22T19:25:00.000Z</updated>
-        <summary type="html"><![CDATA[A DoD email server hosted in the cloud (and now secured) had no password protection in place for at least two weeks.]]></summary>
-        <author>
-            <name>Dark Reading Staff, Dark Reading</name>
         </author>
     </entry>
 </feed>
