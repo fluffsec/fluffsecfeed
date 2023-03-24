@@ -93,6 +93,16 @@
           "imageUrl": null
         },
         {
+          "id": "/node/17705",
+          "author": "CISA",
+          "description": "CISA released seven Industrial Control Systems (ICS) advisories on March 21, 2023. These advisories provide timely information about current security issues, vulnerabilities, and exploits surrounding ICS. \nICSA-23-080-01 Keysight N6854A Geolocation Server and N6841A RF Sensor\nICSA-23-080-02 Delta Electronics InfraSuite Device Master\nICSA-23-080-04 Siemens RADIUS Client of SIPROTEC 5 Devices\nICSA-23-080-05 VISAM VBASE Automation Base\nICSA-23-080-06 Rockwell Automation ThinManager\nICSA-23-080-07 Siemens SCALANCE Third-Party\nICSA-21-343-01 Hitachi Energy GMS600, PWC600, and Relion (Update A)\nCISA encourages users and administrators to review the newly released ICS advisories for technical details and mitigations:  \nPlease share your thoughts. We recently updated our anonymous Product Feedback Survey and we'd welcome your feedback.",
+          "link": "https://www.cisa.gov/news-events/alerts/2023/03/21/cisa-releases-seven-industrial-control-systems-advisories",
+          "publishedOn": "2023-03-21T12:00:00.000Z",
+          "wordCount": 567,
+          "title": "CISA Releases Seven Industrial Control Systems Advisories",
+          "imageUrl": null
+        },
+        {
           "id": "/node/17713",
           "author": "CISA",
           "description": "As part of the Enduring Security Framework (ESF), the Cybersecurity and Infrastructure Security Agency (CISA) and the National Security Agency (NSA) has released Identity and Access Management Recommended Best Practices Guide for Administrators. These recommended best practices provide system administrators with actionable recommendations to better secure their systems from threats to Identity and Access Management (IAM).\nIAM—a framework of business processes, policies, and technologies that facilitate the management of digital identities—ensures that users only gain access to data when they have the appropriate credentials. This paper provides recommended best practices and mitigations to counter threats to IAM related to:\nidentity governance\nenvironmental hardening\nidentity federation/single sign-on\nmultifactor authentication\nIAM auditing and monitoring\nThis guidance was developed and published by a CISA- and NSA-led working panel with ESF, a public-private cross-sector partnership that aims to address risks that threaten critical infrastructure and national security systems.",
@@ -530,6 +540,51 @@
       "feedUrl": "https://www.darkreading.com/rss.xml",
       "siteUrl": "https://www.darkreading.com",
       "articles": [
+        {
+          "id": "https://www.darkreading.com/attacks-breaches/malicious-chatgpt-extensions-add-to-google-chrome-woes",
+          "author": "Nathan Eddy, Contributing Writer, Dark Reading",
+          "description": "The second malicious ChatGPT extension for Chrome has been discovered, giving malicious actors access to users' Facebook accounts through stolen cookies.",
+          "link": "https://www.darkreading.com/attacks-breaches/malicious-chatgpt-extensions-add-to-google-chrome-woes",
+          "publishedOn": "2023-03-24T18:54:00.000Z",
+          "wordCount": 12573,
+          "title": "Malicious ChatGPT Extensions Add to Google Chrome Woes",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltf8b5a94afa71c53a/628e3799daa31875dc0c9fc0/NathanEddyHeadshot.PNG",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltf8b5a94afa71c53a/628e3799daa31875dc0c9fc0/NathanEddyHeadshot.PNG"
+        },
+        {
+          "id": "https://www.darkreading.com/edge-articles/red-teaming-at-scale-to-uncover-your-big-unknowns",
+          "author": "Charles (Chuck) Randolph, Chief Security Officer, Ontic",
+          "description": "A contrarian mindset with applied imagination allows security professionals to assess problems in their organization, prevent failure, or mitigate vulnerabilities.",
+          "link": "https://www.darkreading.com/edge-articles/red-teaming-at-scale-to-uncover-your-big-unknowns",
+          "publishedOn": "2023-03-24T16:43:00.000Z",
+          "wordCount": 14313,
+          "title": "Red Teaming at Scale to Uncover Your Big Unknowns",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltc7317636439b4c7b/641ccde21d512e430cc7e568/Randolph-Chuck-sq.jpg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltc7317636439b4c7b/641ccde21d512e430cc7e568/Randolph-Chuck-sq.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/application-security/application-security-requires-more-investment-in-developer-education",
+          "author": "Amy Baker, Security Education Evangelist, Security Journey",
+          "description": "If you haven't done so already, it's time to take the first step toward solving this application security dilemma.",
+          "link": "https://www.darkreading.com/application-security/application-security-requires-more-investment-in-developer-education",
+          "publishedOn": "2023-03-24T14:00:00.000Z",
+          "wordCount": 13357,
+          "title": "Application Security Requires More Investment in Developer Education",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltfc1ee5aa89a936c5/635c138353db7b3f564c4ed4/Amy_suit_headshot.jpg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltfc1ee5aa89a936c5/635c138353db7b3f564c4ed4/Amy_suit_headshot.jpg"
+        },
         {
           "id": "https://www.darkreading.com/application-security/open-source-vulnerabilities-still-pose-a-big-challenge-for-security-teams",
           "author": null,
@@ -3736,6 +3791,16 @@
       "siteUrl": "https://blog.knowbe4.com",
       "articles": [
         {
+          "id": "https://blog.knowbe4.com/36-mil-vendor-email-compromise-attack",
+          "author": "Stu Sjouwerman",
+          "description": "The details in this thwarted VEC attack demonstrate how the use of just a few key details can both establish credibility and indicate the entire thing is a scam.",
+          "link": "https://blog.knowbe4.com/36-mil-vendor-email-compromise-attack",
+          "publishedOn": "2023-03-24T15:03:14.000Z",
+          "wordCount": 2285,
+          "title": "New Vendor Email Compromise Attack Seeks $36 Million",
+          "imageUrl": "https://blog.knowbe4.com/hubfs/Email-Based%20Attacks.jpg#keepProtocol"
+        },
+        {
           "id": "https://blog.knowbe4.com/ransomware-data-theft-extortion-goes-up",
           "author": "Stu Sjouwerman",
           "description": "A report from Palo Alto Networks’ Unit 42 found that data theft extortion occurred in 70% of ransomware attacks in 2022, compared to 40% in 2021. The researchers examined the four most common methods of cyber extortion (encryption, data theft, harassment, and DDoS attacks) noting that threat actors often combine these tactics within a single attack campaign.",
@@ -4422,6 +4487,22 @@
       "feedUrl": "https://thehackernews.com/feeds/posts/default",
       "siteUrl": "https://thehackernews.com",
       "articles": [
+        {
+          "id": "https://thehackernews.com/2023/03/malicious-python-package-uses-unicode.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "A malicious Python package on the Python Package Index (PyPI) repository has been found to use Unicode as a trick to evade detection and deploy an info-stealing malware.\nThe package in question, named onyxproxy, was uploaded to PyPI on March 15, 2023, and comes with capabilities to harvest and exfiltrate credentials and other valuable data. It has since been taken down, but not before attracting",
+          "link": "https://thehackernews.com/2023/03/malicious-python-package-uses-unicode.html",
+          "publishedOn": "2023-03-24T13:40:00.000Z",
+          "wordCount": null,
+          "title": "Malicious Python Package Uses Unicode Trickery to Evade Detection and Steal Data",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgLJLqr1E816GDkStOdptONV5SUoqyV6nFYOPbbCW-Z_NrowzrGOGp8HJKVJrVRnff-sul5DTkTb9ByNmfuRBv4_suK5RId2QU0FncGnu6Dqs0fBXRwmiHZFDE0fUlKoyOGtentUJlXtrfvDNQH3zWRHJS75yzVPOGbBBBRu75bHsMEv7s34VUKki9z/s1600/hacking.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgLJLqr1E816GDkStOdptONV5SUoqyV6nFYOPbbCW-Z_NrowzrGOGp8HJKVJrVRnff-sul5DTkTb9ByNmfuRBv4_suK5RId2QU0FncGnu6Dqs0fBXRwmiHZFDE0fUlKoyOGtentUJlXtrfvDNQH3zWRHJS75yzVPOGbBBBRu75bHsMEv7s34VUKki9z/s1600/hacking.png"
+        },
         {
           "id": "https://thehackernews.com/2023/03/thn-webinar-inside-high-risk-of-3rd.html",
           "author": "info@thehackernews.com (The Hacker News)",
@@ -6389,22 +6470,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg1KVGBM4lc2c7wNnLy2R-IUpdxaCn5BGEi8Ky1_3Fl7FhzI3wP_lt34L39Uiw4CxrsNE_u9njIi2NBODfXt5LVqfhJWW0gQdxjADTjo8unzhSmRlWPlq4UvcNuTp7XuuiqKBapCfs92YT7vfFwjOKsUxSnOI-eC2dFO4uP42B2GE4fZGKx6tpqM0GS/s1600/malware.png"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg1KVGBM4lc2c7wNnLy2R-IUpdxaCn5BGEi8Ky1_3Fl7FhzI3wP_lt34L39Uiw4CxrsNE_u9njIi2NBODfXt5LVqfhJWW0gQdxjADTjo8unzhSmRlWPlq4UvcNuTp7XuuiqKBapCfs92YT7vfFwjOKsUxSnOI-eC2dFO4uP42B2GE4fZGKx6tpqM0GS/s1600/malware.png"
-        },
-        {
-          "id": "https://thehackernews.com/2023/02/python-developers-warned-of-trojanized.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Cybersecurity researchers are warning of \"imposter packages\" mimicking popular libraries available on the Python Package Index (PyPI) repository.\nThe 41 malicious PyPI packages have been found to pose as typosquatted variants of legitimate modules such as HTTP, AIOHTTP, requests, urllib, and urllib3.\nThe names of the packages are as follows:\naio5, aio6, htps1, httiop, httops, httplat, httpscolor",
-          "link": "https://thehackernews.com/2023/02/python-developers-warned-of-trojanized.html",
-          "publishedOn": "2023-02-23T06:25:00.000Z",
-          "wordCount": null,
-          "title": "Python Developers Warned of Trojanized PyPI Packages Mimicking Popular Libraries",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiazTQMlfThRc-v-iN1LevdcwGC9-Dx9e4cCsqzSOpfEBSZpJT0R98zBiqXtjC-dNBDm0Q1axUMgAFeonb07pB5mJpU26V-uqGQA7wEeLoTldaksU_5fDV2-wj-ljeo6Ps-nuWzKd-g6j-X2AtjohX3LwDDl9QQz6HbobHKl7TpKZmjtVEMhFCTogZ4/s1600/python.png"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiazTQMlfThRc-v-iN1LevdcwGC9-Dx9e4cCsqzSOpfEBSZpJT0R98zBiqXtjC-dNBDm0Q1axUMgAFeonb07pB5mJpU26V-uqGQA7wEeLoTldaksU_5fDV2-wj-ljeo6Ps-nuWzKd-g6j-X2AtjohX3LwDDl9QQz6HbobHKl7TpKZmjtVEMhFCTogZ4/s1600/python.png"
         }
       ]
     }

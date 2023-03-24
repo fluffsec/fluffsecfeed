@@ -2,10 +2,61 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-03-24T13:23:43.035Z</updated>
+    <updated>2023-03-24T19:15:20.266Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Malicious ChatGPT Extensions Add to Google Chrome Woes]]></title>
+        <id>https://www.darkreading.com/attacks-breaches/malicious-chatgpt-extensions-add-to-google-chrome-woes</id>
+        <link href="https://www.darkreading.com/attacks-breaches/malicious-chatgpt-extensions-add-to-google-chrome-woes"/>
+        <updated>2023-03-24T18:54:00.000Z</updated>
+        <summary type="html"><![CDATA[The second malicious ChatGPT extension for Chrome has been discovered, giving malicious actors access to users' Facebook accounts through stolen cookies.]]></summary>
+        <author>
+            <name>Nathan Eddy, Contributing Writer, Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Red Teaming at Scale to Uncover Your Big Unknowns]]></title>
+        <id>https://www.darkreading.com/edge-articles/red-teaming-at-scale-to-uncover-your-big-unknowns</id>
+        <link href="https://www.darkreading.com/edge-articles/red-teaming-at-scale-to-uncover-your-big-unknowns"/>
+        <updated>2023-03-24T16:43:00.000Z</updated>
+        <summary type="html"><![CDATA[A contrarian mindset with applied imagination allows security professionals to assess problems in their organization, prevent failure, or mitigate vulnerabilities.]]></summary>
+        <author>
+            <name>Charles (Chuck) Randolph, Chief Security Officer, Ontic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New Vendor Email Compromise Attack Seeks $36 Million]]></title>
+        <id>https://blog.knowbe4.com/36-mil-vendor-email-compromise-attack</id>
+        <link href="https://blog.knowbe4.com/36-mil-vendor-email-compromise-attack"/>
+        <updated>2023-03-24T15:03:14.000Z</updated>
+        <summary type="html"><![CDATA[The details in this thwarted VEC attack demonstrate how the use of just a few key details can both establish credibility and indicate the entire thing is a scam.]]></summary>
+        <author>
+            <name>Stu Sjouwerman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Application Security Requires More Investment in Developer Education]]></title>
+        <id>https://www.darkreading.com/application-security/application-security-requires-more-investment-in-developer-education</id>
+        <link href="https://www.darkreading.com/application-security/application-security-requires-more-investment-in-developer-education"/>
+        <updated>2023-03-24T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[If you haven't done so already, it's time to take the first step toward solving this application security dilemma.]]></summary>
+        <author>
+            <name>Amy Baker, Security Education Evangelist, Security Journey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Malicious Python Package Uses Unicode Trickery to Evade Detection and Steal Data]]></title>
+        <id>https://thehackernews.com/2023/03/malicious-python-package-uses-unicode.html</id>
+        <link href="https://thehackernews.com/2023/03/malicious-python-package-uses-unicode.html"/>
+        <updated>2023-03-24T13:40:00.000Z</updated>
+        <summary type="html"><![CDATA[A malicious Python package on the Python Package Index (PyPI) repository has been found to use Unicode as a trick to evade detection and deploy an info-stealing malware.
+The package in question, named onyxproxy, was uploaded to PyPI on March 15, 2023, and comes with capabilities to harvest and exfiltrate credentials and other valuable data. It has since been taken down, but not before attracting]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ransomware Data Theft Extortion Goes up 40% to 70% From ‘21 to ’22]]></title>
         <id>https://blog.knowbe4.com/ransomware-data-theft-extortion-goes-up</id>
@@ -745,6 +796,25 @@ There is a raft of new registered domains that are SVB-related, for example logi
 Adi Ikan, CEO of Veriti, observed that "Phishing campaigns are leveraging SVB's recent collapse to impersonate the bank and its online services. We have observed an increase in the registration of fake phishing domains in the U.S. (88%), Spain (7%), France (3%) and Israel (2%), and we anticipate this number to gro…]]></summary>
         <author>
             <name>Stu Sjouwerman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CISA Releases Seven Industrial Control Systems Advisories]]></title>
+        <id>/node/17705</id>
+        <link href="https://www.cisa.gov/news-events/alerts/2023/03/21/cisa-releases-seven-industrial-control-systems-advisories"/>
+        <updated>2023-03-21T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[CISA released seven Industrial Control Systems (ICS) advisories on March 21, 2023. These advisories provide timely information about current security issues, vulnerabilities, and exploits surrounding ICS. 
+ICSA-23-080-01 Keysight N6854A Geolocation Server and N6841A RF Sensor
+ICSA-23-080-02 Delta Electronics InfraSuite Device Master
+ICSA-23-080-04 Siemens RADIUS Client of SIPROTEC 5 Devices
+ICSA-23-080-05 VISAM VBASE Automation Base
+ICSA-23-080-06 Rockwell Automation ThinManager
+ICSA-23-080-07 Siemens SCALANCE Third-Party
+ICSA-21-343-01 Hitachi Energy GMS600, PWC600, and Relion (Update A)
+CISA encourages users and administrators to review the newly released ICS advisories for technical details and mitigations:  
+Please share your thoughts. We recently updated our anonymous Product Feedback Survey and we'd welcome your feedback.]]></summary>
+        <author>
+            <name>CISA</name>
         </author>
     </entry>
     <entry>
@@ -5108,19 +5178,6 @@ The payload, dubbed WinorDLL64 by ESET, is a fully-featured implant that can e
         <summary type="html"><![CDATA[An active malware campaign has set its sights on Facebook and YouTube users by leveraging a new information stealer to hijack the accounts and abuse the systems' resources to mine cryptocurrency.
 Bitdefender is calling the malware S1deload Stealer for its use of DLL side-loading techniques to get past security defenses and execute its malicious components.
 "Once infected, S1deload Stealer steals]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Python Developers Warned of Trojanized PyPI Packages Mimicking Popular Libraries]]></title>
-        <id>https://thehackernews.com/2023/02/python-developers-warned-of-trojanized.html</id>
-        <link href="https://thehackernews.com/2023/02/python-developers-warned-of-trojanized.html"/>
-        <updated>2023-02-23T06:25:00.000Z</updated>
-        <summary type="html"><![CDATA[Cybersecurity researchers are warning of "imposter packages" mimicking popular libraries available on the Python Package Index (PyPI) repository.
-The 41 malicious PyPI packages have been found to pose as typosquatted variants of legitimate modules such as HTTP, AIOHTTP, requests, urllib, and urllib3.
-The names of the packages are as follows:
-aio5, aio6, htps1, httiop, httops, httplat, httpscolor]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
