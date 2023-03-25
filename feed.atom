@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-03-24T19:15:20.266Z</updated>
+    <updated>2023-03-25T02:07:27.632Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[CyberSecure Announces Strategic Alliance]]></title>
+        <id>https://www.darkreading.com/physical-security/cybersecure-announces-strategic-alliance</id>
+        <link href="https://www.darkreading.com/physical-security/cybersecure-announces-strategic-alliance"/>
+        <updated>2023-03-24T21:40:00.000Z</updated>
+        <summary type="html"><![CDATA[The joint partnership represents expanded market opportunities.]]></summary>
+        <author>
+            <name>Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tesla Model 3 Hacked in Less Than 2 Minutes at Pwn2Own Contest]]></title>
+        <id>https://www.darkreading.com/vulnerabilities-threats/tesla-model-3-hacked-2-minutes-pwn2own-contest</id>
+        <link href="https://www.darkreading.com/vulnerabilities-threats/tesla-model-3-hacked-2-minutes-pwn2own-contest"/>
+        <updated>2023-03-24T20:48:00.000Z</updated>
+        <summary type="html"><![CDATA[In two days, ethical researchers from 10 countries have unearthed more than 22 zero-day bugs in a wide range of technologies at the annual hacking contest.]]></summary>
+        <author>
+            <name>Jai Vijayan, Contributing Writer, Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GitHub's Private RSA SSH Key Mistakenly Exposed in Public Repository]]></title>
+        <id>https://www.darkreading.com/application-security/github-private-rsa-ssh-key-mistakenly-exposed-public-repository</id>
+        <link href="https://www.darkreading.com/application-security/github-private-rsa-ssh-key-mistakenly-exposed-public-repository"/>
+        <updated>2023-03-24T20:05:00.000Z</updated>
+        <summary type="html"><![CDATA[GitHub hastens to replace its RSA SSH host key after an exposure mishap threatens users with man-in-the-middle attacks and organization impersonation.]]></summary>
+        <author>
+            <name>Dark Reading Staff, Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Zoom Zoom: 'Dark Power' Ransomware Extorts 10 Targets in Less Than a Month]]></title>
+        <id>https://www.darkreading.com/vulnerabilities-threats/dark-power-ransomware-extorts-10-targets-less-than-a-month</id>
+        <link href="https://www.darkreading.com/vulnerabilities-threats/dark-power-ransomware-extorts-10-targets-less-than-a-month"/>
+        <updated>2023-03-24T19:39:00.000Z</updated>
+        <summary type="html"><![CDATA[A new threat actor is racking up victims and showing unusual agility. Part of its success could spring from the use of the Nim programming language.]]></summary>
+        <author>
+            <name>Nate Nelson, Contributing Writer, Dark Reading</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Malicious ChatGPT Extensions Add to Google Chrome Woes]]></title>
         <id>https://www.darkreading.com/attacks-breaches/malicious-chatgpt-extensions-add-to-google-chrome-woes</id>
@@ -5133,53 +5173,6 @@ As many as 24 different products, including Access]]></summary>
         <summary type="html"><![CDATA[Sharing attestations on software supply chain data that are formed into a policy will give us a framework to interpret risk and develop compliance directives.]]></summary>
         <author>
             <name>Peter Morgan, President &amp; Co-Founder, Phylum</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Secret Vulnerability Finance Execs are Missing]]></title>
-        <id>https://thehackernews.com/2023/02/the-secret-vulnerability-finance-execs.html</id>
-        <link href="https://thehackernews.com/2023/02/the-secret-vulnerability-finance-execs.html"/>
-        <updated>2023-02-23T12:32:00.000Z</updated>
-        <summary type="html"><![CDATA[The (Other) Risk in Finance
-A few years ago, a Washington-based real estate developer received a document link from First American – a financial services company in the real estate industry – relating to a deal he was working on. Everything about the document was perfectly fine and normal.
-The odd part, he told a reporter, was that if he changed a single digit in the URL, suddenly, he could see]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Hacking Cluster 'Clasiopa' Targeting Materials Research Organizations in Asia]]></title>
-        <id>https://thehackernews.com/2023/02/new-hacking-cluster-clasiopa-targeting.html</id>
-        <link href="https://thehackernews.com/2023/02/new-hacking-cluster-clasiopa-targeting.html"/>
-        <updated>2023-02-23T12:07:00.000Z</updated>
-        <summary type="html"><![CDATA[Materials research organizations in Asia have been targeted by a previously unknown threat actor using a distinct set of tools.
-Symantec, by Broadcom Software, is tracking the cluster under the moniker Clasiopa. The origins of the hacking group and its affiliations are currently unknown, but there are hints that suggest the adversary could have ties to India.
-This includes references to "]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lazarus Group Using New WinorDLL64 Backdoor to Exfiltrate Sensitive Data]]></title>
-        <id>https://thehackernews.com/2023/02/lazarus-group-using-new-winordll64.html</id>
-        <link href="https://thehackernews.com/2023/02/lazarus-group-using-new-winordll64.html"/>
-        <updated>2023-02-23T11:47:00.000Z</updated>
-        <summary type="html"><![CDATA[A new backdoor associated with a malware downloader named Wslink has been discovered, with the tool likely used by the notorious North Korea-aligned Lazarus Group, new findings reveal.
-The payload, dubbed WinorDLL64 by ESET, is a fully-featured implant that can exfiltrate, overwrite, and delete files; execute PowerShell commands; and obtain comprehensive information about the underlying machine.]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New S1deload Malware Hijacking Users' Social Media Accounts and Mining Cryptocurrency]]></title>
-        <id>https://thehackernews.com/2023/02/new-s1deload-malware-hijacking-users.html</id>
-        <link href="https://thehackernews.com/2023/02/new-s1deload-malware-hijacking-users.html"/>
-        <updated>2023-02-23T10:45:00.000Z</updated>
-        <summary type="html"><![CDATA[An active malware campaign has set its sights on Facebook and YouTube users by leveraging a new information stealer to hijack the accounts and abuse the systems' resources to mine cryptocurrency.
-Bitdefender is calling the malware S1deload Stealer for its use of DLL side-loading techniques to get past security defenses and execute its malicious components.
-"Once infected, S1deload Stealer steals]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
         </author>
     </entry>
 </feed>

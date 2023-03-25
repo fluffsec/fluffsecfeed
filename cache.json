@@ -541,6 +541,61 @@
       "siteUrl": "https://www.darkreading.com",
       "articles": [
         {
+          "id": "https://www.darkreading.com/physical-security/cybersecure-announces-strategic-alliance",
+          "author": null,
+          "description": "The joint partnership represents expanded market opportunities.",
+          "link": "https://www.darkreading.com/physical-security/cybersecure-announces-strategic-alliance",
+          "publishedOn": "2023-03-24T21:40:00.000Z",
+          "wordCount": 11900,
+          "title": "CyberSecure Announces Strategic Alliance",
+          "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/vulnerabilities-threats/tesla-model-3-hacked-2-minutes-pwn2own-contest",
+          "author": "Jai Vijayan, Contributing Writer, Dark Reading",
+          "description": "In two days, ethical researchers from 10 countries have unearthed more than 22 zero-day bugs in a wide range of technologies at the annual hacking contest.",
+          "link": "https://www.darkreading.com/vulnerabilities-threats/tesla-model-3-hacked-2-minutes-pwn2own-contest",
+          "publishedOn": "2023-03-24T20:48:00.000Z",
+          "wordCount": 13397,
+          "title": "Tesla Model 3 Hacked in Less Than 2 Minutes at Pwn2Own Contest",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt02d79fb9a44a4258/60b1e9dd2a25046b35110696/Jai-Vijayan.jpeg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt02d79fb9a44a4258/60b1e9dd2a25046b35110696/Jai-Vijayan.jpeg"
+        },
+        {
+          "id": "https://www.darkreading.com/application-security/github-private-rsa-ssh-key-mistakenly-exposed-public-repository",
+          "author": "Dark Reading Staff, Dark Reading",
+          "description": "GitHub hastens to replace its RSA SSH host key after an exposure mishap threatens users with man-in-the-middle attacks and organization impersonation.",
+          "link": "https://www.darkreading.com/application-security/github-private-rsa-ssh-key-mistakenly-exposed-public-repository",
+          "publishedOn": "2023-03-24T20:05:00.000Z",
+          "wordCount": 11509,
+          "title": "GitHub's Private RSA SSH Key Mistakenly Exposed in Public Repository",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blte161b23f0fd3a84b/60b1ea374e7eb868c4c6a293/dr_staff_125x125.jpg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blte161b23f0fd3a84b/60b1ea374e7eb868c4c6a293/dr_staff_125x125.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/vulnerabilities-threats/dark-power-ransomware-extorts-10-targets-less-than-a-month",
+          "author": "Nate Nelson, Contributing Writer, Dark Reading",
+          "description": "A new threat actor is racking up victims and showing unusual agility. Part of its success could spring from the use of the Nim programming language.",
+          "link": "https://www.darkreading.com/vulnerabilities-threats/dark-power-ransomware-extorts-10-targets-less-than-a-month",
+          "publishedOn": "2023-03-24T19:39:00.000Z",
+          "wordCount": 12401,
+          "title": "Zoom Zoom: 'Dark Power' Ransomware Extorts 10 Targets in Less Than a Month",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt91e5f91ce3f0cdd9/63d0288ac98dbe55ece1d0a9/Nate-Nelson_(1).jpg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt91e5f91ce3f0cdd9/63d0288ac98dbe55ece1d0a9/Nate-Nelson_(1).jpg"
+        },
+        {
           "id": "https://www.darkreading.com/attacks-breaches/malicious-chatgpt-extensions-add-to-google-chrome-woes",
           "author": "Nathan Eddy, Contributing Writer, Dark Reading",
           "description": "The second malicious ChatGPT extension for Chrome has been discovered, giving malicious actors access to users' Facebook accounts through stolen cookies.",
@@ -6406,70 +6461,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiU2RENlAlxHB0q1uTnAqdtKvRccabUa1cr2AKuo7BSon6EJqmcKwaA1C_umpgbQALSfgcQI1I2RG84s4ulAis42upKeUUgRjlEg2duMvjWDbC5su8P68gmqG1Z4fCrHhKcQLAIyw9a0joqt5Ca22oWrCVTCrXEkf4UwnHg6yY1V84caKdAWkGXgZ-N/s1600/manageengine.png"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiU2RENlAlxHB0q1uTnAqdtKvRccabUa1cr2AKuo7BSon6EJqmcKwaA1C_umpgbQALSfgcQI1I2RG84s4ulAis42upKeUUgRjlEg2duMvjWDbC5su8P68gmqG1Z4fCrHhKcQLAIyw9a0joqt5Ca22oWrCVTCrXEkf4UwnHg6yY1V84caKdAWkGXgZ-N/s1600/manageengine.png"
-        },
-        {
-          "id": "https://thehackernews.com/2023/02/the-secret-vulnerability-finance-execs.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "The (Other) Risk in Finance\nA few years ago, a Washington-based real estate developer received a document link from First American – a financial services company in the real estate industry – relating to a deal he was working on. Everything about the document was perfectly fine and normal.\nThe odd part, he told a reporter, was that if he changed a single digit in the URL, suddenly, he could see",
-          "link": "https://thehackernews.com/2023/02/the-secret-vulnerability-finance-execs.html",
-          "publishedOn": "2023-02-23T12:32:00.000Z",
-          "wordCount": null,
-          "title": "The Secret Vulnerability Finance Execs are Missing",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDZ_rmDOGAmY9m4OZSCenmIRoAFLgD-DlyupORTF_iuapAvjFK5RW67m17H4YXmz_vrBOtKbjacHAE9mnFyO7DQbSGldlNO9g6Kgl9BfBfcw70Fx235piHMiPRyBll2ABBwKeStaizB28_m9hzuF07j-jbtoICvILZwp84d2dfhgsuOb6H_S9hGv1a/s1600/git.png"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDZ_rmDOGAmY9m4OZSCenmIRoAFLgD-DlyupORTF_iuapAvjFK5RW67m17H4YXmz_vrBOtKbjacHAE9mnFyO7DQbSGldlNO9g6Kgl9BfBfcw70Fx235piHMiPRyBll2ABBwKeStaizB28_m9hzuF07j-jbtoICvILZwp84d2dfhgsuOb6H_S9hGv1a/s1600/git.png"
-        },
-        {
-          "id": "https://thehackernews.com/2023/02/new-hacking-cluster-clasiopa-targeting.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Materials research organizations in Asia have been targeted by a previously unknown threat actor using a distinct set of tools.\nSymantec, by Broadcom Software, is tracking the cluster under the moniker Clasiopa. The origins of the hacking group and its affiliations are currently unknown, but there are hints that suggest the adversary could have ties to India.\nThis includes references to \"",
-          "link": "https://thehackernews.com/2023/02/new-hacking-cluster-clasiopa-targeting.html",
-          "publishedOn": "2023-02-23T12:07:00.000Z",
-          "wordCount": null,
-          "title": "New Hacking Cluster 'Clasiopa' Targeting Materials Research Organizations in Asia",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhM6xi9ZZf_nOMmDWmMmM9mSnhwF9qJA6-CeKN76zzjiMD_Ar1KF-b23PRNxm9lL6SdPmSXcjCXWFucjuft2E2C3aqmmXug6k0WbcNvfgJLEaRB5GStYAOYn5u7TdN6RVN74QwRqtgIH_ZkDqMADYxPWtwZu9psFYlfRs9MJddJ13lJ_vxN2LMBJyML/s1600/Materials-Research.png"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhM6xi9ZZf_nOMmDWmMmM9mSnhwF9qJA6-CeKN76zzjiMD_Ar1KF-b23PRNxm9lL6SdPmSXcjCXWFucjuft2E2C3aqmmXug6k0WbcNvfgJLEaRB5GStYAOYn5u7TdN6RVN74QwRqtgIH_ZkDqMADYxPWtwZu9psFYlfRs9MJddJ13lJ_vxN2LMBJyML/s1600/Materials-Research.png"
-        },
-        {
-          "id": "https://thehackernews.com/2023/02/lazarus-group-using-new-winordll64.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "A new backdoor associated with a malware downloader named Wslink has been discovered, with the tool likely used by the notorious North Korea-aligned Lazarus Group, new findings reveal.\nThe payload, dubbed WinorDLL64 by ESET, is a fully-featured implant that can exfiltrate, overwrite, and delete files; execute PowerShell commands; and obtain comprehensive information about the underlying machine.",
-          "link": "https://thehackernews.com/2023/02/lazarus-group-using-new-winordll64.html",
-          "publishedOn": "2023-02-23T11:47:00.000Z",
-          "wordCount": null,
-          "title": "Lazarus Group Using New WinorDLL64 Backdoor to Exfiltrate Sensitive Data",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9XalzZXImYu8-pPP6Yo-3xvIecSPYklle6G-qc-WMndiwC7-xK98fI5FlFySXE4fHJzOpp3V6WADVbzWVQ0fq6zmF_j72tD06q81hgspT8pCk-a7h6EBs0EAFbFDxudS5xKW9nNwcUfUUwaeVnX3aNlQvF6JZGo4noVeBTeQis3q8-vS68uaJ_mdk/s1600/hacking-malware.png"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9XalzZXImYu8-pPP6Yo-3xvIecSPYklle6G-qc-WMndiwC7-xK98fI5FlFySXE4fHJzOpp3V6WADVbzWVQ0fq6zmF_j72tD06q81hgspT8pCk-a7h6EBs0EAFbFDxudS5xKW9nNwcUfUUwaeVnX3aNlQvF6JZGo4noVeBTeQis3q8-vS68uaJ_mdk/s1600/hacking-malware.png"
-        },
-        {
-          "id": "https://thehackernews.com/2023/02/new-s1deload-malware-hijacking-users.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "An active malware campaign has set its sights on Facebook and YouTube users by leveraging a new information stealer to hijack the accounts and abuse the systems' resources to mine cryptocurrency.\nBitdefender is calling the malware S1deload Stealer for its use of DLL side-loading techniques to get past security defenses and execute its malicious components.\n\"Once infected, S1deload Stealer steals",
-          "link": "https://thehackernews.com/2023/02/new-s1deload-malware-hijacking-users.html",
-          "publishedOn": "2023-02-23T10:45:00.000Z",
-          "wordCount": null,
-          "title": "New S1deload Malware Hijacking Users' Social Media Accounts and Mining Cryptocurrency",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg1KVGBM4lc2c7wNnLy2R-IUpdxaCn5BGEi8Ky1_3Fl7FhzI3wP_lt34L39Uiw4CxrsNE_u9njIi2NBODfXt5LVqfhJWW0gQdxjADTjo8unzhSmRlWPlq4UvcNuTp7XuuiqKBapCfs92YT7vfFwjOKsUxSnOI-eC2dFO4uP42B2GE4fZGKx6tpqM0GS/s1600/malware.png"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg1KVGBM4lc2c7wNnLy2R-IUpdxaCn5BGEi8Ky1_3Fl7FhzI3wP_lt34L39Uiw4CxrsNE_u9njIi2NBODfXt5LVqfhJWW0gQdxjADTjo8unzhSmRlWPlq4UvcNuTp7XuuiqKBapCfs92YT7vfFwjOKsUxSnOI-eC2dFO4uP42B2GE4fZGKx6tpqM0GS/s1600/malware.png"
         }
       ]
     }
