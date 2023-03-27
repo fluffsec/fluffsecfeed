@@ -491,6 +491,21 @@
       "siteUrl": "https://www.darkreading.com",
       "articles": [
         {
+          "id": "https://www.darkreading.com/operations/cybersecurity-vs-everyone-from-conflict-to-collaboration",
+          "author": "Lenny Zeltser, Chief Information Security Officer at Axonius",
+          "description": "Don't assume stakeholders outside security understand your goals and priorities, but consider how you'll communicate with them to gain their support.",
+          "link": "https://www.darkreading.com/operations/cybersecurity-vs-everyone-from-conflict-to-collaboration",
+          "publishedOn": "2023-03-27T14:00:00.000Z",
+          "wordCount": 13885,
+          "title": "Cybersecurity vs. Everyone: From Conflict to Collaboration",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt01fe9ef15c5df4f9/60d44448c5c41538a149e8e5/Lenny-Zeltser.png",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt01fe9ef15c5df4f9/60d44448c5c41538a149e8e5/Lenny-Zeltser.png"
+        },
+        {
           "id": "https://www.darkreading.com/physical-security/cybersecure-announces-strategic-alliance",
           "author": null,
           "description": "The joint partnership represents expanded market opportunities.",
@@ -3436,6 +3451,16 @@
       "siteUrl": "https://blog.knowbe4.com",
       "articles": [
         {
+          "id": "https://blog.knowbe4.com/trojanized-app-target-whatsapp-telegram-users",
+          "author": "Javvad Malik",
+          "description": "It seems that once again bad actors have found a new way to infect our devices with malware. This time, they are using a devious little trick to spread trojanized versions of popular chat apps Telegram and WhatsApp.",
+          "link": "https://blog.knowbe4.com/trojanized-app-target-whatsapp-telegram-users",
+          "publishedOn": "2023-03-27T12:00:00.000Z",
+          "wordCount": 2415,
+          "title": "Stay Ahead of the Game: Protect Yourself From Trojanized Chat Apps Targeting WhatsApp and Telegram Users",
+          "imageUrl": "https://blog.knowbe4.com/hubfs/Social%20Image%20Repository/Evangelist%20Blog%20Social%20Graphics/Evangelists-Javvad%20Malik.jpg#keepProtocol"
+        },
+        {
           "id": "https://blog.knowbe4.com/36-mil-vendor-email-compromise-attack",
           "author": "Stu Sjouwerman",
           "description": "The details in this thwarted VEC attack demonstrate how the use of just a few key details can both establish credibility and indicate the entire thing is a scam.",
@@ -4092,6 +4117,54 @@
       "feedUrl": "https://thehackernews.com/feeds/posts/default",
       "siteUrl": "https://thehackernews.com",
       "articles": [
+        {
+          "id": "https://thehackernews.com/2023/03/where-sso-falls-short-in-protecting-saas.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Single sign-on (SSO) is an authentication method that allows users to authenticate their identity for multiple applications with just one set of credentials. From a security standpoint, SSO is the gold standard. It ensures access without forcing users to remember multiple passwords and can be further secured with MFA. Furthermore, an estimated 61% of attacks stem from stolen credentials. By",
+          "link": "https://thehackernews.com/2023/03/where-sso-falls-short-in-protecting-saas.html",
+          "publishedOn": "2023-03-27T10:56:00.000Z",
+          "wordCount": null,
+          "title": "Where SSO Falls Short in Protecting SaaS",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEho-xJnUKKozBWEWukiv4VljG3dRUujqSanUOEc3yWj_uyELw28wYvDy6cTt2gbg7d8mLEiCdAjYyob89FPTA6g4cdT0JKSTap0NX6bpLB1Wa2kcgFDMNBhKitcU8KIcxAD6uJERMKFKumabCjDFYIVDj2kJQLbX-AEkZUDTsLuxWzzE-IGFyHzfWce/s1600/sso.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEho-xJnUKKozBWEWukiv4VljG3dRUujqSanUOEc3yWj_uyELw28wYvDy6cTt2gbg7d8mLEiCdAjYyob89FPTA6g4cdT0JKSTap0NX6bpLB1Wa2kcgFDMNBhKitcU8KIcxAD6uJERMKFKumabCjDFYIVDj2kJQLbX-AEkZUDTsLuxWzzE-IGFyHzfWce/s1600/sso.png"
+        },
+        {
+          "id": "https://thehackernews.com/2023/03/new-macstealer-macos-malware-steals.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "A new information-stealing malware has set its sights on Apple's macOS operating system to siphon sensitive information from compromised devices.\nDubbed MacStealer, it's the latest example of a threat that uses Telegram as a command-and-control (C2) platform to exfiltrate data. It primarily affects devices running macOS versions Catalina and later running on M1 and M2 CPUs.\n\"MacStealer has the",
+          "link": "https://thehackernews.com/2023/03/new-macstealer-macos-malware-steals.html",
+          "publishedOn": "2023-03-27T10:38:00.000Z",
+          "wordCount": null,
+          "title": "New MacStealer macOS Malware Steals iCloud Keychain Data and Passwords",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEinLK2-uDvVw_neonwFXMaMAJRdYIhbthbkbXEp3jMqW6hzNHClEQMng-CAE9e2oG0p3Kns85QNnMUwVZazKNCLJqEAT5eD1LZOszxde8R3rsJ7EPorYuPiv96fU64wlMMe_bW-yWZUGYXyJ6v9kldFlgZPG8T4bimeuQ3tAJHwlZnsxYoOzvqaYvQS/s1600/macos-malware.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEinLK2-uDvVw_neonwFXMaMAJRdYIhbthbkbXEp3jMqW6hzNHClEQMng-CAE9e2oG0p3Kns85QNnMUwVZazKNCLJqEAT5eD1LZOszxde8R3rsJ7EPorYuPiv96fU64wlMMe_bW-yWZUGYXyJ6v9kldFlgZPG8T4bimeuQ3tAJHwlZnsxYoOzvqaYvQS/s1600/macos-malware.png"
+        },
+        {
+          "id": "https://thehackernews.com/2023/03/microsoft-issues-patch-for-acropalypse.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Microsoft has released an out-of-band update to address a privacy-defeating flaw in its screenshot editing tool for Windows 10 and Windows 11.\nThe issue, dubbed aCropalypse, could enable malicious actors to recover edited portions of screenshots, potentially revealing sensitive information that may have been cropped out.\nTracked as CVE-2023-28303, the vulnerability is rated 3.3 on the CVSS",
+          "link": "https://thehackernews.com/2023/03/microsoft-issues-patch-for-acropalypse.html",
+          "publishedOn": "2023-03-27T09:48:00.000Z",
+          "wordCount": null,
+          "title": "Microsoft Issues Patch for aCropalypse Privacy Flaw in Windows Screenshot Tools",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_TRu02a7KFr2INRPcQn_Tutxu_9L4hN--p-SOwhRLzVmy7xOtm9oieG3UeRyJGTtFJb18oR2u2iA2W6QzqSkHT9t91nMjzq4lq4T0dXq7-dZpOUwTVFRlPnKFANwHK3OryHgL8IjJQqMb_SgwGPQL_gei3Jeseyz4VjKu9hiYC0aGndADK-9Q1bg_/s1600/MS.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_TRu02a7KFr2INRPcQn_Tutxu_9L4hN--p-SOwhRLzVmy7xOtm9oieG3UeRyJGTtFJb18oR2u2iA2W6QzqSkHT9t91nMjzq4lq4T0dXq7-dZpOUwTVFRlPnKFANwHK3OryHgL8IjJQqMb_SgwGPQL_gei3Jeseyz4VjKu9hiYC0aGndADK-9Q1bg_/s1600/MS.png"
+        },
         {
           "id": "https://thehackernews.com/2023/03/uk-national-crime-agency-sets-up-fake.html",
           "author": "info@thehackernews.com (The Hacker News)",

@@ -2,10 +2,64 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-03-27T07:18:53.408Z</updated>
+    <updated>2023-03-27T14:07:46.032Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Cybersecurity vs. Everyone: From Conflict to Collaboration]]></title>
+        <id>https://www.darkreading.com/operations/cybersecurity-vs-everyone-from-conflict-to-collaboration</id>
+        <link href="https://www.darkreading.com/operations/cybersecurity-vs-everyone-from-conflict-to-collaboration"/>
+        <updated>2023-03-27T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Don't assume stakeholders outside security understand your goals and priorities, but consider how you'll communicate with them to gain their support.]]></summary>
+        <author>
+            <name>Lenny Zeltser, Chief Information Security Officer at Axonius</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stay Ahead of the Game: Protect Yourself From Trojanized Chat Apps Targeting WhatsApp and Telegram Users]]></title>
+        <id>https://blog.knowbe4.com/trojanized-app-target-whatsapp-telegram-users</id>
+        <link href="https://blog.knowbe4.com/trojanized-app-target-whatsapp-telegram-users"/>
+        <updated>2023-03-27T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[It seems that once again bad actors have found a new way to infect our devices with malware. This time, they are using a devious little trick to spread trojanized versions of popular chat apps Telegram and WhatsApp.]]></summary>
+        <author>
+            <name>Javvad Malik</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Where SSO Falls Short in Protecting SaaS]]></title>
+        <id>https://thehackernews.com/2023/03/where-sso-falls-short-in-protecting-saas.html</id>
+        <link href="https://thehackernews.com/2023/03/where-sso-falls-short-in-protecting-saas.html"/>
+        <updated>2023-03-27T10:56:00.000Z</updated>
+        <summary type="html"><![CDATA[Single sign-on (SSO) is an authentication method that allows users to authenticate their identity for multiple applications with just one set of credentials. From a security standpoint, SSO is the gold standard. It ensures access without forcing users to remember multiple passwords and can be further secured with MFA. Furthermore, an estimated 61% of attacks stem from stolen credentials. By]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New MacStealer macOS Malware Steals iCloud Keychain Data and Passwords]]></title>
+        <id>https://thehackernews.com/2023/03/new-macstealer-macos-malware-steals.html</id>
+        <link href="https://thehackernews.com/2023/03/new-macstealer-macos-malware-steals.html"/>
+        <updated>2023-03-27T10:38:00.000Z</updated>
+        <summary type="html"><![CDATA[A new information-stealing malware has set its sights on Apple's macOS operating system to siphon sensitive information from compromised devices.
+Dubbed MacStealer, it's the latest example of a threat that uses Telegram as a command-and-control (C2) platform to exfiltrate data. It primarily affects devices running macOS versions Catalina and later running on M1 and M2 CPUs.
+"MacStealer has the]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Issues Patch for aCropalypse Privacy Flaw in Windows Screenshot Tools]]></title>
+        <id>https://thehackernews.com/2023/03/microsoft-issues-patch-for-acropalypse.html</id>
+        <link href="https://thehackernews.com/2023/03/microsoft-issues-patch-for-acropalypse.html"/>
+        <updated>2023-03-27T09:48:00.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft has released an out-of-band update to address a privacy-defeating flaw in its screenshot editing tool for Windows 10 and Windows 11.
+The issue, dubbed aCropalypse, could enable malicious actors to recover edited portions of screenshots, potentially revealing sensitive information that may have been cropped out.
+Tracked as CVE-2023-28303, the vulnerability is rated 3.3 on the CVSS]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[U.K. National Crime Agency Sets Up Fake DDoS-For-Hire Sites to Catch Cybercriminals]]></title>
         <id>https://thehackernews.com/2023/03/uk-national-crime-agency-sets-up-fake.html</id>
