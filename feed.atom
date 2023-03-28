@@ -2,10 +2,61 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-03-28T13:26:33.924Z</updated>
+    <updated>2023-03-28T19:15:37.851Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Introduces GPT-4 AI-Powered Security Copilot Tool to Empower Defenders]]></title>
+        <id>https://thehackernews.com/2023/03/microsoft-introduces-gpt-4-ai-powered.html</id>
+        <link href="https://thehackernews.com/2023/03/microsoft-introduces-gpt-4-ai-powered.html"/>
+        <updated>2023-03-28T18:08:00.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft on Tuesday unveiled Security Copilot in preview, marking its continued push to embed AI-oriented features in an attempt to offer "end-to-end defense at machine speed and scale."
+Powered by OpenAI's GPT-4 generative AI and its own security-specific model, it's billed as a security analysis tool that enables cybersecurity analysts to quickly respond to threats, process signals, and]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[North Korea's Kimsuky Evolves into Full-Fledged, Prolific APT]]></title>
+        <id>https://www.darkreading.com/threat-intelligence/north-korea-kimsuky-evolves-full-fledged-persistent-threat</id>
+        <link href="https://www.darkreading.com/threat-intelligence/north-korea-kimsuky-evolves-full-fledged-persistent-threat"/>
+        <updated>2023-03-28T17:05:00.000Z</updated>
+        <summary type="html"><![CDATA[In cyberattacks against the US, South Korea, and Japan, the group (aka APT43 or Thallium) is using advanced social engineering and cryptomining tactics that set it apart from other threat actors.]]></summary>
+        <author>
+            <name>Elizabeth Montalbano, Contributor, Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hey, Siri: Hackers Can Control Smart Devices Using Inaudible Sounds]]></title>
+        <id>https://www.darkreading.com/vulnerabilities-threats/siri-hackers-control-smart-devices-inaudible-sounds</id>
+        <link href="https://www.darkreading.com/vulnerabilities-threats/siri-hackers-control-smart-devices-inaudible-sounds"/>
+        <updated>2023-03-28T15:54:00.000Z</updated>
+        <summary type="html"><![CDATA[A technique, dubbed the "Near-Ultrasound Inaudible Trojan" (NUIT), allows an attacker to exploit smartphones and smart speakers over the Internet, using sounds undetectable by humans.]]></summary>
+        <author>
+            <name>Robert Lemos, Contributing Writer, Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Eyes Only] New Deepfake Pr0n Site Visits Skyrocket]]></title>
+        <id>https://blog.knowbe4.com/eyes-only-new-deepfake-pr0n-site-visits-skyrocket</id>
+        <link href="https://blog.knowbe4.com/eyes-only-new-deepfake-pr0n-site-visits-skyrocket"/>
+        <updated>2023-03-28T14:39:31.000Z</updated>
+        <summary type="html"><![CDATA[This is a disgusting topic. It's also a very high social engineering risk. I will keep this post safe-for-work, which is not easy. NBC news just reported on the deepfake economy surging in recent months, because there is a loophole that allows people to pay with normal credit cards.]]></summary>
+        <author>
+            <name>Stu Sjouwerman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Spend on Safety Measures & Call Out Insecure Practices for Safer IoT]]></title>
+        <id>https://www.darkreading.com/ics-ot/spend-on-safety-measures-call-out-insecure-practices-for-safer-iot</id>
+        <link href="https://www.darkreading.com/ics-ot/spend-on-safety-measures-call-out-insecure-practices-for-safer-iot"/>
+        <updated>2023-03-28T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[IoT risk and security must get more attention from vendors and support from the marketplace.]]></summary>
+        <author>
+            <name>Joe Marshall, Senior IoT Security Strategist, Cisco Talos Intelligence Group</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CyberheistNews Vol 13 #13 [Eye Opener] How to Outsmart Sneaky AI-Based Phishing Attacks]]></title>
         <id>https://blog.knowbe4.com/cyberheistnews-vol-13-13-eye-opener-how-to-outsmart-sneaky-ai-based-phishing-attacks</id>
@@ -63,6 +114,27 @@ IcedID, also known as BokBot, started off as a banking trojan in 2017. It's also
 "The well-known IcedID version consists of an initial loader]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple Releases Security Updates for Multiple Products]]></title>
+        <id>/node/17777</id>
+        <link href="https://www.cisa.gov/news-events/alerts/2023/03/28/apple-releases-security-updates-multiple-products"/>
+        <updated>2023-03-28T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Apple has released security updates to address vulnerabilities in multiple products. An attacker could exploit some of these vulnerabilities to take control of an affected device.
+CISA encourages users and administrators to review the following advisories and apply the necessary updates.
+macOS Ventura 13.3
+Safari 16.4
+Studio Display Firmware Update 16.4
+iOS 15.7.4 and iPadOS 15.7.4
+tvOS 16.4
+macOS Big Sur 11.7.5
+iOS 16.4 and iPadOS 16.4
+macOS Monterey 12.6.4
+watchOS 9.4
+Please share your thoughts. We recently updated our anonymous Product Feedback Survey and we'd welcome your feedback.]]></summary>
+        <author>
+            <name>CISA</name>
         </author>
     </entry>
     <entry>
@@ -4996,18 +5068,6 @@ ChromeLoader (aka]]></summary>
         <updated>2023-02-27T10:04:00.000Z</updated>
         <summary type="html"><![CDATA[The PlugX remote access trojan has been observed masquerading as an open source Windows debugger tool called x64dbg in an attempt to circumvent security protections and gain control of a target system.
 "This file is a legitimate open-source debugger tool for Windows that is generally used to examine kernel-mode and user-mode code, crash dumps, or CPU registers," Trend Micro researchers Buddy]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dutch Police Arrest 3 Hackers Involved in Massive Data Theft and Extortion Scheme]]></title>
-        <id>https://thehackernews.com/2023/02/dutch-police-arrest-3-hackers-involved.html</id>
-        <link href="https://thehackernews.com/2023/02/dutch-police-arrest-3-hackers-involved.html"/>
-        <updated>2023-02-27T07:12:00.000Z</updated>
-        <summary type="html"><![CDATA[The Dutch police announced the arrest of three individuals in connection with a "large-scale" criminal operation involving data theft, extortion, and money laundering.
-The suspects include two 21-year-old men from Zandvoort and Rotterdam and an 18-year-old man without a permanent residence. The arrests were made on January 23, 2023.
-It's estimated that the hackers stole personal data belonging]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>

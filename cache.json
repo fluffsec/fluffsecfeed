@@ -33,6 +33,16 @@
       "siteUrl": "https://www.cisa.gov/",
       "articles": [
         {
+          "id": "/node/17777",
+          "author": "CISA",
+          "description": "Apple has released security updates to address vulnerabilities in multiple products. An attacker could exploit some of these vulnerabilities to take control of an affected device.\nCISA encourages users and administrators to review the following advisories and apply the necessary updates.\nmacOS Ventura 13.3\nSafari 16.4\nStudio Display Firmware Update 16.4\niOS 15.7.4 and iPadOS 15.7.4\ntvOS 16.4\nmacOS Big Sur 11.7.5\niOS 16.4 and iPadOS 16.4\nmacOS Monterey 12.6.4\nwatchOS 9.4\nPlease share your thoughts. We recently updated our anonymous Product Feedback Survey and we'd welcome your feedback.",
+          "link": "https://www.cisa.gov/news-events/alerts/2023/03/28/apple-releases-security-updates-multiple-products",
+          "publishedOn": "2023-03-28T12:00:00.000Z",
+          "wordCount": 553,
+          "title": "Apple Releases Security Updates for Multiple Products",
+          "imageUrl": null
+        },
+        {
           "id": "/node/17741",
           "author": "CISA",
           "description": "Today, CISA released the Untitled Goose Tool to help network defenders detect potentially malicious activity in Microsoft Azure, Azure Active Directory (AAD), and Microsoft 365 (M365) environments. The Untitled Goose Tool offers novel authentication and data gathering methods for network defenders to use as they interrogate and analyze their Microsoft cloud services. The tool enables users to:\nExport and review AAD sign-in and audit logs, M365 unified audit log (UAL), Azure activity logs, Microsoft Defender for IoT (internet of things) alerts, and Microsoft Defender for Endpoint (MDE) data for suspicious activity.\nQuery, export, and investigate AAD, M365, and Azure configurations.\nExtract cloud artifacts from Microsoft’s AAD, Azure, and M365 environments without performing additional analytics. \nPerform time bounding of the UAL.\nExtract data within those time bounds. \nCollect and review data using similar time bounding capabilities for MDE data.\nUntitled Goose Tool was developed by CISA with support from Sandia National Laboratories. Network defenders can see the Untitled Goose Tool fact sheet and visit the Untitled Goose Tool GitHub repository to get started.",
@@ -490,6 +500,51 @@
       "feedUrl": "https://www.darkreading.com/rss.xml",
       "siteUrl": "https://www.darkreading.com",
       "articles": [
+        {
+          "id": "https://www.darkreading.com/threat-intelligence/north-korea-kimsuky-evolves-full-fledged-persistent-threat",
+          "author": "Elizabeth Montalbano, Contributor, Dark Reading",
+          "description": "In cyberattacks against the US, South Korea, and Japan, the group (aka APT43 or Thallium) is using advanced social engineering and cryptomining tactics that set it apart from other threat actors.",
+          "link": "https://www.darkreading.com/threat-intelligence/north-korea-kimsuky-evolves-full-fledged-persistent-threat",
+          "publishedOn": "2023-03-28T17:05:00.000Z",
+          "wordCount": 14152,
+          "title": "North Korea's Kimsuky Evolves into Full-Fledged, Prolific APT",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltbfd004d139d42d70/6303bca6236c2476a257760e/ElizabethMontalbano.jpg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltbfd004d139d42d70/6303bca6236c2476a257760e/ElizabethMontalbano.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/vulnerabilities-threats/siri-hackers-control-smart-devices-inaudible-sounds",
+          "author": "Robert Lemos, Contributing Writer, Dark Reading",
+          "description": "A technique, dubbed the \"Near-Ultrasound Inaudible Trojan\" (NUIT), allows an attacker to exploit smartphones and smart speakers over the Internet, using sounds undetectable by humans.",
+          "link": "https://www.darkreading.com/vulnerabilities-threats/siri-hackers-control-smart-devices-inaudible-sounds",
+          "publishedOn": "2023-03-28T15:54:00.000Z",
+          "wordCount": 13730,
+          "title": "Hey, Siri: Hackers Can Control Smart Devices Using Inaudible Sounds",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt58481326324d6911/60b1e9a55d34de550780a990/Robert-Lemos.png",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt58481326324d6911/60b1e9a55d34de550780a990/Robert-Lemos.png"
+        },
+        {
+          "id": "https://www.darkreading.com/ics-ot/spend-on-safety-measures-call-out-insecure-practices-for-safer-iot",
+          "author": "Joe Marshall, Senior IoT Security Strategist, Cisco Talos Intelligence Group",
+          "description": "IoT risk and security must get more attention from vendors and support from the marketplace.",
+          "link": "https://www.darkreading.com/ics-ot/spend-on-safety-measures-call-out-insecure-practices-for-safer-iot",
+          "publishedOn": "2023-03-28T14:00:00.000Z",
+          "wordCount": 14156,
+          "title": "Spend on Safety Measures & Call Out Insecure Practices for Safer IoT",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt5541429fb3ced875/64175fa362815a6fc7d649d5/JoeSubStation.jpeg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt5541429fb3ced875/64175fa362815a6fc7d649d5/JoeSubStation.jpeg"
+        },
         {
           "id": "https://www.darkreading.com/edge-articles/how-cisos-can-reduce-the-danger-of-using-data-brokers",
           "author": "Evan Schuman, Contributing Writer, Dark Reading",
@@ -3541,6 +3596,16 @@
       "siteUrl": "https://blog.knowbe4.com",
       "articles": [
         {
+          "id": "https://blog.knowbe4.com/eyes-only-new-deepfake-pr0n-site-visits-skyrocket",
+          "author": "Stu Sjouwerman",
+          "description": "This is a disgusting topic. It's also a very high social engineering risk. I will keep this post safe-for-work, which is not easy. NBC news just reported on the deepfake economy surging in recent months, because there is a loophole that allows people to pay with normal credit cards.",
+          "link": "https://blog.knowbe4.com/eyes-only-new-deepfake-pr0n-site-visits-skyrocket",
+          "publishedOn": "2023-03-28T14:39:31.000Z",
+          "wordCount": 2319,
+          "title": "[Eyes Only] New Deepfake Pr0n Site Visits Skyrocket",
+          "imageUrl": "https://blog.knowbe4.com/hubfs/JasperArt_2023-03-28_10.35.04.png#keepProtocol"
+        },
+        {
           "id": "https://blog.knowbe4.com/cyberheistnews-vol-13-13-eye-opener-how-to-outsmart-sneaky-ai-based-phishing-attacks",
           "author": "Stu Sjouwerman",
           "description": "CyberheistNews Vol 13 #13  |   March 28th, 2023  \r\n \n \r\n   \r\n \n \r\n  \n[Eye Opener] How to Outsmart Sneaky AI-Based Phishing Attacks\n \r\n  \nUsers need to adapt to an evolving threat landscape in which attackers can use AI tools like ChatGPT to craft extremely convincing phishing emails, according to Matthew Tyson at CSO.\n \r\n  \n\"A leader tasked with cybersecurity can get ahead of the game by understanding where we are in the story of machine learning (ML) as a hacking tool,\" Tyson writes. \"At present, the most important area of relevance around AI for cybersecurity is content generation.\n \r\n  \n\"This is where machine learning is making its greatest strides and it dovetails nicely for hackers with vectors such as phishing and malicious chatbots. The capacity to craft compelling, well-formed text…",
@@ -4247,6 +4312,22 @@
       "feedUrl": "https://thehackernews.com/feeds/posts/default",
       "siteUrl": "https://thehackernews.com",
       "articles": [
+        {
+          "id": "https://thehackernews.com/2023/03/microsoft-introduces-gpt-4-ai-powered.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Microsoft on Tuesday unveiled Security Copilot in preview, marking its continued push to embed AI-oriented features in an attempt to offer \"end-to-end defense at machine speed and scale.\"\nPowered by OpenAI's GPT-4 generative AI and its own security-specific model, it's billed as a security analysis tool that enables cybersecurity analysts to quickly respond to threats, process signals, and",
+          "link": "https://thehackernews.com/2023/03/microsoft-introduces-gpt-4-ai-powered.html",
+          "publishedOn": "2023-03-28T18:08:00.000Z",
+          "wordCount": null,
+          "title": "Microsoft Introduces GPT-4 AI-Powered Security Copilot Tool to Empower Defenders",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhGBvGzC-e0vsGxz-qpoiDTo6acONbK447wJSTCSRDcA67IVVH6nrn5O8jydMHj09g-fba_foiroYcXBGSR70RJT0aJTvMGP8-jZkB2lf27ppZ9YdHIU0zrh3vuEdtNI4UhcYKATlDmRc7vUE6KR86mdOLxVHtEqmFcdf0Y3CXhL911W7EK_6WJ_3B/s1600/MS.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhGBvGzC-e0vsGxz-qpoiDTo6acONbK447wJSTCSRDcA67IVVH6nrn5O8jydMHj09g-fba_foiroYcXBGSR70RJT0aJTvMGP8-jZkB2lf27ppZ9YdHIU0zrh3vuEdtNI4UhcYKATlDmRc7vUE6KR86mdOLxVHtEqmFcdf0Y3CXhL911W7EK_6WJ_3B/s1600/MS.png"
+        },
         {
           "id": "https://thehackernews.com/2023/03/pakistan-origin-sidecopy-linked-to-new.html",
           "author": "info@thehackernews.com (The Hacker News)",
@@ -6246,22 +6327,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgw9G_A8t0Hm-JbSh3N8OOINj4q3DTeBAhfN1WXfpMr_xBtW5AnBiIeVLcqF1m1LZMuwmQOR2HrFx44tkgh7NPd1JvwWX4AgMpm8vzj_IM0dMU9JWH3SjKe-MpPLhdb7RivH4R6L-0lCqlkDH02QZa94GjgflijowfSbGCEqhjij37dMMMxRgX60FtO/s1600/plugx.png"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgw9G_A8t0Hm-JbSh3N8OOINj4q3DTeBAhfN1WXfpMr_xBtW5AnBiIeVLcqF1m1LZMuwmQOR2HrFx44tkgh7NPd1JvwWX4AgMpm8vzj_IM0dMU9JWH3SjKe-MpPLhdb7RivH4R6L-0lCqlkDH02QZa94GjgflijowfSbGCEqhjij37dMMMxRgX60FtO/s1600/plugx.png"
-        },
-        {
-          "id": "https://thehackernews.com/2023/02/dutch-police-arrest-3-hackers-involved.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "The Dutch police announced the arrest of three individuals in connection with a \"large-scale\" criminal operation involving data theft, extortion, and money laundering.\nThe suspects include two 21-year-old men from Zandvoort and Rotterdam and an 18-year-old man without a permanent residence. The arrests were made on January 23, 2023.\nIt's estimated that the hackers stole personal data belonging",
-          "link": "https://thehackernews.com/2023/02/dutch-police-arrest-3-hackers-involved.html",
-          "publishedOn": "2023-02-27T07:12:00.000Z",
-          "wordCount": null,
-          "title": "Dutch Police Arrest 3 Hackers Involved in Massive Data Theft and Extortion Scheme",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhshERWbJRGaUOIwHpMB2YiviLmvsi7-yjQ6QBPdR4YZPzHaiztcrr-iTcgtF2V_rHTFPDEip44TzZ74nsEaKEfdQu9WkgCzzjvAKAGgCd4oJJVNgrqqqEatyAGitieJlU2p5TOCSSQQi_S0e_9g_LpC5S2UZu-ZEEqbQuMWLFtgZ9cQcJ7DKRJYUtL/s1600/hacker-arrested.png"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhshERWbJRGaUOIwHpMB2YiviLmvsi7-yjQ6QBPdR4YZPzHaiztcrr-iTcgtF2V_rHTFPDEip44TzZ74nsEaKEfdQu9WkgCzzjvAKAGgCd4oJJVNgrqqqEatyAGitieJlU2p5TOCSSQQi_S0e_9g_LpC5S2UZu-ZEEqbQuMWLFtgZ9cQcJ7DKRJYUtL/s1600/hacker-arrested.png"
         }
       ]
     }
