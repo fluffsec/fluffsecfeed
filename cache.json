@@ -491,6 +491,21 @@
       "siteUrl": "https://www.darkreading.com",
       "articles": [
         {
+          "id": "https://www.darkreading.com/edge-articles/how-cisos-can-reduce-the-danger-of-using-data-brokers",
+          "author": "Evan Schuman, Contributing Writer, Dark Reading",
+          "description": "Without proof that it was collected legally, purchased data can threaten an enterprise's security compliance and may expose the company to litigation.",
+          "link": "https://www.darkreading.com/edge-articles/how-cisos-can-reduce-the-danger-of-using-data-brokers",
+          "publishedOn": "2023-03-28T02:31:00.000Z",
+          "wordCount": 15186,
+          "title": "How CISOs Can Reduce the Danger of Using Data Brokers",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt8aff4d66b75263f1/6412b10a65ed314f39e4a86a/EvanIllustration-square.png",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt8aff4d66b75263f1/6412b10a65ed314f39e4a86a/EvanIllustration-square.png"
+        },
+        {
           "id": "https://www.darkreading.com/attacks-breaches/clop-keeps-racking-up-ransomware-victims-with-goanywhere-flaw-",
           "author": "Becky Bracken, Editor, Dark Reading",
           "description": "After several weeks and more than 130 ransomware victims, GoAnywhere parent company Forta issues a statement.",
@@ -4187,6 +4202,22 @@
       "feedUrl": "https://thehackernews.com/feeds/posts/default",
       "siteUrl": "https://thehackernews.com",
       "articles": [
+        {
+          "id": "https://thehackernews.com/2023/03/apple-issues-urgent-security-update-for.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Apple on Monday backported fixes for an actively exploited security flaw to older iPhone and iPad models.\nThe issue, tracked as CVE-2023-23529, concerns a type confusion bug in the WebKit browser engine that could lead to arbitrary code execution.\nIt was originally addressed by the tech giant with improved checks as part of updates released on February 13, 2023. An anonymous researcher has been",
+          "link": "https://thehackernews.com/2023/03/apple-issues-urgent-security-update-for.html",
+          "publishedOn": "2023-03-28T03:41:00.000Z",
+          "wordCount": null,
+          "title": "Apple Issues Urgent Security Update for Older iOS and iPadOS Models",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_X2dyG8rhMdLnnK3bguUAhrOsllYnE1TWOMiXnT_I_jDElwW9uZxRE0JzszyLYDQOnOmq8zXqv4_yXWEHvmGcNIqVHlFnDiCFL585YTV6pue5XJ06N-gT4jGKQhcrQD7kVRlbdxSkDKbVjWkboiQl37duMEmVudAsSBT3D2OFNEOdGo-ApS9u_f07/s1600/iphone-hacking.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_X2dyG8rhMdLnnK3bguUAhrOsllYnE1TWOMiXnT_I_jDElwW9uZxRE0JzszyLYDQOnOmq8zXqv4_yXWEHvmGcNIqVHlFnDiCFL585YTV6pue5XJ06N-gT4jGKQhcrQD7kVRlbdxSkDKbVjWkboiQl37duMEmVudAsSBT3D2OFNEOdGo-ApS9u_f07/s1600/iphone-hacking.png"
+        },
         {
           "id": "https://thehackernews.com/2023/03/20-year-old-breachforums-founder-faces.html",
           "author": "info@thehackernews.com (The Hacker News)",

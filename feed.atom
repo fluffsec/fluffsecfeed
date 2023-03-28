@@ -2,10 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-03-28T02:11:52.741Z</updated>
+    <updated>2023-03-28T07:18:22.011Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Apple Issues Urgent Security Update for Older iOS and iPadOS Models]]></title>
+        <id>https://thehackernews.com/2023/03/apple-issues-urgent-security-update-for.html</id>
+        <link href="https://thehackernews.com/2023/03/apple-issues-urgent-security-update-for.html"/>
+        <updated>2023-03-28T03:41:00.000Z</updated>
+        <summary type="html"><![CDATA[Apple on Monday backported fixes for an actively exploited security flaw to older iPhone and iPad models.
+The issue, tracked as CVE-2023-23529, concerns a type confusion bug in the WebKit browser engine that could lead to arbitrary code execution.
+It was originally addressed by the tech giant with improved checks as part of updates released on February 13, 2023. An anonymous researcher has been]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How CISOs Can Reduce the Danger of Using Data Brokers]]></title>
+        <id>https://www.darkreading.com/edge-articles/how-cisos-can-reduce-the-danger-of-using-data-brokers</id>
+        <link href="https://www.darkreading.com/edge-articles/how-cisos-can-reduce-the-danger-of-using-data-brokers"/>
+        <updated>2023-03-28T02:31:00.000Z</updated>
+        <summary type="html"><![CDATA[Without proof that it was collected legally, purchased data can threaten an enterprise's security compliance and may expose the company to litigation.]]></summary>
+        <author>
+            <name>Evan Schuman, Contributing Writer, Dark Reading</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Clop Keeps Racking Up Ransomware Victims With GoAnywhere Flaw]]></title>
         <id>https://www.darkreading.com/attacks-breaches/clop-keeps-racking-up-ransomware-victims-with-goanywhere-flaw-</id>
