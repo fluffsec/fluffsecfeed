@@ -2,10 +2,72 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-03-29T13:27:08.367Z</updated>
+    <updated>2023-03-29T19:16:07.708Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Phishing Emails Up a Whopping 569% in 2022]]></title>
+        <id>https://www.darkreading.com/attacks-breaches/phishing-emails-up-whopping-569-percent-2022</id>
+        <link href="https://www.darkreading.com/attacks-breaches/phishing-emails-up-whopping-569-percent-2022"/>
+        <updated>2023-03-29T19:05:00.000Z</updated>
+        <summary type="html"><![CDATA[Credential phishing emails are the clear favorite of threat actors, with a 478% spike last year, new research shows.]]></summary>
+        <author>
+            <name>Dark Reading Staff, Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cybersecurity Investment Outlook Remains Grim as Funding Activity Sharply Declines]]></title>
+        <id>https://www.darkreading.com/threat-intelligence/cybersecurity-investment-and-m-a-activity-slowed-in-q1-2023</id>
+        <link href="https://www.darkreading.com/threat-intelligence/cybersecurity-investment-and-m-a-activity-slowed-in-q1-2023"/>
+        <updated>2023-03-29T18:37:00.000Z</updated>
+        <summary type="html"><![CDATA[Security analysts expect little improvement until at least the second half of the year.]]></summary>
+        <author>
+            <name>Jai Vijayan, Contributing Writer, Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Using Observability to Power a Smarter Cybersecurity Strategy]]></title>
+        <id>https://www.darkreading.com/vulnerabilities-threats/using-observability-to-power-a-smarter-cybersecurity-strategy</id>
+        <link href="https://www.darkreading.com/vulnerabilities-threats/using-observability-to-power-a-smarter-cybersecurity-strategy"/>
+        <updated>2023-03-29T17:00:00.000Z</updated>
+        <summary type="html"><![CDATA[With an infrastructure for observability, security teams can make better decisions about access and identity-based threats.]]></summary>
+        <author>
+            <name>Dan Conrad, Federal CTO, Quest Software/One Identity</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google: Commercial Spyware Used by Governments Laden With Zero-Day Exploits]]></title>
+        <id>https://www.darkreading.com/attacks-breaches/google-spyware-governments-zero-day-exploits</id>
+        <link href="https://www.darkreading.com/attacks-breaches/google-spyware-governments-zero-day-exploits"/>
+        <updated>2023-03-29T16:53:00.000Z</updated>
+        <summary type="html"><![CDATA[Google TAG researchers reveal two campaigns against iOS, Android, and Chrome users that demonstrate how the commercial surveillance market is thriving despite government-imposed limits.]]></summary>
+        <author>
+            <name>Elizabeth Montalbano, Contributor, Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The CISO Mantra: Get Ready to Do More With Less]]></title>
+        <id>https://www.darkreading.com/vulnerabilities-threats/the-ciso-mantra-get-ready-to-do-more-with-less</id>
+        <link href="https://www.darkreading.com/vulnerabilities-threats/the-ciso-mantra-get-ready-to-do-more-with-less"/>
+        <updated>2023-03-29T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[For the foreseeable future, with the spigots closing shut, CISOs will need to find ways to do more with less.]]></summary>
+        <author>
+            <name>Steve Benton,  Vice President of Threat Research &amp; General Manager Belfast, Anomali</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Spyware Vendors Caught Exploiting Zero-Day Vulnerabilities on Android and iOS Devices]]></title>
+        <id>https://thehackernews.com/2023/03/spyware-vendors-caught-exploiting-zero.html</id>
+        <link href="https://thehackernews.com/2023/03/spyware-vendors-caught-exploiting-zero.html"/>
+        <updated>2023-03-29T13:52:00.000Z</updated>
+        <summary type="html"><![CDATA[A number of zero-day vulnerabilities that were addressed last year were exploited by commercial spyware vendors to target Android and iOS devices, Google's Threat Analysis Group (TAG) has revealed.
+The two distinct campaigns were both limited and highly targeted, taking advantage of the patch gap between the release of a fix and when it was actually deployed on the targeted devices.
+"These]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Australian Police Arrest Business Email Compromise (BEC) Operators]]></title>
         <id>https://blog.knowbe4.com/australian-police-arrest-bec-operators</id>
@@ -80,6 +142,16 @@ With no surprise, similar trends are emerging also in the smart mobility]]></sum
 "Clipboard injectors [...] can be silent for years, show no network activity or any other signs of presence until the disastrous day when they replace a crypto wallet address," Vitaly Kamluk, director of]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Guidance on Potential Misconfiguration of Authorization of Multi-Tenant Applications that use Azure AD]]></title>
+        <id>/blog/2023/03/guidance-on-potential-misconfiguration-of-authorization-of-multi-tenant-applications-that-use-azure-ad/</id>
+        <link href="https://msrc-blog.microsoft.com/blog/2023/03/guidance-on-potential-misconfiguration-of-authorization-of-multi-tenant-applications-that-use-azure-ad/"/>
+        <updated>2023-03-29T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Summary Summary Microsoft has addressed an authorization misconfiguration for multi-tenant applications that use Azure AD, initially discovered by Wiz, and reported to Microsoft, that impacted a small number of our internal applications. The misconfiguration allowed external parties read and write access to the impacted applications. Microsoft immediately corrected the misconfiguration and added additional authorization checks to address the issue and confirmed that no unintended access had occurred.]]></summary>
+        <author>
+            <name>Microsoft Security Response Center</name>
         </author>
     </entry>
     <entry>
@@ -4992,25 +5064,14 @@ Targeted entities include health, financial, law]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[CISA Issues Warning on Active Exploitation of ZK Java Web Framework Vulnerability]]></title>
-        <id>https://thehackernews.com/2023/02/cisa-issues-warning-on-active.html</id>
-        <link href="https://thehackernews.com/2023/02/cisa-issues-warning-on-active.html"/>
-        <updated>2023-02-28T06:42:00.000Z</updated>
-        <summary type="html"><![CDATA[The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added a high-severity flaw affecting the ZK Framework to its Known Exploited Vulnerabilities (KEV) catalog based on evidence of active exploitation.
-Tracked as CVE-2022-36537 (CVSS score: 7.5), the issue impacts ZK Framework versions 9.6.1, 9.6.0.1, 9.5.1.3, 9.0.1.2, and 8.6.4.1, and allows threat actors to retrieve sensitive]]></summary>
+        <title type="html"><![CDATA[First steps in CHERIoT Security Research]]></title>
+        <id>/blog/2023/02/first-steps-in-cheriot-security-research/</id>
+        <link href="https://msrc-blog.microsoft.com/blog/2023/02/first-steps-in-cheriot-security-research/"/>
+        <updated>2023-02-28T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[At Microsoft, we invest a lot of time researching and investigating possibilities in our journey to memory safety. Because the massive majority of existing codebases are written in unsafe programming languages, the task of protecting legacy code is very important.
+Hardware solutions are an attractive approach because they introduce very powerful security properties with low overheads compared to purely software solutions.]]></summary>
         <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LastPass Reveals Second Attack Resulting in Breach of Encrypted Password Vaults]]></title>
-        <id>https://thehackernews.com/2023/02/lastpass-reveals-second-attack.html</id>
-        <link href="https://thehackernews.com/2023/02/lastpass-reveals-second-attack.html"/>
-        <updated>2023-02-28T06:16:00.000Z</updated>
-        <summary type="html"><![CDATA[LastPass, which in December 2022 disclosed a severe data breach that allowed threat actors to access encrypted password vaults, said it happened as a result of the same adversary launching a second attack on its systems.
-The company said one of its DevOps engineers had their personal home computer breached and infected with a keylogger as part of a sustained cyber attack that exfiltrated]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
+            <name>Microsoft Security Response Center</name>
         </author>
     </entry>
 </feed>
