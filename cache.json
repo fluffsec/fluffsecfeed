@@ -501,6 +501,76 @@
       "siteUrl": "https://www.darkreading.com",
       "articles": [
         {
+          "id": "https://www.darkreading.com/edge-ask-the-experts/how-does-data-literacy-enhance-data-security-",
+          "author": "Sam Rehman, SVP and Chief Information Security Officer, EPAM Systems",
+          "description": "With the rise in cloud-based security concerns and other issues, organizations must improve data literacy across the enterprise.",
+          "link": "https://www.darkreading.com/edge-ask-the-experts/how-does-data-literacy-enhance-data-security-",
+          "publishedOn": "2023-03-29T00:17:00.000Z",
+          "wordCount": 14207,
+          "title": "How Does Data Literacy Enhance Data Security?",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt3296613841eeef1e/64237a4d78f18703f3bdcc14/Sam_Rehman_2.jpg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt3296613841eeef1e/64237a4d78f18703f3bdcc14/Sam_Rehman_2.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/attacks-breaches/macstealer-malware-plucks-bushels-data-apple-users",
+          "author": "Dark Reading Staff, Dark Reading",
+          "description": "A novel cyber threat against macOS users is being sold for $100 a pop on the Dark Web, and activity is ramping up.",
+          "link": "https://www.darkreading.com/attacks-breaches/macstealer-malware-plucks-bushels-data-apple-users",
+          "publishedOn": "2023-03-28T21:00:00.000Z",
+          "wordCount": 11923,
+          "title": "MacStealer Malware Plucks Bushels of Data From Apple Users",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blte161b23f0fd3a84b/60b1ea374e7eb868c4c6a293/dr_staff_125x125.jpg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blte161b23f0fd3a84b/60b1ea374e7eb868c4c6a293/dr_staff_125x125.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/attacks-breaches/nullmixer-polymorphic-malware-variant-8k-targets-month",
+          "author": "Dark Reading Staff, Dark Reading",
+          "description": "The NullMixer loader has compromised thousands of endpoints in the US, France, and Italy, stealing data and selling it to Dark Web data dealers, all without setting off alarm bells.",
+          "link": "https://www.darkreading.com/attacks-breaches/nullmixer-polymorphic-malware-variant-8k-targets-month",
+          "publishedOn": "2023-03-28T20:41:00.000Z",
+          "wordCount": 11887,
+          "title": "NullMixer Polymorphic Malware Variant Infects 8K Targets in Just a Month",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blte161b23f0fd3a84b/60b1ea374e7eb868c4c6a293/dr_staff_125x125.jpg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blte161b23f0fd3a84b/60b1ea374e7eb868c4c6a293/dr_staff_125x125.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/cloud/millions-pen-tests-companies-security-posture-getting-worse",
+          "author": "Robert Lemos, Contributing Writer, Dark Reading",
+          "description": "A lack of website protections, Sender Policy Framework (SPF) records, and DNSSEC configurations leave companies open to phishing and data exfiltration attacks.",
+          "link": "https://www.darkreading.com/cloud/millions-pen-tests-companies-security-posture-getting-worse",
+          "publishedOn": "2023-03-28T20:24:00.000Z",
+          "wordCount": 14326,
+          "title": "Millions of Pen Tests Show Companies' Security Postures Are Getting Worse",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt58481326324d6911/60b1e9a55d34de550780a990/Robert-Lemos.png",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt58481326324d6911/60b1e9a55d34de550780a990/Robert-Lemos.png"
+        },
+        {
+          "id": "https://www.darkreading.com/cloud/bitwarden-announces-secrets-management-with-a-combination-of-open-source-end-to-end-encryption-and-ease-of-use",
+          "author": null,
+          "description": "",
+          "link": "https://www.darkreading.com/cloud/bitwarden-announces-secrets-management-with-a-combination-of-open-source-end-to-end-encryption-and-ease-of-use",
+          "publishedOn": "2023-03-28T19:16:00.000Z",
+          "wordCount": 12357,
+          "title": "Bitwarden Announces Secrets Management With a Combination of Open Source, End-to-End Encryption, and Ease of Use",
+          "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
+        },
+        {
           "id": "https://www.darkreading.com/threat-intelligence/north-korea-kimsuky-evolves-full-fledged-persistent-threat",
           "author": "Elizabeth Montalbano, Contributor, Dark Reading",
           "description": "In cyberattacks against the US, South Korea, and Japan, the group (aka APT43 or Thallium) is using advanced social engineering and cryptomining tactics that set it apart from other threat actors.",
@@ -4294,16 +4364,6 @@
           "wordCount": 3036,
           "title": "GLBA and Other Regulations Wake Up to the Importance of Security Awareness Training With  June 9, 2023 Deadline",
           "imageUrl": "https://blog.knowbe4.com/hubfs/Social%20Image%20Repository/Evangelist%20Blog%20Social%20Graphics/Evangelists-Roger%20Grimes.jpg#keepProtocol"
-        },
-        {
-          "id": "https://blog.knowbe4.com/npm-packages-spread-phishing-links",
-          "author": "Stu Sjouwerman",
-          "description": "Researchers at Checkmarx warn that attackers uploaded more than 15,000 packages to NPM, the open-source repository for JavaScript packages, to distribute phishing links. The packages themselves weren’t malicious, but they contained README text files with links to phishing sites.",
-          "link": "https://blog.knowbe4.com/npm-packages-spread-phishing-links",
-          "publishedOn": "2023-02-27T13:39:49.000Z",
-          "wordCount": 2251,
-          "title": "Thousands of NPM Packages Used to Spread Phishing Links",
-          "imageUrl": "https://blog.knowbe4.com/hubfs/Phishing%20as%20a%20Service%20Kit.jpg#keepProtocol"
         }
       ]
     },
@@ -6279,54 +6339,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_UquVxRJK2qu4IE6j5lqBcCEMX01H0niVG_3F_vTVfnF8YCJL4QwEUj59_aY3xmRIrBQCCHpGkBe_loG7DRdaBB-oxrCdI5wog3gfc1JFGffwtlcEXrL3YUHnIuy379M70K9JQM_WRRoEvPuXhNL_9_Qdm1ooGBiYadMrDiKp_WPfw6rCiPT5Q0cv/s1600/ebook.png"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_UquVxRJK2qu4IE6j5lqBcCEMX01H0niVG_3F_vTVfnF8YCJL4QwEUj59_aY3xmRIrBQCCHpGkBe_loG7DRdaBB-oxrCdI5wog3gfc1JFGffwtlcEXrL3YUHnIuy379M70K9JQM_WRRoEvPuXhNL_9_Qdm1ooGBiYadMrDiKp_WPfw6rCiPT5Q0cv/s1600/ebook.png"
-        },
-        {
-          "id": "https://thehackernews.com/2023/02/chromeloader-malware-targeting-gamers.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "A new ChromeLoader malware campaign has been observed being distributed via virtual hard disk (VHD) files, marking a deviation from the ISO optical disc image format.\n\"These VHD files are being distributed with filenames that make them appear like either hacks or cracks for Nintendo and Steam games,\" AhnLab Security Emergency response Center (ASEC) said in a report last week.\nChromeLoader (aka",
-          "link": "https://thehackernews.com/2023/02/chromeloader-malware-targeting-gamers.html",
-          "publishedOn": "2023-02-27T10:53:00.000Z",
-          "wordCount": null,
-          "title": "ChromeLoader Malware Targeting Gamers via Fake Nintendo and Steam Game Hacks",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh5C1hT61O7uySdtawGLPWVjV6ONu19bJOx-huUGq0GXxFRbysLNxfo0O8xeaXXN4ilYQrBn_UY4QOh1XjRP5_iCHpo23QETv9MWuJtOYcPh5Z0E4s1pL7qv0_rlMEDx4yLSsuLD1XIQZa6UnhQIjSnPVzArx1oEH0d3xgPWGBfhG7ORyIX6XaIzkBd/s1600/game-hack.png"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh5C1hT61O7uySdtawGLPWVjV6ONu19bJOx-huUGq0GXxFRbysLNxfo0O8xeaXXN4ilYQrBn_UY4QOh1XjRP5_iCHpo23QETv9MWuJtOYcPh5Z0E4s1pL7qv0_rlMEDx4yLSsuLD1XIQZa6UnhQIjSnPVzArx1oEH0d3xgPWGBfhG7ORyIX6XaIzkBd/s1600/game-hack.png"
-        },
-        {
-          "id": "https://thehackernews.com/2023/02/purecrypter-malware-targets-government.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Government entities in Asia-Pacific and North America are being targeted by an unknown threat actor with an off-the-shelf malware downloader known as PureCrypter to deliver an array of information stealers and ransomware.\n\"The PureCrypter campaign uses the domain of a compromised non-profit organization as a command-and-control (C2) to deliver a secondary payload,\" Menlo Security researcher",
-          "link": "https://thehackernews.com/2023/02/purecrypter-malware-targets-government.html",
-          "publishedOn": "2023-02-27T10:22:00.000Z",
-          "wordCount": null,
-          "title": "PureCrypter Malware Targets Government Entities in Asia-Pacific and North America",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgYTTjYUXSTL5xMUBkV1VgU5KrfeAH2zGsF28dLYgW_JlwFkkPQcEi2zLe2IdRBs_JyCsukowr7_h4xATf2Rvtv7zEU_UhlUMfQRQKvGliYPdQkhd8pDq4axxkX5tB6rmh1ZJxWrWeXD1PsKrxE4Fp4oTipj_QFeFBiuC_g79UJ2Fa34n9SqohT4kZ3/s1600/ransomware.png"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgYTTjYUXSTL5xMUBkV1VgU5KrfeAH2zGsF28dLYgW_JlwFkkPQcEi2zLe2IdRBs_JyCsukowr7_h4xATf2Rvtv7zEU_UhlUMfQRQKvGliYPdQkhd8pDq4axxkX5tB6rmh1ZJxWrWeXD1PsKrxE4Fp4oTipj_QFeFBiuC_g79UJ2Fa34n9SqohT4kZ3/s1600/ransomware.png"
-        },
-        {
-          "id": "https://thehackernews.com/2023/02/plugx-trojan-disguised-as-legitimate.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "The PlugX remote access trojan has been observed masquerading as an open source Windows debugger tool called x64dbg in an attempt to circumvent security protections and gain control of a target system.\n\"This file is a legitimate open-source debugger tool for Windows that is generally used to examine kernel-mode and user-mode code, crash dumps, or CPU registers,\" Trend Micro researchers Buddy",
-          "link": "https://thehackernews.com/2023/02/plugx-trojan-disguised-as-legitimate.html",
-          "publishedOn": "2023-02-27T10:04:00.000Z",
-          "wordCount": null,
-          "title": "PlugX Trojan Disguised as Legitimate Windows Debugger Tool in Latest Attacks",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgw9G_A8t0Hm-JbSh3N8OOINj4q3DTeBAhfN1WXfpMr_xBtW5AnBiIeVLcqF1m1LZMuwmQOR2HrFx44tkgh7NPd1JvwWX4AgMpm8vzj_IM0dMU9JWH3SjKe-MpPLhdb7RivH4R6L-0lCqlkDH02QZa94GjgflijowfSbGCEqhjij37dMMMxRgX60FtO/s1600/plugx.png"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgw9G_A8t0Hm-JbSh3N8OOINj4q3DTeBAhfN1WXfpMr_xBtW5AnBiIeVLcqF1m1LZMuwmQOR2HrFx44tkgh7NPd1JvwWX4AgMpm8vzj_IM0dMU9JWH3SjKe-MpPLhdb7RivH4R6L-0lCqlkDH02QZa94GjgflijowfSbGCEqhjij37dMMMxRgX60FtO/s1600/plugx.png"
         }
       ]
     }
