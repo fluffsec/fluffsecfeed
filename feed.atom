@@ -2,10 +2,86 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-03-29T07:18:04.673Z</updated>
+    <updated>2023-03-29T13:27:08.367Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Australian Police Arrest Business Email Compromise (BEC) Operators]]></title>
+        <id>https://blog.knowbe4.com/australian-police-arrest-bec-operators</id>
+        <link href="https://blog.knowbe4.com/australian-police-arrest-bec-operators"/>
+        <updated>2023-03-29T12:43:18.000Z</updated>
+        <summary type="html"><![CDATA[The Australian Federal Police (AFP) have arrested four alleged members of an organized crime group known for carrying out business email compromise (BEC) attacks, BleepingComputer reports. The victims of the gang’s attacks lost between $2,500 and $500,000.]]></summary>
+        <author>
+            <name>Stu Sjouwerman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[LIVE DEMO] Are Your Users Making Risky Security Mistakes? Deliver Real-Time Coaching in Response to Risky User Behavior with SecurityCoach]]></title>
+        <id>https://blog.knowbe4.com/live-demo-securitycoach</id>
+        <link href="https://blog.knowbe4.com/live-demo-securitycoach"/>
+        <updated>2023-03-29T12:27:20.000Z</updated>
+        <summary type="html"><![CDATA[Do you need an easy, automated way to provide real-time feedback the moment your users make risky mistakes to help reinforce the training campaigns you manage today?]]></summary>
+        <author>
+            <name>Stu Sjouwerman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The FBI's Public Service Warning of Business Email Compromise]]></title>
+        <id>https://blog.knowbe4.com/fbi-warning-business-email-compromise</id>
+        <link href="https://blog.knowbe4.com/fbi-warning-business-email-compromise"/>
+        <updated>2023-03-29T12:01:52.000Z</updated>
+        <summary type="html"><![CDATA[The US FBI is warning of business email compromise (BEC) attacks designed to steal physical goods. While BEC attacks are typically associated with stealing money, criminals can use the same social engineering tactics to hijack deliveries of valuable materials. The FBI says fraudsters are particularly interested in stealing construction materials, agricultural supplies, computer technology hardware and solar energy products.]]></summary>
+        <author>
+            <name>Stu Sjouwerman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mélofée: Researchers Uncover New Linux Malware Linked to Chinese APT Groups]]></title>
+        <id>https://thehackernews.com/2023/03/melofee-researchers-uncover-new-linux.html</id>
+        <link href="https://thehackernews.com/2023/03/melofee-researchers-uncover-new-linux.html"/>
+        <updated>2023-03-29T12:01:00.000Z</updated>
+        <summary type="html"><![CDATA[An unknown Chinese state-sponsored hacking group has been linked to a novel piece of malware aimed at Linux servers.
+French cybersecurity firm ExaTrack, which found three samples of the previously documented malicious software that date back to early 2022, dubbed it Mélofée.
+One of the artifacts is designed to drop a kernel-mode rootkit that's based on an open source project referred to as]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build a Research Lab for Reverse Engineering — 4 Ways]]></title>
+        <id>https://thehackernews.com/2023/03/how-to-build-research-lab-for-reverse.html</id>
+        <link href="https://thehackernews.com/2023/03/how-to-build-research-lab-for-reverse.html"/>
+        <updated>2023-03-29T11:43:00.000Z</updated>
+        <summary type="html"><![CDATA[Malware analysis is an essential part of security researcher's work. But working with malicious samples can be dangerous — it requires specialized tools to record their activity, and a secure environment to prevent unintended damage.
+However, manual lab setup and configuration can prove to be a laborious and time-consuming process.
+In this article, we'll look at 4 ways to create a reverse]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Smart Mobility has a Blindspot When it Comes to API Security]]></title>
+        <id>https://thehackernews.com/2023/03/smart-mobility-has-blindspot-when-it.html</id>
+        <link href="https://thehackernews.com/2023/03/smart-mobility-has-blindspot-when-it.html"/>
+        <updated>2023-03-29T11:43:00.000Z</updated>
+        <summary type="html"><![CDATA[The emergence of smart mobility services and applications has led to a sharp increase in the use of APIs in the automotive industry. However, this increased reliance on APIs has also made them one of the most common attack vectors. According to Gartner, APIs account for 90% of the web application attack surface areas. 
+With no surprise, similar trends are emerging also in the smart mobility]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Trojanized TOR Browser Installers Spreading Crypto-Stealing Clipper Malware]]></title>
+        <id>https://thehackernews.com/2023/03/trojanized-tor-browser-installers.html</id>
+        <link href="https://thehackernews.com/2023/03/trojanized-tor-browser-installers.html"/>
+        <updated>2023-03-29T09:17:00.000Z</updated>
+        <summary type="html"><![CDATA[Trojanized installers for the TOR anonymity browser are being used to target users in Russia and Eastern Europe with clipper malware designed to siphon cryptocurrencies since September 2022.
+"Clipboard injectors [...] can be silent for years, show no network activity or any other signs of presence until the disastrous day when they replace a crypto wallet address," Vitaly Kamluk, director of]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[North Korean APT43 Group Uses Cybercrime to Fund Espionage Operations]]></title>
         <id>https://thehackernews.com/2023/03/north-korean-apt43-group-uses.html</id>
@@ -25,6 +101,16 @@ Google-owned Mandiant, which is tracking the activity cluster under the moniker�
         <summary type="html"><![CDATA[With the rise in cloud-based security concerns and other issues, organizations must improve data literacy across the enterprise.]]></summary>
         <author>
             <name>Sam Rehman, SVP and Chief Information Security Officer, EPAM Systems</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Security Copilot Uses GPT-4 to Beef Up Security Incident Response]]></title>
+        <id>https://www.darkreading.com/dr-tech/microsoft-security-copilot-uses-gpt-4-to-beef-up-security-incident-response</id>
+        <link href="https://www.darkreading.com/dr-tech/microsoft-security-copilot-uses-gpt-4-to-beef-up-security-incident-response"/>
+        <updated>2023-03-29T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft's new AI assistant tool helps cybersecurity teams investigate security incidents and hunt for threats.]]></summary>
+        <author>
+            <name>Fahmida Y. Rashid, Managing Editor, Features, Dark Reading</name>
         </author>
     </entry>
     <entry>
@@ -4925,85 +5011,6 @@ Tracked as CVE-2022-36537 (CVSS score: 7.5), the issue impacts ZK Framework ve
 The company said one of its DevOps engineers had their personal home computer breached and infected with a keylogger as part of a sustained cyber attack that exfiltrated]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[First steps in CHERIoT Security Research]]></title>
-        <id>/blog/2023/02/first-steps-in-cheriot-security-research/</id>
-        <link href="https://msrc-blog.microsoft.com/blog/2023/02/first-steps-in-cheriot-security-research/"/>
-        <updated>2023-02-28T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[First steps in CHERIoT Security Research First steps in CHERIoT Security Research At Microsoft, we invest a lot of time researching and investigating possibilities in our journey to memory safety. Because the massive majority of existing codebases are written in unsafe programming languages, the task of protecting legacy code is very important.]]></summary>
-        <author>
-            <name>Microsoft Security Response Center</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Active Digital Identity Apps to Surpass 4.1B by 2027]]></title>
-        <id>https://www.darkreading.com/endpoint/active-digital-identity-apps-to-surpass-4-1-billion-by-2027-as-third-party-platforms-look-to-leverage-civic-identity-systems</id>
-        <link href="https://www.darkreading.com/endpoint/active-digital-identity-apps-to-surpass-4-1-billion-by-2027-as-third-party-platforms-look-to-leverage-civic-identity-systems"/>
-        <updated>2023-02-27T22:55:00.000Z</updated>
-        <author>
-            <name>Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Attackers Were on Network for 2 Years, News Corp Says]]></title>
-        <id>https://www.darkreading.com/analytics/attackers-were-on-network-2-years-news-corp</id>
-        <link href="https://www.darkreading.com/analytics/attackers-were-on-network-2-years-news-corp"/>
-        <updated>2023-02-27T22:40:00.000Z</updated>
-        <summary type="html"><![CDATA[The publisher of the Wall Street Journal, New York Post, and several other publications had last year disclosed a breach it said was the work of a state-backed actor likely working for China.]]></summary>
-        <author>
-            <name>Jai Vijayan, Contributing Writer, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Wiz Reaches $10B Valuation With Consolidated Cloud Security Platform]]></title>
-        <id>https://www.darkreading.com/cloud/wiz-reaches-10-billion-valuation-with-consolidated-cloud-security-platform</id>
-        <link href="https://www.darkreading.com/cloud/wiz-reaches-10-billion-valuation-with-consolidated-cloud-security-platform"/>
-        <updated>2023-02-27T22:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Cloud security vendor Wiz has raised $900 million since its founding in 2020.]]></summary>
-        <author>
-            <name>Dark Reading Staff, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GLBA and Other Regulations Wake Up to the Importance of Security Awareness Training With  June 9, 2023 Deadline]]></title>
-        <id>https://blog.knowbe4.com/glba-and-other-regulations-wake-up-to-the-importance-of-security-awareness-training</id>
-        <link href="https://blog.knowbe4.com/glba-and-other-regulations-wake-up-to-the-importance-of-security-awareness-training"/>
-        <updated>2023-02-27T21:15:26.000Z</updated>
-        <summary type="html"><![CDATA[Most computer security practitioners have understood for many years the importance of having an aggressive security awareness training program. As social engineering is involved in 70% to 90% of all successful hacking attacks, not addressing the human element is not an option. Still, some of the regulatory documents have been slow to come around. Not anymore.]]></summary>
-        <author>
-            <name>Roger Grimes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vouched Raises $6.3M to Expand AI Identity Verification Offering to Telemedicine and Healthcare]]></title>
-        <id>https://www.darkreading.com/remote-workforce/vouched-raises-6-3m-to-expand-ai-identity-verification-offering-to-telemedicine-and-healthcare-</id>
-        <link href="https://www.darkreading.com/remote-workforce/vouched-raises-6-3m-to-expand-ai-identity-verification-offering-to-telemedicine-and-healthcare-"/>
-        <updated>2023-02-27T20:58:00.000Z</updated>
-        <summary type="html"><![CDATA[Vouched now covers more than 85% of the global population, as demand accelerates for its platform to securely automate KYC and KYP compliance to better serve patients and drive revenue.]]></summary>
-        <author>
-            <name>Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Reduce Code Risk Using Pipelineless Security]]></title>
-        <id>https://www.darkreading.com/dr-tech/how-to-reduce-code-risk-using-pipelineless-security</id>
-        <link href="https://www.darkreading.com/dr-tech/how-to-reduce-code-risk-using-pipelineless-security"/>
-        <updated>2023-02-27T19:30:00.000Z</updated>
-        <summary type="html"><![CDATA[The exposure and exploitation of hardcoded secrets continues to drive software supply chain attacks. One solution: zero new hardcoded secrets.]]></summary>
-        <author>
-            <name>Nir Valtman, Co-Founder &amp; CEO, Arnica</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[All CVEs Are Not Created Equal]]></title>
-        <id>https://www.darkreading.com/edge-articles/all-cves-are-not-created-equal</id>
-        <link href="https://www.darkreading.com/edge-articles/all-cves-are-not-created-equal"/>
-        <updated>2023-02-27T19:25:00.000Z</updated>
-        <summary type="html"><![CDATA[Vulnerabilities impact each industry differently, so each sector needs to think about its defenses and vulnerability management differently.]]></summary>
-        <author>
-            <name>Tiago Henriques, Vice President of Research, Coalition</name>
         </author>
     </entry>
 </feed>
