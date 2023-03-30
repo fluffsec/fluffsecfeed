@@ -2,10 +2,84 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-03-30T13:29:09.920Z</updated>
+    <updated>2023-03-30T19:13:50.703Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Patches 'Dangerous' RCE Flaw in Azure Cloud Service]]></title>
+        <id>https://www.darkreading.com/cloud/microsoft-patches-dangerous-xss-flaw-azure-service-fabric</id>
+        <link href="https://www.darkreading.com/cloud/microsoft-patches-dangerous-xss-flaw-azure-service-fabric"/>
+        <updated>2023-03-30T18:58:13.000Z</updated>
+        <summary type="html"><![CDATA[The vulnerability would have allowed an unauthenticated attacker to execute code on a container hosted on one of the platform's nodes.]]></summary>
+        <author>
+            <name>Elizabeth Montalbano, Contributor, Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Organizations Reassess Cyber Insurance as Self-Insurance Strategies Emerge]]></title>
+        <id>https://www.darkreading.com/edge-articles/organizations-reassess-cyber-insurance-as-self-insurance-strategies-emerge</id>
+        <link href="https://www.darkreading.com/edge-articles/organizations-reassess-cyber-insurance-as-self-insurance-strategies-emerge"/>
+        <updated>2023-03-30T18:50:00.000Z</updated>
+        <summary type="html"><![CDATA[Risk reassessment is shaking up the cybersecurity insurance market, leading some organizations to consider their options, including self-insurance.]]></summary>
+        <author>
+            <name>Nathan Eddy, Contributing Writer, Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DataDome Closes $42M in Series C Funding to Advance the Fight Against Bot-Driven Cyberattacks and Fraud]]></title>
+        <id>https://www.darkreading.com/attacks-breaches/datadome-closes-42m-in-series-c-funding-to-advance-the-fight-against-bot-driven-cyberattacks-and-fraud</id>
+        <link href="https://www.darkreading.com/attacks-breaches/datadome-closes-42m-in-series-c-funding-to-advance-the-fight-against-bot-driven-cyberattacks-and-fraud"/>
+        <updated>2023-03-30T17:48:00.000Z</updated>
+        <summary type="html"><![CDATA[The investment will fund global commercial rollout and R&D efforts to debilitate fraudsters.]]></summary>
+        <author>
+            <name>Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Socura Launches Managed SASE (MSASE) Service]]></title>
+        <id>https://www.darkreading.com/perimeter/socura-launches-managed-sase-msase-service</id>
+        <link href="https://www.darkreading.com/perimeter/socura-launches-managed-sase-msase-service"/>
+        <updated>2023-03-30T17:25:00.000Z</updated>
+        <summary type="html"><![CDATA[SASE reduces security & connectivity costs and improves employee experience.]]></summary>
+        <author>
+            <name>Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Researchers Detail Severe "Super FabriXss" Vulnerability in Microsoft Azure SFX]]></title>
+        <id>https://thehackernews.com/2023/03/researchers-detail-severe-super.html</id>
+        <link href="https://thehackernews.com/2023/03/researchers-detail-severe-super.html"/>
+        <updated>2023-03-30T17:02:00.000Z</updated>
+        <summary type="html"><![CDATA[Details have emerged about a now-patched vulnerability in Azure Service Fabric Explorer (SFX) that could lead to unauthenticated remote code execution.
+Tracked as CVE-2023-23383 (CVSS score: 8.2), the issue has been dubbed "Super FabriXss" by Orca Security, a nod to the FabriXss flaw (CVE-2022-35829, CVSS score: 6.2) that was fixed by Microsoft in October 2022.
+"The Super FabriXss vulnerability]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chinese RedGolf Group Targeting Windows and Linux Systems with KEYPLUG Backdoor]]></title>
+        <id>https://thehackernews.com/2023/03/chinese-redgolf-group-targeting-windows.html</id>
+        <link href="https://thehackernews.com/2023/03/chinese-redgolf-group-targeting-windows.html"/>
+        <updated>2023-03-30T15:58:00.000Z</updated>
+        <summary type="html"><![CDATA[A Chinese state-sponsored threat activity group tracked as RedGolf has been attributed to the use of a custom Windows and Linux backdoor called KEYPLUG.
+"RedGolf is a particularly prolific Chinese state-sponsored threat actor group that has likely been active for many years against a wide range of industries globally," Recorded Future told The Hacker News.
+"The group has shown the ability to]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stop Blaming the End User for Security Risk]]></title>
+        <id>https://www.darkreading.com/risk/stop-blaming-the-end-user-for-security-risk</id>
+        <link href="https://www.darkreading.com/risk/stop-blaming-the-end-user-for-security-risk"/>
+        <updated>2023-03-30T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Don't count on securing end users for system security. Instead, focus on better securing the systems — make them closed by default and build with a security-first approach.]]></summary>
+        <author>
+            <name>John A. Smith, CEO, Conversant Group</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Artificial Intelligence Makes Phishing Text More Plausible]]></title>
         <id>https://blog.knowbe4.com/ai-makes-phishing-text-more-plausible</id>
@@ -25,6 +99,55 @@
 Successful exploitation of the shortcoming could be abused to hijack TCP connections or intercept client and web traffic, researchers Domien Schepers, Aanjhan Ranganathan,]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CISA Releases One Industrial Control Systems Advisory]]></title>
+        <id>/node/17802</id>
+        <link href="https://www.cisa.gov/news-events/alerts/2023/03/30/cisa-releases-one-industrial-control-systems-advisory"/>
+        <updated>2023-03-30T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[CISA released one Industrial Control Systems (ICS) advisory on March 30, 2023. This advisory provides timely information about current security issues, vulnerabilities, and exploits surrounding ICS. 
+ICSA-23-089-01 Hitachi Energy IEC 61850 MMS-Server
+CISA encourages users and administrators to review the newly released ICS advisories for technical details and mitigations.]]></summary>
+        <author>
+            <name>CISA</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Supply Chain Attack Against 3CXDesktopApp]]></title>
+        <id>/node/17809</id>
+        <link href="https://www.cisa.gov/news-events/alerts/2023/03/30/supply-chain-attack-against-3cxdesktopapp"/>
+        <updated>2023-03-30T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[CISA is aware of open-source reports describing a supply chain attack against 3CX software and their customers. According to the reports, 3CXDesktopApp — a voice and video conferencing app — was trojanized, potentially leading to multi-staged attacks against users employing the vulnerable app.
+CISA urges users and organizations to review the following reports for more information, and hunt for the listed indicators of compromise (IOCs) for potential malicious activity:
+CrowdStrike: Falcon Platform Detects and Prevents Active Intrusion Campaign Targeting 3CXDesktopApp Customers
+SentinelOne: SmoothOperator | Ongoing Campaign Trojanizes 3CXDesktopApp in Supply Chain Attack
+DesktopApp: 3CX DesktopApp Security Alert]]></summary>
+        <author>
+            <name>CISA</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CISA Adds Ten Known Exploited Vulnerabilities to Catalog]]></title>
+        <id>/node/17810</id>
+        <link href="https://www.cisa.gov/news-events/alerts/2023/03/30/cisa-adds-ten-known-exploited-vulnerabilities-catalog"/>
+        <updated>2023-03-30T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[CISA has added ten new vulnerabilities to its Known Exploited Vulnerabilities Catalog, based on evidence of active exploitation.
+CVE-2013-3163 Microsoft Internet Explorer Memory Corruption Vulnerability
+CVE-2014-1776 Microsoft Internet Explorer Memory Corruption Vulnerability
+CVE-2017-7494 Samba Remote Code Execution Vulnerability
+CVE-2022-42948 Fortra Cobalt Strike User Interface Remote Code Execution Vulnerability
+CVE-2022-39197 Fortra Cobalt Strike Teamserver Cross-Site Scripting (XSS) Vulnerability
+CVE-2021-30900 Apple iOS, iPadOS, and macOS Out-of-Bounds Write Vulnerability
+CVE-2022-38181 Arm Mali GPU Kernel Driver Use-After-Free Vulnerability
+CVE-2023-0266 Linux Kernel Use-After-Free Vulnerability
+CVE-2022-3038 Google Chrome Use-After-Free Vulnerability
+CVE-2022-22706 Arm Mali GPU Kernel Driver Unspecified Vulnerability
+These types of vulnerabilities are frequent attack vectors for malicious cyber actors and pose significant risks to the federal enterprise. Note: To view other newly added vulnerabilities in the catalog, click on the arrow in the "Date Added to Catalog" column—which will sort by descending dates.
+Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the Known Exploited Vulnerabilities Catalog as a living list of known Common Vulnerabilities and Exposures (CVEs) that carry significant risk to the federal enterprise. BOD 22-01 requires Federal Civilian Executive Branch (FCEB) agencies to remediate identified vulnerabilities by the due date to protect FCEB networks against active threats. See the BOD 22-01 Fact Sheet for more information.
+Although BOD 22-01 only applies to FCEB agencies, CISA strongly urges all organizations to reduce their exposure to cyberattacks by prioritizing timely remediation of Catalog vulnerabilities as part of their vulnerability management practice. CISA will continue to add vulnerabilities to the catalog that meet the specified criteria.]]></summary>
+        <author>
+            <name>CISA</name>
         </author>
     </entry>
     <entry>
@@ -4931,14 +5054,24 @@ To that end, users can send and receive emails or]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Parallax RAT Targeting Cryptocurrency Firms with Sophisticated Injection Techniques]]></title>
-        <id>https://thehackernews.com/2023/03/parallax-rat-targeting-cryptocurrency.html</id>
-        <link href="https://thehackernews.com/2023/03/parallax-rat-targeting-cryptocurrency.html"/>
-        <updated>2023-03-01T06:11:00.000Z</updated>
-        <summary type="html"><![CDATA[Cryptocurrency companies are being targeted as part of a new campaign that delivers a remote access trojan called Parallax RAT.
-The malware "uses injection techniques to hide within legitimate processes, making it difficult to detect," Uptycs said in a new report. "Once it has been successfully injected, attackers can interact with their victim via Windows Notepad that likely serves as a]]></summary>
+        <title type="html"><![CDATA[Azure Kubernetes Service (AKS) Threat Hunting]]></title>
+        <id>/blog/2023/03/azure-kubernetes-service-aks-threat-hunting/</id>
+        <link href="https://msrc-blog.microsoft.com/blog/2023/03/azure-kubernetes-service-aks-threat-hunting/"/>
+        <updated>2023-03-01T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[As more businesses shift away from running workloads on dedicated virtual machines to running them inside containers using workload orchestrators like Kubernetes, adversaries have become more interested in them as targets. Moreover, the benefits Kubernetes provides for managing workloads are also extended to adversaries. As adversaries leverage Kubernetes to run their workloads, their understanding of how these platforms work and can be exploited increases.]]></summary>
         <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
+            <name>Microsoft Security Response Center</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Configuring host-level audit logging for AKS VMSS]]></title>
+        <id>/blog/2023/03/configuring-host-level-audit-logging-for-aks-vmss/</id>
+        <link href="https://msrc-blog.microsoft.com/blog/2023/03/configuring-host-level-audit-logging-for-aks-vmss/"/>
+        <updated>2023-03-01T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[This blog post runs you through how to enable and configure Linux audit logging on your Azure Kubernetes Service (AKS) Virtual Machine Scale Set (VMSS) using the Linux auditing subsystem, also known as auditd.
+Warning The information provided below is accurate as of the release date of this blog post (2023-03) and guidance may change in future.]]></summary>
+        <author>
+            <name>Microsoft Security Response Center</name>
         </author>
     </entry>
 </feed>

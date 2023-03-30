@@ -33,6 +33,36 @@
       "siteUrl": "https://www.cisa.gov/",
       "articles": [
         {
+          "id": "/node/17802",
+          "author": "CISA",
+          "description": "CISA released one Industrial Control Systems (ICS) advisory on March 30, 2023. This advisory provides timely information about current security issues, vulnerabilities, and exploits surrounding ICS. \nICSA-23-089-01 Hitachi Energy IEC 61850 MMS-Server\nCISA encourages users and administrators to review the newly released ICS advisories for technical details and mitigations.",
+          "link": "https://www.cisa.gov/news-events/alerts/2023/03/30/cisa-releases-one-industrial-control-systems-advisory",
+          "publishedOn": "2023-03-30T12:00:00.000Z",
+          "wordCount": 533,
+          "title": "CISA Releases One Industrial Control Systems Advisory",
+          "imageUrl": null
+        },
+        {
+          "id": "/node/17809",
+          "author": "CISA",
+          "description": "CISA is aware of open-source reports describing a supply chain attack against 3CX software and their customers. According to the reports, 3CXDesktopApp — a voice and video conferencing app — was trojanized, potentially leading to multi-staged attacks against users employing the vulnerable app.\nCISA urges users and organizations to review the following reports for more information, and hunt for the listed indicators of compromise (IOCs) for potential malicious activity:\nCrowdStrike: Falcon Platform Detects and Prevents Active Intrusion Campaign Targeting 3CXDesktopApp Customers\nSentinelOne: SmoothOperator | Ongoing Campaign Trojanizes 3CXDesktopApp in Supply Chain Attack\nDesktopApp: 3CX DesktopApp Security Alert",
+          "link": "https://www.cisa.gov/news-events/alerts/2023/03/30/supply-chain-attack-against-3cxdesktopapp",
+          "publishedOn": "2023-03-30T12:00:00.000Z",
+          "wordCount": 579,
+          "title": "Supply Chain Attack Against 3CXDesktopApp",
+          "imageUrl": null
+        },
+        {
+          "id": "/node/17810",
+          "author": "CISA",
+          "description": "CISA has added ten new vulnerabilities to its Known Exploited Vulnerabilities Catalog, based on evidence of active exploitation.\nCVE-2013-3163 Microsoft Internet Explorer Memory Corruption Vulnerability\nCVE-2014-1776 Microsoft Internet Explorer Memory Corruption Vulnerability\nCVE-2017-7494 Samba Remote Code Execution Vulnerability\nCVE-2022-42948 Fortra Cobalt Strike User Interface Remote Code Execution Vulnerability\nCVE-2022-39197 Fortra Cobalt Strike Teamserver Cross-Site Scripting (XSS) Vulnerability\nCVE-2021-30900 Apple iOS, iPadOS, and macOS Out-of-Bounds Write Vulnerability\nCVE-2022-38181 Arm Mali GPU Kernel Driver Use-After-Free Vulnerability\nCVE-2023-0266 Linux Kernel Use-After-Free Vulnerability\nCVE-2022-3038 Google Chrome Use-After-Free Vulnerability\nCVE-2022-22706 Arm Mali GPU Kernel Driver Unspecified Vulnerability\nThese types of vulnerabilities are frequent attack vectors for malicious cyber actors and pose significant risks to the federal enterprise. Note: To view other newly added vulnerabilities in the catalog, click on the arrow in the \"Date Added to Catalog\" column—which will sort by descending dates.\nBinding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the Known Exploited Vulnerabilities Catalog as a living list of known Common Vulnerabilities and Exposures (CVEs) that carry significant risk to the federal enterprise. BOD 22-01 requires Federal Civilian Executive Branch (FCEB) agencies to remediate identified vulnerabilities by the due date to protect FCEB networks against active threats. See the BOD 22-01 Fact Sheet for more information.\nAlthough BOD 22-01 only applies to FCEB agencies, CISA strongly urges all organizations to reduce their exposure to cyberattacks by prioritizing timely remediation of Catalog vulnerabilities as part of their vulnerability management practice. CISA will continue to add vulnerabilities to the catalog that meet the specified criteria.",
+          "link": "https://www.cisa.gov/news-events/alerts/2023/03/30/cisa-adds-ten-known-exploited-vulnerabilities-catalog",
+          "publishedOn": "2023-03-30T12:00:00.000Z",
+          "wordCount": 741,
+          "title": "CISA Adds Ten Known Exploited Vulnerabilities to Catalog",
+          "imageUrl": null
+        },
+        {
           "id": "/node/17777",
           "author": "CISA",
           "description": "Apple has released security updates to address vulnerabilities in multiple products. An attacker could exploit some of these vulnerabilities to take control of an affected device.\nCISA encourages users and administrators to review the following advisories and apply the necessary updates.\nmacOS Ventura 13.3\nSafari 16.4\nStudio Display Firmware Update 16.4\niOS 15.7.4 and iPadOS 15.7.4\ntvOS 16.4\nmacOS Big Sur 11.7.5\niOS 16.4 and iPadOS 16.4\nmacOS Monterey 12.6.4\nwatchOS 9.4\nPlease share your thoughts. We recently updated our anonymous Product Feedback Survey and we'd welcome your feedback.",
@@ -500,6 +530,71 @@
       "feedUrl": "https://www.darkreading.com/rss.xml",
       "siteUrl": "https://www.darkreading.com",
       "articles": [
+        {
+          "id": "https://www.darkreading.com/cloud/microsoft-patches-dangerous-xss-flaw-azure-service-fabric",
+          "author": "Elizabeth Montalbano, Contributor, Dark Reading",
+          "description": "The vulnerability would have allowed an unauthenticated attacker to execute code on a container hosted on one of the platform's nodes.",
+          "link": "https://www.darkreading.com/cloud/microsoft-patches-dangerous-xss-flaw-azure-service-fabric",
+          "publishedOn": "2023-03-30T18:58:13.000Z",
+          "wordCount": 14111,
+          "title": "Microsoft Patches 'Dangerous' RCE Flaw in Azure Cloud Service",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltbfd004d139d42d70/6303bca6236c2476a257760e/ElizabethMontalbano.jpg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltbfd004d139d42d70/6303bca6236c2476a257760e/ElizabethMontalbano.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/edge-articles/organizations-reassess-cyber-insurance-as-self-insurance-strategies-emerge",
+          "author": "Nathan Eddy, Contributing Writer, Dark Reading",
+          "description": "Risk reassessment is shaking up the cybersecurity insurance market, leading some organizations to consider their options, including self-insurance.",
+          "link": "https://www.darkreading.com/edge-articles/organizations-reassess-cyber-insurance-as-self-insurance-strategies-emerge",
+          "publishedOn": "2023-03-30T18:50:00.000Z",
+          "wordCount": 14968,
+          "title": "Organizations Reassess Cyber Insurance as Self-Insurance Strategies Emerge",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltf8b5a94afa71c53a/628e3799daa31875dc0c9fc0/NathanEddyHeadshot.PNG",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltf8b5a94afa71c53a/628e3799daa31875dc0c9fc0/NathanEddyHeadshot.PNG"
+        },
+        {
+          "id": "https://www.darkreading.com/attacks-breaches/datadome-closes-42m-in-series-c-funding-to-advance-the-fight-against-bot-driven-cyberattacks-and-fraud",
+          "author": null,
+          "description": "The investment will fund global commercial rollout and R&D efforts to debilitate fraudsters.",
+          "link": "https://www.darkreading.com/attacks-breaches/datadome-closes-42m-in-series-c-funding-to-advance-the-fight-against-bot-driven-cyberattacks-and-fraud",
+          "publishedOn": "2023-03-30T17:48:00.000Z",
+          "wordCount": 13764,
+          "title": "DataDome Closes $42M in Series C Funding to Advance the Fight Against Bot-Driven Cyberattacks and Fraud",
+          "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/perimeter/socura-launches-managed-sase-msase-service",
+          "author": null,
+          "description": "SASE reduces security & connectivity costs and improves employee experience.",
+          "link": "https://www.darkreading.com/perimeter/socura-launches-managed-sase-msase-service",
+          "publishedOn": "2023-03-30T17:25:00.000Z",
+          "wordCount": 13716,
+          "title": "Socura Launches Managed SASE (MSASE) Service",
+          "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/risk/stop-blaming-the-end-user-for-security-risk",
+          "author": "John A. Smith, CEO, Conversant Group",
+          "description": "Don't count on securing end users for system security. Instead, focus on better securing the systems — make them closed by default and build with a security-first approach.",
+          "link": "https://www.darkreading.com/risk/stop-blaming-the-end-user-for-security-risk",
+          "publishedOn": "2023-03-30T14:00:00.000Z",
+          "wordCount": 14486,
+          "title": "Stop Blaming the End User for Security Risk",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt0fba2f50a85bd16c/627aab15a2ba2e13583be4dc/jas1_copy.png",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt0fba2f50a85bd16c/627aab15a2ba2e13583be4dc/jas1_copy.png"
+        },
         {
           "id": "https://www.darkreading.com/dr-tech/spira-takes-aim-at-identity-security-posture-management",
           "author": "Dark Reading Staff, Dark Reading",
@@ -3477,6 +3572,26 @@
           "wordCount": 2108,
           "title": "マイクロソフトは Outlook の 特権昇格の脆弱性を緩和します",
           "imageUrl": null
+        },
+        {
+          "id": "/blog/2023/03/azure-kubernetes-service-aks-threat-hunting/",
+          "author": null,
+          "description": "As more businesses shift away from running workloads on dedicated virtual machines to running them inside containers using workload orchestrators like Kubernetes, adversaries have become more interested in them as targets. Moreover, the benefits Kubernetes provides for managing workloads are also extended to adversaries. As adversaries leverage Kubernetes to run their workloads, their understanding of how these platforms work and can be exploited increases.",
+          "link": "https://msrc-blog.microsoft.com/blog/2023/03/azure-kubernetes-service-aks-threat-hunting/",
+          "publishedOn": "2023-03-01T08:00:00.000Z",
+          "wordCount": 2126,
+          "title": "Azure Kubernetes Service (AKS) Threat Hunting",
+          "imageUrl": null
+        },
+        {
+          "id": "/blog/2023/03/configuring-host-level-audit-logging-for-aks-vmss/",
+          "author": null,
+          "description": "This blog post runs you through how to enable and configure Linux audit logging on your Azure Kubernetes Service (AKS) Virtual Machine Scale Set (VMSS) using the Linux auditing subsystem, also known as auditd.\nWarning The information provided below is accurate as of the release date of this blog post (2023-03) and guidance may change in future.",
+          "link": "https://msrc-blog.microsoft.com/blog/2023/03/configuring-host-level-audit-logging-for-aks-vmss/",
+          "publishedOn": "2023-03-01T08:00:00.000Z",
+          "wordCount": 2126,
+          "title": "Configuring host-level audit logging for AKS VMSS",
+          "imageUrl": null
         }
       ]
     },
@@ -4202,6 +4317,38 @@
       "feedUrl": "https://thehackernews.com/feeds/posts/default",
       "siteUrl": "https://thehackernews.com",
       "articles": [
+        {
+          "id": "https://thehackernews.com/2023/03/researchers-detail-severe-super.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Details have emerged about a now-patched vulnerability in Azure Service Fabric Explorer (SFX) that could lead to unauthenticated remote code execution.\nTracked as CVE-2023-23383 (CVSS score: 8.2), the issue has been dubbed \"Super FabriXss\" by Orca Security, a nod to the FabriXss flaw (CVE-2022-35829, CVSS score: 6.2) that was fixed by Microsoft in October 2022.\n\"The Super FabriXss vulnerability",
+          "link": "https://thehackernews.com/2023/03/researchers-detail-severe-super.html",
+          "publishedOn": "2023-03-30T17:02:00.000Z",
+          "wordCount": null,
+          "title": "Researchers Detail Severe \"Super FabriXss\" Vulnerability in Microsoft Azure SFX",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEibsQOnT-5p-ja3rQOeUv9oFSXIw7DnRHT_HFKVQ1v2573dPkCA6dlqolLsVXYM_QlPN2zBFQp9v053PsM1q3oLHIzC0r3mA4AmyQUL-PQfc-sJRB-rxWUJaAbsDnH8woc9zfzT4zpQoqGuyvtMlO8RMdgZNToIMNgFPb3U_eAPlAsq1LLdQCxr44Ps/s1600/msazure.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEibsQOnT-5p-ja3rQOeUv9oFSXIw7DnRHT_HFKVQ1v2573dPkCA6dlqolLsVXYM_QlPN2zBFQp9v053PsM1q3oLHIzC0r3mA4AmyQUL-PQfc-sJRB-rxWUJaAbsDnH8woc9zfzT4zpQoqGuyvtMlO8RMdgZNToIMNgFPb3U_eAPlAsq1LLdQCxr44Ps/s1600/msazure.png"
+        },
+        {
+          "id": "https://thehackernews.com/2023/03/chinese-redgolf-group-targeting-windows.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "A Chinese state-sponsored threat activity group tracked as RedGolf has been attributed to the use of a custom Windows and Linux backdoor called KEYPLUG.\n\"RedGolf is a particularly prolific Chinese state-sponsored threat actor group that has likely been active for many years against a wide range of industries globally,\" Recorded Future told The Hacker News.\n\"The group has shown the ability to",
+          "link": "https://thehackernews.com/2023/03/chinese-redgolf-group-targeting-windows.html",
+          "publishedOn": "2023-03-30T15:58:00.000Z",
+          "wordCount": null,
+          "title": "Chinese RedGolf Group Targeting Windows and Linux Systems with KEYPLUG Backdoor",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjxj8oHauUkdzj2WSA16Qha0smAj_EM7gz8t7BNL4LVqUevmp7VcF9g0gPq6zSWCDngrxk-ZpIsmCSHx-0DIpijKUZ9fHQNxZn_nt35zZOlTX0bbpG6U9OFXKasHjpObVp7up0k969tHcbt2eR4lpGVgMY1eUaLA_h1RuFsIl4KEn0cIOpjC_vH1sFG/s1600/chinese-hacker.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjxj8oHauUkdzj2WSA16Qha0smAj_EM7gz8t7BNL4LVqUevmp7VcF9g0gPq6zSWCDngrxk-ZpIsmCSHx-0DIpijKUZ9fHQNxZn_nt35zZOlTX0bbpG6U9OFXKasHjpObVp7up0k969tHcbt2eR4lpGVgMY1eUaLA_h1RuFsIl4KEn0cIOpjC_vH1sFG/s1600/chinese-hacker.jpg"
+        },
         {
           "id": "https://thehackernews.com/2023/03/new-wi-fi-protocol-security-flaw.html",
           "author": "info@thehackernews.com (The Hacker News)",
@@ -6185,22 +6332,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjwv7wEiti91GsOEl2_1qHKxkSNs7dTWyvrpGnExN23loi3UR2CuKYEDcTmzJeISLZ2TXBsybjCJjGsHAwqD64rNFWq5oSd1-W5EGGFCWISh__cGwzc8A_XPUlpOo2TKLhJIk8fUNGRh2ndWkmhFTKJbmDofB_KrPXVoML9jZvBMi-MeJ0DCOA8g3Ax/s1600/Google.png"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjwv7wEiti91GsOEl2_1qHKxkSNs7dTWyvrpGnExN23loi3UR2CuKYEDcTmzJeISLZ2TXBsybjCJjGsHAwqD64rNFWq5oSd1-W5EGGFCWISh__cGwzc8A_XPUlpOo2TKLhJIk8fUNGRh2ndWkmhFTKJbmDofB_KrPXVoML9jZvBMi-MeJ0DCOA8g3Ax/s1600/Google.png"
-        },
-        {
-          "id": "https://thehackernews.com/2023/03/parallax-rat-targeting-cryptocurrency.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Cryptocurrency companies are being targeted as part of a new campaign that delivers a remote access trojan called Parallax RAT.\nThe malware \"uses injection techniques to hide within legitimate processes, making it difficult to detect,\" Uptycs said in a new report. \"Once it has been successfully injected, attackers can interact with their victim via Windows Notepad that likely serves as a",
-          "link": "https://thehackernews.com/2023/03/parallax-rat-targeting-cryptocurrency.html",
-          "publishedOn": "2023-03-01T06:11:00.000Z",
-          "wordCount": null,
-          "title": "Parallax RAT Targeting Cryptocurrency Firms with Sophisticated Injection Techniques",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqezNklGIEGTNJ1fW7JaSrKf7hSGeIT0gv5ICchgiijntx86BgoYj3KuFP3agp0ImetqqOPDzx2d3JRdMh-OvxLdIZyYIz9lYCh9ya9iFFXhznXCws2S7ug_znCyRHQnp6IiyRAXwksS-Js7XJG_uvBcV5I6m6SBX9Xeu8MruV_wrxQ0w-SKT8OgSb/s1600/trojan.png"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqezNklGIEGTNJ1fW7JaSrKf7hSGeIT0gv5ICchgiijntx86BgoYj3KuFP3agp0ImetqqOPDzx2d3JRdMh-OvxLdIZyYIz9lYCh9ya9iFFXhznXCws2S7ug_znCyRHQnp6IiyRAXwksS-Js7XJG_uvBcV5I6m6SBX9Xeu8MruV_wrxQ0w-SKT8OgSb/s1600/trojan.png"
         }
       ]
     }
