@@ -501,6 +501,66 @@
       "siteUrl": "https://www.darkreading.com",
       "articles": [
         {
+          "id": "https://www.darkreading.com/dr-tech/spira-takes-aim-at-identity-security-posture-management",
+          "author": "Dark Reading Staff, Dark Reading",
+          "description": "ISPM is a combination of identity attack surface management, and risk reduction, as well as identity threat prevention, detection, and response.",
+          "link": "https://www.darkreading.com/dr-tech/spira-takes-aim-at-identity-security-posture-management",
+          "publishedOn": "2023-03-30T00:00:00.000Z",
+          "wordCount": 12218,
+          "title": "Spera Takes Aim at Identity Security Posture Management",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blte161b23f0fd3a84b/60b1ea374e7eb868c4c6a293/dr_staff_125x125.jpg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blte161b23f0fd3a84b/60b1ea374e7eb868c4c6a293/dr_staff_125x125.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/application-security/top-tech-talent-ai-threat-human-existence-open-letter",
+          "author": "Becky Bracken, Editor, Dark Reading",
+          "description": "Elon Musk, Steve Wozniak, and Andrew Yang are among more than 1,000 tech leaders asking for time to establish human safety parameters around AI.",
+          "link": "https://www.darkreading.com/application-security/top-tech-talent-ai-threat-human-existence-open-letter",
+          "publishedOn": "2023-03-29T21:24:00.000Z",
+          "wordCount": 13940,
+          "title": "Top Tech Talent Warns of AI's Threat to Human Existence in Open Letter",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt8e7bd143d726930b/627271268681151716941064/BeckyB.jpg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt8e7bd143d726930b/627271268681151716941064/BeckyB.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/attacks-breaches/trojan-rigged-tor-browser-bundle-drops-malware",
+          "author": "Jai Vijayan, Contributing Writer, Dark Reading",
+          "description": "Attackers are targeting cryptocurrency accounts belonging to users in Russia and more than 50 other countries.",
+          "link": "https://www.darkreading.com/attacks-breaches/trojan-rigged-tor-browser-bundle-drops-malware",
+          "publishedOn": "2023-03-29T20:31:00.000Z",
+          "wordCount": 14129,
+          "title": "Trojan-Rigged Tor Browser Bundle Drops Malware",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt02d79fb9a44a4258/60b1e9dd2a25046b35110696/Jai-Vijayan.jpeg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt02d79fb9a44a4258/60b1e9dd2a25046b35110696/Jai-Vijayan.jpeg"
+        },
+        {
+          "id": "https://www.darkreading.com/vulnerabilities-threats/patch-now-cybercriminals-set-sights-critical-ibm-file-transfer-bug",
+          "author": "Nate Nelson, Contributing Writer, Dark Reading",
+          "description": "A vulnerability with a 9.8 CVSS rating in IBM's widely deployed Aspera Faspex offering is being actively exploited to compromise enterprises.",
+          "link": "https://www.darkreading.com/vulnerabilities-threats/patch-now-cybercriminals-set-sights-critical-ibm-file-transfer-bug",
+          "publishedOn": "2023-03-29T20:25:00.000Z",
+          "wordCount": 13696,
+          "title": "Patch Now: Cybercriminals Set Sights on Critical IBM File Transfer Bug",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt91e5f91ce3f0cdd9/63d0288ac98dbe55ece1d0a9/Nate-Nelson_(1).jpg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt91e5f91ce3f0cdd9/63d0288ac98dbe55ece1d0a9/Nate-Nelson_(1).jpg"
+        },
+        {
           "id": "https://www.darkreading.com/attacks-breaches/phishing-emails-up-whopping-569-percent-2022",
           "author": "Dark Reading Staff, Dark Reading",
           "description": "Credential phishing emails are the clear favorite of threat actors, with a 478% spike last year, new research shows.",
@@ -3592,16 +3652,6 @@
           "wordCount": 2109,
           "title": "Configuring host-level audit logging for AKS VMSS",
           "imageUrl": null
-        },
-        {
-          "id": "/blog/2023/02/first-steps-in-cheriot-security-research/",
-          "author": null,
-          "description": "At Microsoft, we invest a lot of time researching and investigating possibilities in our journey to memory safety. Because the massive majority of existing codebases are written in unsafe programming languages, the task of protecting legacy code is very important.\nHardware solutions are an attractive approach because they introduce very powerful security properties with low overheads compared to purely software solutions.",
-          "link": "https://msrc-blog.microsoft.com/blog/2023/02/first-steps-in-cheriot-security-research/",
-          "publishedOn": "2023-02-28T08:00:00.000Z",
-          "wordCount": 2126,
-          "title": "First steps in CHERIoT Security Research",
-          "imageUrl": null
         }
       ]
     },
@@ -3610,6 +3660,16 @@
       "feedUrl": "https://blog.knowbe4.com/rss.xml",
       "siteUrl": "https://blog.knowbe4.com",
       "articles": [
+        {
+          "id": "https://blog.knowbe4.com/the-pope-puff-jackets-and-money-going-poof",
+          "author": "Stu Sjouwerman",
+          "description": "You have probably seen it. Pope Francis in a designer puff jacket. It fooled millions of people. Culture writer Ryan Broderick called it the “first real mass-level AI misinformation case.”",
+          "link": "https://blog.knowbe4.com/the-pope-puff-jackets-and-money-going-poof",
+          "publishedOn": "2023-03-29T20:40:39.000Z",
+          "wordCount": 2291,
+          "title": "The Pope, Puff Jackets and Money going POOF!",
+          "imageUrl": "https://blog.knowbe4.com/hubfs/pope-francis-deepfake.jpg#keepProtocol"
+        },
         {
           "id": "https://blog.knowbe4.com/australian-police-arrest-bec-operators",
           "author": "Stu Sjouwerman",
@@ -4319,16 +4379,6 @@
           "wordCount": 2299,
           "title": "Blind Eagle Goes Phishing",
           "imageUrl": "https://blog.knowbe4.com/hubfs/Phishing%20Attacks%20Reach%20All-Time%20High.jpg#keepProtocol"
-        },
-        {
-          "id": "https://blog.knowbe4.com/cyberheistnews-vol-13-09-eye-opener-should-you-click-on-unsubscribe",
-          "author": "Stu Sjouwerman",
-          "description": "CyberheistNews Vol 13 #09  |   February 28th, 2023  \r\n \n \r\n   \r\n \n \r\n  \n[Eye Opener] Should You Click on Unsubscribe?\n \r\n  \nBy Roger A. Grimes.\n \r\n  \nSome common questions we get are \"Should I click on an unwanted email's 'Unsubscribe' link? Will that lead to more or less unwanted email?\"\n \r\n  \nThe short answer is that, in general, it is OK to click on a legitimate vendor's unsubscribe link. But if you think the email is sketchy or coming from a source you would not want to validate your email address as valid and active, or are unsure, do not take the chance, skip the unsubscribe action.\n \r\n  \nIn many countries, legitimate vendors are bound by law to offer (free) unsubscribe functionality and abide by a user's preferences. For example, in the U.S., the 2003 CAN-SPAM Act states that busine…",
-          "link": "https://blog.knowbe4.com/cyberheistnews-vol-13-09-eye-opener-should-you-click-on-unsubscribe",
-          "publishedOn": "2023-02-28T14:00:00.000Z",
-          "wordCount": 5332,
-          "title": "CyberheistNews Vol 13 #09 [Eye Opener] Should You Click on Unsubscribe?",
-          "imageUrl": "https://blog.knowbe4.com/hubfs/CHN-Social.jpg#keepProtocol"
         }
       ]
     },
@@ -6272,70 +6322,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqezNklGIEGTNJ1fW7JaSrKf7hSGeIT0gv5ICchgiijntx86BgoYj3KuFP3agp0ImetqqOPDzx2d3JRdMh-OvxLdIZyYIz9lYCh9ya9iFFXhznXCws2S7ug_znCyRHQnp6IiyRAXwksS-Js7XJG_uvBcV5I6m6SBX9Xeu8MruV_wrxQ0w-SKT8OgSb/s1600/trojan.png"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqezNklGIEGTNJ1fW7JaSrKf7hSGeIT0gv5ICchgiijntx86BgoYj3KuFP3agp0ImetqqOPDzx2d3JRdMh-OvxLdIZyYIz9lYCh9ya9iFFXhznXCws2S7ug_znCyRHQnp6IiyRAXwksS-Js7XJG_uvBcV5I6m6SBX9Xeu8MruV_wrxQ0w-SKT8OgSb/s1600/trojan.png"
-        },
-        {
-          "id": "https://thehackernews.com/2023/02/bitdefender-releases-free-decryptor-for.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Romanian cybersecurity company Bitdefender has released a free decryptor for a new ransomware strain known as MortalKombat.\nMortalKombat is a new ransomware strain that emerged in January 2023. It's based on commodity ransomware dubbed Xorist and has been observed in attacks targeting entities in the U.S., the Philippines, the U.K., and Turkey.\nXorist, detected since 2010, is distributed as a",
-          "link": "https://thehackernews.com/2023/02/bitdefender-releases-free-decryptor-for.html",
-          "publishedOn": "2023-02-28T13:59:00.000Z",
-          "wordCount": null,
-          "title": "Bitdefender Releases Free Decryptor for MortalKombat Ransomware Strain",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgxkjr2AxUJSHQmw_pLDDFvNbwoPYNW0ozH_BMRcU4_Ur4_LA6byVfttHZMN9CvG9Xjl2zEf2iAt4NBm5p_yCFZaXmqMxEZ3cBDC8BTnfi-zao8ikTW2rq1xtBL0wTH1er0KmvClBrPCVMAOCJHK1UhCQ8WUs36GuE9PEDoTnIK-DfJldMKdw1blneE/s1600/rasnomware.png"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgxkjr2AxUJSHQmw_pLDDFvNbwoPYNW0ozH_BMRcU4_Ur4_LA6byVfttHZMN9CvG9Xjl2zEf2iAt4NBm5p_yCFZaXmqMxEZ3cBDC8BTnfi-zao8ikTW2rq1xtBL0wTH1er0KmvClBrPCVMAOCJHK1UhCQ8WUs36GuE9PEDoTnIK-DfJldMKdw1blneE/s1600/rasnomware.png"
-        },
-        {
-          "id": "https://thehackernews.com/2023/02/new-ex-22-tool-empowers-hackers-with.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "A new post-exploitation framework called EXFILTRATOR-22 (aka EX-22) has emerged in the wild with the goal of deploying ransomware within enterprise networks while flying under the radar.\n\"It comes with a wide range of capabilities, making post-exploitation a cakewalk for anyone purchasing the tool,\" CYFIRMA said in a new report.\nSome of the notable features include establishing a reverse shell",
-          "link": "https://thehackernews.com/2023/02/new-ex-22-tool-empowers-hackers-with.html",
-          "publishedOn": "2023-02-28T13:59:00.000Z",
-          "wordCount": null,
-          "title": "New EX-22 Tool Empowers Hackers with Stealthy Ransomware Attacks on Enterprises",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEggVSva7AM9PsLolqeklSUqnzACpwTWcqJcLoZhkrxypwPPHCShvWRScQI2kAQV_0TynXPUlv2iHNdj-Y7sP4d-eImc5pJ3EWB6w08QPz6A6sRpBZZeAvT6ofrRBJdZ5waNqHVu26NF26vb65lbH0RZgZaau7tJDwehLGfTXZaCCxLhx6Z9oLlaU-vS/s1600/post.png"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEggVSva7AM9PsLolqeklSUqnzACpwTWcqJcLoZhkrxypwPPHCShvWRScQI2kAQV_0TynXPUlv2iHNdj-Y7sP4d-eImc5pJ3EWB6w08QPz6A6sRpBZZeAvT6ofrRBJdZ5waNqHVu26NF26vb65lbH0RZgZaau7tJDwehLGfTXZaCCxLhx6Z9oLlaU-vS/s1600/post.png"
-        },
-        {
-          "id": "https://thehackernews.com/2023/02/application-security-vs-api-security.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "As digital transformation takes hold and businesses become increasingly reliant on digital services, it has become more important than ever to secure applications and APIs (Application Programming Interfaces). With that said, application security and API security are two critical components of a comprehensive security strategy. By utilizing these practices, organizations can protect themselves",
-          "link": "https://thehackernews.com/2023/02/application-security-vs-api-security.html",
-          "publishedOn": "2023-02-28T11:26:00.000Z",
-          "wordCount": null,
-          "title": "Application Security vs. API Security: What is the difference?",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEge8464IwCeBqKGFr0ttNco_3MbjlUOW2zaGyTEvm_dRgnM1KUdfyClBIE-NC3SfpBhOwsjpu6OpBDGyPYF9tiDwWxzW4JJma5KfqYKH7lJhm5XCtDc2-MqOrdHFNBwWjIudtNGGZfqE4-umPRgw_LLzKhsOagLVLmGzR2Kh93btWN6QtNzh9Y2nGco/s1600/noname.png"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEge8464IwCeBqKGFr0ttNco_3MbjlUOW2zaGyTEvm_dRgnM1KUdfyClBIE-NC3SfpBhOwsjpu6OpBDGyPYF9tiDwWxzW4JJma5KfqYKH7lJhm5XCtDc2-MqOrdHFNBwWjIudtNGGZfqE4-umPRgw_LLzKhsOagLVLmGzR2Kh93btWN6QtNzh9Y2nGco/s1600/noname.png"
-        },
-        {
-          "id": "https://thehackernews.com/2023/02/apt-c-36-strikes-again-blind-eagle.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "The threat actor known as Blind Eagle has been linked to a new campaign targeting various key industries in Colombia.\nThe activity, which was detected by the BlackBerry Research and Intelligence Team on February 20, 2023, is also said to encompass Ecuador, Chile, and Spain, suggesting a slow expansion of the hacking group's victimology footprint.\nTargeted entities include health, financial, law",
-          "link": "https://thehackernews.com/2023/02/apt-c-36-strikes-again-blind-eagle.html",
-          "publishedOn": "2023-02-28T10:33:00.000Z",
-          "wordCount": null,
-          "title": "APT-C-36 Strikes Again: Blind Eagle Hackers Target Key Industries in Colombia",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiDV4aReQ3yKrFv9Y6_W7atpLuyzVhr9k9czHHEBCLL6sBJkwcR5VhZ3PqXgp8tYssCm9FpZsAMl9G2eDpGkX-O98unTgz6DWyCzm05ehLdEtHTOWFYu10Z_mZqnUHhLBtUHljP_mBV7uG7vWfl1WtR82zuySlsLS6NgCp7_ZMZqrgeQGin8hyPlldD/s1600/hacking.png"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiDV4aReQ3yKrFv9Y6_W7atpLuyzVhr9k9czHHEBCLL6sBJkwcR5VhZ3PqXgp8tYssCm9FpZsAMl9G2eDpGkX-O98unTgz6DWyCzm05ehLdEtHTOWFYu10Z_mZqnUHhLBtUHljP_mBV7uG7vWfl1WtR82zuySlsLS6NgCp7_ZMZqrgeQGin8hyPlldD/s1600/hacking.png"
         }
       ]
     }
