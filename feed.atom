@@ -2,10 +2,63 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-03-30T07:17:54.939Z</updated>
+    <updated>2023-03-30T13:29:09.920Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Artificial Intelligence Makes Phishing Text More Plausible]]></title>
+        <id>https://blog.knowbe4.com/ai-makes-phishing-text-more-plausible</id>
+        <link href="https://blog.knowbe4.com/ai-makes-phishing-text-more-plausible"/>
+        <updated>2023-03-30T12:58:09.000Z</updated>
+        <summary type="html"><![CDATA[Cybersecurity experts continue to warn that advanced chatbots like ChatGPT are making it easier for cybercriminals to craft phishing emails with pristine spelling and grammar, the Guardian reports.]]></summary>
+        <author>
+            <name>Stu Sjouwerman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New Wi-Fi Protocol Security Flaw Affecting Linux, Android and iOS Devices]]></title>
+        <id>https://thehackernews.com/2023/03/new-wi-fi-protocol-security-flaw.html</id>
+        <link href="https://thehackernews.com/2023/03/new-wi-fi-protocol-security-flaw.html"/>
+        <updated>2023-03-30T12:21:00.000Z</updated>
+        <summary type="html"><![CDATA[A group of academics from Northeastern University and KU Leuven has disclosed a fundamental design flaw in the IEEE 802.11 Wi-Fi protocol standard, impacting a wide range of devices running Linux, FreeBSD, Android, and iOS.
+Successful exploitation of the shortcoming could be abused to hijack TCP connections or intercept client and web traffic, researchers Domien Schepers, Aanjhan Ranganathan,]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cyberstorage: Leveraging the Multi-Cloud to Combat Data Exfiltration]]></title>
+        <id>https://thehackernews.com/2023/03/cyberstorage-leveraging-multi-cloud-to.html</id>
+        <link href="https://thehackernews.com/2023/03/cyberstorage-leveraging-multi-cloud-to.html"/>
+        <updated>2023-03-30T11:17:00.000Z</updated>
+        <summary type="html"><![CDATA[Multi-cloud data storage, once merely a byproduct of the great cloud migration, has now become a strategy for data management. "Multi-cloud by design," and its companion the supercloud, is an ecosystem in which several cloud systems work together to provide many organizational benefits, including increased scale and overall resiliency.And now, even security teams who have long been the holdout]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AlienFox Malware Targets API Keys and Secrets from AWS, Google, and Microsoft Cloud Services]]></title>
+        <id>https://thehackernews.com/2023/03/alienfox-malware-targets-api-keys-and.html</id>
+        <link href="https://thehackernews.com/2023/03/alienfox-malware-targets-api-keys-and.html"/>
+        <updated>2023-03-30T10:08:00.000Z</updated>
+        <summary type="html"><![CDATA[A new "comprehensive toolset" called AlienFox is being distributed on Telegram as a way for threat actors to harvest credentials from API keys and secrets from popular cloud service providers.
+"The spread of AlienFox represents an unreported trend towards attacking more minimal cloud services, unsuitable for crypto mining, in order to enable and expand subsequent campaigns," SentinelOne security]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[3CX Desktop App Supply Chain Attack Leaves Millions at Risk - Urgent Update on the Way!]]></title>
+        <id>https://thehackernews.com/2023/03/3cx-desktop-app-targeted-in-supply.html</id>
+        <link href="https://thehackernews.com/2023/03/3cx-desktop-app-targeted-in-supply.html"/>
+        <updated>2023-03-30T06:31:00.000Z</updated>
+        <summary type="html"><![CDATA[3CX said it's working on a software update for its desktop app after multiple cybersecurity vendors sounded the alarm on what appears to be an active supply chain attack that's using digitally signed and rigged installers of the popular voice and video conferencing software to target downstream customers.
+"The trojanized 3CX desktop app is the first stage in a multi-stage attack chain that pulls]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Spera Takes Aim at Identity Security Posture Management]]></title>
         <id>https://www.darkreading.com/dr-tech/spira-takes-aim-at-identity-security-posture-management</id>
@@ -4886,96 +4939,6 @@ To that end, users can send and receive emails or]]></summary>
 The malware "uses injection techniques to hide within legitimate processes, making it difficult to detect," Uptycs said in a new report. "Once it has been successfully injected, attackers can interact with their victim via Windows Notepad that likely serves as a]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CISOs Share Their 3 Top Challenges for Cybersecurity Management]]></title>
-        <id>https://www.darkreading.com/edge-articles/cisos-share-their-3-top-challenges-for-cybersecurity-management</id>
-        <link href="https://www.darkreading.com/edge-articles/cisos-share-their-3-top-challenges-for-cybersecurity-management"/>
-        <updated>2023-03-01T01:21:00.000Z</updated>
-        <summary type="html"><![CDATA[The biggest dilemmas in running a modern cybersecurity team are not all about software, said CISOs from HSBC, Citi, and Sepio.]]></summary>
-        <author>
-            <name>Jeffrey Schwartz, Contributing Writer, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google Adds Client-Side Encryption to Gmail, Calendar]]></title>
-        <id>https://www.darkreading.com/dr-tech/google-adds-client-side-encryption-to-gmail-calendar</id>
-        <link href="https://www.darkreading.com/dr-tech/google-adds-client-side-encryption-to-gmail-calendar"/>
-        <updated>2023-03-01T00:45:00.000Z</updated>
-        <summary type="html"><![CDATA[The data protection capability is now available across multiple Workspace applications: Gmail, Calendar, Drive, Docs, Slides, Sheets, and Meet.]]></summary>
-        <author>
-            <name>Dark Reading Staff, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Azure Kubernetes Service (AKS) Threat Hunting]]></title>
-        <id>/blog/2023/03/azure-kubernetes-service-aks-threat-hunting/</id>
-        <link href="https://msrc-blog.microsoft.com/blog/2023/03/azure-kubernetes-service-aks-threat-hunting/"/>
-        <updated>2023-03-01T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[As more businesses shift away from running workloads on dedicated virtual machines to running them inside containers using workload orchestrators like Kubernetes, adversaries have become more interested in them as targets. Moreover, the benefits Kubernetes provides for managing workloads are also extended to adversaries. As adversaries leverage Kubernetes to run their workloads, their understanding of how these platforms work and can be exploited increases.]]></summary>
-        <author>
-            <name>Microsoft Security Response Center</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Configuring host-level audit logging for AKS VMSS]]></title>
-        <id>/blog/2023/03/configuring-host-level-audit-logging-for-aks-vmss/</id>
-        <link href="https://msrc-blog.microsoft.com/blog/2023/03/configuring-host-level-audit-logging-for-aks-vmss/"/>
-        <updated>2023-03-01T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[This blog post runs you through how to enable and configure Linux audit logging on your Azure Kubernetes Service (AKS) Virtual Machine Scale Set (VMSS) using the Linux auditing subsystem, also known as auditd.
-Warning The information provided below is accurate as of the release date of this blog post (2023-03) and guidance may change in future.]]></summary>
-        <author>
-            <name>Microsoft Security Response Center</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hoxhunt Launches Human Risk Management Platform]]></title>
-        <id>https://www.darkreading.com/endpoint/hoxhunt-launches-human-risk-management-platform</id>
-        <link href="https://www.darkreading.com/endpoint/hoxhunt-launches-human-risk-management-platform"/>
-        <updated>2023-02-28T23:09:00.000Z</updated>
-        <summary type="html"><![CDATA[Platform uniquely designed to facilitate automated compliance, security behavior change.]]></summary>
-        <author>
-            <name>Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Two of The Worst Healthcare Data Breaches in US History Happened Last Year]]></title>
-        <id>https://www.darkreading.com/attacks-breaches/two-of-the-worst-healthcare-data-breaches-in-us-history-happened-last-year</id>
-        <link href="https://www.darkreading.com/attacks-breaches/two-of-the-worst-healthcare-data-breaches-in-us-history-happened-last-year"/>
-        <updated>2023-02-28T23:02:00.000Z</updated>
-        <author>
-            <name>Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LastPass DevOps Engineer Targeted for Cloud Decryption Keys in Latest Breach Revelation]]></title>
-        <id>https://www.darkreading.com/endpoint/lastpass-devops-engineer-targeted-cloud-decryption-keys-breach-revelation</id>
-        <link href="https://www.darkreading.com/endpoint/lastpass-devops-engineer-targeted-cloud-decryption-keys-breach-revelation"/>
-        <updated>2023-02-28T22:32:00.000Z</updated>
-        <summary type="html"><![CDATA[The adversaries obtained a decryption key to a LastPass database containing multifactor authentication and federation information as well as customer vault data, company says.]]></summary>
-        <author>
-            <name>Jai Vijayan, Contributing Writer, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Exfiltrator-22: The Newest Post-Exploitation Toolkit Nipping at Cobalt Strike's Heels]]></title>
-        <id>https://www.darkreading.com/threat-intelligence/exfiltrator-22-newest-post-exploitation-toolkit-nipping-cobalt-strike-heels</id>
-        <link href="https://www.darkreading.com/threat-intelligence/exfiltrator-22-newest-post-exploitation-toolkit-nipping-cobalt-strike-heels"/>
-        <updated>2023-02-28T22:04:00.000Z</updated>
-        <summary type="html"><![CDATA[The framework-as-a-service signals an intensification of the cat-and-mouse game between defenders detecting lateral movement, and cybercriminals looking to go unnoticed.]]></summary>
-        <author>
-            <name>Ericka Chickowski, Contributing Writer, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[US Marshals Ransomware Hit Is 'Major' Incident]]></title>
-        <id>https://www.darkreading.com/threat-intelligence/us-marshals-ransomware-hit-major-incident</id>
-        <link href="https://www.darkreading.com/threat-intelligence/us-marshals-ransomware-hit-major-incident"/>
-        <updated>2023-02-28T21:20:00.000Z</updated>
-        <summary type="html"><![CDATA[Unknown attackers made off with a raft of PII, the Justice Department says — but witnesses in the protection program are still safe.]]></summary>
-        <author>
-            <name>Tara Seals, Managing Editor, News, Dark Reading</name>
         </author>
     </entry>
 </feed>
