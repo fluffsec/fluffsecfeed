@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-03-30T19:13:50.703Z</updated>
+    <updated>2023-03-31T02:12:00.066Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Automatic Updates Deliver Malicious 3CX 'Upgrades' to Enterprises]]></title>
+        <id>https://www.darkreading.com/endpoint/automatic-officlal-updates-malicious-3cx-enterprises</id>
+        <link href="https://www.darkreading.com/endpoint/automatic-officlal-updates-malicious-3cx-enterprises"/>
+        <updated>2023-03-30T21:38:00.000Z</updated>
+        <summary type="html"><![CDATA[In a Solar Winds-like attack, compromised, digitally signed versions of 3CX DesktopApp are landing on user systems via the vendor's update mechanism.]]></summary>
+        <author>
+            <name>Jai Vijayan, Contributing Writer, Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BEC Fraudsters Expand to Snatch Real-World Goods in Commodities Twist]]></title>
+        <id>https://www.darkreading.com/threat-intelligence/bec-fraudsters-expand-snatch-real-world-goods-commodities-twist</id>
+        <link href="https://www.darkreading.com/threat-intelligence/bec-fraudsters-expand-snatch-real-world-goods-commodities-twist"/>
+        <updated>2023-03-30T20:15:00.000Z</updated>
+        <summary type="html"><![CDATA[Business email compromise scams are moving beyond just stealing cash, with some threat actors fooling companies into sending goods and materials on credit, and then skipping out on payment.]]></summary>
+        <author>
+            <name>Robert Lemos, Contributing Writer, Dark Reading</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Microsoft Patches 'Dangerous' RCE Flaw in Azure Cloud Service]]></title>
         <id>https://www.darkreading.com/cloud/microsoft-patches-dangerous-xss-flaw-azure-service-fabric</id>
@@ -5004,74 +5024,6 @@ Successful]]></summary>
         <summary type="html"><![CDATA[As companies increasingly adopt MFA, cybercriminals are developing a variety of strategies to steal credentials and gain access to high-value accounts anyway.]]></summary>
         <author>
             <name>Robert Lemos, Contributing Writer, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cybercriminals Targeting Law Firms with GootLoader and FakeUpdates Malware]]></title>
-        <id>https://thehackernews.com/2023/03/cybercriminals-targeting-law-firms-with.html</id>
-        <link href="https://thehackernews.com/2023/03/cybercriminals-targeting-law-firms-with.html"/>
-        <updated>2023-03-01T14:02:00.000Z</updated>
-        <summary type="html"><![CDATA[Six different law firms were targeted in January and February 2023 as part of two disparate threat campaigns distributing GootLoader and FakeUpdates (aka SocGholish) malware strains.
-GootLoader, active since late 2020, is a first-stage downloader that's capable of delivering a wide range of secondary payloads such as Cobalt Strike and ransomware.
-It notably employs search engine optimization (]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BlackLotus Becomes First UEFI Bootkit Malware to Bypass Secure Boot on Windows 11]]></title>
-        <id>https://thehackernews.com/2023/03/blacklotus-becomes-first-uefi-bootkit.html</id>
-        <link href="https://thehackernews.com/2023/03/blacklotus-becomes-first-uefi-bootkit.html"/>
-        <updated>2023-03-01T11:32:00.000Z</updated>
-        <summary type="html"><![CDATA[A stealthy Unified Extensible Firmware Interface (UEFI) bootkit called BlackLotus has become the first publicly known malware capable of bypassing Secure Boot defenses, making it a potent threat in the cyber landscape.
-"This bootkit can run even on fully up-to-date Windows 11 systems with UEFI Secure Boot enabled," Slovak cybersecurity company ESET said in a report shared with The Hacker News.]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CISOs Are Stressed Out and It's Putting Companies at Risk]]></title>
-        <id>https://thehackernews.com/2023/03/cisos-are-stressed-out-and-its-putting.html</id>
-        <link href="https://thehackernews.com/2023/03/cisos-are-stressed-out-and-its-putting.html"/>
-        <updated>2023-03-01T11:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Employee well-being has become a primary focus for many businesses. Even before the pandemic, the C-suite was acutely aware of how employee mental health impacts business outcomes. 
-But for cybersecurity professionals, stress has always been a part of the job.
-A new survey revealed that one of the most concerning aspects of employee mental health is how it impacts cybersecurity programs and,]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gmail and Google Calendar Now Support Client-Side Encryption (CSE) to Boost Data Privacy]]></title>
-        <id>https://thehackernews.com/2023/03/gmail-and-google-calendar-now-support.html</id>
-        <link href="https://thehackernews.com/2023/03/gmail-and-google-calendar-now-support.html"/>
-        <updated>2023-03-01T09:55:00.000Z</updated>
-        <summary type="html"><![CDATA[Google has announced the general availability of client-side encryption (CSE) for Gmail and Calendar, months after piloting the feature in late 2022.
-The data privacy controls enable "even more organizations to become arbiters of their own data and the sole party deciding who has access to it," Google's Ganesh Chilakapati and Andy Wen said.
-To that end, users can send and receive emails or]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Azure Kubernetes Service (AKS) Threat Hunting]]></title>
-        <id>/blog/2023/03/azure-kubernetes-service-aks-threat-hunting/</id>
-        <link href="https://msrc-blog.microsoft.com/blog/2023/03/azure-kubernetes-service-aks-threat-hunting/"/>
-        <updated>2023-03-01T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[As more businesses shift away from running workloads on dedicated virtual machines to running them inside containers using workload orchestrators like Kubernetes, adversaries have become more interested in them as targets. Moreover, the benefits Kubernetes provides for managing workloads are also extended to adversaries. As adversaries leverage Kubernetes to run their workloads, their understanding of how these platforms work and can be exploited increases.]]></summary>
-        <author>
-            <name>Microsoft Security Response Center</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Configuring host-level audit logging for AKS VMSS]]></title>
-        <id>/blog/2023/03/configuring-host-level-audit-logging-for-aks-vmss/</id>
-        <link href="https://msrc-blog.microsoft.com/blog/2023/03/configuring-host-level-audit-logging-for-aks-vmss/"/>
-        <updated>2023-03-01T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[This blog post runs you through how to enable and configure Linux audit logging on your Azure Kubernetes Service (AKS) Virtual Machine Scale Set (VMSS) using the Linux auditing subsystem, also known as auditd.
-Warning The information provided below is accurate as of the release date of this blog post (2023-03) and guidance may change in future.]]></summary>
-        <author>
-            <name>Microsoft Security Response Center</name>
         </author>
     </entry>
 </feed>

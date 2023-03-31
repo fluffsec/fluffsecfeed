@@ -531,6 +531,36 @@
       "siteUrl": "https://www.darkreading.com",
       "articles": [
         {
+          "id": "https://www.darkreading.com/endpoint/automatic-officlal-updates-malicious-3cx-enterprises",
+          "author": "Jai Vijayan, Contributing Writer, Dark Reading",
+          "description": "In a Solar Winds-like attack, compromised, digitally signed versions of 3CX DesktopApp are landing on user systems via the vendor's update mechanism.",
+          "link": "https://www.darkreading.com/endpoint/automatic-officlal-updates-malicious-3cx-enterprises",
+          "publishedOn": "2023-03-30T21:38:00.000Z",
+          "wordCount": 15695,
+          "title": "Automatic Updates Deliver Malicious 3CX 'Upgrades' to Enterprises",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt02d79fb9a44a4258/60b1e9dd2a25046b35110696/Jai-Vijayan.jpeg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt02d79fb9a44a4258/60b1e9dd2a25046b35110696/Jai-Vijayan.jpeg"
+        },
+        {
+          "id": "https://www.darkreading.com/threat-intelligence/bec-fraudsters-expand-snatch-real-world-goods-commodities-twist",
+          "author": "Robert Lemos, Contributing Writer, Dark Reading",
+          "description": "Business email compromise scams are moving beyond just stealing cash, with some threat actors fooling companies into sending goods and materials on credit, and then skipping out on payment.",
+          "link": "https://www.darkreading.com/threat-intelligence/bec-fraudsters-expand-snatch-real-world-goods-commodities-twist",
+          "publishedOn": "2023-03-30T20:15:00.000Z",
+          "wordCount": 14469,
+          "title": "BEC Fraudsters Expand to Snatch Real-World Goods in Commodities Twist",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt58481326324d6911/60b1e9a55d34de550780a990/Robert-Lemos.png",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt58481326324d6911/60b1e9a55d34de550780a990/Robert-Lemos.png"
+        },
+        {
           "id": "https://www.darkreading.com/cloud/microsoft-patches-dangerous-xss-flaw-azure-service-fabric",
           "author": "Elizabeth Montalbano, Contributor, Dark Reading",
           "description": "The vulnerability would have allowed an unauthenticated attacker to execute code on a container hosted on one of the platform's nodes.",
@@ -3572,26 +3602,6 @@
           "wordCount": 2108,
           "title": "マイクロソフトは Outlook の 特権昇格の脆弱性を緩和します",
           "imageUrl": null
-        },
-        {
-          "id": "/blog/2023/03/azure-kubernetes-service-aks-threat-hunting/",
-          "author": null,
-          "description": "As more businesses shift away from running workloads on dedicated virtual machines to running them inside containers using workload orchestrators like Kubernetes, adversaries have become more interested in them as targets. Moreover, the benefits Kubernetes provides for managing workloads are also extended to adversaries. As adversaries leverage Kubernetes to run their workloads, their understanding of how these platforms work and can be exploited increases.",
-          "link": "https://msrc-blog.microsoft.com/blog/2023/03/azure-kubernetes-service-aks-threat-hunting/",
-          "publishedOn": "2023-03-01T08:00:00.000Z",
-          "wordCount": 2126,
-          "title": "Azure Kubernetes Service (AKS) Threat Hunting",
-          "imageUrl": null
-        },
-        {
-          "id": "/blog/2023/03/configuring-host-level-audit-logging-for-aks-vmss/",
-          "author": null,
-          "description": "This blog post runs you through how to enable and configure Linux audit logging on your Azure Kubernetes Service (AKS) Virtual Machine Scale Set (VMSS) using the Linux auditing subsystem, also known as auditd.\nWarning The information provided below is accurate as of the release date of this blog post (2023-03) and guidance may change in future.",
-          "link": "https://msrc-blog.microsoft.com/blog/2023/03/configuring-host-level-audit-logging-for-aks-vmss/",
-          "publishedOn": "2023-03-01T08:00:00.000Z",
-          "wordCount": 2126,
-          "title": "Configuring host-level audit logging for AKS VMSS",
-          "imageUrl": null
         }
       ]
     },
@@ -6268,70 +6278,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgl-qohNH4V4gI0u-vsrL_3MAAflocpEghlUoSOFrFRpzVYba1VnfaGnupQBOklMO1B0hn03bvuiDoysw0c36oirplhz-n_PbvXZWCVEMTS2Lt4xvW5g6_kTggj_FGMKXGy8UqznxN0EnEJ6op4GvonLE5_ApDK2lgg-Qt4JXDCv9yg7z2yKo79cRIR/s1600/ip-phone.png"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgl-qohNH4V4gI0u-vsrL_3MAAflocpEghlUoSOFrFRpzVYba1VnfaGnupQBOklMO1B0hn03bvuiDoysw0c36oirplhz-n_PbvXZWCVEMTS2Lt4xvW5g6_kTggj_FGMKXGy8UqznxN0EnEJ6op4GvonLE5_ApDK2lgg-Qt4JXDCv9yg7z2yKo79cRIR/s1600/ip-phone.png"
-        },
-        {
-          "id": "https://thehackernews.com/2023/03/cybercriminals-targeting-law-firms-with.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Six different law firms were targeted in January and February 2023 as part of two disparate threat campaigns distributing GootLoader and FakeUpdates (aka SocGholish) malware strains.\nGootLoader, active since late 2020, is a first-stage downloader that's capable of delivering a wide range of secondary payloads such as Cobalt Strike and ransomware.\nIt notably employs search engine optimization (",
-          "link": "https://thehackernews.com/2023/03/cybercriminals-targeting-law-firms-with.html",
-          "publishedOn": "2023-03-01T14:02:00.000Z",
-          "wordCount": null,
-          "title": "Cybercriminals Targeting Law Firms with GootLoader and FakeUpdates Malware",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhDqLmAPUtj8Xx4bqe80pvg7aztEJUU8sUyKvHGs4S1tpSKamLX1McTzu-cmiuNYOWn4rrAf05yJEmCEvZeC40sz6XD52IJDmU1ytFz8lK1tbWckFMPttIn3U79RKaZVHC6cyGWwLVOiXuaKlO5tBulB_J-LClFARsCRUzRXS8-Hv775XWfLJsTSx9T/s1600/law.png"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhDqLmAPUtj8Xx4bqe80pvg7aztEJUU8sUyKvHGs4S1tpSKamLX1McTzu-cmiuNYOWn4rrAf05yJEmCEvZeC40sz6XD52IJDmU1ytFz8lK1tbWckFMPttIn3U79RKaZVHC6cyGWwLVOiXuaKlO5tBulB_J-LClFARsCRUzRXS8-Hv775XWfLJsTSx9T/s1600/law.png"
-        },
-        {
-          "id": "https://thehackernews.com/2023/03/blacklotus-becomes-first-uefi-bootkit.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "A stealthy Unified Extensible Firmware Interface (UEFI) bootkit called BlackLotus has become the first publicly known malware capable of bypassing Secure Boot defenses, making it a potent threat in the cyber landscape.\n\"This bootkit can run even on fully up-to-date Windows 11 systems with UEFI Secure Boot enabled,\" Slovak cybersecurity company ESET said in a report shared with The Hacker News.",
-          "link": "https://thehackernews.com/2023/03/blacklotus-becomes-first-uefi-bootkit.html",
-          "publishedOn": "2023-03-01T11:32:00.000Z",
-          "wordCount": null,
-          "title": "BlackLotus Becomes First UEFI Bootkit Malware to Bypass Secure Boot on Windows 11",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgCcfmjjBldi6aBNhYzb-X_i3YeDhmp49_MQcmJ5s3Z-PR1_9gdzQfsAkGwTwVULvUVBHbyMTujsBFpLYGQDNkooKgvmfabVDtUdaTTyNpyD0rrB5R32WxKz-Y5SHQDV3PUcsFMjNOpDG3K2arz8WWQoR0KgR882Gqx53zc3MEhB-_EFe1-8ScpJmm_/s1600/secure-boor.png"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgCcfmjjBldi6aBNhYzb-X_i3YeDhmp49_MQcmJ5s3Z-PR1_9gdzQfsAkGwTwVULvUVBHbyMTujsBFpLYGQDNkooKgvmfabVDtUdaTTyNpyD0rrB5R32WxKz-Y5SHQDV3PUcsFMjNOpDG3K2arz8WWQoR0KgR882Gqx53zc3MEhB-_EFe1-8ScpJmm_/s1600/secure-boor.png"
-        },
-        {
-          "id": "https://thehackernews.com/2023/03/cisos-are-stressed-out-and-its-putting.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Employee well-being has become a primary focus for many businesses. Even before the pandemic, the C-suite was acutely aware of how employee mental health impacts business outcomes. \nBut for cybersecurity professionals, stress has always been a part of the job.\nA new survey revealed that one of the most concerning aspects of employee mental health is how it impacts cybersecurity programs and,",
-          "link": "https://thehackernews.com/2023/03/cisos-are-stressed-out-and-its-putting.html",
-          "publishedOn": "2023-03-01T11:30:00.000Z",
-          "wordCount": null,
-          "title": "CISOs Are Stressed Out and It's Putting Companies at Risk",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjdIDAz_jv4nzLo4jY6zEugmmsGCikBMzg4TcS5cKofMga9YTfwhl6R9XLDZkphE3p2am6ALNORRu6BReeMLuNpUSiuRX5HVejqMG8cqi9QoNkTILcv5IfnqsnUMW8eQuV957MDN9tqK-PeEGAgu7KKffu9spOmO_tDqx4eTZ1RRybgLXFfjQJGtAtJ/s1600/cynet.png"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjdIDAz_jv4nzLo4jY6zEugmmsGCikBMzg4TcS5cKofMga9YTfwhl6R9XLDZkphE3p2am6ALNORRu6BReeMLuNpUSiuRX5HVejqMG8cqi9QoNkTILcv5IfnqsnUMW8eQuV957MDN9tqK-PeEGAgu7KKffu9spOmO_tDqx4eTZ1RRybgLXFfjQJGtAtJ/s1600/cynet.png"
-        },
-        {
-          "id": "https://thehackernews.com/2023/03/gmail-and-google-calendar-now-support.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Google has announced the general availability of client-side encryption (CSE) for Gmail and Calendar, months after piloting the feature in late 2022.\nThe data privacy controls enable \"even more organizations to become arbiters of their own data and the sole party deciding who has access to it,\" Google's Ganesh Chilakapati and Andy Wen said.\nTo that end, users can send and receive emails or",
-          "link": "https://thehackernews.com/2023/03/gmail-and-google-calendar-now-support.html",
-          "publishedOn": "2023-03-01T09:55:00.000Z",
-          "wordCount": null,
-          "title": "Gmail and Google Calendar Now Support Client-Side Encryption (CSE) to Boost Data Privacy",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjwv7wEiti91GsOEl2_1qHKxkSNs7dTWyvrpGnExN23loi3UR2CuKYEDcTmzJeISLZ2TXBsybjCJjGsHAwqD64rNFWq5oSd1-W5EGGFCWISh__cGwzc8A_XPUlpOo2TKLhJIk8fUNGRh2ndWkmhFTKJbmDofB_KrPXVoML9jZvBMi-MeJ0DCOA8g3Ax/s1600/Google.png"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjwv7wEiti91GsOEl2_1qHKxkSNs7dTWyvrpGnExN23loi3UR2CuKYEDcTmzJeISLZ2TXBsybjCJjGsHAwqD64rNFWq5oSd1-W5EGGFCWISh__cGwzc8A_XPUlpOo2TKLhJIk8fUNGRh2ndWkmhFTKJbmDofB_KrPXVoML9jZvBMi-MeJ0DCOA8g3Ax/s1600/Google.png"
         }
       ]
     }
