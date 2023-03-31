@@ -33,6 +33,26 @@
       "siteUrl": "https://www.cisa.gov/",
       "articles": [
         {
+          "id": "/node/17792",
+          "author": "CISA",
+          "description": "Mozilla has released a security update to address vulnerabilities in Thunderbird 102.9.1. An attacker could exploit some of these vulnerabilities to take control of an affected system.\nCISA encourages users and administrators to review Mozilla’s Thunderbird 102.9.1 security advisory for more information and apply the necessary updates.",
+          "link": "https://www.cisa.gov/news-events/alerts/2023/03/31/mozilla-releases-security-update-thunderbird-10291",
+          "publishedOn": "2023-03-31T12:00:00.000Z",
+          "wordCount": 523,
+          "title": "Mozilla Releases Security Update for Thunderbird 102.9.1",
+          "imageUrl": null
+        },
+        {
+          "id": "/node/17819",
+          "author": "CISA",
+          "description": "The Samba Team has released security updates addressing vulnerabilities in multiple versions of Samba. An attacker could exploit these vulnerabilities to take control of an affected system.\nCVE-2023-0225\nCVE-2023-0922\nCVE-2023-0614",
+          "link": "https://www.cisa.gov/news-events/alerts/2023/03/31/samba-releases-security-updates-multiple-versions-samba",
+          "publishedOn": "2023-03-31T12:00:00.000Z",
+          "wordCount": 523,
+          "title": "Samba Releases Security Updates for Multiple Versions of Samba",
+          "imageUrl": null
+        },
+        {
           "id": "/node/17802",
           "author": "CISA",
           "description": "CISA released one Industrial Control Systems (ICS) advisory on March 30, 2023. This advisory provides timely information about current security issues, vulnerabilities, and exploits surrounding ICS. \nICSA-23-089-01 Hitachi Energy IEC 61850 MMS-Server\nCISA encourages users and administrators to review the newly released ICS advisories for technical details and mitigations.",
@@ -381,106 +401,6 @@
           "wordCount": 561,
           "title": "Untitled",
           "imageUrl": null
-        },
-        {
-          "id": "/node/17458",
-          "author": "CISA",
-          "description": "",
-          "link": "https://www.cisa.gov/news-events/alerts/2023/02/24/us-cert-and-ics-cert-transition-cisa",
-          "publishedOn": "2023-03-02T02:34:04.354Z",
-          "wordCount": 557,
-          "title": "Untitled",
-          "imageUrl": null
-        },
-        {
-          "id": "/node/17467",
-          "author": "CISA",
-          "description": "",
-          "link": "https://www.cisa.gov/news-events/alerts/2023/02/23/cisco-releases-security-advisories-multiple-products",
-          "publishedOn": "2023-03-02T02:34:04.342Z",
-          "wordCount": 583,
-          "title": "Untitled",
-          "imageUrl": null
-        },
-        {
-          "id": "/node/17482",
-          "author": "CISA",
-          "description": "",
-          "link": "https://www.cisa.gov/news-events/alerts/2023/02/28/cisa-releases-three-industrial-control-systems-advisories",
-          "publishedOn": "2023-03-02T02:34:03.666Z",
-          "wordCount": 544,
-          "title": "Untitled",
-          "imageUrl": null
-        },
-        {
-          "id": "/node/17476",
-          "author": "CISA",
-          "description": "",
-          "link": "https://www.cisa.gov/news-events/alerts/2023/02/27/cisa-adds-one-known-exploited-vulnerability-catalog",
-          "publishedOn": "2023-03-02T02:34:03.627Z",
-          "wordCount": 657,
-          "title": "Untitled",
-          "imageUrl": null
-        },
-        {
-          "id": "/node/17481",
-          "author": "CISA",
-          "description": "",
-          "link": "https://www.cisa.gov/news-events/alerts/2023/02/28/cisa-red-team-shares-key-findings-improve-monitoring-and-hardening-networks",
-          "publishedOn": "2023-03-02T02:34:03.606Z",
-          "wordCount": 649,
-          "title": "Untitled",
-          "imageUrl": null
-        },
-        {
-          "id": "/node/17407",
-          "author": "CISA",
-          "description": "",
-          "link": "https://www.cisa.gov/news-events/alerts/2023/02/21/cisa-adds-three-known-exploited-vulnerabilities-catalog",
-          "publishedOn": "2023-03-02T02:34:03.576Z",
-          "wordCount": 672,
-          "title": "Untitled",
-          "imageUrl": null
-        },
-        {
-          "id": "/node/17465",
-          "author": "CISA",
-          "description": "",
-          "link": "https://www.cisa.gov/news-events/alerts/2023/02/23/cisa-releases-three-industrial-control-systems-advisories",
-          "publishedOn": "2023-03-02T02:34:03.517Z",
-          "wordCount": 543,
-          "title": "Untitled",
-          "imageUrl": null
-        },
-        {
-          "id": "/node/17455",
-          "author": "CISA",
-          "description": "",
-          "link": "https://www.cisa.gov/news-events/alerts/2023/02/23/cisa-urges-increased-vigilance-one-year-after-russias-invasion-ukraine",
-          "publishedOn": "2023-03-02T02:34:03.462Z",
-          "wordCount": 618,
-          "title": "Untitled",
-          "imageUrl": null
-        },
-        {
-          "id": "/node/17469",
-          "author": "CISA",
-          "description": "",
-          "link": "https://www.cisa.gov/news-events/alerts/2023/02/23/vmware-releases-security-updates-carbon-black-app-control",
-          "publishedOn": "2023-03-02T02:34:03.407Z",
-          "wordCount": 542,
-          "title": "Untitled",
-          "imageUrl": null
-        },
-        {
-          "id": "/node/17491",
-          "author": "CISA",
-          "description": "",
-          "link": "https://www.cisa.gov/news-events/alerts/2023/03/01/cisa-releases-decider-tool-help-mitre-attck-mapping",
-          "publishedOn": "2023-03-02T02:34:03.367Z",
-          "wordCount": 590,
-          "title": "Untitled",
-          "imageUrl": null
         }
       ]
     },
@@ -530,6 +450,81 @@
       "feedUrl": "https://www.darkreading.com/rss.xml",
       "siteUrl": "https://www.darkreading.com",
       "articles": [
+        {
+          "id": "https://www.darkreading.com/omdia/is-decentralized-identity-about-to-reach-an-inflection-point-",
+          "author": "Don Tait, Senior Analyst, Omdia",
+          "description": "Decentralized identity products are increasingly projected to be introduced to the market in the next couple of years.",
+          "link": "https://www.darkreading.com/omdia/is-decentralized-identity-about-to-reach-an-inflection-point-",
+          "publishedOn": "2023-03-31T18:16:00.000Z",
+          "wordCount": 13488,
+          "title": "Is Decentralized Identity About to Reach an Inflection Point?",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt62cab7382fbc3f7d/60d4475fa7307e39e4d4b784/Don-Tait.png",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt62cab7382fbc3f7d/60d4475fa7307e39e4d4b784/Don-Tait.png"
+        },
+        {
+          "id": "https://www.darkreading.com/vulnerabilities-threats/vulkan-playbook-leak-exposes-russia-plans-worldwide-cyber-war",
+          "author": "Nathan Eddy, Contributing Writer, Dark Reading",
+          "description": "Russian intelligence services, together with a Moscow-based IT company, are planning worldwide hacking operations that will also enable attacks on critical infrastructure facilities.",
+          "link": "https://www.darkreading.com/vulnerabilities-threats/vulkan-playbook-leak-exposes-russia-plans-worldwide-cyber-war",
+          "publishedOn": "2023-03-31T15:22:00.000Z",
+          "wordCount": 13121,
+          "title": "Vulkan Playbook Leak Exposes Russia's Plans for Worldwide Cyberwar",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltf8b5a94afa71c53a/628e3799daa31875dc0c9fc0/NathanEddyHeadshot.PNG",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltf8b5a94afa71c53a/628e3799daa31875dc0c9fc0/NathanEddyHeadshot.PNG"
+        },
+        {
+          "id": "https://www.darkreading.com/cloud/us-space-force-wants-700m-cybersecurity",
+          "author": "Dark Reading Staff, Dark Reading",
+          "description": "Russia's invasion of Ukraine spurs Space Force to seek astronomical investments in cybersecurity.",
+          "link": "https://www.darkreading.com/cloud/us-space-force-wants-700m-cybersecurity",
+          "publishedOn": "2023-03-31T14:30:00.000Z",
+          "wordCount": 11577,
+          "title": "US Space Force Requests $700M for Cybersecurity Blast Off",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blte161b23f0fd3a84b/60b1ea374e7eb868c4c6a293/dr_staff_125x125.jpg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blte161b23f0fd3a84b/60b1ea374e7eb868c4c6a293/dr_staff_125x125.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/vulnerabilities-threats/what-cisos-can-do-to-build-trust-fight-fraud-in-the-metaverse",
+          "author": "Yoav Keren, CEO, BrandShield",
+          "description": "Until a degree of confidence is established, a platform's credibility can be eroded by scammers and unsuspecting gamers who fall victim to their attacks.",
+          "link": "https://www.darkreading.com/vulnerabilities-threats/what-cisos-can-do-to-build-trust-fight-fraud-in-the-metaverse",
+          "publishedOn": "2023-03-31T14:00:00.000Z",
+          "wordCount": 14285,
+          "title": "What CISOs Can Do to Build Trust & Fight Fraud in the Metaverse",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt84d7dc1c999cefc1/629cb828ad2bbb5f0f3af9a6/keren.jpeg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt84d7dc1c999cefc1/629cb828ad2bbb5f0f3af9a6/keren.jpeg"
+        },
+        {
+          "id": "https://www.darkreading.com/cloud/post-quantum-satellite-protection-rockets-towards-reality",
+          "author": "Tara Seals, Managing Editor, News, Dark Reading",
+          "description": "A successful multi-orbit cryptography test beamed quantum-agile data up to two different satellites and back down to Earth.",
+          "link": "https://www.darkreading.com/cloud/post-quantum-satellite-protection-rockets-towards-reality",
+          "publishedOn": "2023-03-31T13:25:00.000Z",
+          "wordCount": 12496,
+          "title": "Post-Quantum Satellite Protection Rockets Towards Reality",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltea67136f81f32eca/626a9eb4726e3315b16b3c64/Tara-Seals-Headshot2.jpg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltea67136f81f32eca/626a9eb4726e3315b16b3c64/Tara-Seals-Headshot2.jpg"
+        },
         {
           "id": "https://www.darkreading.com/endpoint/automatic-officlal-updates-malicious-3cx-enterprises",
           "author": "Jai Vijayan, Contributing Writer, Dark Reading",
@@ -3436,6 +3431,16 @@
       "siteUrl": "https://blog.knowbe4.com",
       "articles": [
         {
+          "id": "https://blog.knowbe4.com/the-new-face-of-fraud-ftc-sheds-light-on-ai-enhanced-family-emergency-scams",
+          "author": "Stu Sjouwerman",
+          "description": "The Federal Trade Commission is alerting consumers about a next-level, more sophisticated family emergency scam that uses AI that imitates the voice of a \"family member in distress\".",
+          "link": "https://blog.knowbe4.com/the-new-face-of-fraud-ftc-sheds-light-on-ai-enhanced-family-emergency-scams",
+          "publishedOn": "2023-03-31T13:41:32.000Z",
+          "wordCount": 2302,
+          "title": "The New Face of Fraud: FTC Sheds Light on AI-Enhanced Family Emergency Scams",
+          "imageUrl": "https://blog.knowbe4.com/hubfs/FTC-Logo-courtesy-Federal-Trade%20Commission.jpg#keepProtocol"
+        },
+        {
           "id": "https://blog.knowbe4.com/ai-makes-phishing-text-more-plausible",
           "author": "Stu Sjouwerman",
           "description": "Cybersecurity experts continue to warn that advanced chatbots like ChatGPT are making it easier for cybercriminals to craft phishing emails with pristine spelling and grammar, the Guardian reports.",
@@ -4132,6 +4137,22 @@
       "feedUrl": "https://thehackernews.com/feeds/posts/default",
       "siteUrl": "https://thehackernews.com",
       "articles": [
+        {
+          "id": "https://thehackernews.com/2023/03/winter-vivern-apt-targets-european.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "The advanced persistent threat (APT) actor known as Winter Vivern is now targeting officials in Europe and the U.S. as part of an ongoing cyber espionage campaign.\n\"TA473 since at least February 2023 has continuously leveraged an unpatched Zimbra vulnerability in publicly facing webmail portals that allows them to gain access to the email mailboxes of government entities in Europe,\" Proofpoint",
+          "link": "https://thehackernews.com/2023/03/winter-vivern-apt-targets-european.html",
+          "publishedOn": "2023-03-31T14:07:00.000Z",
+          "wordCount": null,
+          "title": "Winter Vivern APT Targets European Government Entities with Zimbra Vulnerability",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQ-8SsPqmg0cIPehDkBNjonvcXIicReW-JnC36n-1HyhDZw0XQb_5yX6T53Fu4huj0XDMTH38qW3oqhe8SLgWTWL-1fVjcnMtKWhBNEZPlkjsQHDhXJpmwA0F6unmYayU3j4jYdNBGznOI5PQaW7Bvs_dRlV1Pz8u-B175a79UQILfZ-gWiExyY_nU/s1600/email-hack.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQ-8SsPqmg0cIPehDkBNjonvcXIicReW-JnC36n-1HyhDZw0XQb_5yX6T53Fu4huj0XDMTH38qW3oqhe8SLgWTWL-1fVjcnMtKWhBNEZPlkjsQHDhXJpmwA0F6unmYayU3j4jYdNBGznOI5PQaW7Bvs_dRlV1Pz8u-B175a79UQILfZ-gWiExyY_nU/s1600/email-hack.png"
+        },
         {
           "id": "https://thehackernews.com/2023/03/cyber-police-of-ukraine-busted-phishing.html",
           "author": "info@thehackernews.com (The Hacker News)",
@@ -6115,22 +6136,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgP0tpznne8bs4XumK8ubKrsMK2QaVG_QowmWGoIQZgyWakbVMe_6YpNUOkq4VjYY5qPOCXQe7cAqnMTrSCSJcj7Ls6bJJj2CpfqT3OjmLaIV2NkaflnrQVaDQX1aYTUHREgx7QneDlZy2WU-BlJbD6vddHJgUMV4phWXm9luxQFLcCaEHunAeRMT1Y/s1600/linux.jpg"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgP0tpznne8bs4XumK8ubKrsMK2QaVG_QowmWGoIQZgyWakbVMe_6YpNUOkq4VjYY5qPOCXQe7cAqnMTrSCSJcj7Ls6bJJj2CpfqT3OjmLaIV2NkaflnrQVaDQX1aYTUHREgx7QneDlZy2WU-BlJbD6vddHJgUMV4phWXm9luxQFLcCaEHunAeRMT1Y/s1600/linux.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2023/03/critical-flaw-in-cisco-ip-phone-series.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Cisco on Wednesday rolled out security updates to address a critical flaw impacting its IP Phone 6800, 7800, 7900, and 8800 Series products.\nThe vulnerability, tracked as CVE-2023-20078, is rated 9.8 out of 10 on the CVSS scoring system and is described as a command injection bug in the web-based management interface arising due to insufficient validation of user-supplied input.\nSuccessful",
-          "link": "https://thehackernews.com/2023/03/critical-flaw-in-cisco-ip-phone-series.html",
-          "publishedOn": "2023-03-02T04:17:00.000Z",
-          "wordCount": null,
-          "title": "Critical Flaw in Cisco IP Phone Series Exposes Users to Command Injection Attack",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgl-qohNH4V4gI0u-vsrL_3MAAflocpEghlUoSOFrFRpzVYba1VnfaGnupQBOklMO1B0hn03bvuiDoysw0c36oirplhz-n_PbvXZWCVEMTS2Lt4xvW5g6_kTggj_FGMKXGy8UqznxN0EnEJ6op4GvonLE5_ApDK2lgg-Qt4JXDCv9yg7z2yKo79cRIR/s1600/ip-phone.png"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgl-qohNH4V4gI0u-vsrL_3MAAflocpEghlUoSOFrFRpzVYba1VnfaGnupQBOklMO1B0hn03bvuiDoysw0c36oirplhz-n_PbvXZWCVEMTS2Lt4xvW5g6_kTggj_FGMKXGy8UqznxN0EnEJ6op4GvonLE5_ApDK2lgg-Qt4JXDCv9yg7z2yKo79cRIR/s1600/ip-phone.png"
         }
       ]
     }
