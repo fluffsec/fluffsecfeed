@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-03-31T02:12:00.066Z</updated>
+    <updated>2023-03-31T07:17:43.668Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
@@ -189,6 +189,16 @@ Although BOD 22-01 only applies to FCEB agencies, CISA strongly urges all organi
 "The spread of AlienFox represents an unreported trend towards attacking more minimal cloud services, unsuitable for crypto mining, in order to enable and expand subsequent campaigns," SentinelOne security]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Azure ADを使用するマルチテナント アプリケーションの承認に関する構成ミスの可能性に関するガイダンス]]></title>
+        <id>/blog/2023/03/guidance-on-potential-misconfiguration-of-authorization-of-multi-tenant-applications-that-use-azure-ad-ja/</id>
+        <link href="https://msrc-blog.microsoft.com/blog/2023/03/guidance-on-potential-misconfiguration-of-authorization-of-multi-tenant-applications-that-use-azure-ad-ja/"/>
+        <updated>2023-03-30T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[本ブログは、Guidance on Potential Misconfiguration of Authorization of Multi-Tenant Applications that use Azure AD の抄訳版です。最新の情報は原文を参照してください]]></summary>
+        <author>
+            <name>Microsoft Security Response Center</name>
         </author>
     </entry>
     <entry>
@@ -4954,76 +4964,6 @@ Successful]]></summary>
         <summary type="html"><![CDATA[An infamous Chinese cyber-hacking team has extended its SysUpdate malware framework to target Linux systems.]]></summary>
         <author>
             <name>Dark Reading Staff, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Remote Workers Significantly Increase the Cost of Remediating Email-Based Cyberattacks as Costs Average $1 Million]]></title>
-        <id>https://blog.knowbe4.com/remediating-email-based-cyberattacks-cost-1-million</id>
-        <link href="https://blog.knowbe4.com/remediating-email-based-cyberattacks-cost-1-million"/>
-        <updated>2023-03-01T18:52:30.000Z</updated>
-        <summary type="html"><![CDATA[With the average cost of the most expensive successful email attack at over $1 million, it’s necessary to begin to zero in on where the material sources of risk exist to keep these attacks from succeeding.]]></summary>
-        <author>
-            <name>Stu Sjouwerman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NameCheap’s SendGrid Email Account Compromised, Used to Send Phishing Emails]]></title>
-        <id>https://blog.knowbe4.com/namecheaps-sendgrid-email-account-compromised</id>
-        <link href="https://blog.knowbe4.com/namecheaps-sendgrid-email-account-compromised"/>
-        <updated>2023-03-01T18:52:16.000Z</updated>
-        <summary type="html"><![CDATA[Since phishing attacks need legitimacy to increase their deliverability, this latest twist shows how phishing scammers and hackers are working together to ensure phishing attacks continue.]]></summary>
-        <author>
-            <name>Stu Sjouwerman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What Happened in That Cyberattack? With Some Cloud Services, You May Never Know]]></title>
-        <id>https://www.darkreading.com/cloud/what-happened-cyberattack-cloud-services-you-may-never-know</id>
-        <link href="https://www.darkreading.com/cloud/what-happened-cyberattack-cloud-services-you-may-never-know"/>
-        <updated>2023-03-01T18:33:26.000Z</updated>
-        <summary type="html"><![CDATA[More cyberattackers are targeting organizations' cloud environments, but some cloud services, such as Google Cloud Platform's storage, fail to create adequate logs for forensics.]]></summary>
-        <author>
-            <name>Robert Lemos, Contributing Writer, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Importance of Recession-Proofing Security Operations]]></title>
-        <id>https://www.darkreading.com/operations/the-importance-of-recession-proofing-security-operations</id>
-        <link href="https://www.darkreading.com/operations/the-importance-of-recession-proofing-security-operations"/>
-        <updated>2023-03-01T18:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Make sure cybersecurity is taken seriously and consistently across the board. Educate the ecosystem beyond your own organization to mitigate security risks for everyone.]]></summary>
-        <author>
-            <name>Leonid Belkind, Co-Founder &amp; CTO, Torq</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CISA: ZK Java Framework RCE Flaw Under Active Exploit]]></title>
-        <id>https://www.darkreading.com/risk/cisa-zk-java-framework-rce-flaw-under-active-exploit</id>
-        <link href="https://www.darkreading.com/risk/cisa-zk-java-framework-rce-flaw-under-active-exploit"/>
-        <updated>2023-03-01T15:30:00.000Z</updated>
-        <summary type="html"><![CDATA[The flaw, which drew attention in October when it was found in ConnectWise products, could pose a significant risk to the supply chain if not patched immediately.]]></summary>
-        <author>
-            <name>Elizabeth Montalbano, Contributor, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Without FIDO2, MFA Falls Short]]></title>
-        <id>https://www.darkreading.com/endpoint/without-fido2-mfa-falls-short</id>
-        <link href="https://www.darkreading.com/endpoint/without-fido2-mfa-falls-short"/>
-        <updated>2023-03-01T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The open authentication standard addresses existing multifactor authentication security vulnerabilities.]]></summary>
-        <author>
-            <name>Tony Lauro, Director of Security Technology &amp; Strategy, Akamai</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cyberattackers Double Down on Bypassing MFA]]></title>
-        <id>https://www.darkreading.com/threat-intelligence/cyberattackers-double-down-bypassing-mfa</id>
-        <link href="https://www.darkreading.com/threat-intelligence/cyberattackers-double-down-bypassing-mfa"/>
-        <updated>2023-03-01T14:59:02.000Z</updated>
-        <summary type="html"><![CDATA[As companies increasingly adopt MFA, cybercriminals are developing a variety of strategies to steal credentials and gain access to high-value accounts anyway.]]></summary>
-        <author>
-            <name>Robert Lemos, Contributing Writer, Dark Reading</name>
         </author>
     </entry>
 </feed>

@@ -3474,81 +3474,6 @@
             "length": "0"
           },
           "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blte161b23f0fd3a84b/60b1ea374e7eb868c4c6a293/dr_staff_125x125.jpg"
-        },
-        {
-          "id": "https://www.darkreading.com/cloud/what-happened-cyberattack-cloud-services-you-may-never-know",
-          "author": "Robert Lemos, Contributing Writer, Dark Reading",
-          "description": "More cyberattackers are targeting organizations' cloud environments, but some cloud services, such as Google Cloud Platform's storage, fail to create adequate logs for forensics.",
-          "link": "https://www.darkreading.com/cloud/what-happened-cyberattack-cloud-services-you-may-never-know",
-          "publishedOn": "2023-03-01T18:33:26.000Z",
-          "wordCount": 14365,
-          "title": "What Happened in That Cyberattack? With Some Cloud Services, You May Never Know",
-          "enclosure": {
-            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt58481326324d6911/60b1e9a55d34de550780a990/Robert-Lemos.png",
-            "type": "image/*",
-            "length": "0"
-          },
-          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt58481326324d6911/60b1e9a55d34de550780a990/Robert-Lemos.png"
-        },
-        {
-          "id": "https://www.darkreading.com/operations/the-importance-of-recession-proofing-security-operations",
-          "author": "Leonid Belkind, Co-Founder & CTO, Torq",
-          "description": "Make sure cybersecurity is taken seriously and consistently across the board. Educate the ecosystem beyond your own organization to mitigate security risks for everyone.",
-          "link": "https://www.darkreading.com/operations/the-importance-of-recession-proofing-security-operations",
-          "publishedOn": "2023-03-01T18:00:00.000Z",
-          "wordCount": 13453,
-          "title": "The Importance of Recession-Proofing Security Operations",
-          "enclosure": {
-            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltd02cafa698d55159/63fe3c5348c01055feff4a5d/image002.png",
-            "type": "image/*",
-            "length": "0"
-          },
-          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltd02cafa698d55159/63fe3c5348c01055feff4a5d/image002.png"
-        },
-        {
-          "id": "https://www.darkreading.com/risk/cisa-zk-java-framework-rce-flaw-under-active-exploit",
-          "author": "Elizabeth Montalbano, Contributor, Dark Reading",
-          "description": "The flaw, which drew attention in October when it was found in ConnectWise products, could pose a significant risk to the supply chain if not patched immediately.",
-          "link": "https://www.darkreading.com/risk/cisa-zk-java-framework-rce-flaw-under-active-exploit",
-          "publishedOn": "2023-03-01T15:30:00.000Z",
-          "wordCount": 14342,
-          "title": "CISA: ZK Java Framework RCE Flaw Under Active Exploit",
-          "enclosure": {
-            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltbfd004d139d42d70/6303bca6236c2476a257760e/ElizabethMontalbano.jpg",
-            "type": "image/*",
-            "length": "0"
-          },
-          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltbfd004d139d42d70/6303bca6236c2476a257760e/ElizabethMontalbano.jpg"
-        },
-        {
-          "id": "https://www.darkreading.com/endpoint/without-fido2-mfa-falls-short",
-          "author": "Tony Lauro, Director of Security Technology & Strategy, Akamai",
-          "description": "The open authentication standard addresses existing multifactor authentication security vulnerabilities.",
-          "link": "https://www.darkreading.com/endpoint/without-fido2-mfa-falls-short",
-          "publishedOn": "2023-03-01T15:00:00.000Z",
-          "wordCount": 14507,
-          "title": "Without FIDO2, MFA Falls Short",
-          "enclosure": {
-            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltfe8fbd455e7e9885/63fe58d25038391034a332f2/Tony_Lauro_Headshot.png",
-            "type": "image/*",
-            "length": "0"
-          },
-          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltfe8fbd455e7e9885/63fe58d25038391034a332f2/Tony_Lauro_Headshot.png"
-        },
-        {
-          "id": "https://www.darkreading.com/threat-intelligence/cyberattackers-double-down-bypassing-mfa",
-          "author": "Robert Lemos, Contributing Writer, Dark Reading",
-          "description": "As companies increasingly adopt MFA, cybercriminals are developing a variety of strategies to steal credentials and gain access to high-value accounts anyway.",
-          "link": "https://www.darkreading.com/threat-intelligence/cyberattackers-double-down-bypassing-mfa",
-          "publishedOn": "2023-03-01T14:59:02.000Z",
-          "wordCount": 14812,
-          "title": "Cyberattackers Double Down on Bypassing MFA",
-          "enclosure": {
-            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt58481326324d6911/60b1e9a55d34de550780a990/Robert-Lemos.png",
-            "type": "image/*",
-            "length": "0"
-          },
-          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt58481326324d6911/60b1e9a55d34de550780a990/Robert-Lemos.png"
         }
       ]
     },
@@ -3563,6 +3488,16 @@
       "feedUrl": "https://msrc-blog.microsoft.com/feed/",
       "siteUrl": "/blog/",
       "articles": [
+        {
+          "id": "/blog/2023/03/guidance-on-potential-misconfiguration-of-authorization-of-multi-tenant-applications-that-use-azure-ad-ja/",
+          "author": null,
+          "description": "本ブログは、Guidance on Potential Misconfiguration of Authorization of Multi-Tenant Applications that use Azure AD の抄訳版です。最新の情報は原文を参照してください",
+          "link": "https://msrc-blog.microsoft.com/blog/2023/03/guidance-on-potential-misconfiguration-of-authorization-of-multi-tenant-applications-that-use-azure-ad-ja/",
+          "publishedOn": "2023-03-30T07:00:00.000Z",
+          "wordCount": 2126,
+          "title": "Azure ADを使用するマルチテナント アプリケーションの承認に関する構成ミスの可能性に関するガイダンス",
+          "imageUrl": null
+        },
         {
           "id": "/blog/2023/03/guidance-on-potential-misconfiguration-of-authorization-of-multi-tenant-applications-that-use-azure-ad/",
           "author": null,
@@ -4299,26 +4234,6 @@
           "wordCount": 2295,
           "title": "[Eye Opener] Businessweek: The Satellite Hack Everyone Is Finally Talking About",
           "imageUrl": "https://blog.knowbe4.com/hubfs/satellites-over-europe-courtesy-Airbus.jpg#keepProtocol"
-        },
-        {
-          "id": "https://blog.knowbe4.com/remediating-email-based-cyberattacks-cost-1-million",
-          "author": "Stu Sjouwerman",
-          "description": "With the average cost of the most expensive successful email attack at over $1 million, it’s necessary to begin to zero in on where the material sources of risk exist to keep these attacks from succeeding.",
-          "link": "https://blog.knowbe4.com/remediating-email-based-cyberattacks-cost-1-million",
-          "publishedOn": "2023-03-01T18:52:30.000Z",
-          "wordCount": 2193,
-          "title": "Remote Workers Significantly Increase the Cost of Remediating Email-Based Cyberattacks as Costs Average $1 Million",
-          "imageUrl": "https://blog.knowbe4.com/hubfs/Remote%20Work%20Training%20Employees%202022.jpg#keepProtocol"
-        },
-        {
-          "id": "https://blog.knowbe4.com/namecheaps-sendgrid-email-account-compromised",
-          "author": "Stu Sjouwerman",
-          "description": "Since phishing attacks need legitimacy to increase their deliverability, this latest twist shows how phishing scammers and hackers are working together to ensure phishing attacks continue.",
-          "link": "https://blog.knowbe4.com/namecheaps-sendgrid-email-account-compromised",
-          "publishedOn": "2023-03-01T18:52:16.000Z",
-          "wordCount": 2213,
-          "title": "NameCheap’s SendGrid Email Account Compromised, Used to Send Phishing Emails",
-          "imageUrl": "https://blog.knowbe4.com/hubfs/Phishing%20as%20a%20Service%20Kit.jpg#keepProtocol"
         }
       ]
     },
