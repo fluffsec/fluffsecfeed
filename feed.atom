@@ -2,10 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-04-01T02:07:02.414Z</updated>
+    <updated>2023-04-01T07:15:59.253Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Cacti, Realtek, and IBM Aspera Faspex Vulnerabilities Under Active Exploitation]]></title>
+        <id>https://thehackernews.com/2023/04/cacti-realtek-and-ibm-aspera-faspex.html</id>
+        <link href="https://thehackernews.com/2023/04/cacti-realtek-and-ibm-aspera-faspex.html"/>
+        <updated>2023-04-01T04:51:00.000Z</updated>
+        <summary type="html"><![CDATA[Critical security flaws in Cacti, Realtek, and IBM Aspera Faspex are being exploited by various threat actors in hacks targeting unpatched systems.
+This entails the abuse of CVE-2022-46169 (CVSS score: 9.8) and CVE-2021-35394 (CVSS score: 9.8) to deliver MooBot and ShellBot (aka PerlBot), Fortinet FortiGuard Labs said in a report published this week.
+CVE-2022-46169 relates to a critical]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hackers Exploiting WordPress Elementor Pro Vulnerability: Millions of Sites at Risk!]]></title>
+        <id>https://thehackernews.com/2023/04/hackers-exploiting-wordpress-elementor.html</id>
+        <link href="https://thehackernews.com/2023/04/hackers-exploiting-wordpress-elementor.html"/>
+        <updated>2023-04-01T04:36:00.000Z</updated>
+        <summary type="html"><![CDATA[Unknown threat actors are actively exploiting a recently patched security vulnerability in the Elementor Pro website builder plugin for WordPress.
+The flaw, described as a case of broken access control, impacts versions 3.11.6 and earlier. It was addressed by the plugin maintainers in version 3.11.7 released on March 22.
+"Improved code security enforcement in WooCommerce components," the]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Elastic Expands Cloud Security Capabilities for AWS]]></title>
         <id>https://www.darkreading.com/cloud/elastic-expands-cloud-security-capabilities-for-aws</id>
@@ -4807,86 +4831,6 @@ The custom ransomware]]></summary>
         <updated>2023-03-02T19:17:16.470Z</updated>
         <author>
             <name>CISA</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What GoDaddy's Years-Long Breach Means for Millions of Clients]]></title>
-        <id>https://www.darkreading.com/risk/what-godaddy-years-long-breach-means-millions-clients</id>
-        <link href="https://www.darkreading.com/risk/what-godaddy-years-long-breach-means-millions-clients"/>
-        <updated>2023-03-02T18:24:00.000Z</updated>
-        <summary type="html"><![CDATA[The same "sophisticated" threat actor has pummeled the domain host on an ongoing basis since 2020, making off with customer logins, source code, and more. Here's what to do.]]></summary>
-        <author>
-            <name>Nate Nelson, Contributing Writer, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sale of Stolen Credentials and Initial Access Dominate Dark Web Markets]]></title>
-        <id>https://www.darkreading.com/threat-intelligence/sale-of-stolen-credentials-and-initial-access-dominate-dark-web-markets</id>
-        <link href="https://www.darkreading.com/threat-intelligence/sale-of-stolen-credentials-and-initial-access-dominate-dark-web-markets"/>
-        <updated>2023-03-02T18:00:25.000Z</updated>
-        <summary type="html"><![CDATA[Access-as-a-service took off in underground markets with more than 775 million credentials for sale and thousands of ads for access-as-a-service.]]></summary>
-        <author>
-            <name>Robert Lemos, Contributing Writer, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Everybody Wants Least Privilege, So Why Isn't Anyone Achieving It?]]></title>
-        <id>https://www.darkreading.com/attacks-breaches/everybody-wants-least-privilege-so-why-isn-t-anyone-achieving-it</id>
-        <link href="https://www.darkreading.com/attacks-breaches/everybody-wants-least-privilege-so-why-isn-t-anyone-achieving-it"/>
-        <updated>2023-03-02T18:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Overcoming the obstacles of this security principle can mitigate the damages of an attack.]]></summary>
-        <author>
-            <name>Tarun Thakur, CEO &amp; Co-Founder, Veza</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[5 Ways PhishER Saves You Time and Money]]></title>
-        <id>https://blog.knowbe4.com/5-ways-phisher-saves-you-time-and-money</id>
-        <link href="https://blog.knowbe4.com/5-ways-phisher-saves-you-time-and-money"/>
-        <updated>2023-03-02T17:01:03.000Z</updated>
-        <summary type="html"><![CDATA[Time is the one resource you never get back. Cutting the amount of time between the moment your user reports a suspicious email and when your InfoSec team responds can mean the difference between a risk mitigated and a catastrophic security incident.]]></summary>
-        <author>
-            <name>Stu Sjouwerman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Report: Inside the High Risk of Third-Party SaaS Apps]]></title>
-        <id>https://www.darkreading.com/cloud/new-report-inside-the-high-risk-of-third-party-saas-apps</id>
-        <link href="https://www.darkreading.com/cloud/new-report-inside-the-high-risk-of-third-party-saas-apps"/>
-        <updated>2023-03-02T17:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A new report from Adaptive Shield looks at the how volume of applications being connected to the SaaS stack and the risk they represent to company data.]]></summary>
-        <author>
-            <name>Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Booking.com's OAuth Implementation Allows Full Account Takeover]]></title>
-        <id>https://www.darkreading.com/vulnerabilities-threats/booking-com-oauth-implementation-full-account-takeover</id>
-        <link href="https://www.darkreading.com/vulnerabilities-threats/booking-com-oauth-implementation-full-account-takeover"/>
-        <updated>2023-03-02T16:16:00.000Z</updated>
-        <summary type="html"><![CDATA[Researchers exploited issues in the authentication protocol to force an open redirection from the popular hotel reservations site when users used Facebook to log in to accounts.]]></summary>
-        <author>
-            <name>Elizabeth Montalbano, Contributor, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hackers Target Young Gamers: How Your Child Can Cause Business Compromise]]></title>
-        <id>https://www.darkreading.com/remote-workforce/hackers-young-gamers-child-cause-business-compromise</id>
-        <link href="https://www.darkreading.com/remote-workforce/hackers-young-gamers-child-cause-business-compromise"/>
-        <updated>2023-03-02T16:10:59.000Z</updated>
-        <summary type="html"><![CDATA[It's 10 p.m. Do you know what your children are playing? In the age of remote work, hackers are actively targeting kids, with implications for enterprises.]]></summary>
-        <author>
-            <name>Nate Nelson, Contributing Writer, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[On Shaky Ground: Why Dependencies Will Be Your Downfall]]></title>
-        <id>https://www.darkreading.com/vulnerabilities-threats/on-shaky-ground-why-dependencies-will-be-your-downfall</id>
-        <link href="https://www.darkreading.com/vulnerabilities-threats/on-shaky-ground-why-dependencies-will-be-your-downfall"/>
-        <updated>2023-03-02T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[There's never enough time or staff to scan code repositories. To avoid dependency confusion attacks, use automated CI/CD tools to make fixes in hard-to-manage software dependencies.]]></summary>
-        <author>
-            <name>Nicholas Lang, Threat Research Engineer, Sysdig</name>
         </author>
     </entry>
 </feed>
