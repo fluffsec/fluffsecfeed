@@ -2,10 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-03-31T19:14:40.377Z</updated>
+    <updated>2023-04-01T02:07:02.414Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Elastic Expands Cloud Security Capabilities for AWS]]></title>
+        <id>https://www.darkreading.com/cloud/elastic-expands-cloud-security-capabilities-for-aws</id>
+        <link href="https://www.darkreading.com/cloud/elastic-expands-cloud-security-capabilities-for-aws"/>
+        <updated>2023-03-31T21:34:00.000Z</updated>
+        <summary type="html"><![CDATA[Launching CSPM, container workload security, and cloud vulnerability management to modernize cloud security operations.]]></summary>
+        <author>
+            <name>Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The FDA's Medical Device Cybersecurity Overhaul Has Real Teeth, Experts Say]]></title>
+        <id>https://www.darkreading.com/cloud/the-fda-medical-device-cybersecurity-overhaul-real-teeth</id>
+        <link href="https://www.darkreading.com/cloud/the-fda-medical-device-cybersecurity-overhaul-real-teeth"/>
+        <updated>2023-03-31T21:32:00.000Z</updated>
+        <summary type="html"><![CDATA[The physical and cyber safety issues surrounding medical devices like IV pumps is finally being meaningfully addressed by a new policy taking effect this week.]]></summary>
+        <author>
+            <name>Nate Nelson, Contributing Writer, Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mimecast Report Reveals Nearly 60% of Companies in UAE and Saudi Arabia Need to Increase Cybersecurity Spending]]></title>
+        <id>https://www.darkreading.com/operations/mimecast-report-reveals-nearly-60-of-companies-in-uae-and-saudi-arabia-need-to-increase-cybersecurity-spending</id>
+        <link href="https://www.darkreading.com/operations/mimecast-report-reveals-nearly-60-of-companies-in-uae-and-saudi-arabia-need-to-increase-cybersecurity-spending"/>
+        <updated>2023-03-31T21:26:00.000Z</updated>
+        <summary type="html"><![CDATA[The State of Email Security Report reveals cyber risk commands the C-suite's focus.]]></summary>
+        <author>
+            <name>Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pro-Islam 'Anonymous Sudan' Hacktivists Likely a Front for Russia's Killnet Operation]]></title>
+        <id>https://www.darkreading.com/attacks-breaches/pro-islam-anonymous-sudan-hacktivists-front-russia-killnet-operation</id>
+        <link href="https://www.darkreading.com/attacks-breaches/pro-islam-anonymous-sudan-hacktivists-front-russia-killnet-operation"/>
+        <updated>2023-03-31T21:10:00.000Z</updated>
+        <summary type="html"><![CDATA["Anonymous Sudan" has been claiming that its DDoS attacks are in retaliation for anti-Islamic activities, but at least one security vendor is suspicious about its true motives.]]></summary>
+        <author>
+            <name>Jai Vijayan, Contributing Writer, Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Adaptive Access Technologies Gaining Traction for Security, Agility]]></title>
+        <id>https://www.darkreading.com/emerging-tech/adaptive-access-technologies-gaining-traction-for-security-agility</id>
+        <link href="https://www.darkreading.com/emerging-tech/adaptive-access-technologies-gaining-traction-for-security-agility"/>
+        <updated>2023-03-31T19:15:10.000Z</updated>
+        <summary type="html"><![CDATA[With companies pushing to adopt zero-trust frameworks, adaptive authentication and access — once languishing — looks finally ready to move out of the doldrums.]]></summary>
+        <author>
+            <name>Robert Lemos, Contributing Writer, Dark Reading</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Is Decentralized Identity About to Reach an Inflection Point?]]></title>
         <id>https://www.darkreading.com/omdia/is-decentralized-identity-about-to-reach-an-inflection-point-</id>
@@ -154,6 +204,16 @@ The company said it's engaging the services of Google-owned Mandiant to review t
         <summary type="html"><![CDATA[Business email compromise scams are moving beyond just stealing cash, with some threat actors fooling companies into sending goods and materials on credit, and then skipping out on payment.]]></summary>
         <author>
             <name>Robert Lemos, Contributing Writer, Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Solve IoT's Identity Problem]]></title>
+        <id>https://www.darkreading.com/dr-tech/how-to-solve-iot-s-identity-problem</id>
+        <link href="https://www.darkreading.com/dr-tech/how-to-solve-iot-s-identity-problem"/>
+        <updated>2023-03-30T19:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Network protocols can be used to identify operating systems and discern other device information.]]></summary>
+        <author>
+            <name>Asaf Fried, Data Scientist, Cato Networks</name>
         </author>
     </entry>
     <entry>
@@ -4827,83 +4887,6 @@ The custom ransomware]]></summary>
         <summary type="html"><![CDATA[There's never enough time or staff to scan code repositories. To avoid dependency confusion attacks, use automated CI/CD tools to make fixes in hard-to-manage software dependencies.]]></summary>
         <author>
             <name>Nicholas Lang, Threat Research Engineer, Sysdig</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Customer Care Numbers as Phishbait]]></title>
-        <id>https://blog.knowbe4.com/customer-care-numbers-as-phishbait</id>
-        <link href="https://blog.knowbe4.com/customer-care-numbers-as-phishbait"/>
-        <updated>2023-03-02T13:50:50.000Z</updated>
-        <summary type="html"><![CDATA[Researchers at CloudSEK have published a report looking at fraudulent customer service phone numbers in India. The researchers found around 20,000 of these phone numbers targeting users in India. The scammers purchase SIM cards from dark web markets, then trick people into handing over their financial information.]]></summary>
-        <author>
-            <name>Stu Sjouwerman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hackers Exploit Containerized Environments to Steals Proprietary Data and Software]]></title>
-        <id>https://thehackernews.com/2023/03/hackers-exploit-containerized.html</id>
-        <link href="https://thehackernews.com/2023/03/hackers-exploit-containerized.html"/>
-        <updated>2023-03-02T13:40:00.000Z</updated>
-        <summary type="html"><![CDATA[A sophisticated attack campaign dubbed SCARLETEEL is targeting containerized environments to perpetrate theft of proprietary data and software.
-"The attacker exploited a containerized workload and then leveraged it to perform privilege escalation into an AWS account in order to steal proprietary software and credentials," Sysdig said in a new report.
-The advanced cloud attack also entailed the]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Eye Opener] Businessweek: The Satellite Hack Everyone Is Finally Talking About]]></title>
-        <id>https://blog.knowbe4.com/eye-opener-businessweek-the-satellite-hack-everyone-is-finally-talking-about</id>
-        <link href="https://blog.knowbe4.com/eye-opener-businessweek-the-satellite-hack-everyone-is-finally-talking-about"/>
-        <updated>2023-03-02T12:09:33.000Z</updated>
-        <summary type="html"><![CDATA[This morning, Bloomberg News pointed at a brand new article at BusinessWeek, one of their media properties. This is an excellent article that exposes the vulnerabilities when communications systems are designed without built-in security from the get-go. It is an excellent wake-up call for your C-level execs and powerful budget ammo.]]></summary>
-        <author>
-            <name>Stu Sjouwerman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Cryptojacking Campaign Leverages Misconfigured Redis Database Servers]]></title>
-        <id>https://thehackernews.com/2023/03/new-cryptojacking-campaign-leverages.html</id>
-        <link href="https://thehackernews.com/2023/03/new-cryptojacking-campaign-leverages.html"/>
-        <updated>2023-03-02T11:39:00.000Z</updated>
-        <summary type="html"><![CDATA[Misconfigured Redis database servers are the target of a novel cryptojacking campaign that leverages a legitimate and open source command-line file transfer service to implement its attack.
-"Underpinning this campaign was the use of transfer[.]sh," Cado Security said in a report shared with The Hacker News. "It's possible that it's an attempt at evading detections based on other common code]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2023 Browser Security Report Uncovers Major Browsing Risks and Blind Spots]]></title>
-        <id>https://thehackernews.com/2023/03/2023-browser-security-report-uncovers.html</id>
-        <link href="https://thehackernews.com/2023/03/2023-browser-security-report-uncovers.html"/>
-        <updated>2023-03-02T11:35:00.000Z</updated>
-        <summary type="html"><![CDATA[As a primary working interface, the browser plays a significant role in today's corporate environment. The browser is constantly used by employees to access websites, SaaS applications and internal applications, from both managed and unmanaged devices. A new report published by LayerX, a browser security vendor, finds that attackers are exploiting this reality and are targeting it in increasing]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Experts Identify Fully-Featured Info Stealer and Trojan in Python Package on PyPI]]></title>
-        <id>https://thehackernews.com/2023/03/experts-identify-fully-featured-info.html</id>
-        <link href="https://thehackernews.com/2023/03/experts-identify-fully-featured-info.html"/>
-        <updated>2023-03-02T11:21:00.000Z</updated>
-        <summary type="html"><![CDATA[A malicious Python package uploaded to the Python Package Index (PyPI) has been found to contain a fully-featured information stealer and remote access trojan.
-The package, named colourfool, was identified by Kroll's Cyber Threat Intelligence team, with the company calling the malware Colour-Blind.
-"The 'Colour-Blind' malware points to the democratization of cybercrime that could lead to an]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SysUpdate Malware Strikes Again with Linux Version and New Evasion Tactics]]></title>
-        <id>https://thehackernews.com/2023/03/sysupdate-malware-strikes-again-with.html</id>
-        <link href="https://thehackernews.com/2023/03/sysupdate-malware-strikes-again-with.html"/>
-        <updated>2023-03-02T08:03:00.000Z</updated>
-        <summary type="html"><![CDATA[The threat actor known as Lucky Mouse has developed a Linux version of a malware toolkit called SysUpdate, expanding on its ability to target devices running the operating system.
-The oldest version of the updated artifact dates back to July 2022, with the malware incorporating new features designed to evade security software and resist reverse engineering.
-Cybersecurity company Trend Micro said]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
         </author>
     </entry>
 </feed>
