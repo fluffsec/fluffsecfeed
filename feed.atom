@@ -2,10 +2,84 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-04-03T07:17:24.450Z</updated>
+    <updated>2023-04-03T13:22:32.305Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Mid-Sized Businesses Lack the Staffing, Expertise, and Resources to Defend Against Cyberattacks]]></title>
+        <id>https://blog.knowbe4.com/businesses-lack-cyber-attack-defense</id>
+        <link href="https://blog.knowbe4.com/businesses-lack-cyber-attack-defense"/>
+        <updated>2023-04-03T12:16:11.000Z</updated>
+        <summary type="html"><![CDATA[Mid-sized businesses – those with 250 to 2000 employees – don’t appear to have what they need to fend off attacks in a number of critical ways.]]></summary>
+        <author>
+            <name>Stu Sjouwerman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Majority of Government Employees are Partially Working Virtually Despite Increased User-Related Cyber Risks]]></title>
+        <id>https://blog.knowbe4.com/virtual-government-workers-increase-cyber-risks</id>
+        <link href="https://blog.knowbe4.com/virtual-government-workers-increase-cyber-risks"/>
+        <updated>2023-04-03T12:16:08.000Z</updated>
+        <summary type="html"><![CDATA[New global data shows that those government employees that work solely in the office are the new minority, IT lacks visibility, and user actions put the government at risk.]]></summary>
+        <author>
+            <name>Stu Sjouwerman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fake ChatGPT Scam Turns into a Fraudulent Money-Making Scheme]]></title>
+        <id>https://blog.knowbe4.com/fake-chatgpt-scam</id>
+        <link href="https://blog.knowbe4.com/fake-chatgpt-scam"/>
+        <updated>2023-04-03T12:16:05.000Z</updated>
+        <summary type="html"><![CDATA[Using the lure of ChatGPT’s AI as a means to find new ways to make money, scammers trick victims using a phishing-turned-vishing attack that eventually takes victim’s money.]]></summary>
+        <author>
+            <name>Stu Sjouwerman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Western Digital Hit by Network Security Breach - Critical Services Disrupted!]]></title>
+        <id>https://thehackernews.com/2023/04/western-digital-hit-by-network-security.html</id>
+        <link href="https://thehackernews.com/2023/04/western-digital-hit-by-network-security.html"/>
+        <updated>2023-04-03T11:41:00.000Z</updated>
+        <summary type="html"><![CDATA[Data storage devices maker Western Digital on Monday disclosed a "network security incident" that involved unauthorized access to its systems.
+The breach is said to have occurred on March 26, 2023, enabling an unnamed third party to gain access to a "number of the company's systems."
+Following the discovery of the hack, Western Digital said it has initiated incident response efforts and enlisted]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Italian Watchdog Bans OpenAI's ChatGPT Over Data Protection Concerns]]></title>
+        <id>https://thehackernews.com/2023/04/italian-watchdog-bans-openais-chatgpt.html</id>
+        <link href="https://thehackernews.com/2023/04/italian-watchdog-bans-openais-chatgpt.html"/>
+        <updated>2023-04-03T11:25:00.000Z</updated>
+        <summary type="html"><![CDATA[The Italian data protection watchdog, Garante per la Protezione dei Dati Personali (aka Garante), has imposed a temporary ban of OpenAI's ChatGPT service in the country, citing data protection concerns.
+To that end, it has ordered the company to stop processing users' data with immediate effect, stating it intends to investigate the company over whether it's unlawfully processing such data in]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["It's The Service Accounts, Stupid": Why Do PAM Deployments Take (almost) Forever To Complete]]></title>
+        <id>https://thehackernews.com/2023/04/its-service-accounts-stupid-why-do-pam.html</id>
+        <link href="https://thehackernews.com/2023/04/its-service-accounts-stupid-why-do-pam.html"/>
+        <updated>2023-04-03T11:20:00.000Z</updated>
+        <summary type="html"><![CDATA[Privileged Access Management (PAM) solutions are regarded as the common practice to prevent identity threats to administrative accounts. In theory, the PAM concept makes absolute sense: place admin credentials in a vault, rotate their passwords, and closely monitor their sessions. However, the harsh reality is that the vast majority of PAM projects either become a years-long project, or even]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Crypto-Stealing OpcJacker Malware Targets Users with Fake VPN Service]]></title>
+        <id>https://thehackernews.com/2023/04/crypto-stealing-opcjacker-malware.html</id>
+        <link href="https://thehackernews.com/2023/04/crypto-stealing-opcjacker-malware.html"/>
+        <updated>2023-04-03T09:20:00.000Z</updated>
+        <summary type="html"><![CDATA[A piece of new information-stealing malware called OpcJacker has been spotted in the wild since the second half of 2022 as part of a malvertising campaign. 
+"OpcJacker's main functions include keylogging, taking screenshots, stealing sensitive data from browsers, loading additional modules, and replacing cryptocurrency addresses in the clipboard for hijacking purposes," Trend Micro researchers]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Microsoft Fixes New Azure AD Vulnerability Impacting Bing Search and Major Apps]]></title>
         <id>https://thehackernews.com/2023/04/microsoft-fixes-new-azure-ad.html</id>
