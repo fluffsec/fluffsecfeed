@@ -33,6 +33,16 @@
       "siteUrl": "https://www.cisa.gov/",
       "articles": [
         {
+          "id": "/node/17832",
+          "author": "CISA",
+          "description": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities Catalog based on evidence of active exploitation.\nCVE-2022-27926 Zimbra Collaboration (ZCS) Cross-Site Scripting (XSS) Vulnerability\nThese types of vulnerabilities are frequent attack vectors for malicious cyber actors and pose significant risks to the federal enterprise. Note: To view other newly added vulnerabilities in the catalog, click on the arrow in the \"Date Added to Catalog\" column—which will sort by descending dates.\nBinding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the Known Exploited Vulnerabilities Catalog as a living list of known Common Vulnerabilities and Exposures (CVEs) that carry significant risk to the federal enterprise. BOD 22-01 requires Federal Civilian Executive Branch (FCEB) agencies to remediate identified vulnerabilities by the due date to protect FCEB networks against active threats. See the BOD 22-01 Fact Sheet for more information.\nAlthough BOD 22-01 only applies to FCEB agencies, CISA strongly urges all organizations to reduce their exposure to cyberattacks by prioritizing timely remediation of Catalog vulnerabilities as part of their vulnerability management practice. CISA will continue to add vulnerabilities to the catalog that meet the specified criteria.\nPlease share your thoughts. We recently updated our anonymous Product Feedback Survey and we'd welcome your feedback.",
+          "link": "https://www.cisa.gov/news-events/alerts/2023/04/03/cisa-adds-one-known-exploited-vulnerability-catalog",
+          "publishedOn": "2023-04-03T12:00:00.000Z",
+          "wordCount": 687,
+          "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+          "imageUrl": null
+        },
+        {
           "id": "/node/17792",
           "author": "CISA",
           "description": "Mozilla has released a security update to address vulnerabilities in Thunderbird 102.9.1. An attacker could exploit some of these vulnerabilities to take control of an affected system.\nCISA encourages users and administrators to review Mozilla’s Thunderbird 102.9.1 security advisory for more information and apply the necessary updates.",
@@ -420,6 +430,51 @@
       "feedUrl": "https://www.darkreading.com/rss.xml",
       "siteUrl": "https://www.darkreading.com",
       "articles": [
+        {
+          "id": "https://www.darkreading.com/dr-tech/how-good-is-your-advanced-threat-management-",
+          "author": "Michael Gorelik, CTO, Morphisec",
+          "description": "Whether protecting a financial institution or a hospital, everyone needs an effective strategy for fending off slippery threats like those that hide in memory.",
+          "link": "https://www.darkreading.com/dr-tech/how-good-is-your-advanced-threat-management-",
+          "publishedOn": "2023-04-03T15:15:00.000Z",
+          "wordCount": 13848,
+          "title": "How Good Is Your Advanced Threat Management?",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt86a8f2e395d13c58/642467f2802d8705c0fb1849/Michael_Gorelik.jpeg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt86a8f2e395d13c58/642467f2802d8705c0fb1849/Michael_Gorelik.jpeg"
+        },
+        {
+          "id": "https://www.darkreading.com/edge-articles/name-that-edge-toon-tower-of-babble",
+          "author": "John Klossner, Cartoonist",
+          "description": "Come up with a clever caption, and our panel of experts will reward the winner with a $25 Amazon gift card.",
+          "link": "https://www.darkreading.com/edge-articles/name-that-edge-toon-tower-of-babble",
+          "publishedOn": "2023-04-03T15:00:00.000Z",
+          "wordCount": 11426,
+          "title": "Name That Edge Toon: Tower of Babble",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltf97d71984b60d7ed/60b1e88b5d34de550780a96e/Klossner_iwk_photo.gif",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltf97d71984b60d7ed/60b1e88b5d34de550780a96e/Klossner_iwk_photo.gif"
+        },
+        {
+          "id": "https://www.darkreading.com/vulnerabilities-threats/4-steps-for-shifting-left-and-winning-the-cybersecurity-battle",
+          "author": "Sascha Giese, Head Geek, SolarWinds",
+          "description": "If companies prioritize communications and make the DevOps process more transparent, team members will better know what vulnerabilities to look for.",
+          "link": "https://www.darkreading.com/vulnerabilities-threats/4-steps-for-shifting-left-and-winning-the-cybersecurity-battle",
+          "publishedOn": "2023-04-03T14:00:00.000Z",
+          "wordCount": 14209,
+          "title": "4 Steps for Shifting Left & Winning the Cybersecurity Battle",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt4cbad0e7294d1169/6419d373e7446e107e116bf4/SolarWinds_Sascha_Giese_headshot.jpg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt4cbad0e7294d1169/6419d373e7446e107e116bf4/SolarWinds_Sascha_Giese_headshot.jpg"
+        },
         {
           "id": "https://www.darkreading.com/cloud/elastic-expands-cloud-security-capabilities-for-aws",
           "author": null,
@@ -3200,6 +3255,36 @@
       "feedUrl": "https://blog.knowbe4.com/rss.xml",
       "siteUrl": "https://blog.knowbe4.com",
       "articles": [
+        {
+          "id": "https://blog.knowbe4.com/latitude-breach-aftermath",
+          "author": "Javvad Malik",
+          "description": "Looks like Latitude Finance is trying to give consumers more \"latitude\" in their exposure to cyber risks. The Australian finance company admittedly fell victim to an attack that has exposed customer data and Latitude Financial has been forced to stop adding new customers from clients such as Apple, Harvey Norman and JB Hi-Fi as it tries to contain the damage from criminals, who still appear to be active in its computer systems.",
+          "link": "https://blog.knowbe4.com/latitude-breach-aftermath",
+          "publishedOn": "2023-04-03T18:32:00.000Z",
+          "wordCount": 2242,
+          "title": "Latitude Forced To Stop Adding New Customers in Aftermath of Breach",
+          "imageUrl": "https://blog.knowbe4.com/hubfs/Social%20Image%20Repository/Evangelist%20Blog%20Social%20Graphics/Evangelists-Javvad%20Malik.jpg#keepProtocol"
+        },
+        {
+          "id": "https://blog.knowbe4.com/ukrainian-police-take-down-cybercrime-ring",
+          "author": "Stu Sjouwerman",
+          "description": "The Cyber Police of Ukraine have arrested twelve alleged members of an organized cybercrime group that’s stolen approximately $4.3 million from users across Europe, the Hacker News reports.",
+          "link": "https://blog.knowbe4.com/ukrainian-police-take-down-cybercrime-ring",
+          "publishedOn": "2023-04-03T15:51:13.000Z",
+          "wordCount": 2295,
+          "title": "Ukrainian Police Take Down Cybercrime Ring",
+          "imageUrl": "https://blog.knowbe4.com/hubfs/cybercrime.jpg#keepProtocol"
+        },
+        {
+          "id": "https://blog.knowbe4.com/live-demo-security-awareness-training-and-phishing",
+          "author": "Stu Sjouwerman",
+          "description": "Old-school awareness training does not hack it anymore. Your email filters have an average 7-10% failure rate; you need a strong human firewall as your last line of defense.",
+          "link": "https://blog.knowbe4.com/live-demo-security-awareness-training-and-phishing",
+          "publishedOn": "2023-04-03T13:40:46.000Z",
+          "wordCount": 2059,
+          "title": "[Live Demo] Ridiculously Easy Security Awareness Training and Phishing",
+          "imageUrl": "https://blog.knowbe4.com/hubfs/Social%20Image%20Repository/Live%20Demos/Live-Demo-KMSAT-SM-1.jpg#keepProtocol"
+        },
         {
           "id": "https://blog.knowbe4.com/businesses-lack-cyber-attack-defense",
           "author": "Stu Sjouwerman",
