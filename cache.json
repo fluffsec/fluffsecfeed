@@ -33,6 +33,16 @@
       "siteUrl": "https://www.cisa.gov/",
       "articles": [
         {
+          "id": "/node/17843",
+          "author": "CISA",
+          "description": "CISA released one Industrial Control Systems (ICS) advisory on April 4, 2023. This advisory provides timely information about current security issues, vulnerabilities, and exploits surrounding ICS. \nICSA-23-094-01 Nexx Smart Home Device\nCISA encourages users and administrators to review the newly released ICS advisories for technical details and mitigations.",
+          "link": "https://www.cisa.gov/news-events/alerts/2023/04/04/cisa-releases-one-industrial-control-systems-advisory",
+          "publishedOn": "2023-04-04T12:00:00.000Z",
+          "wordCount": 527,
+          "title": "CISA Releases One Industrial Control Systems Advisory",
+          "imageUrl": null
+        },
+        {
           "id": "/node/17832",
           "author": "CISA",
           "description": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities Catalog based on evidence of active exploitation.\nCVE-2022-27926 Zimbra Collaboration (ZCS) Cross-Site Scripting (XSS) Vulnerability\nThese types of vulnerabilities are frequent attack vectors for malicious cyber actors and pose significant risks to the federal enterprise. Note: To view other newly added vulnerabilities in the catalog, click on the arrow in the \"Date Added to Catalog\" column—which will sort by descending dates.\nBinding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the Known Exploited Vulnerabilities Catalog as a living list of known Common Vulnerabilities and Exposures (CVEs) that carry significant risk to the federal enterprise. BOD 22-01 requires Federal Civilian Executive Branch (FCEB) agencies to remediate identified vulnerabilities by the due date to protect FCEB networks against active threats. See the BOD 22-01 Fact Sheet for more information.\nAlthough BOD 22-01 only applies to FCEB agencies, CISA strongly urges all organizations to reduce their exposure to cyberattacks by prioritizing timely remediation of Catalog vulnerabilities as part of their vulnerability management practice. CISA will continue to add vulnerabilities to the catalog that meet the specified criteria.\nPlease share your thoughts. We recently updated our anonymous Product Feedback Survey and we'd welcome your feedback.",
@@ -431,6 +441,66 @@
       "siteUrl": "https://www.darkreading.com",
       "articles": [
         {
+          "id": "https://www.darkreading.com/vulnerabilities-threats/mysterious-rorschach-ransomware-doubles-known-encryption-speeds",
+          "author": "Tara Seals, Managing Editor, News, Dark Reading",
+          "description": "The malware is one of the most sophisticated ransomwares ever seen in the wild, and marks a leap ahead for cybercrime.",
+          "link": "https://www.darkreading.com/vulnerabilities-threats/mysterious-rorschach-ransomware-doubles-known-encryption-speeds",
+          "publishedOn": "2023-04-04T18:32:25.000Z",
+          "wordCount": 13635,
+          "title": "Mysterious 'Rorschach' Ransomware Doubles Known Encryption Speeds",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltea67136f81f32eca/626a9eb4726e3315b16b3c64/Tara-Seals-Headshot2.jpg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltea67136f81f32eca/626a9eb4726e3315b16b3c64/Tara-Seals-Headshot2.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/vulnerabilities-threats/15m-services-apps-sitting-ducks-known-exploits",
+          "author": "Robert Lemos, Contributing Writer, Dark Reading",
+          "description": "Scans of the Internet find that millions of computers, virtual machines, and containers are vulnerable to one or more of the hundreds of cyberattacks currently used in the wild, despite being patchable.",
+          "link": "https://www.darkreading.com/vulnerabilities-threats/15m-services-apps-sitting-ducks-known-exploits",
+          "publishedOn": "2023-04-04T17:00:35.000Z",
+          "wordCount": 14444,
+          "title": "15M+ Services & Apps Remain Sitting Ducks for Known Exploits",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt58481326324d6911/60b1e9a55d34de550780a990/Robert-Lemos.png",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt58481326324d6911/60b1e9a55d34de550780a990/Robert-Lemos.png"
+        },
+        {
+          "id": "https://www.darkreading.com/attacks-breaches/what-rasp-should-have-been",
+          "author": "Doug Ennis, CEO, Waratek",
+          "description": "When runtime application self-protection is held to a higher standard, it can secure thousands of applications and prevent burnout in security teams.",
+          "link": "https://www.darkreading.com/attacks-breaches/what-rasp-should-have-been",
+          "publishedOn": "2023-04-04T17:00:00.000Z",
+          "wordCount": 15027,
+          "title": "What RASP Should Have Been",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blte2f18258047ed5d0/642c29641a23a610707b3703/DSC_3879.jpg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blte2f18258047ed5d0/642c29641a23a610707b3703/DSC_3879.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/attacks-breaches/how-strategic-investors-can-help-cybersecurity-startups-",
+          "author": "Michael Sentonas, President, CrowdStrike",
+          "description": "Cybersecurity startups face pressure during this economic uncertainty, but strategic investors can help them succeed in providing tech that defends against cyberattacks.",
+          "link": "https://www.darkreading.com/attacks-breaches/how-strategic-investors-can-help-cybersecurity-startups-",
+          "publishedOn": "2023-04-04T14:00:00.000Z",
+          "wordCount": 14659,
+          "title": "How Strategic Investors Can Help Cybersecurity Startups",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt1d9e61298f6e045a/6376956e3a1eac0f1afb25c3/Mike_Sentonas_headshot.jpeg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt1d9e61298f6e045a/6376956e3a1eac0f1afb25c3/Mike_Sentonas_headshot.jpeg"
+        },
+        {
           "id": "https://www.darkreading.com/edge-articles/designing-tabletop-exercises-truly-help-thwart-cyberattacks",
           "author": "Nate Nelson, Contributing Writer, Dark Reading",
           "description": "Have you ever wondered how they design blue team exercises? One ransomware and cyber extortion simulation demonstrates the best practices.",
@@ -444,6 +514,21 @@
             "length": "0"
           },
           "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt91e5f91ce3f0cdd9/63d0288ac98dbe55ece1d0a9/Nate-Nelson_(1).jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/cloud/cybercriminals-can-earn-potentially-200k-monthly-exploiting-log4j-in-proxyjacking-attacks",
+          "author": "Elizabeth Montalbano, Contributor, Dark Reading",
+          "description": "Proxyjacking is an emerging, low-effort and high-reward attack for threat actors, with the potential for far-reaching implications.",
+          "link": "https://www.darkreading.com/cloud/cybercriminals-can-earn-potentially-200k-monthly-exploiting-log4j-in-proxyjacking-attacks",
+          "publishedOn": "2023-04-04T05:27:00.000Z",
+          "wordCount": 14858,
+          "title": "'Proxyjacking' Cybercriminals Exploit Log4J in Emerging, Lucrative Cloud Attacks",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltbfd004d139d42d70/6303bca6236c2476a257760e/ElizabethMontalbano.jpg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltbfd004d139d42d70/6303bca6236c2476a257760e/ElizabethMontalbano.jpg"
         },
         {
           "id": "https://www.darkreading.com/attacks-breaches/doj-112m-crypto-stolen-romance-scams",
@@ -3331,6 +3416,26 @@
       "siteUrl": "https://blog.knowbe4.com",
       "articles": [
         {
+          "id": "https://blog.knowbe4.com/phony-ransomware-scareware",
+          "author": "Stu Sjouwerman",
+          "description": "BleepingComputer reports that a cybercriminal gang is sending phony ransomware threats to prior victims of ransomware attacks. The gang, which calls itself “Midnight,” claims to have stolen hundreds of gigabytes of data and threatens to leak it if the victim doesn’t pay a ransom.",
+          "link": "https://blog.knowbe4.com/phony-ransomware-scareware",
+          "publishedOn": "2023-04-04T13:50:02.000Z",
+          "wordCount": 2294,
+          "title": "Scareware From a Phony Ransomware Group",
+          "imageUrl": "https://blog.knowbe4.com/hubfs/Victim%20of%20a%20Ransomware%20Attack.jpg#keepProtocol"
+        },
+        {
+          "id": "https://blog.knowbe4.com/italy-bans-chatgpt",
+          "author": "Javvad Malik",
+          "description": "In a groundbreaking move, Italy has imposed a ban on the widely popular AI tool ChatGPT. This decision comes in the wake of concerns over possible misinformation, biases and the ethical challenges AI-powered technology presents. The ban has sparked a global conversation, with many speculating whether other countries will follow suit.",
+          "link": "https://blog.knowbe4.com/italy-bans-chatgpt",
+          "publishedOn": "2023-04-04T13:49:59.000Z",
+          "wordCount": 2440,
+          "title": "Italy Bans ChatGPT: A Portent of the Future, Balancing the Pros and Cons",
+          "imageUrl": "https://blog.knowbe4.com/hubfs/Social%20Image%20Repository/Evangelist%20Blog%20Social%20Graphics/Evangelists-Javvad%20Malik.jpg#keepProtocol"
+        },
+        {
           "id": "https://blog.knowbe4.com/cyberheistnews-vol-13-14-eyes-on-the-price-how-crafty-cons-attempted-a-36-million-vendor-email-heist",
           "author": "Stu Sjouwerman",
           "description": "CyberheistNews Vol 13 #14  |   April 4th, 2023  \r\n \n \r\n   \r\n \n \r\n  \n[Eyes on the Prize] How Crafty Cons Attempted a 36 Million Vendor Email Heist\n \r\n  \nThe details in this thwarted VEC attack demonstrate how the use of just a few key details can both establish credibility and indicate the entire thing is a scam.\n \r\n  \nIt's not every day you hear about a purely social engineering-based scam taking place that is looking to run away with tens of millions of dollars. But, according to security researchers at Abnormal Security, cybercriminals are becoming brazen and are taking their shots at very large prizes.\n \r\n  \nThis attack begins with a case of VEC – where a domain is impersonated. In the case of this attack, the impersonated vendor's domain (which had a .com top level domain) was replaced…",
@@ -4057,6 +4162,54 @@
       "feedUrl": "https://thehackernews.com/feeds/posts/default",
       "siteUrl": "https://thehackernews.com",
       "articles": [
+        {
+          "id": "https://thehackernews.com/2023/04/sorting-through-haystacks-to-find-cti.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Clouded vision\nCTI systems are confronted with some major issues ranging from the size of the collection networks to their diversity, which ultimately influence the degree of confidence they can put on their signals. Are they fresh enough and sufficiently reliable to avoid any false positives or any poisoning? Do I risk acting on outdated data? This difference is major since a piece of",
+          "link": "https://thehackernews.com/2023/04/sorting-through-haystacks-to-find-cti.html",
+          "publishedOn": "2023-04-04T13:51:00.000Z",
+          "wordCount": null,
+          "title": "Sorting Through Haystacks to Find CTI Needles",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4PL-_UQ1Yc-1UXUv0S1U28O7dIwzqEj8LwSIttv-d7ckg9awMv654L1i6CnSi0ZmRUheEpCM-O_pSqvPO5EvS-xXXTw1CIYdLukzyM4FNDTNxnt1igjOSM7QDwsgtb2EByl42YAkCAoJMnCX9m0FGa_G_7pIuu0TZ9xwFXzah7szOqkzzJGDe4vEh/s1600/network.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4PL-_UQ1Yc-1UXUv0S1U28O7dIwzqEj8LwSIttv-d7ckg9awMv654L1i6CnSi0ZmRUheEpCM-O_pSqvPO5EvS-xXXTw1CIYdLukzyM4FNDTNxnt1igjOSM7QDwsgtb2EByl42YAkCAoJMnCX9m0FGa_G_7pIuu0TZ9xwFXzah7szOqkzzJGDe4vEh/s1600/network.png"
+        },
+        {
+          "id": "https://thehackernews.com/2023/04/rorschach-ransomware-emerges-experts.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Cybersecurity researchers have taken the wraps off a previously undocumented ransomware strain called Rorschach that's both sophisticated and fast.\n\"What makes Rorschach stand out from other ransomware strains is its high level of customization and its technically unique features that have not been seen before in ransomware,\" Check Point Research said in a new report. \"In fact, Rorschach is one",
+          "link": "https://thehackernews.com/2023/04/rorschach-ransomware-emerges-experts.html",
+          "publishedOn": "2023-04-04T13:16:00.000Z",
+          "wordCount": null,
+          "title": "Rorschach Ransomware Emerges: Experts Warn of Advanced Evasion Strategies",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgYxGRPmsBU7IsuIsPHE-uqeYlG06tzKlpiLc0U40ADe4mX29K06HTXnV0VVdfKRCUrWvnKwVhp8XSDO-EjE4cPkn3ppwl84qeoLRmZuDbr21RMJrSJC33QI9C58cQOfTO9wBaTQQAjuPIFayqMz-qcE2YVuwYRgRgpkofS5CbsJIM_2g_po5Irt2EV/s1600/ransomware.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgYxGRPmsBU7IsuIsPHE-uqeYlG06tzKlpiLc0U40ADe4mX29K06HTXnV0VVdfKRCUrWvnKwVhp8XSDO-EjE4cPkn3ppwl84qeoLRmZuDbr21RMJrSJC33QI9C58cQOfTO9wBaTQQAjuPIFayqMz-qcE2YVuwYRgRgpkofS5CbsJIM_2g_po5Irt2EV/s1600/ransomware.png"
+        },
+        {
+          "id": "https://thehackernews.com/2023/04/new-rilide-malware-targeting-chromium.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Chromium-based web browsers are the target of a new malware called Rilide that masquerades itself as a seemingly legitimate extension to harvest sensitive data and siphon cryptocurrency.\n\"Rilide malware is disguised as a legitimate Google Drive extension and enables threat actors to carry out a broad spectrum of malicious activities, including monitoring \nbrowsing history, taking screenshots,",
+          "link": "https://thehackernews.com/2023/04/new-rilide-malware-targeting-chromium.html",
+          "publishedOn": "2023-04-04T13:07:00.000Z",
+          "wordCount": null,
+          "title": "New Rilide Malware Targeting Chromium-Based Browsers to Steal Cryptocurrency",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEid6TC1yW7nlcf5Nzo877tzuOP0MBy23HPXqVuyspKMbu0h-Upo1zYbDu7LBe4CLcKua0uPJ1GEpAZvKdWwgtFfIP6eeoZlycFJ4F3g3M7htYhP5vZnCDXCpXo_ZJi8yqWg8dDrAfQ0ess0hWIHZlRaGJDAdzmupohNOm0djEY1AU0OSg-Eyy3WDxXx/s1600/browser.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEid6TC1yW7nlcf5Nzo877tzuOP0MBy23HPXqVuyspKMbu0h-Upo1zYbDu7LBe4CLcKua0uPJ1GEpAZvKdWwgtFfIP6eeoZlycFJ4F3g3M7htYhP5vZnCDXCpXo_ZJi8yqWg8dDrAfQ0ess0hWIHZlRaGJDAdzmupohNOm0djEY1AU0OSg-Eyy3WDxXx/s1600/browser.png"
+        },
         {
           "id": "https://thehackernews.com/2023/04/arid-viper-hacking-group-using-upgraded.html",
           "author": "info@thehackernews.com (The Hacker News)",
