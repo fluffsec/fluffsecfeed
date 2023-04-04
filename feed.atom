@@ -2,10 +2,33 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-04-04T02:08:33.141Z</updated>
+    <updated>2023-04-04T07:16:49.982Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Tightens OneNote Security by Auto-Blocking 120 Risky File Extensions]]></title>
+        <id>https://thehackernews.com/2023/04/microsoft-tightens-onenote-security-by.html</id>
+        <link href="https://thehackernews.com/2023/04/microsoft-tightens-onenote-security-by.html"/>
+        <updated>2023-04-04T04:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft has announced plans to automatically block embedded files with "dangerous extensions" in OneNote following reports that the note-taking service is being increasingly abused for malware delivery.
+Up until now, users were shown a dialog warning them that opening such attachments could harm their computer and data, but it was possible to dismiss the prompt and open the files.
+That's going]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cryptocurrency Companies Targeted in Sophisticated 3CX Supply Chain Attack]]></title>
+        <id>https://thehackernews.com/2023/04/cryptocurrency-companies-targeted-in.html</id>
+        <link href="https://thehackernews.com/2023/04/cryptocurrency-companies-targeted-in.html"/>
+        <updated>2023-04-04T03:54:00.000Z</updated>
+        <summary type="html"><![CDATA[The adversary behind the supply chain attack targeting 3CX deployed a second-stage implant specifically singling out a small number of cryptocurrency companies.
+Russian cybersecurity firm Kaspersky, which has been internally tracking the versatile backdoor under the name Gopuram since 2020, said it observed an increase in the number of infections in March 2023 coinciding with the 3CX breach.]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[DoJ Recovers $112M in Crypto Stolen With Romance Scams]]></title>
         <id>https://www.darkreading.com/attacks-breaches/doj-112m-crypto-stolen-romance-scams</id>
