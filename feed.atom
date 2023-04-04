@@ -2,10 +2,79 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-04-04T07:16:49.982Z</updated>
+    <updated>2023-04-04T13:22:20.585Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[CyberheistNews Vol 13 #14 [Eyes on the Prize] How Crafty Cons Attempted a 36 Million Vendor Email Heist]]></title>
+        <id>https://blog.knowbe4.com/cyberheistnews-vol-13-14-eyes-on-the-price-how-crafty-cons-attempted-a-36-million-vendor-email-heist</id>
+        <link href="https://blog.knowbe4.com/cyberheistnews-vol-13-14-eyes-on-the-price-how-crafty-cons-attempted-a-36-million-vendor-email-heist"/>
+        <updated>2023-04-04T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[CyberheistNews Vol 13 #14  |   April 4th, 2023  
+ 
+ 
+   
+ 
+ 
+  
+[Eyes on the Prize] How Crafty Cons Attempted a 36 Million Vendor Email Heist
+ 
+  
+The details in this thwarted VEC attack demonstrate how the use of just a few key details can both establish credibility and indicate the entire thing is a scam.
+ 
+  
+It's not every day you hear about a purely social engineering-based scam taking place that is looking to run away with tens of millions of dollars. But, according to security researchers at Abnormal Security, cybercriminals are becoming brazen and are taking their shots at very large prizes.
+ 
+  
+This attack begins with a case of VEC – where a domain is impersonated. In the case of this attack, the impersonated vendor's domain (which had a .com top level domain) was replaced…]]></summary>
+        <author>
+            <name>Stu Sjouwerman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Social Engineering Attacks Utilizing Generative AI Increase by 135%]]></title>
+        <id>https://blog.knowbe4.com/generative-ai-social-engineering-attacks</id>
+        <link href="https://blog.knowbe4.com/generative-ai-social-engineering-attacks"/>
+        <updated>2023-04-04T12:08:53.000Z</updated>
+        <summary type="html"><![CDATA[New insights from cybersecurity artificial intelligence (AI) company Darktrace shows a 135% increase in novel social engineering attacks from Generative AI.]]></summary>
+        <author>
+            <name>Stu Sjouwerman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Designing Tabletop Exercises That Actually Thwart Attacks]]></title>
+        <id>https://www.darkreading.com/edge-articles/designing-tabletop-exercises-truly-help-thwart-cyberattacks</id>
+        <link href="https://www.darkreading.com/edge-articles/designing-tabletop-exercises-truly-help-thwart-cyberattacks"/>
+        <updated>2023-04-04T12:00:30.000Z</updated>
+        <summary type="html"><![CDATA[Have you ever wondered how they design blue team exercises? One ransomware and cyber extortion simulation demonstrates the best practices.]]></summary>
+        <author>
+            <name>Nate Nelson, Contributing Writer, Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Arid Viper Hacking Group Using Upgraded Malware in Middle East Cyber Attacks]]></title>
+        <id>https://thehackernews.com/2023/04/arid-viper-hacking-group-using-upgraded.html</id>
+        <link href="https://thehackernews.com/2023/04/arid-viper-hacking-group-using-upgraded.html"/>
+        <updated>2023-04-04T10:08:00.000Z</updated>
+        <summary type="html"><![CDATA[The threat actor known as Arid Viper has been observed using refreshed variants of its malware toolkit in its attacks targeting Palestinian entities since September 2022.
+Symantec, which is tracking the group under its insect-themed moniker Mantis, said the adversary is "going to great lengths to maintain a persistent presence on targeted networks."
+Also known by the names APT-C-23 and Desert]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Think Before You Share the Link: SaaS in the Real World]]></title>
+        <id>https://thehackernews.com/2023/04/think-before-you-share-link-saas-in.html</id>
+        <link href="https://thehackernews.com/2023/04/think-before-you-share-link-saas-in.html"/>
+        <updated>2023-04-04T09:54:00.000Z</updated>
+        <summary type="html"><![CDATA[Collaboration sits at the essence of SaaS applications. The word, or some form of it, appears in the top two headlines on Google Workspace’s homepage. It can be found six times on Microsoft 365’s homepage, three times on Box, and once on Workday. Visit nearly any SaaS site, and odds are ‘collaboration’ will appear as part of the app’s key selling point. 
+By sitting on the cloud, content within]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Microsoft Tightens OneNote Security by Auto-Blocking 120 Risky File Extensions]]></title>
         <id>https://thehackernews.com/2023/04/microsoft-tightens-onenote-security-by.html</id>
