@@ -2,10 +2,92 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-04-05T13:30:54.319Z</updated>
+    <updated>2023-04-05T19:17:19.205Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA["We are hurtling toward a glitchy, spammy, scammy, AI-powered internet."]]></title>
+        <id>https://blog.knowbe4.com/we-are-hurtling-toward-a-glitchy-spammy-scammy-ai-powered-internet</id>
+        <link href="https://blog.knowbe4.com/we-are-hurtling-toward-a-glitchy-spammy-scammy-ai-powered-internet"/>
+        <updated>2023-04-05T19:06:23.000Z</updated>
+        <summary type="html"><![CDATA[This MIT Technology Review headline caught my eye, and I think you understand why. They described a new type of exploit called prompt injection.]]></summary>
+        <author>
+            <name>Stu Sjouwerman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FBI: 870 Critical Infrastructure Organizations Were the Victim of Ransomware in 2022]]></title>
+        <id>https://blog.knowbe4.com/critical-infrastructure-ransomware-victims</id>
+        <link href="https://blog.knowbe4.com/critical-infrastructure-ransomware-victims"/>
+        <updated>2023-04-05T17:32:20.000Z</updated>
+        <summary type="html"><![CDATA[The FBI’s newly-released report shows just how ransomware continues to plague critical infrastructure sectors, despite the U.S. government’s recent efforts to stop these attacks.]]></summary>
+        <author>
+            <name>Stu Sjouwerman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Researcher Tricks ChatGPT into Building Undetectable Steganography Malware]]></title>
+        <id>https://www.darkreading.com/attacks-breaches/researcher-tricks-chatgpt-undetectable-steganography-malware</id>
+        <link href="https://www.darkreading.com/attacks-breaches/researcher-tricks-chatgpt-undetectable-steganography-malware"/>
+        <updated>2023-04-05T16:20:00.000Z</updated>
+        <summary type="html"><![CDATA[Using only ChatGPT prompts, a Forcepoint researcher convinced the AI to create malware for finding and exfiltrating specific documents, despite its directive to refuse malicious requests.]]></summary>
+        <author>
+            <name>Jai Vijayan, Contributing Writer, Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[That’s Not Actually Mr. Musk, That's a Scam]]></title>
+        <id>https://blog.knowbe4.com/thats-not-mr.-musk-scam</id>
+        <link href="https://blog.knowbe4.com/thats-not-mr.-musk-scam"/>
+        <updated>2023-04-05T15:43:02.000Z</updated>
+        <summary type="html"><![CDATA[A school principal in Volusia County, Florida has resigned after sending $100,000 to a scammer posing as Elon Musk, WESH 2 News reports. Dr. Jan McGee from the Burns Science and Technology Charter School had been in communication with the individual for four months, even though her colleagues warned her that it was a scam.]]></summary>
+        <author>
+            <name>Stu Sjouwerman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FBI Seizes Genesis Cybercriminal Marketplace in 'Operation Cookie Monster']]></title>
+        <id>https://www.darkreading.com/vulnerabilities-threats/fbi-seizes-genesis-cybercriminal-marketplace-operation-cookie-monster</id>
+        <link href="https://www.darkreading.com/vulnerabilities-threats/fbi-seizes-genesis-cybercriminal-marketplace-operation-cookie-monster"/>
+        <updated>2023-04-05T15:24:40.000Z</updated>
+        <summary type="html"><![CDATA[The homepage of a widely used Dark Web forum for stolen cookies and other compromised data has been replaced by a seizure notice by the US federal law enforcement agency.]]></summary>
+        <author>
+            <name>Elizabeth Montalbano, Contributor, Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[QNAP Zero-Days Leave 80K Devices Vulnerable to Cyberattack]]></title>
+        <id>https://www.darkreading.com/vulnerabilities-threats/qnap-zero-days-80k-devices-vulnerable-cyberattack</id>
+        <link href="https://www.darkreading.com/vulnerabilities-threats/qnap-zero-days-80k-devices-vulnerable-cyberattack"/>
+        <updated>2023-04-05T15:23:00.000Z</updated>
+        <summary type="html"><![CDATA[Multiple QNAP operating systems are affected, including QTS, QuTS hero, QuTScloud, and QVP Pro appliances, and some don't yet have patches available.]]></summary>
+        <author>
+            <name>Becky Bracken, Editor, Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CryptoClippy: New Clipper Malware Targeting Portuguese Cryptocurrency Users]]></title>
+        <id>https://thehackernews.com/2023/04/cryptoclippy-new-clipper-malware.html</id>
+        <link href="https://thehackernews.com/2023/04/cryptoclippy-new-clipper-malware.html"/>
+        <updated>2023-04-05T14:17:00.000Z</updated>
+        <summary type="html"><![CDATA[Portuguese users are being targeted by a new malware codenamed CryptoClippy that's capable of stealing cryptocurrency as part of a malvertising campaign.
+The activity leverages SEO poisoning techniques to entice users searching for "WhatsApp web" to rogue domains hosting the malware, Palo Alto Networks Unit 42 said in a new report published today. 
+CryptoClippy, a C-based executable, is a type]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[3 Fronts in the Battle for Digital Identity]]></title>
+        <id>https://www.darkreading.com/endpoint/3-fronts-in-the-battle-for-digital-identity</id>
+        <link href="https://www.darkreading.com/endpoint/3-fronts-in-the-battle-for-digital-identity"/>
+        <updated>2023-04-05T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[As both digital protection strategies and digital attacks become more sophisticated, organizations that know the terrain have a better chance of navigating it.]]></summary>
+        <author>
+            <name>Vyacheslav Zholudev, Co-Founder &amp; CTO, Sumsub</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hackers Using Self-Extracting Archives Exploit for Stealthy Backdoor Attacks]]></title>
         <id>https://thehackernews.com/2023/04/hackers-using-self-extracting-archives.html</id>
@@ -4973,17 +5055,6 @@ The post Theme park giant Parques Reunidos hit by a ransomware cyber attack appe
         <summary type="html"><![CDATA[An older version of Shein's Android application suffered from a bug that periodically captured and transmitted clipboard contents to a remote server.
 The Microsoft 365 Defender Research Team said it discovered the problem in version 7.9.2 of the app that was released on December 16, 2021. The issue has since been addressed as of May 2022.
 Shein, originally named ZZKKO, is a Chinese online fast]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LastPass Hack: Engineer's Failure to Update Plex Software Led to Massive Data Breach]]></title>
-        <id>https://thehackernews.com/2023/03/lastpass-hack-engineers-failure-to.html</id>
-        <link href="https://thehackernews.com/2023/03/lastpass-hack-engineers-failure-to.html"/>
-        <updated>2023-03-07T06:21:00.000Z</updated>
-        <summary type="html"><![CDATA[The massive breach at LastPass was the result of one of its engineers failing to update Plex on their home computer, in what's a sobering reminder of the dangers of failing to keep software up-to-date.
-The embattled password management service last week revealed how unidentified actors leveraged information stolen from an earlier incident that took place prior to August 12, 2022, along with]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
