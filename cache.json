@@ -441,6 +441,21 @@
       "siteUrl": "https://www.darkreading.com",
       "articles": [
         {
+          "id": "https://www.darkreading.com/dr-tech/new-grc-platform-trustregister-links-risk-to-revenue-impact",
+          "author": "Dark Reading Staff, Dark Reading",
+          "description": "The application allows companies to proactively surface risks and remediation plans via programmatic risk assessments.",
+          "link": "https://www.darkreading.com/dr-tech/new-grc-platform-trustregister-links-risk-to-revenue-impact",
+          "publishedOn": "2023-04-05T00:00:00.000Z",
+          "wordCount": 12094,
+          "title": "New GRC Platform TrustRegister Links Risk to Revenue Impact",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blte161b23f0fd3a84b/60b1ea374e7eb868c4c6a293/dr_staff_125x125.jpg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blte161b23f0fd3a84b/60b1ea374e7eb868c4c6a293/dr_staff_125x125.jpg"
+        },
+        {
           "id": "https://www.darkreading.com/threat-intelligence/cybereason-secures-100-million-in-funding-led-by-softbank-corp-",
           "author": null,
           "description": "Cybereason announces additional funding led by Softbank Corp.",
@@ -3324,51 +3339,6 @@
           "wordCount": 12334,
           "title": "Cyber Security Works to Rebrand As Securin Inc.",
           "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
-        },
-        {
-          "id": "https://www.darkreading.com/emerging-tech/machine-learning-improves-prediction-of-exploited-vulnerabilities",
-          "author": "Robert Lemos, Contributing Writer, Dark Reading",
-          "description": "The third iteration of the Exploit Prediction Scoring System (EPSS) performs 82% better than previous versions, giving companies a better tool for evaluating vulnerabilities and prioritizing patching.",
-          "link": "https://www.darkreading.com/emerging-tech/machine-learning-improves-prediction-of-exploited-vulnerabilities",
-          "publishedOn": "2023-03-07T00:46:00.000Z",
-          "wordCount": 14564,
-          "title": "Machine Learning Improves Prediction of Exploited Vulnerabilities",
-          "enclosure": {
-            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt58481326324d6911/60b1e9a55d34de550780a990/Robert-Lemos.png",
-            "type": "image/*",
-            "length": "0"
-          },
-          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt58481326324d6911/60b1e9a55d34de550780a990/Robert-Lemos.png"
-        },
-        {
-          "id": "https://www.darkreading.com/threat-intelligence/shein-shopping-app-glitch-copies-android-clipboard-context",
-          "author": "Dark Reading Staff, Dark Reading",
-          "description": "The Android app unnecessarily accessed clipboard device contents, which often includes passwords and other sensitive data.",
-          "link": "https://www.darkreading.com/threat-intelligence/shein-shopping-app-glitch-copies-android-clipboard-context",
-          "publishedOn": "2023-03-06T21:30:00.000Z",
-          "wordCount": 11109,
-          "title": "Shein Shopping App Glitch Copies Android Clipboard Contents",
-          "enclosure": {
-            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blte161b23f0fd3a84b/60b1ea374e7eb868c4c6a293/dr_staff_125x125.jpg",
-            "type": "image/*",
-            "length": "0"
-          },
-          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blte161b23f0fd3a84b/60b1ea374e7eb868c4c6a293/dr_staff_125x125.jpg"
-        },
-        {
-          "id": "https://www.darkreading.com/threat-intelligence/police-raid-alleged-core-members-of-doppelpaymer-ransomware-gang",
-          "author": "Nate Nelson, Contributing Writer, Dark Reading",
-          "description": "This is the latest in a line of law-enforcement actions busting up the ransomware scene.",
-          "link": "https://www.darkreading.com/threat-intelligence/police-raid-alleged-core-members-of-doppelpaymer-ransomware-gang",
-          "publishedOn": "2023-03-06T19:25:00.000Z",
-          "wordCount": 12732,
-          "title": "Police Raid Rounds Up Core Members of DoppelPaymer Ransomware Gang",
-          "enclosure": {
-            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt91e5f91ce3f0cdd9/63d0288ac98dbe55ece1d0a9/Nate-Nelson_(1).jpg",
-            "type": "image/*",
-            "length": "0"
-          },
-          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt91e5f91ce3f0cdd9/63d0288ac98dbe55ece1d0a9/Nate-Nelson_(1).jpg"
         }
       ]
     },
@@ -3440,6 +3410,26 @@
       "feedUrl": "https://blog.knowbe4.com/rss.xml",
       "siteUrl": "https://blog.knowbe4.com",
       "articles": [
+        {
+          "id": "https://blog.knowbe4.com/ransomware-mitigation-master-class",
+          "author": "Stu Sjouwerman",
+          "description": "Cybercriminals have become thoughtful about ransomware attacks; taking time to maximize your organization’s potential damage and their payoff. Protecting your network from this growing threat is more important than ever. And nobody knows this more than Roger Grimes, Data-Driven Defense Evangelist at KnowBe4.",
+          "link": "https://blog.knowbe4.com/ransomware-mitigation-master-class",
+          "publishedOn": "2023-04-05T12:00:00.000Z",
+          "wordCount": 2074,
+          "title": "A Master Class on IT Security: Roger Grimes Teaches Ransomware Mitigation",
+          "imageUrl": "https://blog.knowbe4.com/hubfs/Roger-Ransomware-SOCIAL-LIVE-ET.jpg#keepProtocol"
+        },
+        {
+          "id": "https://blog.knowbe4.com/ransomware-recovery-time",
+          "author": "Javvad Malik",
+          "description": "When I was in my 30s, I woke up one morning with a terrible pain shooting down one side of my back and around the side. The pain was so terrible, I could barely move, and was only able to move my neck slightly to look down, convinced that I would see myself impaled by a sword.",
+          "link": "https://blog.knowbe4.com/ransomware-recovery-time",
+          "publishedOn": "2023-04-05T12:00:00.000Z",
+          "wordCount": 2543,
+          "title": "How Long Does It Take To Recover From a Ransomware Attack?",
+          "imageUrl": "https://blog.knowbe4.com/hubfs/Social%20Image%20Repository/Evangelist%20Blog%20Social%20Graphics/Evangelists-Javvad%20Malik.jpg#keepProtocol"
+        },
         {
           "id": "https://blog.knowbe4.com/phony-ransomware-scareware",
           "author": "Stu Sjouwerman",
@@ -4147,6 +4137,70 @@
       "feedUrl": "https://thehackernews.com/feeds/posts/default",
       "siteUrl": "https://thehackernews.com",
       "articles": [
+        {
+          "id": "https://thehackernews.com/2023/04/hackers-using-self-extracting-archives.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "An unknown threat actor used a malicious self-extracting archive (SFX) file in an attempt to establish persistent backdoor access to a victim's environment, new findings from CrowdStrike show.\nSFX files are capable of extracting the data contained within them without the need for dedicated software to display the file contents. It achieves this by including a decompressor stub, a piece of code",
+          "link": "https://thehackernews.com/2023/04/hackers-using-self-extracting-archives.html",
+          "publishedOn": "2023-04-05T12:36:00.000Z",
+          "wordCount": null,
+          "title": "Hackers Using Self-Extracting Archives Exploit for Stealthy Backdoor Attacks",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4Z5-d_OfwxFWBpZcHz-k7LJUf7BsWf74IT3quXGNfe9i8kIB0iQ0VMTNTiQNlGqnzLiG4f3225e2bnxeDUu1jS876IePc1LH0wI-KcgDoUiYG5pOzdOnaGsi3qx8bEGM40eC7SjbpGp84FMBmEThOw4nrnVZeJIqRDkI4VmMRfP1FMN4ovBk-pK_0/s1600/hacking.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4Z5-d_OfwxFWBpZcHz-k7LJUf7BsWf74IT3quXGNfe9i8kIB0iQ0VMTNTiQNlGqnzLiG4f3225e2bnxeDUu1jS876IePc1LH0wI-KcgDoUiYG5pOzdOnaGsi3qx8bEGM40eC7SjbpGp84FMBmEThOw4nrnVZeJIqRDkI4VmMRfP1FMN4ovBk-pK_0/s1600/hacking.png"
+        },
+        {
+          "id": "https://thehackernews.com/2023/04/google-tag-warns-of-north-korean-linked.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "A North Korean government-backed threat actor has been linked to attacks targeting government and military personnel, think tanks, policy makers, academics, and researchers in South Korea and the U.S.\nGoogle's Threat Analysis Group (TAG) is tracking the cluster under the name ARCHIPELAGO, which it said is a subset of another threat group tracked by Mandiant under the name APT43.\nThe tech giant",
+          "link": "https://thehackernews.com/2023/04/google-tag-warns-of-north-korean-linked.html",
+          "publishedOn": "2023-04-05T12:19:00.000Z",
+          "wordCount": null,
+          "title": "Google TAG Warns of North Korean-linked ARCHIPELAGO Cyberattacks",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjWbgyQSGvNN6raC3WUXbIrA_ZrT6riBeAUjXbzh-5S3nx35kV4EkoWAcsVSH__BWUDAOBopvHDSdZVTkKfb8CDIISk3Aap4mGhuezkJ0Qbd5oONWobkgAUYLsmf6vga_ATkfrCCMAyorMX4Y9wo23O_pawv6dMr30E9mJaiWbtsU-O1KsjKYljJQPR/s1600/hackers.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjWbgyQSGvNN6raC3WUXbIrA_ZrT6riBeAUjXbzh-5S3nx35kV4EkoWAcsVSH__BWUDAOBopvHDSdZVTkKfb8CDIISk3Aap4mGhuezkJ0Qbd5oONWobkgAUYLsmf6vga_ATkfrCCMAyorMX4Y9wo23O_pawv6dMr30E9mJaiWbtsU-O1KsjKYljJQPR/s1600/hackers.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2023/04/protect-your-company-ransomware.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Every year hundreds of millions of malware attacks occur worldwide, and every year businesses deal with the impact of viruses, worms, keyloggers, and ransomware. Malware is a pernicious threat and the biggest driver for businesses to look for cybersecurity solutions. \nNaturally, businesses want to find products that will stop malware in its tracks, and so they search for solutions to do that.",
+          "link": "https://thehackernews.com/2023/04/protect-your-company-ransomware.html",
+          "publishedOn": "2023-04-05T11:49:00.000Z",
+          "wordCount": null,
+          "title": "Protect Your Company: Ransomware Prevention Made Easy",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEirkvUZgsAHZQyPya3GB8CA5fKvXRvarH29KrJnf7PZxfRYvnmGrlu4JncX-krxMejmlpWkgfhkzgUZvoz_dizfoOFeC4KViC_vnZtm8z0OQTcxtQjA0Oo58bwt-dmjaEHI-GA94t8QklgdM_-rDV9pJFHNHwKiOEcLqn-vXYTRQzaJ87GtlKL_hcJVtQ/s1600/peri.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEirkvUZgsAHZQyPya3GB8CA5fKvXRvarH29KrJnf7PZxfRYvnmGrlu4JncX-krxMejmlpWkgfhkzgUZvoz_dizfoOFeC4KViC_vnZtm8z0OQTcxtQjA0Oo58bwt-dmjaEHI-GA94t8QklgdM_-rDV9pJFHNHwKiOEcLqn-vXYTRQzaJ87GtlKL_hcJVtQ/s1600/peri.png"
+        },
+        {
+          "id": "https://thehackernews.com/2023/04/typhon-reborn-stealer-malware.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "The threat actor behind the information-stealing malware known as Typhon Reborn has resurfaced with an updated version (V2) that packs in improved capabilities to evade detection and resist analysis.\nThe new version is offered for sale on the criminal underground for $59 per month, $360 per year, or alternatively, for $540 for a lifetime subscription.\n\"The stealer can harvest and exfiltrate",
+          "link": "https://thehackernews.com/2023/04/typhon-reborn-stealer-malware.html",
+          "publishedOn": "2023-04-05T08:35:00.000Z",
+          "wordCount": null,
+          "title": "Typhon Reborn Stealer Malware Resurfaces with Advanced Evasion Techniques",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0sWhixeWqlBHYfIETF7knFsorRIFEpyLNA8cb1LSJZEnYAfrqDcKnMOWvKDpeebHpe_IMnUCegAejgIR4M_J4igLisa6MwL5pLDISYLz-aFI8fGuSj7JFSDz1ZawXj7tQ6g3IBBnb3hPYG43EH8Zz7go17oqdo5a6Wxd3Bn-05DQTU_JbNYDhfsVW/s1600/stealer-malware.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0sWhixeWqlBHYfIETF7knFsorRIFEpyLNA8cb1LSJZEnYAfrqDcKnMOWvKDpeebHpe_IMnUCegAejgIR4M_J4igLisa6MwL5pLDISYLz-aFI8fGuSj7JFSDz1ZawXj7tQ6g3IBBnb3hPYG43EH8Zz7go17oqdo5a6Wxd3Bn-05DQTU_JbNYDhfsVW/s1600/stealer-malware.png"
+        },
         {
           "id": "https://thehackernews.com/2023/04/sorting-through-haystacks-to-find-cti.html",
           "author": "info@thehackernews.com (The Hacker News)",

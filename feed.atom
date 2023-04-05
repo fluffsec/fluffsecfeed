@@ -2,10 +2,86 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-04-05T07:17:59.000Z</updated>
+    <updated>2023-04-05T13:30:54.319Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Hackers Using Self-Extracting Archives Exploit for Stealthy Backdoor Attacks]]></title>
+        <id>https://thehackernews.com/2023/04/hackers-using-self-extracting-archives.html</id>
+        <link href="https://thehackernews.com/2023/04/hackers-using-self-extracting-archives.html"/>
+        <updated>2023-04-05T12:36:00.000Z</updated>
+        <summary type="html"><![CDATA[An unknown threat actor used a malicious self-extracting archive (SFX) file in an attempt to establish persistent backdoor access to a victim's environment, new findings from CrowdStrike show.
+SFX files are capable of extracting the data contained within them without the need for dedicated software to display the file contents. It achieves this by including a decompressor stub, a piece of code]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google TAG Warns of North Korean-linked ARCHIPELAGO Cyberattacks]]></title>
+        <id>https://thehackernews.com/2023/04/google-tag-warns-of-north-korean-linked.html</id>
+        <link href="https://thehackernews.com/2023/04/google-tag-warns-of-north-korean-linked.html"/>
+        <updated>2023-04-05T12:19:00.000Z</updated>
+        <summary type="html"><![CDATA[A North Korean government-backed threat actor has been linked to attacks targeting government and military personnel, think tanks, policy makers, academics, and researchers in South Korea and the U.S.
+Google's Threat Analysis Group (TAG) is tracking the cluster under the name ARCHIPELAGO, which it said is a subset of another threat group tracked by Mandiant under the name APT43.
+The tech giant]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Master Class on IT Security: Roger Grimes Teaches Ransomware Mitigation]]></title>
+        <id>https://blog.knowbe4.com/ransomware-mitigation-master-class</id>
+        <link href="https://blog.knowbe4.com/ransomware-mitigation-master-class"/>
+        <updated>2023-04-05T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Cybercriminals have become thoughtful about ransomware attacks; taking time to maximize your organization’s potential damage and their payoff. Protecting your network from this growing threat is more important than ever. And nobody knows this more than Roger Grimes, Data-Driven Defense Evangelist at KnowBe4.]]></summary>
+        <author>
+            <name>Stu Sjouwerman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Long Does It Take To Recover From a Ransomware Attack?]]></title>
+        <id>https://blog.knowbe4.com/ransomware-recovery-time</id>
+        <link href="https://blog.knowbe4.com/ransomware-recovery-time"/>
+        <updated>2023-04-05T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[When I was in my 30s, I woke up one morning with a terrible pain shooting down one side of my back and around the side. The pain was so terrible, I could barely move, and was only able to move my neck slightly to look down, convinced that I would see myself impaled by a sword.]]></summary>
+        <author>
+            <name>Javvad Malik</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Protect Your Company: Ransomware Prevention Made Easy]]></title>
+        <id>https://thehackernews.com/2023/04/protect-your-company-ransomware.html</id>
+        <link href="https://thehackernews.com/2023/04/protect-your-company-ransomware.html"/>
+        <updated>2023-04-05T11:49:00.000Z</updated>
+        <summary type="html"><![CDATA[Every year hundreds of millions of malware attacks occur worldwide, and every year businesses deal with the impact of viruses, worms, keyloggers, and ransomware. Malware is a pernicious threat and the biggest driver for businesses to look for cybersecurity solutions. 
+Naturally, businesses want to find products that will stop malware in its tracks, and so they search for solutions to do that.]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Typhon Reborn Stealer Malware Resurfaces with Advanced Evasion Techniques]]></title>
+        <id>https://thehackernews.com/2023/04/typhon-reborn-stealer-malware.html</id>
+        <link href="https://thehackernews.com/2023/04/typhon-reborn-stealer-malware.html"/>
+        <updated>2023-04-05T08:35:00.000Z</updated>
+        <summary type="html"><![CDATA[The threat actor behind the information-stealing malware known as Typhon Reborn has resurfaced with an updated version (V2) that packs in improved capabilities to evade detection and resist analysis.
+The new version is offered for sale on the criminal underground for $59 per month, $360 per year, or alternatively, for $540 for a lifetime subscription.
+"The stealer can harvest and exfiltrate]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New GRC Platform TrustRegister Links Risk to Revenue Impact]]></title>
+        <id>https://www.darkreading.com/dr-tech/new-grc-platform-trustregister-links-risk-to-revenue-impact</id>
+        <link href="https://www.darkreading.com/dr-tech/new-grc-platform-trustregister-links-risk-to-revenue-impact"/>
+        <updated>2023-04-05T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The application allows companies to proactively surface risks and remediation plans via programmatic risk assessments.]]></summary>
+        <author>
+            <name>Dark Reading Staff, Dark Reading</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Cybereason Secures $100M in Funding Led by SoftBank Corp.]]></title>
         <id>https://www.darkreading.com/threat-intelligence/cybereason-secures-100-million-in-funding-led-by-softbank-corp-</id>
@@ -4910,36 +4986,6 @@ Shein, originally named ZZKKO, is a Chinese online fast]]></summary>
 The embattled password management service last week revealed how unidentified actors leveraged information stolen from an earlier incident that took place prior to August 12, 2022, along with]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Machine Learning Improves Prediction of Exploited Vulnerabilities]]></title>
-        <id>https://www.darkreading.com/emerging-tech/machine-learning-improves-prediction-of-exploited-vulnerabilities</id>
-        <link href="https://www.darkreading.com/emerging-tech/machine-learning-improves-prediction-of-exploited-vulnerabilities"/>
-        <updated>2023-03-07T00:46:00.000Z</updated>
-        <summary type="html"><![CDATA[The third iteration of the Exploit Prediction Scoring System (EPSS) performs 82% better than previous versions, giving companies a better tool for evaluating vulnerabilities and prioritizing patching.]]></summary>
-        <author>
-            <name>Robert Lemos, Contributing Writer, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Shein Shopping App Glitch Copies Android Clipboard Contents]]></title>
-        <id>https://www.darkreading.com/threat-intelligence/shein-shopping-app-glitch-copies-android-clipboard-context</id>
-        <link href="https://www.darkreading.com/threat-intelligence/shein-shopping-app-glitch-copies-android-clipboard-context"/>
-        <updated>2023-03-06T21:30:00.000Z</updated>
-        <summary type="html"><![CDATA[The Android app unnecessarily accessed clipboard device contents, which often includes passwords and other sensitive data.]]></summary>
-        <author>
-            <name>Dark Reading Staff, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Police Raid Rounds Up Core Members of DoppelPaymer Ransomware Gang]]></title>
-        <id>https://www.darkreading.com/threat-intelligence/police-raid-alleged-core-members-of-doppelpaymer-ransomware-gang</id>
-        <link href="https://www.darkreading.com/threat-intelligence/police-raid-alleged-core-members-of-doppelpaymer-ransomware-gang"/>
-        <updated>2023-03-06T19:25:00.000Z</updated>
-        <summary type="html"><![CDATA[This is the latest in a line of law-enforcement actions busting up the ransomware scene.]]></summary>
-        <author>
-            <name>Nate Nelson, Contributing Writer, Dark Reading</name>
         </author>
     </entry>
 </feed>
