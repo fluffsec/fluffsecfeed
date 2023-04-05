@@ -441,6 +441,86 @@
       "siteUrl": "https://www.darkreading.com",
       "articles": [
         {
+          "id": "https://www.darkreading.com/threat-intelligence/cybereason-secures-100-million-in-funding-led-by-softbank-corp-",
+          "author": null,
+          "description": "Cybereason announces additional funding led by Softbank Corp.",
+          "link": "https://www.darkreading.com/threat-intelligence/cybereason-secures-100-million-in-funding-led-by-softbank-corp-",
+          "publishedOn": "2023-04-04T22:28:00.000Z",
+          "wordCount": 14329,
+          "title": "Cybereason Secures $100M in Funding Led by SoftBank Corp.",
+          "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/ics-ot/industrial-defender-launches-phoenix-ot-visibility-security-solution-for-small-to-midsized-operations",
+          "author": null,
+          "description": "Phoenix addresses the critical need for smaller operators to secure their operations with an easy-to-use and cost-effective OT security solution.",
+          "link": "https://www.darkreading.com/ics-ot/industrial-defender-launches-phoenix-ot-visibility-security-solution-for-small-to-midsized-operations",
+          "publishedOn": "2023-04-04T22:25:00.000Z",
+          "wordCount": 13817,
+          "title": "Industrial Defender Launches Phoenix: OT Visibility & Security Solution for Small to Midsized Operations",
+          "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/threat-intelligence/cardinalops-launches-mitre-att-ck-security-layers-for-measuring-detection-posture",
+          "author": null,
+          "description": "Enables enterprises to operationalize MITRE ATT&CK and build a multi-layered, threat-informed defense to eliminate gaps based on organizational risk and priorities.",
+          "link": "https://www.darkreading.com/threat-intelligence/cardinalops-launches-mitre-att-ck-security-layers-for-measuring-detection-posture",
+          "publishedOn": "2023-04-04T22:18:00.000Z",
+          "wordCount": 14315,
+          "title": "CardinalOps Launches MITRE ATT&CK Security Layers for Measuring Detection Posture",
+          "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/cloud/f5-safeguards-digital-services-with-new-ai-powered-app-and-api-security-capabilities",
+          "author": null,
+          "description": "Enhanced API defenses, granular machine learning capabilities, and new managed service offerings provide comprehensive protection across distributed environments.",
+          "link": "https://www.darkreading.com/cloud/f5-safeguards-digital-services-with-new-ai-powered-app-and-api-security-capabilities",
+          "publishedOn": "2023-04-04T22:03:00.000Z",
+          "wordCount": 16265,
+          "title": "F5 Safeguards Digital Services With New AI-Powered App and API Security Capabilities",
+          "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/attacks-breaches/law-firm-uber-loses-drivers-data-hackers-breach",
+          "author": "Robert Lemos, Contributing Writer, Dark Reading",
+          "description": "Uber gave sensitive data on drivers to a law firm representing the company in legal actions, but the data appears to not have had adequate security protections.",
+          "link": "https://www.darkreading.com/attacks-breaches/law-firm-uber-loses-drivers-data-hackers-breach",
+          "publishedOn": "2023-04-04T21:50:00.000Z",
+          "wordCount": 14454,
+          "title": "Law Firm for Uber Loses Drivers' Data to Hackers in Yet Another Breach",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt58481326324d6911/60b1e9a55d34de550780a990/Robert-Lemos.png",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt58481326324d6911/60b1e9a55d34de550780a990/Robert-Lemos.png"
+        },
+        {
+          "id": "https://www.darkreading.com/application-security/efile-tax-return-software-malware",
+          "author": "Dark Reading Staff, Dark Reading",
+          "description": "In the height of tax-return season, a popular tax prep software service leaves a malicious JavaScript file online for weeks.",
+          "link": "https://www.darkreading.com/application-security/efile-tax-return-software-malware",
+          "publishedOn": "2023-04-04T21:22:00.000Z",
+          "wordCount": 12452,
+          "title": "eFile Tax Return Software Found Serving Up Malware",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blte161b23f0fd3a84b/60b1ea374e7eb868c4c6a293/dr_staff_125x125.jpg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blte161b23f0fd3a84b/60b1ea374e7eb868c4c6a293/dr_staff_125x125.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/operations/akamai-launches-managed-security-service-updates-and-new-premium-offering",
+          "author": null,
+          "description": "Customers have increased access to Akamai security experts to help protect from sophisticated cyberattacks.",
+          "link": "https://www.darkreading.com/operations/akamai-launches-managed-security-service-updates-and-new-premium-offering",
+          "publishedOn": "2023-04-04T21:16:00.000Z",
+          "wordCount": 13441,
+          "title": "Akamai Launches Managed Security Service Updates and New Premium Offering",
+          "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
+        },
+        {
           "id": "https://www.darkreading.com/vulnerabilities-threats/mysterious-rorschach-ransomware-doubles-known-encryption-speeds",
           "author": "Tara Seals, Managing Editor, News, Dark Reading",
           "description": "The malware is one of the most sophisticated ransomwares ever seen in the wild, and marks a leap ahead for cybercrime.",
@@ -4144,16 +4224,6 @@
           "wordCount": 2144,
           "title": "Executive Impersonation Business Email Compromise Attacks Go Beyond English Worldwide",
           "imageUrl": "https://blog.knowbe4.com/hubfs/global-supply-chain-cyber-attacks.jpg#keepProtocol"
-        },
-        {
-          "id": "https://blog.knowbe4.com/cybersecurity-master-class-data-driven-defense",
-          "author": "Stu Sjouwerman",
-          "description": "Even the world’s most successful organizations have significant weaknesses in their cybersecurity defenses, which determined hackers can exploit at will. There’s even a term for it: Assume Breach.",
-          "link": "https://blog.knowbe4.com/cybersecurity-master-class-data-driven-defense",
-          "publishedOn": "2023-03-06T13:00:00.000Z",
-          "wordCount": 2003,
-          "title": "A Master Class on Cybersecurity: Roger Grimes Teaches Data-Driven Defense",
-          "imageUrl": "https://blog.knowbe4.com/hubfs/Data%20Driven%20Defense%20Webinar%20KnowBe4.jpg#keepProtocol"
         }
       ]
     },
@@ -6177,54 +6247,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg5ox7hG1ObRQRyCL4b7W0LybrxhyB0BAAuCfJKITan6zbSrVRdlOaL4I4elRMr8zGtqGiRU-B2TvNTgZcCyJpZyqMdZ2KNX4lSzwJu21qAsXT3m-c7yugIwcsPoawwYEv0VOHuGlTx-GrS92wFS8Vu7cMJ6fbPZHcgBJYrhctpbdO9kXgz1nT_ePCo/s1600/deep.png"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg5ox7hG1ObRQRyCL4b7W0LybrxhyB0BAAuCfJKITan6zbSrVRdlOaL4I4elRMr8zGtqGiRU-B2TvNTgZcCyJpZyqMdZ2KNX4lSzwJu21qAsXT3m-c7yugIwcsPoawwYEv0VOHuGlTx-GrS92wFS8Vu7cMJ6fbPZHcgBJYrhctpbdO9kXgz1nT_ePCo/s1600/deep.png"
-        },
-        {
-          "id": "https://thehackernews.com/2023/03/core-members-of-doppelpaymer-ransomware.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Law enforcement authorities from Germany and Ukraine have targeted suspected core members of a cybercrime group that has been behind large-scale attacks using DoppelPaymer ransomware.\nThe operation, which took place on February 28, 2023, was carried out with support from the Dutch National Police (Politie) and the U.S. Federal Bureau of Investigation (FBI), according to Europol.\nThis encompassed",
-          "link": "https://thehackernews.com/2023/03/core-members-of-doppelpaymer-ransomware.html",
-          "publishedOn": "2023-03-06T12:13:00.000Z",
-          "wordCount": null,
-          "title": "Core Members of DoppelPaymer Ransomware Gang Targeted in Germany and Ukraine",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhAq6YdZh8sNmSrzahbxZVdMYNVss5B2XhVpN0ETFma1SO4-J3egG-1n8nXyoOuz3DvHUqRE0lHJZ8M5zrNQ9SZw1IlB_3wKaDw8Vs4_YEN-8IVIPLsClw8xm1D4fM8zjQPmDW6X_W088OWWkVfTTH_umvYqmH7PZzX645lZtZS1O4cpmy3X4d1MG2y/s1600/ransomware.png"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhAq6YdZh8sNmSrzahbxZVdMYNVss5B2XhVpN0ETFma1SO4-J3egG-1n8nXyoOuz3DvHUqRE0lHJZ8M5zrNQ9SZw1IlB_3wKaDw8Vs4_YEN-8IVIPLsClw8xm1D4fM8zjQPmDW6X_W088OWWkVfTTH_umvYqmH7PZzX645lZtZS1O4cpmy3X4d1MG2y/s1600/ransomware.png"
-        },
-        {
-          "id": "https://thehackernews.com/2023/03/experts-reveal-google-cloud-platforms.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Malicious actors can take advantage of \"insufficient\" forensic visibility into Google Cloud Platform (GCP) to exfiltrate sensitive data, a new research has found.\n\"Unfortunately, GCP does not provide the level of visibility in its storage logs that is needed to allow any effective forensic investigation, making organizations blind to potential data exfiltration attacks,\" cloud incident response",
-          "link": "https://thehackernews.com/2023/03/experts-reveal-google-cloud-platforms.html",
-          "publishedOn": "2023-03-06T11:51:00.000Z",
-          "wordCount": null,
-          "title": "Experts Reveal Google Cloud Platform's Blind Spot for Data Exfiltration Attacks",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg0PMpGRIvSHCt1Hw-np7fZEO5z-QkvPpzs9xoE4bUbI-iviths4IvQa-EpUdgBublbgsXVbHsgXer72bRdOjoLqMRpIui5GP6xp2tqV2dzpOY--ZuSk0I5u7twSGD6MrjYaPyBxufp-Z5PASSnZbcaX7V0ChUQU5WhPN45Ogjloxz5soB3scGiizvD/s1600/Google.png"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg0PMpGRIvSHCt1Hw-np7fZEO5z-QkvPpzs9xoE4bUbI-iviths4IvQa-EpUdgBublbgsXVbHsgXer72bRdOjoLqMRpIui5GP6xp2tqV2dzpOY--ZuSk0I5u7twSGD6MrjYaPyBxufp-Z5PASSnZbcaX7V0ChUQU5WhPN45Ogjloxz5soB3scGiizvD/s1600/Google.png"
-        },
-        {
-          "id": "https://thehackernews.com/2023/03/experts-discover-flaw-in-us-govts.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "A group of researchers has revealed what it says is a vulnerability in a specific implementation of CRYSTALS-Kyber, one of the encryption algorithms chosen by the U.S. government as quantum-resistant last year.\nThe exploit relates to \"side-channel attacks on up to the fifth-order masked implementations of CRYSTALS-Kyber in ARM Cortex-M4 CPU,\" Elena Dubrova, Kalle Ngo, and Joel Gärtner of KTH",
-          "link": "https://thehackernews.com/2023/03/experts-discover-flaw-in-us-govts.html",
-          "publishedOn": "2023-03-06T08:30:00.000Z",
-          "wordCount": null,
-          "title": "Experts Discover Flaw in U.S. Govt's Chosen Quantum-Resistant Encryption Algorithm",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjTeVs-6hkK26bO0mqaxPJASPH1R_C6SmrsYmz578cb9UAPQ6MsQ1Rs-QbFs_VYj2NxwwQRYH3uBEtIqShtv-knncuDInHQZm2mRzt6Xh_lmanP35XI0vYAVrmHgvc8ID4itvh0xc66rYY4k94JEt_x0wrN0uv0BF3Bno-E9Sj1simME-zXPO24n5Sc9g/s1600/keys.png"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjTeVs-6hkK26bO0mqaxPJASPH1R_C6SmrsYmz578cb9UAPQ6MsQ1Rs-QbFs_VYj2NxwwQRYH3uBEtIqShtv-knncuDInHQZm2mRzt6Xh_lmanP35XI0vYAVrmHgvc8ID4itvh0xc66rYY4k94JEt_x0wrN0uv0BF3Bno-E9Sj1simME-zXPO24n5Sc9g/s1600/keys.png"
         }
       ]
     }

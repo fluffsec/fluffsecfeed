@@ -2,10 +2,80 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-04-04T19:14:31.572Z</updated>
+    <updated>2023-04-05T01:53:40.476Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Cybereason Secures $100M in Funding Led by SoftBank Corp.]]></title>
+        <id>https://www.darkreading.com/threat-intelligence/cybereason-secures-100-million-in-funding-led-by-softbank-corp-</id>
+        <link href="https://www.darkreading.com/threat-intelligence/cybereason-secures-100-million-in-funding-led-by-softbank-corp-"/>
+        <updated>2023-04-04T22:28:00.000Z</updated>
+        <summary type="html"><![CDATA[Cybereason announces additional funding led by Softbank Corp.]]></summary>
+        <author>
+            <name>Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Industrial Defender Launches Phoenix: OT Visibility & Security Solution for Small to Midsized Operations]]></title>
+        <id>https://www.darkreading.com/ics-ot/industrial-defender-launches-phoenix-ot-visibility-security-solution-for-small-to-midsized-operations</id>
+        <link href="https://www.darkreading.com/ics-ot/industrial-defender-launches-phoenix-ot-visibility-security-solution-for-small-to-midsized-operations"/>
+        <updated>2023-04-04T22:25:00.000Z</updated>
+        <summary type="html"><![CDATA[Phoenix addresses the critical need for smaller operators to secure their operations with an easy-to-use and cost-effective OT security solution.]]></summary>
+        <author>
+            <name>Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CardinalOps Launches MITRE ATT&CK Security Layers for Measuring Detection Posture]]></title>
+        <id>https://www.darkreading.com/threat-intelligence/cardinalops-launches-mitre-att-ck-security-layers-for-measuring-detection-posture</id>
+        <link href="https://www.darkreading.com/threat-intelligence/cardinalops-launches-mitre-att-ck-security-layers-for-measuring-detection-posture"/>
+        <updated>2023-04-04T22:18:00.000Z</updated>
+        <summary type="html"><![CDATA[Enables enterprises to operationalize MITRE ATT&CK and build a multi-layered, threat-informed defense to eliminate gaps based on organizational risk and priorities.]]></summary>
+        <author>
+            <name>Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[F5 Safeguards Digital Services With New AI-Powered App and API Security Capabilities]]></title>
+        <id>https://www.darkreading.com/cloud/f5-safeguards-digital-services-with-new-ai-powered-app-and-api-security-capabilities</id>
+        <link href="https://www.darkreading.com/cloud/f5-safeguards-digital-services-with-new-ai-powered-app-and-api-security-capabilities"/>
+        <updated>2023-04-04T22:03:00.000Z</updated>
+        <summary type="html"><![CDATA[Enhanced API defenses, granular machine learning capabilities, and new managed service offerings provide comprehensive protection across distributed environments.]]></summary>
+        <author>
+            <name>Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Law Firm for Uber Loses Drivers' Data to Hackers in Yet Another Breach]]></title>
+        <id>https://www.darkreading.com/attacks-breaches/law-firm-uber-loses-drivers-data-hackers-breach</id>
+        <link href="https://www.darkreading.com/attacks-breaches/law-firm-uber-loses-drivers-data-hackers-breach"/>
+        <updated>2023-04-04T21:50:00.000Z</updated>
+        <summary type="html"><![CDATA[Uber gave sensitive data on drivers to a law firm representing the company in legal actions, but the data appears to not have had adequate security protections.]]></summary>
+        <author>
+            <name>Robert Lemos, Contributing Writer, Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[eFile Tax Return Software Found Serving Up Malware]]></title>
+        <id>https://www.darkreading.com/application-security/efile-tax-return-software-malware</id>
+        <link href="https://www.darkreading.com/application-security/efile-tax-return-software-malware"/>
+        <updated>2023-04-04T21:22:00.000Z</updated>
+        <summary type="html"><![CDATA[In the height of tax-return season, a popular tax prep software service leaves a malicious JavaScript file online for weeks.]]></summary>
+        <author>
+            <name>Dark Reading Staff, Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Akamai Launches Managed Security Service Updates and New Premium Offering]]></title>
+        <id>https://www.darkreading.com/operations/akamai-launches-managed-security-service-updates-and-new-premium-offering</id>
+        <link href="https://www.darkreading.com/operations/akamai-launches-managed-security-service-updates-and-new-premium-offering"/>
+        <updated>2023-04-04T21:16:00.000Z</updated>
+        <summary type="html"><![CDATA[Customers have increased access to Akamai security experts to help protect from sophisticated cyberattacks.]]></summary>
+        <author>
+            <name>Dark Reading</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Mysterious 'Rorschach' Ransomware Doubles Known Encryption Speeds]]></title>
         <id>https://www.darkreading.com/vulnerabilities-threats/mysterious-rorschach-ransomware-doubles-known-encryption-speeds</id>
@@ -4960,50 +5030,6 @@ The elusive campaign, dubbed Hiatus by Lumen Black Lotus Labs, has been found 
         <summary type="html"><![CDATA[Deep fakes are expected to become a more prominent attack vector. Here's how to identify them.
 What are Deep Fakes?
 A deep fake is the act of maliciously replacing real images and videos with fabricated ones to perform information manipulation. To create images, video and audio that are high quality enough to be used in deep fakes, AI and ML are required. Such use of AI, ML and image replacement]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Master Class on Cybersecurity: Roger Grimes Teaches Data-Driven Defense]]></title>
-        <id>https://blog.knowbe4.com/cybersecurity-master-class-data-driven-defense</id>
-        <link href="https://blog.knowbe4.com/cybersecurity-master-class-data-driven-defense"/>
-        <updated>2023-03-06T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Even the world’s most successful organizations have significant weaknesses in their cybersecurity defenses, which determined hackers can exploit at will. There’s even a term for it: Assume Breach.]]></summary>
-        <author>
-            <name>Stu Sjouwerman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Core Members of DoppelPaymer Ransomware Gang Targeted in Germany and Ukraine]]></title>
-        <id>https://thehackernews.com/2023/03/core-members-of-doppelpaymer-ransomware.html</id>
-        <link href="https://thehackernews.com/2023/03/core-members-of-doppelpaymer-ransomware.html"/>
-        <updated>2023-03-06T12:13:00.000Z</updated>
-        <summary type="html"><![CDATA[Law enforcement authorities from Germany and Ukraine have targeted suspected core members of a cybercrime group that has been behind large-scale attacks using DoppelPaymer ransomware.
-The operation, which took place on February 28, 2023, was carried out with support from the Dutch National Police (Politie) and the U.S. Federal Bureau of Investigation (FBI), according to Europol.
-This encompassed]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Experts Reveal Google Cloud Platform's Blind Spot for Data Exfiltration Attacks]]></title>
-        <id>https://thehackernews.com/2023/03/experts-reveal-google-cloud-platforms.html</id>
-        <link href="https://thehackernews.com/2023/03/experts-reveal-google-cloud-platforms.html"/>
-        <updated>2023-03-06T11:51:00.000Z</updated>
-        <summary type="html"><![CDATA[Malicious actors can take advantage of "insufficient" forensic visibility into Google Cloud Platform (GCP) to exfiltrate sensitive data, a new research has found.
-"Unfortunately, GCP does not provide the level of visibility in its storage logs that is needed to allow any effective forensic investigation, making organizations blind to potential data exfiltration attacks," cloud incident response]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Experts Discover Flaw in U.S. Govt's Chosen Quantum-Resistant Encryption Algorithm]]></title>
-        <id>https://thehackernews.com/2023/03/experts-discover-flaw-in-us-govts.html</id>
-        <link href="https://thehackernews.com/2023/03/experts-discover-flaw-in-us-govts.html"/>
-        <updated>2023-03-06T08:30:00.000Z</updated>
-        <summary type="html"><![CDATA[A group of researchers has revealed what it says is a vulnerability in a specific implementation of CRYSTALS-Kyber, one of the encryption algorithms chosen by the U.S. government as quantum-resistant last year.
-The exploit relates to "side-channel attacks on up to the fifth-order masked implementations of CRYSTALS-Kyber in ARM Cortex-M4 CPU," Elena Dubrova, Kalle Ngo, and Joel Gärtner of KTH]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
