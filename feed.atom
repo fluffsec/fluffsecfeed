@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-04-06T02:05:26.200Z</updated>
+    <updated>2023-04-06T07:16:42.366Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Google Mandates Android Apps to Offer Easy Account Deletion In-App and Online]]></title>
+        <id>https://thehackernews.com/2023/04/google-mandates-android-apps-to-offer.html</id>
+        <link href="https://thehackernews.com/2023/04/google-mandates-android-apps-to-offer.html"/>
+        <updated>2023-04-06T03:40:00.000Z</updated>
+        <summary type="html"><![CDATA[Google is enacting a new data deletion policy for Android apps that allow account creation to also offer users with a setting to delete their accounts in an attempt to provide more transparency and control over their data.
+"For apps that enable app account creation, developers will soon need to provide an option to initiate account and data deletion from within the app and online," Bethel]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Noname Security Announces Hardened API Security Platform]]></title>
         <id>https://www.darkreading.com/application-security/noname-security-announces-hardened-api-security-platform</id>
@@ -4890,123 +4901,6 @@ Although BOD 22-01 only applies to FCEB agencies, CISA strongly urges all organi
 Please share your thoughts. We recently updated our anonymous Product Feedback Survey and we'd welcome your feedback.]]></summary>
         <author>
             <name>CISA</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ManageEngine Launches Security and Risk Posture Management in its SIEM Solution]]></title>
-        <id>https://www.darkreading.com/risk/manageengine-launches-security-and-risk-posture-management-in-its-siem-solution-</id>
-        <link href="https://www.darkreading.com/risk/manageengine-launches-security-and-risk-posture-management-in-its-siem-solution-"/>
-        <updated>2023-03-07T18:40:00.000Z</updated>
-        <author>
-            <name>Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Employees Are Feeding Sensitive Biz Data to ChatGPT, Raising Security Fears]]></title>
-        <id>https://www.darkreading.com/risk/employees-feeding-sensitive-business-data-chatgpt-raising-security-fears</id>
-        <link href="https://www.darkreading.com/risk/employees-feeding-sensitive-business-data-chatgpt-raising-security-fears"/>
-        <updated>2023-03-07T18:37:00.000Z</updated>
-        <summary type="html"><![CDATA[More than 4% of employees have put sensitive corporate data into the large language model, raising concerns that its popularity may result in massive leaks of proprietary information.]]></summary>
-        <author>
-            <name>Robert Lemos, Contributing Writer, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Scams Security Pros Almost Fell For]]></title>
-        <id>https://www.darkreading.com/risk/scams-security-pros-almost-fell-for</id>
-        <link href="https://www.darkreading.com/risk/scams-security-pros-almost-fell-for"/>
-        <updated>2023-03-07T18:00:00.000Z</updated>
-        <summary type="html"><![CDATA[By working together as an industry, we can develop the technologies needed to account for human error.]]></summary>
-        <author>
-            <name>Adam Caudill, Security Architect, 1Password</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[99% of Cybersecurity Leaders Are Stressed About Email Security]]></title>
-        <id>https://www.darkreading.com/endpoint/99-of-cybersecurity-leaders-are-stressed-about-email-security</id>
-        <link href="https://www.darkreading.com/endpoint/99-of-cybersecurity-leaders-are-stressed-about-email-security"/>
-        <updated>2023-03-07T17:54:00.000Z</updated>
-        <author>
-            <name>Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Palo Alto Survey Reveals 90% of Organizations Cannot Resolve Cyberthreats Within an Hour]]></title>
-        <id>https://www.darkreading.com/cloud/palo-alto-networks-global-state-of-cloud-native-security-survey-reveals-90-of-organizations-cannot-detect-contain-and-resolve-cyberthreats-within-an-hour</id>
-        <link href="https://www.darkreading.com/cloud/palo-alto-networks-global-state-of-cloud-native-security-survey-reveals-90-of-organizations-cannot-detect-contain-and-resolve-cyberthreats-within-an-hour"/>
-        <updated>2023-03-07T17:38:00.000Z</updated>
-        <summary type="html"><![CDATA[Third annual report identifies top security gaps and challenges for organizations operating in the cloud.]]></summary>
-        <author>
-            <name>Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Remcos RAT Spyware Scurries Into Machines via Cloud Servers]]></title>
-        <id>https://www.darkreading.com/threat-intelligence/remcos-rat-spyware-machines-cloud-servers</id>
-        <link href="https://www.darkreading.com/threat-intelligence/remcos-rat-spyware-machines-cloud-servers"/>
-        <updated>2023-03-07T16:07:22.000Z</updated>
-        <summary type="html"><![CDATA[Attackers use phishing emails that appear to come from reputable organizations, dropping the payload using public cloud servers and an old Windows UAC bypass technique.]]></summary>
-        <author>
-            <name>Elizabeth Montalbano, Contributor, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Delinea Adds New features for its Privilege Manager and DevOps Secrets Vault]]></title>
-        <id>https://www.darkreading.com/operations/delinea-adds-new-features-for-its-privilege-manager-and-devops-secrets-vault</id>
-        <link href="https://www.darkreading.com/operations/delinea-adds-new-features-for-its-privilege-manager-and-devops-secrets-vault"/>
-        <updated>2023-03-07T16:00:00.000Z</updated>
-        <author>
-            <name>Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Key Proposals in Biden's Cybersecurity Strategy Face Congressional Challenges]]></title>
-        <id>https://www.darkreading.com/risk/key-proposals-in-biden-cybersecurity-strategy-face-congressional-challenges</id>
-        <link href="https://www.darkreading.com/risk/key-proposals-in-biden-cybersecurity-strategy-face-congressional-challenges"/>
-        <updated>2023-03-07T15:46:00.000Z</updated>
-        <summary type="html"><![CDATA[The strategy document does nothing to change things on the ground in the near term; legislation, regulation, and follow-up executive action are all going to be key to moving forward the administration's agenda.]]></summary>
-        <author>
-            <name>Jai Vijayan, Contributing Writer, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ransomware's Favorite Target: Critical Infrastructure and Its Industrial Control Systems]]></title>
-        <id>https://www.darkreading.com/ics-ot/ransomware-s-favorite-target-critical-infrastructure-and-its-industrial-control-systems</id>
-        <link href="https://www.darkreading.com/ics-ot/ransomware-s-favorite-target-critical-infrastructure-and-its-industrial-control-systems"/>
-        <updated>2023-03-07T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The health, manufacturing, and energy sectors are the most vulnerable to ransomware.]]></summary>
-        <author>
-            <name>Aaron Sandeen, CEO &amp; Co-Founder, Securin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Optiv Launches Full Suite of Operational Technology Services]]></title>
-        <id>https://www.darkreading.com/ics-ot/optiv-launches-full-suite-of-operational-technology-services</id>
-        <link href="https://www.darkreading.com/ics-ot/optiv-launches-full-suite-of-operational-technology-services"/>
-        <updated>2023-03-07T14:57:00.000Z</updated>
-        <author>
-            <name>Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cyber Security Works to Rebrand As Securin Inc.]]></title>
-        <id>https://www.darkreading.com/vulnerabilities-threats/cyber-security-works-to-rebrand-as-securin-inc-</id>
-        <link href="https://www.darkreading.com/vulnerabilities-threats/cyber-security-works-to-rebrand-as-securin-inc-"/>
-        <updated>2023-03-07T14:40:00.000Z</updated>
-        <summary type="html"><![CDATA[Securin Inc. will provide tech-enabled security solutions, vulnerability
-intelligence and deep domain expertise.]]></summary>
-        <author>
-            <name>Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[SCAM OF THE WEEK] Is ChatGPT Your Next Financial Advisor?]]></title>
-        <id>https://blog.knowbe4.com/is-chatgpt-your-next-financial-advisor</id>
-        <link href="https://blog.knowbe4.com/is-chatgpt-your-next-financial-advisor"/>
-        <updated>2023-03-07T14:07:00.000Z</updated>
-        <summary type="html"><![CDATA[ChatGPT, an artificial intelligence (AI) chatbot created by OpenAI, has risen in popularity since its release last year. Now, cybercriminals are using ChatGPT’s popularity to lure you into phishing scams. In one of these scams, cybercriminals try to trick you with a fake new ChatGPT feature.]]></summary>
-        <author>
-            <name>Stu Sjouwerman</name>
         </author>
     </entry>
 </feed>
