@@ -2,10 +2,84 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-04-06T07:16:42.366Z</updated>
+    <updated>2023-04-06T13:24:41.943Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Recently Exposed North Korean Threat Actor APT43 Targeting Organizations With Spear Phishing]]></title>
+        <id>https://blog.knowbe4.com/phishing-from-north-korea</id>
+        <link href="https://blog.knowbe4.com/phishing-from-north-korea"/>
+        <updated>2023-04-06T13:02:08.000Z</updated>
+        <summary type="html"><![CDATA[Google’s Threat Analysis Group (TAG) has published a report describing the activities of “ARCHIPELAGO,” a subset of the North Korean state-sponsored threat actor APT43. ARCHIPELAGO’s operators frequently impersonate real journalists or experts in order to make initial contact with their targets.]]></summary>
+        <author>
+            <name>Stu Sjouwerman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Pope's Security Gets a Boost With Vatican's MDM Move]]></title>
+        <id>https://www.darkreading.com/vulnerabilities-threats/pope-mobile-security-vatican-mdm-move</id>
+        <link href="https://www.darkreading.com/vulnerabilities-threats/pope-mobile-security-vatican-mdm-move"/>
+        <updated>2023-04-06T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Faced with enterprise challenges, the Holy See looks to ensure it avoids a "holey" mobile device management solution.]]></summary>
+        <author>
+            <name>Nate Nelson, Contributing Writer, Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New Emotet Phishing Campaign Pretends to be the IRS Delivering W-9 Forms]]></title>
+        <id>https://blog.knowbe4.com/emotet-phishing-campaign-irs-w9s</id>
+        <link href="https://blog.knowbe4.com/emotet-phishing-campaign-irs-w9s"/>
+        <updated>2023-04-06T12:33:39.000Z</updated>
+        <summary type="html"><![CDATA[A newly documented phishing campaign demonstrates how timely themes can be impactful in creating a successful attack that gets the recipient to engage with malicious content.]]></summary>
+        <author>
+            <name>Stu Sjouwerman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FBI: Business Email Compromise Attacks Are Being Used to Make Bulk Goods Purchases from Vendors]]></title>
+        <id>https://blog.knowbe4.com/business-email-compromise-bulk-purchases</id>
+        <link href="https://blog.knowbe4.com/business-email-compromise-bulk-purchases"/>
+        <updated>2023-04-06T12:33:35.000Z</updated>
+        <summary type="html"><![CDATA[A new public service announcement focuses on a specific form of BEC attack using little more than a spoofed domain and common vendor payment practices to steal hardware, supplies and more.]]></summary>
+        <author>
+            <name>Stu Sjouwerman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[1 in 8 Email Threats Now Make It Past Email Security Solutions]]></title>
+        <id>https://blog.knowbe4.com/13-percent-email-threats-pass-security</id>
+        <link href="https://blog.knowbe4.com/13-percent-email-threats-pass-security"/>
+        <updated>2023-04-06T12:33:33.000Z</updated>
+        <summary type="html"><![CDATA[Phishing attacks that can evade detection by email scanners are improving their chances of reaching the inbox, thanks to an increase in the use of one specific attachment type.]]></summary>
+        <author>
+            <name>Stu Sjouwerman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Supply Chain Attacks and Critical Infrastructure: How CISA Helps Secure a Nation's Crown Jewels]]></title>
+        <id>https://thehackernews.com/2023/04/supply-chain-attacks-and-critical.html</id>
+        <link href="https://thehackernews.com/2023/04/supply-chain-attacks-and-critical.html"/>
+        <updated>2023-04-06T11:46:00.000Z</updated>
+        <summary type="html"><![CDATA[Critical infrastructure attacks are a preferred target for cyber criminals. Here's why and what's being done to protect them.
+What is Critical Infrastructure and Why is It Attacked?
+Critical infrastructure is the physical and digital assets, systems and networks that are vital to national security, the economy, public health, or safety. It can be government- or privately-owned.
+According to Etay]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FBI Cracks Down on Genesis Market: 119 Arrested in Cybercrime Crackdown]]></title>
+        <id>https://thehackernews.com/2023/04/fbi-cracks-down-on-genesis-market-119.html</id>
+        <link href="https://thehackernews.com/2023/04/fbi-cracks-down-on-genesis-market-119.html"/>
+        <updated>2023-04-06T09:01:00.000Z</updated>
+        <summary type="html"><![CDATA[A coordinated international law enforcement operation has dismantled Genesis Market, an illegal online marketplace that specialized in the sale of stolen credentials associated with email, bank accounts, and social media platforms.
+Coinciding with the infrastructure seizure, the major crackdown, which involved authorities from 17 countries, culminated in 119 arrests and 208 property searches in]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Google Mandates Android Apps to Offer Easy Account Deletion In-App and Online]]></title>
         <id>https://thehackernews.com/2023/04/google-mandates-android-apps-to-offer.html</id>
@@ -4835,72 +4909,6 @@ CVE-2022-35914 (CVSS score: 9.8) - Teclib GLPI Remote Code Execution Vulnerabil
 CVE-2022-33891 (CVSS score: 8.8) - Apache Spark Command Injection Vulnerability]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tech Giants Go Cloud-Native Shopping]]></title>
-        <id>https://www.darkreading.com/dr-tech/tech-giants-go-cloud-native-shopping</id>
-        <link href="https://www.darkreading.com/dr-tech/tech-giants-go-cloud-native-shopping"/>
-        <updated>2023-03-08T01:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Cisco’s acquisition of cloud-native firewall provider Valtix and HPE’s deal to buy SSE provider Axis Security fill gaps in their existing portfolios.]]></summary>
-        <author>
-            <name>Jeffrey Schwartz, Contributing Writer, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Akamai Technologies Releases New Service and Tools to Stop Advanced Threats and Drive Zero Trust Adoption]]></title>
-        <id>https://www.darkreading.com/cloud/akamai-technologies-releases-new-service-and-tools-to-stop-advanced-threats-and-drive-zero-trust-adoption</id>
-        <link href="https://www.darkreading.com/cloud/akamai-technologies-releases-new-service-and-tools-to-stop-advanced-threats-and-drive-zero-trust-adoption"/>
-        <updated>2023-03-07T21:48:00.000Z</updated>
-        <author>
-            <name>Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hiatus Campaign Infects DrayTek Routers for Cyber Espionage, Proxy Control]]></title>
-        <id>https://www.darkreading.com/threat-intelligence/hiatusrat-campaign-draytek-gear-cyber-espionage-proxy-control</id>
-        <link href="https://www.darkreading.com/threat-intelligence/hiatusrat-campaign-draytek-gear-cyber-espionage-proxy-control"/>
-        <updated>2023-03-07T20:40:24.000Z</updated>
-        <summary type="html"><![CDATA[Two novel malware binaries, including "HiatusRAT," offer unique capabilities that point to the need for better security for companies' router infrastructure.]]></summary>
-        <author>
-            <name>Tara Seals, Managing Editor, News, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Acer Confirms Data Offered Up for Sale Was Stolen]]></title>
-        <id>https://www.darkreading.com/application-security/acer-confirms-data-offered-for-sale-stolen</id>
-        <link href="https://www.darkreading.com/application-security/acer-confirms-data-offered-for-sale-stolen"/>
-        <updated>2023-03-07T20:18:00.000Z</updated>
-        <summary type="html"><![CDATA[An Acer statement confirms that a document server for repair techs was compromised, but says customer data doesn't appear to be part of the leak.]]></summary>
-        <author>
-            <name>Dark Reading Staff, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hacker Cracks Toyota Customer Search Tool]]></title>
-        <id>https://www.darkreading.com/application-security/hacker-cracks-toyota-customer-search-tool</id>
-        <link href="https://www.darkreading.com/application-security/hacker-cracks-toyota-customer-search-tool"/>
-        <updated>2023-03-07T19:50:00.000Z</updated>
-        <summary type="html"><![CDATA[Flaw in Toyota's C360 customer relationship management tool exposed personal data of unknown number of customers in Mexico, a disclosure says.]]></summary>
-        <author>
-            <name>Dark Reading Staff, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Untitled]]></title>
-        <id>/node/17534</id>
-        <link href="https://www.cisa.gov/news-events/alerts/2023/03/07/cisa-adds-three-known-exploited-vulnerabilities-catalog"/>
-        <updated>2023-03-07T19:17:11.922Z</updated>
-        <summary type="html"><![CDATA[CISA has added three new vulnerabilities to its Known Exploited Vulnerabilities Catalog, based on evidence of active exploitation.
-CVE-2022-28810 Zoho ManageEngine ADSelfService Plus Remote Code Execution Vulnerability
-CVE-2022-33891 Apache Spark Command Injection Vulnerability
-CVE-2022-35914 Teclib GLPI Remote Code Execution Vulnerability
-These types of vulnerabilities are frequent attack vectors for malicious cyber actors and pose significant risks to the federal enterprise. Note: To view other newly added vulnerabilities in the catalog, click on the arrow in the "Date Added to Catalog" column—which will sort by descending dates.
-Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the Known Exploited Vulnerabilities Catalog as a living list of known Common Vulnerabilities and Exposures (CVEs) that carry significant risk to the federal enterprise. BOD 22-01 requires Federal Civilian Executive Branch (FCEB) agencies to remediate identified vulnerabilities by the due date to protect FCEB networks against active threats. See the BOD 22-01 Fact Sheet for more information.
-Although BOD 22-01 only applies to FCEB agencies, CISA strongly urges all organizations to reduce their exposure to cyberattacks by prioritizing timely remediation of Catalog vulnerabilities as part of their vulnerability management practice. CISA will continue to add vulnerabilities to the catalog that meet the specified criteria.
-Please share your thoughts. We recently updated our anonymous Product Feedback Survey and we'd welcome your feedback.]]></summary>
-        <author>
-            <name>CISA</name>
         </author>
     </entry>
 </feed>
