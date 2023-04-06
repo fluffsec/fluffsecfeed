@@ -398,18 +398,7 @@
       "title": "Security Report",
       "feedUrl": "https://securityreport.com/rss",
       "siteUrl": "https://securityreport.com/",
-      "articles": [
-        {
-          "id": "https://securityreport.com/?p=4702",
-          "author": "Ax Sharma",
-          "description": "One of the world's largest theme park operators, Parques Reunidos has disclosed a cybersecurity incident. Bian Lian ransomware group has claimed responsibility.\nThe post Theme park giant Parques Reunidos hit by a ransomware cyber attack appeared first on Security Report.",
-          "link": "https://securityreport.com/theme-park-giant-parques-reunidos-hit-by-a-ransomware-cyber-attack/",
-          "publishedOn": "2023-03-07T07:50:35.000Z",
-          "wordCount": 1890,
-          "title": "Theme park giant Parques Reunidos hit by a ransomware cyber attack",
-          "imageUrl": "https://securityreport.com/wp-content/uploads/2023/03/Screenshot-2023-03-07-at-12.14.10-1024x568.png"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Critical Infrastructure – Threatpost",
@@ -440,6 +429,56 @@
       "feedUrl": "https://www.darkreading.com/rss.xml",
       "siteUrl": "https://www.darkreading.com",
       "articles": [
+        {
+          "id": "https://www.darkreading.com/application-security/noname-security-announces-hardened-api-security-platform",
+          "author": null,
+          "description": "",
+          "link": "https://www.darkreading.com/application-security/noname-security-announces-hardened-api-security-platform",
+          "publishedOn": "2023-04-05T21:42:00.000Z",
+          "wordCount": 13358,
+          "title": "Noname Security Announces Hardened API Security Platform",
+          "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/mobile/blackberry-introduces-integrated-solution-to-assure-secure-bi-directional-response-communications-during-cyber-incidents",
+          "author": null,
+          "description": "BlackBerry integrates award-winning CylanceGUARD and BlackBerry AtHoc technologies for \"combat-ready\" cyber event continuity planning and response.",
+          "link": "https://www.darkreading.com/mobile/blackberry-introduces-integrated-solution-to-assure-secure-bi-directional-response-communications-during-cyber-incidents",
+          "publishedOn": "2023-04-05T21:38:00.000Z",
+          "wordCount": 13043,
+          "title": "BlackBerry Introduces Integrated Solution to Assure Secure Bi-Directional Response Communications During Cyber Incidents",
+          "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/attacks-breaches/garage-door-openers-hijacking-unpatched-security-vulns",
+          "author": "Dark Reading Staff, Dark Reading",
+          "description": "CISA is advising Nexx customers to unplug impacted devices until the security issues are addressed — but so far, it's crickets as to patch timeline.",
+          "link": "https://www.darkreading.com/attacks-breaches/garage-door-openers-hijacking-unpatched-security-vulns",
+          "publishedOn": "2023-04-05T20:41:47.000Z",
+          "wordCount": 11968,
+          "title": "Garage Door Openers Open to Hijacking, Thanks to Unpatched Security Vulns",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blte161b23f0fd3a84b/60b1ea374e7eb868c4c6a293/dr_staff_125x125.jpg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blte161b23f0fd3a84b/60b1ea374e7eb868c4c6a293/dr_staff_125x125.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/emerging-tech/appsec-looms-large-for-rsac-2023-innovation-sandbox-finalists",
+          "author": "Karen Spiegelman, Features Editor",
+          "description": "Application security is the dominant trend for this year's startup contest, but AI, blockchain, and compliance are all represented as well.",
+          "link": "https://www.darkreading.com/emerging-tech/appsec-looms-large-for-rsac-2023-innovation-sandbox-finalists",
+          "publishedOn": "2023-04-05T20:00:00.000Z",
+          "wordCount": 15263,
+          "title": "AppSec Looms Large for RSAC 2023 Innovation Sandbox Finalists",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt05b5a13cf2fb2868/62473b097c2d1d030cd47dff/pink-headshot.jpg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt05b5a13cf2fb2868/62473b097c2d1d030cd47dff/pink-headshot.jpg"
+        },
         {
           "id": "https://www.darkreading.com/attacks-breaches/researcher-tricks-chatgpt-undetectable-steganography-malware",
           "author": "Jai Vijayan, Contributing Writer, Dark Reading",
@@ -4199,26 +4238,6 @@
           "wordCount": 2206,
           "title": "[SCAM OF THE WEEK] Is ChatGPT Your Next Financial Advisor?",
           "imageUrl": "https://blog.knowbe4.com/hubfs/ChatGPT%20Malicious%20Content%20Phishing.jpg#keepProtocol"
-        },
-        {
-          "id": "https://blog.knowbe4.com/cyberheistnews-vol-13-10-eye-opener-businessweek-the-satellite-hack-everyone-is-finally-talking-about",
-          "author": "Stu Sjouwerman",
-          "description": "CyberheistNews Vol 13 #10  |   March 7th, 2023  \r\n \n \r\n   \r\n \n \r\n  \n[Eye Opener] BusinessWeek: The Satellite Hack Everyone Is Finally Talking About\n \r\n  \nThis week, Bloomberg News pointed at a brand-new article at BusinessWeek, one of their media properties. This is an excellent article that exposes the vulnerabilities when communications systems are not secure by design. It is an excellent wake-up call for your C-level execs and powerful budget ammo.\n \r\n  \nThey started out with: \"As Putin began his invasion of Ukraine, a network used throughout Europe—and by the Ukrainian military—faced an unprecedented cyberattack that doubled as an industrywide wake-up call. What they refer to is the Viasat hack. The KnowBe4 blog initially reported on this hack on March 24, 2022 here: https://blog.knowb…",
-          "link": "https://blog.knowbe4.com/cyberheistnews-vol-13-10-eye-opener-businessweek-the-satellite-hack-everyone-is-finally-talking-about",
-          "publishedOn": "2023-03-07T14:00:00.000Z",
-          "wordCount": 5303,
-          "title": "CyberheistNews Vol 13 #10 [Eye Opener] BusinessWeek: The Satellite Hack Everyone Is Finally Talking About",
-          "imageUrl": "https://blog.knowbe4.com/hubfs/CHN-Social.jpg#keepProtocol"
-        },
-        {
-          "id": "https://blog.knowbe4.com/75-percent-organizations-experienced-successful-email-based-attac",
-          "author": "Stu Sjouwerman",
-          "description": "New data shows just how impactful these attacks are, with 98% of victim organizations reporting some form of impact from email-based cyber attacks.",
-          "link": "https://blog.knowbe4.com/75-percent-organizations-experienced-successful-email-based-attac",
-          "publishedOn": "2023-03-07T13:00:00.000Z",
-          "wordCount": 2204,
-          "title": "Three out of Four Organizations Have Experienced a Successful Email-Based Attack as Impacts Increase",
-          "imageUrl": "https://blog.knowbe4.com/hubfs/Modern%20Email%20Attacks.jpg#keepProtocol"
         }
       ]
     },
@@ -6210,70 +6229,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj7TpLK_R8uH3evBua6oPgzKIQ6rW7QXX47gT3VV5ROBDJ3685UjbPmBCfLCRsP6HWSsfbMGpkwukNJTtJOrEF0rvanahw6BtVbXKegX6jspuyoXf4kV1QI2BoPtKzJVvxw7lnswI9tD7TqHchchU-Fm7TbzIadJhG1lTwNthctSvxcauVqI5wKJj-X/s1600/cyber.png"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj7TpLK_R8uH3evBua6oPgzKIQ6rW7QXX47gT3VV5ROBDJ3685UjbPmBCfLCRsP6HWSsfbMGpkwukNJTtJOrEF0rvanahw6BtVbXKegX6jspuyoXf4kV1QI2BoPtKzJVvxw7lnswI9tD7TqHchchU-Fm7TbzIadJhG1lTwNthctSvxcauVqI5wKJj-X/s1600/cyber.png"
-        },
-        {
-          "id": "https://thehackernews.com/2023/03/sys01stealer-new-threat-using-facebook.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Cybersecurity researchers have discovered a new information stealer dubbed SYS01stealer targeting critical government infrastructure employees, manufacturing companies, and other sectors.\n\"The threat actors behind the campaign are targeting Facebook business accounts by using Google ads and fake Facebook profiles that promote things like games, adult content, and cracked software, etc. to lure",
-          "link": "https://thehackernews.com/2023/03/sys01stealer-new-threat-using-facebook.html",
-          "publishedOn": "2023-03-07T13:58:00.000Z",
-          "wordCount": null,
-          "title": "SYS01stealer: New Threat Using Facebook Ads to Target Critical Infrastructure Firms",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgm_RcpcYRWGgR0iTxHwyUpJVHhSi7GsKA3WeQTIs2-3JNSBKEoPwtxN_PnH-IwzwkqIIx_8TEjMKYakRK6x1QbK44csSYaUOvogDNAfTNSiZ6ZH6ejhxyVS6OjSbPiSlyqWERo01AoDvLwZLXW7PGCtLbdF7lm8GMHCk856FYiftaaPmvC9yJTLx0a/s1600/cyberattack.png"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgm_RcpcYRWGgR0iTxHwyUpJVHhSi7GsKA3WeQTIs2-3JNSBKEoPwtxN_PnH-IwzwkqIIx_8TEjMKYakRK6x1QbK44csSYaUOvogDNAfTNSiZ6ZH6ejhxyVS6OjSbPiSlyqWERo01AoDvLwZLXW7PGCtLbdF7lm8GMHCk856FYiftaaPmvC9yJTLx0a/s1600/cyberattack.png"
-        },
-        {
-          "id": "https://thehackernews.com/2023/03/transparent-tribe-hackers-distribute.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "A suspected Pakistan-aligned advanced persistent threat (APT) group known as Transparent Tribe has been linked to an ongoing cyber espionage campaign targeting Indian and Pakistani Android users with a backdoor called CapraRAT.\n\"Transparent Tribe distributed the Android CapraRAT backdoor via trojanized secure messaging and calling apps branded as MeetsApp and MeetUp,\" ESET said in a report",
-          "link": "https://thehackernews.com/2023/03/transparent-tribe-hackers-distribute.html",
-          "publishedOn": "2023-03-07T11:39:00.000Z",
-          "wordCount": null,
-          "title": "Transparent Tribe Hackers Distribute CapraRAT via Trojanized Messaging Apps",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjNNmPk11Bi3ZSy2Ie2mYNp4GaZdKTu9nQR3mTpIw4Ftwcs_DlPpFaI-WIgjxdv377fSGcMXIPESYOI8XywtrmnjZW4h6FVs4JRB-DhLKzgm5eVz8rmxiC0WyUk2uuFzHAlELSVnsW3Y9QeNtUSIU3wmUfieyftW5Zv8lWbYtTmqEFdyv2PhC-mK9zf/s1600/hackers.png"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjNNmPk11Bi3ZSy2Ie2mYNp4GaZdKTu9nQR3mTpIw4Ftwcs_DlPpFaI-WIgjxdv377fSGcMXIPESYOI8XywtrmnjZW4h6FVs4JRB-DhLKzgm5eVz8rmxiC0WyUk2uuFzHAlELSVnsW3Y9QeNtUSIU3wmUfieyftW5Zv8lWbYtTmqEFdyv2PhC-mK9zf/s1600/hackers.png"
-        },
-        {
-          "id": "https://thehackernews.com/2023/03/why-healthcare-cant-afford-to-ignore.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Investing in digital identity can improve security, increase clinical productivity, and boost healthcare's bottom line. — by Gus Malezis, CEO of Imprivata\nDigitalization has created immeasurable opportunities for businesses over the past two decades. But the growth of hybrid work and expansion of Internet of Things (IoT) has outpaced traditional 'castle and moat' cybersecurity, introducing",
-          "link": "https://thehackernews.com/2023/03/why-healthcare-cant-afford-to-ignore.html",
-          "publishedOn": "2023-03-07T11:23:00.000Z",
-          "wordCount": null,
-          "title": "Why Healthcare Can't Afford to Ignore Digital Identity",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiXYWx4_n7O3rAz_60VVEOXWRXKfhLYXJb281YdU3gjla5fPJvrM6r-XDsPqteafK1v_9qNkkWmswJz7tSoRJrBUucT62ck32GHOvmD0xIgKLx0AMJ10_d7kXO-6BZAdnFGMTPX0YqJZT8YALXJUpNPD1ftQE7OW7-3Qb2OIxbqcBFgdZf_5iextX1M/s1600/healthcare-cybersecurity.png"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiXYWx4_n7O3rAz_60VVEOXWRXKfhLYXJb281YdU3gjla5fPJvrM6r-XDsPqteafK1v_9qNkkWmswJz7tSoRJrBUucT62ck32GHOvmD0xIgKLx0AMJ10_d7kXO-6BZAdnFGMTPX0YqJZT8YALXJUpNPD1ftQE7OW7-3Qb2OIxbqcBFgdZf_5iextX1M/s1600/healthcare-cybersecurity.png"
-        },
-        {
-          "id": "https://thehackernews.com/2023/03/sheins-android-app-caught-transmitting.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "An older version of Shein's Android application suffered from a bug that periodically captured and transmitted clipboard contents to a remote server.\nThe Microsoft 365 Defender Research Team said it discovered the problem in version 7.9.2 of the app that was released on December 16, 2021. The issue has since been addressed as of May 2022.\nShein, originally named ZZKKO, is a Chinese online fast",
-          "link": "https://thehackernews.com/2023/03/sheins-android-app-caught-transmitting.html",
-          "publishedOn": "2023-03-07T07:42:00.000Z",
-          "wordCount": null,
-          "title": "Shein's Android App Caught Transmitting Clipboard Data to Remote Servers",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjqFSyAjx7LzBBQ0D-0qOlJBRJbVTRHJMcMAkXOIAbMn3XfqfNvCsK0s2qiGVy7I7ZEZEqwONvYZztL4xnarkx9mDzPK09mLvwkPhaEpMO4TJAIPbJWF4jXLd93-d2WLo1w0au3ck49bgR5n20W5vJhfZUqf8fbD_CQNlRf8QMRyuunbxK0fHaljijn/s1600/shein.png"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjqFSyAjx7LzBBQ0D-0qOlJBRJbVTRHJMcMAkXOIAbMn3XfqfNvCsK0s2qiGVy7I7ZEZEqwONvYZztL4xnarkx9mDzPK09mLvwkPhaEpMO4TJAIPbJWF4jXLd93-d2WLo1w0au3ck49bgR5n20W5vJhfZUqf8fbD_CQNlRf8QMRyuunbxK0fHaljijn/s1600/shein.png"
         }
       ]
     }

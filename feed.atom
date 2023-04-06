@@ -2,10 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-04-05T19:17:19.205Z</updated>
+    <updated>2023-04-06T02:05:26.200Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Noname Security Announces Hardened API Security Platform]]></title>
+        <id>https://www.darkreading.com/application-security/noname-security-announces-hardened-api-security-platform</id>
+        <link href="https://www.darkreading.com/application-security/noname-security-announces-hardened-api-security-platform"/>
+        <updated>2023-04-05T21:42:00.000Z</updated>
+        <author>
+            <name>Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BlackBerry Introduces Integrated Solution to Assure Secure Bi-Directional Response Communications During Cyber Incidents]]></title>
+        <id>https://www.darkreading.com/mobile/blackberry-introduces-integrated-solution-to-assure-secure-bi-directional-response-communications-during-cyber-incidents</id>
+        <link href="https://www.darkreading.com/mobile/blackberry-introduces-integrated-solution-to-assure-secure-bi-directional-response-communications-during-cyber-incidents"/>
+        <updated>2023-04-05T21:38:00.000Z</updated>
+        <summary type="html"><![CDATA[BlackBerry integrates award-winning CylanceGUARD and BlackBerry AtHoc technologies for "combat-ready" cyber event continuity planning and response.]]></summary>
+        <author>
+            <name>Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Garage Door Openers Open to Hijacking, Thanks to Unpatched Security Vulns]]></title>
+        <id>https://www.darkreading.com/attacks-breaches/garage-door-openers-hijacking-unpatched-security-vulns</id>
+        <link href="https://www.darkreading.com/attacks-breaches/garage-door-openers-hijacking-unpatched-security-vulns"/>
+        <updated>2023-04-05T20:41:47.000Z</updated>
+        <summary type="html"><![CDATA[CISA is advising Nexx customers to unplug impacted devices until the security issues are addressed — but so far, it's crickets as to patch timeline.]]></summary>
+        <author>
+            <name>Dark Reading Staff, Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AppSec Looms Large for RSAC 2023 Innovation Sandbox Finalists]]></title>
+        <id>https://www.darkreading.com/emerging-tech/appsec-looms-large-for-rsac-2023-innovation-sandbox-finalists</id>
+        <link href="https://www.darkreading.com/emerging-tech/appsec-looms-large-for-rsac-2023-innovation-sandbox-finalists"/>
+        <updated>2023-04-05T20:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Application security is the dominant trend for this year's startup contest, but AI, blockchain, and compliance are all represented as well.]]></summary>
+        <author>
+            <name>Karen Spiegelman, Features Editor</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA["We are hurtling toward a glitchy, spammy, scammy, AI-powered internet."]]></title>
         <id>https://blog.knowbe4.com/we-are-hurtling-toward-a-glitchy-spammy-scammy-ai-powered-internet</id>
@@ -4968,95 +5007,6 @@ intelligence and deep domain expertise.]]></summary>
         <summary type="html"><![CDATA[ChatGPT, an artificial intelligence (AI) chatbot created by OpenAI, has risen in popularity since its release last year. Now, cybercriminals are using ChatGPT’s popularity to lure you into phishing scams. In one of these scams, cybercriminals try to trick you with a fake new ChatGPT feature.]]></summary>
         <author>
             <name>Stu Sjouwerman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CyberheistNews Vol 13 #10 [Eye Opener] BusinessWeek: The Satellite Hack Everyone Is Finally Talking About]]></title>
-        <id>https://blog.knowbe4.com/cyberheistnews-vol-13-10-eye-opener-businessweek-the-satellite-hack-everyone-is-finally-talking-about</id>
-        <link href="https://blog.knowbe4.com/cyberheistnews-vol-13-10-eye-opener-businessweek-the-satellite-hack-everyone-is-finally-talking-about"/>
-        <updated>2023-03-07T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[CyberheistNews Vol 13 #10  |   March 7th, 2023  
- 
- 
-   
- 
- 
-  
-[Eye Opener] BusinessWeek: The Satellite Hack Everyone Is Finally Talking About
- 
-  
-This week, Bloomberg News pointed at a brand-new article at BusinessWeek, one of their media properties. This is an excellent article that exposes the vulnerabilities when communications systems are not secure by design. It is an excellent wake-up call for your C-level execs and powerful budget ammo.
- 
-  
-They started out with: "As Putin began his invasion of Ukraine, a network used throughout Europe—and by the Ukrainian military—faced an unprecedented cyberattack that doubled as an industrywide wake-up call. What they refer to is the Viasat hack. The KnowBe4 blog initially reported on this hack on March 24, 2022 here: https://blog.knowb…]]></summary>
-        <author>
-            <name>Stu Sjouwerman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SYS01stealer: New Threat Using Facebook Ads to Target Critical Infrastructure Firms]]></title>
-        <id>https://thehackernews.com/2023/03/sys01stealer-new-threat-using-facebook.html</id>
-        <link href="https://thehackernews.com/2023/03/sys01stealer-new-threat-using-facebook.html"/>
-        <updated>2023-03-07T13:58:00.000Z</updated>
-        <summary type="html"><![CDATA[Cybersecurity researchers have discovered a new information stealer dubbed SYS01stealer targeting critical government infrastructure employees, manufacturing companies, and other sectors.
-"The threat actors behind the campaign are targeting Facebook business accounts by using Google ads and fake Facebook profiles that promote things like games, adult content, and cracked software, etc. to lure]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Three out of Four Organizations Have Experienced a Successful Email-Based Attack as Impacts Increase]]></title>
-        <id>https://blog.knowbe4.com/75-percent-organizations-experienced-successful-email-based-attac</id>
-        <link href="https://blog.knowbe4.com/75-percent-organizations-experienced-successful-email-based-attac"/>
-        <updated>2023-03-07T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[New data shows just how impactful these attacks are, with 98% of victim organizations reporting some form of impact from email-based cyber attacks.]]></summary>
-        <author>
-            <name>Stu Sjouwerman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Transparent Tribe Hackers Distribute CapraRAT via Trojanized Messaging Apps]]></title>
-        <id>https://thehackernews.com/2023/03/transparent-tribe-hackers-distribute.html</id>
-        <link href="https://thehackernews.com/2023/03/transparent-tribe-hackers-distribute.html"/>
-        <updated>2023-03-07T11:39:00.000Z</updated>
-        <summary type="html"><![CDATA[A suspected Pakistan-aligned advanced persistent threat (APT) group known as Transparent Tribe has been linked to an ongoing cyber espionage campaign targeting Indian and Pakistani Android users with a backdoor called CapraRAT.
-"Transparent Tribe distributed the Android CapraRAT backdoor via trojanized secure messaging and calling apps branded as MeetsApp and MeetUp," ESET said in a report]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why Healthcare Can't Afford to Ignore Digital Identity]]></title>
-        <id>https://thehackernews.com/2023/03/why-healthcare-cant-afford-to-ignore.html</id>
-        <link href="https://thehackernews.com/2023/03/why-healthcare-cant-afford-to-ignore.html"/>
-        <updated>2023-03-07T11:23:00.000Z</updated>
-        <summary type="html"><![CDATA[Investing in digital identity can improve security, increase clinical productivity, and boost healthcare's bottom line. — by Gus Malezis, CEO of Imprivata
-Digitalization has created immeasurable opportunities for businesses over the past two decades. But the growth of hybrid work and expansion of Internet of Things (IoT) has outpaced traditional 'castle and moat' cybersecurity, introducing]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Theme park giant Parques Reunidos hit by a ransomware cyber attack]]></title>
-        <id>https://securityreport.com/?p=4702</id>
-        <link href="https://securityreport.com/theme-park-giant-parques-reunidos-hit-by-a-ransomware-cyber-attack/"/>
-        <updated>2023-03-07T07:50:35.000Z</updated>
-        <summary type="html"><![CDATA[One of the world's largest theme park operators, Parques Reunidos has disclosed a cybersecurity incident. Bian Lian ransomware group has claimed responsibility.
-The post Theme park giant Parques Reunidos hit by a ransomware cyber attack appeared first on Security Report.]]></summary>
-        <author>
-            <name>Ax Sharma</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Shein's Android App Caught Transmitting Clipboard Data to Remote Servers]]></title>
-        <id>https://thehackernews.com/2023/03/sheins-android-app-caught-transmitting.html</id>
-        <link href="https://thehackernews.com/2023/03/sheins-android-app-caught-transmitting.html"/>
-        <updated>2023-03-07T07:42:00.000Z</updated>
-        <summary type="html"><![CDATA[An older version of Shein's Android application suffered from a bug that periodically captured and transmitted clipboard contents to a remote server.
-The Microsoft 365 Defender Research Team said it discovered the problem in version 7.9.2 of the app that was released on December 16, 2021. The issue has since been addressed as of May 2022.
-Shein, originally named ZZKKO, is a Chinese online fast]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
         </author>
     </entry>
 </feed>
