@@ -2,10 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-04-06T13:24:41.943Z</updated>
+    <updated>2023-04-06T19:14:40.703Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA['BEC 3.0' Is Here With Tax-Season QuickBooks Cyberattacks]]></title>
+        <id>https://www.darkreading.com/attacks-breaches/bec-3-tax-season-quickbooks-cyberattacks</id>
+        <link href="https://www.darkreading.com/attacks-breaches/bec-3-tax-season-quickbooks-cyberattacks"/>
+        <updated>2023-04-06T19:01:00.000Z</updated>
+        <summary type="html"><![CDATA[In next-gen, credential-harvesting attacks, phishing emails use cloud services and are free from the typical bad grammar or typos they've traditionally used (and which users have learned to flag).]]></summary>
+        <author>
+            <name>Elizabeth Montalbano, Contributor, Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Australia Is Scouring the Earth for Cybercriminals — the US Should Too]]></title>
+        <id>https://www.darkreading.com/attacks-breaches/australia-is-scouring-the-earth-for-cybercriminals-the-us-should-too</id>
+        <link href="https://www.darkreading.com/attacks-breaches/australia-is-scouring-the-earth-for-cybercriminals-the-us-should-too"/>
+        <updated>2023-04-06T17:00:00.000Z</updated>
+        <summary type="html"><![CDATA[It's time to get ahead of attacks before they even happen.]]></summary>
+        <author>
+            <name>Chris Bowen, Founder &amp; CISO, ClearDATA</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[It Takes AI Security to Fight AI Cyberattacks]]></title>
+        <id>https://www.darkreading.com/attacks-breaches/it-takes-ai-security-to-fight-ai-cyberattacks</id>
+        <link href="https://www.darkreading.com/attacks-breaches/it-takes-ai-security-to-fight-ai-cyberattacks"/>
+        <updated>2023-04-06T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[New threats from generative AI demand a generative AI security response.]]></summary>
+        <author>
+            <name>Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What to Discuss at RSA Conference — and It's Not ChatGPT]]></title>
+        <id>https://www.darkreading.com/vulnerabilities-threats/what-to-discuss-at-rsa-conference-and-it-s-not-chatgpt</id>
+        <link href="https://www.darkreading.com/vulnerabilities-threats/what-to-discuss-at-rsa-conference-and-it-s-not-chatgpt"/>
+        <updated>2023-04-06T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In-person conversations are a productive way to understand the state of the industry and learn new techniques. Take advantage of peers' experience, compare notes, and boost your skill set.]]></summary>
+        <author>
+            <name>Nigel Houghton, Director of Marketplace and Ecosystem Development, ThreatQuotient</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Styx Marketplace Provides Hub for Financial Cybercrime]]></title>
+        <id>https://www.darkreading.com/vulnerabilities-threats/styx-marketplace-provides-hub-financial-cybercrime</id>
+        <link href="https://www.darkreading.com/vulnerabilities-threats/styx-marketplace-provides-hub-financial-cybercrime"/>
+        <updated>2023-04-06T13:30:00.000Z</updated>
+        <summary type="html"><![CDATA[An emerging, illicit marketplace proves that financial cybercrime is still on the rise, with a need for countries to collectively put safeguards in place.]]></summary>
+        <author>
+            <name>Dark Reading Staff, Dark Reading</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Recently Exposed North Korean Threat Actor APT43 Targeting Organizations With Spear Phishing]]></title>
         <id>https://blog.knowbe4.com/phishing-from-north-korea</id>
@@ -54,6 +104,24 @@
         <summary type="html"><![CDATA[Phishing attacks that can evade detection by email scanners are improving their chances of reaching the inbox, thanks to an increase in the use of one specific attachment type.]]></summary>
         <author>
             <name>Stu Sjouwerman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CISA Releases Seven Industrial Control Systems Advisories]]></title>
+        <id>/node/17876</id>
+        <link href="https://www.cisa.gov/news-events/alerts/2023/04/06/cisa-releases-seven-industrial-control-systems-advisories"/>
+        <updated>2023-04-06T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[CISA released seven Industrial Control Systems (ICS) advisories on April 6, 2023. These advisories provide timely information about current security issues, vulnerabilities, and exploits surrounding ICS.
+ICSA-23-096-01 Industrial Control Links ScadaFlex II SCADA Controllers
+ICSA-23-096-02 JTEKT Screen Creator Advance 2
+ICSA-23-096-03 JTEKT Kostac PLC
+ICSA-23-096-04 Korenix Jetwave
+ICSA-23-096-05 Hitachi Energy MicroSCADA System Data Manager SDM600
+ICSA-23-096-06 mySCADA myPRO
+ICSA-20-051-02 Rockwell Automation FactoryTalk Diagnostics (Update A)
+CISA encourages users and administrators to review the newly released ICS advisories for technical details and mitigations.]]></summary>
+        <author>
+            <name>CISA</name>
         </author>
     </entry>
     <entry>
@@ -4893,20 +4961,6 @@ While the first attack in May 2022 entailed the use of a vulnerable version of a
         <summary type="html"><![CDATA[High-profile government entities in Southeast Asia are the target of a cyber espionage campaign undertaken by a Chinese threat actor known as Sharp Panda since late last year.
 The intrusions are characterized by the use of a new version of the Soul modular framework, marking a departure from the group's attack chains observed in 2021.
 Israeli cybersecurity company Check Point said the "]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CISA's KEV Catalog Updated with 3 New Flaws Threatening IT Management Systems]]></title>
-        <id>https://thehackernews.com/2023/03/cisas-kev-catalog-updated-with-3-new.html</id>
-        <link href="https://thehackernews.com/2023/03/cisas-kev-catalog-updated-with-3-new.html"/>
-        <updated>2023-03-08T06:30:00.000Z</updated>
-        <summary type="html"><![CDATA[The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added three security flaws to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation.
-The list of vulnerabilities is below -
-
-CVE-2022-35914 (CVSS score: 9.8) - Teclib GLPI Remote Code Execution Vulnerability
-CVE-2022-33891 (CVSS score: 8.8) - Apache Spark Command Injection Vulnerability]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>

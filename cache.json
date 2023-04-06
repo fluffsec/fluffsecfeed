@@ -33,6 +33,16 @@
       "siteUrl": "https://www.cisa.gov/",
       "articles": [
         {
+          "id": "/node/17876",
+          "author": "CISA",
+          "description": "CISA released seven Industrial Control Systems (ICS) advisories on April 6, 2023. These advisories provide timely information about current security issues, vulnerabilities, and exploits surrounding ICS.\nICSA-23-096-01 Industrial Control Links ScadaFlex II SCADA Controllers\nICSA-23-096-02 JTEKT Screen Creator Advance 2\nICSA-23-096-03 JTEKT Kostac PLC\nICSA-23-096-04 Korenix Jetwave\nICSA-23-096-05 Hitachi Energy MicroSCADA System Data Manager SDM600\nICSA-23-096-06 mySCADA myPRO\nICSA-20-051-02 Rockwell Automation FactoryTalk Diagnostics (Update A)\nCISA encourages users and administrators to review the newly released ICS advisories for technical details and mitigations.",
+          "link": "https://www.cisa.gov/news-events/alerts/2023/04/06/cisa-releases-seven-industrial-control-systems-advisories",
+          "publishedOn": "2023-04-06T12:00:00.000Z",
+          "wordCount": 560,
+          "title": "CISA Releases Seven Industrial Control Systems Advisories",
+          "imageUrl": null
+        },
+        {
           "id": "/node/17843",
           "author": "CISA",
           "description": "CISA released one Industrial Control Systems (ICS) advisory on April 4, 2023. This advisory provides timely information about current security issues, vulnerabilities, and exploits surrounding ICS. \nICSA-23-094-01 Nexx Smart Home Device\nCISA encourages users and administrators to review the newly released ICS advisories for technical details and mitigations.",
@@ -419,6 +429,76 @@
       "feedUrl": "https://www.darkreading.com/rss.xml",
       "siteUrl": "https://www.darkreading.com",
       "articles": [
+        {
+          "id": "https://www.darkreading.com/attacks-breaches/bec-3-tax-season-quickbooks-cyberattacks",
+          "author": "Elizabeth Montalbano, Contributor, Dark Reading",
+          "description": "In next-gen, credential-harvesting attacks, phishing emails use cloud services and are free from the typical bad grammar or typos they've traditionally used (and which users have learned to flag).",
+          "link": "https://www.darkreading.com/attacks-breaches/bec-3-tax-season-quickbooks-cyberattacks",
+          "publishedOn": "2023-04-06T19:01:00.000Z",
+          "wordCount": 14586,
+          "title": "'BEC 3.0' Is Here With Tax-Season QuickBooks Cyberattacks",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltbfd004d139d42d70/6303bca6236c2476a257760e/ElizabethMontalbano.jpg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltbfd004d139d42d70/6303bca6236c2476a257760e/ElizabethMontalbano.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/attacks-breaches/australia-is-scouring-the-earth-for-cybercriminals-the-us-should-too",
+          "author": "Chris Bowen, Founder & CISO, ClearDATA",
+          "description": "It's time to get ahead of attacks before they even happen.",
+          "link": "https://www.darkreading.com/attacks-breaches/australia-is-scouring-the-earth-for-cybercriminals-the-us-should-too",
+          "publishedOn": "2023-04-06T17:00:00.000Z",
+          "wordCount": 14237,
+          "title": "Australia Is Scouring the Earth for Cybercriminals — the US Should Too",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltb62e0bd0f8f1c0a8/642df0aca189d5105af8b4af/Chris_Bowen_Headshot.jpeg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltb62e0bd0f8f1c0a8/642df0aca189d5105af8b4af/Chris_Bowen_Headshot.jpeg"
+        },
+        {
+          "id": "https://www.darkreading.com/attacks-breaches/it-takes-ai-security-to-fight-ai-cyberattacks",
+          "author": null,
+          "description": "New threats from generative AI demand a generative AI security response.",
+          "link": "https://www.darkreading.com/attacks-breaches/it-takes-ai-security-to-fight-ai-cyberattacks",
+          "publishedOn": "2023-04-06T15:00:00.000Z",
+          "wordCount": 14102,
+          "title": "It Takes AI Security to Fight AI Cyberattacks",
+          "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/vulnerabilities-threats/what-to-discuss-at-rsa-conference-and-it-s-not-chatgpt",
+          "author": "Nigel Houghton, Director of Marketplace and Ecosystem Development, ThreatQuotient",
+          "description": "In-person conversations are a productive way to understand the state of the industry and learn new techniques. Take advantage of peers' experience, compare notes, and boost your skill set.",
+          "link": "https://www.darkreading.com/vulnerabilities-threats/what-to-discuss-at-rsa-conference-and-it-s-not-chatgpt",
+          "publishedOn": "2023-04-06T14:00:00.000Z",
+          "wordCount": 14565,
+          "title": "What to Discuss at RSA Conference — and It's Not ChatGPT",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt02833bf3da74b19c/642db84bd3445310e12153a7/nigel.jpg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt02833bf3da74b19c/642db84bd3445310e12153a7/nigel.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/vulnerabilities-threats/styx-marketplace-provides-hub-financial-cybercrime",
+          "author": "Dark Reading Staff, Dark Reading",
+          "description": "An emerging, illicit marketplace proves that financial cybercrime is still on the rise, with a need for countries to collectively put safeguards in place.",
+          "link": "https://www.darkreading.com/vulnerabilities-threats/styx-marketplace-provides-hub-financial-cybercrime",
+          "publishedOn": "2023-04-06T13:30:00.000Z",
+          "wordCount": 12017,
+          "title": "Styx Marketplace Provides Hub for Financial Cybercrime",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blte161b23f0fd3a84b/60b1ea374e7eb868c4c6a293/dr_staff_125x125.jpg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blte161b23f0fd3a84b/60b1ea374e7eb868c4c6a293/dr_staff_125x125.jpg"
+        },
         {
           "id": "https://www.darkreading.com/vulnerabilities-threats/pope-mobile-security-vatican-mdm-move",
           "author": "Nate Nelson, Contributing Writer, Dark Reading",
@@ -6091,22 +6171,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgohm4q_lPJFXuTUSjYXa74IXswerV51V2qgq7gLxVJwPu8SIIZmsNgH1YrJEWzNP-Gb74jmiV4wCEGYeqQ7ztfvyBh3qV1TfHtr0ntqEQ-kGEjXNq8ifdJx1ljLJVaSrnWgB7v0iE6s5yQMt9G5r2cVzEqMJ5c6foodYS3TQRnRcM8nj9GmsCmDiUk/s1600/chinese-hacker-panda.png"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgohm4q_lPJFXuTUSjYXa74IXswerV51V2qgq7gLxVJwPu8SIIZmsNgH1YrJEWzNP-Gb74jmiV4wCEGYeqQ7ztfvyBh3qV1TfHtr0ntqEQ-kGEjXNq8ifdJx1ljLJVaSrnWgB7v0iE6s5yQMt9G5r2cVzEqMJ5c6foodYS3TQRnRcM8nj9GmsCmDiUk/s1600/chinese-hacker-panda.png"
-        },
-        {
-          "id": "https://thehackernews.com/2023/03/cisas-kev-catalog-updated-with-3-new.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added three security flaws to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation.\nThe list of vulnerabilities is below -\n\nCVE-2022-35914 (CVSS score: 9.8) - Teclib GLPI Remote Code Execution Vulnerability\nCVE-2022-33891 (CVSS score: 8.8) - Apache Spark Command Injection Vulnerability",
-          "link": "https://thehackernews.com/2023/03/cisas-kev-catalog-updated-with-3-new.html",
-          "publishedOn": "2023-03-08T06:30:00.000Z",
-          "wordCount": null,
-          "title": "CISA's KEV Catalog Updated with 3 New Flaws Threatening IT Management Systems",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj7TpLK_R8uH3evBua6oPgzKIQ6rW7QXX47gT3VV5ROBDJ3685UjbPmBCfLCRsP6HWSsfbMGpkwukNJTtJOrEF0rvanahw6BtVbXKegX6jspuyoXf4kV1QI2BoPtKzJVvxw7lnswI9tD7TqHchchU-Fm7TbzIadJhG1lTwNthctSvxcauVqI5wKJj-X/s1600/cyber.png"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj7TpLK_R8uH3evBua6oPgzKIQ6rW7QXX47gT3VV5ROBDJ3685UjbPmBCfLCRsP6HWSsfbMGpkwukNJTtJOrEF0rvanahw6BtVbXKegX6jspuyoXf4kV1QI2BoPtKzJVvxw7lnswI9tD7TqHchchU-Fm7TbzIadJhG1lTwNthctSvxcauVqI5wKJj-X/s1600/cyber.png"
         }
       ]
     }
