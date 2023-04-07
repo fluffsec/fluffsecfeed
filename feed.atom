@@ -2,10 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-04-07T13:21:05.965Z</updated>
+    <updated>2023-04-07T19:14:37.110Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Microsoft, Fortra & Health-ISAC Team Up to Remove Illicit Cobalt Strike Tools]]></title>
+        <id>https://www.darkreading.com/application-security/microsoft-fortra-health-isac-team-up-to-remove-illicit-cobalt-strike-tools</id>
+        <link href="https://www.darkreading.com/application-security/microsoft-fortra-health-isac-team-up-to-remove-illicit-cobalt-strike-tools"/>
+        <updated>2023-04-07T17:30:00.000Z</updated>
+        <summary type="html"><![CDATA[The effort aims to disrupt the use of altered Cobalt Strike software by cybercriminals in ransomware and other attacks.]]></summary>
+        <author>
+            <name>Dark Reading Staff, Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TikTok, Other Mobile Apps Violate Privacy Regulations]]></title>
+        <id>https://www.darkreading.com/vulnerabilities-threats/tiktok-other-mobile-apps-violate-privacy-regulations</id>
+        <link href="https://www.darkreading.com/vulnerabilities-threats/tiktok-other-mobile-apps-violate-privacy-regulations"/>
+        <updated>2023-04-07T17:00:00.000Z</updated>
+        <summary type="html"><![CDATA[App developers are ignoring laws and guidelines regulating data protection measures aimed at minors, putting their monetization plans in jeopardy and risking user trust.]]></summary>
+        <author>
+            <name>Nathan Eddy, Contributing Writer, Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Close the Permissions Gap With Identity And Access Management For Multicloud Workforces]]></title>
+        <id>https://www.darkreading.com/cloud/close-the-permissions-gap-with-identity-and-access-management-for-multicloud-workforces</id>
+        <link href="https://www.darkreading.com/cloud/close-the-permissions-gap-with-identity-and-access-management-for-multicloud-workforces"/>
+        <updated>2023-04-07T15:20:00.000Z</updated>
+        <summary type="html"><![CDATA[Consolidating identity management on one platform gives organizations real-time access management for all identities on hybrid and multicloud installations. (First of a two-part series.)]]></summary>
+        <author>
+            <name>Microsoft Security, Microsoft</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Printers Pose Persistent Yet Overlooked Threat]]></title>
+        <id>https://www.darkreading.com/vulnerabilities-threats/printers-pose-persistent-yet-overlooked-threat</id>
+        <link href="https://www.darkreading.com/vulnerabilities-threats/printers-pose-persistent-yet-overlooked-threat"/>
+        <updated>2023-04-07T14:50:00.000Z</updated>
+        <summary type="html"><![CDATA[Vulnerabilities in the device firmware and drivers underscore how printers cannot be set-and-forget technology and need to be managed.]]></summary>
+        <author>
+            <name>Robert Lemos, Contributing Writer, Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bad Actors Will Use Large Language Models — but Defenders Can, Too]]></title>
+        <id>https://www.darkreading.com/vulnerabilities-threats/bad-actors-will-use-large-language-models-defenders-can-too</id>
+        <link href="https://www.darkreading.com/vulnerabilities-threats/bad-actors-will-use-large-language-models-defenders-can-too"/>
+        <updated>2023-04-07T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Security teams need to find the best, most effective uses of large language models for defensive purposes.]]></summary>
+        <author>
+            <name>Rob Gurzeev, CEO &amp; Co-Founder, CyCognito</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Cybercriminals 'CAN' Steal Your Car, Using Novel IoT Hack]]></title>
         <id>https://www.darkreading.com/attacks-breaches/cybercriminals-can-steal-your-car-novel-iot-hack</id>
@@ -25,6 +75,39 @@
 "To promote their 'goods,' phishers create Telegram channels through which they educate their audience about phishing and entertain subscribers with polls like, 'What type]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CISA Adds Five Known Exploited Vulnerabilities to Catalog]]></title>
+        <id>/node/17878</id>
+        <link href="https://www.cisa.gov/news-events/alerts/2023/04/07/cisa-adds-five-known-exploited-vulnerabilities-catalog"/>
+        <updated>2023-04-07T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[CISA has added five new vulnerabilities to its Known Exploited Vulnerabilities Catalog, based on evidence of active exploitation.
+CVE-2021-27876 Veritas Backup Exec Agent File Access Vulnerability
+CVE-2021-27877 Veritas Backup Exec Agent Improper Authentication Vulnerability
+CVE-2021-27878 Veritas Backup Exec Agent Command Execution Vulnerability
+CVE-2019-1388 Microsoft Windows Certificate Dialog Privilege Escalation Vulnerability
+CVE-2023-26083 Arm Mali GPU Kernel Driver Information Disclosure Vulnerability
+These types of vulnerabilities are frequent attack vectors for malicious cyber actors and pose significant risks to the federal enterprise. Note: To view other newly added vulnerabilities in the catalog, click on the arrow in the "Date Added to Catalog" column—which will sort by descending dates.
+Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the Known Exploited Vulnerabilities Catalog as a living list of known Common Vulnerabilities and Exposures (CVEs) that carry significant risk to the federal enterprise. BOD 22-01 requires Federal Civilian Executive Branch (FCEB) agencies to remediate identified vulnerabilities by the due date to protect FCEB networks against active threats. See the BOD 22-01 Fact Sheet for more information.
+Although BOD 22-01 only applies to FCEB agencies, CISA strongly urges all organizations to reduce their exposure to cyberattacks by prioritizing timely remediation of Catalog vulnerabilities as part of their vulnerability management practice. CISA will continue to add vulnerabilities to the catalog that meet the specified criteria.]]></summary>
+        <author>
+            <name>CISA</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cisco Releases Security Advisories for Multiple Products]]></title>
+        <id>/node/17877</id>
+        <link href="https://www.cisa.gov/news-events/alerts/2023/04/07/cisco-releases-security-advisories-multiple-products"/>
+        <updated>2023-04-07T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Cisco has released security advisories for vulnerabilities affecting multiple Cisco products. A remote cyber threat actor could exploit these vulnerabilities to take control of an affected system.
+CISA encourages users and administrators to review the following advisories and apply the necessary updates:
+Cisco Secure Network Analytics Remote Code Execution Vulnerability cisco-sa-stealthsmc-rce-sfNBPjcS
+Cisco Small Business RV320 and RV325 Dual Gigabit WAN VPN Routers Command Injection Vulnerabilities cisco-sa-sb-rv32x-cmdinject-cKQsZpxL
+Cisco Evolved Programmable Network Manager, Cisco Identity Services Engine, and Cisco Prime Infrastructure Command Injection Vulnerabilities cisco-sa-adeos-MLAyEcvk
+For updates addressing lower severity vulnerabilities, see the Cisco Security Advisories page.]]></summary>
+        <author>
+            <name>CISA</name>
         </author>
     </entry>
     <entry>
@@ -4848,18 +4931,6 @@ The cybersecurity]]></summary>
         <summary type="html"><![CDATA[The infamous cryptocurrency miner group called 8220 Gang has been observed using a new crypter called ScrubCrypt to carry out cryptojacking operations.
 According to Fortinet FortiGuard Labs, the attack chain commences with successful exploitation of susceptible Oracle WebLogic servers to download a PowerShell script that contains ScrubCrypt.
 Crypters are a type of software that can encrypt,]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Critical Flaw in FortiOS and FortiProxy Could Give Hackers Remote Access]]></title>
-        <id>https://thehackernews.com/2023/03/new-critical-flaw-in-fortios-and.html</id>
-        <link href="https://thehackernews.com/2023/03/new-critical-flaw-in-fortios-and.html"/>
-        <updated>2023-03-09T05:23:00.000Z</updated>
-        <summary type="html"><![CDATA[Fortinet has released fixes to address 15 security flaws, including one critical vulnerability impacting FortiOS and FortiProxy that could enable a threat actor to take control of affected systems.
-The issue, tracked as CVE-2023-25610, is rated 9.3 out of 10 for severity and was internally discovered and reported by its security teams.
-"A buffer underwrite ('buffer underflow') vulnerability in]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
