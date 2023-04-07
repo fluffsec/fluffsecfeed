@@ -2,10 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-04-07T02:03:00.407Z</updated>
+    <updated>2023-04-07T07:16:35.852Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Takes Legal Action to Disrupt Cybercriminals' Illegal Use of Cobalt Strike Tool]]></title>
+        <id>https://thehackernews.com/2023/04/microsoft-takes-legal-action-to-disrupt.html</id>
+        <link href="https://thehackernews.com/2023/04/microsoft-takes-legal-action-to-disrupt.html"/>
+        <updated>2023-04-07T06:15:00.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft said it teamed up with Fortra and Health Information Sharing and Analysis Center (Health-ISAC) to tackle the abuse of Cobalt Strike by cybercriminals to distribute malware, including ransomware.
+To that end, the tech giant's Digital Crimes Unit (DCU) revealed that it secured a court order in the U.S. to "remove illegal, legacy copies of Cobalt Strike so they can no longer be used by]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Are Source Code Leaks the New Threat Software vendors Should Care About?]]></title>
+        <id>https://thehackernews.com/2023/04/are-source-code-leaks-new-threat.html</id>
+        <link href="https://thehackernews.com/2023/04/are-source-code-leaks-new-threat.html"/>
+        <updated>2023-04-07T06:14:00.000Z</updated>
+        <summary type="html"><![CDATA[Less than a month ago, Twitter indirectly acknowledged that some of its source code had been leaked on the code-sharing platform GitHub by sending a copyright infringement notice to take down the incriminated repository. The latter is now inaccessible, but according to the media, it was accessible to the public for several months. A user going by the name FreeSpeechEnthousiast committed]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CISA Warns of Critical ICS Flaws in Hitachi, mySCADA, ICL, and Nexx Products]]></title>
+        <id>https://thehackernews.com/2023/04/cisa-warns-of-critical-ics-flaws-in.html</id>
+        <link href="https://thehackernews.com/2023/04/cisa-warns-of-critical-ics-flaws-in.html"/>
+        <updated>2023-04-07T05:59:00.000Z</updated>
+        <summary type="html"><![CDATA[The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has published eight Industrial Control Systems (ICS) advisories warning of critical flaws affecting products from Hitachi Energy, mySCADA Technologies, Industrial Control Links, and Nexx.
+Topping the list is CVE-2022-3682 (CVSS score: 9.9), impacting Hitachi Energy's MicroSCADA System Data Manager SDM600 that could allow an]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Fight AI With AI]]></title>
         <id>https://www.darkreading.com/dr-tech/fight-ai-with-ai</id>
@@ -4849,97 +4881,6 @@ The issue, tracked as CVE-2023-25610, is rated 9.3 out of 10 for severity and w
         <summary type="html"><![CDATA[Led by growth in Russia, more than 40% of global ICS systems faced malicious activity in the second half of 2022.]]></summary>
         <author>
             <name>Dark Reading Staff, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Russian Influence Duo Targets Politicians, CEOs for Embarrassing Video Calls]]></title>
-        <id>https://www.darkreading.com/threat-intelligence/russian-influence-duo-targets-politicians-ceos-video-calls</id>
-        <link href="https://www.darkreading.com/threat-intelligence/russian-influence-duo-targets-politicians-ceos-video-calls"/>
-        <updated>2023-03-08T17:31:00.000Z</updated>
-        <summary type="html"><![CDATA[A state-backed threat actor impersonates political figures, tricking a prime minister, a former US president, and several European mayors and MPs into video calls later used in an anti-Ukraine influence campaign.]]></summary>
-        <author>
-            <name>Jai Vijayan, Contributing Writer, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI-Powered 'BlackMamba' Keylogging Attack Evades Modern EDR Security]]></title>
-        <id>https://www.darkreading.com/endpoint/ai-blackmamba-keylogging-edr-security</id>
-        <link href="https://www.darkreading.com/endpoint/ai-blackmamba-keylogging-edr-security"/>
-        <updated>2023-03-08T16:50:40.000Z</updated>
-        <summary type="html"><![CDATA[Researchers warn that polymorphic malware created with ChatGPT and other LLMs will force a reinvention of security automation.]]></summary>
-        <author>
-            <name>Elizabeth Montalbano, Contributor, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Jenkins Security Alert: New Security Flaws Could Allow Code Execution Attacks]]></title>
-        <id>https://thehackernews.com/2023/03/jenkins-security-alert-new-security.html</id>
-        <link href="https://thehackernews.com/2023/03/jenkins-security-alert-new-security.html"/>
-        <updated>2023-03-08T16:30:00.000Z</updated>
-        <summary type="html"><![CDATA[A pair of severe security vulnerabilities have been disclosed in the Jenkins open source automation server that could lead to code execution on targeted systems.
-The flaws, tracked as CVE-2023-27898 and CVE-2023-27905, impact the Jenkins server and Update Center, and have been collectively christened CorePlague by cloud security firm Aqua. All versions of Jenkins versions prior to 2.319.2 are]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lacework Launches Secured by Women Initiative]]></title>
-        <id>https://www.darkreading.com/operations/lacework-launches-secured-by-women-initiative-</id>
-        <link href="https://www.darkreading.com/operations/lacework-launches-secured-by-women-initiative-"/>
-        <updated>2023-03-08T15:30:00.000Z</updated>
-        <summary type="html"><![CDATA[For International Women's Month, new ongoing initiative is aimed at celebrating women and bringing visibility to those making cybersecurity history.]]></summary>
-        <author>
-            <name>Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Surge in Cloud Adoption Means a Greater Data Attack Surface for Healthcare and Financial Services]]></title>
-        <id>https://www.darkreading.com/cloud/surge-in-cloud-adoption-means-a-greater-data-attack-surface-for-healthcare-and-financial-services</id>
-        <link href="https://www.darkreading.com/cloud/surge-in-cloud-adoption-means-a-greater-data-attack-surface-for-healthcare-and-financial-services"/>
-        <updated>2023-03-08T15:10:00.000Z</updated>
-        <summary type="html"><![CDATA[Organizations in both industries are falling short when addressing new challenges to protect data in the cloud, finds Blancco report.]]></summary>
-        <author>
-            <name>Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rising Public Cloud Adoption Is Accelerating Shadow Data Risks]]></title>
-        <id>https://www.darkreading.com/cloud/rising-public-cloud-adoption-is-accelerating-shadow-data-risks</id>
-        <link href="https://www.darkreading.com/cloud/rising-public-cloud-adoption-is-accelerating-shadow-data-risks"/>
-        <updated>2023-03-08T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Using a risk-based approach to deal with policy violations and continuous compliance monitoring will help avoid data exposures and fines.]]></summary>
-        <author>
-            <name>Amit Shaked, CEO &amp; Co-Founder, Laminar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Three-Quarters of Vulnerabilities Used in Ransomware Attacks Were Discovered Before 2020]]></title>
-        <id>https://blog.knowbe4.com/most-ransomware-vulnerabilities-discovered-before-2020</id>
-        <link href="https://blog.knowbe4.com/most-ransomware-vulnerabilities-discovered-before-2020"/>
-        <updated>2023-03-08T14:24:07.000Z</updated>
-        <summary type="html"><![CDATA[Despite a lot of focus on phishing and remote access as initial access vectors, new data shows the use of vulnerabilities is not only on the rise, but simply isn’t being properly addressed.]]></summary>
-        <author>
-            <name>Stu Sjouwerman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Half of all Sites Used in Phishing Attacks Impersonate Financial Institutions]]></title>
-        <id>https://blog.knowbe4.com/phishing-attacks-impersonate-financial-institutions</id>
-        <link href="https://blog.knowbe4.com/phishing-attacks-impersonate-financial-institutions"/>
-        <updated>2023-03-08T14:24:04.000Z</updated>
-        <summary type="html"><![CDATA[As credential theft-focused phishing attacks continue to assist initial access brokers, new data shows banking fraud continues to be a material threat to individuals and businesses alike.]]></summary>
-        <author>
-            <name>Stu Sjouwerman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google Phishing Pages Jump 1,560% YoY]]></title>
-        <id>https://blog.knowbe4.com/google-phishing-pages-jump-1560-yoy</id>
-        <link href="https://blog.knowbe4.com/google-phishing-pages-jump-1560-yoy"/>
-        <updated>2023-03-08T14:23:56.000Z</updated>
-        <summary type="html"><![CDATA[Vade has released a report looking at phishing trends in 2022. The researchers say the top three most-impersonated brands last year were Facebook, Microsoft, and Google.]]></summary>
-        <author>
-            <name>Stu Sjouwerman</name>
         </author>
     </entry>
 </feed>
