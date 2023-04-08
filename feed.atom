@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-04-08T02:00:31.700Z</updated>
+    <updated>2023-04-08T07:15:55.318Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Apple Releases Updates to Address Zero-Day Flaws in iOS, iPadOS, macOS, and Safari]]></title>
+        <id>https://thehackernews.com/2023/04/apple-releases-updates-to-address-zero.html</id>
+        <link href="https://thehackernews.com/2023/04/apple-releases-updates-to-address-zero.html"/>
+        <updated>2023-04-08T05:15:00.000Z</updated>
+        <summary type="html"><![CDATA[Apple on Friday released security updates for iOS, iPadOS, macOS, and Safari web browser to address a pair of zero-day flaws that are being exploited in the wild.
+The two vulnerabilities are as follows -
+
+CVE-2023-28205 - A use after free issue in WebKit that could lead to arbitrary code execution when processing specially crafted web content.
+
+
+CVE-2023-28206 - An out-of-bounds write issue in]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Researchers Discover Critical Remote Code Execution Flaw in vm2 Sandbox Library]]></title>
+        <id>https://thehackernews.com/2023/04/researchers-discover-critical-remote.html</id>
+        <link href="https://thehackernews.com/2023/04/researchers-discover-critical-remote.html"/>
+        <updated>2023-04-08T05:04:00.000Z</updated>
+        <summary type="html"><![CDATA[The maintainers of the vm2 JavaScript sandbox module have shipped a patch to address a critical flaw that could be abused to break out of security boundaries and execute arbitrary shellcode.
+The flaw, which affects all versions, including and prior to 3.9.14, was reported by researchers from South Korea-based KAIST WSP Lab on April 6, 2023, prompting vm2 to release a fix with version 3.9.15 on]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Almost Half of Former Employees Say Their Passwords Still Work]]></title>
         <id>https://www.darkreading.com/edge-threat-monitor/almost-half-of-former-employees-say-their-passwords-still-work</id>
@@ -4806,109 +4833,6 @@ ICSA-23-068-05 Hitachi Energy Relion 670, 650 and SAM600-IO Series
 Please share your thoughts. We recently updated our anonymous Product Feedback Survey and we'd welcome your feedback.​​​​​​​]]></summary>
         <author>
             <name>CISA</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[5 Reasons You Should Care About Unmanaged Assets]]></title>
-        <id>https://www.darkreading.com/vulnerabilities-threats/5-reasons-you-should-care-about-unmanaged-assets</id>
-        <link href="https://www.darkreading.com/vulnerabilities-threats/5-reasons-you-should-care-about-unmanaged-assets"/>
-        <updated>2023-03-09T19:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Unmanaged devices pose a significant challenge and risk for many organizations. Here are the five reasons you should care about unmanaged devices and assets.]]></summary>
-        <author>
-            <name>Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Inside Threat: Developers Leaked 10M Credentials, Passwords in 2022]]></title>
-        <id>https://www.darkreading.com/application-security/inside-threat-developers-leaked-10m-credentials-passwords-2022</id>
-        <link href="https://www.darkreading.com/application-security/inside-threat-developers-leaked-10m-credentials-passwords-2022"/>
-        <updated>2023-03-09T18:41:00.000Z</updated>
-        <summary type="html"><![CDATA[More than five out of every 1,000 commits to GitHub included a software secret, half again the rate in 2021, putting applications and businesses at risk.]]></summary>
-        <author>
-            <name>Robert Lemos, Contributing Writer, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Jump-Start Your Cybersecurity Career]]></title>
-        <id>https://www.darkreading.com/operations/how-to-jump-start-your-cybersecurity-career</id>
-        <link href="https://www.darkreading.com/operations/how-to-jump-start-your-cybersecurity-career"/>
-        <updated>2023-03-09T18:00:00.000Z</updated>
-        <summary type="html"><![CDATA[With more than 700,000 cybersecurity jobs available, now is a good time to consider a career change.]]></summary>
-        <author>
-            <name>Dara Gibson , Senior Cyber Insurability Services Manager, Optiv</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Iranian APT Targets Female Activists With Mahsa Amini Protest Lures]]></title>
-        <id>https://www.darkreading.com/threat-intelligence/iranian-apt-uses-mahsa-amini-protests-to-target-female-activists</id>
-        <link href="https://www.darkreading.com/threat-intelligence/iranian-apt-uses-mahsa-amini-protests-to-target-female-activists"/>
-        <updated>2023-03-09T16:56:00.000Z</updated>
-        <summary type="html"><![CDATA[A top Iranian, state-sponsored threat is a spear-phishing campaign that uses a fake Twitter persona to target women interested in Iranian political affairs and human rights.]]></summary>
-        <author>
-            <name>Elizabeth Montalbano, Contributor, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Critical RCE Bug Opens Fortinet's Secure Web Gateway to Takeover]]></title>
-        <id>https://www.darkreading.com/application-security/critical-rce-bug-fortinet-secure-web-gateway-takeover</id>
-        <link href="https://www.darkreading.com/application-security/critical-rce-bug-fortinet-secure-web-gateway-takeover"/>
-        <updated>2023-03-09T15:11:33.000Z</updated>
-        <summary type="html"><![CDATA[Users should patch an unauthenticated remote code execution bug impacting FortiOS and FortiProxy administrative interfaces ASAP, Fortinet says.]]></summary>
-        <author>
-            <name>Dark Reading Staff, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[5 Critical Components of Effective ICS/OT Security]]></title>
-        <id>https://www.darkreading.com/ics-ot/5-critical-components-of-effective-ics-ot-security-</id>
-        <link href="https://www.darkreading.com/ics-ot/5-critical-components-of-effective-ics-ot-security-"/>
-        <updated>2023-03-09T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[These agile controls and processes can help critical infrastructure organizations build an ICS security program tailored to their own risk profile.]]></summary>
-        <author>
-            <name>Dean Parsons, SANS Certified Instructor and CEO &amp; Principal Consultant, ICS Defense Force</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hackers Exploiting Remote Desktop Software Flaws to Deploy PlugX Malware]]></title>
-        <id>https://thehackernews.com/2023/03/hackers-exploiting-remote-desktop.html</id>
-        <link href="https://thehackernews.com/2023/03/hackers-exploiting-remote-desktop.html"/>
-        <updated>2023-03-09T14:54:00.000Z</updated>
-        <summary type="html"><![CDATA[Security vulnerabilities in remote desktop programs such as Sunlogin and AweSun are being exploited by threat actors to deploy the PlugX malware.
-AhnLab Security Emergency Response Center (ASEC), in a new analysis, said it marks the continued abuse of the flaws to deliver a variety of payloads on compromised systems.
-This includes the Sliver post-exploitation framework, XMRig cryptocurrency]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Education Sector Must Act Now]]></title>
-        <id>https://blog.knowbe4.com/the-education-sector-must-act-now</id>
-        <link href="https://blog.knowbe4.com/the-education-sector-must-act-now"/>
-        <updated>2023-03-09T14:17:18.000Z</updated>
-        <summary type="html"><![CDATA[The education sector remains vulnerable as ransomware shame sites continue to feature teaching institutions from around the world. Some of the latest victims were universities from Ireland and Israel, but why are such institutions so vulnerable?]]></summary>
-        <author>
-            <name>Martin Kraemer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Phishing for Ring Customers]]></title>
-        <id>https://blog.knowbe4.com/phishing-for-ring-customers</id>
-        <link href="https://blog.knowbe4.com/phishing-for-ring-customers"/>
-        <updated>2023-03-09T14:17:15.000Z</updated>
-        <summary type="html"><![CDATA[INKY warns that a phishing campaign is targeting users of the Ring video security system. The scammers are sending brief phishing emails instructing recipients to click on the attached HTML file in order to update their membership. The file will open a webpage hosted locally on the victim’s machine, which helps the attackers avoid detection by security filters.]]></summary>
-        <author>
-            <name>Stu Sjouwerman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[IceFire Ransomware Exploits IBM Aspera Faspex to Attack Linux-Powered Enterprise Networks]]></title>
-        <id>https://thehackernews.com/2023/03/icefire-linux-ransomware.html</id>
-        <link href="https://thehackernews.com/2023/03/icefire-linux-ransomware.html"/>
-        <updated>2023-03-09T14:01:00.000Z</updated>
-        <summary type="html"><![CDATA[A previously known Windows-based ransomware strain known as IceFire has expanded its focus to target Linux enterprise networks belonging to several media and entertainment sector organizations across the world.
-The intrusions entail the exploitation of a recently disclosed deserialization vulnerability in IBM Aspera Faspex file-sharing software (CVE-2022-47986, CVSS score: 9.8), according to]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
         </author>
     </entry>
 </feed>
