@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-04-08T13:19:17.408Z</updated>
+    <updated>2023-04-08T19:13:45.234Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Taiwanese PC Company MSI Falls Victim to Ransomware Attack]]></title>
+        <id>https://thehackernews.com/2023/04/taiwanese-pc-company-msi-falls-victim.html</id>
+        <link href="https://thehackernews.com/2023/04/taiwanese-pc-company-msi-falls-victim.html"/>
+        <updated>2023-04-08T14:37:00.000Z</updated>
+        <summary type="html"><![CDATA[Taiwanese PC company MSI (short for Micro-Star International) officially confirmed it was the victim of a cyber attack on its systems.
+The company said it "promptly" initiated incident response and recovery measures after detecting "network anomalies." It also said it alerted law enforcement agencies of the matter.
+That said, MSI did not disclose any specifics about when the attack took place]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Iran-Based Hackers Caught Carrying Out Destructive Attacks Under Ransomware Guise]]></title>
         <id>https://thehackernews.com/2023/04/iran-based-hackers-caught-carrying-out.html</id>
@@ -4714,16 +4726,6 @@ Named "Xenomorph 3rd generation" by the Hadoken Security Group, the threat actor
 Google-owned Mandiant said the threat cluster shares "multiple overlaps" with a long-running operation dubbed "Dream Job" that employs job recruitment lures in]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Proposed FCC Rule Redefines Data Breaches for Communications Carriers]]></title>
-        <id>https://www.darkreading.com/edge-articles/proposed-fcc-rule-redefines-data-breaches-for-communications-carriers</id>
-        <link href="https://www.darkreading.com/edge-articles/proposed-fcc-rule-redefines-data-breaches-for-communications-carriers"/>
-        <updated>2023-03-10T01:32:00.000Z</updated>
-        <summary type="html"><![CDATA[If the proposed rule is approved, organizations would need to disclose all data breaches, even one that does not cause any harm, to affected customers.]]></summary>
-        <author>
-            <name>Stephen Lawton, Contributing Writer</name>
         </author>
     </entry>
 </feed>
