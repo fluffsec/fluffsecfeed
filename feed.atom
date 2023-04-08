@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-04-07T19:14:37.110Z</updated>
+    <updated>2023-04-08T02:00:31.700Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Almost Half of Former Employees Say Their Passwords Still Work]]></title>
+        <id>https://www.darkreading.com/edge-threat-monitor/almost-half-of-former-employees-say-their-passwords-still-work</id>
+        <link href="https://www.darkreading.com/edge-threat-monitor/almost-half-of-former-employees-say-their-passwords-still-work"/>
+        <updated>2023-04-07T20:00:00.000Z</updated>
+        <summary type="html"><![CDATA[It's not hacking if organizations fail to terminate password access after employees leave.]]></summary>
+        <author>
+            <name>Dark Reading Staff, Dark Reading</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Microsoft, Fortra & Health-ISAC Team Up to Remove Illicit Cobalt Strike Tools]]></title>
         <id>https://www.darkreading.com/application-security/microsoft-fortra-health-isac-team-up-to-remove-illicit-cobalt-strike-tools</id>
@@ -4897,40 +4907,6 @@ This includes the Sliver post-exploitation framework, XMRig cryptocurrency]]><
         <updated>2023-03-09T14:01:00.000Z</updated>
         <summary type="html"><![CDATA[A previously known Windows-based ransomware strain known as IceFire has expanded its focus to target Linux enterprise networks belonging to several media and entertainment sector organizations across the world.
 The intrusions entail the exploitation of a recently disclosed deserialization vulnerability in IBM Aspera Faspex file-sharing software (CVE-2022-47986, CVSS score: 9.8), according to]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Does Your Help Desk Know Who's Calling?]]></title>
-        <id>https://thehackernews.com/2023/03/does-your-help-desk-know-whos-calling.html</id>
-        <link href="https://thehackernews.com/2023/03/does-your-help-desk-know-whos-calling.html"/>
-        <updated>2023-03-09T12:25:00.000Z</updated>
-        <summary type="html"><![CDATA[Phishing, the theft of users' credentials or sensitive data using social engineering, has been a significant threat since the early days of the internet – and continues to plague organizations today, accounting for more than 30% of all known breaches. And with the mass migration to remote working during the pandemic, hackers have ramped up their efforts to steal login credentials as they take]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Iranian Hackers Target Women Involved in Human Rights and Middle East Politics]]></title>
-        <id>https://thehackernews.com/2023/03/iranian-hackers-target-women-involved.html</id>
-        <link href="https://thehackernews.com/2023/03/iranian-hackers-target-women-involved.html"/>
-        <updated>2023-03-09T12:20:00.000Z</updated>
-        <summary type="html"><![CDATA[Iranian state-sponsored actors are continuing to engage in social engineering campaigns targeting researchers by impersonating a U.S. think tank.
-"Notably the targets in this instance were all women who are actively involved in political affairs and human rights in the Middle East region," Secureworks Counter Threat Unit (CTU) said in a report shared with The Hacker News.
-The cybersecurity]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New ScrubCrypt Crypter Used in Cryptojacking Attacks Targeting Oracle WebLogic]]></title>
-        <id>https://thehackernews.com/2023/03/new-scrubcrypt-crypter-used-in.html</id>
-        <link href="https://thehackernews.com/2023/03/new-scrubcrypt-crypter-used-in.html"/>
-        <updated>2023-03-09T08:10:00.000Z</updated>
-        <summary type="html"><![CDATA[The infamous cryptocurrency miner group called 8220 Gang has been observed using a new crypter called ScrubCrypt to carry out cryptojacking operations.
-According to Fortinet FortiGuard Labs, the attack chain commences with successful exploitation of susceptible Oracle WebLogic servers to download a PowerShell script that contains ScrubCrypt.
-Crypters are a type of software that can encrypt,]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
