@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-04-10T02:03:33.950Z</updated>
+    <updated>2023-04-10T07:16:55.110Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[CISA Warns of 5 Actively Exploited Security Flaws: Urgent Action Required]]></title>
+        <id>https://thehackernews.com/2023/04/cisa-warns-of-5-actively-exploited.html</id>
+        <link href="https://thehackernews.com/2023/04/cisa-warns-of-5-actively-exploited.html"/>
+        <updated>2023-04-10T06:25:00.000Z</updated>
+        <summary type="html"><![CDATA[The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added five security flaws to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation in the wild.
+This includes three high-severity flaws in the Veritas Backup Exec Agent software (CVE-2021-27876, CVE-2021-27877, and CVE-2021-27878) that could lead to the execution of privileged commands]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Taiwanese PC Company MSI Falls Victim to Ransomware Attack]]></title>
         <id>https://thehackernews.com/2023/04/taiwanese-pc-company-msi-falls-victim.html</id>
@@ -4518,16 +4529,6 @@ Dark Pink, also called Saaiwc, was first profiled by Group-IB earlier this yea
         <link href="https://blog.knowbe4.com/heads-up-the-svb-bankruptcy-is-a-social-engineering-bonanza"/>
         <updated>2023-03-12T11:53:43.000Z</updated>
         <summary type="html"><![CDATA[Saturday March 11, 2023 -- Over the last 24 hours, the Federal Deposit Insurance Corporation has established the FDIC Bank of Santa Clara and insured depositors will have access to funds no later than Monday morning.]]></summary>
-        <author>
-            <name>Stu Sjouwerman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The interesting history and origin of the word "Bankruptcy"]]></title>
-        <id>https://blog.knowbe4.com/the-interesting-history-and-origin-of-the-word-bankruptcy</id>
-        <link href="https://blog.knowbe4.com/the-interesting-history-and-origin-of-the-word-bankruptcy"/>
-        <updated>2023-03-11T15:18:05.000Z</updated>
-        <summary type="html"><![CDATA[Regarding the current SVB meltdown, the English word "bankruptcy" has its roots in medieval Italy. It comes from the word "banca rotta," which means "broken bench." This term was used when a money lender ran out of funds, and the bench or table they were doing business on was physically broken in half.]]></summary>
         <author>
             <name>Stu Sjouwerman</name>
         </author>
