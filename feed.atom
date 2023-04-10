@@ -2,10 +2,98 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-04-10T13:21:24.624Z</updated>
+    <updated>2023-04-10T19:14:42.771Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[High-Stakes Ransomware Response: Know What Cards You Hold]]></title>
+        <id>https://www.darkreading.com/attacks-breaches/high-stakes-ransomware-response-cards-hold</id>
+        <link href="https://www.darkreading.com/attacks-breaches/high-stakes-ransomware-response-cards-hold"/>
+        <updated>2023-04-10T19:00:56.000Z</updated>
+        <summary type="html"><![CDATA[When ransomware strikes, how much should you gamble on your resources and opponents' intentions? Here's how to deal yourself a rational, informed way to weigh your options after an attack.]]></summary>
+        <author>
+            <name>Elizabeth Montalbano, Contributor, Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Russia's Joker DPR Claims Access to Ukraine Troop Movement Data]]></title>
+        <id>https://www.darkreading.com/attacks-breaches/russia-joker-dpr-access-ukraine-troop-movement-data</id>
+        <link href="https://www.darkreading.com/attacks-breaches/russia-joker-dpr-access-ukraine-troop-movement-data"/>
+        <updated>2023-04-10T17:45:00.000Z</updated>
+        <summary type="html"><![CDATA[A hacktivist group working with Russia claims it breached DELTA, the Ukrainian battlefield management system (BMS).]]></summary>
+        <author>
+            <name>Becky Bracken, Editor, Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How and Why to Put Multicloud to Work]]></title>
+        <id>https://www.darkreading.com/edge-articles/how-and-why-to-put-multicloud-to-work</id>
+        <link href="https://www.darkreading.com/edge-articles/how-and-why-to-put-multicloud-to-work"/>
+        <updated>2023-04-10T17:33:00.000Z</updated>
+        <summary type="html"><![CDATA[Complex multicloud environments present organizations with security challenges, but also opportunities for efficiency.]]></summary>
+        <author>
+            <name>Joshua Goldfarb, Security and Fraud Architect, F5</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Alarming Tax Phishing Campaign Targets US with Malware]]></title>
+        <id>https://blog.knowbe4.com/tax-phishing-campaign</id>
+        <link href="https://blog.knowbe4.com/tax-phishing-campaign"/>
+        <updated>2023-04-10T14:21:40.000Z</updated>
+        <summary type="html"><![CDATA[Researchers at Securonix are tracking an ongoing phishing campaign dubbed “TACTICAL#OCTOPUS” that’s been targeting users in the US with tax-related phishing emails.]]></summary>
+        <author>
+            <name>Stu Sjouwerman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rethinking Cybersecurity's Structure & the Role of the Modern CISO]]></title>
+        <id>https://www.darkreading.com/operations/rethinking-cybersecurity-s-structure-the-role-of-the-modern-ciso</id>
+        <link href="https://www.darkreading.com/operations/rethinking-cybersecurity-s-structure-the-role-of-the-modern-ciso"/>
+        <updated>2023-04-10T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A CISO with a focused role will be better prepared to thrive in an organization and accelerate adoption and understanding of cybersecurity.]]></summary>
+        <author>
+            <name>Justin Fimlaid, CEO, NuHarbor Security</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Estonian National Charged in U.S. for Acquiring Electronics and Metasploit Pro for Russian Military]]></title>
+        <id>https://thehackernews.com/2023/04/estonian-national-charged-in-us-for.html</id>
+        <link href="https://thehackernews.com/2023/04/estonian-national-charged-in-us-for.html"/>
+        <updated>2023-04-10T13:01:00.000Z</updated>
+        <summary type="html"><![CDATA[An Estonian national has been charged in the U.S. for purchasing U.S.-made electronics on behalf of the Russian government and military.
+The 45-year-old individual, Andrey Shevlyakov, was arrested on March 28, 2023, in Tallinn. He has been indicted with 18 counts of conspiracy and other charges. If found guilty, he faces up to 20 years in prison.
+Court documents allege that Shevlyakov operated]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hackers Flood NPM with Bogus Packages Causing a DoS Attack]]></title>
+        <id>https://thehackernews.com/2023/04/hackers-flood-npm-with-bogus-packages.html</id>
+        <link href="https://thehackernews.com/2023/04/hackers-flood-npm-with-bogus-packages.html"/>
+        <updated>2023-04-10T12:45:00.000Z</updated>
+        <summary type="html"><![CDATA[Threat actors are flooding the npm open source package repository with bogus packages that briefly even resulted in a denial-of-service (DoS) attack.
+"The threat actors create malicious websites and publish empty packages with links to those malicious websites, taking advantage of open-source ecosystems' good reputation on search engines," Checkmarx's Jossef Harush Kadouri said in a report]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CISA Adds Two Known Exploited Vulnerabilities to Catalog]]></title>
+        <id>/node/17885</id>
+        <link href="https://www.cisa.gov/news-events/alerts/2023/04/10/cisa-adds-two-known-exploited-vulnerabilities-catalog"/>
+        <updated>2023-04-10T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities Catalog, based on evidence of active exploitation.
+CVE-2023-28206 Apple iOS, iPadOS, and macOS IOSurfaceAccelerator Out-of-Bounds Write Vulnerability
+CVE-2023-28205 Apple iOS, iPadOS, and macOS WebKit Use-After-Free Vulnerability
+These types of vulnerabilities are frequent attack vectors for malicious cyber actors and pose significant risks to the federal enterprise. Note: To view other newly added vulnerabilities in the catalog, click on the arrow in the "Date Added to Catalog" column—which will sort by descending dates.
+Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the Known Exploited Vulnerabilities Catalog as a living list of known Common Vulnerabilities and Exposures (CVEs) that carry significant risk to the federal enterprise. BOD 22-01 requires Federal Civilian Executive Branch (FCEB) agencies to remediate identified vulnerabilities by the due date to protect FCEB networks against active threats. See the BOD 22-01 Fact Sheet for more information.
+Although BOD 22-01 only applies to FCEB agencies, CISA strongly urges all organizations to reduce their exposure to cyberattacks by prioritizing timely remediation of Catalog vulnerabilities as part of their vulnerability management practice. CISA will continue to add vulnerabilities to the catalog that meet the specified criteria.]]></summary>
+        <author>
+            <name>CISA</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[INFOGRAPHIC] The Forrester Total Economic Impact™ of KnowBe4 by the Numbers]]></title>
         <id>https://blog.knowbe4.com/infographic-forrester-tei-study-knowbe4</id>

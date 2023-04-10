@@ -33,6 +33,16 @@
       "siteUrl": "https://www.cisa.gov/",
       "articles": [
         {
+          "id": "/node/17885",
+          "author": "CISA",
+          "description": "CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities Catalog, based on evidence of active exploitation.\nCVE-2023-28206 Apple iOS, iPadOS, and macOS IOSurfaceAccelerator Out-of-Bounds Write Vulnerability\nCVE-2023-28205 Apple iOS, iPadOS, and macOS WebKit Use-After-Free Vulnerability\nThese types of vulnerabilities are frequent attack vectors for malicious cyber actors and pose significant risks to the federal enterprise. Note: To view other newly added vulnerabilities in the catalog, click on the arrow in the \"Date Added to Catalog\" column—which will sort by descending dates.\nBinding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the Known Exploited Vulnerabilities Catalog as a living list of known Common Vulnerabilities and Exposures (CVEs) that carry significant risk to the federal enterprise. BOD 22-01 requires Federal Civilian Executive Branch (FCEB) agencies to remediate identified vulnerabilities by the due date to protect FCEB networks against active threats. See the BOD 22-01 Fact Sheet for more information.\nAlthough BOD 22-01 only applies to FCEB agencies, CISA strongly urges all organizations to reduce their exposure to cyberattacks by prioritizing timely remediation of Catalog vulnerabilities as part of their vulnerability management practice. CISA will continue to add vulnerabilities to the catalog that meet the specified criteria.",
+          "link": "https://www.cisa.gov/news-events/alerts/2023/04/10/cisa-adds-two-known-exploited-vulnerabilities-catalog",
+          "publishedOn": "2023-04-10T12:00:00.000Z",
+          "wordCount": 679,
+          "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
+          "imageUrl": null
+        },
+        {
           "id": "/node/17878",
           "author": "CISA",
           "description": "CISA has added five new vulnerabilities to its Known Exploited Vulnerabilities Catalog, based on evidence of active exploitation.\nCVE-2021-27876 Veritas Backup Exec Agent File Access Vulnerability\nCVE-2021-27877 Veritas Backup Exec Agent Improper Authentication Vulnerability\nCVE-2021-27878 Veritas Backup Exec Agent Command Execution Vulnerability\nCVE-2019-1388 Microsoft Windows Certificate Dialog Privilege Escalation Vulnerability\nCVE-2023-26083 Arm Mali GPU Kernel Driver Information Disclosure Vulnerability\nThese types of vulnerabilities are frequent attack vectors for malicious cyber actors and pose significant risks to the federal enterprise. Note: To view other newly added vulnerabilities in the catalog, click on the arrow in the \"Date Added to Catalog\" column—which will sort by descending dates.\nBinding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the Known Exploited Vulnerabilities Catalog as a living list of known Common Vulnerabilities and Exposures (CVEs) that carry significant risk to the federal enterprise. BOD 22-01 requires Federal Civilian Executive Branch (FCEB) agencies to remediate identified vulnerabilities by the due date to protect FCEB networks against active threats. See the BOD 22-01 Fact Sheet for more information.\nAlthough BOD 22-01 only applies to FCEB agencies, CISA strongly urges all organizations to reduce their exposure to cyberattacks by prioritizing timely remediation of Catalog vulnerabilities as part of their vulnerability management practice. CISA will continue to add vulnerabilities to the catalog that meet the specified criteria.",
@@ -409,6 +419,66 @@
       "feedUrl": "https://www.darkreading.com/rss.xml",
       "siteUrl": "https://www.darkreading.com",
       "articles": [
+        {
+          "id": "https://www.darkreading.com/attacks-breaches/high-stakes-ransomware-response-cards-hold",
+          "author": "Elizabeth Montalbano, Contributor, Dark Reading",
+          "description": "When ransomware strikes, how much should you gamble on your resources and opponents' intentions? Here's how to deal yourself a rational, informed way to weigh your options after an attack.",
+          "link": "https://www.darkreading.com/attacks-breaches/high-stakes-ransomware-response-cards-hold",
+          "publishedOn": "2023-04-10T19:00:56.000Z",
+          "wordCount": 15682,
+          "title": "High-Stakes Ransomware Response: Know What Cards You Hold",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltbfd004d139d42d70/6303bca6236c2476a257760e/ElizabethMontalbano.jpg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltbfd004d139d42d70/6303bca6236c2476a257760e/ElizabethMontalbano.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/attacks-breaches/russia-joker-dpr-access-ukraine-troop-movement-data",
+          "author": "Becky Bracken, Editor, Dark Reading",
+          "description": "A hacktivist group working with Russia claims it breached DELTA, the Ukrainian battlefield management system (BMS).",
+          "link": "https://www.darkreading.com/attacks-breaches/russia-joker-dpr-access-ukraine-troop-movement-data",
+          "publishedOn": "2023-04-10T17:45:00.000Z",
+          "wordCount": 13208,
+          "title": "Russia's Joker DPR Claims Access to Ukraine Troop Movement Data",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt8e7bd143d726930b/627271268681151716941064/BeckyB.jpg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt8e7bd143d726930b/627271268681151716941064/BeckyB.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/edge-articles/how-and-why-to-put-multicloud-to-work",
+          "author": "Joshua Goldfarb, Security and Fraud Architect, F5",
+          "description": "Complex multicloud environments present organizations with security challenges, but also opportunities for efficiency.",
+          "link": "https://www.darkreading.com/edge-articles/how-and-why-to-put-multicloud-to-work",
+          "publishedOn": "2023-04-10T17:33:00.000Z",
+          "wordCount": 13679,
+          "title": "How and Why to Put Multicloud to Work",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blte566b6aacec0a3ec/60d4347890ef0d39a2f3f97e/Joshua-Goldfarb2.png",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blte566b6aacec0a3ec/60d4347890ef0d39a2f3f97e/Joshua-Goldfarb2.png"
+        },
+        {
+          "id": "https://www.darkreading.com/operations/rethinking-cybersecurity-s-structure-the-role-of-the-modern-ciso",
+          "author": "Justin Fimlaid, CEO, NuHarbor Security",
+          "description": "A CISO with a focused role will be better prepared to thrive in an organization and accelerate adoption and understanding of cybersecurity.",
+          "link": "https://www.darkreading.com/operations/rethinking-cybersecurity-s-structure-the-role-of-the-modern-ciso",
+          "publishedOn": "2023-04-10T14:00:00.000Z",
+          "wordCount": 14688,
+          "title": "Rethinking Cybersecurity's Structure & the Role of the Modern CISO",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt069594ed2062b183/64301e20d1683a10fe1d4412/Justin_Fimlaid_Headshot.jpg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt069594ed2062b183/64301e20d1683a10fe1d4412/Justin_Fimlaid_Headshot.jpg"
+        },
         {
           "id": "https://www.darkreading.com/edge-threat-monitor/almost-half-of-former-employees-say-their-passwords-still-work",
           "author": "Dark Reading Staff, Dark Reading",
@@ -3065,6 +3135,16 @@
       "siteUrl": "https://blog.knowbe4.com",
       "articles": [
         {
+          "id": "https://blog.knowbe4.com/tax-phishing-campaign",
+          "author": "Stu Sjouwerman",
+          "description": "Researchers at Securonix are tracking an ongoing phishing campaign dubbed “TACTICAL#OCTOPUS” that’s been targeting users in the US with tax-related phishing emails.",
+          "link": "https://blog.knowbe4.com/tax-phishing-campaign",
+          "publishedOn": "2023-04-10T14:21:40.000Z",
+          "wordCount": 2337,
+          "title": "Alarming Tax Phishing Campaign Targets US with Malware",
+          "imageUrl": "https://blog.knowbe4.com/hubfs/Tax%20Season%20Scams.jpg#keepProtocol"
+        },
+        {
           "id": "https://blog.knowbe4.com/infographic-forrester-tei-study-knowbe4",
           "author": "Stu Sjouwerman",
           "description": "KnowBe4 commissioned Forrester Consulting to conduct a Total Economic ImpactTM study* examining the potential Return on Investment (ROI) enterprises might realize by deploying KnowBe4's Security Awareness Training and Simulated Phishing and PhishER platforms.",
@@ -3751,6 +3831,38 @@
       "feedUrl": "https://thehackernews.com/feeds/posts/default",
       "siteUrl": "https://thehackernews.com",
       "articles": [
+        {
+          "id": "https://thehackernews.com/2023/04/estonian-national-charged-in-us-for.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "An Estonian national has been charged in the U.S. for purchasing U.S.-made electronics on behalf of the Russian government and military.\nThe 45-year-old individual, Andrey Shevlyakov, was arrested on March 28, 2023, in Tallinn. He has been indicted with 18 counts of conspiracy and other charges. If found guilty, he faces up to 20 years in prison.\nCourt documents allege that Shevlyakov operated",
+          "link": "https://thehackernews.com/2023/04/estonian-national-charged-in-us-for.html",
+          "publishedOn": "2023-04-10T13:01:00.000Z",
+          "wordCount": null,
+          "title": "Estonian National Charged in U.S. for Acquiring Electronics and Metasploit Pro for Russian Military",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhdyJS_ZZPXB3EjxBnNjPY0SLkzWqHqNTrZ3D0gAr-SsRKzs6EetxLoNWvqNxfomytQNJnQDuT4HQ3SmFCTP9eYkIJch4Cm5ENwO_ANSh7ffV9UXkNy77z_xIWbYMlpPiMM932v9AOO8b3K1CtEqBfYmYFTtbm2Vc_SRsieQ06SRxZ5v0ner5HEWCRI/s1600/meta.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhdyJS_ZZPXB3EjxBnNjPY0SLkzWqHqNTrZ3D0gAr-SsRKzs6EetxLoNWvqNxfomytQNJnQDuT4HQ3SmFCTP9eYkIJch4Cm5ENwO_ANSh7ffV9UXkNy77z_xIWbYMlpPiMM932v9AOO8b3K1CtEqBfYmYFTtbm2Vc_SRsieQ06SRxZ5v0ner5HEWCRI/s1600/meta.png"
+        },
+        {
+          "id": "https://thehackernews.com/2023/04/hackers-flood-npm-with-bogus-packages.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Threat actors are flooding the npm open source package repository with bogus packages that briefly even resulted in a denial-of-service (DoS) attack.\n\"The threat actors create malicious websites and publish empty packages with links to those malicious websites, taking advantage of open-source ecosystems' good reputation on search engines,\" Checkmarx's Jossef Harush Kadouri said in a report",
+          "link": "https://thehackernews.com/2023/04/hackers-flood-npm-with-bogus-packages.html",
+          "publishedOn": "2023-04-10T12:45:00.000Z",
+          "wordCount": null,
+          "title": "Hackers Flood NPM with Bogus Packages Causing a DoS Attack",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhyxVlTF3iie_27KaDW2GSQvYMJZn4RUc-Zwq4njFp_ziwJLWoGgx5ENTPIrxubzc8wp5lH3npXOnAb-oM-fScIOfL14pQ3QuSRrVpRBshHMUXgKp8MNdkbcCdzztYQXxWuxSkVhFYTfpM2hTN4ULY2E-vKQIStSSdCBZ_84NfDH3ZMENbk7HCxdjYJ/s1600/npm.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhyxVlTF3iie_27KaDW2GSQvYMJZn4RUc-Zwq4njFp_ziwJLWoGgx5ENTPIrxubzc8wp5lH3npXOnAb-oM-fScIOfL14pQ3QuSRrVpRBshHMUXgKp8MNdkbcCdzztYQXxWuxSkVhFYTfpM2hTN4ULY2E-vKQIStSSdCBZ_84NfDH3ZMENbk7HCxdjYJ/s1600/npm.png"
+        },
         {
           "id": "https://thehackernews.com/2023/04/top-10-cybersecurity-trends-for-2023.html",
           "author": "info@thehackernews.com (The Hacker News)",
