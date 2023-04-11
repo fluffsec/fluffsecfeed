@@ -2,10 +2,80 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-04-11T13:22:45.361Z</updated>
+    <updated>2023-04-11T19:14:47.112Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA['Blatantly Obvious': Spyware Offered to Cyberattackers via PyPI Python Repository]]></title>
+        <id>https://www.darkreading.com/vulnerabilities-threats/spyware-offered-cyberattackers-pypi-python-repository</id>
+        <link href="https://www.darkreading.com/vulnerabilities-threats/spyware-offered-cyberattackers-pypi-python-repository"/>
+        <updated>2023-04-11T18:06:00.000Z</updated>
+        <summary type="html"><![CDATA[Malware-as-a-service hackers from Spain decided to use a public code repository to openly advertise their wares.]]></summary>
+        <author>
+            <name>Nate Nelson, Contributing Writer, Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Where Are the Women? Making Cybersecurity More Inclusive]]></title>
+        <id>https://www.darkreading.com/operations/where-are-the-women-making-cybersecurity-more-inclusive-</id>
+        <link href="https://www.darkreading.com/operations/where-are-the-women-making-cybersecurity-more-inclusive-"/>
+        <updated>2023-04-11T17:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Stepped-up recruiting efforts along with better work-life balance policies and mentoring and recruitment programs will help balance the scales.]]></summary>
+        <author>
+            <name>Corye Douglas, Risk Manager</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[7 Things Your Ransomware Response Playbook Is Likely Missing]]></title>
+        <id>https://www.darkreading.com/attacks-breaches/7-things-ransomware-response-playbooks-missing</id>
+        <link href="https://www.darkreading.com/attacks-breaches/7-things-ransomware-response-playbooks-missing"/>
+        <updated>2023-04-11T16:59:30.000Z</updated>
+        <summary type="html"><![CDATA[Incident response experts share their secrets for success when it comes to creating a professional-grade ransomware response playbook. Are you ready for the worst?]]></summary>
+        <author>
+            <name>Becky Bracken, Editor, Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Attackers Hide RedLine Stealer Behind ChatGPT, Google Bard Facebook Ads]]></title>
+        <id>https://www.darkreading.com/attacks-breaches/attackers-hide-redline-stealer-behind-chatgpt-google-bard-facebook-ads</id>
+        <link href="https://www.darkreading.com/attacks-breaches/attackers-hide-redline-stealer-behind-chatgpt-google-bard-facebook-ads"/>
+        <updated>2023-04-11T15:04:00.000Z</updated>
+        <summary type="html"><![CDATA[The campaign shrouds the commodity infostealer in OpenAI files in a play that aims to take advantage of the growing public interest in AI-based chatbots.]]></summary>
+        <author>
+            <name>Elizabeth Montalbano, Contributor, Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Password Managers Can Get Hacked]]></title>
+        <id>https://www.darkreading.com/vulnerabilities-threats/how-password-managers-can-get-hacked</id>
+        <link href="https://www.darkreading.com/vulnerabilities-threats/how-password-managers-can-get-hacked"/>
+        <updated>2023-04-11T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Password managers aren't foolproof, but they do help mitigate risks from weak credentials and password reuse. Following best practices can contribute to a company's defenses.]]></summary>
+        <author>
+            <name>Stu Sjouwerman, Founder &amp; CEO, KnowBe4, Inc.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How CIEM Can Improve Identity, Permissions Management for Multicloud Deployments]]></title>
+        <id>https://www.darkreading.com/microsoft/how-ciem-can-improve-identity-permissions-management-for-multicloud-deployments</id>
+        <link href="https://www.darkreading.com/microsoft/how-ciem-can-improve-identity-permissions-management-for-multicloud-deployments"/>
+        <updated>2023-04-11T13:45:00.000Z</updated>
+        <summary type="html"><![CDATA[The gap between permissions granted and permissions used exposes organizations to increased risk. (Part two of a two-part series.)]]></summary>
+        <author>
+            <name>Microsoft Security, Microsoft</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Israeli Irrigation Water Controllers & Postal Service Breached]]></title>
+        <id>https://www.darkreading.com/ics-ot/israeli-irrigation-water-controllers-postal-service-breached</id>
+        <link href="https://www.darkreading.com/ics-ot/israeli-irrigation-water-controllers-postal-service-breached"/>
+        <updated>2023-04-11T13:43:00.000Z</updated>
+        <summary type="html"><![CDATA[Israel's National Cyber Defense is warning of increased cyberattacks by anti-Israel groups during the month of Ramadan.]]></summary>
+        <author>
+            <name>Dark Reading Staff, Dark Reading</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CyberheistNews Vol 13 #15 [The New Face of Fraud] FTC Sheds Light on AI-Enhanced Family Emergency Scams]]></title>
         <id>https://blog.knowbe4.com/cyberheistnews-vol-13-15-the-new-face-of-fraud-ftc-sheds-light-on-ai-enhanced-family-emergency-scams</id>
@@ -46,6 +116,17 @@ The FTC explains: "Artificial intelligence is no longer a f…]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Newly Discovered "By-Design" Flaw in Microsoft Azure Could Expose Storage Accounts to Hackers]]></title>
+        <id>https://thehackernews.com/2023/04/newly-discovered-by-design-flaw-in.html</id>
+        <link href="https://thehackernews.com/2023/04/newly-discovered-by-design-flaw-in.html"/>
+        <updated>2023-04-11T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A "by-design flaw" uncovered in Microsoft Azure could be exploited by attackers to gain access to storage accounts, move laterally in the environment, and even execute remote code.
+"It is possible to abuse and leverage Microsoft Storage Accounts by manipulating Azure Functions to steal access-tokens of higher privilege identities, move laterally, potentially access critical business assets, and]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Cybercriminals Turn to Android Loaders on Dark Web to Evade Google Play Security]]></title>
         <id>https://thehackernews.com/2023/04/cybercriminals-turn-to-android-loaders.html</id>
         <link href="https://thehackernews.com/2023/04/cybercriminals-turn-to-android-loaders.html"/>
@@ -64,6 +145,85 @@ The FTC explains: "Artificial intelligence is no longer a f…]]></summary>
         <summary type="html"><![CDATA[There is no doubt that ransomware is one of the top cybersecurity challenges of our lifetime. Survey after survey has revealed senior management and IT employees from the top on down, list a successful ransomware attack as their number one cybersecurity fear above all others.]]></summary>
         <author>
             <name>Roger Grimes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple Releases Security Updates for Multiple Products]]></title>
+        <id>/node/17889</id>
+        <link href="https://www.cisa.gov/news-events/alerts/2023/04/11/apple-releases-security-updates-multiple-products"/>
+        <updated>2023-04-11T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Apple has released security updates to address vulnerabilities in multiple products. An attacker could exploit some of these vulnerabilities to take control of an affected device.
+CISA encourages users and administrators to review the following advisories and apply the necessary updates.
+iOS 15.7.5 and iPadOS 15.7.5
+macOS Monterey 12.6.5
+macOS Big Sur 11.7.6
+Safari 16.4.1
+iOS 16.4.1 and iPadOS 16.4.1
+macOS Ventura 13.3.1]]></summary>
+        <author>
+            <name>CISA</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mozilla Releases Security Advisories for Multiple Products]]></title>
+        <id>/node/17897</id>
+        <link href="https://www.cisa.gov/news-events/alerts/2023/04/11/mozilla-releases-security-advisories-multiple-products"/>
+        <updated>2023-04-11T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Mozilla has released security advisories for vulnerabilities affecting multiple Mozilla products. A cyber threat actor could exploit these vulnerabilities to take control of an affected system.
+CISA encourages users and administrators to review the following advisories and apply the necessary updates:
+Security Vulnerabilities fixed in Firefox ESR 102.10 Mozilla Foundation Security Advisory 2023-14
+Security Vulnerabilities fixed in Firefox 112, Firefox for Android 112, Focus for Android 112 Mozilla Foundation Security Advisory 2023-13]]></summary>
+        <author>
+            <name>CISA</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CISA Releases Zero Trust Maturity Model Version 2]]></title>
+        <id>/node/17812</id>
+        <link href="https://www.cisa.gov/news-events/alerts/2023/04/11/cisa-releases-zero-trust-maturity-model-version-2"/>
+        <updated>2023-04-11T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[CISA has released an update to the Zero Trust Maturity Model (ZTMM), superseding the initial version released in September 2021. ZTMM provides a roadmap for agencies to reference as they transition towards a zero-trust architecture. ZTMM also provides a gradient of implementation across five distinct pillars to facilitate federal implementation, allowing agencies to make minor advancements toward optimization over time.
+The objective of this update is to facilitate the distribution of the ZTMM Version 2 and educate federal civilian agencies on the updated ZTMM and its application to their zero-trust implementations. CISA encourages state, local, tribal, and territorial governments, and the private sector to use ZTMM as a baseline for implementing zero trust architecture.]]></summary>
+        <author>
+            <name>CISA</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CISA Adds One Known Exploited Vulnerability to Catalog]]></title>
+        <id>/node/17890</id>
+        <link href="https://www.cisa.gov/news-events/alerts/2023/04/11/cisa-adds-one-known-exploited-vulnerability-catalog"/>
+        <updated>2023-04-11T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[CISA has added one new vulnerability to its Known Exploited Vulnerabilities Catalog, based on evidence of active exploitation.
+CVE-2023-28252 Microsoft Windows Common Log File System (CLFS) Driver Privilege Escalation Vulnerability
+These types of vulnerabilities are frequent attack vectors for malicious cyber actors and pose significant risks to the federal enterprise. Note: To view other newly added vulnerabilities in the catalog, click on the arrow in the "Date Added to Catalog" column—which will sort by descending dates.
+Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the Known Exploited Vulnerabilities Catalog as a living list of known Common Vulnerabilities and Exposures (CVEs) that carry significant risk to the federal enterprise. BOD 22-01 requires Federal Civilian Executive Branch (FCEB) agencies to remediate identified vulnerabilities by the due date to protect FCEB networks against active threats. See the BOD 22-01 Fact Sheet for more information.
+Although BOD 22-01 only applies to FCEB agencies, CISA strongly urges all organizations to reduce their exposure to cyberattacks by prioritizing timely remediation of Catalog vulnerabilities as part of their vulnerability management practice. CISA will continue to add vulnerabilities to the catalog that meet the specified criteria.]]></summary>
+        <author>
+            <name>CISA</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fortinet Releases April 2023 Vulnerability Advisories]]></title>
+        <id>/node/17898</id>
+        <link href="https://www.cisa.gov/news-events/alerts/2023/04/11/fortinet-releases-april-2023-vulnerability-advisories"/>
+        <updated>2023-04-11T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Fortinet has released its April 2023 Vulnerability Advisories to address vulnerabilities affecting multiple products. An attacker could exploit one of these vulnerabilities to take control of an affected system.
+CISA encourages users and administrators to review the Fortinet April 2023 Vulnerability Advisories page for more information and apply the necessary updates.]]></summary>
+        <author>
+            <name>CISA</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CISA Releases Two Industrial Control Systems Advisories]]></title>
+        <id>/node/17892</id>
+        <link href="https://www.cisa.gov/news-events/alerts/2023/04/11/cisa-releases-two-industrial-control-systems-advisories"/>
+        <updated>2023-04-11T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[CISA released two Industrial Control Systems (ICS) advisories on April 11, 2023. These advisories provide timely information about current security issues, vulnerabilities, and exploits surrounding ICS. 
+ICSA-23-101-01 FANUC ROBOGUIDE-HandlingPRO
+ICSA-20-212-04 Mitsubishi Electric Factory Automation Engineering Products (Update K)
+CISA encourages users and administrators to review the newly released ICS advisories for technical details and mitigations.]]></summary>
+        <author>
+            <name>CISA</name>
         </author>
     </entry>
     <entry>
@@ -4780,17 +4940,6 @@ While NIST hasn’t directly developed]]></summary>
         <summary type="html"><![CDATA[More than a dozen security flaws have been disclosed in E11, a smart intercom product made by Chinese company Akuvox.
 "The vulnerabilities could allow attackers to execute code remotely in order to activate and control the device's camera and microphone, steal video and images, or gain a network foothold," Claroty security researcher Vera Mens said in a technical write-up.
 Akuvox E11 is]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[KamiKakaBot Malware Used in Latest Dark Pink APT Attacks on Southeast Asian Targets]]></title>
-        <id>https://thehackernews.com/2023/03/kamikakabot-malware-used-in-latest-dark.html</id>
-        <link href="https://thehackernews.com/2023/03/kamikakabot-malware-used-in-latest-dark.html"/>
-        <updated>2023-03-13T06:15:00.000Z</updated>
-        <summary type="html"><![CDATA[The Dark Pink advanced persistent threat (APT) actor has been linked to a fresh set of attacks targeting government and military entities in Southeast Asian countries with a malware called KamiKakaBot.
-Dark Pink, also called Saaiwc, was first profiled by Group-IB earlier this year, describing its use of custom tools such as TelePowerBot and KamiKakaBot to run arbitrary commands and exfiltrate]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>

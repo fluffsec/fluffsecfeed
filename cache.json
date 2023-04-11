@@ -33,6 +33,66 @@
       "siteUrl": "https://www.cisa.gov/",
       "articles": [
         {
+          "id": "/node/17889",
+          "author": "CISA",
+          "description": "Apple has released security updates to address vulnerabilities in multiple products. An attacker could exploit some of these vulnerabilities to take control of an affected device.\nCISA encourages users and administrators to review the following advisories and apply the necessary updates.\niOS 15.7.5 and iPadOS 15.7.5\nmacOS Monterey 12.6.5\nmacOS Big Sur 11.7.6\nSafari 16.4.1\niOS 16.4.1 and iPadOS 16.4.1\nmacOS Ventura 13.3.1",
+          "link": "https://www.cisa.gov/news-events/alerts/2023/04/11/apple-releases-security-updates-multiple-products",
+          "publishedOn": "2023-04-11T12:00:00.000Z",
+          "wordCount": 538,
+          "title": "Apple Releases Security Updates for Multiple Products",
+          "imageUrl": null
+        },
+        {
+          "id": "/node/17897",
+          "author": "CISA",
+          "description": "Mozilla has released security advisories for vulnerabilities affecting multiple Mozilla products. A cyber threat actor could exploit these vulnerabilities to take control of an affected system.\nCISA encourages users and administrators to review the following advisories and apply the necessary updates:\nSecurity Vulnerabilities fixed in Firefox ESR 102.10 Mozilla Foundation Security Advisory 2023-14\nSecurity Vulnerabilities fixed in Firefox 112, Firefox for Android 112, Focus for Android 112 Mozilla Foundation Security Advisory 2023-13",
+          "link": "https://www.cisa.gov/news-events/alerts/2023/04/11/mozilla-releases-security-advisories-multiple-products",
+          "publishedOn": "2023-04-11T12:00:00.000Z",
+          "wordCount": 547,
+          "title": "Mozilla Releases Security Advisories for Multiple Products",
+          "imageUrl": null
+        },
+        {
+          "id": "/node/17812",
+          "author": "CISA",
+          "description": "CISA has released an update to the Zero Trust Maturity Model (ZTMM), superseding the initial version released in September 2021. ZTMM provides a roadmap for agencies to reference as they transition towards a zero-trust architecture. ZTMM also provides a gradient of implementation across five distinct pillars to facilitate federal implementation, allowing agencies to make minor advancements toward optimization over time.\nThe objective of this update is to facilitate the distribution of the ZTMM Version 2 and educate federal civilian agencies on the updated ZTMM and its application to their zero-trust implementations. CISA encourages state, local, tribal, and territorial governments, and the private sector to use ZTMM as a baseline for implementing zero trust architecture.",
+          "link": "https://www.cisa.gov/news-events/alerts/2023/04/11/cisa-releases-zero-trust-maturity-model-version-2",
+          "publishedOn": "2023-04-11T12:00:00.000Z",
+          "wordCount": 591,
+          "title": "CISA Releases Zero Trust Maturity Model Version 2",
+          "imageUrl": null
+        },
+        {
+          "id": "/node/17890",
+          "author": "CISA",
+          "description": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities Catalog, based on evidence of active exploitation.\nCVE-2023-28252 Microsoft Windows Common Log File System (CLFS) Driver Privilege Escalation Vulnerability\nThese types of vulnerabilities are frequent attack vectors for malicious cyber actors and pose significant risks to the federal enterprise. Note: To view other newly added vulnerabilities in the catalog, click on the arrow in the \"Date Added to Catalog\" column—which will sort by descending dates.\nBinding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the Known Exploited Vulnerabilities Catalog as a living list of known Common Vulnerabilities and Exposures (CVEs) that carry significant risk to the federal enterprise. BOD 22-01 requires Federal Civilian Executive Branch (FCEB) agencies to remediate identified vulnerabilities by the due date to protect FCEB networks against active threats. See the BOD 22-01 Fact Sheet for more information.\nAlthough BOD 22-01 only applies to FCEB agencies, CISA strongly urges all organizations to reduce their exposure to cyberattacks by prioritizing timely remediation of Catalog vulnerabilities as part of their vulnerability management practice. CISA will continue to add vulnerabilities to the catalog that meet the specified criteria.",
+          "link": "https://www.cisa.gov/news-events/alerts/2023/04/11/cisa-adds-one-known-exploited-vulnerability-catalog",
+          "publishedOn": "2023-04-11T12:00:00.000Z",
+          "wordCount": 671,
+          "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+          "imageUrl": null
+        },
+        {
+          "id": "/node/17898",
+          "author": "CISA",
+          "description": "Fortinet has released its April 2023 Vulnerability Advisories to address vulnerabilities affecting multiple products. An attacker could exploit one of these vulnerabilities to take control of an affected system.\nCISA encourages users and administrators to review the Fortinet April 2023 Vulnerability Advisories page for more information and apply the necessary updates.",
+          "link": "https://www.cisa.gov/news-events/alerts/2023/04/11/fortinet-releases-april-2023-vulnerability-advisories",
+          "publishedOn": "2023-04-11T12:00:00.000Z",
+          "wordCount": 526,
+          "title": "Fortinet Releases April 2023 Vulnerability Advisories",
+          "imageUrl": null
+        },
+        {
+          "id": "/node/17892",
+          "author": "CISA",
+          "description": "CISA released two Industrial Control Systems (ICS) advisories on April 11, 2023. These advisories provide timely information about current security issues, vulnerabilities, and exploits surrounding ICS. \nICSA-23-101-01 FANUC ROBOGUIDE-HandlingPRO\nICSA-20-212-04 Mitsubishi Electric Factory Automation Engineering Products (Update K)\nCISA encourages users and administrators to review the newly released ICS advisories for technical details and mitigations.",
+          "link": "https://www.cisa.gov/news-events/alerts/2023/04/11/cisa-releases-two-industrial-control-systems-advisories",
+          "publishedOn": "2023-04-11T12:00:00.000Z",
+          "wordCount": 531,
+          "title": "CISA Releases Two Industrial Control Systems Advisories",
+          "imageUrl": null
+        },
+        {
           "id": "/node/17885",
           "author": "CISA",
           "description": "CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities Catalog, based on evidence of active exploitation.\nCVE-2023-28206 Apple iOS, iPadOS, and macOS IOSurfaceAccelerator Out-of-Bounds Write Vulnerability\nCVE-2023-28205 Apple iOS, iPadOS, and macOS WebKit Use-After-Free Vulnerability\nThese types of vulnerabilities are frequent attack vectors for malicious cyber actors and pose significant risks to the federal enterprise. Note: To view other newly added vulnerabilities in the catalog, click on the arrow in the \"Date Added to Catalog\" column—which will sort by descending dates.\nBinding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the Known Exploited Vulnerabilities Catalog as a living list of known Common Vulnerabilities and Exposures (CVEs) that carry significant risk to the federal enterprise. BOD 22-01 requires Federal Civilian Executive Branch (FCEB) agencies to remediate identified vulnerabilities by the due date to protect FCEB networks against active threats. See the BOD 22-01 Fact Sheet for more information.\nAlthough BOD 22-01 only applies to FCEB agencies, CISA strongly urges all organizations to reduce their exposure to cyberattacks by prioritizing timely remediation of Catalog vulnerabilities as part of their vulnerability management practice. CISA will continue to add vulnerabilities to the catalog that meet the specified criteria.",
@@ -419,6 +479,111 @@
       "feedUrl": "https://www.darkreading.com/rss.xml",
       "siteUrl": "https://www.darkreading.com",
       "articles": [
+        {
+          "id": "https://www.darkreading.com/vulnerabilities-threats/spyware-offered-cyberattackers-pypi-python-repository",
+          "author": "Nate Nelson, Contributing Writer, Dark Reading",
+          "description": "Malware-as-a-service hackers from Spain decided to use a public code repository to openly advertise their wares.",
+          "link": "https://www.darkreading.com/vulnerabilities-threats/spyware-offered-cyberattackers-pypi-python-repository",
+          "publishedOn": "2023-04-11T18:06:00.000Z",
+          "wordCount": 14564,
+          "title": "'Blatantly Obvious': Spyware Offered to Cyberattackers via PyPI Python Repository",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt91e5f91ce3f0cdd9/63d0288ac98dbe55ece1d0a9/Nate-Nelson_(1).jpg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt91e5f91ce3f0cdd9/63d0288ac98dbe55ece1d0a9/Nate-Nelson_(1).jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/operations/where-are-the-women-making-cybersecurity-more-inclusive-",
+          "author": "Corye Douglas, Risk Manager",
+          "description": "Stepped-up recruiting efforts along with better work-life balance policies and mentoring and recruitment programs will help balance the scales.",
+          "link": "https://www.darkreading.com/operations/where-are-the-women-making-cybersecurity-more-inclusive-",
+          "publishedOn": "2023-04-11T17:00:00.000Z",
+          "wordCount": 15016,
+          "title": "Where Are the Women? Making Cybersecurity More Inclusive",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt84b2e7bdbd27539d/6196e58e67444e6cb04aad50/Corye_Douglas.jpg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt84b2e7bdbd27539d/6196e58e67444e6cb04aad50/Corye_Douglas.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/attacks-breaches/7-things-ransomware-response-playbooks-missing",
+          "author": "Becky Bracken, Editor, Dark Reading",
+          "description": "Incident response experts share their secrets for success when it comes to creating a professional-grade ransomware response playbook. Are you ready for the worst?",
+          "link": "https://www.darkreading.com/attacks-breaches/7-things-ransomware-response-playbooks-missing",
+          "publishedOn": "2023-04-11T16:59:30.000Z",
+          "wordCount": 14802,
+          "title": "7 Things Your Ransomware Response Playbook Is Likely Missing",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt8e7bd143d726930b/627271268681151716941064/BeckyB.jpg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt8e7bd143d726930b/627271268681151716941064/BeckyB.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/attacks-breaches/attackers-hide-redline-stealer-behind-chatgpt-google-bard-facebook-ads",
+          "author": "Elizabeth Montalbano, Contributor, Dark Reading",
+          "description": "The campaign shrouds the commodity infostealer in OpenAI files in a play that aims to take advantage of the growing public interest in AI-based chatbots.",
+          "link": "https://www.darkreading.com/attacks-breaches/attackers-hide-redline-stealer-behind-chatgpt-google-bard-facebook-ads",
+          "publishedOn": "2023-04-11T15:04:00.000Z",
+          "wordCount": 14604,
+          "title": "Attackers Hide RedLine Stealer Behind ChatGPT, Google Bard Facebook Ads",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltbfd004d139d42d70/6303bca6236c2476a257760e/ElizabethMontalbano.jpg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltbfd004d139d42d70/6303bca6236c2476a257760e/ElizabethMontalbano.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/vulnerabilities-threats/how-password-managers-can-get-hacked",
+          "author": "Stu Sjouwerman, Founder & CEO, KnowBe4, Inc.",
+          "description": "Password managers aren't foolproof, but they do help mitigate risks from weak credentials and password reuse. Following best practices can contribute to a company's defenses.",
+          "link": "https://www.darkreading.com/vulnerabilities-threats/how-password-managers-can-get-hacked",
+          "publishedOn": "2023-04-11T14:00:00.000Z",
+          "wordCount": 15206,
+          "title": "How Password Managers Can Get Hacked",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt7d60428fe70eca06/6126b00589475658a2d4e4d8/KnowBe4-Stu-Sjouwerman.jpg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt7d60428fe70eca06/6126b00589475658a2d4e4d8/KnowBe4-Stu-Sjouwerman.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/microsoft/how-ciem-can-improve-identity-permissions-management-for-multicloud-deployments",
+          "author": "Microsoft Security, Microsoft",
+          "description": "The gap between permissions granted and permissions used exposes organizations to increased risk. (Part two of a two-part series.)",
+          "link": "https://www.darkreading.com/microsoft/how-ciem-can-improve-identity-permissions-management-for-multicloud-deployments",
+          "publishedOn": "2023-04-11T13:45:00.000Z",
+          "wordCount": 14332,
+          "title": "How CIEM Can Improve Identity, Permissions Management for Multicloud Deployments",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt8fe4479bc32f84b4/6321f5362769d078008692a9/MS-Security_logo.png",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt8fe4479bc32f84b4/6321f5362769d078008692a9/MS-Security_logo.png"
+        },
+        {
+          "id": "https://www.darkreading.com/ics-ot/israeli-irrigation-water-controllers-postal-service-breached",
+          "author": "Dark Reading Staff, Dark Reading",
+          "description": "Israel's National Cyber Defense is warning of increased cyberattacks by anti-Israel groups during the month of Ramadan.",
+          "link": "https://www.darkreading.com/ics-ot/israeli-irrigation-water-controllers-postal-service-breached",
+          "publishedOn": "2023-04-11T13:43:00.000Z",
+          "wordCount": 12356,
+          "title": "Israeli Irrigation Water Controllers & Postal Service Breached",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blte161b23f0fd3a84b/60b1ea374e7eb868c4c6a293/dr_staff_125x125.jpg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blte161b23f0fd3a84b/60b1ea374e7eb868c4c6a293/dr_staff_125x125.jpg"
+        },
         {
           "id": "https://www.darkreading.com/vulnerabilities-threats/samsung-engineers-sensitive-data-chatgpt-warnings-ai-use-workplace",
           "author": "Jai Vijayan, Contributing Writer, Dark Reading",
@@ -3932,6 +4097,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2023/04/newly-discovered-by-design-flaw-in.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "A \"by-design flaw\" uncovered in Microsoft Azure could be exploited by attackers to gain access to storage accounts, move laterally in the environment, and even execute remote code.\n\"It is possible to abuse and leverage Microsoft Storage Accounts by manipulating Azure Functions to steal access-tokens of higher privilege identities, move laterally, potentially access critical business assets, and",
+          "link": "https://thehackernews.com/2023/04/newly-discovered-by-design-flaw-in.html",
+          "publishedOn": "2023-04-11T13:00:00.000Z",
+          "wordCount": null,
+          "title": "Newly Discovered \"By-Design\" Flaw in Microsoft Azure Could Expose Storage Accounts to Hackers",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOi9BkeQAjBxXH68LWNzZFAX3MuOd0RabIL2j9_7KxYJPsMQsJW3MMyTIeL3C92LzmfYq_RoLLz6ODbBATLKOkZDUW9IA686WRpEDBhN6cKu3Ma73hkqthw3N9L1FDW1IIMzysZKnaZ26Io-Y0nyLT7j2fbJ6bLABpATy7qivL9uM7bibbm5ZXFjuD/s1600/azure.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOi9BkeQAjBxXH68LWNzZFAX3MuOd0RabIL2j9_7KxYJPsMQsJW3MMyTIeL3C92LzmfYq_RoLLz6ODbBATLKOkZDUW9IA686WRpEDBhN6cKu3Ma73hkqthw3N9L1FDW1IIMzysZKnaZ26Io-Y0nyLT7j2fbJ6bLABpATy7qivL9uM7bibbm5ZXFjuD/s1600/azure.png"
+        },
+        {
           "id": "https://thehackernews.com/2023/04/cybercriminals-turn-to-android-loaders.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Malicious loader programs capable of trojanizing Android applications are being traded on the criminal underground for up to $20,000 as a way to evade Google Play Store defenses.\n\"The most popular application categories to hide malware and unwanted software include cryptocurrency trackers, financial apps, QR-code scanners, and even dating apps,\" Kaspersky said in a new report based on messages",
@@ -5930,22 +6111,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiIebhaN2ERGc2MIbXo9fcgLZ2UtH-7B0-LQmagEMIgqb8rEyaUD3a50-big8yVVZv2kz9azN7yjBCp990MW6UkOs0M2upg_b3p5DnmS3tLiiier7aa6CWLatlVP8J1UgiSEIBDqp7GhtPOP68pFOgcZueHYLe-yR1L_7f2hATXNx-YzVgZGfVt6EvN/s1600/app.png"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiIebhaN2ERGc2MIbXo9fcgLZ2UtH-7B0-LQmagEMIgqb8rEyaUD3a50-big8yVVZv2kz9azN7yjBCp990MW6UkOs0M2upg_b3p5DnmS3tLiiier7aa6CWLatlVP8J1UgiSEIBDqp7GhtPOP68pFOgcZueHYLe-yR1L_7f2hATXNx-YzVgZGfVt6EvN/s1600/app.png"
-        },
-        {
-          "id": "https://thehackernews.com/2023/03/kamikakabot-malware-used-in-latest-dark.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "The Dark Pink advanced persistent threat (APT) actor has been linked to a fresh set of attacks targeting government and military entities in Southeast Asian countries with a malware called KamiKakaBot.\nDark Pink, also called Saaiwc, was first profiled by Group-IB earlier this year, describing its use of custom tools such as TelePowerBot and KamiKakaBot to run arbitrary commands and exfiltrate",
-          "link": "https://thehackernews.com/2023/03/kamikakabot-malware-used-in-latest-dark.html",
-          "publishedOn": "2023-03-13T06:15:00.000Z",
-          "wordCount": null,
-          "title": "KamiKakaBot Malware Used in Latest Dark Pink APT Attacks on Southeast Asian Targets",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhcEcRUNCTov328K1xPocoF-5qTbzhB5uD0nQYfgPSoK1px8x3K_EvV-UIqNyNj9Uj9fKTTqmpM1A0fpp8Cxs6uMBVJLXudpHUTSqtTXQFfGm3wO8slH57EyQUJTcb1DvfIozsBY6q7GpDWyTu51H4tQ47kYXgxHytEPeh_OwC2kCMXKsUC3nK2dKNK/s1600/hack.png"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhcEcRUNCTov328K1xPocoF-5qTbzhB5uD0nQYfgPSoK1px8x3K_EvV-UIqNyNj9Uj9fKTTqmpM1A0fpp8Cxs6uMBVJLXudpHUTSqtTXQFfGm3wO8slH57EyQUJTcb1DvfIozsBY6q7GpDWyTu51H4tQ47kYXgxHytEPeh_OwC2kCMXKsUC3nK2dKNK/s1600/hack.png"
         }
       ]
     }
