@@ -420,6 +420,21 @@
       "siteUrl": "https://www.darkreading.com",
       "articles": [
         {
+          "id": "https://www.darkreading.com/vulnerabilities-threats/samsung-engineers-sensitive-data-chatgpt-warnings-ai-use-workplace",
+          "author": "Jai Vijayan, Contributing Writer, Dark Reading",
+          "description": "In three separate incidents, engineers at the Korean electronics giant reportedly shared sensitive corporate data with the AI-powered chatbot.",
+          "link": "https://www.darkreading.com/vulnerabilities-threats/samsung-engineers-sensitive-data-chatgpt-warnings-ai-use-workplace",
+          "publishedOn": "2023-04-11T13:00:00.000Z",
+          "wordCount": 14453,
+          "title": "Samsung Engineers Feed Sensitive Data to ChatGPT, Sparking Workplace AI Warnings",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt02d79fb9a44a4258/60b1e9dd2a25046b35110696/Jai-Vijayan.jpeg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt02d79fb9a44a4258/60b1e9dd2a25046b35110696/Jai-Vijayan.jpeg"
+        },
+        {
           "id": "https://www.darkreading.com/dr-tech/renewed-focus-on-incident-response-brings-new-competitors-and-partnerships",
           "author": "Robert Lemos, Contributing Writer, Dark Reading",
           "description": "Microsoft and others are doubling down on incident response, adding services and integrating programs to make security analysts and IR engagements more efficient.",
@@ -3123,6 +3138,16 @@
       "siteUrl": "/blog/",
       "articles": [
         {
+          "id": "/blog/2023/04/best-practices-regarding-azure-storage-keys-azure-functions-and-azure-role-based-access/",
+          "author": null,
+          "description": "Summary Summary Azure provides developers and security operations staff a wide array of configurable security options to meet organizational needs. Throughout the software development lifecycle, it is important for customers to understand the shared responsibility model, as well as be familiar with various security best practices. This is particularly important in deploying Azure Functions and in provisioning Azure Role Based Access Control as customers are responsible for configuring and managing applications, identity, and data.",
+          "link": "https://msrc-blog.microsoft.com/blog/2023/04/best-practices-regarding-azure-storage-keys-azure-functions-and-azure-role-based-access/",
+          "publishedOn": "2023-04-11T07:00:00.000Z",
+          "wordCount": 2157,
+          "title": "Best practices regarding Azure Storage Keys, Azure Functions, and Azure Role Based Access",
+          "imageUrl": null
+        },
+        {
           "id": "/blog/2023/03/guidance-on-potential-misconfiguration-of-authorization-of-multi-tenant-applications-that-use-azure-ad-ja/",
           "author": null,
           "description": "本ブログは、Guidance on Potential Misconfiguration of Authorization of Multi-Tenant Applications that use Azure AD の抄訳版です。最新の情報は原文を参照してください",
@@ -3179,6 +3204,46 @@
       "feedUrl": "https://blog.knowbe4.com/rss.xml",
       "siteUrl": "https://blog.knowbe4.com",
       "articles": [
+        {
+          "id": "https://blog.knowbe4.com/cyberheistnews-vol-13-15-the-new-face-of-fraud-ftc-sheds-light-on-ai-enhanced-family-emergency-scams",
+          "author": "Stu Sjouwerman",
+          "description": "CyberheistNews Vol 13 #15  |   April 11th, 2023  \r\n \n \r\n   \r\n \n \r\n  \n[The New Face of Fraud] FTC Sheds Light on AI-Enhanced Family Emergency Scams\n \r\n  \nThe Federal Trade Commission is alerting consumers about a next-level, more sophisticated family emergency scam that uses AI which imitates the voice of a \"family member in distress.\"\n \r\n  \nThey started out with: \"You get a call. There's a panicked voice on the line. It's your grandson. He says he's in deep trouble — he wrecked the car and landed in jail. But you can help by sending money. You take a deep breath and think. You've heard about grandparent scams. But darn, it sounds just like him. How could it be a scam? Voice cloning, that's how.\"\n \r\n  \n\"Don't Trust The Voice\"\n \r\n  \nThe FTC explains: \"Artificial intelligence is no longer a f…",
+          "link": "https://blog.knowbe4.com/cyberheistnews-vol-13-15-the-new-face-of-fraud-ftc-sheds-light-on-ai-enhanced-family-emergency-scams",
+          "publishedOn": "2023-04-11T13:16:54.000Z",
+          "wordCount": 5125,
+          "title": "CyberheistNews Vol 13 #15 [The New Face of Fraud] FTC Sheds Light on AI-Enhanced Family Emergency Scams",
+          "imageUrl": "https://blog.knowbe4.com/hubfs/CHN-Social.jpg#keepProtocol"
+        },
+        {
+          "id": "https://blog.knowbe4.com/top-takeaways-you-could-be-missing-out-on-my-upcoming-ransomware-master-class",
+          "author": "Roger Grimes",
+          "description": "There is no doubt that ransomware is one of the top cybersecurity challenges of our lifetime. Survey after survey has revealed senior management and IT employees from the top on down, list a successful ransomware attack as their number one cybersecurity fear above all others.",
+          "link": "https://blog.knowbe4.com/top-takeaways-you-could-be-missing-out-on-my-upcoming-ransomware-master-class",
+          "publishedOn": "2023-04-11T12:20:01.000Z",
+          "wordCount": 3166,
+          "title": "Top Takeaways You Could be Missing Out on my Upcoming Ransomware Master Class",
+          "imageUrl": "https://blog.knowbe4.com/hubfs/Social%20Image%20Repository/Evangelist%20Blog%20Social%20Graphics/Evangelists-Roger%20Grimes.jpg#keepProtocol"
+        },
+        {
+          "id": "https://blog.knowbe4.com/free-tool-securitycoach-free-preview",
+          "author": "Stu Sjouwerman",
+          "description": "The human factor is involved in 82% of data breaches, according to the 2022 Verizon Data Breach Investigations Report. Cybercriminals use social engineering techniques like phishing, spear phishing and impersonation to manipulate your employees in attempts to hack into your organization causing significant downtime risks.",
+          "link": "https://blog.knowbe4.com/free-tool-securitycoach-free-preview",
+          "publishedOn": "2023-04-11T12:00:00.000Z",
+          "wordCount": 2195,
+          "title": "[Free Tool] See Which Users Are Susceptible to Risky Security Behavior with SecurityCoach Free Preview!",
+          "imageUrl": "https://blog.knowbe4.com/hubfs/SecurityCoach-Free-Tool-Featured-Image-1200x675.jpg#keepProtocol"
+        },
+        {
+          "id": "https://blog.knowbe4.com/jaw-dropper-ftxs-cybersecurity-was-hilariously-bad",
+          "author": "Stu Sjouwerman",
+          "description": "4/11/2023 - Gizmodo just dropped this eye-roll inducing news. The disgraced crypto exchange had no dedicated cybersecurity staff and \"protected\" users assets with minimal safeguards, according to new bankruptcy filings.",
+          "link": "https://blog.knowbe4.com/jaw-dropper-ftxs-cybersecurity-was-hilariously-bad",
+          "publishedOn": "2023-04-11T11:05:54.000Z",
+          "wordCount": 2191,
+          "title": "[Jaw-Dropper] FTX's Cybersecurity Was Hilariously Bad",
+          "imageUrl": "https://blog.knowbe4.com/hubfs/FadingFTX.png#keepProtocol"
+        },
         {
           "id": "https://blog.knowbe4.com/tax-phishing-campaign",
           "author": "Stu Sjouwerman",
@@ -3866,6 +3931,54 @@
       "feedUrl": "https://thehackernews.com/feeds/posts/default",
       "siteUrl": "https://thehackernews.com",
       "articles": [
+        {
+          "id": "https://thehackernews.com/2023/04/cybercriminals-turn-to-android-loaders.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Malicious loader programs capable of trojanizing Android applications are being traded on the criminal underground for up to $20,000 as a way to evade Google Play Store defenses.\n\"The most popular application categories to hide malware and unwanted software include cryptocurrency trackers, financial apps, QR-code scanners, and even dating apps,\" Kaspersky said in a new report based on messages",
+          "link": "https://thehackernews.com/2023/04/cybercriminals-turn-to-android-loaders.html",
+          "publishedOn": "2023-04-11T12:29:00.000Z",
+          "wordCount": null,
+          "title": "Cybercriminals Turn to Android Loaders on Dark Web to Evade Google Play Security",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjmvltxq_liOFQ5iLz7yFdL_zqywMQao2MKSdtHbLydxkTFpZI-tYkTw0x0CLVqKu_jKm_w9PnwY1rid7fsggYM5j8FI4gMOGfe_tIyFC0R0cB31oNSon__HqzyaT4lDmMDyyL3wFhODlDZIOuifjOLjY1AfDbR2_Y3-5E91euZWNeOEM0vnY94ChjY/s1600/android.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjmvltxq_liOFQ5iLz7yFdL_zqywMQao2MKSdtHbLydxkTFpZI-tYkTw0x0CLVqKu_jKm_w9PnwY1rid7fsggYM5j8FI4gMOGfe_tIyFC0R0cB31oNSon__HqzyaT4lDmMDyyL3wFhODlDZIOuifjOLjY1AfDbR2_Y3-5E91euZWNeOEM0vnY94ChjY/s1600/android.png"
+        },
+        {
+          "id": "https://thehackernews.com/2023/04/ebook-step-by-step-guide-to-cyber-risk.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "In today's perilous cyber risk landscape, CISOs and CIOs must defend their organizations against relentless cyber threats, including ransomware, phishing, attacks on infrastructure, supply chain breaches, malicious insiders, and much more. Yet at the same time, security leaders are also under tremendous pressure to reduce costs and invest wisely. \nOne of the most effective ways for CISOs and",
+          "link": "https://thehackernews.com/2023/04/ebook-step-by-step-guide-to-cyber-risk.html",
+          "publishedOn": "2023-04-11T11:42:00.000Z",
+          "wordCount": null,
+          "title": "[eBook] A Step-by-Step Guide to Cyber Risk Assessment",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiqvGr5aoZxjC87KeedAsr6QiQLXmzrJcGQFo3LjH38ZS9ReCINaSwN7yh6qgrsFxI7h6dnoWDc8s-BzwJSIaQH5vpDoZckuPV9MXE3QO1ncBJsSBlh_Bsoukl0Z5yTOdVf2VgYDSf-VLBhpDmMJOsCcvH4Laum4YNOmJym3_8VcUifBusCyheKeK4L/s1600/cye.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiqvGr5aoZxjC87KeedAsr6QiQLXmzrJcGQFo3LjH38ZS9ReCINaSwN7yh6qgrsFxI7h6dnoWDc8s-BzwJSIaQH5vpDoZckuPV9MXE3QO1ncBJsSBlh_Bsoukl0Z5yTOdVf2VgYDSf-VLBhpDmMJOsCcvH4Laum4YNOmJym3_8VcUifBusCyheKeK4L/s1600/cye.png"
+        },
+        {
+          "id": "https://thehackernews.com/2023/04/cryptocurrency-stealer-malware.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Cybersecurity researchers have detailed the inner workings of the cryptocurrency stealer malware that was distributed via 13 malicious NuGet packages as part of a supply chain attack targeting .NET developers.\nThe sophisticated typosquatting campaign, which was detailed by JFrog late last month, impersonated legitimate packages to execute PowerShell code designed to retrieve a follow-on binary",
+          "link": "https://thehackernews.com/2023/04/cryptocurrency-stealer-malware.html",
+          "publishedOn": "2023-04-11T09:16:00.000Z",
+          "wordCount": null,
+          "title": "Cryptocurrency Stealer Malware Distributed via 13 NuGet Packages",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEioRLPfOtqOvCq_XiU5u6d_o3Fr02n5WJ1DCMl9AK5SCgERHSf79Vic_LQ0zTpotzStiroA8rk_nZJM_7DdFFTbQPkQDvBCBUftWALYL_uc4A3lkaCSR3QSm5_IdrLVmwMbu-8-qb5WBkHmuBpcVmsSoZ0AugD6raj-AJMbbsSBKewQrM7SVBHP07JC/s1600/code.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEioRLPfOtqOvCq_XiU5u6d_o3Fr02n5WJ1DCMl9AK5SCgERHSf79Vic_LQ0zTpotzStiroA8rk_nZJM_7DdFFTbQPkQDvBCBUftWALYL_uc4A3lkaCSR3QSm5_IdrLVmwMbu-8-qb5WBkHmuBpcVmsSoZ0AugD6raj-AJMbbsSBKewQrM7SVBHP07JC/s1600/code.png"
+        },
         {
           "id": "https://thehackernews.com/2023/04/estonian-national-charged-in-us-for.html",
           "author": "info@thehackernews.com (The Hacker News)",
