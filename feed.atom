@@ -2,10 +2,72 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-04-12T07:17:03.887Z</updated>
+    <updated>2023-04-12T13:23:18.221Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[CrowdStrike Expands Falcon to Include IoT]]></title>
+        <id>https://www.darkreading.com/dr-tech/crowdstrike-expands-falcon-to-include-iot</id>
+        <link href="https://www.darkreading.com/dr-tech/crowdstrike-expands-falcon-to-include-iot"/>
+        <updated>2023-04-12T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[CrowdStrike Falcon Insight for IoT covers  Internet of Things, Industrial IoT, Operations Technology, as well as medical devices.]]></summary>
+        <author>
+            <name>Dark Reading Staff, Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[1M+ WordPress Sites Hacked via Zero-Day Plug-in Bugs]]></title>
+        <id>https://www.darkreading.com/vulnerabilities-threats/1m-wordpress-sites-hacked-via-zero-day-plugin-bugs</id>
+        <link href="https://www.darkreading.com/vulnerabilities-threats/1m-wordpress-sites-hacked-via-zero-day-plugin-bugs"/>
+        <updated>2023-04-12T13:20:00.000Z</updated>
+        <summary type="html"><![CDATA[A wide-ranging campaign to inject malicious code into WordPress-run websites has been ongoing for at least five years.]]></summary>
+        <author>
+            <name>Tara Seals, Managing Editor, News, Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Recent Artificial Intelligence Hype is Used for Phishbait]]></title>
+        <id>https://blog.knowbe4.com/ai-hype-used-for-phishbait</id>
+        <link href="https://blog.knowbe4.com/ai-hype-used-for-phishbait"/>
+        <updated>2023-04-12T12:51:10.000Z</updated>
+        <summary type="html"><![CDATA[Anticipation leads people to suspend their better judgment as a new campaign of credential theft exploits a person’s excitement about the newest AI systems not yet available to the general public. On Tuesday morning, April 11th, Veriti explained that several unknown actors are making false Facebook ads which advertise a free download of AIs like ChatGPT and Google Bard.]]></summary>
+        <author>
+            <name>Stu Sjouwerman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Win The AI Wars To Enhance Security And Decrease Cyber Risk]]></title>
+        <id>https://blog.knowbe4.com/win-ai-wars</id>
+        <link href="https://blog.knowbe4.com/win-ai-wars"/>
+        <updated>2023-04-12T12:20:54.000Z</updated>
+        <summary type="html"><![CDATA[With all the overwrought hype with ChatGPT and AI…much of it earned…you could be forgiven for thinking that only the bad actors are going to be using these advanced technologies and the rest of us are at their mercy.]]></summary>
+        <author>
+            <name>Roger Grimes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Israel-based Spyware Firm QuaDream Targets High-Risk iPhones with Zero-Click Exploit]]></title>
+        <id>https://thehackernews.com/2023/04/israel-based-spyware-firm-quadream.html</id>
+        <link href="https://thehackernews.com/2023/04/israel-based-spyware-firm-quadream.html"/>
+        <updated>2023-04-12T11:58:00.000Z</updated>
+        <summary type="html"><![CDATA[Threat actors using hacking tools from an Israeli surveillanceware vendor named QuaDream targeted at least five members of civil society in North America, Central Asia, Southeast Asia, Europe, and the Middle East.
+According to findings from a group of researchers from the Citizen Lab, the spyware campaign was directed against journalists, political opposition figures, and an NGO worker in 2021.]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Service Accounts Challenge: Can't See or Secure Them Until It's Too Late]]></title>
+        <id>https://thehackernews.com/2023/04/the-service-accounts-challenge-cant-see.html</id>
+        <link href="https://thehackernews.com/2023/04/the-service-accounts-challenge-cant-see.html"/>
+        <updated>2023-04-12T11:50:00.000Z</updated>
+        <summary type="html"><![CDATA[Here's a hard question to answer: 'How many service accounts do you have in your environment?'. A harder one is: 'Do you know what these accounts are doing?'. And the hardest is probably: 'If any of your service account was compromised and used to access resources would you be able to detect and stop that in real-time?'. 
+Since most identity and security teams would provide a negative reply,]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Urgent: Microsoft Issues Patches for 97 Flaws, Including Active Ransomware Exploit]]></title>
         <id>https://thehackernews.com/2023/04/urgent-microsoft-issues-patches-for-97.html</id>
@@ -347,6 +409,16 @@ One of the most effective ways for CISOs and]]></summary>
 The sophisticated typosquatting campaign, which was detailed by JFrog late last month, impersonated legitimate packages to execute PowerShell code designed to retrieve a follow-on binary]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Azure Storage Keys、Azure Functions、Azure Role Based Access に関するベスト プラクティス]]></title>
+        <id>/blog/2023/04/best-practices-regarding-azure-storage-keys-azure-functions-and-azure-role-based-access-ja/</id>
+        <link href="https://msrc-blog.microsoft.com/blog/2023/04/best-practices-regarding-azure-storage-keys-azure-functions-and-azure-role-based-access-ja/"/>
+        <updated>2023-04-11T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[本ブログは、Best practices regarding Azure Storage Keys, Azure Functions, and Azure Role Based Access の抄訳版です。最新の情報は原文を参照してください。 概要 概]]></summary>
+        <author>
+            <name>Microsoft Security Response Center</name>
         </author>
     </entry>
     <entry>
@@ -4862,55 +4934,6 @@ An AiTM phishing attack typically involves a threat actor attempting to steal 
 "The complexity of the exploit suggests an advanced actor and that it is highly targeted at governmental or government-related targets," Fortinet researchers Guillaume Lovet and Alex Kong said in an]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Orgs Have a Long Way to Go in Securing Remote Workforce]]></title>
-        <id>https://www.darkreading.com/tech-trends/orgs-have-a-long-way-to-go-in-securing-remote-workforce</id>
-        <link href="https://www.darkreading.com/tech-trends/orgs-have-a-long-way-to-go-in-securing-remote-workforce"/>
-        <updated>2023-03-14T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Organizations recognize that they are responsible for protecting remote workers from cyber threats, but they have a long way to go in deploying the necessary security technologies.]]></summary>
-        <author>
-            <name>Dark Reading Staff, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[200-300% Increase in AI-Generated YouTube Videos to Spread Stealer Malware]]></title>
-        <id>https://www.darkreading.com/attacks-breaches/200-300-increase-in-ai-generated-youtube-videos-to-spread-stealer-malware</id>
-        <link href="https://www.darkreading.com/attacks-breaches/200-300-increase-in-ai-generated-youtube-videos-to-spread-stealer-malware"/>
-        <updated>2023-03-13T21:52:00.000Z</updated>
-        <author>
-            <name>Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SVB Meltdown: What It Means for Cybersecurity Startups' Access to Capital]]></title>
-        <id>https://www.darkreading.com/risk/svb-meltdown-cybersec-startups-access-capital</id>
-        <link href="https://www.darkreading.com/risk/svb-meltdown-cybersec-startups-access-capital"/>
-        <updated>2023-03-13T21:15:00.000Z</updated>
-        <summary type="html"><![CDATA[The implosion of Silicon Valley Bank will impact investors, startups, and enterprise customers as they become more cautious over the near term, security experts say.]]></summary>
-        <author>
-            <name>Jai Vijayan, Contributing Writer, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Brand Names in Finance, Telecom, Tech Lead Successful Phishing Lures]]></title>
-        <id>https://www.darkreading.com/threat-intelligence/brand-names-finance-telecom-tech-successful-phishing-lures</id>
-        <link href="https://www.darkreading.com/threat-intelligence/brand-names-finance-telecom-tech-successful-phishing-lures"/>
-        <updated>2023-03-13T19:56:00.000Z</updated>
-        <summary type="html"><![CDATA[AT&T, PayPal, and Microsoft top the list of domains that victims visit following a link in a phishing email, as firms fight to prevent fraud and credential harvesting.]]></summary>
-        <author>
-            <name>Robert Lemos, Contributing Writer, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hackers Lure Cybersecurity Researchers With Fake LinkedIn Recruiter Profiles]]></title>
-        <id>https://www.darkreading.com/application-security/north-korean-hackers-targeting-security-researchers</id>
-        <link href="https://www.darkreading.com/application-security/north-korean-hackers-targeting-security-researchers"/>
-        <updated>2023-03-13T19:53:21.000Z</updated>
-        <summary type="html"><![CDATA[Campaign demonstrates the DPRK-backed cyberattackers are gaining tools to avoid EDR tools.]]></summary>
-        <author>
-            <name>Dark Reading Staff, Dark Reading</name>
         </author>
     </entry>
 </feed>
