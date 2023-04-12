@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-04-11T19:14:47.112Z</updated>
+    <updated>2023-04-12T02:06:19.814Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Patches 97 CVEs, Including Zero-Day & Wormable Bugs]]></title>
+        <id>https://www.darkreading.com/vulnerabilities-threats/microsoft-patches-97-cves-including-zero-day-wormable-bugs</id>
+        <link href="https://www.darkreading.com/vulnerabilities-threats/microsoft-patches-97-cves-including-zero-day-wormable-bugs"/>
+        <updated>2023-04-11T22:09:00.000Z</updated>
+        <summary type="html"><![CDATA[The April 2023 Patch Tuesday security update also included a reissue of a fix for a 10-year-old bug that a threat actor recently exploited in the supply chain attack on 3CX.]]></summary>
+        <author>
+            <name>Jai Vijayan, Contributing Writer, Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Azure Shared Key Misconfiguration Could Lead to RCE]]></title>
+        <id>https://www.darkreading.com/cloud/microsoft-azure-shared-key-misconfiguration-could-lead-to-rce</id>
+        <link href="https://www.darkreading.com/cloud/microsoft-azure-shared-key-misconfiguration-could-lead-to-rce"/>
+        <updated>2023-04-11T19:19:00.000Z</updated>
+        <summary type="html"><![CDATA[Azure admins are urged to disable shared key access and implement Azure Active Directory authentication.]]></summary>
+        <author>
+            <name>Becky Bracken, Editor, Dark Reading</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA['Blatantly Obvious': Spyware Offered to Cyberattackers via PyPI Python Repository]]></title>
         <id>https://www.darkreading.com/vulnerabilities-threats/spyware-offered-cyberattackers-pypi-python-repository</id>
@@ -148,6 +168,45 @@ The FTC explains: "Artificial intelligence is no longer a f…]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Microsoft Releases Guidance for the BlackLotus Campaign]]></title>
+        <id>/node/17887</id>
+        <link href="https://www.cisa.gov/news-events/alerts/2023/04/11/microsoft-releases-guidance-for-the-blacklotus-campaign"/>
+        <updated>2023-04-11T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft has released Guidance for investigating attacks using CVE-2022-21894: The BlackLotus Campaign. According to Microsoft, “[t]his guide provides steps that organizations can take to assess whether users have been targeted or compromised by threat actors exploiting CVE-2022-21894 via a Unified Extensible Firmware Interface (UEFI) bootkit called BlackLotus.” An attacker could exploit this vulnerability to take control of an affected system.
+CISA urges users and organizations to review the Microsoft Blog Post for more information, and apply necessary detection, recovery, and prevention strategies.]]></summary>
+        <author>
+            <name>CISA</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Releases April 2023 Security Updates]]></title>
+        <id>/node/17899</id>
+        <link href="https://www.cisa.gov/news-events/alerts/2023/04/11/microsoft-releases-april-2023-security-updates"/>
+        <updated>2023-04-11T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft has released updates to address multiple vulnerabilities in Microsoft software. An attacker can exploit some of these vulnerabilities to take control of an affected system.
+CISA encourages users and administrators to review Microsoft’s April 2023 Security Update Guide and Deployment Information and apply the necessary updates.]]></summary>
+        <author>
+            <name>CISA</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Adobe Releases Security Updates for Multiple Products]]></title>
+        <id>/node/17901</id>
+        <link href="https://www.cisa.gov/news-events/alerts/2023/04/11/adobe-releases-security-updates-multiple-products"/>
+        <updated>2023-04-11T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Adobe has released security updates to address multiple vulnerabilities in Adobe software. An attacker can exploit these vulnerabilities to take control of an affected system.
+CISA encourages users and administrators to review the following advisories and apply the necessary updates:
+Digital Editions APSB23-04
+InCopy APSB23-13
+Acrobat and Reader APSB23-24
+Substance 3D Stager APSB23-26
+Dimension APSB23-27
+Substance 3D Designer APSB23-28]]></summary>
+        <author>
+            <name>CISA</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Apple Releases Security Updates for Multiple Products]]></title>
         <id>/node/17889</id>
         <link href="https://www.cisa.gov/news-events/alerts/2023/04/11/apple-releases-security-updates-multiple-products"/>
@@ -266,6 +325,16 @@ One of the most effective ways for CISOs and]]></summary>
 The sophisticated typosquatting campaign, which was detailed by JFrog late last month, impersonated legitimate packages to execute PowerShell code designed to retrieve a follow-on binary]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2023 年 4 月のセキュリティ更新プログラム (月例)]]></title>
+        <id>/blog/2023/04/202304-security-update/</id>
+        <link href="https://msrc-blog.microsoft.com/blog/2023/04/202304-security-update/"/>
+        <updated>2023-04-11T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[2023 年 4 月 11 日 (米国時間) 、マイクロソフトは、マイクロソフト製品に影響する脆弱性を修正するために、セキ]]></summary>
+        <author>
+            <name>Microsoft Security Response Center</name>
         </author>
     </entry>
     <entry>
@@ -4895,51 +4964,6 @@ Actions to take today to mitigate malici…]]></summary>
         <updated>2023-03-13T14:59:00.000Z</updated>
         <summary type="html"><![CDATA[A widespread malicious cyber operation has hijacked thousands of websites aimed at East Asian audiences to redirect visitors to adult-themed content since early September 2022.
 The ongoing campaign entails injecting malicious JavaScript code to the hacked websites, often connecting to the target web server using legitimate FTP credentials the threat actor previously obtained via an unknown]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fake ChatGPT Chrome Extension Hijacking Facebook Accounts for Malicious Advertising]]></title>
-        <id>https://thehackernews.com/2023/03/fake-chatgpt-chrome-extension-hijacking.html</id>
-        <link href="https://thehackernews.com/2023/03/fake-chatgpt-chrome-extension-hijacking.html"/>
-        <updated>2023-03-13T12:24:00.000Z</updated>
-        <summary type="html"><![CDATA[A fake ChatGPT-branded Chrome browser extension has been found to come with capabilities to hijack Facebook accounts and create rogue admin accounts, highlighting one of the different methods cyber criminals are using to distribute malware.
-"By hijacking high-profile Facebook business accounts, the threat actor creates an elite army of Facebook bots and a malicious paid media apparatus," Guardio]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Apply NIST Principles to SaaS in 2023]]></title>
-        <id>https://thehackernews.com/2023/03/how-to-apply-nist-principles-to-saas-in.html</id>
-        <link href="https://thehackernews.com/2023/03/how-to-apply-nist-principles-to-saas-in.html"/>
-        <updated>2023-03-13T12:23:00.000Z</updated>
-        <summary type="html"><![CDATA[The National Institute of Standards and Technology (NIST) is one of the standard-bearers in global cybersecurity. The U.S.-based institute’s cybersecurity framework helps organizations of all sizes understand, manage, and reduce their cyber-risk levels and better protect their data. Its importance in the fight against cyberattacks can’t be overstated.
-While NIST hasn’t directly developed]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Warning: AI-generated YouTube Video Tutorials Spreading Infostealer Malware]]></title>
-        <id>https://thehackernews.com/2023/03/warning-ai-generated-youtube-video.html</id>
-        <link href="https://thehackernews.com/2023/03/warning-ai-generated-youtube-video.html"/>
-        <updated>2023-03-13T11:47:00.000Z</updated>
-        <summary type="html"><![CDATA[Threat actors have been increasingly observed using AI-generated YouTube Videos to spread a variety of stealer malware such as Raccoon, RedLine, and Vidar.
-"The videos lure users by pretending to be tutorials on how to download cracked versions of software such as Photoshop, Premiere Pro, Autodesk 3ds Max, AutoCAD, and other products that are licensed products available only to paid users,"]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Researchers Uncover Over a Dozen Security Flaws in Akuvox E11 Smart Intercom]]></title>
-        <id>https://thehackernews.com/2023/03/researchers-uncover-over-dozen-security.html</id>
-        <link href="https://thehackernews.com/2023/03/researchers-uncover-over-dozen-security.html"/>
-        <updated>2023-03-13T07:36:00.000Z</updated>
-        <summary type="html"><![CDATA[More than a dozen security flaws have been disclosed in E11, a smart intercom product made by Chinese company Akuvox.
-"The vulnerabilities could allow attackers to execute code remotely in order to activate and control the device's camera and microphone, steal video and images, or gain a network foothold," Claroty security researcher Vera Mens said in a technical write-up.
-Akuvox E11 is]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>

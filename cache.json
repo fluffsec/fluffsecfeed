@@ -33,6 +33,36 @@
       "siteUrl": "https://www.cisa.gov/",
       "articles": [
         {
+          "id": "/node/17887",
+          "author": "CISA",
+          "description": "Microsoft has released Guidance for investigating attacks using CVE-2022-21894: The BlackLotus Campaign. According to Microsoft, “[t]his guide provides steps that organizations can take to assess whether users have been targeted or compromised by threat actors exploiting CVE-2022-21894 via a Unified Extensible Firmware Interface (UEFI) bootkit called BlackLotus.” An attacker could exploit this vulnerability to take control of an affected system.\nCISA urges users and organizations to review the Microsoft Blog Post for more information, and apply necessary detection, recovery, and prevention strategies.",
+          "link": "https://www.cisa.gov/news-events/alerts/2023/04/11/microsoft-releases-guidance-for-the-blacklotus-campaign",
+          "publishedOn": "2023-04-11T12:00:00.000Z",
+          "wordCount": 556,
+          "title": "Microsoft Releases Guidance for the BlackLotus Campaign",
+          "imageUrl": null
+        },
+        {
+          "id": "/node/17899",
+          "author": "CISA",
+          "description": "Microsoft has released updates to address multiple vulnerabilities in Microsoft software. An attacker can exploit some of these vulnerabilities to take control of an affected system.\nCISA encourages users and administrators to review Microsoft’s April 2023 Security Update Guide and Deployment Information and apply the necessary updates.",
+          "link": "https://www.cisa.gov/news-events/alerts/2023/04/11/microsoft-releases-april-2023-security-updates",
+          "publishedOn": "2023-04-11T12:00:00.000Z",
+          "wordCount": 519,
+          "title": "Microsoft Releases April 2023 Security Updates",
+          "imageUrl": null
+        },
+        {
+          "id": "/node/17901",
+          "author": "CISA",
+          "description": "Adobe has released security updates to address multiple vulnerabilities in Adobe software. An attacker can exploit these vulnerabilities to take control of an affected system.\nCISA encourages users and administrators to review the following advisories and apply the necessary updates:\nDigital Editions APSB23-04\nInCopy APSB23-13\nAcrobat and Reader APSB23-24\nSubstance 3D Stager APSB23-26\nDimension APSB23-27\nSubstance 3D Designer APSB23-28",
+          "link": "https://www.cisa.gov/news-events/alerts/2023/04/11/adobe-releases-security-updates-multiple-products",
+          "publishedOn": "2023-04-11T12:00:00.000Z",
+          "wordCount": 532,
+          "title": "Adobe Releases Security Updates for Multiple Products",
+          "imageUrl": null
+        },
+        {
           "id": "/node/17889",
           "author": "CISA",
           "description": "Apple has released security updates to address vulnerabilities in multiple products. An attacker could exploit some of these vulnerabilities to take control of an affected device.\nCISA encourages users and administrators to review the following advisories and apply the necessary updates.\niOS 15.7.5 and iPadOS 15.7.5\nmacOS Monterey 12.6.5\nmacOS Big Sur 11.7.6\nSafari 16.4.1\niOS 16.4.1 and iPadOS 16.4.1\nmacOS Ventura 13.3.1",
@@ -479,6 +509,36 @@
       "feedUrl": "https://www.darkreading.com/rss.xml",
       "siteUrl": "https://www.darkreading.com",
       "articles": [
+        {
+          "id": "https://www.darkreading.com/vulnerabilities-threats/microsoft-patches-97-cves-including-zero-day-wormable-bugs",
+          "author": "Jai Vijayan, Contributing Writer, Dark Reading",
+          "description": "The April 2023 Patch Tuesday security update also included a reissue of a fix for a 10-year-old bug that a threat actor recently exploited in the supply chain attack on 3CX.",
+          "link": "https://www.darkreading.com/vulnerabilities-threats/microsoft-patches-97-cves-including-zero-day-wormable-bugs",
+          "publishedOn": "2023-04-11T22:09:00.000Z",
+          "wordCount": 15080,
+          "title": "Microsoft Patches 97 CVEs, Including Zero-Day & Wormable Bugs",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt02d79fb9a44a4258/60b1e9dd2a25046b35110696/Jai-Vijayan.jpeg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt02d79fb9a44a4258/60b1e9dd2a25046b35110696/Jai-Vijayan.jpeg"
+        },
+        {
+          "id": "https://www.darkreading.com/cloud/microsoft-azure-shared-key-misconfiguration-could-lead-to-rce",
+          "author": "Becky Bracken, Editor, Dark Reading",
+          "description": "Azure admins are urged to disable shared key access and implement Azure Active Directory authentication.",
+          "link": "https://www.darkreading.com/cloud/microsoft-azure-shared-key-misconfiguration-could-lead-to-rce",
+          "publishedOn": "2023-04-11T19:19:00.000Z",
+          "wordCount": 12127,
+          "title": "Microsoft Azure Shared Key Misconfiguration Could Lead to RCE",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt8e7bd143d726930b/627271268681151716941064/BeckyB.jpg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt8e7bd143d726930b/627271268681151716941064/BeckyB.jpg"
+        },
         {
           "id": "https://www.darkreading.com/vulnerabilities-threats/spyware-offered-cyberattackers-pypi-python-repository",
           "author": "Nate Nelson, Contributing Writer, Dark Reading",
@@ -3303,6 +3363,16 @@
       "siteUrl": "/blog/",
       "articles": [
         {
+          "id": "/blog/2023/04/202304-security-update/",
+          "author": null,
+          "description": "2023 年 4 月 11 日 (米国時間) 、マイクロソフトは、マイクロソフト製品に影響する脆弱性を修正するために、セキ",
+          "link": "https://msrc-blog.microsoft.com/blog/2023/04/202304-security-update/",
+          "publishedOn": "2023-04-11T07:00:00.000Z",
+          "wordCount": 2157,
+          "title": "2023 年 4 月のセキュリティ更新プログラム (月例)",
+          "imageUrl": null
+        },
+        {
           "id": "/blog/2023/04/best-practices-regarding-azure-storage-keys-azure-functions-and-azure-role-based-access/",
           "author": null,
           "description": "Summary Summary Azure provides developers and security operations staff a wide array of configurable security options to meet organizational needs. Throughout the software development lifecycle, it is important for customers to understand the shared responsibility model, as well as be familiar with various security best practices. This is particularly important in deploying Azure Functions and in provisioning Azure Role Based Access Control as customers are responsible for configuring and managing applications, identity, and data.",
@@ -6047,70 +6117,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiFOooy5a4I3dw_lh7OSKtWYYlA9Ftuh5hLPClU-6W14orXFOE-R9IYNndJNgmjQ6gwapnsj-5g2jKInTFUop1fnz9Smfr4t8dtsVKq4Xh5v1MuN2W7Ltd9Dd4xCzNd1gO03r7yA7ocyOaTkvkVSBoau5R0Zmr7nvWvO6vAS8A4J0Xjoqr-ysfIytmt/s1600/hacking.png"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiFOooy5a4I3dw_lh7OSKtWYYlA9Ftuh5hLPClU-6W14orXFOE-R9IYNndJNgmjQ6gwapnsj-5g2jKInTFUop1fnz9Smfr4t8dtsVKq4Xh5v1MuN2W7Ltd9Dd4xCzNd1gO03r7yA7ocyOaTkvkVSBoau5R0Zmr7nvWvO6vAS8A4J0Xjoqr-ysfIytmt/s1600/hacking.png"
-        },
-        {
-          "id": "https://thehackernews.com/2023/03/fake-chatgpt-chrome-extension-hijacking.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "A fake ChatGPT-branded Chrome browser extension has been found to come with capabilities to hijack Facebook accounts and create rogue admin accounts, highlighting one of the different methods cyber criminals are using to distribute malware.\n\"By hijacking high-profile Facebook business accounts, the threat actor creates an elite army of Facebook bots and a malicious paid media apparatus,\" Guardio",
-          "link": "https://thehackernews.com/2023/03/fake-chatgpt-chrome-extension-hijacking.html",
-          "publishedOn": "2023-03-13T12:24:00.000Z",
-          "wordCount": null,
-          "title": "Fake ChatGPT Chrome Extension Hijacking Facebook Accounts for Malicious Advertising",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVO4Arx-7r3OS9iFE1eopLJfvjPtOaanMcjzHl6luVi4wfF_N_xWbu03kkXOqmVj-lVWweHAvQ9rh2Bd_4WyHvQgMBu0dvygaBU8YxpPmzJtPoGxi8stdyFJqrT3YotjCQf4GRFHbYxezNipjR010AgiO_09_56C24phGGODGu9bBE0mJ_AGfSbREe/s1600/chatgpt.png"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVO4Arx-7r3OS9iFE1eopLJfvjPtOaanMcjzHl6luVi4wfF_N_xWbu03kkXOqmVj-lVWweHAvQ9rh2Bd_4WyHvQgMBu0dvygaBU8YxpPmzJtPoGxi8stdyFJqrT3YotjCQf4GRFHbYxezNipjR010AgiO_09_56C24phGGODGu9bBE0mJ_AGfSbREe/s1600/chatgpt.png"
-        },
-        {
-          "id": "https://thehackernews.com/2023/03/how-to-apply-nist-principles-to-saas-in.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "The National Institute of Standards and Technology (NIST) is one of the standard-bearers in global cybersecurity. The U.S.-based institute’s cybersecurity framework helps organizations of all sizes understand, manage, and reduce their cyber-risk levels and better protect their data. Its importance in the fight against cyberattacks can’t be overstated.\nWhile NIST hasn’t directly developed",
-          "link": "https://thehackernews.com/2023/03/how-to-apply-nist-principles-to-saas-in.html",
-          "publishedOn": "2023-03-13T12:23:00.000Z",
-          "wordCount": null,
-          "title": "How to Apply NIST Principles to SaaS in 2023",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjON7kA-451rAhDtAqYILYzMCXjLh48JXHSXCfod7g1o-nQFDebfbymolHM_1pQCP-xH01octxiV3pQJhrtecZclhUjX2bqvFtBrdms9zQzH6-T3dNbmB1CTfriJ2-wHtHmx-HcPdYSq1s7iYZZhCyiiWM1IoryfRM7vFCvaW7IyhhminrWp1oD_UW8/s1600/main.png"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjON7kA-451rAhDtAqYILYzMCXjLh48JXHSXCfod7g1o-nQFDebfbymolHM_1pQCP-xH01octxiV3pQJhrtecZclhUjX2bqvFtBrdms9zQzH6-T3dNbmB1CTfriJ2-wHtHmx-HcPdYSq1s7iYZZhCyiiWM1IoryfRM7vFCvaW7IyhhminrWp1oD_UW8/s1600/main.png"
-        },
-        {
-          "id": "https://thehackernews.com/2023/03/warning-ai-generated-youtube-video.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Threat actors have been increasingly observed using AI-generated YouTube Videos to spread a variety of stealer malware such as Raccoon, RedLine, and Vidar.\n\"The videos lure users by pretending to be tutorials on how to download cracked versions of software such as Photoshop, Premiere Pro, Autodesk 3ds Max, AutoCAD, and other products that are licensed products available only to paid users,\"",
-          "link": "https://thehackernews.com/2023/03/warning-ai-generated-youtube-video.html",
-          "publishedOn": "2023-03-13T11:47:00.000Z",
-          "wordCount": null,
-          "title": "Warning: AI-generated YouTube Video Tutorials Spreading Infostealer Malware",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhhtPknJP0PsBhXoNZ7T5FukCS8WQ_rjrg-9tRLPOwzx-Wsd-N-L4K1o1aPw5jKR7Do2esEbj5Qu-rmIHkywPbOKZs58WFJT2FGrBLc2hVoE25jwlbZjA26m-VPh9XUxMhjzpKP8A9G5HuBjOYqenrFOhFxZ7MbK3epHH3v_CF9fyamHEzLvr1EXeqE/s1600/ai-video.png"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhhtPknJP0PsBhXoNZ7T5FukCS8WQ_rjrg-9tRLPOwzx-Wsd-N-L4K1o1aPw5jKR7Do2esEbj5Qu-rmIHkywPbOKZs58WFJT2FGrBLc2hVoE25jwlbZjA26m-VPh9XUxMhjzpKP8A9G5HuBjOYqenrFOhFxZ7MbK3epHH3v_CF9fyamHEzLvr1EXeqE/s1600/ai-video.png"
-        },
-        {
-          "id": "https://thehackernews.com/2023/03/researchers-uncover-over-dozen-security.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "More than a dozen security flaws have been disclosed in E11, a smart intercom product made by Chinese company Akuvox.\n\"The vulnerabilities could allow attackers to execute code remotely in order to activate and control the device's camera and microphone, steal video and images, or gain a network foothold,\" Claroty security researcher Vera Mens said in a technical write-up.\nAkuvox E11 is",
-          "link": "https://thehackernews.com/2023/03/researchers-uncover-over-dozen-security.html",
-          "publishedOn": "2023-03-13T07:36:00.000Z",
-          "wordCount": null,
-          "title": "Researchers Uncover Over a Dozen Security Flaws in Akuvox E11 Smart Intercom",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiIebhaN2ERGc2MIbXo9fcgLZ2UtH-7B0-LQmagEMIgqb8rEyaUD3a50-big8yVVZv2kz9azN7yjBCp990MW6UkOs0M2upg_b3p5DnmS3tLiiier7aa6CWLatlVP8J1UgiSEIBDqp7GhtPOP68pFOgcZueHYLe-yR1L_7f2hATXNx-YzVgZGfVt6EvN/s1600/app.png"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiIebhaN2ERGc2MIbXo9fcgLZ2UtH-7B0-LQmagEMIgqb8rEyaUD3a50-big8yVVZv2kz9azN7yjBCp990MW6UkOs0M2upg_b3p5DnmS3tLiiier7aa6CWLatlVP8J1UgiSEIBDqp7GhtPOP68pFOgcZueHYLe-yR1L_7f2hATXNx-YzVgZGfVt6EvN/s1600/app.png"
         }
       ]
     }
