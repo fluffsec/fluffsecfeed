@@ -14,16 +14,6 @@
           "wordCount": 4562,
           "title": "#StopRansomware: LockBit 3.0",
           "imageUrl": null
-        },
-        {
-          "id": "/node/17602",
-          "author": "CISA",
-          "description": "SUMMARY\nFrom November 2022 through early January 2023, the Cybersecurity and Infrastructure Security Agency (CISA) and authoring organizations identified the presence of indicators of compromise (IOCs) at a federal civilian executive branch (FCEB) agency. Analysts determined that multiple cyber threat actors, including an APT actor, were able to exploit a .NET deserialization vulnerability (CVE-2019-18935) in Progress Telerik user interface (UI) for ASP.NET AJAX, located in the agency’s Microsoft Internet Information Services (IIS) web server. Successful exploitation of this vulnerability allows for remote code execution. According to Progress Software, Telerik UI for ASP.NET AJAX builds before R1 2020 (2020.1.114) are vulnerable to this exploit.[1]\nActions to take today to mitigate malici…",
-          "link": "https://www.cisa.gov/news-events/cybersecurity-advisories/aa23-074a",
-          "publishedOn": "2023-03-13T17:57:57.000Z",
-          "wordCount": 5474,
-          "title": "Untitled",
-          "imageUrl": null
         }
       ]
     },
@@ -460,16 +450,6 @@
           "publishedOn": "2023-03-14T12:00:00.000Z",
           "wordCount": 544,
           "title": "Mozilla Releases Security Updates for Firefox 111, Firefox ESR 102.9, and Thunderbird 102.9",
-          "imageUrl": null
-        },
-        {
-          "id": "/node/17594",
-          "author": "CISA",
-          "description": "Today, CISA is announcing the creation of the Ransomware Vulnerability Warning Pilot (RVWP). Through the RVWP, CISA:\nProactively identifies information systems—belonging to critical infrastructure entities—that contain vulnerabilities commonly associated with ransomware intrusions.\nNotifies the owners of the affected information systems, which enables the owners to mitigate the vulnerabilities before damaging intrusions occur.\nReview the RVWP webpage for details, including information on the authorities and services CISA leverages to enable RVWP notifications.\nPlease share your thoughts. We recently updated our anonymous Product Feedback Survey and we'd welcome your feedback.",
-          "link": "https://www.cisa.gov/news-events/alerts/2023/03/13/cisa-announces-ransomware-vulnerability-warning-pilot",
-          "publishedOn": "2023-03-13T19:16:20.486Z",
-          "wordCount": 544,
-          "title": "Untitled",
           "imageUrl": null
         }
       ]
@@ -3318,36 +3298,6 @@
             "length": "0"
           },
           "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blte161b23f0fd3a84b/60b1ea374e7eb868c4c6a293/dr_staff_125x125.jpg"
-        },
-        {
-          "id": "https://www.darkreading.com/application-security/ai-creating-compelling-youtube-videos-loaded-with-malware-",
-          "author": "Dark Reading Staff, Dark Reading",
-          "description": "AI-generated videos pose as tutorials on how to get cracked versions of Photoshop, Premiere Pro, and more.",
-          "link": "https://www.darkreading.com/application-security/ai-creating-compelling-youtube-videos-loaded-with-malware-",
-          "publishedOn": "2023-03-13T18:38:00.000Z",
-          "wordCount": 10675,
-          "title": "Hike in AI-Created YouTube Videos Loaded With Malware",
-          "enclosure": {
-            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blte161b23f0fd3a84b/60b1ea374e7eb868c4c6a293/dr_staff_125x125.jpg",
-            "type": "image/*",
-            "length": "0"
-          },
-          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blte161b23f0fd3a84b/60b1ea374e7eb868c4c6a293/dr_staff_125x125.jpg"
-        },
-        {
-          "id": "https://www.darkreading.com/application-security/5-lessons-learned-from-hundreds-of-penetration-tests",
-          "author": "Nick Merritt, Vice President of Security Products and Services, Halo Security",
-          "description": "Developers must balance creativity with security frameworks to keep applications safe. Correlating business logic with security logic will pay in safety dividends.",
-          "link": "https://www.darkreading.com/application-security/5-lessons-learned-from-hundreds-of-penetration-tests",
-          "publishedOn": "2023-03-13T15:00:00.000Z",
-          "wordCount": 13397,
-          "title": "5 Lessons Learned From Hundreds of Penetration Tests",
-          "enclosure": {
-            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt440c42c00e215a0c/640b779d98e59745d0002c4f/HALO-MERRITT-2.jpg",
-            "type": "image/*",
-            "length": "0"
-          },
-          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt440c42c00e215a0c/640b779d98e59745d0002c4f/HALO-MERRITT-2.jpg"
         }
       ]
     },
@@ -4138,26 +4088,6 @@
           "wordCount": 4624,
           "title": "CyberheistNews Vol 13 #11 [Heads Up] Employees Are Feeding Sensitive Biz Data to ChatGPT, Raising Security Fears",
           "imageUrl": "https://blog.knowbe4.com/hubfs/CHN-Social.jpg#keepProtocol"
-        },
-        {
-          "id": "https://blog.knowbe4.com/threat-actors-impersonate-finra",
-          "author": "Stu Sjouwerman",
-          "description": "DomainTools warns that a sophisticated West Africa-based fraud group is impersonating the Financial Industry Regulatory Authority (FINRA) to target users in the United States, according to researchers at DomainTools. The threat actors are attempting to trick investors into providing sensitive documents in order to verify their identities. Users can avoid falling for these attacks if they’re familiar with FINRA’s legitimate roles.",
-          "link": "https://blog.knowbe4.com/threat-actors-impersonate-finra",
-          "publishedOn": "2023-03-13T17:13:47.000Z",
-          "wordCount": 2341,
-          "title": "Threat Actors are Using FINRA Impersonation For Their Attacks",
-          "imageUrl": "https://blog.knowbe4.com/hubfs/Cyber%20Insurance%20Focus%20on%20Catastrophic%20Attacks.jpg#keepProtocol"
-        },
-        {
-          "id": "https://blog.knowbe4.com/business-email-compromise-attacks-take-hours",
-          "author": "Stu Sjouwerman",
-          "description": "According to Microsoft's Security Intelligence team, a recent business email compromise attack (BEC) has shown that threat actors are quickening the pace of these attacks, with certain elements only taking a few minutes.",
-          "link": "https://blog.knowbe4.com/business-email-compromise-attacks-take-hours",
-          "publishedOn": "2023-03-13T17:13:45.000Z",
-          "wordCount": 2187,
-          "title": "Microsoft Warns of Business Email Compromise Attacks Taking Hours",
-          "imageUrl": "https://blog.knowbe4.com/hubfs/JasperArt_2023-03-12_08.00.40.png#keepProtocol"
         }
       ]
     },
@@ -4166,6 +4096,38 @@
       "feedUrl": "https://thehackernews.com/feeds/posts/default",
       "siteUrl": "https://thehackernews.com",
       "articles": [
+        {
+          "id": "https://thehackernews.com/2023/04/urgent-microsoft-issues-patches-for-97.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "It's the second Tuesday of the month, and Microsoft has released another set of security updates to fix a total of 97 flaws impacting its software, one of which has been actively exploited in ransomware attacks in the wild.\nSeven of the 97 bugs are rated Critical and 90 are rated Important in severity. Interestingly, 45 of the shortcomings are remote code execution flaws, followed by 20",
+          "link": "https://thehackernews.com/2023/04/urgent-microsoft-issues-patches-for-97.html",
+          "publishedOn": "2023-04-12T06:38:00.000Z",
+          "wordCount": null,
+          "title": "Urgent: Microsoft Issues Patches for 97 Flaws, Including Active Ransomware Exploit",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjV2jd3p9rwaZ2Vkd1R9kGPG7lmNFaBXn5xXe_oVH3HCThw2Tp9OTm5905K260MP0fh1NXPOEmaJCefDqa2IVqjH4qcR79WpY4eDLSzajVPF3Y2JyTvbMinBxpLXMJidmBsSUMHIfpdv-jqKT_DiGxbhQ-1iKr44M1hoVGmup2qrkM8CtL7JD0feAkA/s1600/windows-update.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjV2jd3p9rwaZ2Vkd1R9kGPG7lmNFaBXn5xXe_oVH3HCThw2Tp9OTm5905K260MP0fh1NXPOEmaJCefDqa2IVqjH4qcR79WpY4eDLSzajVPF3Y2JyTvbMinBxpLXMJidmBsSUMHIfpdv-jqKT_DiGxbhQ-1iKr44M1hoVGmup2qrkM8CtL7JD0feAkA/s1600/windows-update.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2023/04/lazarus-sub-group-labyrinth-chollima.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Enterprise communications service provider 3CX confirmed that the supply chain attack targeting its desktop application for Windows and macOS was the handiwork of a threat actor with North Korean nexus.\nThe findings are the result of an interim assessment conducted by Google-owned Mandiant, whose services were enlisted after the intrusion came to light late last month. The threat intelligence",
+          "link": "https://thehackernews.com/2023/04/lazarus-sub-group-labyrinth-chollima.html",
+          "publishedOn": "2023-04-12T04:06:00.000Z",
+          "wordCount": null,
+          "title": "North Korean Hackers Uncovered as Mastermind in 3CX Supply Chain Attack",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhFcXu9ZHvh0jnjOWktyxIDoPagKzeOB4H6O446QKC_8UWxyhur05RXRFwyMMc7FSE-BVWflU8s9UTiiu6Eo7-_gzEJQoOnGGau64WhOXSeA0Hrl5GnwOEgx0MN8DQjF_6cXZ0uzwCZRnSBZwHSQXlCRR2pws6XaUz-Pj1AztLk_EMjwbTqF4tzCSi6/s1600/hacking.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhFcXu9ZHvh0jnjOWktyxIDoPagKzeOB4H6O446QKC_8UWxyhur05RXRFwyMMc7FSE-BVWflU8s9UTiiu6Eo7-_gzEJQoOnGGau64WhOXSeA0Hrl5GnwOEgx0MN8DQjF_6cXZ0uzwCZRnSBZwHSQXlCRR2pws6XaUz-Pj1AztLk_EMjwbTqF4tzCSi6/s1600/hacking.jpg"
+        },
         {
           "id": "https://thehackernews.com/2023/04/newly-discovered-by-design-flaw-in.html",
           "author": "info@thehackernews.com (The Hacker News)",
@@ -6101,22 +6063,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_h8W_b02FP1OL0YfB5tOKIF2lDUsQiyWoybDUBq8zM6SVlPxPklHTac2f7CpygEYgE-iVb5r69lQim7pXJlPN-XWxXaXZ7iScOYAUhGDnkLti5qhgWjZZJxPgESAZVjqkCbXLFFXTkS6BNEdPl2eIP4Czdk0P1L-w_SGBRzGEq99CNKnBSrXBu1WJ/s1600/malware.jpg"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_h8W_b02FP1OL0YfB5tOKIF2lDUsQiyWoybDUBq8zM6SVlPxPklHTac2f7CpygEYgE-iVb5r69lQim7pXJlPN-XWxXaXZ7iScOYAUhGDnkLti5qhgWjZZJxPgESAZVjqkCbXLFFXTkS6BNEdPl2eIP4Czdk0P1L-w_SGBRzGEq99CNKnBSrXBu1WJ/s1600/malware.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2023/03/large-scale-cyber-attack-hijacks-east.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "A widespread malicious cyber operation has hijacked thousands of websites aimed at East Asian audiences to redirect visitors to adult-themed content since early September 2022.\nThe ongoing campaign entails injecting malicious JavaScript code to the hacked websites, often connecting to the target web server using legitimate FTP credentials the threat actor previously obtained via an unknown",
-          "link": "https://thehackernews.com/2023/03/large-scale-cyber-attack-hijacks-east.html",
-          "publishedOn": "2023-03-13T14:59:00.000Z",
-          "wordCount": null,
-          "title": "Large-scale Cyber Attack Hijacks East Asian Websites for Adult Content Redirects",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiFOooy5a4I3dw_lh7OSKtWYYlA9Ftuh5hLPClU-6W14orXFOE-R9IYNndJNgmjQ6gwapnsj-5g2jKInTFUop1fnz9Smfr4t8dtsVKq4Xh5v1MuN2W7Ltd9Dd4xCzNd1gO03r7yA7ocyOaTkvkVSBoau5R0Zmr7nvWvO6vAS8A4J0Xjoqr-ysfIytmt/s1600/hacking.png"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiFOooy5a4I3dw_lh7OSKtWYYlA9Ftuh5hLPClU-6W14orXFOE-R9IYNndJNgmjQ6gwapnsj-5g2jKInTFUop1fnz9Smfr4t8dtsVKq4Xh5v1MuN2W7Ltd9Dd4xCzNd1gO03r7yA7ocyOaTkvkVSBoau5R0Zmr7nvWvO6vAS8A4J0Xjoqr-ysfIytmt/s1600/hacking.png"
         }
       ]
     }
