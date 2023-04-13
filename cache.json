@@ -3338,66 +3338,6 @@
             "length": "0"
           },
           "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blte161b23f0fd3a84b/60b1ea374e7eb868c4c6a293/dr_staff_125x125.jpg"
-        },
-        {
-          "id": "https://www.darkreading.com/risk/access-control-gap-microsoft-active-directory-enterprise-attack-surface",
-          "author": "Nate Nelson, Contributing Writer, Dark Reading",
-          "description": "One researcher thinks trust is broken in AD. Microsoft disagrees that there's a security vulnerability. But enterprise IT environments should be aware of an authentication gap either way.",
-          "link": "https://www.darkreading.com/risk/access-control-gap-microsoft-active-directory-enterprise-attack-surface",
-          "publishedOn": "2023-03-14T17:53:00.000Z",
-          "wordCount": 13044,
-          "title": "Access Control Gap in Microsoft Active Directory Widens Enterprise Attack Surface",
-          "enclosure": {
-            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt91e5f91ce3f0cdd9/63d0288ac98dbe55ece1d0a9/Nate-Nelson_(1).jpg",
-            "type": "image/*",
-            "length": "0"
-          },
-          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt91e5f91ce3f0cdd9/63d0288ac98dbe55ece1d0a9/Nate-Nelson_(1).jpg"
-        },
-        {
-          "id": "https://www.darkreading.com/risk/how-businesses-can-get-ready-for-ai-powered-security-threats",
-          "author": "Musa Ishaq, Security Engineer &  Senior Insider Threat Analyst, DTEX Systems",
-          "description": "Organizations need to take steps now to strengthen their cyber defenses.",
-          "link": "https://www.darkreading.com/risk/how-businesses-can-get-ready-for-ai-powered-security-threats",
-          "publishedOn": "2023-03-14T17:00:00.000Z",
-          "wordCount": 13430,
-          "title": "How Businesses Can Get Ready for AI-Powered Security Threats",
-          "enclosure": {
-            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt2726497e97980cc1/640e12ee2313b73b1f0b79bd/MusaIshaq.jpg",
-            "type": "image/*",
-            "length": "0"
-          },
-          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt2726497e97980cc1/640e12ee2313b73b1f0b79bd/MusaIshaq.jpg"
-        },
-        {
-          "id": "https://www.darkreading.com/microsoft/deepfakes-synthetic-media-how-digital-propaganda-undermines-trust",
-          "author": "Microsoft Security, Microsoft",
-          "description": "Organizations must educate themselves and their users on how to detect, disrupt, and defend against the increasing volume of online disinformation.",
-          "link": "https://www.darkreading.com/microsoft/deepfakes-synthetic-media-how-digital-propaganda-undermines-trust",
-          "publishedOn": "2023-03-14T16:10:00.000Z",
-          "wordCount": 12800,
-          "title": "Deepfakes, Synthetic Media: How Digital Propaganda Undermines Trust",
-          "enclosure": {
-            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt8fe4479bc32f84b4/6321f5362769d078008692a9/MS-Security_logo.png",
-            "type": "image/*",
-            "length": "0"
-          },
-          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt8fe4479bc32f84b4/6321f5362769d078008692a9/MS-Security_logo.png"
-        },
-        {
-          "id": "https://www.darkreading.com/threat-intelligence/dns-autobahn-malicious-network-traffic",
-          "author": "Elizabeth Montalbano, Contributor, Dark Reading",
-          "description": "An analysis of trillions of DNS requests shows a shocking amount of malicious traffic inside enterprise networks, with threats using DNS as a sort of malicious Autobahn.",
-          "link": "https://www.darkreading.com/threat-intelligence/dns-autobahn-malicious-network-traffic",
-          "publishedOn": "2023-03-14T15:54:30.000Z",
-          "wordCount": 13350,
-          "title": "Emotet, QSnatch Malware Dominate Malicious DNS Traffic",
-          "enclosure": {
-            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltbfd004d139d42d70/6303bca6236c2476a257760e/ElizabethMontalbano.jpg",
-            "type": "image/*",
-            "length": "0"
-          },
-          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltbfd004d139d42d70/6303bca6236c2476a257760e/ElizabethMontalbano.jpg"
         }
       ]
     },
@@ -4158,16 +4098,6 @@
           "wordCount": 2160,
           "title": "Season 5 of ‘The Inside Man’ From KnowBe4 Is Less Than a Month Away!",
           "imageUrl": "https://blog.knowbe4.com/hubfs/Inside-Man-S5-Preview-Blog-Featured-Image.png#keepProtocol"
-        },
-        {
-          "id": "https://blog.knowbe4.com/10b-in-losses-internet-scams-2022",
-          "author": "Stu Sjouwerman",
-          "description": "The 2022 Internet Crime Report by the FBI reported at least $10.3 billion in losses due to internet scams last year.",
-          "link": "https://blog.knowbe4.com/10b-in-losses-internet-scams-2022",
-          "publishedOn": "2023-03-14T18:15:30.000Z",
-          "wordCount": 2214,
-          "title": "Newest FBI Report Shows $10B in Losses Last Year Due to Internet Scams",
-          "imageUrl": "https://blog.knowbe4.com/hubfs/FBI%20Warns%20of%20Financial%20Extortion.jpg#keepProtocol"
         }
       ]
     },
@@ -4176,6 +4106,22 @@
       "feedUrl": "https://thehackernews.com/feeds/posts/default",
       "siteUrl": "https://thehackernews.com",
       "articles": [
+        {
+          "id": "https://thehackernews.com/2023/04/chatgpt-security-openais-bug-bounty.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "OpenAI, the company behind the massively popular ChatGPT AI chatbot, has launched a bug bounty program in an attempt to ensure its systems are \"safe and secure.\"\nTo that end, it has partnered with the crowdsourced security platform Bugcrowd for independent researchers to report vulnerabilities discovered in its product in exchange for rewards ranging from \"$200 for low-severity findings to up to",
+          "link": "https://thehackernews.com/2023/04/chatgpt-security-openais-bug-bounty.html",
+          "publishedOn": "2023-04-13T04:35:00.000Z",
+          "wordCount": null,
+          "title": "ChatGPT Security: OpenAI's Bug Bounty Program Offers Up to $20,000 Prizes",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjPylOFHc8JTykgKqcXisKWv-aYrZY12eE1L54fvbjFWObhZ8iN8cJ2eSE-Bunt2cRz-onn2wZ0uXBKvZVpeWdNJ7WpkjSIWcfzgTGN-YIAv_fQwFfm5QDJcM5UX--MfbIkSLsNgOnfxeupuSUEGqqIv-SFJEqNlLx2VhSavWBOJfyedh7xW4Ouzbmm/s1600/chatgpt-bug-bounty.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjPylOFHc8JTykgKqcXisKWv-aYrZY12eE1L54fvbjFWObhZ8iN8cJ2eSE-Bunt2cRz-onn2wZ0uXBKvZVpeWdNJ7WpkjSIWcfzgTGN-YIAv_fQwFfm5QDJcM5UX--MfbIkSLsNgOnfxeupuSUEGqqIv-SFJEqNlLx2VhSavWBOJfyedh7xW4Ouzbmm/s1600/chatgpt-bug-bounty.png"
+        },
         {
           "id": "https://thehackernews.com/2023/04/israel-based-spyware-firm-quadream.html",
           "author": "info@thehackernews.com (The Hacker News)",
