@@ -2,10 +2,61 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-04-13T13:26:07.532Z</updated>
+    <updated>2023-04-13T19:14:56.215Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The Internet Reform Trilemma]]></title>
+        <id>https://www.darkreading.com/vulnerabilities-threats/the-internet-reform-trilemma</id>
+        <link href="https://www.darkreading.com/vulnerabilities-threats/the-internet-reform-trilemma"/>
+        <updated>2023-04-13T17:00:00.000Z</updated>
+        <summary type="html"><![CDATA[An "open" Internet faces challenges from autocratic governance models. Policymakers should instead think about creating an Internet that's equitable, inclusive, and secure.]]></summary>
+        <author>
+            <name>Nick Merrill, Research Fellow, UC Berkeley Center for Long-Term Cybersecurity</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RTM Locker: Emerging Cybercrime Group Targeting Businesses with Ransomware]]></title>
+        <id>https://thehackernews.com/2023/04/rtm-locker-emerging-cybercrime-group.html</id>
+        <link href="https://thehackernews.com/2023/04/rtm-locker-emerging-cybercrime-group.html"/>
+        <updated>2023-04-13T16:40:00.000Z</updated>
+        <summary type="html"><![CDATA[Cybersecurity researchers have detailed the tactics of a "rising" cybercriminal gang called "Read The Manual" (RTM) Locker that functions as a private ransomware-as-a-service (RaaS) provider and carries out opportunistic attacks to generate illicit profit.
+"The 'Read The Manual' Locker gang uses affiliates to ransom victims, all of whom are forced to abide by the gang's strict rules,"]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Majority of US IT Pros Told to Keep Quiet About Data Breaches]]></title>
+        <id>https://www.darkreading.com/vulnerabilities-threats/us-it-pros-data-breaches-keep-quiet-data-breaches</id>
+        <link href="https://www.darkreading.com/vulnerabilities-threats/us-it-pros-data-breaches-keep-quiet-data-breaches"/>
+        <updated>2023-04-13T15:40:57.000Z</updated>
+        <summary type="html"><![CDATA[To report or not report? While more than half of all companies have suffered a data breach, 71% of IT professionals say they have been told to not report an incident, which could mean legal jeopardy.]]></summary>
+        <author>
+            <name>Robert Lemos, Contributing Writer, Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Legion Malware Marches onto Web Servers to Steal Credentials, Spam Mobile Users]]></title>
+        <id>https://www.darkreading.com/cloud/legion-malware-marches-web-servers-steal-credentials-spam-mobile</id>
+        <link href="https://www.darkreading.com/cloud/legion-malware-marches-web-servers-steal-credentials-spam-mobile"/>
+        <updated>2023-04-13T15:24:00.000Z</updated>
+        <summary type="html"><![CDATA[A novel credential harvester compromises SMTP services to steal data from a range of hosted services and providers, and can also launch SMS-based spam attacks against devices using US mobile carriers.]]></summary>
+        <author>
+            <name>Elizabeth Montalbano, Contributor, Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Define Tier-Zero Assets in Active Directory Security]]></title>
+        <id>https://www.darkreading.com/vulnerabilities-threats/how-to-define-tier-zero-assets-in-active-directory-security</id>
+        <link href="https://www.darkreading.com/vulnerabilities-threats/how-to-define-tier-zero-assets-in-active-directory-security"/>
+        <updated>2023-04-13T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[There are plenty of AD objects and groups that should be considered tier zero in every environment, but some will vary among organizations.]]></summary>
+        <author>
+            <name>Andy Robbins, Principal Product Architect, SpecterOps</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Affinity Phishing Attacks Use Social Engineering Tactics to Prey on Victims]]></title>
         <id>https://blog.knowbe4.com/affinity-phishing-attacks</id>
@@ -45,6 +96,59 @@
 "Mobile device malware is one of the biggest threats to people's privacy and security today because it can take advantage of your phone without your permission and use your WhatsApp to send unwanted messages,"]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CISA Adds Two Known Exploited Vulnerabilities to Catalog]]></title>
+        <id>/node/17921</id>
+        <link href="https://www.cisa.gov/news-events/alerts/2023/04/13/cisa-adds-two-known-exploited-vulnerabilities-catalog"/>
+        <updated>2023-04-13T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities Catalog, based on evidence of active exploitation.
+CVE-2023-20963 Android Framework Privilege Escalation Vulnerability
+CVE-2023-29492 Novi Survey Insecure Deserialization Vulnerability
+These types of vulnerabilities are frequent attack vectors for malicious cyber actors and pose significant risks to the federal enterprise. Note: To view other newly added vulnerabilities in the catalog, click on the arrow in the "Date Added to Catalog" column—which will sort by descending dates.
+Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the Known Exploited Vulnerabilities Catalog as a living list of known Common Vulnerabilities and Exposures (CVEs) that carry significant risk to the federal enterprise. BOD 22-01 requires Federal Civilian Executive Branch (FCEB) agencies to remediate identified vulnerabilities by the due date to protect FCEB networks against active threats. See the BOD 22-01 Fact Sheet for more information.
+Although BOD 22-01 only applies to FCEB agencies, CISA strongly urges all organizations to reduce their exposure to cyberattacks by prioritizing timely remediation of Catalog vulnerabilities as part of their vulnerability management practice. CISA will continue to add vulnerabilities to the catalog that meet the specified criteria.]]></summary>
+        <author>
+            <name>CISA</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Juniper Networks Releases Security Updates]]></title>
+        <id>/node/17906</id>
+        <link href="https://www.cisa.gov/news-events/alerts/2023/04/13/juniper-networks-releases-security-updates"/>
+        <updated>2023-04-13T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Juniper Networks has released security updates to address vulnerabilities affecting Junos OS, Paragon Active Assurance (PAA), and Juniper Secure Analytics (JSA) Series. An attacker could exploit some of these vulnerabilities to take control of an affected system.
+CISA encourages users and administrators to review Juniper Networks’ security advisories page and apply the necessary updates.]]></summary>
+        <author>
+            <name>CISA</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CISA Releases Sixteen Industrial Control Systems Advisories]]></title>
+        <id>/node/17911</id>
+        <link href="https://www.cisa.gov/news-events/alerts/2023/04/13/cisa-releases-sixteen-industrial-control-systems-advisories"/>
+        <updated>2023-04-13T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[CISA released sixteen Industrial Control Systems (ICS) advisories on April 13, 2023. These advisories provide timely information about current security issues, vulnerabilities, and exploits surrounding ICS. 
+ICSMA-23-103-01 B. Braun Battery Pack SP with Wi-Fi
+ICSA-23-103-01 Siemens Adaptec maxView Application
+ICSA-23-103-02 Siemens JT Open and JT Utilities
+ICSA-23-103-03 Siemens in OPC Foundation Local Discovery Server
+ICSA-23-103-04 Siemens TIA Portal
+ICSA-23-103-05 Siemens SCALANCE X-200IRT Devices
+ICSA-23-103-06 Siemens SIPROTEC 5 Devices
+ICSA-23-103-07 Siemens CPCI85 Firmware of SICAM A8000 Devices
+ICSA-23-103-08 Siemens Mendix Forgot Password Module
+ICSA-23-103-09 Siemens SCALANCE XCM332
+ICSA-23-103-10 Siemens Industrial Products
+ICSA-23-103-11 Siemens Teamcenter Visualization and JT2Go
+ICSA-23-103-12 Siemens Polarion ALM
+ICSA-23-103-13 Siemens SCALANCE Switch Families
+ICSA-23-103-14 Datakit CrossCAD-WARE
+ICSA-23-103-15 Mitsubishi Electric GOC35 Series
+CISA encourages users and administrators to review the newly released ICS advisories for technical details and mitigations.]]></summary>
+        <author>
+            <name>CISA</name>
         </author>
     </entry>
     <entry>
@@ -101,6 +205,16 @@ While the suspected Pakistan-based threat group is known to target military and
 While the nation-state adversary is known for its persistent attacks on the cryptocurrency sector, it has also targeted automotive, academic, and defense sectors in Eastern Europe and other parts of the world]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Congratulations to the Top MSRC 2023 Q1 Security Researchers!]]></title>
+        <id>/blog/2023/04/congratulations-to-the-top-msrc-2023-q1-security-researchers/</id>
+        <link href="https://msrc-blog.microsoft.com/blog/2023/04/congratulations-to-the-top-msrc-2023-q1-security-researchers/"/>
+        <updated>2023-04-13T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Congratulations to all the researchers recognized in this quarter’s Microsoft Researcher Recognition Program leaderboard! Thank you to everyone for your hard work and continued partnership to secure customers. The top three researchers of the 2023 Q1 Security Researcher Leaderboard are: Kai Lu (@K3vinLuSec), Yuki Chen, and wh1tc & Edwardzpeng! Check out the full list of researchers recognized this quarter here.]]></summary>
+        <author>
+            <name>Microsoft Security Response Center</name>
         </author>
     </entry>
     <entry>
@@ -4825,62 +4939,6 @@ Vulnerabilities in web applications are often the]]></summary>
 "The attackers compromised the DLP company's internal update servers to deliver malware inside the software developer's network, and trojanized installers of legitimate tools used by the company, which]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft Rolls Out Patches for 80 New Security Flaws — Two Under Active Attack]]></title>
-        <id>https://thehackernews.com/2023/03/microsoft-rolls-out-patches-for-80-new.html</id>
-        <link href="https://thehackernews.com/2023/03/microsoft-rolls-out-patches-for-80-new.html"/>
-        <updated>2023-03-15T05:26:00.000Z</updated>
-        <summary type="html"><![CDATA[Microsoft's Patch Tuesday update for March 2023 is rolling out with remediations for a set of 80 security flaws, two of which have come under active exploitation in the wild.
-Eight of the 80 bugs are rated Critical, 71 are rated Important, and one is rated Moderate in severity. The updates are in addition to 29 flaws the tech giant fixed in its Chromium-based Edge browser in recent weeks.
-The]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Untitled]]></title>
-        <id>/node/17632</id>
-        <link href="https://www.cisa.gov/news-events/alerts/2023/03/14/mozilla-releases-security-updates-firefox-111-and-firefox-esr-1029"/>
-        <updated>2023-03-15T02:14:55.487Z</updated>
-        <summary type="html"><![CDATA[Mozilla has released security updates to address vulnerabilities in Firefox 111 and Firefox ESR 102.9. An attacker could exploit some of these vulnerabilities to take control of an affected system.
-CISA encourages users and administrators to review Mozilla’s security advisories for Firefox 111 and Firefox ESR 102.9 for more information and apply the necessary updates.
-Please share your thoughts. We recently updated our anonymous Product Feedback Survey and we'd welcome your feedback.]]></summary>
-        <author>
-            <name>CISA</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Untitled]]></title>
-        <id>/node/17631</id>
-        <link href="https://www.cisa.gov/news-events/alerts/2023/03/14/microsoft-releases-march-2023-security-updates"/>
-        <updated>2023-03-15T02:14:55.476Z</updated>
-        <summary type="html"><![CDATA[Microsoft has released updates to address multiple vulnerabilities in Microsoft software. An attacker can exploit some of these vulnerabilities to take control of an affected system.
-CISA encourages users and administrators to review Microsoft’s March 2023 Security Update Guide and Deployment Information and apply the necessary updates.
-Please share your thoughts. We recently updated our anonymous Product Feedback Survey and we'd welcome your feedback.]]></summary>
-        <author>
-            <name>CISA</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Untitled]]></title>
-        <id>/node/17636</id>
-        <link href="https://www.cisa.gov/news-events/alerts/2023/03/14/adobe-releases-security-updates-multiple-products"/>
-        <updated>2023-03-15T02:14:55.442Z</updated>
-        <summary type="html"><![CDATA[Adobe has released security updates to address multiple vulnerabilities in Adobe software. An attacker can exploit these vulnerabilities to take control of an affected system.
-CISA encourages users and administrators to review the following Adobe Security Bulletins and apply the necessary updates.
-Commerce APSB23-17
-Experience Manager APSB23-18
-Illustrator APSB23-19
-Dimension APSB23-20
-Creative Cloud Desktop Application APSB23-21
-Substance 3D Stager APSB23-22
-Photoshop APSB23-23
-ColdFusion APSB23-25
-Please share your thoughts. We recently updated our anonymous Product Feedback Survey and we'd welcome your feedback.]]></summary>
-        <author>
-            <name>CISA</name>
         </author>
     </entry>
 </feed>

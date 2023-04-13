@@ -23,6 +23,36 @@
       "siteUrl": "https://www.cisa.gov/",
       "articles": [
         {
+          "id": "/node/17921",
+          "author": "CISA",
+          "description": "CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities Catalog, based on evidence of active exploitation.\nCVE-2023-20963 Android Framework Privilege Escalation Vulnerability\nCVE-2023-29492 Novi Survey Insecure Deserialization Vulnerability\nThese types of vulnerabilities are frequent attack vectors for malicious cyber actors and pose significant risks to the federal enterprise. Note: To view other newly added vulnerabilities in the catalog, click on the arrow in the \"Date Added to Catalog\" column—which will sort by descending dates.\nBinding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the Known Exploited Vulnerabilities Catalog as a living list of known Common Vulnerabilities and Exposures (CVEs) that carry significant risk to the federal enterprise. BOD 22-01 requires Federal Civilian Executive Branch (FCEB) agencies to remediate identified vulnerabilities by the due date to protect FCEB networks against active threats. See the BOD 22-01 Fact Sheet for more information.\nAlthough BOD 22-01 only applies to FCEB agencies, CISA strongly urges all organizations to reduce their exposure to cyberattacks by prioritizing timely remediation of Catalog vulnerabilities as part of their vulnerability management practice. CISA will continue to add vulnerabilities to the catalog that meet the specified criteria.",
+          "link": "https://www.cisa.gov/news-events/alerts/2023/04/13/cisa-adds-two-known-exploited-vulnerabilities-catalog",
+          "publishedOn": "2023-04-13T12:00:00.000Z",
+          "wordCount": 671,
+          "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
+          "imageUrl": null
+        },
+        {
+          "id": "/node/17906",
+          "author": "CISA",
+          "description": "Juniper Networks has released security updates to address vulnerabilities affecting Junos OS, Paragon Active Assurance (PAA), and Juniper Secure Analytics (JSA) Series. An attacker could exploit some of these vulnerabilities to take control of an affected system.\nCISA encourages users and administrators to review Juniper Networks’ security advisories page and apply the necessary updates.",
+          "link": "https://www.cisa.gov/news-events/alerts/2023/04/13/juniper-networks-releases-security-updates",
+          "publishedOn": "2023-04-13T12:00:00.000Z",
+          "wordCount": 528,
+          "title": "Juniper Networks Releases Security Updates",
+          "imageUrl": null
+        },
+        {
+          "id": "/node/17911",
+          "author": "CISA",
+          "description": "CISA released sixteen Industrial Control Systems (ICS) advisories on April 13, 2023. These advisories provide timely information about current security issues, vulnerabilities, and exploits surrounding ICS. \nICSMA-23-103-01 B. Braun Battery Pack SP with Wi-Fi\nICSA-23-103-01 Siemens Adaptec maxView Application\nICSA-23-103-02 Siemens JT Open and JT Utilities\nICSA-23-103-03 Siemens in OPC Foundation Local Discovery Server\nICSA-23-103-04 Siemens TIA Portal\nICSA-23-103-05 Siemens SCALANCE X-200IRT Devices\nICSA-23-103-06 Siemens SIPROTEC 5 Devices\nICSA-23-103-07 Siemens CPCI85 Firmware of SICAM A8000 Devices\nICSA-23-103-08 Siemens Mendix Forgot Password Module\nICSA-23-103-09 Siemens SCALANCE XCM332\nICSA-23-103-10 Siemens Industrial Products\nICSA-23-103-11 Siemens Teamcenter Visualization and JT2Go\nICSA-23-103-12 Siemens Polarion ALM\nICSA-23-103-13 Siemens SCALANCE Switch Families\nICSA-23-103-14 Datakit CrossCAD-WARE\nICSA-23-103-15 Mitsubishi Electric GOC35 Series\nCISA encourages users and administrators to review the newly released ICS advisories for technical details and mitigations.",
+          "link": "https://www.cisa.gov/news-events/alerts/2023/04/13/cisa-releases-sixteen-industrial-control-systems-advisories",
+          "publishedOn": "2023-04-13T12:00:00.000Z",
+          "wordCount": 606,
+          "title": "CISA Releases Sixteen Industrial Control Systems Advisories",
+          "imageUrl": null
+        },
+        {
           "id": "/node/17905",
           "author": "CISA",
           "description": "Shifting the Balance of Cybersecurity Risk: Security-by-Design and Default Principles serves as a cybersecurity roadmap for manufacturers of technology and associated products. With recommendations in this guide, manufacturers are urged to put cybersecurity first, during the design phase of a product’s development lifecycle, to decrease user risk and provide out-of-the-box user protections by default at no extra charge. \nThis guide represents an international effort to reduce exploitable vulnerabilities in technology used by the government and private sector organizations. The authoring agencies are CISA, Federal Bureau of Investigation, National Security Agency, Australian Cyber Security Centre, Canadian Centre for Cyber Security, New Zealand’s Computer Emergency Response Team, United Kingdom’s National Cyber Security Centre, Germany’s Federal Office for Information Security (BSI), and the Netherlands’ National Cyber Security Centre. The authoring agencies recognize the contributions by many private sector partners in advancing Security-by-Design and -Default.\nFor more information on the importance of product security, see CISA's blog article The Cost of Unsafe Technology and What We Can Do About It.",
@@ -401,36 +431,6 @@
           "wordCount": 545,
           "title": "Untitled",
           "imageUrl": null
-        },
-        {
-          "id": "/node/17632",
-          "author": "CISA",
-          "description": "Mozilla has released security updates to address vulnerabilities in Firefox 111 and Firefox ESR 102.9. An attacker could exploit some of these vulnerabilities to take control of an affected system.\nCISA encourages users and administrators to review Mozilla’s security advisories for Firefox 111 and Firefox ESR 102.9 for more information and apply the necessary updates.\nPlease share your thoughts. We recently updated our anonymous Product Feedback Survey and we'd welcome your feedback.",
-          "link": "https://www.cisa.gov/news-events/alerts/2023/03/14/mozilla-releases-security-updates-firefox-111-and-firefox-esr-1029",
-          "publishedOn": "2023-03-15T02:14:55.487Z",
-          "wordCount": 537,
-          "title": "Untitled",
-          "imageUrl": null
-        },
-        {
-          "id": "/node/17631",
-          "author": "CISA",
-          "description": "Microsoft has released updates to address multiple vulnerabilities in Microsoft software. An attacker can exploit some of these vulnerabilities to take control of an affected system.\nCISA encourages users and administrators to review Microsoft’s March 2023 Security Update Guide and Deployment Information and apply the necessary updates.\nPlease share your thoughts. We recently updated our anonymous Product Feedback Survey and we'd welcome your feedback.",
-          "link": "https://www.cisa.gov/news-events/alerts/2023/03/14/microsoft-releases-march-2023-security-updates",
-          "publishedOn": "2023-03-15T02:14:55.476Z",
-          "wordCount": 524,
-          "title": "Untitled",
-          "imageUrl": null
-        },
-        {
-          "id": "/node/17636",
-          "author": "CISA",
-          "description": "Adobe has released security updates to address multiple vulnerabilities in Adobe software. An attacker can exploit these vulnerabilities to take control of an affected system.\nCISA encourages users and administrators to review the following Adobe Security Bulletins and apply the necessary updates.\nCommerce APSB23-17\nExperience Manager APSB23-18\nIllustrator APSB23-19\nDimension APSB23-20\nCreative Cloud Desktop Application APSB23-21\nSubstance 3D Stager APSB23-22\nPhotoshop APSB23-23\nColdFusion APSB23-25\nPlease share your thoughts. We recently updated our anonymous Product Feedback Survey and we'd welcome your feedback.",
-          "link": "https://www.cisa.gov/news-events/alerts/2023/03/14/adobe-releases-security-updates-multiple-products",
-          "publishedOn": "2023-03-15T02:14:55.442Z",
-          "wordCount": 542,
-          "title": "Untitled",
-          "imageUrl": null
         }
       ]
     },
@@ -469,6 +469,66 @@
       "feedUrl": "https://www.darkreading.com/rss.xml",
       "siteUrl": "https://www.darkreading.com",
       "articles": [
+        {
+          "id": "https://www.darkreading.com/vulnerabilities-threats/the-internet-reform-trilemma",
+          "author": "Nick Merrill, Research Fellow, UC Berkeley Center for Long-Term Cybersecurity",
+          "description": "An \"open\" Internet faces challenges from autocratic governance models. Policymakers should instead think about creating an Internet that's equitable, inclusive, and secure.",
+          "link": "https://www.darkreading.com/vulnerabilities-threats/the-internet-reform-trilemma",
+          "publishedOn": "2023-04-13T17:00:00.000Z",
+          "wordCount": 14635,
+          "title": "The Internet Reform Trilemma",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt4060e7e55eb6d979/6436bc2432201b115b0324b9/Nick-Merrill-Headshot-1-scaled-e1661878584462-1024x1005-1-e1664582833526.jpeg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt4060e7e55eb6d979/6436bc2432201b115b0324b9/Nick-Merrill-Headshot-1-scaled-e1661878584462-1024x1005-1-e1664582833526.jpeg"
+        },
+        {
+          "id": "https://www.darkreading.com/vulnerabilities-threats/us-it-pros-data-breaches-keep-quiet-data-breaches",
+          "author": "Robert Lemos, Contributing Writer, Dark Reading",
+          "description": "To report or not report? While more than half of all companies have suffered a data breach, 71% of IT professionals say they have been told to not report an incident, which could mean legal jeopardy.",
+          "link": "https://www.darkreading.com/vulnerabilities-threats/us-it-pros-data-breaches-keep-quiet-data-breaches",
+          "publishedOn": "2023-04-13T15:40:57.000Z",
+          "wordCount": 15312,
+          "title": "Majority of US IT Pros Told to Keep Quiet About Data Breaches",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt58481326324d6911/60b1e9a55d34de550780a990/Robert-Lemos.png",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt58481326324d6911/60b1e9a55d34de550780a990/Robert-Lemos.png"
+        },
+        {
+          "id": "https://www.darkreading.com/cloud/legion-malware-marches-web-servers-steal-credentials-spam-mobile",
+          "author": "Elizabeth Montalbano, Contributor, Dark Reading",
+          "description": "A novel credential harvester compromises SMTP services to steal data from a range of hosted services and providers, and can also launch SMS-based spam attacks against devices using US mobile carriers.",
+          "link": "https://www.darkreading.com/cloud/legion-malware-marches-web-servers-steal-credentials-spam-mobile",
+          "publishedOn": "2023-04-13T15:24:00.000Z",
+          "wordCount": 15372,
+          "title": "Legion Malware Marches onto Web Servers to Steal Credentials, Spam Mobile Users",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltbfd004d139d42d70/6303bca6236c2476a257760e/ElizabethMontalbano.jpg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltbfd004d139d42d70/6303bca6236c2476a257760e/ElizabethMontalbano.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/vulnerabilities-threats/how-to-define-tier-zero-assets-in-active-directory-security",
+          "author": "Andy Robbins, Principal Product Architect, SpecterOps",
+          "description": "There are plenty of AD objects and groups that should be considered tier zero in every environment, but some will vary among organizations.",
+          "link": "https://www.darkreading.com/vulnerabilities-threats/how-to-define-tier-zero-assets-in-active-directory-security",
+          "publishedOn": "2023-04-13T14:00:00.000Z",
+          "wordCount": 14908,
+          "title": "How to Define Tier-Zero Assets in Active Directory Security",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt9908693d884da021/60f9ad2eb34dbe185dc7ae8e/Robbins_Andy.jpg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt9908693d884da021/60f9ad2eb34dbe185dc7ae8e/Robbins_Andy.jpg"
+        },
         {
           "id": "https://www.darkreading.com/dr-tech/google-tackles-open-source-security-with-new-dependency-service",
           "author": "Fahmida Y. Rashid, Managing Editor, Features, Dark Reading",
@@ -3253,6 +3313,16 @@
       "siteUrl": "/blog/",
       "articles": [
         {
+          "id": "/blog/2023/04/congratulations-to-the-top-msrc-2023-q1-security-researchers/",
+          "author": null,
+          "description": "Congratulations to all the researchers recognized in this quarter’s Microsoft Researcher Recognition Program leaderboard! Thank you to everyone for your hard work and continued partnership to secure customers. The top three researchers of the 2023 Q1 Security Researcher Leaderboard are: Kai Lu (@K3vinLuSec), Yuki Chen, and wh1tc & Edwardzpeng! Check out the full list of researchers recognized this quarter here.",
+          "link": "https://msrc-blog.microsoft.com/blog/2023/04/congratulations-to-the-top-msrc-2023-q1-security-researchers/",
+          "publishedOn": "2023-04-13T07:00:00.000Z",
+          "wordCount": 2164,
+          "title": "Congratulations to the Top MSRC 2023 Q1 Security Researchers!",
+          "imageUrl": null
+        },
+        {
           "id": "/blog/2023/04/best-practices-regarding-azure-storage-keys-azure-functions-and-azure-role-based-access-ja/",
           "author": null,
           "description": "本ブログは、Best practices regarding Azure Storage Keys, Azure Functions, and Azure Role Based Access の抄訳版です。最新の情報は原文を参照してください。 概要 概",
@@ -4036,6 +4106,22 @@
       "feedUrl": "https://thehackernews.com/feeds/posts/default",
       "siteUrl": "https://thehackernews.com",
       "articles": [
+        {
+          "id": "https://thehackernews.com/2023/04/rtm-locker-emerging-cybercrime-group.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Cybersecurity researchers have detailed the tactics of a \"rising\" cybercriminal gang called \"Read The Manual\" (RTM) Locker that functions as a private ransomware-as-a-service (RaaS) provider and carries out opportunistic attacks to generate illicit profit.\n\"The 'Read The Manual' Locker gang uses affiliates to ransom victims, all of whom are forced to abide by the gang's strict rules,\"",
+          "link": "https://thehackernews.com/2023/04/rtm-locker-emerging-cybercrime-group.html",
+          "publishedOn": "2023-04-13T16:40:00.000Z",
+          "wordCount": null,
+          "title": "RTM Locker: Emerging Cybercrime Group Targeting Businesses with Ransomware",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZCJrz8gJixzS37_L2WQrkh5JYAvdbuCutrI3Qid5lmnptNcWmsrJyzI67hyLfrDOQ-71frf1n-wv9HDYOesYy-8x11t-753FJtEmz04hVfEHNuS0v5C0i6vZZOifrNlCuBRO13KLdFt6KCNG8uSZxtDKnGbNJ8nZTPh8twyMuiR3Od9817KcqNMYA/s1600/rtm-locker.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZCJrz8gJixzS37_L2WQrkh5JYAvdbuCutrI3Qid5lmnptNcWmsrJyzI67hyLfrDOQ-71frf1n-wv9HDYOesYy-8x11t-753FJtEmz04hVfEHNuS0v5C0i6vZZOifrNlCuBRO13KLdFt6KCNG8uSZxtDKnGbNJ8nZTPh8twyMuiR3Od9817KcqNMYA/s1600/rtm-locker.png"
+        },
         {
           "id": "https://thehackernews.com/2023/04/whatsapp-introduces-new-device.html",
           "author": "info@thehackernews.com (The Hacker News)",
@@ -6051,22 +6137,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh7JX9QmHaZKBmbxzx-0kWSgK4ppah5heR81tWNuqS8Hf1ZunJAj4rxDC4q93Q0BueUJO7p0thdXv64H-3P_OkaZzyNwmbXdA92kncQwpvliZ3lmUK51oiCvvH_-0bcf-s-QrsP1tSSc_kMIv2y3Gd75x2u_1HvcdQcyRfSBYndRIwrsUlF2XNDR2_2/s1600/googlr.png"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh7JX9QmHaZKBmbxzx-0kWSgK4ppah5heR81tWNuqS8Hf1ZunJAj4rxDC4q93Q0BueUJO7p0thdXv64H-3P_OkaZzyNwmbXdA92kncQwpvliZ3lmUK51oiCvvH_-0bcf-s-QrsP1tSSc_kMIv2y3Gd75x2u_1HvcdQcyRfSBYndRIwrsUlF2XNDR2_2/s1600/googlr.png"
-        },
-        {
-          "id": "https://thehackernews.com/2023/03/microsoft-rolls-out-patches-for-80-new.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Microsoft's Patch Tuesday update for March 2023 is rolling out with remediations for a set of 80 security flaws, two of which have come under active exploitation in the wild.\nEight of the 80 bugs are rated Critical, 71 are rated Important, and one is rated Moderate in severity. The updates are in addition to 29 flaws the tech giant fixed in its Chromium-based Edge browser in recent weeks.\nThe",
-          "link": "https://thehackernews.com/2023/03/microsoft-rolls-out-patches-for-80-new.html",
-          "publishedOn": "2023-03-15T05:26:00.000Z",
-          "wordCount": null,
-          "title": "Microsoft Rolls Out Patches for 80 New Security Flaws — Two Under Active Attack",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYLlUAr0ruzgKuzoHoe1e0B8I4qsuhNp0XiA-FfqB6QFh3Aa4J0x4W0015PvXO6_-wLDns2apQkiblNma4ax6vJ3hNIfz6MSsxDPLIAUvgUk5gMjurzSI-0rwUwYe9rBJRxWQKbXqWFFzZAMGqCG12X0aivvmUmU6xFvbwG8g2ST4LOTBt3e521HfX/s1600/windows-update.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYLlUAr0ruzgKuzoHoe1e0B8I4qsuhNp0XiA-FfqB6QFh3Aa4J0x4W0015PvXO6_-wLDns2apQkiblNma4ax6vJ3hNIfz6MSsxDPLIAUvgUk5gMjurzSI-0rwUwYe9rBJRxWQKbXqWFFzZAMGqCG12X0aivvmUmU6xFvbwG8g2ST4LOTBt3e521HfX/s1600/windows-update.jpg"
         }
       ]
     }
