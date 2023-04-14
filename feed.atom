@@ -2,10 +2,71 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-04-13T19:14:56.215Z</updated>
+    <updated>2023-04-14T02:04:10.060Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[New Mirai Variant Employs Uncommon Tactics to Distribute Malware]]></title>
+        <id>https://www.darkreading.com/remote-workforce/new-mirai-variant-employs-uncommon-tactics-to-distribute-malware</id>
+        <link href="https://www.darkreading.com/remote-workforce/new-mirai-variant-employs-uncommon-tactics-to-distribute-malware"/>
+        <updated>2023-04-13T21:15:00.000Z</updated>
+        <summary type="html"><![CDATA[RapperBot's initial infection tactic is one example of the different methods attackers are using to distribute malware.]]></summary>
+        <author>
+            <name>Jai Vijayan, Contributing Writer, Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Money Ransomware Group Enters Double-Extortion Fray]]></title>
+        <id>https://www.darkreading.com/vulnerabilities-threats/money-ransomware-enters-double-extortion-fray-</id>
+        <link href="https://www.darkreading.com/vulnerabilities-threats/money-ransomware-enters-double-extortion-fray-"/>
+        <updated>2023-04-13T21:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Ransomware group uses API calls to spread throughout shared network resources, researchers say.]]></summary>
+        <author>
+            <name>Dark Reading Staff, Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why the US Needs Quantum-Safe Cryptography Deployed Now]]></title>
+        <id>https://www.darkreading.com/dr-tech/why-the-us-needs-quantum-safe-cryptography-deployed-now</id>
+        <link href="https://www.darkreading.com/dr-tech/why-the-us-needs-quantum-safe-cryptography-deployed-now"/>
+        <updated>2023-04-13T20:59:00.000Z</updated>
+        <summary type="html"><![CDATA[Quantum computers might be a decade away, but guess how long it will take to switch systems over to post-quantum cryptography?]]></summary>
+        <author>
+            <name>Charles Clancy, Senior VP and Chief Futurist, MITRE, and General Manager, MITRE Labs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Remcos RAT Targets Tax Pros to Scurry Off With Workers' Filing Info]]></title>
+        <id>https://www.darkreading.com/vulnerabilities-threats/remcos-rat-tax-pros-worksers-filing-info</id>
+        <link href="https://www.darkreading.com/vulnerabilities-threats/remcos-rat-tax-pros-worksers-filing-info"/>
+        <updated>2023-04-13T20:47:00.000Z</updated>
+        <summary type="html"><![CDATA[Something exciting to liven up tax season: cybercriminals accessing sensitive personal information for individuals through the army of accountants preparing for Tax Day in the US.]]></summary>
+        <author>
+            <name>Nate Nelson, Contributing Writer, Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google Launches New Cybersecurity Initiatives to Strengthen Vulnerability Management]]></title>
+        <id>https://thehackernews.com/2023/04/google-launches-new-cybersecurity.html</id>
+        <link href="https://thehackernews.com/2023/04/google-launches-new-cybersecurity.html"/>
+        <updated>2023-04-13T20:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Google on Thursday outlined a set of initiatives aimed at improving the vulnerability management ecosystem and establishing greater transparency measures around exploitation.
+"While the notoriety of zero-day vulnerabilities typically makes headlines, risks remain even after they're known and fixed, which is the real story," the company said in an announcement. "Those risks span everything from]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Super-Yacht Specialist Lürssen in Dry Dock After Ransomware Attack]]></title>
+        <id>https://www.darkreading.com/attacks-breaches/super-yacht-specialist-dry-dock-ransomware-attack</id>
+        <link href="https://www.darkreading.com/attacks-breaches/super-yacht-specialist-dry-dock-ransomware-attack"/>
+        <updated>2023-04-13T18:49:00.000Z</updated>
+        <summary type="html"><![CDATA[The ransomware attack proves that even the wealthiest cannot buy their immunity from threat actors.]]></summary>
+        <author>
+            <name>Dark Reading Staff, Dark Reading</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Internet Reform Trilemma]]></title>
         <id>https://www.darkreading.com/vulnerabilities-threats/the-internet-reform-trilemma</id>
@@ -4845,100 +4906,6 @@ CISA urges operators to review the WaterISAC advisory and apply recommended comp
         <summary type="html"><![CDATA[The new malware was discovered targeting three banks in Brazil.]]></summary>
         <author>
             <name>Elizabeth Montalbano, Contributor, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why Security Practitioners Should Understand Their Business]]></title>
-        <id>https://www.darkreading.com/risk/why-security-practitioners-should-understand-their-business</id>
-        <link href="https://www.darkreading.com/risk/why-security-practitioners-should-understand-their-business"/>
-        <updated>2023-03-15T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The sooner CISOs become proactive in understanding the flip side of the organizations they protect, the better they'll be at their jobs.]]></summary>
-        <author>
-            <name>Ross Haleliuk , Product Leader and Head of Product, LimaCharlie</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[YoroTrooper Stealing Credentials and Information from Government and Energy Organizations]]></title>
-        <id>https://thehackernews.com/2023/03/yorotrooper-stealing-credentials-and.html</id>
-        <link href="https://thehackernews.com/2023/03/yorotrooper-stealing-credentials-and.html"/>
-        <updated>2023-03-15T13:49:00.000Z</updated>
-        <summary type="html"><![CDATA[A previously undocumented threat actor dubbed YoroTrooper has been targeting government, energy, and international organizations across Europe as part of a cyber espionage campaign that has been active since at least June 2022.
-"Information stolen from successful compromises include credentials from multiple applications, browser histories and cookies, system information and screenshots," Cisco]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[University of Sydney Gives Students and Staff Advice on Avoiding Social Engineering Scams]]></title>
-        <id>https://blog.knowbe4.com/university-of-sydney-avoiding-social-engineering-advice</id>
-        <link href="https://blog.knowbe4.com/university-of-sydney-avoiding-social-engineering-advice"/>
-        <updated>2023-03-15T13:25:51.000Z</updated>
-        <summary type="html"><![CDATA[The University of Sydney has issued advice to help students and staff avoid falling for social engineering attacks.]]></summary>
-        <author>
-            <name>Stu Sjouwerman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SMBs Orgs Want Help, but Cybersecurity Expertise Is Scarce]]></title>
-        <id>https://www.darkreading.com/operations/midsize-orgs-want-help-cybersecurity-pros-scarce</id>
-        <link href="https://www.darkreading.com/operations/midsize-orgs-want-help-cybersecurity-pros-scarce"/>
-        <updated>2023-03-15T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Smaller firms are boosting cybersecurity budgets, but there's a long way to go to address a deep lack of cyber preparedness among SMBs.]]></summary>
-        <author>
-            <name>Robert Lemos, Contributing Writer, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Are We Doing Enough to Protect Our Unstructured Data?]]></title>
-        <id>https://www.darkreading.com/omdia/are-we-doing-enough-to-protect-our-unstructured-data-</id>
-        <link href="https://www.darkreading.com/omdia/are-we-doing-enough-to-protect-our-unstructured-data-"/>
-        <updated>2023-03-15T12:15:00.000Z</updated>
-        <summary type="html"><![CDATA[Organizations are coming under pressure to protect their data, but does all data need the same security? To secure it, you first need to know what and where it is.]]></summary>
-        <author>
-            <name>Adam Strange, Principal Analyst, Data Security</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Season 5 of ‘The Inside Man’ From KnowBe4 Is Less Than a Month Away!]]></title>
-        <id>https://blog.knowbe4.com/knowbe4-season-5-the-inside-man-less-than-one-month-away</id>
-        <link href="https://blog.knowbe4.com/knowbe4-season-5-the-inside-man-less-than-one-month-away"/>
-        <updated>2023-03-15T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[We’re thrilled to announce that Season 5 of the award-winning Knowbe4 Original Series - “The Inside Man” is less than a month away!]]></summary>
-        <author>
-            <name>Stu Sjouwerman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Cryptojacking Operation Targeting Kubernetes Clusters for Dero Mining]]></title>
-        <id>https://thehackernews.com/2023/03/new-cryptojacking-operation-targeting.html</id>
-        <link href="https://thehackernews.com/2023/03/new-cryptojacking-operation-targeting.html"/>
-        <updated>2023-03-15T10:11:00.000Z</updated>
-        <summary type="html"><![CDATA[Cybersecurity researchers have discovered the first-ever illicit cryptocurrency mining campaign used to mint Dero since the start of February 2023.
-"The novel Dero cryptojacking operation concentrates on locating Kubernetes clusters with anonymous access enabled on a Kubernetes API and listening on non-standard ports accessible from the internet," CrowdStrike said in a new report shared with The]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Different Methods and Stages of Penetration Testing]]></title>
-        <id>https://thehackernews.com/2023/03/the-different-methods-and-stages-of.html</id>
-        <link href="https://thehackernews.com/2023/03/the-different-methods-and-stages-of.html"/>
-        <updated>2023-03-15T09:43:00.000Z</updated>
-        <summary type="html"><![CDATA[The stakes could not be higher for cyber defenders. With the vast amounts of sensitive information, intellectual property, and financial data at risk, the consequences of a data breach can be devastating. According to a report released by Ponemon institute, the cost of data breaches has reached an all-time high, averaging $4.35 million in 2022.
-Vulnerabilities in web applications are often the]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tick APT Targeted High-Value Customers of East Asian Data-Loss Prevention Company]]></title>
-        <id>https://thehackernews.com/2023/03/tick-apt-targeted-high-value-customers.html</id>
-        <link href="https://thehackernews.com/2023/03/tick-apt-targeted-high-value-customers.html"/>
-        <updated>2023-03-15T09:23:00.000Z</updated>
-        <summary type="html"><![CDATA[A cyberespionage actor known as Tick has been attributed with high confidence to a compromise of an East Asian data-loss prevention (DLP) company that caters to government and military entities.
-"The attackers compromised the DLP company's internal update servers to deliver malware inside the software developer's network, and trojanized installers of legitimate tools used by the company, which]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
         </author>
     </entry>
 </feed>
