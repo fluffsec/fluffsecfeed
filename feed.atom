@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-04-14T02:04:10.060Z</updated>
+    <updated>2023-04-14T07:17:09.168Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
@@ -4797,115 +4797,6 @@ Enable and enforce phishing- resistant multifactor authentication.
 The Federal …]]></summary>
         <author>
             <name>CISA</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Untitled]]></title>
-        <id>/node/17633</id>
-        <link href="https://www.cisa.gov/news-events/alerts/2023/03/15/beware-bank-related-scams"/>
-        <updated>2023-03-15T19:16:32.996Z</updated>
-        <summary type="html"><![CDATA[In light of recent bank failures, CISA warns consumers to beware of potential scams requesting your money or sensitive personal information. Exercise caution in handling emails with bank-related subject lines, attachments, or links. In addition, be wary of social media pleas, texts, or door-to-door solicitations relating to any failed bank.
-The Federal Deposit Insurance Corporation (FDIC), the "Receiver" of failed banks, would never contact you asking for personal details, such as bank account information, credit and debit card numbers, social security numbers, or passwords.
-To avoid becoming victims of scams, consumers should review the following resources and take preventative measures:
-CISA: Avoiding Social Engineering and Phishing Attacks
-FDIC Consumer News: Beware, It’s a Scam!
-FDIC Consumer News: Scammers Pretending to be the FDIC
-FDIC: Failed Bank Information for Silicon Valley Bank, Santa Clara, CA
-FDIC: Failed Bank Information for Signature Bank, New York, NY
-CISA: Phishing Infographic 
-Consider reporting scams and fraud to the police and file a report with the Federal Trade Commission.
-Please share your thoughts. We recently updated our anonymous Product Feedback Survey and we'd welcome your feedback.]]></summary>
-        <author>
-            <name>CISA</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Untitled]]></title>
-        <id>/node/17642</id>
-        <link href="https://www.cisa.gov/news-events/alerts/2023/03/15/cisa-adds-one-known-exploited-vulnerability-catalog"/>
-        <updated>2023-03-15T19:16:32.989Z</updated>
-        <summary type="html"><![CDATA[CISA has added one new vulnerability to its Known Exploited Vulnerabilities Catalog, based on evidence of active exploitation.
-CVE-2023-26360 Adobe ColdFusion Improper Access Control Vulnerability
-These types of vulnerabilities are frequent attack vectors for malicious cyber actors and pose significant risks to the federal enterprise. Note: To view other newly added vulnerabilities in the catalog, click on the arrow in the "Date Added to Catalog" column—which will sort by descending dates.
-Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the Known Exploited Vulnerabilities Catalog as a living list of known Common Vulnerabilities and Exposures (CVEs) that carry significant risk to the federal enterprise. BOD 22-01 requires Federal Civilian Executive Branch (FCEB) agencies to remediate identified vulnerabilities by the due date to protect FCEB networks against active threats. See the BOD 22-01 Fact Sheet for more information.
-Although BOD 22-01 only applies to FCEB agencies, CISA strongly urges all organizations to reduce their exposure to cyberattacks by prioritizing timely remediation of Catalog vulnerabilities as part of their vulnerability management practice. CISA will continue to add vulnerabilities to the catalog that meet the specified criteria.
-Please share your thoughts. We recently updated our anonymous Product Feedback Survey and we'd welcome your feedback.]]></summary>
-        <author>
-            <name>CISA</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Untitled]]></title>
-        <id>/node/17608</id>
-        <link href="https://www.cisa.gov/news-events/alerts/2023/03/15/threat-actors-exploited-progress-telerik-vulnerability-us-government-iis-server"/>
-        <updated>2023-03-15T19:16:32.979Z</updated>
-        <summary type="html"><![CDATA[Today, the CISA, Federal Bureau of Investigation (FBI), and Multi-State Information Sharing and Analysis Center (MS-ISAC) released a joint Cybersecurity Advisory (CSA), Threat Actors Exploit Progress Telerik Vulnerability in U.S. Government IIS Server. This joint CSA provides IT infrastructure defenders with tactics, techniques, and procedures (TTPs), indicators of compromise (IOCs), and methods to detect and protect against similar, successful CVE-2019-18935 exploitation.
-As detailed in the advisory, CISA analysts determined that multiple cyber threat actors, including an Advanced Persistent Threat (APT) actor, exploited a .NET deserialization vulnerability in Progress Telerik user interface for ASP.NET AJAX. Exploitation of this vulnerability allowed malicious actors to successfully execute remote code on a federal civilian executive branch (FCEB) agency’s Microsoft Internet Information Services (IIS) web server. Actors were then able to upload malicious dynamic-link library (DLL) files (some masqueraded as portable network graphics [PNG] files) to the C:\Windows\Temp\ directory. 
-CISA, FBI, and MS-ISAC encourage network defenders to review the Detection and Mitigations sections of this advisory, as well as refer to the accompanying Malware Analysis Report, MAR-10413062-1.v1 Telerik Vulnerability in U.S. Government IIS Server, to reference CISA's analysis for the identified malicious files.
-Please share your thoughts. We recently updated our anonymous Product Feedback Survey and we'd welcome your feedback.]]></summary>
-        <author>
-            <name>CISA</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Untitled]]></title>
-        <id>/node/17634</id>
-        <link href="https://www.cisa.gov/news-events/alerts/2023/03/15/waterisac-releases-advisory-microsoft-dcom-patch"/>
-        <updated>2023-03-15T19:16:31.813Z</updated>
-        <summary type="html"><![CDATA[The Water Information Sharing and Analysis Center (WaterISAC) has released an advisory, Potential for Mandatory Microsoft DCOM Patch to Disrupt SCADA. ICS/OT/SCADA engineers and operators should assess the use of the Distributed Component Object Model (DCOM) protocol in their industrial environments. According to WaterISAC, “failure to address could result in loss of critical communications between impacted ICS/OT/SCADA devices.”
-CISA urges operators to review the WaterISAC advisory and apply recommended compensating controls. See Microsoft KB5004442—Manage changes for Windows DCOM Server Security Feature Bypass (CVE-2021-26414) for more information.]]></summary>
-        <author>
-            <name>CISA</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Analysts Spot a Wave of SVB-Related Cyber Fraud Striking the Business Sector]]></title>
-        <id>https://www.darkreading.com/threat-intelligence/analysts-wave-svb-cyber-fraud-striking-business-sector</id>
-        <link href="https://www.darkreading.com/threat-intelligence/analysts-wave-svb-cyber-fraud-striking-business-sector"/>
-        <updated>2023-03-15T18:47:17.000Z</updated>
-        <summary type="html"><![CDATA[Over the weekend, cybercriminals laid the groundwork for Silicon Valley Bank-related fraud attacks that they're now starting to cash in on. Businesses are the targets and, sometimes, the enablers.]]></summary>
-        <author>
-            <name>Nate Nelson, Contributing Writer, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Three-Quarters of Organizations Have Experienced an Increase in Email-Based Threats]]></title>
-        <id>https://blog.knowbe4.com/three-quarters-of-organizations-have-experienced-an-increase-in-email-based-threats</id>
-        <link href="https://blog.knowbe4.com/three-quarters-of-organizations-have-experienced-an-increase-in-email-based-threats"/>
-        <updated>2023-03-15T17:43:42.000Z</updated>
-        <summary type="html"><![CDATA[New data on the state of email security shows that nearly every organization has been the target of a phishing attack as attacks increase in sophistication.]]></summary>
-        <author>
-            <name>Stu Sjouwerman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[79% of Employee-Reported Phishing Emails Go Completely Undetected by Cybersecurity Solutions]]></title>
-        <id>https://blog.knowbe4.com/79-of-employee-reported-phishing-emails-go-completely-undetected-by-cybersecurity-solutions</id>
-        <link href="https://blog.knowbe4.com/79-of-employee-reported-phishing-emails-go-completely-undetected-by-cybersecurity-solutions"/>
-        <updated>2023-03-15T17:43:39.000Z</updated>
-        <summary type="html"><![CDATA[As cybercriminals increasingly turn to malwareless phishing attacks, the ability for security solutions to correctly identify a malicious email is becoming more and more difficult.]]></summary>
-        <author>
-            <name>Stu Sjouwerman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meet Data Privacy Mandates With Cybersecurity Frameworks]]></title>
-        <id>https://www.darkreading.com/risk/meet-data-privacy-mandates-with-cybersecurity-frameworks</id>
-        <link href="https://www.darkreading.com/risk/meet-data-privacy-mandates-with-cybersecurity-frameworks"/>
-        <updated>2023-03-15T17:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Protection laws are always evolving. Here's how you can streamline your compliance efforts     .]]></summary>
-        <author>
-            <name>Chris Strand, Chief Risk and Compliance Officer, Cybersixgill</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GoatRAT Android Banking Trojan Targets Mobile Automated Payment System]]></title>
-        <id>https://www.darkreading.com/attacks-breaches/goatrat-android-trojan-targets-mobile-banking-automated-payment-system</id>
-        <link href="https://www.darkreading.com/attacks-breaches/goatrat-android-trojan-targets-mobile-banking-automated-payment-system"/>
-        <updated>2023-03-15T16:30:00.000Z</updated>
-        <summary type="html"><![CDATA[The new malware was discovered targeting three banks in Brazil.]]></summary>
-        <author>
-            <name>Elizabeth Montalbano, Contributor, Dark Reading</name>
         </author>
     </entry>
 </feed>
