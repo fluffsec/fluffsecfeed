@@ -2,10 +2,47 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-04-14T07:17:09.168Z</updated>
+    <updated>2023-04-14T13:22:04.555Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Kodi Confirms Data Breach: 400K User Records and Private Messages Stolen]]></title>
+        <id>https://thehackernews.com/2023/04/kodi-confirms-data-breach-400k-user.html</id>
+        <link href="https://thehackernews.com/2023/04/kodi-confirms-data-breach-400k-user.html"/>
+        <updated>2023-04-14T10:22:00.000Z</updated>
+        <summary type="html"><![CDATA[Open source media player software provider Kodi has confirmed a data breach after threat actors stole the company's MyBB forum database containing user data and private messages.
+What's more, the unknown threat actors attempted to sell the data dump comprising 400,635 Kodi users on the now-defunct BreachForums cybercrime marketplace.
+"MyBB admin logs show the account of a trusted but currently]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Severe Android and Novi Survey Vulnerabilities Under Active Exploitation]]></title>
+        <id>https://thehackernews.com/2023/04/severe-android-and-novi-survey.html</id>
+        <link href="https://thehackernews.com/2023/04/severe-android-and-novi-survey.html"/>
+        <updated>2023-04-14T07:15:00.000Z</updated>
+        <summary type="html"><![CDATA[The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added two vulnerabilities to its Known Exploited Vulnerabilities (KEV) catalog, based on evidence of active exploitation.
+The two flaws are listed below -
+
+CVE-2023-20963 (CVSS score: 7.8) - Android Framework Privilege Escalation Vulnerability
+CVE-2023-29492 (CVSS score: TBD) - Novi Survey Insecure Deserialization Vulnerability]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Webinar: Tips from MSSPs to MSSPs – Building a Profitable vCISO Practice]]></title>
+        <id>https://thehackernews.com/2023/04/webinar-tips-from-mssps-to-mssps.html</id>
+        <link href="https://thehackernews.com/2023/04/webinar-tips-from-mssps-to-mssps.html"/>
+        <updated>2023-04-14T07:13:00.000Z</updated>
+        <summary type="html"><![CDATA[In today's fast-paced and ever-changing digital landscape, businesses of all sizes face a myriad of cybersecurity threats. Putting in place the right people, technological tools and services, MSSPs are in a great position to ensure their customers' cyber resilience. 
+The growing need of SMEs and SMBs for structured cybersecurity services can be leveraged by MSPs and MSSPs to provide strategic]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[New Mirai Variant Employs Uncommon Tactics to Distribute Malware]]></title>
         <id>https://www.darkreading.com/remote-workforce/new-mirai-variant-employs-uncommon-tactics-to-distribute-malware</id>
@@ -4709,92 +4746,6 @@ The critical flaw in question is CVE-2023-26360 (CVSS score: 8.6), which could
         <summary type="html"><![CDATA[CISA has released a draft Secure Cloud Business Applications (SCuBA) Hybrid Identity Solutions Architecture guidance document for public comment. The request for comment period is open until April 17, 2023. Comments may be submitted to CyberSharedServices@cisa.dhs.gov.
 In accordance with Executive Order 14028, CISA’s SCuBA project aims to develop consistent, effective, modern, and manageable security that will help secure agency information assets stored within cloud operations. This guidance will help federal civilian departments and agencies securely and efficiently integrate their traditional on-premises enterprise networks with cloud-based solutions.
 CISA encourages federal program and project managers involved in identity management interoperability and vulnerability mitigation to review and provide comment. Visit CISA’s SCuBA project page for more information and to review the guidance document.]]></summary>
-        <author>
-            <name>CISA</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Do Attackers Hijack Old Domains and Subdomains?]]></title>
-        <id>https://www.darkreading.com/edge-ask-the-experts/how-do-attackers-hijack-old-domains-and-subdomains</id>
-        <link href="https://www.darkreading.com/edge-ask-the-experts/how-do-attackers-hijack-old-domains-and-subdomains"/>
-        <updated>2023-03-16T01:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Here is a cautionary tale of what happens if side-projects or sections of the website becomes obsolete. If you don't remove them, someone might hijack your subdomain.]]></summary>
-        <author>
-            <name>Edge Editors, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hornetsecurity Launches VM Backup V9]]></title>
-        <id>https://www.darkreading.com/cloud/hornetsecurity-launches-vm-backup-v9</id>
-        <link href="https://www.darkreading.com/cloud/hornetsecurity-launches-vm-backup-v9"/>
-        <updated>2023-03-15T21:12:00.000Z</updated>
-        <summary type="html"><![CDATA[Hornetsecurity research highlights that more than 1 in 4 companies have fallen victim to ransomware attacks, with 14.1% losing data and 6.6% paying a ransom.]]></summary>
-        <author>
-            <name>Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DirectDefense Reports the Top Threats From 2022 and What's Trending for 2023]]></title>
-        <id>https://www.darkreading.com/endpoint/directdefense-reports-the-top-threats-from-2022-and-what-s-trending-for-2023</id>
-        <link href="https://www.darkreading.com/endpoint/directdefense-reports-the-top-threats-from-2022-and-what-s-trending-for-2023"/>
-        <updated>2023-03-15T21:08:00.000Z</updated>
-        <summary type="html"><![CDATA[Research found that phishing threats were low in 2022, while foreign login activity and application process analysis accounted for nearly 50% of incident alerts.]]></summary>
-        <author>
-            <name>Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cyberattackers Continue Assault Against Fortinet Devices]]></title>
-        <id>https://www.darkreading.com/vulnerabilities-threats/cyberattackers-continue-assault-against-fortinet-devices</id>
-        <link href="https://www.darkreading.com/vulnerabilities-threats/cyberattackers-continue-assault-against-fortinet-devices"/>
-        <updated>2023-03-15T20:53:00.000Z</updated>
-        <summary type="html"><![CDATA[Patched earlier this month, a code-execution vulnerability is the latest FortiOS weakness to be exploited by attackers, who see the devices as well-placed targets for initial access operations.]]></summary>
-        <author>
-            <name>Robert Lemos, Contributing Writer, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SecurityScorecard Appoints Former US Congressman John Katko As Senior Advisor]]></title>
-        <id>https://www.darkreading.com/operations/securityscorecard-appoints-former-us-congressman-john-katko-as-senior-advisor</id>
-        <link href="https://www.darkreading.com/operations/securityscorecard-appoints-former-us-congressman-john-katko-as-senior-advisor"/>
-        <updated>2023-03-15T20:19:00.000Z</updated>
-        <summary type="html"><![CDATA[Capitol Hill cybersecurity leader joins the company’s Cybersecurity Advisory Board to drive further adoption of security ratings in the public and private sectors.]]></summary>
-        <author>
-            <name>Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['Vile' Gang Duo Breaches Police Database, Impersonates Officers in Extortion Gambit]]></title>
-        <id>https://www.darkreading.com/attacks-breaches/vile-gang-duo-breaches-police-database-impersonates-officers-extortion</id>
-        <link href="https://www.darkreading.com/attacks-breaches/vile-gang-duo-breaches-police-database-impersonates-officers-extortion"/>
-        <updated>2023-03-15T19:40:00.000Z</updated>
-        <summary type="html"><![CDATA[Two gang members are being charged for allegedly threatening to release personal information and impersonating law enforcement in an effort to dox victims.]]></summary>
-        <author>
-            <name>Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Telerik Bug Exploited to Steal Federal Agency Data, CISA Warns]]></title>
-        <id>https://www.darkreading.com/application-security/telerik-bug-exploited-steal-federal-agency-data-cisa-warns</id>
-        <link href="https://www.darkreading.com/application-security/telerik-bug-exploited-steal-federal-agency-data-cisa-warns"/>
-        <updated>2023-03-15T19:37:00.000Z</updated>
-        <summary type="html"><![CDATA[An unpatched Microsoft Web server allowed multiple cybersecurity threat groups to steal data from a federal civilian executive branch.]]></summary>
-        <author>
-            <name>Dark Reading Staff, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[#StopRansomware: LockBit 3.0]]></title>
-        <id>/node/17648</id>
-        <link href="https://www.cisa.gov/news-events/cybersecurity-advisories/aa23-075a"/>
-        <updated>2023-03-15T19:20:17.000Z</updated>
-        <summary type="html"><![CDATA[SUMMARY
-Note: this joint Cybersecurity Advisory (CSA) is part of an ongoing #StopRansomware effort to publish advisories for network defenders that detail ransomware variants and ransomware threat actors. These #StopRansomware advisories include recently and historically observed tactics, techniques, and procedures (TTPs) and indicators of compromise (IOCs) to help organizations protect against ransomware. Visit stopransomware.gov to see all #StopRansomware advisories and to learn more about other ransomware threats and no-cost resources.
-Actions to take today to mitigate cyber threats from ransomware:
-Prioritize remediating known exploited vulnerabilities.
-Train users to recognize and report phishing attempts.
-Enable and enforce phishing- resistant multifactor authentication.
-The Federal …]]></summary>
         <author>
             <name>CISA</name>
         </author>

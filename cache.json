@@ -4,18 +4,7 @@
       "title": "CISA Cybersecurity Advisories",
       "feedUrl": "https://us-cert.cisa.gov/ncas/alerts.xml",
       "siteUrl": "https://www.cisa.gov/",
-      "articles": [
-        {
-          "id": "/node/17648",
-          "author": "CISA",
-          "description": "SUMMARY\nNote: this joint Cybersecurity Advisory (CSA) is part of an ongoing #StopRansomware effort to publish advisories for network defenders that detail ransomware variants and ransomware threat actors. These #StopRansomware advisories include recently and historically observed tactics, techniques, and procedures (TTPs) and indicators of compromise (IOCs) to help organizations protect against ransomware. Visit stopransomware.gov to see all #StopRansomware advisories and to learn more about other ransomware threats and no-cost resources.\nActions to take today to mitigate cyber threats from ransomware:\nPrioritize remediating known exploited vulnerabilities.\nTrain users to recognize and report phishing attempts.\nEnable and enforce phishing- resistant multifactor authentication.\nThe Federal …",
-          "link": "https://www.cisa.gov/news-events/cybersecurity-advisories/aa23-075a",
-          "publishedOn": "2023-03-15T19:20:17.000Z",
-          "wordCount": 4562,
-          "title": "#StopRansomware: LockBit 3.0",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Alerts",
@@ -3158,91 +3147,6 @@
             "length": "0"
           },
           "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt7110d56e76bb0842/6410917af236b474997b1187/anneka_(4).jpg"
-        },
-        {
-          "id": "https://www.darkreading.com/edge-ask-the-experts/how-do-attackers-hijack-old-domains-and-subdomains",
-          "author": "Edge Editors, Dark Reading",
-          "description": "Here is a cautionary tale of what happens if side-projects or sections of the website becomes obsolete. If you don't remove them, someone might hijack your subdomain.",
-          "link": "https://www.darkreading.com/edge-ask-the-experts/how-do-attackers-hijack-old-domains-and-subdomains",
-          "publishedOn": "2023-03-16T01:00:00.000Z",
-          "wordCount": 11123,
-          "title": "How Do Attackers Hijack Old Domains and Subdomains?",
-          "enclosure": {
-            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltbeb30fde8ec73a32/60d4432c2446e93b5b5a0e0c/Edge-Editors.png",
-            "type": "image/*",
-            "length": "0"
-          },
-          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltbeb30fde8ec73a32/60d4432c2446e93b5b5a0e0c/Edge-Editors.png"
-        },
-        {
-          "id": "https://www.darkreading.com/cloud/hornetsecurity-launches-vm-backup-v9",
-          "author": null,
-          "description": "Hornetsecurity research highlights that more than 1 in 4 companies have fallen victim to ransomware attacks, with 14.1% losing data and 6.6% paying a ransom.",
-          "link": "https://www.darkreading.com/cloud/hornetsecurity-launches-vm-backup-v9",
-          "publishedOn": "2023-03-15T21:12:00.000Z",
-          "wordCount": 11601,
-          "title": "Hornetsecurity Launches VM Backup V9",
-          "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
-        },
-        {
-          "id": "https://www.darkreading.com/endpoint/directdefense-reports-the-top-threats-from-2022-and-what-s-trending-for-2023",
-          "author": null,
-          "description": "Research found that phishing threats were low in 2022, while foreign login activity and application process analysis accounted for nearly 50% of incident alerts.",
-          "link": "https://www.darkreading.com/endpoint/directdefense-reports-the-top-threats-from-2022-and-what-s-trending-for-2023",
-          "publishedOn": "2023-03-15T21:08:00.000Z",
-          "wordCount": 12715,
-          "title": "DirectDefense Reports the Top Threats From 2022 and What's Trending for 2023",
-          "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
-        },
-        {
-          "id": "https://www.darkreading.com/vulnerabilities-threats/cyberattackers-continue-assault-against-fortinet-devices",
-          "author": "Robert Lemos, Contributing Writer, Dark Reading",
-          "description": "Patched earlier this month, a code-execution vulnerability is the latest FortiOS weakness to be exploited by attackers, who see the devices as well-placed targets for initial access operations.",
-          "link": "https://www.darkreading.com/vulnerabilities-threats/cyberattackers-continue-assault-against-fortinet-devices",
-          "publishedOn": "2023-03-15T20:53:00.000Z",
-          "wordCount": 12869,
-          "title": "Cyberattackers Continue Assault Against Fortinet Devices",
-          "enclosure": {
-            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt58481326324d6911/60b1e9a55d34de550780a990/Robert-Lemos.png",
-            "type": "image/*",
-            "length": "0"
-          },
-          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt58481326324d6911/60b1e9a55d34de550780a990/Robert-Lemos.png"
-        },
-        {
-          "id": "https://www.darkreading.com/operations/securityscorecard-appoints-former-us-congressman-john-katko-as-senior-advisor",
-          "author": null,
-          "description": "Capitol Hill cybersecurity leader joins the company’s Cybersecurity Advisory Board to drive further adoption of security ratings in the public and private sectors.",
-          "link": "https://www.darkreading.com/operations/securityscorecard-appoints-former-us-congressman-john-katko-as-senior-advisor",
-          "publishedOn": "2023-03-15T20:19:00.000Z",
-          "wordCount": 12533,
-          "title": "SecurityScorecard Appoints Former US Congressman John Katko As Senior Advisor",
-          "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
-        },
-        {
-          "id": "https://www.darkreading.com/attacks-breaches/vile-gang-duo-breaches-police-database-impersonates-officers-extortion",
-          "author": null,
-          "description": "Two gang members are being charged for allegedly threatening to release personal information and impersonating law enforcement in an effort to dox victims.",
-          "link": "https://www.darkreading.com/attacks-breaches/vile-gang-duo-breaches-police-database-impersonates-officers-extortion",
-          "publishedOn": "2023-03-15T19:40:00.000Z",
-          "wordCount": 11192,
-          "title": "'Vile' Gang Duo Breaches Police Database, Impersonates Officers in Extortion Gambit",
-          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blta9e7dd23d66796b0/641220d7c04577555f6f4115/Doxxing_wsf_AL_Alamy.jpg"
-        },
-        {
-          "id": "https://www.darkreading.com/application-security/telerik-bug-exploited-steal-federal-agency-data-cisa-warns",
-          "author": "Dark Reading Staff, Dark Reading",
-          "description": "An unpatched Microsoft Web server allowed multiple cybersecurity threat groups to steal data from a federal civilian executive branch.",
-          "link": "https://www.darkreading.com/application-security/telerik-bug-exploited-steal-federal-agency-data-cisa-warns",
-          "publishedOn": "2023-03-15T19:37:00.000Z",
-          "wordCount": 10995,
-          "title": "Telerik Bug Exploited to Steal Federal Agency Data, CISA Warns",
-          "enclosure": {
-            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blte161b23f0fd3a84b/60b1ea374e7eb868c4c6a293/dr_staff_125x125.jpg",
-            "type": "image/*",
-            "length": "0"
-          },
-          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blte161b23f0fd3a84b/60b1ea374e7eb868c4c6a293/dr_staff_125x125.jpg"
         }
       ]
     },
@@ -4011,6 +3915,54 @@
       "feedUrl": "https://thehackernews.com/feeds/posts/default",
       "siteUrl": "https://thehackernews.com",
       "articles": [
+        {
+          "id": "https://thehackernews.com/2023/04/kodi-confirms-data-breach-400k-user.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Open source media player software provider Kodi has confirmed a data breach after threat actors stole the company's MyBB forum database containing user data and private messages.\nWhat's more, the unknown threat actors attempted to sell the data dump comprising 400,635 Kodi users on the now-defunct BreachForums cybercrime marketplace.\n\"MyBB admin logs show the account of a trusted but currently",
+          "link": "https://thehackernews.com/2023/04/kodi-confirms-data-breach-400k-user.html",
+          "publishedOn": "2023-04-14T10:22:00.000Z",
+          "wordCount": null,
+          "title": "Kodi Confirms Data Breach: 400K User Records and Private Messages Stolen",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEixQ1hj0dtUWpwMpiWiJ8YkHrnmDqwI8IXjB_5RY4_fLjInQFV1pxIp34eEVmfOreIMIGY0oNg4pt0jCE98_Ae2yWnHh8lbgzuXb3g1rFzTnOfjLsM6lLosjXfG_mpSZUf-xKYKS1QsFTBC16tkPrbls0hAYE9NKdYbupMWrYC3bDsVmMh62cAwCsCo/s1600/kodi.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEixQ1hj0dtUWpwMpiWiJ8YkHrnmDqwI8IXjB_5RY4_fLjInQFV1pxIp34eEVmfOreIMIGY0oNg4pt0jCE98_Ae2yWnHh8lbgzuXb3g1rFzTnOfjLsM6lLosjXfG_mpSZUf-xKYKS1QsFTBC16tkPrbls0hAYE9NKdYbupMWrYC3bDsVmMh62cAwCsCo/s1600/kodi.png"
+        },
+        {
+          "id": "https://thehackernews.com/2023/04/severe-android-and-novi-survey.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added two vulnerabilities to its Known Exploited Vulnerabilities (KEV) catalog, based on evidence of active exploitation.\nThe two flaws are listed below -\n\nCVE-2023-20963 (CVSS score: 7.8) - Android Framework Privilege Escalation Vulnerability\nCVE-2023-29492 (CVSS score: TBD) - Novi Survey Insecure Deserialization Vulnerability",
+          "link": "https://thehackernews.com/2023/04/severe-android-and-novi-survey.html",
+          "publishedOn": "2023-04-14T07:15:00.000Z",
+          "wordCount": null,
+          "title": "Severe Android and Novi Survey Vulnerabilities Under Active Exploitation",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgdb31YtwZG36X6pE-Xzme7tkbG3wFVNQmDcfH0Ef45dYGhRxhTYdCdUTQR2Ahv83UQgxqOCS8hBTuZVAQj2mW8ToyqgshR7G4WXsWPzF_K12qJxalxZNSJikyQd7AhKhczx4qO7u-3XrKvaCjJsKsrvJ5MvlXn9pUuwiZQUeUkf6z1Fugi6JhrORfk/s1600/android-flaw.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgdb31YtwZG36X6pE-Xzme7tkbG3wFVNQmDcfH0Ef45dYGhRxhTYdCdUTQR2Ahv83UQgxqOCS8hBTuZVAQj2mW8ToyqgshR7G4WXsWPzF_K12qJxalxZNSJikyQd7AhKhczx4qO7u-3XrKvaCjJsKsrvJ5MvlXn9pUuwiZQUeUkf6z1Fugi6JhrORfk/s1600/android-flaw.png"
+        },
+        {
+          "id": "https://thehackernews.com/2023/04/webinar-tips-from-mssps-to-mssps.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "In today's fast-paced and ever-changing digital landscape, businesses of all sizes face a myriad of cybersecurity threats. Putting in place the right people, technological tools and services, MSSPs are in a great position to ensure their customers' cyber resilience. \nThe growing need of SMEs and SMBs for structured cybersecurity services can be leveraged by MSPs and MSSPs to provide strategic",
+          "link": "https://thehackernews.com/2023/04/webinar-tips-from-mssps-to-mssps.html",
+          "publishedOn": "2023-04-14T07:13:00.000Z",
+          "wordCount": null,
+          "title": "Webinar: Tips from MSSPs to MSSPs – Building a Profitable vCISO Practice",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgTjGuSuZrqIvE6HrD1CmOcthx-6Gh5kmdJeMHzF2n61talkycnENMqzAVQfM6ojW5nUJpbZwb0CUiwUCcmh4tp7QapXAX1pDIM1moDBwGFyQ9_wYURUAqwz-Wgm4gHut9-iXJtZbQZpTMbHt76sQVG3wla5OPmPcKAKel7kQUlyKp_WYXt_85ZaJV8/s1600/webinar.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgTjGuSuZrqIvE6HrD1CmOcthx-6Gh5kmdJeMHzF2n61talkycnENMqzAVQfM6ojW5nUJpbZwb0CUiwUCcmh4tp7QapXAX1pDIM1moDBwGFyQ9_wYURUAqwz-Wgm4gHut9-iXJtZbQZpTMbHt76sQVG3wla5OPmPcKAKel7kQUlyKp_WYXt_85ZaJV8/s1600/webinar.png"
+        },
         {
           "id": "https://thehackernews.com/2023/04/google-launches-new-cybersecurity.html",
           "author": "info@thehackernews.com (The Hacker News)",
