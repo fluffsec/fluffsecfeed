@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-04-15T02:06:24.205Z</updated>
+    <updated>2023-04-15T07:16:22.138Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Google Releases Urgent Chrome Update to Fix Actively Exploited Zero-Day Vulnerability]]></title>
+        <id>https://thehackernews.com/2023/04/google-releases-urgent-chrome-update-to.html</id>
+        <link href="https://thehackernews.com/2023/04/google-releases-urgent-chrome-update-to.html"/>
+        <updated>2023-04-15T03:58:00.000Z</updated>
+        <summary type="html"><![CDATA[Google on Friday released out-of-band updates to resolve an actively exploited zero-day flaw in its Chrome web browser, making it the first such bug to be addressed since the start of the year.
+Tracked as CVE-2023-2033, the high-severity vulnerability has been described as a type confusion issue in the V8 JavaScript engine. Clement Lecigne of Google's Threat Analysis Group (TAG) has been]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Russian SolarWinds Culprits Launch Fresh Barrage of Espionage Cyberattacks]]></title>
         <id>https://www.darkreading.com/vulnerabilities-threats/russian-intel-services-behind-barrage-espionage-cyberattacks</id>
@@ -4633,78 +4644,6 @@ The activity targeted Polish government agencies, the Ukraine Ministry of Foreig
 The 18 zero-day vulnerabilities affect a wide range of Android smartphones from Samsung, Vivo, Google, wearables using the Exynos W920 chipset, and vehicles equipped with the Exynos Auto T5123]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Leveraging Behavioral Analysis to Catch Living-Off-the-Land Attacks]]></title>
-        <id>https://www.darkreading.com/attacks-breaches/leveraging-behavioral-analysis-to-catch-living-off-the-land-attacks</id>
-        <link href="https://www.darkreading.com/attacks-breaches/leveraging-behavioral-analysis-to-catch-living-off-the-land-attacks"/>
-        <updated>2023-03-16T19:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Attackers are increasingly staying under the radar by using your own tools against you. Only behavioral AI can catch these stealthy attacks.]]></summary>
-        <author>
-            <name>Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[$3B Crypto-Mixer Money Laundering Operation Seized by Cops]]></title>
-        <id>https://www.darkreading.com/application-security/-3b-crypto-money-laundering-operation-seized-by-cops-</id>
-        <link href="https://www.darkreading.com/application-security/-3b-crypto-money-laundering-operation-seized-by-cops-"/>
-        <updated>2023-03-16T18:51:00.000Z</updated>
-        <summary type="html"><![CDATA[The 'ChipMixer' cryptocurrency service for cybercriminals was shut down by law enforcement, and its alleged operator has been charged.]]></summary>
-        <author>
-            <name>Dark Reading Staff, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Change Is Coming to the Network Detection and Response (NDR) Market]]></title>
-        <id>https://www.darkreading.com/omdia/change-is-coming-to-the-network-detection-and-response-ndr-market</id>
-        <link href="https://www.darkreading.com/omdia/change-is-coming-to-the-network-detection-and-response-ndr-market"/>
-        <updated>2023-03-16T17:00:00.000Z</updated>
-        <summary type="html"><![CDATA[After years of relative stability and steady growth, Omdia research indicates the NDR segment is poised for rapid change.]]></summary>
-        <author>
-            <name>Andrew Braunberg, Principal Analyst, SecOps, Omdia</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BianLian Ransomware Pivots From Encryption to Pure Data-Theft Extortion]]></title>
-        <id>https://www.darkreading.com/risk/bianlian-ransomware-pivots-encryption-pure-data-theft-extortion</id>
-        <link href="https://www.darkreading.com/risk/bianlian-ransomware-pivots-encryption-pure-data-theft-extortion"/>
-        <updated>2023-03-16T15:32:00.000Z</updated>
-        <summary type="html"><![CDATA[The ransomware group has already claimed 116 victim organizations so far on its site, and it continues to mature as a thriving cybercriminal business, researchers said.]]></summary>
-        <author>
-            <name>Elizabeth Montalbano, Contributor, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chinese and Russian Hackers Using SILKLOADER Malware to Evade Detection]]></title>
-        <id>https://thehackernews.com/2023/03/chinese-and-russian-hackers-using.html</id>
-        <link href="https://thehackernews.com/2023/03/chinese-and-russian-hackers-using.html"/>
-        <updated>2023-03-16T15:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Threat activity clusters affiliated with the Chinese and Russian cybercriminal ecosystems have been observed using a new piece of malware that's designed to load Cobalt Strike onto infected machines.
-Dubbed SILKLOADER by Finnish cybersecurity company WithSecure, the malware leverages DLL side-loading techniques to deliver commercial adversary simulation software.
-The development comes as]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rapid7 Acquires Minerva Labs to Extend Leading Managed Detection and Response Service]]></title>
-        <id>https://www.darkreading.com/endpoint/rapid7-acquires-minerva-labs-to-extend-leading-managed-detection-and-response-service</id>
-        <link href="https://www.darkreading.com/endpoint/rapid7-acquires-minerva-labs-to-extend-leading-managed-detection-and-response-service"/>
-        <updated>2023-03-16T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Minerva's robust technology and talented engineering team extend Rapid7's end-to-end managed threat detection and orchestration capabilities from the endpoint to the cloud.]]></summary>
-        <author>
-            <name>Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Understanding DMARC Better]]></title>
-        <id>https://blog.knowbe4.com/understanding-dmarc-better</id>
-        <link href="https://blog.knowbe4.com/understanding-dmarc-better"/>
-        <updated>2023-03-16T14:30:19.000Z</updated>
-        <summary type="html"><![CDATA[I talk and present often about DMARC (and SPF and DKIM), including here. A lot of people who think they understand how DMARC works, do not really understand it as well as they think they do. This post is aimed to help clarify some common misunderstandings.]]></summary>
-        <author>
-            <name>Roger Grimes</name>
         </author>
     </entry>
 </feed>
