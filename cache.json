@@ -350,26 +350,6 @@
           "wordCount": 518,
           "title": "Drupal Releases Security Advisory to Address Vulnerability in Drupal Core",
           "imageUrl": null
-        },
-        {
-          "id": "/node/17649",
-          "author": "CISA",
-          "description": "The Federal Bureau of Investigation (FBI), CISA, and the Multi-State Information Sharing and Analysis Center (MS-ISAC) has released a joint cybersecurity advisory (CSA), #StopRansomware: LockBit 3.0. This joint advisory details known indicators of compromise (IOCs) and tactics, techniques, and procedures (TTPs) that FBI investigations correlated with LockBit 3.0 ransomware as recently as March 2023. LockBit 3.0 functions as an affiliate-based ransomware variant and is a continuation of LockBit 2.0 and LockBit.\nCISA encourages network defenders to review and apply the recommendations in the Mitigations section of this CSA. See StopRansomware.gov for additional guidance on ransomware protection, detection, and response.",
-          "link": "https://www.cisa.gov/news-events/alerts/2023/03/16/fbi-cisa-and-ms-isac-release-stopransomware-lockbit-30",
-          "publishedOn": "2023-03-16T12:00:00.000Z",
-          "wordCount": 560,
-          "title": "FBI, CISA, and MS-ISAC Release #StopRansomware: LockBit 3.0",
-          "imageUrl": null
-        },
-        {
-          "id": "/node/17660",
-          "author": "CISA",
-          "description": "CISA released eight Industrial Control Systems (ICS) advisories on March 16, 2023. These advisories provide timely information about current security issues, vulnerabilities, and exploits surrounding ICS.  \nICSA-23-075-01 Siemens SCALANCE, RUGGEDCOM Third-Party\nICSA-23-075-02 Siemens RUGGEDCOM CROSSBOW V5.3 \nICSA-23-075-03 Siemens RUGGEDCOM CROSSBOW V5.2\nICSA-23-075-04 Siemens SCALANCE W1750D Devices\nICSA-23-075-05 Siemens Mendix SMAL Module\nICSA-23-075-06 Honeywell OneWireless Wireless Device Manager\nICSA-23-075-07 Rockwell Automation Modbus TCP AOI Server\nICSA-22-342-02 AVEVA InTouch Access Anywhere and Plant SCADA Access Anywhere (Update A)\nPlease share your thoughts. We recently updated our anonymous Product Feedback Survey and we'd welcome your feedback.",
-          "link": "https://www.cisa.gov/news-events/alerts/2023/03/16/cisa-releases-eight-industrial-control-systems-advisories",
-          "publishedOn": "2023-03-16T12:00:00.000Z",
-          "wordCount": 570,
-          "title": "CISA Releases Eight Industrial Control Systems Advisories",
-          "imageUrl": null
         }
       ]
     },
@@ -408,6 +388,51 @@
       "feedUrl": "https://www.darkreading.com/rss.xml",
       "siteUrl": "https://www.darkreading.com",
       "articles": [
+        {
+          "id": "https://www.darkreading.com/vulnerabilities-threats/russian-intel-services-behind-barrage-espionage-cyberattacks",
+          "author": "Becky Bracken, Editor, Dark Reading",
+          "description": "The threat group behind the SolarWinds supply-chain attacks is back with new tools for spying on officials in NATO countries and Africa.",
+          "link": "https://www.darkreading.com/vulnerabilities-threats/russian-intel-services-behind-barrage-espionage-cyberattacks",
+          "publishedOn": "2023-04-14T21:14:00.000Z",
+          "wordCount": 15434,
+          "title": "Russian SolarWinds Culprits Launch Fresh Barrage of Espionage Cyberattacks",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt8e7bd143d726930b/627271268681151716941064/BeckyB.jpg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt8e7bd143d726930b/627271268681151716941064/BeckyB.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/ics-ot/why-xiot-devices-are-gateway-drug-lateral-movement",
+          "author": "Ericka Chickowski, Contributing Writer, Dark Reading",
+          "description": "Detailing how extended IoT (xIoT) devices can be used at scale by attackers to establish persistence across networks and what enterprises should start doing about the risk.",
+          "link": "https://www.darkreading.com/ics-ot/why-xiot-devices-are-gateway-drug-lateral-movement",
+          "publishedOn": "2023-04-14T19:54:00.000Z",
+          "wordCount": 15367,
+          "title": "Why xIoT Devices Are Cyberattackers' Gateway Drug for Lateral Movement",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt1fa01ab14787f501/60b1e9a77f791568be5e0dbb/ErickaChick_125x125.jpeg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt1fa01ab14787f501/60b1e9a77f791568be5e0dbb/ErickaChick_125x125.jpeg"
+        },
+        {
+          "id": "https://www.darkreading.com/dr-tech/software-dependency-data-delivers-security-to-developers",
+          "author": "Robert Lemos, Contributing Writer, Dark Reading",
+          "description": "Google has opened up its software-dependency database, adding to the security data available to developers and tool makers. Now developers need to use it.",
+          "link": "https://www.darkreading.com/dr-tech/software-dependency-data-delivers-security-to-developers",
+          "publishedOn": "2023-04-14T19:21:03.000Z",
+          "wordCount": 16288,
+          "title": "Software-Dependency Data Delivers Security to Developers",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt58481326324d6911/60b1e9a55d34de550780a990/Robert-Lemos.png",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt58481326324d6911/60b1e9a55d34de550780a990/Robert-Lemos.png"
+        },
         {
           "id": "https://www.darkreading.com/edge-articles/security-is-a-revenue-booster-not-a-cost-center",
           "author": "Evan Schuman, Contributing Writer, Dark Reading",
@@ -3192,21 +3217,6 @@
           "wordCount": 15075,
           "title": "Rapid7 Acquires Minerva Labs to Extend Leading Managed Detection and Response Service",
           "imageUrl": "https://beta.darkreading.com/images/og-image.jpg"
-        },
-        {
-          "id": "https://www.darkreading.com/attacks-breaches/5-ways-to-fight-school-ransomware-attacks",
-          "author": "Anneka Gupta, Chief Product Officer, Rubrik",
-          "description": "The challenges are steep, but school districts can fight back with planning.",
-          "link": "https://www.darkreading.com/attacks-breaches/5-ways-to-fight-school-ransomware-attacks",
-          "publishedOn": "2023-03-16T14:00:00.000Z",
-          "wordCount": 14864,
-          "title": "5 Ways to Fight School Ransomware Attacks",
-          "enclosure": {
-            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt7110d56e76bb0842/6410917af236b474997b1187/anneka_(4).jpg",
-            "type": "image/*",
-            "length": "0"
-          },
-          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt7110d56e76bb0842/6410917af236b474997b1187/anneka_(4).jpg"
         }
       ]
     },
@@ -3288,6 +3298,16 @@
       "feedUrl": "https://blog.knowbe4.com/rss.xml",
       "siteUrl": "https://blog.knowbe4.com",
       "articles": [
+        {
+          "id": "https://blog.knowbe4.com/head-start-effective-methods-how-to-teach-social-engineering-to-an-ai",
+          "author": "Stu Sjouwerman",
+          "description": "Remember The Sims? Well Stanford created a small virtual world with 25 ChatGPT-powered \"people\". The simulation ran for 2 days and showed that AI-powered bots can interact in a very human-like way.",
+          "link": "https://blog.knowbe4.com/head-start-effective-methods-how-to-teach-social-engineering-to-an-ai",
+          "publishedOn": "2023-04-14T19:57:40.000Z",
+          "wordCount": 2587,
+          "title": "[Head Start] Effective Methods How To Teach Social Engineering To An AI",
+          "imageUrl": "https://blog.knowbe4.com/hubfs/Sorry-Dave-T-shirt.jpg#keepProtocol"
+        },
         {
           "id": "https://blog.knowbe4.com/affinity-phishing-attacks",
           "author": "Stu Sjouwerman",
@@ -3937,36 +3957,6 @@
           "wordCount": 3775,
           "title": "Understanding DMARC Better",
           "imageUrl": "https://blog.knowbe4.com/hubfs/Social%20Image%20Repository/Evangelist%20Blog%20Social%20Graphics/Evangelists-Roger%20Grimes.jpg#keepProtocol"
-        },
-        {
-          "id": "https://blog.knowbe4.com/free-phishing-security-resource-kit",
-          "author": "Stu Sjouwerman",
-          "description": "Phishing emails increase in volume every month and every year, so we created this free resource kit to help you defend against attacks.\n \r\nRequest your kit now to learn phishing mitigation strategies, what new trends and attack vectors you need to be prepared for, and our best advice on how to protect your users and your organization.\n \r\nJavvad Malik, Lead Security Awareness Advocate at KnowBe4, explains more about why you need this kit and details on what is included:",
-          "link": "https://blog.knowbe4.com/free-phishing-security-resource-kit",
-          "publishedOn": "2023-03-16T13:06:29.000Z",
-          "wordCount": 2061,
-          "title": "[FREE RESOURCE KIT] New Phishing Security Resource Kit Now Available!",
-          "imageUrl": "https://blog.knowbe4.com/hubfs/Phishing-Kit-1200x675.jpg#keepProtocol"
-        },
-        {
-          "id": "https://blog.knowbe4.com/a-240-rise-in-dynamic-phishing",
-          "author": "Stu Sjouwerman",
-          "description": "Attackers are increasingly using techniques to prevent their phishing pages from being detected by security firms, a new report from BlueVoyant has found. The report found that in 2022 there was a 240% increase in phishing pages that attempted to redirect potential security researchers and bots away from the sites.",
-          "link": "https://blog.knowbe4.com/a-240-rise-in-dynamic-phishing",
-          "publishedOn": "2023-03-16T12:44:16.000Z",
-          "wordCount": 2359,
-          "title": "A 240% Rise in Dynamic Phishing",
-          "imageUrl": "https://blog.knowbe4.com/hubfs/Phishing%20Data%20Breaches.jpg#keepProtocol"
-        },
-        {
-          "id": "https://blog.knowbe4.com/a-rise-in-dynamic-phishing",
-          "author": "Stu Sjouwerman",
-          "description": "Attackers are increasingly using techniques to prevent their phishing pages from being detected by security firms, a new report from BlueVoyant has found. The report found that in 2022 there was a 240% increase in phishing pages that attempted to redirect potential security researchers and bots away from the sites.",
-          "link": "https://blog.knowbe4.com/a-rise-in-dynamic-phishing",
-          "publishedOn": "2023-03-16T12:44:16.000Z",
-          "wordCount": 2354,
-          "title": "A Rise in Dynamic Phishing",
-          "imageUrl": "https://blog.knowbe4.com/hubfs/Phishing%20Data%20Breaches.jpg#keepProtocol"
         }
       ]
     },
@@ -5942,38 +5932,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgvjx7jhnI64zGtr3mwvWZhKJesdDTGSZ-NT88iZ4YWw0uK-QNJ3kdcOpGhPu6y_JZOrhDUDQNHhgGhjQG8t-eSwnT_gP-Wnld6ynAak4YgDoG-oCz9M2bVku_O4ZuvOzRhDHfRKhgF7meOrLPKQQwTTXoQjmNhBLIT_0gh57RMSVumuSvUcbnK9ASl/s1600/cobalt.png"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgvjx7jhnI64zGtr3mwvWZhKJesdDTGSZ-NT88iZ4YWw0uK-QNJ3kdcOpGhPu6y_JZOrhDUDQNHhgGhjQG8t-eSwnT_gP-Wnld6ynAak4YgDoG-oCz9M2bVku_O4ZuvOzRhDHfRKhgF7meOrLPKQQwTTXoQjmNhBLIT_0gh57RMSVumuSvUcbnK9ASl/s1600/cobalt.png"
-        },
-        {
-          "id": "https://thehackernews.com/2023/03/cryptojacking-group-teamtnt-suspected.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "The cryptojacking group known as TeamTNT is suspected to be behind a previously undiscovered strain of malware used to mine Monero cryptocurrency on compromised systems.\nThat's according to Cado Security, which found the sample after Sysdig detailed a sophisticated attack known as SCARLETEEL aimed at containerized environments to ultimately steal proprietary data and software.\nSpecifically, the",
-          "link": "https://thehackernews.com/2023/03/cryptojacking-group-teamtnt-suspected.html",
-          "publishedOn": "2023-03-16T13:39:00.000Z",
-          "wordCount": null,
-          "title": "Cryptojacking Group TeamTNT Suspected of Using Decoy Miner to Conceal Data Exfiltration",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2Qb6QnUx-0NvP_-MNsNMIf2-NxyyGi9vTft5Rtw5I-KSOPbzDStPyOe1KMx92M5O3gmXOAqZ7M7Sojqfh2-JW5opd6-BRnKYZFqj8cvFIrwZrmL6qVQ3hZx6H7Zqtipyg-qLk-nEeUqghLw_MMRHA4aM10dabX-Ia_KZIKXB6O4OUIobzH_wy47Ox/s1600/hacking.png"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2Qb6QnUx-0NvP_-MNsNMIf2-NxyyGi9vTft5Rtw5I-KSOPbzDStPyOe1KMx92M5O3gmXOAqZ7M7Sojqfh2-JW5opd6-BRnKYZFqj8cvFIrwZrmL6qVQ3hZx6H7Zqtipyg-qLk-nEeUqghLw_MMRHA4aM10dabX-Ia_KZIKXB6O4OUIobzH_wy47Ox/s1600/hacking.png"
-        },
-        {
-          "id": "https://thehackernews.com/2023/03/authorities-shut-down-chipmixer.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "A coalition of law enforcement agencies across Europe and the U.S. announced the takedown of ChipMixer, an unlicensed cryptocurrency mixer that began its operations in August 2017.\n\"The ChipMixer software blocked the blockchain trail of the funds, making it attractive for cybercriminals looking to launder illegal proceeds from criminal activities such as drug trafficking, weapons trafficking,",
-          "link": "https://thehackernews.com/2023/03/authorities-shut-down-chipmixer.html",
-          "publishedOn": "2023-03-16T09:46:00.000Z",
-          "wordCount": null,
-          "title": "Authorities Shut Down ChipMixer Platform Tied to Crypto Laundering Scheme",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgvM4pwYpooXXDpLwcvSmxNuj4PkQU_GJmkP-fwOwQVoA7-VdTRrJyVu3XwdtBArrWE1ZUX5HmIBMynGf2vrvQCxK7DjTyH-49odMGu_9hDvO91lNDUV6s7heZYWEWE1XYnacOzIr2db8ELxTVV6uLBtYYW4cZDMHrnBfNuNcn7CXx1CPQJmDyJ7pRk/s1600/chipmix.png"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgvM4pwYpooXXDpLwcvSmxNuj4PkQU_GJmkP-fwOwQVoA7-VdTRrJyVu3XwdtBArrWE1ZUX5HmIBMynGf2vrvQCxK7DjTyH-49odMGu_9hDvO91lNDUV6s7heZYWEWE1XYnacOzIr2db8ELxTVV6uLBtYYW4cZDMHrnBfNuNcn7CXx1CPQJmDyJ7pRk/s1600/chipmix.png"
         }
       ]
     }

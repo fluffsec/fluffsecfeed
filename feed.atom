@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-04-14T19:14:52.436Z</updated>
+    <updated>2023-04-15T02:06:24.205Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Russian SolarWinds Culprits Launch Fresh Barrage of Espionage Cyberattacks]]></title>
+        <id>https://www.darkreading.com/vulnerabilities-threats/russian-intel-services-behind-barrage-espionage-cyberattacks</id>
+        <link href="https://www.darkreading.com/vulnerabilities-threats/russian-intel-services-behind-barrage-espionage-cyberattacks"/>
+        <updated>2023-04-14T21:14:00.000Z</updated>
+        <summary type="html"><![CDATA[The threat group behind the SolarWinds supply-chain attacks is back with new tools for spying on officials in NATO countries and Africa.]]></summary>
+        <author>
+            <name>Becky Bracken, Editor, Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Head Start] Effective Methods How To Teach Social Engineering To An AI]]></title>
+        <id>https://blog.knowbe4.com/head-start-effective-methods-how-to-teach-social-engineering-to-an-ai</id>
+        <link href="https://blog.knowbe4.com/head-start-effective-methods-how-to-teach-social-engineering-to-an-ai"/>
+        <updated>2023-04-14T19:57:40.000Z</updated>
+        <summary type="html"><![CDATA[Remember The Sims? Well Stanford created a small virtual world with 25 ChatGPT-powered "people". The simulation ran for 2 days and showed that AI-powered bots can interact in a very human-like way.]]></summary>
+        <author>
+            <name>Stu Sjouwerman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why xIoT Devices Are Cyberattackers' Gateway Drug for Lateral Movement]]></title>
+        <id>https://www.darkreading.com/ics-ot/why-xiot-devices-are-gateway-drug-lateral-movement</id>
+        <link href="https://www.darkreading.com/ics-ot/why-xiot-devices-are-gateway-drug-lateral-movement"/>
+        <updated>2023-04-14T19:54:00.000Z</updated>
+        <summary type="html"><![CDATA[Detailing how extended IoT (xIoT) devices can be used at scale by attackers to establish persistence across networks and what enterprises should start doing about the risk.]]></summary>
+        <author>
+            <name>Ericka Chickowski, Contributing Writer, Dark Reading</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Software-Dependency Data Delivers Security to Developers]]></title>
+        <id>https://www.darkreading.com/dr-tech/software-dependency-data-delivers-security-to-developers</id>
+        <link href="https://www.darkreading.com/dr-tech/software-dependency-data-delivers-security-to-developers"/>
+        <updated>2023-04-14T19:21:03.000Z</updated>
+        <summary type="html"><![CDATA[Google has opened up its software-dependency database, adding to the security data available to developers and tool makers. Now developers need to use it.]]></summary>
+        <author>
+            <name>Robert Lemos, Contributing Writer, Dark Reading</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Security Is a Revenue Booster, Not a Cost Center]]></title>
         <id>https://www.darkreading.com/edge-articles/security-is-a-revenue-booster-not-a-cost-center</id>
@@ -4665,103 +4705,6 @@ The development comes as]]></summary>
         <summary type="html"><![CDATA[I talk and present often about DMARC (and SPF and DKIM), including here. A lot of people who think they understand how DMARC works, do not really understand it as well as they think they do. This post is aimed to help clarify some common misunderstandings.]]></summary>
         <author>
             <name>Roger Grimes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[5 Ways to Fight School Ransomware Attacks]]></title>
-        <id>https://www.darkreading.com/attacks-breaches/5-ways-to-fight-school-ransomware-attacks</id>
-        <link href="https://www.darkreading.com/attacks-breaches/5-ways-to-fight-school-ransomware-attacks"/>
-        <updated>2023-03-16T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The challenges are steep, but school districts can fight back with planning.]]></summary>
-        <author>
-            <name>Anneka Gupta, Chief Product Officer, Rubrik</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cryptojacking Group TeamTNT Suspected of Using Decoy Miner to Conceal Data Exfiltration]]></title>
-        <id>https://thehackernews.com/2023/03/cryptojacking-group-teamtnt-suspected.html</id>
-        <link href="https://thehackernews.com/2023/03/cryptojacking-group-teamtnt-suspected.html"/>
-        <updated>2023-03-16T13:39:00.000Z</updated>
-        <summary type="html"><![CDATA[The cryptojacking group known as TeamTNT is suspected to be behind a previously undiscovered strain of malware used to mine Monero cryptocurrency on compromised systems.
-That's according to Cado Security, which found the sample after Sysdig detailed a sophisticated attack known as SCARLETEEL aimed at containerized environments to ultimately steal proprietary data and software.
-Specifically, the]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[FREE RESOURCE KIT] New Phishing Security Resource Kit Now Available!]]></title>
-        <id>https://blog.knowbe4.com/free-phishing-security-resource-kit</id>
-        <link href="https://blog.knowbe4.com/free-phishing-security-resource-kit"/>
-        <updated>2023-03-16T13:06:29.000Z</updated>
-        <summary type="html"><![CDATA[Phishing emails increase in volume every month and every year, so we created this free resource kit to help you defend against attacks.
- 
-Request your kit now to learn phishing mitigation strategies, what new trends and attack vectors you need to be prepared for, and our best advice on how to protect your users and your organization.
- 
-Javvad Malik, Lead Security Awareness Advocate at KnowBe4, explains more about why you need this kit and details on what is included:]]></summary>
-        <author>
-            <name>Stu Sjouwerman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A 240% Rise in Dynamic Phishing]]></title>
-        <id>https://blog.knowbe4.com/a-240-rise-in-dynamic-phishing</id>
-        <link href="https://blog.knowbe4.com/a-240-rise-in-dynamic-phishing"/>
-        <updated>2023-03-16T12:44:16.000Z</updated>
-        <summary type="html"><![CDATA[Attackers are increasingly using techniques to prevent their phishing pages from being detected by security firms, a new report from BlueVoyant has found. The report found that in 2022 there was a 240% increase in phishing pages that attempted to redirect potential security researchers and bots away from the sites.]]></summary>
-        <author>
-            <name>Stu Sjouwerman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Rise in Dynamic Phishing]]></title>
-        <id>https://blog.knowbe4.com/a-rise-in-dynamic-phishing</id>
-        <link href="https://blog.knowbe4.com/a-rise-in-dynamic-phishing"/>
-        <updated>2023-03-16T12:44:16.000Z</updated>
-        <summary type="html"><![CDATA[Attackers are increasingly using techniques to prevent their phishing pages from being detected by security firms, a new report from BlueVoyant has found. The report found that in 2022 there was a 240% increase in phishing pages that attempted to redirect potential security researchers and bots away from the sites.]]></summary>
-        <author>
-            <name>Stu Sjouwerman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FBI, CISA, and MS-ISAC Release #StopRansomware: LockBit 3.0]]></title>
-        <id>/node/17649</id>
-        <link href="https://www.cisa.gov/news-events/alerts/2023/03/16/fbi-cisa-and-ms-isac-release-stopransomware-lockbit-30"/>
-        <updated>2023-03-16T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The Federal Bureau of Investigation (FBI), CISA, and the Multi-State Information Sharing and Analysis Center (MS-ISAC) has released a joint cybersecurity advisory (CSA), #StopRansomware: LockBit 3.0. This joint advisory details known indicators of compromise (IOCs) and tactics, techniques, and procedures (TTPs) that FBI investigations correlated with LockBit 3.0 ransomware as recently as March 2023. LockBit 3.0 functions as an affiliate-based ransomware variant and is a continuation of LockBit 2.0 and LockBit.
-CISA encourages network defenders to review and apply the recommendations in the Mitigations section of this CSA. See StopRansomware.gov for additional guidance on ransomware protection, detection, and response.]]></summary>
-        <author>
-            <name>CISA</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CISA Releases Eight Industrial Control Systems Advisories]]></title>
-        <id>/node/17660</id>
-        <link href="https://www.cisa.gov/news-events/alerts/2023/03/16/cisa-releases-eight-industrial-control-systems-advisories"/>
-        <updated>2023-03-16T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[CISA released eight Industrial Control Systems (ICS) advisories on March 16, 2023. These advisories provide timely information about current security issues, vulnerabilities, and exploits surrounding ICS.  
-ICSA-23-075-01 Siemens SCALANCE, RUGGEDCOM Third-Party
-ICSA-23-075-02 Siemens RUGGEDCOM CROSSBOW V5.3 
-ICSA-23-075-03 Siemens RUGGEDCOM CROSSBOW V5.2
-ICSA-23-075-04 Siemens SCALANCE W1750D Devices
-ICSA-23-075-05 Siemens Mendix SMAL Module
-ICSA-23-075-06 Honeywell OneWireless Wireless Device Manager
-ICSA-23-075-07 Rockwell Automation Modbus TCP AOI Server
-ICSA-22-342-02 AVEVA InTouch Access Anywhere and Plant SCADA Access Anywhere (Update A)
-Please share your thoughts. We recently updated our anonymous Product Feedback Survey and we'd welcome your feedback.]]></summary>
-        <author>
-            <name>CISA</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Authorities Shut Down ChipMixer Platform Tied to Crypto Laundering Scheme]]></title>
-        <id>https://thehackernews.com/2023/03/authorities-shut-down-chipmixer.html</id>
-        <link href="https://thehackernews.com/2023/03/authorities-shut-down-chipmixer.html"/>
-        <updated>2023-03-16T09:46:00.000Z</updated>
-        <summary type="html"><![CDATA[A coalition of law enforcement agencies across Europe and the U.S. announced the takedown of ChipMixer, an unlicensed cryptocurrency mixer that began its operations in August 2017.
-"The ChipMixer software blocked the blockchain trail of the funds, making it attractive for cybercriminals looking to launder illegal proceeds from criminal activities such as drug trafficking, weapons trafficking,]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
         </author>
     </entry>
 </feed>
