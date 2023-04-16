@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-04-15T19:14:22.150Z</updated>
+    <updated>2023-04-16T02:12:07.451Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
@@ -4536,92 +4536,6 @@ The development, first reported by Bloomberg Law, comes after News 12 Westchest
         <summary type="html"><![CDATA[If the approaches stand up to scrutiny, companies may soon be able to encrypt most databases in a way that allows using data without needing to decrypt to plaintext.]]></summary>
         <author>
             <name>Robert Lemos, Contributing Writer, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Ethics of Network and Security Monitoring]]></title>
-        <id>https://www.darkreading.com/risk/the-ethics-of-network-and-security-monitoring</id>
-        <link href="https://www.darkreading.com/risk/the-ethics-of-network-and-security-monitoring"/>
-        <updated>2023-03-17T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The chances of getting hacked are no longer low. Companies need to rethink their data collection and monitoring strategies to protect employee privacy and corporate integrity.]]></summary>
-        <author>
-            <name>Jim Tiller, Global CISO, Nash Squared and Harvey Nash USA</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Low-Budget 'Winter Vivern' APT Awakens After 2-Year Hibernation]]></title>
-        <id>https://www.darkreading.com/threat-intelligence/low-budget-winter-vivern-apt-awakens-after-2-year-hibernation</id>
-        <link href="https://www.darkreading.com/threat-intelligence/low-budget-winter-vivern-apt-awakens-after-2-year-hibernation"/>
-        <updated>2023-03-17T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The "underreported" APT has returned to focus after attacks promoting Russian and Belarusian government interests and going after targets with humor, zest, and scrappiness.]]></summary>
-        <author>
-            <name>Nate Nelson, Contributing Writer, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meta Proposes Revamped Approach to Online Kill Chain Frameworks]]></title>
-        <id>https://www.darkreading.com/application-security/meta-proposes-revamped-kill-chain-framework-online-threats</id>
-        <link href="https://www.darkreading.com/application-security/meta-proposes-revamped-kill-chain-framework-online-threats"/>
-        <updated>2023-03-17T13:41:55.000Z</updated>
-        <summary type="html"><![CDATA[A more holistic model beyond MITRE et al is needed to help defenders better identify and understand commonalities in different online threat campaigns, the Facebook parent company says.]]></summary>
-        <author>
-            <name>Jai Vijayan, Contributing Writer, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[THN Webinar: 3 Research-Backed Ways to Secure Your Identity Perimeter]]></title>
-        <id>https://thehackernews.com/2023/03/thn-webinar-3-research-backed-ways-to.html</id>
-        <link href="https://thehackernews.com/2023/03/thn-webinar-3-research-backed-ways-to.html"/>
-        <updated>2023-03-17T12:11:00.000Z</updated>
-        <summary type="html"><![CDATA[Think of the typical portrayal of a cyberattack. Bad guy pounding furiously on a keyboard, his eyes peeking out from under a dark hoodie. At long last, his efforts pay off and he hits the right combination of keys. "I'm in!" he shouts in triumph.
-Clearly, there are many problems with this scenario – and it's not just the hoodie. What's even more inaccurate is that most cyber attackers today do]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New GoLang-Based HinataBot Exploiting Router and Server Flaws for DDoS Attacks]]></title>
-        <id>https://thehackernews.com/2023/03/new-golang-based-hinatabot-exploiting.html</id>
-        <link href="https://thehackernews.com/2023/03/new-golang-based-hinatabot-exploiting.html"/>
-        <updated>2023-03-17T12:07:00.000Z</updated>
-        <summary type="html"><![CDATA[A new Golang-based botnet dubbed HinataBot has been observed to leverage known flaws to compromise routers and servers and use them to stage distributed denial-of-service (DDoS) attacks.
-"The malware binaries appear to have been named by the malware author after a character from the popular anime series, Naruto, with file name structures such as 'Hinata--,'" Akamai said in a]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Drupal Releases Security Advisory to Address Vulnerability in Drupal Core]]></title>
-        <id>/node/17662</id>
-        <link href="https://www.cisa.gov/news-events/alerts/2023/03/17/drupal-releases-security-advisory-address-vulnerability-drupal-core"/>
-        <updated>2023-03-17T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Drupal has released a security advisory to address an access bypass vulnerability affecting multiple Drupal versions. An attacker could exploit this vulnerability to take control of an affected system.
-CISA encourages users and administrators to review Drupal security advisory SA-CONTRIB- 2023-004 for more information and apply the necessary updates.]]></summary>
-        <author>
-            <name>CISA</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A New Security Category Addresses Web-borne Threats]]></title>
-        <id>https://thehackernews.com/2023/03/a-new-security-category-addresses-web.html</id>
-        <link href="https://thehackernews.com/2023/03/a-new-security-category-addresses-web.html"/>
-        <updated>2023-03-17T10:46:00.000Z</updated>
-        <summary type="html"><![CDATA[In the modern corporate IT environment, which relies on cloud connectivity, global connections and large volumes of data, the browser is now the most important work interface. The browser connects employees to managed resources, devices to the web, and the on-prem environment to the cloud one.
-Yet, and probably unsurprisingly, this browser prominence has significantly increased the number of]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lookalike Telegram and WhatsApp Websites Distributing Cryptocurrency Stealing Malware]]></title>
-        <id>https://thehackernews.com/2023/03/lookalike-telegram-and-whatsapp.html</id>
-        <link href="https://thehackernews.com/2023/03/lookalike-telegram-and-whatsapp.html"/>
-        <updated>2023-03-17T10:22:00.000Z</updated>
-        <summary type="html"><![CDATA[Copycat websites for instant messaging apps like Telegram and WhatApp are being used to distribute trojanized versions and infect Android and Windows users with cryptocurrency clipper malware.
-"All of them are after victims' cryptocurrency funds, with several targeting cryptocurrency wallets," ESET researchers Lukáš Štefanko and Peter Strýček said in a new analysis.
-While the first instance of]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
         </author>
     </entry>
 </feed>
