@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-04-16T02:12:07.451Z</updated>
+    <updated>2023-04-16T07:16:01.748Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
@@ -1214,6 +1214,17 @@ CVE-2023-28205 - A use after free issue in WebKit that could lead to arbitrar
 
 
 CVE-2023-28206 - An out-of-bounds write issue in]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Expert-Led Webinar: Learn Proven Strategies to Secure Your Identity Perimeter]]></title>
+        <id>https://thehackernews.com/2023/03/thn-webinar-3-research-backed-ways-to.html</id>
+        <link href="https://thehackernews.com/2023/03/thn-webinar-3-research-backed-ways-to.html"/>
+        <updated>2023-04-08T05:05:00.000Z</updated>
+        <summary type="html"><![CDATA[The stakes are high when it comes to cybersecurity. No longer are we dealing with unskilled hackers trying to break into corporate systems with brute force. Today, cybercriminals are using highly sophisticated methods like social engineering, spear phishing, and BEC to target users directly and log in with valid credentials.
+This is why the identity perimeter has become a critical battleground]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
@@ -4485,57 +4496,6 @@ The development, first reported by Bloomberg Law, comes after News 12 Westchest
         <updated>2023-03-17T20:02:00.000Z</updated>
         <author>
             <name>Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft Outlook Vulnerability Could Be 2023’s 'It' Bug]]></title>
-        <id>https://www.darkreading.com/application-security/microsoft-outlook-vulnerability-2023-it-bug</id>
-        <link href="https://www.darkreading.com/application-security/microsoft-outlook-vulnerability-2023-it-bug"/>
-        <updated>2023-03-17T18:23:11.000Z</updated>
-        <summary type="html"><![CDATA[Snowballing PoC exploits for CVE-2023-23397 and a massive attack surface means almost business user could be a victim.]]></summary>
-        <author>
-            <name>Nathan Eddy, Contributing Writer, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Phishing Attacks Top List of Initial Access Vectors with Backdoor Deployment as Top Objective]]></title>
-        <id>https://blog.knowbe4.com/phishing-a-top-initial-access-vector</id>
-        <link href="https://blog.knowbe4.com/phishing-a-top-initial-access-vector"/>
-        <updated>2023-03-17T18:19:15.000Z</updated>
-        <summary type="html"><![CDATA[New data looking back at the cyber attacks observed in 2022 shows that phishing continues to dominate as initial access brokers seem to be growing their business using backdoors.]]></summary>
-        <author>
-            <name>Stu Sjouwerman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[92% of Organizations Have Fallen Victim to Phishing as Nearly Every Org is Concerned with Email Security]]></title>
-        <id>https://blog.knowbe4.com/92-percent-organizations-phishing-victims</id>
-        <link href="https://blog.knowbe4.com/92-percent-organizations-phishing-victims"/>
-        <updated>2023-03-17T18:19:05.000Z</updated>
-        <summary type="html"><![CDATA[New data shows that not only has just about every organization experienced a successful phishing attack, but that they are also paying the price in a number of impactful ways.]]></summary>
-        <author>
-            <name>Stu Sjouwerman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FakeCalls Vishing Malware Targets South Korean Users via Popular Financial Apps]]></title>
-        <id>https://thehackernews.com/2023/03/fakecalls-vishing-malware-targets-south.html</id>
-        <link href="https://thehackernews.com/2023/03/fakecalls-vishing-malware-targets-south.html"/>
-        <updated>2023-03-17T18:15:00.000Z</updated>
-        <summary type="html"><![CDATA[An Android voice phishing (aka vishing) malware campaign known as FakeCalls has reared its head once again to target South Korean users under the guise of over 20 popular financial apps.
-"FakeCalls malware possesses the functionality of a Swiss army knife, able not only to conduct its primary aim but also to extract private data from the victim's device," cybersecurity firm Check Point said.]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Technology Firms Delivering Much-Sought Encryption-in-Use]]></title>
-        <id>https://www.darkreading.com/emerging-tech/technology-firms-delivering-much-sought-encryption-in-use</id>
-        <link href="https://www.darkreading.com/emerging-tech/technology-firms-delivering-much-sought-encryption-in-use"/>
-        <updated>2023-03-17T17:07:00.000Z</updated>
-        <summary type="html"><![CDATA[If the approaches stand up to scrutiny, companies may soon be able to encrypt most databases in a way that allows using data without needing to decrypt to plaintext.]]></summary>
-        <author>
-            <name>Robert Lemos, Contributing Writer, Dark Reading</name>
         </author>
     </entry>
 </feed>
