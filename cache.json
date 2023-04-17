@@ -12,6 +12,36 @@
       "siteUrl": "https://www.cisa.gov/",
       "articles": [
         {
+          "id": "/node/17943",
+          "author": "CISA",
+          "description": "The Internal Revenue Service (IRS) has issued a reminder urging taxpayers to be vigilant and wary of new of tax-related scams. These include phishing and other fraudulent behaviors. The IRS recommends strengthening passwords, remaining vigilant against phishing attempts, and forwarding suspicious emails to phishing@irs.gov.\n \nCISA encourages taxpayers to review the IRS Alerts and CISA’s Tips on Avoiding Social Engineering and Phishing Attacks for more information on avoiding tax scams throughout the year, not just during tax season. If you believe you have been a victim of a tax-related scam, visit the IRS webpage on Tax Scams - How to Report Them.\nThis product is provided subject to this Notification and this Privacy & Use policy.",
+          "link": "https://www.cisa.gov/news-events/alerts/2023/04/17/irs-warns-new-tax-scams",
+          "publishedOn": "2023-04-17T12:00:00.000Z",
+          "wordCount": 596,
+          "title": "IRS Warns of New Tax Scams",
+          "imageUrl": null
+        },
+        {
+          "id": "/node/17931",
+          "author": "CISA",
+          "description": "CISA has released the SBOM Sharing Lifecycle Report to the cybersecurity and supply chain community. The purpose of this report is to enumerate and describe the different parties and phases of the SBOM Sharing Lifecycle and to assist readers in choosing suitable SBOM sharing solutions based on the amount of time, resources, subject-matter expertise, effort, and access to tooling that is available to the reader to implement a phase of the SBOM sharing lifecycle. \nThis report also highlights SBOM sharing survey results obtained from interviews with stakeholders to understand the current SBOM sharing landscape.\nThis product is provided subject to this Notification and this Privacy & Use policy.",
+          "link": "https://www.cisa.gov/news-events/alerts/2023/04/17/cisa-releases-software-bill-materials-sbom-sharing-lifecycle-report",
+          "publishedOn": "2023-04-17T12:00:00.000Z",
+          "wordCount": 592,
+          "title": "CISA Releases Software Bill of Materials (SBOM) Sharing Lifecycle Report",
+          "imageUrl": null
+        },
+        {
+          "id": "/node/17939",
+          "author": "CISA",
+          "description": "CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities Catalog, based on evidence of active exploitation.\nCVE-2019-8526 Apple macOS Use-After-Free Vulnerability \nCVE-2023-2033 Google Chromium V8 Engine Type Confusion Vulnerability\nThese types of vulnerabilities are frequent attack vectors for malicious cyber actors and pose significant risks to the federal enterprise. Note: To view other newly added vulnerabilities in the catalog, click on the arrow in the \"Date Added to Catalog\" column—which will sort by descending dates.\nBinding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the Known Exploited Vulnerabilities Catalog as a living list of known Common Vulnerabilities and Exposures (CVEs) that carry significant risk to the federal enterprise. BOD 22-01 requires Federal Civilian Executive Branch (FCEB) agencies to remediate identified vulnerabilities by the due date to protect FCEB networks against active threats. See the BOD 22-01 Fact Sheet for more information.\nAlthough BOD 22-01 only applies to FCEB agencies, CISA strongly urges all organizations to reduce their exposure to cyberattacks by prioritizing timely remediation of Catalog vulnerabilities as part of their vulnerability management practice. CISA will continue to add vulnerabilities to the catalog that meet the specified criteria.\nThis product is provided subject to this Notification and this Privacy & Use policy.",
+          "link": "https://www.cisa.gov/news-events/alerts/2023/04/17/cisa-adds-two-known-exploited-vulnerabilities-catalog",
+          "publishedOn": "2023-04-17T12:00:00.000Z",
+          "wordCount": 692,
+          "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
+          "imageUrl": null
+        },
+        {
           "id": "/node/17921",
           "author": "CISA",
           "description": "CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities Catalog, based on evidence of active exploitation.\nCVE-2023-20963 Android Framework Privilege Escalation Vulnerability\nCVE-2023-29492 Novi Survey Insecure Deserialization Vulnerability\nThese types of vulnerabilities are frequent attack vectors for malicious cyber actors and pose significant risks to the federal enterprise. Note: To view other newly added vulnerabilities in the catalog, click on the arrow in the \"Date Added to Catalog\" column—which will sort by descending dates.\nBinding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the Known Exploited Vulnerabilities Catalog as a living list of known Common Vulnerabilities and Exposures (CVEs) that carry significant risk to the federal enterprise. BOD 22-01 requires Federal Civilian Executive Branch (FCEB) agencies to remediate identified vulnerabilities by the due date to protect FCEB networks against active threats. See the BOD 22-01 Fact Sheet for more information.\nAlthough BOD 22-01 only applies to FCEB agencies, CISA strongly urges all organizations to reduce their exposure to cyberattacks by prioritizing timely remediation of Catalog vulnerabilities as part of their vulnerability management practice. CISA will continue to add vulnerabilities to the catalog that meet the specified criteria.",
@@ -378,6 +408,51 @@
       "feedUrl": "https://www.darkreading.com/rss.xml",
       "siteUrl": "https://www.darkreading.com",
       "articles": [
+        {
+          "id": "https://www.darkreading.com/ics-ot/aloha-pos-restaurant-software-downed-ransomware-attack",
+          "author": "Becky Bracken, Editor, Dark Reading",
+          "description": "Thousands of restaurants impacted by what Aloha PoS parent company NCR says was a ransomware attack on one of its data centers.",
+          "link": "https://www.darkreading.com/ics-ot/aloha-pos-restaurant-software-downed-ransomware-attack",
+          "publishedOn": "2023-04-17T18:14:38.000Z",
+          "wordCount": 13471,
+          "title": "Aloha PoS Restaurant Software Downed by Ransomware Attack",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt8e7bd143d726930b/627271268681151716941064/BeckyB.jpg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt8e7bd143d726930b/627271268681151716941064/BeckyB.jpg"
+        },
+        {
+          "id": "https://www.darkreading.com/physical-security/name-that-toon-lucky-charm",
+          "author": "John Klossner, Cartoonist",
+          "description": "Feeling creative? Submit your caption and our panel of experts will reward the winner with a $25 Amazon gift card.",
+          "link": "https://www.darkreading.com/physical-security/name-that-toon-lucky-charm",
+          "publishedOn": "2023-04-17T17:00:00.000Z",
+          "wordCount": 12812,
+          "title": "Name That Toon: Lucky Charm",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltf97d71984b60d7ed/60b1e88b5d34de550780a96e/Klossner_iwk_photo.gif",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltf97d71984b60d7ed/60b1e88b5d34de550780a96e/Klossner_iwk_photo.gif"
+        },
+        {
+          "id": "https://www.darkreading.com/vulnerabilities-threats/top-5-data-security-rsac-2023-sessions-to-attend",
+          "author": "Liat Hayun, Co-Founder & CEO, Eureka Security",
+          "description": "A little preconference reconnoitering of upcoming seminars, keynotes, and track sessions makes plotting your days easier. Here's one attendee's list.",
+          "link": "https://www.darkreading.com/vulnerabilities-threats/top-5-data-security-rsac-2023-sessions-to-attend",
+          "publishedOn": "2023-04-17T14:00:00.000Z",
+          "wordCount": 14937,
+          "title": "Top 5 Data Security RSAC 2023 Sessions to Attend",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltddc3b2e85eec0db6/627bfcffc6feae170ff6acb9/liat.jpg",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltddc3b2e85eec0db6/627bfcffc6feae170ff6acb9/liat.jpg"
+        },
         {
           "id": "https://www.darkreading.com/vulnerabilities-threats/russian-intel-services-behind-barrage-espionage-cyberattacks",
           "author": "Becky Bracken, Editor, Dark Reading",
@@ -3109,6 +3184,16 @@
       "siteUrl": "https://blog.knowbe4.com",
       "articles": [
         {
+          "id": "https://blog.knowbe4.com/indian-rail-ticketing-platform-warns-online-fraud",
+          "author": "Stu Sjouwerman",
+          "description": "The Indian Railway Catering and Tourism Corporation (IRCTC), described as “a popular platform used by a significant number of Indians for booking train tickets,” has cautioned users about a malicious Android application that’s being used to commit fraud against railway passengers.",
+          "link": "https://blog.knowbe4.com/indian-rail-ticketing-platform-warns-online-fraud",
+          "publishedOn": "2023-04-17T15:39:56.000Z",
+          "wordCount": 2268,
+          "title": "Indian Rail Passenger Ticketing Platform Warns of Online Fraud",
+          "imageUrl": "https://blog.knowbe4.com/hubfs/Travel-Themed%20Scam.jpg#keepProtocol"
+        },
+        {
           "id": "https://blog.knowbe4.com/head-start-effective-methods-how-to-teach-social-engineering-to-an-ai",
           "author": "Stu Sjouwerman",
           "description": "Remember The Sims? Well Stanford created a small virtual world with 25 ChatGPT-powered \"people\". The simulation ran for 2 days and showed that AI-powered bots can interact in a very human-like way.",
@@ -3725,6 +3810,70 @@
       "feedUrl": "https://thehackernews.com/feeds/posts/default",
       "siteUrl": "https://thehackernews.com",
       "articles": [
+        {
+          "id": "https://thehackernews.com/2023/04/israeli-spyware-vendor-quadream-to-shut.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Israeli spyware vendor QuaDream is allegedly shutting down its operations in the coming days, less than a week after its hacking toolset was exposed by Citizen Lab and Microsoft.\nThe development was reported by the Israeli business newspaper Calcalist, citing unnamed sources, adding the company \"hasn't been fully active for a while\" and that it \"has been in a difficult situation for several",
+          "link": "https://thehackernews.com/2023/04/israeli-spyware-vendor-quadream-to-shut.html",
+          "publishedOn": "2023-04-17T16:32:00.000Z",
+          "wordCount": null,
+          "title": "Israeli Spyware Vendor QuaDream to Shut Down Following Citizen Lab and Microsoft Expose",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjQSNUu-0fB6Wlu3ZpUtEzikmiTUZos2AgtUa3BLCf4-runivbw4Pwlpn4uJO2X_AwfpeFzPXr7myJZ74vHLutN0R9F4RrPzMOkxww3LonorRYB_ZieHiEBgzxymwJomBVXkLQm5b5a7LBvhAMdJGem_UKXkDc16TX1jKbxW0CPeN7yOFlNO3EICPAz/s1600/hacker.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjQSNUu-0fB6Wlu3ZpUtEzikmiTUZos2AgtUa3BLCf4-runivbw4Pwlpn4uJO2X_AwfpeFzPXr7myJZ74vHLutN0R9F4RrPzMOkxww3LonorRYB_ZieHiEBgzxymwJomBVXkLQm5b5a7LBvhAMdJGem_UKXkDc16TX1jKbxW0CPeN7yOFlNO3EICPAz/s1600/hacker.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2023/04/new-qbot-banking-trojan-campaign.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "A new QBot malware campaign is leveraging hijacked business correspondence to trick unsuspecting victims into installing the malware, new findings from Kaspersky reveal.\nThe latest activity, which commenced on April 4, 2023, has primarily targeted users in Germany, Argentina, Italy, Algeria, Spain, the U.S., Russia, France, the U.K., and Morocco.\nQBot (aka Qakbot or Pinkslipbot) is a banking",
+          "link": "https://thehackernews.com/2023/04/new-qbot-banking-trojan-campaign.html",
+          "publishedOn": "2023-04-17T16:06:00.000Z",
+          "wordCount": null,
+          "title": "New QBot Banking Trojan Campaign Hijacks Business Emails to Spread Malware",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi3175izlCZQM1f5OUj7sXx1HCEBiOlVI81lliGiTkLS247IzIyllKveJe0plUJvDs0DWS4em1fGnEvvGdoSlNrCGJnh5HqCnRjgmzhwm-Whf3cR1o2iEyGBL6cj24FaCwCkXEF59LiOZF0eMV2XIFO5xsL6_Ki9xU3as0fZLIFgzsYXw30UI8Dk97X/s1600/malware.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi3175izlCZQM1f5OUj7sXx1HCEBiOlVI81lliGiTkLS247IzIyllKveJe0plUJvDs0DWS4em1fGnEvvGdoSlNrCGJnh5HqCnRjgmzhwm-Whf3cR1o2iEyGBL6cj24FaCwCkXEF59LiOZF0eMV2XIFO5xsL6_Ki9xU3as0fZLIFgzsYXw30UI8Dk97X/s1600/malware.png"
+        },
+        {
+          "id": "https://thehackernews.com/2023/04/fin7-and-ex-conti-cybercrime-gangs-join.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "A new strain of malware developed by threat actors likely affiliated with the FIN7 cybercrime group has been put to use by the members of the now-defunct Conti ransomware gang, indicating collaboration between the two crews.\nThe malware, dubbed Domino, is primarily designed to facilitate follow-on exploitation on compromised systems, including delivering a lesser-known information stealer that",
+          "link": "https://thehackernews.com/2023/04/fin7-and-ex-conti-cybercrime-gangs-join.html",
+          "publishedOn": "2023-04-17T13:50:00.000Z",
+          "wordCount": null,
+          "title": "FIN7 and Ex-Conti Cybercrime Gangs Join Forces in Domino Malware Attacks",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjEM4-25-hGSoexhDT05ogqe4lq_KgApU4-k8LvSjrqDFQ9VT3J5BEPAWjho2PcJEGKRGIMcimXr4han2-Bx0SATXgKX9CVfgMP9H5E8a22pyxKD-PWhZgxCBSqJY3LNpW-K3MeJnT83XC7dT2-KUH6dl5JK4QzOwuvH_DLTFDtortx7ca3dDrZkNeo/s1600/loader.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjEM4-25-hGSoexhDT05ogqe4lq_KgApU4-k8LvSjrqDFQ9VT3J5BEPAWjho2PcJEGKRGIMcimXr4han2-Bx0SATXgKX9CVfgMP9H5E8a22pyxKD-PWhZgxCBSqJY3LNpW-K3MeJnT83XC7dT2-KUH6dl5JK4QzOwuvH_DLTFDtortx7ca3dDrZkNeo/s1600/loader.png"
+        },
+        {
+          "id": "https://thehackernews.com/2023/04/whats-difference-between-cspm-sspm.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Cloud Security Posture Management (CSPM) and SaaS Security Posture Management (SSPM) are frequently confused. The similarity of the acronyms notwithstanding, both security solutions focus on securing data in the cloud. In a world where the terms cloud and SaaS are used interchangeably, this confusion is understandable.\nThis confusion, though, is dangerous to organizations that need to secure",
+          "link": "https://thehackernews.com/2023/04/whats-difference-between-cspm-sspm.html",
+          "publishedOn": "2023-04-17T13:32:00.000Z",
+          "wordCount": null,
+          "title": "What's the Difference Between CSPM & SSPM?",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjfKkazPRjaEpYYxzOKInxST0OTMfr81vk0HEPMF4X48NfMbs9AQl6sZWoWnOJBGqM0qc9BJE0-sBwniPbBwaKBc66yXHWa-fXymM31CZTSuAi62tNcHxMtD6IOTirtzQm7h8ccIMntYLgLZOxjNQvWG-S3Gp2I-gwy6xYUws1_xjrpHjW3Rssdx8am/s1600/sspm.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjfKkazPRjaEpYYxzOKInxST0OTMfr81vk0HEPMF4X48NfMbs9AQl6sZWoWnOJBGqM0qc9BJE0-sBwniPbBwaKBc66yXHWa-fXymM31CZTSuAi62tNcHxMtD6IOTirtzQm7h8ccIMntYLgLZOxjNQvWG-S3Gp2I-gwy6xYUws1_xjrpHjW3Rssdx8am/s1600/sspm.png"
+        },
         {
           "id": "https://thehackernews.com/2023/04/google-uncovers-apt41s-use-of-open.html",
           "author": "info@thehackernews.com (The Hacker News)",
