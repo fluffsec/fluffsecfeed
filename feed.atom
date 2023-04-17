@@ -2,10 +2,55 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-04-17T07:17:48.049Z</updated>
+    <updated>2023-04-17T13:22:46.751Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Google Uncovers APT41's Use of Open Source GC2 Tool to Target Media and Job Sites]]></title>
+        <id>https://thehackernews.com/2023/04/google-uncovers-apt41s-use-of-open.html</id>
+        <link href="https://thehackernews.com/2023/04/google-uncovers-apt41s-use-of-open.html"/>
+        <updated>2023-04-17T11:46:00.000Z</updated>
+        <summary type="html"><![CDATA[A Chinese nation-state group targeted an unnamed Taiwanese media organization to deliver an open source red teaming tool known as Google Command and Control (GC2) amid broader abuse of Google's infrastructure for malicious ends.
+The tech giant's Threat Analysis Group (TAG) attributed the campaign to a threat actor it tracks under the geological and geographical-themed moniker HOODOO, which is]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tour of the Underground: Master the Art of Dark Web Intelligence Gathering]]></title>
+        <id>https://thehackernews.com/2023/04/tour-of-underground-master-art-of-dark.html</id>
+        <link href="https://thehackernews.com/2023/04/tour-of-underground-master-art-of-dark.html"/>
+        <updated>2023-04-17T11:36:00.000Z</updated>
+        <summary type="html"><![CDATA[The Deep, Dark Web – The Underground – is a haven for cybercriminals, teeming with tools and resources to launch attacks for financial gain, political motives, and other causes.
+But did you know that the underground also offers a goldmine of threat intelligence and information that can be harnessed to bolster your cyber defense strategies? The challenge lies in continuously monitoring the right]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vice Society Ransomware Using Stealthy PowerShell Tool for Data Exfiltration]]></title>
+        <id>https://thehackernews.com/2023/04/vice-society-ransomware-using-stealthy.html</id>
+        <link href="https://thehackernews.com/2023/04/vice-society-ransomware-using-stealthy.html"/>
+        <updated>2023-04-17T08:01:00.000Z</updated>
+        <summary type="html"><![CDATA[Threat actors associated with the Vice Society ransomware gang have been observed using a bespoke PowerShell-based tool to fly under the radar and automate the process of exfiltrating data from compromised networks.
+"Threat actors (TAs) using built-in data exfiltration methods like [living off the land binaries and scripts] negate the need to bring in external tools that might be flagged by]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New Zaraza Bot Credential-Stealer Sold on Telegram Targeting 38 Web Browsers]]></title>
+        <id>https://thehackernews.com/2023/04/new-zaraza-bot-credential-stealer-sold.html</id>
+        <link href="https://thehackernews.com/2023/04/new-zaraza-bot-credential-stealer-sold.html"/>
+        <updated>2023-04-17T06:59:00.000Z</updated>
+        <summary type="html"><![CDATA[A novel credential-stealing malware called Zaraza bot is being offered for sale on Telegram while also using the popular messaging service as a command-and-control (C2).
+"Zaraza bot targets a large number of web browsers and is being actively distributed on a Russian Telegram hacker channel popular with threat actors," cybersecurity company Uptycs said in a report published last week.
+"Once the]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Google Releases Urgent Chrome Update to Fix Actively Exploited Zero-Day Vulnerability]]></title>
         <id>https://thehackernews.com/2023/04/google-releases-urgent-chrome-update-to.html</id>
