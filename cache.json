@@ -409,6 +409,51 @@
       "siteUrl": "https://www.darkreading.com",
       "articles": [
         {
+          "id": "https://www.darkreading.com/vulnerabilities-threats/recycled-core-routers-exposed-sensitive-corporate-network-info",
+          "author": "Kelly Jackson Higgins, Editor-in-Chief, Dark Reading",
+          "description": "Researchers warn about a dangerous wave of unwiped secondhand core-routers found containing corporate network configurations, credentials, and application and customer data.",
+          "link": "https://www.darkreading.com/vulnerabilities-threats/recycled-core-routers-exposed-sensitive-corporate-network-info",
+          "publishedOn": "2023-04-18T13:17:00.000Z",
+          "wordCount": 16723,
+          "title": "Recycled Core Routers Exposed Sensitive Corporate Network Info",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltb0e0f8e307c2012b/615dfe95486c9a5b53695aa0/KJH.PNG",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltb0e0f8e307c2012b/615dfe95486c9a5b53695aa0/KJH.PNG"
+        },
+        {
+          "id": "https://www.darkreading.com/partner-perspectives/as-consumer-privacy-evolves-here-s-how-you-can-stay-ahead-of-regulations",
+          "author": "Microsoft Security, Microsoft",
+          "description": "Businesses must leverage state and local guidance — along with technology — to maintain secure, compliant infrastructure.",
+          "link": "https://www.darkreading.com/partner-perspectives/as-consumer-privacy-evolves-here-s-how-you-can-stay-ahead-of-regulations",
+          "publishedOn": "2023-04-18T12:45:00.000Z",
+          "wordCount": 15160,
+          "title": "As Consumer Privacy Evolves, Here's How You Can Stay Ahead of Regulations",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt8fe4479bc32f84b4/6321f5362769d078008692a9/MS-Security_logo.png",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt8fe4479bc32f84b4/6321f5362769d078008692a9/MS-Security_logo.png"
+        },
+        {
+          "id": "https://www.darkreading.com/dr-tech/zerofox-acquires-lookingglass",
+          "author": "Fahmida Y. Rashid, Managing Editor, Features, Dark Reading",
+          "description": "The combined company will boost ZeroFox's attack surface management capabilities.",
+          "link": "https://www.darkreading.com/dr-tech/zerofox-acquires-lookingglass",
+          "publishedOn": "2023-04-18T12:38:00.000Z",
+          "wordCount": 13110,
+          "title": "ZeroFox Acquires LookingGlass",
+          "enclosure": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt93784ffee79538e7/60d4371522d24e38a3806ecf/fahmida.png",
+            "type": "image/*",
+            "length": "0"
+          },
+          "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt93784ffee79538e7/60d4371522d24e38a3806ecf/fahmida.png"
+        },
+        {
           "id": "https://www.darkreading.com/attacks-breaches/fin7-former-conti-gang-members-collaborate-domino-malware",
           "author": "Jai Vijayan, Contributing Writer, Dark Reading",
           "description": "Members of the former ransomware group are using a FIN7 backdoor to deliver malware —including Cobalt Strike — to victim systems.",
@@ -3264,6 +3309,16 @@
       "siteUrl": "https://blog.knowbe4.com",
       "articles": [
         {
+          "id": "https://blog.knowbe4.com/cyberheistnews-vol-13-16-finger-on-the-pulse-how-phishers-leverage-recent-ai-buzz",
+          "author": "Stu Sjouwerman",
+          "description": "CyberheistNews Vol 13 #16  |   April 18th, 2023  \r\n \n \r\n   \r\n \n \r\n  \n[Finger on the Pulse]: How Phishers Leverage Recent AI Buzz\n \r\n  \nCuriosity leads people to suspend their better judgment as a new campaign of credential theft exploits a person's excitement about the newest AI systems not yet available to the general public. On Tuesday morning, April 11th, Veriti explained that several unknown actors are making false Facebook ads which advertise a free download of AIs like ChatGPT and Google Bard.\n \r\n  \nVeriti writes \"These posts are designed to appear legitimate, using the buzz around OpenAI language models to trick unsuspecting users into downloading the files. However, once the user downloads and extracts the file, the Redline Stealer (aka RedStealer) malware is activated and is capab…",
+          "link": "https://blog.knowbe4.com/cyberheistnews-vol-13-16-finger-on-the-pulse-how-phishers-leverage-recent-ai-buzz",
+          "publishedOn": "2023-04-18T13:00:00.000Z",
+          "wordCount": 4430,
+          "title": "CyberheistNews Vol 13 #16 [Finger on the Pulse]: How Phishers Leverage Recent AI Buzz",
+          "imageUrl": "https://blog.knowbe4.com/hubfs/CHN-Social.jpg#keepProtocol"
+        },
+        {
           "id": "https://blog.knowbe4.com/indian-rail-ticketing-platform-warns-online-fraud",
           "author": "Stu Sjouwerman",
           "description": "The Indian Railway Catering and Tourism Corporation (IRCTC), described as “a popular platform used by a significant number of Indians for booking train tickets,” has cautioned users about a malicious Android application that’s being used to commit fraud against railway passengers.",
@@ -3890,6 +3945,70 @@
       "feedUrl": "https://thehackernews.com/feeds/posts/default",
       "siteUrl": "https://thehackernews.com",
       "articles": [
+        {
+          "id": "https://thehackernews.com/2023/04/goldoson-android-malware-infects-over.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "A new Android malware strain named Goldoson has been detected in the official Google Play Store spanning more than 60 legitimate apps that collectively have over 100 million downloads.\nAn additional eight million installations have been tracked through ONE store, a leading third-party app storefront in South Korea.\nThe rogue component is part of a third-party software library used by the apps in",
+          "link": "https://thehackernews.com/2023/04/goldoson-android-malware-infects-over.html",
+          "publishedOn": "2023-04-18T12:27:00.000Z",
+          "wordCount": null,
+          "title": "Goldoson Android Malware Infects Over 100 Million Google Play Store Downloads",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgUxaKqaj7Cp0xRY0yAUfyKsBs0QSv4s9FTs091CQSGegtktzDYz8heWwAIaitybbeKrYYqwPx3M6GhFNO58dTQpjIxty5nc1DbqBZUqD3TXr-9phuAx74PyzlsQaNpWbOIvZOoEYRlufuTgEiMrfatCzaihT1--vAcdhrfLqxsEJFkk1b3QO10oA50/s1600/malware-android.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgUxaKqaj7Cp0xRY0yAUfyKsBs0QSv4s9FTs091CQSGegtktzDYz8heWwAIaitybbeKrYYqwPx3M6GhFNO58dTQpjIxty5nc1DbqBZUqD3TXr-9phuAx74PyzlsQaNpWbOIvZOoEYRlufuTgEiMrfatCzaihT1--vAcdhrfLqxsEJFkk1b3QO10oA50/s1600/malware-android.png"
+        },
+        {
+          "id": "https://thehackernews.com/2023/04/dfir-via-xdr-how-to-expedite-your.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Rapid technological evolution requires security that is resilient, up to date and adaptable.\nIn this article, we will cover the transformation in the field of DFIR (digital forensics and incident response) in the last couple years, focusing on the digital forensics' aspect and how XDR fits into the picture.\nBefore we dive into the details, let's first break down the main components of DFIR and",
+          "link": "https://thehackernews.com/2023/04/dfir-via-xdr-how-to-expedite-your.html",
+          "publishedOn": "2023-04-18T11:31:00.000Z",
+          "wordCount": null,
+          "title": "DFIR via XDR: How to expedite your investigations with a DFIRent approach",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhI1O9SAEIRJ1ViPZHB_lbkOW40y_mlbI_Vm5tJ6raFm1ZM33a9Zj-yFlUBn9w23U1MHmpasWrkvIbuVCV3r9706JlgUn33d8Q1Ja7DKUhuyFWJ5eHC1BexIhuThmywW7KM462Hx0uRZcVFSOv3kKla41mSv7nA_eMURbdBY16uYufuH3GSJgwGSvT-/s1600/xdr.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhI1O9SAEIRJ1ViPZHB_lbkOW40y_mlbI_Vm5tJ6raFm1ZM33a9Zj-yFlUBn9w23U1MHmpasWrkvIbuVCV3r9706JlgUn33d8Q1Ja7DKUhuyFWJ5eHC1BexIhuThmywW7KM462Hx0uRZcVFSOv3kKla41mSv7nA_eMURbdBY16uYufuH3GSJgwGSvT-/s1600/xdr.png"
+        },
+        {
+          "id": "https://thehackernews.com/2023/04/iranian-hackers-using-simplehelp-remote.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "The Iranian threat actor known as MuddyWater is continuing its time-tested tradition of relying on legitimate remote administration tools to commandeer targeted systems.\nWhile the nation-state group has previously employed ScreenConnect, RemoteUtilities, and Syncro, a new analysis from Group-IB has revealed the adversary's use of the SimpleHelp remote support software in June 2022.\nMuddyWater,",
+          "link": "https://thehackernews.com/2023/04/iranian-hackers-using-simplehelp-remote.html",
+          "publishedOn": "2023-04-18T09:05:00.000Z",
+          "wordCount": null,
+          "title": "Iranian Hackers Using SimpleHelp Remote Support Software for Persistent Access",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjbU1uIeqZ5Gq9hnoAu6cEg4S-t7SQ-ZWd7w1RM7j5IYXdddtyeti9l1KRYaF0iPULRjhyCdJjedQxfEhrx860sr8zxxT0GOzy8uP23UrktwNN1uKd2ZyDe_thg7i-K17xv-if2TkGVWDv40xL5yD6GpGP-A1xoya82bzTmqwT8qTijBKA2wlji78um/s1600/hacking.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjbU1uIeqZ5Gq9hnoAu6cEg4S-t7SQ-ZWd7w1RM7j5IYXdddtyeti9l1KRYaF0iPULRjhyCdJjedQxfEhrx860sr8zxxT0GOzy8uP23UrktwNN1uKd2ZyDe_thg7i-K17xv-if2TkGVWDv40xL5yD6GpGP-A1xoya82bzTmqwT8qTijBKA2wlji78um/s1600/hacking.png"
+        },
+        {
+          "id": "https://thehackernews.com/2023/04/lockbit-ransomware-now-targeting-apple.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Threat actors behind the LockBit ransomware operation have developed new artifacts that can encrypt files on devices running Apple's macOS operating system.\nThe development, which was reported by the MalwareHunterTeam over the weekend, appears to be the first time a big-game ransomware crew has created a macOS-based payload.\nAdditional samples identified by vx-underground show that the macOS",
+          "link": "https://thehackernews.com/2023/04/lockbit-ransomware-now-targeting-apple.html",
+          "publishedOn": "2023-04-18T07:10:00.000Z",
+          "wordCount": null,
+          "title": "LockBit Ransomware Now Targeting Apple macOS Devices",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhlj1rTUvFkHCFaaGswgeBRCd6V1Qrc97PQVLl63LvFl-S7hEqMB5ZXkNTI8KuTmBtM9cGvlK9XTDnPVto_3xQdVIExEuSxy8KbQpKOBV51hddruFiXukIVOmbKyatY0XmWVMr3VOnrBSr811QKtrAZyFmhygUzfC7Lmy-AZaoHdqg8FEzx0vZDzhH9/s1600/lockbit-ransomware-macos.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhlj1rTUvFkHCFaaGswgeBRCd6V1Qrc97PQVLl63LvFl-S7hEqMB5ZXkNTI8KuTmBtM9cGvlK9XTDnPVto_3xQdVIExEuSxy8KbQpKOBV51hddruFiXukIVOmbKyatY0XmWVMr3VOnrBSr811QKtrAZyFmhygUzfC7Lmy-AZaoHdqg8FEzx0vZDzhH9/s1600/lockbit-ransomware-macos.png"
+        },
         {
           "id": "https://thehackernews.com/2023/04/israeli-spyware-vendor-quadream-to-shut.html",
           "author": "info@thehackernews.com (The Hacker News)",
