@@ -2,10 +2,33 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-04-19T02:08:38.444Z</updated>
+    <updated>2023-04-19T07:17:18.385Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Iranian Government-Backed Hackers Targeting U.S. Energy and Transit Systems]]></title>
+        <id>https://thehackernews.com/2023/04/iranian-government-backed-hackers.html</id>
+        <link href="https://thehackernews.com/2023/04/iranian-government-backed-hackers.html"/>
+        <updated>2023-04-19T06:42:00.000Z</updated>
+        <summary type="html"><![CDATA[An Iranian government-backed actor known as Mint Sandstorm has been linked to attacks aimed at critical infrastructure in the U.S. between late 2021 to mid-2022.
+"This Mint Sandstorm subgroup is technically and operationally mature, capable of developing bespoke tooling and quickly weaponizing N-day vulnerabilities, and has demonstrated agility in its operational focus, which appears to align]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Critical Flaws in vm2 JavaScript Library Can Lead to Remote Code Execution]]></title>
+        <id>https://thehackernews.com/2023/04/critical-flaws-in-vm2-javascript.html</id>
+        <link href="https://thehackernews.com/2023/04/critical-flaws-in-vm2-javascript.html"/>
+        <updated>2023-04-19T04:53:00.000Z</updated>
+        <summary type="html"><![CDATA[A fresh round of patches has been made available for the vm2 JavaScript library to address two critical flaws that could be exploited to break out of the sandbox protections.
+Both the flaws – CVE-2023-29199 and CVE-2023-30547 – are rated 9.8 out of 10 on the CVSS scoring system and have been addressed in versions 3.9.16 and 3.9.17, respectively.
+Successful exploitation of the bugs, which allow]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Cyberattacks Can Cost Enterprises Up to 30% of Operating Income According to ThreatConnect]]></title>
         <id>https://www.darkreading.com/attacks-breaches/cyber-attacks-can-cost-enterprises-up-to-30-percent-of-operating-income-according-to-new-research-from-threatconnect</id>
@@ -4859,65 +4882,6 @@ The]]></summary>
         <summary type="html"><![CDATA[Users of affected devices that want to mitigate risk from the security issues in the Exynos chipsets can turn off Wi-Fi and Voice-over-LTE settings, researchers from Google's Project Zero say.]]></summary>
         <author>
             <name>Jai Vijayan, Contributing Writer, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cops Nab BreachForums Boss in New York]]></title>
-        <id>https://www.darkreading.com/threat-intelligence/cops-nab-breachforums-boss-new-york</id>
-        <link href="https://www.darkreading.com/threat-intelligence/cops-nab-breachforums-boss-new-york"/>
-        <updated>2023-03-20T17:58:00.000Z</updated>
-        <summary type="html"><![CDATA[The alleged mastermind of hacker forum Breach Forums, "pompompurin," has been arrested in New York City, according to court documents.]]></summary>
-        <author>
-            <name>Dark Reading Staff, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cyberattackers Hoop NBA Fan Data via Third-Party Vendor]]></title>
-        <id>https://www.darkreading.com/risk/cyberattackers-hoop-nba-fan-data-third-party-vendor</id>
-        <link href="https://www.darkreading.com/risk/cyberattackers-hoop-nba-fan-data-third-party-vendor"/>
-        <updated>2023-03-20T16:19:00.000Z</updated>
-        <summary type="html"><![CDATA[The basketball playoffs are around the corner and convincing social-engineering attacks on fans using NBA-themed lures could be too.]]></summary>
-        <author>
-            <name>Dark Reading Staff, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SecurityBridge Introduces The SAP Management Dashboard]]></title>
-        <id>https://www.darkreading.com/application-security/securitybridge-introduces-the-sap-management-dashboard</id>
-        <link href="https://www.darkreading.com/application-security/securitybridge-introduces-the-sap-management-dashboard"/>
-        <updated>2023-03-20T15:22:00.000Z</updated>
-        <author>
-            <name>Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bill 96 in Québec Brings Up Important Point About Training in Native Language Everywhere]]></title>
-        <id>https://blog.knowbe4.com/bill-96-qu%C3%A9bec-important-point-training-native-language-everywhere</id>
-        <link href="https://blog.knowbe4.com/bill-96-qu%C3%A9bec-important-point-training-native-language-everywhere"/>
-        <updated>2023-03-20T14:58:57.000Z</updated>
-        <summary type="html"><![CDATA[A new law in Québec, Canada, that goes into effect this June  will require all policies and training materials assigned to employees within the province be provided in French.]]></summary>
-        <author>
-            <name>John Just</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Eye Popper] The AI Genie Has Escaped: Stanford copied ChatGPT for a few hundred bucks]]></title>
-        <id>https://blog.knowbe4.com/eye-popper-the-ai-genie-has-escaped-stanford-copied-chatgpt-for-a-few-hundred-bucks</id>
-        <link href="https://blog.knowbe4.com/eye-popper-the-ai-genie-has-escaped-stanford-copied-chatgpt-for-a-few-hundred-bucks"/>
-        <updated>2023-03-20T14:52:53.000Z</updated>
-        <summary type="html"><![CDATA[Yikes. Loz Blain at NewAtlas just reported that Stanford has copied the ChatGPT AI for less than $600. The article started out with: "Stanford's Alpaca AI performs similarly to the astonishing ChatGPT on many tasks – but it's built on an open-source language model and cost less than US$600 to train up. It seems these godlike AIs are already frighteningly cheap and easy to replicate."]]></summary>
-        <author>
-            <name>Stu Sjouwerman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Report Shows Business Email Compromise (BEC) Attacks Increase and Phishing Used as Initial Attack Vector in the Last Year]]></title>
-        <id>https://blog.knowbe4.com/business-email-compromise-phishing-attacks-increase</id>
-        <link href="https://blog.knowbe4.com/business-email-compromise-phishing-attacks-increase"/>
-        <updated>2023-03-20T14:08:42.000Z</updated>
-        <summary type="html"><![CDATA[Secureworks has published a report looking at cybercrime over the course of 2022, finding that business email compromise (BEC) attacks nearly doubled last year. Additionally, attacks in which phishing was used as the initial access vector (IAV) increased by nearly three times last year.]]></summary>
-        <author>
-            <name>Stu Sjouwerman</name>
         </author>
     </entry>
 </feed>
