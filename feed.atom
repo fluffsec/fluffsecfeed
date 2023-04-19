@@ -2,10 +2,64 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fluffsec.github.io/fluffsecfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-04-19T07:17:18.385Z</updated>
+    <updated>2023-04-19T13:22:30.132Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fluffsec.github.io/fluffsecfeed/index.html"/>
     <link rel="self" href="https://fluffsec.github.io/fluffsecfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[That Email Isn’t from the New Jersey Attorney General]]></title>
+        <id>https://blog.knowbe4.com/email-isnt-from-nj-attorney-general</id>
+        <link href="https://blog.knowbe4.com/email-isnt-from-nj-attorney-general"/>
+        <updated>2023-04-19T13:07:12.000Z</updated>
+        <summary type="html"><![CDATA[Earlier this month, state employees in the US state of New Jersey began receiving emails that falsely represented themselves as originating with the state’s attorney general.]]></summary>
+        <author>
+            <name>Stu Sjouwerman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[KnowBe4 Named a Leader in the Spring 2023 G2 Grid Report for Security Orchestration, Automation, and Response (SOAR)]]></title>
+        <id>https://blog.knowbe4.com/spring-2023-g2-grid-report-soar</id>
+        <link href="https://blog.knowbe4.com/spring-2023-g2-grid-report-soar"/>
+        <updated>2023-04-19T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[We are excited to announce that KnowBe4 has been named a leader in the Spring 2023 G2 Grid Report for Security Orchestration, Automation, and Response (SOAR) for the PhishER platform for the eigth consecutive quarter!]]></summary>
+        <author>
+            <name>Stu Sjouwerman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pakistani Hackers Use Linux Malware Poseidon to Target Indian Government Agencies]]></title>
+        <id>https://thehackernews.com/2023/04/pakistani-hackers-use-linux-malware.html</id>
+        <link href="https://thehackernews.com/2023/04/pakistani-hackers-use-linux-malware.html"/>
+        <updated>2023-04-19T11:28:00.000Z</updated>
+        <summary type="html"><![CDATA[The Pakistan-based advanced persistent threat (APT) actor known as Transparent Tribe used a two-factor authentication (2FA) tool used by Indian government agencies as a ruse to deliver a new Linux backdoor called Poseidon.
+"Poseidon is a second-stage payload malware associated with Transparent Tribe," Uptycs security researcher Tejaswini Sandapolla said in a technical report published this week.]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Uncovering (and Understanding) the Hidden Risks of SaaS Apps]]></title>
+        <id>https://thehackernews.com/2023/04/uncovering-and-understanding-hidden.html</id>
+        <link href="https://thehackernews.com/2023/04/uncovering-and-understanding-hidden.html"/>
+        <updated>2023-04-19T10:32:00.000Z</updated>
+        <summary type="html"><![CDATA[Recent data breaches across CircleCI, LastPass, and Okta underscore a common theme: The enterprise SaaS stacks connected to these industry-leading apps can be at serious risk for compromise.
+CircleCI, for example, plays an integral, SaaS-to-SaaS role for SaaS app development. Similarly, tens of thousands of organizations rely on Okta and LastPass security roles for SaaS identity and access]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[U.S. and U.K. Warn of Russian Hackers Exploiting Cisco Router Flaws for Espionage]]></title>
+        <id>https://thehackernews.com/2023/04/us-and-uk-warn-of-russian-hackers.html</id>
+        <link href="https://thehackernews.com/2023/04/us-and-uk-warn-of-russian-hackers.html"/>
+        <updated>2023-04-19T09:30:00.000Z</updated>
+        <summary type="html"><![CDATA[U.K. and U.S. cybersecurity and intelligence agencies have warned of Russian nation-state actors exploiting now-patched flaws in networking equipment from Cisco to conduct reconnaissance and deploy malware against targets.
+The intrusions, per the authorities, took place in 2021 and targeted a small number of entities in Europe, U.S. government institutions, and about 250 Ukrainian victims.
+The]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Iranian Government-Backed Hackers Targeting U.S. Energy and Transit Systems]]></title>
         <id>https://thehackernews.com/2023/04/iranian-government-backed-hackers.html</id>
@@ -176,6 +230,16 @@ Successful exploitation of the bugs, which allow]]></summary>
         <summary type="html"><![CDATA[National Westminster Bank, the London-based bank familiarly known as NatWest, has warned its customers to be on the alert for emails pretending to be from NatWest, but which in fact are from scammers trying to bubble the unwary out of their savings.]]></summary>
         <author>
             <name>Stu Sjouwerman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Zero Trust Can Protect Systems Against Generative AI Agents]]></title>
+        <id>https://www.darkreading.com/dr-tech/how-zero-trust-can-protect-systems-against-generative-ai-agents</id>
+        <link href="https://www.darkreading.com/dr-tech/how-zero-trust-can-protect-systems-against-generative-ai-agents"/>
+        <updated>2023-04-18T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Researchers explore a love-hate relationship with AI tools like ChatGPT, which can be used to both attack and defend more efficiently.]]></summary>
+        <author>
+            <name>Agam Shah, Contributing Writer</name>
         </author>
     </entry>
     <entry>
@@ -4832,56 +4896,6 @@ The]]></summary>
 "The attacker was able to upload his own java application remotely via the master service interface used by terminals to upload videos and run it using 'batm' user privileges," the company said in an advisory published over the]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[IAM Startup Aembit Secures How Workloads Connect to Services]]></title>
-        <id>https://www.darkreading.com/dr-tech/new-iam-startup-aembit-secures-how-workloads-connect-to-services</id>
-        <link href="https://www.darkreading.com/dr-tech/new-iam-startup-aembit-secures-how-workloads-connect-to-services"/>
-        <updated>2023-03-21T01:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Aembit launches from stealth with a cloud-based identity access management platform for enterprise workloads.]]></summary>
-        <author>
-            <name>Fahmida Y. Rashid, Managing Editor, Features, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ChatGPT Gut Check: Cybersecurity Threats Overhyped or Not?]]></title>
-        <id>https://www.darkreading.com/attacks-breaches/chatgpt-gut-check-openai-cybersecurity-threat-overhyped</id>
-        <link href="https://www.darkreading.com/attacks-breaches/chatgpt-gut-check-openai-cybersecurity-threat-overhyped"/>
-        <updated>2023-03-20T23:00:00.000Z</updated>
-        <summary type="html"><![CDATA[UK cybersecurity authorities and researchers tamp down fears that ChatGPT will overwhelm current defenses, while the CEO of OpenAI worries about its use in cyberattacks.]]></summary>
-        <author>
-            <name>Becky Bracken, Editor, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mirai Hackers Use Golang to Create a Bigger, Badder DDoS Botnet]]></title>
-        <id>https://www.darkreading.com/vulnerabilities-threats/mirai-hackers-golang-bigger-badder-ddos-botnet</id>
-        <link href="https://www.darkreading.com/vulnerabilities-threats/mirai-hackers-golang-bigger-badder-ddos-botnet"/>
-        <updated>2023-03-20T20:23:00.000Z</updated>
-        <summary type="html"><![CDATA[With HinataBot, malware authors have created a beast many times more efficient than even the scariest botnets of old, packing more than 3Tbit/s DDoS speeds.]]></summary>
-        <author>
-            <name>Nate Nelson, Contributing Writer, Dark Reading</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI Has Your Business Data]]></title>
-        <id>https://www.darkreading.com/edge-articles/ai-has-your-business-data</id>
-        <link href="https://www.darkreading.com/edge-articles/ai-has-your-business-data"/>
-        <updated>2023-03-20T20:14:00.000Z</updated>
-        <summary type="html"><![CDATA[No-code has lowered the barrier for non-developers to create applications. AI will completely eliminate it.]]></summary>
-        <author>
-            <name>Michael Bargury, CTO &amp; Co-Founder, Zenity</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Unpatched Samsung Chipset Vulnerabilities Open Android Users to RCE Attacks]]></title>
-        <id>https://www.darkreading.com/attacks-breaches/samsung-chipset-vulnerabilities-android-users-rce-attacks</id>
-        <link href="https://www.darkreading.com/attacks-breaches/samsung-chipset-vulnerabilities-android-users-rce-attacks"/>
-        <updated>2023-03-20T20:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Users of affected devices that want to mitigate risk from the security issues in the Exynos chipsets can turn off Wi-Fi and Voice-over-LTE settings, researchers from Google's Project Zero say.]]></summary>
-        <author>
-            <name>Jai Vijayan, Contributing Writer, Dark Reading</name>
         </author>
     </entry>
 </feed>
